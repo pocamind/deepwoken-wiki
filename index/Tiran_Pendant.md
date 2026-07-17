@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipme
 
 ## Description
 
-The Tiran Pendant is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
+The Tiran Pendant is a [Relic](Relic.md) [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Featherfall](Talents.md#featherfall) Talent grants near-complete immunity to fall damage. After preventing a total of 225 fall damage (tracked across all servers), the Talent enters a 2-minute cooldown.
 

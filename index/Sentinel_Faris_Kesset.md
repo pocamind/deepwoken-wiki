@@ -39,35 +39,11 @@ Sentinel Faris Kesset is located on a balcony at the large castle in [Fort Merit
 
 **Neutral/Good Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The tall and muscular Tiran woman pays you little heed.*</i> Hey! This place is off-limits to outsiders. If you wanna linger around here, you better have permission from Warden Jericho! Though, I guess if you slipped past the High Inquisitor at the door there... I guess you already do.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The tall and muscular Tiran woman pays you little heed.*</i> Hey! This place is off-limits to outsiders. If you wanna linger around here, you better have permission from Warden Jericho! Though, I guess if you slipped past the High Inquisitor at the door there... I guess you already do.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Bad Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hey, no running in the halls!</td>
-</tr>
-<tr>
-  <td>[End Dialogue], you are beaten up</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hey, no running in the halls!</td></tr><tr><td>[End Dialogue], you are beaten up</td></tr></tbody></table>
 
 ## References
 

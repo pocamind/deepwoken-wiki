@@ -45,7 +45,7 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longs
 
 Equipping the Vigil Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sweeping Edge** increases the size of your [Master's Flourish](Attunement-less.md#masters-flourish) and allows it to proc "on-flourish" effects, such as Talents and Mantras.
+**Sweeping Edge** increases the size of your [Master's Flourish](<Master's_Flourish.md>) and allows it to proc "on-flourish" effects, such as Talents and Mantras.
 
 [Dazing Finisher](Talents.md#dazing-finisher) and [Unnecessary Theatrics](Talents.md#unnecessary-theatrics) do not work with this.
 
@@ -55,7 +55,7 @@ The user performs an upward slash dealing moderate to high posture damage.
 
 This critical has a **5 second** cooldown.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

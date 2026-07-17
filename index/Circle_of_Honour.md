@@ -31,17 +31,17 @@ Those who are members of the Circle must have taken the [Vow of Iron](Vow_of_Iro
 
 The Circle was allied with the [Etrean Royalists](Etrean_Royalists.md) during the [Etrean Civil War](Etrean_Civil_War.md), due to both sharing the cause of wanting to take down Zi'eer. However, the Circle has no concrete political affiliation. Their members come from a variety of factions, many of which are at odds with one another.
 
-All of the deceased Mementos were said to be capable of defeating [Zi'eer](The_Lord_Regent.md), but failed to do so and ultimately fell to his hand.
+All of the deceased Mementos were said to be capable of defeating [Zi'eer](<Zi'eer.md>), but failed to do so and ultimately fell to his hand.
 
 ## Notable Members
 
-[Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md) - The second known surviving member of the Circle of Honour besides [Warden Jericho](Warden_Jericho.md). He serves as the tutorial, progression and conclusion NPC in the [Vow of Iron](Vow_of_Iron.md). He puts [the Inheritor](The_Inheritor.md) in [the Recollection](The_Recollection.md) and helps them go through the [Mementos](Mementos.md) with the ultimate goal of defeating [Zi'eer](The_Lord_Regent.md).
+[Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md) - The second known surviving member of the Circle of Honour besides [Warden Jericho](Warden_Jericho.md). He serves as the tutorial, progression and conclusion [NPC](NPC.md) in the [Vow of Iron](Vow_of_Iron.md). He puts [the Inheritor](The_Inheritor.md) in [the Recollection](The_Recollection.md) and helps them go through the [Mementos](Mementos.md) with the ultimate goal of defeating [Zi'eer](<Zi'eer.md>).
 
 [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) - The Maestro of [the Vigils](The_Vigils.md) during the [Etrean Civil War](Etrean_Civil_War.md) and a wielder of the [Warmaster Oath](Oaths.md). He was a predecessor of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), who seems to have the same views as Alkhurst, although, it is unknown whether Evengarde is allied with the Circle as well.
 
 [High Monk Junsui](High_Monk_Junsui.md) - The High Monk of the [Temple of Mur](Temple_of_Mur.md). Reveals information on the [Etrean Royalists](Etrean_Royalists.md), their leaders and the [Etrean Civil War](Etrean_Civil_War.md). He seems to know a lot about [the Lord Regent](The_Lord_Regent.md)'s power.
 
-[Warden Jericho](Warden_Jericho.md) - The current Warden of the [Eastern Luminant](Luminants.md) and the first known surviving member of the Circle of Honour. He wields the [Warmaster Oath](Oaths.md), holds a high-ranking position in [the Central Authority](The_Central_Authority.md), and is torn between being a member of the Circle and an officer of [the Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-1)
+[Warden Jericho](Warden_Jericho.md) - The current Warden of the [Eastern Luminant](Eastern_Luminant.md) and the first known surviving member of the Circle of Honour. He wields the [Warmaster Oath](Oaths.md), holds a high-ranking position in [the Central Authority](The_Central_Authority.md), and is torn between being a member of the Circle and an officer of [the Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-1)
 
 [Naan Zakshun](Naan_Zakshun.md) - The grandmother of [Traan Zakshun](Traan_Zakshun.md). Haggling junk runs throught the family, as she uses her ties to the Circle of Honor to sell items to the Inheritor. How relevant she actually is to the Circle is unknown.
 

@@ -25,9 +25,9 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-**Amorus Pleeksty** is a legendary former [Diver](The_Divers.md),[\[2\]](#cite-note-worshipperarmor-2) known for inventing [Flamecharm](Flamecharm.md)[\[3\]](#cite-note-gflame-3) and being a Deepwoken[\[4\]](#cite-note-4), and thus immortal.
+**Amorus Pleeksty** is a legendary former [Diver](Divers.md),[\[2\]](#cite-note-worshipperarmor-2) known for inventing [Flamecharm](Flamecharm.md)[\[3\]](#cite-note-gflame-3) and being a Deepwoken[\[4\]](#cite-note-4), and thus immortal.
 
-Amorus ate a part of the Drowned God of the Third Layer, [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), in the form of a meteor flower he encountered in the gardens of the layer.[\[3\]](#cite-note-gflame-3) This is what gave him his pyrokinetic powers, allowing him to talk to, command, and "charm" fire itself. This resulted in him inventing the modern art of [Flamecharm](Flamecharm.md), turning what was originally a crude magic largely conjured by accident into an actual technique.
+Amorus ate a part of the Drowned God of the Third Layer, [Korilfiend](Korilfiend.md), in the form of a meteor flower he encountered in the gardens of the layer.[\[3\]](#cite-note-gflame-3) This is what gave him his pyrokinetic powers, allowing him to talk to, command, and "charm" fire itself. This resulted in him inventing the modern art of [Flamecharm](Flamecharm.md), turning what was originally a crude magic largely conjured by accident into an actual technique.
 
 He is one of two known people to go to the Third Layer. He is worshipped by [The Covenant of Flame](The_Covenant_of_Flame.md) and the Flame Worshippers, although he sees them as more of a fan club. He is also revered by Tirans as a whole, with many carving floral patterns into their weapons to honor him.[\[5\]](#cite-note-5)
 

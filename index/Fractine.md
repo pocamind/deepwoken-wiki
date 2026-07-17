@@ -40,7 +40,7 @@ Variants: [Ferractine](Ferractine.md)
 
 ## Description
 
-The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Intelligence](Attributes.md#int) in addition to Heavy. It can be found exclusively from the [Moon's Eyrie](<Moon's_Eyrie.md>), [Voidsea](Voidsea.md), and events found inside.
+The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Intelligence](Intelligence.md) in addition to Heavy. It can be found exclusively from the [Moon's Eyrie](<Moon's_Eyrie.md>), [Voidsea](Voidsea.md), and events found inside.
 
 It was originally the [Ferractine](Ferractine.md), a weapon wielded by the [Iron Vessel](Iron_Vessel.md) before their defeat at the hands of the [The Lord Regent](The_Lord_Regent.md).
 

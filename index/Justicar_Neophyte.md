@@ -25,7 +25,7 @@ categories: [Pathfinder Exclusive, Outfits, Starter Outfits, Justicars]
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Justicar Neophyte** is a Starter [Outfit](Outfits.md) in _Deepwoken_ that is exclusive to the [Justicar](<Justicar_(Origin).md>) Origin.
+**Justicar Neophyte** is a Starter [Outfit](Outfit.md) in _Deepwoken_ that is exclusive to the [Justicar](Justicar.md) Origin.
 
 ## Statistics
 
@@ -37,9 +37,9 @@ This Outfit has no [Attribute](Attributes.md) requirement, but explicitly has a 
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, and +15% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, and +15% Elemental resistance [ResistanceElemental](Attunement.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19.25% Blunt ResistanceBlunt, Slash ResistanceSlash, and 15% Elemental [ResistanceElemental](Attunements.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19.25% Blunt ResistanceBlunt, Slash ResistanceSlash, and 15% Elemental [ResistanceElemental](Attunement.md).
 
 ## Triva
 

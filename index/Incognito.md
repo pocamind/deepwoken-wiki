@@ -22,7 +22,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Incognito is a [Vesperian](Vesperian.md) NPC. He appears around a lot of [Mineskippers](Mudskipper.md#mineskipper), which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Attunement-less.md#disguise), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied. The requirement for this mantra changes depending on aspect, though this needs further experimenting to find out the exact requirements for each aspect.
+Incognito is a [Vesperian](Vesperian.md) [NPC](NPC.md). He appears around a lot of [Mineskippers](Mineskipper.md), which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Disguise.md), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied. The requirement for this mantra changes depending on aspect, though this needs further experimenting to find out the exact requirements for each aspect.
 
 ## Location
 
@@ -32,53 +32,11 @@ Incognito is located inside of the mines at [Songseeker Wilds](Songseeker_Wilds.
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">HAHAHAHA, oh my GOODNESS! You're so <i>gullible</i>! <i>*He struggles to contain his overwhelming laughter, clearly amused by his prank*</i> Wasn't that good?</td>
-</tr>
-<tr>
-  <td colspan="12">..Very funny.</td>
-</tr>
-<tr>
-  <td colspan="12">I can't believe you fell for that... Pfft, the look on your face! Now THAT was something. Okay, okay, I've had my fun...</td>
-</tr>
-<tr>
-  <td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td>
-</tr>
-<tr>
-  <td colspan="6">Sufficient Charisma</td>
-  <td colspan="6">Requirements Unmet</td>
-</tr>
-<tr>
-  <td colspan="6">Hehe! Yeah, yeah! Play around with this mantra, you'll find how <i>marvelous</i> it works with trickery!</td>
-  <td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue], quest starts</td>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">HAHAHAHA, oh my GOODNESS! You're so <i>gullible</i>! <i>*He struggles to contain his overwhelming laughter, clearly amused by his prank*</i> Wasn't that good?</td></tr><tr><td colspan="12">..Very funny.</td></tr><tr><td colspan="12">I can't believe you fell for that... Pfft, the look on your face! Now THAT was something. Okay, okay, I've had my fun...</td></tr><tr><td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td></tr><tr><td colspan="6">Sufficient Charisma</td><td colspan="6">Requirements Unmet</td></tr><tr><td colspan="6">Hehe! Yeah, yeah! Play around with this mantra, you'll find how <i>marvelous</i> it works with trickery!</td><td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td></tr><tr><td colspan="6">[End Dialogue], quest starts</td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Pfffffff........ idiot.</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Pfffffff........ idiot.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 ## Mantra Modifications
 

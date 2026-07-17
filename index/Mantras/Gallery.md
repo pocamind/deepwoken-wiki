@@ -81,8 +81,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   The synchronous strike occurs 2.2 seconds after the mantra is cast.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with [Cloudstones](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to add more warriors, capping at +9 Range.
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to have the warriors attack outwards and ragdoll.
+-   Can be modified with [Cloudstones](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) to add more warriors, capping at +9 Range.
+-   Can be modified with a [Reversal Spark](../Reversal_Spark.md) to have the warriors attack outwards and ragdoll.
 
  |
 | 
@@ -123,9 +123,9 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Breaks destructible objects on hit.
--   Can be modified with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers), causing the attack to destroy more environment.
--   While having [Starkindred](../Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
-    -   A [Reversal Spark](../Mantra_Modifiers.md#sparks) can be used to negate this variation, allowing you to use normal fire blade with wings.
+-   Can be modified with [Vibrant Gems](../Vibrant_Gem.md), causing the attack to destroy more environment.
+-   While having [Starkindred](../Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
+    -   A [Reversal Spark](../Reversal_Spark.md) can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
 | 
@@ -164,12 +164,12 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Deals 1 posture damage per hit.
 -   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
 -   Inflicts Burn.
--   Breaks tiles, including the [Hidden Village](../The_Hidden_Village.md) Door & [Pathfinder's Respite](<../Pathfinder's_Respite.md>) Barricade.
+-   Breaks tiles, including the [Hidden Village](../Hidden_Village.md) Door & [Pathfinder's Respite](<../Pathfinder's_Respite.md>) Barricade.
 -   Lights campfires.
 -   Propels the user backward if cast while jumping/walking backward or in water.
--   Can be modified with [Drift](../Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](../Mantra_Modifiers.md#regular-modifiers) to make the bullets fly faster + farther.
--   Can be modified with a [Round Spark](../Mantra_Modifiers.md#sparks), causing the bullets to split into two, reducing the base damage by 45%.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), causing bullets to explode opponents after 6 hits, but reducing the base damage by 25%. Explosion auto grips if the opponent is low.
+-   Can be modified with [Drift](../Drift_Shard.md)/[Rush Shards](../Rush_Shard.md) to make the bullets fly faster + farther.
+-   Can be modified with a [Round Spark](../Round_Spark.md), causing the bullets to split into two, reducing the base damage by 45%.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md), causing bullets to explode opponents after 6 hits, but reducing the base damage by 25%. Explosion auto grips if the opponent is low.
 -   Can be canceled early through right clicking.
 
  |
@@ -210,9 +210,9 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a large hitbox both horizontally and backwards.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   Shares a cooldown with all of [grab Mantras](../List_of_Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](../Grab_Mantras.md).
 -   Travels for 0.6 seconds.
--   [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](../Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
+-   [Crystal](../Crystal_Lens.md)/[Perfect Lens](../Perfect_Lens.md) increase the duration (distance travelled).
 
  |
 | 
@@ -254,7 +254,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
     -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
 -   Inflicts Burn.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the size.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase the size.
 -   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 -   Can be modified with a Blast Spark, seems to have no effect?
 
@@ -296,7 +296,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   The second explosion ragdolls enemies.
 -   Inflicts Burn.
--   Can be modified with [Glass Stones](../Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the radius of the explosions (+9 AoE max).
+-   Can be modified with [Glass Stones](../Glass_Stone.md) and [Magnifying Stones](../Magnifying_Stone.md) to increase the radius of the explosions (+9 AoE max).
     -   Size modification will drastically lower the damage of the Mantra however.
 -   Each mantra level increases the AoE of this Mantra.
     -   The actual hitbox of the explosion and visual size often do not match when modified.
@@ -341,8 +341,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Does **not** inflict Burn.
 -   Breaks destructible terrain on hit.
 -   Can be upgraded with the "**Hell's Partisan**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](../Mantra_Modifiers.md#regular-modifiers) to make the daggers move faster.
--   Can be modified with a [Tornado Spark](../Mantra_Modifiers.md#sparks) to make an unparryable tornado around the user. The tornado fires out 5 daggers in a straight line that each hit twice.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lens](../Perfect_Lens.md) to make the daggers move faster.
+-   Can be modified with a [Tornado Spark](../Tornado_Spark.md) to make an unparryable tornado around the user. The tornado fires out 5 daggers in a straight line that each hit twice.
 
  |
 | 
@@ -381,7 +381,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a windup of 0.45 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
 -   Pressing F during the mantra's windup will release a wider but shorter flame that applies knockdown.
 
@@ -423,8 +423,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack after a 1 second windup.
 -   Parrying or getting hit during the attack windup will cancel the explosion.
 -   Upgrading the Mantra will increase the placement range.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
--   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away. Additionally, its secondary casting time changes to 0.85 seconds.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase the placement range.
+-   Can be modified with a [Spring Spark](../Spring_Spark.md), causing it to ragdoll and launch the opponent away. Additionally, its secondary casting time changes to 0.85 seconds.
 
  |
 | 
@@ -468,7 +468,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the Sentinel is.
 -   Can be use to break all of Chaser active Blood Jars if placed in the middle.
 -   Can break two cycles worth of Blood Jars if done as soon as Chaser Blood Jars are connected to him after you talk to him.
--   Can be modified with a [Magnet Spark](../Mantra_Modifiers.md#sparks), causing the sentinel to remain at the cast position. Because the Sentinel normally rises _after_ its casted, this spark will leave the Sentinel at ground level if cast while grounded.
+-   Can be modified with a [Magnet Spark](../Magnet_Spark.md), causing the sentinel to remain at the cast position. Because the Sentinel normally rises _after_ its casted, this spark will leave the Sentinel at ground level if cast while grounded.
 
  |
 | 
@@ -594,7 +594,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Inflicts Burn.
 -   Does not send the user into the air if missed.
 -   Can be upgraded with the "**Meteor Impact**" and "**Phoenix Impact**" Talents, allowing you to follow up with a meteor strike.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to make the hitbox larger.
 
  |
 | 
@@ -635,7 +635,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md) + Blunt ResistanceBlunt
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to make the hitbox bigger.
 
  |
 | 
@@ -679,9 +679,9 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Inflicts Burn.
 -   Ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
--   Can be modified with [Glass](../Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) to make the explosion larger.
--   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks) to push the user back when casted.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase speed and range.
+-   Can be modified with [Glass](../Glass_Stone.md)/[Magnifying Stones](../Magnifying_Stone.md) to make the explosion larger.
+-   Can be modified with a [Spring Spark](../Spring_Spark.md) to push the user back when casted.
 -   " ■, Fuga "
 
  |
@@ -724,7 +724,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Mantra continues if the second hit isn't parried.
     -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks), acting as a pull/grab, but dealing less damage.
+-   Can be modified with a [Reversal Spark](../Reversal_Spark.md), acting as a pull/grab, but dealing less damage.
 
  |
 
@@ -797,8 +797,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn and Ragdolls.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to cause the Mantra to fly farther (at the same pace).
--   Can be modified with [Glass](../Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the hitbox size.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to cause the Mantra to fly farther (at the same pace).
+-   Can be modified with [Glass](../Glass_Stone.md)/[Magnifying Stones](../Magnifying_Stone.md) to increase the hitbox size.
     -   This reduces the damage dealt however.
 
  |
@@ -840,11 +840,11 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Flame Leap can proc **Meteor Impact**, even without hitting an opponent.
 -   Animation persists on feint.
--   Shares similar traits to the [Strong Leap](../Attunement-less.md#strong-leap) Mantra.
--   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](../Attunement-less.md#strong-leap) Mantra.
+-   Shares similar traits to the [Strong Leap](../Strong_Leap.md) Mantra.
+-   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](../Strong_Leap.md) Mantra.
 -   The Mantra will not deal damage if used in water.
--   Shares a cooldown with [Neural Pathway](../Attunement-less.md#neural-pathway) and [Strong Leap](../Attunement-less.md#strong-leap).
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks), delivering an explosive front flip instead of a vertical leap.
+-   Shares a cooldown with [Neural Pathway](../Neural_Pathway.md) and [Strong Leap](../Strong_Leap.md).
+-   Can be modified with a [Reversal Spark](../Reversal_Spark.md), delivering an explosive front flip instead of a vertical leap.
     -   This variant negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
     -   This variant gets replaced with it's base variant when used in water.
 
@@ -961,7 +961,7 @@ N/A
 -   When Flame of Denial procs, any burn on your character will be extinguished.
 -   Can be upgraded with the **Denial Repulse** Talent, causing a 20 Flamecharm damage AOE explosion with a 0.6s windup upon proccing Flame of Denial. This explosion cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
 -   Denial Repulse's explosion has 5 Flamecharm scaling, dealing 30 Flamecharm damage at 100 Flamecharm.
--   While you can modify [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
+-   While you can modify [Vibrant Gems](../Vibrant_Gem.md) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
 
  |
 | 
@@ -1001,9 +1001,9 @@ N/A
 -   Can be upgraded with the **Undying Flame** Talent, allowing it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in Depths. However you cannot use this in the Depths Trials.
     -   Cannot be used in Layer 2 of the Depths at all.
     -   **Azure Flames** increases **Undying Flame'**s passive healing by 20%.
--   Can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase duration.
--   Can be modified with [Cloudstone](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase size.
--   Can be modified with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) causing the flame to passively heal nearby players. Stacks with its normal healing.
+-   Can be modified with [Aeon](../Aeon_Logstone.md)/[Eternal Logstones](../Eternal_Logstone.md) to increase duration.
+-   Can be modified with [Cloudstone](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase size.
+-   Can be modified with [Vibrant Gems](../Vibrant_Gem.md) causing the flame to passively heal nearby players. Stacks with its normal healing.
 -   Each modifier adds signs to the ritual cast.
 
  |
@@ -1042,7 +1042,7 @@ N/A
 -   Ignites nearby campfire pits if not currently healing you.
 -   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
 -   With **Eruption Path: Lava Serpent**, you will heal 5 hp from every eruption that hits.
--   Converts about 25-30 burning damage total. [Logstones](../Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
+-   Converts about 25-30 burning damage total. [Logstones](../Aeon_Logstone.md) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |
@@ -1117,23 +1117,23 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Deals 5 posture damage per hit. (Total of 10 posture, 20 with Blast Spark)
 -   Has a cooldown of 18 seconds, and a windup of 0.7 seconds. (Windup can be modified)
 -   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified. (Alternatively applies crystal when used with Crystallization Path.)
--   Leaves an ice patch on the ground where the Mantra is casted, size changing with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers), mantra level, weather, and ground material.
+-   Leaves an ice patch on the ground where the Mantra is casted, size changing with [Vibrant Gems](../Vibrant_Gem.md), mantra level, weather, and ground material.
 -   Acts as the Frostdraw alternative to Flamecharm's Burning Servants and has many similarities, including:
     -   Lacking endlag on cast, allowing the user to immediately follow up and even attack during the windup.
     -   Not preventing sprinting/movement speed on cast.
     -   Lacking any form of hitstun when landed, only damaging the opponent, that said, it is still able to prevent rolling when utilizing Frozen Legs due to inflicting Chill.
     -   Not cancelling Equalizer or Whiffed Vent stun durations.
 -   Can be modified with the following [Mantra Modifiers](../Mantra_Modifiers.md):
-    -   [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) to greatly increase the size of the ice patches.
-    -   [Drift](../Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](../Mantra_Modifiers.md#regular-modifiers) to decrease the "summoning" time of your servants, servants each have 0.03 seconds windup to individually "summon" around the user, at +≥3 speed your servants will skip this windup and summon simultaneously.
-    -   [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase servant count, adding +1 servants at +1-2 size, capping at +2 servants when above +≥3 size. Adding servants also increases the size and range of the circle.
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to reverse the servants direction when attacking:
+    -   [Vibrant Gems](../Vibrant_Gem.md) to greatly increase the size of the ice patches.
+    -   [Drift](../Drift_Shard.md)/[Rush Shards](../Rush_Shard.md) to decrease the "summoning" time of your servants, servants each have 0.03 seconds windup to individually "summon" around the user, at +≥3 speed your servants will skip this windup and summon simultaneously.
+    -   [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase servant count, adding +1 servants at +1-2 size, capping at +2 servants when above +≥3 size. Adding servants also increases the size and range of the circle.
+-   Can be modified with a [Reversal Spark](../Reversal_Spark.md) to reverse the servants direction when attacking:
     -   Each servant attacks now attacks outwards, each blast having much smaller rectangular hitbox, completely removes the regular large spherical hitbox in the center.
     -   Posture, Damage, and Ice placement are completely unaffected.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), creating a slower giant ice servant that attacks 4 times:
+-   Can be modified with a [Blast Spark](../Blast_Spark.md), creating a slower giant ice servant that attacks 4 times:
     -   Increases the windup from 0.4s to 1.2s
     -   For 1.3s after casting, the user has their rotation locked, speed decreased, and sprint prevented. However the endlag remains 0.0s, and slides are uncancelled.
-    -   Unaffected by [speed/size modifers](../Mantra_Modifiers.md), and Insignia Gem, however [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) are unchanged.
+    -   Unaffected by [speed/size modifers](../Mantra_Modifiers.md), and Insignia Gem, however [Vibrant Gems](../Vibrant_Gem.md) are unchanged.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 
  |
@@ -1172,12 +1172,12 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
--   You can increase the size of this Mantra with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
--   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
+-   You can increase the size of this Mantra with [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md), but size modifiers increases its cooldown.
+-   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](../Aeon_Logstone.md) and [Eternal Logstones](../Eternal_Logstone.md).
 -   Hits multiple times in a row.
 -   Knocks back targets.
 -   Can be upgraded with the _Preceding Chill_ Talent, freezing opponents or detonating their crystals if they get hit by the final ticks of your Ice Beam.
--   Shares a cooldown with [Lightning Beam](../Thundercall.md#lightning-beam).
+-   Shares a cooldown with [Lightning Beam](../Lightning_Beam.md).
 
  |
 | 
@@ -1216,7 +1216,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Has a cooldown of 15 seconds.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Does not inflict Chill.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the Ice Spikes bigger, and increases the number of traps placed with the _Spike Traps_ Talent.
+-   Can be modified with [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) to make the Ice Spikes bigger, and increases the number of traps placed with the _Spike Traps_ Talent.
 -   Can be upgraded with the _Spike Traps_ Talent, pressing F during the wind-up creates 2 translucent ice traps, placed in random spots within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
     -   Each spike deals 50% of the damage of the base version.
     -   Using this version again will place new traps and detonate the existing traps at the same time.
@@ -1261,7 +1261,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Every projectile applies 1 seconds of Chill. This Chill duration cannot be modified.
 -   Incredibly good with the **Glass Path: Crystallization** Talent due to the sheer amount of hits.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the blades bigger but do less hits.
+-   Can be modified with [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) to make the blades bigger but do less hits.
 
  |
 | 
@@ -1346,9 +1346,9 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Deals 3 posture damage.
 -   Has a cooldown of 9.5 seconds.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
--   Inflicts 9 seconds of Chill. This can be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
--   Can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase the firing delay and Chill duration.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
+-   Inflicts 9 seconds of Chill. This can be increased with [Aeon](../Aeon_Logstone.md) and [Eternal Logstones](../Eternal_Logstone.md).
+-   Can be modified with [Aeon](../Aeon_Logstone.md) and [Eternal Logstones](../Eternal_Logstone.md) to increase the firing delay and Chill duration.
+-   Can be modified with [Crystal](../Crystal_Lens.md) and [Perfect Lenses](../Perfect_Lens.md) to increase the range of casting the Mantra.
 -   Procs Bottom Freeze innately.
 
  |
@@ -1392,8 +1392,8 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
 -   If used in water, the daggers won't spawn.
 -   Can grant an additional effect with the _Frozen Pin-Cushion_ Talent, which freezes the target or detonates their crystals upon hit.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
--   Shares a cooldown with [Fleeting Sparks](../Thundercall.md#fleeting-sparks).
+-   Can be modified with [Crystal](../Crystal_Lens.md) and [Perfect Lenses](../Perfect_Lens.md) to increase the range of casting the Mantra.
+-   Shares a cooldown with [Fleeting Sparks](../Fleeting_Sparks.md).
 
  |
 | 
@@ -1434,8 +1434,8 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
 -   Freezes opponent, allowing for a free hit or combo.
     -   You can Vent while frozen to escape early, but you cannot block dodge or parry while frozen.
--   Shares a cooldown with [Permafrost Prison](../Hybrid_Abilities.md#permafrost-prison).
--   Can be modified with a [Round Spark](../Mantra_Modifiers.md#sparks) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
+-   Shares a cooldown with [Permafrost Prison](../Permafrost_Prison.md).
+-   Can be modified with a [Round Spark](../Round_Spark.md) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
     -   The walls can deal damage if they spawn very close to your opponent.
 
  |
@@ -1471,15 +1471,15 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 **Effect:** _Form a barrage of ice shurikens before propelling them at the cursor's location._
 
 -   Has a base damage of 3/3.4/3.8/4.2/4.6 per level, per hit with 2.75 Frostdraw scaling.
--   The [Blast Spark](../Mantra_Modifiers.md#sparks) variant has a base damage of 1.5/1.9/2.3/2.7/3.1 per level, per hit with 2.75 Frostdraw scaling. Additionally, you throw out an exploding shuriken that has 3 base damage regardless of level.
+-   The [Blast Spark](../Blast_Spark.md) variant has a base damage of 1.5/1.9/2.3/2.7/3.1 per level, per hit with 2.75 Frostdraw scaling. Additionally, you throw out an exploding shuriken that has 3 base damage regardless of level.
 -   Mantra levels also increase the projectile count. Ice Forge fires 6/7/8/9/10 shuriken per level (+1 if Blast Spark).
 -   Deals 1.4 posture damage per projectile.
 -   The Blast Spark variant deals 3 posture damage per shuriken explosion, massively increasing the overall posture damage.
 -   Has 9.187x PvE scaling (multiply scaled damage dealt by 9.187 for PvE damage).
--   Inflicts Chill for 9 seconds. The Chill duration CANNOT be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
--   Can be modified with [Drift](../Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](../Mantra_Modifiers.md#regular-modifiers) to massively increase the projectile speed. At max modifiers, the projectiles become entirely unreactible.
+-   Inflicts Chill for 9 seconds. The Chill duration CANNOT be increased with [Aeon](../Aeon_Logstone.md) and [Eternal Logstones](../Eternal_Logstone.md).
+-   Can be modified with [Drift](../Drift_Shard.md) and [Rush Shards](../Rush_Shard.md) to massively increase the projectile speed. At max modifiers, the projectiles become entirely unreactible.
 -   Casting the Mantra while standing on ice will summon more projectiles. However, this is currently bugged.
--   The [Magnet Spark](../Mantra_Modifiers.md#sparks) variant fires half of your shuriken count +1, but if your shuriken travel 25 studs without hitting your target, you'll teleport to one of the shuriken's location and fire the remaining shuriken.
+-   The [Magnet Spark](../Magnet_Spark.md) variant fires half of your shuriken count +1, but if your shuriken travel 25 studs without hitting your target, you'll teleport to one of the shuriken's location and fire the remaining shuriken.
 -   Both Spark variants can be used at the same time.
 
  |
@@ -1520,7 +1520,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
--   Inflicts Chill for 5 seconds. This can be increased with [Aeon](../Mantra_Modifiers.md) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts Chill for 5 seconds. This can be increased with [Aeon](../Mantra_Modifiers.md) and [Eternal Logstones](../Eternal_Logstone.md).
 -   Slightly knocks back target(s).
 -   Can break objects.
 -   Press block during Ice Smash's windup to initiate a second hit dealing 80% of the damage of the first hit.
@@ -1558,19 +1558,19 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 **Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
 -   Has a base damage of 5/5.5/6/6.5/7 per level, per hit (9) with 2.75 Frostdraw scaling.
--   The [Spring Spark](../Mantra_Modifiers.md#sparks) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
--   The [Round Spark](../Mantra_Modifiers.md#sparks) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
+-   The [Spring Spark](../Spring_Spark.md) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
+-   The [Round Spark](../Round_Spark.md) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
 -   Deals 1 posture damage per hit (9 when sparkless). The Round Spark variant deals 2 posture damage per hit (10, hitting block counts as 2).
 -   10 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Does not inflict Chill.
 -   Ends instantly if parried.
 -   Your character's rotation speed is slowed during this attack.
--   Spawns an ice patch on use. [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
+-   Spawns an ice patch on use. [Vibrant Gems](../Vibrant_Gem.md) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
 -   The maximum size of Ice Carve is 6.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
+-   Can be modified with [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) to increase the Mantra size.
 -   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
--   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks) to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.
+-   Can be modified with a [Spring Spark](../Spring_Spark.md) to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.
 
  |
 | 
@@ -1648,11 +1648,11 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Deals 4/5/6/7/8 posture damage per level.
 -   Has a cooldown of 12 seconds.
 -   The first hit has 9.18x PvE scaling, the second hit has 6.5x PvE scaling (multiply scaled damage dealt by 9.18/6.5x for PvE damage).
--   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](../Mantra_Modifiers.md) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](../Mantra_Modifiers.md) and [Eternal Logstones](../Eternal_Logstone.md).
 -   You can press block during the windup to cancel the impale.
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
--   Shares a cooldown with [Gale Lunge](../Galebreathe.md#gale-lunge).
+-   Shares a cooldown with [Gale Lunge](../Gale_Lunge.md).
 
  |
 | 
@@ -1692,7 +1692,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md) + Slash ResistanceSlash
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Applies Chill for 2 second per hit. This cannot be modified.
 -   Capable of proccing [Meteor Impact](../Talents.md#meteor-impact).
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the size of the AoE.
+-   Can be modified with [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) to increase the size of the AoE.
 
  |
 | 
@@ -1727,15 +1727,15 @@ Ice [ResistanceFrostdraw](../Frostdraw.md) + Blunt ResistanceBlunt (Grab), Ice [
 **Effect:** _User turns invisible and teleports to their opponent within a short range, on hit choking their opponent while they get hit by the ice chains._
 
 -   Has a base damage of 6/7.2/8.4/9.6/10.8 per level, per hit (3) with 2.75 Frostdraw scaling.
--   The [Blast Spark](../Mantra_Modifiers.md#sparks) variant deals the same damage per level, per hit (3) with 2.75 Frostdraw scaling, however the ice pillars have a 20% less damage than the chains on the un-sparked version.
+-   The [Blast Spark](../Blast_Spark.md) variant deals the same damage per level, per hit (3) with 2.75 Frostdraw scaling, however the ice pillars have a 20% less damage than the chains on the un-sparked version.
 -   Deals 3 posture damage per hit (3).
 -   Has a 10 second cooldown (3 seconds if whiffed entirely or if it didn't target anything).
 -   Has 9.176x PvE scaling (multiply scaled damage dealt by 9.176 for PvE damage).
 -   Applies an extremely long 12 second Chill at base.
--   Shares a cooldown with all other [grab Mantras](../List_of_Grab_Mantras.md).
+-   Shares a cooldown with all other [grab Mantras](../Grab_Mantras.md).
 -   Does not apply Chill through block with Unyielding Frost.
 -   Gives brief I-Frames on hit.
--   Can be modified with a Blast Spark, creating an ice patch on the ground and stabbing the opponent with pillars. This variant does not apply Chill and deals less damage. You can modify the Blast Spark variant with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) to increase the size of the ice patch.
+-   Can be modified with a Blast Spark, creating an ice patch on the ground and stabbing the opponent with pillars. This variant does not apply Chill and deals less damage. You can modify the Blast Spark variant with [Vibrant Gems](../Vibrant_Gem.md) to increase the size of the ice patch.
 
  |
 | 
@@ -1777,7 +1777,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Projectiles have homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to cause the Mantra to send out each projectile individually.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to cause the Mantra to send out each projectile individually.
 
  |
 | 
@@ -1830,7 +1830,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 
 ### Glass Path: Crystallization Mantras
 
-Having the [Attunement Path](../Attunements.md#alternative-paths) Talent **Glass Path: Crystallization** unlocks new Mantras, something unseen among other Attunement Paths.
+Having the [Attunement Path](../Attunement.md#alternative-paths) Talent **Glass Path: Crystallization** unlocks new Mantras, something unseen among other Attunement Paths.
 
 | 
 **Name**
@@ -1901,7 +1901,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Deals 50% more damage if used after Crystal Knee or if used while airborne.
 -   Applies Knockdown when landed airborne.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
--   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks), removing the knockdown.
+-   Can be modified with a [Spring Spark](../Spring_Spark.md), removing the knockdown.
 
  |
 | 
@@ -1982,8 +1982,8 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Deals 24.16 (26.89 with 6 songchant) DMG, 1 posture, 6s CD at 5 lvl.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Inconsistent hitbox.
--   Can be modified with [Cloud](../Mantra_Modifiers.md) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the amount of projectiles fired up to 7 total. However, these will also decrease the damage per projectile, dealing 0.75/0.6/0.5/0.43/0.375/0.333x of the Mantra's base damage per projectile.
--   Can be paired with a [Spring Spark](../Mantra_Modifiers.md#sparks) to delay the projectile from traveling.
+-   Can be modified with [Cloud](../Mantra_Modifiers.md) and [Stratus Stones](../Stratus_Stone.md) to increase the amount of projectiles fired up to 7 total. However, these will also decrease the damage per projectile, dealing 0.75/0.6/0.5/0.43/0.375/0.333x of the Mantra's base damage per projectile.
+-   Can be paired with a [Spring Spark](../Spring_Spark.md) to delay the projectile from traveling.
 
  |
 
@@ -2051,14 +2051,14 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 **Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
 -   Has a base damage of 30/32.7/35.4/38.1/40.8 per level with 2.75 Frostdraw scaling.
--   Modifying this Mantra with [Glass](../Mantra_Modifiers.md) and [Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
+-   Modifying this Mantra with [Glass](../Mantra_Modifiers.md) and [Magnifying Stones](../Magnifying_Stone.md) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
 -   Deals 15 posture damage per level. The additional hit from Glass/Magnifying Stones deals 5 posture damage.
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Can be used to scale walls and terrain.
 -   Inflicts a 1 second Chill. This cannot be modified.
--   Compatible with [Glass](../Mantra_Modifiers.md) and [Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers), causing the move to form a small ice eruption at the end of the pillar. Adding more AoE modifiers increases the size of the eruption.
--   Can be modified with [Cloud](../Mantra_Modifiers.md) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to become wider.
+-   Compatible with [Glass](../Mantra_Modifiers.md) and [Magnifying Stones](../Magnifying_Stone.md), causing the move to form a small ice eruption at the end of the pillar. Adding more AoE modifiers increases the size of the eruption.
+-   Can be modified with [Cloud](../Mantra_Modifiers.md) and [Stratus Stones](../Stratus_Stone.md) to become wider.
 -   Can be modified with [Crystal](../Mantra_Modifiers.md) and [Perfect Lenses](../Mantra_Modifiers.md) to increase the range of the Arc.
 
  |
@@ -2210,9 +2210,9 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Heals 2%, increasing with level and [Drift/Rush Shards](../Mantra_Modifiers.md), up to 10%.
 -   Applies 1 second of chill per hit. This cannot be modified.
 -   Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.
--   Shares a cooldown with [Reinforce](../Attunement-less.md#reinforce).
+-   Shares a cooldown with [Reinforce](../Reinforce.md).
 -   Does not proc [Deep Gems](../Deep_Gems.md) on hit.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), turning you into an ice crystal on use. While this variant of Iceberg is active, you gain i-frames, but cannot move or act. If used midair, you will quickly descend towards the ground, dealing damage on impact and flinging/ragdolling opponents. This also negates fall damage.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md), turning you into an ice crystal on use. While this variant of Iceberg is active, you gain i-frames, but cannot move or act. If used midair, you will quickly descend towards the ground, dealing damage on impact and flinging/ragdolling opponents. This also negates fall damage.
     -   Can be modified with [Drift/Rush Shards](../Mantra_Modifiers.md) to increase the fall speed.
 
  |
@@ -2283,15 +2283,15 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 **Effect:** _Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user._
 
 -   Deals 20/22/24/26/28 base damage per level with 2.75 Thundercall scaling.
--   [Magnet Spark](../Mantra_Modifiers.md#sparks) variant deals 25/27/29/31/33 base damage per level with 2.75 Thundercall scaling.
+-   [Magnet Spark](../Magnet_Spark.md) variant deals 25/27/29/31/33 base damage per level with 2.75 Thundercall scaling.
 -   Deals 5 posture damage regardless of spark variant.
 -   Magnet Spark variant has a windup of 0.5 seconds.
 -   Has a 10 second cooldown.
--   Shares a cooldown with all other [grab Mantras](../List_of_Grab_Mantras.md).
--   Can be modified with a [Magnet Spark](../Mantra_Modifiers.md#sparks), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
+-   Shares a cooldown with all other [grab Mantras](../Grab_Mantras.md).
+-   Can be modified with a [Magnet Spark](../Magnet_Spark.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
     -   Magnet Spark variant activates only when the cursor is locked onto a target.
     -   Knockdown is removed from the Magnet variant.
--   Jolt Grab can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the distance travelled/AoE hitbox.
+-   Jolt Grab can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase the distance travelled/AoE hitbox.
 
  |
 | 
@@ -2330,7 +2330,7 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   10 second cooldown.
 -   Can break objects.
 -   Can grant an optional effect with the [Shocking Finish](../Talents.md#shocking-finish) Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
--   Shares a cooldown with [Ice Beam](../Frostdraw.md#ice-beam).
+-   Shares a cooldown with [Ice Beam](../Ice_Beam.md).
 
  |
 | 
@@ -2365,7 +2365,7 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
 -   Initial hits deal 7/8/9/10/11 base damage per level, per hit (2) with 2.75 Thundercall scaling.
--   The [Magnet Spark](../Mantra_Modifiers.md#sparks) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
+-   The [Magnet Spark](../Magnet_Spark.md) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
 -   Stormcaller Slash deals an additional 12.25/14/15.75/17.5/19.25 base damage per level with 5 Thundercall scaling.
 -   Deals 3 posture damage per initial hit (2), Stormcaller Slash adds an additional 5 posture damage.
 -   10 second cooldown.
@@ -2374,7 +2374,7 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Can be cancelled midway after the first 2 slashes by right-clicking.
 -   At end of Mantra, performs a "**Stormcaller Slash**", a former Talent which is now innate.
     -   Can be canceled by feinting right after the flash of lightning. This puts the Mantra on cooldown for 5 seconds.
--   Can be modified with a [Magnet Spark](../Mantra_Modifiers.md#sparks), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
+-   Can be modified with a [Magnet Spark](../Magnet_Spark.md), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
 
  |
 | 
@@ -2417,9 +2417,9 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Projectile moves along where the character is facing.
 -   Shocks opponents inside of it while dealing damage.
 -   Your character's rotation speed is slowed during this attack.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the AoE. However, this will reduced the Mantra's damage.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to conjure up a shocking AoE around the user.
--   Can be modified with a [Magnet Spark](../Mantra_Modifiers.md#sparks) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase the AoE. However, this will reduced the Mantra's damage.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md) to conjure up a shocking AoE around the user.
+-   Can be modified with a [Magnet Spark](../Magnet_Spark.md) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
@@ -2457,9 +2457,9 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Has a base damage of 5/6.5/8/9.5/11 per level, per hit (3) with 2.75 Thundercall scaling.
 -   Deals 5 posture damage per hit (3).
 -   14 second cooldown.
--   Shared a cooldown with [Ice Daggers](../Frostdraw.md#ice-daggers).
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to double the amount of projectiles conjured, but halve the damage and posture damage per projectile.
--   Can be modified with a [Magnet Spark](../Mantra_Modifiers.md#sparks) making the projectiles home towards the target and removing the beams of thunder.
+-   Shared a cooldown with [Ice Daggers](../Ice_Daggers.md).
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to double the amount of projectiles conjured, but halve the damage and posture damage per projectile.
+-   Can be modified with a [Magnet Spark](../Magnet_Spark.md) making the projectiles home towards the target and removing the beams of thunder.
 
  |
 | 
@@ -2498,14 +2498,14 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   15 second cooldown.
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
 -   Can grant a different effect with the [Static Flash Clone](../Talents.md#static-flash-clone) Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
-    -   When used with the [Blast Spark](../Mantra_Modifiers.md#sparks) mantra variant, the clone conjures a **Lightning Strike** when it disappears.
+    -   When used with the [Blast Spark](../Blast_Spark.md) mantra variant, the clone conjures a **Lightning Strike** when it disappears.
 -   Only 6 clones can exist at a time.
--   Modifying the mantra with [Aeon](../Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) _increases the health_ and amount of time the clones are active. Note that while their health is increased they still die after dealing 1 hit.
+-   Modifying the mantra with [Aeon](../Aeon_Logstone.md)/[Eternal Logstones](../Eternal_Logstone.md) _increases the health_ and amount of time the clones are active. Note that while their health is increased they still die after dealing 1 hit.
     -   The health modifications do not affect the second clone if a Multiplying Spark is used.
     -   With 3 Aeon & Eternal Longstones the clones will last for 80 seconds.
     -   The health modifiers are disabled if more than 2 clones are spawned.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to cause the clone to detonate and shock upon hitting a target/death.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to summon an additional clone.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md) to cause the clone to detonate and shock upon hitting a target/death.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to summon an additional clone.
 
  |
 | 
@@ -2587,9 +2587,9 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   The first hit applies knockdown.
 -   Can be cancelled at any point by clicking.
     -   This includes being hit by the user's own Lightning Strike. (they removed the self damage in a shadow patch)
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectiles.
--   Can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase the number of strikes. Duration modifiers also reduce the amount of damage per strike.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase max distance of strikes.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase the hitbox of the projectiles.
+-   Can be modified with [Aeon](../Aeon_Logstone.md)/[Eternal Logstones](../Eternal_Logstone.md) to increase the number of strikes. Duration modifiers also reduce the amount of damage per strike.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase max distance of strikes.
 
  |
 | 
@@ -2670,8 +2670,8 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Deals 3 posture per hit.
 -   5 minute cooldown.
 -   Currently bugged and only strikes once.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectiles.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range of where the projectiles can be fired.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase the hitbox of the projectiles.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase the range of where the projectiles can be fired.
 
  |
 | 
@@ -2711,7 +2711,7 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Has 0.5 seconds of endlag.
 -   Ragdolls and flings target(s).
 -   Can be given an effect with the [Grand Skewer](../Talents.md#grand-skewer) Talent; which carries the target(s) hit along with projectile if the user presses the block while casting.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
@@ -2750,8 +2750,8 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Deals 0 posture damage.
 -   Has a cooldown of 12 seconds.
 -   Has a short delay before dealing damage.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectile, but reducing the Mantra's damage.
--   Can be modified with a [Tornado Spark](../Mantra_Modifiers.md#sparks) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase the hitbox of the projectile, but reducing the Mantra's damage.
+-   Can be modified with a [Tornado Spark](../Tornado_Spark.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
     -   **This increases its cooldown from 12 seconds to 20 seconds.**
     -   Good for isolating a target for a 1v1 situation.
 
@@ -2791,8 +2791,8 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   The lightning strikes have a base damage of 15/17/19/21/23 per level, per hit with 2.75 Thundercall scaling.
 -   Deals 13.5 posture damage on the initial hit + 10 posture damage per lightning strike.
 -   30 second cooldown.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the size of the hitbox.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range of the lightning strikes.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase the size of the hitbox.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase the range of the lightning strikes.
 
  |
 | 
@@ -2904,7 +2904,7 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Has an unusually inconsistent hitbox, sometimes not hitting those in its path.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make it go further, **capping at 3 Stratus Stones**.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to make it go further, **capping at 3 Stratus Stones**.
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |
@@ -3020,9 +3020,9 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Deals 4 posture damage.
 -   Has a wind-up of 0.4 seconds.
 -   Has a cooldown of 14 seconds.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range of the projectile traveled.
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to pull **yourself** to your opponent.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to stun and damage the target instead of pulling them towards the user.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase the range of the projectile traveled.
+-   Can be modified with a [Reversal Spark](../Reversal_Spark.md) to pull **yourself** to your opponent.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md) to stun and damage the target instead of pulling them towards the user.
 
  |
 | 
@@ -3059,7 +3059,7 @@ N/A
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
 -   When Sapping ends, the target is shocked. If you have surge path, it will apply a Surge stack.
--   Can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase its uses.
+-   Can be modified with [Aeon](../Aeon_Logstone.md)/[Eternal Logstones](../Eternal_Logstone.md) to increase its uses.
 
  |
 | 
@@ -3099,10 +3099,10 @@ N/A
 -   Cannot be used while in water or airborne.
 -   30 Second Cooldown.
 -   Can be used for escaping situations or for trolling.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to supposably increase range but currently does nothing.
--   Can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) but currently does nothing.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to supposably increase range but currently does nothing.
+-   Can be modified with [Aeon](../Aeon_Logstone.md)/[Eternal Logstones](../Eternal_Logstone.md) but currently does nothing.
 -   Mantra Levels currently do nothing.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to speed up the casting speed to 0.6 seconds, shorten the cooldown to 5 seconds, greatly reduce the range to 40-50 studs (depends on hp). This allows you to use the mantra in Chime of Conflict.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to speed up the casting speed to 0.6 seconds, shorten the cooldown to 5 seconds, greatly reduce the range to 40-50 studs (depends on hp). This allows you to use the mantra in Chime of Conflict.
 
  |
 
@@ -3177,9 +3177,9 @@ Wind [ResistanceGalebreathe](../Galebreathe.md)
 -   Pushes people back and dazes them if they collide with something.
 -   Does not apply hitstun from the blast.
 -   Can break objects.
--   Can be upgraded with [Cloudstones](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make it wider. It can also be modified with [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) and [Crystal Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase its range.
+-   Can be upgraded with [Cloudstones](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) to make it wider. It can also be modified with [Perfect Lenses](../Perfect_Lens.md) and [Crystal Lenses](../Crystal_Lens.md) to increase its range.
 -   Fires towards your cursor. If shift lock is activated, it fires in the direction your character is facing instead.
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to pull in enemies instead of pushing them away.
+-   Can be modified with a [Reversal Spark](../Reversal_Spark.md) to pull in enemies instead of pushing them away.
 
  |
 | 
@@ -3256,7 +3256,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md)
 -   The default variant deals 12 posture damage regardless of level, while the Tempest Wind variant deals 4/5/6/7/8 posture damage per level.
 -   Both variants have a windup of 0.425 seconds.
 -   Projectile lasts about 3-5 seconds
--   Modifying with a [Drift](../Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](../Mantra_Modifiers.md#regular-modifiers) will increase projectile's speed significantly.
+-   Modifying with a [Drift](../Drift_Shard.md)/[Rush Shards](../Rush_Shard.md) will increase projectile's speed significantly.
 -   Casting Wind Blade while sliding will perform the "**Tempest Wind**" variant of the Mantra. This version deals increased damage at the cost of range, as well as proccing the [Suffocation](../Status_Effects.md#suffocation) status effect innately.
     -   This variant can be increased further with the [Tempestmaker's Threads](<../Tempestmaker's_Threads.md>) Talent, increasing the damage of your Tempest Wind-Wind Blade by 20% and granting a 20% damage buff while midair after proccing it.
 
@@ -3336,7 +3336,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
--   Shares a cooldown with [Ice Lance](../Frostdraw.md#ice-lance).
+-   Shares a cooldown with [Ice Lance](../Ice_Lance.md).
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
@@ -3375,8 +3375,8 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   Deals 8 posture damage per hit (3).
 -   Has a windup of 0.55 seconds with a 0.7 second windup in between each hit. Has a cooldown of 9.5 seconds.
 -   Can break objects at level 2+.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) and [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the size and distance respectively.
--   Can be modified with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) to increase the speed of the push, or pull with **Vacuum Punch**.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) and [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase the size and distance respectively.
+-   Can be modified with [Vibrant Gems](../Vibrant_Gem.md) to increase the speed of the push, or pull with **Vacuum Punch**.
 -   Can be upgraded with the "**Vacuum Punch**" Talent, pulling in targets on hit at the cost of 0.1s extra windup.
 
  |
@@ -3416,9 +3416,9 @@ Wind [ResistanceGalebreathe](../Galebreathe.md)
 -   Hits 14 times over 2 seconds.
 -   Has a windup of 0.6 seconds with a cooldown of 10 seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
--   Applies the [Suffocation](../Status_Effects.md#suffocate) status effect.
+-   Applies the [Suffocation](../Suffocation.md) status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), causing the trap to detonate on contact with any object.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md), causing the trap to detonate on contact with any object.
 -   Refer to [Gale Trap](../Talents.md#gale-trap) if you are looking for the talent instead.
 
  |
@@ -3572,8 +3572,8 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   On cast, your opponent will be forced to stop blocking if applicable and they will be slowed. The Multiplying Spark variant loses this feature however.
 -   Medium-far range.
 -   Forces you to stand still on cast.
--   Can be modified with [Perfect](../Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks), to individually fire the blades and grant them homing. This adds travel time to your Mantra and removes the force unblock and slow on cast.
+-   Can be modified with [Perfect](../Perfect_Lens.md)/[Crystal Lenses](../Crystal_Lens.md) to increase the range.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md), to individually fire the blades and grant them homing. This adds travel time to your Mantra and removes the force unblock and slow on cast.
 
  |
 | 
@@ -3656,7 +3656,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Blunt ResistanceBlunt
 -   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
 -   Can vent during the mantra, however, this does not cancel it.
 -   Can proc **Meteor Impact**.
--   Can be modified with [Perfect](../Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](../Mantra_Modifiers.md#regular-modifiers) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
+-   Can be modified with [Perfect](../Perfect_Lens.md)/[Crystal Lenses](../Crystal_Lens.md) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
 
  |
 | 
@@ -3695,8 +3695,8 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.55 seconds with a 0.11 second delay between each hit. Has a 10 second cooldown.
 -   Can be ended early by pressing your feint key.
 -   Pushes your opponent away on the final hit.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase it's size.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers), moving the carve further away from the caster on use.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase it's size.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md), moving the carve further away from the caster on use.
 -   Your character's rotation speed is slowed during this attack.
 
  |
@@ -3738,9 +3738,9 @@ Wind [ResistanceGalebreathe](../Galebreathe.md)
 -   The base variant deals 10 posture damage. The Blast Spark variant deals 4 posture damage per hit (4), while the Multiplying Spark variant deals 0.8 posture damage per hit (8). Both sparks combined deals 3 posture damage per hit (24).
 -   Has a windup of 0.45 seconds. The Multiplying and both Spark variants has a windup of 0.55 seconds. Has a 15 second cooldown.
 -   Pushes and ragdolls opponent.
--   Applies the [Suffocate](../Status_Effects.md#suffocate) status effect.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to fire a few bullets at once in a vert tight cone AoE.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to fire a few bullets at once in a wide cone AoE.
+-   Applies the [Suffocate](../Suffocate.md) status effect.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to fire a few bullets at once in a vert tight cone AoE.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md) to fire a few bullets at once in a wide cone AoE.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds.
 
  |
@@ -3779,7 +3779,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   Deals 2.5 posture damage per hit (5).
 -   Has a windup of 0.45 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
 -   At level 3+, the last hit of Astral Wind sends the opponent upwards.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
@@ -3807,7 +3807,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
-50 Galebreathe, Defeated [Duke Erisia](../Duke_Ishamon_Erisia.md)
+50 Galebreathe, Defeated [Duke Erisia](../Duke_Erisia.md)
 
  |
 | 
@@ -3819,7 +3819,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.8 seconds.
 -   Gives hyperarmor when casting.
 -   Applies ragdoll.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to make it reach further.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to make it reach further.
 
  |
 
@@ -3891,7 +3891,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 1 seconds with a 12 second cooldown.
 -   Decreases in range as your health gets lower.
 -   Travel distance will be halved if there is no target in its path.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the distance travelled, making it a very useful tool for horizontal mobility.
+-   Can be modified with [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) to increase the distance travelled, making it a very useful tool for horizontal mobility.
 -   Can be used to clip through walls while in the [Second Layer](../Second_Layer.md).
 
  |
@@ -4048,7 +4048,7 @@ Blunt ResistanceBlunt (Slam)
 -   The grab deals Shadow + Slash damage, the slam deals pure Blunt damage.
 -   Grants I-frames to the user and opponent on hit.
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Shares a cooldown with all of [grab Mantras](../List_of_Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](../Grab_Mantras.md).
 
  |
 | 
@@ -4087,7 +4087,7 @@ Shadow [ResistanceShadowcast](../Shadowcast.md) + Slash ResistanceSlash
 -   Deals 9 posture damage.
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
--   Can be modified with a [Tornado Spark](../Mantra_Modifiers.md#sparks), adding an additional spinning slash at the end of the initial slashes. This additional hit has the same damage and Ether drain as all other hits.
+-   Can be modified with a [Tornado Spark](../Tornado_Spark.md), adding an additional spinning slash at the end of the initial slashes. This additional hit has the same damage and Ether drain as all other hits.
 
  |
 | 
@@ -4125,9 +4125,9 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   Drains 27/30.5/33.5/37/40.5 Ether per level with 2.75 Shadowcast scaling.
 -   Unsparked variant guardbreaks at level 5.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   Adding [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
--   Adding [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and triples the Ether cost from what's displayed (i.e. a 50 Ether cost Shadow Gun will actually cost 150 of your Ether if a Blast Spark is equipped).
+-   Adding [Crystal](../Crystal_Lens.md) and [Perfect Lenses](../Perfect_Lens.md) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
+-   Adding [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and triples the Ether cost from what's displayed (i.e. a 50 Ether cost Shadow Gun will actually cost 150 of your Ether if a Blast Spark is equipped).
     -   Has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
     -   Drains 4.48/5.06/5.56/6.14/6.72 Ether per level, per hit (3) with 2.75 Shadowcast scaling. Drains 50% of the base variant's Ether if all hits land.
 
@@ -4169,8 +4169,8 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   Has a 15 second cooldown.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
 -   The chains slow your opponent on hit.
--   Duration of the chain effect can be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
--   Projectile range can be increased with [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers).
+-   Duration of the chain effect can be increased with [Aeon](../Aeon_Logstone.md) and [Eternal Logstones](../Eternal_Logstone.md).
+-   Projectile range can be increased with [Crystal](../Crystal_Lens.md) and [Perfect Lenses](../Perfect_Lens.md).
 -   Can be upgraded with the _Blighted Song_ Talent, applying the [Blight](../Status_Effects.md#blight) status effect on hit, disabling your own and your opponent's ability to cast Mantras while Shadow Chains is active. While this effect is active, you gain damage reduction to Mantras.
 
  |
@@ -4211,7 +4211,7 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   Has a windup of 0.45 seconds with a 0.4 second delay before the second hit. Has a 12 second cooldown.
 -   The "second hit" does not deal damage and does not grant parry stun to the user if it is parried.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
--   [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) increase the size of the eruption.
+-   [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) increase the size of the eruption.
 
  |
 | 
@@ -4252,7 +4252,7 @@ Shadow [ResistanceShadowcast](../Shadowcast.md) + Slash ResistanceSlash
 -   Shares a cooldown with [Shadow Meteor](#shadow-meteor).
 -   If attacked while casting, the Shadow Seekers will dissipate.
 -   You cannot use any Mantras for a long duration after casting this Mantra. This will end early if all of your Shadow Seekers hit your target.
--   [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
+-   [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
 
  |
 | 
@@ -4292,10 +4292,10 @@ Blunt ResistanceBlunt (Slam)
 -   Deals 5 posture damage.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   [Drift](../Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](../Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
--   [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) increase range.
+-   [Drift](../Drift_Shard.md) and [Rush Shards](../Rush_Shard.md) increase projectile speed.
+-   [Cloud](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) increase range.
 -   You cannot cast Mantras while Rising Shadow is active.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](../Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md), removing the damage to apply the [Shadowed Touch](../Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
 
  |
 | 
@@ -4336,7 +4336,7 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   Has 9.179x PvE scaling (multiply damage dealt by 9.179 to get PvE damage).
 -   You cannot cast Mantras while Shadow Meteor is active.
 -   Using a Crits immediately cancels Shadow Meteor.
--   Shares a cooldown with [Shadow Seekers](../Shadowcast.md#shadow-seekers).
+-   Shares a cooldown with [Shadow Seekers](../Shadow_Seekers.md).
 
  |
 | 
@@ -4464,7 +4464,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](../S
 -   Can also break certain tiles and fell trees.
 -   Unaffected by damage modifiers with the exception of inhale while using the [Eyes of Ethiron](../Eyes_of_Ethiron.md) weapon.
 -   Eclipse Kick is unaffected by [Insignia Gem](../Insignia_Gem.md).
--   If a [Multiplying Spark](../Mantra_Modifiers.md#sparks) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage and Ether drain than the unmodified variant.
+-   If a [Multiplying Spark](../Multiplying_Spark.md) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage and Ether drain than the unmodified variant.
     -   The first kick has a base damage of 5/6/7/8/9 per level. The second kick has a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
     -   The first kick drains 24.94/29.23/33.53/37.82/42.11 Ether per level. The second kick drains 26.58/31.18/35.76/40.34/56.15 Ether per level. Both hits have 2.75 Shadowcast scaling.
 
@@ -4506,12 +4506,12 @@ Shadow [ResistanceShadowcast](../Shadowcast.md) + Slash ResistanceSlash
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Can be feinted, however you need to feint it very early into the move's windup.
--   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks), making you lunge forward and slam down on the enemy.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
+-   Can be modified with a [Spring Spark](../Spring_Spark.md), making you lunge forward and slam down on the enemy.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
     -   Has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.
--   You **can** combine the [Spring](../Mantra_Modifiers.md#sparks) and [Multiplying Sparks](../Mantra_Modifiers.md#sparks) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
+-   You **can** combine the [Spring](../Spring_Spark.md) and [Multiplying Sparks](../Multiplying_Spark.md) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
     -   Has a base damage of 13.5/15.3/17.1/20.7 per hit (3), per level with 2.75 Shadowcast scaling. This deals 2.2x the total damage of the unmodified variant.
--   Can be modified with [Reversal Spark](../Mantra_Modifiers.md#sparks), but it's currently unknown what it does.
+-   Can be modified with [Reversal Spark](../Reversal_Spark.md), but it's currently unknown what it does.
 
  |
 | 
@@ -4555,7 +4555,7 @@ Blunt ResistanceBlunt
     -   This has a base damage of 35 with 2.75 Shadowcast scaling.
     -   Explosion doesn't happen if either Mantra was used before the vortex sucked someone in.
 -   Has a vertical range cap.
--   Can be modified with [Glass](../Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the range, though it seems to display diminishing returns.
+-   Can be modified with [Glass](../Glass_Stone.md) and [Magnifying Stones](../Magnifying_Stone.md) to increase the range, though it seems to display diminishing returns.
 
  |
 
@@ -4670,8 +4670,8 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   You can't block, parry, or jump while submerged.
 -   Pressing M1 sends you out early and pressing M2 causes you to walk and run normally for the rest of the mantra.
 -   NPCs can spot you underground.
--   Shares a cooldown with [Sanguine Dive](../Bloodrend.md#sanguine-dive) and [Beast Burrow](../Monster_Mantras.md#beast-burrow).
--   Unlike [Sanguine Dive](../Bloodrend.md#sanguine-dive) and [Beast Burrow](../Monster_Mantras.md#beast-burrow) Shade Step does not end early when in close proximity to a potential target.
+-   Shares a cooldown with [Sanguine Dive](../Sanguine_Dive.md) and [Beast Burrow](../Beast_Burrow.md).
+-   Unlike [Sanguine Dive](../Sanguine_Dive.md) and [Beast Burrow](../Beast_Burrow.md) Shade Step does not end early when in close proximity to a potential target.
 
  |
 | 
@@ -4713,10 +4713,10 @@ Bl. Spark: + Blunt ResistanceBlunt
 -   Deals 1.5/2.5/4.5/6.5/8.5 posture damage per level.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   If below 33% health distance is halved. Its distance is reduced by 60% when used in water.
--   [Crystal](../Mantra_Modifiers.md#regular-modifiers) [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) increase distance. Max range increase is +3 doubling base distance, no increase past 1 Perfect Lense/+3 range modifier.
--   [Glass](../Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) make hitbox larger.
+-   [Crystal](../Crystal_Lens.md) [Perfect Lenses](../Perfect_Lens.md) increase distance. Max range increase is +3 doubling base distance, no increase past 1 Perfect Lense/+3 range modifier.
+-   [Glass](../Glass_Stone.md) and [Magnifying Stones](../Magnifying_Stone.md) make hitbox larger.
 -   Max AOE seems to be +6
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to perform a barrage of shadows. This variant can only be used if you are at or below 40% of your maximum health.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md) to perform a barrage of shadows. This variant can only be used if you are at or below 40% of your maximum health.
 
  |
 
@@ -4791,11 +4791,11 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   Deals 8 posture damage per hit (1, 3 if Multiplying Spark). The Blast Spark variant guardbreaks.
 -   Has a 19 second cooldown.
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
--   The damage buff can be increased with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
--   It has a base duration of 12 seconds that can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
+-   The damage buff can be increased with [Vibrant Gems](../Vibrant_Gem.md), capping at +25% weapon damage with 3 Vibrant Gems.
+-   It has a base duration of 12 seconds that can be modified with [Aeon](../Aeon_Logstone.md) and [Eternal Logstones](../Eternal_Logstone.md) to increase duration of buff to a cap of 21 seconds.
 -   The [Spine Cutter](../Talents.md#spine-cutter) Talent cannot be used while Shade Devour is active
--   Can be upgraded with a [Blast Spark](../Mantra_Modifiers.md#sparks) to perform a bigger shockwave that deals more damage.
--   Can be upgraded with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
+-   Can be upgraded with a [Blast Spark](../Blast_Spark.md) to perform a bigger shockwave that deals more damage.
+-   Can be upgraded with a [Multiplying Spark](../Multiplying_Spark.md) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
 
  |
@@ -4926,7 +4926,7 @@ _A flurry of metal spikes._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -4937,12 +4937,12 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Stomp the ground, causing a flurry of metal spikes to erupt forward._
 
--   Has a base damage of 25 with innate [Bleed](../Status_Effects.md#bleed)) damage and 2.75 Ironsing scaling. The base damage does not increase with Mantra level.
+-   Has a base damage of 25 with innate [Bleed](../Bleed.md)) damage and 2.75 Ironsing scaling. The base damage does not increase with Mantra level.
 -   Deals 14 posture damage.
 -   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   By rotating your view, you can reangle the Mantra to catch rolls.
--   Heavily reminiscent of the Frostdraw Mantra, [Ice Eruption](../Frostdraw.md#ice-eruption).
+-   Heavily reminiscent of the Frostdraw Mantra, [Ice Eruption](../Ice_Eruption.md).
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption, but reduces posture DMG.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
 -   This mantra hits 4 times, but if it hits a person, that person would be immune to next 3 hits from metal eruption.
@@ -4986,9 +4986,9 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inconsistent tracking and wind up.
 -   Applies Metal Rods on hit.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to cause the Mantra increase amount of needles fired but removing the jump.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md) to cause the Mantra increase amount of needles fired but removing the jump.
     -   This variant keeps the user's momentum.
-    -   Somewhat similar to Flamecharm's [Fire Gun](../Flamecharm.md#fire-gun) Mantra.
+    -   Somewhat similar to Flamecharm's [Fire Gun](../Fire_Gun.md) Mantra.
 
  |
 | 
@@ -5028,7 +5028,7 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   Spring Spark has a wind up of 0.55 second and non spark a wind-up of 0.95s (0.65s to enter gain height and enter fall state + 0.4s or more seconds to land(depending on ur fall distance))
 -   Your base Metal Kick can't be Interrupted once you enter fall state, but you still can be hitstunned. Basically you will hit your enemy with Metal Kick but won't be able to attack after landing Metal Kick.
--   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
+-   Can be modified with a [Spring Spark](../Spring_Spark.md) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
 
  |
 | 
@@ -5051,7 +5051,7 @@ _Sharp metal traps._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Bleed.md)
 
  | 
 
@@ -5062,14 +5062,14 @@ Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Throws 3/4/5/6/7 Caltrops per level.
 -   Has a windup of 0.75 seconds with a 10 second CD. Caltrops last 17 seconds on the ground before dissipating.
 -   Has 9.17x PVE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   Caltrops on the ground can still be parried and blocked.
 -   Caltrops can be destroyed by attacking them directly, though this usually isn't worth your time as they take 2 hits each to be broken.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the caltrops.
+-   Can be modified with [Cloud](../Cloudstone.md)/[Stratus Stones](../Stratus_Stone.md) to increase the hitbox of the caltrops.
 -   While airborne, Caltrops only apply rods after 2 hits. While on the ground, Caltrops apply 1 rod every hit.
 -   Caltrops can be upgraded with the [Laced Traps](../Talents.md#laced-traps) Talent, applying a slow and disallowing your opponent to jump on hit for a short duration.
 
@@ -5094,7 +5094,7 @@ _Create a firing line of metal to light up your target._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5105,14 +5105,14 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
--   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
+-   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   The base variant deals 5 posture damage per hit while the Blast Spark variant deals 15 posture damage per hit.
 -   The base variant has a windup of 0.8 seconds, while the Blast Spark variant has a windup of 0.55 seconds.
 -   Has 9.18x PVE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Apply Metal Rods on hit.
 -   You cannot use other abilities or attack while this Mantra is active.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack has less windup than the base variant.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack has less windup than the base variant.
 
  |
 | 
@@ -5135,7 +5135,7 @@ _Conjure metal from within, impaling surrounding entities._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5146,7 +5146,7 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 12.5 posture damage.
 -   Has a windup of 0.45 seconds with a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -5174,7 +5174,7 @@ _Create a metal clone and appear behind your target._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5185,7 +5185,7 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Has a base damage of 16/21.5/27/32.5/38 per level with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 16/21.5/27/32.5/38 per level with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 8/9/10/11/12 posture damage per level.
 -   Has a windup of 0.65 seconds and a cooldown of 12 seconds.
 -   Has 9.27x PvE scaling (multiply damage dealt by 9.27 for PvE damage).
@@ -5223,16 +5223,16 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
 
 **Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
 
--   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 2 posture damage per hit.
 -   Has around 23 hits total.
 -   Has a windup of 1.2 seconds with a 20 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Doesn't apply parry stun to user.
 -   Applies Metal Rods on hit.
--   Comparable to Thundercall's [Bolt Piercer](../Thundercall.md#bolt-piercer) Mantra, and shares a cooldown with it.
--   Can be modified with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to extend its duration.
--   Can be modified with [Crystal/Pefect Lenses](../Mantra_Modifiers.md#regular-modifiers) to extend its range.
+-   Comparable to Thundercall's [Bolt Piercer](../Bolt_Piercer.md) Mantra, and shares a cooldown with it.
+-   Can be modified with [Aeon/Eternal Logstones](../Aeon_Logstone.md) to extend its duration.
+-   Can be modified with [Crystal/Pefect Lenses](../Crystal_Lens.md) to extend its range.
 
  |
 | 
@@ -5255,7 +5255,7 @@ _Conjure metal swords and rush forward with them._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5266,7 +5266,7 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
--   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 1 posture damage per hit (10).
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -5294,7 +5294,7 @@ _Crush your opponents bones with an iron infused grab._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5305,14 +5305,14 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [Bleed](../Status_Effects.md#bleed) and 2.75 Ironsing scaling.
+-   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [Bleed](../Bleed.md) and 2.75 Ironsing scaling.
 -   Deals 10 posture damage, canceling entirely if blocked.
 -   Has a windup of 0.8 seconds and a cooldown of 11 seconds.
 -   Gives [True Hyperarmor](../Status_Effects.md#true-hyperarmor) on use, also gives I-frames to victim and user during the grab animation.
 -   Has 9.65x PvE scaling (multiply damage dealt by 9.65 for PvE damage).
 -   Applies 1 Metal Rod per hit.
 -   Can be upgraded with the [Metal Absorption](../Talents.md#metal-absorption) Talent, stealing a percentage of your opponent's armor durability on hit.
--   Shares a cooldown with all other [grab Mantras](../List_of_Grab_Mantras.md).
+-   Shares a cooldown with all other [grab Mantras](../Grab_Mantras.md).
 
  |
 | 
@@ -5335,7 +5335,7 @@ _Conjure a giant rod of metal and slam it down._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5346,11 +5346,11 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 16.5 posture damage at levels 1-4, guard breaks at level 5.
 -   Has a windup of 0.73 seconds with a cooldown of 18 seconds.
--   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](../Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](../Status_Effects.md#bleed) PVE)
--   Can be modified with [Cloudstones](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to drastically increase the size of the rod.
+-   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](../Bleed.md) PVP, 537.98 DMG + 161.4 [Bleed](../Bleed.md) PVE)
+-   Can be modified with [Cloudstones](../Cloudstone.md) and [Stratus Stones](../Stratus_Stone.md) to drastically increase the size of the rod.
 
  |
 | 
@@ -5454,7 +5454,7 @@ _Create a lance, impale your opponent, and send them flying._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5465,11 +5465,11 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Has a base damage of 15/23/31/39/47 per level with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 15/23/31/39/47 per level with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
--   Comparable to Galebreathe's [Gale Lunge](../Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](../Frostdraw.md#ice-lance) Mantra.
+-   Comparable to Galebreathe's [Gale Lunge](../Gale_Lunge.md) Mantra and Frostdraw's [Ice Lance](../Ice_Lance.md) Mantra.
 
  |
 
@@ -5525,7 +5525,7 @@ _Summon a large metal pillar._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Blunt ResistanceBlunt + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Blunt ResistanceBlunt + [Bleed](../Bleed.md)
 
  | 
 
@@ -5537,14 +5537,14 @@ Metal [ResistanceIronsing](../Ironsing.md) + Blunt ResistanceBlunt + [Bleed](../
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
 -   Deals damage on placedown with a very small AoE.
--   Has a base damage of 10/14/18/22/26 with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 10/14/18/22/26 with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 8 posture damage.
 -   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
 -   The pillar lasts 6 seconds at base with a 15 second cooldown. The duration increases by 1 second per upgrade, reaching a total maximum of 10s.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   The height of the pillar will depend on what is above the user.
--   Can be modified with [Cloudstones/Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to extend its width.
--   Modifying with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) seemingly does nothing and does NOT increase its duration.
+-   Can be modified with [Cloudstones/Stratus Stones](../Cloudstone.md) to extend its width.
+-   Modifying with [Aeon/Eternal Logstones](../Aeon_Logstone.md) seemingly does nothing and does NOT increase its duration.
 
  |
 | 
@@ -5567,7 +5567,7 @@ _Create a metal ball and rush forward._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -5578,14 +5578,14 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
--   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [Bleed](../Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [Bleed](../Bleed.md) damage and 2.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds before the ball is created, and a 0.2 seconds to hit. Has a cooldown of 10.5 seconds.
 -   Applies knockdown on hit for 0.5 seconds.
 -   Has 9.3x PvE scaling (multiply damage dealt by 9.3 for PvE damage).
 -   Covers 82 studs of distance, this can be increased with Aeon and Eternal Logstones.
 -   Applies Metal Rods on hit.
--   Can be modified with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to presumably extend its duration. (The modified effect is very miniscule.)
+-   Can be modified with [Aeon/Eternal Logstones](../Aeon_Logstone.md) to presumably extend its duration. (The modified effect is very miniscule.)
 
  |
 
@@ -5656,9 +5656,9 @@ Metal [ResistanceIronsing](../Ironsing.md) + Blunt ResistanceBlunt
 -   Deals 5 posture damage.
 -   Has a windup of 0.55 seconds with a 13 second cooldown.
 -   Has 9.2x PVE scaling (multiply damage dealt by 9.2 for PvE damage).
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase its range.
--   Can be modified with a [Magnet Spark](../Mantra_Modifiers.md#sparks) to lock onto a opponent in front of you
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks), pushing your opponent away instead of pulling them.
+-   Can be modified with [Crystal](../Crystal_Lens.md) and [Perfect Lenses](../Perfect_Lens.md) to increase its range.
+-   Can be modified with a [Magnet Spark](../Magnet_Spark.md) to lock onto a opponent in front of you
+-   Can be modified with a [Reversal Spark](../Reversal_Spark.md), pushing your opponent away instead of pulling them.
 
  |
 | 
@@ -5738,9 +5738,9 @@ Metal [ResistanceIronsing](../Ironsing.md)
 -   Each shot applies a Metal Rod on hit
 -   Turrets can be destroyed if hit enough times by the caster or their opponents.
 -   Requires a ritual cast with two keys, adding duration modifiers increases the number of keys.
--   Can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase duration.
--   Can be modified with [Drift](../Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](../Mantra_Modifiers.md#regular-modifiers) to make turret spin faster.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to conjure two turrets instead of one
+-   Can be modified with [Aeon](../Aeon_Logstone.md)/[Eternal Logstones](../Eternal_Logstone.md) to increase duration.
+-   Can be modified with [Drift](../Drift_Shard.md)/[Rush Shards](../Rush_Shard.md) to make turret spin faster.
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to conjure two turrets instead of one
 
  |
 | 
@@ -5984,7 +5984,7 @@ _Leap into the air and slam down with vengeance._
 
  | 
 
-Blood [ResistanceBloodrend](../Bloodrend.md) + [Bleed](../Status_Effects.md#bleed)
+Blood [ResistanceBloodrend](../Bloodrend.md) + [Bleed](../Bleed.md)
 
  | 
 
@@ -6412,8 +6412,8 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 -   Deals 24/28/32/36/40 base damage per level, 15 posture, 0.65s windup(dive), 0.25s windup(rise) has 14s CD at level 5
 -   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool
--   Shares a cooldown with similar Mantras [Beast Burrow](../Monster_Mantras.md#beast-burrow) and [Shade Step](../Shadowcast.md#shade-step)
--   Functions similar to [Beast Burrow](../Monster_Mantras.md#beast-burrow). After ~3 seconds, or if you are near someone, you will be forced to surface from the blood pool.
+-   Shares a cooldown with similar Mantras [Beast Burrow](../Beast_Burrow.md) and [Shade Step](../Shade_Step.md)
+-   Functions similar to [Beast Burrow](../Beast_Burrow.md). After ~3 seconds, or if you are near someone, you will be forced to surface from the blood pool.
 -   This mantra can be ended early pressing M1.
 -   While this mantra is active, you can **reload** your gun (1H) inside of it
 -   Has a shorter windup if used while user is standing on a Blood Pool
@@ -6528,7 +6528,7 @@ N/A
 
  |
 
-## [Hybrid Mantras](../Hybrid_Abilities.md)
+## [Hybrid Mantras](../Hybrid_Mantras.md)
 
 | 
 **Name**
@@ -6600,8 +6600,8 @@ Lightning [ResistanceThundercall](../Thundercall.md) + Metal [ResistanceIronsing
 -   Can apply Electrified.
 -   Compatible with Surge Path and Gilded Path.
 -   Can be modified with [Eternal and Aeon Logstones](../Mantra_Modifiers.md) to increase its duration slightly.
--   Can be upgraded with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to summon 3, but dividing the damage dealt per Tether into thirds.
--   Can be upgraded with a [Magnet Spark](../Mantra_Modifiers.md#sparks) allowing it to move.
+-   Can be upgraded with a [Multiplying Spark](../Multiplying_Spark.md) to summon 3, but dividing the damage dealt per Tether into thirds.
+-   Can be upgraded with a [Magnet Spark](../Magnet_Spark.md) allowing it to move.
 
  |
 | 
@@ -6641,11 +6641,11 @@ Ice [ResistanceFrostdraw](../Frostdraw.md) + Shadow [ResistanceShadowcast](../Sh
 -   Deals moderate damage.
 -   Inflicts Chill.
 -   Works with Twisted Puppets, applying Shadow Burn (it won't spawn puppets) and Crystal Path.
--   Compatible with [Cloudstones/Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the AoE larger.
--   Can be modified with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) but it seems to only work with [Aeon Logstone](../Mantra_Modifiers.md#regular-modifiers) otherwise if even a single [Eternal Logstone](../Mantra_Modifiers.md#regular-modifiers) is placed onto the mantra it will use more ether and make it last the original amount.
--   Can be modified with [Magnet Spark](../Mantra_Modifiers.md#sparks) allowing it to follow the user.
+-   Compatible with [Cloudstones/Stratus Stones](../Cloudstone.md) to make the AoE larger.
+-   Can be modified with [Aeon/Eternal Logstones](../Aeon_Logstone.md) but it seems to only work with [Aeon Logstone](../Aeon_Logstone.md) otherwise if even a single [Eternal Logstone](../Eternal_Logstone.md) is placed onto the mantra it will use more ether and make it last the original amount.
+-   Can be modified with [Magnet Spark](../Magnet_Spark.md) allowing it to follow the user.
 -   Cannot be cast while in water. Attempting to cast it in water will consume your ether and do nothing.
--   Shares a cooldown with [Ice Eruption](../Frostdraw.md#ice-eruption).
+-   Shares a cooldown with [Ice Eruption](../Ice_Eruption.md).
 
  |
 | 
@@ -6730,7 +6730,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Lightning [ResistanceThunderca
 
  |
 
-### _Requires [Oathless](../Oath%253A_Oathless.md):_
+### _Requires [Oathless](../Oathless.md):_
 
 | 
 **Name**
@@ -6794,7 +6794,7 @@ Oath [ResistanceOath](../Oaths.md)
  |
 | 
 
-**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](../Combat_Mechanics.md#telegraphed-attacks) elemental beam._
+**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](../Telegraphed_Attacks.md) elemental beam._
 
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
 -   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
@@ -7010,10 +7010,10 @@ Blunt ResistanceBlunt
 
 -   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5, per kick.
--   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](../Mantra_Modifiers.md#sparks) variant.
--   Has 0.7s wind-up on the [Round Spark](../Mantra_Modifiers.md#sparks) variant.
+-   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](../Round_Spark.md) variant.
+-   Has 0.7s wind-up on the [Round Spark](../Round_Spark.md) variant.
 -   Has a range of 20 studs.
--   Can be modified with a [Round Spark](../Mantra_Modifiers.md#sparks) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
+-   Can be modified with a [Round Spark](../Round_Spark.md) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
 
  |
@@ -7055,7 +7055,7 @@ N/A
 -   Drops carried players/NPCs when used.
 -   Fall damage is taken if the user gets high enough.
 -   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
--   Shares a cooldown with [Neural Pathway](../Attunement-less.md#neural-pathway) and [Flame Leap](../Flamecharm.md#flame-leap).
+-   Shares a cooldown with [Neural Pathway](../Neural_Pathway.md) and [Flame Leap](../Flame_Leap.md).
 
  |
 | 
@@ -7096,7 +7096,7 @@ Blunt ResistanceBlunt
 -   Inflicts knockdown.
 -   Lands 15% faster while wielding [Jus Karita](../Jus_Karita.md).
 -   Requirements are increased if you have an Attunement.
--   Can still be used after removing [Tacet](../Murmur%253A_Tacet.md).
+-   Can still be used after removing [Tacet](../Tacet.md).
 
  |
 | 
@@ -7126,7 +7126,7 @@ Blunt ResistanceBlunt
 
  | 
 
-35 Strength, Defeated [Titus](../Titus_Fulminus_Destellus.md) (No damage required, only that [Titus](../Titus_Fulminus_Destellus.md) is defeated in your server)
+35 Strength, Defeated [Titus](../Titus.md) (No damage required, only that [Titus](../Titus.md) is defeated in your server)
 
  |
 | 
@@ -7136,14 +7136,14 @@ Blunt ResistanceBlunt
 -   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
--   Shares a cooldown with all other [grab Mantras](../List_of_Grab_Mantras.md).
+-   Shares a cooldown with all other [grab Mantras](../Grab_Mantras.md).
 -   Using this Mantra in the air allows you to aim freely but they will still be flung afterwards.
 
  |
 
 ### _Fortitude Mantras_
 
-Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](../Training_Gear.md#attribute-training-gears), or feel the crushing weight of a [Boulder](../Training_Gear.md#attribute-training-gears).
+Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](../Training_Vest.md), or feel the crushing weight of a [Boulder](../Boulder.md).
 
 | 
 **Name**
@@ -7215,8 +7215,8 @@ Blunt ResistanceBlunt
 -   Shoulder Bash duration scales with your Fortitude attribute.
 -   Can collide with and break parts of the map.
 -   Rush shards have no effect.
--   [Eternal](../Mantra_Modifiers.md#regular-modifiers)/[Aeon Logstones](../Mantra_Modifiers.md#regular-modifiers) increase duration.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to make it apply knockback.
+-   [Eternal](../Eternal_Logstone.md)/[Aeon Logstones](../Aeon_Logstone.md) increase duration.
+-   Can be modified with a [Blast Spark](../Blast_Spark.md) to make it apply knockback.
 
  |
 | 
@@ -7254,7 +7254,7 @@ N/A
 **Effect:** _User drums their shield before lowering the posture of nearby allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
 
 -   Restores 5/6/7/8/9 posture on cast, per level.
--   Rally has a 15 second duration. This duration can be increased further with [Logstones](../Mantra_Modifiers.md#regular-modifiers).
+-   Rally has a 15 second duration. This duration can be increased further with [Logstones](../Aeon_Logstone.md).
 -   Rally cannot be casted if you don't have a shield equipped or if your shield is on your back. Attempting to cast Rally like this will consume your Ether and do nothing.
 -   If a Rally buffed ally parries, it restores the Rally caster's posture.
 -   If a Rally buffed ally takes blocks an attack, 50% of the posture damage will be taken by the Rally caster.
@@ -7302,7 +7302,7 @@ N/A
     -   Reinforce lasts 20/21.5/23/24.5/26 seconds per level.
     -   Reinforce has a 55/50/45/40/35 second cooldown per level.
 -   When holding your block button during Reinforce's wind-up, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
--   Shares a cooldown with [Iceberg](../Frostdraw.md#iceberg).
+-   Shares a cooldown with [Iceberg](../Iceberg.md).
 -   Can be upgraded with the [Grand Support](../Talents.md#grand-support) Talent, healing yourself and allies when you buff at least one ally with your Reinforce. This heals 3% of affected players' maximum HP.
 -   Can be upgraded with the [Lord's Tithe](../Talents.md#lords-tithe) Talent, stealing Ether from buffed targets or Health from PvE enemies.
 
@@ -7348,7 +7348,7 @@ N/A
 
 ### _Agility Mantras_
 
-Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with [Ankle Weights](../Training_Gear.md#attribute-training-gears) by sliding, climbing walls, vaulting over obstacles and rolling.
+Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with [Ankle Weights](../Ankle_Weights.md) by sliding, climbing walls, vaulting over obstacles and rolling.
 
 | 
 **Name**
@@ -7403,7 +7403,7 @@ _A vengeful rush. Deals additional damage the lower your health is below 50%._
 
  | 
 
-Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Slash ResistanceSlash + [Bleed](../Bleed.md)
 
  | 
 
@@ -7415,11 +7415,11 @@ Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16[/17/18/19](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with innate [bleed](../Status_Effects.md#bleed) and 1.65 Agility scaling.
+-   Has a base damage of 12/13/14/15/16[/17/18/19](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with innate [bleed](../Bleed.md) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
--   This Mantra has innate [Bleed](../Status_Effects.md#bleed), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
+-   This Mantra has innate [Bleed](../Bleed.md), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
 -   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
     -   This bonus damage scales up to 4 times damage at 5% health, but Revenge's health scaling will cap at Revenge dealing 50 damage regardless of level/Agility investment.
 -   Can be upgraded with the [Pursuit](../Talents.md#pursuit) Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
@@ -7626,7 +7626,7 @@ Blunt ResistanceBlunt
 -   0.65s wind-up.
 -   10s cooldown.
 -   When close enough to the enemy, the orbs will autotrack.
-    -   [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) increase how far you can be for it to autotrack.
+    -   [Crystal](../Crystal_Lens.md)/[Perfect Lenses](../Perfect_Lens.md) increase how far you can be for it to autotrack.
 
  |
 | 
@@ -7712,8 +7712,8 @@ N/A
 -   If not moving, you instead teleport towards the direction you're facing.
 -   The distance teleported will be reduced if you aren't moving when you cast the Mantra.
 -   For ~2.5s after teleporting, all fall damage is negated.
--   Shares a cooldown with [Flame Leap](../Flamecharm.md#flame-leap) and [Strong Leap](../Attunement-less.md#strong-leap).
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to chain multiple dashes in a row. The amount of dashes you gain per cast is dictated by the level of your Neural Pathway; e.g. 2 dashes at level 2, 3 at level 3 and so on.
+-   Shares a cooldown with [Flame Leap](../Flame_Leap.md) and [Strong Leap](../Strong_Leap.md).
+-   Can be modified with a [Multiplying Spark](../Multiplying_Spark.md) to chain multiple dashes in a row. The amount of dashes you gain per cast is dictated by the level of your Neural Pathway; e.g. 2 dashes at level 2, 3 at level 3 and so on.
     -   At level 3 onward, you can press M2 to end the Mantra early.
     -   This spark increases the Mantra's cooldown by 30 seconds.
 
@@ -7870,7 +7870,7 @@ N/A
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
 -   Parry window is at the end of the first flash.
--   Shares a cooldown with [Sing](../Attunement-less.md#sing).
+-   Shares a cooldown with [Sing](../Sing.md).
 -   **Cannot proc [Deep Gems](../Deep_Gems.md)**
 -   Can be upgraded with the [Peripheral Vision](../Talents.md#peripheral-vision) Talent, allowing Glare to hit enemies without them having to face you.
 
@@ -7994,7 +7994,7 @@ N/A
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the [Off your Game](../Talents.md#off-your-game) Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the [Oh the Irony](../Talents.md#oh-the-irony) Talent, which doubles the amount of [metal rods](../Ironsing.md) applied to Taunted enemies.
--   Using Taunt on any humanoid [boss](../Bosses.md) (excluding [Titus](../Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
+-   Using Taunt on any humanoid [boss](../Bosses.md) (excluding [Titus](../Titus.md)) will instantly start the fight, skipping all dialogue.
 
  |
 | 
@@ -8034,7 +8034,7 @@ N/A
 -   Inflicts Charm on nearby entities for 10 seconds.
 -   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
 -   Can be modified with cloud and stratus stones to increase range, but increase the cooldown. (1 Cloudstone = +2s CD, 1 Stratus stone = +3s CD)
--   Shares a cooldown with [Glare](../Attunement-less.md#glare).
+-   Shares a cooldown with [Glare](../Glare.md).
 -   Can be upgraded with the [Encore](../Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the [Propagandist](../Talents.md#propagandist) Talent, granting your allies [Overcharm](../Status_Effects.md) for 15 seconds.
 
@@ -8077,7 +8077,7 @@ Blunt ResistanceBlunt
 -   Dread Whisper's damage will slightly scale on how insane your opponent is.
 -   Landing Dread Whisper multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain/retain the damage buff.
--   10 Second cooldown, shares a cooldown with all other [grab Mantras](../List_of_Grab_Mantras.md).
+-   10 Second cooldown, shares a cooldown with all other [grab Mantras](../Grab_Mantras.md).
 -   Deals 6 posture damage.
 -   Has an wind-up of 0.4s, and an endlag of 1.95s (0.25s if whiffed).
 -   Inflicts Charm for 7.5s on hit.
@@ -8086,7 +8086,7 @@ Blunt ResistanceBlunt
 -   Does **not** apply insanity.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
-    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using Mantras such as [Eclipse Kick](../Shadowcast.md#eclipse-kick) to try timing these to hit the opponent as soon as they're released.
+    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using Mantras such as [Eclipse Kick](../Eclipse_Kick.md) to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled with the lunge.
 
  |
@@ -8758,7 +8758,7 @@ Slash ResistanceSlash
 
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
--   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](../Attunement-less.md#masters-flourish).
+-   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](<../Master's_Flourish.md>).
 -   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
 -   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
@@ -9130,9 +9130,9 @@ Blunt ResistanceBlunt
 
 -   Deals 35 damage.
 -   The burrow has a duration of 3 seconds, ending early if you get close to a player/NPC.
-    -   Unlike [Sanguine Dive](../Bloodrend.md#sanguine-dive) and [Shade Step](../Shadowcast.md#shade-step), this cannot be manually deactivated early by pressing M1.
+    -   Unlike [Sanguine Dive](../Sanguine_Dive.md) and [Shade Step](../Shade_Step.md), this cannot be manually deactivated early by pressing M1.
 -   Can be enhanced by using the [Thresher Charm](../Thresher_Charm.md), increasing the burrow duration by 30%, and reducing its cooldown by 25%.
--   Shares a cooldown with [Shade Step](../Shadowcast.md#shade-step) and [Sanguine Dive](../Bloodrend.md#sanguine-dive).
+-   Shares a cooldown with [Shade Step](../Shade_Step.md) and [Sanguine Dive](../Sanguine_Dive.md).
 
  |
 
@@ -9207,10 +9207,10 @@ Typeless
     -   The following abilities can proc Bone Wisp:
         -   Base combat: Uppercuts, Flourishes, and Offhand [Pistol](../Pistols.md) shots (even if you do not have [Execution](../Talents.md#execution)).
         -   Talents: Air Counters with [Cut to the Chase](../Talents.md#cut-to-the-chase) and [Emperor Flame](../Talents.md#emperor-flame).
-        -   Mantras: [Celestial Assault](../Oath%253A_Starkindred.md#celestial-assault), [Crimson Surge](../Bloodrend.md#crimson-surge), [Crystal Knee](../Frostdraw.md#crystal-knee), [Onslaught](../Attunement-less.md#onslaught), [Palm Strike](../Oath%253A_Bladeharper.md#palm-strike) (in True Strength), [Razor Blitz](../Bloodrend.md#razor-blitz), [Rising Flame](../Flamecharm.md#rising-flame), [Rising Wind](../Galebreathe.md#rising-wind), [Shade Step](../Shadowcast.md#shade-step), [Skyshatter Kick](../Attunement-less.md#skyshatter-kick) (Round Spark), and [Wind Blade](../Galebreathe.md#wind-blade) (slide jump variant).
+        -   Mantras: [Celestial Assault](../Celestial_Assault.md), [Crimson Surge](../Crimson_Surge.md), [Crystal Knee](../Crystal_Knee.md), [Onslaught](../Onslaught.md), [Palm Strike](../Palm_Strike.md) (in True Strength), [Razor Blitz](../Razor_Blitz.md), [Rising Flame](../Rising_Flame.md), [Rising Wind](../Rising_Wind.md), [Shade Step](../Shade_Step.md), [Skyshatter Kick](../Skyshatter_Kick.md) (Round Spark), and [Wind Blade](../Wind_Blade.md) (slide jump variant).
         -   Weapon Criticals: [Ysley's Pyre Keeper](<../Ysley's_Pyre_Keeper.md>), and[Rimebreakers](../Rimebreakers.md).
     -   The following abilities do not proc Bone Wisp, despite uptilting:
-        -   Mantras: [Abyssal Ridge](../Monster_Mantras.md#abyssal-ridge), [Flame Leap](../Flamecharm.md#flame-leap), [Lightning Impact](../Thundercall.md#lightning-impact), [Rising Frost](../Frostdraw.md#rising-frost), and [Updraft](../Galebreathe.md#updraft).
+        -   Mantras: [Abyssal Ridge](../Abyssal_Ridge.md), [Flame Leap](../Flame_Leap.md), [Lightning Impact](../Lightning_Impact.md), [Rising Frost](../Rising_Frost.md), and [Updraft](../Updraft.md).
         -   Resonances: [Portals](../Portals.md) (Dive Variant).
 
  |
@@ -9243,7 +9243,7 @@ N/A
  |
 | 
 
-**Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](../Enforcer.md)'s '**Space Pull'** attack._
+**Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](../The_Enforcer.md)'s '**Space Pull'** attack._
 
 -   Missing still takes Ether and does not put this mantra on cooldown.
 -   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](../Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](../Reinforced_Enforcer_Boots.md) all-but removes the windup of the pull after landing a flourish.

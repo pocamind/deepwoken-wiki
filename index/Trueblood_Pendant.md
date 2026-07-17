@@ -40,7 +40,7 @@ Variants: [Earrings](Trueblood_Earrings.md)
 
 The Trueblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Blood Pact](Talents.md#blood-pact) Talent grants 50 [Temporary Health](Status_Effects.md#temporary-health) whenever you knock or kill an enemy.
+The [Blood Pact](Talents.md#blood-pact) Talent grants 50 [Temporary Health](Temporary_Health.md) whenever you knock or kill an enemy.
 
 ## Set Talent
 

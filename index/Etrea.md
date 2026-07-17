@@ -26,7 +26,7 @@ Etrea, also known as the Kingdom of Etrea, is a nation of primarily [Etreans](Et
 
 The [Isle of Vigils](Isle_of_Vigils.md) is also part of Etrea, acting as its military school, though Etrea's attitude toward the Isle is much more hands-off.
 
-Being the largest land ruling faction in the Etrean [Luminant](Luminants.md), they hold a large range of power, deploying foot-soldiers all across the Etrean Luminant. They are led by the [Lord Regent](The_Lord_Regent.md) who rules from his castle, and sees over the land of [Etris](Etris.md) and the [Etrean Wilds](Etrean_Wilds.md). They had been ruled by their Kings for generations, until decades to months before the year 1271, when the new leader Lord Regent took over.
+Being the largest land ruling faction in the Etrean [Luminant](Luminants.md), they hold a large range of power, deploying foot-soldiers all across the Etrean Luminant. They are led by the [Lord Regent](Lord_Regent.md) who rules from his castle, and sees over the land of [Etris](Etris.md) and the [Etrean Wilds](Etrean_Wilds.md). They had been ruled by their Kings for generations, until decades to months before the year 1271, when the new leader Lord Regent took over.
 
 The kingdom has faced much hardship over the years. [The Central Authority](The_Central_Authority.md) has deemed them their next target for conquest, and they are far better armed and equipped than the Etrean people. Meanwhile, the Lord Regent is actually a [Contractor](Oath%253A_Contractor.md) and Ministry Prophet, essentially making them a puppet state for [the Ministry](The_Ministry.md), which has since only bolstered the Authority's resolve to destroy them.
 
@@ -42,15 +42,15 @@ There are a substantial amount of ways to gain reputation with Etrea:
 
 -   Donating wood to either [Korin](Korin.md) or [Drefa](Drefa.md). (Unavailable if you have negative reputation; unable to reach 'Hero' reputation with this method)
 -   Defeating the [Bandits](Bandit.md) at either [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
--   Helping Etrea during the rare [Etris Siege event](Cinders_of_Etris.md).
+-   Helping Etrea during the rare [Etris Siege event](Etris%253A_Siege.md).
 -   Doing the [Nanji](Nanji.md) or [Lance's Brother](<Lance's_Brother.md>) [quests](Quests.md).
 
 On top of that, Etrea has many [random events](Random_Encounters.md) across the Luminants in which you may assist them and gain Reputation:
 
--   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Erisia](Erisia.md))
--   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Authority Officer](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
--   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](The_Hive.md) ([Starswept Valley](The_Starswept_Valley.md))
--   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knife of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([Erisia](Erisia.md))
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Authority Officer](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](Hive.md) ([Starswept Valley](Starswept_Valley.md))
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knife of Eylis](Knife_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 Etrea is among the factions with a [Bounty Board](Bounty_Hunting.md). They also have a Reputation reset NPC, [Nerin](Nerin.md), located above the main entrance area of [Etris](Etris.md).
 
@@ -61,7 +61,7 @@ You need high Friend Reputation with Etrea in order to start the Lord Regent's q
 -   [The Lord Regent](The_Lord_Regent.md) (Presumed, actually belongs to [The Ministry](The_Ministry.md))
 -   [Polis](Polis.md)
 -   [Kennith](Kennith.md)
--   [Nerin](Nerin.md) (Resets [Reputation](Reputation.md) to the slot's default, unlocks the [Sly](Boons_and_Flaws.md#unlockable-boons) Boon.)
+-   [Nerin](Nerin.md) (Resets [Reputation](Reputation.md) to the slot's default, unlocks the [Sly](Sly.md) Boon.)
 
 ## Associated Enemies
 

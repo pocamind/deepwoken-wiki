@@ -44,7 +44,7 @@ The user aims down and fires the spear, unleashing a blast and firing a bullet. 
 
 The critical has a cooldown of **5 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

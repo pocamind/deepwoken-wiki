@@ -24,9 +24,9 @@ categories: [Items, Elemental Ingredients]
 
 ## Description
 
-Dying Embers are an [Attunement](Attunements.md) item with the primary use of unlocking the [Flamecharm](Flamecharm.md) attunement, and doubling as a consumable, which gives a small amount of Flamecharm training.
+Dying Embers are an [Attunement](Attunement.md) item with the primary use of unlocking the [Flamecharm](Flamecharm.md) attunement, and doubling as a consumable, which gives a small amount of Flamecharm training.
 
-To unlock Flamecharm, you must give five (two if you've previously obtained [Flamecharm](Flamecharm.md)) Dying Embers to [Amashi](Amashi,_Master_of_Flame.md), the Flamecharm [trainer](Attunement_Trainers.md).
+To unlock Flamecharm, you must give five (two if you've previously obtained [Flamecharm](Flamecharm.md)) Dying Embers to [Amashi](Amashi,_Master_of_Flame.md), the Flamecharm [trainer](Spelltrainers.md).
 
 ## Obtainment
 
@@ -34,7 +34,7 @@ Dying embers drop from certain monsters, and NPCs that use the [Flamecharm](Flam
 
 ### NPCs
 
--   [Bloatskippers](Mudskipper.md#bloatskipper)
+-   [Bloatskippers](Bloatskipper.md)
 -   [Golems](Rock_Golem.md)
 -   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
 -   [Stone Knights](Stone_Knight.md)

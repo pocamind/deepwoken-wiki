@@ -30,16 +30,4 @@ Journal of Warden Jericho was located in [Tomb of the Nameless Warrior](Tomb_of_
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*Most of the pages are missing and some passages smudged, but you can make out some of what is written.*</i> I'm torn between my duty to the <a href="Glossary.md#the-central-authority">Authority</a> and keeping my <a href="Glossary.md#oaths">Oath</a>... The fake shrine outside seems to have been destroyed, probably by some local bandits or maybe the Etreans?... I fear for the Etrean people that they are to become casualties in a war beyond their understanding. Being lead by that <i>thing</i> they call a Lord... I thought the Contractors had been wiped out, but they surely just been hiding within the Ministry... It all makes sense now, but it seems far too late. I fear we may have fallen for his plan, the Authority's Peacekeeping may soon become the sole reason for the largest Submergence since Celtor.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*Most of the pages are missing and some passages smudged, but you can make out some of what is written.*</i> I'm torn between my duty to the <a href="Glossary.md#the-central-authority">Authority</a> and keeping my <a href="Glossary.md#oaths">Oath</a>... The fake shrine outside seems to have been destroyed, probably by some local bandits or maybe the Etreans?... I fear for the Etrean people that they are to become casualties in a war beyond their understanding. Being lead by that <i>thing</i> they call a Lord... I thought the Contractors had been wiped out, but they surely just been hiding within the Ministry... It all makes sense now, but it seems far too late. I fear we may have fallen for his plan, the Authority's Peacekeeping may soon become the sole reason for the largest Submergence since Celtor.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

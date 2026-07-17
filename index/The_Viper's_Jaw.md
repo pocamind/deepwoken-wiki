@@ -18,7 +18,7 @@ When Erisia was whole, these caverns were used by smugglers to sneak past the wa
 
   
 
-**Viper's Jaw** is a location in _Deepwoken._ It is a landmark found in [Lower Erisia](Lower_Erisia.md).
+**Viper's Jaw** is a [location](Locations.md) in _Deepwoken._ It is a landmark found in [Lower Erisia](Lower_Erisia.md).
 
 ## Overview
 
@@ -51,6 +51,6 @@ A map can be found at [Surface Maps](Maps.md#surface).
 
 ## Trivia/Notes
 
--   The music for this area is [In Shade, Hollow](Deepwoken_OST.md#in-shade-hollow) by Naktigonis.
+-   The music for this area is [In Shade, Hollow](In_Shade,_Hollow.md) by Naktigonis.
 -   One of the only locations in Lower Erisia known to spawn Terrapods.
 -   The Megalodaunts in the cave take 2 minutes and 30 seconds to respawn.

@@ -21,17 +21,17 @@ A Repair Kit is a deployable tool that repairs armor durability.
 
 When placed on the ground, Repair Kits can be interacted with, granting armor durability overtime. Each Repair Kit can restore up to 2000 armor durability, after which they will vanish.
 
-Up to five Repair Kits can be held normally, but using the [Packmule](Boons_and_Flaws.md#packmule) Boon increases your capacity to 7.
+Up to five Repair Kits can be held normally, but using the [Packmule](Packmule.md) Boon increases your capacity to 7.
 
 ## Obtainment
 
-It requires three (3) [Iron](Ores.md#iron) and two (2) Wood to craft.
+It requires three (3) [Iron](Iron.md) and two (2) Wood to craft.
 
 Alternatively you can purchase it from [Castle Light](Castle_Light.md) next to the [Barber](Barber.md) or from [Merchant Ships](Random_Encounters.md#sea-events) occasionally for varying prices of [Notes](Notes.md).
 
 ## Tips
 
-If you lack a [Graceful Flame](Flamecharm.md#graceful-flame), or aren't [Ignition Delver](Ignition_Delver.md) or [Deepbound](Deepbound.md), repair Kits can be extremely useful when used in the [First Layer](First_Layer.md) due to [Campfires](Campfire_Pit.md) being unable to be lit.
+If you lack a [Graceful Flame](Graceful_Flame.md), or aren't [Ignition Delver](Ignition_Delver.md) or [Deepbound](Deepbound.md), repair Kits can be extremely useful when used in the [First Layer](First_Layer.md) due to [Campfires](Campfire.md) being unable to be lit.
 
 -   [Hell Mode](Hell_Mode.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and the [Heart of Enmity](Heart_of_Enmity.md) are all place where your armor durability gets shredded, try bringing one into your next run.
 

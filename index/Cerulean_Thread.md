@@ -47,7 +47,7 @@ For the follow-up critical, the user performs the normal critical, rushing forwa
 
 The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on the follow-up.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

@@ -25,23 +25,23 @@ categories: [Outfits, Expert Outfits, The Ignition Union, Outfits with Talents, 
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Ignition Trailblazer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+**Ignition Trailblazer** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Iron.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), and +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Perseverance](Talents.md#perseverance) and [Strong Stern](Talents.md#strong-stern) Talents.
+This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunement.md), and +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Perseverance](Talents.md#perseverance) and [Strong Stern](Talents.md#strong-stern) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 28.75% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Perseverance](Talents.md#perseverance) Talent lowers your time knocked by 25%, while the [Strong Stern](Talents.md#strong-stern) Talent halves the duration of [Daze](Status_Effects.md#dazed) from being wall-banged.
+The [Perseverance](Talents.md#perseverance) Talent lowers your time knocked by 25%, while the [Strong Stern](Talents.md#strong-stern) Talent halves the duration of [Daze](Dazed.md) from being wall-banged.
 
 ## Trivia
 

@@ -28,7 +28,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Leland is a young [Etrean](Etrean.md) NPC. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out.
+Leland is a young [Etrean](Etrean.md) [NPC](NPC.md). Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out.
 
 ## Location
 
@@ -40,61 +40,17 @@ Leland is on the stairs heading down to the [Blacksmith](Blacksmith.md) right ou
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him.*</i> Please don't say anything to my teacher, he'll remove me from his apprenticeship if he catches me slacking off.</td>
-</tr>
-<tr>
-  <td>Don't worry, I won't rat you out.</td>
-  <td>Yeahhh... I'm gonna tell him.</td>
-</tr>
-<tr>
-  <td><i>*The boy smiles.*</i> Thanks friend! I'll give you a small discount on the materials.</td>
-  <td><i>*Tears start to well in the young boys eyes.*</i> Please don't, this is my last chance.</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him.*</i> Please don't say anything to my teacher, he'll remove me from his apprenticeship if he catches me slacking off.</td></tr><tr><td>Don't worry, I won't rat you out.</td><td>Yeahhh... I'm gonna tell him.</td></tr><tr><td><i>*The boy smiles.*</i> Thanks friend! I'll give you a small discount on the materials.</td><td><i>*Tears start to well in the young boys eyes.*</i> Please don't, this is my last chance.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
 This dialogue only appears if the player has chosen the option **"Don't worry, I won't rat you out."**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Enemy Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">You're that wanted guy! Get away from me!</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">You're that wanted guy! Get away from me!</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

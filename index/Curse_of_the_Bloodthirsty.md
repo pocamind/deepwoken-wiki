@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of the Bloodthirsty is a buffing curse [enchantment](Enchantments.md) that drains your opponent's blood on hit.
+Curse of the Bloodthirsty is a buffing curse [enchantment](Enchantment.md) that drains your opponent's blood on hit.
 
 ## Effect
 
@@ -30,7 +30,7 @@ Upon whiffing an M1, lose 2% of your maximum blood.
 
 ### Notes
 
--   The blood drain from this enchantment is unaffected by damage modifiers, blood damage resistances such as [Alloyblood](Talents.md#alloyblood) or [Cauterized Wounds](Talents.md#cauterized-wounds), and the [Haemophilia](Boons_and_Flaws.md#haemophilia) flaw. However, it is affected by your opponent's damage resistances.
+-   The blood drain from this enchantment is unaffected by damage modifiers, blood damage resistances such as [Alloyblood](Talents.md#alloyblood) or [Cauterized Wounds](Talents.md#cauterized-wounds), and the [Haemophilia](Haemophilia.md) flaw. However, it is affected by your opponent's damage resistances.
 -   Bloodthirsty's blood drain formula is as follows:
     -   Base: 0.1 \* S \* M + (0.1 \* S + 3) × (0.9 + 0.1 \* M)
     -   [Dagger](Daggers.md): (0.1 \* S + 1) \* (0.9 + 0.1 \* M)

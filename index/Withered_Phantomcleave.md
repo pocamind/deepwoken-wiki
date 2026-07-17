@@ -35,7 +35,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Alloyed Katana |
 | description | The forge's workings singe a memory into the alloyed vessel, thinning its form into translucence. The cast of a vigil swordsman reflects from its depths, appearing sullen and drained of all vitality. |
 
-Variants: [Alloyed Katana](Katana.md) · [Phantomcleave](Phantomcleave.md)
+Variants: [Alloyed Katana](Alloyed_Katana.md) · [Phantomcleave](Phantomcleave.md)
 
 ## Description
 
@@ -49,9 +49,9 @@ Upon landing a critical attack, activate **Phantom**, allowing your next M1 with
 
 ## Critical
 
-The user sheathes their katana before dashing forward and slashing horizontally. This critical deals **1.1x scaled damage** and procs [Bleed](Status_Effects.md#bleed). This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
+The user sheathes their katana before dashing forward and slashing horizontally. This critical deals **1.1x scaled damage** and procs [Bleed](Bleed.md). This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

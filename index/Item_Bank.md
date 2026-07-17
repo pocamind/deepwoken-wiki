@@ -22,38 +22,7 @@ Item Banks initially have 6 item slots, though you can purchase more with [Notes
 
 Unlocking every slot in the Item Bank costs 624,000.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th># of slots</th>
-  <th>per slot</th>
-</tr>
-<tr>
-  <td>1-6</td>
-  <td>Free</td>
-</tr>
-<tr>
-  <td>7-12</td>
-  <td>500</td>
-</tr>
-<tr>
-  <td>13-18</td>
-  <td>1,000</td>
-</tr>
-<tr>
-  <td>19-24</td>
-  <td>2,500</td>
-</tr>
-<tr>
-  <td>25-60</td>
-  <td>5,000</td>
-</tr>
-<tr>
-  <td>61-102</td>
-  <td>10,000</td>
-</tr>
-</tbody>
-</table>
+<table><caption></caption><tbody><tr><th># of slots</th><th>per slot</th></tr><tr><td>1-6</td><td>Free</td></tr><tr><td>7-12</td><td>500</td></tr><tr><td>13-18</td><td>1,000</td></tr><tr><td>19-24</td><td>2,500</td></tr><tr><td>25-60</td><td>5,000</td></tr><tr><td>61-102</td><td>10,000</td></tr></tbody></table>
 
 ## Restrictions
 

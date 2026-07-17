@@ -25,19 +25,19 @@ categories: [Outfits, Expert Outfits, The Hive, Outfits with Talents, "Outfits w
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Hive Drone** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+**Hive Drone** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Iron.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md) and +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunement.md) and +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 28.75% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

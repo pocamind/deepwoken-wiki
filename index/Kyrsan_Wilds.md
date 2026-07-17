@@ -20,13 +20,13 @@ Deep cavern walls painted with the serene glow of starlight emanating from a cit
 
 ## Contents
 
-Kyrsan Wilds is a sub-location to [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), located in the Second Floor of the Second Layer. It's a small location with one of five obelisks, that are used to open gate and halt time in Second Floor. With a certain chance a pink chest with Kyrsan medallions spawns near to Naerotiv. Kyrsan Wilds is being defended by artillery. If you are spotted by it, you will be fired at for 20–30 seconds with ice spears.
+Kyrsan Wilds is a sub-location to [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md), located in the Second Floor of the Second Layer. It's a small location with one of five obelisks, that are used to open gate and halt time in Second Floor. With a certain chance a pink chest with Kyrsan medallions spawns near to Naerotiv. Kyrsan Wilds is being defended by artillery. If you are spotted by it, you will be fired at for 20–30 seconds with ice spears.
 
 Be warned that the wilds are above a dangerous void, and due to the usage of smooth terrain, it can be quite easy to fall in, prematurely ending your run, and most likely, your slot.
 
 ## Objectives
 
-1.  Making your way to [The Grand Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
+1.  Making your way to [The Grand Library of New Kyrsa](New_Kyrsa,_The_Sleeping_City.md)
 
 ## NPCs
 

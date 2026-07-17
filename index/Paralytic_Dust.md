@@ -44,7 +44,7 @@ If Paralytic Dust is Corrupted, it will apply [blindness](Status_Effects.md#blin
 -   The Sleeping status effect cannot be applied to players with [Brick Wall](Talents.md#brick-wall) (including yourself, removing the healing from the Self Cast variant).
 -   Using this on a player who is currently using [Cap Artist](Talents.md#cap-artist) will force them to get up, allowing them to move while under the effects of Paralytic Dust. This is referred to as 'sleep walking'.
 -   Because Wither damage is based on scaled damage (or is flat), applying Wither can effectively bypass the 90% damage reduction. This makes the [Umbrite Witherblade](Umbrite_Witherblade.md) critical especially deadly against Sleeping targets.
--   The healing from the self-cast variant is affected by [Anti-Heal](Status_Effects.md#anti-heal), but cannot be stolen by the [Saint Jay](Talents.md#saint-jay) or [All Above, Gods Below](Talents.md#all-above-gods-below) Talents.
+-   The healing from the self-cast variant is affected by [Anti-Heal](Anti-Heal.md), but cannot be stolen by the [Saint Jay](Talents.md#saint-jay) or [All Above, Gods Below](Talents.md#all-above-gods-below) Talents.
 
 ## Trivia
 

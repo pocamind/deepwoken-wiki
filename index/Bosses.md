@@ -19,7 +19,7 @@ The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is
 -   Unique Summoning System or Guaranteed Spawn Locations
 -   Unique & End-Game Drops
 -   Grants [Echoes](Echoes.md) upon defeat.
--   Grants [Resonance Progress](Resonance.md#bell-progress) upon defeat.
+-   Grants [Resonance Progress](Resonance_Progress.md) upon defeat.
 -   Grants [Knowledge](Knowledge.md) upon defeat.
 -   Grants [Pluripotent Alloy](Pluripotent_Alloy.md) upon defeat.
 -   Grants [Ardour Manifestation](Ardour_Manifestation.md) upon defeat.

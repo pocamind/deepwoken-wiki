@@ -38,7 +38,7 @@ Variants: [Light's Final Toll](<Light's_Final_Toll.md>) · [The Death Knell](The
 
 ## Description
 
-The Withered Death Knell is a blood-red spirit lantern. This weapon is obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Light's Final Toll](<Light's_Final_Toll.md>) equipped or by holding the weapon out.
+The Withered Death Knell is a blood-red spirit lantern. This weapon is obtained by interacting with the [Lost Forge](Lost_Forge.md) with a [Light's Final Toll](<Light's_Final_Toll.md>) equipped or by holding the weapon out.
 
 ## Critical
 
@@ -52,4 +52,4 @@ For the final critical, the user raises into the air with a [green telegraph](Co
 
 All criticals have a cooldown of **5 seconds**.
 
-All of these critical drain the target's blood while restoring the user's, and applies 3% of [Blood Poison](Status_Effects.md#blood-poisoning) per hit.
+All of these critical drain the target's blood while restoring the user's, and applies 3% of [Blood Poison](Blood_Poison.md) per hit.

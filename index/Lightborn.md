@@ -24,34 +24,11 @@ Chance of obtaining aspect: **N/A** / **1%** Vow of Iron
 
 ## Description
 
-Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Constellia.md). Now, the only ones seen by the humans of Lumen are the [Spellhardt family](Spellhardt_family.md), residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
+Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Constellia.md). Now, the only ones seen by the humans of Lumen are the [Spellhardt family](Spellhardt_family.md), residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](<Hallowtide_(Event).md>).
 
 ## Traits
 
-<table>
-<tbody>
-<tr>
-  <td></td>
-  <td><b>Ad Astra</b><p><i>Return Home</i></p>
-  <ul>
-    <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
-    <li>Cannot be used while in combat.</li>
-  </ul><hr></td>
-</tr>
-<tr>
-  <td><center><font>+2</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+2 Strength</li>
-    <li>+2 Fortitude</li>
-    <li>+2 Agility</li>
-    <li>+2 Intelligence</li>
-    <li>+2 Willpower</li>
-    <li>+2 Charisma</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td></td><td><b>Ad Astra</b><p><i>Return Home</i></p><ul><li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li><li>Cannot be used while in combat.</li></ul><hr></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+2 Strength</li><li>+2 Fortitude</li><li>+2 Agility</li><li>+2 Intelligence</li><li>+2 Willpower</li><li>+2 Charisma</li></ul></td></tr></tbody></table>
 
 ## Miscellaneous
 
@@ -75,7 +52,7 @@ Despite being immortal, they can show signs of aging, as seen in [Kaide, the Dro
 -   +2 Charisma
 -   +5 attribute points in character creation, has 332 attribute points at power 20.
 
--   With the addition of the Echo Unlock [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers), Lightborn essentially gain 12 free points to allocate.
+-   With the addition of the Echo Unlock [Multifaceted](Multifaceted.md), Lightborn essentially gain 12 free points to allocate.
     
 
 **Surnames:**
@@ -108,4 +85,4 @@ Lightborn has 6 halo colors and 3 three halo position variants.
     -   From a lore perspective, obtaining the Lightborn aspect, while extremely difficult, is possible. Lightborn are hybrids of humans and celestials, meaning that creation of one could occur through direct contact with a celestial, though such an event would be incredibly rare.
     -   On the December 13th, 2025 update, the Lightborn aspect has been made obtainable by rerolls only through the [Vow of Iron](Vow_of_Iron.md) gamemode.
 -   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen.
--   Like all other aspects, the starting points Lightborn has gets converted into freely allocable points after purchasing [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers). However, because Lightborn has _twelve_ starting points instead of the usual five, this increases your maximum investment point limit to 337. Much like [Khan](Khan.md), this allows Lightborn to have entirely aspect-exclusive builds.
+-   Like all other aspects, the starting points Lightborn has gets converted into freely allocable points after purchasing [Multifaceted](Multifaceted.md). However, because Lightborn has _twelve_ starting points instead of the usual five, this increases your maximum investment point limit to 337. Much like [Khan](Khan.md), this allows Lightborn to have entirely aspect-exclusive builds.

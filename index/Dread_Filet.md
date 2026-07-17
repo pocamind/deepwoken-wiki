@@ -27,13 +27,13 @@ categories: [Food]
 
 **Dread Filet** is a craftable [Food](Food.md) item. It is the result of cooking [Dread Flesh](Dread_Flesh.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
 
 ### Effect
 
 When consumed, it replenishes 40% Stomach and 16% Water.  
   
-Additionally, it grants the Throat buff, affecting 15% of the Stomach bar. The buff increases [Taunt](Attunement-less.md#taunt)'s duration by 8 seconds, [Command: Fight](Vow_of_Mastery.md)'s duration by 7.5 seconds, and grants [Sing](Attunement-less.md#sing) a noticeable range increase.
+Additionally, it grants the Throat buff, affecting 15% of the Stomach bar. The buff increases [Taunt](Taunt.md)'s duration by 8 seconds, [Command: Fight](Vow_of_Mastery.md)'s duration by 7.5 seconds, and grants [Sing](Sing.md) a noticeable range increase.
 
 ## Crafting
 

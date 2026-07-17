@@ -17,11 +17,11 @@ LocationL Kyrsan Railways LocationR
   
   
 
-**Kyrsan Railways** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
+**Kyrsan Railways** is a [location](Locations.md) in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 
-**Kyrsan Railways** is based from [New Kyrsa](Second_Layer/New_Kyrsa.md). It consists of two large trains and a broken down train car in the middle.
+**Kyrsan Railways** is based from [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md). It consists of two large trains and a broken down train car in the middle.
 
 ## Trivia
 

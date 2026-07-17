@@ -23,7 +23,7 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, Outfits with Exclus
 | selling_price | 10 |
 | weight | 1 |
 
-**Eager Tradesman** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+**Eager Tradesman** is a Starter [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -35,13 +35,13 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +5% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Knack](Talents.md#knack) Talent.
+This outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +5% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Knack](Talents.md#knack) Talent.
 
-The [Knack](Talents.md#knack) Talent causes felled trees to yield more wood and increases the user's [ship](Ships_&_Sailing.md) repair speed.
+The [Knack](Talents.md#knack) Talent causes felled trees to yield more wood and increases the user's [ship](Ships.md) repair speed.
 
 ## Trivia
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) and [Barbers](Barber.md) wear Eager Tradesman.
+-   [Duke Erisia](Duke_Erisia.md) and [Barbers](Barber.md) wear Eager Tradesman.
 -   Dying Eager Tradesman black will make the entire outfit pitch black.
 
 ## Changes
@@ -49,5 +49,5 @@ The [Knack](Talents.md#knack) Talent causes felled trees to yield more wood and 
 -   August 18th, 2023
     -   Added Eager Tradesman as a craftable schematic.
 -   Unknown Update
-    -   Added Eager Tradesman as an outfit worn by [Duke Erisia](Duke_Ishamon_Erisia.md) and [Barbers](Barber.md).
+    -   Added Eager Tradesman as an outfit worn by [Duke Erisia](Duke_Erisia.md) and [Barbers](Barber.md).
 -   Original shirt is able to be found [here](https://www.roblox.com/catalog/125549745/Steampunk-Civilian).

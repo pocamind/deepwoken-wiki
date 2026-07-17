@@ -16,7 +16,7 @@ Flamecharm Icon
 
 ## Description
 
-**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether.. These abilities are primarily focused on DOT and AoE effects, while still providing a notable amount of utility and mobility.
+**Flamecharm** is an [Attunement](Attunement.md) that grants the user the ability to create flames using Ether.. These abilities are primarily focused on DOT and AoE effects, while still providing a notable amount of utility and mobility.
 
 This Attunement is ideal for new players, due to its innate ability to grip knocked humanoid NPCs with its DOT burn effect, alongside its superior utility in comparison with other Attunements, making progression and exploration much easier.
 
@@ -28,7 +28,7 @@ The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Fla
 
 ## Training
 
-Flamecharm can be trained by using the [Hearthgem](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Flamecharm Mantras or eating [Dying Embers](Dying_Embers.md) to gain enough EXP.
+Flamecharm can be trained by using the [Hearthgem](Hearthgem.md) to increase the attribute after either landing Flamecharm Mantras or eating [Dying Embers](Dying_Embers.md) to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -37,7 +37,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Flamecharm, players will receive the _Expert Flamecharmer_ Talent. This allows players to obtain 2-star Flamecharm Mantras.
 -   Finally, at 50 Flamecharm, players will receive the _Master Flamecharmer_ Talent. This allows players to obtain 3-star Flamecharm Mantras.
 
-You can speak to [Amashi](Amashi,_Master_of_Flame.md) at [Songseeker Wilds](Songseeker_Wilds.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Flamecharm Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
+You can speak to [Amashi](Amashi.md) at [Songseeker Wilds](Songseeker_Wilds.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Flamecharm Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Flamecharm Mantra from level 1 to level 2 costs 100 and 20 Flamecharm investment.
 -   To upgrade a Flamecharm Mantra from level 2 to level 3 costs 200 and 40 Flamecharm investment.
@@ -56,7 +56,7 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 
 ### Produce Spark
 
-This Cantrip allows the player to light [Campfires](Campfire_Pit.md) without [Flint](Flint.md).
+This Cantrip allows the player to light [Campfires](Campfire.md) without [Flint](Flint.md).
 
 This Cantrip is shared with [Thundercall](Thundercall.md), though the sound effect differs based on the Attunement.
 
@@ -131,8 +131,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   The synchronous strike occurs 2.2 seconds after the mantra is cast.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to add more warriors, capping at +9 Range.
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to have the warriors attack outwards and ragdoll.
+-   Can be modified with [Cloudstones](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) to add more warriors, capping at +9 Range.
+-   Can be modified with a [Reversal Spark](Reversal_Spark.md) to have the warriors attack outwards and ragdoll.
 
  |
 | 
@@ -173,9 +173,9 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Breaks destructible objects on hit.
--   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), causing the attack to destroy more environment.
--   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
-    -   A [Reversal Spark](Mantra_Modifiers.md#sparks) can be used to negate this variation, allowing you to use normal fire blade with wings.
+-   Can be modified with [Vibrant Gems](Vibrant_Gem.md), causing the attack to destroy more environment.
+-   While having [Starkindred](Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
+    -   A [Reversal Spark](Reversal_Spark.md) can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
 | 
@@ -214,12 +214,12 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Deals 1 posture damage per hit.
 -   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
 -   Inflicts Burn.
--   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
+-   Breaks tiles, including the [Hidden Village](Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
 -   Lights campfires.
 -   Propels the user backward if cast while jumping/walking backward or in water.
--   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make the bullets fly faster + farther.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks), causing the bullets to split into two, reducing the base damage by 45%.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), causing bullets to explode opponents after 6 hits, but reducing the base damage by 25%. Explosion auto grips if the opponent is low.
+-   Can be modified with [Drift](Drift_Shard.md)/[Rush Shards](Rush_Shard.md) to make the bullets fly faster + farther.
+-   Can be modified with a [Round Spark](Round_Spark.md), causing the bullets to split into two, reducing the base damage by 45%.
+-   Can be modified with a [Blast Spark](Blast_Spark.md), causing bullets to explode opponents after 6 hits, but reducing the base damage by 25%. Explosion auto grips if the opponent is low.
 -   Can be canceled early through right clicking.
 
  |
@@ -260,9 +260,9 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has a large hitbox both horizontally and backwards.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](Grab_Mantras.md).
 -   Travels for 0.6 seconds.
--   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
+-   [Crystal](Crystal_Lens.md)/[Perfect Lens](Perfect_Lens.md) increase the duration (distance travelled).
 
  |
 | 
@@ -304,7 +304,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
     -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
 -   Inflicts Burn.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size.
+-   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the size.
 -   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 -   Can be modified with a Blast Spark, seems to have no effect?
 
@@ -346,7 +346,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   The second explosion ragdolls enemies.
 -   Inflicts Burn.
--   Can be modified with [Glass Stones](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the radius of the explosions (+9 AoE max).
+-   Can be modified with [Glass Stones](Glass_Stone.md) and [Magnifying Stones](Magnifying_Stone.md) to increase the radius of the explosions (+9 AoE max).
     -   Size modification will drastically lower the damage of the Mantra however.
 -   Each mantra level increases the AoE of this Mantra.
     -   The actual hitbox of the explosion and visual size often do not match when modified.
@@ -391,8 +391,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Does **not** inflict Burn.
 -   Breaks destructible terrain on hit.
 -   Can be upgraded with the "**Hell's Partisan**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) to make the daggers move faster.
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to make an unparryable tornado around the user. The tornado fires out 5 daggers in a straight line that each hit twice.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lens](Perfect_Lens.md) to make the daggers move faster.
+-   Can be modified with a [Tornado Spark](Tornado_Spark.md) to make an unparryable tornado around the user. The tornado fires out 5 daggers in a straight line that each hit twice.
 
  |
 | 
@@ -431,7 +431,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has a windup of 0.45 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
+-   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
 -   Pressing F during the mantra's windup will release a wider but shorter flame that applies knockdown.
 
@@ -473,8 +473,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack after a 1 second windup.
 -   Parrying or getting hit during the attack windup will cancel the explosion.
 -   Upgrading the Mantra will increase the placement range.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away. Additionally, its secondary casting time changes to 0.85 seconds.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the placement range.
+-   Can be modified with a [Spring Spark](Spring_Spark.md), causing it to ragdoll and launch the opponent away. Additionally, its secondary casting time changes to 0.85 seconds.
 
  |
 | 
@@ -518,7 +518,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the Sentinel is.
 -   Can be use to break all of Chaser active Blood Jars if placed in the middle.
 -   Can break two cycles worth of Blood Jars if done as soon as Chaser Blood Jars are connected to him after you talk to him.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), causing the sentinel to remain at the cast position. Because the Sentinel normally rises _after_ its casted, this spark will leave the Sentinel at ground level if cast while grounded.
+-   Can be modified with a [Magnet Spark](Magnet_Spark.md), causing the sentinel to remain at the cast position. Because the Sentinel normally rises _after_ its casted, this spark will leave the Sentinel at ground level if cast while grounded.
 
  |
 | 
@@ -644,7 +644,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Inflicts Burn.
 -   Does not send the user into the air if missed.
 -   Can be upgraded with the "**Meteor Impact**" and "**Phoenix Impact**" Talents, allowing you to follow up with a meteor strike.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
+-   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to make the hitbox larger.
 
  |
 | 
@@ -685,7 +685,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to make the hitbox bigger.
 
  |
 | 
@@ -729,9 +729,9 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Inflicts Burn.
 -   Ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
--   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to make the explosion larger.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to push the user back when casted.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase speed and range.
+-   Can be modified with [Glass](Glass_Stone.md)/[Magnifying Stones](Magnifying_Stone.md) to make the explosion larger.
+-   Can be modified with a [Spring Spark](Spring_Spark.md) to push the user back when casted.
 -   " ■, Fuga "
 
  |
@@ -774,7 +774,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Mantra continues if the second hit isn't parried.
     -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), acting as a pull/grab, but dealing less damage.
+-   Can be modified with a [Reversal Spark](Reversal_Spark.md), acting as a pull/grab, but dealing less damage.
 
  |
 
@@ -847,8 +847,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn and Ragdolls.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to cause the Mantra to fly farther (at the same pace).
--   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox size.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to cause the Mantra to fly farther (at the same pace).
+-   Can be modified with [Glass](Glass_Stone.md)/[Magnifying Stones](Magnifying_Stone.md) to increase the hitbox size.
     -   This reduces the damage dealt however.
 
  |
@@ -890,11 +890,11 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Flame Leap can proc **Meteor Impact**, even without hitting an opponent.
 -   Animation persists on feint.
--   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
--   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
+-   Shares similar traits to the [Strong Leap](Strong_Leap.md) Mantra.
+-   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Strong_Leap.md) Mantra.
 -   The Mantra will not deal damage if used in water.
--   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway) and [Strong Leap](Attunement-less.md#strong-leap).
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), delivering an explosive front flip instead of a vertical leap.
+-   Shares a cooldown with [Neural Pathway](Neural_Pathway.md) and [Strong Leap](Strong_Leap.md).
+-   Can be modified with a [Reversal Spark](Reversal_Spark.md), delivering an explosive front flip instead of a vertical leap.
     -   This variant negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
     -   This variant gets replaced with it's base variant when used in water.
 
@@ -1011,7 +1011,7 @@ N/A
 -   When Flame of Denial procs, any burn on your character will be extinguished.
 -   Can be upgraded with the **Denial Repulse** Talent, causing a 20 Flamecharm damage AOE explosion with a 0.6s windup upon proccing Flame of Denial. This explosion cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
 -   Denial Repulse's explosion has 5 Flamecharm scaling, dealing 30 Flamecharm damage at 100 Flamecharm.
--   While you can modify [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
+-   While you can modify [Vibrant Gems](Vibrant_Gem.md) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
 
  |
 | 
@@ -1051,9 +1051,9 @@ N/A
 -   Can be upgraded with the **Undying Flame** Talent, allowing it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in Depths. However you cannot use this in the Depths Trials.
     -   Cannot be used in Layer 2 of the Depths at all.
     -   **Azure Flames** increases **Undying Flame'**s passive healing by 20%.
--   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
--   Can be modified with [Cloudstone](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size.
--   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) causing the flame to passively heal nearby players. Stacks with its normal healing.
+-   Can be modified with [Aeon](Aeon_Logstone.md)/[Eternal Logstones](Eternal_Logstone.md) to increase duration.
+-   Can be modified with [Cloudstone](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase size.
+-   Can be modified with [Vibrant Gems](Vibrant_Gem.md) causing the flame to passively heal nearby players. Stacks with its normal healing.
 -   Each modifier adds signs to the ritual cast.
 
  |
@@ -1092,7 +1092,7 @@ N/A
 -   Ignites nearby campfire pits if not currently healing you.
 -   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
 -   With **Eruption Path: Lava Serpent**, you will heal 5 hp from every eruption that hits.
--   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
+-   Converts about 25-30 burning damage total. [Logstones](Aeon_Logstone.md) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |
@@ -1156,7 +1156,7 @@ These are Talents found in "_Falling Star Guard_" Category.
 | --- | --- | --- | --- |
 |  | Meteor Impact  
 (25 Flamecharm, Any "Rising" Mantra) | Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move. | After landing certain "uppercut" Mantras and weapon criticals, pressing M1 performs a Meteor Impact. This does your weapon's aerial attack damage + 10 Flamecharm damage.
-The Mantras that can proc this effect are as follows: Rising Flame, Flame Leap (and its spark variant), Rising Frost, Rising Wind, Lightning Impact, Flashfire Sweep, [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints, Rising Thunder (on Guard Break), and Wind Blade (but only the Tempest Wind variant).
+The Mantras that can proc this effect are as follows: Rising Flame, Flame Leap (and its spark variant), Rising Frost, Rising Wind, Lightning Impact, Flashfire Sweep, [Saintsworn's](Saintsworn.md) Galebreathe Blade of Saints, Rising Thunder (on Guard Break), and Wind Blade (but only the Tempest Wind variant).
 
  |
 |  | Phoenix Impact  
@@ -1204,7 +1204,7 @@ These Talents are found in the "_Immolator_" Category.
 |  | Phoenix Flames  
 (40 Flamecharm, All Immolator Talents) | Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. | If you were to burn to death, restore a percentage of your maximum health and get back up. This percentage scales on your Flamecharm investment, being 25% at 0 Flamecharm and scaling up to 50% at 75 Flamecharm. If you were to use Flame Within while knocked to proc this effect, the healing will be halved. |
 |  | Agitating Spark  
-(40 Flamecharm) | Applying [Burning](Status_Effects.md#burn) to enemies spreads to to anyone nearby. Including yourself. | Hitting a burning target spreads the burn status effect to everyone nearby. This affects allies and yourself unless you have the Controlled Combustion Talent. This applies burn even with Eruption Path. |
+(40 Flamecharm) | Applying [Burning](Burn.md) to enemies spreads to to anyone nearby. Including yourself. | Hitting a burning target spreads the burn status effect to everyone nearby. This affects allies and yourself unless you have the Controlled Combustion Talent. This applies burn even with Eruption Path. |
 
 **Inferno:**
 
@@ -1295,9 +1295,9 @@ These Talents are found in the _Withered Flame_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Ash Ember  
-(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals. | Adds a flar amount of extra damage to each burn tick. |
+(90 Flamecharm, 90 Weapon) | The more [wither](Wither.md) your opponent has, the more damage your burn deals. | Adds a flar amount of extra damage to each burn tick. |
 |  | Scorching Decay  
-(100 Flamecharm, 100 Weapon, Emperor Flame) | The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased. | Emperor Flame now applies 75 Wither instead of 25. |
+(100 Flamecharm, 100 Weapon, Emperor Flame) | The [wither](Wither.md) dealt from your Emperor's Flame is massively increased. | Emperor Flame now applies 75 Wither instead of 25. |
 
 **Twisted Puppets:**
 
@@ -1352,7 +1352,7 @@ Steam clouds deal 2 typeless damage per tick in an AoE, at a rate of 6 ticks per
     -   Puppet Burn from Twisted Puppets deals 87.5% less damage than base burn with the same tick rate and scaling. This gives Puppet Burn a DPS of 1 at 0 Flamecharm and 1.5 at 100 Flamecharm. Additionally, this burn type drains 6.25 Ether per tick (15 Ether per second) from affected targets and spawns Puppets every 4 seconds.
     -   Shadow Burn from Twisted Puppets deals 75% less damage than base burn with the same tick rate and scaling. This gives Shadow Burn a DPS of 2 at 0 Flamecharm and 3 at 100 Flamecharm. Additionally, this burn type drains 6.25 Ether per tick (15 Ether per second) from affected targets.
 -   Burn didn't always scale on your Flamecharm investment, nor was it always affected by Flamecharm resistance. This was added in the October 31st, 2024 update.
--   Burn benefits from **general** PEN, such as PEN from [Strength](Attributes.md#str) or [Thresher Claws](Talents.md#thresher-claws).
+-   Burn benefits from **general** PEN, such as PEN from [Strength](Strength.md) or [Thresher Claws](Talents.md#thresher-claws).
 -   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move.
 -   All Flamecharm Mantras deal 10% reduced damage in the rain, unless the user has the _Unyielding Inferno_ Talent.
     -   This also applies to the [First Light](First_Light.md) Critical and Twisted Puppets' Puppets.
@@ -1378,10 +1378,10 @@ Steam clouds deal 2 typeless damage per tick in an AoE, at a rate of 6 ticks per
 -   If the character has the Azure Flames Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames. It can also work with Twisted Puppets, having the critical turn black and spawn in Puppets.
 -   You cannot have both Azure Flames and Twisted Puppets at the same time.
     -   Additionally, you cannot have any combination of Twisted Puppets, Eruption Path, and Flashboil at the same time.
--   Before its release, **Flaming Scourge** was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md#shade-wisp), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
+-   Before its release, **Flaming Scourge** was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shade_Wisp.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 -   Flamecharm was invented by [Amorus Pleeksty](Amorus_Pleeksty.md), a Tiran who later went on to become a Deepwoken.
 -   The **Fire Gun** Mantra gives the player fingers, similar to when casting a Ritual Cast Mantra. Its there, but it's difficult to see due to particles.
--   Before the Perfect Cast mechanic was removed, **Flame Grab** and [Jolt Grab](Thundercall.md#jolt-grab) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, the duration of these Mantras would be shortened and capped, playing "extinguish"-like VFX unique from the regular version.
+-   Before the Perfect Cast mechanic was removed, **Flame Grab** and [Jolt Grab](Jolt_Grab.md) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, the duration of these Mantras would be shortened and capped, playing "extinguish"-like VFX unique from the regular version.
     -   A video summarizing this effect can be found [here](https://youtu.be/o3AJne5Y04U?si=Jzim_sMEg3q-qTkX).
 
 ## References

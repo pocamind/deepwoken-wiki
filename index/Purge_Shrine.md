@@ -25,26 +25,8 @@ The Purge Shrine is an interactable tower that can be found atop a small cliff n
 
 -   The time the player has to escape before the space-time collapse will be increased from 3 minutes to 7 minutes.
 -   The spawnrate frequency of instakill orbs will be reduced by around 2-3 times and the orbs take slightly longer to detonate/explode.
--   The [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) will spawn at the intersection where you will normally find the 4 [Kyrsgarde Lancer](Kyrsgarde_Lancer.md) while escaping.
+-   The [Kyrsgarde Champion](Kyrsgarde_Champion.md) will spawn at the intersection where you will normally find the 4 [Kyrsgarde Lancer](Kyrsgarde_Lancer.md) while escaping.
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="8"><i>*A beacon to something unfathomable stands before you. Like any shrine, it may be used to call forth something, to beckon it closer.*</i></td>
-</tr>
-<tr>
-  <td colspan="8">[Call out]</td>
-</tr>
-<tr>
-  <td colspan="8"><i>*Your voice resounds outwards. The shrine's patron was already close. You have brought it closer.*</i></td>
-</tr>
-<tr>
-  <td colspan="8">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="8"><i>*A beacon to something unfathomable stands before you. Like any shrine, it may be used to call forth something, to beckon it closer.*</i></td></tr><tr><td colspan="8">[Call out]</td></tr><tr><td colspan="8"><i>*Your voice resounds outwards. The shrine's patron was already close. You have brought it closer.*</i></td></tr><tr><td colspan="8">[End Dialogue]</td></tr></tbody></table>

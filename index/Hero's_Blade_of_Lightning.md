@@ -51,8 +51,8 @@ The critical has a cooldown of **10 seconds**.
 ## Trivia
 
 -   The Hero of Thunder is an [Adret](Adret.md) named [Tessa](Tessa.md). Identified by their facial markings.
-    -   Tessa tells the player that Thundercall isn't easily controllable as it appears to be, as said in their [Saintsworn Obelisk](Saintsworn_Obelisks.md).
-    -   The Hero of Thunder was revealed in a Twitter post that teased the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).[\[1\]](#cite-note-1)
+    -   Tessa tells the player that Thundercall isn't easily controllable as it appears to be, as said in their [Saintsworn Obelisk](Saintsworn_Obelisk.md).
+    -   The Hero of Thunder was revealed in a Twitter post that teased the [Saintsworn](Saintsworn.md) [Oath](Oath.md).[\[1\]](#cite-note-1)
 -   The runes on the blade once deciphered say "I TESSA ONE PIECE OF A FIVE POINTED STAR GIVE MY FIERCEST STORMS TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL".
 -   It's previous description read: "A blade said to be enruned with a passage of the song, it evokes the hair-raising trepidation for the incoming storm."
 

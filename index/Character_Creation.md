@@ -8,7 +8,7 @@ categories: [Character, Attributes, Mechanics]
 
 # Character Creation
 
-In _Deepwoken_, you are provided many options to customize your character. There is a variety of [Attunements](Attunements.md), [Aspects](Aspects.md), [Weapons](Weapons.md) and more for you to choose from.
+In _Deepwoken_, you are provided many options to customize your character. There is a variety of [Attunements](Attunement.md), [Aspects](Aspects.md), [Weapons](Weapons.md) and more for you to choose from.
 
 Character Creation screen
 
@@ -16,7 +16,7 @@ Character Creation screen
 
 The world of Deepwoken presents many [Aspects](Aspects.md), with each one of them having its own [Lore](Lore.md) and origin. As a player, you start on each character slots with a random aspect assigned to you by the game automatically. If you want to change your aspect, you may re-roll it by buying an in-game service for 150 [Robux](https://roblox.fandom.com/wiki/Robux).
 
-Unlike in other games, aspects do not give a player major advantage over other players. However, some aspects do have special abilities related to the lore of the specific aspect. For instance, [Boats](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) aspect gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
+Unlike in other games, aspects do not give a player major advantage over other players. However, some aspects do have special abilities related to the lore of the specific aspect. For instance, [Boats](Boats.md) belonging to members of the [Celtor](Celtor.md) aspect gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
 
 Currently the game contains a total of **thirteen** obtainable aspects, with their own special abilities, cosmetics, appearance and accessories that can change depending on the aspect. Scars, eyes and face design is mostly the same for each aspect, with some exceptions.
 
@@ -26,15 +26,15 @@ _(For more information about [Aspects](Aspects.md))_
 
 ## Attunements
 
-Upon your first character customization, you can either choose up to two [Attunements](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras and 10 free trainings. If you can't make up your mind you can also select Random.
+Upon your first character customization, you can either choose up to two [Attunements](Attunement.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras and 10 free trainings. If you can't make up your mind you can also select Random.
 
 [Attunement-less](Attunement-less.md)
 
 [Attunement-less](Attunement-less.md)Attunement-less
 
-[Attunement](Attunements.md)
+[Attunement](Attunement.md)
 
-[Attunement](Attunements.md)Random
+[Attunement](Attunement.md)Random
 
 [Flamecharm](Flamecharm.md)
 
@@ -79,23 +79,23 @@ To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Irons
 
   
 
-_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
+_\[More information about [attunements](Attunement.md) can be found on their corresponding [page](Attunement.md).\]_
 
 ## Weapon Classes
 
 When customizing your character, there are a total of three [Weapon Classes](Weapons.md) you can choose from:
 
 -   **[Heavy Weapons](Weapons.md#heavy-weapons):** _[Battleaxe](Battleaxe.md) (Greataxe), [Avenger](Avenger.md) (Greatsword)_
--   **[Medium Weapons](Weapons.md#medium-weapons):** _[Sword](<Sword_(weapon).md>) (Sword), [Irontusk](Irontusk.md) (Spear)_
+-   **[Medium Weapons](Weapons.md#medium-weapons):** _[Sword](Sword.md) (Sword), [Irontusk](Irontusk.md) (Spear)_
 -   **[Light Weapons](Weapons.md#light-weapons):** _[Stiletto](Stiletto.md) (Dagger), [Quickfang](Quickfang.md) (Rapier), [Silversix](Silversix.md) (Flintlock), along with [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Imperium Kata](Imperium_Kata.md), [Jus Karita](Jus_Karita.md), and [Fang and Coil](Fang_and_Coil.md) if formerly unlocked, these being Fist class weapons_.
 
 _(The [Weapon Manual](Weapon_Manual.md) does not teach you new weapon classes, but it allows you to train the [Attribute](Attributes.md) for the class of weapon you are currently using. To change your weapon class or train a separate weapon class, you need to equip a specific weapon subclass corresponding to your desired class)_
 
 ### Starting Weapons
 
-[Sword](<Sword_(weapon).md>)
+[Sword](Sword.md)
 
-[Sword](<Sword_(weapon).md>)Sword
+[Sword](Sword.md)Sword
 
 [Battleaxe](Battleaxe.md)
 
@@ -224,16 +224,7 @@ There may be some changes to dialogue with NPCs depending on what 'tier' of age 
 -   **(Tier 3) Elderly, Phase 1:** 60 - 69
 -   **(Tier 4) Elderly, Phase 2:** 70 - ???
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption><p><b>(Tier 1) Middle Aged, Phase 1:</b> 40-49 [Wrinkles are visible on the eye and hair color has been changed.)</p></figcaption></figure></td>
-  <td><figure><figcaption><p><b>(Tier 2) Middle Aged, Phase 2:</b> 50-59 (Wrinkles are now very visible on the eye and hair color has changed yet again.)</p></figcaption></figure></td>
-  <td><figure><figcaption><p><b>(Tier 3) Elderly, Phase 1:</b> 60 - 69 (Wrinkles are now visible near the mouth. Your hair has been changed to be more grayer)</p></figcaption></figure></td>
-  <td><figure><figcaption><p><b>(Tier 4) Elderly, Phase 2:</b> 70 -&nbsp;??? (Wrinkles have now reached the last stage, you can see wrinkles all over your face. And your hair is now pretty much gray.)</p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption><p><b>(Tier 1) Middle Aged, Phase 1:</b> 40-49 [Wrinkles are visible on the eye and hair color has been changed.)</p></figcaption></figure></td><td><figure><figcaption><p><b>(Tier 2) Middle Aged, Phase 2:</b> 50-59 (Wrinkles are now very visible on the eye and hair color has changed yet again.)</p></figcaption></figure></td><td><figure><figcaption><p><b>(Tier 3) Elderly, Phase 1:</b> 60 - 69 (Wrinkles are now visible near the mouth. Your hair has been changed to be more grayer)</p></figcaption></figure></td><td><figure><figcaption><p><b>(Tier 4) Elderly, Phase 2:</b> 70 -&nbsp;??? (Wrinkles have now reached the last stage, you can see wrinkles all over your face. And your hair is now pretty much gray.)</p></figcaption></figure></td></tr></tbody></table>
 
 ## Appearance
 

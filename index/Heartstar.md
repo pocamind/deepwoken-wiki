@@ -22,11 +22,11 @@ categories: [Items, Elemental Ingredients]
 
 ## Description
 
-Heartstar is an [Attunement](Attunements.md) item with the primarily used to unlock the [Bloodrend](Bloodrend.md) attunement. Secondary uses include being a consumable, and to spawn [Primadon](Primadon,_Titan_of_the_East.md).
+Heartstar is an [Attunement](Attunement.md) item with the primarily used to unlock the [Bloodrend](Bloodrend.md) attunement. Secondary uses include being a consumable, and to spawn [Primadon](Primadon.md).
 
-By giving 3 Heartstars to [Vyrelda](Vyrelda,_Master_of_Blood.md) located in [Firfire](Firfire.md), you will obtain the [Bloodrend](Bloodrend.md) attunement.
+By giving 3 Heartstars to [Vyrelda](Vyrelda.md) located in [Firfire](Firfire.md), you will obtain the [Bloodrend](Bloodrend.md) attunement.
 
-[Vyrelda](Vyrelda,_Master_of_Blood.md) can also be found in the [Derelict Highchurch](Derelict_Highchurch.md), and she can be given Heartstars there too.
+[Vyrelda](Vyrelda.md) can also be found in the [Derelict Highchurch](Derelict_Highchurch.md), and she can be given Heartstars there too.
 
 ## Obtainment
 

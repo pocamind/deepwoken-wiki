@@ -29,9 +29,9 @@ A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
 
 ### Used in
 
--   [Candied Fruit](Candied_Fruit.md) - 2 Calabash and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
+-   [Candied Fruit](Candied_Fruit.md) - 2 Calabash and 1 [Sap](Sap.md) at a [Campfire](Campfire.md).
 -   [Canteen](Canteen.md) - 1 Calabash and 1 [Beeswax](Beeswax.md) at a [Crafting Station](Crafting_Station.md).
--   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire_Pit.md) required.
+-   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire.md) required.
 
 ## Trivia
 

@@ -28,22 +28,4 @@ The Etrean Royal Guard is located in [Etrean Wilds](Etrean_Wilds.md) on the clif
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>You have an audience with the Lord Regent.</td>
-</tr>
-<tr>
-  <td>What happened here? Who did this? Why is Kennith dead?</td>
-</tr>
-<tr>
-  <td>You have an audience with the Lord Regent.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You have an audience with the Lord Regent.</td></tr><tr><td>What happened here? Who did this? Why is Kennith dead?</td></tr><tr><td>You have an audience with the Lord Regent.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

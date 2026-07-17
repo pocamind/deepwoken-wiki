@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Wandering Demon is an unreleased [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md)gamemode.
+Wandering Demon is an unreleased [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md)gamemode.
 
 ## Trivia
 

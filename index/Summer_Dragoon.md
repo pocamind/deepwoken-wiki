@@ -27,19 +27,19 @@ categories: [Outfits, Master Outfits, The Summer Company, Outfits with Talents, 
 
 _Not to be confused with [Summer Dragoon (NPC)](<Summer_Dragoon_(NPC).md>) or [Dragoon](Dragoon.md)._
 
-**Summer Dragoon** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Summer Dragoon** is a Master [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Bloodless Gem](Bloodless_Gem.md), five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), one (1) [Megalodaunt Hide](Megalodaunt_Hide.md), one (1) [Bounder Claw](Bounder_Claw.md) and one (1) [Thresher Spine](Thresher_Spine.md) to craft.
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Bloodless Gem](Bloodless_Gem.md), five (5) [Vibrant Gems](Vibrant_Gem.md), one (1) [Megalodaunt Hide](Megalodaunt_Hide.md), one (1) [Bounder Claw](Bounder_Claw.md) and one (1) [Thresher Spine](Thresher_Spine.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Sunset Ricochet](Talents.md#sunset-ricochet) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Sunset Ricochet](Talents.md#sunset-ricochet) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 40.5% Ironsing [ResistanceIronsing](Ironsing.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

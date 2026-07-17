@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Kaide is a [Lightborn](Lightborn.md) NPC. He was the last king of the fallen city [Constellia](Constellia.md), one of the largest Celestial Cities in the Heavens.
 
-As the king of Constellia, he was imprisoned in the outskirts of New Kyrsa after the invasion by the [Kyrsans](Kyrsgarde.md) under Ethiron's will, the sole survivor of the conflict. Kaide was set to be killed during the final days of the war, but due to the intervention of [Raeva Ferash Kenestos](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) was captured instead. He mentions about the limited power of the Song and the unsuccessful war between the Celestials and Lightborn against the Drowned Gods, eventually leading to the Celestials fleeing and the Lightborn losing morale, giving up in the process.
+As the king of Constellia, he was imprisoned in the outskirts of New Kyrsa after the invasion by the [Kyrsans](Kyrsgarde.md) under Ethiron's will, the sole survivor of the conflict. Kaide was set to be killed during the final days of the war, but due to the intervention of [Raeva Ferash Kenestos](Raeva_Ferash_Kenestos.md) was captured instead. He mentions about the limited power of the Song and the unsuccessful war between the Celestials and Lightborn against the Drowned Gods, eventually leading to the Celestials fleeing and the Lightborn losing morale, giving up in the process.
 
 Kaide is an aged man with purple eyes and a stern expression. He has long white hair styled into curtain bangs, symmetrically hanging down to his abdomen. His armor consists of gray robes laid over a black, long-sleeved top that features patterns on each sleeve. Lesser aspects such as his pouches and gloves take a dark brown color. A large, bright lavender halo fashioned into a crown with numerous spikes circling it. On his hand is a dark, faded purple twinblade that sports a zig-zag blade with numerous four-pronged star embellishments in between.
 
@@ -35,110 +35,11 @@ Kaide is an aged man with purple eyes and a stern expression. He has long white 
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="36">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="36">Hm... You make a lot of noise. Are you here simply to disturb my meditation, surface dweller?</td>
-</tr>
-<tr>
-  <td colspan="36">What are you?</td>
-</tr>
-<tr>
-  <td colspan="36">A distinct lack of manners, though it's not like I'm surprised. I suppose my people do not often touch the <a href="Glossary.md#the-surface">Surface</a> to make contact with your kind. I am <a href="Glossary.md#lightborn">Lightborn</a>, child of Man and <a href="Glossary.md#the-celestials">Celestial</a>. Who are you?</td>
-</tr>
-<tr>
-  <td colspan="36">[Give him your name]</td>
-</tr>
-<tr>
-  <td colspan="36">Ah, a pleasure to meet you, [First Name]. You surface dwellers do have such strange names. You can call me <a href="Glossary.md#kaide-the-drowned-light">Kaide</a>. It's been many centuries since I've spoken to one of your kind here, I assume you seek entrance to the Bed Chamber of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>?</td>
-</tr>
-<tr>
-  <td colspan="36">I'm not so certain I even know what that is.</td>
-</tr>
-<tr>
-  <td colspan="36">Oh, you poor fool. You may not realize it yet, but you trespass on the territory of a sleeping God. This is the City of <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a> it holds the sleeping form of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> deep within. I assume it is only now being rediscovered due to the discordant sounds of the <a href="Glossary.md#the-song">Song</a> projecting out from this place.</td>
-</tr>
-<tr>
-  <td colspan="9">What's happening with the Song?</td>
-  <td colspan="9">Who are you?</td>
-  <td colspan="9">How do you know all of this?</td>
-  <td colspan="9">Child of Man and Celestial?</td>
-</tr>
-<tr>
-  <td colspan="9">Hmm.. I am not sure how aware you are, surface dweller, but the <i>magic</i> you make use of is not some projection of your own strength. Your power lies within the <a href="Glossary.md#the-song">Song</a>. All you can conjure is a cheap imitation of the power held within the <a href="Glossary.md#the-song">Song</a> that <a href="Glossary.md#the-drowned-gods">Drowned Gods</a> wield as their birthright. If <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> were to wake, as the projections seem to indicate, the world above would simply cease to be.</td>
-  <td colspan="9">I once was Ruler of a place known as <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the <a href="Glossary.md#the-celestials">Celestials'</a> Last Gift. It was left in the hands of my forebearers, and passed to me. Unknown to me, I was to be the last king. The <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a>, under <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td>
-  <td colspan="9">I have been alive far longer than any living member of your kind, save for some of your... ah .. immortals. Our forebearers were once soldiers in the war to fight back the <a href="Glossary.md#the-depths">Depths</a>. But when the <a href="Glossary.md#the-celestials">Celestials</a> fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesied doom.</td>
-  <td colspan="9">A hybrid, you might say. Our creators had hoped to bring our disparate peoples together and combine our strengths. Our bodies were enhanced by hybrid vigor; unyielding to age or to ailment. Our minds... Well, many of us ended up just as clueless and arrogant as the templates we were created from. There are few of us now, as we cannot bear our own kin.</td>
-</tr>
-<tr>
-  <td colspan="4">Who are you?</td>
-  <td colspan="5">How do you know all of this?</td>
-  <td colspan="3">What's happening with the Song?</td>
-  <td colspan="3">How do you know all of this?</td>
-  <td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td>
-  <td colspan="3">Immortals?</td>
-  <td colspan="3">What's happening to the Song?</td>
-  <td colspan="3">Who are you?</td>
-  <td colspan="9">What did the Celestials have to gain? Aren't they gods?</td>
-</tr>
-<tr>
-  <td colspan="15">[See first instance]</td>
-  <td colspan="3">No, the <a href="Glossary.md#the-depths">Depths</a> is far more sinister and cunning than a horde that simply emerges from the Sea. This realm is but one part of the all-encompassing maw of the <a href="Glossary.md#the-depths">Depths</a>. I do not know this for certain, but you've seen the ruins here, no? They aren't of Human or <a href="Glossary.md#the-celestials">Celestial</a> make. I have a suspicion that the realms we call 'Layers' of the <a href="Glossary.md#the-depths">Depths</a>, with their strange environments, may well be worlds that were consumed far before <a href="Glossary.md#lumen">Lumen</a> ever existed...</td>
-  <td colspan="3">Yes, you don't know of them? You surface dwellers have always been a secretive lot. All so suspicious and paranoid. I imagine if they're still alive, then they no doubt occupy positions of power within your world. Behind the scenes though, I should think.</td>
-  <td colspan="9">[See first instance]</td>
-  <td colspan="4"><i>*He rolls his eyes.*</i> What a web they've spun around you. We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering.</td>
-</tr>
-<tr>
-  <td colspan="15"></td>
-  <td colspan="3">[End Dialogue]</td>
-  <td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td>
-  <td colspan="9"></td>
-  <td colspan="4">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="18"></td>
-  <td colspan="3">[See first instance]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="36">Begin Dialogue</td></tr><tr><td colspan="36">Hm... You make a lot of noise. Are you here simply to disturb my meditation, surface dweller?</td></tr><tr><td colspan="36">What are you?</td></tr><tr><td colspan="36">A distinct lack of manners, though it's not like I'm surprised. I suppose my people do not often touch the <a href="Glossary.md#the-surface">Surface</a> to make contact with your kind. I am <a href="Glossary.md#lightborn">Lightborn</a>, child of Man and <a href="Glossary.md#the-celestials">Celestial</a>. Who are you?</td></tr><tr><td colspan="36">[Give him your name]</td></tr><tr><td colspan="36">Ah, a pleasure to meet you, [First Name]. You surface dwellers do have such strange names. You can call me <a href="Glossary.md#kaide-the-drowned-light">Kaide</a>. It's been many centuries since I've spoken to one of your kind here, I assume you seek entrance to the Bed Chamber of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>?</td></tr><tr><td colspan="36">I'm not so certain I even know what that is.</td></tr><tr><td colspan="36">Oh, you poor fool. You may not realize it yet, but you trespass on the territory of a sleeping God. This is the City of <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a> it holds the sleeping form of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> deep within. I assume it is only now being rediscovered due to the discordant sounds of the <a href="Glossary.md#the-song">Song</a> projecting out from this place.</td></tr><tr><td colspan="9">What's happening with the Song?</td><td colspan="9">Who are you?</td><td colspan="9">How do you know all of this?</td><td colspan="9">Child of Man and Celestial?</td></tr><tr><td colspan="9">Hmm.. I am not sure how aware you are, surface dweller, but the <i>magic</i> you make use of is not some projection of your own strength. Your power lies within the <a href="Glossary.md#the-song">Song</a>. All you can conjure is a cheap imitation of the power held within the <a href="Glossary.md#the-song">Song</a> that <a href="Glossary.md#the-drowned-gods">Drowned Gods</a> wield as their birthright. If <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> were to wake, as the projections seem to indicate, the world above would simply cease to be.</td><td colspan="9">I once was Ruler of a place known as <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the <a href="Glossary.md#the-celestials">Celestials'</a> Last Gift. It was left in the hands of my forebearers, and passed to me. Unknown to me, I was to be the last king. The <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a>, under <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td><td colspan="9">I have been alive far longer than any living member of your kind, save for some of your... ah .. immortals. Our forebearers were once soldiers in the war to fight back the <a href="Glossary.md#the-depths">Depths</a>. But when the <a href="Glossary.md#the-celestials">Celestials</a> fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesied doom.</td><td colspan="9">A hybrid, you might say. Our creators had hoped to bring our disparate peoples together and combine our strengths. Our bodies were enhanced by hybrid vigor; unyielding to age or to ailment. Our minds... Well, many of us ended up just as clueless and arrogant as the templates we were created from. There are few of us now, as we cannot bear our own kin.</td></tr><tr><td colspan="4">Who are you?</td><td colspan="5">How do you know all of this?</td><td colspan="3">What's happening with the Song?</td><td colspan="3">How do you know all of this?</td><td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td><td colspan="3">Immortals?</td><td colspan="3">What's happening to the Song?</td><td colspan="3">Who are you?</td><td colspan="9">What did the Celestials have to gain? Aren't they gods?</td></tr><tr><td colspan="15">[See first instance]</td><td colspan="3">No, the <a href="Glossary.md#the-depths">Depths</a> is far more sinister and cunning than a horde that simply emerges from the Sea. This realm is but one part of the all-encompassing maw of the <a href="Glossary.md#the-depths">Depths</a>. I do not know this for certain, but you've seen the ruins here, no? They aren't of Human or <a href="Glossary.md#the-celestials">Celestial</a> make. I have a suspicion that the realms we call 'Layers' of the <a href="Glossary.md#the-depths">Depths</a>, with their strange environments, may well be worlds that were consumed far before <a href="Glossary.md#lumen">Lumen</a> ever existed...</td><td colspan="3">Yes, you don't know of them? You surface dwellers have always been a secretive lot. All so suspicious and paranoid. I imagine if they're still alive, then they no doubt occupy positions of power within your world. Behind the scenes though, I should think.</td><td colspan="9">[See first instance]</td><td colspan="4"><i>*He rolls his eyes.*</i> What a web they've spun around you. We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering.</td></tr><tr><td colspan="15"></td><td colspan="3">[End Dialogue]</td><td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td><td colspan="9"></td><td colspan="4">[End Dialogue]</td></tr><tr><td colspan="18"></td><td colspan="3">[See first instance]</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">Hm... You return and yet you still make so much noise. You'll scarcely leave me with enough time to meditate. I only have eternity, after all.</td>
-</tr>
-<tr>
-  <td>What's happening with the Song?</td>
-  <td>Who are you?</td>
-  <td>How do you know all of this?</td>
-  <td>Do you have anything could help me?</td>
-</tr>
-<tr>
-  <td colspan="3">[See first instance]</td>
-  <td>Hmm... If you should return to the <a href="Glossary.md#the-surface">Surface</a>, let me impart you with a tidbit of knowledge. The <a href="Glossary.md#the-celestials">Celestials</a> were a crafty sort, and would hide many of their relics away in the <a href="Glossary.md#the-voidsea">Voidsea</a> to obscure their whereabouts. The <a href="Glossary.md#the-voidsea">Voidsea</a> being what it is, of course, some of their reliquaries may have now drifted between the <a href="Glossary.md#the-heavens">Heavens</a> and <a href="Glossary.md#the-surface">Surface</a>. If you should find one... Use my blessing to take what you will from it. Note that they're likely still well-defended, however.</td>
-</tr>
-<tr>
-  <td colspan="3"></td>
-  <td>Well-defended?</td>
-</tr>
-<tr>
-  <td colspan="3"></td>
-  <td><i>*He chuckles.*</i> A gift from our predecessors. And part of why we didn't ransack them ourselves.</td>
-</tr>
-<tr>
-  <td colspan="3"></td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Hm... You return and yet you still make so much noise. You'll scarcely leave me with enough time to meditate. I only have eternity, after all.</td></tr><tr><td>What's happening with the Song?</td><td>Who are you?</td><td>How do you know all of this?</td><td>Do you have anything could help me?</td></tr><tr><td colspan="3">[See first instance]</td><td>Hmm... If you should return to the <a href="Glossary.md#the-surface">Surface</a>, let me impart you with a tidbit of knowledge. The <a href="Glossary.md#the-celestials">Celestials</a> were a crafty sort, and would hide many of their relics away in the <a href="Glossary.md#the-voidsea">Voidsea</a> to obscure their whereabouts. The <a href="Glossary.md#the-voidsea">Voidsea</a> being what it is, of course, some of their reliquaries may have now drifted between the <a href="Glossary.md#the-heavens">Heavens</a> and <a href="Glossary.md#the-surface">Surface</a>. If you should find one... Use my blessing to take what you will from it. Note that they're likely still well-defended, however.</td></tr><tr><td colspan="3"></td><td>Well-defended?</td></tr><tr><td colspan="3"></td><td><i>*He chuckles.*</i> A gift from our predecessors. And part of why we didn't ransack them ourselves.</td></tr><tr><td colspan="3"></td><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
@@ -146,227 +47,37 @@ Kaide is an aged man with purple eyes and a stern expression. He has long white 
 
 This dialogue is unlocked if the player has a [Frostthorn](Frostthorn.md) equipped.
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>The daggers by your side... I recognise those ridges, and the spring-loaded blades. Yet, that <i>chill</i>... So unsightly, and unfamiliar. Like a mockery of sorts. Are you aware you wield a weapon of my homeland? Though, admittedly, it appears to have been altered somehow.</td>
-</tr>
-<tr>
-  <td>You recognise these daggers?</td>
-</tr>
-<tr>
-  <td>Not necessarily this exact pair, but yes, I recognise the make. The smiths of <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> forged hundreds of them under my rule, if not thousands. Made of skywrought alloys, resistant to rust, and said to never dull, with an edge honed to perfection. Not my first weapon of choice, as you can see - but our warriors favoured these blades as sidearms in close encounters.</td>
-</tr>
-<tr>
-  <td>It's cold to the touch, and the blade has a crystal-like ringing... Is that part of the original design, too?</td>
-</tr>
-<tr>
-  <td><i>*He shakes his head.*</i> A ghastly and alien feature altogether. If I were to guess, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> must have seized these from our dead, and reworked them for their means. Though, their reasoning for this is beyond me. <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> has bestowed his own fell arsenal of weapons upon the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> - some of it infused with his power. Plundering weapons from the fallen seems pointless in that regard. Perhaps the daggers were originally seized as a sort of war trophy. But what use are trophies to the enthralled?..</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>The daggers by your side... I recognise those ridges, and the spring-loaded blades. Yet, that <i>chill</i>... So unsightly, and unfamiliar. Like a mockery of sorts. Are you aware you wield a weapon of my homeland? Though, admittedly, it appears to have been altered somehow.</td></tr><tr><td>You recognise these daggers?</td></tr><tr><td>Not necessarily this exact pair, but yes, I recognise the make. The smiths of <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> forged hundreds of them under my rule, if not thousands. Made of skywrought alloys, resistant to rust, and said to never dull, with an edge honed to perfection. Not my first weapon of choice, as you can see - but our warriors favoured these blades as sidearms in close encounters.</td></tr><tr><td>It's cold to the touch, and the blade has a crystal-like ringing... Is that part of the original design, too?</td></tr><tr><td><i>*He shakes his head.*</i> A ghastly and alien feature altogether. If I were to guess, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> must have seized these from our dead, and reworked them for their means. Though, their reasoning for this is beyond me. <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> has bestowed his own fell arsenal of weapons upon the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> - some of it infused with his power. Plundering weapons from the fallen seems pointless in that regard. Perhaps the daggers were originally seized as a sort of war trophy. But what use are trophies to the enthralled?..</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Kyrsieger:**
 
 This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped.
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">Gah! That <i>ghastly</i> thing you wield. You truly do have poor taste.</td>
-</tr>
-<tr>
-  <td>Oh. I'm sorry.</td>
-  <td>I'm using it for good, don't worry.</td>
-</tr>
-<tr>
-  <td><i>*He pinches his brow.*</i> Look, whatever you do with that thing isn't my business. Just keep it out of my sight.</td>
-  <td>Right. I'm sure that when <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> whispered to the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> and stole away their minds that they also felt they were doing 'good' when they burnt my city to the ground.</td>
-</tr>
-<tr>
-  <td>Can I ask how long it's been?</td>
-  <td>[End Dialogue]</td>
-</tr>
-<tr>
-  <td><i>*He sighs.*</i> I'm sure you know by now that time doesn't behave itself down here. But to put it into relative terms, <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> fell some 77 years after the <a href="Glossary.md#the-celestials">Celestials</a> abandoned us. Truth be told, I don't know which calendar you're using or how long I've been down here, so I can't offer you much more than that.</td>
-</tr>
-<tr>
-  <td>We use Citadel Era.</td>
-</tr>
-<tr>
-  <td>That's great, but I don't know what this '<a href="Glossary.md#the-citadel-of-markor">Citadel</a>' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and thought ourselves fortunate. How ironic.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Gah! That <i>ghastly</i> thing you wield. You truly do have poor taste.</td></tr><tr><td>Oh. I'm sorry.</td><td>I'm using it for good, don't worry.</td></tr><tr><td><i>*He pinches his brow.*</i> Look, whatever you do with that thing isn't my business. Just keep it out of my sight.</td><td>Right. I'm sure that when <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> whispered to the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> and stole away their minds that they also felt they were doing 'good' when they burnt my city to the ground.</td></tr><tr><td>Can I ask how long it's been?</td><td>[End Dialogue]</td></tr><tr><td><i>*He sighs.*</i> I'm sure you know by now that time doesn't behave itself down here. But to put it into relative terms, <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> fell some 77 years after the <a href="Glossary.md#the-celestials">Celestials</a> abandoned us. Truth be told, I don't know which calendar you're using or how long I've been down here, so I can't offer you much more than that.</td></tr><tr><td>We use Citadel Era.</td></tr><tr><td>That's great, but I don't know what this '<a href="Glossary.md#the-citadel-of-markor">Citadel</a>' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and thought ourselves fortunate. How ironic.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Soulthorn:**
 
 This dialogue is unlocked if the player has a [Soulthorn](Soulthorn.md) equipped.
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">A sinister blade you wield... It calls to mind the one who wielded by <a href="Glossary.md#zhatarn-the-moonlight-prince">Zhatarn</a>, the Moonlight Prince. A tortured presence you bring before me, indeed.</td>
-</tr>
-<tr>
-  <td colspan="2">Zhatarn?</td>
-</tr>
-<tr>
-  <td colspan="2">A <a href="Glossary.md#the-celestials">Celestial</a> driven mad by his own folly in days long past. He took from the <a href="Glossary.md#the-moonseye">Moonseye</a> and so too did it take from him. Though, I'm afraid he passed into myth by our time. Some thought of it merely as a cautionary tale. Though to see such a blade, I have my doubts...</td>
-</tr>
-<tr>
-  <td>How come I never heard of him?</td>
-  <td>What happened to him?</td>
-</tr>
-<tr>
-  <td>Well, look at it this way. Your kind only knows of the <a href="Glossary.md#the-celestials">Celestials</a> who fled to the <a href="Glossary.md#the-surface">Surface</a> following the Heavensfall. And I can't imagine the <a href="Glossary.md#the-celestials">Celestials</a> would have exactly <i>wanted</i> you to know about one of their exiles, so you'd really have little reason to know of him.</td>
-  <td>Hm, The legends said that after his exile from the <a href="Glossary.md#the-heavens">Heavens</a>, he roamed the Void as a wraith. Though, I truly could not tell you if there's any truth to that.</td>
-</tr>
-<tr>
-  <td>What happened to him?</td>
-  <td>How come I never heard of him?</td>
-</tr>
-<tr>
-  <td colspan="2">[See first instance]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">A sinister blade you wield... It calls to mind the one who wielded by <a href="Glossary.md#zhatarn-the-moonlight-prince">Zhatarn</a>, the Moonlight Prince. A tortured presence you bring before me, indeed.</td></tr><tr><td colspan="2">Zhatarn?</td></tr><tr><td colspan="2">A <a href="Glossary.md#the-celestials">Celestial</a> driven mad by his own folly in days long past. He took from the <a href="Glossary.md#the-moonseye">Moonseye</a> and so too did it take from him. Though, I'm afraid he passed into myth by our time. Some thought of it merely as a cautionary tale. Though to see such a blade, I have my doubts...</td></tr><tr><td>How come I never heard of him?</td><td>What happened to him?</td></tr><tr><td>Well, look at it this way. Your kind only knows of the <a href="Glossary.md#the-celestials">Celestials</a> who fled to the <a href="Glossary.md#the-surface">Surface</a> following the Heavensfall. And I can't imagine the <a href="Glossary.md#the-celestials">Celestials</a> would have exactly <i>wanted</i> you to know about one of their exiles, so you'd really have little reason to know of him.</td><td>Hm, The legends said that after his exile from the <a href="Glossary.md#the-heavens">Heavens</a>, he roamed the Void as a wraith. Though, I truly could not tell you if there's any truth to that.</td></tr><tr><td>What happened to him?</td><td>How come I never heard of him?</td></tr><tr><td colspan="2">[See first instance]</td></tr></tbody></table>
 
 **Starkindred:**
 
 This dialogue is unlocked if the player has the [Oath: Starkindred](Oath%253A_Starkindred.md).
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">Hm. You bear their scent. I hesitate to ask what you did.</td>
-</tr>
-<tr>
-  <td colspan="3">I'm not surprised. I drank their ichor.</td>
-  <td colspan="3">Why're you smelling me?</td>
-</tr>
-<tr>
-  <td colspan="3"><i>*He wrinkles his nose.*</i> You're just as depraved as they were. I had hoped better, though I'm not sure why. And just to tap into their art?</td>
-  <td colspan="3">I was being polite. I can be more direct. You <i>reek</i>.</td>
-</tr>
-<tr>
-  <td>They created you and yet you scorn them?</td>
-  <td>I needn't listen to the prattling of a heretic.</td>
-  <td>Their art?</td>
-  <td colspan="3">[End Dialogue]</td>
-</tr>
-<tr>
-  <td>It is <i>because</i> they created us that I scorn them. As any child would a parent that leaves them to die to save their own skin.</td>
-  <td><i>*He rolls his eyes.*</i> Worship them all you like, human. So did we.</td>
-  <td>You drank of their blood and you don't know why? Where Mankind modifies its surroundings with the <a href="Glossary.md#the-song">Song</a>, the <a href="Glossary.md#the-celestials">Celestials</a> modify themselves. Your drinking of their ichor is no doubt to facilitate a <a href="Glossary.md#vows">Vow</a> that imitates how the <a href="Glossary.md#the-celestials">Celestials</a> accessed it.</td>
-</tr>
-<tr>
-  <td colspan="3">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">Hm. You bear their scent. I hesitate to ask what you did.</td></tr><tr><td colspan="3">I'm not surprised. I drank their ichor.</td><td colspan="3">Why're you smelling me?</td></tr><tr><td colspan="3"><i>*He wrinkles his nose.*</i> You're just as depraved as they were. I had hoped better, though I'm not sure why. And just to tap into their art?</td><td colspan="3">I was being polite. I can be more direct. You <i>reek</i>.</td></tr><tr><td>They created you and yet you scorn them?</td><td>I needn't listen to the prattling of a heretic.</td><td>Their art?</td><td colspan="3">[End Dialogue]</td></tr><tr><td>It is <i>because</i> they created us that I scorn them. As any child would a parent that leaves them to die to save their own skin.</td><td><i>*He rolls his eyes.*</i> Worship them all you like, human. So did we.</td><td>You drank of their blood and you don't know why? Where Mankind modifies its surroundings with the <a href="Glossary.md#the-song">Song</a>, the <a href="Glossary.md#the-celestials">Celestials</a> modify themselves. Your drinking of their ichor is no doubt to facilitate a <a href="Glossary.md#vows">Vow</a> that imitates how the <a href="Glossary.md#the-celestials">Celestials</a> accessed it.</td></tr><tr><td colspan="3">[End Dialogue]</td></tr></tbody></table>
 
 **Vortex Echo:**
 
 This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equipped.
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>How strange, I could have sworn your watch is- Ah, yes... you've been here before. My fate really must be sealed.</td>
-</tr>
-<tr>
-  <td>You could come with me you know.</td>
-</tr>
-<tr>
-  <td>...If only it were that simple. The very fact you can come and go raises too many questions. If I left with you, would every other 'me' be convinced to do the same? My absence from your world already proves the choice I made long ago. Leave me to rest, mortal.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>How strange, I could have sworn your watch is- Ah, yes... you've been here before. My fate really must be sealed.</td></tr><tr><td>You could come with me you know.</td></tr><tr><td>...If only it were that simple. The very fact you can come and go raises too many questions. If I left with you, would every other 'me' be convinced to do the same? My absence from your world already proves the choice I made long ago. Leave me to rest, mortal.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Words of Light:**
 
 This dialogue is unlocked if the player has read the [Book](Books.md) [Words of Light](Words_of_Light.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hm... You return and yet you still make so much noise. You'll scarcely leave me with enough time to meditate. I only have eternity, after all.</td>
-</tr>
-<tr>
-  <td>Have you ever heard the name 'Raeva Ferash Kenestos'?</td>
-</tr>
-<tr>
-  <td><i>*His expression betrays bemusement and mild confusion.*</i> ...As I understand it, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> bear similar names. At least, for the <i>most</i> part. Though, I cannot say I am personally well-acquainted with the locals, given the circumstances. Where have you heard this name?</td>
-</tr>
-<tr>
-  <td>I found it in a manifesto signed with that name. It talks of a Kyrsgarde commander who seemingly resisted Ethrion's thrall.</td>
-</tr>
-<tr>
-  <td><i>*He raises an eyebrow.*</i> How... Unusual. Where did you come by such a thing?</td>
-</tr>
-<tr>
-  <td>I found a copy on the body of a powerful Kyrsgarde Champion.</td>
-</tr>
-<tr>
-  <td>Indeed? And what did this <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> look like?</td>
-</tr>
-<tr>
-  <td>They were significantly taller than the others, and wore a cape. They also carried a strange glaive decorated with Moonseye symbols.</td>
-</tr>
-<tr>
-  <td>...Most curious. Your description of this 'Champion' is eerily similar to that of the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander who took me prisoner during the siege of <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. The circumstances of it were unusual, to say the least. He is the sole reason I am now captive here, as opposed to lying among the bodies of my kin within the ruins of the city. An uncanny coincidence... Or, perhaps, a strange twist of fate.</td>
-</tr>
-<tr>
-  <td>What was unusual about your capture?</td>
-</tr>
-<tr>
-  <td>Look around you. Can you count how many <a href="Glossary.md#lightborn">Lightborn</a> you see here? I'll tell you - only <i>one</i>. The rest of my kin were given no quarter during the siege. The invaders took no prisoners. But just as I was moments away from my own death at the hands of their warriors, a <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander matching your description intervened, and ordered my capture instead. Does that not strike you as bizarre? Stranger yet, he appeared to wield a weapon of our own design - a glaive bearing motifs of the <a href="Glossary.md#the-moonseye">Moonseye</a>. And his movements seemed much more refined than those of his warriors. More... <i>lucid</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
-</tr>
-<tr>
-  <td>Strangely individual quirks for a Kyrsgarde, given their enthrallment.</td>
-</tr>
-<tr>
-  <td>...Indeed. If this 'Champion' and the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander are one of the same, this only raises more questions. Given everything you've told me, it sounds as though this one has somehow escaped <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> control. What's more - of the three names you mentioned, the first one is distinctly non-Kyrsan, and is well-known to me. <a href="Glossary.md#raeva">Raeva</a> was the name of one of the <a href="Glossary.md#the-celestials">Celestials</a> that presided over <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before I came to rule the city. I was not there for their departure, but until now, I had assumed they fled, like the others...</td>
-</tr>
-<tr>
-  <td>What do you make of all this?</td>
-</tr>
-<tr>
-  <td><i>*His eyes narrow contemplatively.*</i> All of this seems too specific to be a coincidence. But I cannot offer any satisfying answers to these questions. My original presumption was that all of the <a href="Glossary.md#the-celestials">Celestials</a> fled <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> came - none of them were seen during the siege. But perhaps this was not the case?.. Whatever this 'Champion's' reason for possibly adopting <i>that</i> name is, it's clear that there are things about that woeful day which even I had no clue of...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hm... You return and yet you still make so much noise. You'll scarcely leave me with enough time to meditate. I only have eternity, after all.</td></tr><tr><td>Have you ever heard the name 'Raeva Ferash Kenestos'?</td></tr><tr><td><i>*His expression betrays bemusement and mild confusion.*</i> ...As I understand it, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> bear similar names. At least, for the <i>most</i> part. Though, I cannot say I am personally well-acquainted with the locals, given the circumstances. Where have you heard this name?</td></tr><tr><td>I found it in a manifesto signed with that name. It talks of a Kyrsgarde commander who seemingly resisted Ethrion's thrall.</td></tr><tr><td><i>*He raises an eyebrow.*</i> How... Unusual. Where did you come by such a thing?</td></tr><tr><td>I found a copy on the body of a powerful Kyrsgarde Champion.</td></tr><tr><td>Indeed? And what did this <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> look like?</td></tr><tr><td>They were significantly taller than the others, and wore a cape. They also carried a strange glaive decorated with Moonseye symbols.</td></tr><tr><td>...Most curious. Your description of this 'Champion' is eerily similar to that of the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander who took me prisoner during the siege of <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. The circumstances of it were unusual, to say the least. He is the sole reason I am now captive here, as opposed to lying among the bodies of my kin within the ruins of the city. An uncanny coincidence... Or, perhaps, a strange twist of fate.</td></tr><tr><td>What was unusual about your capture?</td></tr><tr><td>Look around you. Can you count how many <a href="Glossary.md#lightborn">Lightborn</a> you see here? I'll tell you - only <i>one</i>. The rest of my kin were given no quarter during the siege. The invaders took no prisoners. But just as I was moments away from my own death at the hands of their warriors, a <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander matching your description intervened, and ordered my capture instead. Does that not strike you as bizarre? Stranger yet, he appeared to wield a weapon of our own design - a glaive bearing motifs of the <a href="Glossary.md#the-moonseye">Moonseye</a>. And his movements seemed much more refined than those of his warriors. More... <i>lucid</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td></tr><tr><td>Strangely individual quirks for a Kyrsgarde, given their enthrallment.</td></tr><tr><td>...Indeed. If this 'Champion' and the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander are one of the same, this only raises more questions. Given everything you've told me, it sounds as though this one has somehow escaped <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> control. What's more - of the three names you mentioned, the first one is distinctly non-Kyrsan, and is well-known to me. <a href="Glossary.md#raeva">Raeva</a> was the name of one of the <a href="Glossary.md#the-celestials">Celestials</a> that presided over <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before I came to rule the city. I was not there for their departure, but until now, I had assumed they fled, like the others...</td></tr><tr><td>What do you make of all this?</td></tr><tr><td><i>*His eyes narrow contemplatively.*</i> All of this seems too specific to be a coincidence. But I cannot offer any satisfying answers to these questions. My original presumption was that all of the <a href="Glossary.md#the-celestials">Celestials</a> fled <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> came - none of them were seen during the siege. But perhaps this was not the case?.. Whatever this 'Champion's' reason for possibly adopting <i>that</i> name is, it's clear that there are things about that woeful day which even I had no clue of...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

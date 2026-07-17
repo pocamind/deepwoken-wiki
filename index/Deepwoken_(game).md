@@ -14,13 +14,13 @@ _[Deepwoken](https://www.roblox.com/games/4111023553)_ is an open world, rogueli
 
 ## Gameplay
 
-Players control a [Pathfinder](The_Pathfinder.md) who sets out to explore the world. Players can choose from a variety of [Origins](Origins.md), [Attunements](Attunements.md), and [Oaths](Oaths.md) to alter their progression. The game features a much greater emphasis on Player versus Environment (PvE) mechanics than it's predecessor, though still features and encourages Player versus Player (PvP) encounters.
+Players control a [Pathfinder](The_Pathfinder.md) who sets out to explore the world. Players can choose from a variety of [Origins](Origins.md), [Attunements](Attunement.md), and [Oaths](Oaths.md) to alter their progression. The game features a much greater emphasis on Player versus Environment (PvE) mechanics than it's predecessor, though still features and encourages Player versus Player (PvP) encounters.
 
 The combat revolves around balancing one's Posture and Health, parrying attacks to empty a player's own Posture while filling the Posture of enemies.
 
 ## Plot
 
-The game follows the adventures of various individuals in the world of Lumen, chiefly the [Eastern Luminant](Luminants.md). Due to heavy usage of a magic source known as the Song, humanity finds itself beset on all sides by rising Tides and monsters from below, which have claimed much of what exists of the world. What remains are disparate factions with various conflicting ideas for how humanity should conduct itself, driving humanity to infighting as various eldritch monsters from the beyond and their servants begin to close in.
+The game follows the adventures of various individuals in the world of [Lumen](Lumen.md), chiefly the [Eastern Luminant](Eastern_Luminant.md). Due to heavy usage of a magic source known as the Song, humanity finds itself beset on all sides by rising Tides and monsters from below, which have claimed much of what exists of the world. What remains are disparate factions with various conflicting ideas for how humanity should conduct itself, driving humanity to infighting as various eldritch monsters from the beyond and their servants begin to close in.
 
 ### Influences
 
@@ -49,4 +49,4 @@ Two years later, in the 2024 Roblox Innovation Awards, the game was nominated in
 
 ## Version History
 
-See [Version History](Version_History/2026.md).
+See [Version History](Version_History.md).

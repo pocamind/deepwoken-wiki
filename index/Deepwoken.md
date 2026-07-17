@@ -25,7 +25,7 @@ The **Deepwoken** are the individuals who have consumed and merged with a piece 
 There are three known Deepwoken, all likely well over a thousand years old.
 
 -   [Amorus Pleeksty](Amorus_Pleeksty.md)
-    -   Pleeksty ate a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of the [Flamecharm](Flamecharm.md) Attunement.
+    -   Pleeksty ate a part of [Korilfiend](Korilfiend.md) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of the [Flamecharm](Flamecharm.md) Attunement.
 -   [The First Prophet](Lore.md#the-first-prophet) of [The Ministry](The_Ministry.md)
     -   We don't know what Drowned God he merged with to become a Deepwoken, but we know that he isn't human anymore due to the physical changes of becoming one. His powers are unknown, but he would be able to defeat Pleeksty. Theorized to have brought [Shadowcast](Shadowcast.md) upon the world, similar to Pleeksty and/or control water magic[\[2\]](#cite-note-2) due to his inhumanity.
 

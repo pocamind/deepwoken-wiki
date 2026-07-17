@@ -38,15 +38,15 @@ In order of carry load given:
 
 -   The [Union Initiate](Union_Initiate.md) outfit gives 10 carry load.
 -   [Saltchemist](Oath%253A_Saltchemist.md) gives 20 carry load.
--   The carrying capacity [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
+-   The carrying capacity [Echo Upgrade](Echo_Upgrade.md) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
     -   Each upgrade costs 50 echoes, needing 300 total echoes to fully upgrade.
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
     -   The [Wormwarder Lantern](Wormwarder_Lantern.md) gives 10 carry load, but is inferior to the Grand Pathfinder's Backpack.
     -   The [Threadwork Kilt](Threadwork_Kilt.md) gives 20 carry load, but is inferior to the Grand Pathfinder's Backpack.
     -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load, but is inferior to the Grand Pathfinder's Backpack.
--   The [Packmule](Boons_and_Flaws.md#packmule) Boon gives 50 carry load.
--   [Strength](Attributes.md#str) increases your carry load by 0.5 for every point of Strength you get. Caps at +50 carry load at 100 Strength.
--   [Fortitude](Attributes.md#ftd) increases your carry load by 0.5 for every point of fortitude you get. Caps at +50 carry load at 100 Fortitude.
+-   The [Packmule](Packmule.md) Boon gives 50 carry load.
+-   [Strength](Strength.md) increases your carry load by 0.5 for every point of Strength you get. Caps at +50 carry load at 100 Strength.
+-   [Fortitude](Fortitude.md) increases your carry load by 0.5 for every point of fortitude you get. Caps at +50 carry load at 100 Fortitude.
 -   The [base character](Character_Stats.md#carry-load) starts off with 100 carry load.
 
 All of these miscellaneous sources combined would theoretically provide 360 carry load.

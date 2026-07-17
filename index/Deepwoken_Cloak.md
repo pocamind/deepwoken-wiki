@@ -38,7 +38,7 @@ The [Blade Dancer](Talents.md#blade-dancer) Talent resets your roll cooldown upo
 
 ## Trivia
 
--   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason, and there were only three known people that had it after its removal. It was re-added on [May 10th, 2022](Version_History/2022-2021.md#may-10th-2022).
+-   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason, and there were only three known people that had it after its removal. It was re-added on [May 10th, 2022](Version_History/2022.md#may-10th-2022).
 
 ## References
 

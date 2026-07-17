@@ -14,7 +14,7 @@ categories: [Religious groups, The Moonlit Faith]
 | territory | Lullaby Isles, Echelon |
 | goals | Worshipping the Moonseye. |
 
-_This page is about the religion that worships [The Moonseye](Moonseye.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
+_This page is about the religion that worships [The Moonseye](The_Moonseye.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 

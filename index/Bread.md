@@ -40,7 +40,7 @@ When consumed, it replenishes 20% Stomach and 2% Water.
 ### Used in
 
 -   [Crab Pizza](Crab_Pizza.md) - 1 [Crustacean Meat](Crustacean_Meat.md), 1 Bread, 1 [Cheese](Cheese.md).
--   [Grilled Cheese](Grilled_Cheese.md) - 1 [Cheese](Cheese.md), 1 Bread at a [Campfire](Campfire_Pit.md).
+-   [Grilled Cheese](Grilled_Cheese.md) - 1 [Cheese](Cheese.md), 1 Bread at a [Campfire](Campfire.md).
 -   [Kyrsdog](Kyrsdog.md) - 1 Bread, 1 [Frozen Membrane](Frozen_Membrane.md), 1 [Ongo](Ongo.md).
 
 ## Trivia

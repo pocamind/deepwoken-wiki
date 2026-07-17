@@ -24,26 +24,14 @@ The [Celestial's](Celestial.md) blood is also a crucial part of obtaining the [S
 
 _For a visual guide, consider watching this gif_ below.
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td></tr></tbody></table>
 
-The [Bloodrend Trainer, Vyrelda](Vyrelda,_Master_of_Blood.md), can be found inside of the church itself, between the chairs on the left side.
+The [Bloodrend Trainer, Vyrelda](Vyrelda.md), can be found inside of the church itself, between the chairs on the left side.
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td></tr></tbody></table>
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis, which is the the same track used in places such as [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [Voidheart](Voidheart.md), and the [Beloved Zofia](Beloved_Zofia.md).
+-   The music for this area is [Of Labours, Veiled](Of_Labours,_Veiled.md) by Naktigonis, which is the the same track used in places such as [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [Voidheart](Voidheart.md), and the [Beloved Zofia](Beloved_Zofia.md).
 -   This location has the largest interactable bookshelves out of anywhere else in the game.
 -   This church was originally a spot owned by [Ezra](Ezra.md) to worship [Ku](Capra.md), a [Celestial](Celestial.md) that many [Capra](Capra.md) worship. Until [Samael](Samael.md) kicked them out in pursuit of [Starkindred](Oath%253A_Starkindred.md).

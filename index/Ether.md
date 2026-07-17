@@ -14,11 +14,11 @@ categories: [Character, Mantras]
 
 ## Interactions
 
--   It is raised by [Intelligence](Attributes.md#int) (+2 per point), [Charisma](Attributes.md#cha) (+1.5 per point), [Erudition](Traits.md#erudition) (+25 per point), [Equipment](Equipment.md) stats, and certain [Talents](Talents.md).
--   Regenerates faster with higher [Tempo](Combat_Mechanics.md#tempo), regenerates **VERY** slowly at 0 tempo.
+-   It is raised by [Intelligence](Intelligence.md) (+2 per point), [Charisma](Charisma.md) (+1.5 per point), [Erudition](Erudition.md) (+25 per point), [Equipment](Equipment.md) stats, and certain [Talents](Talents.md).
+-   Regenerates faster with higher [Tempo](Tempo.md), regenerates **VERY** slowly at 0 tempo.
 -   Excluding Ether gained from [Equipment](Equipment.md), the maximum obtainable Ether is 750 (120 base, 200 from Intelligence, 150 from Charisma, 150 from Erudition, and up to 130 from [Devastating Power](Talents.md#devastating-power) (not 140 because you lack 25 points for charisma if you get [Chorus Of Souls](https://deepwoken.fandom.com/wiki/Talents#:~:text=Sage%20of%20Wisps-,Chorus%20of%20Souls,-%5BAdvanced%20Talent%2C)).
-    -   [Devastating Power](Talents.md#devastating-power) talent can give 140 ether with [Saintsworn](Oath%253A_Saintsworn.md) and [Chorus Of Souls](https://deepwoken.fandom.com/wiki/Talents#:~:text=Sage%20of%20Wisps-,Chorus%20of%20Souls,-%5BAdvanced%20Talent%2C).
-    -   [Contractor](Oath%253A_Contractor.md) or [Saintsworn](Oath%253A_Saintsworn.md) must be used, as they benefit the most from [Devastating Power](Talents.md#devastating-power).
+    -   [Devastating Power](Talents.md#devastating-power) talent can give 140 ether with [Saintsworn](Saintsworn.md) and [Chorus Of Souls](https://deepwoken.fandom.com/wiki/Talents#:~:text=Sage%20of%20Wisps-,Chorus%20of%20Souls,-%5BAdvanced%20Talent%2C).
+    -   [Contractor](Contractor.md) or [Saintsworn](Saintsworn.md) must be used, as they benefit the most from [Devastating Power](Talents.md#devastating-power).
 -   Maximum ether obtainable increases if you have not bought [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) [Echo modifier](Echoes.md).
     -   The [aspect](Aspects.md) that can get the most ether from not getting [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) is [Celtor](Celtor.md) with a whopping 8.5 additional ether.
 -   Currently (04/07/2026) maximum ether is 1153, reaching this amount is not reccomended unless you wish to cast [Mantras](Mantras.md) that are modified to the limit.

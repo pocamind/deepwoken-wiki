@@ -64,7 +64,7 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
     -   [Apprentice Rapier](Apprentice_Rapier.md) for 16.
     -   [Messer](Messer.md) for 16.
     -   [Mace](Mace.md) for 16.
-    -   [Sword](<Sword_(weapon).md>) for 16.
+    -   [Sword](Sword.md) for 16.
     -   [Iron Spear](Iron_Spear.md) for 25.
     -   [Hunting Bow](Hunting_Bow.md) for 25.
     -   [Ritual Spear](Ritual_Spear.md) for 100.
@@ -90,7 +90,7 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
 ### Bookstore
 
 -   [Bookkeeper Andros](Bookkeeper_Andros.md) can be found here.
--   A permanent [Campfire](Campfire_Pit.md) can be found here.
+-   A permanent [Campfire](Campfire.md) can be found here.
 -   Inside is a [Mantra Lectern](Mantra_Lectern.md) used to modify [Mantras](Mantras.md).
 
 ### General Store
@@ -100,7 +100,7 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
 
 ### Lance's Food
 
--   [Lance Leshi](Lance.md) and [Ms Stick](Ms_Stick.md) can be found selling [Mushroom Omelettes](Mushroom_Omelette.md) for 15, [Megurgers](Megurger.md) for 15, and [Mushroom Bisque](Mushroom_Bisque.md) for 20.
+-   [Lance Leshi](Lance_Leshi.md) and [Ms Stick](Ms_Stick.md) can be found selling [Mushroom Omelettes](Mushroom_Omelette.md) for 15, [Megurgers](Megurger.md) for 15, and [Mushroom Bisque](Mushroom_Bisque.md) for 20.
 -   [Ploom](Ploom.md) can be found reading "The Eternal Flame and the Failure of Man. Amorus Pleeksty"
 -   Inside the shop the [Worshipper's Shield](<Worshipper's_Shield.md>) can be purchased for 45.
 -   Inside the shop the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for 60.
@@ -168,13 +168,13 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to [Kennith](Kennith.md). Kennith is an Etrean Guard and is located next to a bridge near the [Etris Palace](Etris_Palace.md).
 -   [Kennith](Kennith.md) will ask you to talk to the locals of Etris about [The Lord Regent](The_Lord_Regent.md)'s reputation as a ruler.
 -   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) in the library.
--   After speaking with [Bookkeeper Andros](Bookkeeper_Andros.md), head to the Etris Docks and take a right, staying close to the wall. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) as opposed to the one at the death scene of [Kennith](Kennith.md) you must sneak up on them or they will aggro on you)
--   Make sure you talk to the [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) to tell them that the the Lord Regent is expecting you, making them docile unless provoked.
+-   After speaking with [Bookkeeper Andros](Bookkeeper_Andros.md), head to the Etris Docks and take a right, staying close to the wall. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](Etrean_Royal_Guard.md) as opposed to the one at the death scene of [Kennith](Kennith.md) you must sneak up on them or they will aggro on you)
+-   Make sure you talk to the [Etrean Royal Guards](Etrean_Royal_Guard.md) to tell them that the the Lord Regent is expecting you, making them docile unless provoked.
 -   Heading upstairs, speak with the Lord Regent, making sure not to stay too close to his throne. He will hire you into doing his bidding of obtaining the artifact known as the "Forge of Sin" in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) in [Upper Erisia](Upper_Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through [Erisia](Erisia.md). Go through the [Towerstruck Lands](Towerstruck_Lands.md) and through the [The Garden Reservoir](The_Garden_Reservoir.md) until reaching the manor entrance.
 -   To use the key to unlock the black iron gate, the key must be glowing white.
 -   Descend to the elevators, and fight against a handful of [Mindless Servants](Mindless_Servant.md), [Brainsuckers](Brainsucker.md), and [Golem Primes](Golem_Prime.md).
--   Fight [Duke Erisia](Duke_Ishamon_Erisia.md); a [Celtor](Celtor.md) scientist who went insane from his corrupted knowledge.
+-   Fight [Duke Erisia](Duke_Erisia.md); a [Celtor](Celtor.md) scientist who went insane from his corrupted knowledge.
     -   Failure to fight the [boss](Bosses.md) (via escaping the boss room through the elevators again or dying) and reporting to the Lord Regent that you failed to drive the Duke out of the Manor causes the Lord Regent to execute you where you stand.
 -   After you defeat the Duke, if you visit the Lord Regent once again, he thanks you for your help and disposes of you, as you're no longer needed.
     -   If this happens to you and you go back to try and get your loot, even if the guards are passive and you tell them you have an audience with the Lord Regent, the Lord will execute you again if you try to enter his room.
@@ -188,7 +188,7 @@ To begin this quest, talk to [Karliah](Karliah.md), an [Adret](Adret.md) Diver. 
 -   Save her from the [Mudskipper](Mudskipper.md) that is attacking her.
 -   Interact with her.
 -   This quest is very easy to screw up, and if you do so there is no way to uncap Charisma, so be careful.
-    -   Failing will result in her dying to [horseshoe crabs](Horseshoe_Crab.md).
+    -   Failing will result in her dying to [horseshoe crabs](Isopod.md).
 
 #### Ending 1: Promise Broken
 
@@ -239,7 +239,7 @@ After all Authority Guards are defeated, peace is restored and all participating
 
 -   Talk to Nell, located in the Alchemy House.
 -   Accepting Nell's quest requires you to bring [Frigid Prisms](Frigid_Prism.md) to them (two if already obtained and five if not unlocked).
--   After giving them the required items, they then give the player [Glassblood](Attunement_Potions.md).
+-   After giving them the required items, they then give the player [Glassblood](Glassblood.md).
 -   Drinking Glassblood will grant [Frostdraw](Frostdraw.md).
 
 ### Navaen Tribe Rescue Quest
@@ -289,4 +289,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   During Christmas, the tree that [Polis](Polis.md) sits under is changed into a large Christmas tree.
 -   During early testing its caption read as "The scattered embers of a former capital are only kept aglow by the hope give by prophecy."
-    -   This most likely refers to the [King of Etrea](Rolen_Vashtir.md), the last king before disappearing into the [Voidsea](Voidsea.md).
+    -   This most likely refers to the [King of Etrea](King_of_Etrea.md), the last king before disappearing into the [Voidsea](Voidsea.md).

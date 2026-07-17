@@ -24,17 +24,17 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 
 -   Crouching. This increases your Stealth by 50% multiplicatively and adds a flat +50% Stealth afterwards.  
     C r o u c h i n g S t e a l t h \= S t e a l t h × 1.5 + 50 {\\displaystyle CrouchingStealth=Stealth\\times 1.5+50} {\\displaystyle CrouchingStealth=Stealth\\times 1.5+50}
--   Improving your [Agility](Attributes.md#agl) will improve your Stealth.
-    -   Every point of [Agility](Attributes.md#agl) grants +0.2% Stealth.
+-   Improving your [Agility](Agility.md) will improve your Stealth.
+    -   Every point of [Agility](Agility.md) grants +0.2% Stealth.
     -   Passive Agility does **not** grant Stealth.
 -   The [Felinor](Felinor.md) aspect starts with +20% Stealth and has a 1.2x multiplier on Stealth gain.
     -   The Stealth gain multiplier does not apply to Stealth gained from crouching, [Lowstride](Talents.md#lowstride), Felinor's flat stealth, Tacet, or [Taced Minimization](Talents.md#taced-minimization).
 -   The [Lowstride](Talents.md#lowstride) Talent doubles the Stealth bonuses from crouching; increasing your Stealth by 100% multiplicatively and adding +100% flat Stealth, while crouching.  
     L o w s t r i d e S t e a l t h \= S t e a l t h × 2 + 100 {\\displaystyle LowstrideStealth=Stealth\\times 2+100} {\\displaystyle LowstrideStealth=Stealth\\times 2+100}
--   Being in [Tacet](Murmur%253A_Tacet.md) provides +400% flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.
+-   Being in [Tacet](Tacet.md) provides +400% flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.
     -   This is doubled to +800% if you are using [Tacet Minimization](Talents.md#tacet-minimization) from the [Authority Ensign](Authority_Ensign.md) Origin.
--   The [Sly](Boons_and_Flaws.md#unlockable-boons) Boon grands +15% Stealth.
--   The [Obvious](Boons_and_Flaws.md#obvious) Flaw grants -20% Stealth.
+-   The [Sly](Sly.md) Boon grands +15% Stealth.
+-   The [Obvious](Obvious.md) Flaw grants -20% Stealth.
 -   **Equipping specific Outfits**:
     -   [Darkened Bastion](Darkened_Bastion.md), [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Inquisition Light](Inquisition_Light.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Navaen War Chief](Navaen_War_Chief.md), and [Whaler Coat](Whaler_Coat.md) all grant +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
@@ -70,12 +70,12 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 The current maximum Stealth possible is **1,130%** or **1,216%**, depending on your Aspect;
 
 -   [Felinor](Felinor.md) - 140% maximum base Stealth, 260% when crouching, and 380% with [Lowstride](Talents.md#lowstride).
-    -   A [Sly](Boons_and_Flaws.md#unlockable-boons) [Felinor](Felinor.md) - 158% maximum base Stealth, 287% when crouching, and 416% with [Lowstride](Talents.md#lowstride).
-    -   An [Obvious](Boons_and_Flaws.md#obvious) [Felinor](Felinor.md) - 112% maximum base Stealth, 218% when crouching, and 324% with [Lowstride](Talents.md#lowstride).
+    -   A [Sly](Sly.md) [Felinor](Felinor.md) - 158% maximum base Stealth, 287% when crouching, and 416% with [Lowstride](Talents.md#lowstride).
+    -   An [Obvious](Obvious.md) [Felinor](Felinor.md) - 112% maximum base Stealth, 218% when crouching, and 324% with [Lowstride](Talents.md#lowstride).
 -   Any other Aspect - 100% maximum base Stealth, 200% when Crouching, and 300% with [Lowstride](Talents.md#lowstride).
-    -   With [Sly](Boons_and_Flaws.md#unlockable-boons) - 115% maximum base Stealth, 222.5% when crouching, and 330% with [Lowstride](Talents.md#lowstride).
-    -   With [Obvious](Boons_and_Flaws.md#obvious) - 80% maximum base Stealth, 170% when crouching, and 260% with [Lowstride](Talents.md#lowstride).
--   [Tacet](Murmur%253A_Tacet.md) provides 400% flat Stealth while active, and an additional 400% if you are using [Tacet Minimization](Talents.md#tacet-minimization).
+    -   With [Sly](Sly.md) - 115% maximum base Stealth, 222.5% when crouching, and 330% with [Lowstride](Talents.md#lowstride).
+    -   With [Obvious](Obvious.md) - 80% maximum base Stealth, 170% when crouching, and 260% with [Lowstride](Talents.md#lowstride).
+-   [Tacet](Tacet.md) provides 400% flat Stealth while active, and an additional 400% if you are using [Tacet Minimization](Talents.md#tacet-minimization).
 -   In the [Vow of Iron](Vow_of_Iron.md) gamemode, the [Rogue Assassin](Rogue_Assassin.md) Memento can reach a maximum Stealth value of **1,120** or **1,204%**, depending on the Ironsworn's Aspect. This Memento has 150 Agility when Power 20 alongside having access to Lowstride, Tacet, and Tacet Minimization.
 
 ## Usage
@@ -98,11 +98,11 @@ When crouched:
 -   Parkour is restricted and Stealth is increased.
 -   Players can assassinate other humanoids by pressing M1 behind them while crouched. You must be out of combat to assassinate unless you have the [Dustlunge](Talents.md#dustlunge) Talent.
     -   It is important to not _hold_ the crouch key, as this may perform an uppercut instead.
-    -   Against players, assassinations deal a percentage of their maximum health as damage. Initially starting at 15%, you gain 0.1% assassination damage per point in [Agility](Attributes.md#agl), capping at 25% with 100 Agility.
+    -   Against players, assassinations deal a percentage of their maximum health as damage. Initially starting at 15%, you gain 0.1% assassination damage per point in [Agility](Agility.md), capping at 25% with 100 Agility.
     -   Against humanoid NPCs, assassinations deal large damage, though you can increase the damage further with the [Deep Wound](Talents.md#deep-wound) Talent.
     -   Some NPCs such as the [Songseekers](Songseeker_Flamecharmer.md) at [Songseeker Wilds](Songseeker_Wilds.md) or the [Ministry Necromancers](Ministry_Necromancer.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid Monsters such as [Megalodaunts](Megalodaunt.md).
 -   Players can activate [Murmur: Tacet](Murmur%253A_Tacet.md), a Murmur that turns the player invisible in Stealth.
-    -   [Tacet](Murmur%253A_Tacet.md) has a range, or a bubble, where the player is visible to all other players who are also inside the bubble. The range of this bubble scales inversely with both [Power](Power.md) and Stealth.
+    -   [Tacet](Tacet.md) has a range, or a bubble, where the player is visible to all other players who are also inside the bubble. The range of this bubble scales inversely with both [Power](Power.md) and Stealth.
     -   The size of the Tacet bubble caps at 100% Stealth; going above 100% Stealth causes the size to increase instead, due to a bug.
 -   Players can activate [Murmur: Rhythm](Murmur%253A_Rhythm.md), a Murmur that pinpoints the locations of nearby entities and highlights how much current health they have compared to their maximum health by making them "pulse".
 

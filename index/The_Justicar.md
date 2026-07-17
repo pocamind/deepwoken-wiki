@@ -16,7 +16,7 @@ notices:
 | territory | Alsin's Landing |
 | goals | Walking the path they see fit, which in the end is up to Alsin to judge.[1] |
 
-This article is about the faction. For the [Origin](Origins.md), visit [Justicar](<Justicar_(Origin).md>).
+This article is about the faction. For the [Origin](Origins.md), visit [Justicar](Justicar.md).
 
 ## Description
 

@@ -26,46 +26,19 @@ This content is not accessible outside of this gamemode.
 
 **Abandoned Diver** is the lifeless body of **Apprentice Skeli**. The player is able to pocket the [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>) left behind by the corpse.
 
-Skeli was an [Etrean](Etrean.md) [Diver](The_Divers.md) who eventually attained the rank of Journeyman. Skeli had past encounters with the [Black Diver](Black_Divers_division.md) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and witnessed him volunteer to lead an expedition to the [Second Layer](Second_Layer.md). Skeli considered Chaser's eagerness out of character.[\[1\]](#cite-note-journal-ii-1)
+Skeli was an [Etrean](Etrean.md) [Diver](The_Divers.md) who eventually attained the rank of Journeyman. Skeli had past encounters with the [Black Diver](Black_Divers_division.md) [Chaser](Chaser.md), and witnessed him volunteer to lead an expedition to the [Second Layer](Second_Layer.md). Skeli considered Chaser's eagerness out of character.[\[1\]](#cite-note-journal-ii-1)
 
 Skeli was later assigned to the third expedition to the [Second Layer](Second_Layer.md). Their team was sent by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to rendezvous with Chaser, the sole survivor of the previous two expedition teams.[\[1\]](#cite-note-journal-ii-1)
 
 Skeli suspected that foul play was involved, and partially blamed Klaris for the situation. Despite the harsh conditions of the Second Layer, Skeli doubted that two entire expeditions could have been entirely wiped out. Based on testimony from the local [Kyrsgarde](Kyrsgarde.md), Skeli concluded Chaser had most likely engineered the end of his previous two teams and recorded their suspicions in their [journal](<Diver's_Journal%253A_Journeyman_Skeli.md>). Skeli feared what would happen if Chaser harnessed the power of [New Kyrsa](Second_Layer/New_Kyrsa.md) and stressed that he couldn't be trusted. The last pages of Skeli's journal were covered by frantic scribbles, seemingly to hide the contents within.[\[1\]](#cite-note-journal-ii-1)
 
-At one point, Skeli spoke with [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>) and told them about [the Frontier Furnace](The_Frontier_Furnace.md)'s location.[\[3\]](#cite-note-journal-iii-3)
+At one point, Skeli spoke with [Apprentice Hero](Apprentice_Hero.md) and told them about [the Frontier Furnace](The_Frontier_Furnace.md)'s location.[\[3\]](#cite-note-journal-iii-3)
 
 Eventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, was later found by [the Pathfinder](The_Pathfinder.md).
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*The Etrean diver's body lies frozen and lifeless before you.</i></td>
-</tr>
-<tr>
-  <td colspan="2">[Search]</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*You find a diary in the pockets of the <a href="Glossary.md#the-divers">Diver</a>.</i></td>
-</tr>
-<tr>
-  <td>[Read it]</td>
-  <td>Secrets are best left to the dead.</td>
-</tr>
-<tr>
-  <td><i>*You find only one legible entry among the tattered pages and pocket it to read later.*</i></td>
-  <td><i>*You leave the body alone.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Journeyman_Skeli.md">Diver's Journal: Journeyman Skeli</a></td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*The Etrean diver's body lies frozen and lifeless before you.</i></td></tr><tr><td colspan="2">[Search]</td></tr><tr><td colspan="2"><i>*You find a diary in the pockets of the <a href="Glossary.md#the-divers">Diver</a>.</i></td></tr><tr><td>[Read it]</td><td>Secrets are best left to the dead.</td></tr><tr><td><i>*You find only one legible entry among the tattered pages and pocket it to read later.*</i></td><td><i>*You leave the body alone.*</i></td></tr><tr><td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Journeyman_Skeli.md">Diver's Journal: Journeyman Skeli</a></td><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

@@ -34,4 +34,4 @@ If you have the [All the Dead Gods](Talents.md#all-the-dead-gods) Talent, your A
 
 -   The effect of this ring does not stack with other sources of anti-heal such as Saint Jay.
     -   Hitting an opponent multiple times during it's duration will not stack its time or anti-heals.
--   The status that this ring applies is referred to as [Pestilence](Status_Effects.md#pestilence).
+-   The status that this ring applies is referred to as [Pestilence](Pestilence.md).

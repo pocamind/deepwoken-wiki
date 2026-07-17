@@ -17,7 +17,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 
 ## Description
 
-Songseeker Frostdrawers are enemy NPCs that can be found in [Songseeker Wilds](Songseeker_Wilds.md) and on [Minityrsa](Minityrsa.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md). As for [Minityrsa](Minityrsa.md), they can only spawn in Random Encounters.
+Songseeker Frostdrawers are enemy [NPCs](NPCs.md) that can be found in [Songseeker Wilds](Songseeker_Wilds.md) and on [Minityrsa](Minityrsa.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md). As for [Minityrsa](Minityrsa.md), they can only spawn in Random Encounters.
 
 Songseeker Frostdrawers wear an Aspirant Mask (Saphire) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 

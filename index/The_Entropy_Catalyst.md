@@ -22,7 +22,7 @@ The machina hisses ominously against the nature surrounding it, standing as a pr
 
 The Entropy Catalyst is a location within [Siirka Point](Siirka_Point.md), an island next to a sea highway and a Luminant gate. It is protected by 2 walls that can be broken through by hitting it or Mantras that break objects.
 
-This location is a [Voidzone](Voidzones.md), meaning that dying here will send you to the Depths. You can find [Pristine Lotuses](Pristine_Lotus.md) and [Erisore](Ores.md#erisore) here.
+This location is a [Voidzone](Voidzones.md), meaning that dying here will send you to the Depths. You can find [Pristine Lotuses](Pristine_Lotus.md) and [Erisore](Erisore.md) here.
 
 By picking up a **knocked** person who has an [Oath](Oaths.md), and interacting with one of the four holes, it will sacrifice them and a wind will form about the circle, filling with light and prompting the player to sacrifice 2 more.
 
@@ -34,8 +34,8 @@ Guide on how to get to the Entropy Catalyst: [https://www.youtube.com/watch?v=K-
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
+-   The music for this area is [Of Labours, Veiled](Of_Labours,_Veiled.md) by Naktigonis
 -   The sacrificial process is similar to [one](https://rogue-lineage.fandom.com/wiki/Tomeless) in _Rogue Lineage_.
 -   The symbol in the middle of it is the Moonseye put over the Suncross.
     -   It could therefore be inferred that it represents a solar eclipse.
--   While [Erisore](Ores.md#erisore) can be primarily found in [Erisia](Erisia.md), it is unknown how it manages to thrive here.
+-   While [Erisore](Erisore.md) can be primarily found in [Erisia](Erisia.md), it is unknown how it manages to thrive here.

@@ -22,7 +22,7 @@ categories: [Mechanics, Items, Tools]
 
 ## Description
 
-Campfires are used to [cook food](Food.md) and replenish the player's [Blood](Combat_Mechanics.md#survival-basics), [Health](Combat_Mechanics.md#gui), [Armor](Combat_Mechanics.md#gui), Natural Armor (requires the [Vesperian](Vesperian.md) Aspect **OR** the [Exoskeleton](Talents.md#freak-of-nature) Talent), and [Sanity](Insanity.md).
+Campfires are used to [cook food](Food.md) and replenish the player's [Blood](Combat_Mechanics.md#survival-basics), [Health](Combat_Mechanics.md#gui), [Armor](Combat_Mechanics.md#gui), Natural Armor (requires the [Vesperian](Vesperian.md) Aspect **OR** the [Exoskeleton](Talents.md#freak-of-nature) Talent), and [Sanity](Sanity.md).
 
 A Campfire Pit can be must be crafted with the following recipe:
 
@@ -30,7 +30,7 @@ A Campfire Pit can be must be crafted with the following recipe:
 
 ## Usage
 
-A Campfire Pit must be placed down on the ground and lighting it by using a [Flint](Flint.md) or [Umbral Flint](Flint.md), letting a [Flame Wisp](Flamecharm.md#flame-wisp) light it or by shooting it using [Fire Gun](Flamecharm.md#fire-gun).
+A Campfire Pit must be placed down on the ground and lighting it by using a [Flint](Flint.md) or [Umbral Flint](Umbral_Flint.md), letting a [Flame Wisp](Flame_Wisp.md) light it or by shooting it using [Fire Gun](Fire_Gun.md).
 
 After lighting a Campfire, the player can rest by pressing E, allowing them to cook and replenish any lost stats.
 

@@ -35,22 +35,4 @@ Malta is located inside of the library within the [Temple of the Blade](Temple_o
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? <i>*They mutter something incomprehensible about academia.*</i></td>
-</tr>
-<tr>
-  <td>What are you researching?</td>
-</tr>
-<tr>
-  <td>You're interested? Hm, well, I've been reading up on the <b>Sky Statues</b> dotted around the luminant. Apparently in days past they were used by swordsmen of this very island to conduct 'Reflection Rituals'. Though, what exactly these were, I have no clue.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? <i>*They mutter something incomprehensible about academia.*</i></td></tr><tr><td>What are you researching?</td></tr><tr><td>You're interested? Hm, well, I've been reading up on the <b>Sky Statues</b> dotted around the luminant. Apparently in days past they were used by swordsmen of this very island to conduct 'Reflection Rituals'. Though, what exactly these were, I have no clue.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

@@ -25,8 +25,8 @@ categories: [Rings, Equipment]
 
 ## Description
 
-The **Cryptwaker's Ring** enhances your [Parasol's Blight](<Parasol's_Blight.md>) summons, increasing their health (applies a small damage resistance to monsters, though this is almost unnoticeable) and granting a chance for an allied [Bonekeeper](Bone_Keeper.md) to spawn when the enchantment procs.
+The **Cryptwaker's Ring** enhances your [Parasol's Blight](<Parasol's_Blight.md>) summons, increasing their health (applies a small damage resistance to monsters, though this is almost unnoticeable) and granting a chance for an allied [Bonekeeper](Bonekeeper.md) to spawn when the enchantment procs.
 
 ## Obtainment
 
-Obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)'s chest after defeating it.
+Obtained from the [Kyrsgarde Champion](Kyrsgarde_Champion.md)'s chest after defeating it.

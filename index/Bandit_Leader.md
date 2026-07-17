@@ -26,7 +26,7 @@ Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_
 -   Faction Ambush- 3 Bandit Leader
 -   Bandit Leader and lowly bandits vs Summer Company Guards
 
-A Bandit Leader wears the [Bounty Hunter](Bounty_Hunter.md) [Outfit](Outfits.md).
+A Bandit Leader wears the [Bounty Hunter](Bounty_Hunter.md) [Outfit](Outfit.md).
 
 ## Moveset
 

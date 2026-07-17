@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-"???" was a [Felinor](Felinor.md) NPC. They were sitting in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+"???" was a [Felinor](Felinor.md) NPC. They were sitting in [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md).
 
 When talked to, they would snap their own neck.
 
@@ -26,19 +26,7 @@ They wore [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">;#%#$%^*$##%#</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">;#%#$%^*$##%#</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

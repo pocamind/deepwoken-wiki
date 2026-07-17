@@ -14,7 +14,7 @@ And now, a road that only one may walk...
 
   
 
-The **Trial of One** is a location in _Deepwoken_. It is currently one of the two wave-based [dungeons](Dungeons.md) in Deepwoken, the other being [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The **Trial of One** is a [location](Locations.md) in _Deepwoken_. It is currently one of the two wave-based [dungeons](Dungeons.md) in Deepwoken, the other being [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Overview
 
@@ -28,7 +28,7 @@ After the completion of each challenge you gain some experience, but you can onl
 
 -   If you attempt to enter the Trial while wearing [Equipment](Equipment.md), you will be rejected entry until you unequip all items.
 -   The Voice of Solitude declares that you _"**discard your possessions**"_ before the first trial, in which you are forced to do so before continuing.
-    -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfit](Outfits.md) you are wearing will have its durability completely drained.
+    -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfit](Outfit.md) you are wearing will have its durability completely drained.
 -   You must use all free and full investment points given to you before each the next trial can begin.
 -   If you've invested too many points (using training equipment mid trial, extra Autodidact points, etc.) the campfire orb will not come down with more points.
 
@@ -119,8 +119,8 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   It is recommended to first enter when you can relatively consistently kill a [Megalodaunt](Megalodaunt.md) without requiring a stat check. Don’t be ashamed if you die on the first few trials—it happens to everyone. It can take days, weeks, or even months to master the Trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The Trial is almost a necessity for improving past a certain point.
 -   Keep in mind this challenge is entirely optional, and is not a requirement to play the game to its fullest.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at Power 1.
--   Any mob can spawn Attuned. This can catch even the best of players off-guard and they might die to an unexpected [Thunderstruck](Monsters.md#attuned-monsters) or [Flamewreathed](Monsters.md#attuned-monsters) Enforcer.
-    -   If you are playing [attunement-less](Attunement-less.md) and encounter a [Shadowmeld](Monsters.md#attuned-monsters) version of any monster, play it safe, as they will effectively have double health, due to their 50% Physical Resistance.
+-   Any mob can spawn Attuned. This can catch even the best of players off-guard and they might die to an unexpected [Thunderstruck](Attuned_Monsters.md) or [Flamewreathed](Attuned_Monsters.md) Enforcer.
+    -   If you are playing [attunement-less](Attunement-less.md) and encounter a [Shadowmeld](Attuned_Monsters.md) version of any monster, play it safe, as they will effectively have double health, due to their 50% Physical Resistance.
 -   It is best to prepare yourself, as you will have to do all mobs in one sitting (except for the initial parry challenge and the Megalodaunt)
 -   Once one of the [Sworn Angels](Sworn_Angel.md) dies, the other will die shortly after. It is highly recommended to attack the knocked body of one Angel while defending yourself against the other to execute the knocked Angel and clear this challenge faster.
 -   Two [Training Gear Cabinets](Training_Gear.md) can be found in the Trial of One [Dungeon](Dungeons.md), and the other in the corridor of the arena entrance. Training Gear can be purchased and used either pre or post-Trial to speed up the transition to conventional progression.
@@ -135,7 +135,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   [Deepbounds](Deepbound.md) that somehow make it out of The Depths at Power 1 are not able to enter the Trial of One.
 -   You can have enchanted weapons during the Trial via passing down or the Bank. (If you can't beat the Trial, enchanting a starter weapon [Providence's Thorns](<Providence's_Thorns.md>) Enchantment may help, as the Trial of One is centered around parrying.)
 -   For a short duration, after the addition of the [Mudskipper Brute](Mudskipper_Brute.md), the [Megalodaunt](Megalodaunt.md) trial was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
--   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md).
+-   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](Voidmother.md).
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   When you get danger bug from "fearsome enemy" it shows that you are in danger by ".hostage\_nomad9".[\[1\]](#cite-note-1)
     -   Having [Providence's Thorns](<Providence's_Thorns.md>) lets you "kill" them and stop the orb attacks.

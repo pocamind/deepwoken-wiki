@@ -30,55 +30,18 @@ Gremors are an [aspect](Aspects.md) similar to deer. They appear with greenish, 
 
   
 
-<table>
-<tbody>
-<tr>
-  <td></td>
-  <td><b>Navae's Guidance</b>
-  <ul>
-    <li>"<i>Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.</i>"
-  <ul>
-    <li>Gain a compass at the top of your screen that points East.</li>
-    <li>Right-clicking on the map creates a Waymarker or Waypoint. This Waymarker will be both visible on the map, and in the physical world as a beam of light.</li>
-    <li>Reduced passive hunger loss.</li>
-    <li>If blind, gain a slight range of clear vision around you.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><font>+</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+3 Fortitude</li>
-    <li>+2 Strength</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td></td><td><b>Navae's Guidance</b><ul><li>"<i>Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.</i>"<ul><li>Gain a compass at the top of your screen that points East.</li><li>Right-clicking on the map creates a Waymarker or Waypoint. This Waymarker will be both visible on the map, and in the physical world as a beam of light.</li><li>Reduced passive hunger loss.</li><li>If blind, gain a slight range of clear vision around you.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Fortitude</li><li>+2 Strength</li></ul></td></tr></tbody></table>
 
 **Iron Vow:**
 
   
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Navae's Technique</b>
-  <ul>
-    <li>"<i>A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 40%."</i>
-  <ul>
-    <li>Mantras take 40% less ether.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Navae's Technique</b><ul><li>"<i>A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 40%."</i><ul><li>Mantras take 40% less ether.</li></ul></li></ul></td></tr></tbody></table>
 
 **Lore:**
 
   
-The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Many Gremor seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremor of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. The Gremor seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by saving one of their people.
+The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Many Gremor seek simple lives away from the conflicts of [The Authority](The_Authority.md), with a majority living in nomadic tribes. The Gremor of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. The Gremor seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by saving one of their people.
 
 **Strengths:**
 

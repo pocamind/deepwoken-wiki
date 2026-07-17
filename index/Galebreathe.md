@@ -18,17 +18,17 @@ Galebreathe icon
 
 _A gremor using Gale Lunge_
 
-**Galebreathe** is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control winds, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
+**Galebreathe** is an [Attunement](Attunement.md) that grants the user the ability to manipulate, conjure and control winds, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
 
 Galebreathe also has [Talents](Talents.md) attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
 ## Obtainment
 
-The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained by giving [Friid](Friid,_Master_of_Gale.md), the Galebreathe trainer located at the [Isle of Vigils](Isle_of_Vigils.md), two [Gale Stones](Gale_Stone.md). Alternatively, you can simply select Galebreathe as your Attunement in Character Creation.
+The [Attunement](Attunement.md) can be unlocked by using a [Skyblood potion](Skyblood.md) obtained by giving [Friid](Friid.md), the Galebreathe trainer located at the [Isle of Vigils](Isle_of_Vigils.md), two [Gale Stones](Gale_Stone.md). Alternatively, you can simply select Galebreathe as your Attunement in Character Creation.
 
 ## Training
 
-Galebreathe can be trained by using the [Gale Kata](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Galebreathe Mantras or eating [Gale Stones](Gale_Stone.md) **(HEAVILY DISCOURAGED)** to gain enough EXP.
+Galebreathe can be trained by using the [Gale Kata](Gale_Kata.md) to increase the attribute after either landing Galebreathe Mantras or eating [Gale Stones](Gale_Stone.md) **(HEAVILY DISCOURAGED)** to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -37,7 +37,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Galebreathe, players will receive the _Expert Galebreatheer_ Talent. This allows players to obtain 2-star Galebreathe Mantras.
 -   Finally, at 50 Galebreathe, players will receive the _Master Galebreatheer_ Talent. This allows players to obtain 3-star Galebreathe Mantras.
 
-You can speak to [Friid](Friid,_Master_of_Gale.md) at the [Isle of Vigils](Isle_of_Vigils.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Galebreathe Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
+You can speak to [Friid](Friid.md) at the [Isle of Vigils](Isle_of_Vigils.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Galebreathe Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Galebreathe Mantra from level 1 to level 2 costs 100 and 20 Galebreathe investment.
 -   To upgrade a Galebreathe Mantra from level 2 to level 3 costs 200 and 40 Galebreathe investment.
@@ -131,9 +131,9 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   Pushes people back and dazes them if they collide with something.
 -   Does not apply hitstun from the blast.
 -   Can break objects.
--   Can be upgraded with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make it wider. It can also be modified with [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) and [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to increase its range.
+-   Can be upgraded with [Cloudstones](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) to make it wider. It can also be modified with [Perfect Lenses](Perfect_Lens.md) and [Crystal Lenses](Crystal_Lens.md) to increase its range.
 -   Fires towards your cursor. If shift lock is activated, it fires in the direction your character is facing instead.
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to pull in enemies instead of pushing them away.
+-   Can be modified with a [Reversal Spark](Reversal_Spark.md) to pull in enemies instead of pushing them away.
 
  |
 | 
@@ -210,7 +210,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   The default variant deals 12 posture damage regardless of level, while the Tempest Wind variant deals 4/5/6/7/8 posture damage per level.
 -   Both variants have a windup of 0.425 seconds.
 -   Projectile lasts about 3-5 seconds
--   Modifying with a [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) will increase projectile's speed significantly.
+-   Modifying with a [Drift](Drift_Shard.md)/[Rush Shards](Rush_Shard.md) will increase projectile's speed significantly.
 -   Casting Wind Blade while sliding will perform the "**Tempest Wind**" variant of the Mantra. This version deals increased damage at the cost of range, as well as proccing the [Suffocation](Status_Effects.md#suffocation) status effect innately.
     -   This variant can be increased further with the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) Talent, increasing the damage of your Tempest Wind-Wind Blade by 20% and granting a 20% damage buff while midair after proccing it.
 
@@ -290,7 +290,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
--   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance).
+-   Shares a cooldown with [Ice Lance](Ice_Lance.md).
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
@@ -329,8 +329,8 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Deals 8 posture damage per hit (3).
 -   Has a windup of 0.55 seconds with a 0.7 second windup in between each hit. Has a cooldown of 9.5 seconds.
 -   Can break objects at level 2+.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the size and distance respectively.
--   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase the speed of the push, or pull with **Vacuum Punch**.
+-   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) and [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the size and distance respectively.
+-   Can be modified with [Vibrant Gems](Vibrant_Gem.md) to increase the speed of the push, or pull with **Vacuum Punch**.
 -   Can be upgraded with the "**Vacuum Punch**" Talent, pulling in targets on hit at the cost of 0.1s extra windup.
 
  |
@@ -370,9 +370,9 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   Hits 14 times over 2 seconds.
 -   Has a windup of 0.6 seconds with a cooldown of 10 seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
--   Applies the [Suffocation](Status_Effects.md#suffocate) status effect.
+-   Applies the [Suffocation](Suffocation.md) status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), causing the trap to detonate on contact with any object.
+-   Can be modified with a [Blast Spark](Blast_Spark.md), causing the trap to detonate on contact with any object.
 -   Refer to [Gale Trap](Talents.md#gale-trap) if you are looking for the talent instead.
 
  |
@@ -526,8 +526,8 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   On cast, your opponent will be forced to stop blocking if applicable and they will be slowed. The Multiplying Spark variant loses this feature however.
 -   Medium-far range.
 -   Forces you to stand still on cast.
--   Can be modified with [Perfect](Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), to individually fire the blades and grant them homing. This adds travel time to your Mantra and removes the force unblock and slow on cast.
+-   Can be modified with [Perfect](Perfect_Lens.md)/[Crystal Lenses](Crystal_Lens.md) to increase the range.
+-   Can be modified with a [Multiplying Spark](Multiplying_Spark.md), to individually fire the blades and grant them homing. This adds travel time to your Mantra and removes the force unblock and slow on cast.
 
  |
 | 
@@ -610,7 +610,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Blunt ResistanceBlunt
 -   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
 -   Can vent during the mantra, however, this does not cancel it.
 -   Can proc **Meteor Impact**.
--   Can be modified with [Perfect](Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
+-   Can be modified with [Perfect](Perfect_Lens.md)/[Crystal Lenses](Crystal_Lens.md) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
 
  |
 | 
@@ -649,8 +649,8 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.55 seconds with a 0.11 second delay between each hit. Has a 10 second cooldown.
 -   Can be ended early by pressing your feint key.
 -   Pushes your opponent away on the final hit.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase it's size.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers), moving the carve further away from the caster on use.
+-   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase it's size.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md), moving the carve further away from the caster on use.
 -   Your character's rotation speed is slowed during this attack.
 
  |
@@ -692,9 +692,9 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   The base variant deals 10 posture damage. The Blast Spark variant deals 4 posture damage per hit (4), while the Multiplying Spark variant deals 0.8 posture damage per hit (8). Both sparks combined deals 3 posture damage per hit (24).
 -   Has a windup of 0.45 seconds. The Multiplying and both Spark variants has a windup of 0.55 seconds. Has a 15 second cooldown.
 -   Pushes and ragdolls opponent.
--   Applies the [Suffocate](Status_Effects.md#suffocate) status effect.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a vert tight cone AoE.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a wide cone AoE.
+-   Applies the [Suffocate](Suffocate.md) status effect.
+-   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to fire a few bullets at once in a vert tight cone AoE.
+-   Can be modified with a [Blast Spark](Blast_Spark.md) to fire a few bullets at once in a wide cone AoE.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds.
 
  |
@@ -733,7 +733,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Deals 2.5 posture damage per hit (5).
 -   Has a windup of 0.45 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
 -   At level 3+, the last hit of Astral Wind sends the opponent upwards.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
+-   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
@@ -761,7 +761,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
-50 Galebreathe, Defeated [Duke Erisia](Duke_Ishamon_Erisia.md)
+50 Galebreathe, Defeated [Duke Erisia](Duke_Erisia.md)
 
  |
 | 
@@ -773,7 +773,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.8 seconds.
 -   Gives hyperarmor when casting.
 -   Applies ragdoll.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make it reach further.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to make it reach further.
 
  |
 
@@ -845,7 +845,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 1 seconds with a 12 second cooldown.
 -   Decreases in range as your health gets lower.
 -   Travel distance will be halved if there is no target in its path.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the distance travelled, making it a very useful tool for horizontal mobility.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the distance travelled, making it a very useful tool for horizontal mobility.
 -   Can be used to clip through walls while in the [Second Layer](Second_Layer.md).
 
  |
@@ -1078,10 +1078,10 @@ Gale Wisp will extend the duration of Haunted by 3 seconds.
 -   The wind phantom visual from the "_Haunted Gale_" Talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.[\[2\]](#cite-note-2)
 -   The "_Tempest Wind_" Variant of **Wind Blade** can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
     -   Alternatively, you could cast it early to feint the M1 but due to its low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counterattack after blocking or rolling the M1, but this is negated by parries.
--   Pairing this attunement along the [Jetstriker Oath](Oath%253A_Jetstriker.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and [Jetstriker's](Oath%253A_Jetstriker.md) mobility-based kit. The _Wind Step_ and _Aerogliding_ Talents, along with all of the [Jetstriker](Oath%253A_Jetstriker.md) Talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
+-   Pairing this attunement along the [Jetstriker Oath](Oath%253A_Jetstriker.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and [Jetstriker's](Oath%253A_Jetstriker.md) mobility-based kit. The _Wind Step_ and _Aerogliding_ Talents, along with all of the [Jetstriker](Jetstriker.md) Talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
 -   Galebreathe is good for pressuring an opponent thanks to its high mobility.
 -   **Tornado** would sometimes be referred to as "Wind Eruption" in patch notes. This is because its internal Mantra ID is "Eruption:Wind".
--   **Wind Passage** shares it's startup sound with [Shadow Assault](Shadowcast.md#shadow-assault).
+-   **Wind Passage** shares it's startup sound with [Shadow Assault](Shadow_Assault.md).
 -   Given that galebreathe manipulates air, and that sounds in deepwoken travel instantly, and the fact that gale projectiles travel slower than sound in real life, this means that the differences in air pressure in the world of deepwoken are massive, as sometimes air can travel at the speed of light, while other times its many times slower than the real life speed of sound. This would likely mean that peoples ears get burst constantly.
 
 ## References

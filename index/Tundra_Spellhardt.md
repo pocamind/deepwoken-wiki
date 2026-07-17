@@ -21,31 +21,4 @@ Tundra is female [Lightborn](Lightborn.md) located in [The Floating Keep](The_Fl
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="3">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="3">You're one of those land-dwellers, right? It's so exciting seeing new faces up here...</td>
-</tr>
-<tr>
-  <td>I guess so.</td>
-  <td>Is it usually just Spellhardts here?</td>
-</tr>
-<tr>
-  <td>I hope the others haven't been giving you a hard time. They usually are only able to take out anger on eachother, so hopefully that hasn't extended to you.</td>
-  <td>It's not exactly easy for visitors to just fly on in, y'know, we're up in the sky. Well. Unless. <i>*She glares at you suddenly.*</i> ..I've got my eye on you, just in case.</td>
-</tr>
-<tr>
-  <td>Is there a lot of fighting?</td>
-  <td>[End Dialogue]</td>
-</tr>
-<tr>
-  <td>*<i>The woman would let out a loud scoff, then shrugging her shoulders.</i>* Well! You're standing in a room called <i>The Dispute Hall</i>, it's quite easy to assume we have our little disagreements. Settled by blade, usually.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="3">Begin Dialogue</td></tr><tr><td colspan="3">You're one of those land-dwellers, right? It's so exciting seeing new faces up here...</td></tr><tr><td>I guess so.</td><td>Is it usually just Spellhardts here?</td></tr><tr><td>I hope the others haven't been giving you a hard time. They usually are only able to take out anger on eachother, so hopefully that hasn't extended to you.</td><td>It's not exactly easy for visitors to just fly on in, y'know, we're up in the sky. Well. Unless. <i>*She glares at you suddenly.*</i> ..I've got my eye on you, just in case.</td></tr><tr><td>Is there a lot of fighting?</td><td>[End Dialogue]</td></tr><tr><td>*<i>The woman would let out a loud scoff, then shrugging her shoulders.</i>* Well! You're standing in a room called <i>The Dispute Hall</i>, it's quite easy to assume we have our little disagreements. Settled by blade, usually.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

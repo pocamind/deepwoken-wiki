@@ -31,19 +31,7 @@ Renau is located in the [The Depths](The_Depths.md) in [The Chariot's Spire](<Th
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Last trip's batch seemed... Er. Underqualified. Young Epsi got sent down despite my protestations. Poor kid. He's barely ready for this layer, let alone the second.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Last trip's batch seemed... Er. Underqualified. Young Epsi got sent down despite my protestations. Poor kid. He's barely ready for this layer, let alone the second.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

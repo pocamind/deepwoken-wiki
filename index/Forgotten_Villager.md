@@ -74,63 +74,15 @@ A Forgotten Villager executes their opponent after knocking them:
 
 **Quest Start:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hello? Oh thank the gods, not another bandit... Can you help us?</td>
-</tr>
-<tr>
-  <td>Help with what?</td>
-</tr>
-<tr>
-  <td>The Royal <a href="Glossary.md#pathfinders">Pathfinder</a> of this island... He is searching for all of those that lived here before the island froze in time. He claims to be an ally but his loyalty still lies with the Lord of this land... Our people look to him as a protector, but I know the truth. Wait do you hear that outside?</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hello? Oh thank the gods, not another bandit... Can you help us?</td></tr><tr><td>Help with what?</td></tr><tr><td>The Royal <a href="Glossary.md#pathfinders">Pathfinder</a> of this island... He is searching for all of those that lived here before the island froze in time. He claims to be an ally but his loyalty still lies with the Lord of this land... Our people look to him as a protector, but I know the truth. Wait do you hear that outside?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Quest End:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Thank you stranger.</td>
-</tr>
-<tr>
-  <td>You're welcome.</td>
-</tr>
-<tr>
-  <td>My only worry is that something has happened. Our temple has been desecrated by some strange creature and the golems are attacking us. Duke Erisia himself must have answers..</td>
-</tr>
-<tr>
-  <td>[End Dialogue], chest obtained</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Thank you stranger.</td></tr><tr><td>You're welcome.</td></tr><tr><td>My only worry is that something has happened. Our temple has been desecrated by some strange creature and the golems are attacking us. Duke Erisia himself must have answers..</td></tr><tr><td>[End Dialogue], chest obtained</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>I appreciate the help stranger... Hopefully we can find a way off this island before it drifts back into the Voidsea.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I appreciate the help stranger... Hopefully we can find a way off this island before it drifts back into the Voidsea.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

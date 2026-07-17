@@ -77,7 +77,7 @@ Both criticals will instantly max out your [Emperor Flame](Talents.md#emperor-fl
 
 -   Elaborated in the description, a [macuahuitl](https://en.wikipedia.org/wiki/Macuahuitl) is from the Aztec culture.
     -   In real life, macuahuitls are embedded with sharp obsidian blades, providing a sharper edge than normal swords, which is also mentioned in the description.
--   The player does not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately. In the case that the player wipes purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
+-   The player does not need to defeat [Chaser](Chaser.md) to keep Pleeksty's Inferno, as it can be equipped immediately. In the case that the player wipes purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
     -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded with the weapon upon Chaser's death instead of Aska's.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.

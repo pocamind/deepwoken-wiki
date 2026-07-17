@@ -38,16 +38,16 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category.
+The Wooden Staff is a [Staff](Staff.md) weapon in the Medium category.
 
 ## Talents
 
 Equipping the Wooden Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Both Ends** allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+**Both Ends** allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Critical
 
 Wooden Staff uses the default Staff critical, a pole vault before slamming the staff onto the target, knocking them away and applying [Knockdown](Status_Effects.md#knockdown). It has a scaled damage multiplier of **0.4x** on the pole vault and **2.2x** on the slam, and has a cooldown of **6 seconds**. This critical can break destructible terrain.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.

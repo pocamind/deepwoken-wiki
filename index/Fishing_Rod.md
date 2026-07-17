@@ -58,7 +58,7 @@ The Fishing Rod in the Etrean Sea is located on a seperate island near [Lower Er
 
 **Guild Base:**
 
-The Fishing Rod in a [Guild Base](Guild_Bases.md) is located in the fishing room on a shelf.
+The Fishing Rod in a [Guild Base](Guild_Base.md) is located in the fishing room on a shelf.
 
 -   Costs 35.
 -   The Guild Base can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by using a [Chime of Dwelling](Chime_of_Dwelling.md).

@@ -23,19 +23,19 @@ categories: [Relics, Items, Spires]
 
 ## Description
 
-The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Void Spire](Void_Spire.md) that allows its user to summon [Rain](Environmental_Hazards.md) and [fishing spots](Fishing.md) for 5 minutes. It has infinite uses but has a 40 minute cooldown as a drawback.
+The **Rain Spire** is a reusable [Relic](Relic.md) similar in design to the [Void Spire](Void_Spire.md) that allows its user to summon [Rain](Rain.md) and [fishing spots](Fishing.md) for 5 minutes. It has infinite uses but has a 40 minute cooldown as a drawback.
 
 ## Trivia
 
 -   Rain Spire can summon different [Environmental Hazards](Environmental_Hazards.md) depending on the area.
     -   [Upper Erisia](Upper_Erisia.md): Acid Rain
-    -   [Minityrsa](Minityrsa.md) & [Winter](Seasons.md#winter): Hail
+    -   [Minityrsa](Minityrsa.md) & [Winter](Winter.md): Hail
     -   [Aratel Island](Aratel_Island.md): Sandstorm
 -   The rain spire has a multitude of synergies due to environmental effects;
-    -   The [Storm](Storm.md) and [Stormbreaker](Stormbreaker.md) enchantments deal increased damage during [rain](Environmental_Hazards.md). These deal 33% of your weapon's scaled damage on proc when it's raining as opposed to the base 16.5%.
-    -   All sources of [Thundercall](Thundercall.md) damage gain a 5% damage buff when it is [raining](Environmental_Hazards.md). The [Stratoshock](Talents.md#stratoshock) Talent increases this by another 5%.
-    -   [Flamecharm](Flamecharm.md) deals 10% less damage and burn extinguishes during [rain](Environmental_Hazards.md), potentially debuffing your opponent. Though, these downsides can be negated if they have the [Undying Flame](Talents.md#undying-flame) Talent.
-    -   All sources of [Frostdraw](Frostdraw.md) damage gains a 10% damage buff if it is [snowing](Environmental_Hazards.md).
+    -   The [Storm](Storm.md) and [Stormbreaker](Stormbreaker.md) enchantments deal increased damage during [rain](Rain.md). These deal 33% of your weapon's scaled damage on proc when it's raining as opposed to the base 16.5%.
+    -   All sources of [Thundercall](Thundercall.md) damage gain a 5% damage buff when it is [raining](Rain.md). The [Stratoshock](Talents.md#stratoshock) Talent increases this by another 5%.
+    -   [Flamecharm](Flamecharm.md) deals 10% less damage and burn extinguishes during [rain](Rain.md), potentially debuffing your opponent. Though, these downsides can be negated if they have the [Undying Flame](Talents.md#undying-flame) Talent.
+    -   All sources of [Frostdraw](Frostdraw.md) damage gains a 10% damage buff if it is [snowing](Snow.md).
 -   Rain Spire can, for whatever reason be used in [Chime of Conflict](Chime_of_Conflict.md).
 -   Rain Spire is the first ever Relic to release in Deepwoken. It came in the same update that released the [Ironsing](Ironsing.md) Attunement on May 22, 2023.
 -   Rain Spire is one of the two [Relics](Relics.md) that has infinite uses, with the other one being the [Void Spire](Void_Spire.md).

@@ -20,7 +20,7 @@ At the outermost extremities of a vast and ancient mechanism, whose true purpose
 
 ## Overview
 
-Simforea is an island in the [Voidsea](Voidsea.md). It is a [Driftland](https://deepwoken.fandom.com/wiki/Glossary#Driftlands) that has recently come back from the Voidsea into the far edges of the [Eastern Luminant](Luminants.md). It's a (largely) abandoned island with abundant growths of grey vegetation and huge bells scattered around.
+Simforea is an island in the [Voidsea](Voidsea.md). It is a [Driftland](https://deepwoken.fandom.com/wiki/Glossary#Driftlands) that has recently come back from the Voidsea into the far edges of the [Eastern Luminant](Eastern_Luminant.md). It's a (largely) abandoned island with abundant growths of grey vegetation and huge bells scattered around.
 
 In the [Old World](https://deepwoken.fandom.com/wiki/Glossary#The_Old_World),[\[1\]](#cite-note-1) Simforea was the site of experimentation that resulted in the creation of a [soul-based concoction](Remnants_of_Soul.md). Simforea eventually fell to ruin, taking its founder and the [Anansi](Anansi.md) with it in the [Voidsea](Voidsea.md).[\[2\]](#cite-note-2) [Knell](Knell,_The_Lunatic_Resonator.md) was the only survivor, left alone with his ever deteriorating sanity.
 

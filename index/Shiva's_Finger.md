@@ -24,7 +24,7 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Shiva's Finger** is a Ring [Equipment](Equipment.md) that gains more damage by being combat-tagged by mobs and players. Once at 5 stacks, using [Vent](Combat_Mechanics.md#tempo) will consume all stacks and reset all cooldowns.
+**Shiva's Finger** is a Ring [Equipment](Equipment.md) that gains more damage by being combat-tagged by mobs and players. Once at 5 stacks, using [Vent](Vent.md) will consume all stacks and reset all cooldowns.
 
 At 10 Shiva's Fingers, this provides a 4.5% damage buff per combat tag you have, as long as you have at least four combat tags.
 

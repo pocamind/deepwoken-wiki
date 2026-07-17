@@ -16,7 +16,7 @@ categories: [Utilities]
 
 ― Ciea
 
-Cauldrons are a form of utility that allow players to mix [ingredients](Ingredients.md) to create [potions](Alchemy.md) with varying effects. They can be found in a total of eleven static locations, and one can be summoned at will by players with the [Summon Cauldron](Attunement-less.md#summon-cauldron) mantra.
+Cauldrons are a form of utility that allow players to mix [ingredients](Ingredients.md) to create [potions](Alchemy.md) with varying effects. They can be found in a total of eleven static locations, and one can be summoned at will by players with the [Summon Cauldron](Summon_Cauldron.md) mantra.
 
 ## Locations
 
@@ -43,13 +43,13 @@ The cauldron in the [Voidheart](Voidheart.md) is located near the [Antiquarian](
 
 **Summer Isle:** The cauldron on [Summer Isle](Summer_Isle.md) is located on the second floor of the castle, in [Funke](Funke,_Master_of_Thunder.md)'s room.
 
-**Miner's Landing:** There are two cauldrons at [Miner's Landing](<Miner's_Landing.md>), one can be found in [Adar](Adar,_Master_of_Metal.md)'s laboratory, within the bridge tower, and the other can be found near the peak of the mountain, inside the small building by the [Mantra Collector](Mantra_Collector.md)
+**Miner's Landing:** There are two cauldrons at [Miner's Landing](<Miner's_Landing.md>), one can be found in [Adar](Adar.md)'s laboratory, within the bridge tower, and the other can be found near the peak of the mountain, inside the small building by the [Mantra Collector](Mantra_Collector.md)
 
 **Meteor Isle:** The cauldron on [Meteor Isle](Meteor_Isle.md) can be found in the house directly behind Sekh.
 
 **Fort Merit:** The cauldron at [Fort Merit](Fort_Merit.md) can be found in the house in front of [Captain Trist](Captain_Trist.md).
 
-**Greathive Aratel:** The cauldron at [Greathive Aratel](Greathive_Aratel.md) is located in the Archives room of Root Plaza, next to [Regek](Attunement_Trainers.md).
+**Greathive Aratel:** The cauldron at [Greathive Aratel](Greathive_Aratel.md) is located in the Archives room of Root Plaza, next to [Regek](Spelltrainers.md).
 
 **Lightkeeper Temple:** The cauldron at the [Lightkeeper Temple](Lightkeeper_Temple.md) can be found in the second room on the left when entering the King Thresher's room.
 

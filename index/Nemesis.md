@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 
 ## Description
 
-Nemesis is a damage dealing [enchantment](Enchantments.md) that replaces your critical with a teleporting slash.
+Nemesis is a damage dealing [enchantment](Enchantment.md) that replaces your critical with a teleporting slash.
 
 ## Effect
 

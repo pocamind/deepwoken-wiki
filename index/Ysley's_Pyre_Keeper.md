@@ -64,7 +64,7 @@ For the **sliding critical**, the user flips forward, while constantly slicing f
 
 All criticals have a cooldown of **10 seconds**.
 
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
+These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talent](Talent.md) effects.
 
 ## Trivia
 

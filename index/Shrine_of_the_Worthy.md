@@ -30,4 +30,4 @@ A small shrine of [the greatest lifeform](Destroyman_III.md) with the phrase _"W
 
 ## Trivia
 
--   The music that plays in this area is [Hymn Of The Worthy](Deepwoken_OST.md#hymn-of-the-worthy) by Naktigonis.
+-   The music that plays in this area is [Hymn Of The Worthy](Hymn_Of_The_Worthy.md) by Naktigonis.

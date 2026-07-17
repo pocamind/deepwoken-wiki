@@ -34,19 +34,7 @@ Infamous Baz was located on a ledge in a corner behind the [Etris Palace](Etris_
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Meow.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Meow.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

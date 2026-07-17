@@ -8,7 +8,7 @@ categories: [Character, Mantras, Mechanics, Attunement]
 
 # Attunements
 
-**Attunements** are forms of magic that the player can choose on [Character Creation](Character_Creation.md) or obtain in the game through [Trainers](Attunement_Trainers.md).
+**Attunements** are forms of magic that the player can choose on [Character Creation](Character_Creation.md) or obtain in the game through [Trainers](Spelltrainers.md).
 
 **IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines/Shrine_of_Order.md),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit" - where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._  
 
@@ -26,7 +26,7 @@ Post-creation, the character is able to learn more attunements throughout their 
 -   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
 -   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
 -   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
--   [Ironsing](Ironsing.md) = 1 [Pluripotent Alloy](Pluripotent_Alloy.md), 6 _[Ores](Ores.md)_ (Iron, Gold, Erisore, Irithine, Astruline, Umbrite)
+-   [Ironsing](Ironsing.md) = 1 [Pluripotent Alloy](Pluripotent_Alloy.md), 6 _[Ores](Ore.md)_ (Iron, Gold, Erisore, Irithine, Astruline, Umbrite)
 -   [Bloodrend](Bloodrend.md) = [Heartstars](Heartstar.md)
 
 These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that once consumed will provide the character with a singular point in that attunement.
@@ -39,7 +39,7 @@ By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 
 
 Like with the inability to hand-modify stats, you cannot unlearn attunements once they have been learned by the character. The only way to remove an attunement is by wiping the slot.
 
-Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunement_Trainers.md) at a specific investment level.
+Attunement Mantras can be upgraded at their respective [Spelltrainers](Spelltrainers.md) at a specific investment level.
 
 -   1 in an attunement = Level 1 (Mantras start at level 1)
 -   20 = Level 2 Mantra
@@ -107,9 +107,9 @@ Many [Talents](Talents.md) offer "Paths" which act either as alternatives to an 
 
 Note: All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, there exist icons for each of these Attunement Path Talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
 
-[Attunement](Attunements.md)
+[Attunement](Attunement.md)
 
-[Attunement](Attunements.md)Random
+[Attunement](Attunement.md)Random
 
   
 
@@ -117,23 +117,23 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md)[Eruption Path: Lava Serpent](Flamecharm.md#eruption-path-lava-serpent)
+[Flamecharm](Flamecharm.md)[Eruption Path: Lava Serpent](Eruption_Path%253A_Lava_Serpent.md)
 
 [Frostdraw](Frostdraw.md)
 
-[Frostdraw](Frostdraw.md)[Glass Path: Crystallization](Frostdraw.md#glass-path-crystallization)
+[Frostdraw](Frostdraw.md)[Glass Path: Crystallization](Glass_Path%253A_Crystallization.md)
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md)[Surge Path: Unstable Capacitor](Thundercall.md#surge-path-unstable-capacitor)
+[Thundercall](Thundercall.md)[Surge Path: Unstable Capacitor](Surge_Path%253A_Unstable_Capacitor.md)
 
 [Galebreathe](Galebreathe.md)
 
-[Galebreathe](Galebreathe.md)[Haunted Path: Specter](Galebreathe.md#haunted-path-specter)
+[Galebreathe](Galebreathe.md)[Haunted Path: Specter](Haunted_Path%253A_Specter.md)
 
 [Ironsing](Ironsing.md)
 
-[Ironsing](Ironsing.md)[Gilded Path: Scrapsinger](Ironsing.md#gilded-path-scrapsinger)
+[Ironsing](Ironsing.md)[Gilded Path: Scrapsinger](Gilded_Path%253A_Scrapsinger.md)
 
   
 
@@ -141,7 +141,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
 
-[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)[Wraith Path: Twisted Puppets](Flamecharm.md#wraith-path-twisted-puppets)
+[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)[Wraith Path: Twisted Puppets](Wraith_Path%253A_Twisted_Puppets.md)
 
   
 
@@ -166,7 +166,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 ## Trivia
 
 -   Attunement-less, as the name suggests, isn't an Attunement, rather a lack thereof.
--   Prior to the 5/15/2026 update[\[1\]](#cite-note-1), after selecting an Attunement for the first time, it would be the only available Attunement in the character creation menu other than choosing Random or None until you either unlocked more of them from their respective [trainers](Attunement_Trainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping. Now all new players start the game having the four base attunements ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md)) unlocked.
+-   Prior to the 5/15/2026 update[\[1\]](#cite-note-1), after selecting an Attunement for the first time, it would be the only available Attunement in the character creation menu other than choosing Random or None until you either unlocked more of them from their respective [trainers](Spelltrainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping. Now all new players start the game having the four base attunements ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md)) unlocked.
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement- _whichever one has +6 points._ You can undo your selection by selecting Random or None.
 -   Selecting a new starting Attunement, you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
 -   **Water will never become an Attunement available to the public due to specific lore reasons-** only extremely powerful beings have the ability to manipulate water, as stated by Arch\_Mage.
@@ -174,7 +174,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 -   There is a misconception that Lightkeeping is a magic similar to Attunements, and the only reason it isn't in the game is arbitrary lore. In reality, Lightkeeping is more akin to a [Regalia](Regalia.md), and has no real combat application. The closest thing to light magic with a combat application is the [Dawnwalker Oath](Oath%253A_Dawnwalker.md).
 -   In the 25th of October Update, "ELE" and "LFE" were added to the attunement portion of the build exporter.
     -   The next day, "ELE" was changed to "BLD".
--   The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
+-   The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
 -   A method to previously unlock attunements as a new player was to select the "Random" option in [Character Creation](Character_Creation.md), and then wiping the slot until all four base attunements were unlocked.
 
 ## Navigation

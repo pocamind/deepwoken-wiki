@@ -24,13 +24,13 @@ categories: [Equipment, Ears]
 | obtainment | Chests from:, First Layer, Second Layer, Chaser, Duke Erisia, Chime of Conflict, The Ferryman, Maestro Evengarde Rest, Dread Serpent, The Diluvian Mechanism, Hell Mode, Primadon, Elder Primadon, Pure Astruline turn-in chest, Moon's Eyrie |
 | description | ... |
 
-_This page is about the [Earring](Equipment.md#ears) previously named "Moonlit Earrings". For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
+_This page is about the [Earring](Ears.md) previously named "Moonlit Earrings". For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 
-**Crescent Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. You can most commonly find them from [Hell Mode](Hell_Mode.md), and [The Ferryman](The_Ferryman.md) during [Summer](Seasons.md#summer).
+**Crescent Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. You can most commonly find them from [Hell Mode](Hell_Mode.md), and [The Ferryman](The_Ferryman.md) during [Summer](Summer.md).
 
 ## Trivia
 
 -   Crescent Earrings used to grant +2 Health, making it only one of two Earring equipment to grant innate Health.
--   Crescent Earrings used to be named [Moonlit Earrings](Crescent_Earrings.md) before it was renamed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update.
+-   Crescent Earrings used to be named [Moonlit Earrings](Moonlit_Earrings.md) before it was renamed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update.

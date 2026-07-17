@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 
 ## Description
 
-Parasol's Blight is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive summoning [enchantment](Enchantments.md) that spawns an allied [Monster](Monsters.md) upon killing a player.
+Parasol's Blight is a [Gaunt Man](Gaunt_Man.md)\-exclusive summoning [enchantment](Enchantment.md) that spawns an allied [Monster](Monsters.md) upon killing a player.
 
 ## Effect
 
@@ -26,7 +26,7 @@ When hitting a player with a weapon attack, Parasol's Blight applies the [Paraso
 
 PvE enemies you kill have a small (3%~) chance of proccing Parasol's Blight and summoning allied monsters.
 
-Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Nautilodaunt](Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), or [Void Thresher](Thresher.md). These monsters can spawn [Corrupted](Monsters.md#scyphozia) if this enchantment is used in [The Depths](The_Depths.md).
+Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Nautilodaunt](Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), or [Void Thresher](Void_Thresher.md). These monsters can spawn [Corrupted](Corrupted_Monsters.md) if this enchantment is used in [The Depths](The_Depths.md).
 
 ### Notes
 
@@ -35,7 +35,7 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 -   The monsters summoned will not attack you, even if you attack them first.
 -   There is no cooldown on the monsters spawning. You can proc this effect multiple times at once.
 -   The PvE targets can be allied or player summons, though the proc chance is still very low in PvE. Additionally, you can proc this enchantment on a PvE target while in a PvP combat tag.
-    -   Notably, summons from [Lightning Clones](Thundercall.md#lightning-clones), [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me), [The Weaving Web](The_Weaving_Web.md)'s critical attack, and ironically **Parasol's Blight** can be hit by the caster.
+    -   Notably, summons from [Lightning Clones](Lightning_Clones.md), [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me), [The Weaving Web](The_Weaving_Web.md)'s critical attack, and ironically **Parasol's Blight** can be hit by the caster.
 -   The enemies do not need to be killed through manually executing them for this enchantment to proc, nor do they need to be killed specifically by you.
 -   You cannot apply the Parasol's Blight status effect to already Unconscious opponents.
 -   The monsters summoned count as 'summons' for the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), healing you when they deal damage.

@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 
 The Moppet is a [Light Weapon](Weapons.md) in the Dagger category, appearing as an old doll with a crudely-stitched frown alongside a large sewing needle on the offhand.
 
-The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. The Moppet will also gain increased PEN per stored M1 with no cap, eventually reaching 100%. On hit, the Moppet will take the appearance of the opponent, copying their hair and [Aspect](Aspects.md) features, such as a [Gremor](Gremor.md)'s horns or a [Vesperian](Vesperian.md)'s mask.
+The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. The Moppet will also gain increased PEN per stored M1 with no cap, eventually reaching 100%. On hit, the Moppet will take the appearance of the opponent, copying their hair and [Aspect](Aspect.md) features, such as a [Gremor](Gremor.md)'s horns or a [Vesperian](Vesperian.md)'s mask.
 
 ## Critical
 
@@ -45,9 +45,9 @@ The user impales the doll with the needle. If the Moppet has stored damage on an
 
 The damage this critical deals cannot be directly increased; you must increase the damage of your M1s to increase the damage output of the critical. "On-critical" Talents proc on Moppet's critical, but as you cannot directly increase the critical's damage, your options will be limited.
 
-This critical cannot be parried, blocked, or dodged, but it can be avoided via gaining iframes (e.g. [Venting](Combat_Mechanics.md#tempo)). You cannot deal more than 70% of a player's maximum health with one usage of your critical. This limitation does not apply PvE.
+This critical cannot be parried, blocked, or dodged, but it can be avoided via gaining iframes (e.g. [Venting](Vent.md)). You cannot deal more than 70% of a player's maximum health with one usage of your critical. This limitation does not apply PvE.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. The critical has a cooldown of **3 seconds**.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects. The critical has a cooldown of **3 seconds**.
 
 ## Trivia
 
@@ -63,6 +63,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
         -   [Wayward Gem](Wayward_Gem.md) has a 500 stud range limit, though it is very good for this weapon in most scenarios.
         -   The _innate_ effects of [Might](Might_Gem.md) and [Wrath Gems](Wrath_Gem.md) do not apply to Moppet's critical.
         -   All other [Deep Gems](Deep_Gems.md) work, but they aren't as notable or have no unique properties with this weapon.
--   [Visionshaper](Oath%253A_Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
--   Despite having the M1 tag on its critical, Moppet's critical cannot proc [Spine Cutter](Talents.md#spine-cutter).
+-   [Visionshaper](Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
+-   Despite having the [M1 tag](M1_tag.md) on its critical, Moppet's critical cannot proc [Spine Cutter](Talents.md#spine-cutter).
     -   When this weapon initially released, it _could_ proc Spine Cutter on its critical however, allowing it to effectively bypass its damage cap by dealing a separate instance of damage.

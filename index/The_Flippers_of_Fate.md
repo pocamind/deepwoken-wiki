@@ -49,10 +49,10 @@ The critical has a cooldown of **6 seconds**, even after the follow-up critical 
 
 Notably, this attack is shared with the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
 
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 
 -   A part of the chef weapon set, along with [The Pastry Paster](The_Pastry_Paster.md) and [The Long Tong of The Law](The_Long_Tong_of_The_Law.md).
 -   The description reads _"That isn't smoke. It's steam."_ which is in reference to [a scene](https://www.youtube.com/watch?v=4jXEuIHY9ic) from the twenty first episode of the seventh seasons of American animated sitcom, _[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)_.
--   This is the third fastest weapon in the game after the [Soulwrought Dagger](Crazy_Slots.md#weapons) and [Soulwrought Gun](Crazy_Slots.md#weapons), with 1.26x swing speed which is slightly higher than the usual norm for daggers.
+-   This is the third fastest weapon in the game after the [Soulwrought Dagger](Soulwrought_Dagger.md) and [Soulwrought Gun](Soulwrought_Gun.md), with 1.26x swing speed which is slightly higher than the usual norm for daggers.

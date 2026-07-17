@@ -34,8 +34,8 @@ XX:10 refers to any hour at 10 minutes. As this page refers to _[UTC+0](https://
 
 The day-night cycle, mechanically, has little effect in _Deepwoken_ besides changing the lighting of the world. Below are the few time of day-reliant phenomena:
 
--   The [Dark Hours](Talents.md#dark-hours) [Talent](Talents.md) increases the damage of your [Shadowcast](Shadowcast.md) Mantras during the night.
--   The [Praise The Sun](Talents.md#praise-the-sun) [Talent](Talents.md) gained from equipping the [Revitalizing Pendant](Revitalizing_Pendant.md) or the [Radial Pendant](Radial_Pendant.md) grants increased health regeneration and halves the duration of Anti-Heal status effects if you are under direct sunlight.
+-   The [Dark Hours](Talents.md#dark-hours) [Talent](Talent.md) increases the damage of your [Shadowcast](Shadowcast.md) Mantras during the night.
+-   The [Praise The Sun](Talents.md#praise-the-sun) [Talent](Talent.md) gained from equipping the [Revitalizing Pendant](Revitalizing_Pendant.md) or the [Radial Pendant](Radial_Pendant.md) grants increased health regeneration and halves the duration of Anti-Heal status effects if you are under direct sunlight.
 -   [Deep Owls](Deep_Owl.md) in [Erisia](Erisia.md) spawn more frequently during the night.
 
 ## Trivia

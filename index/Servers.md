@@ -14,9 +14,9 @@ notices:
 
 As of September 4th, 2022, there are new server names. These include Executioner, Fence, Squire, and Vainglorious.
 
-**Servers** are the way to join Deepwoken. They are comprised of two random adjectives (descriptive, then color) and a random noun from the list below. The Etrean Luminant can host 30 people, the Eastern Luminant, 24, and [The Depths](The_Depths.md), 26.
+**Servers** are the way to join Deepwoken. They are comprised of two random adjectives (descriptive, then color) and a random noun from the list below. The [Etrean Luminant](Locations.md) can host 30 people, the [Eastern Luminant](Locations.md), 24, and [The Depths](The_Depths.md), 26.
 
-Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode. In addition, servers in the Eastern Luminant will be an orange color if War Mode is currently active.
+Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode. In addition, servers in the [Eastern Luminant](Locations.md) will be an orange color if War Mode is currently active.
 
 Example Private Server (from Great-war 2026)
 
@@ -302,7 +302,7 @@ _Please note that it is possible that some locations may have been missed, as Ro
 ## Trivia
 
 -   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
--   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
+-   Ironsinger was the only unreleased [Attunement](Attunement.md) to be a server's noun, however this is no longer the case after it got released.
 -   Every [aspect](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are aspect variants, and not their own independent aspect.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, Nocturnal Gem, and Wind Gem have their first names as server adjectives.
 -   When joining layer 2 the server loading screen will sometimes be white instead of the usual dark green.

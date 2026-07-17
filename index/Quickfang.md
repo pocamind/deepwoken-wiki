@@ -37,13 +37,13 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Quickfang is a LHT weapon in the Rapier category. It is obtained by spending 25 [Echoes](Echoes.md) on the "Starting Weapon: Rapier" [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers).
+The Quickfang is a LHT weapon in the Rapier category. It is obtained by spending 25 [Echoes](Echoes.md) on the "Starting Weapon: Rapier" [Echo Unlock](Echo_Unlock.md).
 
 ## Critical
 
 Quickfang uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

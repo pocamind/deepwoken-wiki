@@ -18,17 +18,17 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Windswept is a debuffing [enchantment](Enchantments.md) that applies [winded](Status_Effects.md#winded) to your opponent.
+Windswept is a debuffing [enchantment](Enchantment.md) that applies [winded](Status_Effects.md#winded) to your opponent.
 
 ## Effect
 
 After landing enough M1s, Windswept applies [winded](Status_Effects.md#winded) to your opponent. The duration of this winded effect scales on your Weapon attribute investment. This enchantment has a 5 second cooldown regardless of investment, making it very weak on low investment.
 
-The hit count required to proc this enchantment varies based on your weapon type, requiring 3 hits for Light Weapons, 2 hits for Medium Weapons, and 1 hit for Heavy Weapons. These stacks do not decay over time.
+The hit count required to proc this enchantment varies based on your weapon type, requiring 3 hits for [Light Weapons](Light_Weapons.md), 2 hits for [Medium Weapons](Medium_Weapons.md), and 1 hit for [Heavy Weapons](Heavy_Weapons.md). These stacks do not decay over time.
 
 Windswept gains +0.08 second duration for every 1 weapon attribute investment, capping at 8 seconds with 100 Weapon. Windswept cannot have below a 0.5 second duration, making the first 0-6 weapon investment indifferent to Windswept's winded duration.
 
 ### Notes
 
--   Windswept stacks can be gained from weapon criticals if they have the M1 tag.
+-   Windswept stacks can be gained from weapon criticals if they have the [M1 tag](M1_tag.md).
 -   [Wyrmtooth](Wyrmtooth.md) will prioritize its medium weapon investment over its heavy weapon investment for Windswept's winded duration.

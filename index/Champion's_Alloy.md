@@ -22,7 +22,7 @@ categories: [Items, Craftable, Ingredients]
 
 ## Description
 
-**Champion's Alloy** is a craftable item that is used to craft the [Champion's Cape](<Champion's_Cape.md>). In appearance, it is a wide golden slab, not too dissimilar to the old [Gold](Ores.md#gold) model.
+**Champion's Alloy** is a craftable item that is used to craft the [Champion's Cape](<Champion's_Cape.md>). In appearance, it is a wide golden slab, not too dissimilar to the old [Gold](Gold.md) model.
 
 ## Uses
 

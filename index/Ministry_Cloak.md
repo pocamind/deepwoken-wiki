@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks]
 
 ## Description
 
-The Ministry Cloak is an animated [Equipment](Equipment.md) item under the "Arms" category. It is uncommonly found in chests from [Blizzard Knights](Stone_Knight.md#blizzard-knight).
+The Ministry Cloak is an animated [Equipment](Equipment.md) item under the "Arms" category. It is uncommonly found in chests from [Blizzard Knights](Blizzard_Knight.md).
 
 ## Trivia
 

@@ -30,42 +30,13 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
 
   
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Mothwing Dust</b><p><i>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.</i></p>
-  <ul>
-    <li>Once per combat instance, the first person to attack you is <a href="Status_Effects.md#enhanced-perception">highlighted red</a> for 30 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li>
-    <li>The angles at which you can be assassinated or backstabbed from are reduced.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><font>+</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+3 Charisma</li>
-    <li>+2 Agility</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Mothwing Dust</b><p><i>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.</i></p><ul><li>Once per combat instance, the first person to attack you is <a href="Status_Effects.md#enhanced-perception">highlighted red</a> for 30 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li><li>The angles at which you can be assassinated or backstabbed from are reduced.</li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Charisma</li><li>+2 Agility</li></ul></td></tr></tbody></table>
 
 **Iron Vow:**
 
   
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Mothwing Defense</b><p><i>Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%.</i></p>
-  <ul>
-    <li>Take 50% less damage from all backhits.</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Mothwing Defense</b><p><i>Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%.</i></p><ul><li>Take 50% less damage from all backhits.</li></ul></td></tr></tbody></table>
 
   
 
@@ -202,6 +173,6 @@ The Chrysid aspect has an alternate variant of the [Starkindred Wings](Oath%253A
 
 -   Chrysid is tied with [Kiron](Kiron.md) for having the most variants out of all aspects, both having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
 -   The Seer variant may be a direct reference to [The Seer](https://hollowknight.fandom.com/wiki/Seer) from _Hollow Knight_
--   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
+-   The [Hallowtide](<Hallowtide_(Event).md>) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
 -   'Chrysid' comes from the superfamily [Chrysidoidea](https://en.wikipedia.org/wiki/Chrysidoidea)**,** which, ironically, does not contain moths, but rather parasitic wasps.

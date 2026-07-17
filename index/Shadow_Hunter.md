@@ -24,19 +24,19 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exc
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Shadow Hunter** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+**Shadow Hunter** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Ores.md#gold), and ten (10) [Iron](Ores.md#iron) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Gold.md), and ten (10) [Iron](Iron.md) to craft.
 
-This Outfit additionally requires the player have at least 10 [Agility](Attributes.md#agl) to be crafted.
+This Outfit additionally requires the player have at least 10 [Agility](Agility.md) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1500 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunement.md), and +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistanceBlunt ResistanceSlash, 14.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 

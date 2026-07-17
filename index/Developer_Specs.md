@@ -77,7 +77,7 @@ Not much is known of Iltria's spec as of now, however we have a general idea. Up
 2.  Power - reach maximum [Power](Power.md) (needs confirming)
 3.  Enhancement - a unique enchant called "Astral" (see [Enchantments](Enchantments.md)) on your chosen weapon
 
-When your wish is granted you will find that you have a newly acquired Flaw known as "[Wishbound](Boons_and_Flaws.md#flaws)". This Flaw causes the player to accumulate [insanity](Insanity.md) when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess [insanity](Insanity.md) should be aware at all times.
+When your wish is granted you will find that you have a newly acquired Flaw known as "[Wishbound](Wishbound.md)". This Flaw causes the player to accumulate [insanity](Insanity.md) when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess [insanity](Insanity.md) should be aware at all times.
 
 Wishmaker granting a wish (3rd option)
 
@@ -125,7 +125,7 @@ A huge AoE spin/dance attack similar to [Dawnwalker](https://deepwoken.fandom.co
 
 Supposedly allows for life defense/debuff/swipe (steal/rob) abilities.
 
-He has two moves similar to the [Hive Mech](Hive_Construct.md)'s:
+He has two moves similar to the [Hive Mech](Golem_Constructs.md)'s:
 
 1.  Meteor Punch (Life Swipe/Life Robber) - (needs confirming) Punches the ground with his right fist, creating two circular shock-waves.
 
@@ -147,7 +147,7 @@ He also has a [Heliodar](Heliodar.md) slot.
 
 ### Melon\_Sensei/Par
 
-Par has the spec to spawn a "felinor servant" that will execute any downed players/NPCs. Not much is known about this spec at the moment.
+Par has the spec to spawn a "felinor servant" that will execute any downed players/[NPCs](NPCs.md). Not much is known about this spec at the moment.
 
 ### Spookeree/Sycne (Asher Eko / Hiroh Palo / Destroyman III)
 

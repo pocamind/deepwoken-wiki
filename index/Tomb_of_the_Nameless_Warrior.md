@@ -17,7 +17,7 @@ LocationL Tomb of the Nameless warrior LocationR
   
   
 
-**Tomb of the Nameless Warrior** is a location in _Deepwoken_. It is a landmark below the [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
+**Tomb of the Nameless Warrior** is a [location](Locations.md) in _Deepwoken_. It is a landmark below the [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 
@@ -25,7 +25,7 @@ Tomb of the Nameless Warrior is a cavern that is home to a single [Rotskipper](R
 
 The entrance can be found on a shore around the rear of [Erisia](Erisia.md).
 
-This location has [Erisore](Ores.md#erisore) in abundance, an ore primarily used to craft certain [Outfits](Outfits.md).
+This location has [Erisore](Erisore.md) in abundance, an ore primarily used to craft certain [Outfits](Outfits.md).
 
 ## Maps
 

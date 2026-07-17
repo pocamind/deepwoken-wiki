@@ -31,15 +31,15 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 #### Body (BDY)
 
--   [Strength](Attributes.md#str) (**STR**)
--   [Fortitude](Attributes.md#ftd) (**FTD**)
--   [Agility](Attributes.md#agl) (**AGL**)
+-   [Strength](Strength.md) (**STR**)
+-   [Fortitude](Fortitude.md) (**FTD**)
+-   [Agility](Agility.md) (**AGL**)
 
 #### Mind (MND)
 
--   [Intelligence](Attributes.md#int) (**INT**)
--   [Willpower](Attributes.md#wll) (**WLL**)
--   [Charisma](Attributes.md#cha) (**CHA**)
+-   [Intelligence](Intelligence.md) (**INT**)
+-   [Willpower](Willpower.md) (**WLL**)
+-   [Charisma](Charisma.md) (**CHA**)
 
 ### Weapon Attributes
 

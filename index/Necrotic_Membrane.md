@@ -27,11 +27,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Necrotic Membrane** is a twisted version of the [Parasol Membrane](Parasol_Membrane.md) created by the [Lost Forge](Lost_Forge_of_Leiuna.md)
+The **Necrotic Membrane** is a twisted version of the [Parasol Membrane](Parasol_Membrane.md) created by the [Lost Forge](Lost_Forge.md)
 
 ## Crafting
 
-The Necrotic Membrane can be crafted into an item with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Necrotic Membrane can be crafted into an item with the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md):
     -   [Necrotic Demon Horns](Necrotic_Demon_Horns.md): 1x [Aazel's Horns](<Aazel's_Horns.md>) + 1x Necrotic Membrane

@@ -22,20 +22,20 @@ The total attribute points that have been made available to you based on if your
 
 Attributes window
 
--   Strength → _use the **[Dumbbell](Training_Gear.md#attribute-training-gears)**_
--   Fortitude → _take damage with the **[Training Vest](Training_Gear.md#attribute-training-gears)**_
--   Agility → use _the **[Ankle Weights](Training_Gear.md#attribute-training-gears)**_
--   Intelligence → _use the **[Encyclopedia](Training_Gear.md#attribute-training-gears)**_
--   Willpower → _use the **[Prayer Beads](Training_Gear.md#attribute-training-gears)**_
+-   Strength → _use the **[Dumbbell](Dumbbell.md)**_
+-   Fortitude → _take damage with the **[Training Vest](Training_Vest.md)**_
+-   Agility → use _the **[Ankle Weights](Ankle_Weights.md)**_
+-   Intelligence → _use the **[Encyclopedia](Encyclopedia.md)**_
+-   Willpower → _use the **[Prayer Beads](Prayer_Beads.md)**_
 -   Charisma → _recite the_ **[How to Make Friends](How_to_Make_Friends.md)** _book/play an **[Instrument](Instruments.md)** (requires nearby audience)_
 
-You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunements.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
+You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunement.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
 
 -   300 from **levels**.
--   10 from **[attunement](Attunements.md)** (_[Attunement-less](Attunement-less.md) characters instead spawn in with an extra 10 investment points to distribute freely.)_
--   5 from **[aspect](Aspects.md)** (excluding [Lightborns](Lightborn.md)).
+-   10 from **[attunement](Attunement.md)** (_[Attunement-less](Attunement-less.md) characters instead spawn in with an extra 10 investment points to distribute freely.)_
+-   5 from **[aspect](Races.md)** (excluding [Lightborns](Lightborn.md)).
 -   15 from **character creation**.
--   1 from **second [Attunement](Attunements.md)** _(not required for all characters, but is set aside)._
+-   1 from **second [Attunement](Attunement.md)** _(not required for all characters, but is set aside)._
 
 [Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75(77/78 with aspect stat bonus) Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
 
@@ -44,10 +44,10 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talents, weapon requirements, and weapon scaling can be based off your Mind or Body stat rather than scaling directly on the individual Attributes, leading to much more stat diversity in a build.
 
 -   Strength, Fortitude, and Agility are **Body** attributes.
--   Body → _carry the **[Boulder](Training_Gear.md#attribute-training-gears)**_
+-   Body → _carry the **[Boulder](Boulder.md)**_
     -   Your Body stat is based off the highest invested attribute in the Body category. For example if you have 50 Strength, 35 Fortitude, and 25 Agility, your Body stat will be 50.
 -   Intelligence, Willpower, and Charisma are **Mind** attributes.
--   Mind → _solve problems in the **[Math Textbook](Training_Gear.md#attribute-training-gears)**_
+-   Mind → _solve problems in the **[Math Textbook](Math_Textbook.md)**_
     -   Your Mind stat is based off the highest invested attribute in the Mind category. For example, if you have 0 Intelligence, 25 Willpower, and 50 Charisma, your Mind stat will be 50.
 
 ### Strength (STR)
@@ -84,7 +84,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   Reduces the vision cone of NPCs and Monsters.
     -   [Parrying Daggers](Parrying_Dagger.md) and [Kyrstears](Kyrstear.md) have an Agility requirement to wield.
 -   Unlocks Agility-related [Talents](Talents.md) and [Mantras](Attunement-less.md#agility-mantras).
--   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the [Ankle Weights](Training_Gear.md#attribute-training-gears).
+-   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the [Ankle Weights](Ankle_Weights.md).
 -   _**[Unbounded](Attributes_Unbound.md#agility-unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).**_
     -   _You can watch a guide to get to the [Windrunner](Windrunner.md) with [Jetstriker](Oath%253A_Jetstriker.md) and 75 agility [here](https://youtu.be/RoDUDMDaK_g) ._
 
@@ -127,7 +127,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
     -   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
     -   _**[Unbounded](Attributes_Unbound.md) by killing any humanoid [boss](Bosses.md) while having 75 points invested into the weapon attribute.**_
 
-An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
+An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP", as seen in the Talents tab at a [Campfire](Campfire.md).
 
 ### Heavy Weapon (HVY)
 
@@ -157,68 +157,68 @@ An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP",
 
 Attunement Attributes dictate the potential power and intensity of your current attunement, and can unlock special elemental Talents based on what attunement you may be using. Below are the respective training methods for each current attunement in the game.
 
--   [Flamecharm](Flamecharm.md) → _use the **[Hearthgem](Training_Gear.md#attunement-training-gears)**_
--   [Galebreathe](Galebreathe.md) → _use the **[Gale Kata](Training_Gear.md#attunement-training-gears)**_
--   [Thundercall](Thundercall.md) → _use the **[Self-Conducting Loop](Training_Gear.md#attunement-training-gears)**_
--   [Frostdraw](Frostdraw.md) → _use the **[Hemafrost](Training_Gear.md#attunement-training-gears)**_
--   [Shadowcast](Shadowcast.md) → _use the **[Pure Heart](Training_Gear.md#attunement-training-gears)**_
--   [Ironsing](Ironsing.md) → _use the **[Ferrofluid](Training_Gear.md#attunement-training-gears)**_
--   [Bloodrend](Bloodrend.md) → _use the **[Tourniquet](Training_Gear.md#attunement-training-gears)**_
+-   [Flamecharm](Flamecharm.md) → _use the **[Hearthgem](Hearthgem.md)**_
+-   [Galebreathe](Galebreathe.md) → _use the **[Gale Kata](Gale_Kata.md)**_
+-   [Thundercall](Thundercall.md) → _use the **[Self-Conducting Loop](Self-Conducting_Loop.md)**_
+-   [Frostdraw](Frostdraw.md) → _use the **[Hemafrost](Hemafrost.md)**_
+-   [Shadowcast](Shadowcast.md) → _use the **[Pure Heart](Pure_Heart.md)**_
+-   [Ironsing](Ironsing.md) → _use the **[Ferrofluid](Ferrofluid.md)**_
+-   [Bloodrend](Bloodrend.md) → _use the **[Tourniquet](Tourniquet.md)**_
 -   Additionally, you can gain EXP on attunements by doing events/random encounters (needs confirming)
 -   All of the attunements are:
     -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) while having 75 points invested into the attunement. (have to deal most of the damage)**_
 
-An umbrella term that includes all attunement stats is Element, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).  
-_**NOTE:** The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't._
+An umbrella term that includes all attunement stats is Element, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire.md).  
+_**NOTE:** The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't._
 
 ### [Flamecharm (FIR)](Flamecharm.md)
 
 -   Increases damage scaling of Flamecharm mantras.[\[4\]](#cite-note-4)
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
     -   Increases intensity of flames. (deals more damage)
--   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using [Hearthgem](Training_Gear.md#attunement-training-gears) or eating [Dying Embers](Dying_Embers.md).
+-   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using [Hearthgem](Hearthgem.md) or eating [Dying Embers](Dying_Embers.md).
 
 ### [Frostdraw (ICE)](Frostdraw.md)
 
 -   Increases damage scaling of Frostdraw mantras.
     -   Unlocks [Frostdraw Talents](Frostdraw.md#talents).
     -   Increases slow and freeze times of abilities.
--   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using [Hemafrost](Training_Gear.md#attunement-training-gears) or eating [Frigid Prisms](Frigid_Prism.md).
+-   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using [Hemafrost](Hemafrost.md) or eating [Frigid Prisms](Frigid_Prism.md).
 
 ### [Thundercall (LTN)](Thundercall.md)
 
 -   Increases damage scaling of Thundercall mantras.[\[5\]](#cite-note-5)
     -   Unlocks [Thundercall Talents](Thundercall.md#talents).
     -   Lengthens the stun caused by attacks.
--   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) or eating [Spark Glands](Spark_Gland.md).
+-   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using [Self-Conducting Loop](Self-Conducting_Loop.md) or eating [Spark Glands](Spark_Gland.md).
 
 ### [Galebreathe (WND)](Galebreathe.md)
 
 -   Increases damage scaling of Galebreathe mantras.
     -   Unlocks [Galebreathe Talents](Galebreathe.md#talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
--   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using [Gale Kata](Training_Gear.md#attunement-training-gears) or eating [Gale Stones](Gale_Stone.md).
+-   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using [Gale Kata](Gale_Kata.md) or eating [Gale Stones](Gale_Stone.md).
 
 ### [Shadowcast (SDW)](Shadowcast.md)
 
 -   Increases damage scaling of [Shadowcast](Shadowcast.md) mantras and the amount of ether you steal from enemies.
     -   Unlocks [Shadowcast Talents](Shadowcast.md#talents).
     -   Increases duration of blindness afflicting abilities.
--   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using [Pure Heart](Training_Gear.md#attunement-training-gears) or eating [Umbral Obsidian](Umbral_Obsidian.md).
+-   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using [Pure Heart](Pure_Heart.md) or eating [Umbral Obsidian](Umbral_Obsidian.md).
 
 ### [Ironsing (MTL)](Ironsing.md)
 
 -   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing Talents](Ironsing.md#talents).
     -   No currently known side effects.
--   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using [Ferrofluid](Training_Gear.md#attunement-training-gears).
+-   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using [Ferrofluid](Ferrofluid.md).
 
 ### [Bloodrend (BLD)](Bloodrend.md)
 
 -   Increases damage scaling of [Bloodrend](Bloodrend.md) mantras.
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).
     -   The ability to trigger Hemorrhaging in PvE, and increase the damage of Hemorrhaging
--   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Training_Gear.md#attunement-training-gears), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
+-   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Tourniquet.md), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
 
 ## Tips
 

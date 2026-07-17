@@ -24,7 +24,7 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Titus's Raiment** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Titus's Raiment** is a Master [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -32,15 +32,15 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 
 This Outfit costs 2,500 and requires five (5) [Cloth](Cloth.md), three (3) [Might Gems](Might_Gem.md), three (3) [Wrath Gems](Wrath_Gem.md), one (1) [Titus' Armor Piece](<Titus'_Armor_Piece.md>), and one (1) [Warden's Armor Piece](<Warden's_Armor_Piece.md>) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 30 [Strength](Attributes.md#str) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 30 [Strength](Strength.md) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 3,000 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Overwhelming Might](Talents.md#overwhelming-might) Talent.
+This Outfit has 3,000 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunement.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Overwhelming Might](Talents.md#overwhelming-might) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 32.5% Thundercall [ResistanceThundercall](Thundercall.md), 32.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
-The [Overwhelming Might](Talents.md#overwhelming-might) Talent makes [Strong Left](Attunement-less.md#strong-left) guardbreak at Level 5. Overwhelming Might has a 60 second cooldown.
+The [Overwhelming Might](Talents.md#overwhelming-might) Talent makes [Strong Left](Strong_Left.md) guardbreak at Level 5. Overwhelming Might has a 60 second cooldown.
 
 ## Trivia
 

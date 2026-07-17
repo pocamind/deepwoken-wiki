@@ -20,7 +20,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-**The Pioneers**, also known as the Pioneer Divers, were the first ever [Divers](The_Divers.md) to descend into [the Depths](The_Depths.md). They used a cave system, which went deep into the Depths. All of them tragically perished, most got caught off-guard by the beasts of [the Depths](The_Depths.md), but those who successfully came back to [the Surface](Surface.md) perished shortly after stepping out of the caves, due to a concept, known as "boundary death".
+**The Pioneers**, also known as the Pioneer Divers, were the first ever [Divers](Divers.md) to descend into [the Depths](The_Depths.md). They used a cave system, which went deep into the Depths. All of them tragically perished, most got caught off-guard by the beasts of [the Depths](The_Depths.md), but those who successfully came back to [the Surface](Surface.md) perished shortly after stepping out of the caves, due to a concept, known as "boundary death".
 
 The concept of [the Depths boundary](The_Depths.md) was able to be further expanded upon thanks to the expedition.
 

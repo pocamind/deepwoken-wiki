@@ -94,7 +94,7 @@ Dodge
 
 ## Trivia
 
--   King Gigamed is completely trivialized if the player has [Animal King](Regalia.md), as the Gigameds it spawns will not aggro, allowing for a free healthpack.
+-   King Gigamed is completely trivialized if the player has [Animal King](Regalias.md), as the Gigameds it spawns will not aggro, allowing for a free healthpack.
 -   There is an extremely rare chance that a King Gigamed will spawn with an oversized [top hat](Ten-Gallon_Hat.md) whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference to _Spongebob Squarepants_ too.
 -   King Gigamed has an intentionally cowardly behavior, meaning it will jump around objects and move in ways that makes it harder for you to fight it.
 -   Despite not looking like it, The King Gigamed has a back, meaning you can proc [Spine Cutter](Talents.md#spine-cutter) on it.

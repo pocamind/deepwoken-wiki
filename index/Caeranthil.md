@@ -8,7 +8,7 @@ categories: ["Content not present in-game", Destroyed locations]
 
 # Caeranthil
 
-_This page is for Caeranthil, the island ravaged by the [Doom of Caeranthil](The_Doom_of_Caeranthil.md) boss._
+_This page is for Caeranthil, the island ravaged by the [Doom of Caeranthil](Doom_of_Caeranthil.md) boss._
 
 **Content is not present in-game**  
 The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  

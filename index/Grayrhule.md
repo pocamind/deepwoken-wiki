@@ -1,9 +1,9 @@
 ---
 title: Grayrhule
-revid: 220383
+revid: 180358
 source: https://deepwoken.fandom.com/wiki/Grayrhule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Stub pages without reason, StubPages, The Ministry, Deceased characters]
+categories: [Stub pages without reason, StubPages, The Ministry, Deceased characters]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -15,10 +15,6 @@ notices:
 | name | Grayrhule[1] |
 | affiliation | The Ministry[1] |
 | death | Succumbed to his shadows during a forbidden Ministry Ritual[1] |
-
-**Content is not present in-game**  
-The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
-E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

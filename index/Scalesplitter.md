@@ -46,9 +46,9 @@ This weapon can be [alloyed](Pluripotent_Alloy.md), giving it a purple hue and i
 
 ## Critical
 
-Scalesplitter uses the default Twinblade critical, a swift thrust with the back end of the twinblade. It has a scaled damage multiplier of **1.1x** and a cooldown of **4 seconds**. It deals **15** posture damage. On hit, it dazes opponents and innately procs [Bleed](Status_Effects.md#bleed), dealing an additional 15% of the weapon's scaled damage.
+Scalesplitter uses the default Twinblade critical, a swift thrust with the back end of the twinblade. It has a scaled damage multiplier of **1.1x** and a cooldown of **4 seconds**. It deals **15** posture damage. On hit, it dazes opponents and innately procs [Bleed](Bleed.md), dealing an additional 15% of the weapon's scaled damage.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

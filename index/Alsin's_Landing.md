@@ -42,7 +42,7 @@ For some reason, the Innkeep will tell you 'get out of my inn!', at least when y
 
 -   [Sarbu](Sarbu.md) is watching the training in the grounds of Alsin's Landing.
 -   After witnessing a Justicar effortlessly save him from a [Megalodaunt](Megalodaunt.md), he wants to understand how such techniques work.
--   The only way to complete his quest is by being a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>) and suggesting him to become a Vanguard himself.
+-   The only way to complete his quest is by being a [Vangaurd Justicar](Justicar.md#vanguard) and suggesting him to become a Vanguard himself.
 -   You are rewarded with Compassion from this.
 
 ## NPCs

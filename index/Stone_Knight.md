@@ -74,7 +74,7 @@ Dodge
 **Wind Cutter**  
 (★★☆)
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Wind_Blade.md).
 
 -   Deals Galebreathe damage.
 
@@ -139,7 +139,7 @@ A Stone Knight executes the player:
 -   Stone Knights are artificial and are thus not affected by the "Mute" [Regalia](Regalia.md) and will still attack if they spot you.
 -   Stone Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
--   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn [corrupted](Monsters.md#scyphozia) as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
+-   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn [corrupted](Corrupted_Monsters.md) as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
 -   Stone Knights can actually swim in water, however it makes their moves way harder to react to, so be careful when fighting them in water.
 -   Blizzard Knights will under no circumstance fight a [Rogue Construct](Rogue_Construct.md), instead choosing to team up on you.
 -   The animations and model of the Stone Knight were overhauled on the January 11th, 2025 Update.

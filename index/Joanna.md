@@ -30,37 +30,13 @@ Joanna is located near a [Pomar](Pomar.md) tree at [Alsin's Landing](<Alsin's_La
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>One more pomar couldn't hurt...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>One more pomar couldn't hurt...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hey, keep your hands away from the pomars!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hey, keep your hands away from the pomars!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

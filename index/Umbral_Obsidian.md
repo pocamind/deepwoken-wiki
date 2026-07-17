@@ -23,7 +23,7 @@ categories: [Items, Elemental Ingredients, Drops]
 
 ## Description
 
-Umbral Obsidian is an [Attunement](Attunements.md) item with the primarily used to unlock the [Shadowcast](Shadowcast.md) attunement. Secondary uses include being a crafting ingredient, consumable, and to spawn [Primadon](Primadon,_Titan_of_the_East.md).
+Umbral Obsidian is an [Attunement](Attunement.md) item with the primarily used to unlock the [Shadowcast](Shadowcast.md) attunement. Secondary uses include being a crafting ingredient, consumable, and to spawn [Primadon](Primadon.md).
 
 By giving 5 Umbral Obsidian to [Nostor](Nostor,_Master_of_Shadow.md) located in the [Celtor Wastes](Celtor_Wastes.md), you will obtain the Shadowcast attunement. (2 if you have already obtained Shadowcast.) [Beatra](Beatra.md) _cannot_ be given Umbral Obsidian for Shadowcast.
 
@@ -44,7 +44,7 @@ Umbral Obsidian can drop from certain monsters, chests, and enemies that use the
 
 ### Chests
 
--   [Primadon](Primadon,_Titan_of_the_East.md) chests
+-   [Primadon](Primadon.md) chests
 -   [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) chests
 -   [Ferryman](The_Ferryman.md) chests
 -   [Fishing](Fishing.md) chests

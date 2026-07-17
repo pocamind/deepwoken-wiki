@@ -52,10 +52,10 @@ The **Depthsplitter** is a medium twinblade weapon that is exclusive to [Vow of 
 
 Equipping the Depthsplitter grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sadistic Split** heals you when you guardbreak your opponent. The amount of healing received scales inversely on your current [Sanity](Insanity.md), healing more the lower your sanity is.
+**Sadistic Split** heals you when you guardbreak your opponent. The amount of healing received scales inversely on your current [Sanity](Sanity.md), healing more the lower your sanity is.
 
 ## Critical
 
-Depthsplitter uses the default Twinblade critical, a swift thrust with the back end of the twinblade. It has a scaled damage multiplier of **1.1x** and a cooldown of **4 seconds**. It deals **15** posture damage. On hit, it dazes opponents and innately procs [Bleed](Status_Effects.md#bleed), dealing an additional 15% of the weapon's scaled damage.
+Depthsplitter uses the default Twinblade critical, a swift thrust with the back end of the twinblade. It has a scaled damage multiplier of **1.1x** and a cooldown of **4 seconds**. It deals **15** posture damage. On hit, it dazes opponents and innately procs [Bleed](Bleed.md), dealing an additional 15% of the weapon's scaled damage.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.

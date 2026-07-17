@@ -16,7 +16,7 @@ LAWLESS TERRITORY OF Lost Celtor
 
 ## Overview
 
-The **Cathedral of the Interstice** is a sub-location in [The City of the Drowned](The_City_of_the_Drowned.md) located in the [First Layer](First_Layer.md). It is the main way for a player to escape the Depths through the Depths Trial. It contains the [Shrine of Courage](Shrine_of_Courage.md) and NPCs named [Andrea](Andrea.md) and [Petris](Petris.md), although Petris is technically outside the Cathedral. Inside the Trial also contains the [Voices of the Depths](Voices_of_the_Depths.md), God-like beings who are seemingly testing the player on whether they are worthy of escaping [The Depths](The_Depths.md).
+The **Cathedral of the Interstice** is a sub-location in [The City of the Drowned](The_City_of_the_Drowned.md) located in the [First Layer](First_Layer.md). It is the main way for a player to escape the Depths through the Depths Trial. It contains the [Shrine of Courage](Shrine_of_Courage.md) and [NPCs](NPCs.md) named [Andrea](Andrea.md) and [Petris](Petris.md), although Petris is technically outside the Cathedral. Inside the Trial also contains the [Voices of the Depths](Voices_of_the_Depths.md), God-like beings who are seemingly testing the player on whether they are worthy of escaping [The Depths](The_Depths.md).
 
 ## Objects of Interest
 
@@ -39,8 +39,8 @@ A small sub-elevator is located within the city section entered through the flat
 
 ### 2: East Entrance: City Bells
 
-_See also: [Lost Celtor city bells](The_City_of_the_Drowned.md#city-bells) for the location of the 2 bells._  
-There are [2 bells](The_City_of_the_Drowned.md#city-bells) located in the [District of Commerce](District_of_Commerce.md), the district on the East side of [The City of the Drowned](The_City_of_the_Drowned.md), whose entrance has a sloped gate. Once [the 2 bells](The_City_of_the_Drowned.md#city-bells) are rung, a bell choir will be heard across [Scyphozia](First_Layer.md), possibly signaling the salvation of the souls trapped within. The metal gate located in the [District of Commerce](District_of_Commerce.md) will then open for 10 minutes.
+_See also: [Lost Celtor city bells](Lost_Celtor_city_bells.md) for the location of the 2 bells._  
+There are [2 bells](Lost_Celtor_city_bells.md) located in the [District of Commerce](District_of_Commerce.md), the district on the East side of [The City of the Drowned](The_City_of_the_Drowned.md), whose entrance has a sloped gate. Once [the 2 bells](Lost_Celtor_city_bells.md) are rung, a bell choir will be heard across [Scyphozia](Scyphozia.md), possibly signaling the salvation of the souls trapped within. The metal gate located in the [District of Commerce](District_of_Commerce.md) will then open for 10 minutes.
 
 You can locate the 2 bells by listening a soft humming that gets louder the closer you are to the bell. Once the bell is rung, it will stop making any noises until the large gate closes down again.
 
@@ -65,9 +65,9 @@ Your Difficulty Score is calculated by "(Power x 3) + Drowns". This dictates the
 
 Some things can add extra Difficulty Score, alongside making the Trial a bit harder:
 
--   The **Deep Champion** [Echo Modifier](Echoes.md) will always enable every enemy to be [Corrupted](Monsters.md#scyphozia), regardless of Difficulty Score or Power.
+-   The **Deep Champion** [Echo Modifier](Echoes.md) will always enable every enemy to be [Corrupted](Corrupted_Monsters.md), regardless of Difficulty Score or Power.
 -   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. Additionally, once the player completes the harder Trial, they will be rewarded with 15 Free training points.
--   **NOTE**: [Vow of Iron](Vow_of_Iron.md) completely overhauls this system and gives a random enemy from a list and an extra enemy is added for each player in the trial. Visit [Depths Trial (Vow of Iron)](<The_Depths_(Vow_of_Iron).md#depths-trial>) for the Vow of Iron's version of the depths trial.
+-   **NOTE**: [Vow of Iron](Vow_of_Iron.md) completely overhauls this system and gives a random enemy from a list and an extra enemy is added for each player in the trial. Visit [Depths Trial (Vow of Iron)](<Depths_Trial_(Vow_of_Iron).md>) for the Vow of Iron's version of the depths trial.
 
 | Difficulty Score | Estimated [Power](Power.md)  
 (It may be worse)\* | Enemy(ies) |
@@ -75,8 +75,8 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 | 1-14 | [Power](Power.md) 1-4 | Nothing (you are sent up without a fight) |
 | 15-19 | [Power](Power.md) 5-6 | [Mudskipper Knight](Mudskipper_Knight.md) |
 | 20-29 | [Power](Power.md) 7-9 | [Hollow Angel](Hollow_Angel.md) |
-| 30-39 | [Power](Power.md) 10-13 | [Megalodaunt](Megalodaunt.md) (which has chances of being [Corrupted](Monsters.md#scyphozia)) |
-| 40-49 | [Power](Power.md) 14-16 | [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md) |
+| 30-39 | [Power](Power.md) 10-13 | [Megalodaunt](Megalodaunt.md) (which has chances of being [Corrupted](Corrupted_Monsters.md)) |
+| 40-49 | [Power](Power.md) 14-16 | [Corrupted](Corrupted_Monsters.md) [Megalodaunt](Megalodaunt.md) |
 | 50-79 | [Power](Power.md) 17-20 | [Enforcer](Enforcer.md) (Very Rare chance for a [Nautilodaunt](Nautilodaunt.md)) |
 | 80+ | [Power](Power.md) 20 + 20 drowns | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md).  
 The number of Monsters that the player will have to fight will increase with how many people are in the trial, but the waves will always remain at 2. |
@@ -86,9 +86,9 @@ The number of Monsters that the player will have to fight will increase with how
 
 ### General Info
 
-Since the trial takes place inside the [First Layer](First_Layer.md), almost all enemies have a chance of being [Corrupted](Monsters.md#scyphozia) when spawned. The exceptions to this rule are [Nautilodaunts](Nautilodaunt.md), [Fury Nautilodaunts](Fury_Nautilodaunt.md), [Enforcers](Enforcer.md), [Mudskipper Knights](Mudskipper_Knight.md), and [Hollow Angels](Hollow_Angel.md), though if the player has **Deep Champion**, these enemies will be [Corrupted](Monsters.md#scyphozia) regardless. Though, **all** enemies in the Trial have a chance to be **Attuned**. This gives a chance of enemies spawning **BOTH** being [Corrupted](Monsters.md#scyphozia) and **Attuned**.
+Since the trial takes place inside the [First Layer](First_Layer.md), almost all enemies have a chance of being [Corrupted](Corrupted_Monsters.md) when spawned. The exceptions to this rule are [Nautilodaunts](Nautilodaunt.md), [Fury Nautilodaunts](Fury_Nautilodaunt.md), [Enforcers](Enforcer.md), [Mudskipper Knights](Mudskipper_Knight.md), and [Hollow Angels](Hollow_Angel.md), though if the player has **Deep Champion**, these enemies will be [Corrupted](Corrupted_Monsters.md) regardless. Though, **all** enemies in the Trial have a chance to be **Attuned**. This gives a chance of enemies spawning **BOTH** being [Corrupted](Corrupted_Monsters.md) and **Attuned**.
 
-In the case of 2 or more players entering the Trial, the monster spawn will calculated by the highest Difficulty score among the players, and then spawn that many enemies corresponding to the amount of players. For example, if one player with Power 17 and 2 players with Power 10 enters the trial, it will spawn 3 [Enforcers](Enforcer.md). Players with the **[Deep Champion](Echoes.md#upgrades-unlocks-and-modifiers)** Echo Modifier will also make every enemy [Corrupted](Monsters.md#scyphozia), regardless of whether or not they had the highest Difficulty Score.
+In the case of 2 or more players entering the Trial, the monster spawn will calculated by the highest Difficulty score among the players, and then spawn that many enemies corresponding to the amount of players. For example, if one player with Power 17 and 2 players with Power 10 enters the trial, it will spawn 3 [Enforcers](Enforcer.md). Players with the **[Deep Champion](Deep_Champion.md)** Echo Modifier will also make every enemy [Corrupted](Corrupted_Monsters.md), regardless of whether or not they had the highest Difficulty Score.
 
 Though, weirdly enough, in contradiction to the previous paragraph, a Power 1 [Deepbound](Deepbound.md) and a Power 20 Non-Deepbound will spawn just one [Enforcer](Enforcer.md).
 
@@ -103,9 +103,9 @@ Note that leaving through the main menu or closing roblox while you are inside t
 -   In regards to other players: be wary of everyone.
     -   Players can wait near or above the elevator leading to the Trial, jumping down to backstab or sneak attack you.
     -   Players who are seemingly harmless may possess modifiers that add to your **Difficulty Score**, causing you to die to a Trial much stronger than your current strength. It is best not to enter the elevator with a random player, unless you are sure that they do not have any modifiers.
-    -   There are also cases of players using the [Disguise](Attunement-less.md#disguise) Mantra, or [Murmur: Tacet](Murmur%253A_Tacet.md) to discreetly enter the Trial with another player while possessing modifiers that make the Trial much harder. Note that real [barrels](Barrel.md) will despawn prior to reaching the top, so any barrels that remains is a player using [Disguise](Attunement-less.md#disguise). This can also be counteracted by having the [Blindseer](Oath%253A_Blindseer.md) Oath.
+    -   There are also cases of players using the [Disguise](Disguise.md) Mantra, or [Murmur: Tacet](Murmur%253A_Tacet.md) to discreetly enter the Trial with another player while possessing modifiers that make the Trial much harder. Note that real [barrels](Barrel.md) will despawn prior to reaching the top, so any barrels that remains is a player using [Disguise](Disguise.md). This can also be counteracted by having the [Blindseer](Blindseer.md) Oath.
 
 ## Trivia
 
--   An old preferred method of entering the Cathedral was climbing [Celtor City's](The_City_of_the_Drowned.md) walls, either through using a [Glider](Gliders.md) from a high vantage point, or by stacking [Barrels](Barrel.md) and climbing the wall that way, and then dropping down to the entrance.
+-   An old preferred method of entering the Cathedral was climbing [Celtor City's](Celtor_City.md) walls, either through using a [Glider](Gliders.md) from a high vantage point, or by stacking [Barrels](Barrel.md) and climbing the wall that way, and then dropping down to the entrance.
 -   The west entrance of the Cathedral, where the elevator is, used to cost 25 [Notes](Notes.md) as a toll for each use.

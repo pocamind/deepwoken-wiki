@@ -29,7 +29,7 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 
 The Blindfold is an [Equipment](Equipment.md) item under the "Face" category.
 
-Equipping any of them will grant you the [Blinded](Talents.md#blinded) talent, which is required to unlock the [Blindseer](Oath%253A_Blindseer.md) Oath.
+Equipping any of them will grant you the [Blinded](Talents.md#blinded) talent, which is required to unlock the [Blindseer](Blindseer.md) Oath.
 
 ## Trivia
 

@@ -26,23 +26,11 @@ Kana was located at [Fort Merit](Fort_Merit.md), standing at a ledge facing [Blu
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>If only my Thundercalling was more intense I could pull this off...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>If only my Thundercalling was more intense I could pull this off...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 
--   Kana wore the [Keeper](Keeper.md) [Outfit](Outfits.md) but with the gold coloring being dark blue instead.
+-   Kana wore the [Keeper](Keeper.md) [Outfit](Outfit.md) but with the gold coloring being dark blue instead.
 -   The iron ball that Kana conjures used to be blue, although it was changed to become yellow to match the current version [Thundercall](Thundercall.md).
 -   It was confirmed by developer Arch\_Mage on April 9th, 2022, that Kana is [Cut Content](Cut_Content.md).
     -   Despite this, they were removed 3 years later, unlike their colleagues: Kiternon, Gartoth and [Commander Rayner](Commander_Rayner.md), who were removed far earlier.

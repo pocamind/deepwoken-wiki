@@ -26,7 +26,7 @@ This Regalia is **kept** upon wiping below Power 10.
 
 ### Two-Faced
 
-Unlocks a special dialogue with [Rook Rethige](Rook_Rethige.md) in the [Voidheart](Voidheart.md) that lets you purchase [Call of the Deep](Deepbound.md#call-of-the-deep), [Horn of Authority](Authority_Ensign.md#horn-of-authority), or [Union Pager](Ignition_Delver.md) for 20. You can only purchase one of these.
+Unlocks a special dialogue with [Rook Rethige](Rook_Rethige.md) in the [Voidheart](Voidheart.md) that lets you purchase [Call of the Deep](Call_of_the_Deep.md), [Horn of Authority](Horn_of_Authority.md), or [Union Pager](Union_Pager.md) for 20. You can only purchase one of these.
 
 ### Prodigy
 
@@ -34,7 +34,7 @@ Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by 3
 
 ### Inspired
 
-Grants increased [Resonance progress](Resonance.md#bell-progress) gain from all paths instead of only one.  
+Grants increased [Resonance progress](Resonance_Progress.md) gain from all paths instead of only one.  
 [Sibex](Sibex.md)'s dialogue changes:  
 "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."
 
@@ -48,7 +48,7 @@ Grants unique dialogue with the [Legendary Boot](Legendary_Boot.md). Functionall
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
-This cannot be obtained if you have the [Tarnished](Boons_and_Flaws.md#flaws) Flaw.
+This cannot be obtained if you have the [Tarnished](Tarnished.md) Flaw.
 
 This Regalia is **not** kept upon wiping at any Power.
 
@@ -58,7 +58,7 @@ A flat increase is applied to your reputation with each faction. Additionally, [
 
 ### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 
-You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the Advanced Tools [Echo Unlocks](Echoes.md#upgrades-unlocks-and-modifiers), even if you haven't purchased them.
+You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the Advanced Tools [Echo Unlocks](Echo_Unlock.md), even if you haven't purchased them.
 
 This Regalia is **not** kept upon wiping at any Power.
 

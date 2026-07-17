@@ -24,15 +24,15 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exc
 | selling_price | 10 |
 | weight | 1 |
 
-**Steel Plate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+**Steel Plate** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and three (3) [Iron](Ores.md#iron) to craft.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and three (3) [Iron](Iron.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Fortitude](Attributes.md#ftd) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Fortitude](Fortitude.md) to be crafted.
 
 ### _Armor Stats_
 

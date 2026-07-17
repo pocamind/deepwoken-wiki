@@ -22,13 +22,13 @@ Cantrips are, often minor, passive utility abilities that are automatically unlo
 
 ### [Bloodrend](Bloodrend.md)
 
-**Bloodless;** This Cantrip visually hides the blood splotches that appear on the player's [Outfit](Outfits.md) when at low health. This is purely visual.
+**Bloodless;** This Cantrip visually hides the blood splotches that appear on the player's [Outfit](Outfit.md) when at low health. This is purely visual.
 
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 
 **Carnivorous;** This Cantrip allows the player to consume raw meat-type [Food](Food.md) items without vomiting. Even still, eating raw meat isn't very recommended, as the cooked versions provide significantly more sustenance and may grant additional buffs on consumption.
 
-[Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon consuming meat-type Food items.
+[Vegetarian](Vegetarian.md) Bloodrenders may still vomit upon consuming meat-type Food items.
 
 ### [Flamecharm](Flamecharm.md) / [Thundercall](Thundercall.md)
 
@@ -58,7 +58,7 @@ This does not work on [Ores](Ores.md).
 
 Currently does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel.
 
-**Stainless;** This Cantrip hides all visual tears the player's [Outfit](Outfits.md) gains when their armor durability is low. This is purely visual.
+**Stainless;** This Cantrip hides all visual tears the player's [Outfit](Outfit.md) gains when their armor durability is low. This is purely visual.
 
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 

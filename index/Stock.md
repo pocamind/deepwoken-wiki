@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Stock is a [Ganymede](Ganymede.md) NPC. He is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
+Stock is a [Ganymede](Ganymede.md) [NPC](NPC.md). He is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
 
 ## Location
 
@@ -33,44 +33,8 @@ Stock is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Between the Ignition Union and the Bandits, we won't have any explosive ordinance left...</td>
-</tr>
-<tr>
-  <td>Need some help?</td>
-</tr>
-<tr>
-  <td>Yeah, out in the wilderness nearby bandits and Union members keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td>
-</tr>
-<tr>
-  <td>Sounds Good.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Between the Ignition Union and the Bandits, we won't have any explosive ordinance left...</td></tr><tr><td>Need some help?</td></tr><tr><td>Yeah, out in the wilderness nearby bandits and Union members keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td></tr><tr><td>Sounds Good.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Explosive Crates:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Aye, thanks for the help. The <a href="Glossary.md#the-central-authority">Authority</a> better start sending some help before we start declining their firearm contracts.</td>
-</tr>
-<tr>
-  <td>Need some help?</td>
-</tr>
-<tr>
-  <td>[See first instance]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Aye, thanks for the help. The <a href="Glossary.md#the-central-authority">Authority</a> better start sending some help before we start declining their firearm contracts.</td></tr><tr><td>Need some help?</td></tr><tr><td>[See first instance]</td></tr></tbody></table>

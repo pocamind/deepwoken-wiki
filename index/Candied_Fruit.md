@@ -39,4 +39,4 @@ Additionally, it grants the Enchant buff, affecting 10% of the Stomach bar. The 
 
 ### Recipe
 
--   2 [Fruit](Ingredients.md#fruits) and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   2 [Fruit](Fruit.md) and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

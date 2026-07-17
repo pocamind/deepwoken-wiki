@@ -31,14 +31,14 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Maestro Evengarde Rest is the master of the Temple of the Blade and the current Maestro of The Vigils. A powerful individual, he will train and assist only those who he sees fit, so that Etrea, its people and its culture may not be swept away in the machinations of other nations.
 
-Upon challenging Maestro Evengarde Rest to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards. If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md#flaws) Flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
+Upon challenging Maestro Evengarde Rest to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards. If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Disgraced.md) Flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
 
 To start the fight with Maestro Evengarde Rest:
 
 1.  Achieve (slightly higher than) Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 2.  Complete [the Lost Sibling quest](Temple_of_the_Blade.md#lost-sibling-quest).
-3.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+3.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Erisia.md).
 4.  Power 15
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.
@@ -249,7 +249,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
 ### Passives
 
--   Thorn Guard - Maestro Evengarde Rest is immune to [Providence Thorns](<Providence's_Thorns.md>).
+-   Thorn Guard - Maestro Evengarde Rest is immune to [Providence Thorns](Providence_Thorns.md).
 -   Disengage - Whenever Maestro Evengarde Rest loses 1/3rd of his maximum health, he will Vent and teleport to a random location in the arena. This is often followed up with an _Mortal Draw: Pressure_ to close the distance.
 -   Guardbreak Resist - Maestro Evengarde Rest is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this effect procs.
 
@@ -279,7 +279,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear, Curved Blade of Winds and the enchant Obfuscation will easily chip through his block. However, the Night Axe is the best weapon for this (assuming you fight him with heavy weapons) due to the incredibly high 80% chip.
 -   Healing from sources like Bloodless Gem can be useful as it allows you to survive much longer.
 -   Temporary Health from various [Bloodrend](Bloodrend.md) Talents such as Sow and Mend and Vampirism has a similar outcome to healing. As damage from all sources will be absorbed by your temporary health, this will allow you to sustain your health for the most part.
--   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this Talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak. Unlike The Duke though, he has a very high amount of posture.
+-   Rest, like [Duke Erisia](Duke_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this Talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak. Unlike The Duke though, he has a very high amount of posture.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
@@ -302,7 +302,7 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
 -   Rarely, the [Monastery Champion Set](Monastery_Champion_Robes.md), the [Imperial Staff](Imperial_Staff.md), or [Lesser Relics](Relics.md)
 -   Extremely Rarely, a [Sinner's Ash](<Sinner's_Ash.md>)
 
-Despite his loot-pool's variety and size, he will mainly drop [Enchant Stones](Enchant_Stone.md), and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md) due to the ease and speed of accessing his fight.
+Despite his loot-pool's variety and size, he will mainly drop [Enchant Stones](Enchant_Stone.md), and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Erisia.md) due to the ease and speed of accessing his fight.
 
 Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wayward Gems. Maestro's Ring is weighted more strongly than other rings.
 
@@ -312,128 +312,19 @@ Exhaustive Loot Table
 
 **Keep in mind that this list is still incomplete.**
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td>
-  <ul>
-    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
-    <li><b>Master</b>: <a href="Windrunner_Robes.md">Windrunner Robes</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a>, though Wind Gem has more chance to drop than others.</li>
-    <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Extremely Rare)</li>
-  </ul></li>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>. However, their drop chances significantly decrease after the first kill.)</li>
-    <li>[Note: You can receive any of the exclusive weapons, they just have a very low drop rate after the first kill]
-  <ol>
-    <li><a href="Cerulean_Thread.md">Cerulean Thread</a> (Light)</li>
-    <li><a href="Purple_Cloud.md">Purple Cloud</a> (Medium)</li>
-    <li><a href="Pale_Briar.md">Pale Briar</a> (Heavy)</li>
-  </ol></li>
-    <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Crypt_Blade.md"><font>Crypt Blade</font></a></li>
-    <li><b>Hybrid Weapons</b>: <a href="Wyrmtooth.md">Wyrmtooth</a></li>
-    <li><b>Alloyed Weapons</b>: <a href="Katana.md">Alloyed Katana</a></li>
-    <li><b>Generic Weapons</b>:
-  <ol>
-    <li><b>Light Weapons</b>:</li>
-    <li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Kanabo.md">Kanabo</a></li>
-  </ol></li>
-    <li><b>Offhand Weapons</b>:</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
-  <ol>
-    <li><b>Legendary Head</b>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a>.</li>
-    <li><b>Generic Head</b>:</li>
-  </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
-  <ol>
-    <li><b>Legendary Arms</b>: <a href="Monastery_Champion_Robes.md"><font>Monastery Champion Robes</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Blademaster's_Robe.md">Blademaster's Robe</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
-  <ol>
-    <li><b>Legendary Torso</b>: <a href="Monastery_Beads.md"><font>Monastery Beads</font></a>.</li>
-    <li><b>Generic Torso</b>: <a href="Etrean_Sashimono.md">Etrean Sashimono</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Legs Equipment</b></a>: <a href="Geta.md">Geta</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
-  <ol>
-    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li>
-    <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
-  </ol></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li><li><b>Master</b>: <a href="Windrunner_Robes.md">Windrunner Robes</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li>All <a href="Deep_Gems.md">Deep Gems</a>, though Wind Gem has more chance to drop than others.</li><li>All <a href="Enchant_Stone.md">Enchant Stones</a></li><li>Some <a href="Relics.md">Relics</a>:<ul><li><a href="Smith's_Alloy.md">Smith's Alloy</a></li><li><a href="Armorer's_Needle.md">Armorer's Needle</a></li><li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Extremely Rare)</li></ul></li><li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>. However, their drop chances significantly decrease after the first kill.)</li><li>[Note: You can receive any of the exclusive weapons, they just have a very low drop rate after the first kill]<ol><li><a href="Cerulean_Thread.md">Cerulean Thread</a> (Light)</li><li><a href="Purple_Cloud.md">Purple Cloud</a> (Medium)</li><li><a href="Pale_Briar.md">Pale Briar</a> (Heavy)</li></ol></li><li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Crypt_Blade.md"><font>Crypt Blade</font></a></li><li><b>Hybrid Weapons</b>: <a href="Wyrmtooth.md">Wyrmtooth</a></li><li><b>Alloyed Weapons</b>: <a href="Alloyed_Katana.md">Alloyed Katana</a></li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>:</li><li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li><li><b>Heavy Weapons</b>: <a href="Kanabo.md">Kanabo</a></li></ol></li><li><b>Offhand Weapons</b>:</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:<ol><li><b>Legendary Head</b>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a>.</li><li><b>Generic Head</b>:</li></ol></li><li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:<ol><li><b>Legendary Arms</b>: <a href="Monastery_Champion_Robes.md"><font>Monastery Champion Robes</font></a></li><li><b>Generic Arms</b>: <a href="Blademaster's_Robe.md">Blademaster's Robe</a></li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>Legendary Torso</b>: <a href="Monastery_Beads.md"><font>Monastery Beads</font></a>.</li><li><b>Generic Torso</b>: <a href="Etrean_Sashimono.md">Etrean Sashimono</a></li></ol></li><li><a href="Equipment.md#legs"><b>Legs Equipment</b></a>: <a href="Geta.md">Geta</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li><li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li></ol></li></ul></td></tr></tbody></table>
 
 ## Dialogue
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>So, are you ready to begin? It's time to put your strength to the test.</td>
-</tr>
-<tr>
-  <td>Let's begin.</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>So, are you ready to begin? It's time to put your strength to the test.</td></tr><tr><td>Let's begin.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) hair ID on.
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test.</td>
-</tr>
-<tr>
-  <td>Let's begin.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test.</td></tr><tr><td>Let's begin.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

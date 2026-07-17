@@ -27,4 +27,4 @@ categories: [Equipment, Rings, The Divers]
 
 Ring of Wisps grants the user double the amount of charges of Attunement Wisps.
 
-Currently bugged (at least on [Flame](Flamecharm.md#flame-wisp) and [Blood](Bloodrend.md#blood-wisp) wisps).
+Currently bugged (at least on [Flame](Flame_Wisp.md) and [Blood](Blood_Wisp.md) wisps).

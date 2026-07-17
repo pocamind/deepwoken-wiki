@@ -14,7 +14,7 @@ categories: [Mechanics]
 
 ## Description
 
-Lifevents, commonly referred to as Jump Pads, are stationary structures that are used to provide upward boosts. They have a geyser-like appearance, and emit a green mist moving up into the air. They are mainly found within the [Starswept Valley](The_Starswept_Valley.md), and in parts of the [Battle Royale](Battle_Royale.md) map.
+Lifevents, commonly referred to as Jump Pads, are stationary structures that are used to provide upward boosts. They have a geyser-like appearance, and emit a green mist moving up into the air. They are mainly found within the [Starswept Valley](Starswept_Valley.md), and in parts of the [Battle Royale](Battle_Royale.md) map.
 
 ## Usage
 

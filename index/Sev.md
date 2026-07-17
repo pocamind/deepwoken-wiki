@@ -29,7 +29,7 @@ Sev can be given 25 [Crowns](Crowns.md) to permanently unlock "Manycolored Equip
 
 Their appearance is unique as they have multicolored crown shaped eyes and blue skin. They wear a green [Party Hat](Party_Hat.md) and the [Cala-Mariner](Cala-Mariner.md) outfit. Their crown also emits multicolored particles.
 
-Manycolored Equipment is an account-wide unlock and **cannot** dye [Oath](Oaths.md) cosmetics, hair, eyes, [Aspect](Aspects.md) features, [Resonance](Resonance.md) bells, or [Outfits](Outfits.md). You will still need to visit a [Barber](Barber.md) to remove dyes.
+Manycolored Equipment is an account-wide unlock and **cannot** dye [Oath](Oath.md) cosmetics, hair, eyes, [Aspect](Aspect.md) features, [Resonance](Resonance.md) bells, or [Outfits](Outfits.md). You will still need to visit a [Barber](Barber.md) to remove dyes.
 
 ## Location
 
@@ -39,96 +39,17 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
 
 Sev's Boutique
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>1 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
-  <td><div>Dye Packet</div><div><i>A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
-  <td><div>Manycolored Equipment</div><div><i>Permanently unlocks the ability to edit your Equipment's Colors freely</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>1 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td><td><div>Dye Packet</div><div><i>A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td><td><div>Manycolored Equipment</div><div><i>Permanently unlocks the ability to edit your Equipment's Colors freely</i></div></td></tr></tbody></table>
 
 ## Dialogue
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Gwoh hoh hoh hoh! My my my, for a few Crowns I could make you the talk of the <a href="Glossary.md#the-luminants">Luminant</a>!<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
-</tr>
-<tr>
-  <td colspan="3">[Purchased Something]</td>
-  <td colspan="3">[Player has dyed equipment]</td>
-  <td colspan="6">Your fashion sense is...</td>
-</tr>
-<tr>
-  <td colspan="3">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td>
-  <td colspan="3">Could you remove some of my dyes?</td>
-  <td colspan="6">Gwoh?! *<i>Their eyes light up in anticipation, hanging on your every word. It's possible they could die if you don't finish your sentence soon, like a pet hamster starved of attention.</i>*</td>
-</tr>
-<tr>
-  <td colspan="3">Your fashion sense is...</td>
-  <td colspan="3">Gwoh hoh hoh, hanging in the towel on your fashion career already? Can't say I blame you...</td>
-  <td colspan="3">Stunning. Eyecatching. A visual delight.</td>
-  <td colspan="3">Awful. Garbage. It insists upon itself.</td>
-</tr>
-<tr>
-  <td colspan="3">[See first instance]</td>
-  <td colspan="3">[Player selects a dyed item]</td>
-  <td colspan="3"><i>*They beam with pride, you think you see a tear well up in their eye.*</i> Gwoh! <b>GWOH!</b> You. Are. A. <b>RIOT!</b> <i>Not enough of a riot to make me drop my prices or offer any form of discount</i>, but a riot all the same! GWOH!</td>
-  <td colspan="3">Drop dead, boor.</td>
-</tr>
-<tr>
-  <td colspan="3"></td>
-  <td colspan="3">Gwoh! Back to boring!</td>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="3"></td>
-  <td colspan="3">[End Dialogue], equipment dye is removed</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Gwoh hoh hoh hoh! My my my, for a few Crowns I could make you the talk of the <a href="Glossary.md#the-luminants">Luminant</a>!<br>[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td></tr><tr><td colspan="3">[Purchased Something]</td><td colspan="3">[Player has dyed equipment]</td><td colspan="6">Your fashion sense is...</td></tr><tr><td colspan="3">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td><td colspan="3">Could you remove some of my dyes?</td><td colspan="6">Gwoh?! *<i>Their eyes light up in anticipation, hanging on your every word. It's possible they could die if you don't finish your sentence soon, like a pet hamster starved of attention.</i>*</td></tr><tr><td colspan="3">Your fashion sense is...</td><td colspan="3">Gwoh hoh hoh, hanging in the towel on your fashion career already? Can't say I blame you...</td><td colspan="3">Stunning. Eyecatching. A visual delight.</td><td colspan="3">Awful. Garbage. It insists upon itself.</td></tr><tr><td colspan="3">[See first instance]</td><td colspan="3">[Player selects a dyed item]</td><td colspan="3"><i>*They beam with pride, you think you see a tear well up in their eye.*</i> Gwoh! <b>GWOH!</b> You. Are. A. <b>RIOT!</b> <i>Not enough of a riot to make me drop my prices or offer any form of discount</i>, but a riot all the same! GWOH!</td><td colspan="3">Drop dead, boor.</td></tr><tr><td colspan="3"></td><td colspan="3">Gwoh! Back to boring!</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="3"></td><td colspan="3">[End Dialogue], equipment dye is removed</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">[Player did not bring up Sev's fashion sense]</td>
-  <td colspan="4">[Player chose "Stunning. Eyecatching. A visual delight." in previous dialogue]</td>
-  <td colspan="4">[Player chose "Awful. Garbage. It insists upon itself." in previous dialogue]</td>
-</tr>
-<tr>
-  <td colspan="4">[Dialogue is the same as First Encounter]</td>
-  <td colspan="4">Gwoh! Oh I just <i>love</i> the look today. Very avant-garde, yes? Broke-chic is very in right now, you know? Gwoh hoh!</td>
-  <td colspan="4">Gwoh! What a mess! Basic! Simply basic! Come to receive enlightenment, gwhmmmm?</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="2">[Purchased Something]</td>
-  <td colspan="2">[Player has dyed equipment]</td>
-  <td colspan="2">[Purchased Something]</td>
-  <td colspan="2">[Player has dyed equipment]</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="8">[See first instance]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="4">[Player did not bring up Sev's fashion sense]</td><td colspan="4">[Player chose "Stunning. Eyecatching. A visual delight." in previous dialogue]</td><td colspan="4">[Player chose "Awful. Garbage. It insists upon itself." in previous dialogue]</td></tr><tr><td colspan="4">[Dialogue is the same as First Encounter]</td><td colspan="4">Gwoh! Oh I just <i>love</i> the look today. Very avant-garde, yes? Broke-chic is very in right now, you know? Gwoh hoh!</td><td colspan="4">Gwoh! What a mess! Basic! Simply basic! Come to receive enlightenment, gwhmmmm?</td></tr><tr><td colspan="4"></td><td colspan="2">[Purchased Something]</td><td colspan="2">[Player has dyed equipment]</td><td colspan="2">[Purchased Something]</td><td colspan="2">[Player has dyed equipment]</td></tr><tr><td colspan="4"></td><td colspan="8">[See first instance]</td></tr></tbody></table>
 
 ## Trivia
 

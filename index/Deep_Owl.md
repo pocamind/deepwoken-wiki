@@ -24,7 +24,7 @@ categories: [Monsters]
 
 The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [Monster](Monsters.md) found in [Lower Erisia](Lower_Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>), [Pathfinder's Respite](<Pathfinder's_Respite.md>), [The Garden Reservoir](The_Garden_Reservoir.md), [Upper Erisia](Upper_Erisia.md), [Burning Stone Gardens](Burning_Stone_Gardens.md), [The Lordsgrove](The_Lordsgrove.md), and [The Depths](The_Depths.md). Deep Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
 
-Deep Owls will only spawn in the Etrean Luminant while the moon is out. This restriction does not apply to The Depths, nor the static Deep Owl spawn in [The Lordsgrove](The_Lordsgrove.md).
+Deep Owls will only spawn in the [Etrean Luminant](Locations.md) while the moon is out. This restriction does not apply to The Depths, nor the static Deep Owl spawn in [The Lordsgrove](The_Lordsgrove.md).
 
 “ Yes, we Owls... Or I suppose, that's just how we appear to your limited perceptive abilities... An insidious predator that feasts on the meek... ”
 
@@ -35,7 +35,7 @@ Deep Owls hail down on Lumen from an inconceivable dimension that contains their
 
 When appearing in [Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md), its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. During the dialogue, it is non-hostile and will not attack the player, remaining in this state until the player begins attacking or turns their back to the Deep Owl while in its detection range. Therefore, it's a good time to log out if unprepared for the battle.
 
-Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) requires a [Dark Feather](Dark_Feather.md), but is progressed with [Void Feathers](Dark_Feather.md#void-feather).
+Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) requires a [Dark Feather](Dark_Feather.md), but is progressed with [Void Feathers](Void_Feather.md).
 
 ## Attacks
 
@@ -133,47 +133,15 @@ Claw Crush
 
 ## Dialogue
 
-Note: The player can only speak to a Deep Owl if they are the one to spawn it or have the [Mute](Regalia.md) [Regalia](Regalia.md).
+Note: The player can only speak to a Deep Owl if they are the one to spawn it or have the [Mute](Mute.md) [Regalia](Regalia.md).
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity.</td>
-</tr>
-<tr>
-  <td colspan="6">I'm just passing through.</td>
-  <td colspan="6">What the.. Why can you talk?!</td>
-</tr>
-<tr>
-  <td colspan="6">Ah. Carry on then, little mouse. I'm sure you have places to be.</td>
-  <td colspan="6">My, my... Such impertinent squeaking. The mice of this land never fail to amaze me.</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity.</td></tr><tr><td colspan="6">I'm just passing through.</td><td colspan="6">What the.. Why can you talk?!</td></tr><tr><td colspan="6">Ah. Carry on then, little mouse. I'm sure you have places to be.</td><td colspan="6">My, my... Such impertinent squeaking. The mice of this land never fail to amaze me.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12"><i>*The creature tilts its head curiously.*</i></td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i>*The creature tilts its head curiously.*</i></td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 ## Tips
 

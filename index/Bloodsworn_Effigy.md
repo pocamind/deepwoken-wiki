@@ -33,7 +33,7 @@ notices:
 
 ## Description
 
-The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the form of a war banner, with decorations resembling [Deep Shrines](Deep_Shrines.md) and various iconography of [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) adorning it.
+The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the form of a war banner, with decorations resembling [Deep Shrines](Deep_Shrines.md) and various iconography of [Yun'Shul](<Yun'Shul.md>) adorning it.
 
 ## Trivia
 

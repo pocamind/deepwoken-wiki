@@ -22,7 +22,7 @@ categories: [Monsters]
 
 ## Description
 
-The **Deep Widow** is a giant enemy spider that lurks in [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md), along with a set location in [The Depths](The_Depths.md).
+The **Deep Widow** is a giant enemy spider that lurks in [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](Starswept_Valley.md), along with a set location in [The Depths](The_Depths.md).
 
 This monster also spawns in [The Depths](The_Depths.md) in a location near one of the columned teleporters or spawns. There is a path which seems to lead towards the void but instead leads down towards an area which has a wooden door. It leads you to the Widow. Behind the Deep Widow in The Depths is [Surge](Surge.md), an NPC related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md).
 
@@ -112,9 +112,9 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 ### **Passives**
 
 -   **Unwavering Neurotoxins** - The poison inflicted by the Widow's bite will deal **percent-based damage**, no matter how much health or resistances the target has. It will also insta-execute the player if the player reaches 0% health when afflicted.
-    -   This is especially dangerous in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) where the Widow's bite simply ignores the resistances given by abilities such as [Sacred Field](Sacred_Field.md) or [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle). As a result, it is recommended to target the Widows first when they spawn in during a wave.
+    -   This is especially dangerous in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) where the Widow's bite simply ignores the resistances given by abilities such as [Sacred Field](Sacred_Field.md) or [Tranquil Circle](Tranquil_Circle.md). As a result, it is recommended to target the Widows first when they spawn in during a wave.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to the Deep Widow.
--   **Fireproof** - Deep Widows automatically extinguish [burn](Status_Effects.md#burn).
+-   **Fireproof** - Deep Widows automatically extinguish [burn](Burn.md).
 
 ### Finisher
 

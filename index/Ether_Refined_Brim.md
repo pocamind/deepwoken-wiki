@@ -41,15 +41,15 @@ Variants: [Mantle](Ether_Refined_Mantle.md)
 
 The Ether Refined Brim is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) Unique tier [Equipment](Equipment.md) item under the "Head" category.
 
-The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent restores 5 [Tempo](Combat_Mechanics.md#tempo) after a successful Vent. At the default Vent cost of 40, this Talent restores 12.5% of the Tempo used.
+The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent restores 5 [Tempo](Tempo.md) after a successful Vent. At the default Vent cost of 40, this Talent restores 12.5% of the Tempo used.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
+Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Tempo.md) you have by 10/30.
 
-This increases your [Tempo](Combat_Mechanics.md#tempo) by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).
+This increases your [Tempo](Tempo.md) by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).
 
   
 

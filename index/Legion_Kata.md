@@ -33,25 +33,25 @@ categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapo
 
 ## Description
 
-Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a [Legion Captain](Legion_Captain.md) with high positive reputation with the [Hundred Legions](The_Hundred_Legions.md) in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md).
+Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a [Legion Captain](Legion_Captain.md) with high positive reputation with the [Hundred Legions](The_Hundred_Legions.md) in [Starswept Valley](Starswept_Valley.md), to [Amara](Amara.md).
 
-While Legion Kata has the same damage as other [Fist Styles](Fists.md#styles), the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
+While Legion Kata has the same damage as other [Fist Styles](Fist_Style.md), the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
 
 If you have Legion Kata and other [Fist Styles](Fists.md) (except for [Jus Karita](Jus_Karita.md)) obtained, you can switch and cycle between them quickly by pressing Y. This has a 7 second cooldown.
 
 ## Critical
 
-User performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Status_Effects.md#dazed) on hit.
+User performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Dazed.md) on hit.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Obtainment
 
-To obtain it, you must gain Friend reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](The_Starswept_Valley.md).
+To obtain it, you must gain Friend reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](Starswept_Valley.md).
 
 Alternatively, you can do the [legion scout quest](Quests.md#lars). This way you will gain enough reputation.
 
-Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](The_Starswept_Valley.md) to obtain the Captain's Rec item, the Legion Captain spawn is somewhat uncommon.
+Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](Starswept_Valley.md) to obtain the Captain's Rec item, the Legion Captain spawn is somewhat uncommon.
 
 **DO NOT CLICK ON THE ITEM WHILE HOLDING IT. YOU WILL CONSUME IT AND HAVE TO RE-OBTAIN IT.**
 

@@ -29,7 +29,7 @@ _This page is about the Vow of Iron outfit, not to be confused with the [Develop
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Moonseye (Outfit)** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+**Moonseye (Outfit)** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -41,11 +41,11 @@ This Outfit also requires the player to be at least [Power](Power.md) 15 to be c
 
 ### _Armor Stats_
 
-This Outfit has 40000 durability and grants +55% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +200% Ether Regen [ResistanceElemental](Attunements.md). Additionally, it provides the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
+This Outfit has 40000 durability and grants +55% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunement.md), +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +200% Ether Regen [ResistanceElemental](Attunement.md). Additionally, it provides the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 55% Physical ResistanceBlunt ResistanceSlash, 51.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20% PEN to any non-weapon attack, such as Mantras and Talent abilities. Additionally, because [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, Crippling darkness allows your typeless damage attacks (e.g. [Bleed](Status_Effects.md#bleed)) to deal more damage against Reinforce users than you would otherwise.
+The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20% PEN to any non-weapon attack, such as Mantras and Talent abilities. Additionally, because [Reinforce's](Reinforce.md) general resistance is affected by PEN, Crippling darkness allows your typeless damage attacks (e.g. [Bleed](Bleed.md)) to deal more damage against Reinforce users than you would otherwise.
 
 ## Trivia
 

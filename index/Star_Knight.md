@@ -68,7 +68,7 @@ Dodge
 **Energy Wave**  
 (★★☆)
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Wind_Blade.md).
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -145,7 +145,7 @@ A Stone Knight executes the player:
 ## Trivia
 
 -   Immortal Guardians will attack Star Knights.
--   Star Knights talk when they commence combat with a player. It will say "OUTSIDE INTERFERENCE PROBABLE." followed by "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT.", in a similar matter as a [Hive Construct](Hive_Construct.md) would.[\[1\]](#cite-note-1)
+-   Star Knights talk when they commence combat with a player. It will say "OUTSIDE INTERFERENCE PROBABLE." followed by "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT.", in a similar matter as a [Hive Construct](Golem_Constructs.md) would.[\[1\]](#cite-note-1)
 -   The [Moon Knight](Moon_Knight.md) appears to be a mirrored counterpart of the Star Knight.
 
 ## References

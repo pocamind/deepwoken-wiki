@@ -12,7 +12,7 @@ _This is the book availabe in the current game version. For its older counterpar
 
 ## Description
 
-_**Diver's Journal: Apprentice Hero**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>).
+_**Diver's Journal: Apprentice Hero**_ is a [Book](Book.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Apprentice Hero](Apprentice_Hero.md).
 
 ## Text
 
@@ -56,6 +56,6 @@ Diver's Journal: Apprentice Hero
 
 ## Appearances
 
--   [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>)
+-   [Apprentice Hero](Apprentice_Hero.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Mentioned only)
--   [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>) (Mentioned only)
+-   [Journeyman Skeli](Abandoned_Diver.md) (Mentioned only)

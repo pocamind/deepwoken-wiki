@@ -157,7 +157,7 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 ### Passives
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Mantra Modification - An Authority Commander's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Mantra_Modifiers.md#regular-modifiers) or 2 [Stratus Stones](Mantra_Modifiers.md#regular-modifiers).
+-   Mantra Modification - An Authority Commander's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Cloudstone.md) or 2 [Stratus Stones](Stratus_Stone.md).
 
 ### Talents
 

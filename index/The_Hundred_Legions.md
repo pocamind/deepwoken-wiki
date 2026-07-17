@@ -30,13 +30,13 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 The Hundred Legions consists of one hundred legions.
 
--   The [11th Legion](The_Hundred_Legions.md).
+-   The [11th Legion](11th_Legion.md).
     -   consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and Lars.
     -   Has associated outfit, [11th Legion Plate](11th_Legion_Plate.md).
 -   The 21st Legion.
     -   Has an associated [Specialist set](Specialist_Plate.md) style.
--   The [49th Legion](The_Hundred_Legions.md).
-    -   consists of [Polymarch Legion Soldiers](<Legion_Soldier_(The_Polymarch).md>) and [General Titus Juventius](General_Titus_Juventius.md), now known as [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+-   The [49th Legion](49th_Legion.md).
+    -   consists of [Polymarch Legion Soldiers](Polymarch_Legion_Soldier.md) and [General Titus Juventius](General_Titus_Juventius.md), now known as [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
     -   Has an associated [Specialist set](Specialist_Plate.md) style.
 -   The 77th Legion.
     -   Implied to be the inventers of the [Imperator's Fury](<Imperator's_Fury.md>)
@@ -54,8 +54,8 @@ Other notable members of the hundred legions.
 ## Relationships
 
 -   Enemies with [The Hive](The_Hive.md)
--   Enemies with [The Authority](The_Central_Authority.md)
--   Enemies with [The Kingdom of Etrea](Etrea.md)
+-   Enemies with [The Authority](The_Authority.md)
+-   Enemies with [The Kingdom of Etrea](The_Kingdom_of_Etrea.md)
 -   Enemies with [The Starkindred Church](The_Starkindred_Church.md)
 
 ## Reputation
@@ -66,13 +66,13 @@ There is no reputation reset NPC for The Hundred Legions and have a singular [Bo
 
 Doing the [Lars quest](Quests.md#lars) nets you enough reputation to become neutral with The Hundred Legions if you're not a [Khan](Khan.md) and haven't done anything else.
 
-And the best way to increase the reputation with The Hundred Legions is through doing jobs on the [Job Boards](Job_Boards.md). Specifically, the Job Boards in [Starswept Valley](The_Starswept_Valley.md) or [Lower Erisia](Lower_Erisia.md).
+And the best way to increase the reputation with The Hundred Legions is through doing jobs on the [Job Boards](Job_Boards.md). Specifically, the Job Boards in [Starswept Valley](Starswept_Valley.md) or [Lower Erisia](Lower_Erisia.md).
 
 Though another way to gain reputation with The Hundred Legions is also through helping them fight in specific [Random Encounters](Random_Encounters.md):
 
--   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
--   [Legion Captain](Legion_Captain.md) + [Legion Soldier](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
--   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
+-   [Legion Captain](Legion_Captain.md) + [Legion Soldier](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
+-   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](Central_Authority.md) ([Starswept Valley](Starswept_Valley.md))
 
 ## Notable Members
 

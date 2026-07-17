@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Saltchemist** is one of the 17 obtainable Oaths in _Deepwoken._ It's a highly customizable utility and support based Oath based around [Alchemy](Alchemy.md). Where it's benefits and applications vary greatly on the potions in your arsenal, allowing for various buffs to yourself and debuffs to your enemies. It is the _only_ Oath that requires intelligence.
+**[Oath](Oath.md): Saltchemist** is one of the 17 obtainable Oaths in _Deepwoken._ It's a highly customizable utility and support based Oath based around [Alchemy](Alchemy.md). Where it's benefits and applications vary greatly on the potions in your arsenal, allowing for various buffs to yourself and debuffs to your enemies. It is the _only_ Oath that requires intelligence.
 
 “ Every atom, every bond. You understand that All is One, and One is All. ”
 
@@ -30,11 +30,11 @@ The effects of this Oath happen as a result of drinking the **Root Panacea**, an
 ## Obtainment
 
 1.  Make at least one potion for [Ciea](Ciea.md). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
-2.  Obtain 75 [Intelligence](Attributes.md#int). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
+2.  Obtain 75 [Intelligence](Intelligence.md). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
 3.  In [Ferryman's Library](<Boatman's_Watch.md>), [Adrofalis](Adrofalis.md) will ask you to make a residue. Bring him the following ingredients:
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to [Derelict Highchurch](Derelict_Highchurch.md) and use a canteen in the blood pool of the crucified Celestial. (The blood stays in your canteen just as regular water. It does not disappear when you die or rejoin, though **it will disappear** if you reset.)
     -   [Stardust](Stardust.md) from a Star Tree. Consider getting a second one, which is needed to progress the Oath.
-    -   A [Pristine Lotus](Pristine_Lotus.md), which can be found in [The Entropy Catalyst](The_Entropy_Catalyst.md). You may also use a [Scarlet Lotus](Pristine_Lotus.md).
+    -   A [Pristine Lotus](Pristine_Lotus.md), which can be found in [The Entropy Catalyst](The_Entropy_Catalyst.md). You may also use a [Scarlet Lotus](Scarlet_Lotus.md).
 4.  Gather those ingredients and return to [Adrofalis](Adrofalis.md), who will grant you the Oath.
 
 -   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.
@@ -43,7 +43,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 You can obtain/"skip" the salts and mantra obtainment instantly with 10 knowledge (Not recommended, since the materials are easy to get)
 
-_Saltchemist **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
+_Saltchemist **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
 
 ### Location
 
@@ -51,7 +51,7 @@ _Saltchemist **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oat
 
 ## Progression
 
-Obtain a [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt Talents, granted all at once. This only consumes the Vibrant Gem.
+Obtain a [Vibrant Gem](Vibrant_Gem.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt Talents, granted all at once. This only consumes the Vibrant Gem.
 
 ## Effects
 
@@ -76,7 +76,7 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
     -   Halves negative effects for allies, and positive effects for enemies.
     -   Useful when throwing things like Heartening or Hastening Potions at allies.
     -   This should be used in every potion possible, as it has no downsides whatsoever.
--   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
+-   Obtained after crafting 1 [Vibrant Gem](Vibrant_Gem.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
     -   Only the Vibrant Gem is consumed.
 
 -   **Aromatic Salts** - Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
@@ -86,7 +86,7 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
         -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
         -   Ticks once every 0.5sec, for a total of 20 ticks of _whatever the potion effect is_ for the duration of the gas cloud.
     -   Regardless if the potion is the exact same or one different, the effects will apply and the clouds will stack applying the effects of the different clouds to the target afflicted, having several clouds on the same area doesn't diminish their effectivity.
--   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
+-   Obtained after crafting 1 [Vibrant Gem](Vibrant_Gem.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
     -   Only the Vibrant Gem is consumed.
 
 -   **Antithetic Salts** - Alter your brews to invert their effects. Does not count towards the ingredient limit.
@@ -96,7 +96,7 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
         -   Disgusting -> Dulling
         -   Mindbreaking -> Heartening
         -   Invigorating -> Grueling
--   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
+-   Obtained after crafting 1 [Vibrant Gem](Vibrant_Gem.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
     -   Only the Vibrant Gem is consumed.
 
 ### Mantras
@@ -160,7 +160,7 @@ N/A
 
  | 
 
-Crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together. (Only the Vibrant Gem is consumed)
+Crafting 1 [Vibrant Gem](Vibrant_Gem.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together. (Only the Vibrant Gem is consumed)
 
  |
 | 
@@ -182,7 +182,7 @@ Crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent
 
 ## Trivia
 
--   Saltchemist is the second Oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)).
--   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence Oath upon its release, before losing its INT requirement and scaling.
+-   Saltchemist is the second Oath that uses tools (after [Fadetrimmer](Fadetrimmer.md)).
+-   Originally, [Contractor](Contractor.md) was the Intelligence Oath upon its release, before losing its INT requirement and scaling.
 -   The idea of an Alchemist Oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an Oath.
 -   Adrofalis, who gives the Oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.

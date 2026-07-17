@@ -33,13 +33,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Breaker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You get access to both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) fighting styles.
+**Breaker** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You get access to both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) fighting styles.
 
 The Breaker is a hulking brute, empowering themselves throughout the fight, leaving Mantras like Strong Left and Rapid Punches extremely devastating.
 
 ## Starting Abilities
 
--   Calamity Punch \[Memento Talent\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
+-   Calamity Punch \[Memento Talent\] - Every successful [Strong Left](Strong_Left.md) builds up stacks to perform a larger scale punch.
 
 -   _Legion Kata_ \[Quest Talent\] - Gain the ability to use the Legion's martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
@@ -54,8 +54,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
 
 -   Unswayed \[Common Talent\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
-    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
-    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
+    -   The [Taunt](Taunt.md) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
+    -   The [Sing](Sing.md) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
         -   Sing can still apply Charm/Overcharm to the user.
 
 -   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
@@ -172,7 +172,7 @@ N/A
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
 
--   Threefold Impact \[Memento Talent\] **200** \- Every stack built with [Strong Left](Attunement-less.md#strong-left) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
+-   Threefold Impact \[Memento Talent\] **200** \- Every stack built with [Strong Left](Strong_Left.md) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
     
     -   Grants buffs to your Strong Left based on how many Calamity Punch stacks you have.
         -   With one stack, your Strong Left cooldown will be reduced by ?s.
@@ -401,12 +401,12 @@ Blunt ResistanceBlunt
 -   Brassneck \[Common Talent\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
 
--   Knuckle Guard \[Common Talent\] **100** \- Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
+-   Knuckle Guard \[Common Talent\] **100** \- Hitting [Dazed](Dazed.md) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below a combined 80.
 
 -   _Fists of Fortitude_ \[Rare Talent\] **250** \- Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
     -   Lasts 10 seconds then goes on cooldown once the buff ends.
-    -   Only procs on M1s and criticals with the M1 tag.
+    -   Only procs on M1s and criticals with the [M1 tag](M1_tag.md).
 
   
 
@@ -477,7 +477,7 @@ Blunt ResistanceBlunt
 -   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
--   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
+-   Shares a cooldown with all other [grab Mantras](Grab_Mantras.md).
 -   Using this mantra in the air allows you to aim it freely
 
  |
@@ -487,7 +487,7 @@ Blunt ResistanceBlunt
 -   Shield Breaker \[Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
--   Relentless Barrage \[Memento Talent\] **200** \- Every swing from [Rapid Punches](Attunement-less.md#rapid-punches) deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.
+-   Relentless Barrage \[Memento Talent\] **200** \- Every swing from [Rapid Punches](Rapid_Punches.md) deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.
     
     -   Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked.
     -   At max Calamity Punch stacks, gain hyperarmor during Rapid Punches.
@@ -567,10 +567,10 @@ Blunt ResistanceBlunt
 
 -   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5, per kick.
--   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
--   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
+-   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Round_Spark.md) variant.
+-   Has 0.7s wind-up on the [Round Spark](Round_Spark.md) variant.
 -   Has a range of 20 studs.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
+-   Can be modified with a [Round Spark](Round_Spark.md) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
 
  |
@@ -592,20 +592,20 @@ Blunt ResistanceBlunt
 
 -   Dormant Strength \[Memento Talent\] - At max Calamity Punch stacks increased posture damage & physical damage.
     
-    -   Increases your [Strong Left](Attunement-less.md#strong-left)'s damage and posture damage if you are at max Calamity Punch stacks.
+    -   Increases your [Strong Left](Strong_Left.md)'s damage and posture damage if you are at max Calamity Punch stacks.
 
 ### Dravik, The Rat King
 
 -   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
     -   While active your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
-        -   If you have [Soulbreaker](Oath%253A_Soulbreaker.md), your weapon will passively emit purple lightning while its unsheathed.
-    -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
-    -   Applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
+        -   If you have [Soulbreaker](Soulbreaker.md), your weapon will passively emit purple lightning while its unsheathed.
+    -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the [M1 tag](M1_tag.md).
+    -   Applies a +15% damage buff to M1s and criticals with the [M1 tag](M1_tag.md) that guardbreak.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
     -   Ardour automatically deactivates if you have no Ether.
     -   Ardour's activation keybind can be configured in settings.
 
--   Shattering Left \[Memento Talent\] - Your [Strong Left](Attunement-less.md#strong-left) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
+-   Shattering Left \[Memento Talent\] - Your [Strong Left](Strong_Left.md) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
     
     -   Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.
 
@@ -619,4 +619,4 @@ Blunt ResistanceBlunt
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
-    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Reinforce.md), which will reduce the Natural Armor loss.

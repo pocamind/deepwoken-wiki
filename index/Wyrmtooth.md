@@ -49,9 +49,9 @@ Equipping the Wyrmtooth grants its unique [weapon Talent](Talents.md#weapon-tale
 
 This can bypass the level 5 cap, and is stackable, capping at at +5 levels. If one of your Medium or Heavy Mantras get parried, dodged, or blocked, all stacks will be lost. Multi-hits do not grant multiple stacks.
 
-For example, if you have a level 5 [Pressure Blast](Attunement-less.md#pressure-blast), landing [Master's Flourish](Attunement-less.md#masters-flourish) before casting Pressure Blast will increase Pressure Blast's level by +1, to 6, and vice versa. You will then need to follow up with a Mantra of the opposing type to stack the buff further and apply its bonuses.
+For example, if you have a level 5 [Pressure Blast](Pressure_Blast.md), landing [Master's Flourish](<Master's_Flourish.md>) before casting Pressure Blast will increase Pressure Blast's level by +1, to 6, and vice versa. You will then need to follow up with a Mantra of the opposing type to stack the buff further and apply its bonuses.
 
-This does **not** apply to [Punishment](Attunement-less.md#punishment), presumably for balancing reasons.
+This does **not** apply to [Punishment](Punishment.md), presumably for balancing reasons.
 
 ## Critical
 
@@ -63,7 +63,7 @@ The cooldown for either critical is **10 seconds**.
 
 ## Trivia
 
--   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Oath%253A_Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown.
+-   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown.
     -   However, as the Silentheart abilities scale on their respective attributes (heavy attacks on Heavy Weapons and vice versa for the medium ones), this weapon can be very expensive to use on a Silentheart build without sacrificing damage.
 -   Before the update that classified Wyrmtooth as both a Sword and Greatsword, it could only proc Talents from the [Thunderblade](Talents.md#thunderblade) Talent tree and [Destructive Recovery](Talents.md#destructive-recovery).
 -   Wyrmtooth benefits from the Heavy weapon hit count for [Enchant](Enchantments.md) effects. For example, Detonation will proc after landing 3 hits instead of 4.

@@ -39,70 +39,19 @@ Lance can be found standing behind his bar inside of Lance's Food at [Etris](Etr
 
 Lance's Food
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Mushroom Omelette</div><div><i>A classic, fried to perfection.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Mushroom Bisque</div><div><i>A nourishing bisque full of protein.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Megurger</div><div><i>Food?</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Mushroom Omelette</div><div><i>A classic, fried to perfection.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Mushroom Bisque</div><div><i>A nourishing bisque full of protein.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Megurger</div><div><i>Food?</i></div></td></tr></tbody></table>
 
 ## Dialogue
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Welcome to Lance's Food! The finest in all of Etris!</td>
-</tr>
-<tr>
-  <td>Woah, are you Lance Leshi?</td>
-</tr>
-<tr>
-  <td>LANCE LESHI.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome to Lance's Food! The finest in all of Etris!</td></tr><tr><td>Woah, are you Lance Leshi?</td></tr><tr><td>LANCE LESHI.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player has spoken to [Lance's Brother](<Lance's_Brother.md>).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Welcome to Lance's Food! The finest in all of Etris!</td>
-</tr>
-<tr>
-  <td>Hey, do you have a brother?</td>
-</tr>
-<tr>
-  <td>No?</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome to Lance's Food! The finest in all of Etris!</td></tr><tr><td>Hey, do you have a brother?</td></tr><tr><td>No?</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

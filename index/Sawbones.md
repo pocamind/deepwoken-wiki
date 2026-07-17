@@ -41,35 +41,11 @@ Sawbones can be found behind his desk within the medical bay of [Fort Merit](For
 
 **Good/Neutral Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*A weary <a href="Glossary.md#canor">Canor</a> appears to be tending to some paperwork, unamused by your presence. You presume this is the surgeon. His eyes stay fixed on the paperwork.*</i> We don't treat civilians in the fortress without the Warden's explicit approval. If you need something stitched up, try the barber in Port Merit. Good day to you.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*A weary <a href="Glossary.md#canor">Canor</a> appears to be tending to some paperwork, unamused by your presence. You presume this is the surgeon. His eyes stay fixed on the paperwork.*</i> We don't treat civilians in the fortress without the Warden's explicit approval. If you need something stitched up, try the barber in Port Merit. Good day to you.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Bad Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The surgeon does not lift his eyes off his paperwork - yet, you feel as though his unyielding, wearied stare still pierces you somehow.*</i> Here to cause trouble, outsider? <b>Try me.</b></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The surgeon does not lift his eyes off his paperwork - yet, you feel as though his unyielding, wearied stare still pierces you somehow.*</i> Here to cause trouble, outsider? <b>Try me.</b></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## References
 

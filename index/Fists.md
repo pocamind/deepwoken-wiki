@@ -10,7 +10,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 
 ## Description
 
-Fists are a unique type of Light Weapon, being a collection of multiple martial arts styles rather than solely being one weapon type with distinct animations. Fists can be equipped at any time (even during combat) by unequipping your current weapon or using one of the Fist Style Talent tools.
+Fists are a unique type of [Light Weapon](Light_Weapons.md), being a collection of multiple martial arts styles rather than solely being one weapon type with distinct animations. Fists can be equipped at any time (even during combat) by unequipping your current weapon or using one of the Fist Style Talent tools.
 
 These weapons are typically locked to the One Handed stance.
 
@@ -30,7 +30,7 @@ Using the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit will grant this s
 
 **Imperium Kata:**
 
-[Imperium Kata](Imperium_Kata.md); an advanced [Hundred Legions](The_Hundred_Legions.md) martial arts. Its critical consists of two brutal kicks.
+[Imperium Kata](Imperium_Kata.md); an advanced [Hundred Legions](Hundred_Legions.md) martial arts. Its critical consists of two brutal kicks.
 
 Using the [Legion Centurion](Legion_Centurion.md) Outfit grants this style, and its sister style, [Legion Kata](Legion_Kata.md) 4% more damage.
 
@@ -44,7 +44,7 @@ Using the [Justicar's Armor](<Justicar's_Armor.md>) Outfit grants a 10% damage b
 
 **Legion Kata:**
 
-[Legion Kata](Legion_Kata.md); the standard martial arts of the [Hundred Legions](The_Hundred_Legions.md). Its critical is a grapple attack that ends with an overhead slam.
+[Legion Kata](Legion_Kata.md); the standard martial arts of the [Hundred Legions](Hundred_Legions.md). Its critical is a grapple attack that ends with an overhead slam.
 
 Using the [Legion Centurion](Legion_Centurion.md) Outfit grants this style, and its sister style, [Imperium Kata](Imperium_Kata.md) 4% more damage.
 
@@ -56,9 +56,9 @@ This style deals 50% less damage than all other Fist Styles.
 
 **Way of Navae:**
 
-[Way of Navae](Way_of_Navae.md); a Fist Style used by the [Navaen Nomads](The_Children_of_Navae.md). Its critical consists of a guardbreaking overhead kick.
+[Way of Navae](Way_of_Navae.md); a Fist Style used by the [Navaen Nomads](Children_of_Navae.md). Its critical consists of a guardbreaking overhead kick.
 
-Using the [Navaen War Chief](Navaen_War_Chief.md) Outfit will grant +10% PEN to Way of Navae M1s and criticals with the M1 tag.
+Using the [Navaen War Chief](Navaen_War_Chief.md) Outfit will grant +10% PEN to Way of Navae M1s and criticals with the [M1 tag](M1_tag.md).
 
 ## PvE Mechanics
 
@@ -124,9 +124,9 @@ This critical has a **3 second cooldown**.
 **Legion Kata:**
 
   
-With the [Legion Kata](Legion_Kata.md) style, the user performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Status_Effects.md#dazed) on hit.
+With the [Legion Kata](Legion_Kata.md) style, the user performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Dazed.md) on hit.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 **Untrained Fist:**
 
@@ -157,374 +157,4 @@ This attack has a **5 second cooldown**.
 
 ## Weapons
 
-<table><caption>Light Weapons</caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Requirements</th>
-  <th>Base Damage</th>
-  <th>Scaling</th>
-  <th>Armor Penetration</th>
-  <th>Chip Damage</th>
-  <th>Posture Damage</th>
-  <th>Range</th>
-  <th>Swing Speed</th>
-  <th>Endlag</th>
-  <th>Scaled Damage</th>
-</tr>
-<tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
-</tr>
-<tr>
-  <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
-  <td><a href="Talents.md#fang-and-coil">Fang and Coil</a> Talent</td>
-  <td>12</td>
-  <td>LHT: 7</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>6</td>
-  <td>1.13x</td>
-  <td>-</td>
-  <td>18.3</td>
-</tr>
-<tr>
-  <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
-  <td><a href="Talents.md#jus-karita">Jus Karita</a> Talent</td>
-  <td>14</td>
-  <td>LHT: 9</td>
-  <td>20%</td>
-  <td>-</td>
-  <td>3</td>
-  <td>6.5</td>
-  <td>1.14x</td>
-  <td>-</td>
-  <td>23.5</td>
-</tr>
-<tr>
-  <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
-  <td><a href="Talents.md#imperium-kata">Imperium Kata</a> Talent</td>
-  <td>12</td>
-  <td>LHT: 7</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>6</td>
-  <td>1.13x</td>
-  <td>-</td>
-  <td>18.3</td>
-</tr>
-<tr>
-  <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
-  <td><a href="Talents.md#legion-kata">Legion Kata</a> Talent</td>
-  <td>12</td>
-  <td>LHT: 7</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>6</td>
-  <td>1.13x</td>
-  <td>-</td>
-  <td>18.3</td>
-</tr>
-<tr>
-  <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
-  <td>N/A</td>
-  <td>12</td>
-  <td>LHT: 7</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>6</td>
-  <td>1.13x</td>
-  <td>-</td>
-  <td>18.3 (9.2)</td>
-</tr>
-<tr>
-  <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
-  <td><a href="Talents.md#way-of-navae">Way of Navae</a> Talent</td>
-  <td>12</td>
-  <td>LHT: 7</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>6</td>
-  <td>1.13x</td>
-  <td>-</td>
-  <td>18.3</td>
-</tr>
-<tr>
-  <td colspan="11"><b>Cestus</b></td>
-</tr>
-<tr>
-  <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
-  <td>N/A</td>
-  <td>1</td>
-  <td>N/A</td>
-  <td>-</td>
-  <td>-</td>
-  <td>1</td>
-  <td>3</td>
-  <td>0.6x</td>
-  <td>-</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
-  <td>N/A</td>
-  <td>13.5</td>
-  <td>LHT: 7.5</td>
-  <td>-</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1.11x</td>
-  <td>-</td>
-  <td>21.1</td>
-</tr>
-<tr>
-  <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
-  <td>25 LHT<br>
-  <a href="Jus_Karita.md">Jus Karita</a></td>
-  <td>13.5</td>
-  <td>LHT: 9</td>
-  <td>15%</td>
-  <td>10%</td>
-  <td>3</td>
-  <td>6.5</td>
-  <td>1.14x</td>
-  <td>-</td>
-  <td>22.6</td>
-</tr>
-<tr>
-  <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
-  <td>30 LHT</td>
-  <td>15</td>
-  <td>LHT: 9</td>
-  <td>5%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1.11x</td>
-  <td>-</td>
-  <td>25.1</td>
-</tr>
-<tr>
-  <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
-  <td>60 WLL<br>
-  35 LHT</td>
-  <td>12</td>
-  <td>WLL: 11<br>
-  LHT: 4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6.5</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>25.5</td>
-</tr>
-<tr>
-  <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
-  <td>40 LHT<br>
-  75 WND</td>
-  <td>15.5</td>
-  <td>WND: 5.5<br>
-  LHT: 4</td>
-  <td>10%</td>
-  <td>15%</td>
-  <td>5</td>
-  <td>6.5</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>26.5</td>
-</tr>
-<tr>
-  <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
-  <div><small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
-  <td>50 LHT</td>
-  <td>14</td>
-  <td>LHT: 9.5</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1.11x</td>
-  <td>-</td>
-  <td>24</td>
-</tr>
-<tr>
-  <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
-  <td>50 ICE<br>
-  50 LHT<br>
-  50 WND</td>
-  <td>16.5</td>
-  <td>WND: 3.5<br>
-  LHT: 5<br>
-  ICE: 3.5</td>
-  <td>5%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>31.4</td>
-</tr>
-<tr>
-  <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
-  <td>65 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 9.5</td>
-  <td>5%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1.11x</td>
-  <td>-</td>
-  <td>26.5</td>
-</tr>
-<tr>
-  <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
-  <td>65 CHA<br>
-  65 LHT</td>
-  <td>13.5</td>
-  <td>LHT: 8<br>
-  CHA: 3.5</td>
-  <td>-</td>
-  <td>-</td>
-  <td>4</td>
-  <td>6</td>
-  <td>1.12x</td>
-  <td>-</td>
-  <td>25.1</td>
-</tr>
-<tr>
-  <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
-  <td>70 LHT<br>
-  40 BLD</td>
-  <td>15</td>
-  <td>LHT: 5<br>
-  BLD: 5</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>5.5</td>
-  <td>6.5</td>
-  <td>1.08x</td>
-  <td>-</td>
-  <td>26.3</td>
-</tr>
-<tr>
-  <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>75 LHT</td>
-  <td>15</td>
-  <td>LHT: 8</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>4</td>
-  <td>6</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>24<br>
-  (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
-  <td>75 LHT<br>
-  10 FTD</td>
-  <td>15</td>
-  <td>LHT: 9.5</td>
-  <td>-</td>
-  <td>20%</td>
-  <td>6</td>
-  <td>6</td>
-  <td>1.11x</td>
-  <td>-</td>
-  <td>25.7</td>
-</tr>
-<tr>
-  <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
-  <td>80 LHT<br>
-  80 AGI<br>
-  <a href="Jus_Karita.md">Jus Karita</a></td>
-  <td>14</td>
-  <td>LHT: 8<br>
-  AGI: 3</td>
-  <td>25%</td>
-  <td>-</td>
-  <td>4</td>
-  <td>6.5</td>
-  <td>1.13x</td>
-  <td>-</td>
-  <td>25.6</td>
-</tr>
-<tr>
-  <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
-  <td>85 LHT<br>
-  30 STR</td>
-  <td>16.5</td>
-  <td>LHT: 8</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>6</td>
-  <td>1.08x</td>
-  <td>-</td>
-  <td>26.4</td>
-</tr>
-<tr>
-  <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
-  <div><small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
-  <td>85 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 9</td>
-  <td>20%</td>
-  <td>-</td>
-  <td>5.5</td>
-  <td>6</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>26</td>
-</tr>
-<tr>
-  <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
-  <td>30 LHT<br>
-  OR <a href="Oath%253A_Blightsurger.md">Oath: Blightsurger</a></td>
-  <td>30</td>
-  <td>N/A</td>
-  <td>-</td>
-  <td>5%</td>
-  <td>8</td>
-  <td>6</td>
-  <td>1.04x</td>
-  <td>-</td>
-  <td>30</td>
-</tr>
-<tr>
-  <td><b><a href="The_Death_Knell.md">The Death Knell</a><abbr></abbr></b></td>
-  <td>25 LHT</td>
-  <td>12</td>
-  <td>LHT: 4<br>
-  WLL: 11</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6.5</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>25.5</td>
-</tr>
-<tr>
-  <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
-  <td>30 LHT</td>
-  <td>14</td>
-  <td>LHT: 9</td>
-  <td>5%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>23.5</td>
-</tr>
-</tbody>
-</table>
+<table><caption><a href="Light_Weapons.md"><div>Light Weapons</div></a></caption><tbody><tr><th>Name</th><th>Requirements</th><th>Base Damage</th><th>Scaling</th><th>Armor Penetration</th><th>Chip Damage</th><th>Posture Damage</th><th>Range</th><th>Swing Speed</th><th>Endlag</th><th>Scaled Damage</th></tr><tr><td colspan="11"><b><a href="Fist_Style.md"><font>Fighting Styles</font></a></b></td></tr><tr><td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td><td><a href="Talents.md#fang-and-coil">Fang and Coil</a> Talent</td><td>12</td><td>LHT: 7</td><td>-</td><td>-</td><td>3</td><td>6</td><td>1.13x</td><td>-</td><td>18.3</td></tr><tr><td><b><a href="Jus_Karita.md">Jus Karita</a></b></td><td><a href="Talents.md#jus-karita">Jus Karita</a> Talent</td><td>14</td><td>LHT: 9</td><td>20%</td><td>-</td><td>3</td><td>6.5</td><td>1.14x</td><td>-</td><td>23.5</td></tr><tr><td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td><td><a href="Talents.md#imperium-kata">Imperium Kata</a> Talent</td><td>12</td><td>LHT: 7</td><td>-</td><td>-</td><td>3</td><td>6</td><td>1.13x</td><td>-</td><td>18.3</td></tr><tr><td><b><a href="Legion_Kata.md">Legion Kata</a></b></td><td><a href="Talents.md#legion-kata">Legion Kata</a> Talent</td><td>12</td><td>LHT: 7</td><td>-</td><td>-</td><td>3</td><td>6</td><td>1.13x</td><td>-</td><td>18.3</td></tr><tr><td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td><td>N/A</td><td>12</td><td>LHT: 7</td><td>-</td><td>-</td><td>3</td><td>6</td><td>1.13x</td><td>-</td><td>18.3 (9.2)</td></tr><tr><td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td><td><a href="Talents.md#way-of-navae">Way of Navae</a> Talent</td><td>12</td><td>LHT: 7</td><td>-</td><td>-</td><td>3</td><td>6</td><td>1.13x</td><td>-</td><td>18.3</td></tr><tr><td colspan="11"><b>Cestus</b></td></tr><tr><td><b><a href="Handcuffs.md">Handcuffs</a></b></td><td>N/A</td><td>1</td><td>N/A</td><td>-</td><td>-</td><td>1</td><td>3</td><td>0.6x</td><td>-</td><td>1</td></tr><tr><td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td><td>N/A</td><td>13.5</td><td>LHT: 7.5</td><td>-</td><td>-</td><td>5</td><td>6</td><td>1.11x</td><td>-</td><td>21.1</td></tr><tr><td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td><td>25 LHT<br><a href="Jus_Karita.md">Jus Karita</a></td><td>13.5</td><td>LHT: 9</td><td>15%</td><td>10%</td><td>3</td><td>6.5</td><td>1.14x</td><td>-</td><td>22.6</td></tr><tr><td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td><td>30 LHT</td><td>15</td><td>LHT: 9</td><td>5%</td><td>-</td><td>5</td><td>6</td><td>1.11x</td><td>-</td><td>25.1</td></tr><tr><td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td><td>60 WLL<br>35 LHT</td><td>12</td><td>WLL: 11<br>LHT: 4</td><td>10%</td><td>-</td><td>5</td><td>6.5</td><td>1.1x</td><td>-</td><td>25.5</td></tr><tr><td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td><td>40 LHT<br>75 WND</td><td>15.5</td><td>WND: 5.5<br>LHT: 4</td><td>10%</td><td>15%</td><td>5</td><td>6.5</td><td>1.1x</td><td>-</td><td>26.5</td></tr><tr><td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br><div><small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td><td>50 LHT</td><td>14</td><td>LHT: 9.5</td><td>10%</td><td>-</td><td>5</td><td>6</td><td>1.11x</td><td>-</td><td>24</td></tr><tr><td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td><td>50 ICE<br>50 LHT<br>50 WND</td><td>16.5</td><td>WND: 3.5<br>LHT: 5<br>ICE: 3.5</td><td>5%</td><td>-</td><td>5</td><td>6</td><td>1.1x</td><td>-</td><td>31.4</td></tr><tr><td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td><td>65 LHT</td><td>15.5</td><td>LHT: 9.5</td><td>5%</td><td>-</td><td>5</td><td>6</td><td>1.11x</td><td>-</td><td>26.5</td></tr><tr><td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td><td>65 CHA<br>65 LHT</td><td>13.5</td><td>LHT: 8<br>CHA: 3.5</td><td>-</td><td>-</td><td>4</td><td>6</td><td>1.12x</td><td>-</td><td>25.1</td></tr><tr><td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td><td>70 LHT<br>40 BLD</td><td>15</td><td>LHT: 5<br>BLD: 5</td><td>10%</td><td>-</td><td>5.5</td><td>6.5</td><td>1.08x</td><td>-</td><td>26.3</td></tr><tr><td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Bleed.md">Bleed</a>)</b></td><td>75 LHT</td><td>15</td><td>LHT: 8</td><td>10%</td><td>10%</td><td>4</td><td>6</td><td>1.1x</td><td>-</td><td>24<br>(<a href="Bleed.md">+3.6 BLD</a>)</td></tr><tr><td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td><td>75 LHT<br>10 FTD</td><td>15</td><td>LHT: 9.5</td><td>-</td><td>20%</td><td>6</td><td>6</td><td>1.11x</td><td>-</td><td>25.7</td></tr><tr><td><b><a href="Karita_Plating.md">Karita Plating</a></b></td><td>80 LHT<br>80 AGI<br><a href="Jus_Karita.md">Jus Karita</a></td><td>14</td><td>LHT: 8<br>AGI: 3</td><td>25%</td><td>-</td><td>4</td><td>6.5</td><td>1.13x</td><td>-</td><td>25.6</td></tr><tr><td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td><td>85 LHT<br>30 STR</td><td>16.5</td><td>LHT: 8</td><td>15%</td><td>-</td><td>6</td><td>6</td><td>1.08x</td><td>-</td><td>26.4</td></tr><tr><td><b><a href="Broodalloy_Cestus.md">Broodalloy Cestus</a></b><br><div><small><a href="#coral-cestus">Coral Cestus</a></small></div></td><td>85 LHT</td><td>15.5</td><td>LHT: 9</td><td>20%</td><td>-</td><td>5.5</td><td>6</td><td>1.1x</td><td>-</td><td>26</td></tr><tr><td><b><a href="Sovereign_Bangle.md">Sovereign Bangle</a></b></td><td>30 LHT<br>OR <a href="Oath%253A_Blightsurger.md">Oath: Blightsurger</a></td><td>30</td><td>N/A</td><td>-</td><td>5%</td><td>8</td><td>6</td><td>1.04x</td><td>-</td><td>30</td></tr><tr><td><b><a href="The_Death_Knell.md">The Death Knell</a><abbr></abbr></b></td><td>25 LHT</td><td>12</td><td>LHT: 4<br>WLL: 11</td><td>10%</td><td>-</td><td>5</td><td>6.5</td><td>1.1x</td><td>-</td><td>25.5</td></tr><tr><td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td><td>30 LHT</td><td>14</td><td>LHT: 9</td><td>5%</td><td>-</td><td>5</td><td>6</td><td>1.1x</td><td>-</td><td>23.5</td></tr></tbody></table>

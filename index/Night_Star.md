@@ -59,4 +59,4 @@ Night Star uses the default Club critical, an overhead swing. It has a scaled da
 
 ## Obtainment
 
-The Night Star is found on a rock near the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The Night Star is found on a rock near the [Diluvian Mechanism](Diluvian_Mechanism.md).

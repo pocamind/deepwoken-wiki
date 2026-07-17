@@ -32,46 +32,7 @@ It features blue-grey fur, and prior to Verse 2, Primadon had a dark blue face. 
 
 It can be summoned by making an offering (Most monster drops work, to a varying degree) to the large bonfire located in the center cliff of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 3-minute cooldown and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown).
 
-<table><caption>Known Offerings</caption>
-<tbody>
-<tr>
-  <th>Offering</th>
-  <th>Qty</th>
-</tr>
-<tr>
-  <td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td>
-  <td>3</td>
-</tr>
-<tr>
-  <td><a href="Dark_Feather.md">Dark Feather</a></td>
-  <td>3</td>
-</tr>
-<tr>
-  <td><a href="King_Thresher_Spine.md">King Thresher Spine</a></td>
-  <td>3</td>
-</tr>
-<tr>
-  <td><a href="Odd_Tentacle.md">Odd Tentacle</a></td>
-  <td>3</td>
-</tr>
-<tr>
-  <td><a href="Megalodaunt_Hide.md">Megalodaunt Hide</a></td>
-  <td>5</td>
-</tr>
-<tr>
-  <td><a href="Thresher_Spine.md">Thresher Spine</a></td>
-  <td>5</td>
-</tr>
-<tr>
-  <td><a href="Lionfish_Scale.md">Lionfish Scale</a></td>
-  <td>5</td>
-</tr>
-<tr>
-  <td><a href="Strange_Claw.md">Strange Claw</a></td>
-  <td>5</td>
-</tr>
-</tbody>
-</table>
+<table><caption>Known Offerings</caption><tbody><tr><th>Offering</th><th>Qty</th></tr><tr><td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td><td>3</td></tr><tr><td><a href="Dark_Feather.md">Dark Feather</a></td><td>3</td></tr><tr><td><a href="King_Thresher_Spine.md">King Thresher Spine</a></td><td>3</td></tr><tr><td><a href="Odd_Tentacle.md">Odd Tentacle</a></td><td>3</td></tr><tr><td><a href="Megalodaunt_Hide.md">Megalodaunt Hide</a></td><td>5</td></tr><tr><td><a href="Thresher_Spine.md">Thresher Spine</a></td><td>5</td></tr><tr><td><a href="Lionfish_Scale.md">Lionfish Scale</a></td><td>5</td></tr><tr><td><a href="Strange_Claw.md">Strange Claw</a></td><td>5</td></tr></tbody></table>
 
   
 In the [Vow of Iron](Vow_of_Iron.md) gamemode however, it is not required to summon Primadon through item means, as you can summon him directly through the large bonfire, though requiring the "Simian Terror" memory task. After defeating Primadon you may not spawn him again on the same character.
@@ -236,7 +197,7 @@ Dodge
 
 ## Rewards
 
--   **8 [Chests](Chests_&_Sacks.md) -** Drops 8 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them, and can rarely include the **Small Chest** loot.
+-   **8 [Chests](Chests.md) -** Drops 8 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them, and can rarely include the **Small Chest** loot.
 -   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a high chance of 1-2 Deep Gems or Legendary Rings, and can rarely include the [Imperator's Edge](<Imperator's_Edge.md>), [Stormseye](Stormseye.md), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), and the [Imperial Staff](Imperial_Staff.md). Relics are also able to be dropped in this chest.
 -   **Resonance progression -** Gives the second best resonance progress (4-7 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [your Bell](Resonance.md).)**
 -   **2 [Knowledge](Knowledge.md) -** On first kill, Primadon will reward you with 2 knowledge. Subsequent kills will reward 1 knowledge, however if you decide to defeat Primadon with multiple people you must do 20% (8,000) of his health to get the reward of one knowledge.
@@ -245,69 +206,7 @@ Dodge
 
 Exhaustive Loot Table
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td>
-  <ul>
-    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>, <a href="Merchant_Robes.md">Merchant Robes</a></li>
-    <li><b>Adept</b>: <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></li>
-    <li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a></li>
-    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a> (very rare)</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (rare, direct drop), <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a>, <a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li>Some <a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
-    <li><b>Alloyed Weapons</b>: TBA</li>
-    <li><b>Generic Weapons</b>:TBA
-  <ol>
-    <li><b>Light Weapons</b>: TBA</li>
-    <li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Katana.md">Katana</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
-    <li><b>Heavy Weapons</b>: TBA</li>
-  </ol></li>
-    <li><b>Offhand Weapons</b>: TBA</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Vigil_Hood.md">Vigil Hood</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
-  <ol>
-    <li><b>Legendary Arms</b>: <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
-  <ol>
-    <li><b>Relic Torso</b>: <a href="Tiran_Pendant.md">Tiran Pendant</a></li>
-    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
-  <ol>
-    <li><b><a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> exclusive</b>: <a href="Ring_of_the_Primal_King.md">Ring of the Primal King</a></li>
-    <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Charged_Ring.md"><font>Charged Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a></li>
-    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a></li>
-  </ol></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>, <a href="Merchant_Robes.md">Merchant Robes</a></li><li><b>Adept</b>: <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></li><li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a></li><li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a> (very rare)</li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (rare, direct drop), <a href="Deep_Gems.md">Deep Gems</a>, <a href="Vibrant_Gem.md">Vibrant Gems</a>, <a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li><li>Some <a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li><li><b>Alloyed Weapons</b>: TBA</li><li><b>Generic Weapons</b>:TBA<ol><li><b>Light Weapons</b>: TBA</li><li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Katana.md">Katana</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li><li><b>Heavy Weapons</b>: TBA</li></ol></li><li><b>Offhand Weapons</b>: TBA</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Vigil_Hood.md">Vigil Hood</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Legendary Arms</b>: <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a></li><li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>Relic Torso</b>: <a href="Tiran_Pendant.md">Tiran Pendant</a></li><li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li></ol></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Browline_Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Round_Citadel_Frames.md">Round Citadel Frames</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b><a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> exclusive</b>: <a href="Ring_of_the_Primal_King.md">Ring of the Primal King</a></li><li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Charged_Ring.md"><font>Charged Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a></li><li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a></li></ol></li></ul></td></tr></tbody></table>
 
 ## Strategies & Tips
 
@@ -345,7 +244,7 @@ Equipping armor with **Physical/Blunt damage resistance** is crucial, as it sign
 ## Trivia
 
 -   Primadon's second phase significantly increases his attack speed, only allowing one hit in between his attacks.
--   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although Deep Gems are not guaranteed to spawn after his defeat.
+-   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests.md) were added back to Primadon's loot pool, although Deep Gems are not guaranteed to spawn after his defeat.
     -   This chest has since been repurposed to house many of the rarer drops such as Relics and Legendary Weapons.
 -   Primadon's respawn time is around 3 minutes.
     -   This cooldown is account wide for the player who summoned Primadon and any who dealt damage to him.

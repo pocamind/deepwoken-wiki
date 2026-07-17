@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon; a Pistol, Rifle, or Greatcannon. The [Rifle Spear](Rifle_Spear.md) counts as a Rifle and a spear, meaning many Mementos can equip it and it counts for the obtainment requirement of this Memento.
+**Steampunk Soldier** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon; a Pistol, Rifle, or Greatcannon. The [Rifle Spear](Rifle_Spear.md) counts as a Rifle and a spear, meaning many Mementos can equip it and it counts for the obtainment requirement of this Memento.
 
 ## Starting Abilities
 
@@ -125,7 +125,7 @@ N/A
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Travels for 0.6 seconds.
--   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
+-   [Crystal](Crystal_Lens.md)/[Perfect Lens](Perfect_Lens.md) increase the duration (distance travelled).
 
  |
 | 
@@ -171,7 +171,7 @@ N/A
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
 -   If used in water, the daggers won't spawn.
 -   Can grant an additional effect with the _Frozen Pin-Cushion_ Talent, which freezes the target or detonates their crystals upon hit.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
+-   Can be modified with [Crystal](Crystal_Lens.md) and [Perfect Lenses](Perfect_Lens.md) to increase the range of casting the Mantra.
 
  |
 
@@ -193,7 +193,7 @@ N/A
         -   Tough Love: 2s -> 1s
         -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
         -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
+        -   [Dread Whisper](Dread_Whisper.md) and [Sing](Sing.md): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
         -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
         -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
@@ -316,8 +316,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Does **not** inflict Burn.
 -   Breaks destructible terrain on hit.
 -   Can be upgraded with the "**Hell's Partisan**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) to make the daggers move faster.
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to make it throw 5 unparryable daggers in a straight line. Each dagger hits twice.
+-   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lens](Perfect_Lens.md) to make the daggers move faster.
+-   Can be modified with a [Tornado Spark](Tornado_Spark.md) to make it throw 5 unparryable daggers in a straight line. Each dagger hits twice.
 
  |
 | 
@@ -359,7 +359,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Deals 4/5/6/7/8 posture damage per level.
 -   Has a cooldown of 12 seconds.
 -   The first hit has 9.18x PvE scaling, the second hit has 6.5x PvE scaling (multiply scaled damage dealt by 9.18/6.5x for PvE damage).
--   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Eternal_Logstone.md).
 -   You can press block during the windup to cancel the impale.
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
@@ -385,7 +385,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Immolation \[Common Talent\] **100** \- Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow) or [Metal Eruption](Ironsing.md#metal-eruption)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Clutching_Shadow.md) or [Metal Eruption](Metal_Eruption.md)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Ice_Daggers.md) or [Gale Lunge](Gale_Lunge.md) will also proc Immolation, applying burn.
 
 -   Frozen Pin-Cushion \[Rare Talent\] **250** \- Ice Daggers now freeze opponents.
 
@@ -470,7 +470,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Projectiles have homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to cause the Mantra to send out each projectile individually.
+-   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to cause the Mantra to send out each projectile individually.
 
  |
 
@@ -581,7 +581,7 @@ N/A
 
 -   Flame Wisp reduces the burn damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
 -   Ignites nearby campfire pits if not currently healing you.
--   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
+-   Converts about 25-30 burning damage total. [Logstones](Aeon_Logstone.md) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |

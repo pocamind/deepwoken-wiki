@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-_**Lament of Cirryn**_ was a [Book](Books.md).
+_**Lament of Cirryn**_ was a [Book](Book.md).
 
 ## Text
 

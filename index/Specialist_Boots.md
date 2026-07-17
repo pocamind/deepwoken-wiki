@@ -43,7 +43,7 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Shock Trooper Specialist](Talents.md#shock-trooper-specialist) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
 
-This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal 15% more damage; this is not a damage modifier and is instead a base damage increase.
+This turns your [Grand Javelin](Grand_Javelin.md), [Thunder Kick](Thunder_Kick.md), and [Electro Carve](Electro_Carve.md) green, and your [Astral Wind](Astral_Wind.md), [Champion's Whirlthrow](<Champion's_Whirlthrow.md>), and [Gale Lunge](Gale_Lunge.md) yellow. These Mantras will also deal 15% more damage; this is not a damage modifier and is instead a base damage increase.
 
 Storm Strikes from the Set Talent deal 40 damage with no cooldown. To proc them, you must meet a 600 accumulative damage threshold with your Galebreathe and Thundercall Mantras. This threshold is reduced by 1 for every Galebreathe and Thundercall investment you have, having a minimum threshold of 400 damage, with 100 points invested into both Attunements.
 
@@ -51,7 +51,7 @@ Damage modifiers and the PvE damage multiplier do not count towards this thresho
 
 ## Obtainment
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).
 

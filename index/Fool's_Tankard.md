@@ -40,13 +40,13 @@ Essentially just an empty tankard, the **Fool's Tankard** is a blunt Dagger Weap
 
 ## Critical
 
-Wind up your tankard and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing 22 posture damage if blocked.
+Wind up your tankard and strike your target, applying [Daze](Dazed.md) and dealing 22 posture damage if blocked.
 
 This attack has a scaled damage multiplier of 1.25x.
 
 This critical has a cooldown of **5 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

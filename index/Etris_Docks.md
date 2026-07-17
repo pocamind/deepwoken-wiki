@@ -16,11 +16,11 @@ There are those who think of ports as a gateway between two worlds; that of the 
 
   
 
-**Etris Docks** is a location in _Deepwoken_. It is a landmark in [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
+**Etris Docks** is a [location](Locations.md) in _Deepwoken_. It is a landmark in [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
 
-Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Sailing.md) in among other things.
+Etris Docks are docks in Etris that players can dock their [boats](Boats.md) in among other things.
 
 ## Contents
 
@@ -34,7 +34,7 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 ### [Shipwright](Shipwright.md)
 
--   Players can find a [Shipwright](Shipwright.md) who can craft you [boats](Ships_&_Sailing.md) for notes and spawn your crafted boats.
+-   Players can find a [Shipwright](Shipwright.md) who can craft you [boats](Boats.md) for notes and spawn your crafted boats.
     -   If you have low [Reputation](Reputation.md) with [Etrea](Etrea.md), he will refuse to craft or spawn your boats.
 
 ### [Great Megalodaunt Rumbling](The_Great_Sharko_Rumbling.md) Remembrance Shrine

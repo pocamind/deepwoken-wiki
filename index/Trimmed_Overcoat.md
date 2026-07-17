@@ -33,6 +33,6 @@ The Trimmed Overcoat is an [Equipment](Equipment.md) item under the "Arms" categ
 
 ## Trivia
 
--   As seen above, Brown Overcoat was the only coat with its own unique description, whilst the Black & White Overcoats use the same description as the [Parka](Fur_Parka.md). This is simply a writing error in the game's code.
+-   As seen above, Brown Overcoat was the only coat with its own unique description, whilst the Black & White Overcoats use the same description as the [Parka](Parka.md). This is simply a writing error in the game's code.
 -   The Trimmed Overcoats look similar to the [Fur Parka](Fur_Parka.md).
 -   The description is flavor text; it does not actually provide any resistance against environmental effects.

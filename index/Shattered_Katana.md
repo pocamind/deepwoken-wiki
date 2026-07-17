@@ -47,7 +47,7 @@ For the two-handed crit, the user does a quick vertical and horizontal slash, wh
 
 The critical has a cooldown of **6 seconds**.
 
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

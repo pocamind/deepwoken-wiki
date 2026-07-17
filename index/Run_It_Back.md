@@ -30,7 +30,7 @@ When used, particles of flame, lightning, or shadow appear below the user's feet
 
 Pressing C will activate the **Run It Back** Resonance.
 
-**Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used. While active, all forms of incoming healing are immensely reduced, [campfire](Campfire_Pit.md) healing is disabled, and damage output is reduced by 25%.
+**Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used. While active, all forms of incoming healing are immensely reduced, [campfire](Campfire.md) healing is disabled, and damage output is reduced by 25%.
 
 If Run It Back is corrupted, it grants the user 5 second of [Hyperarmor](Status_Effects.md#hyperarmor) on use. However, hyperarmor ends early if you cast a Mantra.
 

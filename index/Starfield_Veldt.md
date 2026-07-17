@@ -16,11 +16,11 @@ The beauty of the Veldt, the Star Tree stands tall.
 
   
 
-**Starfield Veldt** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) island found in the Eastern Luminant.
+**Starfield Veldt** is a [location](Locations.md) in _Deepwoken_. It is a [Voidzone](Voidzones.md) island found in the Eastern Luminant.
 
 ## Overview
 
-Starfield Veldt is an island with greenery along the outskirts. However, deeper into the Veldt, the trees start to glow a bright, white light. At the center of all this, an ominous gathering of roots can be seen at the center. Starfield Veldt can be found by gliding from the end of the rocky bridge at [Miner's Landing](<Miner's_Landing.md>)'s Upper Landing. It also contains the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md), hidden behind a tree.
+Starfield Veldt is an island with greenery along the outskirts. However, deeper into the Veldt, the trees start to glow a bright, white light. At the center of all this, an ominous gathering of roots can be seen at the center. Starfield Veldt can be found by gliding from the end of the rocky bridge at [Miner's Landing](<Miner's_Landing.md>)'s Upper Landing. It also contains the [Shrine of Unification](Shrine_of_Unification.md), hidden behind a tree.
 
 Starfield Veldt is a **Voidzone**, meaning you will be sent to [The Depths](The_Depths.md) if you die on the island regardless of other influences.
 

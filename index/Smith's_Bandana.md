@@ -32,4 +32,4 @@ The Smith's Bandana is an [Equipment](Equipment.md) item under the "Head" catego
 
 ## Trivia
 
--   Worn by most Blacksmith NPCs alongside the rest of the Smith set.
+-   Worn by most Blacksmith [NPCs](NPCs.md) alongside the rest of the Smith set.

@@ -19,7 +19,7 @@ categories: [Oaths, The Divers]
 
 ## Description
 
-**[Oath](Oaths.md): Dawnwalker** is one of the 17 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires [Kyrsan Medallions](Kyrsan_Medallions.md). It can take multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the Oath.
+**[Oath](Oath.md): Dawnwalker** is one of the 17 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oathless.md), [Linkstrider](Linkstrider.md), [Fadetrimmer](Fadetrimmer.md), and [Contractor](Contractor.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires [Kyrsan Medallions](Kyrsan_Medallions.md). It can take multiple expeditions into [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md) to obtain and fully upgrade the Oath.
 
 “ Child, do you swear to carry the Light as a weapon against the Deep? To wield the Song only as a Radiant Blade against that which it beckons? ”
 
@@ -39,7 +39,7 @@ This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that 
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
 
-_**Reobtaining** Dawnwalker after [Oathbreaking](Oaths.md#oathbreaker---oath-removal) it costs 60 instead of 30 ._
+_**Reobtaining** Dawnwalker after [Oathbreaking](Oathbreak.md) it costs 60 instead of 30 ._
 
 ## Effects
 
@@ -214,7 +214,7 @@ Costs 15 Kyrsan Medallions
 -   This Mantra is **unparryable** and guardbreaks if anybody attempts to do so.
 -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
 -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
-    -   This means that in low-gravity environments such as [Scyphozia](First_Layer.md), this mantra is very inconsistent in combat use.
+    -   This means that in low-gravity environments such as [Scyphozia](Scyphozia.md), this mantra is very inconsistent in combat use.
 
  |
 
@@ -230,9 +230,9 @@ Costs 15 Kyrsan Medallions
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities, or Queen Dizzy's theme from Guilty Gear Strive.
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tones.
 -   Originally, Blinding Dawn had this description: "Dance uncontrollably. No one can withstand the sheer groove of your spin routine."
--   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any Oath, at 237 or 192 points depending on if [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) is used. For all intents and purposes, this information should not affect your average progression as it is a functionally costless Oath.
+-   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any Oath, at 237 or 192 points depending on if [Shrine of Blasphemy](Shrine_of_Blasphemy.md) is used. For all intents and purposes, this information should not affect your average progression as it is a functionally costless Oath.
 -   Dawnwalker was originally supposed to have a Talent that made the user immune to all fall damage, this was, however, scrapped.
 -   Dawnwalker originally also had a mode bar which, when active, would give the user instant tp dashes, this was also scrapped.
--   Dawnwalker is the only Oath besides [Fadetrimmer](Oath%253A_Fadetrimmer.md) that can be fully obtained and progressed without leaving the Depths.
+-   Dawnwalker is the only Oath besides [Fadetrimmer](Fadetrimmer.md) that can be fully obtained and progressed without leaving the Depths.
 -   When photosensitive mode is turned on in the settings, Dawnwalker's mantras are white rather than rainbow.
 -   The halo a Dawnwalker user has above their head bears a lot of similarities to the halo above the [White Wale](https://rezero.fandom.com/wiki/White_Whale) beast from [Re:Zero](https://rezero.fandom.com/wiki/Re:Zero_Wiki).

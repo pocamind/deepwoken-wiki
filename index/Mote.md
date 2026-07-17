@@ -29,16 +29,4 @@ They can be found praying in front of a tombstone in the cemetery that was built
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Gods... As above, so below. Please, have mercy on us sinful children of <a href="Glossary.md#lumen">Lumen</a>, for it is all we have...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Gods... As above, so below. Please, have mercy on us sinful children of <a href="Glossary.md#lumen">Lumen</a>, for it is all we have...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

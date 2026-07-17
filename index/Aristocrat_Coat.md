@@ -35,4 +35,4 @@ The Aristocrat Coat is an [Equipment](Equipment.md) item under the "Arms" catego
 
 ## Trivia
 
--   The Slate style of this coat is used by [Duke Erisia](Duke_Ishamon_Erisia.md).
+-   The Slate style of this coat is used by [Duke Erisia](Duke_Erisia.md).

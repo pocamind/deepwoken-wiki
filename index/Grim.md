@@ -18,15 +18,15 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Grim is a debuffing [enchantment](Enchantments.md) that increases your opponent's incoming damage and posture damage.
+Grim is a debuffing [enchantment](Enchantment.md) that increases your opponent's incoming damage and posture damage.
 
 ## Effect
 
 After landing enough M1s, Grim applies the [Grim](Status_Effects.md#grim) status effect to your opponent for 6 seconds. This status effect applies a +25% damage buff and +50% posture damage buff to all incoming attacks.
 
-The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons and Medium Weapons, and 4 hits for Heavy Weapons.
+The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for [Light Weapons](Light_Weapons.md) and [Medium Weapons](Medium_Weapons.md), and 4 hits for [Heavy Weapons](Heavy_Weapons.md).
 
 ### Notes
 
--   Grim's effects can be procced on weapon criticals if they have the M1 tag.
+-   Grim's effects can be procced on weapon criticals if they have the [M1 tag](M1_tag.md).
 -   Because Grim applies buffs into incoming attacks rather than increasing damage and posture taken, it **is** affected by the damage and posture damage modifier caps.

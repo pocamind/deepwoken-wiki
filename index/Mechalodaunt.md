@@ -190,7 +190,7 @@ Dodge
 
 ### Passives
 
--   **Fireproof** - Mechalodaunts automatically extinguish [burn](Status_Effects.md#burn).
+-   **Fireproof** - Mechalodaunts automatically extinguish [burn](Burn.md).
 
 ## Finisher
 

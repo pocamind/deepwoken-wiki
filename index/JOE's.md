@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-JOE's was an **unobtainable** stunning [enchantment](Enchantments.md) that could stop time briefly.
+JOE's was an **unobtainable** stunning [enchantment](Enchantment.md) that could stop time briefly.
 
 ## Effect
 

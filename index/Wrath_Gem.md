@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-The **Wrath Gem** is an light red diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Wrath Gem** is an light red diamond-shaped [Deep Gem](Deep_Gem.md).
 
 ## Effect
 
@@ -36,7 +36,7 @@ Upon landing a Mantra with a Wrath Gem equipped, apply the [Wrath](Status_Effect
 -   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Wrath Gem's damage buff per player combat tag will be increased from 7.5% to 15%.
 -   As previously mentioned, the Wrath status effect can gain additional effects through the equipment Talents in the [Reinforced War Set](Reinforced_War_Helmet.md).
     -   The [Fatal Strike](Talents.md#fatal-strike) Talent from the [Reinforced War Helmet](Reinforced_War_Helmet.md) increases the damage of your [Strength Mantra](Attunement-less.md#strength-mantras) guardbreaks by 20% and applies a 50% slow for 5.5 seconds, if they have a Wrath Gem equipped.
-    -   The [Crippling Impact](Talents.md#crippling-impact) Talent from the [Reinforced War Plate](Reinforced_War_Plate.md) disables your opponent's [Vent](Combat_Mechanics.md#tempo) for a few seconds if you land a critical attack while your opponent is afflicted with the [Wrath](Status_Effects.md#wrath) status effect. The duration of this effect scales on your [Strength](Attributes.md#str) investment.
+    -   The [Crippling Impact](Talents.md#crippling-impact) Talent from the [Reinforced War Plate](Reinforced_War_Plate.md) disables your opponent's [Vent](Vent.md) for a few seconds if you land a critical attack while your opponent is afflicted with the [Wrath](Status_Effects.md#wrath) status effect. The duration of this effect scales on your [Strength](Strength.md) investment.
     -   The [Repeated Blows](Talents.md#repeated-blows) Talent from the [Reinforced War Boots](Reinforced_War_Boots.md) resets the cooldown of your [Strength Mantras](Attunement-less.md#strength-mantras) if you land a critical attack while your opponent is afflicted with the [Wrath](Status_Effects.md#wrath) status effect.
     -   The [Lasting Trauma](Talents.md#lasting-trauma) Set Talent from the Reinforced War Set additionally applies the [Fearful](Status_Effects.md#fearful) status effect for 19 seconds whenever you land a Mantra with a Wrath Gem equipped, disabling your opponent's ability to use their critical attack.
 -   For usage with [Critical Engine](Talents.md#critical-engine), the damage buff will not be applied to the hit that procced the Deep Gem, but will be applied to subsequent hits after granting the Wrath status effect. It is highly suggested that you use a multi-hitting critical for this Gem.

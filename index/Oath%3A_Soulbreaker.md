@@ -19,13 +19,13 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Soulbreaker** is one of the 17 obtainable Oaths in _Deepwoken_. It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield all three at once. Upon obtaining this Oath, purple-glowing white strands of energy are attached to your shoulders and wrap behind your head. You have constant [Ardour](Murmur%253A_Ardour.md) particles emitting from your chest. Any weapon you equip will have purple and black lightning humming around it.
+**[Oath](Oath.md): Soulbreaker** is one of the 17 obtainable Oaths in _Deepwoken_. It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield all three at once. Upon obtaining this Oath, purple-glowing white strands of energy are attached to your shoulders and wrap behind your head. You have constant [Ardour](Ardour.md) particles emitting from your chest. Any weapon you equip will have purple and black lightning humming around it.
 
 “ Some say that the king struck a bet with the Mur and won her heart, and all of us in this Kingdom her Light... Some day we'll see it again. I'm sure of it. ”
 
 ― Theadre
 
-The King of Etrea was famous for his exceptionally powerful [Ardour](Murmur%253A_Ardour.md). He, however, also wielded all three Murmurs in what Etreans think was a result of a deal with the [Mur Of Light](Mur_Of_Light.md), an Etrean deity. This is a myth however, as the King in reality would travel to the then above-surface [Southern Luminant](Luminants.md) and strike a deal with the Drowned God [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), becoming a Soulbreaker himself and shattering his soul into three pieces.
+The King of Etrea was famous for his exceptionally powerful [Ardour](Ardour.md). He, however, also wielded all three Murmurs in what Etreans think was a result of a deal with the [Mur Of Light](Mur_Of_Light.md), an Etrean deity. This is a myth however, as the King in reality would travel to the then above-surface [Southern Luminant](Luminants.md) and strike a deal with the Drowned God [Yun'Shul](<Yun'Shul.md>), becoming a Soulbreaker himself and shattering his soul into three pieces.
 
 ## Obtainment
 
@@ -56,7 +56,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
 
-_Soulbreaker **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
+_Soulbreaker **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
 
 ## Progression
 
@@ -66,7 +66,7 @@ This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md
 
 This Oath grants 2 Combat Mantra Slots, 1 Wildcard Mantra slot, and +5% PEN.
 
-You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their Talent upgrades (if any), regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving Talents). Notably, these Oath-given Murmur Talents do not count for the prerequisites of other Talents/abilities such as [Echoing Lunatic](Talents.md#echoing-lunatic) or [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
+You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their Talent upgrades (if any), regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving Talents). Notably, these Oath-given Murmur Talents do not count for the prerequisites of other Talents/abilities such as [Echoing Lunatic](Talents.md#echoing-lunatic) or [Tacet Drop Kick](Tacet_Drop_Kick.md).
 
 The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles. [Dyeing](Dye_Packet.md) your Oath cosmetic additionally changes the Ardour particle vfx, the particles emmited from the mantle, and the color of Tacet Kick and Ardour Slicer.
 
@@ -102,7 +102,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
     -   In PvE you become effectively invisible at almost any range, sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
     -   Tacet will be disabled during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
     -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using Formless will instantly deactivate Tacet.
-    -   The Oath variant of Tacet **cannot** be used to obtain [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
+    -   The Oath variant of Tacet **cannot** be used to obtain [Tacet Drop Kick](Tacet_Drop_Kick.md).
 
 -   **Murmur: Rhythm** - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Rhythm's activation keybind can be configured in settings.
@@ -210,7 +210,7 @@ Shrine deal
  |
 | 
 
-**Effect:** _User launches a projectile similar to [Wind Blade](Galebreathe.md#wind-blade)._
+**Effect:** _User launches a projectile similar to [Wind Blade](Wind_Blade.md)._
 
 -   Deals 28 damage.
 -   Has 40% chip damage.
@@ -297,7 +297,7 @@ Shrine deal
  |
 | 
 
-**Effect:** _Similarly to [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them._
+**Effect:** _Similarly to [Tacet Drop Kick](Tacet_Drop_Kick.md), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them._
 
 -   Deals 19 damage.
 -   Deals 12 posture damage.
@@ -312,5 +312,5 @@ Shrine deal
 -   Currently, this is one of three Oaths where you cannot skip progression with Knowledge.
     -   If the knowledge progression skip were to be added it would be potentially more expensive than progressing the Oath normally.
 -   If you proc [Emperor Flame](Talents.md#emperor-flame), it changes the outline of your [ardour](Murmur%253A_Ardour.md) from purple to whatever your flame color was (orange, blue, black)
--   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.
+-   It is recommended to use [Shrine of Mastery](Shrine_of_Mastery.md) or [Shrine of Conceit](Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.
 -   Rhythm Advance might be a reference to Killua Zoldyck's "Rhythm Echo" from Hunter x Hunter.

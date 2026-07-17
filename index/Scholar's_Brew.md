@@ -42,8 +42,8 @@ It has a unique effect where it grants EXP for all [Attunements](Attunements.md)
 
 ### Recipe
 
--   1 of any [Mantra Modifier](Mantra_Modifiers.md) and 1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecaps](Bluecap.md)) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
--   1 [Bluecap](Bluecap.md) and 1 of any [Mushroom](Ingredients.md#mushrooms) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 of any [Mantra Modifier](Mantra_Modifiers.md) and 1 of any [Mushroom](Mushroom.md) (excluding [Bluecaps](Bluecap.md)) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 [Bluecap](Bluecap.md) and 1 of any [Mushroom](Mushroom.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 

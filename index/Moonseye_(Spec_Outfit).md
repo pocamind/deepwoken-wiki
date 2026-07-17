@@ -27,13 +27,13 @@ notices:
 
 _This page is about the [Developer Spec](Developer_Specs.md) outfit, not to be confused with the [Vow of Iron](Vow_of_Iron.md) outfit named [Moonseye (Outfit)](<Moonseye_(Outfit).md>). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
-**Moonseye** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+**Moonseye** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Armor Stats_
 
-This Outfit has 4000 durability and grants +35% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +20% Lightning resistance [ResistanceThundercall](Thundercall.md), +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +200% Ether Regen [IconEther](Ether.md), and the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
+This Outfit has 4000 durability and grants +35% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunement.md), +20% Lightning resistance [ResistanceThundercall](Thundercall.md), +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +200% Ether Regen [IconEther](Ether.md), and the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
 
 The [Crippling Darkness](Talents.md#crippling-darkness) Talent grants grants 20% Mantra armor penetration (PEN).
 

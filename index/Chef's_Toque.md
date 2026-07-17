@@ -28,7 +28,7 @@ categories: [Equipment, Head, Equipment with Talents, "Equipment with Non-exclus
 
 The Chef's Toque is an [Equipment](Equipment.md) item under the "Head" category. It is found exclusively in chests from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest.
 
-[Umami](Talents.md#umami) grants a 35% chance for all chef weapons ([Long Tong of The Law](The_Long_Tong_of_The_Law.md), [Pastry Paster](The_Pastry_Paster.md), and [Flippers of Fate](The_Flippers_of_Fate.md)) as well as [Fondant Splitter](Fondant_Splitter.md) to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc. This stacks additively with [Gluttony](Gluttony.md).  
+[Umami](Talents.md#umami) grants a 35% chance for all chef weapons ([Long Tong of The Law](Long_Tong_of_The_Law.md), [Pastry Paster](Pastry_Paster.md), and [Flippers of Fate](Flippers_of_Fate.md)) as well as [Fondant Splitter](Fondant_Splitter.md) to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc. This stacks additively with [Gluttony](Gluttony.md).  
 [Gourmand](Talents.md#gourmand) grants increased sustenance from consuming food.
 
 ## Trivia

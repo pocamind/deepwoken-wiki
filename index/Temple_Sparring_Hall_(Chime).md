@@ -18,7 +18,7 @@ A solemn sanctuary carved in stone, where warriors hone the dancing steps of war
 
   
 
-**Temple Sparring Hall** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
+**Temple Sparring Hall** is a [location](Locations.md) in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 

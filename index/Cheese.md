@@ -36,9 +36,9 @@ When consumed, it replenishes 15% Stomach and 1% Water.
 
 ### Used in
 
--   [Grilled Cheese](Grilled_Cheese.md) - 1 **Cheese** and 1 [Bread](Bread.md) at a [Campfire](Campfire_Pit.md).
--   [Crab Pizza](Crab_Pizza.md) - 1 [Bread](Bread.md), 1 **Cheese**, and 1 [Crustacean Meat](Crustacean_Meat.md), no [Campfire](Campfire_Pit.md) required.
--   [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) - 3 [Browncaps](Browncap.md), 2 [Crustacean Meat](Crustacean_Meat.md), and 1 **Cheese** at a [Campfire](Campfire_Pit.md).
+-   [Grilled Cheese](Grilled_Cheese.md) - 1 **Cheese** and 1 [Bread](Bread.md) at a [Campfire](Campfire.md).
+-   [Crab Pizza](Crab_Pizza.md) - 1 [Bread](Bread.md), 1 **Cheese**, and 1 [Crustacean Meat](Crustacean_Meat.md), no [Campfire](Campfire.md) required.
+-   [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) - 3 [Browncaps](Browncap.md), 2 [Crustacean Meat](Crustacean_Meat.md), and 1 **Cheese** at a [Campfire](Campfire.md).
 
 ## Trivia
 

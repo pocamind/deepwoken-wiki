@@ -24,7 +24,7 @@ There is a portal that allows the player to leave Training Mode.
 
 ### The Player
 
-The player has an option to use a [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and a [Battleaxe](Battleaxe.md). You can also reset or heal your character. You also wear the [Vigil Initiate](Vigil_Initiate.md) [Outfit](Outfits.md).
+The player has an option to use a [Stiletto](Stiletto.md), [Sword](Sword.md), and a [Battleaxe](Battleaxe.md). You can also reset or heal your character. You also wear the [Vigil Initiate](Vigil_Initiate.md) [Outfit](Outfits.md).
 
 If the player entered through their slots, they retain their data.
 

@@ -30,38 +30,8 @@ He is located in [Greathive Aratel](Greathive_Aratel.md) in the Heart Plaza, sta
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Feh. Y'look like a fighter. By my eye, I reckon. Fancy a spar?</td>
-</tr>
-<tr>
-  <td>Let's spar.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], teleports you to the Temple Sparring Hall</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Feh. Y'look like a fighter. By my eye, I reckon. Fancy a spar?</td></tr><tr><td>Let's spar.</td></tr><tr><td>[End Dialogue], teleports you to the Temple Sparring Hall</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Feh! Back for more?</td>
-</tr>
-<tr>
-  <td>Let's spar.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], teleports you to the Temple Sparring Hall</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Feh! Back for more?</td></tr><tr><td>Let's spar.</td></tr><tr><td>[End Dialogue], teleports you to the Temple Sparring Hall</td></tr></tbody></table>

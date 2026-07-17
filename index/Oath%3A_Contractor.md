@@ -19,7 +19,7 @@ categories: [Oaths, The Ministry]
 
 ## Description
 
-**[Oath](Oaths.md): Contractor** is one of the 17 obtainable Oaths in _Deepwoken._ This Oath offers varying combat abilities ranging from gap closers, counters and ranged grabs allowing for a versatile and offensive playstyle. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oath.md): Contractor** is one of the 17 obtainable Oaths in _Deepwoken._ This Oath offers varying combat abilities ranging from gap closers, counters and ranged grabs allowing for a versatile and offensive playstyle. Together with [Oathless](Oathless.md), [Linkstrider](Linkstrider.md), [Fadetrimmer](Fadetrimmer.md), and [Dawnwalker](Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their oaths to others. These heathens are to be dealt with promptly. ”
 
@@ -35,7 +35,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
         -   The Bounty version of [The Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
     -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)) This method can get you reputation much faster than most methods.
         -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your reputation with ministry as neutral as possible.
-2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke.
+2.  Start the [Duke Erisia](Duke_Erisia.md) questline. Proceed to get kill credit for the Duke.
 3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of** **Mastery (Attributes option) and Order** work, including those in [The Depths](First_Layer.md).
 4.  Unlock your [Resonance](Resonance.md).
 5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
@@ -44,7 +44,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 
-_Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as Lord Regent will instantly kill you if you enter his room._
+_Contractor **cannot** be reobtained if you [Oathbreak](Oathbreak.md) it, as Lord Regent will instantly kill you if you enter his room._
 
 ## Progression
 
@@ -228,7 +228,7 @@ Killing 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
 -   Applies [Hidden Tendril](Status_Effects.md#hidden-tendril).
 -   The target gains invincibility frames while active.
 -   **Instantly executes** if it brings the target's HP to 0 or is used on a knocked target.
--   Can be [vented](Combat_Mechanics.md#tempo) out of, and can also be parried as soon as you hear the 'snap' sound.
+-   Can be [vented](Vent.md) out of, and can also be parried as soon as you hear the 'snap' sound.
 -   Goes on a short cooldown if feinted.
 
  |
@@ -236,7 +236,7 @@ Killing 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
 ## Trivia
 
 -   Contractor took inspiration from [Darkstalker Kaathe](https://darksouls.fandom.com/wiki/Darkstalker_Kaathe).[\[1\]](#cite-note-1)
--   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be moderately lowered. Players with neutral reputation will have it lowered to a deep Enemy reputation. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
+-   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be moderately lowered. Players with neutral reputation will have it lowered to a deep Enemy reputation. Reputation may be gained back by defeating [Chaser](Chaser.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
     -   You can still bribe the Diver NPC to regain your reputation right after obtaining the oath.
     -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the Oath.
@@ -244,9 +244,9 @@ Killing 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
         -   When trying to equip the weapon as a Contractor, the game will state "The weapon rejects your very soul, the antithesis to your ideals."
 -   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 Oath grips
     -   Counts as a drown
--   Before the September 25th, 2023 update, four specific [Deep Shrines](Deep_Shrines.md) deals were required for Contractor, those being [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md), [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md), [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md), and [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
+-   Before the September 25th, 2023 update, four specific [Deep Shrines](Deep_Shrines.md) deals were required for Contractor, those being [Shrine of Temptation](Shrine_of_Temptation.md), [Shrine of Blasphemy](Shrine_of_Blasphemy.md), [Shrine of Mastery](Shrine_of_Mastery.md), and [Shrine of Chance](Shrine_of_Chance.md).
 -   The Deep Shrines in [Temple of Hearts](Temple_of_Hearts.md) are able to be used to meet Contractor requirements.
--   Despite popular belief, Contractor can still be obtained without directly gripping [Duke Erisia](Duke_Ishamon_Erisia.md), you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
+-   Despite popular belief, Contractor can still be obtained without directly gripping [Duke Erisia](Duke_Erisia.md), you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
 -   Contractor strings are not actually solid dark red or black; the string's outside is red, and the interior is black.
 -   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.[\[2\]](#cite-note-2)
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.

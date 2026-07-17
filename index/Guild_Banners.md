@@ -31,7 +31,7 @@ The visual marker above the Guild Banner will change depending on its current st
 
 If you are lost on where to find any of these, check out the Etrean and Eastern Luminant [Maps](Maps.md).
 
-### [Etrean Luminant](Luminants.md)
+### [Etrean Luminant](Etrean_Luminant.md)
 
 #### [Erisia](Erisia.md)
 
@@ -46,9 +46,9 @@ If you are lost on where to find any of these, check out the Etrean and Eastern 
 1.  One in the tower ruins above [Outpost Antumbra](Outpost_Antumbra.md).
 2.  One right next to a statue at Statue Isle ([The Etrean Sea](The_Etrean_Sea.md)).
 
-### [Eastern Luminant](Luminants.md)
+### [Eastern Luminant](Eastern_Luminant.md)
 
-#### [Aratel Sea](The_Aratel_Sea.md)
+#### [Aratel Sea](Aratel_Sea.md)
 
 1.  One on a small island near [Miner's Landing](<Miner's_Landing.md>).
 2.  One on the island with [The Entropy Catalyst](The_Entropy_Catalyst.md) and [War Mode](War_Mode.md) Bell.
@@ -58,7 +58,7 @@ If you are lost on where to find any of these, check out the Etrean and Eastern 
 
 #### [Miner's Landing](<Miner's_Landing.md>)
 
-1.  One on the bridge to [Starfield Veldt](Starfield_Veldt.md), nearby [Adar](Adar,_Master_of_Metal.md).
+1.  One on the bridge to [Starfield Veldt](Starfield_Veldt.md), nearby [Adar](Adar.md).
 
 #### [Songseeker Wilds](Songseeker_Wilds.md)
 

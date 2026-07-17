@@ -26,17 +26,17 @@ categories: [Outfits, Unique Outfits, Etrea, Outfits with Talents, Outfits with 
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Jade Vigil's Weave** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+**Jade Vigil's Weave** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Requirements
 
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Dark Feather](Dark_Feather.md), five (5) [Gale Stones](Gale_Stone.md), one (1) [Thresher Spine](Thresher_Spine.md) and one (1) [Wind Gem](Wind_Gem.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Agility](Attributes.md#agl) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Agility](Agility.md) to be crafted.
 
 ## Armor Stats
 
-This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +25% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Serpent's Dance](Talents.md#serpents-dance) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunement.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +25% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Serpent's Dance](Talents.md#serpents-dance) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 43.75% Bloodrend [ResistanceBloodrend](Bloodrend.md), 36.25% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

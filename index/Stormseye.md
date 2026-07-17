@@ -43,7 +43,7 @@ The Stormseye comes with 2 passive abilities:
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
     -   Due to how weapon passives work, this is one of few passives that can be transferred to another weapon equipped by abnormal means.
-        -   This includes all Soulwrought weapons from the [Crazy Slots](Crazy_Slots.md) Resonance, the Sovereign Bangle from [Blightsurger](Oath%253A_Blightsurger.md), and the Saintsblade from [Saintsworn](Oath%253A_Saintsworn.md).
+        -   This includes all Soulwrought weapons from the [Crazy Slots](Crazy_Slots.md) Resonance, the Sovereign Bangle from [Blightsurger](Blightsurger.md), and the Saintsblade from [Saintsworn](Saintsworn.md).
     -   This passive has a similar behavior with the Static Fakeout Talent, in terms of visual effects.
 
 This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, proccing Surge stacks, Static Blade, and the Stratoshock buffs.

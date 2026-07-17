@@ -22,7 +22,7 @@ The rabbit is a species of animal. They are hunted by humans via bow, alongside 
 
 ## Trivia
 
--   Rabbits were first mentioned within [God in the Machine](God_in_the_Machine.md). With the [book](Books.md)'s removal from the game, much information on rabbits is no longer present within _[Deepwoken](<Deepwoken_(game).md>)_.
+-   Rabbits were first mentioned within [God in the Machine](God_in_the_Machine.md). With the [book](Book.md)'s removal from the game, much information on rabbits is no longer present within _[Deepwoken](<Deepwoken_(game).md>)_.
 
 ## References
 

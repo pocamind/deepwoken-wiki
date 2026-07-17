@@ -28,7 +28,7 @@ categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equi
 
 The Crimson Terraplate Pauldrons is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Cruentare](Talents.md#cruentare) Talent increases your [Bleed](Status_Effects.md#bleed) damage by 50% and makes your [Whirling Blade](Monster_Mantras.md#whirling-blade) heal you when you land it.
+The [Cruentare](Talents.md#cruentare) Talent increases your [Bleed](Status_Effects.md#bleed) damage by 50% and makes your [Whirling Blade](Whirling_Blade.md) heal you when you land it.
 
   
 

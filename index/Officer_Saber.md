@@ -46,7 +46,7 @@ The user performs a flurry of slashes, hitting up to 4 times. The first hit will
 
 The critical has a cooldown of **5** seconds.
 
-Your character's rotation speed is slowed during this attack. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+Your character's rotation speed is slowed during this attack. This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

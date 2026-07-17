@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Void Glutton** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+**Void Glutton** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 Lumen is but a buffet for the Void Glutton, a dastardly [Shadowcaster](Shadowcast.md) who hungers. When slaying adventurers, their hunger is sated, permanently granting them increased resilience at the cost of their mobility.
 
@@ -113,7 +113,7 @@ N/A
 -   Has a windup of 0.45 seconds with a 0.4 second delay before the second hit. Has a 12 second cooldown.
 -   The "second hit" does not deal damage and does not grant parry stun to the user if it is parried.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
--   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the size of the eruption.
+-   [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) increase the size of the eruption.
 
  |
 
@@ -144,10 +144,10 @@ N/A
         -   Tough Love: 2s -> 1s
         -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
         -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
+        -   [Dread Whisper](Dread_Whisper.md) and [Sing](Sing.md): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
         -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
-        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Hair_Spray.md): 15s -> 7.5s
         -   Lasting Charisma (at reqs): 20s -> 10s
 
 -   Duelist's Lunge \[Common Talent\] **100** \- Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
@@ -176,7 +176,7 @@ N/A
 -   Pressure Skewer \[Common Talent\] **100** \- Rapier Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.
     -   Increase blood bar damage by 50%.
     -   While active, also grants +25% chip damage.
-    -   Also applies to criticals with the M1 tag.
+    -   Also applies to criticals with the [M1 tag](M1_tag.md).
 
 -   Ready or Not \[Common Talent\] **100** \- The first attack to hit you while out of combat has its damage cut in half.
 
@@ -419,11 +419,11 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Deals 8 posture damage per hit (1, 3 if Multiplying Spark). The Blast Spark variant guardbreaks.
 -   Has a 19 second cooldown.
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
--   The damage buff can be increased with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
--   It has a base duration of 12 seconds that can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
+-   The damage buff can be increased with [Vibrant Gems](Vibrant_Gem.md), capping at +25% weapon damage with 3 Vibrant Gems.
+-   It has a base duration of 12 seconds that can be modified with [Aeon](Aeon_Logstone.md) and [Eternal Logstones](Eternal_Logstone.md) to increase duration of buff to a cap of 21 seconds.
 -   The [Spine Cutter](Talents.md#spine-cutter) Talent cannot be used while Shade Devour is active
--   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a bigger shockwave that guardbreaks.
--   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
+-   Can be upgraded with a [Blast Spark](Blast_Spark.md) to perform a bigger shockwave that guardbreaks.
+-   Can be upgraded with a [Multiplying Spark](Multiplying_Spark.md) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
 
  |
@@ -505,7 +505,7 @@ Blunt ResistanceBlunt
 -   Applies PVE tag to anyone who is near it.
 -   Automatically extinguishes burn on those grabbed.
 -   Has a vertical range cap.
--   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the range, though it seems to display diminishing returns.
+-   Can be modified with [Glass](Glass_Stone.md) and [Magnifying Stones](Magnifying_Stone.md) to increase the range, though it seems to display diminishing returns.
 
  |
 

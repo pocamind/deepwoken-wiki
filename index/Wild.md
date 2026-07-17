@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Wild is a damage dealing [enchantment](Enchantments.md) that applies deals your weapon's damage in an AoE.
+Wild is a damage dealing [enchantment](Enchantment.md) that applies deals your weapon's damage in an AoE.
 
 ## Effect
 

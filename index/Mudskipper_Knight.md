@@ -23,9 +23,9 @@ Found commonly where the drowned reside, Mudskipper Knights are the decayed remn
 
 While similar in appearance, they're nothing like regular [Mudskippers](Mudskipper.md). They are able to utilize defensive mechanics - blocking, parrying, and dodging - and can see in a 360 degree field of view around them.
 
-Outside of the Depths, they can be found in both the Etrean and Eastern Luminants. In the former, they are located in graves at the [Burning Stone Gardens](Burning_Stone_Gardens.md), while in the latter, they can be found crashing into [Meteor Isle](Meteor_Isle.md). Here, they are a slightly buffed version of the earlier ones you would have encountered, compensating for the change in [Luminants](Luminants.md).
+Outside of the Depths, they can be found in both the [Etrean and Eastern Luminants](Locations.md). In the former, they are located in graves at the [Burning Stone Gardens](Burning_Stone_Gardens.md), while in the latter, they can be found crashing into [Meteor Isle](Meteor_Isle.md). Here, they are a slightly buffed version of the earlier ones you would have encountered, compensating for the change in [Luminants](Luminants.md).
 
-Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Falchion](Falchion.md), have no equipment, and wear relatively weak armor. In contrast, the Mudskipper Knights found on [Meteor Isle](Meteor_Isle.md) may wield a variety of weaponry and now wear [Darksteel Plate](Darksteel_Plate.md) armor alongside some basic equipment.
+Within the [Etrean Luminant](Locations.md) and in [Scyphozia](First_Layer.md), they wield a [Falchion](Falchion.md), have no equipment, and wear relatively weak armor. In contrast, the Mudskipper Knights found on [Meteor Isle](Meteor_Isle.md) may wield a variety of weaponry and now wear [Darksteel Plate](Darksteel_Plate.md) armor alongside some basic equipment.
 
   
 

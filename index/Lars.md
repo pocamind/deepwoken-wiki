@@ -34,19 +34,7 @@ Lars is located in [Erisia](Erisia.md) inside the Bluecap Library which is locat
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*Searching the body, you confirm that it belongs to Lars, the scout. You question whether the death was from natural causes.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*Searching the body, you confirm that it belongs to Lars, the scout. You question whether the death was from natural causes.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## References
 

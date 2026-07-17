@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Ring of a Lost Star is a [Vow of Iron](Vow_of_Iron.md) exclusive consumable [Relic](Relics.md) that spawns a friendly [Star Knight](Star_Knight.md) on use.
+The Ring of a Lost Star is a [Vow of Iron](Vow_of_Iron.md) exclusive consumable [Relic](Relic.md) that spawns a friendly [Star Knight](Star_Knight.md) on use.
 
 ## Obtainment
 

@@ -20,7 +20,7 @@ categories: [Monsters]
 
 ## Description
 
-Watchers are environmental hazards that have a lamp-like head with a slender, skeletal appearance. Watchers cannot be damaged by any means, but will summon [Hollow Angels](Hollow_Angel.md) to attack the player. Watchers can be found in scattered across [The City of the Drowned](The_City_of_the_Drowned.md) while one only exists in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+Watchers are environmental hazards that have a lamp-like head with a slender, skeletal appearance. Watchers cannot be damaged by any means, but will summon [Hollow Angels](Hollow_Angel.md) to attack the player. Watchers can be found in scattered across [The City of the Drowned](The_City_of_the_Drowned.md) while one only exists in the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md).
 
 Their body is malnourished to an extent that their ribcage is visible, and their abdomen being nearly hollowed out. They have extremely long arms, with five fingers on each hand with long claws. Their legs are nearly the same length as their arms, having nearly the same characteristics. Their head appears as a flower, with the outer "petals" being a dark olive color, its outer layer being wrinkly and veiny. The inner "petals" are pink, and holds a large, glowing orb in the center that allows it to see.
 
@@ -37,8 +37,8 @@ Their body is malnourished to an extent that their ribcage is visible, and their
 -   The spikes do not deal damage, but instead they limit your mobility, acting as physical barriers that prevent your escape.
 -   The only way to avoid this attack is to physically move out of the Watcher's line of sight.
 -   The Watcher will not use this attack on you if you are wearing the [Sworn](Sworn_Angel_Mask.md) or [Hollow Angel Masks](Hollow_Angel_Mask.md).
--   Activating [Tacet](Murmur%253A_Tacet.md) will cause the Watcher to break like of sight with you, ending this early. Tacet can also be used to avoid this attack altogether.
--   Only one Hollow Angel will be spawned if the Watcher is at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+-   Activating [Tacet](Tacet.md) will cause the Watcher to break like of sight with you, ending this early. Tacet can also be used to avoid this attack altogether.
+-   Only one Hollow Angel will be spawned if the Watcher is at the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md).
 -   The Watcher cannot use Leap during Watcher's Gaze.
 
 -   ⚠︎ Unparryable
@@ -65,7 +65,7 @@ Their body is malnourished to an extent that their ribcage is visible, and their
 ### Passives
 
 -   **Intangibility** - These monsters simply cannot be hit.. by most attacks.
-    -   Very few attacks can actually deal damage to Watchers, such as [Warden's Blades](Frostdraw.md#wardens-blades), however Watchers have a VERY high healthpool.
+    -   Very few attacks can actually deal damage to Watchers, such as [Warden's Blades](<Warden's_Blades.md>), however Watchers have a VERY high healthpool.
     -   Watchers can also take environmental damage, though this is only possible through [Teleportation](Teleportation.md).
 
 ## Dialogue
@@ -76,88 +76,19 @@ You can converse with the Watchers if you are wearing the [Sworn](Sworn_Angel_Ma
 
 This dialogue is exclusive to the Watchers within [The City of the Drowned](The_City_of_the_Drowned.md).
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">WHY APPROACH? WHY SHIRK DUTY?</td>
-</tr>
-<tr>
-  <td colspan="4">I have a few questions.</td>
-</tr>
-<tr>
-  <td colspan="4">QUESTIONS? FROM A DRONE? WHY ANSWER? WHAT NEED?</td>
-</tr>
-<tr>
-  <td colspan="2">I'm kinda bored.</td>
-  <td colspan="2">It's been a while, I forgot...</td>
-</tr>
-<tr>
-  <td colspan="2">YES THAT IS EXPECTED. YOU SERVE ALL THE SAME. YOU SERVE UNTIL YOU CAN SERVE NO MORE. AND THEN. WHEN YOU ARE PLACED UPON THE CARVING TABLE. WE GET YOUR EYES. AND THEY WILL REFLECT SUCH MISERIES. WE LONG FOR THIS DAY.</td>
-  <td colspan="2">YOU SHOULD NOT BE ABLE TO FORGET. IT IS ETCHED INTO YOU. EVERY ORGAN. EVERY CELL. THEY ARE BOUND BY YOUR VOW. EVEN IF THE MIND FORGETS. THE BODY CANNOT. YOU SPEAK IMPOSSIBILITY.</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-  <td>Right. But I'm wondering why exactly we're doing all this?</td>
-  <td>What was the specific wording again?</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td>WE ARE THE EYES. YOU ARE THE PROD. THE CATTLE HAVE BUT ONE PLACE TO GO. THEY ARE NOT TO STRAY.</td>
-  <td>YOUR STRUGGLE IS MEANINGLESS. YOU WILL NOT SAVE THEM. YOU GAVE UP THAT RIGHT WHEN YOU WEIGHED YOUR FLESH OVER YOUR WILL.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">WHY APPROACH? WHY SHIRK DUTY?</td></tr><tr><td colspan="4">I have a few questions.</td></tr><tr><td colspan="4">QUESTIONS? FROM A DRONE? WHY ANSWER? WHAT NEED?</td></tr><tr><td colspan="2">I'm kinda bored.</td><td colspan="2">It's been a while, I forgot...</td></tr><tr><td colspan="2">YES THAT IS EXPECTED. YOU SERVE ALL THE SAME. YOU SERVE UNTIL YOU CAN SERVE NO MORE. AND THEN. WHEN YOU ARE PLACED UPON THE CARVING TABLE. WE GET YOUR EYES. AND THEY WILL REFLECT SUCH MISERIES. WE LONG FOR THIS DAY.</td><td colspan="2">YOU SHOULD NOT BE ABLE TO FORGET. IT IS ETCHED INTO YOU. EVERY ORGAN. EVERY CELL. THEY ARE BOUND BY YOUR VOW. EVEN IF THE MIND FORGETS. THE BODY CANNOT. YOU SPEAK IMPOSSIBILITY.</td></tr><tr><td colspan="2">[End Dialogue]</td><td>Right. But I'm wondering why exactly we're doing all this?</td><td>What was the specific wording again?</td></tr><tr><td colspan="2"></td><td>WE ARE THE EYES. YOU ARE THE PROD. THE CATTLE HAVE BUT ONE PLACE TO GO. THEY ARE NOT TO STRAY.</td><td>YOUR STRUGGLE IS MEANINGLESS. YOU WILL NOT SAVE THEM. YOU GAVE UP THAT RIGHT WHEN YOU WEIGHED YOUR FLESH OVER YOUR WILL.</td></tr><tr><td colspan="2"></td><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Overworld:**
 
 This dialogue is exclusive to the Watchers at [The Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">HOW KIND OF YOU TO VISIT, THRALL. FORTUNE HAS FOUND ME. THOUGH I MISSED THE LAST FEASTING, I NOW HAVE THE BEST SEAT IN THE HOUSE FOR THE NEXT.</td>
-</tr>
-<tr>
-  <td colspan="2">What was stolen from below?</td>
-  <td colspan="2">How did you miss the last?</td>
-</tr>
-<tr>
-  <td colspan="2">A PLAYTHING, PERHAPS? THE LORDLING HAS SERVED OUR ENDS WELL, EVEN IF HE DID NOT BECOME A THRALL AS YOU DID.</td>
-  <td colspan="2">A GLIMPSE WAS ALL WE GOT. THE THINNING PLAYS TRICKS EVEN ON THE AWARE. WE DID NOT FORESEE THAT THIS SPIT OF LAND WOULD DRIFT SO. IT HAS BEEN AN AMUSING DETOUR.</td>
-</tr>
-<tr>
-  <td colspan="4">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">HOW KIND OF YOU TO VISIT, THRALL. FORTUNE HAS FOUND ME. THOUGH I MISSED THE LAST FEASTING, I NOW HAVE THE BEST SEAT IN THE HOUSE FOR THE NEXT.</td></tr><tr><td colspan="2">What was stolen from below?</td><td colspan="2">How did you miss the last?</td></tr><tr><td colspan="2">A PLAYTHING, PERHAPS? THE LORDLING HAS SERVED OUR ENDS WELL, EVEN IF HE DID NOT BECOME A THRALL AS YOU DID.</td><td colspan="2">A GLIMPSE WAS ALL WE GOT. THE THINNING PLAYS TRICKS EVEN ON THE AWARE. WE DID NOT FORESEE THAT THIS SPIT OF LAND WOULD DRIFT SO. IT HAS BEEN AN AMUSING DETOUR.</td></tr><tr><td colspan="4">[End Dialogue]</td></tr></tbody></table>
 
 **Player is not wearing an Angel Mask:**
 
 This dialogue will be activated if you take off your Angel Mask while the Watcher is looking at you. If the Watcher wasn't locked onto you while you had the Angel Mask equipped, they will use Watcher's Gaze instead, and you will not be able to converse with them.
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">RUN ALONG NOW.</td>
-</tr>
-<tr>
-  <td colspan="4">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">RUN ALONG NOW.</td></tr><tr><td colspan="4">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

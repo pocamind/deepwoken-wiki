@@ -41,7 +41,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by purchasing the _Starter Weapon: Greatsword_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md). Once you've bought it with echoes, you may choose it in the character creation screen.
+The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by purchasing the _Starter Weapon: Greatsword_ [Echo Unlock](Echo_Unlock.md) for 25 Echoes in [Character Creation](Character_Creation.md). Once you've bought it with echoes, you may choose it in the character creation screen.
 
 ## Critical
 

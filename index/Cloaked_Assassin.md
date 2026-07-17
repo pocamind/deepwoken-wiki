@@ -19,7 +19,7 @@ categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
 
 The Cloaked Assassins are enemy NPCs. They wear a sleeveless version of the [Assassin's Cloak](<Assassin's_Cloak.md>) and an [Assassin's Hood](<Assassin's_Hood.md>). They can be of various races.
 
-Cloaked Assassins are spotted in various [Sea events](Random_Encounters.md#sea-events), having either captured an island or ambushing a [Merchant Ship](Travelling_Merchant.md). They can also be found in groups of 3 during faction ambushes, spawning in place of the faction NPCs or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
+Cloaked Assassins are spotted in various [Sea events](Random_Encounters.md#sea-events), having either captured an island or ambushing a [Merchant Ship](Chili.md). They can also be found in groups of 3 during faction ambushes, spawning in place of the faction NPCs or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
 
 ## Moveset
 

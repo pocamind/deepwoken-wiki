@@ -51,7 +51,7 @@ The critical has a cooldown of **10 seconds**.
 ## Trivia
 
 -   The Hero of Frost is a [Capra](Capra.md) named [Faust](Faust.md). Identified by their horns and mask.
-    -   Faust understood the way of the world better than anyone else, as said in their respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
+    -   Faust understood the way of the world better than anyone else, as said in their respective [Saintsworn Obelisk](Saintsworn_Obelisk.md).
     -   Faust is based on a [German legendary character of the same name](https://en.wikipedia.org/wiki/Faust), who makes a deal with the Devil in exchange for unlimited knowledge.
 -   Once deciphered, the runes on the blade says, "I FAUST ONE PIECE OF A FIVE POINTED STAR GIVE MY COLDEST FROST TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL".
 -   It's previous description read: "A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes."

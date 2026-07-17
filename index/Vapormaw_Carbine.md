@@ -37,7 +37,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Vapormaw Carbine is a steam powered Rifle, exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
+The Vapormaw Carbine is a steam powered [Rifle](Rifles.md), exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ## Critical
 

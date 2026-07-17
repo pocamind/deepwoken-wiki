@@ -19,7 +19,7 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Joy is used as a currency in the [Hallowtide](Hallowtide.md) event, and can be traded for Hallowtide exclusive items. You can check how much Joy you have by either talking to [Lysander Spellhardt](Lysander_Spellhardt.md), [Glaive Spellhardt](Glaive_Spellhardt.md) or [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), though this requires that you have made a [Hallowtide Mask](Hallowtide_Mask.md) first.
+Joy is used as a currency in the [Hallowtide](<Hallowtide_(Event).md>) event, and can be traded for Hallowtide exclusive items. You can check how much Joy you have by either talking to [Lysander Spellhardt](Lysander_Spellhardt.md), [Glaive Spellhardt](Glaive_Spellhardt.md) or [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), though this requires that you have made a [Hallowtide Mask](Hallowtide_Mask.md) first.
 
 Joy is bound to your character. If your slot wipes, and you make a new character, Joy will not be transferred over. However, if your character should somehow survive from the end of one year's Hallowtide to the beginning of another, any remaining Joy will be carried over.
 
@@ -36,7 +36,7 @@ Joy can be obtained in 2 ways:
 
 ## Usage
 
-Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive items. Mainly with 3 NPCs. [Lysander Spellhardt](Lysander_Spellhardt.md), [Glaive Spellhardt](Glaive_Spellhardt.md), and [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md). Each of their options can be viewed below:
+Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive items. Mainly with 3 [NPCs](NPCs.md). [Lysander Spellhardt](Lysander_Spellhardt.md), [Glaive Spellhardt](Glaive_Spellhardt.md), and [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md). Each of their options can be viewed below:
 
 -   [Lysander Spellhardt](Lysander_Spellhardt.md): Sells you Hallowtide-exclusive [equipments](Equipment.md) and [Outfits](Outfits.md), _Hallowtide aspect Variants_, and yearly [**Hallowtide Medals**](Seasonal_Medals.md).
     1.  For **35 Joy**: You can buy 3 Head Equipments: [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), and [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>).
@@ -47,9 +47,9 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
         -   You can also buy a Head Equipment for the same price: [Mushroom Costume](Mushroom_Costume.md).
     5.  For **200 Joy**: You can buy the [**Hallowtide '22 and '23 Medals**](Seasonal_Medals.md#hallowtide).
     6.  For **300 Joy**: You can buy the [**Hallowtide '24 and '25 Medals**](Seasonal_Medals.md#hallowtide)
-        -   **This is a must-buy**. Each medal will allow you to purchase [Hallowtide](Hallowtide.md)\-exclusive items released in its respective year using [Knowledge](Knowledge.md) instead of Joy **after the event is over**. More information can be found on its respective page here, [Hallowtide Medals](Seasonal_Medals.md#hallowtide).
+        -   **This is a must-buy**. Each medal will allow you to purchase [Hallowtide](<Hallowtide_(Event).md>)\-exclusive items released in its respective year using [Knowledge](Knowledge.md) instead of Joy **after the event is over**. More information can be found on its respective page here, [Hallowtide Medals](Seasonal_Medals.md#hallowtide).
 
--   [Glaive Spellhardt](Glaive_Spellhardt.md): Sells you Hallowtide-exclusive [weapons](Weapons.md) and [Pumpkin Pitch](Pumpkin_Pitch.md), along with the [Harrowing](Harrowing.md) Enchant, and a master [outfit](Outfits.md) gacha.
+-   [Glaive Spellhardt](Glaive_Spellhardt.md): Sells you Hallowtide-exclusive [weapons](Weapons.md) and [Pumpkin Pitch](Pumpkin_Pitch.md), along with the [Harrowing](Harrowing.md) Enchant, and a master [outfit](Outfit.md) gacha.
     1.  For **20 Joy**: You can buy a random Master [Outfit](Outfits.md). Useful to get [Celtorian Tideknight](Celtorian_Tideknight.md).
     2.  For **80 Joy**: You can buy a Hallowtide-exclusive shield, the [Gourdguard](Gourdguard.md).
     3.  For **100 Joy**: You can buy All Hallowtide-exclusive weapons. The cost is 100 Joy per weapon.
@@ -67,5 +67,5 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
 
 ## Trivia
 
--   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md) from [Lysander Spellhardt](Lysander_Spellhardt.md).
+-   There used to be an option to buy [Void Feathers](Void_Feather.md) and a random [Deep Gem](Deep_Gem.md) from [Lysander Spellhardt](Lysander_Spellhardt.md).
 -   Joy given from all sources was buffed in the [November 8th, 2024](Version_History/2024.md#november-8th-2024) hotfix.

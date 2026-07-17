@@ -23,7 +23,7 @@ notices:
 
 ## Description
 
-The **Perennial Sundown** is a consumable [Relic](Relics.md) item with **1 use**. Perennial Sundown's grants 1 Full training point on use, allowing you to allocate one free investment point into a stat of your choosing at no experience cost.
+The **Perennial Sundown** is a consumable [Relic](Relic.md) item with **1 use**. Perennial Sundown's grants 1 Full training point on use, allowing you to allocate one free investment point into a stat of your choosing at no experience cost.
 
 ## Trivia
 

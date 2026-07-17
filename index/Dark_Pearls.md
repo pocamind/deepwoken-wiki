@@ -26,11 +26,11 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 
 ## Description
 
-**Dark Pearls** are a Shadowcast [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ears" category.
+**Dark Pearls** are a Shadowcast [Relic](Relic.md) [Equipment](Equipment.md) item under the "Ears" category.
 
 When equipped, the pearls emit faint magic circles while ink blots out from within.
 
-[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Combat_Mechanics.md#tempo) black and makes it drain 47.5 Ether from targets it hits. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5, as well as proccing Shadowcast Talents and [Twisted Puppets'](Talents.md#twisted-puppets) [burn](Status_Effects.md#shadow-burn).
+[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Vent.md) black and makes it drain 47.5 Ether from targets it hits. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5, as well as proccing Shadowcast Talents and [Twisted Puppets'](Talents.md#twisted-puppets) [burn](Status_Effects.md#shadow-burn).
 
 ## Trivia
 

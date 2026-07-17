@@ -30,12 +30,12 @@ It is divided into two sections, being [Upper Erisia](Upper_Erisia.md) and [Lowe
 
 ## Trivia
 
--   The music for this area is [The Trappings Of A Lord](Deepwoken_OST.md#the-trappings-of-a-lord) by Naktigonis
--   The combat music for this area is [Cry 'Havoc!'](Deepwoken_OST.md#cry-havoc) by Naktigonis
+-   The music for this area is [The Trappings Of A Lord](The_Trappings_Of_A_Lord.md) by Naktigonis
+-   The combat music for this area is [Cry 'Havoc!'](<Cry_'Havoc!'.md>) by Naktigonis
 -   Erisia is frequently referred to as "Bandit Island" by players.
 -   As a whole, Erisia is the second largest landmass in Deepwoken, only behind [Aratel Island](Aratel_Island.md).
--   Erisia is a common [ganking](Glossary.md) spot due to contractor bounties/boosting.
--   It's better to do the [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP for later levels.
+-   Erisia is a common [ganking](Terminology.md) spot due to contractor bounties/boosting.
+-   It's better to do the [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](Starswept_Valley.md) due to Erisia NPC's giving little to no EXP for later levels.
     -   However, Upper Erisia is perfect for Strength/Weapon EXP due to the [Megalodaunt](Megalodaunt.md) nest in Upper Erisia and the [Rock Golems](Rock_Golem.md) in the [Burning Stone Gardens](Burning_Stone_Gardens.md).
 
 ## References

@@ -14,25 +14,25 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-This article is about the [Origin](Origins.md). For the [Faction](Factions_&_Groups.md) itself, refer to [The Justicar](The_Justicar.md).
+This article is about the [Origin](Origin.md). For the [Faction](Faction.md) itself, refer to [The Justicar](The_Justicar.md).
 
 > “ Help those who are too weak to walk the path alone... ”
 > 
 > ― Origin description
 
-_Justicar_ is an [Origin](Origins.md) focused around helping players and making sure that they remain unharmed. Justicar is the counterpart of [Voidwalker](Voidwalker.md).
+_Justicar_ is an [Origin](Origin.md) focused around helping players and making sure that they remain unharmed. Justicar is the counterpart of [Voidwalker](Voidwalker.md).
 
 ## Description
 
-Justicars are those who follow [Alsin](Alsin.md)'s wisdom by interpreting and walking The Path their own way. Many Justicars in the [Eastern Luminant](Luminants.md) believe that helping others in the pursuit of _their_ Path is a Justicar's true purpose. Justicars are named after and are affiliated with [The Justicar](The_Justicar.md).
+Justicars are those who follow [Alsin](Alsin.md)'s wisdom by interpreting and walking The Path their own way. Many Justicars in the [Eastern Luminant](Eastern_Luminant.md) believe that helping others in the pursuit of _their_ Path is a Justicar's true purpose. Justicars are named after and are affiliated with [The Justicar](The_Justicar.md).
 
 ## Obtainment
 
-To obtain the Justicar [Origin](Origins.md), the player must do the following:
+To obtain the Justicar [Origin](Origin.md), the player must do the following:
 
 1.  Meet either of these requirements. Only one is needed to be done before the next step.
     -   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md). You only need to kill one [Authority Soldier](Authority_Soldier.md) for this method.
-    -   Help a player at or below Power 15 escape the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+    -   Help a player at or below Power 15 escape the [Depths Trial](Depths_Trial.md).
 2.  Speak to [Polis](Polis.md) after you have already received a [Gold Ring](Gold_Ring.md) from him. After which, talk to him about wanting to join his cause, which allows you to walk the path of [Alsin](Alsin.md) and unlock **Justicar**.
 
 ## Spawn
@@ -43,7 +43,7 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 ### Justicar's Aid
 
--   _In-game description_: Pulls up a list of active [Castaways](Castaway.md) that have used their [Justicar Whistle](Castaway.md#justicar-whistle). Select one to teleport to their server and location, and assign them as your mark to protect and help.
+-   _In-game description_: Pulls up a list of active [Castaways](Castaway.md) that have used their [Justicar Whistle](Justicar_Whistle.md). Select one to teleport to their server and location, and assign them as your mark to protect and help.
 
 ### Vow of Protection
 
@@ -53,7 +53,7 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 ## Progression
 
-Justicar's progression is based around helping [Castaways](Castaway.md), which is rewarded in the form of experience points and promotion points. Using [Justicar's Aid](<Justicar_(Origin).md#justicars-aid>) will allow you to choose from a list of Castaways who have used their [Justicar Whistle](Castaway.md#justicar-whistle). This reveals their name, [Power](Power.md), Luminant, general location, and server region.
+Justicar's progression is based around helping [Castaways](Castaway.md), which is rewarded in the form of experience points and promotion points. Using [Justicar's Aid](<Justicar's_Aid.md>) will allow you to choose from a list of Castaways who have used their [Justicar Whistle](Justicar_Whistle.md). This reveals their name, [Power](Power.md), Luminant, general location, and server region.
 
 -   Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), and etc. will provide you with 15-50 rankpoints per event.
     -   Using **Justicar's Aid** will massively speed up this process, although beware that if you die, or the Castaway dies during this, you will lose 50 points.
@@ -79,7 +79,7 @@ These are the ranks you can progress through:
 
 These Talents can be chosen upon being promoted at any point in your Justicar playthrough. These talents cannot be removed or rerolled once obtained so choose carefully.
 
-As you can only gain a maximum of 4 promotions which inludes Path promotions, your Talents of choice are limited. You are also forced to pick 2 generic promotion Talents before you can start picking Path exclusive talents, so there is a maximum of 2 Path-exclusive Talents that you can have, as you cannot reroll generic promotion Talents into Path-exclusive ones with [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
+As you can only gain a maximum of 4 promotions which inludes Path promotions, your Talents of choice are limited. You are also forced to pick 2 generic promotion Talents before you can start picking Path exclusive talents, so there is a maximum of 2 Path-exclusive Talents that you can have, as you cannot reroll generic promotion Talents into Path-exclusive ones with [Shrine of Chance](Shrine_of_Chance.md).
 
 -   **Justicar's Adaptation** - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using [Jus Karita](Jus_Karita.md). Your Jus Karita running attacks can now also proc fist talents.
     -   Having the Justicar's Technique Talent allows you to have the Jus Karita running attack on any weapon. This allows you to proc Jus Karita and Fist exclusive Talents on any weapon via the running attack.
@@ -94,7 +94,7 @@ As you can only gain a maximum of 4 promotions which inludes Path promotions, yo
 
 ## Paths
 
-Players can choose between 2 different paths upon reaching Elder rank before they can progress further, those being [Vanguard](<Justicar_(Origin).md#vanguard-path>) and [Warder](<Justicar_(Origin).md#warder-path>). Vanguards typically focus on combat, while Warders focus on support and healing.
+Players can choose between 2 different paths upon reaching Elder rank before they can progress further, those being [Vanguard](Justicar.md#vanguard-path) and [Warder](Justicar.md#warder-path). Vanguards typically focus on combat, while Warders focus on support and healing.
 
 ## Vanguard Path
 
@@ -196,7 +196,7 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire]
     -   Prerequisite: Justicar's Mark
 -   **Justicar's Blessing** - Allies you mark with gain 15% more healing.
     -   Prerequisite: Justicar's Mark
--   **Marked Descent** - When your [marked](Status_Effects.md#justicars-mark) target takes damage, they are revealed. Using your [Karita Divebomb](Attunement-less.md#karita-divebomb) will target them.
+-   **Marked Descent** - When your [marked](Status_Effects.md#justicars-mark) target takes damage, they are revealed. Using your [Karita Divebomb](Karita_Divebomb.md) will target them.
     -   Prerequisite: Justicar's Mark
 -   **Mark Mastery** - Reduce the amount of extra damage you receive while your ally is marked with the [Justicar's Mark](Status_Effects.md#justicars-mark) from 20% to 5%.
     -   Prerequisite: Justicar's Mark
@@ -277,7 +277,7 @@ Warder Path, given automatically after joining it.
 ### Pros
 
 -   Great for those who want to help (usually newer) players.
-    -   This is also a great way to start off a fresh [Guild](Guilds.md), as [Castaways](Castaway.md) are usually newer players who have yet to be invited to a guild. Helping them progress will make them feel indebted to you, and less likely to [guild hop](<Terminology_(game).md#guild-hopping>).
+    -   This is also a great way to start off a fresh [Guild](Guild.md), as [Castaways](Castaway.md) are usually newer players who have yet to be invited to a guild. Helping them progress will make them feel indebted to you, and less likely to [guild hop](<Terminology_(game).md#guild-hopping>).
 -   You start with the [Jus Karita](Talents.md#jus-karita) Talent, allowing you to have [Jus Karita](Jus_Karita.md) and something else as a starting weapon.
 -   Access to multiple Paths allowing for a variety of unique builds unobtainable otherwise.
 -   [Justicar Neophyte](Justicar_Neophyte.md) has relatively good stats for a starter armor.
@@ -289,8 +289,8 @@ Warder Path, given automatically after joining it.
 -   Somewhat slow progression in regard to Justicar ranks. Ideally, you would be job stacking with your [Castaway](Castaway.md), which they might not know to do. This is also similar to being an [Authority Ensign](Authority_Ensign.md).
 -   Some newer Castaways may not know about the details of this origin, and could lead to misunderstandings that could range from them being uncooperative with your help, to them mistaking a Justicar for a [Voidwalker](Voidwalker.md) that's teleporting to them, leading them to be antagonistic against said Justicar.
 -   Evil, sabotaging Castaways with ill-intent.
-    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway, and you gain details of the location of your target before teleporting.
-    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, bait Justicars into a trapped area with a lot of players or a restricted area, leading them to a quick death.
+    -   Some Castaways can, using [Justicar Whistle](Justicar_Whistle.md) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway, and you gain details of the location of your target before teleporting.
+    -   Some Castaways can, using [Justicar Whistle](Justicar_Whistle.md) to, bait Justicars into a trapped area with a lot of players or a restricted area, leading them to a quick death.
     -   These events can be avoided by using your spawn i-frames to see the situation. Though if there is fighting you may want to be quick.
 -   Ironically, Justicars benefit most from competent Castaways who can quickly complete events, such as veteran players, who likely do not need a Justicar's help in the first place. Such a scenario is unlikely during intended gameplay.
 
@@ -299,7 +299,7 @@ Warder Path, given automatically after joining it.
 Your starting reputation is:
 
 -   **Friend** of [Lost Celtor](Lost_Celtor.md).
--   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
--   **Neutral** with all other [factions](Factions_&_Groups.md) [Diversiconfaction](The_Divers.md) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) [Summericonfaction](The_Summer_Company.md) [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
+-   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
+-   **Neutral** with all other [factions](Factions.md) [Diversiconfaction](Divers.md) [Authorityiconfaction](Central_Authority.md) [Hiveiconfaction](Hive.md) [Summericonfaction](The_Summer_Company.md) [Navaeiconfaction](Children_of_Navae.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 
 _Note: Your chosen [Aspect](Aspects.md) may affect your starting [reputation](Reputation.md)._

@@ -31,13 +31,13 @@ This content is not accessible outside of this gamemode.
 
 **Grilled Parasol Brain** is a craftable [Food](Food.md) item. It is the result of cooking [Raw Parasol Brain](Raw_Parasol_Brain.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
 
 ### Effect
 
 When consumed, it replenishes 80% Stomach and 20% Water.  
   
-Additionally, it grants the Brain buff, affecting 15% of the Stomach bar. The buff increases the effectiveness or efficiency of your [Deep Gems](Deep_Gems.md).
+Additionally, it grants the Brain buff, affecting 15% of the Stomach bar. The buff increases the effectiveness or efficiency of your [Deep Gems](Deep_Gem.md).
 
 -   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
 -   [Blessed Gem](Blessed_Gem.md): Cooldown reduction is increased from -50% to -66%.

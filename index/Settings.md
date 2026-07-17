@@ -55,22 +55,22 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 
 These Keybinds will only appear if you have the respective ability.
 
--   [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state) - X / Unbound
+-   [Sovereign State](Sovereign_State.md) - X / Unbound
 -   [Iron Pull](Ironsing.md) - X / Unbound
 -   [Callout](Talents.md#callout) - Z / Unbound
--   [Ardour](Murmur%253A_Ardour.md) - H / Unbound
--   [Rhythm](Murmur%253A_Rhythm.md) (Crouching) - G / Unbound
--   [Tacet](Murmur%253A_Tacet.md) (Crouching) - T / Unbound
--   [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity) - X / Unbound
+-   [Ardour](Ardour.md) - H / Unbound
+-   [Rhythm](Rhythm.md) (Crouching) - G / Unbound
+-   [Tacet](Tacet.md) (Crouching) - T / Unbound
+-   [Unmatched Dexterity](Unmatched_Dexterity.md) - X / Unbound
 -   [Phantom Step](Talents.md#phantom-step) - X / Unbound
 -   [Cap Artist](Talents.md#cap-artist) - Comma / Unbound
 -   [Pickpocket](Talents.md#pickpocket) - N / Unbound
--   [Symbiotic Link](Oath%253A_Linkstrider.md#symbiotic-link) - X / Unbound
--   [Saintsblade](Oath%253A_Saintsworn.md#saintsblade) - L / Unbound
--   [Arc Module: Null](Oath%253A_Arcwarder.md#arc-module-null) - L / Unbound
--   [Shaper Swap](Oath%253A_Visionshaper.md#shaper-swap) - X / Unbound
--   [Reality Shift](Oath%253A_Visionshaper.md#reality-shift) - J / Unbound
--   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - M2 / Unbound
+-   [Symbiotic Link](Symbiotic_Link.md) - X / Unbound
+-   [Saintsblade](Saintsblade.md) - L / Unbound
+-   [Arc Module: Null](Arc_Module%253A_Null.md) - L / Unbound
+-   [Shaper Swap](Shaper_Swap.md) - X / Unbound
+-   [Reality Shift](Reality_Shift.md) - J / Unbound
+-   [Chainlash](Chainlash.md) - M2 / Unbound
 
 * * *
 
@@ -147,22 +147,22 @@ _The button names may be different depending on console type._
 
 These Keybinds will only appear if you have the respective ability.
 
--   [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state) - Unbound
+-   [Sovereign State](Sovereign_State.md) - Unbound
 -   [Iron Pull](Ironsing.md) - Unbound
 -   [Callout](Talents.md#callout) - Unbound
--   [Ardour](Murmur%253A_Ardour.md) - Unbound
--   [Rhythm](Murmur%253A_Rhythm.md) (Crouching) - Unbound
--   [Tacet](Murmur%253A_Tacet.md) (Crouching) - Unbound
--   [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity) - Unbound
+-   [Ardour](Ardour.md) - Unbound
+-   [Rhythm](Rhythm.md) (Crouching) - Unbound
+-   [Tacet](Tacet.md) (Crouching) - Unbound
+-   [Unmatched Dexterity](Unmatched_Dexterity.md) - Unbound
 -   [Phantom Step](Talents.md#phantom-step) - Unbound
 -   [Cap Artist](Talents.md#cap-artist) - Unbound
 -   [Pickpocket](Talents.md#pickpocket) - Unbound
--   [Symbiotic Link](Oath%253A_Linkstrider.md#symbiotic-link) - Unbound
--   [Saintsblade](Oath%253A_Saintsworn.md#saintsblade) - Unbound
--   [Arc Module: Null](Oath%253A_Arcwarder.md#arc-module-null) - Unbound
--   [Shaper Swap](Oath%253A_Visionshaper.md#shaper-swap) - Unbound
--   [Reality Shift](Oath%253A_Visionshaper.md#reality-shift) - Unbound
--   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - LT
+-   [Symbiotic Link](Symbiotic_Link.md) - Unbound
+-   [Saintsblade](Saintsblade.md) - Unbound
+-   [Arc Module: Null](Arc_Module%253A_Null.md) - Unbound
+-   [Shaper Swap](Shaper_Swap.md) - Unbound
+-   [Reality Shift](Reality_Shift.md) - Unbound
+-   [Chainlash](Chainlash.md) - LT
 
 * * *
 
@@ -235,22 +235,22 @@ These Keybinds will only appear if you have the respective ability.
 
 These Keybinds will only appear if you have the respective ability.
 
--   [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state) - Unbound
+-   [Sovereign State](Sovereign_State.md) - Unbound
 -   [Iron Pull](Ironsing.md) - Unbound
 -   [Callout](Talents.md#callout) - Unbound
--   [Ardour](Murmur%253A_Ardour.md) - Unbound
--   [Rhythm](Murmur%253A_Rhythm.md) (Crouching) - Unbound
--   [Tacet](Murmur%253A_Tacet.md) (Crouching) - Unbound
--   [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity) - Unbound
+-   [Ardour](Ardour.md) - Unbound
+-   [Rhythm](Rhythm.md) (Crouching) - Unbound
+-   [Tacet](Tacet.md) (Crouching) - Unbound
+-   [Unmatched Dexterity](Unmatched_Dexterity.md) - Unbound
 -   [Phantom Step](Talents.md#phantom-step) - Unbound
 -   [Cap Artist](Talents.md#cap-artist) - Unbound
 -   [Pickpocket](Talents.md#pickpocket) - Unbound
--   [Symbiotic Link](Oath%253A_Linkstrider.md#symbiotic-link) - Unbound
--   [Saintsblade](Oath%253A_Saintsworn.md#saintsblade) - Unbound
--   [Arc Module: Null](Oath%253A_Arcwarder.md#arc-module-null) - Unbound
--   [Shaper Swap](Oath%253A_Visionshaper.md#shaper-swap) - Unbound
--   [Reality Shift](Oath%253A_Visionshaper.md#reality-shift) - Unbound
--   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - L2
+-   [Symbiotic Link](Symbiotic_Link.md) - Unbound
+-   [Saintsblade](Saintsblade.md) - Unbound
+-   [Arc Module: Null](Arc_Module%253A_Null.md) - Unbound
+-   [Shaper Swap](Shaper_Swap.md) - Unbound
+-   [Reality Shift](Reality_Shift.md) - Unbound
+-   [Chainlash](Chainlash.md) - L2
 
 * * *
 
@@ -298,7 +298,7 @@ There are 11 interface related settings.
 -   **Crafting Slots On/Off** - "Displays 3 slots for Crafting above your Backpack."
     -   Drag items and materials into the 3 slots to craft from your inventory without Journal recipes.
 -   **Points of Interest On/Off** - "Enables markers in towns for points of interest."
-    -   Displays markers for [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Blacksmith](Blacksmith.md), [Gear Cabinets](Training_Gear.md), Guildhall, [Inn](Inn.md), [Job Boards](Job_Boards.md), and [Shipwright](Shipwright.md).
+    -   Displays markers for [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Blacksmith](Blacksmith.md), [Gear Cabinets](Gear_Cabinet.md), Guildhall, [Inn](Inn.md), [Job Boards](Job_Boards.md), and [Shipwright](Shipwright.md).
     -   Displays on [Maps](Maps.md) regardless if setting is on or off.
 -   **3D Icon Behavior Always/Hover/Off** - "Sets 3D icon behavior."
     -   Displays items with their 3D models inside of the inventory and hotbar.

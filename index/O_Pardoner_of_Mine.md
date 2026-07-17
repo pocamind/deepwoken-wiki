@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**O Pardoner of Mine**_ is a [Book](Books.md).
+_**O Pardoner of Mine**_ is a [Book](Book.md).
 
 ## Text
 

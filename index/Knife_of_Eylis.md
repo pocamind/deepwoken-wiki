@@ -16,7 +16,7 @@ categories: [Enemies, Knives of Eylis Enemies]
 
 ## Description
 
-[The Knives of Eylis](The_Knives_of_Eylis.md), also referred to as the Silver Whalers, are a gang of mercenaries hired by [The Authority](The_Central_Authority.md) to cause carnage in the Etrean Luminant. They are found in two locations, a group of three escorting a captured Navean Nomad in [Upper Erisia](Upper_Erisia.md), consisting of two Knives and one [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md), and a group of four raiding an Etrean Naval [Frigate](Ships_&_Sailing.md) in [The Aratel Sea](The_Aratel_Sea.md) or [The Etrean Sea](The_Etrean_Sea.md), consisting of three Knives and one [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md). True to their name, they all wield [Whaling Knives](Whaling_Knife.md) and wear [Whaler Coats](Whaler_Coat.md) and [Whaler Scarves](Whaler_Scarf.md).
+[The Knives of Eylis](The_Knives_of_Eylis.md), also referred to as the Silver Whalers, are a gang of mercenaries hired by [The Authority](The_Authority.md) to cause carnage in the Etrean Luminant. They are found in two locations, a group of three escorting a captured Navean Nomad in [Upper Erisia](Upper_Erisia.md), consisting of two Knives and one [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md), and a group of four raiding an Etrean Naval [Frigate](Ships.md) in [The Aratel Sea](The_Aratel_Sea.md) or [The Etrean Sea](The_Etrean_Sea.md), consisting of three Knives and one [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md). True to their name, they all wield [Whaling Knives](Whaling_Knife.md) and wear [Whaler Coats](Whaler_Coat.md) and [Whaler Scarves](Whaler_Scarf.md).
 
 ## Moveset
 

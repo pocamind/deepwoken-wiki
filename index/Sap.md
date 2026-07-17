@@ -28,7 +28,7 @@ For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.m
 ## Recipes
 
 -   [Cake](Cake.md) - 1 Egg, 3 Gathered Wheat, 1 Sap.
--   [Candied Fruit](Candied_Fruit.md) - 2 of any [Fruits](Ingredients.md#fruits).
+-   [Candied Fruit](Candied_Fruit.md) - 2 of any [Fruits](Fruit.md).
 -   [Glazed Fish](Glazed_Fish.md) - 1 Fish Meat, 1 Sap.
 -   [Sticky Bun](Sticky_Bun.md) - 1 Sap, 3 Gathered Wheat.
 

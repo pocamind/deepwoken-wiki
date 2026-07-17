@@ -12,7 +12,7 @@ categories: [Items, Attributes, Attunement, Training Gear]
 
 **Training Gears** are a variety of tools that increase the player's [Attributes](Attributes.md) and [Attunements](Attunements.md) accordingly. More information regarding [Attributes](Attributes.md) and [Attunements](Attunements.md) can be found on their respective pages.
 
-They can be found in different [Gear Cabinets](Training_Gear.md) around Lumen, each one costing 25 and selling for 3. Fresh spawns will start with three Training Gears, one correlating with their highest attribute, one correlating with their highest attunement, and a [Weapon Manual](Weapon_Manual.md). In the case of a player not having any attunement investment, they will spawn with a Training Gear correlating with their second highest attribtue instead.
+They can be found in different [Gear Cabinets](Gear_Cabinet.md) around Lumen, each one costing 25 and selling for 3. Fresh spawns will start with three Training Gears, one correlating with their highest attribute, one correlating with their highest attunement, and a [Weapon Manual](Weapon_Manual.md). In the case of a player not having any attunement investment, they will spawn with a Training Gear correlating with their second highest attribtue instead.
 
 ## Usage
 
@@ -218,7 +218,7 @@ A held hearthgem
     -   [Castle Light](Castle_Light.md): 2 total
         1.  Next to [Nyanna](Nyanna.md), up the spiral staircase on the second floor.
         2.  In the mess hall, turn right as soon as you enter the room.
-    -   [Chariot's Spire](<The_Chariot's_Spire.md>): 2 total
+    -   [Chariot's Spire](<Chariot's_Spire.md>): 2 total
         1.  One at the top of the Spire's entrance ladder.
         2.  One on the bridge (opposite side of [Merryweather](Merryweather.md)).
     -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md): 2 total, both are outside of Diluvian, in the general area around the start of the entrance hallway.
@@ -242,5 +242,5 @@ A held hearthgem
 -   Ferrofluid is a real thing. It is a liquid with magnetic nanoparticles suspended in the fluid.
 -   Whenever the player unlocks a new Attunement, the corresponding training gear will be unlocked in the gear cabinet.
     -   For example, the Ferrofluid will only be purchasable after the player has unlocked Ironsing for the first time on their account.
--   The Hearthgem is the only training item where its description has an uncapitalized name of its [Attunement](Attunements.md).
+-   The Hearthgem is the only training item where its description has an uncapitalized name of its [Attunement](Attunement.md).
     -   "flamecharm" vs "Frostdrawing" "Thundercall" "Galebreathing" "Shadowcast" "Ironsinging" "Bloodrending"

@@ -29,32 +29,11 @@ Thus, this article focuses on that.
 
 **Mauled Diver Corpse** is the lifeless body of **Azel Corbet**. The player is able to pocket the [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>) left behind by the corpse and read the logs of what never escaped from the Eternal Gale.
 
-Azel Corbet was an [apprentice diver](The_Divers.md) participating in the expedition to the [Second Layer](Second_Layer.md) led by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), where he would eventually meet his demise. After being betrayed by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) he hid in the [Nest Corridor](Nest_Corridor.md) and wrote his last thoughts in his journal before being eaten alive by [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)
+Azel Corbet was an [apprentice diver](The_Divers.md) participating in the expedition to the [Second Layer](Second_Layer.md) led by [Chaser](Chaser.md), where he would eventually meet his demise. After being betrayed by [Chaser](Chaser.md) he hid in the [Nest Corridor](Nest_Corridor.md) and wrote his last thoughts in his journal before being eaten alive by [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*A lone body lays abandoned in the wasteland. A journal is attached to the hip.*</i></td>
-</tr>
-<tr>
-  <td>[Read the Journal]</td>
-  <td>Secrets are best left to the dead</td>
-</tr>
-<tr>
-  <td><i>*You find only one legible entry among the tattered pages, and pocket it to read later.*</i></td>
-  <td><i>*You leave the body alone*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Apprentice_Azel.md">Diver's Journal: Apprentice Azel</a></td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*A lone body lays abandoned in the wasteland. A journal is attached to the hip.*</i></td></tr><tr><td>[Read the Journal]</td><td>Secrets are best left to the dead</td></tr><tr><td><i>*You find only one legible entry among the tattered pages, and pocket it to read later.*</i></td><td><i>*You leave the body alone*</i></td></tr><tr><td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Apprentice_Azel.md">Diver's Journal: Apprentice Azel</a></td><td>[End Dialogue]</td></tr></tbody></table>
 
 ## References
 

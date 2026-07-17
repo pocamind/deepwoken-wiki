@@ -36,7 +36,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 
 ## Description
 
-The Gilded Knife is a rare LHT dagger weapon obtainable through [Erisia](Erisia.md) chests and [Chili](Travelling_Merchant.md). It is a very good weapon for early to mid game for its high base damage, low requirement and scaling.
+The Gilded Knife is a rare LHT dagger weapon obtainable through [Erisia](Erisia.md) chests and [Chili](Chili.md). It is a very good weapon for early to mid game for its high base damage, low requirement and scaling.
 
 ## Critical
 

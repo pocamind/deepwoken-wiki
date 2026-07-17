@@ -29,9 +29,9 @@ For a more detailed view on Ardour, see the [lore](Lore.md#whispers-of-ardour).
 
 ― Card description
 
-**Ardour Scream** is a Common [Talent](Talents.md) in the "Murmur" category that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. Alternatively this Talent is granted to you upon obtaining the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
+**Ardour Scream** is a Common [Talent](Talent.md) in the "Murmur" category that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. Alternatively this Talent is granted to you upon obtaining the [Soulbreaker](Soulbreaker.md) Oath.
 
-When activated, you let out a scream, applying the Ardour Scream status effect to targets in a large AoE. Affected targets take 1.5x posture damage and 12.5% more damage and are forced out of Tacet. This ability does not scale on Power, always draining all of your Ether. Ardour Scream can only be used if you are at 100% Ether, unless you have [Soulbreaker](Oath%253A_Soulbreaker.md), in which case it can be used at a minimum of 40% Ether. Ardour Scream grants a +12.5% damage and posture damage modifier to the attacks targeting the opponent affected by Ardour Scream, it does **not** make them take increased damage/posture damage by lowering their defenses; Ardour Scream **cannot bypass the damage modifier or posture damage modifier caps**.
+When activated, you let out a scream, applying the Ardour Scream status effect to targets in a large AoE. Affected targets take 1.5x posture damage and 12.5% more damage and are forced out of Tacet. This ability does not scale on Power, always draining all of your Ether. Ardour Scream can only be used if you are at 100% Ether, unless you have [Soulbreaker](Soulbreaker.md), in which case it can be used at a minimum of 40% Ether. Ardour Scream grants a +12.5% damage and posture damage modifier to the attacks targeting the opponent affected by Ardour Scream, it does **not** make them take increased damage/posture damage by lowering their defenses; Ardour Scream **cannot bypass the damage modifier or posture damage modifier caps**.
 
 ## Obtainment
 

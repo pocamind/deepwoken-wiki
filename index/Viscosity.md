@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Viscosity is an equipment [enchantment](Enchantments.md) that turns incoming damage into damage over time.
+Viscosity is an equipment [enchantment](Enchantment.md) that turns incoming damage into damage over time.
 
 ## Effect
 

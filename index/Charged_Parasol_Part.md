@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Uses
 
--   It can be traded in with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) to grant you the [Abyssal Tendrils](Monster_Mantras.md#abyssal-tendrils) [Mantra](Mantras.md).
+-   It can be traded in with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) to grant you the [Abyssal Tendrils](Abyssal_Tendrils.md) [Mantra](Mantra.md).
 
 ## Trivia
 

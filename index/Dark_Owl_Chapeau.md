@@ -34,7 +34,7 @@ Variants: [Cloak](Dark_Owl_Cloak.md) · [Cape](Dark_Owl_Cape.md)
 
 The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" category.
 
-[Underdog](Talents.md#underdog) grants a damage bonus to foes with higher current health than you, scaling on your [Willpower](Attributes.md#wll) investment, granting +2% damage at 20 Willpower and scaling up to +4% damage at 60 Willpower. Additionally, it grants +10% damage when fighting most [Monster](Monsters.md) enemies.
+[Underdog](Talents.md#underdog) grants a damage bonus to foes with higher current health than you, scaling on your [Willpower](Willpower.md) investment, granting +2% damage at 20 Willpower and scaling up to +4% damage at 60 Willpower. Additionally, it grants +10% damage when fighting most [Monster](Monsters.md) enemies.
 
 ## Trivia
 

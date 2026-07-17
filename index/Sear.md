@@ -18,13 +18,13 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Sear is a debuffing [enchantment](Enchantments.md) that increases your opponent's incoming PEN and drains their water.
+Sear is a debuffing [enchantment](Enchantment.md) that increases your opponent's incoming PEN and drains their water.
 
 ## Effect
 
 Sear increases your weapon's PEN by 5%. On hit apply the [Cauterize](Status_Effects.md#cauterize) status effect, increasing your opponent's incoming PEN, up to 40%.
 
-The amount of PEN given per hit varies based on your weapon type, granting +5.45% incoming PEN per hit on Light Weapons, +8% incoming PEN per hit on Medium Weapons, and +10% incoming PEN per hit on Heavy Weapons.
+The amount of PEN given per hit varies based on your weapon type, granting +5.45% incoming PEN per hit on [Light Weapons](Light_Weapons.md), +8% incoming PEN per hit on [Medium Weapons](Medium_Weapons.md), and +10% incoming PEN per hit on [Heavy Weapons](Heavy_Weapons.md).
 
 Stacks of Cauterize last 15 seconds. Applying a new stack does not refresh this timer.
 

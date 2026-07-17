@@ -25,4 +25,4 @@ Due to developmental constraints, a downplayed version was released for 2024-202
 
 ## Trivia
 
--   Unlike [Hallowtide](Hallowtide.md), Kyrsmas appears to have no in-universe justification, especially given the average denizen of Lumen would not know what a Kyrsgarde is. However, dialogue with [Sentinel Augustus](Sentinel_Augustus.md) acknowledges it, but only from the player's perspective.
+-   Unlike [Hallowtide](<Hallowtide_(Event).md>), Kyrsmas appears to have no in-universe justification, especially given the average denizen of Lumen would not know what a Kyrsgarde is. However, dialogue with [Sentinel Augustus](Sentinel_Augustus.md) acknowledges it, but only from the player's perspective.

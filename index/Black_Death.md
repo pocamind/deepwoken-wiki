@@ -57,7 +57,7 @@ For the running critical, the user rapidly thrusts the spear while slowly moving
 
 Both criticals have a cooldown of **8 seconds.**
 
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
+These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talent](Talent.md) effects.
 
 ## Trivia
 

@@ -10,7 +10,7 @@ categories: [Weapons]
 
 ## Description
 
-The **Broadsword** is an unobtainable Sword. It's used by [Ghosts](Ghost.md) and [Bandits](Bandit.md). It is similar to the [starter sword](<Sword_(weapon).md>).
+The **Broadsword** is an unobtainable Sword. It's used by [Ghosts](Ghost.md) and [Bandits](Bandit.md). It is similar to the [starter sword](Sword.md).
 
 It uses the default Sword critical.
 

@@ -103,7 +103,7 @@ Ranked **(Top 1000-251)**
 
 ## Trivia
 
--   The music for the queue area is [The Games Of War](Deepwoken_OST.md#the-games-of-war) by Naktigonis.
+-   The music for the queue area is [The Games Of War](The_Games_Of_War.md) by Naktigonis.
 -   The "Godseeker" title refers to those who [seek out the Drowned Gods](Mendacia.md#dialogue)
     -   This is, in-itself, a reference to the [Hollow Knight games](https://en.wikipedia.org/wiki/Hollow_Knight)
 -   The lowest Elo possible is 500.

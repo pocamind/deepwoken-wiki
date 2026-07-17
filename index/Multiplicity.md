@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Multiplicity is an RNG-based equipment [enchantment](Enchantments.md) that grants the user one of three buffs on proc.
+Multiplicity is an RNG-based equipment [enchantment](Enchantment.md) that grants the user one of three buffs on proc.
 
 ## Effect
 

@@ -31,37 +31,13 @@ Karack is located inside of a stronghold on the leftside of [Alsin's Landing](<A
 
 **Justicar:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>...Aaaand done! Hopefully now, I can through those pesky golems at Erisia!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>...Aaaand done! Hopefully now, I can through those pesky golems at Erisia!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Move along, or face my blade!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Move along, or face my blade!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

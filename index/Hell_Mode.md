@@ -16,7 +16,7 @@ The ominous Hell Bell, awaiting in the corner of Scyphozia to those foolish enou
 
 ## Description
 
-Hell Mode is a player-activated event that can be started in the corner of [Scyphozia](First_Layer.md) if four players who are at least Power 15 ring the Hell Bell. Upon starting the event, the lighting in the Depths will change to hellish-red and a kill count starting at 100 will appear over the bell. For every player that rings the bell after the initial four, 10 more mobs will be added to the kill count. There is a 20 minute duration to kill the required mobs.
+Hell Mode is a player-activated event that can be started in the corner of [Scyphozia](Scyphozia.md) if four players who are at least Power 15 ring the Hell Bell. Upon starting the event, the lighting in the Depths will change to hellish-red and a kill count starting at 100 will appear over the bell. For every player that rings the bell after the initial four, 10 more mobs will be added to the kill count. There is a 20 minute duration to kill the required mobs.
 
 ### Effects
 
@@ -49,12 +49,12 @@ Upon reaching 100 or more kills, players that rung the bell will always receive 
 -   **When helping others fight monsters, avoid hitting each other.** While doing so will not put them into player combat, it will still deal damage to them.
 -   **Other players that did not ring the bell can combat-tag the player, and vice versa.** The player should stay cautious of those who have not initiated the Hell Mode, as they may put the player in combat. A lack of health gain from monsters can result in a hasty death.
 -   **Fighting near the [Temple of Hearts](Temple_of_Hearts.md) is a fairly good option, as almost no mobs can enter it.** Nautilodaunts, Threshers, and Deep Owls may still be able to get inside, otherwise, no other monsters can enter.
-    -   Provided the player has available [Wishes](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>), they can almost guarantee an escape from gankers by escaping from the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This should only be done if the player is completely overwhelmed, as leaving the server forfeits all potential loot.
+    -   Provided the player has available [Wishes](Wishes.md), they can almost guarantee an escape from gankers by escaping from the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul.md>). This should only be done if the player is completely overwhelmed, as leaving the server forfeits all potential loot.
 -   Most heavy weapons are viable in Hell Mode, but the [Enforcer's Axe](<Enforcer's_Axe.md>) is a particularly strong option due to its critical hit potential.
     -   Many [Enchantments](Enchantments.md) are also effective in Hell Mode. Detonation can build stacks quickly but risks damaging allies. Vampirism improves survivability. Providence's Thorns can punish enemies that the player can parry frequently, and Wild deals reduced damage to allies while excelling against stacked mobs. Astral is a simple and effective choice for faster kills.
 -   If the player is low on health, they should attempt to kill weaker monsters such as [Lionfish](Lionfish.md), [Threshers](Thresher.md), or [Megalodaunts](Megalodaunt.md).
 -   The player should be extremely cautious of [Nautilodaunts](Nautilodaunt.md), [Fury Nautilodaunts](Fury_Nautilodaunt.md), and most notably [Mudskipper Broodlords](Mudskipper_Broodlord.md). They are among the most dangerous threats in Hell Mode due to their shock, anti-heal, and unparriable attacks respectively.
--   If the player is certain they have their [Resonance](Resonance.md) and are below the HP threshold required to jump into the void, they may attempt to unlock it to restore full health before jumping into the void. This can be done by taking damage from players, monsters, or by climbing a wall just before reaching the void to incur fall damage. Be warned that this will send the player to the [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) without a Lighthook.
+-   If the player is certain they have their [Resonance](Resonance.md) and are below the HP threshold required to jump into the void, they may attempt to unlock it to restore full health before jumping into the void. This can be done by taking damage from players, monsters, or by climbing a wall just before reaching the void to incur fall damage. Be warned that this will send the player to the [The Ethironal Shrine](The_Ethironal_Shrine.md) without a Lighthook.
 
 ## Trivia
 

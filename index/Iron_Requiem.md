@@ -38,7 +38,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, L
 
 The Iron Requiem is a Legendary [Ironsing](Ironsing.md)\-Scaling Pistol obtained within Ignition Union territories, most commonly through the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. Unlike other Pistols, it may only be used as a **Main Hand** weapon, but an offhand weapon can still be used alongside it.
 
-The Iron Requiem has a [Bullet](Bullets.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
+The Iron Requiem has a [Bullet](Bullet.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 
 ## Critical
 
@@ -53,4 +53,4 @@ Both criticals have a cooldown of **7 seconds**.
 -   The description previously had "print(4\*1) Reverse-engineered..." in it.
 -   The Ironsing icon is engraved on both sides of the gun.
 -   The [Sleight of Hand](Talents.md#sleight-of-hand) Talent procs on dual guns, reloading one bullet on flourish, despite stating it's single gun only. Because of this, you can use Iron Requiem's running critical on dual guns.
--   Along with the [Soulwrought Gun](Crazy_Slots.md#weapons) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three pistols in the game to play a unique sound effect on M1/crit.
+-   Along with the [Soulwrought Gun](Soulwrought_Gun.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three pistols in the game to play a unique sound effect on M1/crit.

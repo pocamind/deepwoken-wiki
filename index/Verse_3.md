@@ -20,14 +20,14 @@ Verse 3 is an ongoing series of updates to _Deepwoken_, announced on September 2
 
 The official reveal came with a roadmap of upcoming content. The items on the roadmap are (from left to right):
 
--   A new [Origin](Origins.md) relating to [The Central Authority](The_Central_Authority.md), which would become known as [Authority Ensign](Authority_Ensign.md)
--   New [Origins](Origins.md) for other [Factions](Factions_&_Groups.md)
+-   A new [Origin](Origin.md) relating to [The Central Authority](The_Central_Authority.md), which would become known as [Authority Ensign](Authority_Ensign.md)
+-   New [Origins](Origins.md) for other [Factions](Factions.md)
 -   A rework to [Saramaed Hollow](Saramaed_Hollow.md)
 -   The addition of a new character type called "[Vow of Iron](Vow_of_Iron.md)" that will allow the player to play a hardcore version of the game
 -   [Hallowtide](Hallowtide.md) 2025
 -   A new addon for [Aspects](Aspects.md) called "Divergences" that will modify how Aspects work
 -   [Ship](Ships_&_Sailing.md) modifications
--   New Locations to explore
+-   New [Locations](Locations.md) to explore
 -   And finally, Layer 3, the third layer of [The Depths](The_Depths.md).
 
 ## Hallowtide 2025
@@ -42,13 +42,13 @@ On October 5th, 2025, the Verse 3 Chapter 1: Duskguard update released, featurin
 
 ### Authority Origin
 
-The [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) was added, obtainable by defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or gaining Hero [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md). Unique from other origins, Authority Ensign follows a military rank style progression involving taking missions and joining divisions.
+The [Authority Ensign](Authority_Ensign.md) [Origin](Origin.md) was added, obtainable by defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or gaining Hero [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md). Unique from other origins, Authority Ensign follows a military rank style progression involving taking missions and joining divisions.
 
-During their progression, players will be locked to the [Authority](The_Central_Authority.md) [guild](Guilds.md), ranking up and choosing a division within the Authority for unique talents and weapons.
+During their progression, players will be locked to the [Authority](The_Central_Authority.md) [guild](Guild.md), ranking up and choosing a division within the Authority for unique talents and weapons.
 
 ### Map Adjustments
 
-The land has changed in the [Eastern Luminant](Luminants.md), with some locations introduced and some removed, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel Island](Aratel_Island.md).
+The land has changed in the [Eastern Luminant](Eastern_Luminant.md), with some locations introduced and some removed, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel Island](Aratel_Island.md).
 
 ## Chapter 2: Ironsworn
 

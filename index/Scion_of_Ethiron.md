@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md). It's treated as a "final boss" to the game, allowing the access of endgame content such as [Kyrsan Medallions](Kyrsan_Medallions.md) among other things. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as his puppet and avatar, with sealing it also sealing him temporarily, as described by [Naerotiv](Naerotiv.md). After being awoken by your disturbance, it takes the form of a skeletal monster made up of bones and feathers, with it's head being distinctively tetrahedron shaped, with a color scheme of purple-pinks and yellow fiber protruding from each corner. It also completely **empties your lighthook** to 0 minutes if any time was remaining.
+The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md). It's treated as a "final boss" to the game, allowing the access of endgame content such as [Kyrsan Medallions](Kyrsan_Medallions.md) among other things. It is tied to [Ethiron](Ethiron.md), acting as his puppet and avatar, with sealing it also sealing him temporarily, as described by [Naerotiv](Naerotiv.md). After being awoken by your disturbance, it takes the form of a skeletal monster made up of bones and feathers, with it's head being distinctively tetrahedron shaped, with a color scheme of purple-pinks and yellow fiber protruding from each corner. It also completely **empties your lighthook** to 0 minutes if any time was remaining.
 
 It uses a variety of attacks to defeat you, notably summoning bones and directing them at either the player or the ground. In addition, it has the abilities of [Galebreathe](Galebreathe.md), able to fire a large laser, blind you, or fire a devastating death sphere at the player, obliterating any hit by it. Do note it is **heavily resistant** to [Vampirism](Enchantments.md) and [Bloodless Gems](Deep_Gems.md).
 
@@ -35,7 +35,7 @@ Upon defeat, five chests containing [Kyrsan Medallions](Kyrsan_Medallions.md) wi
 
 However, defeating him will also prompt a hard 3 minute timer, or 180 seconds, in order to escape the City at the Light Hook at the front of the city before you are guaranteed to wipe, more information can be found on [Second Layer/New Kyrsa](Second_Layer/New_Kyrsa.md).
 
-Do note that telling [Misérables](Misérables.md) "**I seek power in my upcoming battles**" then interacting with the [Purge Shrine](Purge_Shrine.md) not only spawns the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) but also overall makes Scion of Ethiron much harder, making him not spawn healthpacks, charge his ult wind-up faster and a damage boost on all attacks.
+Do note that telling [Misérables](Miserables.md) "**I seek power in my upcoming battles**" then interacting with the [Purge Shrine](Purge_Shrine.md) not only spawns the [Kyrsgarde Champion](Kyrsgarde_Champion.md) but also overall makes Scion of Ethiron much harder, making him not spawn healthpacks, charge his ult wind-up faster and a damage boost on all attacks.
 
 ## Attacks
 
@@ -236,67 +236,15 @@ Exhaustive Loot Table
 
 This list may be missing items, please help us by filling in the gaps.
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Authority_Commander.md">Authority Commander</a>, <a href="Ignition_Deepdelver.md">Ignition Deepdelver</a>, <a href="Windrunner_Robes.md">Windrunner Robes</a></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li>1 <a href="Crowns.md">Crown</a></li>
-    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Temporal_Crux.md">Temporal Crux</a>, <a href="Ethereal_Bone_Dust.md">Ethereal Bone Dust</a>.</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Kyrsieger.md"><font>Kyrsieger</font></a>, <a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: N/A</li>
-    <li><b>Generic Weapons</b>:
-  <ol>
-    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsblade.md">Kyrsblade</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
-    <li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Railblade.md">Railblade</a>.</li>
-  </ol></li>
-    <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Kyrsmas_Hat.md"><font>Kyrsmas Hat</font></a> (only obtainable during <a href="Kyrsmas.md">Kyrsmas</a>, Deepwoken's Christmas event).</li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
-  <ol>
-    <li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li>
-    <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>.</li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: N/A</li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
-  <ol>
-    <li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li>
-    <li><b>Generic Rings</b>: <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Silver_Ring.md">Silver Ring</a>.</li>
-  </ol></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><a href="Authority_Commander.md">Authority Commander</a>, <a href="Ignition_Deepdelver.md">Ignition Deepdelver</a>, <a href="Windrunner_Robes.md">Windrunner Robes</a></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li>1 <a href="Crowns.md">Crown</a></li><li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Temporal_Crux.md">Temporal Crux</a>, <a href="Ethereal_Bone_Dust.md">Ethereal Bone Dust</a>.</li><li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a>, <a href="Void_Spire.md">Void Spire</a>.</li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Kyrsieger.md"><font>Kyrsieger</font></a>, <a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li><li><b>Alloyed Weapons</b>: N/A</li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li><li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsblade.md">Kyrsblade</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li><li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Railblade.md">Railblade</a>.</li></ol></li><li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>.</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Kyrsmas_Hat.md"><font>Kyrsmas Hat</font></a> (only obtainable during <a href="Kyrsmas.md">Kyrsmas</a>, Deepwoken's Christmas event).</li><li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:<ol><li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li><li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>.</li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: N/A</li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li><li><b>Generic Rings</b>: <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Silver_Ring.md">Silver Ring</a>.</li></ol></li></ul></td></tr></tbody></table>
 
 ## Trivia
 
--   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>).
+-   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](Ethiron.md), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>).
 -   It's heavily implied that it's appearance, consisting of bones, no skin, and large dendrite structures rather than a full brain, is actually the result of a lack of development. Carrion refers to the Scion as a "screaming child" and given the context of its name, the Scion is most likely still in an "infant" stage. Given its feathers and the shape of its skull, a "mature" Scion of Ethiron would likely take the form a bird-like humanoid.
 -   The song that plays during the fight is ELEISON [\[1\]](https://www.youtube.com/watch?v=tbBwELgDPD8&pp=ygUKbmFrdGlnb25pcw%3D%3D) by Naktigonis.
     -   This song gets updated to 11:59 [\[2\]](https://www.youtube.com/watch?v=g4aVbN4nE6U&pp=ygUKbmFrdGlnb25pcw%3D%3D) (also by Naktigonis) for the escape.
 -   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the Restore Rulebook before [being changed in 2023](https://discord.com/channels/920707638034067486/1096623256200560771/1126711224021831821).
 -   The branches on its head are inspired by dendrites in neuron diagrams.
--   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul.md>).
 -   Named "avatar" in the game files.

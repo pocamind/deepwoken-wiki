@@ -50,5 +50,5 @@ This critical has a **3 second cooldown**.
 
 -   This is the first weapon released for the [Jus Karita](Jus_Karita.md) fighting style.
 -   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
--   This weapon is named after [Alsin](Alsin.md), a [Celestial](Celestial.md) that [the Justicars](The_Justicar.md) worship.
+-   This weapon is named after [Alsin](Alsin.md), a [Celestial](Celestial.md) that [the Justicars](The_Justicars.md) worship.
 -   Ironically, this weapon actually has .5 less base damage than Jus Karita.

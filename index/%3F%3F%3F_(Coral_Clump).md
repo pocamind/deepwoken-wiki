@@ -25,31 +25,7 @@ It resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12"><i>*What you thought was a clump of coral begins to move.*</i> Gh... Hail there... come now... Won't you speak wi'h me...?</td>
-</tr>
-<tr>
-  <td colspan="12">Gah! What are you?</td>
-</tr>
-<tr>
-  <td colspan="12">Grgh... Just a talkative stranger, that's all... It's so... Tranquil here... <i>*The creature wheezes as it takes in another breath.*</i> Just watchin' it all go by...</td>
-</tr>
-<tr>
-  <td colspan="12">This is a nightmare.</td>
-</tr>
-<tr>
-  <td colspan="12">No dreams when we're already dead, friend... This is what the Grrrgh... The Gods left us in the end... Come, won't you sit with me?... We have so much talk about...</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i>*What you thought was a clump of coral begins to move.*</i> Gh... Hail there... come now... Won't you speak wi'h me...?</td></tr><tr><td colspan="12">Gah! What are you?</td></tr><tr><td colspan="12">Grgh... Just a talkative stranger, that's all... It's so... Tranquil here... <i>*The creature wheezes as it takes in another breath.*</i> Just watchin' it all go by...</td></tr><tr><td colspan="12">This is a nightmare.</td></tr><tr><td colspan="12">No dreams when we're already dead, friend... This is what the Grrrgh... The Gods left us in the end... Come, won't you sit with me?... We have so much talk about...</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

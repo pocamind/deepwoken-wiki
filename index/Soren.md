@@ -25,7 +25,7 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Soren** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+**Soren** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Trivia
 

@@ -31,34 +31,10 @@ Reva is located inside of the third story of the library at [Alsin's Landing](<A
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>You carry yourself like someone who's seen everything. Good. Use that - guide others.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You carry yourself like someone who's seen everything. Good. Use that - guide others.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>A Voidwalker? I won't pretend that sits well with me. Make yourself scarce, if you know what's good for you.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>A Voidwalker? I won't pretend that sits well with me. Make yourself scarce, if you know what's good for you.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

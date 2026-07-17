@@ -18,7 +18,7 @@ categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that pr
 
 ## Description
 
-Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive debuffing [enchantment](Enchantments.md) that obscures your opponent's UI or causes [Confusion](Status_Effects.md#confusion) in PvE.
+Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive debuffing [enchantment](Enchantment.md) that obscures your opponent's UI or causes [Confusion](Status_Effects.md#confusion) in PvE.
 
 ## Effect
 
@@ -32,4 +32,4 @@ In PvE, Harrowing inflicts the [Confusion](Status_Effects.md#confusion) for 12 s
 -   Confused enemies hitting themselves can proc [Blood Hemorrhaging](Bloodrend.md).
 -   Hovering over your health, posture, and armor bars while Harrowing is active will **not** display their percentages.
 -   If your opponent has the "Stat Bar Behavior" [setting](Settings.md) on "Always," then their health, posture, and armor percentages will be disabled when Harrowing procs, only turning back on if they rejoin, die, or toggle the setting off and back on again; even hovering over the meters will not display their percentage values.
--   Harrowing's effects can be procced on weapon criticals if they have the M1 tag.
+-   Harrowing's effects can be procced on weapon criticals if they have the [M1 tag](M1_tag.md).

@@ -23,7 +23,7 @@ They wear a [Darksteel Plate](Darksteel_Plate.md) and a dyed black [Silver Knigh
 
 ## Moves
 
-Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.md), [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>) or a [Mace](Mace.md):
+Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.md), [Battleaxe](Battleaxe.md), [Sword](Sword.md) or a [Mace](Mace.md):
 
 | Name/Danger | Description |
 | --- | --- |
@@ -45,7 +45,7 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 
  | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
 
-\[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward.  
+\[[Sword](Sword.md)\] Performs a windup before thrusting blade forward.  
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
 -   Battleaxe and Mace criticals are not blockable. Darksteel Greatsword critical deals high posture damage.
@@ -136,7 +136,7 @@ A Blacksteel pirate executes the player after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[[Battleaxe](Battleaxe.md), [Darksteel Greatsword](Darksteel_Greatsword.md) & [Mace](Mace.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
-\[[Sword](<Sword_(weapon).md>) & [Messer](Messer.md)\] Pins down opponent and slices their throat with their blade.
+\[[Sword](Sword.md) & [Messer](Messer.md)\] Pins down opponent and slices their throat with their blade.
 
  |
 | Drown | Since they do not have the Fishman Talent, when you are knocked out in the water, they will spam mantras at you, eventually most

@@ -32,32 +32,8 @@ Corporal Austin is located inside The Three Cheers, sitting at a table across [P
 
 **Neutral Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The brash-voiced soldier sings in a baritone timbre.* WE TRUUUTH UPHOOOLD AAAAAND ALSOO LAWS!</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The brash-voiced soldier sings in a baritone timbre.* WE TRUUUTH UPHOOOLD AAAAAND ALSOO LAWS!</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Bad Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The soldier stops singing as you approach, reaching for his weapon. Might be a good idea to make your leave, before things get ugly.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The soldier stops singing as you approach, reaching for his weapon. Might be a good idea to make your leave, before things get ugly.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

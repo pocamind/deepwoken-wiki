@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 
 ## Description
 
-Nightbringer is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive sustain [enchantment](Enchantments.md) that steals your opponent's Ether on hit.
+Nightbringer is a [Gaunt Man](Gaunt_Man.md)\-exclusive sustain [enchantment](Enchantment.md) that steals your opponent's Ether on hit.
 
 ## Effect
 

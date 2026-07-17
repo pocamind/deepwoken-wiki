@@ -21,7 +21,7 @@ Astaroth, Sinner of Wind, is a powerful [Starkindred](Oath%253A_Starkindred.md) 
 
 ## Moveset
 
-Asraroth's arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Galebreathe](Galebreathe.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
+Asraroth's arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Galebreathe](Galebreathe.md) attunement and [Starkindred](Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

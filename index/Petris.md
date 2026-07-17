@@ -33,19 +33,7 @@ Petris is located in [The City of the Drowned](The_City_of_the_Drowned.md), righ
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Flames will call the Ferryman... That's what they told me... I-... I thought he would give me gifts like the tales of old. That monster...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Flames will call the Ferryman... That's what they told me... I-... I thought he would give me gifts like the tales of old. That monster...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

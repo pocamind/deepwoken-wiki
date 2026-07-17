@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Weapons with Unique Critica
 
 ## Description
 
-The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), known for its iconic curved design resembling a snake.
+The Serpent's Edge is an endgame [Medium Weapon](Weaponry.md#medium-weapons), known for its iconic curved design resembling a snake.
 
 ## Critical
 
@@ -47,7 +47,7 @@ This has a 0.75x scaled damage multiplier per hit.
 
 You can aim each slash by turning your camera, and the critical can be feinted after the first slash.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

@@ -18,7 +18,7 @@ The Fountain Gates inside of Greathive Aratel
 
 ## Overview
 
-Fountain Gates are a sprawling network of teleportation devices invented by [The Hive](The_Hive.md). To gain access to this technology, players must first wash their faces with a fountain located on the far right of [Aratel Island](Aratel_Island.md). After washing their face, all slots will gain access to the Fountain Gates once they enter the [Eastern Luminant](Luminants.md) at least once.
+Fountain Gates are a sprawling network of teleportation devices invented by [The Hive](The_Hive.md). To gain access to this technology, players must first wash their faces with a fountain located on the far right of [Aratel Island](Aratel_Island.md). After washing their face, all slots will gain access to the Fountain Gates once they enter the [Eastern Luminant](Eastern_Luminant.md) at least once.
 
 ### Fountain Gate Locations
 
@@ -37,5 +37,5 @@ The following Fountain Gates that depart from Greathive Aratel:
 2.  [Miner's Landing](<Miner's_Landing.md>) - Middle Left
 3.  [The Lordsgrove](The_Lordsgrove.md) - Center
 4.  [Ancient Rotlands](Ancient_Rotlands.md) - Middle Right
-5.  [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) - Far Right
+5.  [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md) - Far Right
 6.  [Greathive Docks](Greathive_Aratel.md) - Inside [Greathive Aratel](Greathive_Aratel.md) in a room to the left when coming in, labeled "Shipyard."

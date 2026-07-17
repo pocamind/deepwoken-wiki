@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Capran Aphorisms**_ is a [Book](Books.md).
+_**Capran Aphorisms**_ is a [Book](Book.md).
 
 ## Text
 

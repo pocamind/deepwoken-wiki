@@ -17,7 +17,7 @@ categories: [Enemies, The Ministry, Ministry Enemies]
 
 ## Description
 
-Ministry Heartspillers are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md), within [The Depths](First_Layer.md), or rarely at [Starswept Valley](The_Starswept_Valley.md)/Lower Erisia(towerstruck lands). They can be found interrogating a pathfinder hostage.
+Ministry Heartspillers are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md), within [The Depths](First_Layer.md), or rarely at [Starswept Valley](Starswept_Valley.md)/Lower Erisia(towerstruck lands). They can be found interrogating a pathfinder hostage.
 
 In [Vow of Iron](Vow_of_Iron.md), they can rarely appear to ambush the player after completing a job. Their moveset remain the same between both modes.
 

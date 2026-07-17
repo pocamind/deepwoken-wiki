@@ -16,7 +16,7 @@ A solemn sanctuary carved in stone, where warriors hone the dancing steps of war
 
   
 
-**Temple Approach** is a location in _Deepwoken_. It is a landmark of the [Temple of the Blade](Temple_of_the_Blade.md).
+**Temple Approach** is a [location](Locations.md) in _Deepwoken_. It is a landmark of the [Temple of the Blade](Temple_of_the_Blade.md).
 
 ## Overview
 

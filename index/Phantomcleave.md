@@ -35,7 +35,7 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Kata
 | obtainment | Phantom Hunter |
 | description | A simple katana of fine glass, once carried by an esteemed vigil swordsman. Accounts from their crew claim that after an accidental detour into the Voidsea, both swordsman and blade were caught in a strange vortex. Whether the story is true remains unclear. Only the weapon, embedded in the cracked hull, and a handful of dehydrated survivors were recovered, later found washed ashore at the feet of Etris, with no sign of its former master. |
 
-Variants: [Alloyed Katana](Katana.md) · [Withered Phantomcleave](Withered_Phantomcleave.md)
+Variants: [Alloyed Katana](Alloyed_Katana.md) · [Withered Phantomcleave](Withered_Phantomcleave.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
@@ -51,9 +51,9 @@ When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s an
 
 ## Critical
 
-The user sheathes their katana before dashing forward and slashing horizontally. This critical deals **1.1x scaled damage** and procs [Bleed](Status_Effects.md#bleed). This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
+The user sheathes their katana before dashing forward and slashing horizontally. This critical deals **1.1x scaled damage** and procs [Bleed](Bleed.md). This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

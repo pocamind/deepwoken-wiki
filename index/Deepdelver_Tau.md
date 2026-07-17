@@ -33,43 +33,11 @@ Deepdelver Tau can be found at [Miner's Landing](<Miner's_Landing.md>), inside t
 
 **Low Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">The heck're you doing here? Scram!</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">The heck're you doing here? Scram!</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Friend+ Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">Lookin' to head into the mines below? Saramaed has quite the caves beneath it, such that we're still finding all kinds of treasure down there.</td>
-</tr>
-<tr>
-  <td>Enter with others.</td>
-  <td>Enter alone.</td>
-</tr>
-<tr>
-  <td>[A teleportation circle is opened at your feet, teleporting yourself and up to 4 other players into <a href="Saramaed_Hollow.md">Saramaed Hollow</a> after a short delay]</td>
-  <td>[You are instantly teleported into <a href="Saramaed_Hollow.md">Saramaed Hollow</a>]</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Lookin' to head into the mines below? Saramaed has quite the caves beneath it, such that we're still finding all kinds of treasure down there.</td></tr><tr><td>Enter with others.</td><td>Enter alone.</td></tr><tr><td>[A teleportation circle is opened at your feet, teleporting yourself and up to 4 other players into <a href="Saramaed_Hollow.md">Saramaed Hollow</a> after a short delay]</td><td>[You are instantly teleported into <a href="Saramaed_Hollow.md">Saramaed Hollow</a>]</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

@@ -89,7 +89,7 @@ None
 None
 
  | 3 Weeks Namespace Block |
-| **Editor Policy** | Violating the policy of our Wiki whether it was intentional or unintentional. (\*) _Warnings and punishment duration may vary depending on the nature of the violation and are subject to the regulations currently in effect._ | 
+| **Editor Policy** | Violating [the policy](Deepwoken_Wiki%253APolicy.md) of our Wiki whether it was intentional or unintentional. (\*) _Warnings and punishment duration may vary depending on the nature of the violation and are subject to the regulations currently in effect._ | 
 
 3 or \*
 

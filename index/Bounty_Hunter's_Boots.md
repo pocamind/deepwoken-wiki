@@ -39,7 +39,7 @@ Variants: [Garb](<Bounty_Hunter's_Garb.md>)
 
 Mercenary Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Endurance Runner](Talents.md#endurance-runner) Talent lessens the movement speed penalty from being at low health. The [Gunslinger's Fury](Talents.md#gunslingers-fury) Talent grants a new aerial critical attack if you are wielding a Rifle or Pistol with an offhand Pistol equipped. This critical performs the [Soulwrought Gun](Crazy_Slots.md#weapons) special attack.
+The [Endurance Runner](Talents.md#endurance-runner) Talent lessens the movement speed penalty from being at low health. The [Gunslinger's Fury](Talents.md#gunslingers-fury) Talent grants a new aerial critical attack if you are wielding a Rifle or Pistol with an offhand Pistol equipped. This critical performs the [Soulwrought Gun](Soulwrought_Gun.md) special attack.
 
 ## Set Talent
 

@@ -43,7 +43,7 @@ The Regenerative Pendant is an [Equipment](Equipment.md) item under the "Torso" 
 
 The Regenerative Pendant is similar to the [Trueblood Pendant](Trueblood_Pendant.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
 
-The [Blood Pact](Talents.md#blood-pact) Talent gives you [Temporary Health](Status_Effects.md#temporary-health) upon executing or knocking an enemy. Rather than being a separate effect, this adds 50 Temporary Health to any healthpack you obtain, meaning it will only work in scenarios where you would actually gain a healthpack.
+The [Blood Pact](Talents.md#blood-pact) Talent gives you [Temporary Health](Temporary_Health.md) upon executing or knocking an enemy. Rather than being a separate effect, this adds 50 Temporary Health to any healthpack you obtain, meaning it will only work in scenarios where you would actually gain a healthpack.
 
 ## Set Talent
 
@@ -66,12 +66,12 @@ The following sources of healing **can** proc Critical Heal:
 
 -   Any source of 'non-passive' healing, being anything **not** related to passive health regeneration (unexhaustive list below)
     -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
-    -   Instant Health [potions](Alchemy.md)
+    -   Instant Health [potions](Potions.md)
     -   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
-    -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md#parasitic-leech)
-    -   [Bloodtide Ritual](Bloodrend.md#bloodtide-ritual)'s Lifesteal
+    -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Parasitic_Leech.md)
+    -   [Bloodtide Ritual](Bloodtide_Ritual.md)'s Lifesteal
     -   [Multiplicity](Multiplicity.md) Enchantment
-    -   [Flame Wisp](Flamecharm.md#flame-wisp) Healing
+    -   [Flame Wisp](Flame_Wisp.md) Healing
     -   [Phoenix Impact](Talents.md#phoenix-impact)
     -   [Life Leech](Talents.md#life-leech) from [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>)
     -   [Bloodless Gems](Bloodless_Gem.md)

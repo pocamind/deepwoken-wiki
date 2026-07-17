@@ -16,7 +16,7 @@ A common spot for vigils-to-be to test both mettle and metal.
 
   
 
-**Vigil's Mark** is a location in _Deepwoken_. It is a landmark near the [Temple of the Blade](Temple_of_the_Blade.md).
+**Vigil's Mark** is a [location](Locations.md) in _Deepwoken_. It is a landmark near the [Temple of the Blade](Temple_of_the_Blade.md).
 
 ## Overview
 

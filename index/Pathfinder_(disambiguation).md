@@ -30,5 +30,5 @@ A **Pathfinder** are explorers who make a living navigating unknown lands.
 -   [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) - The Uncommon Equipment item under the "Torso" category that gives the [Robber Baron](Talents.md#robber-baron) Talent.
     -   [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) - The Rare Equipment item under the "Torso" category that gives the [Robber Baron](Talents.md#robber-baron) Talent.
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>) - A location found within [Erisia](Erisia.md).
--   [Pathfinders](Glossary.md#pathfinders) - The profession.
+-   [Pathfinders](Pathfinders.md) - The profession.
 -   [Royal Pathfinder](Royal_Pathfinder.md) - The Rare Equipment item under the "Arms" category that gives the [Ready or Not](Talents.md#ready-or-not) Talent.

@@ -59,25 +59,7 @@ A Ghost cannot execute their opponent.
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Player has gripped another player</td>
-  <td>Player has not gripped another player</td>
-</tr>
-<tr>
-  <td>...Did you think we'd forget?</td>
-  <td><i>*The spirit smiles kindly.*</i> ...Remember the dead.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], ghosts attack player</td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td>Player has gripped another player</td><td>Player has not gripped another player</td></tr><tr><td>...Did you think we'd forget?</td><td><i>*The spirit smiles kindly.*</i> ...Remember the dead.</td></tr><tr><td>[End Dialogue], ghosts attack player</td><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

@@ -29,10 +29,10 @@ categories: [Equipment with Styles, Equipment, Head, Equipment of The Central Au
 
 The Inquisitor's Visor is an [Equipment](Equipment.md) item under the "Face" category.
 
-The [Blind Spot](Talents.md#blind-spot) Talent applies [Blinded](Status_Effects.md#blinded) for 5 seconds to opponents when you land a critical attack or the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This has a 15 second cooldown.
+The [Blind Spot](Talents.md#blind-spot) Talent applies [Blinded](Status_Effects.md#blinded) for 5 seconds to opponents when you land a critical attack or the [Hidden Blade](Hidden_Blade.md) Mantra. This has a 15 second cooldown.
 
 ## Trivia
 
 -   Worn by [High Inquisitor Merey](High_Inquisitor_Merey.md) and [High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md). The [Etrean Apostle](Etrean_Apostle.md) wears a vantablack version of the visor.
 -   This is the only equipment that has negative health as a stat.
--   This equipment has the opposite innate stats of the [Citadel Frames](Citadel_Frames.md), which grant +5 Health IconHealth and -1 Posture [IconPosture](Combat_Mechanics.md#posture) instead.
+-   This equipment has the opposite innate stats of the [Citadel Frames](Citadel_Frames.md), which grant +5 Health IconHealth and -1 Posture [IconPosture](Posture.md) instead.

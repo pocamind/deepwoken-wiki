@@ -22,11 +22,11 @@ categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The 
 
 ## Description
 
-Iblis, The Fallen Angel, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md).
+Iblis, The Fallen Angel, is a powerful [Starkindred](Starkindred.md) apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md). He must be defeated to obtain [Starkindred](Starkindred.md).
 
 ## Moveset
 
-Iblis' arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
+Iblis' arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

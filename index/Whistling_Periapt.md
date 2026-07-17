@@ -26,7 +26,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics, Equipment wi
 
 ## Description
 
-The Whistling Periapt, or commonly referred to as Duke Relic, is a [Relic](Relics.md) Torso [Equipment](Equipment.md).
+The Whistling Periapt, or commonly referred to as Duke Relic, is a [Relic](Relic.md) Torso [Equipment](Equipment.md).
 
 When equipped, the gemstone emits constant rays of green light.
 
@@ -45,7 +45,7 @@ Burn damage in PvE combat can also trigger Whistleguard.
 -   It can be dyed, changing the color of the light it produces, however it only gives a tint to the necklace itself, so the green stone stays green.
 -   In March 2024, developer Ragoozer, accidentally or intentionally, dropped it as loot in a [Chime of Conflict](Chime_of_Conflict.md) match.[\[1\]](#cite-note-1)
     -   It was formerly known as the Wind Amulet.
--   Whistleguard is a weaker variant of the [Duke Erisia](Duke_Ishamon_Erisia.md)'s shield of Galebreathe he uses in the first phase of his fight that parries any and all attacks.
+-   Whistleguard is a weaker variant of the [Duke Erisia](Duke_Erisia.md)'s shield of Galebreathe he uses in the first phase of his fight that parries any and all attacks.
 -   This item is able to be passed down to another life and stored in the item bank.
 -   If smelted, cannot be banked (you can still use it as the attributes and bank it).
 -   Whistling Periapt cannot autoparry Vents.

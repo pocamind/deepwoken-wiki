@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-The **Bloodless Gem** is a dark red diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Bloodless Gem** is a dark red diamond-shaped [Deep Gem](Deep_Gem.md).
 
 ## Effect
 
@@ -47,7 +47,7 @@ This has a healing cap of 15 health. Reaching this cap will put Bloodless Gem on
         S c a l e d D a m a g e × 0.8 × 0.67 × 0.3 {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\times 0.3} {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\times 0.3}
     -   With this equipment, you will need to have a scaled damage of 94 or higher to heal more than 15 heath, and a scaled damage of 187 to reach the 30 heal cap.
     -   When paired with the Brain Food Buff, you will need to have a scaled damage of 218 to heal 35 health from Bloodless Gems.
--   The Bloodless Gem effect can be enhanced with the Bloodcurdle and Regenerative Equipment Sets, granting 50% of Bloodless Gem's healing [Temporary Health](Status_Effects.md#temporary-health) when you proc the Gem.
+-   The Bloodless Gem effect can be enhanced with the Bloodcurdle and Regenerative Equipment Sets, granting 50% of Bloodless Gem's healing [Temporary Health](Temporary_Health.md) when you proc the Gem.
 
 ## Crafting
 

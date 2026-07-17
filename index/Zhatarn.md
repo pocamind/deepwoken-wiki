@@ -38,5 +38,5 @@ Many years have passed since then and even many of the [Lightborn](Lightborn.md)
 ## References
 
 1.  ↑ [1.0](#cite-ref-soulthorn-1-0) [1.1](#cite-ref-soulthorn-1-1) [Soulthorn](Soulthorn.md) description
-2.  ↑ [2.0](#cite-ref-kaide-2-0) [2.1](#cite-ref-kaide-2-1) [2.2](#cite-ref-kaide-2-2) [2.3](#cite-ref-kaide-2-3) [2.4](#cite-ref-kaide-2-4) [2.5](#cite-ref-kaide-2-5) [Kaide](Kaide,_the_Drowned_Light.md)'s dialogue if [the Pathfinder](The_Pathfinder.md) has the [Soulthorn](Soulthorn.md) equipped.
+2.  ↑ [2.0](#cite-ref-kaide-2-0) [2.1](#cite-ref-kaide-2-1) [2.2](#cite-ref-kaide-2-2) [2.3](#cite-ref-kaide-2-3) [2.4](#cite-ref-kaide-2-4) [2.5](#cite-ref-kaide-2-5) [Kaide](Kaide.md)'s dialogue if [the Pathfinder](The_Pathfinder.md) has the [Soulthorn](Soulthorn.md) equipped.
 3.  ↑ [3.0](#cite-ref-glossary-3-0) [3.1](#cite-ref-glossary-3-1) [Glossary](Glossary.md): [Zhatarn, the Moonlight Prince](Glossary.md#zhatarn-the-moonlight-prince)

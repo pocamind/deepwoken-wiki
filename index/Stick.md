@@ -40,7 +40,7 @@ Sticks can be used for the following:
 
 -   Crafting a [Glider](Gliders.md) or [Sharkscale Glider](Gliders.md).
 -   Crafting three (3) Sticks together into one (1) [Wood](Wood.md).
--   Crafting three (3) Sticks together into one (1) [Campfire Pit](Campfire_Pit.md).
+-   Crafting three (3) Sticks together into one (1) [Campfire Pit](Campfire.md).
 -   Summoning [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) with ninety nine (99) Sticks.
 -   Brew seemingly useless [potions](Alchemy.md).
 

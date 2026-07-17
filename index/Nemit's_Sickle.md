@@ -50,11 +50,11 @@ Equipping the Nemit's Sickle grants its unique [weapon Talent](Talents.md#weapon
 
 The user winds up for 0.45 seconds and then unleashes a quick upward slash before unleashing a strong side kick, dealing high damage and high posture damage on block. This knocks the target back, even if the move is blocked and deals about 16 posture damage.
 
-The first hit has a 1.2x scaled damage multiplier and applies [Bleed](Status_Effects.md#bleed). The second hit has a scaled damage multiplier of 0.65x.
+The first hit has a 1.2x scaled damage multiplier and applies [Bleed](Bleed.md). The second hit has a scaled damage multiplier of 0.65x.
 
 The critical has a cooldown of **4 seconds**.
 
 ## Trivia
 
--   This weapon serves as an alternate for [Alloyed Tanto](Tanto.md), which is often used as a pseudo medium weapon.
+-   This weapon serves as an alternate for [Alloyed Tanto](Alloyed_Tanto.md), which is often used as a pseudo medium weapon.
 -   Remodeled on [December 24th, 2024](Version_History/2024.md#december-24th-2024) as a part of the World Events update.

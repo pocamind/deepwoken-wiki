@@ -23,16 +23,16 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 ## Description
 
-The **Dread Serpent's Tooth** is used to gain the "[Dread Breath](Monster_Mantras.md#dread-breath)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in Floor 2 of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from a [Dread Serpent](Dread_Serpent.md).
+The **Dread Serpent's Tooth** is used to gain the "[Dread Breath](Dread_Breath.md)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in Floor 2 of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from a [Dread Serpent](Dread_Serpent.md).
 
 ## Uses
 
--   Used to craft the [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) [Outfit](Outfits.md)
+-   Used to craft the [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) [Outfit](Outfit.md)
 
 ### Crafting
 
 -   [Ingredients](Ingredients.md)
-    -   [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md): 1x Dread Serpent's Tooth + 1x [Ethereal Bone Dust](Ethereal_Bone_Dust.md) + 1x [Giant Femur](Giant_Femur.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md)
+    -   [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md): 1x Dread Serpent's Tooth + 1x [Ethereal Bone Dust](Ethereal_Bone_Dust.md) + 1x [Giant Femur](Giant_Femur.md) at the [Lost Forge](Lost_Forge.md)
 
 ## Trivia
 

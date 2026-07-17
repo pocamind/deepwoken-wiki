@@ -27,7 +27,7 @@ The **Shiva's Codex** is an unusable tome Item. Its only use is in crafting [Equ
 
 ## Crafting
 
-The Shiva's Codex can craft into several items using the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Shiva's Codex can craft into several items using the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md)
     -   [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>): [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1x Shiva's Codex

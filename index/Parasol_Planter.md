@@ -35,10 +35,10 @@ Grants the user the [Grotesque Resilience](Talents.md#grotesque-resilience) Uniq
     -   Burn - 50% damage reduction, Bleed - 25% damage reduction
         -   If you are using Flame Within, the DoT damage reduction is reduced to 25%.
 -   Notably, it does not work on all Damage over Time effects.
-    -   It does **not** work on: Damaging [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Viscosity](Viscosity.md), [Deferred](Deferred.md), [Reveal](Oath%253A_Bladeharper.md#reveal), or [Rush Hour](Talents.md#rush-hour).
+    -   It does **not** work on: Damaging [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Viscosity](Viscosity.md), [Deferred](Deferred.md), [Reveal](Reveal.md), or [Rush Hour](Talents.md#rush-hour).
 
 ## Trivia
 
 -   While beat out in terms of raw statistical values for most helmets, such as for pure resistance stats or flat hp, the innate talent is incredible for Bleed and Burn damage reduction, which other helms simply cannot match.
 -   The 25% DoT resistance is great for [Flame Within](Talents.md#flame-within), which gives you a damage and speed bonus in exchange for being set on fire.
--   The Talent, Grotesque Resilience, does not impact any "Over Time" effects except for ones that specifically drain health. This means that effects like [Wither](Status_Effects.md#wither) and Ether Drain are unaffected.
+-   The Talent, Grotesque Resilience, does not impact any "Over Time" effects except for ones that specifically drain health. This means that effects like [Wither](Wither.md) and Ether Drain are unaffected.

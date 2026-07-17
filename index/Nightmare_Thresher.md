@@ -109,11 +109,11 @@ Dodge
 
 ## Passives
 
--   **Thick Hide** - Nightmare Threshers automatically extinguish [burn](Status_Effects.md#burn).
+-   **Thick Hide** - Nightmare Threshers automatically extinguish [burn](Burn.md).
 
 ## Tips
 
--   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzones.md) where the Nightmare Thresher is, you'll be instantly sent to [the depths](The_Depths.md).
+-   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzone.md) where the Nightmare Thresher is, you'll be instantly sent to [the depths](The_Depths.md).
 
 ## Trivia
 

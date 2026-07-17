@@ -142,7 +142,7 @@ Ships can be sold for half of their original price, and the price will be lower 
 
 ## Trivia
 
--   [Food](Food.md) is unable to be cooked using the ship lanterns, nor can [Campfires](Campfire_Pit.md) be placed on ships.
+-   [Food](Food.md) is unable to be cooked using the ship lanterns, nor can [Campfires](Campfire.md) be placed on ships.
     -   The Graceful Flame mantra may still be used on ships with no caveat or risk.
 -   It is recommended to buy a ship like the Merchant Schooner, due to being the earliest with a Lantern and being cheap to repair if broken.
 -   Ironclads are always travelling at max speed, since they don't use flag sails to take advantage of the wind.

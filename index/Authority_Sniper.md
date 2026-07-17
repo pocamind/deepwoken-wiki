@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 Authority Snipers are a type of enemy NPC for the [The Central Authority](The_Central_Authority.md) with an Authority [Thresher](Thresher.md) by its side.
 
-Authority Sniper wear [Citadel Frames](Citadel_Frames.md) with pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and a [Shock Corps Light](Shock_Corps_Light.md) [Outfit](Outfits.md).
+Authority Sniper wear [Citadel Frames](Citadel_Frames.md) with pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and a [Shock Corps Light](Shock_Corps_Light.md) [Outfit](Outfit.md).
 
 ## Moveset
 

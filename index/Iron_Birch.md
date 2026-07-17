@@ -44,7 +44,7 @@ The Iron Birch is a [Heavy](Weapons.md) axe. This weapon is considered one of th
 
 Equipping the Iron Birch grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Expeditious Combo** procs after landing an Uppercut, granting the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect to the user for 15 seconds. Casting [Onslaught](Attunement-less.md#onslaught) during the duration of this effect will consume your Expeditious Combo status, increasing the speed of your Onslaught by 30% in return.
+**Expeditious Combo** procs after landing an Uppercut, granting the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect to the user for 15 seconds. Casting [Onslaught](Onslaught.md) during the duration of this effect will consume your Expeditious Combo status, increasing the speed of your Onslaught by 30% in return.
 
 This effect has no cooldown. "Uppercut" or "uptilt" Mantras do not proc this effect; you need to land a basic attack uppercut to gain the Expeditious Combo Status Effect.
 

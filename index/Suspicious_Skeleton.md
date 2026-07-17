@@ -20,22 +20,4 @@ The Suspicious Skeleton is a pile of bones located near the Blacksmith in [The F
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>They used to call me The Bone Rattler. I got fired from my bone rattling job, so now I'm just suspicious.</td>
-</tr>
-<tr>
-  <td>Tough luck.</td>
-</tr>
-<tr>
-  <td>Yeah. Watch your back, buddy. They'll rattle you too one day.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>They used to call me The Bone Rattler. I got fired from my bone rattling job, so now I'm just suspicious.</td></tr><tr><td>Tough luck.</td></tr><tr><td>Yeah. Watch your back, buddy. They'll rattle you too one day.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

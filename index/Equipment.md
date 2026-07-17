@@ -42,120 +42,9 @@ Additionally, Head, Legs, and Arms equipment gain +1 Health for every quality st
 
 The following table showcases the net gain of Pips, Health, and sell cost compared to a 0 starred variant of the same equipment. These are not cumulative increases.
 
-<table><caption>Quality Star info</caption>
-<tbody>
-<tr>
-  <th>Gain</th>
-  <th>★</th>
-  <th>★★</th>
-  <th>★★★</th>
-</tr>
-<tr>
-  <td>Pips</td>
-  <td>+1 Rare Pip</td>
-  <td>+2 Rare Pips</td>
-  <td>+2 Rare Pips, +1 Legendary Pip</td>
-</tr>
-<tr>
-  <td>Health<br>
-  <small>(Exclusive to Head, Arms, and Legs Equipment)</small></td>
-  <td>+1 Health</td>
-  <td>+2 Health</td>
-  <td>+3 Health</td>
-</tr>
-<tr>
-  <td>Sell Value</td>
-  <td>+5</td>
-  <td>+20</td>
-  <td>+50</td>
-</tr>
-</tbody>
-</table>
+<table><caption>Quality Star info</caption><tbody><tr><th>Gain</th><th>★</th><th>★★</th><th>★★★</th></tr><tr><td>Pips</td><td>+1 Rare Pip</td><td>+2 Rare Pips</td><td>+2 Rare Pips, +1 Legendary Pip</td></tr><tr><td>Health<br><small>(Exclusive to Head, Arms, and Legs Equipment)</small></td><td>+1 Health</td><td>+2 Health</td><td>+3 Health</td></tr><tr><td>Sell Value</td><td>+5</td><td>+20</td><td>+50</td></tr></tbody></table>
 
-<table><caption>Pips Info</caption>
-<tbody>
-<tr>
-  <th>Buffs</th>
-  <th>Head</th>
-  <th>Arms</th>
-  <th>Legs</th>
-  <th>Torso</th>
-  <th>Face</th>
-  <th>Ears</th>
-  <th>Rings</th>
-</tr>
-<tr>
-  <td>Health (HP)</td>
-  <td>4 4 5</td>
-  <td>3 4 4 5</td>
-  <td>4 4 5</td>
-  <td>3 4 5</td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td>2 3 4</td>
-</tr>
-<tr>
-  <td>Ether (ETH)</td>
-  <td>8 10 12</td>
-  <td>8 10 12</td>
-  <td>8 10 12</td>
-  <td>8 10 12</td>
-  <td>4 6 8</td>
-  <td>4 8</td>
-  <td>4 6 8 10</td>
-</tr>
-<tr>
-  <td>Sanity (SAN) (also grants 2/4/6/8 Ether)</td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td>4 6</td>
-  <td>6</td>
-  <td>4 6 8</td>
-</tr>
-<tr>
-  <td>Posture</td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td>1 2</td>
-</tr>
-<tr>
-  <td>%Physical Armor (PHY Armor)</td>
-  <td>2 4</td>
-  <td>2 4</td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-</tr>
-<tr>
-  <td>%Elemental Armor (ELM Armor)</td>
-  <td>3 4</td>
-  <td>3 4</td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-</tr>
-<tr>
-  <td>Anchor (+3 HP, +0.5 Pos, +10% KB Res)</td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td>1</td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-  <td><center>N/A</center></td>
-</tr>
-</tbody>
-</table>
+<table><caption>Pips Info</caption><tbody><tr><th>Buffs</th><th>Head</th><th>Arms</th><th>Legs</th><th>Torso</th><th>Face</th><th>Ears</th><th>Rings</th></tr><tr><td>Health (HP)</td><td>4 4 5</td><td>3 4 4 5</td><td>4 4 5</td><td>3 4 5</td><td><center>N/A</center></td><td><center>N/A</center></td><td>2 3 4</td></tr><tr><td>Ether (ETH)</td><td>8 10 12</td><td>8 10 12</td><td>8 10 12</td><td>8 10 12</td><td>4 6 8</td><td>4 8</td><td>4 6 8 10</td></tr><tr><td>Sanity (SAN) (also grants 2/4/6/8 Ether)</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td>4 6</td><td>6</td><td>4 6 8</td></tr><tr><td>Posture</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td>1 2</td></tr><tr><td>%Physical Armor (PHY Armor)</td><td>2 4</td><td>2 4</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td></tr><tr><td>%Elemental Armor (ELM Armor)</td><td>3 4</td><td>3 4</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td></tr><tr><td>Anchor (+3 HP, +0.5 Pos, +10% KB Res)</td><td><center>N/A</center></td><td><center>N/A</center></td><td>1</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td></tr></tbody></table>
 
   
 _If you believe any information is outdated, report it in our [Discord server](https://discord.com/invite/deepwoken-wiki-768105926351650866)._  
@@ -761,7 +650,7 @@ Torso: [Monastery Beads](Monastery_Beads.md)
 (**Series**)  
 (**Hallowtide**)  
 (**Legendary**) | N/A | Variants:  
-[Mushroom](Mushroom_Costume.md), [Glowshroom](Mushroom_Costume.md), [Metalshroom](Mushroom_Costume.md), [Charmshroom](Mushroom_Costume.md), & [Zapshroom](Mushroom_Costume.md) |
+[Mushroom](Mushroom_Costume.md), [Glowshroom](Glowshroom_Costume.md), [Metalshroom](Metalshroom_Costume.md), [Charmshroom](Charmshroom_Costume.md), & [Zapshroom](Zapshroom_Costume.md) |
 |  | [Necrotic Cowl](Necrotic_Cowl.md)  
 (**Set**) | _+5% Shadow Armor_  
 _+6% Stealth_
@@ -2116,7 +2005,7 @@ _+1 Posture_
 **Requires Power 5**
 
  | Variants:  
-[Summer](Summer_Scarf.md), [Threadwork](Summer_Scarf.md) |
+[Summer](Summer_Scarf.md), [Threadwork](Threadwork_Summer_Scarf.md) |
 |  | [Terraplate Pauldrons](Terraplate_Pauldrons.md) | +2 Rare Pips  
 +1 Legendary Pip
 
@@ -3354,7 +3243,7 @@ Black, Amber & Azure
 
   
 Variants:  
-[Round](Citadel_Frames.md) & [Browline](Citadel_Frames.md)
+[Round](Round_Citadel_Frames.md) & [Browline](Browline_Citadel_Frames.md)
 
  |
 |  | [Demon Mask](Demon_Mask.md)  
@@ -3645,7 +3534,7 @@ Innate Effects
  |
 | --- | --- | --- |
 |  | [Akira's Ring](<Akira's_Ring.md>)  
-(**Legendary**) | Gives every weapon 1.2 Willpower scaling when equipped. This effect will scale down if you have more than one Scaling Ring equipped.
+(**Legendary**) | Gives every weapon 1.2 Willpower scaling when equipped. This effect will scale down if you have more than one [Scaling Ring](Scaling_Rings.md) equipped.
 
   
 +1 Legendary Pip
@@ -3678,7 +3567,7 @@ _+2% Physical Armor_
 
  |
 |  | [Bone Ring](Bone_Ring.md)  
-(**Relic**) | Increases the damage of [Osseous Surge](Talents.md#osseous-surge) and [Brachial Spear](Monster_Mantras.md#brachial-spear). [Bone Wisp](Monster_Mantras.md#bone-wisp) gains additional charges and has its cooldown reduced to 1 second.
+(**Relic**) | Increases the damage of [Osseous Surge](Talents.md#osseous-surge) and [Brachial Spear](Brachial_Spear.md). [Bone Wisp](Bone_Wisp.md) gains additional charges and has its cooldown reduced to 1 second.
 
   
 +1 Uncommon Pip  
@@ -3707,7 +3596,7 @@ _+2% Physical Armor_
 
  |
 |  | [Dawnfist's Ring](<Dawnfist's_Ring.md>)  
-(**Legendary**) | Gives every weapon 1.2 strength scaling when equipped. This effect will scale down if you have more than one Scaling Ring equipped.
+(**Legendary**) | Gives every weapon 1.2 strength scaling when equipped. This effect will scale down if you have more than one [Scaling Ring](Scaling_Rings.md) equipped.
 
   
 +1 Legendary Pip
@@ -3781,7 +3670,7 @@ _+2% Lightning Armor_
 
  |
 |  | [Maestro's Ring](<Maestro's_Ring.md>)  
-(**Legendary**) | Gives every weapon 1.2 agility scaling when equipped. This effect will scale down if you have more than one Scaling Ring equipped.
+(**Legendary**) | Gives every weapon 1.2 agility scaling when equipped. This effect will scale down if you have more than one [Scaling Ring](Scaling_Rings.md) equipped.
 
   
 +1 Legendary Pip
@@ -3795,14 +3684,14 @@ _+2% Lightning Armor_
 
  |
 |  | [Pariah's Keepsake](<Pariah's_Keepsake.md>) | Deal +20% extra damage to NPCs from factions that hate you. |
-|  | [Poser's Ring](<Poser's_Ring.md>) | Damage dealt from the [Katana](Katana.md), [Alloyed Katana](Katana.md), and [Shattered Katana](Shattered_Katana.md) is stored until the player sheathes their weapon. Damage stored is pre-calculated with all resistances and modifiers applied. The sheathe cannot be directly buffed.
+|  | [Poser's Ring](<Poser's_Ring.md>) | Damage dealt from the [Katana](Katana.md), [Alloyed Katana](Alloyed_Katana.md), and [Shattered Katana](Shattered_Katana.md) is stored until the player sheathes their weapon. Damage stored is pre-calculated with all resistances and modifiers applied. The sheathe cannot be directly buffed.
 
 Cannot deal more than 70% of a player's maximum health in one sheathe.  
 +1 Rare Pip
 
  |
 |  | [Prophet's Ring](<Prophet's_Ring.md>)  
-(**Legendary**) | Gives every weapon 1.2 charisma scaling when equipped. This effect will scale down if you have more than one Scaling Ring equipped.
+(**Legendary**) | Gives every weapon 1.2 charisma scaling when equipped. This effect will scale down if you have more than one [Scaling Ring](Scaling_Rings.md) equipped.
 
   
 +1 Legendary Pip
@@ -3834,7 +3723,7 @@ Cannot deal more than 70% of a player's maximum health in one sheathe.
 
  |
 |  | [Rosen's Ring](<Rosen's_Ring.md>)  
-(**Legendary**) | Gives every weapon 1.2 intelligence scaling when equipped. This effect will scale down if you have more than one Scaling Ring equipped.
+(**Legendary**) | Gives every weapon 1.2 intelligence scaling when equipped. This effect will scale down if you have more than one [Scaling Ring](Scaling_Rings.md) equipped.
 
   
 +1 Legendary Pip
@@ -3876,14 +3765,14 @@ _+2% Wind Armor_
 ## Trivia
 
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   If you want to wear a specific equipment piece, but it has awful stats, you can [smelt](Transmogrification.md) something with good stats and apply the piece you want to wear as vanity.
--   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in [Verse One](Verse_1.md). There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
+-   If you want to wear a specific equipment piece, but it has awful stats, you can [smelt](Smelting.md) something with good stats and apply the piece you want to wear as vanity.
+-   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in [Verse One](Verse_One.md). There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Highest theoretical **Stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% [Shrouded Cape](Shrouded_Cape.md), 6% [Duelist Mask](Duelist_Mask.md), 3% [Master Thief Earrings](Master_Thief_Earrings.md)/[Ossified Blood Earrings](Ossified_Blood_Earrings.md))
     -   These will grant a total of 36% Stealth instead if the player is a [Felinor](Felinor.md).
--   Highest theoretical **Ether** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH Scaling Rings/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
+-   Highest theoretical **Ether** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH [Scaling Rings](Scaling_Rings.md)/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
 -   Highest theoretical **Posture** kit is 22.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Legion Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 1 Posture [Inquisitor's Visor](<Inquisitor's_Visor.md>), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
     -   Conversely, the lowest **Posture** you can have on any character is 17, with [Citadel Frames](Citadel_Frames.md) and [Dark Pearls](Dark_Pearls.md).
--   Highest theoretical **Health** kit in game is 185 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 26 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP Scaling Ring/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
+-   Highest theoretical **Health** kit in game is 185 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 26 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP [Scaling Ring](Scaling_Rings.md)/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
 -   Having multiple pieces of equipment with [Drowned](Drowned.md) **does not increase your stats further**.
 -   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

@@ -44,4 +44,4 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 ## Trivia
 
 -   Some [Monsters](Monsters.md) can get dragged into Whirlpools.
--   Driving [Boats](Ships_&_Sailing.md) into a whirlpool will result in the boat sinking and being destroyed.
+-   Driving [Boats](Boats.md) into a whirlpool will result in the boat sinking and being destroyed.

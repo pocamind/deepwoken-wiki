@@ -113,90 +113,15 @@ Nostor executes their opponent after knocking them:
 
 **Quest Start:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Creeping... Crawling... Spreading... There is no pathogen within your heart.</td>
-</tr>
-<tr>
-  <td colspan="12">What do you mean?</td>
-</tr>
-<tr>
-  <td colspan="12">The dark longs to spread forth, blocking all light. Will you let it infest you, becoming a Shadowcaster?</td>
-</tr>
-<tr>
-  <td colspan="12">Yes, what would you have me do?</td>
-</tr>
-<tr>
-  <td colspan="12">Bring me 5 Umbral Obsidians, Then we can continue.</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Creeping... Crawling... Spreading... There is no pathogen within your heart.</td></tr><tr><td colspan="12">What do you mean?</td></tr><tr><td colspan="12">The dark longs to spread forth, blocking all light. Will you let it infest you, becoming a Shadowcaster?</td></tr><tr><td colspan="12">Yes, what would you have me do?</td></tr><tr><td colspan="12">Bring me 5 Umbral Obsidians, Then we can continue.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 **Quest Completed:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Have you done what I asked?</td>
-</tr>
-<tr>
-  <td colspan="6">Here. (Sufficient Umbral Obsidians)</td>
-  <td colspan="6">Here. (No Umbral Obsidians)</td>
-</tr>
-<tr>
-  <td colspan="6">*They take the slick stones and crush each of them into a glass vial, brittle shards falling in.*</td>
-  <td colspan="6">Hm. You have not brought me the 5 Umbral Obsidians I require to assist you...</td>
-</tr>
-<tr>
-  <td colspan="6">What is that you're doing?</td>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
-</tr>
-<tr>
-  <td colspan="6">The vial I gave you. You must drink it.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Have you done what I asked?</td></tr><tr><td colspan="6">Here. (Sufficient Umbral Obsidians)</td><td colspan="6">Here. (No Umbral Obsidians)</td></tr><tr><td colspan="6">*They take the slick stones and crush each of them into a glass vial, brittle shards falling in.*</td><td colspan="6">Hm. You have not brought me the 5 Umbral Obsidians I require to assist you...</td></tr><tr><td colspan="6">What is that you're doing?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td></tr><tr><td colspan="6">The vial I gave you. You must drink it.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">The miasma spreads to every surface, smothering all light. Do you seek to grow?</td>
-</tr>
-<tr>
-  <td colspan="6">Yes, I have. (Mantras Available)</td>
-  <td colspan="6">Yes, I have. (Mantras Unavailable or all Shadowcast Mantras maxed)</td>
-</tr>
-<tr>
-  <td colspan="6">(The Mantra leveling UI appears)</td>
-  <td colspan="6">The shadow retreats for now, safe from the oppressive light...</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">The miasma spreads to every surface, smothering all light. Do you seek to grow?</td></tr><tr><td colspan="6">Yes, I have. (Mantras Available)</td><td colspan="6">Yes, I have. (Mantras Unavailable or all Shadowcast Mantras maxed)</td></tr><tr><td colspan="6">(The Mantra leveling UI appears)</td><td colspan="6">The shadow retreats for now, safe from the oppressive light...</td></tr><tr><td colspan="6">[End Dialogue]</td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

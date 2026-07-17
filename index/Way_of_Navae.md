@@ -51,7 +51,7 @@ This attack has a **5 second cooldown**.
 
 To obtain it, you must find a [Navaen Hostage](Navaen_Hostage.md). They are mostly found in [Erisia](Erisia.md) but it is also possible to find them in [Fort Merit](Fort_Merit.md). Once you've acquired one, you can bring them back to either one of these NPCs:
 
--   [Eastern Camp Master](Cheral.md) at [Etrean Wilds](Etrean_Wilds.md)
+-   [Eastern Camp Master](Eastern_Camp_Master.md) at [Etrean Wilds](Etrean_Wilds.md)
 -   [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md)
 
 It may also be obtained by speaking to an [Eastern Nomad Leader](Eastern_Nomad_Leader.md) with high positive reputation with [The Children of Navae](The_Children_of_Navae.md), granting you the Fist Style without having to find and rescue a [Navaen Hostage](Navaen_Hostage.md).

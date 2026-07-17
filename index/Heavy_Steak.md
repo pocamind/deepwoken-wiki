@@ -27,7 +27,7 @@ categories: [Food]
 
 **Heavy Steak** is a craftable [Food](Food.md) item. It is the result of cooking [Raw Heavy Meat](Raw_Heavy_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
 
 ### Effect
 

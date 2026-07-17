@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Ouroboral Husk** is a consumable [Relic](Relics.md) with **10 uses**. Ouroboral Husk's usage is teleporting you to [Saramaed Summit](Saramaed_Summit.md) or [Saramaed Hollow](Saramaed_Hollow.md). Short cooldown upon usage.
+The **Ouroboral Husk** is a consumable [Relic](Relic.md) with **10 uses**. Ouroboral Husk's usage is teleporting you to [Saramaed Summit](Saramaed_Summit.md) or [Saramaed Hollow](Saramaed_Hollow.md). Short cooldown upon usage.
 
 Upon usage, the user will be prompted to select a location:
 

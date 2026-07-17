@@ -83,9 +83,9 @@ Permanent + Freshie = Permafreshie
 _noun_, _verb_
 
 1.  Noun: Shortened form of "Progession" of your character. Verb: Shortened form of the act of "progressing" your character. Usually used in the terms of [Powering](Power.md)/Leveling up a character or a character's build.
-    1.  Ex. "I'm progging in [starswept](The_Starswept_Valley.md) right now, wanna come with me so we can take on the big quests like [thresher regicide](King_Thresher.md)?"
-2.  Progression/Progressing outside of [Powering](Power.md)/Leveling up, be it the progression of an [Oath](Oaths.md) or etc.
-    1.  Ex. "I really hate [Authority Ensign](Authority_Ensign.md)'s prog. It's so boring and tedious! It's almost as worse as progging [Blightsurger](Oath%253A_Blightsurger.md). Almost."
+    1.  Ex. "I'm progging in [starswept](The_Starswept_Valley.md) right now, wanna come with me so we can take on the big quests like [thresher regicide](Thresher_Regicide.md)?"
+2.  Progression/Progressing outside of [Powering](Power.md)/Leveling up, be it the progression of an [Oath](Oath.md) or etc.
+    1.  Ex. "I really hate [Authority Ensign](Authority_Ensign.md)'s prog. It's so boring and tedious! It's almost as worse as progging [Blightsurger](Blightsurger.md). Almost."
 
 ## Location Terms
 
@@ -95,8 +95,8 @@ These are terms that refer to the different locations and may be official or pla
 
 _noun_
 
-1.  Refers to places above [The Depths](The_Depths.md). This is usually means the [Etrean Luminant](Luminants.md) and [Eastern Luminant](Luminants.md), as these are the only locations accessible to the player outside of the depths.
-    1.  Ex. "I'm back at the overworld. That [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) was tough. I had to fight a [Corrupted](Monsters.md#scyphozia) [Flamewreathed](Monsters.md#attuned-monsters) [Sharko](#sharko) that didn't have its animations loaded yet while [preshrine](#pre-shrine-pre) with 1 [weapon](Weapons.md) [investment](Attributes.md#weapon-attributes) and no [mantras](Mantras.md) having only 50% health leftover after escaping from a [depths ganker](#depths-gankdepths-ganker) in a 480 ping server because I live in South Africa. Anyways, where are you?"
+1.  Refers to places above [The Depths](The_Depths.md). This is usually means the [Etrean Luminant](Etrean_Luminant.md) and [Eastern Luminant](Eastern_Luminant.md), as these are the only locations accessible to the player outside of the depths.
+    1.  Ex. "I'm back at the overworld. That [Depths Trial](Depths_Trial.md) was tough. I had to fight a [Corrupted](Corrupted_Monsters.md) [Flamewreathed](Attuned_Monsters.md) [Sharko](#sharko) that didn't have its animations loaded yet while [preshrine](#pre-shrine-pre) with 1 [weapon](Weapons.md) [investment](Attributes.md#weapon-attributes) and no [mantras](Mantras.md) having only 50% health leftover after escaping from a [depths ganker](#depths-gankdepths-ganker) in a 480 ping server because I live in South Africa. Anyways, where are you?"
     2.  Ex. "Meet me in the overworld. I'll be going up first."
 
 ## Combat Terms
@@ -193,7 +193,7 @@ _verb, adjective_
 _verb, noun_
 
 1.  Abilities/moves that allow the user to negate an attack and automatically retaliate, without the use of blocking, parrying or dodging.
-    1.  Ex. the following Mantras: [Prediction](Attunement-less.md#prediction), [Punishment](Attunement-less.md#punishment), and [Equalizer](Oath%253A_Contractor.md#equalizer) are all **Counters**.
+    1.  Ex. the following Mantras: [Prediction](Prediction.md), [Punishment](Punishment.md), and [Equalizer](Equalizer.md) are all **Counters**.
 2.  (Counterplay) To be an effective strategy against something in combat.
     1.  Ex. "What counters Jetstrikers?"
 
@@ -448,7 +448,7 @@ In lore, resonances are not strictly bells, though these are the only ones we se
 
 _verb_
 
-1.  To check if one has enough [Resonance Progress](Resonance.md#bell-progress) to unlock a [Resonance](Resonance.md) through dying, most often done either alone with fall damage, in Layer 2 with a Light Hook, or with friends.
+1.  To check if one has enough [Resonance Progress](Resonance_Progress.md) to unlock a [Resonance](Resonance.md) through dying, most often done either alone with fall damage, in Layer 2 with a Light Hook, or with friends.
 
 #### Bell-pop
 
@@ -567,7 +567,7 @@ _verb_
 
 _noun_
 
-1.  The floor of the [first](First_Layer.md) or [second layer](Second_Layer.md) of [The Depths](The_Depths.md) that's able to kill a player if they fall onto it.
+1.  The floor of the [first](Scyphozia.md) or [second layer](The_Eternal_Gale.md) of [The Depths](The_Depths.md) that's able to kill a player if they fall onto it.
     1.  Ex. "Lol i just knocked that guy into the void"
 2.  The out-of-bounds bottom of the [overworld](#overworld) that when touched will respawn the player.
 
@@ -607,13 +607,13 @@ _noun_
 
 _noun_
 
-1.  Refers to [Primadon](Primadon,_Titan_of_the_East.md).
+1.  Refers to [Primadon](Primadon.md).
 
 ### Prima
 
 _noun_
 
-1.  Short form of [Primadon](Primadon,_Titan_of_the_East.md).
+1.  Short form of [Primadon](Primadon.md).
 
 ### Sharko
 
@@ -644,14 +644,14 @@ _noun, verb_
 
 _noun_
 
-1.  A build that requires use of the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) below Power 8 in order to then use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+1.  A build that requires use of the [Shrine of Blasphemy](Shrine_of_Blasphemy.md) below Power 8 in order to then use the [Shrine of Order](Shrine_of_Order.md).
     1.  Ex. "This is a blasphemy build you have to use the blasphemy before you order."
 
 ### Chase
 
 _noun, verb_
 
-1.  How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. Examples of chase Talents and Mantras are: [Revenge](Attunement-less.md#revenge), [Encircle](Shadowcast.md#encircle), Pursuit, Crippling Comeuppance, etc.
+1.  How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. Examples of chase Talents and Mantras are: [Revenge](Revenge.md), [Encircle](Encircle.md), Pursuit, Crippling Comeuppance, etc.
 
 ### Godroll
 
@@ -696,12 +696,12 @@ _noun_
 
 _verb_
 
-1.  To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) available to use starting at Power 8 commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
+1.  To use the [Shrine of Order](Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) available to use starting at Power 8 commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
     1.  "Is it ok to shrine at power 14?"
 
 _noun_
 
-1.  Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+1.  Shorthand for the [Shrine of Order](Shrine_of_Order.md).
 
 [Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are almost always referred to with their full name.
 
@@ -709,23 +709,23 @@ _noun_
 
 _adjective, noun_
 
-1.  Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Shrine_of_Order.md).
     1.  Ex. "Is 60 strength postshrine good?"
 
 #### Pre-Shrine, Pre
 
 _adjective, noun_
 
-1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Shrine_of_Order.md).
     1.  Ex. "I always run 80 willpower preshrine"
 
 #### Shrine down
 
 _verb_
 
-1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+1.  To reduce a stat using the [Shrine of Order](Shrine_of_Order.md).
     1.  Ex. "I shrined down agility"
-2.  (rarely) To reduce a stat using the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
+2.  (rarely) To reduce a stat using the [Shrine of Mastery](Shrine_of_Mastery.md).
     1.  Ex. "Why can't I shrine down my strength?"
 
 ### Sustain
@@ -739,7 +739,7 @@ _noun, verb_
 
 _noun_
 
-1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, most commonly used to prevent teammates from being gripped and to get both players out of danger.
+1.  A type of build, usually using the [Jetstriker](Jetstriker.md) Oath, that specializes in movement speed, most commonly used to prevent teammates from being gripped and to get both players out of danger.
     1.  Ex. "I hate trackstar builds, they're so annoying!!!"
 
 ### Vantablack
@@ -795,7 +795,7 @@ _noun_
 
 _noun_
 
-1.  Abbreviation for [All the Dead Gods](Talents.md#all-the-dead-gods), a Talent that causes your M1s to apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds, which disables almost all forms of healing.
+1.  Abbreviation for [All the Dead Gods](Talents.md#all-the-dead-gods), a Talent that causes your M1s to apply [Anti-Heal](Anti-Heal.md) for 8 seconds, which disables almost all forms of healing.
 
 ### Attless
 
@@ -833,7 +833,7 @@ Not to be confused with the verb outside of Deepwoken _to clog_.
 _noun_
 
 1.  Shorthand for [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
-    1.  Ex. "Be careful at crypt, it's a [voidzone](Voidzones.md)"
+    1.  Ex. "Be careful at crypt, it's a [voidzone](Voidzone.md)"
 2.  Shorthand for [Crypt Blade](Crypt_Blade.md).
     1.  Ex. "I'm gonna make a crypt build"
 
@@ -879,7 +879,7 @@ _noun_
 
 _noun_
 
-1.  Abbreviation for [Greatsword](Greatswords.md).
+1.  Abbreviation for Greatsword.
 
 ### HB
 
@@ -971,7 +971,7 @@ _noun_
 
 _noun_
 
-1.  Abbreviation for [A World Without Song](Talents.md#a-world-without-song), a [Galebreathe](Galebreathe.md) Talent that causes every 3 hits with a Galebreathe Mantra to apply [Suffocate](Status_Effects.md#suffocate).
+1.  Abbreviation for [A World Without Song](Talents.md#a-world-without-song), a [Galebreathe](Galebreathe.md) Talent that causes every 3 hits with a Galebreathe Mantra to apply [Suffocate](Suffocate.md).
 
 ## For Editors
 

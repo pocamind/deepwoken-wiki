@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | allowed weapons | Sword |
 | starting weapons | Soulthorn |
 
-_This page is about the Vow of Iron [Memento](Mementos.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
+_This page is about the Vow of Iron [Memento](Memento.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -35,7 +35,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Prince of the Moon** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento is obtained by defeating all three progression bosses while having the [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent, which permanently applies tier three [Insanity](Insanity.md). The Blessing of the Moon Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>). A visual feature this memento bears is that your skin is always pale white, with gray Sclera, white Pupils and black hair.
+**Prince of the Moon** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento is obtained by defeating all three progression bosses while having the [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent, which permanently applies tier three [Insanity](Insanity.md). The Blessing of the Moon Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>). A visual feature this memento bears is that your skin is always pale white, with gray Sclera, white Pupils and black hair.
 
 **If you unequip your [Soulthorn](Soulthorn.md), you will not be able to re-equip it.**
 
@@ -234,7 +234,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Has a windup of 0.45 seconds with a 0.4 second delay before the second hit. Has a 12 second cooldown.
 -   The "second hit" does not deal damage and does not grant parry stun to the user if it is parried.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
--   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the size of the eruption.
+-   [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) increase the size of the eruption.
 
  |
 
@@ -397,9 +397,9 @@ Shadow [ResistanceShadowcast](Shadowcast.md), Blunt ResistanceBlunt (Slam)
 -   Deals 5 posture damage.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
--   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase range.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
+-   [Drift](Drift_Shard.md) and [Rush Shards](Rush_Shard.md) increase projectile speed.
+-   [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) increase range.
+-   Can be modified with a [Blast Spark](Blast_Spark.md), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
 
  |
 
@@ -414,7 +414,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md), Blunt ResistanceBlunt (Slam)
             -   Game determines user's location 0.4 seconds late, using it airborne can drag targets upwards.
         -   **Movestack**: Using a mantra at the _very first moment_ after a flourish let's you movestack it.
     -   "**Crushing Kick**" is activated after pulling targets by M1ing dealing 46 Oath damage and 25 posture.
-        -   0.45s windup, [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
+        -   0.45s windup, [True Hyperarmor](True_Hyperarmor.md) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
             -   Has a 360° hitbox, can't be whiffed by turning around, but you can kick targets back to you.
         -   Using the kick too quickly will have increased endlag, due to the Pull's endlag.
         -   **Movestack**: Using The Kick at the _very last moment_ provides a small movestack with mantras/attacks.
@@ -492,8 +492,8 @@ Oath [ResistanceOath](Oaths.md)
 -   **Enchained variant** creates AOE explosions centered at _all_ Enchained targets, ragdolling/flinging them, and dealing 37 damage and 15 posture.
     -   Inflicts _**anti-roll**_ for 1.35 seconds similar to [Frozen Legs](Talents.md#frozen-legs), allowing for true combos with mantras.
     -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
-        -   You can [wallbang](Status_Effects.md#true-daze) off the environment, jumping above targets while using the mantra can [wallbang](Status_Effects.md#true-daze) off the ground.
-    -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
+        -   You can [wallbang](True_Daze.md) off the environment, jumping above targets while using the mantra can [wallbang](True_Daze.md) off the ground.
+    -   Adding a [Reversal Spark](Reversal_Spark.md), will prevent [wallbangs](True_Daze.md), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
     -   Has hyperarmor on its second chained hit.
 -   Has a cooldown of 15 seconds.
 

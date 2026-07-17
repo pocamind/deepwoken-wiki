@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Stone is a damage dealing [enchantment](Enchantments.md) that adds damage to your weapon attacks that guardbreak.
+Stone is a damage dealing [enchantment](Enchantment.md) that adds damage to your weapon attacks that guardbreak.
 
 ## Effect
 

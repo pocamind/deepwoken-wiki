@@ -62,65 +62,7 @@ Eliminated players have a chance of spawning chests where they were standing. Ad
 
 Exhaustive Loot Table
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td>
-  <ul>
-    <li><b>Adept</b>: <a href="Carefree_Garments.md">Carefree Garments</a></li>
-    <li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a></li>
-    <li><b>Unique</b>: <a href="Cindergarb.md"><font>Cindergarb</font></a>, <a href="Icebringer's_Vestments.md"><font>Icebringer's Vestments</font></a>, <a href="Jade_Vigil's_Weave.md"><font>Jade Vigil's Weave</font></a> <a href="Jester's_Garb.md"><font>Jester's Garb</font></a>, <a href="Sanguine_Finery.md"><font>Sanguine Finery</font></a>, <a href="Stormchanter's_Raiments.md"><font>Stormchanter's Raiments</font></a>, <a href="Tempestmaker's_Threads.md"><font>Tempestmaker's Threads</font></a>, <a href="Trickster's_Habit.md"><font>Trickster's Habit</font></a>, <a href="Vigil_Sentinel.md"><font>Vigil Sentinel</font></a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Trickster_Dust.md">Trickster Dust</a>, <a href="Void_Spire.md">Void Spire</a></li>
-    <li><a href="Items.md">Items</a>: <a href="Cake.md">Cake</a>, <a href="Iron_Bomb.md">Iron Bomb</a></li>
-    <li>EXP, scaling on the amount of eliminated players</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Relic Weapons</b>:</li>
-    <li><b>Legendary Weapons</b>:</li>
-    <li><b>Alloyed Weapons</b>:</li>
-    <li><b>Generic Weapons</b>:
-  <ol>
-    <li><b>Light Weapons</b>:</li>
-    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li>
-    <li><b>Heavy Weapons</b>:</li>
-  </ol></li>
-    <li><b>Offhand Weapons</b>:</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
-  <ol>
-    <li><b>Unique Head</b>: <a href="Tillian's_Beret.md">Tillian's Beret</a></li>
-    <li><b>Generic Head</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
-  <ol>
-    <li><b>Mythical Torso</b>: <a href="Trickster's_Scarf.md">Trickster's Scarf</a></li>
-    <li><b>Generic Torso</b>: <a href="Threadwork_Kilt.md">Threadwork Kilt</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>Adept</b>: <a href="Carefree_Garments.md">Carefree Garments</a></li><li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a></li><li><b>Unique</b>: <a href="Cindergarb.md"><font>Cindergarb</font></a>, <a href="Icebringer's_Vestments.md"><font>Icebringer's Vestments</font></a>, <a href="Jade_Vigil's_Weave.md"><font>Jade Vigil's Weave</font></a> <a href="Jester's_Garb.md"><font>Jester's Garb</font></a>, <a href="Sanguine_Finery.md"><font>Sanguine Finery</font></a>, <a href="Stormchanter's_Raiments.md"><font>Stormchanter's Raiments</font></a>, <a href="Tempestmaker's_Threads.md"><font>Tempestmaker's Threads</font></a>, <a href="Trickster's_Habit.md"><font>Trickster's Habit</font></a>, <a href="Vigil_Sentinel.md"><font>Vigil Sentinel</font></a></li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Trickster_Dust.md">Trickster Dust</a>, <a href="Void_Spire.md">Void Spire</a></li><li><a href="Items.md">Items</a>: <a href="Cake.md">Cake</a>, <a href="Iron_Bomb.md">Iron Bomb</a></li><li>EXP, scaling on the amount of eliminated players</li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Relic Weapons</b>:</li><li><b>Legendary Weapons</b>:</li><li><b>Alloyed Weapons</b>:</li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>:</li><li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li><li><b>Heavy Weapons</b>:</li></ol></li><li><b>Offhand Weapons</b>:</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:<ol><li><b>Unique Head</b>: <a href="Tillian's_Beret.md">Tillian's Beret</a></li><li><b>Generic Head</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a></li></ol></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>Mythical Torso</b>: <a href="Trickster's_Scarf.md">Trickster's Scarf</a></li><li><b>Generic Torso</b>: <a href="Threadwork_Kilt.md">Threadwork Kilt</a></li></ol></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:</li></ul></td></tr></tbody></table>
 
 ## Trivia
 

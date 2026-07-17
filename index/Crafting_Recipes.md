@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 _icon credit to Tortaa#9000_
 
-One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some recipes can be made anywhere at any time, while others require a [Crafting Station](Crafting_Station.md), [campfire](Campfire_Pit.md), or [Cauldron](Cauldron.md).
+One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some recipes can be made anywhere at any time, while others require a [Crafting Station](Crafting_Station.md), [campfire](Campfire.md), or [Cauldron](Cauldron.md).
 
 ## Utility Recipes
 
@@ -25,42 +25,42 @@ These recipes require you to be at a [Crafting Station](Crafting_Station.md) or 
 -   [Curse of Repulsion Enchant Stone](Curse_of_Repulsion.md) - Any [Enchant Stone](Enchant_Stone.md), [Odd Tentacle](Odd_Tentacle.md), [Wayward Gem](Wayward_Gem.md)
 -   [Curse of the Bloodthirsty Enchant Stone](Curse_of_the_Bloodthirsty.md) - Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md)
 -   [Curse of the No-Life King Enchant Stone](Curse_of_the_No_Life_King.md) - Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md) or Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Urchin](Urchin.md)
--   [Unbidden Enchant Stone](Curse_of_the_Unbidden.md) - Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Crystal Lens](Mantra_Modifiers.md#regular-modifiers)
+-   [Unbidden Enchant Stone](Curse_of_the_Unbidden.md) - Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Crystal Lens](Crystal_Lens.md)
 -   [Curse of Yun'Shul Enchant Stone](<Curse_of_Yun'Shul.md>) - Any [Enchant Stone](Enchant_Stone.md), [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
--   [Deferred Enchant Stone](Deferred.md) - Any [Enchant Stone](Enchant_Stone.md), [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), [Blessed Gem](Blessed_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Irithine](Ores.md#irithine)
--   [Detonation Enchant Stone](Detonation.md) - Any [Enchant Stone](Enchant_Stone.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Iron Bomb](Iron_Bomb.md), [Wayward Gem](Wayward_Gem.md)
+-   [Deferred Enchant Stone](Deferred.md) - Any [Enchant Stone](Enchant_Stone.md), [Aeon Logstone](Aeon_Logstone.md), [Blessed Gem](Blessed_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Irithine](Irithine.md)
+-   [Detonation Enchant Stone](Detonation.md) - Any [Enchant Stone](Enchant_Stone.md), [Blast Spark](Blast_Spark.md), [Wayward Gem](Wayward_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Iron Bomb](Iron_Bomb.md), [Wayward Gem](Wayward_Gem.md)
 -   [Elastic Enchant Stone](Elastic.md) - Any [Enchant Stone](Enchant_Stone.md), [Sap](Sap.md), [Wayward Gem](Wayward_Gem.md)
 -   [Gluttony Enchant Stone](Gluttony.md) - Any [Enchant Stone](Enchant_Stone.md), [Megurger](Megurger.md), [Wrath Gem](Wrath_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Ambrosial Chum](Ambrosial_Chum.md)
--   [Grim Enchant Stone](Grim.md) - Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Void Feather](Dark_Feather.md#void-feather)
--   [Herosim Enchant Stone](Heroism.md) - Any [Enchant Stone](Enchant_Stone.md), [Pure Gold](Ores.md#gold), [Smith's Alloy](<Smith's_Alloy.md>)
--   [Metal Enchant Stone](Metal.md) - Any [Enchant Stone](Enchant_Stone.md), [Iron](Ores.md#iron), [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Grim Enchant Stone](Grim.md) - Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Void Feather](Void_Feather.md)
+-   [Herosim Enchant Stone](Heroism.md) - Any [Enchant Stone](Enchant_Stone.md), [Pure Gold](Pure_Gold.md), [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Metal Enchant Stone](Metal.md) - Any [Enchant Stone](Enchant_Stone.md), [Iron](Iron.md), [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Nemesis Enchant Stone](Nemesis.md) - Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Wayward Gem](Wayward_Gem.md)
--   [Obfuscation Enchant Stone](Obfuscation.md) - Any [Enchant Stone](Enchant_Stone.md), [Glass Stone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
+-   [Obfuscation Enchant Stone](Obfuscation.md) - Any [Enchant Stone](Enchant_Stone.md), [Glass Stone](Glass_Stone.md), [Wind Gem](Wind_Gem.md)
 -   [Providence's Thorns Enchant Stone](<Providence's_Thorns.md>) - Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Pristine Lotus](Pristine_Lotus.md)
 -   [Sear Enchant Stone](Sear.md) - Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Dying Embers](Dying_Embers.md)
 -   [Solar Enchant Stone](Solar.md) - Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Suncross Pendant](Suncross_Pendant.md) or Any [Enchant Stone](Enchant_Stone.md), [Dying Embers](Dying_Embers.md), [Insignia Gem](Insignia_Gem.md)
--   [Stone Enchant Stone](Stone.md) - Any [Enchant Stone](Enchant_Stone.md), Golem Chunk or Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Rock](Ores.md#rock)
+-   [Stone Enchant Stone](Stone.md) - Any [Enchant Stone](Enchant_Stone.md), Golem Chunk or Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Rock](Rock.md)
 -   [Storm Enchant Stone](Storm.md) - Any [Enchant Stone](Enchant_Stone.md), [Spark Gland](Spark_Gland.md), [Wind Gem](Wind_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>)
--   [Stormbreaker Enchant Stone](Stormbreaker.md) - [Reversal Spark](Mantra_Modifiers.md#sparks), [Storm Enchant Stone](Storm.md)
+-   [Stormbreaker Enchant Stone](Stormbreaker.md) - [Reversal Spark](Reversal_Spark.md), [Storm Enchant Stone](Storm.md)
 -   [Tears of the Edenkite Enchant Stone](Tears_of_the_Edenkite.md) - Any [Enchant Stone](Enchant_Stone.md), [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>)
--   [Umbral Knight Enchant Stone](Umbral_Knight.md) - Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md) or Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Pure Umbrite](Ores.md#umbrite)
+-   [Umbral Knight Enchant Stone](Umbral_Knight.md) - Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md) or Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Pure Umbrite](Pure_Umbrite.md)
 -   [Vampirism Enchant Stone](Vampirism.md) - Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Bloodless Gem](Bloodless_Gem.md)
--   [Wild Enchant Stone](Wild.md) - Any [Enchant Stone](Enchant_Stone.md), [Cloudstone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
+-   [Wild Enchant Stone](Wild.md) - Any [Enchant Stone](Enchant_Stone.md), [Cloudstone](Cloudstone.md), [Wind Gem](Wind_Gem.md)
 
 ## Enchant Greases
 
 These recipes require you to be at a [Crafting Station](Crafting_Station.md) or have the [Master Craftsman](Talents.md#master-craftsman) Talent.
 
 -   [Adhesive Enchant Grease](Adhesive.md) - Any [Enchant Grease](Enchant_Grease.md), [Blue Gem](Blue_Gem.md), [Sap](Sap.md)
--   [Allure Enchant Grease](Allure.md) - Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Magnet Spark](Mantra_Modifiers.md#sparks)
--   [Bounce Enchant Grease](Bounce.md) - Any [Enchant Grease](Enchant_Grease.md), [Reversal Spark](Mantra_Modifiers.md#sparks), [Wind Gem](Wind_Gem.md)
--   [Displacement Enchant Grease](Displacement.md) - Any [Enchant Grease](Enchant_Grease.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
+-   [Allure Enchant Grease](Allure.md) - Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Magnet Spark](Magnet_Spark.md)
+-   [Bounce Enchant Grease](Bounce.md) - Any [Enchant Grease](Enchant_Grease.md), [Reversal Spark](Reversal_Spark.md), [Wind Gem](Wind_Gem.md)
+-   [Displacement Enchant Grease](Displacement.md) - Any [Enchant Grease](Enchant_Grease.md), [Blast Spark](Blast_Spark.md), [Wayward Gem](Wayward_Gem.md)
 -   [Drowned Enchant Grease](Drowned.md) - Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
--   [Entanglement Enchant Grease](Entanglement.md) - Any [Enchant Grease](Enchant_Grease.md), [Magnet Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
+-   [Entanglement Enchant Grease](Entanglement.md) - Any [Enchant Grease](Enchant_Grease.md), [Magnet Spark](Magnet_Spark.md), [Wayward Gem](Wayward_Gem.md)
 -   [Ferocity Enchant Grease](Ferocity.md) - Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md) or Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Megalodaunt Hide](Megalodaunt_Hide.md)
--   [Multipicty Enchant Grease](Multiplicity.md) - Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md), [Multiplying Spark](Mantra_Modifiers.md#sparks)
+-   [Multipicty Enchant Grease](Multiplicity.md) - Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md), [Multiplying Spark](Multiplying_Spark.md)
 -   [Stench Enchant Grease](Stench.md) - Any [Enchant Grease](Enchant_Grease.md), [Chum](Chum.md), [Wind Gem](Wind_Gem.md)
--   [Viscosity Enchant Grease](Viscosity.md) - [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md)
+-   [Viscosity Enchant Grease](Viscosity.md) - [Aeon Logstone](Aeon_Logstone.md), Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md)
 
   
 
@@ -69,28 +69,28 @@ These recipes require you to be at a [Crafting Station](Crafting_Station.md) or 
 These recipes can be crafted directly from your Journal.
 
 -   [Wood](Wood.md) - _3 [Sticks](Stick.md)_
--   [Ore](Ores.md) (3x) - 1x Pure [Ore](Ores.md)
+-   [Ore](Ore.md) (3x) - 1x Pure [Ore](Ore.md)
 -   [Sticks](Stick.md) (3x) - _1 [Wood](Wood.md)_
 -   [Campfire Pit](Campfire_Pit.md) - _3 [Sticks](Stick.md) or 1 [Wood](Wood.md)_
--   [Fiber](Fiber.md) - _2 [Bamboo](Bamboo_Bundle.md) or 1 [Spider Egg](Spider_Egg.md) or 3 [Marram Grass](Marram_Grass.md)_
+-   [Fiber](Fiber.md) - _2 [Bamboo](Bamboo.md) or 1 [Spider Egg](Spider_Egg.md) or 3 [Marram Grass](Marram_Grass.md)_
 -   [Cloth](Cloth.md) - _3 [Fiber](Fiber.md)_
--   [Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Rock](Ores.md#rock)_
--   [Umbral Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
--   [Bullets](Bullets.md) (50x) - _1 [Iron](Ores.md#iron)_
+-   [Flint](Flint.md) - _1 [Coal](Coal.md), 1 [Rock](Rock.md)_
+-   [Umbral Flint](Umbral_Flint.md) - _1 [Coal](Coal.md), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
+-   [Bullets](Bullets.md) (50x) - _1 [Iron](Iron.md)_
 -   [Fishing Rod](Fishing_Rod.md) - _2 [Stick](Stick.md), 1 [Fiber](Fiber.md)_
--   [Chum](Chum.md) - _2 [Fish Meat](Fish_Meat.md) / 2 [Crustacean Meat](Crustacean_Meat.md) / 1 [Pufferfish](Fishing.md)_
+-   [Chum](Chum.md) - _2 [Fish Meat](Fish_Meat.md) / 2 [Crustacean Meat](Crustacean_Meat.md) / 1 [Pufferfish](Fish.md)_
 -   [Monster Bait](Monster_Bait.md) - (Can be obtained from [Mortus](Mortus.md)) 2/3 _[Chum](Chum.md)_
--   [Void Feather](Dark_Feather.md#void-feather) - _3 [Dark Feathers](Dark_Feather.md), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
--   [Dark Feather](Dark_Feather.md) (3x) - _1 [Void Feather](Dark_Feather.md#void-feather)_
+-   [Void Feather](Void_Feather.md) - _3 [Dark Feathers](Dark_Feather.md), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
+-   [Dark Feather](Dark_Feather.md) (3x) - _1 [Void Feather](Void_Feather.md)_
 -   [Armorer's Needle](<Armorer's_Needle.md>) - _5 [Smith's Alloys](<Smith's_Alloy.md>)_
 -   [Forge Needle](Forge_Needle.md) - _1 [Armorer's Needle](<Armorer's_Needle.md>), 3 [Smith's Alloys](<Smith's_Alloy.md>) or 1 [Gilded Needle](Gilded_Needle.md), 1 [Smith's Alloy](<Smith's_Alloy.md>)_
--   [Gilded Needle](Gilded_Needle.md) - _3 [Armorer's Needles](<Armorer's_Needle.md>), 1 [Gold](Ores.md#gold)_
--   [Shadow's Flight](<Shadow's_Flight.md>) - _2 [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md)_
+-   [Gilded Needle](Gilded_Needle.md) - _3 [Armorer's Needles](<Armorer's_Needle.md>), 1 [Gold](Gold.md)_
+-   [Shadow's Flight](<Shadow's_Flight.md>) - _2 [Void Feathers](Void_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md)_
 
 ### _Non-[Food](Food.md) [Campfire Pit](Campfire_Pit.md) Recipes_[CraftingCampfire](Campfire_Pit.md)
 
 -   [Ashes](Ashes.md) - _1 [Wood](Wood.md)_
--   [Gold](Ores.md#gold) - _1 [Gold Ring](Gold_Ring.md)_
+-   [Gold](Gold.md) - _1 [Gold Ring](Gold_Ring.md)_
 
 ### _[Crafting Station](Crafting_Station.md) Recipes_[CraftingStation](Crafting_Station.md)
 
@@ -98,27 +98,27 @@ These recipes require you to be at a [Crafting Station](Crafting_Station.md) or 
 
 -   [Canteen](Canteen.md) - _1 [Beeswax](Beeswax.md), 1 [Calabash](Calabash.md)_
 -   [Gliders](Gliders.md) - _2 [Sticks](Stick.md), 2 [Cloth](Cloth.md)_
--   [Sharkscale Glider](Gliders.md) - _2 [Sticks](Stick.md), 2 [Megalodaunt Hide](Megalodaunt_Hide.md)_
--   [Lumber Axe](Lumber_Axe.md) - _2 [Wood](Wood.md), 2 [Iron](Ores.md#iron)_
--   [Pickaxe](Pickaxe.md) - _2 [Wood](Wood.md), 2 [Iron](Ores.md#iron)_
--   [Repair Kit](Repair_Kit.md) - _3 [Iron](Ores.md#iron), 2 [Wood](Wood.md)_
--   [Iron Bomb](Iron_Bomb.md) (requires the [quest](Quests.md#family-recipe)) - _2 [Iron](Ores.md#iron), 1 [Coal](Ores.md#coal)_
--   [Flask of Strength](Attribute_Flasks.md#flask-of-strength) - _2 [Hellfire Lotus](Primordial_Lotuses.md#hellfire-lotus)_
--   [Flask of Fortitude](Attribute_Flasks.md#flask-of-fortitude) - _2 [Empyrean Lotus](Primordial_Lotuses.md#empyrean-lotus)_
--   [Flask of Agility](Attribute_Flasks.md#flask-of-agility) - _2 [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus)_
--   [Flask of Intelligence](Attribute_Flasks.md#flask-of-intelligence) - _2 [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus)_
--   [Flask of Willpower](Attribute_Flasks.md#flask-of-willpower) - _2 [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus)_
--   [Flask of Charisma](Attribute_Flasks.md#flask-of-charisma) - _2 [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus)_
--   [Pathfinder Lantern](Pathfinder_Lantern.md) - _1 [Dying Embers](Dying_Embers.md) or [Spark Gland](Spark_Gland.md), 1 [Iron](Ores.md#iron), 1 [Fiber](Fiber.md)_
--   [Delver Boots](Delver_Boots.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or [Master Craftsman](Talents.md#master-craftsman) Talent) - _[Leather Boots](Leather_Boots.md), 2 [Galewax](Galewax.md), 2 [Umbrite](Ores.md#umbrite)_
--   [Wormwarder Lantern](Wormwarder_Lantern.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 [Galewax](Galewax.md), 4 [Irithine](Ores.md#irithine), 4 [Spark Gland](Spark_Gland.md)_
+-   [Sharkscale Glider](Sharkscale_Glider.md) - _2 [Sticks](Stick.md), 2 [Megalodaunt Hide](Megalodaunt_Hide.md)_
+-   [Lumber Axe](Lumber_Axe.md) - _2 [Wood](Wood.md), 2 [Iron](Iron.md)_
+-   [Pickaxe](Pickaxe.md) - _2 [Wood](Wood.md), 2 [Iron](Iron.md)_
+-   [Repair Kit](Repair_Kit.md) - _3 [Iron](Iron.md), 2 [Wood](Wood.md)_
+-   [Iron Bomb](Iron_Bomb.md) (requires the [quest](Quests.md#family-recipe)) - _2 [Iron](Iron.md), 1 [Coal](Coal.md)_
+-   [Flask of Strength](Flask_of_Strength.md) - _2 [Hellfire Lotus](Hellfire_Lotus.md)_
+-   [Flask of Fortitude](Flask_of_Fortitude.md) - _2 [Empyrean Lotus](Empyrean_Lotus.md)_
+-   [Flask of Agility](Flask_of_Agility.md) - _2 [Zephyr Lotus](Zephyr_Lotus.md)_
+-   [Flask of Intelligence](Flask_of_Intelligence.md) - _2 [Brilliant Lotus](Brilliant_Lotus.md)_
+-   [Flask of Willpower](Flask_of_Willpower.md) - _2 [Skyvalor Lotus](Skyvalor_Lotus.md)_
+-   [Flask of Charisma](Flask_of_Charisma.md) - _2 [Miasmic Lotus](Miasmic_Lotus.md)_
+-   [Pathfinder Lantern](Pathfinder_Lantern.md) - _1 [Dying Embers](Dying_Embers.md) or [Spark Gland](Spark_Gland.md), 1 [Iron](Iron.md), 1 [Fiber](Fiber.md)_
+-   [Delver Boots](Delver_Boots.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or [Master Craftsman](Talents.md#master-craftsman) Talent) - _[Leather Boots](Leather_Boots.md), 2 [Galewax](Galewax.md), 2 [Umbrite](Umbrite.md)_
+-   [Wormwarder Lantern](Wormwarder_Lantern.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 [Galewax](Galewax.md), 4 [Irithine](Irithine.md), 4 [Spark Gland](Spark_Gland.md)_
 -   [Vortex Echo](Vortex_Echo.md) - _[Kyrsan Schematic](Kyrsan_Schematic.md), [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md)_
 -   [Candle](Candle.md) - 1 _[Fiber](Fiber.md) 1 [Beeswax](Beeswax.md)_
--   [Umbral Candle](Candle.md) - 1 _[Candle](Candle.md), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
+-   [Umbral Candle](Umbral_Candle.md) - 1 _[Candle](Candle.md), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
 
 ## Merit Detainment Core Recipes[CraftingEmpty](Merit_Detainment_Core.md)
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), the [Detainment Core](Merit_Detainment_Core.md)'s special crafting station will open up to you. This crafting station can craft items that cannot be crafted elsewhere.
+After defeating [Titus](Titus.md), the [Detainment Core](Detainment_Core.md)'s special crafting station will open up to you. This crafting station can craft items that cannot be crafted elsewhere.
 
 -   **[Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)**
     -   [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
@@ -162,14 +162,14 @@ These recipes are exclusive to [The Cold Forge](The_Cold_Forge.md)
 -   **[Celestial Boots](Celestial_Boots.md)**
     -   [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
 -   **[Fondant Splitter](Fondant_Splitter.md)**
-    -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Sword](<Sword_(weapon).md>)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Sword](Sword.md)
     -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Katana](Katana.md)
     -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Messer](Messer.md)
     -   [Dormant Splinter](Dormant_Splinter.md) + 3 [Cake](Cake.md) + 1 [Scimitar](Scimitar.md)
 -   **[Sanguine Transfuser](Sanguine_Transfuser.md)**
     -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Hemobloom](Hemobloom.md) + 1 [Ancient Dagger Remains](Ancient_Dagger_Remains.md)
 -   **[Umbrite Witherblade](Umbrite_Witherblade.md)**
-    -   [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md#umbrite) + 1 [Razor Cutlass](Razor_Cutlass.md)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Umbrite.md) or 1 [Pure Umbrite](Pure_Umbrite.md) + 1 [Razor Cutlass](Razor_Cutlass.md)
 
 ## Lost Forge Recipes[CraftingEmpty](Lost_Forge_of_Leiuna.md)
 
@@ -186,7 +186,7 @@ These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
 -   **[Gale Enhanced Beads](Gale_Enhanced_Beads.md)**
     -   1 [Monastery Beads](Monastery_Beads.md) + 1 [Gale Essence](Gale_Essence.md) + 1 [Windswept](Windswept.md)
 -   **999x [Gale Bullet](Bullet_Casings.md)**
-    -   1 [Bullet](Bullets.md) + 1 [Gale Essence](Gale_Essence.md)
+    -   1 [Bullet](Bullet.md) + 1 [Gale Essence](Gale_Essence.md)
 -   **[Frost Ring](Frost_Ring.md)**
     -   1 [Heavy Hands Ring](Heavy_Hands_Ring.md) + 1 [Frost Essence](Frost_Essence.md)
 -   **[Saint Jay's Ring](<Saint_Jay's_Ring.md>)**
@@ -196,7 +196,7 @@ These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
 -   **[Winter Rifle](Winter_Rifle.md)**
     -   1 [Summer Rifle](Summer_Rifle.md) + 1 [Frost Essence](Frost_Essence.md)
 -   **999x [Frost Bullet](Bullet_Casings.md)**
-    -   1 [Bullet](Bullets.md) + 1 [Frost Essence](Frost_Essence.md)
+    -   1 [Bullet](Bullet.md) + 1 [Frost Essence](Frost_Essence.md)
 -   **[Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)**
     -   1 [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) + 1 [Giant Femur](Giant_Femur.md)
 -   **[Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)**

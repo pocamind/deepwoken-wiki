@@ -18,7 +18,7 @@ When all is said and done, all that will be remembered of this battle are the st
 
   
 
-**Echoes of Bloodshed** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
+**Echoes of Bloodshed** is a [location](Locations.md) in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 

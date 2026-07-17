@@ -51,7 +51,7 @@ For the **airborne** critical, the user hovers and raises their weapon overhead 
 
 The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
 
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. It does **not** proc Flame or Flame-related talents.
+These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects. It does **not** proc Flame or Flame-related talents.
 
 ## Obtainment
 

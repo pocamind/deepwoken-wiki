@@ -44,6 +44,6 @@ Heading to [New Kyrsa](Second_Layer/New_Kyrsa.md) does **not** provide any extra
 
 ## Trivia
 
--   All of the caveats in exiting via the Light Hook apply to the [Ignition Deepdriller](Llevyn.md) as well.
+-   All of the caveats in exiting via the Light Hook apply to the [Ignition Deepdriller](Ignition_Deepdriller.md) as well.
 -   [Heartstars](Heartstar.md), used to obtain [Bloodrend](Bloodrend.md), are not removed when exiting via Light Hook, likely as a fail-safe in case one of the [Ministry Bloodrenders](Ministry_Bloodrender.md) does not drop one.
 -   It used to be possible to keep items without completing a floor by equipping them, but this was patched after item equips (including weapons, equipment, [Deep Gems](Mantra_Modifiers.md#deep-gems), and [Enchant Stones](Enchant_Stone.md)) were disabled in the second layer.

@@ -23,19 +23,19 @@ categories: [Outfits, Starter Outfits]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Hired Mercenary** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+**Hired Mercenary** is a Starter [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Iron.md) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 1000 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunement.md).
 
 ## Trivia/Notes
 

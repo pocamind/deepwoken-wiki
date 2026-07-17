@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Kyrsan Chill is a [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)\-exclusive debuffing [enchantment](Enchantments.md) that applies a stacking slow on critical hit.
+Kyrsan Chill is a [Kyrsgarde Champion](Kyrsgarde_Champion.md)\-exclusive debuffing [enchantment](Enchantment.md) that applies a stacking slow on critical hit.
 
 ## Effect
 
@@ -30,4 +30,4 @@ There is a 3 second cooldown on stack application. Stacks last 60 seconds, and a
 
 -   Applies a **2%** slow at one stack, a **6%** slow at two stacks, a **10%** slow at three stacks, a **20%** slow at four stacks, and a full [Freeze](Status_Effects.md#frozen) at 5 stacks.
 -   You can spam F to escape the Frozen status faster.
--   **If you have not defeated the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) on your character, this enchantment will not work and your weapon's damage will be voided.**
+-   **If you have not defeated the [Kyrsgarde Champion](Kyrsgarde_Champion.md) on your character, this enchantment will not work and your weapon's damage will be voided.**

@@ -21,7 +21,7 @@ Overcome the challenges ahead and you shall be greatly rewarded.
 
   
 
-**The Glade of Strife** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 2v2 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
+**The Glade of Strife** is a [location](Locations.md) in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 2v2 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 

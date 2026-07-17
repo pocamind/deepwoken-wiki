@@ -37,7 +37,7 @@ The Blademaster's Robe are an [Equipment](Equipment.md) item under the "Arms" ca
 
 It is a traditional robe that is dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
-The [Swift Blade](Talents.md#swift-blade) Talent grants a 10% posture damage buff to your light attacks and Criticals with the M1 tag while you are affected by the [Wind Gem](Wind_Gem.md). Additionally, [Wind Gems](Wind_Gem.md) last 2 seconds longer with this equipment.
+The [Swift Blade](Talents.md#swift-blade) Talent grants a 10% posture damage buff to your light attacks and Criticals with the [M1 tag](M1_tag.md) while you are affected by the [Wind Gem](Wind_Gem.md). Additionally, [Wind Gems](Wind_Gem.md) last 2 seconds longer with this equipment.
 
 ## Set Talent
 

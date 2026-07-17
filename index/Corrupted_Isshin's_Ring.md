@@ -30,6 +30,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Corrupted Isshin's Ring is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ring" category. It makes the wearer deal 2x more damage, but also take 2x more damage.
+Corrupted Isshin's Ring is a [Relic](Relic.md) [Equipment](Equipment.md) item under the "Ring" category. It makes the wearer deal 2x more damage, but also take 2x more damage.
 
 This is inherently risky to use, but can prove useful for doing massive burst damage or when trying to kill [Bosses](Bosses.md) one is more experienced with quickly.

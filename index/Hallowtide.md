@@ -84,7 +84,7 @@ Main article: [Joy](Joy.md)
 
 -   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in [1 Shell Stock, 1 Paperette, and 1 Fine Ink](Hallowtide_Mask_Ingredients.md)), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 40 joy for completing the Trial of the Gourdskipper, Getting 3 each wave and 16 at the final wave.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
-    -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), [Evengarde Rest](Evengarde_Rest.md), and many others have unique interactions when you attempt to scare them.
+    -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](Lord_Regent.md), [Polis](Polis.md), [Evengarde Rest](Evengarde_Rest.md), and many others have unique interactions when you attempt to scare them.
 
 ### New Helmets
 
@@ -122,7 +122,7 @@ The Hallowtide update added a special new variant for each aspect in the game. T
 
 ## Trivia
 
--   The Floating Keep is the only place in game where the player can actually see NPC [Lightborns](Lightborn.md) (Aside from [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) in [New Kyrsa.](Second_Layer/New_Kyrsa.md)).
+-   The Floating Keep is the only place in game where the player can actually see [NPC](NPC.md) [Lightborns](Lightborn.md) (Aside from [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) in [New Kyrsa.](New_Kyrsa,_The_Sleeping_City.md)).
 -   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
 -   Oddly, the third Hallowtide (2024) occurred outside of the weekly update schedule, instead returning on a Thursday on Halloween Day (31st of October).
 -   The end of the fourth Hallowtide (2025) marked the longest Hallowtide in _Deepwoken_ history, lasting 4 weeks and 1 day (29 full days), double the usual Hallowtide period.

@@ -20,11 +20,11 @@ categories: [Items, Attunement]
 
 ## Description
 
-Attunement Potions are items that allow the player obtain and permanently unlock further [Attunements](Attunements.md) in [Character Creation](Character_Creation.md). Upon consumption, the user will take a small amount of elemental damage that corresponds with the Attunement and be momentarily ragdolled. After getting back up, they will acquire one Attribute point in the respective Attunement, and will permanently unlock it in Character Creation. Attunement Potions cannot be dropped or thrown, neither stored in bank.
+Attunement Potions are items that allow the player obtain and permanently unlock further [Attunements](Attunement.md) in [Character Creation](Character_Creation.md). Upon consumption, the user will take a small amount of elemental damage that corresponds with the Attunement and be momentarily ragdolled. After getting back up, they will acquire one Attribute point in the respective Attunement, and will permanently unlock it in Character Creation. Attunement Potions cannot be dropped or thrown, neither stored in bank.
 
 ## Obtainment
 
-The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Attunement Trainer](Attunement_Trainers.md), usually involving obtaining 5 (2 if the Attunement was unlocked before) of a specific Elemental Ingredient corresponding with their Attunement; with [Ironsing](Ironsing.md) being the only deviation from this.
+The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Attunement Trainer](Attunement_Trainer.md), usually involving obtaining 5 (2 if the Attunement was unlocked before) of a specific Elemental Ingredient corresponding with their Attunement; with [Ironsing](Ironsing.md) being the only deviation from this.
 
 ## Trivia
 

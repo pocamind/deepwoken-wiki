@@ -14,7 +14,7 @@ These waters are tamer than most, but the stillness makes many uneasy.
 
   
 
-**The Etrean Sea** is a location in _Deepwoken._ It is a region in the Etrean Luminant.
+**The Etrean Sea** is a [location](Locations.md) in _Deepwoken._ It is a region in the [Etrean Luminant](Locations.md).
 
 ## Overview
 
@@ -36,7 +36,7 @@ The Etrean Sea is the first sea that beginners will encounter. It is a very larg
 ## Events
 
 -   [Etreans](Etrean_Soldier.md) vs [Knives of Eylis](The_Knives_of_Eylis.md)
--   [Merchant Ships](Travelling_Merchant.md)
+-   [Merchant Ships](Merchant_Ships.md)
 -   [Bandit Tower](Random_Encounters.md)
 -   [Fake Merchant Ship](Random_Encounters.md)
 
@@ -46,5 +46,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 
--   The music for this area is [To Shores, Distant](Deepwoken_OST.md#to-shores-distant) by Naktigonis
+-   The music for this area is [To Shores, Distant](To_Shores,_Distant.md) by Naktigonis
 -   During early testing this area was called "Etrean Waters."

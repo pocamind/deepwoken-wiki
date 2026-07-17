@@ -39,7 +39,7 @@ Normal Mudskippers can only attack with their scratches, with the second attack 
 
 ### Enhanced Mudskippers
 
-Enhanced (or Emergent) Mudskippers can do what normal Mudskippers do, but will also have a Mantra to help with in their disposal. Shooting from their mouth, this [Air Force](Galebreathe.md#air-force) Mantra will knock the player back greatly when hit. They can only be found during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, popping up from the ground.
+Enhanced (or Emergent) Mudskippers can do what normal Mudskippers do, but will also have a Mantra to help with in their disposal. Shooting from their mouth, this [Air Force](Air_Force.md) Mantra will knock the player back greatly when hit. They can only be found during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, popping up from the ground.
 
 ### Bloatskippers
 
@@ -47,7 +47,7 @@ Bloatskippers are, as the name implies, bloated Mudskippers. These Mudskippers i
 
 ### Mineskippers
 
-Mineskippers wield pickaxes, dealing slightly more damage than normal Mudskippers. Bloated versions of these Mudskippers lack the ability to wield pickaxes and do not explode on death, instead have the ability to use [Air Force](Galebreathe.md#air-force), similar to Enhanced Mudskippers. These Mudskipper variants can be found at [Songseeker Wilds](Songseeker_Wilds.md) in the mines.
+Mineskippers wield pickaxes, dealing slightly more damage than normal Mudskippers. Bloated versions of these Mudskippers lack the ability to wield pickaxes and do not explode on death, instead have the ability to use [Air Force](Air_Force.md), similar to Enhanced Mudskippers. These Mudskipper variants can be found at [Songseeker Wilds](Songseeker_Wilds.md) in the mines.
 
 ### Miniskippers
 
@@ -99,7 +99,7 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
  | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
 
 -   Enhanced Mudskipper and Mineskipper (Bloated) exclusive.
--   Identical to the [Mantra](Galebreathe.md#air-force) by the same name.
+-   Identical to the [Mantra](Air_Force.md) by the same name.
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
@@ -121,15 +121,15 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 
 -   Due to their low health and damage, they don't pose a lot of danger.
 -   If you are struggling to parry them, remember that the second attack comes faster, and the first attack comes slower. Get hit a few times intentionally to see the timing, and parry accordingly.
--   When overwhelmed with a lot of Mudskippers, [Vent](Combat_Mechanics.md#tempo) by pressing G. Make sure you have the required [Tempo](Combat_Mechanics.md#tempo) to do this.
+-   When overwhelmed with a lot of Mudskippers, [Vent](Vent.md) by pressing G. Make sure you have the required [Tempo](Tempo.md) to do this.
     -   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking, while others could be using any secondary abilities they have access to. For example, _Air Force_. If they don't have any, they would usually just take turns hitting you.
-    -   If you are struggling with a horde, try using ranged attacks like [Fire Palm](Flamecharm.md#fire-palm) or [Ice Forge](Frostdraw.md#ice-forge).
--   If they are Enhanced Mudskippers, listen to when are about to cast [_Air Force_](Galebreathe.md#air-force), and dodge.
+    -   If you are struggling with a horde, try using ranged attacks like [Fire Palm](Fire_Palm.md) or [Ice Forge](Ice_Forge.md).
+-   If they are Enhanced Mudskippers, listen to when are about to cast [_Air Force_](Air_Force.md), and dodge.
     -   If you get hit by _Air Force_, you will be flung backwards greatly, maybe even off a cliff. Make sure you pay attention to your surroundings so that you may not fall into worse situations.
     -   If there are more than one Enhanced Mudskippers, they will often spam this Mantra. Hold block when you feel that they are going to do this.
 -   Bloated Mudskippers will explode after being gripped, so take care to move away if anyone is low.
     -   This will also instantly execute any knocked enemies nearby, including you or your allies.
--   When fighting a [Mudskipper Brute](Mudskipper_Brute.md) or [Broodlord](Mudskipper_Broodlord.md), it is imperative that you take out their summons as quickly as possible, as they can and will interrupt your fight, and if not killed in-time, the brute/broodlord could stop you from getting a healthpack.
+-   When fighting a [Mudskipper Brute](Mudskipper_Brute.md) or [Broodlord](Broodlord.md), it is imperative that you take out their summons as quickly as possible, as they can and will interrupt your fight, and if not killed in-time, the brute/broodlord could stop you from getting a healthpack.
 
 ## Trivia
 

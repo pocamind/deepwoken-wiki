@@ -40,7 +40,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   [Kelsius](Kelsius.md) whom will give you a quest to find missing books.
 -   [Suyuan](Suyuan.md), son of Vigil [Kiriban](Kiriban.md), who asks you to encounter [Ghosts](Ghost.md).
 -   [Malte](Malte.md), an NPC who studies the [Sky Statue](Sky_Statue.md).
--   [Valikor](Valikor.md),an NPC who can teach the Talent [Spell Shout](Valikor.md).
+-   [Valikor](Valikor.md),an NPC who can teach the Talent [Spell Shout](Spell_Shout.md).
 -   Players can find a [Mantra Lectern](Mantra_Lectern.md) in here, along with a [Crafting Station](Crafting_Station.md).
 
 #### Blacksmith
@@ -105,5 +105,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [Dancing Steps Of War](Deepwoken_OST.md#dancing-steps-of-war) by Naktigonis
+-   The music for this area is [Dancing Steps Of War](Dancing_Steps_Of_War.md) by Naktigonis
 -   Before doing the "Lost Books" Quest for the first time, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.

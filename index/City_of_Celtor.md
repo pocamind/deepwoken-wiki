@@ -16,7 +16,7 @@ notices:
 
 The City of Celtor was the hometown to most of the celtor during many centuries ago, located at the Southern Luminant.
 
-The city has sunken due to [The Celtorian Horror](The_Celtorian_Horror.md), orchestrated by [The Ministry](The_Ministry.md) as a offering to the drowned god [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). After the disaster the celtor population has decreased immensely since then.
+The city has sunken due to [The Celtorian Horror](The_Celtorian_Horror.md), orchestrated by [The Ministry](The_Ministry.md) as a offering to the drowned god [Yun'Shul](<Yun'Shul.md>). After the disaster the celtor population has decreased immensely since then.
 
 Following the submergence, much of the city was destroyed, its ruins littering the [Celtor Wastes](Celtor_Wastes.md). However, for reasons unknown, the inner area of the city remained entirely unscathed, forming [The City of the Drowned](The_City_of_the_Drowned.md).[\[1\]](#cite-note-1)
 

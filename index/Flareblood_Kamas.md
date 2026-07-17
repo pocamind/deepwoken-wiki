@@ -47,7 +47,7 @@ The user raises both kamas, unleashing a fountain of blood at their cursor, laun
 
 The critical has a cooldown of 8 seconds, not starting until the critical animation is finished.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talent](Talent.md) effects.
 
 ## Trivia
 

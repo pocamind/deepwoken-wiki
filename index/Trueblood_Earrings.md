@@ -40,7 +40,7 @@ Variants: [Pendant](Trueblood_Pendant.md)
 
 **Trueblood Earrings** are an [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Blood Convergence](Talents.md#blood-convergence) Talent increases all non-passive healing by 10% if you have [Temporary Health](Status_Effects.md#temporary-health).
+The [Blood Convergence](Talents.md#blood-convergence) Talent increases all non-passive healing by 10% if you have [Temporary Health](Temporary_Health.md).
 
 ## Set Talent
 

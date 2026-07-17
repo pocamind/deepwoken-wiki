@@ -32,32 +32,8 @@ Private Simas is located inside The Three Cheers, sitting at a table across from
 
 **Neutral Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The soldier gives you a rousing, joyous cheer.*</i> Three cheers, civilian! I'm having a <i>great</i> time! Are you?</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The soldier gives you a rousing, joyous cheer.*</i> Three cheers, civilian! I'm having a <i>great</i> time! Are you?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Bad Reputation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The soldier stares tensely at you, his hand moving away from his tankard, and closer to his sword. Might be a good idea to make your leave, before things get ugly.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The soldier stares tensely at you, his hand moving away from his tankard, and closer to his sword. Might be a good idea to make your leave, before things get ugly.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

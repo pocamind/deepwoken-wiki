@@ -23,7 +23,7 @@ Kingmaker's Isle, the unforgiving grounds of Battle Royale, where fresh starts a
 ## Mechanics
 
 -   A shrinking zone similar to the one seen in [Chime of Conflict](Chime_of_Conflict.md) is always present and functions as such, and is referred to as "the storm". It always closes in on a random location.
--   You cannot bring a character slot, and instead spawn with a fresh character with a randomized [Aspect](Aspects.md), a [Flimsy Glider](Gliders.md), the [Callout](Talents.md#callout) [Talent](Talents.md), a [Sword](<Sword_(weapon).md>), the [Stranded](Stranded.md) [Outfit](Outfits.md), and fixed [Attributes](Attributes.md).
+-   You cannot bring a character slot, and instead spawn with a fresh character with a randomized [Aspect](Aspects.md), a [Flimsy Glider](Gliders.md), the [Callout](Talents.md#callout) [Talent](Talents.md), a [Sword](Sword.md), the [Stranded](Stranded.md) [Outfit](Outfits.md), and fixed [Attributes](Attributes.md).
     -   These Attributes are: 50 on every Core Attribute, 100 on every Weapon Attribute and 50 on every Attunement Attribute.
 -   Loot can be found scattered around the map in set locations, with better loot closer to the edge of the map.
 -   [Talents](Talents.md) and [Mantras](Mantras.md) have to be obtained from Deep Totems.
@@ -113,7 +113,7 @@ All of the game's [Weapons](Weapons.md) can be found scattered around the map, i
 
 ## Trivia
 
--   The music for this mode's loading screen is [Blood And Thunder](Deepwoken_OST.md#blood-and-thunder) by Naktigonis.
+-   The music for this mode's loading screen is [Blood And Thunder](Blood_And_Thunder.md) by Naktigonis.
 -   Every location on the map is territory of [The Hundred Legions](The_Hundred_Legions.md). This is because Battle Royale takes place in the [Western Luminant](Luminants.md#western-luminant).
 -   If you spawn with the [Tiran](Tiran.md) [Aspect](Aspects.md) you still gain the Feathered Glider, which retains its infinite uses and falls slower than the Flimsy Glider.
 -   Battle Royale was originally only accessible to Deepwoken YouTubers during the Content Creator Royale on July 1st, 2023 and it was released to the public on August 25th, 2023 for limited-time testing.

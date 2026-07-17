@@ -22,7 +22,7 @@ categories: [NPCs, Humanoid Bosses, Bosses, Voiced Characters]
 
 ## Description
 
-**The Ferryman** is an instanced [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the Eastern Luminant's [Voidsea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
+**The Ferryman** is an instanced [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Eastern Luminant's](Map%253AEastern_Luminant.md) [Voidsea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
 
 According to the stories of old, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though most fail to mention that these gifts aren't earned without a fight. The Ferryman actively despises the mortals who dwell on the surface, offering up unfair wagers, with the mortal betting their life, and him only betting a "Relic."
 
@@ -107,7 +107,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 **Lightning Assault**  
 (★☆☆)
 
- | The Ferryman teleports directly in front of the player, before using a stronger version of the [Lightning Assault](Thundercall.md#lightning-assault) Mantra.
+ | The Ferryman teleports directly in front of the player, before using a stronger version of the [Lightning Assault](Lightning_Assault.md) Mantra.
 
 -   He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
 -   The frequency of the attacks is typically fixed, but The Ferryman will occasionally cast this at a much more rapid pace if he is placed next to, or in a wall by the previous Lightning Assault.
@@ -128,7 +128,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 **Grand Volley**  
 (★★★)
 
- | The most dangerous attack in the Ferryman's arsenal, he fires four, much slower, purple [Grand Javelins](Thundercall.md#grand-javelin) at any player within the arena.
+ | The most dangerous attack in the Ferryman's arsenal, he fires four, much slower, purple [Grand Javelins](Grand_Javelin.md) at any player within the arena.
 
 -   Replaces his Lightning Clones attack.
 -   Each javelin hit does an estimated 150 damage, but is affected by Mantra, and Thunder resistance.
@@ -152,7 +152,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   First Interrogation - Attacks from players who are Electrified will give the Ferryman ether proportional to their initial damage.
 -   Second Interrogation - Electrified attacks do 50% less damage and posture damage to the Ferryman.
 -   Authority Intimidation - All moves that apply electricity slow you more.
--   Resolve Crusher - All the Ferryman's lightning moves apply "[Electrify](Status_Effects.md#electrified)", attacks from electrified players are converted into lightning damage, but will deal 10% less damage to the Ferryman.
+-   Resolve Crusher - All the Ferryman's lightning moves apply "[Electrify](Electrified.md)", attacks from electrified players are converted into lightning damage, but will deal 10% less damage to the Ferryman.
 -   Resilience - Similar to every other boss, is immune to statuses which disable moves.
 
 ### Finishers
@@ -205,7 +205,7 @@ Phase Two is when the fight ironically is easier than the first phase if you hav
 
 As with all the other boss-fights within Deepwoken, the Ferryman is more of a knowledge and parry check rather than a stat-check. It is highly recommended to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) rather than go in a group due to how his scaling works.
 
-The best way to damage the Ferryman is utilising the attack opportunities from parrying or avoiding his moves. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and must instead wait for Your Turn to attack him.
+The best way to damage the Ferryman is utilising the attack opportunities from parrying or avoiding his moves. You can NOT flourish him against a wall like [Duke Erisia](Duke_Erisia.md) and must instead wait for Your Turn to attack him.
 
 The Ferryman also has a fair amount of auto-parry frames during his two main methods of attack, Lightning Assault and Lightning Strike. Taking advantage of them will reduce the strain on yourself over attempting to individually parry each attack.
 
@@ -225,75 +225,7 @@ Aside from his seasonal rewards, the Ferryman also provides a line of three ches
 
 Exhaustive Loot Table
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><p><a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></p></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="The_Ferryman's_Lullaby.md">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a></li>
-    <li><b>Alloyed Weapons</b>: N/A</li>
-    <li><b>Generic Weapons</b>:
-  <ol>
-    <li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a></li>
-    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li>
-    <li><b>Heavy Weapons</b>: N/A</li>
-  </ol></li>
-    <li><b>Offhand Weapons</b>: N/A</li>
-    <li><b>Seasonal Exclusive Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter)</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
-  <ol>
-    <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Winter)</li>
-  </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
-  <ol>
-    <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (Summer &amp; Winter)</li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
-  <ol>
-    <li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a> (Winter)</li>
-  </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:
-  <ol>
-    <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter)</li>
-  </ol></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:
-  <ol>
-    <li><b>All Seasons</b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>.</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn)</li>
-  </ol></li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
-  <ol>
-    <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li>
-  </ol></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><p><a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></p></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="The_Ferryman's_Lullaby.md">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li><li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li><li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a></li><li><b>Alloyed Weapons</b>: N/A</li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a></li><li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li><li><b>Heavy Weapons</b>: N/A</li></ol></li><li><b>Offhand Weapons</b>: N/A</li><li><b>Seasonal Exclusive Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter)</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:<ol><li><b>All Seasons</b>: N/A</li><li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Winter)</li></ol></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>All Seasons</b>: N/A</li><li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (Summer &amp; Winter)</li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li><li><b>Seasonal Exclusive</b>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a> (Winter)</li></ol></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>:<ol><li><b>All Seasons</b>: N/A</li><li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter)</li></ol></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:<ol><li><b>All Seasons</b>: <a href="Moonlit_Earrings.md">Moonlit Earrings</a>.</li><li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn)</li></ol></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li></ol></li></ul></td></tr></tbody></table>
 
 ## Dialogue
 
@@ -303,132 +235,37 @@ Exhaustive Loot Table
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*He yawns deeply.*</i> Oh, it seems one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br>
-  </td>
-</tr>
-<tr>
-  <td>Who are you?</td>
-</tr>
-<tr>
-  <td>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br>
-  </td>
-</tr>
-<tr>
-  <td>[Tell him your name]</td>
-</tr>
-<tr>
-  <td>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?<br>
-  </td>
-</tr>
-<tr>
-  <td>A wager?</td>
-</tr>
-<tr>
-  <td>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?<br>
-  </td>
-</tr>
-<tr>
-  <td>Deal.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], Fight Begins</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*He yawns deeply.*</i> Oh, it seems one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br></td></tr><tr><td>Who are you?</td></tr><tr><td>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br></td></tr><tr><td>[Tell him your name]</td></tr><tr><td>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?<br></td></tr><tr><td>A wager?</td></tr><tr><td>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?<br></td></tr><tr><td>Deal.</td></tr><tr><td>[End Dialogue], Fight Begins</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Oh, back again? Heh, how about another wager?<br>
-  </td>
-</tr>
-<tr>
-  <td>Deal.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], Fight Begins</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Oh, back again? Heh, how about another wager?<br></td></tr><tr><td>Deal.</td></tr><tr><td>[End Dialogue], Fight Begins</td></tr></tbody></table>
 
 **Fight End:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Well done, well done!</td>
-</tr>
-<tr>
-  <td colspan="12">Who are you?</td>
-</tr>
-<tr>
-  <td colspan="6">[Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font>]</td>
-  <td colspan="6">[Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font>]</td>
-</tr>
-<tr>
-  <td colspan="6">Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</td>
-  <td colspan="6">Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</td>
-</tr>
-<tr>
-  <td colspan="6">So, what are you?</td>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="6">I am a <a href="Glossary.md#krulians">Krulian</a>, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Well done, well done!</td></tr><tr><td colspan="12">Who are you?</td></tr><tr><td colspan="6">[Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font>]</td><td colspan="6">[Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font>]</td></tr><tr><td colspan="6">Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</td><td colspan="6">Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</td></tr><tr><td colspan="6">So, what are you?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">I am a <a href="Glossary.md#krulians">Krulian</a>, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 **Exclusive Dialogue:**
 
 This dialogue was only available during the [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Ah, yes, I see the appeal here... The music, the lights, the show! It is spectacular. Unfortunately I must be going.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, yes, I see the appeal here... The music, the lights, the show! It is spectacular. Unfortunately I must be going.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
-Additionally, The Ferryman used to have a dialogue for beating him under a certain time limit, as the pre-release obtainment method for the [Rhythm](Murmur%253A_Rhythm.md) murmur.
+Additionally, The Ferryman used to have a dialogue for beating him under a certain time limit, as the pre-release obtainment method for the [Rhythm](Rhythm.md) murmur.
 
 -   _"Look into the flames, and you shall see my gift... If you have the strength to take it that is." (Only available in Spring)_
     -   Video of beating the Ferryman in time to activate the Murmur text here: [https://streamable.com/1ei4gt](https://streamable.com/1ei4gt)
 
 ## Trivia
 
--   The [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase. The music is modified in-game and cannot be heard the exact same way it is heard here.
+-   The [music](OST.md) that plays as you fight the Ferryman will vary depending on his current phase. The music is modified in-game and cannot be heard the exact same way it is heard here.
     -   If the Ferryman is in phase 1, "A Sarabande of Thunder" will play in the background.
         -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1)
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2)
 -   The Ferryman's Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | 17208591888 Hair ID
 -   The Ferryman is unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) from _Rogue Lineage_. [\[1\]](#cite-note-1)
--   [Boatman's Watch](<Boatman's_Watch.md>) is located within [The Void Sea](Voidsea.md), and dying in it will send you directly to [The Depths](The_Depths.md).
+-   [Boatman's Watch](<Boatman's_Watch.md>) is located within [The Void Sea](The_Void_Sea.md), and dying in it will send you directly to [The Depths](The_Depths.md).
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
 -   Arch\_Mage has stated that the Ferryman is probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality).[\[2\]](#cite-note-2)
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you would get 1 Knowledge, instead of a Krulian Knife.
@@ -440,7 +277,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   If you take too long to initiate the fight with The Ferryman, he will leave after a certain amount of time, and leave you with nothing but a portal to leave.
 -   He is considered a significant enemy of the Authority by Chainwarden progression, likely due to his alignment with the Depths.
 -   He bears a near-identical appearance to [Korin](Korin.md), the only difference being eye coloration.
--   The Ferryman's Lightning Clones will display the [Lightning Clones](Thundercall.md#lightning-clones) death FX when they die. Strangely, the color of this FX changes depending on the **player's** Thundercall path, being yellow at base and blurple if they have [Surge Path](Talents.md#surge-path-unstable-capacitor).
+-   The Ferryman's Lightning Clones will display the [Lightning Clones](Lightning_Clones.md) death FX when they die. Strangely, the color of this FX changes depending on the **player's** Thundercall path, being yellow at base and blurple if they have [Surge Path](Talents.md#surge-path-unstable-capacitor).
 -   The Ferryman wears the [Master Thief Earrings](Master_Thief_Earrings.md), but they're only visible during the fight.
 
 ## References

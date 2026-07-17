@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-The Songwright was a [Chrysid](Chrysid.md) NPC. This NPC functioned as a Mantra trainer for all [Attunements](Attunements.md), including [Attunement-less](Attunement-less.md), allowing you to comfortably level any Mantra on the fly.
+The Songwright was a [Chrysid](Chrysid.md) NPC. This NPC functioned as a Mantra trainer for all [Attunements](Attunement.md), including [Attunement-less](Attunement-less.md), allowing you to comfortably level any Mantra on the fly.
 
 The Songwright's appearance varies from guild to guild, but they are always a [Chrysid](Chrysid.md) wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit.
 
@@ -25,41 +25,11 @@ The Songwright's appearance varies from guild to guild, but they are always a [C
 
 **From Guild:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Ah, one of my generous patrons! How may I assist you? Care for a lecture? A seminar?</td>
-</tr>
-<tr>
-  <td colspan="12">Can you help me grow stronger?</td>
-</tr>
-<tr>
-  <td colspan="12">[Opens Mantra Upgrade UI]</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Ah, one of my generous patrons! How may I assist you? Care for a lecture? A seminar?</td></tr><tr><td colspan="12">Can you help me grow stronger?</td></tr><tr><td colspan="12">[Opens Mantra Upgrade UI]</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 **Not from Guild:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Hm? Do not bother me. This guild is at the forefront of my priorities. They alone have seen the virtues of funding my research...</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hm? Do not bother me. This guild is at the forefront of my priorities. They alone have seen the virtues of funding my research...</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

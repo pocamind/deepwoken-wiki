@@ -34,51 +34,8 @@ Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="8">Ugh... That man, he calls himself 'The Guy'... It's so pathetic. Awful being near him. I hate this job.</td>
-</tr>
-<tr>
-  <td colspan="4">What's Wrong?</td>
-  <td colspan="4">Okay.</td>
-</tr>
-<tr>
-  <td colspan="4">He stinks. <b>Badly.</b></td>
-  <td colspan="4"><i>Yeah.</i></td>
-</tr>
-<tr>
-  <td colspan="2">That sucks.</td>
-  <td colspan="2">Okay.</td>
-  <td colspan="2">That sucks.</td>
-</tr>
-<tr>
-  <td colspan="2">I know.</td>
-  <td colspan="2">[See previous instance]</td>
-  <td colspan="2">[See previous instance]</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-  <td colspan="6"></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8">Ugh... That man, he calls himself 'The Guy'... It's so pathetic. Awful being near him. I hate this job.</td></tr><tr><td colspan="4">What's Wrong?</td><td colspan="4">Okay.</td></tr><tr><td colspan="4">He stinks. <b>Badly.</b></td><td colspan="4"><i>Yeah.</i></td></tr><tr><td colspan="2">That sucks.</td><td colspan="2">Okay.</td><td colspan="2">That sucks.</td></tr><tr><td colspan="2">I know.</td><td colspan="2">[See previous instance]</td><td colspan="2">[See previous instance]</td></tr><tr><td colspan="2">[End Dialogue]</td><td colspan="6"></td></tr></tbody></table>
 
 **Becoming The Guy:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="">So you're calling yourself 'The Guy' now too, huh? Gods below... <i>*They pinch their brow and sigh.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td colspan="">So you're calling yourself 'The Guy' now too, huh? Gods below... <i>*They pinch their brow and sigh.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

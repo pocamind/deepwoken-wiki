@@ -20,7 +20,7 @@ The hiss of steam and roar of engines grant a strange comfort amidst the wind-sw
 
 ## Overview
 
-The Frontier Furnace is the [Ignition Union's](The_Ignition_Union.md) main base of operations in the [Second Layer](Second_Layer.md), and is opened after turning on the Generator, guarded by a [Bone Keeper](Bone_Keeper.md).
+The Frontier Furnace is the [Ignition Union's](Ignition_Union.md) main base of operations in the [Second Layer](Second_Layer.md), and is opened after turning on the Generator, guarded by a [Bone Keeper](Bone_Keeper.md).
 
 ## Contents
 
@@ -32,7 +32,7 @@ The Frontier Furnace is the [Ignition Union's](The_Ignition_Union.md) main base 
 
 ## Trivia
 
--   In [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>), some of the divers in [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) expedition got fed up and assembled an attempt to take shelter inside the furnace, but were most likely killed by him.
+-   In [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>), some of the divers in [Chaser's](Chaser,_Scholar_of_the_Burning_Blood.md) expedition got fed up and assembled an attempt to take shelter inside the furnace, but were most likely killed by him.
 -   You can enter here by breaking through the door with destructive Mantras, however you won't be able to pick up the Arcwarder quest, obtain the Union Hook, or call the Deepdrill without the generator.
 -   Attempting to speak with Alpha or Sunway before turning on the generator will prompt the dialogue: "You get that generator working?"
     -   Llevyn has unique dialogue if you entered this way, saying "I know what you are." in shaky text.

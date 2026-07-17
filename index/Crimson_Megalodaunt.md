@@ -23,7 +23,7 @@ The result of a rare case where a [Megalodaunt](Megalodaunt.md) gets exposed to 
 
 As their nature suggests, they feature a different, crimson-colored skin tone and the ability to utilize Flamecharm by invoking the Song through its roar, which causes flaming swords to rain down from the sky. Additionally, they are considered outcasts of [Megalodaunt](Megalodaunt.md) packs, as they will attack other variants on sight. These are the only notable differences that are associated with this unique mutation, but they behave no different than a regular Megalodaunt.
 
-They are a significantly rarer sight, and are only found in a few select locations of the Eastern Luminant, namely [Songseeker Wilds](Songseeker_Wilds.md) and the [Starswept Valley](The_Starswept_Valley.md). The latter of which they can always be found on one of the bridges between Starswept Valley and [Bluster Rift](Bluster_Rift.md), their only static spawn. They can appear anywhere with the use of a [Megalodaunt Bait](Monster_Bait.md), but as expected, they are a much rarer sight.
+They are a significantly rarer sight, and are only found in a few select locations of the [Eastern Luminant](Locations.md#east-luminant), namely [Songseeker Wilds](Songseeker_Wilds.md) and the [Starswept Valley](Starswept_Valley.md). The latter of which they can always be found on one of the bridges between Starswept Valley and [Bluster Rift](Bluster_Rift.md), their only static spawn. They can appear anywhere with the use of a [Megalodaunt Bait](Megalodaunt_Bait.md), but as expected, they are a much rarer sight.
 
 ## Attacks
 
@@ -199,7 +199,7 @@ Dodge
 
 ### Passives
 
--   **Thick Hide** - Crimson Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
+-   **Thick Hide** - Crimson Megalodaunts automatically extinguish [burn](Burn.md).
 -   Flamewreathed - Crimson Megalodaunts have approximately 80% flamecharm resistance
 
 ## Finisher

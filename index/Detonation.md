@@ -18,13 +18,13 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Detonation is a damage dealing [enchantment](Enchantments.md) that causes an explosion on proc.
+Detonation is a damage dealing [enchantment](Enchantment.md) that causes an explosion on proc.
 
 ## Effect
 
 Detonation causes an explosion after you've landed enough weapon attacks. This explosion deals 10 typeless damage in an AoE, ignoring armor resistances.
 
-The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
+The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for [Light Weapons](Light_Weapons.md), 4 hits for [Medium Weapons](Medium_Weapons.md), and 3 hits for [Heavy Weapons](Heavy_Weapons.md).
 
 ### Notes
 

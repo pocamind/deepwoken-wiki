@@ -14,7 +14,7 @@ Attunement Trainers are NPCs around the map that level up Mantras for money. Eac
 
 A Trainer needs intervals of 20 points in your Attunement to upgrade a Mantra of the same elemental type as the trainer to upgrade, maxing out at Level 5 and 80 Attunement points.
 
-Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Silentheart.md), excluding [Beatra](Beatra.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and [Regek](Regek.md), who cannot and do not need to be killed to progress the Oath. Each trainer also uses a weapon similar to their attunement, for instance Nell uses the [Gran Sudaruska](Gran_Sudaruska.md), a [Frostdraw](Frostdraw.md) weapon.
+Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Silentheart.md), excluding [Beatra](Beatra.md), [Vyrelda](Vyrelda.md) and [Regek](Regek.md), who cannot and do not need to be killed to progress the Oath. Each trainer also uses a weapon similar to their attunement, for instance Nell uses the [Gran Sudaruska](Gran_Sudaruska.md), a [Frostdraw](Frostdraw.md) weapon.
 
 For example:
 
@@ -62,7 +62,7 @@ When fought, she uses a [Gran Sudaruska](Gran_Sudaruska.md).
 
  | [Flamecharm](Flamecharm.md) | Area: [Songseeker Wilds](Songseeker_Wilds.md)
 
-This trainer is inside the [temple](Songseeker_Temple.md) on top of the mountain.
+This trainer is inside the [temple](Songkeeper_Temple.md) on top of the mountain.
 
   
 Click on the image to see full size.
@@ -158,7 +158,7 @@ When fought, she uses a [Red Death](Red_Death.md).
 -   For [Silentheart](Oath%253A_Silentheart.md) progression, the player must kill all of the main Spelltrainers, excluding Regek and Beatra.
     -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreathe trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
-    -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>).
+    -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blade_of_Flame.md).
     -   Thundercall trainer Funke wields the [Stormseye](Stormseye.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).
     -   Ironsinger trainer Adar wields a [Darksteel Greatsword](Darksteel_Greatsword.md).

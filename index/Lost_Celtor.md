@@ -14,13 +14,13 @@ categories: [Factions, Lost Celtor]
 
 ## Description
 
-A once great kingdom ruling over the [Southern Luminant](Luminants.md#southern-luminant), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital. Their once great capital city, now [The City of the Drowned](The_City_of_the_Drowned.md), was sunk in it's entirety during The Great Drowning, lost to the tides, which [The Ministry](The_Ministry.md) was responsible for, as an offering to [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>).
+A once great kingdom ruling over the [Southern Luminant](Southern_Luminant.md), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital. Their once great capital city, now [The City of the Drowned](The_City_of_the_Drowned.md), was sunk in it's entirety during The Great Drowning, lost to the tides, which [The Ministry](The_Ministry.md) was responsible for, as an offering to [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>).
 
 ## Reputation
 
 They are the only faction which can be found in [The Depths](The_Depths.md) other than [The Divers](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md), both of which they are neutral towards, meaning their relations with almost all other factions are unknown.
 
-Ringing the [Celtor Bells](The_City_of_the_Drowned.md#city-bells) located in the [District of Commerce](District_of_Commerce.md) gives Positive Reputation with the faction, but there is a limit, capping out at high Friend tier, just before Ally tier.
+Ringing the [Celtor Bells](Lost_Celtor_city_bells.md) located in the [District of Commerce](District_of_Commerce.md) gives Positive Reputation with the faction, but there is a limit, capping out at high Friend tier, just before Ally tier.
 
 When starting off with Noble Regalia and starting off with a positive rep with Lost Celtor
 

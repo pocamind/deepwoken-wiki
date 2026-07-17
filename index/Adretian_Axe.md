@@ -41,7 +41,7 @@ categories: [Authority Faction Item, Weapons, Greataxes, Heavy Weapons, Alloyabl
 
 ## Description
 
-The Adretian Axe is a [Heavy Weapon](Weapons.md) of the [Greataxe](Greataxes.md) category.
+The Adretian Axe is a [Heavy Weapon](Weapons.md) of the [Greataxe](Greataxe.md) category.
 
 This weapon can be [Alloyed](Pluripotent_Alloy.md), granting it increased stats, making this weapon viable for endgame content. Additionally, the alloy changes the weapon's appearance, granting it a purple hue.
 

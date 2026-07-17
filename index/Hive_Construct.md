@@ -26,9 +26,9 @@ Variants: [Rogue Construct](Rogue_Construct.md)
 
 It has a brown wood-like appearance, with foliage around its legs, resembling wires. It also sports a Hive logo made of wood on its torso. It is powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with some attacks. It is shorter than a [Megalodaunt](Megalodaunt.md), however it's size is not to be underestimated. It wields incredible power and can easily take out an inexperienced player.
 
-It cannot climb, but does walk very fast, so if you're unlucky enough to encounter one and are underleveled / unprepared, it is recommended to run away. It can be tipped over, so if you have Mantras like [Flame Ballista](Flamecharm.md#flame-ballista), [Grand Javelin](Thundercall.md#grand-javelin) or [Wind Gun](Galebreathe.md#wind-gun), you can use them to stun it to aid your escape.
+It cannot climb, but does walk very fast, so if you're unlucky enough to encounter one and are underleveled / unprepared, it is recommended to run away. It can be tipped over, so if you have Mantras like [Flame Ballista](Flame_Ballista.md), [Grand Javelin](Grand_Javelin.md) or [Wind Gun](Wind_Gun.md), you can use them to stun it to aid your escape.
 
-Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md).
+Hive Constructs can spawn in [Starswept Valley](Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md).
 
 ## Moves
 
@@ -130,7 +130,7 @@ Dodge
 
 -   It was virtually impossible to fight these directly for years after Deepwoken's release due to their animations being heavily bugged. They were fixed at an unknown date.
 -   Prioritizes [Stone Knights](Stone_Knight.md) below [Authority Captains](Authority_Captain.md), meaning it will fight the Captain before the Knight.
--   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
+-   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](Starswept_Valley.md).
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
     -   Hive Constructs will almost always win these events without player intervention.
 -   Unlike most monsters, they have cancollide on, which means you can touch their model without phasing through them.

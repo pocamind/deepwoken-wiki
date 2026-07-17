@@ -28,25 +28,7 @@ Ms Stick can be found standing behind [Lance](Lance.md) inside of Lance's Food a
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Ah, traveller! For a small price I will sur-<b>AHEM</b>. Serve you a delicious meal!</td>
-</tr>
-<tr>
-  <td>Do I know you from somewhere?</td>
-</tr>
-<tr>
-  <td><i>Nooooooooooope.</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, traveller! For a small price I will sur-<b>AHEM</b>. Serve you a delicious meal!</td></tr><tr><td>Do I know you from somewhere?</td></tr><tr><td><i>Nooooooooooope.</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

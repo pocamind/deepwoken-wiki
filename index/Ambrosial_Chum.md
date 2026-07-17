@@ -29,7 +29,7 @@ notices:
 
 ### Recipe
 
--   1 [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Heavy Meat](Raw_Heavy_Meat.md), or [Raw Parasol Brain](Raw_Parasol_Brain.md), no [Campfire](Campfire_Pit.md) required.
+-   1 [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Heavy Meat](Raw_Heavy_Meat.md), or [Raw Parasol Brain](Raw_Parasol_Brain.md), no [Campfire](Campfire.md) required.
 
 ## Trivia
 

@@ -26,7 +26,7 @@ categories: [Ingredients, Drops, Items, Alchemy]
 
 -   [Seafood Boil](Seafood_Boil.md) - 1 [Squid](Squid.md), 1 [Fish Meat](Fish_Meat.md), 1 **Crustacean Meat**
 -   [Seafood Surprise](Seafood_Surprise.md) - 1 [Squid](Squid.md), 1 [Fish Meat](Fish_Meat.md), 1 [Urchin](Urchin.md) or **Crustacean Meat**
--   [Mushroom Bisque](Mushroom_Bisque.md) - 1 of any [Mushroom](Ingredients.md#mushrooms), 1 **Crustacean Meat**
+-   [Mushroom Bisque](Mushroom_Bisque.md) - 1 of any [Mushroom](Mushroom.md), 1 **Crustacean Meat**
 -   [Crab Pizza](Crab_Pizza.md) - 1 **Crustacean Meat**, 1 [Bread](Bread.md), 1 [Cheese](Cheese.md)
 -   [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) - 3 [Browncaps](Browncap.md), 1 [Cheese](Cheese.md), 2 **Crustacean Meat**
 -   [Chum](Chum.md) - 2 **Crustacean Meat**

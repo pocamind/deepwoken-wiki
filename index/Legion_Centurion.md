@@ -25,7 +25,7 @@ categories: [Outfits, Master Outfits, The Hundred Legions, Outfits with Talents,
 | selling_price | 10 |
 | weight | 1 |
 
-**Legion Centurion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Legion Centurion** is a Master [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -33,11 +33,11 @@ categories: [Outfits, Master Outfits, The Hundred Legions, Outfits with Talents,
 
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Blue Gem](Blue_Gem.md), five (5) [Gale Stones](Gale_Stone.md), one (1) [Dark Feather](Dark_Feather.md), and one (1) [Thresher Spine](Thresher_Spine.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Fortitude](Attributes.md#ftd) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Fortitude](Fortitude.md) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +5% Lightning resistance [ResistanceThundercall](Thundercall.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Centurion's Resolve](Talents.md#centurions-resolve) Talent.
+This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +5% Lightning resistance [ResistanceThundercall](Thundercall.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Centurion's Resolve](Talents.md#centurions-resolve) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 33.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 33.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 

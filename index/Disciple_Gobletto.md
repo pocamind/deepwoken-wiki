@@ -39,50 +39,8 @@ Disciple Gobletto is located on [Alsin's Landing](<Alsin's_Landing.md>), standin
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*He appears to not really be listening to the story, only pretending to do so, not hurt his friend's feelings. He turns to you nonchalantly.*</i> 'Sup, I'm Gobletto.</td>
-</tr>
-<tr>
-  <td>Your parents actually named you that?</td>
-</tr>
-<tr>
-  <td>Yup. It's a cold world out here, man.</td>
-</tr>
-<tr>
-  <td>You can't be serious.</td>
-</tr>
-<tr>
-  <td><i>*He sighs.*</i> I wish I could joke about it. I got jumped just for having this name when I ran into some <a href="Glossary.md#pathfinders">Pathfinders</a> in Songseeker Wilds. Not sure which was worse - the laughing, or the beatdown.</td>
-</tr>
-<tr>
-  <td>I'm sorry to hear that.</td>
-</tr>
-<tr>
-  <td><i>*The fellow brushes his shoulders.*</i> Ah don't worry about it. The Justicars saved me. Ever since, I've sworn to follow in Alsin's footsteps - then life's gotten a bit easier.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*He appears to not really be listening to the story, only pretending to do so, not hurt his friend's feelings. He turns to you nonchalantly.*</i> 'Sup, I'm Gobletto.</td></tr><tr><td>Your parents actually named you that?</td></tr><tr><td>Yup. It's a cold world out here, man.</td></tr><tr><td>You can't be serious.</td></tr><tr><td><i>*He sighs.*</i> I wish I could joke about it. I got jumped just for having this name when I ran into some <a href="Glossary.md#pathfinders">Pathfinders</a> in Songseeker Wilds. Not sure which was worse - the laughing, or the beatdown.</td></tr><tr><td>I'm sorry to hear that.</td></tr><tr><td><i>*The fellow brushes his shoulders.*</i> Ah don't worry about it. The Justicars saved me. Ever since, I've sworn to follow in Alsin's footsteps - then life's gotten a bit easier.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Voidwalker:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Dude, back up.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Dude, back up.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

@@ -251,10 +251,10 @@ Blunt ResistanceBlunt
 
 -   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5, per kick.
--   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
--   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
+-   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Round_Spark.md) variant.
+-   Has 0.7s wind-up on the [Round Spark](Round_Spark.md) variant.
 -   Has a range of 20 studs.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
+-   Can be modified with a [Round Spark](Round_Spark.md) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
 
  |
@@ -296,7 +296,7 @@ N/A
 -   Drops carried players/NPCs when used.
 -   Fall damage is taken if the user gets high enough.
 -   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
--   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway) and [Flame Leap](Flamecharm.md#flame-leap).
+-   Shares a cooldown with [Neural Pathway](Neural_Pathway.md) and [Flame Leap](Flame_Leap.md).
 
  |
 | 
@@ -337,7 +337,7 @@ Blunt ResistanceBlunt
 -   Inflicts knockdown.
 -   Lands 15% faster while wielding [Jus Karita](Jus_Karita.md).
 -   Requirements are increased if you have an Attunement.
--   Can still be used after removing [Tacet](Murmur%253A_Tacet.md).
+-   Can still be used after removing [Tacet](Tacet.md).
 
  |
 | 
@@ -367,7 +367,7 @@ Blunt ResistanceBlunt
 
  | 
 
-35 Strength, Defeated [Titus](Titus_Fulminus_Destellus.md) (No damage required, only that [Titus](Titus_Fulminus_Destellus.md) is defeated in your server)
+35 Strength, Defeated [Titus](Titus.md) (No damage required, only that [Titus](Titus.md) is defeated in your server)
 
  |
 | 
@@ -377,14 +377,14 @@ Blunt ResistanceBlunt
 -   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
--   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
+-   Shares a cooldown with all other [grab Mantras](Grab_Mantras.md).
 -   Using this Mantra in the air allows you to aim freely but they will still be flung afterwards.
 
  |
 
 ### _Fortitude Mantras_
 
-Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](Training_Gear.md#attribute-training-gears), or feel the crushing weight of a [Boulder](Training_Gear.md#attribute-training-gears).
+Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](Training_Vest.md), or feel the crushing weight of a [Boulder](Boulder.md).
 
 | 
 **Name**
@@ -456,8 +456,8 @@ Blunt ResistanceBlunt
 -   Shoulder Bash duration scales with your Fortitude attribute.
 -   Can collide with and break parts of the map.
 -   Rush shards have no effect.
--   [Eternal](Mantra_Modifiers.md#regular-modifiers)/[Aeon Logstones](Mantra_Modifiers.md#regular-modifiers) increase duration.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to make it apply knockback.
+-   [Eternal](Eternal_Logstone.md)/[Aeon Logstones](Aeon_Logstone.md) increase duration.
+-   Can be modified with a [Blast Spark](Blast_Spark.md) to make it apply knockback.
 
  |
 | 
@@ -495,7 +495,7 @@ N/A
 **Effect:** _User drums their shield before lowering the posture of nearby allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
 
 -   Restores 5/6/7/8/9 posture on cast, per level.
--   Rally has a 15 second duration. This duration can be increased further with [Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Rally has a 15 second duration. This duration can be increased further with [Logstones](Aeon_Logstone.md).
 -   Rally cannot be casted if you don't have a shield equipped or if your shield is on your back. Attempting to cast Rally like this will consume your Ether and do nothing.
 -   If a Rally buffed ally parries, it restores the Rally caster's posture.
 -   If a Rally buffed ally takes blocks an attack, 50% of the posture damage will be taken by the Rally caster.
@@ -543,7 +543,7 @@ N/A
     -   Reinforce lasts 20/21.5/23/24.5/26 seconds per level.
     -   Reinforce has a 55/50/45/40/35 second cooldown per level.
 -   When holding your block button during Reinforce's wind-up, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
--   Shares a cooldown with [Iceberg](Frostdraw.md#iceberg).
+-   Shares a cooldown with [Iceberg](Iceberg.md).
 -   Can be upgraded with the [Grand Support](Talents.md#grand-support) Talent, healing yourself and allies when you buff at least one ally with your Reinforce. This heals 3% of affected players' maximum HP.
 -   Can be upgraded with the [Lord's Tithe](Talents.md#lords-tithe) Talent, stealing Ether from buffed targets or Health from PvE enemies.
 
@@ -589,7 +589,7 @@ N/A
 
 ### _Agility Mantras_
 
-Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with [Ankle Weights](Training_Gear.md#attribute-training-gears) by sliding, climbing walls, vaulting over obstacles and rolling.
+Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with [Ankle Weights](Ankle_Weights.md) by sliding, climbing walls, vaulting over obstacles and rolling.
 
 | 
 **Name**
@@ -644,7 +644,7 @@ _A vengeful rush. Deals additional damage the lower your health is below 50%._
 
  | 
 
-Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Slash ResistanceSlash + [Bleed](Bleed.md)
 
  | 
 
@@ -656,11 +656,11 @@ Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16[/17/18/19](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
+-   Has a base damage of 12/13/14/15/16[/17/18/19](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with innate [bleed](Bleed.md) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
--   This Mantra has innate [Bleed](Status_Effects.md#bleed), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
+-   This Mantra has innate [Bleed](Bleed.md), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
 -   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
     -   This bonus damage scales up to 4 times damage at 5% health, but Revenge's health scaling will cap at Revenge dealing 50 damage regardless of level/Agility investment.
 -   Can be upgraded with the [Pursuit](Talents.md#pursuit) Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
@@ -867,7 +867,7 @@ Blunt ResistanceBlunt
 -   0.65s wind-up.
 -   10s cooldown.
 -   When close enough to the enemy, the orbs will autotrack.
-    -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase how far you can be for it to autotrack.
+    -   [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) increase how far you can be for it to autotrack.
 
  |
 | 
@@ -953,8 +953,8 @@ N/A
 -   If not moving, you instead teleport towards the direction you're facing.
 -   The distance teleported will be reduced if you aren't moving when you cast the Mantra.
 -   For ~2.5s after teleporting, all fall damage is negated.
--   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap) and [Strong Leap](Attunement-less.md#strong-leap).
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to chain multiple dashes in a row. The amount of dashes you gain per cast is dictated by the level of your Neural Pathway; e.g. 2 dashes at level 2, 3 at level 3 and so on.
+-   Shares a cooldown with [Flame Leap](Flame_Leap.md) and [Strong Leap](Strong_Leap.md).
+-   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to chain multiple dashes in a row. The amount of dashes you gain per cast is dictated by the level of your Neural Pathway; e.g. 2 dashes at level 2, 3 at level 3 and so on.
     -   At level 3 onward, you can press M2 to end the Mantra early.
     -   This spark increases the Mantra's cooldown by 30 seconds.
 
@@ -1111,7 +1111,7 @@ N/A
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
 -   Parry window is at the end of the first flash.
--   Shares a cooldown with [Sing](Attunement-less.md#sing).
+-   Shares a cooldown with [Sing](Sing.md).
 -   **Cannot proc [Deep Gems](Deep_Gems.md)**
 -   Can be upgraded with the [Peripheral Vision](Talents.md#peripheral-vision) Talent, allowing Glare to hit enemies without them having to face you.
 
@@ -1235,7 +1235,7 @@ N/A
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the [Off your Game](Talents.md#off-your-game) Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the [Oh the Irony](Talents.md#oh-the-irony) Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
--   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
+-   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus.md)) will instantly start the fight, skipping all dialogue.
 
  |
 | 
@@ -1275,7 +1275,7 @@ N/A
 -   Inflicts Charm on nearby entities for 10 seconds.
 -   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
 -   Can be modified with cloud and stratus stones to increase range, but increase the cooldown. (1 Cloudstone = +2s CD, 1 Stratus stone = +3s CD)
--   Shares a cooldown with [Glare](Attunement-less.md#glare).
+-   Shares a cooldown with [Glare](Glare.md).
 -   Can be upgraded with the [Encore](Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the [Propagandist](Talents.md#propagandist) Talent, granting your allies [Overcharm](Status_Effects.md) for 15 seconds.
 
@@ -1318,7 +1318,7 @@ Blunt ResistanceBlunt
 -   Dread Whisper's damage will slightly scale on how insane your opponent is.
 -   Landing Dread Whisper multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain/retain the damage buff.
--   10 Second cooldown, shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
+-   10 Second cooldown, shares a cooldown with all other [grab Mantras](Grab_Mantras.md).
 -   Deals 6 posture damage.
 -   Has an wind-up of 0.4s, and an endlag of 1.95s (0.25s if whiffed).
 -   Inflicts Charm for 7.5s on hit.
@@ -1327,7 +1327,7 @@ Blunt ResistanceBlunt
 -   Does **not** apply insanity.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
-    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using Mantras such as [Eclipse Kick](Shadowcast.md#eclipse-kick) to try timing these to hit the opponent as soon as they're released.
+    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using Mantras such as [Eclipse Kick](Eclipse_Kick.md) to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled with the lunge.
 
  |
@@ -1999,7 +1999,7 @@ Slash ResistanceSlash
 
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
--   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish).
+-   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](<Master's_Flourish.md>).
 -   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
 -   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
@@ -2038,7 +2038,7 @@ Slash ResistanceSlash
 -   **Strong Left** used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a Strong Left hit.
 -   **Rapid Slashes** is one of Vergil's moves from the _Devil May Cry_ series.
 -   **Revenge** takes its sound effects from the indie RPG game _OMORI_ ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
--   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
+-   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance ones body, which is why [Silenthearts](Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
 -   For about a week before **Ether Barrage** was added, there was a bug where a duplicate of **Rapid Punches** would be available to pick as an Intelligence Combat Mantra. This of course was a placeholder, and was later replaced by **Ether Barrage** when it fully released.
 -   **Slice 'n' Dice** is likely a reference to Shiv's ability "[Slice and Dice](<https://deadlock.wiki/Shiv#(2)_Slice_and_Dice>)" from the game _Deadlock_, due to the 2nd cast mimicking Shiv's "max rage" Slice and Dice, which automatically retraces the attack path taken dealing damage a second time.
 -   **Ether Barrage** might have been inspired by Ki Blasts from the _Dragon Ball_ series.

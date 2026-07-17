@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | allowed weapons | Greataxe, Greatsword, Shield, Greathammer |
 | starting weapons | Great Maul, Saint Jay's Hammer, Hero's Blade of Frost |
 
-_This is the [Memento](Mementos.md). For the holder of this Memento, see [Saint Jay (individual)](<Saint_Jay_(individual).md>)._
+_This is the [Memento](Memento.md). For the holder of this Memento, see [Saint Jay (individual)](<Saint_Jay_(individual).md>)._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Overview
 
-Saint Jay (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode, It follows in the path of [Saint Jay](<Saint_Jay_(individual).md>), a disciple of the Hero of Frost, [Faust](Faust.md) and is unlocked by default.
+Saint Jay (Memento) is a playable [Memento](Memento.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode, It follows in the path of [Saint Jay](<Saint_Jay_(individual).md>), a disciple of the Hero of Frost, [Faust](Faust.md) and is unlocked by default.
 
 Upon reaching Power 20 with this Memento, the player will gain the "Saint" title on that character. This title will be lost should the player wipe.
 
@@ -126,8 +126,8 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
--   You can increase the size of this Mantra with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
--   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   You can increase the size of this Mantra with [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md), but size modifiers increases its cooldown.
+-   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](Aeon_Logstone.md) and [Eternal Logstones](Eternal_Logstone.md).
 -   Hits multiple times in a row.
 -   Knocks back targets.
 -   Can be upgraded with the Preceding Chill Talent, freezing opponents if they get hit by the final ticks of your Ice Beam.
@@ -172,7 +172,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Deals 4/5/6/7/8 posture damage per level.
 -   Has a cooldown of 12 seconds.
 -   The first hit has 9.18x PvE scaling, the second hit has 6.5x PvE scaling (multiply scaled damage dealt by 9.18/6.5x for PvE damage).
--   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](Aeon_Logstone.md) and [Eternal Logstones](Eternal_Logstone.md).
 -   You can press block during the windup to cancel the impale.
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
@@ -212,7 +212,7 @@ Slash ResistanceSlash
 
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
--   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish).
+-   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](<Master's_Flourish.md>).
 -   On follow-up, this Mantra deals 10[/15](Caster_Fur_Pauldrons.md) base damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
 -   Deals 10[/15](Caster_Fur_Pauldrons.md) posture damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
@@ -302,7 +302,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
 -   13 second cooldown.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Applies Chill for 2 second per hit. This cannot be modified.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size of the AoE.
+-   Can be modified with [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) to increase the size of the AoE.
 
  |
 
@@ -398,14 +398,14 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 **Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
 -   Has a base damage of 30[/32.7](Caster_Fur_Pauldrons.md) per level with 2.75 Frostdraw scaling.
--   Modifying this Mantra with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
+-   Modifying this Mantra with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Magnifying_Stone.md) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
 -   Deals 15 posture damage per level. The additional hit from Glass/Magnifying Stones deals 5 posture damage.
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Can be used to scale walls and terrain.
 -   Inflicts a 1 second Chill. This cannot be modified.
--   Compatible with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers), causing the move to form a small ice eruption at the end of the pillar. Adding more AoE modifiers increases the size of the eruption.
--   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to become wider.
+-   Compatible with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Magnifying_Stone.md), causing the move to form a small ice eruption at the end of the pillar. Adding more AoE modifiers increases the size of the eruption.
+-   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Stratus_Stone.md) to become wider.
 -   Can be modified with [Crystal](Mantra_Modifiers.md) and [Perfect Lenses](Mantra_Modifiers.md) to increase the range of the Arc.
 
  |
@@ -449,7 +449,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
--   Inflicts Chill for 5 seconds. This can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts Chill for 5 seconds. This can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Eternal_Logstone.md).
 -   Slightly knocks back target(s).
 -   Can break objects.
 -   Press F during Ice Smash's windup to initiate a second hit dealing 80% of the damage of the first hit.
@@ -548,15 +548,15 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 **Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
 -   Has a base damage of 5[/5.5](Caster_Fur_Pauldrons.md) per level, per hit (9) with 2.75 Frostdraw scaling.
--   The [Spring Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
--   The [Round Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
+-   The [Spring Spark](Spring_Spark.md) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
+-   The [Round Spark](Round_Spark.md) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
 -   Deals 1 posture damage per hit (9 when sparkless). The Round Spark variant deals 2 posture damage per hit (10, hitting block counts as 2).
 -   10 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Does not inflict Chill.
 -   Ends instantly if parried.
--   Spawns an ice patch on use. [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
+-   Spawns an ice patch on use. [Vibrant Gems](Vibrant_Gem.md) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
+-   Can be modified with [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) to increase the Mantra size.
 -   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
 -   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.
 
@@ -613,7 +613,7 @@ Slash ResistanceSlash
 
 -   Punishing Blow \[Rare Talent\] - Heavy Weapons Daze opponents for 1s when you interrupt their Basic Attack with your own.
     -   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
-    -   Also procs if you land a critical with the M1 tag during their M1 animation.
+    -   Also procs if you land a critical with the [M1 tag](M1_tag.md) during their M1 animation.
 
 ### Dravik, The Rat King
 
@@ -631,7 +631,7 @@ Slash ResistanceSlash
 -   Crippling Darkness \[Outfit Talent\] - Your non-Basic Attacks have 20% PEN.
     -   Grants +20% PEN to anything that is not a weapon attack.
         -   Primarily, this is just 20% Mantra PEN, however this will also affect non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
-        -   [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which bypass armor, deal more damage against Reinforce than they would otherwise.
+        -   [Reinforce's](Reinforce.md) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which bypass armor, deal more damage against Reinforce than they would otherwise.
 
   
 
@@ -703,12 +703,12 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 -   Deals 3 posture damage per hit (5).
 -   Has a cooldown of 33 seconds.
 -   Has 6.48x PvE scaling (multiply scaled damage dealt by 6.48 for PvE damage).
--   Heals 2%, increasing with level and [Drift/Rush Shards](Mantra_Modifiers.md#regular-modifiers), up to 10%.
+-   Heals 2%, increasing with level and [Drift/Rush Shards](Drift_Shard.md), up to 10%.
 -   Applies 1 second of chill per hit. This cannot be modified.
 -   Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.
--   Shares a cooldown with [Reinforce](Attunement-less.md#reinforce).
+-   Shares a cooldown with [Reinforce](Reinforce.md).
 -   Does not proc [Deep Gems](Deep_Gems.md) on hit.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), turning you into an ice crystal on use. While this variant of Iceberg is active, you gain i-frames, but cannot move or act. If used midair, you will quickly descend towards the ground, dealing damage on impact and flinging/ragdolling opponents. This also negates fall damage.
-    -   Can be modified with [Drift/Rush Shards](Mantra_Modifiers.md#regular-modifiers) to increase the fall speed.
+-   Can be modified with a [Blast Spark](Blast_Spark.md), turning you into an ice crystal on use. While this variant of Iceberg is active, you gain i-frames, but cannot move or act. If used midair, you will quickly descend towards the ground, dealing damage on impact and flinging/ragdolling opponents. This also negates fall damage.
+    -   Can be modified with [Drift/Rush Shards](Drift_Shard.md) to increase the fall speed.
 
  |

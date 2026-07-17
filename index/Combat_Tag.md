@@ -12,23 +12,23 @@ categories: [Character, Mechanics]
 
 Combat Tag (also known as In Combat or In Danger, commonly abbreviated to Ctag), is the state a player enters upon getting hit by or interacting with an attack from any [enemy](Enemies.md), [monster](Monsters.md), [boss](Bosses.md), player, or other hazard. This includes dodging, parrying and blocking.
 
-_(Note: Allies through [Vow of Mastery](Vow_of_Mastery.md), [Vow of Allegiance](Combat_Mechanics.md#alliances), [guildmates](Guilds.md), or being friends on Roblox do not proc combat tag if they hit you.)_
+_(Note: Allies through [Vow of Mastery](Vow_of_Mastery.md), [Vow of Allegiance](Vow_of_Allegiance.md), [guildmates](Guilds.md), or being friends on Roblox do not proc combat tag if they hit you.)_
 
 Its main purpose is to punish rage-quitting and leaving during combat.
 
 ### Indicated by
 
 -   The light blueish purple/orange/red skull is visible at the top of the screen.
--   Combat music of the Location you're in will start playing.
+-   Combat music of the [Location](Locations.md) you're in will start playing.
 
 ### Consequences of entering combat
 
 -   The damage modifier soft cap is reduced from +50% damage to +25%.
--   Your natural health Regeneration is reduced, as well as healing from [Campfires](Campfire_Pit.md).
+-   Your natural health Regeneration is reduced, as well as healing from [Campfires](Campfire.md).
 -   Some [Talents](Talents.md) activate upon inflicting a Combat Tag or by being inflicted with one.
     -   Example: [Ready Or Not](Talents.md#ready-or-not) will cut the damage from the first hit you take outside of combat in half.
 -   You cannot [assassinate](Stealth.md) enemies without the [Dustlunge](Talents.md#dustlunge) Talent.
--   You cannot switch weapons or equipment (unless you're a [Silentheart](Oath%253A_Silentheart.md)).
+-   You cannot switch weapons or equipment (unless you're a [Silentheart](Silentheart.md)).
 -   Certain NPCs will have unique dialogue, often disallowing their services.
 -   You cannot use certain items like [Idol of Yun'Shuls](<Idol_of_Yun'Shul.md>).
 -   You cannot use the [Chime of Dwelling](Chime_of_Dwelling.md) or enter [Guild Bases](Guild_Bases.md).
@@ -69,7 +69,7 @@ You can remove Combat Tag from players you've combat tagged by saying "mb \[Firs
 
 ## Combat Quotes
 
-When the skull at the top appears, there is a quote under it that varies depending on your state and Location.
+When the skull at the top appears, there is a quote under it that varies depending on your state and [Location](Locations.md).
 
 List of Quotes:
 
@@ -77,7 +77,7 @@ List of Quotes:
 2.  "The Void's influence draws you ever closer to the Depths." - Obtained while in a [Voidzone](Voidzones.md).
 3.  "Your heart beats faster as the end draws near." - Obtained while your health bar is stained.
 4.  "Adrenaline surges into your veins as tensions thicken." - Obtained while your health bar is not stained.
-5.  "You feel a heavy weight on your body; one hit is all it takes to collapse." - Obtained if you have the [Glass Bones](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier.
+5.  "You feel a heavy weight on your body; one hit is all it takes to collapse." - Obtained if you have the [Glass Bones](Glass_Bones.md) Echo Modifier.
 
 ## Trivia
 
@@ -87,5 +87,5 @@ List of Quotes:
     3.  Jumping into the void in the [First Layer](First_Layer.md) while above the void threshold.
 -   You can still swap weapons in combat via abilities that replace your current weapon such as [Crazy Slots](Crazy_Slots.md).
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
--   If you dodge an [environmental hazard](Environmental_Hazards.md) or a [Bloatskipper](Mudskipper.md#bloatskipper) explosion, the name of the attacker will be "_**God**_".
+-   If you dodge an [environmental hazard](Environmental_Hazards.md) or a [Bloatskipper](Bloatskipper.md) explosion, the name of the attacker will be "_**God**_".
 -   Allies used to be able to tag you normally with a shorter PvP timer, this is no longer the case.

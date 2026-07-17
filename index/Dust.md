@@ -33,19 +33,7 @@ Dust is located outside [Castle Light](Castle_Light.md) in the cemetery to it's 
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Gods... as above, so below, please. Have mercy on us sinful children of <a href="Glossary.md#lumen">Lumen</a>, for it is all we have.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Gods... as above, so below, please. Have mercy on us sinful children of <a href="Glossary.md#lumen">Lumen</a>, for it is all we have.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

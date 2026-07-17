@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Dagg
 
 ## Description
 
-A Formless Shard can be obtained via using a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible weapon and selecting the Motif option, granting you the weapon's [Motif](Motifs.md) and turning the weapon into a Formless Shard.
+A Formless Shard can be obtained via using a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible weapon and selecting the Motif option, granting you the weapon's [Motif](Motif.md) and turning the weapon into a Formless Shard.
 
 Check the [Motifs](Motifs.md) page to see all of the weapons you can obtain a Motif and Formless Shard from.
 
@@ -42,7 +42,7 @@ Check the [Motifs](Motifs.md) page to see all of the weapons you can obtain a Mo
 
 The user swings back their arm and performs a [Mudskipper](Mudskipper.md)\-like swing, with a much longer windup. This attack deals **1 damage** and **2 posture damage**. With a relatively long critical cooldown of **10 seconds**, this critical is the worst damage dealing attack in the game.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

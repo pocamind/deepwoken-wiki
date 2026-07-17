@@ -25,19 +25,19 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Darksteel Plate** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+**Darksteel Plate** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 300 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Erisore](Ores.md#erisore), one (1) [Strange Claw](Strange_Claw.md) and one (1) [Dark Feather](Dark_Feather.md) to craft.
+This Outfit costs 300 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Erisore](Erisore.md), one (1) [Strange Claw](Strange_Claw.md) and one (1) [Dark Feather](Dark_Feather.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 20 [Fortitude](Attributes.md#ftd) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 20 [Fortitude](Fortitude.md) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
 
 The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 

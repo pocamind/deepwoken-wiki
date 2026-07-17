@@ -1,9 +1,9 @@
 ---
 title: Jurik
-revid: 220384
+revid: 216765
 source: https://deepwoken.fandom.com/wiki/Jurik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Stub pages without reason, StubPages, Aspect culture]
+categories: [Stub pages without reason, StubPages, "Content not present in-game", Aspect culture]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

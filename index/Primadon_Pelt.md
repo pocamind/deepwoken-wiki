@@ -32,4 +32,4 @@ categories: [Items, Drops, Ingredients]
     -   [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md): 1x [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1x Primadon Pelt + 3x [Might Gems](Might_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
     -   [Reinforced War Helmet](Reinforced_War_Helmet.md): 1x [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1x Primadon Pelt + 2x [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
 -   [Ingredients](Ingredients.md)
-    -   [Ether Refined Hide](Ether_Refined_Hide.md): 1x **Primadon Pelt** + 2x [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1x [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>) in the [Lost Forge](Lost_Forge_of_Leiuna.md).
+    -   [Ether Refined Hide](Ether_Refined_Hide.md): 1x **Primadon Pelt** + 2x [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1x [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>) in the [Lost Forge](Lost_Forge.md).

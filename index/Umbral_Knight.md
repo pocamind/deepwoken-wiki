@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Umbral Knight is a damage dealing [enchantment](Enchantments.md) that strikes your opponent after a delay.
+Umbral Knight is a damage dealing [enchantment](Enchantment.md) that strikes your opponent after a delay.
 
 ## Effect
 

@@ -32,7 +32,7 @@ This page consists of Humanoid NPCs that fight back or attack you on sight. Incl
 
 ## Reputable Factions
 
-**The Ministry [Ministryiconfaction](The_Ministry.md)**
+**The Ministry [Ministryiconfaction](Ministry.md)**
 
 **The Summer Company [Summericonfaction](The_Summer_Company.md)**
 
@@ -42,15 +42,15 @@ This page consists of Humanoid NPCs that fight back or attack you on sight. Incl
 
 **Etrea [Etreaiconfaction](Etrea.md)**
 
-**Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)**
+**Knives of Eylis [Knives of Eylis](Knives_of_Eylis.md)**
 
-**The Central Authority [Authorityiconfaction](The_Central_Authority.md)**
+**The Central Authority [Authorityiconfaction](Central_Authority.md)**
 
-**The Hive [Hiveiconfaction](The_Hive.md)**
+**The Hive [Hiveiconfaction](Hive.md)**
 
-**The Divers [Diversiconfaction](The_Divers.md)**
+**The Divers [Diversiconfaction](Divers.md)**
 
-**The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)**
+**The Children of Navae [Navaeiconfaction](Children_of_Navae.md)**
 
 **The Hundred Legions**
 
@@ -62,7 +62,7 @@ _Main Article - [Faction Ambushes](Faction_Ambushes.md)_
 
 These are the NPCS that factions will send after you if you have low enough reputation with them.
 
-**The Ministry [Ministryiconfaction](The_Ministry.md)**
+**The Ministry [Ministryiconfaction](Ministry.md)**
 
 **The Summer Company [Summericonfaction](The_Summer_Company.md)**
 
@@ -70,9 +70,9 @@ These are the NPCS that factions will send after you if you have low enough repu
 
 **Etrea [Etreaiconfaction](Etrea.md)**
 
-**The Central Authority [Authorityiconfaction](The_Central_Authority.md)**
+**The Central Authority [Authorityiconfaction](Central_Authority.md)**
 
-**The Hive [Hiveiconfaction](The_Hive.md)**
+**The Hive [Hiveiconfaction](Hive.md)**
 
 **The Legion**
 
@@ -86,7 +86,7 @@ These are the NPCS that factions will send after you if you have low enough repu
 
 **The Ignition Union**
 
-**The Ministry [Ministryiconfaction](The_Ministry.md)**
+**The Ministry [Ministryiconfaction](Ministry.md)**
 
 **Attunement Trainers**
 

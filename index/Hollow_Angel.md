@@ -21,7 +21,7 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 
 ## Description
 
-**Hollow Angels**, previously known as **Lesser Angels**, are white and dull-yellow humanoid creatures with wings. They wield black recolors of the [Iron Spear](Iron_Spear.md) and use [Crazy Slots](Crazy_Slots.md)' Divine Spear ability. They are summoned by entities called [Watchers](Watcher.md). Many can be found in Celtor, the sunken city in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). Each will summon two Hollow Angels. A Watcher can also be found in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) in Erisia, and will only spawn a single Hollow Angel. The Hollow Angel can also be summoned as a Trial when attempting to escape the Depths.
+**Hollow Angels**, previously known as **Lesser Angels**, are white and dull-yellow humanoid creatures with wings. They wield black recolors of the [Iron Spear](Iron_Spear.md) and use [Crazy Slots](Crazy_Slots.md)' Divine Spear ability. They are summoned by entities called [Watchers](Watcher.md). Many can be found in Celtor, the sunken city in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). Each will summon two Hollow Angels. A Watcher can also be found in the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md) in Erisia, and will only spawn a single Hollow Angel. The Hollow Angel can also be summoned as a Trial when attempting to escape the Depths.
 
   
 
@@ -128,7 +128,7 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 ## Trivia
 
 -   Similar to Mudskippers, the Hollow Angels' AI will dictate them to keep out of your effective range. They will constantly back up but will still keep you within the range of their spears.
--   All Angels have **incredibly high** posture resistance, meaning you will have to consistently trade parries with them to get an attack on them without [Mantras](Mantras.md) or [Talents](Talents.md) that will bypass this ([Fire Blade](Flamecharm.md#fire-blade) and [Strong Left](Attunement-less.md#strong-left) is good for this in particular, especially in the [Trial of One](Trial_of_One.md)).
+-   All Angels have **incredibly high** posture resistance, meaning you will have to consistently trade parries with them to get an attack on them without [Mantras](Mantras.md) or [Talents](Talents.md) that will bypass this ([Fire Blade](Fire_Blade.md) and [Strong Left](Strong_Left.md) is good for this in particular, especially in the [Trial of One](Trial_of_One.md)).
 -   Hollow Angels will not despawn for a prolonged period of time, meaning that players should not assume they are safe by escaping via climbing.
 -   Hollow Angels previously used to attack any other monsters in the Depths, but this was silently removed in a shadow update.
 -   They resemble the Malebranche demons from the _Castlevania_ animated series episode, _The Harvest_.

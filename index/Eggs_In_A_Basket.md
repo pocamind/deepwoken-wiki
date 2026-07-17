@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Eggs In A Basket**_ is a [Book](Books.md).
+_**Eggs In A Basket**_ is a [Book](Book.md).
 
 ## Text
 

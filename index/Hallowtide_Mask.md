@@ -21,13 +21,13 @@ notices:
 
 ## Description
 
-The Hallowtide Mask is a Tool obtained from [Lysander Spellhardt](Lysander_Spellhardt.md) during [Hallowtide](Hallowtide.md). It can be used to spook NPCs. Each spook grants you 3 [Joy](Joy.md). All NPCs have a 30 minute cooldown before they can be scared again. The mask can be worn whenever but cannot spook NPCs unless it is Hallowtide.
+The Hallowtide Mask is a Tool obtained from [Lysander Spellhardt](Lysander_Spellhardt.md) during [Hallowtide](<Hallowtide_(Event).md>). It can be used to spook NPCs. Each spook grants you 3 [Joy](Joy.md). All NPCs have a 30 minute cooldown before they can be scared again. The mask can be worn whenever but cannot spook NPCs unless it is Hallowtide.
 
 Dynamic/non-human NPCs such as Town Guards or the friendly [Kyrsgarde](Kyrsgarde.md) will act as normal and not be scared. This does not grant Joy.
 
 ## Obtainment
 
-A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingredients.md), [Fine Ink](Hallowtide_Mask_Ingredients.md), and [Shell Stock](Hallowtide_Mask_Ingredients.md) to Lysander Spellhardt in [The Floating Keep](The_Floating_Keep.md). When bringing all three items to him, he will give you the mask.
+A Hallowtide mask can be crafted by bringing a [Paperette](Paperette.md), [Fine Ink](Fine_Ink.md), and [Shell Stock](Shell_Stock.md) to Lysander Spellhardt in [The Floating Keep](The_Floating_Keep.md). When bringing all three items to him, he will give you the mask.
 
 ## Scare Reactions
 
@@ -75,7 +75,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Hah, I've seen worse." ([High Inquisitor Merey](High_Inquisitor_Merey.md))
 -   "Hahah, good one! Hey, Interceptor, check this out!" ([Sentinel Augustus](Sentinel_Augustus.md))
 -   "Hey, nice mask, bub! Where'd you get one?" (Sentinel Augustus)
--   "Ho ho! That's the spirit! Now do that unto someone else." ([Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md))
+-   "Ho ho! That's the spirit! Now do that unto someone else." ([Galpin Spellhardt](Galpin_Spellhardt.md))
 -   "Hoy, Well done, such joy! Now, show the world what thou canst do!" (Galpin Spellhardt)
 -   "HUTTAH- Oh, it's just you! Be careful, I almost knocked you out there!" ([Chud Steel](Chud_Steel.md))
 -   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))

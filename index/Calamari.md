@@ -26,7 +26,7 @@ categories: [Food]
 
 **Calamari** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
 
 ### Effect
 
@@ -36,4 +36,4 @@ When consumed, it replenishes 25% Stomach and 5% Water.
 
 ### Recipe
 
--   1 [Squid](Squid.md) and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 [Squid](Squid.md) and 1 [Gathered Wheat](Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

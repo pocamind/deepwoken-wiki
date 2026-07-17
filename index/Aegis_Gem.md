@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
 
 ## Description
 
-The **Aegis Gem** is a light purple diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Aegis Gem** is a light purple diamond-shaped [Deep Gem](Deep_Gem.md).
 
 ## Effect
 

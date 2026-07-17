@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Baneful Syrinx** is a consumable [Relic](Relics.md) with **10 uses**. Baneful Syrinx's usage is teleporting you to various locations within [Scyphozia](First_Layer.md). Short cooldown upon usage.
+The **Baneful Syrinx** is a consumable [Relic](Relic.md) with **10 uses**. Baneful Syrinx's usage is teleporting you to various locations within [Scyphozia](Scyphozia.md). Short cooldown upon usage.
 
 Upon usage, the user will be slowed and is prompted to select one of three locations:
 

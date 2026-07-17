@@ -31,47 +31,11 @@ Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the 
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Ah, new blood? Come to try your hand against your betters?</td>
-</tr>
-<tr>
-  <td>Try my hand? What do you mean?</td>
-</tr>
-<tr>
-  <td>Pick up a sparring vest and strap it on. You can spar with an instructor.</td>
-</tr>
-<tr>
-  <td>I want to spar with an instructor.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], teleports you to the Temple Sparring Hall</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, new blood? Come to try your hand against your betters?</td></tr><tr><td>Try my hand? What do you mean?</td></tr><tr><td>Pick up a sparring vest and strap it on. You can spar with an instructor.</td></tr><tr><td>I want to spar with an instructor.</td></tr><tr><td>[End Dialogue], teleports you to the Temple Sparring Hall</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Ah you're back! Here to test your mettle?</td>
-</tr>
-<tr>
-  <td>I want to spar with an instructor.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], teleports you to the Temple Sparring Hall</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah you're back! Here to test your mettle?</td></tr><tr><td>I want to spar with an instructor.</td></tr><tr><td>[End Dialogue], teleports you to the Temple Sparring Hall</td></tr></tbody></table>
 
 ## Trivia
 

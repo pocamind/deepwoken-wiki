@@ -104,7 +104,7 @@ Dodge
 **Call of the Horde**  
 (★☆☆)
 
- | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two [Mudskippers](Mudskipper.md) that can either be a [Bloatskipper](Mudskipper.md#bloatskipper) or a [Miniskipper](Mudskipper.md). Two of the same Mudskipper types can spawn as well. Also inflicts some amount of insanity.
+ | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two [Mudskippers](Mudskipper.md) that can either be a [Bloatskipper](Bloatskipper.md) or a [Miniskipper](Miniskipper.md). Two of the same Mudskipper types can spawn as well. Also inflicts some amount of insanity.
 
 -   ¤ Debuff
 -   \+ Summon

@@ -32,48 +32,12 @@ Neophyte Jefferson is located on [Alsin's Landing](<Alsin's_Landing.md>), standi
 
 **Justicar:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*He appears to be listening to the story of the nearby Justicar, jolting at your approach.*</i> Oh! Thank you for all that you do for us! <i>*He salutes you in the fashion of an <a href="Glossary.md#the-central-authority">Authority</a> soldier, seemingly forgetting that he is, in fact, a Justicar.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*He appears to be listening to the story of the nearby Justicar, jolting at your approach.*</i> Oh! Thank you for all that you do for us! <i>*He salutes you in the fashion of an <a href="Glossary.md#the-central-authority">Authority</a> soldier, seemingly forgetting that he is, in fact, a Justicar.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Voidwalker:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Get away from me!..</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Get away from me!..</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Other Origins:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*He appears to be listening to the story of the nearby Justicar .*</i> Oh! Hello there! If you don't mind, I'm trying to listen to the story my friend is telling?</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*He appears to be listening to the story of the nearby Justicar .*</i> Oh! Hello there! If you don't mind, I'm trying to listen to the story my friend is telling?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

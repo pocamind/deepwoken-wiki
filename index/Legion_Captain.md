@@ -17,7 +17,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The H
 
 ## Description
 
-The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](The_Starswept_Valley.md), [Upper Erisia](Upper_Erisia.md), and the [Aratel Island](Aratel_Island.md). They can be encountered in the following events:
+The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](Starswept_Valley.md), [Upper Erisia](Upper_Erisia.md), and the [Aratel Island](Aratel_Island.md). They can be encountered in the following events:
 
 -   Legion Captain and [Legion Soldier](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) (Upper Erisia)
 -   Legion Captain vs [Authority Lieutenant](Authority_Lieutenant.md) (Starswept Valley)
@@ -159,25 +159,7 @@ A Legion Captain executes its opponent after knocking them:
 
 This dialogue is unlocked if the player has Ally [Reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md).
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">The empire appreciates your contributions, [First Name]. As thanks I'd like to pass on word to Centurion Amara of your contributions. Please take my writ of recommendation to her, she might be willing to teach you the martial arts of the empire.</td>
-</tr>
-<tr>
-  <td colspan="12">I'd be honored.</td>
-</tr>
-<tr>
-  <td colspan="12"><i>*You are given a small scroll of parchment to take to Centurion Amara.*</i></td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue], player obtains Captain's Rec</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">The empire appreciates your contributions, [First Name]. As thanks I'd like to pass on word to Centurion Amara of your contributions. Please take my writ of recommendation to her, she might be willing to teach you the martial arts of the empire.</td></tr><tr><td colspan="12">I'd be honored.</td></tr><tr><td colspan="12"><i>*You are given a small scroll of parchment to take to Centurion Amara.*</i></td></tr><tr><td colspan="2">[End Dialogue], player obtains Captain's Rec</td></tr></tbody></table>
 
 ## Trivia
 

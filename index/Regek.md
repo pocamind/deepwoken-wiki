@@ -36,124 +36,15 @@ Regek can be found inside of a section labeled "Archives" in the Root Canopy of 
 
 **Quest Start:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Khimimi...? Another moth drawn to the flame?</td>
-</tr>
-<tr>
-  <td>Can you help me grow stronger?</td>
-</tr>
-<tr>
-  <td>Not a paw on those books, flea! I don't want you leaving your greases and oils on the inks... No no, you'll need to get something for me first...</td>
-</tr>
-<tr>
-  <td>What do you need?</td>
-</tr>
-<tr>
-  <td>Souls.</td>
-</tr>
-<tr>
-  <td>Souls?</td>
-</tr>
-<tr>
-  <td>Yes. Souls. Three. I want three souls.</td>
-</tr>
-<tr>
-  <td>Uhh...</td>
-</tr>
-<tr>
-  <td>Khimimi... The souls of three rare plants that only grow here in the Hive due to the work of the <a href="Glossary.md#lifeweave--lifewoven">Lifeweavers</a>.</td>
-</tr>
-<tr>
-  <td>Oh! Yeah. I can do that.</td>
-</tr>
-<tr>
-  <td>Khi! I knew you were the kind of flea that would accept meaningless tasks. Bring me the souls or no books for you.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Khimimi...? Another moth drawn to the flame?</td></tr><tr><td>Can you help me grow stronger?</td></tr><tr><td>Not a paw on those books, flea! I don't want you leaving your greases and oils on the inks... No no, you'll need to get something for me first...</td></tr><tr><td>What do you need?</td></tr><tr><td>Souls.</td></tr><tr><td>Souls?</td></tr><tr><td>Yes. Souls. Three. I want three souls.</td></tr><tr><td>Uhh...</td></tr><tr><td>Khimimi... The souls of three rare plants that only grow here in the Hive due to the work of the <a href="Glossary.md#lifeweave--lifewoven">Lifeweavers</a>.</td></tr><tr><td>Oh! Yeah. I can do that.</td></tr><tr><td>Khi! I knew you were the kind of flea that would accept meaningless tasks. Bring me the souls or no books for you.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Quest End:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">Player does have three souls</td>
-  <td colspan="2">Player does not have three souls</td>
-</tr>
-<tr>
-  <td colspan="2">Keh! Nicely done, waterflea. <i>*They stash the vials of sap away somewhere unseen, and a shiver runs up your spine.*</i> With that out of the way, I'd be happy to share with you the knowledge of the Hive...</td>
-  <td colspan="2">Keh keh! Showing yourself to me before you've done as I've asked? How impertinent this waterflea is... Bring me the souls. The plants.</td>
-</tr>
-<tr>
-  <td>Can you help me grow stronger?</td>
-  <td>Tell me about yourself.</td>
-  <td>[End Dialogue]</td>
-</tr>
-<tr>
-  <td>[Opens Mantra Upgrade UI]</td>
-  <td>I'm the librarian. That's all you get to know. Keh heh heh! I can tell you about the Hive, though.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-  <td>Alright, what is there to know?</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Keh. This huge tree we're in right now is just one of the four <b>Greathives</b> in the world. The Greathives were constructed by the combined efforts of countless <b><a href="Glossary.md#lifeweave--lifewoven">Lifeweavers</a></b>, those who utilise the <a href="Glossary.md#the-song">Song</a> to manipulate life itself.</td>
-</tr>
-<tr>
-  <td></td>
-  <td>What's the motive?</td>
-</tr>
-<tr>
-  <td></td>
-  <td>The goal? To create a new world over the waves, one that can <i>grow</i> to match the rising tides. Ambitious, no? Khimimimi...</td>
-</tr>
-<tr>
-  <td></td>
-  <td>And what of the lands beyond the hive?</td>
-</tr>
-<tr>
-  <td></td>
-  <td><i>*They smirk, betraying a certain smugness.*</i> They can <i>drown</i> for all I care. Clinging onto the relics of the <a href="Glossary.md#the-old-world">Old World</a>... How foolish to think that the idiots that left us this world would have any insights into how to solve our dilemma. Khimimimi...</td>
-</tr>
-<tr>
-  <td></td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="2">Player does have three souls</td><td colspan="2">Player does not have three souls</td></tr><tr><td colspan="2">Keh! Nicely done, waterflea. <i>*They stash the vials of sap away somewhere unseen, and a shiver runs up your spine.*</i> With that out of the way, I'd be happy to share with you the knowledge of the Hive...</td><td colspan="2">Keh keh! Showing yourself to me before you've done as I've asked? How impertinent this waterflea is... Bring me the souls. The plants.</td></tr><tr><td>Can you help me grow stronger?</td><td>Tell me about yourself.</td><td>[End Dialogue]</td></tr><tr><td>[Opens Mantra Upgrade UI]</td><td>I'm the librarian. That's all you get to know. Keh heh heh! I can tell you about the Hive, though.</td></tr><tr><td>[End Dialogue]</td><td>Alright, what is there to know?</td></tr><tr><td></td><td>Keh. This huge tree we're in right now is just one of the four <b>Greathives</b> in the world. The Greathives were constructed by the combined efforts of countless <b><a href="Glossary.md#lifeweave--lifewoven">Lifeweavers</a></b>, those who utilise the <a href="Glossary.md#the-song">Song</a> to manipulate life itself.</td></tr><tr><td></td><td>What's the motive?</td></tr><tr><td></td><td>The goal? To create a new world over the waves, one that can <i>grow</i> to match the rising tides. Ambitious, no? Khimimimi...</td></tr><tr><td></td><td>And what of the lands beyond the hive?</td></tr><tr><td></td><td><i>*They smirk, betraying a certain smugness.*</i> They can <i>drown</i> for all I care. Clinging onto the relics of the <a href="Glossary.md#the-old-world">Old World</a>... How foolish to think that the idiots that left us this world would have any insights into how to solve our dilemma. Khimimimi...</td></tr><tr><td></td><td>[End Dialogue]</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">Khimimimi... Back for more?</td>
-</tr>
-<tr>
-  <td>Can you help me grow stronger?</td>
-  <td>Tell me about yourself.</td>
-</tr>
-<tr>
-  <td colspan="2">[See first instance.]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Khimimimi... Back for more?</td></tr><tr><td>Can you help me grow stronger?</td><td>Tell me about yourself.</td></tr><tr><td colspan="2">[See first instance.]</td></tr></tbody></table>
 
 ## Trivia
 

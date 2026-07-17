@@ -78,42 +78,42 @@ Attribute Flasks did not provide stat bonuses if there were no available investm
 
 ## Flask of Strength
 
-Crafted from two [Hellfire Lotuses](Primordial_Lotuses.md#hellfire-lotus), this Attribute Flask increased the [Strength](Attributes.md#str) Attribute by +1.
+Crafted from two [Hellfire Lotuses](Hellfire_Lotus.md), this Attribute Flask increased the [Strength](Strength.md) Attribute by +1.
 
-[Hellfire Lotuses](Primordial_Lotuses.md#hellfire-lotus) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Saramaed Summit](Saramaed_Summit.md).
+[Hellfire Lotuses](Hellfire_Lotus.md) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Saramaed Summit](Saramaed_Summit.md).
 
 ## Flask of Fortitude
 
-Crafted from two [Empyrean Lotuses](Primordial_Lotuses.md#empyrean-lotus), this Attribute Flask increased the [Fortitude](Attributes.md#ftd) Attribute by +1.
+Crafted from two [Empyrean Lotuses](Empyrean_Lotus.md), this Attribute Flask increased the [Fortitude](Fortitude.md) Attribute by +1.
 
-[Empyrean Lotuses](Primordial_Lotuses.md#empyrean-lotus) could be found at the [Deep Thresher Nest](Deep_Thresher_Nest.md).
+[Empyrean Lotuses](Empyrean_Lotus.md) could be found at the [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
 ## Flask of Agility
 
-Crafted from two [Zephyr Lotuses](Primordial_Lotuses.md#zephyr-lotus), this Attribute Flask increased the [Agility](Attributes.md#agl) Attribute by +1.
+Crafted from two [Zephyr Lotuses](Zephyr_Lotus.md), this Attribute Flask increased the [Agility](Agility.md) Attribute by +1.
 
-[Zephyr Lotuses](Primordial_Lotuses.md#zephyr-lotus) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
+[Zephyr Lotuses](Zephyr_Lotus.md) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
 
 ## Flask of Intelligence
 
-Crafted from two [Brilliant Lotuses](Primordial_Lotuses.md#brilliant-lotus), this Attribute Flask increased the [Intelligence](Attributes.md#int) Attribute by +1.
+Crafted from two [Brilliant Lotuses](Brilliant_Lotus.md), this Attribute Flask increased the [Intelligence](Intelligence.md) Attribute by +1.
 
-[Brilliant Lotuses](Primordial_Lotuses.md#brilliant-lotus) could be found at the [Saramaed Summit](Saramaed_Summit.md) and [Deep Thresher Nest](Deep_Thresher_Nest.md).
+[Brilliant Lotuses](Brilliant_Lotus.md) could be found at the [Saramaed Summit](Saramaed_Summit.md) and [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
 ## Flask of Willpower
 
-Crafted from two [Skyvalor Lotuses](Primordial_Lotuses.md#skyvalor-lotus), this Attribute Flask increased the [Willpower](Attributes.md#wll) Attribute by +1.
+Crafted from two [Skyvalor Lotuses](Skyvalor_Lotus.md), this Attribute Flask increased the [Willpower](Willpower.md) Attribute by +1.
 
-[Skyvalor Lotuses](Primordial_Lotuses.md#skyvalor-lotus) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Starfield Grove](Starfield_Grove.md).
+[Skyvalor Lotuses](Skyvalor_Lotus.md) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Starfield Grove](Starfield_Grove.md).
 
 ## Flask of Charisma
 
-Crafted from two [Miasmic Lotuses](Primordial_Lotuses.md#miasmic-lotus), this Attribute Flask increased the [Charisma](Attributes.md#cha) Attribute by +1.
+Crafted from two [Miasmic Lotuses](Miasmic_Lotus.md), this Attribute Flask increased the [Charisma](Charisma.md) Attribute by +1.
 
-[Miasmic Lotuses](Primordial_Lotuses.md#miasmic-lotus) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
+[Miasmic Lotuses](Miasmic_Lotus.md) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
 
 ## Trivia
 
 -   [The Hidden Grove](The_Hidden_Grove.md) was able to produce any of the Primordial Lotuses depending on the season.
--   Before being removed, drinking an Attribute Flask would award the "Drink an Attribute Flask" [Echo Triumph](Echoes.md#echo-triumphs).
+-   Before being removed, drinking an Attribute Flask would award the "Drink an Attribute Flask" [Echo Triumph](Echo_Triumph.md).
 -   Strangely, the colors of the Willpower, Intelligence, and Fortitude Flasks were entirely different from the colors of their respective Lotuses.

@@ -25,9 +25,9 @@ The Summer Company is a faction that operates in their headquarters, [Summer Isl
 
 The company was founded prior to 1062 CE when the [son of a young village blacksmith](Gunsmith_Rosen.md) who journeyed into the sea, returning with the innovations of guns and forever changing the art of combat.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 
-Alongside the [Ignition Union](The_Ignition_Union.md) and the [Divers](The_Divers.md), the Summer Company is employed by the [Authority](The_Central_Authority.md). Notably, there was an incident surrounding the Authority when [Gunsmith Hierka](Gunsmith_Hierka.md) of the [Bureau of Research](Bureau_of_Research.md) was sent to steal the company's secrets, resulting in the creation of the [Rifle Spear](Rifle_Spear.md).
+Alongside the [Ignition Union](The_Ignition_Union.md) and the [Divers](Divers.md), the Summer Company is employed by the [Authority](Authority.md). Notably, there was an incident surrounding the Authority when [Gunsmith Hierka](Gunsmith_Hierka.md) of the [Bureau of Research](Bureau_of_Research.md) was sent to steal the company's secrets, resulting in the creation of the [Rifle Spear](Rifle_Spear.md).
 
-They frequently come to blows with [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves, In retaliation, they snuck into [Miner's Landing](<Miner's_Landing.md>) and accidentally activated unfinished prototypes of the Union's security devices, the [Mechalodaunts](Megalodaunt.md), making the cyborgs aggressively attack friend and foe alike.
+They frequently come to blows with [Ignition Union](Ignition_Union.md), who steal their gunpowder and explosives for themselves, In retaliation, they snuck into [Miner's Landing](<Miner's_Landing.md>) and accidentally activated unfinished prototypes of the Union's security devices, the [Mechalodaunts](Megalodaunt.md), making the cyborgs aggressively attack friend and foe alike.
 
 ## Reputation
 
@@ -45,8 +45,8 @@ The Summer Company is among the factions to have a Bounty Board.
 
 Assisting the Summer Company in the following [Random Encounters](Random_Encounters.md) can grant positive reputation:
 
--   [Summer Company Guards](Summer_Company_Guard.md) [Summericonfaction](The_Summer_Company.md) vs. [Bandits](Bandit.md) (Summer Isle)
--   Summer Company Guards [Summericonfaction](The_Summer_Company.md) vs. [Ignition Union Fighter](Ignition_Union_Fighter.md) (Summer Isle)
+-   [Summer Company Guards](Summer_Company_Guard.md) [Summericonfaction](Summer_Company.md) vs. [Bandits](Bandit.md) (Summer Isle)
+-   Summer Company Guards [Summericonfaction](Summer_Company.md) vs. [Ignition Union Fighter](Ignition_Union_Fighter.md) (Summer Isle)
 -   [Summer Goons](Summer_Goon.md) vs. [Mechalodaunt](Mechalodaunt.md) ([Saramaed Crossing](Saramaed_Crossing.md), [Saramaed Summit](Saramaed_Summit.md))
 
 ### Dialogue

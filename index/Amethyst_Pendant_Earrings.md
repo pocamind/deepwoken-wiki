@@ -38,4 +38,4 @@ Amethyst Pendant Earrings are an [Equipment](Equipment.md) item under the "Ears"
 
 ## References
 
-1.  [↑](#cite-ref-1) Version History: [October 3rd, 2022](Version_History/2022-2021.md#october-3rd-2022)
+1.  [↑](#cite-ref-1) Version History: [October 3rd, 2022](Version_History/2022.md#october-3rd-2022)

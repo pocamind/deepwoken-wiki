@@ -22,7 +22,7 @@ Twisting turns and eternal darkness await those foolish enough to continue.
 
 The Firfire Caverns is a large cave system found in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). It is extremely dangerous; the ceiling will often collapse, and it contains every single monster found in the 1st Floor of the 2nd Layer. Its entrance will be locked if the player does not first activate the generator.
 
-It contains two exits. The first one leads to the [Firfire Village](Firfire.md), and the second is locked until the player talks to the village chief with the Ethiron's Gaze [Talent](Talents.md), leading to the [Nest Corridor](Nest_Corridor.md).
+It contains two exits. The first one leads to the [Firfire Village](Firfire.md), and the second is locked until the player talks to the village chief with the Ethiron's Gaze [Talent](Talent.md), leading to the [Nest Corridor](Nest_Corridor.md).
 
 Brief hallucinations of Bounder faces occasionally appear for a split second in the Firfire Caverns. These are only visual and serve to scare players (see [Ghost Bounder](Ghost_Bounder.md)).
 
@@ -35,7 +35,7 @@ Brief hallucinations of Bounder faces occasionally appear for a split second in 
 
 ### 4 Rune Puzzle
 
--   Located in the Firfire Cavern's bottom floor, accessed by falling through one of the false floors. Consists of 4 runes on the floor which when put in the right order opens up a long tunnel to a gate that teleports you to [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md). You can see the teleport destination from spawn marked by a glowing blue gate off in the distance. This can only be used if you have the Ethiron's Gaze Talent from the Quest given by the [Firfire](Firfire.md) village chief. However, be warned that this method will void your Light Hook.
+-   Located in the Firfire Cavern's bottom floor, accessed by falling through one of the false floors. Consists of 4 runes on the floor which when put in the right order opens up a long tunnel to a gate that teleports you to [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md). You can see the teleport destination from spawn marked by a glowing blue gate off in the distance. This can only be used if you have the Ethiron's Gaze Talent from the Quest given by the [Firfire](Firfire.md) village chief. However, be warned that this method will void your Light Hook.
 
 ### Potential Enemies
 

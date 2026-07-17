@@ -43,7 +43,7 @@ This weapon has 1 passive by default:
 **Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle:
 
 -   While used with 2 hands, this weapon is a club dealing blunt damage and applying a [Metal Rod](Status_Effects.md#metal-rods) on each M1. It also gains higher weight compared to the sword variant.
--   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate [Bleed](Status_Effects.md#bleed) damage, increasing its unmodified damage by 15%. It also gains a slight swing speed and PEN increase compared to the club variant.
+-   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate [Bleed](Bleed.md) damage, increasing its unmodified damage by 15%. It also gains a slight swing speed and PEN increase compared to the club variant.
 
 The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger) Talent, turning golden yellow. This effect applies to criticals as well.
 
@@ -51,7 +51,7 @@ The weapon also changes colors when the player owns the [Gilded Path: Scrapsinge
 
 The user plunges the Deepcrusher into the ground, causing an eruption of metal spikes surrounding the player in a hexagonal formation. Both the plunge and spike eruption deal damage and apply hitstun. If the plunge is parried, the spike eruption will be cancelled, however it will not be cancelled if blocked or dodged, as well as being hit after the plunge is complete.
 
-The first hit has a base damage of 20 with 5 Ironsing scaling, dealing pure Ironsing damage. Additionally, it has a windup of 0.55s. The second hit has a base damage of 25 with 5 Ironsing scaling, dealing pure Slash damage. Additionally it has a windup of 0.4s. Both hits have innate [Bleed](Status_Effects.md#bleed) regardless of your weapon stance.
+The first hit has a base damage of 20 with 5 Ironsing scaling, dealing pure Ironsing damage. Additionally, it has a windup of 0.55s. The second hit has a base damage of 25 with 5 Ironsing scaling, dealing pure Slash damage. Additionally it has a windup of 0.4s. Both hits have innate [Bleed](Bleed.md) regardless of your weapon stance.
 
 The critical has a cooldown of **10 seconds**.
 

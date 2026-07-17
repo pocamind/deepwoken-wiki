@@ -30,41 +30,7 @@ Minitrysa is covered with snow, with not much life around, aside from a few buil
 
 ## Loot Table
 
-<table>
-<tbody>
-<tr>
-  <td><a href="Outfits.md">Outfit Schematics</a></td>
-  <td></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Light Weapons</b>:</li>
-    <li><b>Medium Weapons</b>:</li>
-    <li><b>Heavy Weapons</b>:</li>
-    <li><b>Offhand Weapons</b>:</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:</li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:</li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><a href="Outfits.md">Outfit Schematics</a></td><td></td></tr><tr><td><b>Miscellaneous</b></td><td></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Light Weapons</b>:</li><li><b>Medium Weapons</b>:</li><li><b>Heavy Weapons</b>:</li><li><b>Offhand Weapons</b>:</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:</li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:</li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:</li></ul></td></tr></tbody></table>
 
   
 

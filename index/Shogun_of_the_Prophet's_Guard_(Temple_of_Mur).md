@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), formerly known as the Shogun Captain, is an instanced boss near the [Deep Thresher Nest](Deep_Thresher_Nest.md) encountered through its location by a boundary. This boss is optional to challenge [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>), however each [Memento](Mementos.md) has certain Talents and Mantras that can only be obtained by defeating this boss. It also goes without say that defeating the Temple Shogun is necessary to obtain a completion mark on the associated Memento tag in the character creation menu.
+The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), formerly known as the Shogun Captain, is an instanced boss near the [Deep Thresher Nest](Deep_Thresher_Nest.md) encountered through its location by a boundary. This boss is optional to challenge [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>), however each [Memento](Memento.md) has certain Talents and Mantras that can only be obtained by defeating this boss. It also goes without say that defeating the Temple Shogun is necessary to obtain a completion mark on the associated Memento tag in the character creation menu.
 
 ### Starting Fight with Shogun
 

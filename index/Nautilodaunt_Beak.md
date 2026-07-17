@@ -23,7 +23,7 @@ categories: [Items, Drops, Monster Mantra Ingredients]
 
 ## Description
 
-The **Nautilodaunt Beak** is a rarely dropping item that can be used to gain the "[Abyssal Ridge](Monster_Mantras.md#abyssal-ridge)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md).
+The **Nautilodaunt Beak** is a rarely dropping item that can be used to gain the "[Abyssal Ridge](Abyssal_Ridge.md)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md).
 
 It is also used as an ingredient in making the Master Armor "[Cala-Mariner](Cala-Mariner.md)." It can be obtained as rare drop from either the [Nautilodaunt](Nautilodaunt.md) or the [Fury Nautilodaunt](Fury_Nautilodaunt.md) and cannot be dropped alongside every other rare monster part.
 

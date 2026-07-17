@@ -25,7 +25,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Strange Merchant** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+**Strange Merchant** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -37,4 +37,4 @@ This Outfit requires the player to be at least [Power](Power.md) 15 to be crafte
 
 ### _Armor Stats_
 
-This Outfit has 9999 durability and grants +10% Physical resistence ResistanceBlunt ResistanceSlash and +10% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 9999 durability and grants +10% Physical resistence ResistanceBlunt ResistanceSlash and +10% Elemental resistance [ResistanceElemental](Attunement.md).

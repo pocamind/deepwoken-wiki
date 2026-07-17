@@ -29,9 +29,9 @@ An **Ongo** is a consumable fruit that can be found at [Isle of Vigils](Isle_of_
 
 ### Used in
 
--   [Candied Fruit](Candied_Fruit.md) - 2 Ongos and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
--   [Fruit Salad](Fruit_Salad.md) - 1 Ongo and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire_Pit.md) required.
--   [Kyrsdog](Kyrsdog.md) - 1 Ongo, 1 [Bread](Bread.md), and 1 [Frozen Membrane](Frozen_Membrane.md) at a [Campfire](Campfire_Pit.md).
+-   [Candied Fruit](Candied_Fruit.md) - 2 Ongos and 1 [Sap](Sap.md) at a [Campfire](Campfire.md).
+-   [Fruit Salad](Fruit_Salad.md) - 1 Ongo and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire.md) required.
+-   [Kyrsdog](Kyrsdog.md) - 1 Ongo, 1 [Bread](Bread.md), and 1 [Frozen Membrane](Frozen_Membrane.md) at a [Campfire](Campfire.md).
 
 ## Trivia
 

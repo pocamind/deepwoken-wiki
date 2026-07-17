@@ -30,19 +30,7 @@ Corvis was located at [Upper Erisia](Upper_Erisia.md), near [The Hidden Village]
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>It seems you do understand... I can see it in your eyes, you've <font><i>seen</i></font> things. Perhaps you could be of use... Have you ever thought of becoming a <b>Stormcaller</b>?</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>It seems you do understand... I can see it in your eyes, you've <font><i>seen</i></font> things. Perhaps you could be of use... Have you ever thought of becoming a <b>Stormcaller</b>?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

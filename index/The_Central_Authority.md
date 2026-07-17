@@ -42,17 +42,17 @@ The side effect of their practices is the Authority are far more fragile than on
 
 -   Every race aside from Adrets start out with lower reputation with The Authority. This starting reputation is only slightly lower than neutral, meaning that helping the Authority once or twice in Erisia is enough to set your reputation to neutral.
 -   The Authority's base of operations in the Eastern Luminant is [Fort Merit](Fort_Merit.md).
--   Randomly encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Erisia](Erisia.md).
+-   Randomly encountered in the [Starswept Valley](Starswept_Valley.md) and [Erisia](Erisia.md).
 
 ## Relationships
 
 -   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
--   Enemies with [The Kingdom of Etrea](Etrea.md).
+-   Enemies with [The Kingdom of Etrea](The_Kingdom_of_Etrea.md).
 -   Skirmishes with [The Hive](The_Hive.md), but not direct enemies.
 -   Enemies with [The Ministry](The_Ministry.md).
 -   Provides funding for [The Divers](The_Divers.md).
 -   Trades ammunition and arms with [The Summer Company](The_Summer_Company.md).
--   Contracts with the [Ignition Union](The_Ignition_Union.md) to kill monsters in the Depths.
+-   Contracts with the [Ignition Union](Ignition_Union.md) to kill monsters in the Depths.
 -   Occasionally hires [The Knives of Eylis](The_Knives_of_Eylis.md) to raid Etrean ships.
 
 ## Reputation
@@ -65,12 +65,12 @@ The Central Authority has [jobs](Job_Boards.md) on almost every job board in the
 
 Not only does The Authority have reputation beneficial quests, it also benefits from having the most [Random Encounters](Random_Encounters.md) of any other faction in the game. Assisting The Authority in any of these events will also grant you positive reputation:
 
--   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) ([Erisia](Erisia.md))
--   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) ([Upper Erisia](Upper_Erisia.md))
--   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs [Legion Soldiers](Legion_Soldier.md) (Upper Erisia)
--   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs Legion Soldier + [Legion Captain](Legion_Captain.md) ([The Viper's Jaw](<The_Viper's_Jaw.md>)/Upper Erisia)
--   [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md) vs Legion Captain ([Starswept Valley](The_Starswept_Valley.md))
--   [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md) vs [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) vs [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) ([Erisia](Erisia.md))
+-   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) vs [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) ([Upper Erisia](Upper_Erisia.md))
+-   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) vs [Legion Soldiers](Legion_Soldier.md) (Upper Erisia)
+-   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) vs Legion Soldier + [Legion Captain](Legion_Captain.md) ([The Viper's Jaw](<The_Viper's_Jaw.md>)/Upper Erisia)
+-   [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](Central_Authority.md) vs Legion Captain ([Starswept Valley](Starswept_Valley.md))
+-   [Authority Captain](Authority_Captain.md) [Authorityiconfaction](Central_Authority.md) vs [Hive Construct](Golem_Constructs.md) [Hiveiconfaction](Hive.md) ([Starswept Valley](Starswept_Valley.md))
 
 Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) exclusive NPC's such as the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) as usual.
 
@@ -109,4 +109,4 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 3.  [↑](#cite-ref-3) [Book](Books.md): [Jericho's Journal](<Jericho's_Journal.md>)  
     _How short-sighted we must be, for it was in the arms of our old enemy that we found him._
 4.  [↑](#cite-ref-4) [Falchion](Falchion.md) description
-5.  [↑](#cite-ref-5) [Book](Books.md): [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1)
+5.  [↑](#cite-ref-5) [Book](Books.md): [Children of the Aftertide I](Children_of_the_Aftertide_I.md)

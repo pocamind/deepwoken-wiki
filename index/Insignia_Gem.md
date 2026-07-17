@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-The **Insignia Gem** is a light blue diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Insignia Gem** is a light blue diamond-shaped [Deep Gem](Deep_Gem.md).
 
 ## Effect
 
@@ -33,8 +33,8 @@ Upon landing a Mantra with an Insignia Gem equipped, your next Mantra cast withi
 
 -   This Gem is best used on easy to hit Mantras that can be used to combo into other Mantras.
 -   Some Mantras cannot be buffed by Insignia Gem's effect.
-    -   [Eclipse Kick](Shadowcast.md#eclipse-kick)
-    -   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
+    -   [Eclipse Kick](Eclipse_Kick.md)
+    -   [Sightless Beam](Sightless_Beam.md)
     -   TBA
 
 ## Crafting

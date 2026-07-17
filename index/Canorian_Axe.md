@@ -40,7 +40,7 @@ categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
 
 ## Description
 
-The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Merchant Ship](Travelling_Merchant.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Merchant Ship](Chili.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
 
 ## Critical
 

@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Operation 'Distant Light' Report**_ is a [Book](Books.md).
+_**Operation 'Distant Light' Report**_ is a [Book](Book.md).
 
 ## Text
 

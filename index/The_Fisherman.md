@@ -17,7 +17,7 @@ categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Ench
 
 ## Description
 
-The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the [Chainwarden](Oath%253A_Chainwarden.md) Oath, implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess abnormally high Health and do a decent amount of damage.
+The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the [Chainwarden](Chainwarden.md) Oath, implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess abnormally high Health and do a decent amount of damage.
 
 It MAY scale off the level of person that took the quest. This is currently unknown.
 
@@ -25,7 +25,7 @@ The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fishe
 
 ## Moveset
 
-The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thundercall](Thundercall.md) and [Chainwarden](Oath%253A_Chainwarden.md) Mantras:
+The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thundercall](Thundercall.md) and [Chainwarden](Chainwarden.md) Mantras:
 
 | Name/Danger | Description |
 | --- | --- |

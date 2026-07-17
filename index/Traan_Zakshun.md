@@ -46,122 +46,25 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Look what the tide dragged in. You here for gear, or just lost?</td>
-</tr>
-<tr>
-  <td colspan="12">What?</td>
-</tr>
-<tr>
-  <td colspan="12">I sell my wares to those with some real fine tastes... and even finer notes. Ye' got that?</td>
-</tr>
-<tr>
-  <td colspan="12">What are you selling?</td>
-</tr>
-<tr>
-  <td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Look what the tide dragged in. You here for gear, or just lost?</td></tr><tr><td colspan="12">What?</td></tr><tr><td colspan="12">I sell my wares to those with some real fine tastes... and even finer notes. Ye' got that?</td></tr><tr><td colspan="12">What are you selling?</td></tr><tr><td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Back again? Here to actually buy something, or just stare?</td>
-</tr>
-<tr>
-  <td colspan="12">Yeah.</td>
-</tr>
-<tr>
-  <td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Back again? Here to actually buy something, or just stare?</td></tr><tr><td colspan="12">Yeah.</td></tr><tr><td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 **Shop UI:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="3">When accessing the Shop</td>
-  <td colspan="3">After purchasing something</td>
-  <td colspan="3">If you can't afford the item you attempted to buy</td>
-  <td colspan="3">If you attempt to buy something at max carry capacity</td>
-</tr>
-<tr>
-  <td colspan="3">Here's the current lineup. Try not to drool.</td>
-  <td colspan="3">Done deal! Come back in a lil' bit when I haul some new goodies up here, yeh?</td>
-  <td colspan="3">You're short now, pal. Come back when you're not drowned broke, yeah?</td>
-  <td colspan="3">Ugh you're carrying way too much. Come back when you're not a walking junk pile.</td>
-</tr>
-<tr>
-  <td colspan="3">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-  <td colspan="9">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="3">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="3">When accessing the Shop</td><td colspan="3">After purchasing something</td><td colspan="3">If you can't afford the item you attempted to buy</td><td colspan="3">If you attempt to buy something at max carry capacity</td></tr><tr><td colspan="3">Here's the current lineup. Try not to drool.</td><td colspan="3">Done deal! Come back in a lil' bit when I haul some new goodies up here, yeh?</td><td colspan="3">You're short now, pal. Come back when you're not drowned broke, yeah?</td><td colspan="3">Ugh you're carrying way too much. Come back when you're not a walking junk pile.</td></tr><tr><td colspan="3">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td><td colspan="9">[End Dialogue]</td></tr><tr><td colspan="3">[End Dialogue]</td></tr></tbody></table>
 
 **Black Market:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">When accessing the Black market</td>
-  <td colspan="4">After purchasing something</td>
-  <td colspan="4">Speaking to him after purchasing something</td>
-</tr>
-<tr>
-  <td colspan="4">Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td>
-  <td colspan="4">Thanks for the sale. Come back later for my usual wares. I'll always have things in stock.</td>
-  <td colspan="4">Y'already bought from me tonight. Don't get greedy, I've got other folks to barter with.</td>
-</tr>
-<tr>
-  <td colspan="4">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td>
-  <td colspan="8">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="4">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="4">When accessing the Black market</td><td colspan="4">After purchasing something</td><td colspan="4">Speaking to him after purchasing something</td></tr><tr><td colspan="4">Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td><td colspan="4">Thanks for the sale. Come back later for my usual wares. I'll always have things in stock.</td><td colspan="4">Y'already bought from me tonight. Don't get greedy, I've got other folks to barter with.</td></tr><tr><td colspan="4">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td><td colspan="8">[End Dialogue]</td></tr><tr><td colspan="4">[End Dialogue]</td></tr></tbody></table>
 
 ### Shop UI
 
 Traan's Salvaged Stock
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>[Item price] <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>[Item name]</div><div><i>A rare find indeed.</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>[Item price] <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>[Item name]</div><div><i>A rare find indeed.</i></div></td></tr></tbody></table>
 
   
 
@@ -233,75 +136,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 
 Sold Items
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td>
-  <ul>
-    <li><b>For 80 </b>:
-  <ul>
-    <li><b>Starter</b>: <a href="Hired_Mercenary.md">Hired Mercenary</a></li>
-    <li><b>Adept</b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a></li>
-    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a></li>
-  </ul></li>
-    <li><b>For 200 </b>:
-  <ul>
-    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a></li>
-    <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a></li>
-    <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a></li>
-    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><b>For 100 </b>: <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, <a href="Heartstar.md">Heartstar</a></li>
-    <li><b>For 1,000 </b>: <a href="Dye_Packet.md">Dye Packet</a></li>
-    <li><b>For 2,500 </b>: <a href="Glumfig.md">Glumfig</a></li>
-    <li><b>For 15,000 </b>: <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>For 100 </b>: <a href="Bronze_Aspis.md">Bronze Aspis</a></li>
-    <li><b>For 300 </b>:
-  <ul>
-    <li><b>Light Weapons</b>: <a href="Whaling_Knife.md">Whaling Knife</a></li>
-    <li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a></li>
-  </ul></li>
-    <li><b>For 500 </b>: <a href="Needle's_Eye.md">Needle's Eye</a></li>
-    <li><b>For 650 </b>:
-  <ul>
-    <li><b>Medium Weapons</b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>, <a href="Serrated_Warspear.md">Serrated Warspear</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
-  </ul></li>
-    <li><b>For 750 </b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a></li>
-    <li><b>For 1,000 </b>: <a href="Krulian_Knife.md">Krulian Knife</a></li>
-    <li><b>For 1,250 </b>:
-  <ul>
-    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a></li>
-  </ul></li>
-    <li><b>For 4,500 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a></li>
-    <li><b>For 5,000 </b>: <a href="Night_Axe.md">Night Axe</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><b>For 35 </b>: <a href="Brow_Stud.md">Brow Stud</a>, <a href="Dermal_Stud.md">Dermal Stud</a>, <a href="Moon_Brow_Rings.md">Moon Brow Rings</a>, <a href="Moon_Dermal_Rings.md">Moon Dermal Rings</a>, <a href="Moon_Lip_Ring.md">Moon Lip Ring</a>, <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>, <a href="Nose_Stud.md">Nose Stud</a>, <a href="Snakebite_Studs.md">Snakebite Studs</a></li>
-    <li><b>For 100 </b>: <a href="Sailor's_Fleece.md">Sailor's Fleece</a></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>For 80 </b>:<ul><li><b>Starter</b>: <a href="Hired_Mercenary.md">Hired Mercenary</a></li><li><b>Adept</b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a></li><li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a></li></ul></li><li><b>For 200 </b>:<ul><li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a></li><li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a></li><li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a></li><li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li></ul></li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><b>For 100 </b>: <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, <a href="Heartstar.md">Heartstar</a></li><li><b>For 1,000 </b>: <a href="Dye_Packet.md">Dye Packet</a></li><li><b>For 2,500 </b>: <a href="Glumfig.md">Glumfig</a></li><li><b>For 15,000 </b>: <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>For 100 </b>: <a href="Bronze_Aspis.md">Bronze Aspis</a></li><li><b>For 300 </b>:<ul><li><b>Light Weapons</b>: <a href="Whaling_Knife.md">Whaling Knife</a></li><li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li><li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a></li></ul></li><li><b>For 500 </b>: <a href="Needle's_Eye.md">Needle's Eye</a></li><li><b>For 650 </b>:<ul><li><b>Medium Weapons</b>: <a href="Alloyed_Falchion.md">Alloyed Falchion</a>, <a href="Alloyed_Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>, <a href="Serrated_Warspear.md">Serrated Warspear</a></li><li><b>Heavy Weapons</b>: <a href="Darkalloy_Greatsword.md">Darkalloy Greatsword</a></li></ul></li><li><b>For 750 </b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a></li><li><b>For 1,000 </b>: <a href="Krulian_Knife.md">Krulian Knife</a></li><li><b>For 1,250 </b>:<ul><li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li><li><b>Heavy Weapons</b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a></li></ul></li><li><b>For 4,500 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a></li><li><b>For 5,000 </b>: <a href="Night_Axe.md">Night Axe</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><b>For 35 </b>: <a href="Brow_Stud.md">Brow Stud</a>, <a href="Dermal_Stud.md">Dermal Stud</a>, <a href="Moon_Brow_Rings.md">Moon Brow Rings</a>, <a href="Moon_Dermal_Rings.md">Moon Dermal Rings</a>, <a href="Moon_Lip_Ring.md">Moon Lip Ring</a>, <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>, <a href="Nose_Stud.md">Nose Stud</a>, <a href="Snakebite_Studs.md">Snakebite Studs</a></li><li><b>For 100 </b>: <a href="Sailor's_Fleece.md">Sailor's Fleece</a></li></ul></td></tr></tbody></table>
 
 ## Black Market
 
@@ -311,14 +146,7 @@ Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell
 
 Traan's Black Market Cache
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>[Item price] <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
-  <td><div>[Item name]</div><div><i>I barely know what I'm looking at here.</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>[Item price] <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td><td><div>[Item name]</div><div><i>I barely know what I'm looking at here.</i></div></td></tr></tbody></table>
 
   
 
@@ -388,77 +216,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 
 Sold Items
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td>
-  <ul>
-    <li><b>For 20 </b>: <a href="Darkened_Bastion.md">Darkened Bastion</a></li>
-    <li><b>For 50 </b>: <a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b><br>
-  (Mostly <a href="Relics.md">Relics</a>)</td>
-  <td>
-  <ul>
-    <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a></li>
-    <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li>
-    <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a>
-  <ul>
-    <li><a href="Enchant_Stone.md"><b>Enchant Stones</b></a> &amp; <a href="Enchant_Grease.md"><b>Enchant Grease</b></a>: <a href="Allure.md">Allure</a>, <a href="Bluster.md">Bluster</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>, <a href="Stench.md">Stench</a>, <a href="Stone.md">Stone</a>, <a href="Vampirism.md">Vampirism</a></li>
-  </ul></li>
-    <li><b>For 6 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a>, <a href="Drowned.md">Drowned</a> <a href="Enchant_Grease.md">Enchant Grease</a></li>
-    <li><b>For 15 </b>: <a href="Parasol_Membrane.md">Parasol Membrane</a></li>
-    <li><b>For 20 </b>: <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a></li>
-    <li><b>For 30 </b>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a></li>
-    <li><b>For 50 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a>, <a href="Charged_Parasol_Part.md">Charged Parasol Part</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>For 1 </b>: <a href="Kindred_Edict.md">Kindred Edict</a></li>
-    <li><b>For 3 </b>:
-  <ul>
-    <li><b>Light Weapons</b>: <a href="Wraithclaw.md">Wraithclaw</a></li>
-    <li><b>Medium Weapons</b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a></li>
-  </ul></li>
-    <li><b>For 4 </b>:
-  <ul>
-    <li><b>Medium Weapons</b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Boltcrusher.md">Boltcrusher</a>, <a href="Crypt_Blade.md">Crypt Blade</a></li>
-  </ul></li>
-    <li><b>For 8 </b>: <a href="First_Light.md">First Light</a></li>
-    <li><b>For 35 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><b>For 1 </b>: <a href="Brilliant_Cape.md">Brilliant Cape</a></li>
-    <li><b>For 5 </b>:
-  <ul>
-    <li><b>Head</b>: <a href="Aazel's_Horns.md">Aazel's Horns</a></li>
-    <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
-  </ul></li>
-    <li><b>For 20 </b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
-    <li><b>For 25 </b>:
-  <ul>
-    <li><b>Torso</b>: <a href="Jadeite_Megalodaunt.md">Jadeite Megalodaunt</a></li>
-    <li><b>Ears</b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
-  </ul></li>
-    <li><b>For 200 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>For 20 </b>: <a href="Darkened_Bastion.md">Darkened Bastion</a></li><li><b>For 50 </b>: <a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></li></ul></td></tr><tr><td><b>Miscellaneous</b><br>(Mostly <a href="Relics.md">Relics</a>)</td><td><ul><li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Umbral_Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a></li><li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li><li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li><li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li><li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a><ul><li><a href="Enchant_Stone.md"><b>Enchant Stones</b></a> &amp; <a href="Enchant_Grease.md"><b>Enchant Grease</b></a>: <a href="Allure.md">Allure</a>, <a href="Bluster.md">Bluster</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>, <a href="Stench.md">Stench</a>, <a href="Stone.md">Stone</a>, <a href="Vampirism.md">Vampirism</a></li></ul></li><li><b>For 6 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li><li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a>, <a href="Drowned.md">Drowned</a> <a href="Enchant_Grease.md">Enchant Grease</a></li><li><b>For 15 </b>: <a href="Parasol_Membrane.md">Parasol Membrane</a></li><li><b>For 20 </b>: <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a></li><li><b>For 30 </b>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a></li><li><b>For 50 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a>, <a href="Charged_Parasol_Part.md">Charged Parasol Part</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>For 1 </b>: <a href="Kindred_Edict.md">Kindred Edict</a></li><li><b>For 3 </b>:<ul><li><b>Light Weapons</b>: <a href="Wraithclaw.md">Wraithclaw</a></li><li><b>Medium Weapons</b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a></li></ul></li><li><b>For 4 </b>:<ul><li><b>Medium Weapons</b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a></li><li><b>Heavy Weapons</b>: <a href="Boltcrusher.md">Boltcrusher</a>, <a href="Crypt_Blade.md">Crypt Blade</a></li></ul></li><li><b>For 8 </b>: <a href="First_Light.md">First Light</a></li><li><b>For 35 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><b>For 1 </b>: <a href="Brilliant_Cape.md">Brilliant Cape</a></li><li><b>For 5 </b>:<ul><li><b>Head</b>: <a href="Aazel's_Horns.md">Aazel's Horns</a></li><li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li></ul></li><li><b>For 20 </b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li><li><b>For 25 </b>:<ul><li><b>Torso</b>: <a href="Jadeite_Megalodaunt.md">Jadeite Megalodaunt</a></li><li><b>Ears</b>: <a href="Dark_Pearls.md">Dark Pearls</a></li></ul></li><li><b>For 200 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li></ul></td></tr></tbody></table>
 
 ## Trivia
 

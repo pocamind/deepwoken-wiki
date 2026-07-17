@@ -28,51 +28,15 @@ By talking to them with at least 80 Willpower and having had tier 1 [insanity](I
 
 **Requirements Met:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. I SEE... THE VOICES SAY YOU WILL DO. Recite this chant and the voices will reach out to you.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. I SEE... THE VOICES SAY YOU WILL DO. Recite this chant and the voices will reach out to you.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 **Willpower met, not Insanity:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. It seems you can endure the strain the voices [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>], but you've never left your mind astray long enough for them to reach out to you.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. It seems you can endure the strain the voices [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>], but you've never left your mind astray long enough for them to reach out to you.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 **Insanity met/Nothing met:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. The voices may be familiar with you but it might be too much for someone with such a WEAK will.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. The voices may be familiar with you but it might be too much for someone with such a WEAK will.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

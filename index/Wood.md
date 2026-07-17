@@ -39,7 +39,7 @@ Wood can be used for the following:
 -   Crafting a [Lumber Axe](Lumber_Axe.md) or [Pickaxe](Pickaxe.md).
 -   Crafting a [Repair Kit](Repair_Kit.md).
 -   Crafting into three (3) [Sticks](Stick.md).
--   Crafting into [Ashes](Ashes.md) at a [Campfire](Campfire_Pit.md).
+-   Crafting into [Ashes](Ashes.md) at a [Campfire](Campfire.md).
 -   Turning it in to [Korin](Korin.md) or [Drefa](Drefa.md) for [Etris](Etris.md) [Reputation](Reputation.md).
 -   Repairing Boats.
 

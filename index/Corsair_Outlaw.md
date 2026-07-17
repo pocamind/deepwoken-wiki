@@ -22,19 +22,19 @@ categories: [Outfits, Starter Outfits, Bandits, Outfits with Talents, "Outfits w
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Corsair Outlaw** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+**Corsair Outlaw** is a Starter [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md) as well as one (1) [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md) as well as one (1) [Aeon Logstone](Aeon_Logstone.md) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This outfit has 1200 durability, grants the user +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
+This outfit has 1200 durability, grants the user +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
 
 The [Lightweight](Talents.md#lightweight) Talent increases the users movement speed by 25% when their armor's durability reaches 0.
 

@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Serena is a cut NPC lynx [Felinor](Felinor.md) who wore the [Veteran Adventurer](Veteran_Adventurer.md) [Outfit](Outfits.md), and who could randomly spawn around [Starswept Valley](The_Starswept_Valley.md). When talked to, she would ask for water. If you had a canteen with water, you could give her a sip. From here, two things could happen:
+Serena is a cut NPC lynx [Felinor](Felinor.md) who wore the [Veteran Adventurer](Veteran_Adventurer.md) [Outfit](Outfits.md), and who could randomly spawn around [Starswept Valley](Starswept_Valley.md). When talked to, she would ask for water. If you had a canteen with water, you could give her a sip. From here, two things could happen:
 
 -   She would thank the player and reward them with a chest.
 -   She would attack the player - if defeated, she would still grant the chest.

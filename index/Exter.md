@@ -28,19 +28,7 @@ Exter is located at Meteor Isle, sitting on a rock in front of ruins.
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Something about this place... It speaks to me. I sense something important happened here in the past... Like a fight between great warriors, a spectacle to many...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Something about this place... It speaks to me. I sense something important happened here in the past... Like a fight between great warriors, a spectacle to many...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

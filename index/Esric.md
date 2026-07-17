@@ -30,35 +30,11 @@ Esric is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.m
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Grahhhh! Hu-ttah!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Grahhhh! Hu-ttah!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Voidwalker:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Back off!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Back off!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

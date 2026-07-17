@@ -38,53 +38,11 @@ Braun is located in a small workshop hall across from [Kraphtalos](Kraphtalos.md
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The Justicar's face appears hidden behind some sort of wrapping, as they regard you with curiosity.*</i> Mm?</td>
-</tr>
-<tr>
-  <td>Hey, can I ask - why are you hiding your face?</td>
-</tr>
-<tr>
-  <td>Hiding?.. <i>*They grimace, reminiscing.*</i> A 'trophy' from a skirmish. Voidwalkers ambushed my mark and I... Cost us a great deal.</td>
-</tr>
-<tr>
-  <td>What happened to your mark?</td>
-</tr>
-<tr>
-  <td>They chose to split away during the melee while I handled the Voidwalker. What happened past that, I do not know... Once my assistance has been given, the <a href="Glossary.md#pathfinders">Pathfinder</a> must walk their own path.</td>
-</tr>
-<tr>
-  <td>I see...</td>
-</tr>
-<tr>
-  <td>Danger lurks behind every corner. Take care out there.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The Justicar's face appears hidden behind some sort of wrapping, as they regard you with curiosity.*</i> Mm?</td></tr><tr><td>Hey, can I ask - why are you hiding your face?</td></tr><tr><td>Hiding?.. <i>*They grimace, reminiscing.*</i> A 'trophy' from a skirmish. Voidwalkers ambushed my mark and I... Cost us a great deal.</td></tr><tr><td>What happened to your mark?</td></tr><tr><td>They chose to split away during the melee while I handled the Voidwalker. What happened past that, I do not know... Once my assistance has been given, the <a href="Glossary.md#pathfinders">Pathfinder</a> must walk their own path.</td></tr><tr><td>I see...</td></tr><tr><td>Danger lurks behind every corner. Take care out there.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Voidwalker:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>I know your kind when I see one. Get lost before I lose my temper, Voidwalker.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I know your kind when I see one. Get lost before I lose my temper, Voidwalker.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Triva
 

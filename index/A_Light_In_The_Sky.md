@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**A Light In The Sky**_ is a [Book](Books.md) obtained from [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md).
+_**A Light In The Sky**_ is a [Book](Book.md) obtained from [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md).
 
 ## Text
 

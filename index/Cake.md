@@ -40,10 +40,10 @@ Additionally, it grants the Speed buff, affecting 20% of the Stomach bar. The bu
 
 ### Recipe
 
--   1 [Egg](Egg.md), 1 [Sap](Sap.md), and 3 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 [Egg](Egg.md), 1 [Sap](Sap.md), and 3 [Gathered Wheat](Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ### Used in
 
 -   [Fondant Splitter](Fondant_Splitter.md)
-    -   1 [Dormant Splinter](Dormant_Splinter.md), 1 Cake, and 1 [Sword](<Sword_(weapon).md>), [Messer](Messer.md), or [Katana](Katana.md) at the [Cold Forge](The_Cold_Forge.md) [CraftingColdForge](The_Cold_Forge.md).
+    -   1 [Dormant Splinter](Dormant_Splinter.md), 1 Cake, and 1 [Sword](Sword.md), [Messer](Messer.md), or [Katana](Katana.md) at the [Cold Forge](The_Cold_Forge.md) [CraftingColdForge](The_Cold_Forge.md).
     -   Or 1 [Dormant Splinter](Dormant_Splinter.md), 3 Cake, and 1 [Scimitar](Scimitar.md) at the [Cold Forge](The_Cold_Forge.md) [CraftingColdForge](The_Cold_Forge.md).

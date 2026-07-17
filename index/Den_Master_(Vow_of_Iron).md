@@ -25,7 +25,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Den Master is a [Canor](Canor.md) NPC. He sells basic tier one and two [Mantra Modifiers](Mantra_Modifiers.md).
+The Den Master is a [Canor](Canor.md) [NPC](NPC.md). He sells basic tier one and two [Mantra Modifiers](Mantra_Modifiers.md).
 
 ## Location
 
@@ -35,61 +35,10 @@ The Den Master is located in the [Etrean Wilds](Etrean_Wilds.md), in a cave near
 
 The Den Master's Haul
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Cloudstone</div><div><i>Make zem big.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Stratus Stone</div><div><i>Make zem bigger.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Drift Shard</div><div><i>Make zem fast.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Rush Shard</div><div><i>Make zem faster.</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Cloudstone</div><div><i>Make zem big.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Stratus Stone</div><div><i>Make zem bigger.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Drift Shard</div><div><i>Make zem fast.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Rush Shard</div><div><i>Make zem faster.</i></div></td></tr></tbody></table>
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Crystal Lens</div><div><i>Make zem go far.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Perfect Lens</div><div><i>Make zem go further.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Aeon Logstone</div><div><i>Make zem big.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Crystal Lens</div><div><i>Make zem go far.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Perfect Lens</div><div><i>Make zem go further.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Aeon Logstone</div><div><i>Make zem big.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td></tr></tbody></table>
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>A stranger wanders into my Den?.. Buy, if you dare!<br>
-  <font>[Opens</font> <a href="#shop"><u><font>Shop UI]</font></u></a></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>A stranger wanders into my Den?.. Buy, if you dare!<br><font>[Opens</font> <a href="#shop"><u><font>Shop UI]</font></u></a></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

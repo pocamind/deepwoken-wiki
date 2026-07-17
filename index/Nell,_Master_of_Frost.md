@@ -220,122 +220,30 @@ Nell executes their opponent after knocking them:
 
 **Quest Start:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">Can you really protect anything that you hold dear as you are now?</td>
-</tr>
-<tr>
-  <td colspan="2">What do you mean?</td>
-</tr>
-<tr>
-  <td colspan="2">You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?</td>
-</tr>
-<tr>
-  <td colspan="2">Yes, what would you have me do?</td>
-</tr>
-<tr>
-  <td>Player has unlocked Frostdraw before</td>
-  <td>Player has not unlocked Frostdraw before</td>
-</tr>
-<tr>
-  <td>Bring me <b>2 Frigid Prisms</b>, Then we can continue</td>
-  <td>Bring me <b>5 Frigid Prisms</b>, Then we can continue</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Can you really protect anything that you hold dear as you are now?</td></tr><tr><td colspan="2">What do you mean?</td></tr><tr><td colspan="2">You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?</td></tr><tr><td colspan="2">Yes, what would you have me do?</td></tr><tr><td>Player has unlocked Frostdraw before</td><td>Player has not unlocked Frostdraw before</td></tr><tr><td>Bring me <b>2 Frigid Prisms</b>, Then we can continue</td><td>Bring me <b>5 Frigid Prisms</b>, Then we can continue</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Quest Completed:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">Have you done what I asked?</td>
-</tr>
-<tr>
-  <td colspan="4">Here.</td>
-</tr>
-<tr>
-  <td colspan="2">Player has Frigid Prisms</td>
-  <td colspan="2">Player does not have Frigid Prisms</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*They take the crystals and crush each of them into a glass vial, glittering dust falling in.*</i></td>
-  <td>Player has unlocked Frostdraw before</td>
-  <td>Player has not unlocked Frostdraw before</td>
-</tr>
-<tr>
-  <td colspan="2">What is that you're doing?</td>
-  <td>Hm. You have not brought me the <b>2 Frigid Prisms</b> I require to assist you...</td>
-  <td>Hm. You have not brought me the <b>5 Frigid Prisms</b> I require to assist you...</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</i></td>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue], Player obtains Glassblood</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Have you done what I asked?</td></tr><tr><td colspan="4">Here.</td></tr><tr><td colspan="2">Player has Frigid Prisms</td><td colspan="2">Player does not have Frigid Prisms</td></tr><tr><td colspan="2"><i>*They take the crystals and crush each of them into a glass vial, glittering dust falling in.*</i></td><td>Player has unlocked Frostdraw before</td><td>Player has not unlocked Frostdraw before</td></tr><tr><td colspan="2">What is that you're doing?</td><td>Hm. You have not brought me the <b>2 Frigid Prisms</b> I require to assist you...</td><td>Hm. You have not brought me the <b>5 Frigid Prisms</b> I require to assist you...</td></tr><tr><td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</i></td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="2">[End Dialogue], Player obtains Glassblood</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
 **Player has Frostdraw:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td>
-</tr>
-<tr>
-  <td>Yes, I have.</td>
-</tr>
-<tr>
-  <td>[Opens Mantra Upgrade UI]</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td></tr><tr><td>Yes, I have.</td></tr><tr><td>[Opens Mantra Upgrade UI]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Player has not drunk Glassblood:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>The vial I gave you. You must drink it.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>The vial I gave you. You must drink it.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 
--   Both they and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
+-   Both they and [Funke](Funke.md) don the [Black Diver](Black_Diver.md) [outfit](Outfit.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
     -   If they are indeed [Divers](The_Divers.md), this would make then and Funke two of the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md), excluding [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 -   Their eyes are unique, having a dark blue sclera similar to that of the [Hallowtide](Hallowtide.md) variant of the [Adret](Adret.md) aspect.[\[2\]](#cite-note-2) The only ottheirNPC that shares these eyes is [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 -   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay and Story Segregation, having it for the games' sake; being so they have a unique, legendary weapon when they're fought.[\[3\]](#cite-note-3)
--   Nell used to have [Rapid Punches](Attunement-less.md#rapid-punches) before the NPC Mantra changes.
--   Unlike most [Attunement Trainers](Attunement_Trainers.md), they can be aggroed, seen during the [Etris Raid](Cinders_of_Etris.md) event occasionally fighting off Authority troops if they somehow get to her.
+-   Nell used to have [Rapid Punches](Rapid_Punches.md) before the NPC Mantra changes.
+-   Unlike most [Attunement Trainers](Attunement_Trainers.md), they can be aggroed, seen during the [Etris Raid](Etris%253A_Siege.md) event occasionally fighting off Authority troops if they somehow get to her.
 
 ## References
 

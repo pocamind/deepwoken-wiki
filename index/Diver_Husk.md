@@ -91,5 +91,5 @@ A Diver Husk executes its opponent after knocking them:
 
 -   Diver Husks still have some humanity; although the parasites residing in their bodies are controlling them entirely-- leaving those who fight against them with a feeling of hopelessness and grief as there is nothing to do for them.
 -   Diver Husks later transform into [Carbuncles](Carbuncle.md).
--   Diver Husks, like their name suggests, are Divers who have fallen victim to the Eternal Gale's Parasites. They appear to be wearing [Diver Apprentice Robes](Diver_Apprentice_Robes.md), so they were most likely Diver Apprentices who accidentally fell into the Second Layer or those part of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) original team, and succumbed to the parasites.
+-   Diver Husks, like their name suggests, are Divers who have fallen victim to the Eternal Gale's Parasites. They appear to be wearing [Diver Apprentice Robes](Diver_Apprentice_Robes.md), so they were most likely Diver Apprentices who accidentally fell into the Second Layer or those part of [Chaser's](Chaser,_Scholar_of_the_Burning_Blood.md) original team, and succumbed to the parasites.
 -   Diver Husks didn't have the ability to parry before as they acted as [Mudskippers](Mudskipper.md) with 2000 Health, after an unknown date they now have the ability to parry M1 attacks.

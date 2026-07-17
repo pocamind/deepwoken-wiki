@@ -20,13 +20,13 @@ Halls of inscrutable architecture stretch as far as the eye can see. No human co
 
   
 
-The **Voidheart** is a location in _Deepwoken._ It is the forward base of the [The Knives of Eylis](The_Knives_of_Eylis.md), who signed a contract with Eylis herself.
+The **Voidheart** is a [location](Locations.md) in _Deepwoken._ It is the forward base of the [The Knives of Eylis](The_Knives_of_Eylis.md), who signed a contract with Eylis herself.
 
 ## Overview
 
 The Voidheart is the resting place of The Knives of Eylis. Located in an unknown location and only accessible in people's dreams, it represents itself as a large set of corridors and grey walls.
 
-The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themselves within it. Leaving the Voidheart is referred to as "waking up". The [Voidmother](The_Voidmother.md) is the reason the Voidheart exists. According to it, there is no singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
+The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themselves within it. Leaving the Voidheart is referred to as "waking up". The [Voidmother](Voidmother.md) is the reason the Voidheart exists. According to it, there is no singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
 
 Only players who have selected the [Voidwalker](Voidwalker.md) Origin can access this area.
 
@@ -57,7 +57,7 @@ A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
+-   The music for this area is [Of Labours, Veiled](Of_Labours,_Veiled.md) by Naktigonis
 -   **Voidheart** is rougly 35k studs away from [Etris](Etris.md). Its coordinates are at -20000, 20000, -20000, putting it far away in the Southwest of the play area and high up in the air.
     -   The Roblox engine tends to struggle rendering things when too far away from the world origin of 0, 0, 0 due to floating point inaccuracies. This can be seen by zooming in very close to the player and watching their polygons becoming distorted.
 -   Originally, The **Voidheart** was a leftover area marker far away into the Void Sea. It had nothing.

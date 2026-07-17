@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Void Ring allows the wearer to stay in [the Depths](The_Depths.md) for longer before gaining [Afflictions](<The_Depths_(Vow_of_Iron).md#afflictions>).
+Void Ring allows the wearer to stay in [the Depths](The_Depths.md) for longer before gaining [Afflictions](Afflictions.md).
 
 ## Obtainment
 

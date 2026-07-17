@@ -31,7 +31,7 @@ The Wormwarder Lantern is an [Equipment](Equipment.md) item under the "Torso" ca
 
 The [Wormwarder](Talents.md#wormwarder) Talent grants complete immunity to parasites in the [Second Layer](Second_Layer.md), at the cost of reduced movement speed.
 
-To craft this item, you can obtain the recipe from interacting with a Lantern in the Second Layer, and then crafting the item with 2 [Galewax](Galewax.md), 4 [Irithine](Ores.md#irithine), and 4 [Spark Glands](Spark_Gland.md). Because you cannot bring Galewax out of the Second Layer, you have to use [Master Craftsman](Talents.md#master-craftsman) or the crafting table at [The Frontier Furnace](The_Frontier_Furnace.md).
+To craft this item, you can obtain the recipe from interacting with a Lantern in the Second Layer, and then crafting the item with 2 [Galewax](Galewax.md), 4 [Irithine](Irithine.md), and 4 [Spark Glands](Spark_Gland.md). Because you cannot bring Galewax out of the Second Layer, you have to use [Master Craftsman](Talents.md#master-craftsman) or the crafting table at [The Frontier Furnace](The_Frontier_Furnace.md).
 
 ## Trivia
 

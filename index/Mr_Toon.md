@@ -26,13 +26,13 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Mr Toon** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+**Mr Toon** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Armor Stats_
 
-The Outfit has 2600 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20 Lightning resistance [ResistanceThundercall](Thundercall.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), 16 Sanity [IconSanity](Insanity.md), and +100% Ether Regen [IconEther](Ether.md).
+The Outfit has 2600 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), +20 Lightning resistance [ResistanceThundercall](Thundercall.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), 16 Sanity [IconSanity](Sanity.md), and +100% Ether Regen [IconEther](Ether.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44% Thundercall [ResistanceThundercall](Thundercall.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
 

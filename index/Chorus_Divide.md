@@ -49,7 +49,7 @@ Chorus Divide will use the players highest invested attunement upon obtaining th
 -   The [Ironsing](Ironsing.md) variant will proc metal rods to players hit by the beams, turning the beams grey.
 -   The [Bloodrend](Bloodrend.md) variant will proc blood talents and blood poison to the player hit by the beams, turning the beams red.
 
-If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead. Each beam will scale on their respective attunement stats.
+If the player has [Saintsworn](Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead. Each beam will scale on their respective attunement stats.
 
 If the player is [Attunement-less](Attunement-less.md), the beams will be an off-white, dealing 8 **typeless** damage per tick.
 
@@ -57,6 +57,6 @@ If the player is [Attunement-less](Attunement-less.md), the beams will be an off
 
 -   Before August 4th, 2025, Chorus Divide was unparryable, this was changed as a bug fix, as well as fixing being able to block the corrupt variant.
 -   This bell will stack [Chain of Perfection](Talents.md#chain-of-perfection) when it lands
--   [Titus](Titus_Fulminus_Destellus.md) uses an empowered version of this Resonance.
+-   [Titus](Titus.md) uses an empowered version of this Resonance.
 -   Unfortunately, the beams don't change color if you have a different path for the specific element. This includes [Azure Flames](Talents.md#azure-flames).
 -   If you drink an [Attunement Flask](Attunement_Potions.md) while your build is max power and has no attunement, you are able to get other attunement variants instead of the base Attunement-less variant.

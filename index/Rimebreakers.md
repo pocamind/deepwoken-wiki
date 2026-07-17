@@ -39,7 +39,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Rimebreakers** are a Fist Light Weapon that requires 50 [Frostdraw](Frostdraw.md), 50 Light Weapon, and 50 [Galebreathe](Galebreathe.md) to use. It is a drop from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
+**Rimebreakers** are a Fist Light Weapon that requires 50 [Frostdraw](Frostdraw.md), 50 Light Weapon, and 50 [Galebreathe](Galebreathe.md) to use. It is a drop from the [Kyrsgarde Champion](Kyrsgarde_Champion.md).
 
 ## Talents
 
@@ -53,7 +53,7 @@ The user performs an uppercut, imbued with a frozen breeze that applies Chill an
 
 This critical has a cooldown of **7 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talent](Talent.md) effects.
 
 ## Trivia
 

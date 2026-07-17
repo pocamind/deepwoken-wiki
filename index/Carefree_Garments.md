@@ -23,19 +23,19 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, Outfits with Exclusiv
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Dress) |
 
-**Carefree Garments** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+**Carefree Garments** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires four (4) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Glass Stone](Mantra_Modifiers.md#regular-modifiers), and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit requires four (4) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Glass Stone](Glass_Stone.md), and one (1) [Iron](Iron.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 6 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +15% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Fleetfoot](Talents.md#fleetfoot) Talent.
+This Outfit has 2000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +15% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Fleetfoot](Talents.md#fleetfoot) Talent.
 
 The [Fleetfoot](Talents.md#fleetfoot) Talent grants the user a speed boost after slide jumping.
 

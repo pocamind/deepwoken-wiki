@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Helmets, Equipment wi
 
 ## Description
 
-The Miner's Hardhat is an [Equipment](Equipment.md) item found under the "Head" category. It has a chance to be dropped by [Mineskippers](Mudskipper.md#mineskipper) upon defeat.
+The Miner's Hardhat is an [Equipment](Equipment.md) item found under the "Head" category. It has a chance to be dropped by [Mineskippers](Mineskipper.md) upon defeat.
 
 [Rock Blaster](Talents.md#rock-blaster) doubles your ore yields when mining. [Excavator](Talents.md#excavator) grants a chance to receive two sets of ore when mining and increases your mining speed. This allows you time mine up to four ore at once.
 

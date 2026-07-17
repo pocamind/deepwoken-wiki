@@ -31,7 +31,7 @@ The Doom of Caeranthil is a disaster event [Boss](Bosses.md) that spawns in the 
 
 It appears as a massive deep-blue serpent with two front fins and two pairs of yellow eyes. Its back is covered in tough scales that runs along its tail. Its name was earned when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
 
-The Doom will swim across the seas of the [Etrean Luminant](Luminants.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of Erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
+The Doom will swim across the seas of the [Etrean Luminant](Etrean_Luminant.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of Erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
 
 Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted to those with no Murmur, a chest with loot will also spawn at the player's location, and the player will be granted a small amount of [Etrea](Etrea.md) reputation.
 
@@ -169,64 +169,7 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 
 Exhaustive Loot Table
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td>
-  <ul>
-    <li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a></li>
-    <li><b>Unique</b>: <a href="Jade_Vigil's_Weave.md"><font>Jade Vigil's Weave</font></a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
-    <li><a href="Items.md">Items</a>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a> (direct drop), Non-Exclusive <a href="Deep_Gems.md">Deep Gems</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a> (direct drop)</li>
-    <li>One to two <a href="Crowns.md">Crowns</a>, depending on damage dealt</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Legendary Weapons</b>: <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>, <a href="Lumensplitter.md"><font>Lumensplitter</font></a>, <a href="Shadebolt.md"><font>Shadebolt</font></a></li>
-    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>, <a href="Whaling_Knife.md">Alloyed Whaling Knife</a></li>
-    <li><b>Generic Weapons</b>:
-  <ol>
-    <li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="The_Barrel.md">The Barrel</a></li>
-  </ol></li>
-    <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a><b>:</b>
-  <ol>
-    <li><b>Unique Head</b>: <a href="Warlock's_Brim.md"><font>Warlock's Brim</font></a></li>
-    <li><b>Generic Head</b>: <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Strapped_Hat.md">Strapped Hat</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
-  <ol>
-    <li><b>Mythical Arms</b>: <a href="Warlock's_Mantle.md"><font>Warlock's Mantle</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a><b>: <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a></b></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: N/A</li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Headband.md">Headband</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a>, <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a></li><li><b>Unique</b>: <a href="Jade_Vigil's_Weave.md"><font>Jade Vigil's Weave</font></a></li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li><li><a href="Items.md">Items</a>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a> (direct drop), Non-Exclusive <a href="Deep_Gems.md">Deep Gems</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a> (direct drop)</li><li>One to two <a href="Crowns.md">Crowns</a>, depending on damage dealt</li><li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>, <a href="Lumensplitter.md"><font>Lumensplitter</font></a>, <a href="Shadebolt.md"><font>Shadebolt</font></a></li><li><b>Alloyed Weapons</b>: <a href="Alloyed_Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Alloyed_Dawnshot.md">Alloyed Dawnshot</a>, <a href="Darkalloy_Greatsword.md">Darkalloy Greatsword</a>, <a href="Alloyed_Whaling_Knife.md">Alloyed Whaling Knife</a></li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li><li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li><li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="The_Barrel.md">The Barrel</a></li></ol></li><li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a><b>:</b><ol><li><b>Unique Head</b>: <a href="Warlock's_Brim.md"><font>Warlock's Brim</font></a></li><li><b>Generic Head</b>: <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Strapped_Hat.md">Strapped Hat</a></li></ol></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Mythical Arms</b>: <a href="Warlock's_Mantle.md"><font>Warlock's Mantle</font></a></li><li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a></li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a><b>: <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a></b></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: N/A</li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Browline_Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Headband.md">Headband</a>, <a href="Round_Citadel_Frames.md">Round Citadel Frames</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a>, <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li></ul></td></tr></tbody></table>
 
 ## Trivia
 

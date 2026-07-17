@@ -28,30 +28,7 @@ _This is not an entirely different aspect in and of itself, more so a racial var
 
 ## Traits
 
-<table>
-<tbody>
-<tr>
-  <td></td>
-  <td><b>Chitin</b>
-  <ul>
-    <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
-  <ul>
-    <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
-    <li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li>
-  </ul></li>
-    <li>Identical to the base aspect</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><font>+2</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+2 Fortitude</li>
-    <li>+2 Willpower</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td></td><td><b>Chitin</b><ul><li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"<ul><li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li><li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li></ul></li><li>Identical to the base aspect</li></ul></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+2 Fortitude</li><li>+2 Willpower</li></ul></td></tr></tbody></table>
 
 ## Miscellaneous
 
@@ -65,13 +42,7 @@ Emblem of the Primal Vesperian clan Stag was a part of (Made by Nuttoons)
 
 Primal Vesperians are the remnants of a branch of the [Vesperians](Vesperian.md) who have since faded into obscurity.
 
-<table>
-<tbody>
-<tr>
-  <td>Known Variants</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Known Variants</td></tr></tbody></table>
 
 -   Nuttoons gained this after winning first place prize in the first Deepwoken artist contest, where they chose to have their own custom [Vesperian](Vesperian.md) variant as their cosmetic, along with the custom name 'Stag Acrossus.'
 -   This variant of [Vesperian](Vesperian.md) is unobtainable as of now.

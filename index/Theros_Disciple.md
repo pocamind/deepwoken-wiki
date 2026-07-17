@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Theros Disciple** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento centers itself around the [Blightsurger](Oath%253A_Blightsurger.md) Oath.
+**Theros Disciple** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento centers itself around the [Blightsurger](Blightsurger.md) Oath.
 
 NOTE: If you unequip your [Imperator's Edge](<Imperator's_Edge.md>), you will **not** be able to re-equip it.
 
@@ -51,7 +51,7 @@ NOTE: If you unequip your [Imperator's Edge](<Imperator's_Edge.md>), you will **
     -   Sovereign State has a 10 second activation cooldown once the duration runs out.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
         -   This keybind can be changed in settings.
-    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle)_.
+    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Sovereign_Bangle.md)_.
     -   Skycrash will be automatically used twice in quick succession while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
 
@@ -133,7 +133,7 @@ N/A
 
 ### Starting Deck
 
--   Knuckle Guard \[Common Talent\] **100** \- Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
+-   Knuckle Guard \[Common Talent\] **100** \- Hitting [Dazed](Dazed.md) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
 
 -   Blight Pierce \[Oath Talent\] **200** \- Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
@@ -141,7 +141,7 @@ N/A
     -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
     -   This Talent is bugged and currently does not work.
 
--   Storm Return \[Memento Talent\] **200** \- Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Thundercall.md#lightning-cloak))
+-   Storm Return \[Memento Talent\] **200** \- Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Lightning_Cloak.md))
     
     -   Being under the effects of Electrify and Lightning Cloak will proc this effect.
 
@@ -387,8 +387,8 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   The lightning strikes have a base damage of 15/17/19/21/23 per level, per hit with 2.75 Thundercall scaling.
 -   Deals 13.5 posture damage on the initial hit + 10 posture damage per lightning strike.
 -   30 second cooldown.
--   Can be modified with _[Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers)_ to increase the size of the hitbox.
--   Can be modified with _[Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers)_ to increase the range of the lightning strikes.
+-   Can be modified with _[Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md)_ to increase the size of the hitbox.
+-   Can be modified with _[Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md)_ to increase the range of the lightning strikes.
 
  |
 
@@ -396,7 +396,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 
 -   Critical Attack \[Quest Talent\] **100** \- Landing a hit with your critical restores 30% of your posture. (+1 Posture)
 
--   Suffocating Impact \[Common Talent\] **100** \- Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
+-   Suffocating Impact \[Common Talent\] **100** \- Flourishing enemies into walls applies [Winded](Winded.md) and [Suffocating](Suffocation.md) for a short duration. (+2 Passive Agility)
 
 -   Blighted Touch \[Oath Talent\] **200** \- Landing Basic Attacks during Sovereign State now applies Blightshock.
     -   This allows your Sovereign Bangle to apply Wither on hit.
@@ -542,7 +542,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
 -   _Static Fakeout_ \[Rare Talent\] **250** \- Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
 
--   _Stifled Jump_ \[Rare Talent\] **250** \- [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. (+2 Passive Agility)
+-   _Stifled Jump_ \[Rare Talent\] **250** \- [Suffocating](Suffocation.md) now applies [Dazed](Dazed.md) if enemies jump. (+2 Passive Agility)
     -   Similar to the Bear Trap talent, procs Daze when you jump.
     -   The daze effect lasts for 1 second.
 
@@ -616,8 +616,8 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Deals 8 posture damage per hit (3).
 -   Has a windup of 0.55 seconds with a 0.7 second windup in between each hit. Has a cooldown of 9.5 seconds.
 -   Can break objects at level 2+.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the size and distance respectively.
--   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase the speed of the push, or pull with **Vacuum Punch**.
+-   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) and [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the size and distance respectively.
+-   Can be modified with [Vibrant Gems](Vibrant_Gem.md) to increase the speed of the push, or pull with **Vacuum Punch**.
 -   Can be upgraded with the "**Vacuum Punch**" Talent, pulling in targets on hit at the cost of 0.1s extra windup.
 
  |
@@ -802,7 +802,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Spark of Theros \[Memento Talent\] - Your Thundercall is imbued with the spark of Theros, altering its appearance and properties.
     
     -   Turns your Thundercall white.
-    -   Changes the Shock status effect to Blightshock, applying [Wither](Status_Effects.md#wither) to the target.
+    -   Changes the Shock status effect to Blightshock, applying [Wither](Wither.md) to the target.
         -   This causes your Electrify to self-apply Wither on use.
 
 ### True Heart of Enmity

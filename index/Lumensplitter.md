@@ -41,7 +41,7 @@ The Lumensplitter is a Legendary Greatsword; a large, serrated curved blade cons
 
 The user leans back, before releasing in a heavy tornado-like series of 3 spinning slashes. Grants **true hyperarmor** for the duration of the attack. Opponents caught in the attack will be pulled along with it.
 
-This attack has a scaled damage multiplier of 2.1x with [Bleed](Status_Effects.md#bleed).
+This attack has a scaled damage multiplier of 2.1x with [Bleed](Bleed.md).
 
 This attack has a cooldown of **10 seconds**.
 

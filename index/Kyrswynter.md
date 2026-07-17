@@ -59,11 +59,11 @@ The Kyrswynter has **two** different criticals.
 
 For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath their feet, knocking them away once more. Standing on the blast allows you to combo into an uppercut.
 
-The stab has a scaled damage multiplier of 1.4x, deals 20 posture damage, and has a windup of 0.65s. The blast has a scaled damage multiplier of 1.2x and has a windup of 1.3s after the stab occurs. Both hits have innate [Bleed](Status_Effects.md#bleed). The secondary blast counts as an uppercut.
+The stab has a scaled damage multiplier of 1.4x, deals 20 posture damage, and has a windup of 0.65s. The blast has a scaled damage multiplier of 1.2x and has a windup of 1.3s after the stab occurs. Both hits have innate [Bleed](Bleed.md). The secondary blast counts as an uppercut.
 
 For the running critical, the user winds up before leaping forward with the weapon, finishing with an explosive ice blast. Right clicking while still in the air will allow you to cancel your forward momentum.
 
-The initial hit of this attack has a 1.1x scaled damage multiplier with 20 posture damage and a 1.45s windup. The second hit has a 1.25x scaled damage multipler with 12 posture damage. Both hits have innate [Bleed](Status_Effects.md#bleed).
+The initial hit of this attack has a 1.1x scaled damage multiplier with 20 posture damage and a 1.45s windup. The second hit has a 1.25x scaled damage multipler with 12 posture damage. Both hits have innate [Bleed](Bleed.md).
 
 The criticals can be chained together by M1ing during the windup of the standing critical, which causes you to perform the running critical after the standing critical's first hit.
 

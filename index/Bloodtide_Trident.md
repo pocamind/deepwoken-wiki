@@ -46,7 +46,7 @@ The user is able to aim the critical wherever their mouse is facing. When the tr
 
 The critical can be landed at any range but will not affect the pull distance at far ranges. The critical has a cooldown of **8 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

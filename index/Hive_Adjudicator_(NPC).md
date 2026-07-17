@@ -17,7 +17,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies, Ambush 
 
 ## Description
 
-A Hive Adjudicator is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) hunting players with low reputation with the Hive. In addition to that, [Hive Constructs](Hive_Construct.md) will also spawn along with Hive Adjudicators and [Hive Arbiters](Hive_Arbiter.md) to eradicate the enemy. They can also be found in a [Hive](The_Hive.md) vs [Etrea](Etrea.md) event on [Aratel Island](Aratel_Island.md).
+A Hive Adjudicator is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) hunting players with low reputation with the Hive. In addition to that, [Hive Constructs](Golem_Constructs.md) will also spawn along with Hive Adjudicators and [Hive Arbiters](Hive_Arbiter.md) to eradicate the enemy. They can also be found in a [Hive](The_Hive.md) vs [Etrea](Etrea.md) event on [Aratel Island](Aratel_Island.md).
 
 A Hive Adjudicator dons the unobtainable [Hive Adjudicator](Hive_Adjudicator.md) outfit, a pair of [Dewdrop Earrings](Dew_Drop_Earrings.md), [Tracker's Boots](<Tracker's_Boots.md>) and [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) with their aspect varying between [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
 

@@ -36,4 +36,4 @@ When consumed, it replenishes 18% Stomach and 10% Water.
 
 ### Recipe
 
--   1 [Gathered Wheat](Gathered_Wheat.md) and 1 [Plumfruit](Plumfruit.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 [Gathered Wheat](Wheat.md) and 1 [Plumfruit](Plumfruit.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

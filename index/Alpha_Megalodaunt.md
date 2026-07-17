@@ -24,7 +24,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Alpha Megalodaunt is a unique type of [Megalodaunt](Megalodaunt.md) most commonly found within [The Depths](The_Depths.md) and the [Starswept Valley](The_Starswept_Valley.md). In addition, they may also be found, curiously, inside the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) located in [Minityrsa](Minityrsa.md), found hanging around in one of the libraries, facing a wall.
+The Alpha Megalodaunt is a unique type of [Megalodaunt](Megalodaunt.md) most commonly found within [The Depths](The_Depths.md) and the [Starswept Valley](Starswept_Valley.md). In addition, they may also be found, curiously, inside the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) located in [Minityrsa](Minityrsa.md), found hanging around in one of the libraries, facing a wall.
 
 As their name might suggest, they are the Alphas within a Megalodaunt Pack, and are considered as the dominant creature inside it's respective pack. However, Alpha Megalodaunts are never observed to be within a pack, and like other Megalodaunts, are usually found either idling alone, or fighting other things alone.
 

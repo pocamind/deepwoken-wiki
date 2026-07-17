@@ -21,7 +21,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **Frozen Membrane** is an ingredient dropped from all [Kyrsgarde](Kyrsgarde.md) and is used to make the [Ignition Deepdelver](Ignition_Deepdelver.md) master outfit. It can also be used to make the [Kyrsdog](Kyrsdog.md) [Food](Food.md) item, a unique and mighty dish. This ingredient is only obtainable in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The **Frozen Membrane** is an ingredient dropped from all [Kyrsgarde](Kyrsgarde.md) and is used to make the [Ignition Deepdelver](Ignition_Deepdelver.md) master outfit. It can also be used to make the [Kyrsdog](Kyrsdog.md) [Food](Food.md) item, a unique and mighty dish. This ingredient is only obtainable in [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Trivia
 

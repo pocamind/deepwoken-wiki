@@ -41,61 +41,10 @@ Den Master is located in the [Etrean Wilds](Etrean_Wilds.md), To reach him you c
 
 The Den Master's Haul
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Cloudstone</div><div><i>Make zem big.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Stratus Stone</div><div><i>Make zem bigger.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Drift Shard</div><div><i>Make zem fast.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Rush Shard</div><div><i>Make zem faster.</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Cloudstone</div><div><i>Make zem big.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Stratus Stone</div><div><i>Make zem bigger.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Drift Shard</div><div><i>Make zem fast.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Rush Shard</div><div><i>Make zem faster.</i></div></td></tr></tbody></table>
 
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Crystal Lens</div><div><i>Make zem go far.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Perfect Lens</div><div><i>Make zem go further.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Aeon Logstone</div><div><i>Make zem big.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Crystal Lens</div><div><i>Make zem go far.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Perfect Lens</div><div><i>Make zem go further.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Aeon Logstone</div><div><i>Make zem big.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td></tr></tbody></table>
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Ahh purrfect, a new buyer wanders into my Den.<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ahh purrfect, a new buyer wanders into my Den.<br>[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

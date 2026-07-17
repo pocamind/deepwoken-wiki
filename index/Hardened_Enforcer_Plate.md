@@ -46,7 +46,7 @@ The [Enforcer's Strength](Talents.md#enforcers-strength) Talent reduces the amou
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
+Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull](Enforcer_Pull.md) is improved. Land a flourish to make it even stronger.
 
 ## Trivia
 

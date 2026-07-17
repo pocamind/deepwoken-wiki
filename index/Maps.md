@@ -188,7 +188,7 @@ Map:The Unearthed Colosseum
 
 All Interactive maps can be found here.
 
-_**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepwoken.net/) for _Deepwoken_ locations, many thanks to _hlelo\_wolrd_ and _zoebasil_.
+_**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepwoken.net/) for _Deepwoken_ [locations](Locations.md), many thanks to _hlelo\_wolrd_ and _zoebasil_.
 
 ## Trivia
 

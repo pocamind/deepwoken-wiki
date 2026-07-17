@@ -33,42 +33,7 @@ If spoken to while being an Adret, their dialogue changes.
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">You ever think about the <a href="Glossary.md#adret">Adret</a>? They really aren't like the rest of us.</td>
-</tr>
-<tr>
-  <td colspan="2">Uhh...</td>
-</tr>
-<tr>
-  <td>[Player is an Adret]</td>
-  <td>[Player is not an Adret]</td>
-</tr>
-<tr>
-  <td>Oh. Uh. No offence. Just, well, the rest of the people in this world take after animals, right? Whereas you... Well, you don't, right?</td>
-  <td>Well, the rest of us each take after animals, right? Snakes, deers, insects, and so on. But the <a href="Glossary.md#adret">Adret..</a>. They don't have any of those traits, do they?</td>
-</tr>
-<tr>
-  <td colspan="2">I guess.</td>
-</tr>
-<tr>
-  <td colspan="2">Not to mention their origins are a little unclear, no? I've done some reading. Of Old Texts, right?</td>
-</tr>
-<tr>
-  <td colspan="2">Go on.</td>
-</tr>
-<tr>
-  <td colspan="2">So these old books speak here and there of the people back then, only, there's no mention of the <a href="Glossary.md#adret">Adret</a> anywhere. It's like they came into existence with the waves themselves...</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">You ever think about the <a href="Glossary.md#adret">Adret</a>? They really aren't like the rest of us.</td></tr><tr><td colspan="2">Uhh...</td></tr><tr><td>[Player is an Adret]</td><td>[Player is not an Adret]</td></tr><tr><td>Oh. Uh. No offence. Just, well, the rest of the people in this world take after animals, right? Whereas you... Well, you don't, right?</td><td>Well, the rest of us each take after animals, right? Snakes, deers, insects, and so on. But the <a href="Glossary.md#adret">Adret..</a>. They don't have any of those traits, do they?</td></tr><tr><td colspan="2">I guess.</td></tr><tr><td colspan="2">Not to mention their origins are a little unclear, no? I've done some reading. Of Old Texts, right?</td></tr><tr><td colspan="2">Go on.</td></tr><tr><td colspan="2">So these old books speak here and there of the people back then, only, there's no mention of the <a href="Glossary.md#adret">Adret</a> anywhere. It's like they came into existence with the waves themselves...</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

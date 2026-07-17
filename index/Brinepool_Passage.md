@@ -14,7 +14,7 @@ Warmer waters brush past you with the current, a contrast to the bitter chill be
 
   
 
-**Brinepool Passage**, formerly "Sub-Zero Passage" is a location that is accessible by breaking a wall of ice inside of a fallen tower that leads to [Castle Light](Castle_Light.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md).
+**Brinepool Passage**, formerly "Sub-Zero Passage" is a [location](Locations.md) that is accessible by breaking a wall of ice inside of a fallen tower that leads to [Castle Light](Castle_Light.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md).
 
 ## Overview
 

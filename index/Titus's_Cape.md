@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Capes]
 
 ## Description
 
-Titus's Cape is an animated [Equipment](Equipment.md) item under the "Arms" category. Worn by [Titus](Titus_Fulminus_Destellus.md), it is a dark cape with shoulder plates. It is found in the exclusive chest from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+Titus's Cape is an animated [Equipment](Equipment.md) item under the "Arms" category. Worn by [Titus](Titus.md), it is a dark cape with shoulder plates. It is found in the exclusive chest from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 This item is used to craft the [Champion's Cape](<Champion's_Cape.md>) at the [Merit Detainment Core](Merit_Detainment_Core.md).
 

@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of Ysley's Ember is an RNG-based curse [enchantment](Enchantments.md) that applies burn on proc.
+Curse of Ysley's Ember is an RNG-based curse [enchantment](Enchantment.md) that applies burn on proc.
 
 ## Effect
 
@@ -26,7 +26,7 @@ After landing enough hits, Curse of Ysley's Ember causes an explosion and applie
 
 The explosion deals a random amount of damage, between 0 and 33. This deals typeless damage, ignoring armor resistances.
 
-The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
+The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for [Light Weapons](Light_Weapons.md), 4 hits for [Medium Weapons](Medium_Weapons.md), and 3 hits for [Heavy Weapons](Heavy_Weapons.md).
 
 ### Curse
 

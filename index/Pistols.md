@@ -10,7 +10,7 @@ categories: [Light Weapons, Weapon Classes, Weapons, Guns]
 
 ## Description
 
-Pistols are a ranged Light Weapon class designed to shoot projectiles.
+Pistols are a ranged [Light Weapon](Light_Weapons.md) class designed to shoot projectiles.
 
 They can be used in three different ways, with each having unique Talents and mechanics;
 
@@ -28,7 +28,7 @@ Reload with Z / Y, loading the chamber with bullets. While loaded, your Pistol w
 
 The amount of bullets you can load into a pistol is dependent on which weapon you have equipped. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md), and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md), [Iron Requiem](Iron_Requiem.md), and [Silversix](Silversix.md) can hold 6 bullets. Reloading has a sound cue and slows the player greatly, leaving them vulnerable in combat. It takes 0.5 seconds to load each bullet (0.4 If the player has the [Rapid Reload](Talents.md#rapid-reload) Talent an empty gun, and 0.25 if the [Ultrakill](Talents.md#ultrakill) Talent is active). You can end your reload early by pressing M2.
 
-Having a [Shield](Shields.md) or Parrying Dagger equipped will reduce your reload speed by 20%.
+Having a [Shield](Shields.md) or [Parrying Dagger](Parrying_Daggers.md) equipped will reduce your reload speed by 20%.
 
 Note: You do not need to have [Bullets](Bullets.md) in your inventory to load your Pistol, but you do need them in order to fire ranged projectiles on your basic attacks.
 
@@ -59,154 +59,4 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
 
 ## Weapons
 
-<table><caption>Light Weapons</caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Requirements</th>
-  <th>Base Damage</th>
-  <th>Scaling</th>
-  <th>Armor Penetration</th>
-  <th>Chip Damage</th>
-  <th>Posture Damage</th>
-  <th>Range</th>
-  <th>Swing Speed</th>
-  <th>Endlag</th>
-  <th>Scaled Damage</th>
-</tr>
-<tr>
-  <td><b><a href="Silversix.md">Silversix</a></b></td>
-  <td>N/A</td>
-  <td>10</td>
-  <td>LHT: 13</td>
-  <td>-</td>
-  <td>-</td>
-  <td>1</td>
-  <td>10</td>
-  <td>1.17x</td>
-  <td>-</td>
-  <td>19.8</td>
-</tr>
-<tr>
-  <td><b><a href="Flintlock.md">Flintlock</a></b></td>
-  <td>20 LHT</td>
-  <td>11</td>
-  <td>LHT: 12</td>
-  <td>-</td>
-  <td>-</td>
-  <td>1</td>
-  <td>10</td>
-  <td>1.17x</td>
-  <td>-</td>
-  <td>20.9</td>
-</tr>
-<tr>
-  <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
-  <div><small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
-  <td>40 LHT</td>
-  <td>14</td>
-  <td>LHT: 12</td>
-  <td>-</td>
-  <td>-</td>
-  <td>1</td>
-  <td>10.5</td>
-  <td>1.17x</td>
-  <td>-</td>
-  <td>26.6</td>
-</tr>
-<tr>
-  <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
-  <td>75 MTL<br>
-  40 LHT</td>
-  <td>21</td>
-  <td>MTL: 4<br>
-  LHT: 3</td>
-  <td>-</td>
-  <td>-</td>
-  <td>1</td>
-  <td>10</td>
-  <td>1.17x</td>
-  <td>-</td>
-  <td>32</td>
-</tr>
-<tr>
-  <td><b><a href="Repeater.md">Repeater</a></b></td>
-  <td>65 LHT</td>
-  <td>14</td>
-  <td>LHT: 15</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>12</td>
-  <td>1.25x</td>
-  <td>-</td>
-  <td>29.8</td>
-</tr>
-<tr>
-  <td><b><a href="Dragoon.md">Dragoon</a></b></td>
-  <td>65 LHT</td>
-  <td>16</td>
-  <td>LHT: 12</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3.5</td>
-  <td>11</td>
-  <td>1.17x</td>
-  <td>-</td>
-  <td>30.4</td>
-</tr>
-<tr>
-  <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
-  <td>75 LHT</td>
-  <td>16</td>
-  <td>LHT: 11</td>
-  <td>-</td>
-  <td>20%</td>
-  <td>4</td>
-  <td>11</td>
-  <td>1.2x</td>
-  <td>-</td>
-  <td>29.2</td>
-</tr>
-<tr>
-  <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
-  <div><small><a href="#dawnshot">Dawnshot</a></small></div></td>
-  <td>75 LHT</td>
-  <td>16</td>
-  <td>LHT: 12</td>
-  <td>5%</td>
-  <td>10%</td>
-  <td>2.5</td>
-  <td>10.5</td>
-  <td>1.17x</td>
-  <td>-</td>
-  <td>30.4</td>
-</tr>
-<tr>
-  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
-  <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>16</td>
-  <td>LHT: 16</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>12</td>
-  <td>1.33x</td>
-  <td>-</td>
-  <td>35.2</td>
-</tr>
-<tr>
-  <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
-  <td>40 LHT</td>
-  <td>13</td>
-  <td>LHT: 11</td>
-  <td>5%</td>
-  <td>10%</td>
-  <td>1</td>
-  <td>10.5</td>
-  <td>1.17x</td>
-  <td>-</td>
-  <td>23.7</td>
-</tr>
-</tbody>
-</table>
+<table><caption><a href="Light_Weapons.md"><div>Light Weapons</div></a></caption><tbody><tr><th>Name</th><th>Requirements</th><th>Base Damage</th><th>Scaling</th><th>Armor Penetration</th><th>Chip Damage</th><th>Posture Damage</th><th>Range</th><th>Swing Speed</th><th>Endlag</th><th>Scaled Damage</th></tr><tr><td><b><a href="Silversix.md">Silversix</a></b></td><td>N/A</td><td>10</td><td>LHT: 13</td><td>-</td><td>-</td><td>1</td><td>10</td><td>1.17x</td><td>-</td><td>19.8</td></tr><tr><td><b><a href="Flintlock.md">Flintlock</a></b></td><td>20 LHT</td><td>11</td><td>LHT: 12</td><td>-</td><td>-</td><td>1</td><td>10</td><td>1.17x</td><td>-</td><td>20.9</td></tr><tr><td><b><a href="Dawnshot.md">Dawnshot</a></b><br><div><small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td><td>40 LHT</td><td>14</td><td>LHT: 12</td><td>-</td><td>-</td><td>1</td><td>10.5</td><td>1.17x</td><td>-</td><td>26.6</td></tr><tr><td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td><td>75 MTL<br>40 LHT</td><td>21</td><td>MTL: 4<br>LHT: 3</td><td>-</td><td>-</td><td>1</td><td>10</td><td>1.17x</td><td>-</td><td>32</td></tr><tr><td><b><a href="Repeater.md">Repeater</a></b></td><td>65 LHT</td><td>14</td><td>LHT: 15</td><td>-</td><td>-</td><td>3</td><td>12</td><td>1.25x</td><td>-</td><td>29.8</td></tr><tr><td><b><a href="Dragoon.md">Dragoon</a></b></td><td>65 LHT</td><td>16</td><td>LHT: 12</td><td>-</td><td>-</td><td>3.5</td><td>11</td><td>1.17x</td><td>-</td><td>30.4</td></tr><tr><td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td><td>75 LHT</td><td>16</td><td>LHT: 11</td><td>-</td><td>20%</td><td>4</td><td>11</td><td>1.2x</td><td>-</td><td>29.2</td></tr><tr><td><b><a href="Alloyed_Dawnshot.md">Alloyed Dawnshot</a></b><br><div><small><a href="#dawnshot">Dawnshot</a></small></div></td><td>75 LHT</td><td>16</td><td>LHT: 12</td><td>5%</td><td>10%</td><td>2.5</td><td>10.5</td><td>1.17x</td><td>-</td><td>30.4</td></tr><tr><td><b><a href="Soulwrought_Gun.md">Soulwrought Gun</a></b></td><td><a href="Crazy_Slots.md">Crazy Slots</a></td><td>16</td><td>LHT: 16</td><td>-</td><td>-</td><td>3</td><td>12</td><td>1.33x</td><td>-</td><td>35.2</td></tr><tr><td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td><td>40 LHT</td><td>13</td><td>LHT: 11</td><td>5%</td><td>10%</td><td>1</td><td>10.5</td><td>1.17x</td><td>-</td><td>23.7</td></tr></tbody></table>

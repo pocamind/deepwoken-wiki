@@ -36,4 +36,4 @@ When consumed, it replenishes 30% Stomach and 5% Water.
 
 ### Recipe
 
--   1 [Egg](Egg.md) and 2 [Gathered Wheat](Gathered_Wheat.md), no [Campfire](Campfire_Pit.md) required.
+-   1 [Egg](Egg.md) and 2 [Gathered Wheat](Wheat.md), no [Campfire](Campfire.md) required.

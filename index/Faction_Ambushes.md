@@ -78,7 +78,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
  |
 | [Authority](The_Central_Authority.md) | 
 
--   1 [Authority Commander](<Authority_Commander_(Enemy).md>)
+-   1 [Authority Commander](<Authority_Commander_(NPC).md>)
 
  | 
 
@@ -189,7 +189,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
  |
 | [The Hive](The_Hive.md) | 
 
--   1 [Hive Construct](Hive_Construct.md)
+-   1 [Hive Construct](Golem_Constructs.md)
 
  | 
 

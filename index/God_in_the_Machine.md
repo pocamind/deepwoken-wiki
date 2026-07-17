@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-_**God in the Machine**_ was a [Book](Books.md).
+_**God in the Machine**_ was a [Book](Book.md).
 
 ## Text
 

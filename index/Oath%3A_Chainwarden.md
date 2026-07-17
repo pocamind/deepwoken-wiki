@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 220400
+revid: 220083
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 17 obtainable Oaths in _Deepwoken_. This Oath focuses on an aggressive playstyle along with immobilizing foes with chains, with unique talents such as Perpetual Wrath, increasing your damage with consecutive hits to Chained enemies.
+**[Oath](Oath.md): Chainwarden** is one of the 17 obtainable Oaths in _Deepwoken_. This Oath focuses on an aggressive playstyle along with immobilizing foes with chains, with unique talents such as Perpetual Wrath, increasing your damage with consecutive hits to Chained enemies.
 
 “ What is it? You had better not be wasting my time. There's filth that requires scraping off the map. ”
 
@@ -35,7 +35,7 @@ Lore wise Chainwardens are strong enforcers of justice serving [The Central Auth
 1.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top of the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn, rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
 2.  If obtaining this with a friend and you don't receive kill credit after dealing damage to [Emar Vend](Emar_Vend.md), head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) and he will provide you the oath.
 
-_Chainwarden **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as the Vice Warden will insult you._
+_Chainwarden **cannot** be reobtained if you [Oathbreak](Oathbreak.md) it, as the Vice Warden will insult you._
 
 Guide and Showcase can be found [here](https://www.youtube.com/watch?v=-9vjPiG-iVU).
 
@@ -48,10 +48,10 @@ You can complete either of these methods a combined total of two times to max pr
 
 Known humanoid bosses are:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Erisia](Duke_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Ferryman](The_Ferryman.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser](Chaser.md)
 
 > (Note: If Enchained duration runs out or snaps before the target is executed, it will not count for progression, this means the target must be Enchained while beaten, which is most tricky on Maestro Evengarde Rest and The Ferryman)
 > 
@@ -88,14 +88,14 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Has a range limit of 80 studs.
     -   "**The yank**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
         -   2 seconds true endlag on flourish.
-        -   Also procs off of ~Emperor Flame~(currently not the case) and [Razor Blitz](Bloodrend.md#razor-blitz), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.
+        -   Also procs off of ~Emperor Flame~(currently not the case) and [Razor Blitz](Razor_Blitz.md), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.
         -   Benefits off Dazing Finisher and Bulldozer.
         -   Prevents targets from moving after flourish.
         -   Forces targets back to the user on flourish, holding them in place for a duration.
             -   Game determines user's location 0.4 seconds late, using it airborne can drag targets upwards.
         -   **Movestack**: Using a mantra at the _very first moment_ after a flourish let's you movestack it.
     -   "**Crushing kick**" is activated after pulling targets by M1ing dealing 46 Oath damage and 25 posture.
-        -   0.45s windup, [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
+        -   0.45s windup, [True Hyperarmor](True_Hyperarmor.md) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
             -   Has a 360° hitbox, can't be whiffed by turning around, but you can kick targets back to you.
         -   Using the kick too quickly will have increased endlag, due to the Pull's endlag. (Bug)
         -   Not treated as a mantra or an M1, ignoring Champion's Regalia.
@@ -215,6 +215,7 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
 
 -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
 -   Procs Chainlash on the _**first**_ hit, past 15 studs. (Procs through block)
+    -   Innately has Chainlash, does not require the card to proc.
     -   Impel's Chainlash can be movestacked with Mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
 -   Max range of 45 studs, however over past 40 studs Enchained is cleared, cancelling Chainlash.
 -   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock. (Aim is slightly delayed)
@@ -265,10 +266,10 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
     -   Inflicts _**anti-roll**_ for 1.35 seconds, allowing for true combos with mantras.
     -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
         -   You can [wallbang](Status_Effects.md#true-daze) off the environment, jumping above targets while using the mantra can [wallbang](Status_Effects.md#true-daze) off the ground.
-    -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
+    -   Adding a [Reversal Spark](Reversal_Spark.md), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
     -   Has [Hyperarmor](Status_Effects.md#hyperarmor) on its second chained hit.
 -   Has a cooldown of 15 seconds.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to disable the enchained variant of the Mantra.
+-   Can be modified with a [Blast Spark](Blast_Spark.md) to disable the enchained variant of the Mantra.
 
  |
 

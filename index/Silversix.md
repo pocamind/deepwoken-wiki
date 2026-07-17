@@ -40,7 +40,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Silversix** is a Pistol obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md).
+The **Silversix** is a Pistol obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echo_Unlock.md) for 25 Echoes in [Character Creation](Character_Creation.md).
 
 On spawn, the player will spawn with two Silversix equipped; one in the offhand and one in the main hand.
 

@@ -20,7 +20,7 @@ A Diver is an NPC that can be found in ambushes, or The Depths during the follow
 
 -   Diver vs Monster ([The Depths](The_Depths.md))
 
-A Diver's appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robes.md) outfit with their [aspect](Aspects.md) varying.
+A Diver's appearance only consists of a [Diver Apprentice](Diver_Apprentice.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 
@@ -111,7 +111,7 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 
 ### Boons
 
--   Mantra Modification - A Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md#sparks).
+-   Mantra Modification - A Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Magnet_Spark.md).
 
 ### Talents
 
@@ -134,4 +134,4 @@ A Diver executes its opponent after knocking them:
 
 ## Trivia
 
--   Despite being completely identical to [Apprentice Divers](Apprentice_Diver.md) and wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) armor, they are classed as a higher rank.
+-   Despite being completely identical to [Apprentice Divers](Apprentice_Diver.md) and wearing the [Diver Apprentice](Diver_Apprentice.md) armor, they are classed as a higher rank.

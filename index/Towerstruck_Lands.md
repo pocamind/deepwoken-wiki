@@ -18,7 +18,7 @@ A rich stone quarry, perfect for creating life.
 
   
 
-**Towerstruck Lands** is a location in _Deepwoken._ It is a sub-location in [Upper Erisia](Upper_Erisia.md) and is not owned by any faction.
+**Towerstruck Lands** is a [location](Locations.md) in _Deepwoken._ It is a sub-location in [Upper Erisia](Upper_Erisia.md) and is not owned by any faction.
 
 ## Overview
 
@@ -28,7 +28,7 @@ The Towerstruck Lands is a section of [Upper Erisia](Upper_Erisia.md) with sandy
 
 #### [The Hidden Village](The_Hidden_Village.md)
 
--   Players can find [Erisore](Ores.md#erisore) here, a substantial part to building an outfit.
+-   Players can find [Erisore](Ore.md#erisore) here, a substantial part to building an outfit.
 -   Players can find Nimea here.
 
 ## Missions

@@ -16,7 +16,7 @@ _To get food, one must collect ingredients from various Luminants or buy the foo
 
 -   Mushrooms, fruit and wheat are all very easy to get, as they are plentiful and various on both starter islands.
 -   In every [season](Seasons.md) (except Winter), the player can find fruit on smaller trees and some bushes, which is an easy and safe source of nutrition.
--   Purchased from NPCs such as [Lance Leshi](Lance.md), [Lance's Brother](<Lance's_Brother.md>), and [The Meat Lord](The_Meat_Lord.md).
+-   Purchased from [NPCs](NPCs.md) such as [Lance Leshi](Lance_Leshi.md), [Lance's Brother](<Lance's_Brother.md>), and [The Meat Lord](The_Meat_Lord.md).
 -   Alternatively, you can turn in specific dishes that you cook to [Chef Odiolavoro](Chef_Odiolavoro.md) for some experience, although he is not a chef and should not be regarded as such.
 
 Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to an immense decrease in thirst and hunger.
@@ -63,7 +63,7 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
     -   [Wind Gem](Wind_Gem.md): Speed boost duration increased from 10s to 15s.
     -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
 -   _"A heavy meat that hardens your skin!"_ The Scale buff grants 15% PEN reduction.
--   _"An odd meal that soothes your throat!"_ The Throat buff increases your [Taunt](Attunement-less.md#taunt) duration by 8 seconds, your [Command: Fight](Vow_of_Mastery.md) duration by 7.5 seconds, and grants [Sing](Attunement-less.md#sing) a noticeable range increase.
+-   _"An odd meal that soothes your throat!"_ The Throat buff increases your [Taunt](Taunt.md) duration by 8 seconds, your [Command: Fight](Vow_of_Mastery.md) duration by 7.5 seconds, and grants [Sing](Sing.md) a noticeable range increase.
 -   _"An invigorating meal that strengthens your muscles!_" The Strength buff grants +10% posture damage.
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
@@ -78,7 +78,7 @@ Food and their respective buffs can have their durations buffed by the _[Tavernk
 1 [Sap](Sap.md) | 30% | 5% | Speed Boost  
 (20) | ◯ | ◯ | ◯ |
 |  | [Calamari](Calamari.md) | 1 [Squid](Squid.md), 1 [Gathered Wheat](Gathered_Wheat.md) | 25% | 5% | N/A | ◯ | ◯ | ✗ |
-|  | [Candied Fruit](Candied_Fruit.md) | 1 or 2 of any [Fruit](Ingredients.md#fruits),  
+|  | [Candied Fruit](Candied_Fruit.md) | 1 or 2 of any [Fruit](Fruit.md),  
 1 [Sap](Sap.md) | 20% | 15% | Mantra Damage  
 (10) | ◯ | ✗ | ◯ |
 |  | [Candy](Candy.md) | [Goodie Bag](Goodie_Bag.md)\-Exclusive | 10% | 5% | Reduced Hunger Loss  
@@ -107,9 +107,9 @@ Food and their respective buffs can have their durations buffed by the _[Tavernk
 OR  
 1 [Seaweed Bundle](Seaweed_Bundle.md),  
 2 [Fish Meat](Fish_Meat.md) | 18% | 10% | N/A | ◯ | ◯ | ✗ |
-|  | [Fruit Salad](Fruit_Salad.md) | 3 individual [Fruits](Ingredients.md#fruits) | 20% | 10% | Health Regeneration  
+|  | [Fruit Salad](Fruit_Salad.md) | 3 individual [Fruits](Fruit.md) | 20% | 10% | Health Regeneration  
 (10) | ✗ | ✗ | ◯ |
-|  | [Fruit Cake](Fruit_Cake.md) | 2 different [Fruits](Ingredients.md#fruits),  
+|  | [Fruit Cake](Fruit_Cake.md) | 2 different [Fruits](Fruit.md),  
 1 [Gathered Wheat](Gathered_Wheat.md) | 25% | 12% | N/A | ◯ | ✗ | ◯ |
 |  | [Glazed Fish](Glazed_Fish.md) | 1 [Fish Meat](Fish_Meat.md),  
 1 [Sap](Sap.md) | 30% | 5% | Weapon Damage  
@@ -126,12 +126,12 @@ OR
 |  | [Magic Bean](Magic_Bean.md) | Food Vendor-Exclusive | 1% | 1% | N/A | N/A | ◯ | ✗ |
 |  | [Megurger](Megurger.md) | Food Vendor-Exclusive | 25% | 10% | Weapon Damage  
 (12) | N/A | ◯ | ✗ |
-|  | [Mushroom Bisque](Mushroom_Bisque.md) | 1 of any [Mushroom](Ingredients.md#mushrooms),  
+|  | [Mushroom Bisque](Mushroom_Bisque.md) | 1 of any [Mushroom](Mushroom.md),  
 1 [Crustacean Meat](Crustacean_Meat.md) | 30% | 20% | N/A | ◯ | ◯ | ✗ |
 |  | [Mushroom Omelette](Mushroom_Omelette.md) | 2 [Egg](Egg.md),  
-1 of any [Mushroom](Ingredients.md#mushrooms) | 35% | 10% | Weapon Damage  
+1 of any [Mushroom](Mushroom.md) | 35% | 10% | Weapon Damage  
 (20) | ◯ | ✗ | ◯ |
-|  | [Mushroom Soup](Mushroom_Soup.md) | 2 [Mushrooms](Ingredients.md#mushrooms) of different kinds | 15% | 17% | N/A | ◯ | ✗ | ◯ |
+|  | [Mushroom Soup](Mushroom_Soup.md) | 2 [Mushrooms](Mushroom.md) of different kinds | 15% | 17% | N/A | ◯ | ✗ | ◯ |
 |  | [Noodles](Noodles.md) | 1 [Egg](Egg.md),  
 2 [Gathered Wheat](Gathered_Wheat.md) | 30% | 5% | N/A | ✗ | ◯ | ◯ |
 |  | [Omelette](Omelette.md) | 2 [Eggs](Egg.md) | 25% | 10% | N/A | ◯ | ◯ | ◯ |
@@ -147,7 +147,7 @@ OR
 |  | [Redd Juice](Redd_Juice.md) | 3 [Redds](Redd.md) | 3% | 25% | N/A | ✗ | ◯ | ◯ |
 |  | [Sauteed Scallops](Sauteed_Scallops.md) | 2 [Scallops](Scallop.md) | 25% | 5% | N/A | ◯ | ◯ | ✗ |
 |  | [Scholar's Brew](<Scholar's_Brew.md>) | 1 of any [Mantra Modifier](Mantra_Modifiers.md),  
-1 of any [Mushroom](Ingredients.md#mushrooms) | 3% | 25% | Ether Regeneration  
+1 of any [Mushroom](Mushroom.md) | 3% | 25% | Ether Regeneration  
 (15) | ◯ | ◯ | ◯ |
 |  | [Seafood Boil](Seafood_Boil.md) | 1 [Squid](Squid.md),  
 1 [Fish Meat](Fish_Meat.md),  
@@ -171,7 +171,7 @@ OR
 
 ## Notes
 
--   Alternatively, you can regain your Food, Thirst and Blood bars by gaining a [Power](Power.md), obtaining your [Resonance](Resonance.md), or having the [Carnivore](Talents.md#apex-predator) [Talent](Talents.md).
+-   Alternatively, you can regain your Food, Thirst and Blood bars by gaining a [Power](Power.md), obtaining your [Resonance](Resonance.md), or having the [Carnivore](Talents.md#apex-predator) [Talent](Talent.md).
 
 ## Trivia
 

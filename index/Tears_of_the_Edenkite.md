@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Tears of the Edenkite is a damage dealing [enchantment](Enchantments.md) that strikes your opponent with bubbles on critical attack and flourish.
+Tears of the Edenkite is a damage dealing [enchantment](Enchantment.md) that strikes your opponent with bubbles on critical attack and flourish.
 
 ## Effect
 

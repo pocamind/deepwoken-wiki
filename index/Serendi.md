@@ -32,31 +32,7 @@ Serendi is able to see a ship, possibly an [Authority](The_Central_Authority.md)
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>The breeze out here is lovely, isn't it? I can see an infinite blue from here! And that ship o'er the horizon.. tis a beauty.</td>
-</tr>
-<tr>
-  <td>You're standing on crates for it?</td>
-</tr>
-<tr>
-  <td>Shut <i>up</i>! Not all of us are gifted with Orlandeau's height, ye rat! I was gonna offer to scoot over for ye.. but, nevermind then, pff.</td>
-</tr>
-<tr>
-  <td>You don't need to scoot over, I can see it fine already.</td>
-</tr>
-<tr>
-  <td><i>*Without a word, she glares at you, piercing through your confidence. Those eyes radiate pure anger, yet, she remains upon crates to be at eye contact.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>The breeze out here is lovely, isn't it? I can see an infinite blue from here! And that ship o'er the horizon.. tis a beauty.</td></tr><tr><td>You're standing on crates for it?</td></tr><tr><td>Shut <i>up</i>! Not all of us are gifted with Orlandeau's height, ye rat! I was gonna offer to scoot over for ye.. but, nevermind then, pff.</td></tr><tr><td>You don't need to scoot over, I can see it fine already.</td></tr><tr><td><i>*Without a word, she glares at you, piercing through your confidence. Those eyes radiate pure anger, yet, she remains upon crates to be at eye contact.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

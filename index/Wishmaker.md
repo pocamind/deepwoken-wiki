@@ -26,9 +26,9 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Wishmaker** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+**Wishmaker** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Trivia
 
--   Worn by Deepwoken developer [Iltria](Developer_Specs.md#iltria-leafre-spellhardt-retired)
+-   Worn by Deepwoken developer [Iltria](Developer_Specs/Iltria.md)
 -   [Soren](Soren.md) also has the same description, meaning it's user, Ragoozer, is likely to be part of Wishmaker group.

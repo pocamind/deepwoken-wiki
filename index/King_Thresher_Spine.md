@@ -21,10 +21,10 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **King Thresher Spine** is an [Ingredient](Ingredients.md) dropped from the [King Thresher](King_Thresher.md), it can be found wherever the King Thresher can spawn, with those locations being [Starswept Valley](The_Starswept_Valley.md), [Deep Thresher Nest](Deep_Thresher_Nest.md), and [The Depths](The_Depths.md) or in the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
+The **King Thresher Spine** is an [Ingredient](Ingredient.md) dropped from the [King Thresher](King_Thresher.md), it can be found wherever the King Thresher can spawn, with those locations being [Starswept Valley](Starswept_Valley.md), [Deep Thresher Nest](Deep_Thresher_Nest.md), and [The Depths](The_Depths.md) or in the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
 
 ## Trivia
 
 -   It is almost identical to a [Thresher Spine](Thresher_Spine.md) except it has a purple tint instead of a brown one.
 -   The first actual 'use' for this item is to craft the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit.
--   Three of them can be used to summon [Primadon](Primadon,_Titan_of_the_East.md).
+-   Three of them can be used to summon [Primadon](Primadon.md).

@@ -30,7 +30,7 @@ Each trait can only be increased up to 6 times.
     -   Because the scaling increase is a percentage increase, it is much more effective the higher your weapon's innate scaling is.
     -   This is combined multiplicatively with your weapon's innate attribute scaling.
     -   This applies to every weapon with no exceptions.
-    -   Weapons that have no scaling will not benefit from Proficiency's scaling bonus unless you equip Scaling Rings, as Proficiency's scaling bonus is a percentage increase. These weapons are: [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), [Handcuffs](Handcuffs.md), and [Formless Shard](Formless_Shard.md).
+    -   Weapons that have no scaling will not benefit from Proficiency's scaling bonus unless you equip [Scaling Rings](Scaling_Rings.md), as Proficiency's scaling bonus is a percentage increase. These weapons are: [Saintsblade](Saintsblade.md), [Sovereign Bangle](Sovereign_Bangle.md), [Handcuffs](Handcuffs.md), and [Formless Shard](Formless_Shard.md).
 -   Increase [Weapon](Weapons.md) **PEN** by 2.5% per point. (Maximum of 15% increase from **PEN**)
     -   The PEN increase is additive to PEN from other sources, including your weapon's innate PEN.
 

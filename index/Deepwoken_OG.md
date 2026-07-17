@@ -20,12 +20,12 @@ notices:
 
 ## Overview
 
-Deepwoken OG (referred to in update logs as "_[Deep Healing](Verse_3.md#operation-deep-healing): Cool Ranch_") was an update to _Deepwoken_ released on April 1st, 2026 to celebrate April Fools Day, upholding the tradition of annual April Fools' events.
+Deepwoken OG (referred to in update logs as "_[Deep Healing](Operation%253A_Deep_Healing.md): Cool Ranch_") was an update to _Deepwoken_ released on April 1st, 2026 to celebrate April Fools Day, upholding the tradition of annual April Fools' events.
 
 After running an algorithm to pick community suggestions at random to determine what the everyday, "true median player" wants from the game, two suggestions were added to the game, per "super\_sonicmarioexe\_fan67" and "xx\_chimedwellah\_xx"'s respective brief, 3-word long suggestions:
 
 -   Reverting the combat mechanics to those of [Verse 1](Verse_1.md); "revert the combat"
--   Giving [Boats](Ships_&_Sailing.md) the ability to fly, because boats need to be able to fly in order to "fix flying boats".
+-   Giving [Boats](Boats.md) the ability to fly, because boats need to be able to fly in order to "fix flying boats".
 
 ## Changes
 
@@ -42,7 +42,7 @@ The changes to combat mechanics were:
 -   Parrying - Parrying received a few changes:
     -   Cooldown after missing a parry was heavily reduced.
     -   The window to land a parry was increased.
--   Tempo becoming Reservoir - [Tempo](Combat_Mechanics.md#tempo)'s behavior was tweaked to match the behavior of the old [Reservoir](Reservoir.md) mechanic.
+-   Tempo becoming Reservoir - [Tempo](Tempo.md)'s behavior was tweaked to match the behavior of the old [Reservoir](Reservoir.md) mechanic.
 
 ### Flying boats
 
@@ -61,4 +61,4 @@ During this event, all [Traan Zakshun](Traan_Zakshun.md) stocks were replaced wi
 
 -   The reversion of combat mechanics to those of Verse 1 references a long-running sentiment from players for the game to return to the way it was in Verse 1, and in presentation intending to mimic _Fortnite: Battle Royale'_s widely celebrated "OG" updates that revert the game's map, items, and mechanics to those of some of its oldest versions.
 -   Deepwoken OG was the fifth annual April Fools' event.
-    -   The four events prior were, in order of release: [Mudwoken](Mudwoken.md), [Coral Fever](Destroyman_III.md), [Warring States Era](Warring_States_Era.md), and [Deepwoken Battlegrounds](Deepwoken_Battlegrounds.md).
+    -   The four events prior were, in order of release: [Mudwoken](Mudwoken.md), [Coral Fever](Coral_Fever.md), [Warring States Era](Warring_States_Era.md), and [Deepwoken Battlegrounds](Deepwoken_Battlegrounds.md).

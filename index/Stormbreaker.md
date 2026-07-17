@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 
 ## Description
 
-Stormbreaker is a damage dealing [enchantment](Enchantments.md) that applies [Shock](Status_Effects.md#shock) to your opponent and replaces your critical attack.
+Stormbreaker is a damage dealing [enchantment](Enchantment.md) that applies [Shock](Shock.md) to your opponent and replaces your critical attack.
 
 ## Effect
 
@@ -26,7 +26,7 @@ On weapon hit, Stormbreaker adds a secondary damage instance to your attacks, de
 
 If it is raining, then a lightning strike will hit your opponent, dealing 33% of your weapon's damage instead, before modifiers as [Thundercall](Thundercall.md) damage in an AoE. This has a 5 second cooldown.
 
-Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](Status_Effects.md#surge-rod) on proc.
+Additionally this applies [Shock](Shock.md) or one [Surge Rod](Status_Effects.md#surge-rod) on proc.
 
 Stormbreaker additionally replaces your critical attack with a cursor-aimed weapon throw that ragdolls and strikes your opponent with lightning on hit. You cannot attack or move until your weapon has returned to you.
 

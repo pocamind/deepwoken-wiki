@@ -45,8 +45,8 @@ This weapon comes with the following passive:
 
 The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent, or by chance from a random related event:
 
-1.  Obtain [Shadow Travel](Talents.md#shadow-travel) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
-2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
+1.  Obtain [Shadow Travel](Talents.md#shadow-travel) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Void_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
+2.  Find an [Understrand](Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
     -   [Outpost Antumbra](Outpost_Antumbra.md)
     -   [Minityrsa](Minityrsa.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
@@ -70,4 +70,4 @@ Both critical attacks have a cooldown of 9 **seconds**. However, the standing cr
 -   This item _can_ be dropped.
 -   Ironically, this weapon is longer than the [Crypt Blade](Crypt_Blade.md).
 -   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
--   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).
+-   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](Ministry.md).

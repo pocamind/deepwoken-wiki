@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin description
 
-_Authority Ensign_ is an immersive faction-based [Origin](Origins.md) that works mostly in the [Eastern Luminant](Luminants.md), performing authority missions to progress to higher ranks for exclusive rewards.
+_Authority Ensign_ is an immersive faction-based [Origin](Origin.md) that works mostly in the [Eastern Luminant](Eastern_Luminant.md), performing authority missions to progress to higher ranks for exclusive rewards.
 
 ## Description
 
@@ -40,11 +40,11 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 ## Effects
 
-Your [Guild](Guilds.md) will be automatically set to **The Central Authority** on that character, allying you with all members of the same Origin, which allows you use the shout feature (by starting your messages with !) to talk to all fellow Ensigns server wide. Your guild will reset back to normal if you wipe or get Exiled from the Authority.
+Your [Guild](Guild.md) will be automatically set to **The Central Authority** on that character, allying you with all members of the same Origin, which allows you use the shout feature (by starting your messages with !) to talk to all fellow Ensigns server wide. Your guild will reset back to normal if you wipe or get Exiled from the Authority.
 
-Your guild being changed is somewhat only a visual change; while you **won't** be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), which is a major downside if you are already in a guild, if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md) if someone else places it down.
+Your guild being changed is somewhat only a visual change; while you **won't** be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), which is a major downside if you are already in a guild, if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Base.md) if someone else places it down.
 
-After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md) and you will gain 80 points. This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 5 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape. Visit the [Escaping Jail](Fort_Merit.md#escaping-jail) page for a more detailed description.
+After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md) and you will gain 80 points. This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 5 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape. Visit the [Escaping Jail](Escaping_Jail.md) page for a more detailed description.
 
 Most **Authority-related equipments and weapons** can be equipped without meeting their normal requirements, without any penalty aside from (somewhat minor) effects such as damage scaling, which is a **major** benefit. Although you can automatically wear [Outfits](Outfits.md) given to you from promotions, you **cannot** craft any non-Authority outfit to wear on your own, for [transmogging](Transmogrification.md) or otherwise, which is a **major** downside.
 
@@ -68,19 +68,19 @@ Being in a Squad allows you to take on the Missions as a group and proc certain 
 
 ### Reputation Issues
 
-As you are affiliated with and work under [The Central Authority](The_Central_Authority.md), certain factions will not take kindly to you. You also cannot raise your [Reputation](Reputation.md) with The [Kingdom of Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md), and your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
+As you are affiliated with and work under [The Central Authority](The_Central_Authority.md), certain factions will not take kindly to you. You also cannot raise your [Reputation](Reputation.md) with The [Kingdom of Etrea](Kingdom_of_Etrea.md) or [The Children of Navae](The_Children_of_Navae.md), and your [Hundred Legions](Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
 
--   For The [Kingdom of Etrea](Etrea.md): You **cannot** raise your Reputation, and you start out as **Hunted**.
+-   For The [Kingdom of Etrea](Kingdom_of_Etrea.md): You **cannot** raise your Reputation, and you start out as **Hunted**.
     -   You cannot gain immunity to [Voidwalkers](Voidwalker.md) due to Etrea being one of the many factions that gives out [Bounties](Bounty_Hunting.md).
-    -   You cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline, which means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for his loot.
+    -   You cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline, which means you cannot obtain [Contractor](Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for his loot.
     -   You cannot gain rewards tied to having good reputation with Etrea, which follows:
         -   You cannot obtain [Stratos' Cloak](<Stratos'_Cloak.md>).
-        -   You cannot obtain [Windwaker](Stratos.md#windwaker-quest).
+        -   You cannot obtain [Windwaker](Windwaker.md).
         -   You cannot obtain [Fang and Coil](Fang_and_Coil.md), unless you spawn with it from the [Character Creation](Character_Creation.md) screen.
 -   For [The Children of Navae](The_Children_of_Navae.md): You **cannot** raise your Reputation, and you start out as **Hunted**.
     -   There is currently no effects or downsides gained from being hunted by them, not even [Faction Ambushes](Faction_Ambushes.md).
 -   For [The Hundred Legions](The_Hundred_Legions.md): Your reputation has a **cap** of high 'Ally', and **cannot** be raised further.
-    -   You are unable to get [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character, unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent due to their requirements being higher than the high 'Ally' cap.
+    -   You are unable to get [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Blightsurger.md) on an Ensign character, unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent due to their requirements being higher than the high 'Ally' cap.
 
 Visit the [Reputation](#reputation) section to see the starting reputation with other factions as an Ensign.
 
@@ -88,13 +88,13 @@ All of the previously mentioned neutral, beneficial, or detrimental effects or o
 
 ## Exile
 
-Upon being exiled from [The Central Authority](The_Central_Authority.md), you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. You will return to your previous [Guild](Guilds.md) and regain access to your [Chime of Dwelling](Chime_of_Dwelling.md). All Origin-exclusive Talents, Equipments, Weapons, Mantras and Outfits you've obtained prior to being exiled will be **kept**, although you can no longer exchange your Faction talents with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
+Upon being exiled from [The Central Authority](The_Central_Authority.md), you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. You will return to your previous [Guild](Guild.md) and regain access to your [Chime of Dwelling](Chime_of_Dwelling.md). All Origin-exclusive Talents, Equipments, Weapons, Mantras and Outfits you've obtained prior to being exiled will be **kept**, although you can no longer exchange your Faction talents with the [Shrine of Chance](Shrine_of_Chance.md).
 
 You lose the ability to equip Authority-related equipments and weapons without meeting its normal stat requirements, though any currently equipped items will remain usable until swapped out. In cases where it is swapped out, you cannot equip them again without meeting its normal stat requirements.
 
 Your Authority reputation will also be lowered heavily, most of the time to **Hunted** or **Villain** reputation (though you can still raise your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md), [The Children of Navae](The_Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md) upon exile.
 
-Alongside losing your insignia and rank, [Salute](#salute) now no longer appears as an emote you can use. You can no longer [Jail](Fort_Merit.md#prison-tower) other players. You still keep your [Horn of Authority](Authority_Ensign.md#horn-of-authority), although it needs testing on whether or not it still works.
+Alongside losing your insignia and rank, [Salute](#salute) now no longer appears as an emote you can use. You can no longer [Jail](Jail.md) other players. You still keep your [Horn of Authority](Horn_of_Authority.md), although it needs testing on whether or not it still works.
 
 There is **no way** to return to the Authority's ranks upon being exiled.
 
@@ -124,19 +124,19 @@ If you fail a Mission by running out of time, failing the objective, or dying (w
 
 Even if you aren't in a Squad, other players may be assigned to the same Mission as you. For some Missions, like Armanent Sabotage, if the Mission is completed, it will be completed for both parties. Dying during a mission only counts as a Mission fail for the person who died.
 
-Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.md#prison-tower) other players.
+Alternative to missions, you can also gain 80 points from [Jailing](Jail.md) other players.
 
 ### List of Missions
 
 1.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\]._
-    -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them two times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
+    -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them two times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
     -   Potential Locations:
-        -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
-        -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 38 minute 30 second time limit
+        -   [Starswept Valley](Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
+        -   [Starswept Valley](Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 38 minute 30 second time limit
         -   [Siirka Point](Siirka_Point.md); 1 hour 40 second time limit
     -   Notes/Tips:
         -   When the Mission completes, the Legion Soldiers will immediately lose aggression.
-        -   The Legion Soldiers and Captain will be completely passive if you have neutral or higher [Hundred Legions](The_Hundred_Legions.md) reputation.
+        -   The Legion Soldiers and Captain will be completely passive if you have neutral or higher [Hundred Legions](Hundred_Legions.md) reputation.
             -   Additionally, you can obtain the Captain's Rec from the Captain for [Legion Kata](Legion_Kata.md).
         -   Sneaking around the fort to pick off or assassinate some of the Legion Soldiers is a good strategy to thin their numbers.
         -   Make sure to check inside all of the tents for barrels.
@@ -158,7 +158,7 @@ Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.m
     -   Potential Locations:
         -   [Derelict Highchurch](Derelict_Highchurch.md) - the hostage is behind the altar in the church; 45 minute 30 second time limit
         -   [Miner's Landing](<Miner's_Landing.md>) - the hostage is in the inn on the second floor; 21 minute 20 second time limit
-        -   [Summer Isle](Summer_Isle.md) - the hostage is inside the abandoned building, the same location for the [Chainwarden](Oath%253A_Chainwarden.md) obtainment quest; 54 minute time limit
+        -   [Summer Isle](Summer_Isle.md) - the hostage is inside the abandoned building, the same location for the [Chainwarden](Chainwarden.md) obtainment quest; 54 minute time limit
     -   Notes/Tips:
         -   When the Mission completes, the Blacksteel Pirates will immediately lose aggression.
         -   The hostage has very low health, and if the hostage is killed, the Mission will fail.
@@ -185,55 +185,15 @@ Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.m
 
 ### Mission Lootpool
 
-<table>
-<tbody>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Items.md">Items</a>: <a href="Treasures.md">Gems</a>, basic <a href="Mantra_Modifiers.md">Mantra Modifiers</a>, all <a href="Mantra_Modifiers.md#sparks">Sparks</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Warped_Blue_Gem.md">Warped Blue Gem</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Light Weapons</b>: <a href="Central_Dirk.md">Central Dirk</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Boots.md">Grand Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a>, <a href="Inquisitor's_Visor.md">Inquisitor's Visor</a> (Inquisition Division only)</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
-  <ol>
-    <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a></li>
-    <li><b>Legendary Rings</b>: <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a></li>
-  </ol></li>
-    <li><b>Inquisition Division Exclusive</b>:
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Handler's_Hood.md">Handler's Hood</a>, <a href="High_Inquisitor's_Hood.md">High Inquisitor's Hood</a>, <a href="Inquisitor's_Hood.md">Inquisitor's Hood</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Inquisitor's_Visor.md">Inquisitor's Visor</a></li>
-  </ul></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Gems.md">Gems</a>, basic <a href="Mantra_Modifiers.md">Mantra Modifiers</a>, all <a href="Sparks.md">Sparks</a></li><li><a href="Relics.md">Relics</a>: <a href="Warped_Blue_Gem.md">Warped Blue Gem</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Light Weapons</b>: <a href="Central_Dirk.md">Central Dirk</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Boots.md">Grand Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a>, <a href="Inquisitor's_Visor.md">Inquisitor's Visor</a> (Inquisition Division only)</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a></li><li><b>Legendary Rings</b>: <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a></li></ol></li><li><b>Inquisition Division Exclusive</b>:<ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Handler's_Hood.md">Handler's Hood</a>, <a href="High_Inquisitor's_Hood.md">High Inquisitor's Hood</a>, <a href="Inquisitor's_Hood.md">Inquisitor's Hood</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Inquisitor's_Visor.md">Inquisitor's Visor</a></li></ul></li></ul></td></tr></tbody></table>
 
 ## Promotions
 
 Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards, being Faction Talent hands and potentially new dialogue with NPCs. Promotion points are **reset** upon being promoted. The message "**YOU HAVE BEEN PROMOTED TO \[RANK\]. OORAH!**" will appear when you reach enough points to rank up.
 
-You can change Faction Talents by using the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), but only if you are still currently an Ensign, and not [Exiled](#exile). Every Faction Talent available to you will appear upon every promotion, which means you will not be locked out of a talent due to a limit of talents appearing like a [normal talent hand](Whisper_Draw.md). You gain a Faction Talent hand upon every promotion, which means you get 1 talent from going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, totalling to 2 talents. You do not gain a Faction Talent hand upon entering a division.
+You can change Faction Talents by using the [Shrine of Chance](Shrine_of_Chance.md), but only if you are still currently an Ensign, and not [Exiled](#exile). Every Faction Talent available to you will appear upon every promotion, which means you will not be locked out of a talent due to a limit of talents appearing like a [normal talent hand](Whisper_Draw.md). You gain a Faction Talent hand upon every promotion, which means you get 1 talent from going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, totalling to 2 talents. You do not gain a Faction Talent hand upon entering a division.
 
-In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division. As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you further get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division). Keep mind that you can still exchange your Faction Talents by using the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) if you are not [Exiled](#exile).
+In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division. As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you further get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division). Keep mind that you can still exchange your Faction Talents by using the [Shrine of Chance](Shrine_of_Chance.md) if you are not [Exiled](#exile).
 
 In total, from **Private** to the highest rank, choosing to enter the Command Division gets you 5 Faction Talents in total, and both the Inquisition and Shock Corps Division gets you 4 Faction Talents in total.
 
@@ -262,9 +222,9 @@ These Talents can be chosen upon being promoted at any point in your Ensign play
     -   The second hit does not proc on non-humanoid targets.
     -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](Sword.md) do not proc this effect.
 
--   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
+-   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shield.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
 
 -   **Steel Tread** - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
@@ -314,14 +274,14 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 -   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
     -   Deals 35 damage.
     -   20 second cooldown.
-    -   This critical has the M1 tag.
+    -   This critical has the [M1 tag](M1_tag.md).
     -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+    -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](Sword.md), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
 
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
 
--   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
+-   **Target Focus** - Enemies you [charm](Charm.md) take more damage from your squadmates in your party.
 
   
 
@@ -412,7 +372,7 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 ### Exclusive Features
 
 -   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
-    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
+    -   Procs on M1s, [Silentheart](Silentheart.md) abilities, and criticals with the [M1 tag](M1_tag.md).
     -   This Talent does not have a range limit.
     -   Applies [daze](Status_Effects.md#dazed) and [ragdolls](Status_Effects.md#ragdoll).
     -   Prerequisite: 30 Agility
@@ -421,10 +381,10 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 -   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back. This affects all damage sources that can receive damage modifiers.
-    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
-        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your backhit damage by 4%.
+    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfit.md) sources do not count towards this Talent.
+        -   Strangely, the [Obvious](Obvious.md) Flaw is an exception to this, reducing your backhit damage by 4%.
         -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, Crouching, Lowstrude, Murmur: Tacet, and Tacet Minimization.
-    -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
+    -   This does **not** buff [assassinations](Assassination.md).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
         -   Notably, the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
@@ -433,9 +393,9 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 -   **Stature Break** - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
-    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
+    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Parry.md), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
 
--   **Tacet Minimization** - Focus your [Tacet](Murmur%253A_Tacet.md) even further, allowing the radius at which you get spotted to become smaller temporarily.
+-   **Tacet Minimization** - Focus your [Tacet](Tacet.md) even further, allowing the radius at which you get spotted to become smaller temporarily.
     -   Decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
     -   Requires 100% [Ether](Ether.md) to be activated, even though it does not cost any Ether.
     -   Prerequisite: [Murmur: Tacet](Murmur%253A_Tacet.md)
@@ -510,7 +470,7 @@ Inquisition Division, given automatically after entering the division
 -   Deals 6% of your opponent's maximum health as damage.
 -   Deals 6 posture damage.
 -   Applies an extended hitstun, preventing the usage of all forms of attack, many Tools, jumping, eating food items, sliding, dodging, and certain Talent Tools for 2.5 seconds.
--   Applies a [Poison](Status_Effects.md#poison) for 8 seconds that increases the [Shaky Block](Combat_Mechanics.md#posture) duration of your opponent by 20%. Having the [Inquisition Light](Inquisition_Light.md) Outfit equipped will double the duration of this poison.
+-   Applies a [Poison](Status_Effects.md#poison) for 8 seconds that increases the [Shaky Block](Shaky_Block.md) duration of your opponent by 20%. Having the [Inquisition Light](Inquisition_Light.md) Outfit equipped will double the duration of this poison.
 -   Grants iframes to the caster and the person hit during its animation.
 -   Can be buffed through damage modifiers despite dealing percentage based damage.
 
@@ -548,7 +508,7 @@ Complete missions with a high win to loss ratio, then speak to [Sentinel Augustu
 -   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
     -   You need to reach a threshold of 150 scaled damage with [Thundercall](Thundercall.md) Mantras without getting hit to proc this Talent.
     -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
-    -   Also negates damage from critical attacks and [Silentheart](Oath%253A_Silentheart.md) abilities.
+    -   Also negates damage from critical attacks and [Silentheart](Silentheart.md) abilities.
 
   
 
@@ -644,9 +604,9 @@ As a lot of pros and cons have already been previously mentioned under the [Effe
 ### Cons
 
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
--   Because your player grip is replaced with [imprisoning](Fort_Merit.md#prison-tower) them, you will need some kind of weapon or mantra that automatically [grips](<Terminology_(game).md#grip>) in order to confirm kills.
-    -   This makes the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization Talent in the Inquisition Division, a tad harder as you would need to rely on bleeding them out with light attacks if you don't have anything that auto-grips. Having outside help with allies that can grip normally also helps immensely.
--   As mentioned in the [Reputation Issues](#reputation-issues) section, you cannot obtain stuff like [Blightsurger](Oath%253A_Blightsurger.md), [Contractor](Oath%253A_Contractor.md) and etc. due to the reputation limitations.
+-   Because your player grip is replaced with [imprisoning](Jail.md) them, you will need some kind of weapon or mantra that automatically [grips](<Terminology_(game).md#grip>) in order to confirm kills.
+    -   This makes the obtainment of [Tacet](Tacet.md), needed for the Tacet Minimization Talent in the Inquisition Division, a tad harder as you would need to rely on bleeding them out with light attacks if you don't have anything that auto-grips. Having outside help with allies that can grip normally also helps immensely.
+-   As mentioned in the [Reputation Issues](#reputation-issues) section, you cannot obtain stuff like [Blightsurger](Blightsurger.md), [Contractor](Contractor.md) and etc. due to the reputation limitations.
     -   Due to the cap on [Etrea](Etrea.md) reputation you will always be able to be voidwalked leading to possible deaths.
 -   Because your guild is "replaced" by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Guild Officer](Guild_Bases.md) tools. Being Exiled will remove this restriction.
     -   If someone from your original guild places down the [Guild Base](Guild_Bases.md) or spawns their [Ship](Ships_&_Sailing.md), you can reset and choose those as your spawn point.
@@ -660,28 +620,28 @@ As a lot of pros and cons have already been previously mentioned under the [Effe
 
 Your starting faction [reputation](Reputation.md) is:
 
--   **Ally** with [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
--   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), and [The Ignition Union](The_Ignition_Union.md)
--   **Enemy** of [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
--   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
--   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
--   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
--   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be [Exiled](#exile).
+-   **Ally** with [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md)
+-   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](Divers.md), [Lost Celtor](Lost_Celtor.md), and [The Ignition Union](The_Ignition_Union.md)
+-   **Enemy** of [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
+-   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Children_of_Navae.md)
+-   **Neutral** with all other factions [Knives of Eylis](Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
+-   _Note: Your chosen [Aspect](Aspect.md) may affect your starting reputation._
+-   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](Children_of_Navae.md) reputation. This restriction will be removed, should you be [Exiled](#exile).
     -   This restriction will be removed, should you be [Exiled](#exile). Visit the [Reputation Issues](#reputation-issues) section for major effects caused by this.
--   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally', and **cannot** be raised further.
+-   Your [Hundred Legions](Hundred_Legions.md) reputation has a **cap** of high 'Ally', and **cannot** be raised further.
     -   This restriction will be removed, should you be [Exiled](#exile). Visit the [Reputation Issues](#reputation-issues) section for major effects caused by this.
 
-If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
+If you have the [Fugitive](Fugitive.md) Flaw:
 
--   **Friend** of [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
--   **Enemy** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), [The Ignition Union](The_Ignition_Union.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), and [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
--   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
+-   **Friend** of [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md)
+-   **Enemy** of [The Divers](The_Divers.md) [Diversiconfaction](Divers.md), [Lost Celtor](Lost_Celtor.md), [The Ignition Union](The_Ignition_Union.md), [The Hive](The_Hive.md) [Hiveiconfaction](Hive.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), and [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md)
+-   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md)
 -   **Neutral** with all other factions [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 
 ## Trivia
 
 -   The usage of ranks is incorrect, as a Lance Corporal is actually ranked below a Corporal.
--   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped. This is likely due to past Authority treachery[\[1\]](#cite-note-1) and the Authority's refusal to pick a side in the Ignition-Summer conflict causing the Company to view them less favorably, even if they are willing to accept their finances.
+-   Despite the [Summer Company](Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped. This is likely due to past Authority treachery[\[1\]](#cite-note-1) and the Authority's refusal to pick a side in the Ignition-Summer conflict causing the Company to view them less favorably, even if they are willing to accept their finances.
 -   Funnily enough, the Shock Corps Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
 -   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.
 

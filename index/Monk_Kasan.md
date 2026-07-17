@@ -33,37 +33,13 @@ Monk Kasan can be found sitting inside of [The Golden Rat](The_Golden_Rat.md) be
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The monk does not bother gracing you with even a glance in your direction. His eyes, with their grim and wearied expression, seem dead-set on the group of Etrean nobles before him... If looks could kill, you reckon they'd all be dead.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The monk does not bother gracing you with even a glance in your direction. His eyes, with their grim and wearied expression, seem dead-set on the group of Etrean nobles before him... If looks could kill, you reckon they'd all be dead.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked once the player has spoken with [High Monk Junsui](High_Monk_Junsui.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*Monk Kasan's eyes remain locked on the sachans.*</i> Fourteen years of war. Our very survival is at stake, and they bicker like little children... <i>*He finally turns his head, now facing you.*</i> I hope you believe in miracles, friend. I hate to say it... But we might just need one. May <a href="Glossary.md#mur-of-light">Mur's</a> light shine upon you.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*Monk Kasan's eyes remain locked on the sachans.*</i> Fourteen years of war. Our very survival is at stake, and they bicker like little children... <i>*He finally turns his head, now facing you.*</i> I hope you believe in miracles, friend. I hate to say it... But we might just need one. May <a href="Glossary.md#mur-of-light">Mur's</a> light shine upon you.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## References
 

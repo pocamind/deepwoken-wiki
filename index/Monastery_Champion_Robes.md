@@ -29,7 +29,7 @@ categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equ
 
 ## Description
 
-The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
+The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Etris%253A_Siege.md) event.
 
 The [Temple Guard](Talents.md#temple-guard) Talent grants 90% damage reduction to any attack that cancels your critical attack within the first 0.3s of its animation. This does not prevent your critical attack from being canceled, and does not work if the attack doesn't cancel your critical (i.e. hyper armor).
 

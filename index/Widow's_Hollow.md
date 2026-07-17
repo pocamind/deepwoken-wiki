@@ -14,11 +14,11 @@ LocationL Widow's Hollow LocationR
 
   
 
-The **Widow's Hollow** is a location in _Deepwoken_. It is a landmark of the [Starswept Valley](The_Starswept_Valley.md) found in the [Aratel Island](Aratel_Island.md).
+The **Widow's Hollow** is a [location](Locations.md) in _Deepwoken_. It is a landmark of the [Starswept Valley](Starswept_Valley.md) found in the [Aratel Island](Aratel_Island.md).
 
 ## Overview
 
-The Widow's hollow is a large cave with its entrance found near the top of the giant mountain in the [Starswept Valley](The_Starswept_Valley.md). It consists of two "floors" eventually opening into a large chamber where the [Deep Widow](Deep_Widow.md) resides as well as an exit which leads to the [Lightkeeper Temple](Lightkeeper_Temple.md).
+The Widow's hollow is a large cave with its entrance found near the top of the giant mountain in the [Starswept Valley](Starswept_Valley.md). It consists of two "floors" eventually opening into a large chamber where the [Deep Widow](Deep_Widow.md) resides as well as an exit which leads to the [Lightkeeper Temple](Lightkeeper_Temple.md).
 
 ## Contents
 

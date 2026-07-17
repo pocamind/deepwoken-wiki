@@ -60,4 +60,4 @@ Although they purely scale off of the player's element, Hero Blades deal physica
         -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken. Whether this is a retcon or they are simply another Hero of Gale is unclear.
     -   The Hero of Shadow is a [Kiron](Kiron.md) named [Urek Felhand](Urek_Felhand.md).
         -   Identified by their ears.
--   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Lightning Clones](Thundercall.md#lightning-clones)) will use the default starting sword critical instead of the Hero Blade critical.
+-   Any clones ([Visionshaper](Visionshaper.md) or [Lightning Clones](Lightning_Clones.md)) will use the default starting sword critical instead of the Hero Blade critical.

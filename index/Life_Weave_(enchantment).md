@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Life Weave, not to be confused with the [Attunement](Lifeweave.md), is an **unobtainable** [enchantment](Enchantments.md) with unknown effects. This enchantment is exclusive to the developer yayafino.
+Life Weave, not to be confused with the [Attunement](Lifeweave.md), is an **unobtainable** [enchantment](Enchantment.md) with unknown effects. This enchantment is exclusive to the developer yayafino.
 
 ## Effect
 

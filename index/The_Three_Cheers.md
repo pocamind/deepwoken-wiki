@@ -18,7 +18,7 @@ The favoured haunt of a weary soldier.
 
 ## Overview
 
-Run by [Fabantou](Fabantou.md), The Three Cheers is a bustling tavern for the [Central Authority](The_Central_Authority.md)'s military personnel to rest and unwind after successful missions.
+Run by [Fabantou](Fabantou.md), The Three Cheers is a bustling tavern for the [Central Authority](Central_Authority.md)'s military personnel to rest and unwind after successful missions.
 
 ## Contents
 

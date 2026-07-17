@@ -30,37 +30,13 @@ Sherman is located in the training grounds of [Alsin's Landing](<Alsin's_Landing
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>5... 6.. 7!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>5... 6.. 7!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hey, back off! I'm not looking for trouble!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hey, back off! I'm not looking for trouble!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

@@ -25,7 +25,7 @@ notices:
 | commanders1 | The Lord Regent[1] |
 | commanders2 | Sachan Choji Mofisu[1], Sachan Yi Anako[1], Sachan Zaru Ganba[1], Sachan Shisui Kobura, High Monk Junsui, Maestro Alkhurst Legato |
 
-The **Etrean Civil War** was a civil conflict that took place between the [Ministry](The_Ministry.md)\-backed forces of [Etrea](Etrea.md) and the combined forces of the [Etrean Royalists](Etrean_Royalists.md), [The Vigils](The_Vigils.md), and the [Circle of Honour](Circle_of_Honour.md), who opposed the ascension of [Zi'eer](The_Lord_Regent.md) as Etrea's current ruler.
+The **Etrean Civil War** was a civil conflict that took place between the [Ministry](The_Ministry.md)\-backed forces of [Etrea](Etrea.md) and the combined forces of the [Etrean Royalists](Etrean_Royalists.md), [The Vigils](The_Vigils.md), and the [Circle of Honour](Circle_of_Honour.md), who opposed the ascension of [Zi'eer](<Zi'eer.md>) as Etrea's current ruler.
 
 ## Prelude
 

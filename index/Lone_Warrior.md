@@ -12,7 +12,7 @@ categories: [Origins, Character]
 > 
 > ― Origin description
 
-The _Lone Warrior_ [Origin](Origins.md) gives players a convenient way to access the [Trial of One](Trial_of_One.md) from the get-go, allowing them to kickstart their progression.
+The _Lone Warrior_ [Origin](Origin.md) gives players a convenient way to access the [Trial of One](Trial_of_One.md) from the get-go, allowing them to kickstart their progression.
 
 ## Description
 
@@ -55,10 +55,10 @@ After completing the Trial of One, Lone Warriors will be given the [Mark of the 
 Your starting faction [reputation](Reputation.md) is:
 
 -   **Friend** of [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [Lost Celtor](Lost_Celtor.md)
--   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
--   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
--   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
+-   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
+-   **Neutral** with all other factions [Authorityiconfaction](Central_Authority.md) [Navaeiconfaction](Children_of_Navae.md) [Diversiconfaction](Divers.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](Hive.md)
+-   _Note: Your chosen [Aspect](Aspect.md) may affect your starting reputation._
 
 ## Trivia
 
--   Lone Warrior was previously the only Origin that could use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) in the Trial of One to influence Talent and Mantra hands. This benefit became obsolete after the Shrine of Solitude was removed entirely.
+-   Lone Warrior was previously the only Origin that could use the [Shrine of Solitude](Shrine_of_Solitude.md) in the Trial of One to influence Talent and Mantra hands. This benefit became obsolete after the Shrine of Solitude was removed entirely.

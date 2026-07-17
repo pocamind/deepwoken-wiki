@@ -31,6 +31,6 @@ To enter the Temple Sparring Hall, players will have to speak with [Das](Das.md)
 ## Trivia
 
 -   Upon the Trainer getting the player to zero health, their health will be automatically reset to max.
--   Using a [Boulder](Training_Gear.md#attribute-training-gears) to drain max health will cause the player to lose a life.
+-   Using a [Boulder](Boulder.md) to drain max health will cause the player to lose a life.
 -   Getting knocked from blood loss will cause the player to lose a life.
 -   Health, Hunger, Thirst, Blood and Sanity will transfer between the Dungeon and the players last location

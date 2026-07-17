@@ -30,6 +30,6 @@ You are able to use any weapon just like a normal player. You can also wear armo
 
 -   No matter what you put in chat, you will make a mudskipper sound
 -   Every human-like npc was turned into a mudskipper as well. This includes bandits, [The Ferryman](The_Ferryman.md), etris guards, etc...
-    -   This excludes [Karliah](Karliah.md), [Lance Leshi](Lance.md) (the Etris food seller), Ploom and the Spelltrainers.
+    -   This excludes [Karliah](Karliah.md), [Lance Leshi](Lance_Leshi.md) (the Etris food seller), Ploom and the Spelltrainers.
     -   If you opened up your menu and looked at your aspect, it would not just be “Mudskipper” depending on your aspect, it could change. For example a [Khan](Khan.md) would be a "Monkskipper" and a [Gremor](Gremor.md) would be a "Hornskipper".
     -   If your aspect was [Felinor](Felinor.md) you would be labeled as an "Abomination".

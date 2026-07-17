@@ -24,9 +24,9 @@ categories: [Food]
 
 ## Description
 
-**Mushroom Bisque** is a craftable [Food](Food.md) item. It is also purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 20, a [Mess Chef](Mess_Chef.md) for 25, [Mikhail Spellhardt](Mikhail_Spellhardt.md) for 20 during [Hallowtide](Hallowtide.md), [The Meat Lord](The_Meat_Lord.md) for 2, and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward.
+**Mushroom Bisque** is a craftable [Food](Food.md) item. It is also purchased from [Lance Leshi](Lance_Leshi.md) and [Lance's Brother](<Lance's_Brother.md>) for 20, a [Mess Chef](Mess_Chef.md) for 25, [Mikhail Spellhardt](Mikhail_Spellhardt.md) for 20 during [Hallowtide](Hallowtide.md), [The Meat Lord](The_Meat_Lord.md) for 2, and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward.
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
 
 ### Effect
 
@@ -36,7 +36,7 @@ When consumed, it replenishes 30% Stomach and 20% Water.
 
 ### Recipe
 
--   1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) and 1 [Crustacean Meat](Crustacean_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 of any [Mushroom](Mushroom.md) (excluding [Bluecap](Bluecap.md)) and 1 [Crustacean Meat](Crustacean_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 

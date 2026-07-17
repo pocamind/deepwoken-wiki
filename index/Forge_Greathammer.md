@@ -36,7 +36,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons 
 
 ## Description
 
-The Forge Greathammer is a mid- to endgame Greathammer [Weapon](Weapons.md) that can be Alloyed to make it a viable lategame option. When alloyed, the Forge Greathammer takes on an orange hue.
+The Forge Greathammer is a mid- to endgame Greathammer [Weapon](Weapon.md) that can be Alloyed to make it a viable lategame option. When alloyed, the Forge Greathammer takes on an orange hue.
 
 ## Critical
 

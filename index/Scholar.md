@@ -23,7 +23,7 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, Outfits with Exclus
 | selling_price | 10 |
 | weight | 1 |
 
-**Scholar** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+**Scholar** is a Starter [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -35,9 +35,9 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-The Outfit has 1000 durability, grants the user +8% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Scholar's Intuition](Talents.md#scholars-intuition) Talent.
+The Outfit has 1000 durability, grants the user +8% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Scholar's Intuition](Talents.md#scholars-intuition) Talent.
 
-The [Scholar's Intuition](Talents.md#scholars-intuition) Talent causes [Intelligence](Attributes.md#int), [Willpower](Attributes.md#wll), and [Charisma](Attributes.md#cha) training gear to be 50% more effective.
+The [Scholar's Intuition](Talents.md#scholars-intuition) Talent causes [Intelligence](Intelligence.md), [Willpower](Willpower.md), and [Charisma](Charisma.md) training gear to be 50% more effective.
 
 ## Trivia
 

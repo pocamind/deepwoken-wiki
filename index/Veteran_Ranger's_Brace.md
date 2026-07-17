@@ -39,7 +39,7 @@ Variants: [Boots](<Veteran_Ranger's_Boots.md>)
 
 The Veteran Ranger's Brace is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Emergency Rations](Talents.md#emergency-rations) Talent grants a Talent tool that has 3 charges. On use, consume a charge to heal 20 flat health, then the tool goes on a 15 second cooldown. You can restore all charges by resting at a [Campfire](Campfire_Pit.md) while out of combat.
+The [Emergency Rations](Talents.md#emergency-rations) Talent grants a Talent tool that has 3 charges. On use, consume a charge to heal 20 flat health, then the tool goes on a 15 second cooldown. You can restore all charges by resting at a [Campfire](Campfire.md) while out of combat.
 
 ## Set Talent
 

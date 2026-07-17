@@ -30,7 +30,7 @@ In **Scyphozia**, monsters have differences from their Overworld counterparts, r
 -   Gaining **new behaviors/abilities**, such as Lionfish Cero.
 -   Becoming **much more persistent in chasing,** almost never stopping their pursuit until the death of themselves or their target. Depending on your position in the depths, you might have an easier chance of escaping a life or death situation.
 
-Additionally, [Corrupted](Monsters.md#scyphozia) Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage, having two and a half times the health, and moving more quickly compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigamed](King_Gigamed.md) can be mistaken as not being corrupted. Ringing one of the 'Corrupted Bells' (black colored bells) in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
+Additionally, [Corrupted](Corrupted_Monsters.md) Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage, having two and a half times the health, and moving more quickly compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigamed](King_Gigamed.md) can be mistaken as not being corrupted. Ringing one of the 'Corrupted Bells' (black colored bells) in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
 
 ### Attuned Monsters
 
@@ -38,13 +38,13 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 #### Attunement Types/Effects
 
--   Flamewreathed - Applies [Burn](Status_Effects.md#burn) on hit, can additionally proc [Lava Serpent](Talents.md#lava-serpent) effects. Weak to [Galebreathe](Galebreathe.md), resists [Flamecharm](Flamecharm.md).
--   Frostmantle - Places Ice and applies [Chill](Status_Effects.md#chill) on hit. Weak to [Flamecharm](Flamecharm.md), resists [Frostdraw](Frostdraw.md).
--   Galeforce - Applies [Winded](Status_Effects.md#winded) and/or [Suffocation](Status_Effects.md#suffocate) on hit, deals Extra Knockback, and has Increased Movement Speed. Weak to [Thundercall](Thundercall.md), resists [Galebreathe](Galebreathe.md)
--   Thunderstruck - Applies [Shock](Status_Effects.md#shock) on hit. Weak to [Frostdraw](Frostdraw.md), resists [Thundercall](Thundercall.md)
+-   Flamewreathed - Applies [Burn](Burn.md) on hit, can additionally proc [Lava Serpent](Talents.md#lava-serpent) effects. Weak to [Galebreathe](Galebreathe.md), resists [Flamecharm](Flamecharm.md).
+-   Frostmantle - Places Ice and applies [Chill](Chill.md) on hit. Weak to [Flamecharm](Flamecharm.md), resists [Frostdraw](Frostdraw.md).
+-   Galeforce - Applies [Winded](Winded.md) and/or [Suffocation](Suffocation.md) on hit, deals Extra Knockback, and has Increased Movement Speed. Weak to [Thundercall](Thundercall.md), resists [Galebreathe](Galebreathe.md)
+-   Thunderstruck - Applies [Shock](Shock.md) on hit. Weak to [Frostdraw](Frostdraw.md), resists [Thundercall](Thundercall.md)
 -   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage. Weak to attunements, resists basic attacks.
 
-Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can also be [Attuned](Monsters.md#attuned-monsters), albeit, very rarely.
+Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](The_Enforcer.md) and even [Primadon](Primadon.md) can also be [Attuned](Attuned_Monsters.md), albeit, very rarely.
 
 Certain uncommon-rare variants of monsters thematically already have an attunement tied to them (such as [Fury Nautilodaunts](Fury_Nautilodaunt.md) or [Crimson Megalodaunts](Crimson_Megalodaunt.md). In these cases, they are only able to become attuned with that type of Attunement effect.
 
@@ -52,7 +52,7 @@ Certain Monsters have unique visual effects when attuned.
 
 -   Thunderstruck [Gigamed](Gigamed.md) (Lightning is blue as opposed to yellow.)
     -   Thunderstruck Gigameds have almost full immunity to [Thundercall](Thundercall.md) Mantras
--   [Corrupted](Monsters.md#scyphozia) and Attuned Monsters are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+-   [Corrupted](Corrupted_Monsters.md) and Attuned Monsters are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Humanoid Monsters
 
@@ -151,12 +151,12 @@ As most Monsters behave differently from each other, the ways to fight them are 
     -   Most Monsters have abilities specifically designed to catch players running away, such as the [Megalodaunt](Megalodaunt.md)'s Thousand Needles, which slows you down when hit. If running is your last option, you must be smart about it. You should abuse buildings, terrain, and other obstacles to your advantage or defend against such long ranged attacks.
 -   Practice makes perfect.
     -   The player should try and fight Monsters in situations where they have little to no risk of dying, such as against the Megalodaunts found in [The Viper's Jaw](<The_Viper's_Jaw.md>).[\[1\]](#cite-note-1) Being unprepared is worse than fighting the Monsters themselves. The absolute **worst** thing for the player to do is to jump into a fight with a Monster they’ve never fought, or even worse, never even seen before. While many Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.**
-        -   For Example: Despite [Blizzard Knight](Stone_Knight.md#blizzard-knight) looking somewhat spindly and identical to their much weaker [Stone Knight](Stone_Knight.md) counterpart, they actually boast one of the highest amount of hit points out of any Non-Boss Monster. On the other hand, [Deep Owls](Deep_Owl.md) may look ginormous and intimidating, but only have roughly 30% more health compared to a [Thresher](Thresher.md), a weaker mob.
+        -   For Example: Despite [Blizzard Knight](Blizzard_Knight.md) looking somewhat spindly and identical to their much weaker [Stone Knight](Stone_Knight.md) counterpart, they actually boast one of the highest amount of hit points out of any Non-Boss Monster. On the other hand, [Deep Owls](Deep_Owl.md) may look ginormous and intimidating, but only have roughly 30% more health compared to a [Thresher](Thresher.md), a weaker mob.
 -   Monsters are affected by most things a player would be affected by including:
     -   Potions
     -   Status/Elemental Effects
     -   Flinging
-    -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) Crit or [Jolt Grab](Thundercall.md#jolt-grab))
+    -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) Crit or [Jolt Grab](Jolt_Grab.md))
 -   Most monsters can be staggered.
     -   While humanoid NPCs can be Posture Broken, most Monsters can be Staggered (on rare occasion, some can both be Staggered and Posture Broken). Depending on the player's ability to deal **ARMOR DAMAGE**, hitting a monster drains their armor bar (Ironsing works to drain their armor, Metal enchant increases damage to armor, but due to the draining effect you could say it also drains their armor). When the armor bar is empty, the monster will be stunned for around 4 seconds, unable to do anything. This is represented by the red spark that appears on them, a noticeable sound effect, and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themselves, but once they wake up from stun their armor is fully regenerated.
 -   All monsters have 25% physical armor and in some cases up to 50%. However humanoids don’t have any armor and are tanky by their hp.[\[2\]](#cite-note-2)
@@ -185,7 +185,7 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 ## Trivia
 
 -   Some Monsters will fight each other; multiple can fight at the same time. These can be either intentional through events like the [Megalodaunt vs. Rock Golem event](Random_Encounters.md) in [Upper Erisia](Upper_Erisia.md) or if the Monsters just happen to find each other. See this in action [here](https://youtu.be/01uQchtfUvw) and [here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s).
--   Some variants of some Monsters are limited to certain Locations, such as the [Fury Nautilodaunt](Fury_Nautilodaunt.md) being found only in The Depths
+-   Some variants of some Monsters are limited to certain [Locations](Locations.md), such as the [Fury Nautilodaunt](Fury_Nautilodaunt.md) being found only in The Depths
 -   Prior to an update that reworked the telegraphing of attacks, most unparryable (red flash) attacks of monsters were accompanied by a red flash and the [Perilous attack sound](https://www.youtube.com/watch?v=5YzN2bPgjB0) from _Sekiro: Shadows Die Twice_.
 -   There's a rare easter egg with an unknown chance that a [Metal Gear solid alert sound](https://streamable.com/ul7sv3) will play when a Monster notices a player.
 

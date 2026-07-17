@@ -21,22 +21,4 @@ Everis is one of many [Lightborn](Lightborn.md) scattered across [The Floating K
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hey, surface dweller! Would you like to go home?</td>
-</tr>
-<tr>
-  <td>Yes.</td>
-</tr>
-<tr>
-  <td>Off you go!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hey, surface dweller! Would you like to go home?</td></tr><tr><td>Yes.</td></tr><tr><td>Off you go!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

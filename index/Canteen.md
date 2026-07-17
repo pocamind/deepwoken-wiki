@@ -23,7 +23,7 @@ Used to hold water on the go. You can spawn with a Canteen if you have its respe
 
 (Beeswax mainly spawns on trees around the [Etrean Wilds](Etrean_Wilds.md) as well as on a few trees in [Lower Erisia](Lower_Erisia.md), Calabash is also most common around the [Etrean Wilds](Etrean_Wilds.md))
 
-You can also get a Canteen from [Merchant Ships](Travelling_Merchant.md).
+You can also get a Canteen from [Merchant Ships](Merchant_Ships.md).
 
 ### Uses
 

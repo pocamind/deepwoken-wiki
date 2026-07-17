@@ -11,7 +11,7 @@ categories: [Mechanics, Mantras, Materials]
 _**FOREWORD**: **An up-to-date spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1Nx4uGhcV36htSe6sk86KgGepJqKYMhqiN9a1ttyVbC4/edit?gid=0#gid=0)**_  
 _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d/1Nx4uGhcV36htSe6sk86KgGepJqKYMhqiN9a1ttyVbC4/edit?gid=68967175#gid=68967175), just incase._
 
-**Mantra Modifiers**, also known as **Mantra Ingredients** or **Mantra Materials**, are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Lectern](Mantra_Lectern.md) is required.
+**Mantra Modifiers**, also known as **Mantra Ingredients** or **Mantra Materials**, are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests.md). In order to add Mantra Modifiers, a [Mantra Lectern](Mantra_Lectern.md) is required.
 
 There are currently three types of mantra modifiers; Regular, [Deep Gems](Deep_Gems.md), and Sparks. Regular and Spark modifiers are used at a Mantra Lectern and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire or from your inventory in its insignia slot. Recalling a Mantra with a Deep Gem will return the Deep Gem to your inventory.
 
@@ -576,7 +576,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-[Fire Gun](Flamecharm.md#fire-gun)
+[Fire Gun](Fire_Gun.md)
 
 (☆☆☆)
 
@@ -591,7 +591,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Frost Grab](Frostdraw.md#frost-grab)
+[Frost Grab](Frost_Grab.md)
 
 (★★☆)
 
@@ -606,7 +606,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Frozen Servants](Frostdraw.md#frozen-servants)
+[Frozen Servants](Frozen_Servants.md)
 
 (☆☆☆)
 
@@ -621,7 +621,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Ice Forge](Frostdraw.md#ice-forge)
+[Ice Forge](Ice_Forge.md)
 
 (★☆☆)
 
@@ -636,7 +636,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Electro Carve](Thundercall.md#electro-carve)
+[Electro Carve](Electro_Carve.md)
 
 (★☆☆)
 
@@ -651,7 +651,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Lightning Clones](Thundercall.md#lightning-clones)
+[Lightning Clones](Lightning_Clones.md)
 
 (★☆☆)
 
@@ -667,7 +667,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Lightning Stream](Thundercall.md#lightning-stream)
+[Lightning Stream](Lightning_Stream.md)
 
 (★☆☆)
 
@@ -683,7 +683,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Wind Gun](Galebreathe.md#wind-gun)
+[Wind Gun](Wind_Gun.md)
 
 (★★☆)
 
@@ -699,7 +699,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shadow Gun](Shadowcast.md#shadow-gun)
+[Shadow Gun](Shadow_Gun.md)
 
 (☆☆☆)
 
@@ -714,7 +714,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Rising Shadow](Shadowcast.md#rising-shadow)
+[Rising Shadow](Rising_Shadow.md)
 
 (★☆☆)
 
@@ -729,7 +729,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shade Devour](Shadowcast.md#shade-devour)
+[Shade Devour](Shade_Devour.md)
 
 (★☆☆)
 
@@ -745,7 +745,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shadow Assault](Shadowcast.md#shadow-assault)
+[Shadow Assault](Shadow_Assault.md)
 
 (★★☆)
 
@@ -761,7 +761,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Needle Barrage](Ironsing.md#needle-barrage)
+[Needle Barrage](Needle_Barrage.md)
 
 (☆☆☆)
 
@@ -776,7 +776,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Firing Line](Ironsing.md#firing-line)
+[Firing Line](Firing_Line.md)
 
 (★★☆)
 
@@ -791,7 +791,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shoulder Bash](Attunement-less.md#shoulder-bash)
+[Shoulder Bash](Shoulder_Bash.md)
 
 (☆☆☆)
 
@@ -806,7 +806,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Iceberg](Frostdraw.md#iceberg)
+[Iceberg](Iceberg.md)
 
 (★★★)
 
@@ -827,7 +827,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-[Flame Sentinel](Flamecharm.md#flame-sentinel)
+[Flame Sentinel](Flame_Sentinel.md)
 
 (★★☆)
 
@@ -842,7 +842,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Ice Forge](Frostdraw.md#ice-forge)
+[Ice Forge](Ice_Forge.md)
 
 (★☆☆)
 
@@ -857,7 +857,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Jolt Grab](Thundercall.md#jolt-grab)
+[Jolt Grab](Jolt_Grab.md)
 
 (☆☆☆)
 
@@ -868,12 +868,12 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier changes "Jolt Grab" mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
-    -   Similar to that of the [Authority Footsoldier's](Authority_Officer.md) Jolt Grab.
+    -   Similar to that of the [Authority Footsoldier's](Authority_Footsoldier.md) Jolt Grab.
 
  |
 | 
 
-[Lightning Blade](Thundercall.md#lightning-blade)
+[Lightning Blade](Lightning_Blade.md)
 
 (☆☆☆)
 
@@ -888,7 +888,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Fleeting Sparks](Thundercall.md#fleeting-sparks)
+[Fleeting Sparks](Fleeting_Sparks.md)
 
 (★☆☆)
 
@@ -903,7 +903,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Electro Carve](Thundercall.md#electro-carve)
+[Electro Carve](Electro_Carve.md)
 
 (★☆☆)
 
@@ -918,7 +918,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Iron Tether](Hybrid_Abilities.md#iron-tether)
+[Iron Tether](Iron_Tether.md)
 
 (★★☆)
 
@@ -933,7 +933,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Permafrost Prison](Hybrid_Abilities.md#permafrost-prison)
+[Permafrost Prison](Permafrost_Prison.md)
 
 (★★☆)
 
@@ -948,7 +948,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle)
+[Tranquil Circle](Tranquil_Circle.md)
 
 (☆☆☆)
 
@@ -970,7 +970,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-[Blood Orb](Bloodrend.md#blood-orb)
+[Blood Orb](Blood_Orb.md)
 
 (☆☆☆)
 
@@ -985,7 +985,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Scarlet Cyclone](Bloodrend.md#scarlet-cyclone)
+[Scarlet Cyclone](Scarlet_Cyclone.md)
 
 (☆☆☆)
 
@@ -1000,7 +1000,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Ice Cubes](Frostdraw.md#ice-cubes)
+[Ice Cubes](Ice_Cubes.md)
 
 (★★★)
 
@@ -1015,7 +1015,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Lightning Clones](Thundercall.md#lightning-clones)
+[Lightning Clones](Lightning_Clones.md)
 
 (★☆☆)
 
@@ -1031,7 +1031,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Fleeting Sparks](Thundercall.md#fleeting-sparks)
+[Fleeting Sparks](Fleeting_Sparks.md)
 
 (★☆☆)
 
@@ -1046,7 +1046,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Grand Javelin](Thundercall.md#grand-javelin)
+[Grand Javelin](Grand_Javelin.md)
 
 (★★☆)
 
@@ -1061,7 +1061,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Spark Swap](Thundercall.md#spark-swap)
+[Spark Swap](Spark_Swap.md)
 
 (★★★)
 
@@ -1076,7 +1076,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Wind Forge](Galebreathe.md#wind-forge)
+[Wind Forge](Wind_Forge.md)
 
 (★☆☆)
 
@@ -1091,7 +1091,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Wind Gun](Galebreathe.md#wind-gun)
+[Wind Gun](Wind_Gun.md)
 
 (★★☆)
 
@@ -1107,7 +1107,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shade Bringer](Shadowcast.md#shade-bringer)
+[Shade Bringer](Shade_Bringer.md)
 
 (★★★)
 
@@ -1123,7 +1123,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shade Devour](Shadowcast.md#shade-devour)
+[Shade Devour](Shade_Devour.md)
 
 (★☆☆)
 
@@ -1139,7 +1139,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Eclipse Kick](Shadowcast.md#eclipse-kick)
+[Eclipse Kick](Eclipse_Kick.md)
 
 (★★★)
 
@@ -1155,7 +1155,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Iron Tether](Hybrid_Abilities.md#iron-tether)
+[Iron Tether](Iron_Tether.md)
 
 (☆☆☆)
 
@@ -1176,7 +1176,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-[Scarlet Cyclone](Bloodrend.md#scarlet-cyclone)
+[Scarlet Cyclone](Scarlet_Cyclone.md)
 
 (☆☆☆)
 
@@ -1191,7 +1191,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Fire Blade](Flamecharm.md#fire-blade)
+[Fire Blade](Fire_Blade.md)
 
 (☆☆☆)
 
@@ -1206,7 +1206,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Burning Servants](Flamecharm.md#burning-servants)
+[Burning Servants](Burning_Servants.md)
 
 (☆☆☆)
 
@@ -1221,7 +1221,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Flame Leap](Flamecharm.md#flame-leap)
+[Flame Leap](Flame_Leap.md)
 
 (★★☆)
 
@@ -1238,7 +1238,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Frozen Servants](Frostdraw.md#frozen-servants)
+[Frozen Servants](Frozen_Servants.md)
 
 (☆☆☆)
 
@@ -1253,7 +1253,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Lightning Stream](Thundercall.md#lightning-stream)
+[Lightning Stream](Lightning_Stream.md)
 
 (★☆☆)
 
@@ -1268,7 +1268,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Lightning Impact](Thundercall.md#lightning-impact)
+[Lightning Impact](Lightning_Impact.md)
 
 (★★☆)
 
@@ -1283,7 +1283,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Air Force](Galebreathe.md#air-force)
+[Air Force](Air_Force.md)
 
 (☆☆☆)
 
@@ -1298,7 +1298,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Chain Pull](Ironsing.md#chain-pull)
+[Chain Pull](Chain_Pull.md)
 
 (★☆☆)
 
@@ -1319,7 +1319,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-[Fire Gun](Flamecharm.md#fire-gun)
+[Fire Gun](Fire_Gun.md)
 
 (☆☆☆)
 
@@ -1334,7 +1334,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Ice Eruption](Frostdraw.md#ice-eruption)
+[Ice Eruption](Ice_Eruption.md)
 
 (★☆☆)
 
@@ -1350,7 +1350,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Ice Carve](Frostdraw.md#ice-carve)
+[Ice Carve](Ice_Carve.md)
 
 (★★☆)
 
@@ -1366,7 +1366,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Skyshatter Kick](Attunement-less.md#skyshatter-kick)
+[Skyshatter Kick](Skyshatter_Kick.md)
 
 (☆☆☆)
 
@@ -1387,7 +1387,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-[Flame Repulsion](Flamecharm.md#flame-repulsion)
+[Flame Repulsion](Flame_Repulsion.md)
 
 (☆☆☆)
 
@@ -1402,7 +1402,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Searing Snare](Flamecharm.md#searing-snare)
+[Searing Snare](Searing_Snare.md)
 
 (★☆☆)
 
@@ -1418,7 +1418,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Flame Ballista](Flamecharm.md#flame-ballista)
+[Flame Ballista](Flame_Ballista.md)
 
 (★★★)
 
@@ -1433,7 +1433,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Ice Carve](Frostdraw.md#ice-carve)
+[Ice Carve](Ice_Carve.md)
 
 (★★☆)
 
@@ -1449,7 +1449,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Ice Lasers](Frostdraw.md#ice-lasers)
+[Ice Lasers](Ice_Lasers.md)
 
 (★★☆)
 
@@ -1464,7 +1464,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Crystal Knee](Frostdraw.md#crystal-knee)
+[Crystal Knee](Crystal_Knee.md)
 
 (★★☆)
 
@@ -1479,7 +1479,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Crystal Impale](Frostdraw.md#crystal-impale)
+[Crystal Impale](Crystal_Impale.md)
 
 (★★☆)
 
@@ -1494,7 +1494,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shade Bringer](Shadowcast.md#shade-bringer)
+[Shade Bringer](Shade_Bringer.md)
 
 (★★★)
 
@@ -1510,7 +1510,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Metal Kick](Ironsing.md#metal-kick)
+[Metal Kick](Metal_Kick.md)
 
 (★☆☆)
 
@@ -1525,7 +1525,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Dash](Attunement-less.md#agile-dash)
+[Dash](Dash.md)
 
 (☆☆☆)
 
@@ -1546,7 +1546,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-[Fire Forge](Flamecharm.md#fire-forge)
+[Fire Forge](Fire_Forge.md)
 
 (★☆☆)
 
@@ -1561,7 +1561,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Storm Blades](Thundercall.md#storm-blades)
+[Storm Blades](Storm_Blades.md)
 
 (★☆☆)
 
@@ -1577,7 +1577,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Dark Blade](Shadowcast.md#dark-blade)
+[Dark Blade](Dark_Blade.md)
 
 (☆☆☆)
 
@@ -1598,7 +1598,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |
 | 
-[Scarlet Cyclone](Bloodrend.md#scarlet-cyclone)
+[Scarlet Cyclone](Scarlet_Cyclone.md)
 
 (☆☆☆)
 
@@ -1618,7 +1618,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Fire Gun](Flamecharm.md#fire-gun)
+[Fire Gun](Fire_Gun.md)
 
 (☆☆☆)
 
@@ -1638,7 +1638,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Fleeting Sparks](Thundercall.md#fleeting-sparks)
+[Fleeting Sparks](Fleeting_Sparks.md)
 
 (★☆☆)
 
@@ -1658,7 +1658,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Lightning Clones](Thundercall.md#lightning-clones)
+[Lightning Clones](Lightning_Clones.md)
 
 (★☆☆)
 
@@ -1678,7 +1678,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Wind Gun](Galebreathe.md#wind-gun)
+[Wind Gun](Wind_Gun.md)
 
 (★★☆)
 
@@ -1698,7 +1698,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shade Bringer](Shadowcast.md#shade-bringer)
+[Shade Bringer](Shade_Bringer.md)
 
 (★★★)
 
@@ -1718,7 +1718,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 | 
 
-[Shade Devour](Shadowcast.md#shade-devour)
+[Shade Devour](Shade_Devour.md)
 
 (★☆☆)
 
@@ -1744,7 +1744,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |
 | 
-[Lightning Clones](Thundercall.md#lightning-clones)
+[Lightning Clones](Lightning_Clones.md)
 
 (★☆☆)
 

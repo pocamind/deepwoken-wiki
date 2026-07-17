@@ -23,8 +23,8 @@ The **Lumber Axe** is a tool that can be used on trees to chop, structures to br
 
 The Lumber Axe can be can be obtained in a few ways:
 
--   Bought for 3 from every vendor (Sellings spots, [Blacksmiths](Blacksmith.md), [Bari](Bari.md), and [Seraphina](Seraphina.md)) besides [Merchant Ships](Travelling_Merchant.md).
--   Crafted with two (2) [Wood](Wood.md) and [Iron](Ores.md#iron) at a [Crafting Station](Crafting_Station.md).
+-   Bought for 3 from every vendor (Sellings spots, [Blacksmiths](Blacksmith.md), [Bari](Bari.md), and [Seraphina](Seraphina.md)) besides [Merchant Ships](Merchant_Ships.md).
+-   Crafted with two (2) [Wood](Wood.md) and [Iron](Iron.md) at a [Crafting Station](Crafting_Station.md).
 
 ## Uses
 
@@ -115,7 +115,7 @@ The Lumber Axe at [Miner's Landing](<Miner's_Landing.md>) is located leaning aga
 
 **Merchant Ships:**
 
-The Lumber Axe in a [Merchant Ship](Random_Encounters.md#sea-events) is located near [Chili](Travelling_Merchant.md) on one of the counters with some luck.
+The Lumber Axe in a [Merchant Ship](Random_Encounters.md#sea-events) is located near [Chili](Chili.md) on one of the counters with some luck.
 
 -   Costs varying [Notes](Notes.md).
 -   Merchant Ships can be found in both the Etrean and Eastern [Luminants](Luminants.md) by sailing through the Etrean and Aratel Sea.

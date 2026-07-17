@@ -37,7 +37,7 @@ categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons 
 
 ## Description
 
-The Great Maul is a Greathammer that can be dropped from [Rock Golems](Rock_Golem.md) and [Golem Primes](Golem_Prime.md). It can sometimes be sold at the [Merchant Ship](Travelling_Merchant.md) for a random price.
+The Great Maul is a Greathammer that can be dropped from [Rock Golems](Rock_Golem.md) and [Golem Primes](Golem_Prime.md). It can sometimes be sold at the [Merchant Ship](Chili.md) for a random price.
 
 ## Critical
 

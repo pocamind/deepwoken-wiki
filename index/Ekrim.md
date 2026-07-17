@@ -1,9 +1,9 @@
 ---
 title: Ekrim
-revid: 220382
+revid: 198237
 source: https://deepwoken.fandom.com/wiki/Ekrim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Stub pages without reason, StubPages, Individuals with unspecified pronouns, Deceased characters]
+categories: [Stub pages without reason, StubPages, Individuals with unspecified pronouns, Deceased characters]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -16,10 +16,6 @@ notices:
 | alias | Third's Eclipse[1] |
 | affiliation | Rouhlx Dyad[1] |
 | death | Deceased prior to the events of the game[1] |
-
-**Content is not present in-game**  
-The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
-E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

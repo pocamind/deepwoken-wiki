@@ -31,14 +31,14 @@ They frequently get into battles with [Etrea](Etrea.md), who attempt to steal th
 
 ## Reputation
 
-As with all other groups in the game, having too low of a reputation with the Hive will have multiple adverse effects. The [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md) and all Store NPCs will refuse to trade with you if the Hive considers you an enemy. As per any other guard, [Hive Guards](Hive_Guard.md) will attack you on sight below a certain Reputation. In addition to that, Hive Adjudicators and [Constructs](Hive_Construct.md) will also spawn and attack you if your reputation with the Hive proceeds to worsen.
+As with all other groups in the game, having too low of a reputation with the Hive will have multiple adverse effects. The [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md) and all Store NPCs will refuse to trade with you if the Hive considers you an enemy. As per any other guard, [Hive Guards](Hive_Guard.md) will attack you on sight below a certain Reputation. In addition to that, Hive Adjudicators and [Constructs](Golem_Constructs.md) will also spawn and attack you if your reputation with the Hive proceeds to worsen.
 
-To restore your reputation with the Hive, head to [The Lordsgrove](The_Lordsgrove.md) behind the huge gate in [Starswept Valley](The_Starswept_Valley.md). To unlock access you must wash your face at a fountain on a cliffside far right of Aratel island. After that, you can get through the door to The Lordsgrove, as you traverse through The Lordsgrove, you encounter a Ganymede named [Zirik](Zirik.md), who is standing outside a small ruin. Talking to this NPC whilst your Reputation with the Hive is favourable will not result in anything. However, if you speak to him whilst you are considered an Enemy of the Hive, he informs you that "your name has spread quickly among the trees". After that, he also mentions your name being a "good name" before implying that he could help.
+To restore your reputation with the Hive, head to [The Lordsgrove](The_Lordsgrove.md) behind the huge gate in [Starswept Valley](Starswept_Valley.md). To unlock access you must wash your face at a fountain on a cliffside far right of Aratel island. After that, you can get through the door to The Lordsgrove, as you traverse through The Lordsgrove, you encounter a Ganymede named [Zirik](Zirik.md), who is standing outside a small ruin. Talking to this NPC whilst your Reputation with the Hive is favourable will not result in anything. However, if you speak to him whilst you are considered an Enemy of the Hive, he informs you that "your name has spread quickly among the trees". After that, he also mentions your name being a "good name" before implying that he could help.
 
 In addition, helping Hive Guards in the following events will allow you to increase your reputation with the Hive:
 
--   Hive Guards vs Vigil Swordsmen ([Starswept Valley](The_Starswept_Valley.md))
--   Hive Construct vs Authority Commander ([Starswept Valley](The_Starswept_Valley.md))
+-   Hive Guards vs Vigil Swordsmen ([Starswept Valley](Starswept_Valley.md))
+-   Hive Construct vs Authority Commander ([Starswept Valley](Starswept_Valley.md))
 
 ### **Dialogue**
 

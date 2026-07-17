@@ -32,7 +32,7 @@ The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" ca
 It can be crafted on the [Crafting Station](Crafting_Station.md) using the following materials:
 
 -   (1) [Dying Ember](Dying_Embers.md) or [Spark Gland](Spark_Gland.md)
--   (1) [Iron](Ores.md#iron)
+-   (1) [Iron](Iron.md)
 -   (1) [Fiber](Fiber.md)
 
 Dyeing the Lantern dyes the colour of the light given.

@@ -22,7 +22,7 @@ notices:
 
 ## Description
 
-**Authority Enemies** were present on [Isle of the Crows](Isle_of_the_Crows.md) in the [Corvus Manor](Corvus_Manor.md). They utilised the [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) and an [Officer Saber](Officer_Saber.md). Authority Enemies spawned in with their [aspect](Aspects.md) and hair random. After killing all of them in the [Corvus Manor](Corvus_Manor.md) an [Authority Captain](<Authority_Captain_(Test).md>) would spawn.[\[1\]](#cite-note-direct-1)
+**Authority Enemies** were present on [Isle of the Crows](Isle_of_the_Crows.md) in the [Corvus Manor](Corvus_Manor.md). They utilised the [Flamecharm](Flamecharm.md) [Attunement](Attunement.md) and an [Officer Saber](Officer_Saber.md). Authority Enemies spawned in with their [aspect](Aspects.md) and hair random. After killing all of them in the [Corvus Manor](Corvus_Manor.md) an [Authority Captain](<Authority_Captain_(Test).md>) would spawn.[\[1\]](#cite-note-direct-1)
 
 ## Moveset
 

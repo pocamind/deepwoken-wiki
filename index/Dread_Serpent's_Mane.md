@@ -26,7 +26,7 @@ The **Dread Serpent's Mane** is a rare direct drop from the [Dread Serpent](Drea
 
 ## Crafting
 
-The Dread Serpent's Mane can be used to craft an item with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Dread Serpent's Mane can be used to craft an item with the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 [Ingredients](Ingredients.md)
 

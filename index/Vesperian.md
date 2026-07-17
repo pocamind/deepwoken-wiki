@@ -29,44 +29,13 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
 
   
 
-<table>
-<tbody>
-<tr>
-  <td></td>
-  <td><b>Chitin</b><p><i>You have a layer of natural armor that replenishes when you rest.</i></p>
-  <ul>
-    <li>Grants 5% physical damage reduction in the form of Natural Armor. Natural Armor degrades by taking damage from any source, but can be replenished at a campfire.</li>
-    <li>Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.</li>
-    <li>This buff and durability stacks with <a href="Talents.md#exoskeleton">Exoskeleton</a>, but they total to 14.5% Physical resistance due to being added multiplicatively. Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability on top, leading to 800 total durability at Power 20.</li>
-    <li>Natural Armor is affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><font>+</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+3 Fortitude</li>
-    <li>+2 Willpower</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td></td><td><b>Chitin</b><p><i>You have a layer of natural armor that replenishes when you rest.</i></p><ul><li>Grants 5% physical damage reduction in the form of Natural Armor. Natural Armor degrades by taking damage from any source, but can be replenished at a campfire.</li><li>Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.</li><li>This buff and durability stacks with <a href="Talents.md#exoskeleton">Exoskeleton</a>, but they total to 14.5% Physical resistance due to being added multiplicatively. Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability on top, leading to 800 total durability at Power 20.</li><li>Natural Armor is affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)</li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Fortitude</li><li>+2 Willpower</li></ul></td></tr></tbody></table>
 
 **Iron Vow:**
 
   
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Hardened Shell</b><p><i>Your Natural Armor grows sturdier, being able to take more hits before breaking.</i></p>
-  <ul>
-    <li>Increases Natural Armor durability by&nbsp;?</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Hardened Shell</b><p><i>Your Natural Armor grows sturdier, being able to take more hits before breaking.</i></p><ul><li>Increases Natural Armor durability by&nbsp;?</li></ul></td></tr></tbody></table>
 
 **Lore:**
 
@@ -156,4 +125,4 @@ The old Blindseer mask
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-merch-1-0) [1.01](#cite-ref-merch-1-1) [1.02](#cite-ref-merch-1-2) [1.03](#cite-ref-merch-1-3) [1.04](#cite-ref-merch-1-4) [1.05](#cite-ref-merch-1-5) [1.06](#cite-ref-merch-1-6) [1.07](#cite-ref-merch-1-7) [1.08](#cite-ref-merch-1-8) [1.09](#cite-ref-merch-1-9) [1.10](#cite-ref-merch-1-10) [1.11](#cite-ref-merch-1-11) [1.12](#cite-ref-merch-1-12) [1.13](#cite-ref-merch-1-13) [1.14](#cite-ref-merch-1-14) [1.15](#cite-ref-merch-1-15) [1.16](#cite-ref-merch-1-16) [1.17](#cite-ref-merch-1-17) [1.18](#cite-ref-merch-1-18) [1.19](#cite-ref-merch-1-19) [1.20](#cite-ref-merch-1-20) [1.21](#cite-ref-merch-1-21) Some Vesperian masks were given official names through the names of corresponding Roblox accessories sold as [Deepwoken merchandise](Deepwoken_UGC.md).
+1.  ↑ [1.00](#cite-ref-merch-1-0) [1.01](#cite-ref-merch-1-1) [1.02](#cite-ref-merch-1-2) [1.03](#cite-ref-merch-1-3) [1.04](#cite-ref-merch-1-4) [1.05](#cite-ref-merch-1-5) [1.06](#cite-ref-merch-1-6) [1.07](#cite-ref-merch-1-7) [1.08](#cite-ref-merch-1-8) [1.09](#cite-ref-merch-1-9) [1.10](#cite-ref-merch-1-10) [1.11](#cite-ref-merch-1-11) [1.12](#cite-ref-merch-1-12) [1.13](#cite-ref-merch-1-13) [1.14](#cite-ref-merch-1-14) [1.15](#cite-ref-merch-1-15) [1.16](#cite-ref-merch-1-16) [1.17](#cite-ref-merch-1-17) [1.18](#cite-ref-merch-1-18) [1.19](#cite-ref-merch-1-19) [1.20](#cite-ref-merch-1-20) [1.21](#cite-ref-merch-1-21) Some Vesperian masks were given official names through the names of corresponding Roblox accessories sold as [Deepwoken merchandise](UGC.md).

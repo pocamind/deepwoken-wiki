@@ -29,7 +29,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 
 The Seamaster's Cap is an [Equipment](Equipment.md) item under the "Head" category.
 
-[Seamaster's Guile](Talents.md#seamasters-guile) gives your [boat](Ships_&_Sailing.md) 25% damage reduction while you're piloting it.
+[Seamaster's Guile](Talents.md#seamasters-guile) gives your [boat](Boats.md) 25% damage reduction while you're piloting it.
 
 ## Trivia
 

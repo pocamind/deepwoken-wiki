@@ -28,7 +28,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 
 The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category
 
-The [Stay of Execution](Talents.md#stay-of-execution) Talent increases the amount of time it takes to execute you by 20%. If you save someone from being executed, you and that person gain 10 [Temporary Health](Status_Effects.md#temporary-health).
+The [Stay of Execution](Talents.md#stay-of-execution) Talent increases the amount of time it takes to execute you by 20%. If you save someone from being executed, you and that person gain 10 [Temporary Health](Temporary_Health.md).
 
 ## Trivia
 

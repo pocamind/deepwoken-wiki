@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**The Ferryman's Lullaby**_ is a [Book](Books.md).
+_**The Ferryman's Lullaby**_ is a [Book](Book.md).
 
 ## Text
 

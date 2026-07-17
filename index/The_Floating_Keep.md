@@ -61,7 +61,7 @@ In the Cathedral, you can talk to [Lysander Spellhardt](Lysander_Spellhardt.md) 
     -   Players can purchase a Lumber Axe for 3, and a Pickaxe for 3.
     -   Players can purchase a Dumbbell for 25, Ankle Weights for 25, and a Training Vest for 25.
     -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for 25.
-    -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for 16, a [Messer](Messer.md) for 16, a [Tanto](Tanto.md) for 100, an [Apprentice Rapier](Apprentice_Rapier.md) for 100, a [Trident Spear](Trident_Spear.md) for 100, a [Vigil Longsword](Vigil_Longsword.md) for 100, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for 200.
+    -   Players can purchase a [Parry Dagger](Parry_Dagger.md) for 16, a [Messer](Messer.md) for 16, a [Tanto](Tanto.md) for 100, an [Apprentice Rapier](Apprentice_Rapier.md) for 100, a [Trident Spear](Trident_Spear.md) for 100, a [Vigil Longsword](Vigil_Longsword.md) for 100, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for 200.
 
 ### Exclusive NPCs and Variants
 
@@ -81,7 +81,7 @@ In the Cathedral, you can talk to [Lysander Spellhardt](Lysander_Spellhardt.md) 
 
 #### Unknown/Exclusive
 
--   [Hallowtide Caller](Hallowtide.md)
+-   [Hallowtide Caller](<Hallowtide_(Event).md>)
 -   [Suspicious Skeleton (Bone Rattler)](Suspicious_Skeleton.md)
 
 The Dining Hall.
@@ -106,7 +106,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   The music for this area is [A Light In The Sky](A_Light_In_The_Sky.md) by Naktigonis
--   The combat music for this area is [A Darkness Beneath](Deepwoken_OST.md#a-darkness-beneath) by Naktigonis
+-   The combat music for this area is [A Darkness Beneath](A_Darkness_Beneath.md) by Naktigonis
 -   Initially, there was a bug where the Void Feather cost 5 Joy instead of the required 15. This was patched quickly.
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
 -   Whenever you try to spook Glaive Spellhardt with a Hallowtide Mask, he doesn't get spooked and instead says: "Oh please."

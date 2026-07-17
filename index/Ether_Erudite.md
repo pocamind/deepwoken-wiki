@@ -31,9 +31,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Ether Erudite** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You will spawn with the following items: 1 [Bloodless Gem](Bloodless_Gem.md), 1 [Blue Gem](Blue_Gem.md), 1 [Wayward Gem](Wayward_Gem.md), 1 [Wind Gem](Wind_Gem.md), and an [Ether Surge](Ether_Surge.md) Enchantment stone.
+**Ether Erudite** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You will spawn with the following items: 1 [Bloodless Gem](Bloodless_Gem.md), 1 [Blue Gem](Blue_Gem.md), 1 [Wayward Gem](Wayward_Gem.md), 1 [Wind Gem](Wind_Gem.md), and an [Ether Surge](Ether_Surge.md) Enchantment stone.
 
-All of the [Deep Gems](Deep_Gems.md) have static spawns or can otherwise be farmed in [the Depths](<The_Depths_(Vow_of_Iron).md>).
+All of the [Deep Gems](Deep_Gem.md) have static spawns or can otherwise be farmed in [the Depths](<The_Depths_(Vow_of_Iron).md>).
 
 ## Starting Abilities
 
@@ -228,7 +228,7 @@ Blunt ResistanceBlunt
 -   0.65s wind-up.
 -   10s cooldown.
 -   When close enough to the enemy, the orbs will autotrack.
-    -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase how far you can be for it to autotrack.
+    -   [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) increase how far you can be for it to autotrack.
 
  |
 | 
@@ -428,7 +428,7 @@ Slash ResistanceSlash
     -   Steals 40% of the Tempo used.
 
 -   Water off a Duck's Back \[Common Talent\] **100** \- Venting will shift any elemental status effects affecting you onto those hit by your vent.
-    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
+    -   Transfers [Suffocation](Suffocation.md), [Winded](Winded.md), [Chill](Chill.md), [Shock](Shock.md), [Burn](Burn.md), and [potion](Potions.md) effects from yourself to your enemy on vent.
 
 -   _All Knowing_ \[Rare Talent\] **250** \- Your prediction now ignores the range requirement to reflect attacks.
 

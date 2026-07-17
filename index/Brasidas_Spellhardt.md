@@ -21,29 +21,11 @@ Brasidas Spellhardt is [Lightborn](Lightborn.md) found within [The Floating Keep
 
 He appears fond of metaphors to do with storms.
 
-He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) [Outfit](Outfits.md) underneath.
+He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) [Outfit](Outfit.md) underneath.
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Ooh, a surface dweller! <a href="Glossary.md#the-heavens">Heavens</a>, is it Hallowtide already? Time flies when you're in the sky. I sense today will be good for business - I haven't haggled with anyone other than my own kin in ages! But forgive my manners, stranger - I am <font><b>Brasidas Spellhardt</b></font>, and I <i>love</i> a good bargain. Care to barter?</td>
-</tr>
-<tr>
-  <td colspan="12">You know, you really remind me of another Lightborn...</td>
-</tr>
-<tr>
-  <td colspan="12">I bet I do. There's many a <a href="Glossary.md#lightborn">Lightborn</a> around here, my friend - and we're all related! <i>*Brasidas laughs.*</i> But I bet you're thinking of older brother Lysander, aren't you? Birds of a feather and all that, as they say. We're a real power duo, him and I, like an approaching storm - he manages our estate, and I manage the treasury.</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Ooh, a surface dweller! <a href="Glossary.md#the-heavens">Heavens</a>, is it Hallowtide already? Time flies when you're in the sky. I sense today will be good for business - I haven't haggled with anyone other than my own kin in ages! But forgive my manners, stranger - I am <font><b>Brasidas Spellhardt</b></font>, and I <i>love</i> a good bargain. Care to barter?</td></tr><tr><td colspan="12">You know, you really remind me of another Lightborn...</td></tr><tr><td colspan="12">I bet I do. There's many a <a href="Glossary.md#lightborn">Lightborn</a> around here, my friend - and we're all related! <i>*Brasidas laughs.*</i> But I bet you're thinking of older brother Lysander, aren't you? Birds of a feather and all that, as they say. We're a real power duo, him and I, like an approaching storm - he manages our estate, and I manage the treasury.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

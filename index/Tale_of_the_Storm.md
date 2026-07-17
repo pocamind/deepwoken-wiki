@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Tale of the Storm**_ is a [Book](Books.md).
+_**Tale of the Storm**_ is a [Book](Book.md).
 
 ## Text
 

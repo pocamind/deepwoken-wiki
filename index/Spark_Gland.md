@@ -24,7 +24,7 @@ categories: [Items, Elemental Ingredients]
 
 ## Description
 
-Spark Glands are used to obtain [Thundercall](Thundercall.md), one of the seven Attunements, by giving them to the Thundercall [Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md). Funke can be found on the second floor of the castle in [Summer Isle](Summer_Isle.md), standing inside the alchemy room. Spark Glands can also be consumed, though they will barely give any hunger or thirst.
+Spark Glands are used to obtain [Thundercall](Thundercall.md), one of the seven Attunements, by giving them to the Thundercall [Trainer](Spelltrainers.md), [Funke](Funke,_Master_of_Thunder.md). Funke can be found on the second floor of the castle in [Summer Isle](Summer_Isle.md), standing inside the alchemy room. Spark Glands can also be consumed, though they will barely give any hunger or thirst.
 
 ## Obtainment
 

@@ -43,7 +43,7 @@ The Kyrsglaive has two criticals.
 
 For the standing critical, the user raises the spear before slamming it into the ground to burst forth an eruption of bones, applying Daze to the affected opponent.
 
-For the aerial critical, the base spear critical is used instead. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+For the aerial critical, the base spear critical is used instead. This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 Both criticals has a cooldown of **6 seconds**.
 

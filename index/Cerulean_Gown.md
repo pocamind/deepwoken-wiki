@@ -23,7 +23,7 @@ categories: [Outfits, Expert Outfits]
 | selling_price | 10 |
 | weight | 1 |
 
-**Cerulean Gown** is a Expert [Outfit](Outfits.md) in _Deepwoken_.
+**Cerulean Gown** is a Expert [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -35,4 +35,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 1500 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunement.md).

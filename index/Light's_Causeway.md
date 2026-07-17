@@ -16,11 +16,11 @@ In a narrow crook of the wastes, light beams out and offers respite to the Diver
 
   
 
-Light's Causeway is a location in Deepwoken. It is a sub-location of [Castle Light](Castle_Light.md).
+Light's Causeway is a [location](Locations.md) in Deepwoken. It is a sub-location of [Castle Light](Castle_Light.md).
 
 ## Overview
 
-Light's Causeway is a small strip of land that is meant to be a safer area for lower level [Deepbounds](Deepbound.md) to level up without being too far from the comforts of Castle Light. This area contains the wall separating Castle Light from the rest of The Depths, preventing those who have drowned or have the [Vacant](Boons_and_Flaws.md#flaws) Flaw from entering. There is also a decently sized gap in this area, which can very easily trip players up and cause them to go to [The Second Layer](Second_Layer.md), or even wipe depending on their [Power](Power.md).
+Light's Causeway is a small strip of land that is meant to be a safer area for lower level [Deepbounds](Deepbound.md) to level up without being too far from the comforts of Castle Light. This area contains the wall separating Castle Light from the rest of The Depths, preventing those who have drowned or have the [Vacant](Vacant.md) Flaw from entering. There is also a decently sized gap in this area, which can very easily trip players up and cause them to go to [The Second Layer](Second_Layer.md), or even wipe depending on their [Power](Power.md).
 
 If the player entering has bad reputation with [The Divers](The_Divers.md), the light-armed defense turrets will automatically lock on to them in this area.
 

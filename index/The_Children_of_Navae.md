@@ -23,19 +23,19 @@ A mainly nomadic tribe mostly containing [Gremor](Gremor.md) who worship and are
 
 ## Reputation
 
-Every [Origin](Origins.md) excluding [Voidwalker](Voidwalker.md) and [Authority Ensign](Authority_Ensign.md) starts with a neutral [Reputation](Reputation.md) with the Children of Navae. Voidwalkers start with an enemy reputation, and Ensigns starts with hunted reputation.
+Every [Origin](Origin.md) excluding [Voidwalker](Voidwalker.md) and [Authority Ensign](Authority_Ensign.md) starts with a neutral [Reputation](Reputation.md) with the Children of Navae. Voidwalkers start with an enemy reputation, and Ensigns starts with hunted reputation.
 
 [Gremors](Gremor.md) start with higher reputation with the Children of Navae.
 
 There is no reputation reset NPC for this faction, nor do they have a [bounty board](Bounty_Hunting.md).
 
-In order to gain reputation, you may rescue [Navaen Hostages](Navaen_Hostage.md) and bring them to a nomad leader, most typically the [Eastern Camp Master](Cheral.md) in the [Etrean Wilds](Etrean_Wilds.md) Navae camp.
+In order to gain reputation, you may rescue [Navaen Hostages](Navaen_Hostage.md) and bring them to a nomad leader, most typically the [Eastern Camp Master](Eastern_Camp_Master.md) in the [Etrean Wilds](Etrean_Wilds.md) Navae camp.
 
 Your reputation will also increase if you do [Beiruul's](Beiruul.md) quest in [Meteor Isle](Meteor_Isle.md) to attack [Fort Merit](Fort_Merit.md). Another way it can increase is from defeating the [Mudskipper Knights](Mudskipper_Knight.md) at Meteor Isle, however it is buggy. A third way is by assisting the Children of Navae against the Ministry at the [Summer Isle](Summer_Isle.md). The final way is by taking Children of Navae jobs at Aratel.
 
 There is only one [random encounter](Random_Encounters.md) in which you may assist the Children of Navae and gain reputation:
 
--   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md)  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
+-   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](Children_of_Navae.md)  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](Ministry.md) ([Summer Isle](Summer_Isle.md))
 
 In the aftermath of this event, it is possible to give a Navaen hostage to the tribal leader if they are still alive.
 
@@ -74,7 +74,7 @@ If you've gained max reputation or ally with The Children of Navae in a slot tha
 
 ## NPCs
 
--   [Eastern Camp Master](Cheral.md)
+-   [Eastern Camp Master](Eastern_Camp_Master.md)
 
 ## Trivia
 

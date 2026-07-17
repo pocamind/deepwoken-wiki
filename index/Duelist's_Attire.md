@@ -23,13 +23,13 @@ categories: [Outfits, Adept Outfits]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Duelist's Attire** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+**Duelist's Attire** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) [Glass Stones](Mantra_Modifiers.md#regular-modifiers) to craft.
+This Outfit requires five (5) [Glass Stones](Glass_Stone.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 

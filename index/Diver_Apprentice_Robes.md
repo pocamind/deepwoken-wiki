@@ -24,13 +24,13 @@ categories: [Outfits, Adept Outfits, The Divers]
 | selling_price | 10 |
 | weight | 1 |
 
-**Diver Apprentice Robes** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+**Diver Apprentice Robes** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 50 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to craft.
+This Outfit costs 50 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and three (3) [Crystal Lenses](Crystal_Lens.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
@@ -38,7 +38,7 @@ Alternatively, using the [Deepbound](Deepbound.md) Origin will grant it for free
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), and +20% Ether Regen [IconEther](Ether.md).
+This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunement.md), and +20% Ether Regen [IconEther](Ether.md).
 
 ## Trivia
 

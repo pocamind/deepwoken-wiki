@@ -20,7 +20,7 @@ The smell of blossom permeates the quiet gardens that surround the Lord Regent's
 
 The King's Garden is a landmark in [Etris](Etris.md).
 
-It is guarded by 2 Etrean Royal Guards who will attack players that attempt to get near the [Palace](Etris_Palace.md) if they don't have the [Duke Erisia](Duke_Ishamon_Erisia.md) [Quest](Quests.md) active or if they do not have ally [reputation](Reputation.md) with [etrea](Etrea.md).
+It is guarded by 2 Etrean Royal Guards who will attack players that attempt to get near the [Palace](Etris_Palace.md) if they don't have the [Duke Erisia](Duke_Erisia.md) [Quest](Quests.md) active or if they do not have ally [reputation](Reputation.md) with [etrea](Etrea.md).
 
 At the left side of the garden, there is a small maze with a Hive Fountain at its center, interacting with it after washing your face will teleport you to the [Greathive Aratel](Greathive_Aratel.md), assuming the slot that interacts with the Fountain has been to [the Eastern Luminant](Luminants.md) during that life.
 

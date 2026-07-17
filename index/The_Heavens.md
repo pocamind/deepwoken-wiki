@@ -1,18 +1,14 @@
 ---
 title: The Heavens
-revid: 220388
+revid: 212063
 source: https://deepwoken.fandom.com/wiki/The_Heavens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Stub pages without reason, StubPages, The Heavens, "Non-playable locations"]
+categories: [Stub pages without reason, StubPages, The Heavens, "Non-playable locations"]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # The Heavens
-
-**Content is not present in-game**  
-The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
-E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
@@ -30,9 +26,9 @@ Waters of the Heavens are called the [Nightsea](Nightsea.md). They are inky blac
 
 [Spellhardt family](Spellhardt_family.md): A noble and wealthy family, currently residing in [The Floating Keep](The_Floating_Keep.md). Their keep was well-manned and the family had a lot of servants before the fall of [Constellia](Constellia.md), but afterwards it was left to be managed by the family itself. Every year they host a tradition, called [Hallowtide](Hallowtide.md).[\[4\]](#cite-note-misha-4)
 
-[Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md): The last king of [Constellia](Constellia.md). After losing the battle against the [Kyrsans](Kyrsgarde.md), the city of [Constellia](Constellia.md) fell and he was captured and taken to [New Kyrsa](Second_Layer/New_Kyrsa.md).[\[3\]](#cite-note-kaide-3)
+[Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md): The last king of [Constellia](Constellia.md). After losing the battle against the [Kyrsans](Kyrsan.md), the city of [Constellia](Constellia.md) fell and he was captured and taken to [New Kyrsa](New_Kyrsa.md).[\[3\]](#cite-note-kaide-3)
 
-[Zhatarn](Zhatarn.md): A [celestial](Celestial.md), driven mad by his attempt to draw power from [the Moonseye](Moonseye.md). He was exiled and doomed to roam the [Voidsea](Voidsea.md) forever. He wielded the [Soulthorn](Soulthorn.md).[\[5\]](#cite-note-kaidesoulthorn-5)
+[Zhatarn](Zhatarn.md): A [celestial](Celestial.md), driven mad by his attempt to draw power from [the Moonseye](The_Moonseye.md). He was exiled and doomed to roam the [Voidsea](Voidsea.md) forever. He wielded the [Soulthorn](Soulthorn.md).[\[5\]](#cite-note-kaidesoulthorn-5)
 
 ## References
 

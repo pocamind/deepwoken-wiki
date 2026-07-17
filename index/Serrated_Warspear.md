@@ -38,7 +38,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](King_Thresher.md), corrupted [Threshers](Thresher.md) and [Void Threshers](Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob(Or a [Traan Zakshun](Traan_Zakshun.md) stock item).
+The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](King_Thresher.md), corrupted [Threshers](Thresher.md) and [Void Threshers](Void_Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob(Or a [Traan Zakshun](Traan_Zakshun.md) stock item).
 
 ## Critical
 
@@ -46,9 +46,9 @@ Serrated Warspear uses the default Spear critical, a horizontal swing followed b
 
 This critical will be canceled if the first hit is parried.  
   
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 
 -   Heavily resembles the [Acheron's Warspear](<Acheron's_Warspear.md>). It is also seen as a direct upgrade to this weapon.
--   This weapon used to be dropped by [Duke Erisia](Duke_Ishamon_Erisia.md), although it was removed in favor of the [Stoneheart](Stoneheart.md).
+-   This weapon used to be dropped by [Duke Erisia](Duke_Erisia.md), although it was removed in favor of the [Stoneheart](Stoneheart.md).

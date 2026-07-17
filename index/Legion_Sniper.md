@@ -17,7 +17,7 @@ categories: [Enemies, Enemies that can wield Enchantments, The Hundred Legions, 
 
 ## Description
 
-Legion Snipers are enemies only able to be encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md). They wield the [Thundercall](Thundercall.md) attunement and are capable of using several high level mantras. Killing one will give the player _negative_ reputation with the Hundred Legions and a chest.
+Legion Snipers are enemies only able to be encountered in the [Starswept Valley](Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md). They wield the [Thundercall](Thundercall.md) attunement and are capable of using several high level mantras. Killing one will give the player _negative_ reputation with the Hundred Legions and a chest.
 
 A Legion Sniper wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Legion Helmet](Legion_Helmet.md), a pair of [Legion Pauldrons](Legion_Pauldrons.md) and a pair of [Legion Boots](Legion_Boots.md). They are exclusively [Khans](Khan.md).
 

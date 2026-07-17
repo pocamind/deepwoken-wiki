@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Raeva Ferash Kenestos, the Kyrsgarde Champion, is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). He is a muscular white-coil Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, he wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
 
-According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of Light that was the Celestial [Raeva](Glossary.md#raeva), breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
+According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of Light that was the Celestial [Raeva](<Raeva_(Celestial).md>), breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
 
 He can be encountered after achieving the following requirements:
 
@@ -295,45 +295,7 @@ Parry
 
 ## Drops
 
-<table>
-<tbody>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Kyrsan_Chill.md">Kyrsan Chill Enchant Stone</a>, <a href="Kyrsan_Gem.md">Kyrsan Gem,</a> <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Legendary Weapons</b>: <a href="Coldpoint.md"><font>Coldpoint</font></a>, <a href="Frostthorn.md"><font>Frostthorn</font></a>, <a href="Rimebreakers.md"><font>Rimebreakers</font></a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: TBA</li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: TBA</li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Marrowmade_Boots.md">Marrowmade Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
-  <ol>
-    <li><b>Relic Torso</b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
-    <li><b>Unique Torso</b>: <a href="Kyrsan_Necklace.md"><font>Kyrsan Necklace</font></a></li>
-  </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: TBA</li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: TBA</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
-  <ol>
-    <li><b>Relic Rings</b>: <a href="Bone_Ring.md">Bone Ring</a></li>
-    <li><b>Legendary Rings</b>: <a href="Cryptwaker's_Ring.md"><font>Cryptwaker's Ring</font></a></li>
-  </ol></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Kyrsan_Chill.md">Kyrsan Chill Enchant Stone</a>, <a href="Kyrsan_Gem.md">Kyrsan Gem,</a> <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: <a href="Coldpoint.md"><font>Coldpoint</font></a>, <a href="Frostthorn.md"><font>Frostthorn</font></a>, <a href="Rimebreakers.md"><font>Rimebreakers</font></a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: TBA</li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: TBA</li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Marrowmade_Boots.md">Marrowmade Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>Relic Torso</b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li><li><b>Unique Torso</b>: <a href="Kyrsan_Necklace.md"><font>Kyrsan Necklace</font></a></li></ol></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: TBA</li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: TBA</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Relic Rings</b>: <a href="Bone_Ring.md">Bone Ring</a></li><li><b>Legendary Rings</b>: <a href="Cryptwaker's_Ring.md"><font>Cryptwaker's Ring</font></a></li></ol></li></ul></td></tr></tbody></table>
 
 ## Trivia
 

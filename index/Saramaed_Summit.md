@@ -22,7 +22,7 @@ The air itself feels as if it were becoming ash, as the embers around you radiat
 
   
 
-**Saramaed Summit** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the East Luminant.
+**Saramaed Summit** is a [location](Locations.md) in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the East Luminant.
 
 ## Overview
 
@@ -38,49 +38,14 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 
 -   [Brilliant Lotus](Ingredients.md#lotuses)
 -   [Hellfire Lotus](Ingredients.md#lotuses)
--   [Iron](Ores.md#iron)
--   [Rock](Ores.md#rock)
--   [Coal](Ores.md#coal)
--   [Irithine](Ores.md#irithine)
+-   [Iron](Ore.md#iron)
+-   [Rock](Ore.md#rock)
+-   [Coal](Ore.md#coal)
+-   [Irithine](Ore.md#irithine)
 
 ## Loot Table
 
-<table>
-<tbody>
-<tr>
-  <td><a href="Outfits.md">Outfit Schematics</a></td>
-  <td><a href="Summer_Dragoon.md">Summer Dragoon</a></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Legendary Weapons</b>:</li>
-    <li><b>Light Weapons</b>: <a href="Legion_Cestus.md">Legion Cestus</a>,</li>
-    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Rockmaller.md">Rockmaller</a></li>
-    <li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Delver's_Duster.md">Delver's Duster</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><a href="Outfits.md">Outfit Schematics</a></td><td><a href="Summer_Dragoon.md">Summer Dragoon</a></td></tr><tr><td><b>Miscellaneous</b></td><td></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>:</li><li><b>Light Weapons</b>: <a href="Legion_Cestus.md">Legion Cestus</a>,</li><li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></li><li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Rockmaller.md">Rockmaller</a></li><li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Delver's_Duster.md">Delver's Duster</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li><li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a></li></ul></td></tr></tbody></table>
 
 ## Trivia
 

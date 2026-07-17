@@ -48,7 +48,7 @@ After a short windup, the user lunges forward, impaling the target and then slam
 
 This critical is shared with the [Crescent Cleaver](Crescent_Cleaver.md) and **The Long Tong of The Law**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
   
 

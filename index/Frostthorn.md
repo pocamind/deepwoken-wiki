@@ -40,7 +40,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Frostthorn** are dual-wielded Legendary Daggers; two layered blades that have a spring powered mechanism that divides them into four separate blades, doubling as a fan. It is obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
+The **Frostthorn** are dual-wielded Legendary Daggers; two layered blades that have a spring powered mechanism that divides them into four separate blades, doubling as a fan. It is obtained by defeating the [Kyrsgarde Champion](Kyrsgarde_Champion.md).
 
 ## Critical
 
@@ -50,7 +50,7 @@ This critical additionally grants the user a speed boost for a short duration.
 
 This critical has a cooldown of **5 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talent](Talent.md) effects.
 
 ## Trivia
 

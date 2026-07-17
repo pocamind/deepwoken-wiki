@@ -17,7 +17,7 @@ categories: [Enemies, Etrea Enemies, Guards]
 
 ## Description
 
-The Etrean Guardsmen are an NPC type of neutral [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Upon killing one, more tend to come, quickly swarming the player. After killing a sufficient amount of them, [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will start hunting you.
+The Etrean Guardsmen are an NPC type of neutral [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Upon killing one, more tend to come, quickly swarming the player. After killing a sufficient amount of them, [Etrean Royal Guards](Etrean_Royal_Guard.md) will start hunting you.
 
 Etrean Guardsmen wear the [Etrean Guard](Etrean_Guard.md) Expert [Outfit](Outfits.md), and they are all Etrean (with varying skin tones and aspect variants)
 

@@ -32,7 +32,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | obtainment | Being killed by an Authority Ensign player. |
 | description | Your trusty weapon. |
 
-_For the page about esaping the [Prison Tower](Fort_Merit.md#prison-tower) after being jailed by an [Authority Ensign](Authority_Ensign.md) or other Authority NPCs, see [here](Fort_Merit.md#escaping-jail)._
+_For the page about esaping the [Prison Tower](Prison_Tower.md) after being jailed by an [Authority Ensign](Authority_Ensign.md) or other Authority NPCs, see [here](Escaping_Jail.md)._
 
 ## Description
 
@@ -46,7 +46,7 @@ You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the
 
 **Fang and Coil:**
 
-Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
 
   
 With the [Fang and Coil](Fang_and_Coil.md) style, the user does a quick leg sweep, ragdolling and dazing opponents. This has a scaled damage multiplier of **0.65x** and deals **10** posture damage if blocked. This attack dazes and ragdolls for **1.25s**, and with a short windup of **0.4s** and an endlag of **0.25s**. This attack has a **3 second cooldown**.
@@ -55,7 +55,7 @@ If the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit is equipped, you wil
 
 **Imperium Kata:**
 
-Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
 
   
 With the [Imperium Kata](Imperium_Kata.md) style, the user performs two swift side kicks and is slowed by 60% for the duration of the critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds.
@@ -68,16 +68,16 @@ This critical has a cooldown of **5** seconds.
 
 **Legion Kata:**
 
-Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
 
   
-With the [Legion Kata](Legion_Kata.md) style, the user performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Status_Effects.md#dazed) on hit.
+With the [Legion Kata](Legion_Kata.md) style, the user performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Dazed.md) on hit.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 **Untrained Fist:**
 
-Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
 
   
 With the [Untrained Fist](Untrained_Fist.md) style, the user runs forward and swings their fist before striking with a haymaker punch. The user gains very brief hyperarmor during the punch animation. Pressing M2 during the rush segment of the critical will halt your movement.
@@ -90,7 +90,7 @@ This critical has a **5 second** cooldown.
 
 **Way of Navae:**
 
-Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Handcuffs uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
 
   
 With the [Way of Navae](Way_of_Navae.md) style, the user raises their leg with a slow windup before slamming it down. This attack has a scaled damage multiplier of **1x** and **guardbreaks** if blocked.
@@ -103,6 +103,6 @@ This attack has a **5 second cooldown**.
 -   The critical of the Handcuffs is based on your [fist styles](Fists.md).
 -   While handcuffed, if you get knocked by any player (including yourself through self damage), you will be teleported back into the prison.
 -   You gain a perpetual PvE combat tag while the handcuffs are equipped.
--   Despite your hands being bound, you can still pilot [Boats](Ships_&_Sailing.md) and use their cannons.
+-   Despite your hands being bound, you can still pilot [Boats](Boats.md) and use their cannons.
 -   Due to its all around unbearably low stats, this is the weakest weapon in the game.
 -   Very likely based around as a mechanic and in functions around the Bound Cuffs from Tales From The Valley

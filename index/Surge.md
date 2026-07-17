@@ -37,98 +37,13 @@ Surge is located in a room inside of the Widow's Nest in the [First Layer](First
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">Many dwell in this layer for the sole purpose of getting stronger. They fail to realize the true reward of the Hunt.</td>
-</tr>
-<tr>
-  <td colspan="4">The Hunt?</td>
-</tr>
-<tr>
-  <td colspan="4">The hunt is a game of deception, my friend. Power is an illusion woven by the charismatic. Those Owls... Have you seen them? They play with the very minds of their prey.</td>
-</tr>
-<tr>
-  <td colspan="4">...</td>
-</tr>
-<tr>
-  <td colspan="4">Anyone can hunt down an Owl and bring me a feather, but most would only return to me in the hope of getting stronger. A true hunter would understand what lies beyond such power.</td>
-</tr>
-<tr>
-  <td colspan="4">I see beyond it.</td>
-</tr>
-<tr>
-  <td colspan="2">Requirements met for Visionshaper</td>
-  <td colspan="2">Requirements not met for Visionshaper</td>
-</tr>
-<tr>
-  <td>Player has a Dark Feather</td>
-  <td>Player has a Void Feather</td>
-  <td colspan="2">Really? You don't seem any different from any other hunter. There's no spark in you.</td>
-</tr>
-<tr>
-  <td>Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning.</td>
-  <td>Ah... The feather of a <i>true</i> owl... Very good, you'd do well to hold on to that.</td>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-<tr>
-  <td>Player speaks to Surge in A Conscious Intersection</td>
-  <td>[End Dialogue]</td>
-</tr>
-<tr>
-  <td><b>This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning.</b></td>
-</tr>
-<tr>
-  <td>[End Dialogue], player is teleported to <a href="A_Conscious_Intersection.md">A Conscious Intersection</a></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Many dwell in this layer for the sole purpose of getting stronger. They fail to realize the true reward of the Hunt.</td></tr><tr><td colspan="4">The Hunt?</td></tr><tr><td colspan="4">The hunt is a game of deception, my friend. Power is an illusion woven by the charismatic. Those Owls... Have you seen them? They play with the very minds of their prey.</td></tr><tr><td colspan="4">...</td></tr><tr><td colspan="4">Anyone can hunt down an Owl and bring me a feather, but most would only return to me in the hope of getting stronger. A true hunter would understand what lies beyond such power.</td></tr><tr><td colspan="4">I see beyond it.</td></tr><tr><td colspan="2">Requirements met for Visionshaper</td><td colspan="2">Requirements not met for Visionshaper</td></tr><tr><td>Player has a Dark Feather</td><td>Player has a Void Feather</td><td colspan="2">Really? You don't seem any different from any other hunter. There's no spark in you.</td></tr><tr><td>Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning.</td><td>Ah... The feather of a <i>true</i> owl... Very good, you'd do well to hold on to that.</td><td colspan="2">[End Dialogue]</td></tr><tr><td>Player speaks to Surge in A Conscious Intersection</td><td>[End Dialogue]</td></tr><tr><td><b>This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning.</b></td></tr><tr><td>[End Dialogue], player is teleported to <a href="A_Conscious_Intersection.md">A Conscious Intersection</a></td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player has the [Oath: Visionshaper](Oath%253A_Visionshaper.md).
 
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">Player has not maxed Visionshaper</td>
-  <td colspan="2">Player has maxed Visionshaper</td>
-</tr>
-<tr>
-  <td colspan="6">So? Come back to share more of the spoils of your Hunt?</td>
-  <td colspan="2">This is only the beginning.</td>
-</tr>
-<tr>
-  <td colspan="2">I have a feather.</td>
-  <td colspan="2">What was that place you took me?</td>
-  <td colspan="2">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*Surge clicks his fingers in front of your face, forcing you to blink.*</i> There. Do you see now?</td>
-  <td colspan="2">Hm? I've never taken you anywhere outside of this room, my friend. You must be careful that the visions you shape do not begin to fool you...</td>
-  <td>Player has required Knowledge</td>
-  <td>Player does not have required Knowledge</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue], player obtains a Visionshaper ability</td>
-  <td colspan="2">[End Dialogue]</td>
-  <td><b>This is only the beginning.</b></td>
-  <td>Huh? What words? You're losing sight of the Hunt, friend.</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td>[End Dialogue], Visionshaper is instantly maxed</td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="6">Player has not maxed Visionshaper</td><td colspan="2">Player has maxed Visionshaper</td></tr><tr><td colspan="6">So? Come back to share more of the spoils of your Hunt?</td><td colspan="2">This is only the beginning.</td></tr><tr><td colspan="2">I have a feather.</td><td colspan="2">What was that place you took me?</td><td colspan="2">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="2"><i>*Surge clicks his fingers in front of your face, forcing you to blink.*</i> There. Do you see now?</td><td colspan="2">Hm? I've never taken you anywhere outside of this room, my friend. You must be careful that the visions you shape do not begin to fool you...</td><td>Player has required Knowledge</td><td>Player does not have required Knowledge</td></tr><tr><td colspan="2">[End Dialogue], player obtains a Visionshaper ability</td><td colspan="2">[End Dialogue]</td><td><b>This is only the beginning.</b></td><td>Huh? What words? You're losing sight of the Hunt, friend.</td></tr><tr><td colspan="4"></td><td>[End Dialogue], Visionshaper is instantly maxed</td><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

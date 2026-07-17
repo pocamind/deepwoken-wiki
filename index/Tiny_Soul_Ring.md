@@ -29,6 +29,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Tiny Soul Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that removes the user's ability to block attacks in exchange for them dealing 2x posture damage when they parry attacks and having a shorter parry cooldown.
+**Tiny Soul Ring** is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that removes the user's ability to block attacks in exchange for them dealing 2x posture damage when they parry attacks and having a shorter parry cooldown.
 
 This ring is currently bugged and does not allow you to parry.

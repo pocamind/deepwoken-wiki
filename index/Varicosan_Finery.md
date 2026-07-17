@@ -25,19 +25,19 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Dress) |
 
-**Varicosan Finery** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+**Varicosan Finery** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 100 and requires three (3) [Alestrian Coral](Alestrian_Coral.md), seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Irithine](Ores.md#irithine), and ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
+This Outfit costs 100 and requires three (3) [Alestrian Coral](Alestrian_Coral.md), seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Irithine](Irithine.md), and ten (10) [Vibrant Gems](Vibrant_Gem.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-The Outfit has 1500 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Benefactor](Talents.md#benefactor) Talent.
+The Outfit has 1500 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Benefactor](Talents.md#benefactor) Talent.
 
 The [Benefactor](Talents.md#benefactor) Talent gives you faction [reputation](Reputation.md) when selling goods to their respective [antiquarian](Antiquarian.md).
 

@@ -33,68 +33,13 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Hmm.. Oh, another one? We must be popular today, There's an awful lot of you <a href="Glossary.md#pathfinders">Pathfinders</a> trudging by here. What do you need?</td>
-</tr>
-<tr>
-  <td colspan="6">Who are you?</td>
-  <td colspan="6">What do you do here?</td>
-</tr>
-<tr>
-  <td colspan="6">Well.. Gods, what a question! Did you know you're the first passerby here today to actually ask me such a thing? My name is Gamma, I'm a Deepdelver of the Ignition Union. I've been workin' here for.. well, my whole life!</td>
-  <td colspan="6">Enough to keep my hands full all of the time. Here at the Union, camaraderie is our number one principle, so we all try to help eachother [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]. Whether I'm working with supplies, or fetching a wandering member from the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, I'm always busy.</td>
-</tr>
-<tr>
-  <td colspan="3">What do you do here?</td>
-  <td colspan="3">Deepdelver?</td>
-  <td colspan="6">The Second Layer?</td>
-</tr>
-<tr>
-  <td colspan="3">[See first instance]</td>
-  <td colspan="3">Unfamiliar with the title, hm? A Deepdelver is a Union member who's proven their resourceful and critical thinking skills down here in the <a href="Glossary.md#the-depths">Depths</a>. They're permitted access to the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a> and beyond. We aren't fond of hierarchy here, so the the merit [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] of a Deepdelver is based on your ability to help others, not your strength. If you can prove that you'll put your own life at risk for those around you, you're a Deepdelver.</td>
-  <td colspan="6">Right, the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. So far as we know, there's only two 'safe' ways down to it. Our Deepdriller here, which is restricted to employees only, and one of <a href="Glossary.md#castle-light">Castle Light's</a>... creations. Though, we try to avoid <a href="Glossary.md#the-divers">Diver</a> interaction, so I can't tell you much of their method. Maybe they'll let you take a crack at it? They're awfully fond of sending people to their deaths.</td>
-</tr>
-<tr>
-  <td colspan="3">[End Dialogue]</td>
-  <td colspan="3">The Second Layer?</td>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="3"></td>
-  <td colspan="3">[See first instance]</td>
-</tr>
-<tr>
-  <td colspan="3"></td>
-  <td colspan="3">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hmm.. Oh, another one? We must be popular today, There's an awful lot of you <a href="Glossary.md#pathfinders">Pathfinders</a> trudging by here. What do you need?</td></tr><tr><td colspan="6">Who are you?</td><td colspan="6">What do you do here?</td></tr><tr><td colspan="6">Well.. Gods, what a question! Did you know you're the first passerby here today to actually ask me such a thing? My name is Gamma, I'm a Deepdelver of the Ignition Union. I've been workin' here for.. well, my whole life!</td><td colspan="6">Enough to keep my hands full all of the time. Here at the Union, camaraderie is our number one principle, so we all try to help eachother [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]. Whether I'm working with supplies, or fetching a wandering member from the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, I'm always busy.</td></tr><tr><td colspan="3">What do you do here?</td><td colspan="3">Deepdelver?</td><td colspan="6">The Second Layer?</td></tr><tr><td colspan="3">[See first instance]</td><td colspan="3">Unfamiliar with the title, hm? A Deepdelver is a Union member who's proven their resourceful and critical thinking skills down here in the <a href="Glossary.md#the-depths">Depths</a>. They're permitted access to the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a> and beyond. We aren't fond of hierarchy here, so the the merit [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] of a Deepdelver is based on your ability to help others, not your strength. If you can prove that you'll put your own life at risk for those around you, you're a Deepdelver.</td><td colspan="6">Right, the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. So far as we know, there's only two 'safe' ways down to it. Our Deepdriller here, which is restricted to employees only, and one of <a href="Glossary.md#castle-light">Castle Light's</a>... creations. Though, we try to avoid <a href="Glossary.md#the-divers">Diver</a> interaction, so I can't tell you much of their method. Maybe they'll let you take a crack at it? They're awfully fond of sending people to their deaths.</td></tr><tr><td colspan="3">[End Dialogue]</td><td colspan="3">The Second Layer?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="3"></td><td colspan="3">[See first instance]</td></tr><tr><td colspan="3"></td><td colspan="3">[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
-This dialogue is unlocked if the player is the [Ignition Delver](Ignition_Delver.md) [Origin](Origins.md).
+This dialogue is unlocked if the player is the [Ignition Delver](Ignition_Delver.md) [Origin](Origin.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>How's work treatin' ya, recruit?</td>
-</tr>
-<tr>
-  <td>Who are you?</td>
-</tr>
-<tr>
-  <td>[See Base Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>How's work treatin' ya, recruit?</td></tr><tr><td>Who are you?</td></tr><tr><td>[See Base Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

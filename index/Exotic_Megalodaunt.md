@@ -111,7 +111,7 @@ Dodge
 **Roar**  
 (☆☆☆)
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [Insanity](Insanity.md) and [Fear](Status_Effects.md#fear).
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [Insanity](Insanity.md) and [Fear](Fear.md).
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
@@ -179,7 +179,7 @@ Dodge
 
 ## Passives
 
--   **Thick Hide** - Exotic Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
+-   **Thick Hide** - Exotic Megalodaunts automatically extinguish [burn](Burn.md).
 
 ## Tips
 

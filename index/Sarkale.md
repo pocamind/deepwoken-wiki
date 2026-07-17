@@ -25,42 +25,7 @@ A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Cav
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="3">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="3">Hm? You aren't a <a href="Glossary.md#the-divers">Diver</a>, what are you doing down here? I'm afraid this is not the ideal place to be exploring, traveler.</td>
-</tr>
-<tr>
-  <td>I'm seeking Chaser and his Divers.</td>
-  <td>I'm simply adventuring</td>
-  <td>What are you doing down here?</td>
-</tr>
-<tr>
-  <td>Ah, some sort of contingency if the party went missing, you are. But, then... <i>*The man looks down and furrows his brow, lost in thought for a moment.*</i> I've been watching that group for a while, but I lost sight of them after they traveled through here. Perhaps they didn't make it, or perhaps they did, but not in time.</td>
-  <td>A fool, in all of their glory! I pity you, traveler, I truly do. If you plan to make it out of here in one piece... I suggest you listen carefully. These tunnels are <i>layered</i>, and there are corridors within this cavern system that allow you to ascend or descend its layers. Good luck, traveler. <i>*He gives you a bright, almost too happy of a smile, before sending you off.*</i></td>
-  <td>I'm just a vulture, traveler. Scurry off and die somewhere, and I'll happily take what you leave behind. You look like you carry much more worth than one of those <a href="Glossary.md#the-divers">Divers</a>... I'll be sure to <i>watch</i> you!</td>
-</tr>
-<tr>
-  <td>What's in this cave?</td>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-<tr>
-  <td>It's not somewhere one would want to stay for long. I prefer the light outside much more to its crushing darkness. In my few ventures in there, I've always heard loud stomping... behind me, almost? I didn't want to stay to find out what was making those noises.</td>
-</tr>
-<tr>
-  <td>How did you get out then?</td>
-</tr>
-<tr>
-  <td>I turned around, and ran! <i>*He laughs loudly, as if it were obvious.*</i> Ah, but you're an adventurer, how could I forget! Since you'll be on different levels of the cavern, you'll want to run, hm... much deeper in that hell. In your case, perhaps running toward your destination would servr you better rather then running toward whence you came. Follow the lights, little lamb...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="3">Begin Dialogue</td></tr><tr><td colspan="3">Hm? You aren't a <a href="Glossary.md#the-divers">Diver</a>, what are you doing down here? I'm afraid this is not the ideal place to be exploring, traveler.</td></tr><tr><td>I'm seeking Chaser and his Divers.</td><td>I'm simply adventuring</td><td>What are you doing down here?</td></tr><tr><td>Ah, some sort of contingency if the party went missing, you are. But, then... <i>*The man looks down and furrows his brow, lost in thought for a moment.*</i> I've been watching that group for a while, but I lost sight of them after they traveled through here. Perhaps they didn't make it, or perhaps they did, but not in time.</td><td>A fool, in all of their glory! I pity you, traveler, I truly do. If you plan to make it out of here in one piece... I suggest you listen carefully. These tunnels are <i>layered</i>, and there are corridors within this cavern system that allow you to ascend or descend its layers. Good luck, traveler. <i>*He gives you a bright, almost too happy of a smile, before sending you off.*</i></td><td>I'm just a vulture, traveler. Scurry off and die somewhere, and I'll happily take what you leave behind. You look like you carry much more worth than one of those <a href="Glossary.md#the-divers">Divers</a>... I'll be sure to <i>watch</i> you!</td></tr><tr><td>What's in this cave?</td><td colspan="2">[End Dialogue]</td></tr><tr><td>It's not somewhere one would want to stay for long. I prefer the light outside much more to its crushing darkness. In my few ventures in there, I've always heard loud stomping... behind me, almost? I didn't want to stay to find out what was making those noises.</td></tr><tr><td>How did you get out then?</td></tr><tr><td>I turned around, and ran! <i>*He laughs loudly, as if it were obvious.*</i> Ah, but you're an adventurer, how could I forget! Since you'll be on different levels of the cavern, you'll want to run, hm... much deeper in that hell. In your case, perhaps running toward your destination would servr you better rather then running toward whence you came. Follow the lights, little lamb...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

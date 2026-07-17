@@ -21,7 +21,7 @@ categories: [Celestials]
 
 Mur Of Light appears to be a goddess, responsible for bringing [Murmurs](Murmur.md) into this world.
 
-[Theadre](Theadre.md) is the NPC who shares such information with the player, apparently needing to have a friendly-high reputation with [The Kingdom of Etrea](Etrea.md).
+[Theadre](Theadre.md) is the NPC who shares such information with the player, apparently needing to have a friendly-high reputation with [The Kingdom of Etrea](The_Kingdom_of_Etrea.md).
 
 Theadre dialogue when questioned about Mur: "Aye... Eldest mother of our people, _Mur of Light_... She who descended from the Heavens and brought out the Light of our souls in our darkest days..."
 

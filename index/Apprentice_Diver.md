@@ -19,7 +19,7 @@ categories: [Enemies, Diver Enemies]
 
 An Apprentice Diver is an enemy NPC that can only be found in [The Depths](The_Depths.md). They can be found at the [Diver's Camp](<Diver's_Camp.md>) and at [Castle Light](Castle_Light.md).
 
-Their appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robes.md) outfit with their [aspect](Aspects.md) varying.
+Their appearance only consists of a [Diver Apprentice](Diver_Apprentice.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 
@@ -80,7 +80,7 @@ An Apprentice Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass
 
 ### Boons
 
--   Mantra Modification - An Apprentice Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md#sparks).
+-   Mantra Modification - An Apprentice Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Magnet_Spark.md).
 
 ### Talents
 

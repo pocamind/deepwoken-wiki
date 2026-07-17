@@ -50,6 +50,6 @@ The critical has a cooldown of **5 seconds**.
 
 -   Hero's Blade of Shadow used to steal ether on running attacks. This seemed to be unintentional as this feature was removed from the game.
 -   The Hero of Shadow is a [Kiron](Kiron.md) named [Urek Felhand](Urek_Felhand.md). Identified by their ears.
-    -   Felhand used to stand with the Heroes before their inevitable betrayal, elaborated on in their respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
+    -   Felhand used to stand with the Heroes before their inevitable betrayal, elaborated on in their respective [Saintsworn Obelisk](Saintsworn_Obelisk.md).
 -   The runes on the blade once deciphered say "I UREK ONE PIECE OF A FIVE POINTED STAR GIVE MY STRONGEST SHADOWS TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL"
 -   It's previous description read: "A blade said to be enruned with a passage of the song, it evokes the merciless void of the darkest shadows."

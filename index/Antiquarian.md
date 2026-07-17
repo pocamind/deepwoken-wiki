@@ -28,7 +28,7 @@ They can be found in:
 -   [Summer Isle](Summer_Isle.md) (just to the right of the gun seller)
 -   [Miner's Landing](<Miner's_Landing.md>) (in the town)
 -   [Castle Light](Castle_Light.md) (but only people with the [Deepbound](Deepbound.md) Origin can interact with them)
--   [Chariot's Spire](<The_Chariot's_Spire.md>) (but only people with the [Ignition Delver](Ignition_Delver.md) Origin can interact with them)
+-   [Chariot's Spire](<Chariot's_Spire.md>) (but only people with the [Ignition Delver](Ignition_Delver.md) Origin can interact with them)
 -   [Fort Merit](Fort_Merit.md)
 -   [Voidheart](Voidheart.md) (next to the spawn, opposite side of the [bounty board](Bounty_Hunting.md)).
 -   [The Floating Keep](The_Floating_Keep.md)
@@ -37,4 +37,4 @@ They can be found in:
 
 ## Prices
 
-Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items for [Notes](Notes.md). These can be improved greatly with the [Snake Oil](Talents.md#snake-oil) [Talent](Talents.md).
+Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items for [Notes](Notes.md). These can be improved greatly with the [Snake Oil](Talents.md#snake-oil) [Talent](Talent.md).

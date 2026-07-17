@@ -36,7 +36,7 @@ The damage reduction works in PvE if you are combat tagged by at least one playe
 
 ## Obtainment
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Titus's Cape](<Titus's_Cape.md>) + 1 [Champion's Alloy](<Champion's_Alloy.md>).
 

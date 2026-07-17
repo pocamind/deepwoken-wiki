@@ -26,19 +26,19 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Cala-Mariner** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Cala-Mariner** is a Master [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires three (3) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), five (5) [Odd Tentacles](Odd_Tentacle.md), one (1) [Nautilodaunt Beak](Nautilodaunt_Beak.md), one (1) [Blue Gem](Blue_Gem.md), and ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
+This Outfit costs 1,000 and requires three (3) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), five (5) [Odd Tentacles](Odd_Tentacle.md), one (1) [Nautilodaunt Beak](Nautilodaunt_Beak.md), one (1) [Blue Gem](Blue_Gem.md), and ten (10) [Vibrant Gems](Vibrant_Gem.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 5 [Willpower](Attributes.md#wll) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 5 [Willpower](Willpower.md) to be crafted.
 
 ### _Armor Stats_
 
-The Outfit has 2200 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +30% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +20 Sanity [IconSanity](Insanity.md), and +45% Ether Regeneration [IconEther](Ether.md).
+The Outfit has 2200 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunement.md), +30% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +20 Sanity [IconSanity](Sanity.md), and +45% Ether Regeneration [IconEther](Ether.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 54.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 51.25% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

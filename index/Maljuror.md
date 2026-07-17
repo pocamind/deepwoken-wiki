@@ -19,9 +19,9 @@ categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with 
 
 Maljuror is a [random encounter](Random_Encounters.md) in the [Ancient Rotlands](Ancient_Rotlands.md), which drops the [Kindred Edict](Kindred_Edict.md) and [Maljuror Jougs](Maljuror_Jougs.md) with a small chance.
 
-They spawn in with their [aspect](Aspects.md), hair and hair color random. They all share the same skin color and face decal, being black, hollow eyes with black tears and an open mouth. Their [Outfit](Outfits.md) and [equipment](Equipment.md) is currently unknown.
+They spawn in with their [aspect](Aspects.md), hair and hair color random. They all share the same skin color and face decal, being black, hollow eyes with black tears and an open mouth. Their [Outfit](Outfit.md) and [equipment](Equipment.md) is currently unknown.
 
-If the player is a [Starkindred](Oath%253A_Starkindred.md), they will spawn bound, similar to a [Navaen Hostage](Navaen_Hostage.md), and will have significantly less HP, making it possible for them to be autogripped by any source of damage.
+If the player is a [Starkindred](Starkindred.md), they will spawn bound, similar to a [Navaen Hostage](Navaen_Hostage.md), and will have significantly less HP, making it possible for them to be autogripped by any source of damage.
 
 Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songseeker Wilds](Songseeker_Wilds.md) loot. ([Kindred Edict](Kindred_Edict.md) is a direct drop, which means, it doesn't appear in chests.)
 
@@ -83,7 +83,7 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
  | The Maljuror lunges forwards and grabs you, whispering into your ears and greatly draining your sanity.
 
--   This attack shares an animation with [Dread Whisper](Attunement-less.md#dread-whisper), though the visual and sound effects are entirely unique.
+-   This attack shares an animation with [Dread Whisper](Dread_Whisper.md), though the visual and sound effects are entirely unique.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

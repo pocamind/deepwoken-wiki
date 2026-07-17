@@ -45,48 +45,13 @@ Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with d
 
   
 
-<table>
-<tbody>
-<tr>
-  <td></td>
-  <td><b>Deepfolk</b>
-  <ul>
-    <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"
-  <ul>
-    <li>Gain 1.2x Sanity from all sources</li>
-    <li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge or more now cost 1 less knowledge to make a deal with</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><font>+2</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+3 Willpower</li>
-    <li>+2 Intelligence</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td></td><td><b>Deepfolk</b><ul><li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"<ul><li>Gain 1.2x Sanity from all sources</li><li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge or more now cost 1 less knowledge to make a deal with</li></ul></li></ul></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Willpower</li><li>+2 Intelligence</li></ul></td></tr></tbody></table>
 
 **Iron Vow:**
 
   
 
-<table>
-<tbody>
-<tr>
-  <td></td>
-  <td><b>Steady Mind</b>
-  <ul>
-    <li>"<i>Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.</i>"
-  <ul>
-    <li>Either the passive flaws timer in the depths takes longer, or the max count before your head explodes is increased. Currently unknown.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td></td><td><b>Steady Mind</b><ul><li>"<i>Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.</i>"<ul><li>Either the passive flaws timer in the depths takes longer, or the max count before your head explodes is increased. Currently unknown.</li></ul></li></ul></td></tr></tbody></table>
 
 **Lore:**
 
@@ -179,7 +144,7 @@ Ganymede has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindr
 
 -   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breathe and eat. It may also be possible that their mouth is simply the exact same darkness as the rest of their face.
 -   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration, especially due to Vesperians also being inspired by Hollow Knight series.
--   Ganymedes and Vesperians are very connected within the lore and even visually ingame. Vesperians and Ganymedes share: the same [Starkindred](Oath%253A_Starkindred.md) Oath cosmetic, the same eyes and markings (they are underneath the Vesperian Mask though), very similar surnames, and they can even be [related](Family.md) to each other.
+-   Ganymedes and Vesperians are very connected within the lore and even visually ingame. Vesperians and Ganymedes share: the same [Starkindred](Starkindred.md) Oath cosmetic, the same eyes and markings (they are underneath the Vesperian Mask though), very similar surnames, and they can even be [related](Family.md) to each other.
 -   The Ganymede smelt on the equipment tooltip is noted as "Smelt: GANYMEDE\_HAT", this is likely the internal name for the item.
     -   Additionally, when holding a smelted Ganymede hat, it will always take the appearance of the ["Ganymede Hat#2"](#hats) hat, having a slight curl at the end. This will happen regardless of which hat variant it actually is.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's aspect name was changed to Hatskipper.

@@ -30,4 +30,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Royal Etrean Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that changes the critical attack of compatible weapons into the [Twincleave](Attunement-less.md#twincleave) Mantra. Your weapon must be a Sword, and you must be using it one-handed for this to activate.
+**Royal Etrean Ring** is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that changes the critical attack of compatible weapons into the [Twincleave](Twincleave.md) Mantra. Your weapon must be a Sword, and you must be using it one-handed for this to activate.

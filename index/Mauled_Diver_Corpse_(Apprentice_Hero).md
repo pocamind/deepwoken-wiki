@@ -26,9 +26,9 @@ This content is not accessible outside of this gamemode.
 
 **Mauled Diver Corpse** is the lifeless body of **Apprentice Hero**. The player is able to pocket the [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>) left behind by the corpse.
 
-Apprentice Hero was a [Diver](The_Divers.md) participating in the third expedition to the [Second Layer](Second_Layer.md), sent by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to retrieve the [Black Diver](Black_Divers_division.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and the original team.[\[1\]](#cite-note-journal-iii-1)
+Apprentice Hero was a [Diver](The_Divers.md) participating in the third expedition to the [Second Layer](Second_Layer.md), sent by [Klaris](Klaris.md) to retrieve the [Black Diver](Black_Divers_division.md), [Chaser](Chaser.md), and the original team.[\[1\]](#cite-note-journal-iii-1)
 
-In [his Journal](<Diver's_Journal%253A_Apprentice_Hero.md>) he wrote about his last experiences with [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) cutting off any food supply for his expedition team and forbidding them from entering [territory](The_Frontier_Furnace.md) of [the Ignition Union](The_Ignition_Union.md).[\[1\]](#cite-note-journal-iii-1)
+In [his Journal](<Diver's_Journal%253A_Apprentice_Hero.md>) he wrote about his last experiences with [Chaser](Chaser.md) cutting off any food supply for his expedition team and forbidding them from entering [territory](The_Frontier_Furnace.md) of [the Ignition Union](The_Ignition_Union.md).[\[1\]](#cite-note-journal-iii-1)
 
 This resulted in Hero resorting to eating eggs of the [Second Layer](Second_Layer.md)'s parasites. They knew what happens to those, who get infested with parasites, but couldn't help themselves. They wrote their last thoughts before they turned into a [husk of themselves](Diver_Husk.md).[\[1\]](#cite-note-journal-iii-1)
 
@@ -36,30 +36,7 @@ They were later mauled by a Bounder.
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="3">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="3"><i>*A lone body lays abandoned in the wasteland. Deep claw marks are seen on its back, and a journal is attached to the hip.*</i></td>
-</tr>
-<tr>
-  <td>[Read the Journal]</td>
-  <td>[Investigate claw marks]</td>
-  <td>Secrets are best left to the dead</td>
-</tr>
-<tr>
-  <td><i>*You find only one legible entry among the tattered pages, and pocket it to read later.*</i></td>
-  <td><i>*Deep gashes creating elegant lines decorate the body. They're beast-like in nature, with an extreme depth to each cut. A sense of dread washes over you, almost as if you were in the gaze of a predator.*</i></td>
-  <td><i>*You leave the body alone*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Apprentice_Hero.md">Diver's Journal: Apprentice Hero</a></td>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="3">Begin Dialogue</td></tr><tr><td colspan="3"><i>*A lone body lays abandoned in the wasteland. Deep claw marks are seen on its back, and a journal is attached to the hip.*</i></td></tr><tr><td>[Read the Journal]</td><td>[Investigate claw marks]</td><td>Secrets are best left to the dead</td></tr><tr><td><i>*You find only one legible entry among the tattered pages, and pocket it to read later.*</i></td><td><i>*Deep gashes creating elegant lines decorate the body. They're beast-like in nature, with an extreme depth to each cut. A sense of dread washes over you, almost as if you were in the gaze of a predator.*</i></td><td><i>*You leave the body alone*</i></td></tr><tr><td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Apprentice_Hero.md">Diver's Journal: Apprentice Hero</a></td><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

@@ -56,7 +56,7 @@ For the running critical, the user swiftly tears into the target two times befor
 
 Both criticals have a cooldown of **10 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talent](Talent.md) effects.
 
 ## Trivia
 

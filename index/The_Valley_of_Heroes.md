@@ -26,8 +26,8 @@ Valley of Heroes resembles an icy valley littered with frozen asteroids and stat
 
 When the player reaches the center of the valley, one of two events will happen depending on whether it is winter or not:
 
--   If the current season is not [Winter](Seasons.md#winter), then [Aelita](Aelita.md) will spawn and play a game with the player.
--   If it is Winter, white meteorites will start falling from the sky carrying six [Blizzard Knights](Stone_Knight.md#blizzard-knight). Defeating them will spawn a chest with several [Hero Blades](Hero_Blades.md).
+-   If the current season is not [Winter](Winter.md), then [Aelita](Aelita.md) will spawn and play a game with the player.
+-   If it is Winter, white meteorites will start falling from the sky carrying six [Blizzard Knights](Blizzard_Knight.md). Defeating them will spawn a chest with several [Hero Blades](Hero_Blades.md).
     -   In [Vow Of Iron](Vow_of_Iron.md), Blizzard Knights will spawn regardless of the season.
 
 ## Trivia

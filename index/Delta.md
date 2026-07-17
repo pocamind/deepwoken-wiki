@@ -46,111 +46,19 @@ Delta can be found inside the lower-mountain part of the town, specifically behi
 
 **Requirements not met:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">Ah, how's it going, recruit? I'll be on watch here for a bit. Let me know if anything's up.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">Ah, how's it going, recruit? I'll be on watch here for a bit. Let me know if anything's up.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 **Requirements met:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">Hm? Sorry traveller, you aren't quite who I am looking for. I'll be on watch here for a while though, so if something goes wrong, let me know.</td>
-</tr>
-<tr>
-  <td colspan="6">Alpha sent me.</td>
-</tr>
-<tr>
-  <td colspan="3">[Player is not an <a href="Ignition_Delver.md">Ignition Delver</a>]</td>
-  <td colspan="3">[Player is an <a href="Ignition_Delver.md">Ignition Delver</a>]</td>
-</tr>
-<tr>
-  <td colspan="3">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted you to have - our Union's treasured Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td>
-  <td colspan="3">Alpha sent you, eh? That's quite the commendation, recruit. Seems you've proven yourself worthy of an Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td>
-</tr>
-<tr>
-  <td colspan="6">Alright.</td>
-</tr>
-<tr>
-  <td colspan="3">[Player does not have an <a href="Oaths.md">Oath</a>]</td>
-  <td colspan="3">[Player has an <a href="Oaths.md">Oath</a>]</td>
-</tr>
-<tr>
-  <td colspan="3">Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite <i>attuned</i> to you yet. Nothing you can't figure out, I'm sure.</td>
-  <td colspan="3">Hm. Sorry pal, even with Alpha's advocacy it doesn't seem like I can do much for you. You already got some sort of <a href="Glossary.md#vows">Vow</a>, or somethin' like that. He doesn't tell me much.</td>
-</tr>
-<tr>
-  <td colspan="3">[End Dialogue], player obtains <a href="Oath%253A_Arcwarder.md">Arcwarder</a></td>
-  <td colspan="3">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">Hm? Sorry traveller, you aren't quite who I am looking for. I'll be on watch here for a while though, so if something goes wrong, let me know.</td></tr><tr><td colspan="6">Alpha sent me.</td></tr><tr><td colspan="3">[Player is not an <a href="Ignition_Delver.md">Ignition Delver</a>]</td><td colspan="3">[Player is an <a href="Ignition_Delver.md">Ignition Delver</a>]</td></tr><tr><td colspan="3">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted you to have - our Union's treasured Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td><td colspan="3">Alpha sent you, eh? That's quite the commendation, recruit. Seems you've proven yourself worthy of an Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td></tr><tr><td colspan="6">Alright.</td></tr><tr><td colspan="3">[Player does not have an <a href="Oath.md">Oath</a>]</td><td colspan="3">[Player has an <a href="Oath.md">Oath</a>]</td></tr><tr><td colspan="3">Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite <i>attuned</i> to you yet. Nothing you can't figure out, I'm sure.</td><td colspan="3">Hm. Sorry pal, even with Alpha's advocacy it doesn't seem like I can do much for you. You already got some sort of <a href="Glossary.md#vows">Vow</a>, or somethin' like that. He doesn't tell me much.</td></tr><tr><td colspan="3">[End Dialogue], player obtains <a href="Arcwarder.md">Arcwarder</a></td><td colspan="3">[End Dialogue]</td></tr></tbody></table>
 
 **Arcwarder:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">How's the Arc Suit treatin' you? I think the more challenges you overcome with it the stronger your bond with it will get. I should think giving a helping hand to our comrades down below would go a great way!</td>
-</tr>
-<tr>
-  <td colspan="2">[Player's <a href="Oath%253A_Arcwarder.md">Arcwarder</a> is fully progressed]</td>
-  <td colspan="2">[Player has not maxed <a href="Oath%253A_Arcwarder.md">Arcwarder</a> on a different character]</td>
-  <td colspan="2">[Player has maxed <a href="Oath%253A_Arcwarder.md">Arcwarder</a> on a different character]</td>
-</tr>
-<tr>
-  <td colspan="4">[End Dialogue]</td>
-  <td colspan="2">I think I've got this thing figured out. [10 Knowledge]</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td>[Player does not have enough <a href="Knowledge.md">Knowledge</a>]</td>
-  <td>[Player has enough <a href="Knowledge.md">Knowledge</a>]</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td>Uh... Well, your boot's not fitted properly, for starters.</td>
-  <td>Hah! A natural, aren't you? You sure you haven't done this before?</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td>[End Dialogue]</td>
-  <td>[End Dialogue], player loses 10 and receives all <a href="Oath%253A_Arcwarder.md">Arcwarder</a> Talents and Mantras</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">How's the Arc Suit treatin' you? I think the more challenges you overcome with it the stronger your bond with it will get. I should think giving a helping hand to our comrades down below would go a great way!</td></tr><tr><td colspan="2">[Player's <a href="Arcwarder.md">Arcwarder</a> is fully progressed]</td><td colspan="2">[Player has not maxed <a href="Arcwarder.md">Arcwarder</a> on a different character]</td><td colspan="2">[Player has maxed <a href="Arcwarder.md">Arcwarder</a> on a different character]</td></tr><tr><td colspan="4">[End Dialogue]</td><td colspan="2">I think I've got this thing figured out. [10 Knowledge]</td></tr><tr><td colspan="4"></td><td>[Player does not have enough <a href="Knowledge.md">Knowledge</a>]</td><td>[Player has enough <a href="Knowledge.md">Knowledge</a>]</td></tr><tr><td colspan="4"></td><td>Uh... Well, your boot's not fitted properly, for starters.</td><td>Hah! A natural, aren't you? You sure you haven't done this before?</td></tr><tr><td colspan="4"></td><td>[End Dialogue]</td><td>[End Dialogue], player loses 10 and receives all <a href="Arcwarder.md">Arcwarder</a> Talents and Mantras</td></tr></tbody></table>
 
 **Oathbroke Arcwarder:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="6">You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an <i>Oath</i> for a reason, mate.</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an <i>Oath</i> for a reason, mate.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 ## References
 

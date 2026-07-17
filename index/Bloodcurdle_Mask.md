@@ -40,10 +40,10 @@ Variants: [Cowl](Bloodcurdle_Cowl.md)
 
 The Bloodcurdle Mask is an [Equipment](Equipment.md) item under the "Face" category. The Bloodcurdle Mask is a mask that resembles the masks of the Plague Doctors from around the 16th and 17th centuries. Due to the beak-like shape this is probably where the feather part of the name comes from.
 
-The [Blood Plague](Talents.md#blood-plague) Talent allows you to apply stacks of [Blood Plague](Status_Effects.md#blood-plague) on M1s. Upon using your weapon's critical attack, these stacks will all be consumed to grant an amount of [Temporary Health](Status_Effects.md#temporary-health) per stack if your critical attack lands. If your critical attack misses, the stacks will still be consumed.
+The [Blood Plague](Talents.md#blood-plague) Talent allows you to apply stacks of [Blood Plague](Status_Effects.md#blood-plague) on M1s. Upon using your weapon's critical attack, these stacks will all be consumed to grant an amount of [Temporary Health](Temporary_Health.md) per stack if your critical attack lands. If your critical attack misses, the stacks will still be consumed.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain 10 [temporary health](Status_Effects.md#temporary-health) every time you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).
+Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain 10 [temporary health](Temporary_Health.md) every time you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).

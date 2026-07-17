@@ -25,19 +25,19 @@ categories: [Outfits, Expert Outfits, The Knives of Eylis]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Whaler Coat** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+**Whaler Coat** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Ores.md#gold), ten (10) [Iron](Ores.md#iron), and two (2) [Lionfish Scales](Lionfish_Scale.md) to craft.
+This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Gold.md), ten (10) [Iron](Iron.md), and two (2) [Lionfish Scales](Lionfish_Scale.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md).
+This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunement.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md).
 
 ## Trivia
 

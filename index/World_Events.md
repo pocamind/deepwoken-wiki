@@ -47,4 +47,4 @@ Disasters are events that occur globally on the server without a UI pop-up, it's
 -   [Resonance](Resonance.md) progression and a great amount of attribute EXP
 -   [Crowns](Crowns.md)
 -   (Caeranthil's Wake only) [Fang and Coil](Fang_and_Coil.md) Fist style
--   (Cinders of Etris only) [Justicar](<Justicar_(Origin).md>) Origin
+-   (Cinders of Etris only) [Justicar](Justicar.md) Origin

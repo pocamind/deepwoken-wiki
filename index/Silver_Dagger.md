@@ -45,7 +45,7 @@ It is a decent dagger to use from early to mid game. However, it is highly sugge
 
 Equipping the Silver Dagger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Assassin's Strike** doubles the **base damage** of the [Rapid Slashes](Attunement-less.md#rapid-slashes) Mantra.
+**Assassin's Strike** doubles the **base damage** of the [Rapid Slashes](Rapid_Slashes.md) Mantra.
 
 This Talent is quite strong, even when at Silver Dagger's requirements, as a level 2 Rapid Slashes paired with this Talent will deal more damage than a level 5 one without it. Additionally, because this increases the Mantra's base damage, it provides a higher starting value for damage modifiers.
 

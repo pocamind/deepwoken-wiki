@@ -33,37 +33,13 @@ Monk Nako can be found standing inside of [The Golden Rat](The_Golden_Rat.md) be
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The monk looks at you with slight, frosty suspicion, but says nothing.*</i></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The monk looks at you with slight, frosty suspicion, but says nothing.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked once the player has spoken with [High Monk Junsui](High_Monk_Junsui.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*Monk Nako nods at you in acknowledgement.*</i> I only hope you know what you're doing, friend. <i>*Her eyes glance over at the bickering clan leaders as she sighs.*</i> ...I pray to <a href="Glossary.md#mur-of-light">Mur</a> our cause does not fall apart. Good luck out there.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*Monk Nako nods at you in acknowledgement.*</i> I only hope you know what you're doing, friend. <i>*Her eyes glance over at the bickering clan leaders as she sighs.*</i> ...I pray to <a href="Glossary.md#mur-of-light">Mur</a> our cause does not fall apart. Good luck out there.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## References
 

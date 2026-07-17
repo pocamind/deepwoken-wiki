@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Idol of Yun'shul** is a ritual idol and [Relic](Relics.md) connected to the Drowned God [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), that allows its user to redeem one [wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) from anywhere and without the need of a [Resonance](Resonance.md). _(one-time use, re-obtainable)_
+The **Idol of Yun'shul** is a ritual idol and [Relic](Relic.md) connected to the Drowned God [Yun'Shul](<Yun'Shul.md>), that allows its user to redeem one [wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) from anywhere and without the need of a [Resonance](Resonance.md). _(one-time use, re-obtainable)_
 
 Using the Idol of Yun'Shul to escape [The Depths](The_Depths.md) can only be done once per character.
 
@@ -38,10 +38,10 @@ Using the Idol of Yun'Shul to escape [The Depths](The_Depths.md) can only be don
     -   You cannot use an Idol of Yun'Shul to reroll your Resonance until you untarnish yourself.
 -   Can't be used in Combat. Dialogue appears saying "The Idol won't respond to a panicked heart."
 -   Attempting to use it in [Fragments of Self](Fragments_of_Self.md) will display a message saying "The Idol cannot respond to a shattered soul"
--   Cannot be used to remove your Oath unless you're [Oathless](Oath%253A_Oathless.md).
--   Cannot be used to talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) for [Contractor](Oath%253A_Contractor.md) or [Soulbreaker](Oath%253A_Soulbreaker.md).
+-   Cannot be used to remove your Oath unless you're [Oathless](Oathless.md).
+-   Cannot be used to talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) for [Contractor](Contractor.md) or [Soulbreaker](Soulbreaker.md).
 -   It functions without the need of a Resonance, but will not provide you one.
--   Cannot be used to escape the depths in [Layer 2](Second_Layer.md) or in [Fragments of Self](Fragments_of_Self.md).
+-   Cannot be used to escape the depths in [Layer 2](Layer_2.md) or in [Fragments of Self](Fragments_of_Self.md).
 -   This item has an interesting history with [The Ferryman](The_Ferryman.md), being removed and then readded to his loot pool multiple times.
 -   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Yun'Shul's number".[\[1\]](#cite-note-1)
 

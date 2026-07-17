@@ -37,19 +37,19 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 
 The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, low chance afterward). It's part of a trio of weapons from the [Maestro](Maestro_Evengarde_Rest.md)'s arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilizes your fists and legs to attack, with the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the move sets of swords with those of [Fists](Fists.md).
 
-Akin to the [Shattered](Shattered_Katana.md) and [Alloyed Katanas](Katana.md), the [Paired Soul](Talents.md#paired-soul) [Outfit](Outfits.md) Talent increases its damage by 5%.
+Akin to the [Shattered](Shattered_Katana.md) and [Alloyed Katanas](Alloyed_Katana.md), the [Paired Soul](Talents.md#paired-soul) [Outfit](Outfit.md) Talent increases its damage by 5%.
 
 ### In Vow of Iron
 
-In the [Vow of Iron](Vow_of_Iron.md) gamemode, the Purple Cloud is available as a weapon exclusive to the [Drifter](Drifter.md) [Memento](Mementos.md), bearing the same stats as the Pathfinder version. With the Drifting Cloud Talent conditions fulfilled, the player can fully unsheathe the blade. The neon white pattern on the blade in Pathfinder is changed to a saturated magenta in its Vow of Iron variant, and each swing follows up with magenta afterimages.
+In the [Vow of Iron](Vow_of_Iron.md) gamemode, the Purple Cloud is available as a weapon exclusive to the [Drifter](Drifter.md) [Memento](Memento.md), bearing the same stats as the Pathfinder version. With the Drifting Cloud Talent conditions fulfilled, the player can fully unsheathe the blade. The neon white pattern on the blade in Pathfinder is changed to a saturated magenta in its Vow of Iron variant, and each swing follows up with magenta afterimages.
 
 ## Critical
 
-The user leans downward and grabs the blade's handle before dashing forwards, teleporting behind the first enemy hit, dealing **1.2x** scaled damage and high posture damage with the blade. This critical innately applies [Bleed](Status_Effects.md#bleed) damage.
+The user leans downward and grabs the blade's handle before dashing forwards, teleporting behind the first enemy hit, dealing **1.2x** scaled damage and high posture damage with the blade. This critical innately applies [Bleed](Bleed.md) damage.
 
 The critical has a cooldown of **7 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
 
 ## Trivia
 

@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Amara is a [Khan](Khan.md) NPC. She is a Centurion of the [11th Legion](The_Hundred_Legions.md) and stays with her group of scouts composed of [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md) and [Lars](Lars.md).
+Amara is a [Khan](Khan.md) NPC. She is a Centurion of the [11th Legion](11th_Legion.md) and stays with her group of scouts composed of [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md) and [Lars](Lars.md).
 
 She also teaches you the [Legion Kata](Fists.md) fighting style after turning in a Captain's Recc obtained by assisting the 11th Legion in [Aratel Island](Aratel_Island.md) or in [Upper Erisia](Upper_Erisia.md).
 
@@ -41,38 +41,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 
 **First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="8">Good to see you traveler (Low Rep) /comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td>
-</tr>
-<tr>
-  <td colspan="4">What business does the Legion have here?</td>
-  <td colspan="4">What do I need to do to learn your martial arts?</td>
-</tr>
-<tr>
-  <td colspan="4">We're here to collect intel regarding the <a href="Glossary.md#the-central-authority">Authority</a>, they've stopped honoring our treaty. If you find out anything be sure to let us know, I'm sure the empire will reward you accordingly.</td>
-  <td colspan="2">No Captains Recommendation</td>
-  <td colspan="2">Captains Recommendation</td>
-</tr>
-<tr>
-  <td colspan="4">[End Dialogue]</td>
-  <td colspan="2">Help out the Centurions in Aratel, though be careful, not all of them may be friendly. Once you've got their approval, return to me with a recommendation and I'll teach you.</td>
-  <td colspan="2">I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts.<br>
-  Has Galebreathe: You seem very familiar with the way of <a href="Glossary.md#galebreathing">Galebreathing</a> already, you can take this form of martial arts to its prime in no time.<br>
-  No Galebreathe: It doesn't seem you're that familiar with <a href="Glossary.md#galebreathing">Galebreathing</a> at all... You won't be able to reach it's full potential just yet.<br>
-  I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="2">[End Dialogue]</td>
-  <td colspan="2">[End Dialogue], player obtains the Legion Kata fighting style.</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8">Good to see you traveler (Low Rep) /comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td></tr><tr><td colspan="4">What business does the Legion have here?</td><td colspan="4">What do I need to do to learn your martial arts?</td></tr><tr><td colspan="4">We're here to collect intel regarding the <a href="Glossary.md#the-central-authority">Authority</a>, they've stopped honoring our treaty. If you find out anything be sure to let us know, I'm sure the empire will reward you accordingly.</td><td colspan="2">No Captains Recommendation</td><td colspan="2">Captains Recommendation</td></tr><tr><td colspan="4">[End Dialogue]</td><td colspan="2">Help out the Centurions in Aratel, though be careful, not all of them may be friendly. Once you've got their approval, return to me with a recommendation and I'll teach you.</td><td colspan="2">I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts.<br>Has Galebreathe: You seem very familiar with the way of <a href="Glossary.md#galebreathing">Galebreathing</a> already, you can take this form of martial arts to its prime in no time.<br>No Galebreathe: It doesn't seem you're that familiar with <a href="Glossary.md#galebreathing">Galebreathing</a> at all... You won't be able to reach it's full potential just yet.<br>I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td></tr><tr><td colspan="4"></td><td colspan="2">[End Dialogue]</td><td colspan="2">[End Dialogue], player obtains the Legion Kata fighting style.</td></tr></tbody></table>
 
 **Subsequent Encounters:**
 
@@ -80,51 +49,13 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 
 If the player has obtained [Legion Kata](Legion_Kata.md) from her.
 
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="8">Good to see you again comrade (Friend rep) / [First Name] (Ally rep), What brings you back to the camp?</td>
-</tr>
-<tr>
-  <td colspan="8">What business does the Legion have here?</td>
-</tr>
-<tr>
-  <td colspan="8">[See "First Encounter"]</td>
-</tr>
-<tr>
-  <td colspan="8">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8">Good to see you again comrade (Friend rep) / [First Name] (Ally rep), What brings you back to the camp?</td></tr><tr><td colspan="8">What business does the Legion have here?</td></tr><tr><td colspan="8">[See "First Encounter"]</td></tr><tr><td colspan="8">[End Dialogue]</td></tr></tbody></table>
 
 **Legion Kata not Obtained:**
 
 If the player has yet to obtain [Legion Kata](Legion_Kata.md) from her.
 
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="8">Good to see you traveler (Low Rep) / comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td>
-</tr>
-<tr>
-  <td colspan="4">What business does the Legion have here?</td>
-  <td colspan="4">What do I need to do to learn your martial arts?</td>
-</tr>
-<tr>
-  <td colspan="4">[See "First Encounter"]</td>
-  <td>[See "First Encounter"]</td>
-</tr>
-<tr>
-  <td colspan="8">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8">Good to see you traveler (Low Rep) / comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td></tr><tr><td colspan="4">What business does the Legion have here?</td><td colspan="4">What do I need to do to learn your martial arts?</td></tr><tr><td colspan="4">[See "First Encounter"]</td><td>[See "First Encounter"]</td></tr><tr><td colspan="8">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

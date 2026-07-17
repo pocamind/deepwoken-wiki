@@ -31,16 +31,4 @@ Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>I'd rather be on literally any other assignment than this one. I hate that guy.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I'd rather be on literally any other assignment than this one. I hate that guy.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

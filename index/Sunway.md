@@ -26,59 +26,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sunway is a Plackart [Vesperian](Vesperian.md) working for [The Ignition Union](The_Ignition_Union.md) in [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md). Speaking with Sunway reveals that the 'snow' that the player has building up on them are actually parasites, which if left unchecked to build up will kill the host (the player, too). From there, victims turn into [husks](Diver_Husk.md), and finally, [Carbuncles](Carbuncle.md).
+Sunway is a Plackart [Vesperian](Vesperian.md) working for [The Ignition Union](The_Ignition_Union.md) in [The Ethironal Shrine](The_Ethironal_Shrine.md). Speaking with Sunway reveals that the 'snow' that the player has building up on them are actually parasites, which if left unchecked to build up will kill the host (the player, too). From there, victims turn into [husks](Diver_Husk.md), and finally, [Carbuncles](Carbuncle.md).
 
 From speaking with Sunway, it is implied that the Ignition Union created the black and yellow variants of the lanterns as a way to prevent parasite buildup. These are not to be confused with the white and blue variant seen in the [Galewax](Galewax.md) area of the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md).
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Eh? You look, hm... <i>*He tilts his head to the side, puzzled.*</i> Unfamiliar. I'm guessing you're the one who turned on the generator?</td>
-</tr>
-<tr>
-  <td colspan="12">That's me.</td>
-</tr>
-<tr>
-  <td colspan="12">Gods below, you did us a big favor with that. You should go see Alpha, I'm sure he could work out something for you to reward your efforts. In any other case... do you need anything from me?</td>
-</tr>
-<tr>
-  <td colspan="12">What is going on with the snow?</td>
-</tr>
-<tr>
-  <td colspan="12"><i>*The man presses his thumb against the bottom of his mask in thought for a moment.*</i> Well, despite describing it as 'snow', it is anything but that. Have you noticed how tricky it is to brush off yourself? Well, to be short... <i>it's alive</i>. Some form of parasitic organism, it seems.</td>
-</tr>
-<tr>
-  <td colspan="12">Parasitic?</td>
-</tr>
-<tr>
-  <td colspan="12">Aye. Have you, by any chance, seen what happens after a sufficient nest of them inhabits a body long enough? They end the incubation phase, and start taking control of the host. All of them burst out of their snow-like eggs through the host at once, killing the host in the process.</td>
-</tr>
-<tr>
-  <td colspan="6">That sounds quite morbid.</td>
-  <td colspan="6">How do the lamps work, then?</td>
-</tr>
-<tr>
-  <td colspan="6">Once the host's body is dead, the parasites start taking control of the husk left behind. It grows additional limbs, contorting into an awful shape, and the face... <i>ugh</i>. It's not a pretty sight. Those husks slowly become <i>Carbuncles</i> over time, and the host's body is left a mere puppet.</td>
-  <td colspan="6">Ah, that is quite simple! These are no ordinary lamps! <i>*He taps on the side of the lamp's glass proudly.*</i> Think of it as... hm, blasting the eggs with an absurd level of heat enough to shock it, forcing it to let go of your body. The small sting of the lamp is worth it, better than the cruel fate that the parasite hosts go through...</td>
-</tr>
-<tr>
-  <td colspan="6">How do you know so much about this?</td>
-  <td colspan="6">What happens to the host?</td>
-</tr>
-<tr>
-  <td colspan="6"><i>*He looks down to the ground contemplatively for a moment, before returning his gaze to you.*</i> This base used to have a lot more people wandering these halls, friend...</td>
-  <td colspan="6">[See "That sounds quite morbid."]</td>
-</tr>
-<tr>
-  <td colspan="6">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Eh? You look, hm... <i>*He tilts his head to the side, puzzled.*</i> Unfamiliar. I'm guessing you're the one who turned on the generator?</td></tr><tr><td colspan="12">That's me.</td></tr><tr><td colspan="12">Gods below, you did us a big favor with that. You should go see Alpha, I'm sure he could work out something for you to reward your efforts. In any other case... do you need anything from me?</td></tr><tr><td colspan="12">What is going on with the snow?</td></tr><tr><td colspan="12"><i>*The man presses his thumb against the bottom of his mask in thought for a moment.*</i> Well, despite describing it as 'snow', it is anything but that. Have you noticed how tricky it is to brush off yourself? Well, to be short... <i>it's alive</i>. Some form of parasitic organism, it seems.</td></tr><tr><td colspan="12">Parasitic?</td></tr><tr><td colspan="12">Aye. Have you, by any chance, seen what happens after a sufficient nest of them inhabits a body long enough? They end the incubation phase, and start taking control of the host. All of them burst out of their snow-like eggs through the host at once, killing the host in the process.</td></tr><tr><td colspan="6">That sounds quite morbid.</td><td colspan="6">How do the lamps work, then?</td></tr><tr><td colspan="6">Once the host's body is dead, the parasites start taking control of the husk left behind. It grows additional limbs, contorting into an awful shape, and the face... <i>ugh</i>. It's not a pretty sight. Those husks slowly become <i>Carbuncles</i> over time, and the host's body is left a mere puppet.</td><td colspan="6">Ah, that is quite simple! These are no ordinary lamps! <i>*He taps on the side of the lamp's glass proudly.*</i> Think of it as... hm, blasting the eggs with an absurd level of heat enough to shock it, forcing it to let go of your body. The small sting of the lamp is worth it, better than the cruel fate that the parasite hosts go through...</td></tr><tr><td colspan="6">How do you know so much about this?</td><td colspan="6">What happens to the host?</td></tr><tr><td colspan="6"><i>*He looks down to the ground contemplatively for a moment, before returning his gaze to you.*</i> This base used to have a lot more people wandering these halls, friend...</td><td colspan="6">[See "That sounds quite morbid."]</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 

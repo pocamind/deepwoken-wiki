@@ -21,7 +21,7 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 ## Description
 
-**[Oath](Oaths.md): Silentheart** is one of the 17 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for the ability to change weapons during battle and a unique set of attacks integrated into your moveset.
+**[Oath](Oath.md): Silentheart** is one of the 17 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunement.md) as a whole in exchange for the ability to change weapons during battle and a unique set of attacks integrated into your moveset.
 
 “ You feel as though a part of yourself has drifted away, into the vast nothingness of the Song. As sudden as this sensation arrived, a new piece of you took place. This heart beats differently, it drums to the beat of the world, not the Song, ever silent. ”
 
@@ -31,7 +31,7 @@ Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a 
 
 Unfortunately, the Song is so permeating that the Silentheart is only able to sidestep the Mantras that killed them; their newfound abilities too rely on the Song. Had it truly become disconnected, the Silentheart would have become an ordinary human being with little strength or durability, akin to a [Lightkeeper](Lightkeepers.md) and their inability to use the Song.
 
-The Vow is one of malevolent nature however, as The Dreadstar likely gave the user's previous, song-attuned heart to the Drowned God [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>), possibly in an attempt to earn their favour. This is evidenced by The Dreadstar themselves, who state that the user's "Heart has already been claimed" upon [Oathbreak](Oaths.md#oathbreaker---oath-removal).
+The Vow is one of malevolent nature however, as The Dreadstar likely gave the user's previous, song-attuned heart to the Drowned God [Yun'Shul, Keeper of Hearts](<Yun'Shul.md>), possibly in an attempt to earn their favour. This is evidenced by The Dreadstar themselves, who state that the user's "Heart has already been claimed" upon [Oathbreak](Oathbreak.md).
 
 ## Obtainment
 
@@ -55,7 +55,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 This Oath is progressed via the killing of [Attunement Trainers](Attunement_Trainers.md) (excluding [Regek](Regek.md), and [Beatra](Beatra.md) ).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their locations.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their locations.
 
 Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
 
@@ -65,12 +65,12 @@ Note that killing the Spelltrainers **will make you lose Reputation** with some 
 
 Alternatively, if you've fully progressed the Oath previously, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
-_Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as the Dreadstar will not spawn._
+_Silentheart **cannot** be reobtained if you [Oathbreak](Oathbreak.md) it, as the Dreadstar will not spawn._
 
 ## Effects
 
 -   Ability to wield weapons with 25 investment points lower than its weapon stat requirement (this will not work on core attribute requirements).
--   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
+-   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
 -   Attunements are unable to be obtained.
 -   "Elemental" weapons **cannot** be equipped.
 -   You gain glowing red tattoos coursing over your arms and torso.
@@ -88,7 +88,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Reduces execution animation duration by 1.2 seconds (3 seconds down to 1.8).
     -   Comes with the Oath.
 
--   **True Vantage** - [Venting](Combat_Mechanics.md#tempo) makes you invisible briefly, as well as boosting your speed.
+-   **True Vantage** - [Venting](Vent.md) makes you invisible briefly, as well as boosting your speed.
     -   This turns your Vents Red which is purely cosmetic.
         -   If you have used Dyes, instead turns your vents to your tattoo colour.
         -   This does not affect [Brute Strength](Talents.md#brute-strength)'s Vent.
@@ -181,7 +181,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   You will be able to pass [Aelita](Aelita.md)'s game by using any of your Silentheart abilities.
     -   Funnily enough, before an unknown update, Silenthearts were unable to do so.
--   [Vyrelda](Vyrelda,_Master_of_Blood.md) will still appear in the Derelict Highchurch regardless of if you've achieved bloodrend on the account so long as you have the oath
+-   [Vyrelda](Vyrelda.md) will still appear in the Derelict Highchurch regardless of if you've achieved bloodrend on the account so long as you have the oath
 -   To make the Dreadstar appear, interact with one of the Ghosts on the ship and fight them.
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attachment)
 -   **Silent Cascade**, **Rising Star**, and **normal uppercut** all share same keybinds, however there's a clear priority (the further to the left = the more prioritized)
@@ -191,7 +191,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   The lines that adorn a Silentheart's arms and chest are tattoos, not veins.
     -   Despite this, they will lose their coloration should the Silentheart be killed by [Blood Scourge](Blood_Scourge.md), which specifically drains blood.
--   The dialogue with the [Attunement Trainers](Attunement_Trainers.md) changes after obtaining Silentheart, stating "Your Ether ... Just what have you done?" [Vyrelda](Vyrelda,_Master_of_Blood.md) has further unique dialogue, stating "I don't have time for this."
+-   The dialogue with the [Attunement Trainers](Attunement_Trainers.md) changes after obtaining Silentheart, stating "Your Ether ... Just what have you done?" [Vyrelda](Vyrelda.md) has further unique dialogue, stating "I don't have time for this."
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have Talents like [Flaming Flourish](Talents.md#flaming-flourish) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
 -   On top of changing the color of your Silentheart tattoos, [dying](Dye_Packet.md) the Silentheart Oath cosmetic will also recolor your True Vantage Vent, Dread Fighter, and Flow State.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
@@ -202,7 +202,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Regek.md) and complete the Soulblooms quest.
--   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any Oath, having a whopping 12 (Including the [Oath](Oaths.md) itself).
+-   The Silentheart [Oath](Oath.md) has the most [Talents](Talents.md) of any Oath, having a whopping 12 (Including the [Oath](Oath.md) itself).
 
 ## References
 

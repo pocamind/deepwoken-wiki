@@ -22,7 +22,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Hale is a [Celtor](Celtor.md) NPC. They own a small pawn shop containing [Cloth](Cloth.md), [Fiber](Fiber.md), [Flint](Flint.md), [Bullets](Bullets.md), and a [Hunter's Brace](<Hunter's_Brace.md>). They wear the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) outfit, as well as a pair of [Leather Boots](Leather_Boots.md).
+Hale is a [Celtor](Celtor.md) [NPC](NPC.md). They own a small pawn shop containing [Cloth](Cloth.md), [Fiber](Fiber.md), [Flint](Flint.md), [Bullets](Bullets.md), and a [Hunter's Brace](<Hunter's_Brace.md>). They wear the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) outfit, as well as a pair of [Leather Boots](Leather_Boots.md).
 
 ## Location
 
@@ -30,16 +30,4 @@ Hale is located inside of the [Summer Isle](Summer_Isle.md) castle.
 
 ## Dialogue
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Welcome to Hale's! - enjoy the sales!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome to Hale's! - enjoy the sales!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

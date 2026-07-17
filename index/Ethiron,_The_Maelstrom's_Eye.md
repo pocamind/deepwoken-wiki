@@ -18,7 +18,7 @@ _This is the Drowned God. For the boss of Floor 2 of the Second Layer, see [Scio
 
 ## Description
 
-Little is known about Ethiron other than that he[\[2\]](#cite-note-2) is the Drowned God of wind, pressure and sky. [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) describes [New Kyrsa](Second_Layer/New_Kyrsa.md) as like a bedchamber to Ethiron, with the [Kyrsgarde](Kyrsgarde.md) have once worked hard to keep him asleep. Ethiron seemingly emits a fog known as Mist Presence, which eventually brainwashed them and the [Lost Divers](Lost_Diver.md) into worshipping them and devoting themselves to helping the [Scion of Ethiron](Scion_of_Ethiron.md) grow.
+Little is known about Ethiron other than that he[\[2\]](#cite-note-2) is the Drowned God of wind, pressure and sky. [Chaser](Chaser,_Scholar_of_the_Burning_Blood.md) describes [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) as like a bedchamber to Ethiron, with the [Kyrsgarde](Kyrsgarde.md) have once worked hard to keep him asleep. Ethiron seemingly emits a fog known as Mist Presence, which eventually brainwashed them and the [Lost Divers](Lost_Diver.md) into worshipping them and devoting themselves to helping the [Scion of Ethiron](Scion_of_Ethiron.md) grow.
 
 Ethiron is one of the most powerful beings in Deepwoken due to being a Drowned God, the phenomena in the Second Layer showing some of his tremendous powers despite being in a state of "sleep". His powers appear to be total control of the Eternal Gale and any forms of gale, mind control, specially in Floor 2 showing how the Mist Presence produced by Ethiron controls the Kyrsgarde, the Lost Divers and the ability of time manipulation. This is less so an actual ability so much as a consequence of Ethiron's winds, so strong as to push time itself.
 

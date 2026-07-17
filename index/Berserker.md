@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Berserker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+**Berserker** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ## Starting Abilities
 
@@ -50,7 +50,7 @@ This content is not accessible outside of this gamemode.
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
 
 -   Enhanced Flow \[Common Talent\] **100** \- Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
-    -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
+    -   When you land basic attacks during Rush Hour, gain [Temporary Health](Temporary_Health.md) equal to 30% of your weapon's scaled damage.
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
@@ -77,7 +77,7 @@ This content is not accessible outside of this gamemode.
     -   Increases blood bar damage by +35% (additive).
     -   Grants a 30% active speed boost. This counts for Talent procs.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
-    -   If you have the Enhanced Flow Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
+    -   If you have the Enhanced Flow Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Temporary_Health.md), equal to 30% of your weapon's scaled damage.
 
   
 
@@ -131,7 +131,7 @@ _Leap into the air and slam down with vengeance._
 
  | 
 
-Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
+Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Bleed.md)
 
  | 
 
@@ -142,7 +142,7 @@ Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   Has a base damage of 18.5[/26](Caster_Fur_Pauldrons.md) per level with innate [Bleed](Status_Effects.md#bleed) and 2.75 Bloodrend scaling.
+-   Has a base damage of 18.5[/26](Caster_Fur_Pauldrons.md) per level with innate [Bleed](Bleed.md) and 2.75 Bloodrend scaling.
 -   Deals 14 posture damage.
 -   Has a 0.75 second windup with a 10 second cooldown.
 -   Has 9.18x PVE scaling
@@ -195,7 +195,7 @@ N/A
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
--   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
+-   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus.md)) will instantly start the fight, skipping all dialogue.
 
  |
 | 
@@ -276,8 +276,8 @@ Blunt ResistanceBlunt
 -   Shoulder Bash duration scales with your Fortitude attribute.
 -   Can collide with and break parts of the map.
 -   Rush shards have no effect.
--   [Eternal](Mantra_Modifiers.md#regular-modifiers)/[Aeon Logstones](Mantra_Modifiers.md#regular-modifiers) increase duration.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to make it apply knockback.
+-   [Eternal](Eternal_Logstone.md)/[Aeon Logstones](Aeon_Logstone.md) increase duration.
+-   Can be modified with a [Blast Spark](Blast_Spark.md) to make it apply knockback.
 
  |
 | 
@@ -342,7 +342,7 @@ N/A
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
-    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Reinforce.md), which will reduce the Natural Armor loss.
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   The additional 5% PEN scales with your Strength, only granting the full +5% PEN at 90 Strength.
@@ -451,7 +451,7 @@ Slash ResistanceSlash
 
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
--   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish).
+-   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](<Master's_Flourish.md>).
 -   On follow-up, this Mantra deals 10[/15](Caster_Fur_Pauldrons.md) base damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
 -   Deals 10[/15](Caster_Fur_Pauldrons.md) posture damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.

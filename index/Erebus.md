@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Erebus is a debuffing [enchantment](Enchantments.md) that puts one of your opponent's [Mantras](Mantras.md) on cooldown.
+Erebus is a debuffing [enchantment](Enchantment.md) that puts one of your opponent's [Mantras](Mantras.md) on cooldown.
 
 ## Effect
 

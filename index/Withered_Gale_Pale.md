@@ -38,7 +38,7 @@ Variants: [Pale Morning](Pale_Morning.md) · [Gale Pale](Gale_Pale.md)
 
 ## Description
 
-The Withered Gale Pale is an endgame [Galebreathe](Galebreathe.md) Greathammer, obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Pale Morning](Pale_Morning.md) equipped.
+The Withered Gale Pale is an endgame [Galebreathe](Galebreathe.md) Greathammer, obtained by interacting with the [Lost Forge](Lost_Forge.md) with a [Pale Morning](Pale_Morning.md) equipped.
 
 ## Talents
 

@@ -17,10 +17,10 @@ This content is not accessible outside of this gamemode.
 **Aces** are tools you can use when selecting [Talents](Talents.md) and [Mantras](Mantras.md) that allow you to manipulate your card hands by Freezing or Burning cards. You spawn with no Aces, Aces can be obtained from multiple sources:
 
 1.  Obtaining a [Whisper Draw](Whisper_Draw.md) (Mantra Hand) grants 1 Ace each (this is granted when Powering up to a level that has a Whisper Draw, you do not have to use your Whisper Draw to gain the Ace);
-2.  Having the [Scrapper](Boons_and_Flaws.md#scrapper) Boon grants an additional two Aces for every other Whisper Draw (similarly, this is granted when Powering up to a level that has a Whisper Draw);
+2.  Having the [Scrapper](Scrapper.md) Boon grants an additional two Aces for every other Whisper Draw (similarly, this is granted when Powering up to a level that has a Whisper Draw);
 3.  Completing [Elykris](Elykris.md)' quest grants 2 Aces;
-4.  Purchasing the "Starting Aces" [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers) will grant up to 2 additional starting Aces;
-5.  Having the [Ace of Spades](Regalia.md#ace-of-spades) Regalia grants an additional 20 starting Aces.
+4.  Purchasing the "Starting Aces" [Echo Upgrade](Echo_Upgrade.md) will grant up to 2 additional starting Aces;
+5.  Having the [Ace of Spades](Ace_of_Spades.md) Regalia grants an additional 20 starting Aces.
 
 With all sources combined, you can have a maximum of 28 Aces per character, 48 if you have Ace of Spades.
 
@@ -28,7 +28,7 @@ _**NOTE: Currently, upon burning a card, the burn and freeze buttons will disapp
 
 ## Burns
 
-Used to Burn Talents. Once a Talent is Burnt, it cannot reappear ever again. Talents can be burned either from the Talent hand itself or your Talent Deck in the Journal. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally Burnt a card, you can restore it through the [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) for 1 [Knowledge](Knowledge.md), though this does not refund the Ace. Burning whole hand of cards will replace it with a new one.
+Used to Burn Talents. Once a Talent is Burnt, it cannot reappear ever again. Talents can be burned either from the Talent hand itself or your Talent Deck in the Journal. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally Burnt a card, you can restore it through the [Shrine of Conceit](Shrine_of_Conceit.md) for 1 [Knowledge](Knowledge.md), though this does not refund the Ace. Burning whole hand of cards will replace it with a new one.
 
 ## Freezes
 

@@ -17,7 +17,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies, Ambush 
 
 ## Description
 
-A Hive Arbiter is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) hunting players with low reputation with the Hive. In addition to that, [Hive Constructs](Hive_Construct.md) will also spawn along with Hive Arbiters and Hive Adjudicators to eradicate the enemy.
+A Hive Arbiter is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) hunting players with low reputation with the Hive. In addition to that, [Hive Constructs](Golem_Constructs.md) will also spawn along with Hive Arbiters and Hive Adjudicators to eradicate the enemy.
 
 A Hive Arbiters wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, a pair of Dewdrop Earrings and a Dark Gumshoe Longcoat, with their [aspect](Aspects.md) either being [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
 
@@ -103,7 +103,7 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 
 ### Boons
 
--   Reinforcements - Spawns along with 2 [Hive Constructs](Hive_Construct.md), if in [Greathive Aratel](Greathive_Aratel.md) additionally spawn 3 more Adjudicators.
+-   Reinforcements - Spawns along with 2 [Hive Constructs](Golem_Constructs.md), if in [Greathive Aratel](Greathive_Aratel.md) additionally spawn 3 more Adjudicators.
 -   Enchanted - Comes with a random variety of enchant
 
 ### Talents

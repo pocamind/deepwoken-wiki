@@ -31,44 +31,13 @@ Canor is an uncommon [aspect](Aspects.md) considered to have the characteristics
 
   
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Loyalty</b><p><i>Your bond with your allies is strong enough to reduce damage between you.</i></p>
-  <ul>
-    <li>Allies take 35% less damage from you and deal 35% less damage to you. This does not apply to self damage.
-  <ul>
-    <li>The <a href="Talents.md#empath">Give and Take</a> Talent stacks with Canor's Loyalty, lowering damage taken by and dealt to allies by 48%.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><font>+</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+3 Strength</li>
-    <li>+2 Charisma</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Loyalty</b><p><i>Your bond with your allies is strong enough to reduce damage between you.</i></p><ul><li>Allies take 35% less damage from you and deal 35% less damage to you. This does not apply to self damage.<ul><li>The <a href="Talents.md#empath">Give and Take</a> Talent stacks with Canor's Loyalty, lowering damage taken by and dealt to allies by 48%.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Strength</li><li>+2 Charisma</li></ul></td></tr></tbody></table>
 
 **Iron Vow:**
 
   
 
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Lone Wolf</b><p><i>Despite the loyalty of your allies, you recognize that you sometimes need to hunt alone. Deal more damage to targets who are only combat tagged by you.</i></p>
-  <ul>
-    <li>Deal x% more damage to enemies who only have your combat tag.</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Lone Wolf</b><p><i>Despite the loyalty of your allies, you recognize that you sometimes need to hunt alone. Deal more damage to targets who are only combat tagged by you.</i></p><ul><li>Deal x% more damage to enemies who only have your combat tag.</li></ul></td></tr></tbody></table>
 
 **Lore:**
 

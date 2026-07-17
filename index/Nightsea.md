@@ -24,7 +24,7 @@ When night falls and the [Suncross](Suncross.md) retreats into [the Voidfog](Voi
 
 [Celestial Cities](The_Heavens.md#celestial-cities): Cities of [Lightborn](Lightborn.md), which were gifted to them by the [Celestials](Celestial.md) before the Heavensfall.
 
-[Stars](Stars.md): Points of light, floating in the Nightsea.[\[1\]](#cite-note-glossary-1) Currently, only two major stars are known by names: [the Moonseye](Moonseye.md) and [the Suncross](Suncross.md).
+[Stars](Stars.md): Points of light, floating in the Nightsea.[\[1\]](#cite-note-glossary-1) Currently, only two major stars are known by names: [the Moonseye](The_Moonseye.md) and [the Suncross](Suncross.md).
 
 ## References
 

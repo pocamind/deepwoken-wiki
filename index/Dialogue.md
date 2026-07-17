@@ -35,7 +35,7 @@ Talking to Guards
 -   Neutral Reputation - "Welcome, traveler. keep out of trouble for me, won't you?" | "Greetings, traveller. Don't cause any trouble, alright?"
 -   Unfriendly Reputation - "Move along, outsider. I don't have time for you." | _\*The guard glances at you with distaste, but does not block your path.\*_
 
-## [Navaeiconfaction](The_Children_of_Navae.md) Children of Navae
+## [Navaeiconfaction](Children_of_Navae.md) Children of Navae
 
 Talking to guards/camp masters
 
@@ -55,7 +55,7 @@ Talking to Guards
 -   Neutral Reputation - "Stay out of trouble traveller trouble lies everywhere here." | "The empire appreciates your contributions traveller."
 -   Unfriendly Reputation - "The Empire's wrath will come down on you if you stay on this path..." | "..."
 
-## [Authorityiconfaction](The_Central_Authority.md) Central Authority Reputation
+## [Authorityiconfaction](Central_Authority.md) Central Authority Reputation
 
 Talking to Guards
 
@@ -78,7 +78,7 @@ Talking to Nepo
 -   Good Reputation - "_\*The man barely looks up from his book, scowling at you.\*_ "I'm on break and your nose seems to be clean, keep it that way."
 -   Hostile Reputation - "_\*The man barely looks up from his book, scowling at you.\*_ "I'm on break, what do you want?"
 
-## [Hiveiconfaction](The_Hive.md) Hive Reputation
+## [Hiveiconfaction](Hive.md) Hive Reputation
 
 Talking to Guards
 
@@ -92,7 +92,7 @@ Talking to Zirik
 -   Good Reputation - _\*They seem to be pretending to look very interested in some plants.\*_ "Wow! What beautiful grasses these are. Gorgeous. Simply marvellous."
 -   Hostile Reputation - _\*They seem to be sweating bullets as you approach.\*_ WOW! WHAT LOVELY PLANTS THESE ARE!
 
-## [Diversiconfaction](The_Divers.md) Diver Reputation
+## [Diversiconfaction](Divers.md) Diver Reputation
 
 Talking to Guards
 

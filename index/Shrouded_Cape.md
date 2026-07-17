@@ -27,4 +27,4 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 
 ## Description
 
-The Shrouded Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests by [Fishing](Fishing.md) and by beating [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Shrouded Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests by [Fishing](Fishing.md) and by beating [Duke Erisia](Duke_Erisia.md).

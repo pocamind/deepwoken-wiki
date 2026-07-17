@@ -26,7 +26,7 @@ categories: [Equipment, Face, Bandanas]
 
 ## Description
 
-The Warrior's Eyepatch is an [Equipment](Equipment.md) item under the "Face" category. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) and in the [First Layer](First_Layer.md), and [Aelita](Aelita.md).
+The Warrior's Eyepatch is an [Equipment](Equipment.md) item under the "Face" category. It can be obtained in [Starswept Valley](Starswept_Valley.md) and in the [First Layer](First_Layer.md), and [Aelita](Aelita.md).
 
 ## Trivia
 

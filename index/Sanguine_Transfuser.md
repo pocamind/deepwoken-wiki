@@ -38,7 +38,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Sanguine Transfuser is a support-based [Relic](Relics.md) weapon, fused with the [Dormant Splinter](Dormant_Splinter.md). The dagger has a build consisting of spiraling helix of crystallized blood with a pointy edge on the top, constantly emitting mist-like particles of blood. The guard is circular and flares outward with jagged, petal-like projections, resembling a flower. The handle is wrapped in a red leather-like material, and the pommel resembles a crystal.
+The Sanguine Transfuser is a support-based [Relic](Relic.md) weapon, fused with the [Dormant Splinter](Dormant_Splinter.md). The dagger has a build consisting of spiraling helix of crystallized blood with a pointy edge on the top, constantly emitting mist-like particles of blood. The guard is circular and flares outward with jagged, petal-like projections, resembling a flower. The handle is wrapped in a red leather-like material, and the pommel resembles a crystal.
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
@@ -48,7 +48,7 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 ## Critical
 
-The user stabs themselves, applying 40 [Wither](Status_Effects.md#wither) to themselves before spraying their blood onto the ground. Following the stab, anyone who stands on this blood pool, including the user, will be healed for 5 health per tick. This blood pool has a durability of 20 ticks over 6 seconds. The blood pool will dissipate faster if several people are in it since each person causes 1 more durability to be used per tick.
+The user stabs themselves, applying 40 [Wither](Wither.md) to themselves before spraying their blood onto the ground. Following the stab, anyone who stands on this blood pool, including the user, will be healed for 5 health per tick. This blood pool has a durability of 20 ticks over 6 seconds. The blood pool will dissipate faster if several people are in it since each person causes 1 more durability to be used per tick.
 
 If you do not meet Sanguine Transfuser's attribute requirements, the healing per-tick will be reduced to 3.
 

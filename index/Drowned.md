@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Drowned is a stat-buffing equipment [enchantment](Enchantments.md) that bolsters your equipment's stats.
+Drowned is a stat-buffing equipment [enchantment](Enchantment.md) that bolsters your equipment's stats.
 
 ## Effect
 

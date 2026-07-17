@@ -31,7 +31,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the [49th Legion](The_Hundred_Legions.md) and a user of the [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
+**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the [Eastern Luminant's](Map%253AEastern_Luminant.md) [Fort Merit](Fort_Merit.md). He was the commander of the [49th Legion](49th_Legion.md) and a user of the [Blightsurger](Blightsurger.md) [Oath](Oath.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
 
 A Khan with great stature, he's around twice the height of the player. He has darkened yellow eyes and wrinkles across his face, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
@@ -353,274 +353,47 @@ In addition to his unique chest (see below for the table), an additional chest i
 
 Unique Loot Table
 
-<table>
-<tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Titus's_Raiment.md">Titus's Raiment</a></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Warden's Armor Piece</font></a>, <a href="Wrath_Gem.md">Wrath Gem</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td>
-  <ul>
-    <li><b>Unique Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a>, <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a>.</li>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
-    <li><b>Legendary Weapons</b>: N/A</li>
-    <li><b>Alloyed Weapons</b>: N/A</li>
-    <li><b>Generic Weapons</b>:
-  <ol>
-    <li><b>Light Weapons</b>: N/A</li>
-    <li><b>Medium Weapons</b>: N/A</li>
-    <li><b>Heavy Weapons</b>: N/A</li>
-  </ol></li>
-    <li><b>Offhand Weapons</b>: N/A</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
-  <ol>
-    <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>: N/A</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><a href="Titus's_Raiment.md">Titus's Raiment</a></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Warden's Armor Piece</font></a>, <a href="Wrath_Gem.md">Wrath Gem</a></li><li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Unique Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a>, <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a>.</li><li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li><li><b>Legendary Weapons</b>: N/A</li><li><b>Alloyed Weapons</b>: N/A</li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: N/A</li><li><b>Medium Weapons</b>: N/A</li><li><b>Heavy Weapons</b>: N/A</li></ol></li><li><b>Offhand Weapons</b>: N/A</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li><li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li><li><a href="Equipment.md#rings"><b>Rings</b></a>: N/A</li></ul></td></tr></tbody></table>
 
 ## Dialogue
 
 **Cell Closed:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>You lost, sprout?</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You lost, sprout?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Cell Opened:**
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">You lost, sprout? You don't look like you belong here. You better have a <i>real good</i> reason to be in my cell right now.</td>
-</tr>
-<tr>
-  <td>Yep. Very lost. Let me just find my way out.</td>
-  <td>It's a prison break, go free!</td>
-</tr>
-<tr>
-  <td>Close the door on your way out.</td>
-  <td><i>*He grits his teeth.*</i> <b>No. It's not time.</b></td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">You lost, sprout? You don't look like you belong here. You better have a <i>real good</i> reason to be in my cell right now.</td></tr><tr><td>Yep. Very lost. Let me just find my way out.</td><td>It's a prison break, go free!</td></tr><tr><td>Close the door on your way out.</td><td><i>*He grits his teeth.*</i> <b>No. It's not time.</b></td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Intelligence.md).
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*Titus looks you up and down with mild curiosity.*</i> You again? Tsch. What, still lost? Or is there another message from the Hundred Legions? You'd better have <i>real good</i> news for me, sprout.</td>
-</tr>
-<tr>
-  <td>I bear a message from The Hundred Legions. / Uhh... I am to inform you that... there's been another delay. [Lie]</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*Titus looks you up and down with mild curiosity.*</i> You again? Tsch. What, still lost? Or is there another message from the Hundred Legions? You'd better have <i>real good</i> news for me, sprout.</td></tr><tr><td>I bear a message from The Hundred Legions. / Uhh... I am to inform you that... there's been another delay. [Lie]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Fighting Titus:**
 
 **Initiation:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>...They'd delay it <i>again</i>?</td>
-</tr>
-<tr>
-  <td>I lay down my life for them and <b><i>this</i> </b>is how I'm repaid?</td>
-</tr>
-<tr>
-  <td>To <i>hell</i> with these weakminded schemes. I'll carve out my glory <i>my way</i>.</td>
-</tr>
-<tr>
-  <td>It's as I've said from the start...</td>
-</tr>
-<tr>
-  <td>From shore to shore, void to void...</td>
-</tr>
-<tr>
-  <td><b><i>THE WEAK MUST FALL FOR THE STRONG TO PROSPER!</i></b></td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>...They'd delay it <i>again</i>?</td></tr><tr><td>I lay down my life for them and <b><i>this</i> </b>is how I'm repaid?</td></tr><tr><td>To <i>hell</i> with these weakminded schemes. I'll carve out my glory <i>my way</i>.</td></tr><tr><td>It's as I've said from the start...</td></tr><tr><td>From shore to shore, void to void...</td></tr><tr><td><b><i>THE WEAK MUST FALL FOR THE STRONG TO PROSPER!</i></b></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Second Phase:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>You thought <i>that</i> was the end?</td>
-</tr>
-<tr>
-  <td><i>That was mercy.</i></td>
-</tr>
-<tr>
-  <td>And I've had <i>enough with mercy</i>. <b><i>Enough</i> </b>with restraint.</td>
-</tr>
-<tr>
-  <td>LET ME SHOW YOU HOW A WARRIOR <font>EARNS THEIR NAME</font>.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You thought <i>that</i> was the end?</td></tr><tr><td><i>That was mercy.</i></td></tr><tr><td>And I've had <i>enough with mercy</i>. <b><i>Enough</i> </b>with restraint.</td></tr><tr><td>LET ME SHOW YOU HOW A WARRIOR <font>EARNS THEIR NAME</font>.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Ending:**
 
 **Base Dialogue:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="8">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
-</tr>
-<tr>
-  <td colspan="8">How'd you lose to me then?</td>
-</tr>
-<tr>
-  <td colspan="8">You got <i>lucky</i>. Every dog has its day. But enjoy your breath while it lasts. In the end, <i>everything</i> crumbles... even <i><b>you</b></i>.</td>
-</tr>
-<tr>
-  <td colspan="4">How did you earn your name?</td>
-  <td colspan="4">I'll get going now. [Leave dungeon]</td>
-</tr>
-<tr>
-  <td colspan="4">My conquests in the West resound like thunder. But here in the East is where I earned my name. With <font>storm-like might</font> and <font>lightning</font>, I vanquished innumerable foes in <font>star-swept Aratel</font>. For that, I am named '<font><b>Fulminus</b></font>', and '<font><b>Destellus</b></font>'.</td>
-  <td colspan="4">Fine. You've earned your leave. Be on your way.</td>
-</tr>
-<tr>
-  <td colspan="2">You did this all on your own?</td>
-  <td colspan="2">...</td>
-  <td colspan="4">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*He shakes his head bitterly.*</i> Bah. History only remembers the general, and never the soldier. The 49th Legion followed me with unwavering loyalty, into the maw of fire and slaughter. I was a warrior among their ranks, until I became their commander. With their might and my strategy, we were an unstoppable force.</td>
-  <td colspan="2">We're done here. You can tell the Legions I'll play my part for now... Until this plan breaks, just like the rest of them. War has no room for indecision, sprout - you'd do well to remember that.</td>
-</tr>
-<tr>
-  <td>'Were'? What happened to them?</td>
-  <td>...</td>
-  <td>[End Dialogue]</td>
-</tr>
-<tr>
-  <td><i>*He chuckles, with a tinge of sorrow.*</i> Countless fell with valour over the years. So many brothers and comrades lost... The 49th still lives, but I have not heard from them since I got into this sordid place. Perhaps they await me still. <i>*He scowls, briefly.*</i> Or perhaps another commander guides them in my absence.</td>
-  <td>[See first instance]</td>
-</tr>
-<tr>
-  <td>...</td>
-</tr>
-<tr>
-  <td>[See first instance]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td></tr><tr><td colspan="8">How'd you lose to me then?</td></tr><tr><td colspan="8">You got <i>lucky</i>. Every dog has its day. But enjoy your breath while it lasts. In the end, <i>everything</i> crumbles... even <i><b>you</b></i>.</td></tr><tr><td colspan="4">How did you earn your name?</td><td colspan="4">I'll get going now. [Leave dungeon]</td></tr><tr><td colspan="4">My conquests in the West resound like thunder. But here in the East is where I earned my name. With <font>storm-like might</font> and <font>lightning</font>, I vanquished innumerable foes in <font>star-swept Aratel</font>. For that, I am named '<font><b>Fulminus</b></font>', and '<font><b>Destellus</b></font>'.</td><td colspan="4">Fine. You've earned your leave. Be on your way.</td></tr><tr><td colspan="2">You did this all on your own?</td><td colspan="2">...</td><td colspan="4">[End Dialogue]</td></tr><tr><td colspan="2"><i>*He shakes his head bitterly.*</i> Bah. History only remembers the general, and never the soldier. The 49th Legion followed me with unwavering loyalty, into the maw of fire and slaughter. I was a warrior among their ranks, until I became their commander. With their might and my strategy, we were an unstoppable force.</td><td colspan="2">We're done here. You can tell the Legions I'll play my part for now... Until this plan breaks, just like the rest of them. War has no room for indecision, sprout - you'd do well to remember that.</td></tr><tr><td>'Were'? What happened to them?</td><td>...</td><td>[End Dialogue]</td></tr><tr><td><i>*He chuckles, with a tinge of sorrow.*</i> Countless fell with valour over the years. So many brothers and comrades lost... The 49th still lives, but I have not heard from them since I got into this sordid place. Perhaps they await me still. <i>*He scowls, briefly.*</i> Or perhaps another commander guides them in my absence.</td><td>[See first instance]</td></tr><tr><td>...</td></tr><tr><td>[See first instance]</td></tr></tbody></table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player meets the requirements for [Oath: Blightsurger](Oath%253A_Blightsurger.md).
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
-</tr>
-<tr>
-  <td colspan="4">I didn't come here for your respect.</td>
-</tr>
-<tr>
-  <td>Player does not have an Oath</td>
-  <td>Player already has an Oath</td>
-  <td>Player is a Blightsurger</td>
-  <td>Player does not have enough The Hundred Legions Reputation</td>
-</tr>
-<tr>
-  <td>Good. Your valour is noted. Then take what you've earned. My respect isn't a prize - surviving me is. Though... If Brutus is alive... tell him I sent you. Tell him this: A withering storm gathers. <b>Lightning must strike the eye of the tempest.</b></td>
-  <td>In another time, we might have walked the same path. But you've already made your choice. There's no room for divided conviction.</td>
-  <td>It seems we already walk the same path. There's nothing more for me to give you.</td>
-  <td>You? The Legion doesn't even know your name, sprout. Come back when your presence carries <b>weight</b>.</td>
-</tr>
-<tr>
-  <td>What?</td>
-  <td colspan="2">...</td>
-  <td>[End Dialogue]</td>
-</tr>
-<tr>
-  <td>Just deliver the words exactly as I gave them. Brutus will understand. <i>*He snickers.*</i> ...Assuming he doesn't crush your ribs before you finish the sentence.</td>
-  <td colspan="2">[See Base Dialogue]</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td></tr><tr><td colspan="4">I didn't come here for your respect.</td></tr><tr><td>Player does not have an Oath</td><td>Player already has an Oath</td><td>Player is a Blightsurger</td><td>Player does not have enough The Hundred Legions Reputation</td></tr><tr><td>Good. Your valour is noted. Then take what you've earned. My respect isn't a prize - surviving me is. Though... If Brutus is alive... tell him I sent you. Tell him this: A withering storm gathers. <b>Lightning must strike the eye of the tempest.</b></td><td>In another time, we might have walked the same path. But you've already made your choice. There's no room for divided conviction.</td><td>It seems we already walk the same path. There's nothing more for me to give you.</td><td>You? The Legion doesn't even know your name, sprout. Come back when your presence carries <b>weight</b>.</td></tr><tr><td>What?</td><td colspan="2">...</td><td>[End Dialogue]</td></tr><tr><td>Just deliver the words exactly as I gave them. Brutus will understand. <i>*He snickers.*</i> ...Assuming he doesn't crush your ribs before you finish the sentence.</td><td colspan="2">[See Base Dialogue]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 
@@ -630,7 +403,7 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
     -   And of course, "Titus Juventius" is somewhat close to what an actual Latin name could be, signifying "Titus the young (adult)," but the more classically accurate name would be "Titus Iuvenis" or "Juvenis", given that it is an alternate spelling of the former.
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   The placeholder name "Franky Strabes" will appear on Titus' combat tag.
--   The theme that plays during his fight is [Chainbreaker](Deepwoken_OST.md#chainbreaker).
+-   The theme that plays during his fight is [Chainbreaker](Chainbreaker.md).
 -   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.[\[2\]](#cite-note-sres-2)
 -   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md) and doesn't count in the bestiary.
     -   This is because Titus does not actually die nor despawn when you defeat him most of the time. If you do manage to autogrip him however, he will appropriately grant these rewards.

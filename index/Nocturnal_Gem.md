@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Nocturnal Gem** is a black crystalline [Relic](Relics.md) [Deep Gem](Deep_Gems.md) made up of several hexagonal prisms that converge at the bottom, not too dissimilar to the real-world quartz in shape.
+The **Nocturnal Gem** is a black crystalline [Relic](Relic.md) [Deep Gem](Deep_Gem.md) made up of several hexagonal prisms that converge at the bottom, not too dissimilar to the real-world quartz in shape.
 
 This Gem is exclusive to the [Hallowtide](Hallowtide.md) event.
 
@@ -50,4 +50,4 @@ Upon landing a Mantra with a Nocturnal Gem equipped, an eruption of bats will oc
 
 ## Trivia
 
--   Despite being [Relic](Relics.md) rarity, Nocturnal Gems can be banked without a Vow of Safekeeping.
+-   Despite being [Relic](Relic.md) rarity, Nocturnal Gems can be banked without a Vow of Safekeeping.

@@ -21,7 +21,7 @@ categories: [Items, Quest Item, Books]
 
 ## Description
 
-The Legion Intelligence is a quest item obtained from [Caitus](Caitus.md). It is required for the obtainment of the [Imperium Kata](Imperium_Kata.md) fighting style. which can be done through defeating [Titus](Titus_Fulminus_Destellus.md) inside the [Detainment Core](Merit_Detainment_Core.md).
+The Legion Intelligence is a quest item obtained from [Caitus](Caitus.md). It is required for the obtainment of the [Imperium Kata](Imperium_Kata.md) fighting style. which can be done through defeating [Titus](Titus_Fulminus_Destellus.md) inside the [Detainment Core](Detainment_Core.md).
 
 Upon defeating Titus, the Legion Intelligence will become readable.
 

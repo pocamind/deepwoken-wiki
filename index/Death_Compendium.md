@@ -31,20 +31,20 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Be in the range of [Blood Scourge](Blood_Scourge.md) while [Unconscious](Status_Effects.md#unconscious), turning your body into a shriveled husk.
 -   Take lethal damage from a Corrupted [Jar of Souls](Jar_of_Souls.md) that has Resonance Points put into its Auto-Execute stat, instantly killing you and turning you into another soul for its collection.
 -   Enter [The Lord Regent](The_Lord_Regent.md)'s Throne Room without an audience, making him rip you apart with his tendrils. This includes talking to him after completing - or failing - the quest.
--   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) arrival meteor in [The Starswept Valley](The_Starswept_Valley.md).
--   Be skewered by a [Legion Sniper](Legion_Sniper.md)'s [Grand Javelin](Thundercall.md#grand-javelin) while [Unconscious](Status_Effects.md#unconscious) or at low enough health. Having too many people get hit by this will also auto-execute everyone.
+-   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knights.md) arrival meteor in [The Starswept Valley](The_Starswept_Valley.md).
+-   Be skewered by a [Legion Sniper](Legion_Sniper.md)'s [Grand Javelin](Grand_Javelin.md) while [Unconscious](Status_Effects.md#unconscious) or at low enough health. Having too many people get hit by this will also auto-execute everyone.
 -   Explode. (Boat cannons, [Detonation](Detonation.md), etc)
 -   Fail the parry check in the [Trial of One](Trial_of_One.md). Maybe you weren't the One.
 -   Be unable to keep up with [The Ferryman](The_Ferryman.md)'s dance.
 -   Get automatically executed by one of [Duke Erisia](Duke_Ishamon_Erisia.md)'s many [Galebreathe](Galebreathe.md) Mantras.
--   Get sucked clean of your blood by the overgrown magic mosquito that is [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   Get sucked clean of your blood by the overgrown magic mosquito that is [Chaser](Chaser,_Scholar_of_the_Burning_Blood.md).
 -   A death of one thousand cuts during a spar with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Spit on [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and be instantly executed for your disrespectful behavior.
 -   Get dissolved by the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Get dissolved by acid lakes found at [Upper Erisia](Upper_Erisia.md).
 -   Try to threaten [Akira](Akira.md) without being charismatic enough.
--   Get crushed by a [Boulder](Training_Gear.md#attribute-training-gears).
--   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
+-   Get crushed by a [Boulder](Boulder.md).
+-   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Boats.md) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
 -   Be detected by the anti-cheat, typically without actually cheating and without being banned. Also known as "being AA-gunned".
     -   **Note:** You will not be auto-banned for being AA-gunned, but a log of it will be made. If you die too many times via being AA-gunned, you _will_ be at a higher risk for being banned. Have a clipping software open at all times in case this happens.
 -   Mistake the parasite eggs growing on your body for clumps of snow in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). (You will die a few minutes after 5 parasites have accumulated)
@@ -76,7 +76,7 @@ Death Causes listed by the game:
 -   Drowning (Being [Unconscious](Status_Effects.md#unconscious) in the sea for long enough)
 -   The cruel embrace of the sea (Same as above)
 -   The cold embrace of the sea (Same as above)
--   Ṕ̸̕ͅĻ̸̭̤̐Ừ̶͔̔C̷̨̠̑K̴̨̲̓̈ ̶͚͠Ỏ̸̞̈́̀Ù̸̬̣͐͒T̶͖̟̃͋ ̸̝̽Ț̵͔̅̇Ḧ̴̜̞̏Ī̷̧̗͋͂N̴̢̊Ȩ̷̹̊ ̸̜̖̚É̸̢̞̉͝Y̶̛͍Ẽ̵͍̯̃S̴̯̘͒̑;̵̗̑̈ ̶̤̀Ţ̵̡̗̂Ȩ̵̨͙͊Ą̶̘͔̋̑R̶̯̿ ̶̳̐O̷̭͋Ȕ̷̦͍̅̆Ṱ̷͍̩͊͊ ̸̱̓͝T̸͕̽͑H̵͍̀̌I̵͈̟͝Ņ̸̝́Ë̶̝̊͂ ̴̪̰̆̾T̵̢̯̾͋H̴̛̭̤̀R̷̩̋ͅƠ̵̪͛A̸̺͠T̸͔̯͊;̷̮͉̅ ̴̝͆̄L̷̗̣̀Ạ̵̢͍̄͆Ý̵͔͎ ̷̤̄W̸̗͎̉̌Ä̶̧̳̒Ŝ̷̨̡̐̂Ț̸͛E̴͇̲͠ ̸̲̀Ṫ̵͔̂Ó̸̩ ̶̖̈Ą̶̿L̷͔̓͠L̴̘̕ ̶̱͈̅Ẁ̵̝̙͋H̶͇́̀Ḭ̷͒͊Ç̵͎̖͋̉H̸̭̃͜ ̷̘͔̒̍Ĭ̴̭̿͠S̸̗̐ͅ ̵̢͕̀S̷̺̘̈́A̶̟͛̎C̷̭̞̀͒R̶̯̩̈́̓Ê̸̘̏D̵̺̺͝;̷̢̊̀ ̶̬̄̿T̵͎̀H̶͔̭̍͑E̶̜̹̕͝ ̴̞͊Ṁ̸̰͘͜Ȏ̶̳̫̌̚O̸̲͘͠Ņ̶̲͠S̵̡̬̒E̷͍͇͝Y̷̢͖̅Ḙ̵̡̈̚ ̵̮̰́̚C̶̹͑Õ̶͈͎̐̚Ņ̷̱͘V̶͍̗͗E̶̗̍Ř̴͎̲͐Ģ̴̝̪̄͗E̵̼̊̊S̵͍̔͘ ̶̰̱̎W̸̤̾Í̵̗̙̆Ţ̸̘̐Ḩ̴̼̭͋͠ ̴̞̤̌͘T̶̬͑̽Ḩ̵͙͓̃A̶̢̽̐T̴̡̲̾̚ ̶̥́͑B̵͚̂͜Ë̴̲̦Ļ̸̫̮͐Ǫ̶̱͔̀W̶̢̝̓̋. ([Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), [Misérables](Misérables.md) and [Insanity](Insanity.md)\-related deaths)
+-   Ṕ̸̕ͅĻ̸̭̤̐Ừ̶͔̔C̷̨̠̑K̴̨̲̓̈ ̶͚͠Ỏ̸̞̈́̀Ù̸̬̣͐͒T̶͖̟̃͋ ̸̝̽Ț̵͔̅̇Ḧ̴̜̞̏Ī̷̧̗͋͂N̴̢̊Ȩ̷̹̊ ̸̜̖̚É̸̢̞̉͝Y̶̛͍Ẽ̵͍̯̃S̴̯̘͒̑;̵̗̑̈ ̶̤̀Ţ̵̡̗̂Ȩ̵̨͙͊Ą̶̘͔̋̑R̶̯̿ ̶̳̐O̷̭͋Ȕ̷̦͍̅̆Ṱ̷͍̩͊͊ ̸̱̓͝T̸͕̽͑H̵͍̀̌I̵͈̟͝Ņ̸̝́Ë̶̝̊͂ ̴̪̰̆̾T̵̢̯̾͋H̴̛̭̤̀R̷̩̋ͅƠ̵̪͛A̸̺͠T̸͔̯͊;̷̮͉̅ ̴̝͆̄L̷̗̣̀Ạ̵̢͍̄͆Ý̵͔͎ ̷̤̄W̸̗͎̉̌Ä̶̧̳̒Ŝ̷̨̡̐̂Ț̸͛E̴͇̲͠ ̸̲̀Ṫ̵͔̂Ó̸̩ ̶̖̈Ą̶̿L̷͔̓͠L̴̘̕ ̶̱͈̅Ẁ̵̝̙͋H̶͇́̀Ḭ̷͒͊Ç̵͎̖͋̉H̸̭̃͜ ̷̘͔̒̍Ĭ̴̭̿͠S̸̗̐ͅ ̵̢͕̀S̷̺̘̈́A̶̟͛̎C̷̭̞̀͒R̶̯̩̈́̓Ê̸̘̏D̵̺̺͝;̷̢̊̀ ̶̬̄̿T̵͎̀H̶͔̭̍͑E̶̜̹̕͝ ̴̞͊Ṁ̸̰͘͜Ȏ̶̳̫̌̚O̸̲͘͠Ņ̶̲͠S̵̡̬̒E̷͍͇͝Y̷̢͖̅Ḙ̵̡̈̚ ̵̮̰́̚C̶̹͑Õ̶͈͎̐̚Ņ̷̱͘V̶͍̗͗E̶̗̍Ř̴͎̲͐Ģ̴̝̪̄͗E̵̼̊̊S̵͍̔͘ ̶̰̱̎W̸̤̾Í̵̗̙̆Ţ̸̘̐Ḩ̴̼̭͋͠ ̴̞̤̌͘T̶̬͑̽Ḩ̵͙͓̃A̶̢̽̐T̴̡̲̾̚ ̶̥́͑B̵͚̂͜Ë̴̲̦Ļ̸̫̮͐Ǫ̶̱͔̀W̶̢̝̓̋. ([Yun'Shul](<Yun'Shul.md>), [Misérables](Misérables.md) and [Insanity](Insanity.md)\-related deaths)
 -   Your own mind (Direct death from [Insanity](Insanity.md) without head explosion)
 -   Something Twisted (Being executed by a [Mindless Servant](Mindless_Servant.md))
 -   Your own Foolishness (Failing to pass the Charisma check on [Akira](Akira.md))

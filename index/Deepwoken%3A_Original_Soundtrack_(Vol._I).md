@@ -24,7 +24,7 @@ _**Deepwoken: Original Soundtrack (Vol. I)**_ is an original soundtrack CD set. 
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| 1 | To Sleep, Dreaming (Contour 1) | 1:40 | [Celestial Telescope](Greathive_Aratel.md#observatory-2) viewing [Constellia](Constellia.md), Title Screen, and using a [Moonseye Tome](Moonseye_Tome.md) |  |
+| 1 | To Sleep, Dreaming (Contour 1) | 1:40 | [Celestial Telescope](Celestial_Telescope.md) viewing [Constellia](Constellia.md), Title Screen, and using a [Moonseye Tome](Moonseye_Tome.md) |  |
 | 2 | To Sleep, Dreaming (Contour 2) | 1:40 | Title Screen loading into a Luminant or The Depths |  |
 | 3 | To Sleep, Dreaming (Contour 3) | 1:41 | Title Screen loading into a Luminant or The Depths |  |
 | 4 | To Sleep, Dreaming (Contour 4) | 1:44 | Title Screen when Power 20 |  |
@@ -51,7 +51,7 @@ _**Deepwoken: Original Soundtrack (Vol. I)**_ is an original soundtrack CD set. 
 | 20 | In Starstruck Sands | 2:38 | [The Starswept Valley](The_Starswept_Valley.md) |  |
 | 21 | Pyres Of Glass | 2:32 | [The Starswept Valley](The_Starswept_Valley.md) (Combat) |  |
 | 22 | Of Chitin, Kith And Kin | 2:25 | [Greathive Approach](Greathive_Approach.md) and [Greathive Aratel](Greathive_Aratel.md) |  |
-| 23 | A Symphony Of Strife | 2:21 | [Greathive Approach](Greathive_Approach.md) and [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>) |  |
+| 23 | A Symphony Of Strife | 2:21 | [Greathive Approach](Greathive_Approach.md) and [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<Primadon's_Hunting_Grounds.md>) |  |
 | 24 | What Mends Shall Fray | 2:30 | [Voidsea](Voidsea.md) |  |
 | 25 | A Sarabande Of Thunder | 2:08 | [The Ferryman](The_Ferryman.md) (Phase 1) |  |
 | 26 | Dance, If You Can! | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) |  |

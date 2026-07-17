@@ -8,9 +8,9 @@ categories: [Treasures]
 
 # Treasures
 
-_Not to be confused with [Deep Gems](Deep_Gems.md) or [Ores](Ores.md)._
+_Not to be confused with [Deep Gems](Deep_Gems.md) or [Ores](Ore.md)._
 
-**Treasures** are a category of item commonly found in [Chests](Chests_&_Sacks.md). They can be sold to the [Antiquarian](Antiquarian.md) or a [Mantra Collector](Mantra_Collector.md) for various amounts of [Notes](Notes.md).
+**Treasures** are a category of item commonly found in [Chests](Chests.md). They can be sold to the [Antiquarian](Antiquarian.md) or a [Mantra Collector](Mantra_Collector.md) for various amounts of [Notes](Notes.md).
 
 Obtaining Treasures from chests will automatically convert them into [Trinkets](Trinkets.md), a currency that can be exchanged for [Notes](Notes.md) at an [Antiquarian](Antiquarian.md).
 
@@ -45,7 +45,7 @@ Obtaining Treasures from chests will automatically convert them into [Trinkets](
 ## Trivia
 
 -   Previously gems and their drop rates represented real world values.[\[1\]](#cite-note-1)
--   Along with [Gold Rings](Gold_Ring.md), Gold Bars can be melted down into [Gold](Ores.md#gold) at a campfire. Strangely, the [Gold Plate](Gold_Plate.md) cannot melted down into raw Gold.
+-   Along with [Gold Rings](Gold_Ring.md), Gold Bars can be melted down into [Gold](Gold.md) at a campfire. Strangely, the [Gold Plate](Gold_Plate.md) cannot melted down into raw Gold.
     -   The melting point of gold is 1,064 °C, which means campfire must be ludicrously hot.
 -   The Emerald's description is a reference to Chaos Emeralds from the _Sonic_ franchise. While the former reference is more likely, Emeralds were also used in _Rogue Lineage_ to unlock the Faceless class, which is Chaotic Aligned.
 -   The Diamond's description refers to the term "blood diamond", which is a diamond mined during times of conflict to fund the conflict.

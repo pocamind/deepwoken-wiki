@@ -18,15 +18,15 @@ This content is not accessible outside of this gamemode.
 
 _**If you're looking on how to get rid of Voidwalkers - visit the [Bounty Hunting](Bounty_Hunting.md#tips-and-advice) page instead.**_
 
-_Voidwalker_ is a PvP-focused [Origin](Origins.md), greatly favoring, but not mandating, [Bounty Hunting](Bounty_Hunting.md) for experience gain. Voidwalker is the counterpart of [Justicar](<Justicar_(Origin).md>).
+_Voidwalker_ is a PvP-focused [Origin](Origin.md), greatly favoring, but not mandating, [Bounty Hunting](Bounty_Hunting.md) for experience gain. Voidwalker is the counterpart of [Justicar](Justicar.md).
 
 ## Description
 
-Voidwalkers are those who are under [Eylis](Eylis,_the_Punished_Dreamer.md)'s contract. [The Voidmother](The_Voidmother.md), who is Eylis's supposed "friend" said that the contract strips away all freedom that every Voidwalkers once had. Voidwalkers are affiliated with [The Knives of Eylis](The_Knives_of_Eylis.md).
+Voidwalkers are those who are under [Eylis](Eylis.md)'s contract. [The Voidmother](The_Voidmother.md), who is Eylis's supposed "friend" said that the contract strips away all freedom that every Voidwalkers once had. Voidwalkers are affiliated with [The Knives of Eylis](The_Knives_of_Eylis.md).
 
 ## Obtainment
 
-To obtain the Voidwalker [Origin](Origins.md), the player must do all of the following:
+To obtain the Voidwalker [Origin](Origin.md), the player must do all of the following:
 
 1.  Have 5 player executions on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of an execution, which equates to 10 victories).
 2.  Talk to [Eiris](Eiris.md) on the [Knives of Eylis vs Etrea sea event](Random_Encounters.md#fights-between-factions).
@@ -45,7 +45,7 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 
 -   _In-game description_: You progress much faster from completing bounties, and less from events. Gain access to the [Voidheart](Voidheart.md), and factions have a negative outlook on you.
 -   You get increased EXP gain from bounties and decreased EXP gain from everything else.
--   Your starting [reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md), [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md) will be set to "Enemies", which allows other Voidwalkers to take your bounties until you gain neutral reputation with [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md).
+-   Your starting [reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md), [The Kingdom of Etrea](The_Kingdom_of_Etrea.md) and [The Hive](The_Hive.md) will be set to "Enemies", which allows other Voidwalkers to take your bounties until you gain neutral reputation with [The Kingdom of Etrea](The_Kingdom_of_Etrea.md) and [The Hive](The_Hive.md).
 
 ### Voideye
 
@@ -67,7 +67,7 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 
 ### Pros
 
--   This [Origin](Origins.md) is very PvP centered. If you like this kind of content, this [Origin](Origins.md) will appeal to you.
+-   This [Origin](Origin.md) is very PvP centered. If you like this kind of content, this [Origin](Origin.md) will appeal to you.
 -   The Voideye can act similar to a guild base, being a location to stock up on necessities or sell items at the [antiquarian](Antiquarian.md). Additionally, unlike the [Chime of Dwelling](Chime_of_Dwelling.md), the Voideye can be accessed from anywhere.
 -   As long as you complete your bounty, you can use the bounty teleport as a way to "fast travel" around the map, skipping the time spent travelling. However, because you must find a bounty that's around your level, this may not always be a choice for you.
 -   You start with [Whaler Initiate](Whaler_Initiate.md), which has decent stats for a starter armor.
@@ -84,15 +84,15 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 
 Your starting faction [reputation](Reputation.md) is:
 
--   **Friend** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) and [Lost Celtor](Lost_Celtor.md)
--   **Enemy** of [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
--   **Neutral** with all other factions [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Authorityiconfaction](The_Central_Authority.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
--   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
+-   **Friend** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md) and [Lost Celtor](Lost_Celtor.md)
+-   **Enemy** of [The Kingdom of Etrea](The_Kingdom_of_Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](Hive.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md)
+-   **Neutral** with all other factions [Diversiconfaction](Divers.md) [Summericonfaction](The_Summer_Company.md) [Authorityiconfaction](Central_Authority.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
+-   _Note: Your chosen [Aspect](Aspect.md) may affect your starting reputation._
 
 ## Trivia
 
 -   Both Voidwalker and [Deepbound](Deepbound.md) were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
--   Having the [Two-Faced](Regalia.md#two-faced) Regalia allows you to purchase the other [Origin](Origins.md)'s exclusive tools from [Rook Rethige](Rook_Rethige.md) for 20. These include: Deepbound's [Call of the Deep](Deepbound.md#call-of-the-deep), Authority Ensign's [Horn of Authority](Authority_Ensign.md#horn-of-authority), and Ignition Delver's [Union Pager](Ignition_Delver.md).
+-   Having the [Two-Faced](Two-Faced.md) Regalia allows you to purchase the other [Origin](Origin.md)'s exclusive tools from [Rook Rethige](Rook_Rethige.md) for 20. These include: Deepbound's [Call of the Deep](Call_of_the_Deep.md), Authority Ensign's [Horn of Authority](Horn_of_Authority.md), and Ignition Delver's [Union Pager](Union_Pager.md).
     -   After purchasing one of the tools, the shop will no longer be accessible to you, removing your ability to get another.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you.
 

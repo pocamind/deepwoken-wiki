@@ -28,6 +28,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Deranged Treasure is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives damage reduction that scales on your [Insanity](Insanity.md).
+Deranged Treasure is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that gives damage reduction that scales on your [Insanity](Insanity.md).
 
-This ring can be found in [Lost Celtor](Lost_Celtor.md) in some corals, near where [Nostor](Nostor,_Master_of_Shadow.md) can be found in the base game.
+This ring can be found in [Lost Celtor](Lost_Celtor.md) in some corals, near where [Nostor](Nostor.md) can be found in the base game.

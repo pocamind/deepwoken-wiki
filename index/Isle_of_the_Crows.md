@@ -19,7 +19,7 @@ The cawwing of crows seems to beckon you inland.
 
 ## Description
 
-Isle of the Crows was an island with a number of [Authority enemies](<Authority_Enemy_(Test).md>). When all of them were killed, a boss (simply known as [the Authority Captain](<Authority_Captain_(Test).md>)) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money.[\[1\]](#cite-note-direct-1) An NPC known as [Commander Rayner](Commander_Rayner.md) that could be found in [Fort Merit](Fort_Merit.md) still mentioned it post-release, but he was removed in a shadow update.
+Isle of the Crows was an island with a number of [Authority enemies](<Authority_Enemy_(Test).md>). When all of them were killed, a boss (simply known as [the Authority Captain](<Authority_Captain_(Test).md>)) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money.[\[1\]](#cite-note-direct-1) An [NPC](NPCs.md) known as [Commander Rayner](Commander_Rayner.md) that could be found in [Fort Merit](Fort_Merit.md) still mentioned it post-release, but he was removed in a shadow update.
 
 ## References
 

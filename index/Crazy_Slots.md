@@ -53,94 +53,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 
 ### Soulwrought Weapon Stats
 
-<table><caption><strong>Crazy Slots</strong></caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Base Damage</th>
-  <th>Scaling</th>
-  <th>Penetration</th>
-  <th>Chip Damage</th>
-  <th>Posture Damage</th>
-  <th>Range</th>
-  <th>Swing Speed</th>
-  <th>Endlag</th>
-  <th>Scaled Damage</th>
-</tr>
-<tr>
-  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
-  <td>19</td>
-  <td>LHT: 9</td>
-  <td>-</td>
-  <td>-</td>
-  <td>4</td>
-  <td>6</td>
-  <td>1.3x</td>
-  <td>-</td>
-  <td>31.8</td>
-</tr>
-<tr>
-  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
-  <td>16</td>
-  <td>LHT: 16</td>
-  <td>-</td>
-  <td>-</td>
-  <td>3</td>
-  <td>12</td>
-  <td>1.33x</td>
-  <td>-</td>
-  <td>35.2</td>
-</tr>
-<tr>
-  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
-  <td>25</td>
-  <td>MED: 7</td>
-  <td>-</td>
-  <td>-</td>
-  <td>5.5</td>
-  <td>8.5</td>
-  <td>1.06x</td>
-  <td>-</td>
-  <td>38.1</td>
-</tr>
-<tr>
-  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
-  <td>22.5</td>
-  <td>MED: 9</td>
-  <td>-</td>
-  <td>-</td>
-  <td>5</td>
-  <td>10</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>37.7</td>
-</tr>
-<tr>
-  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
-  <td>26</td>
-  <td>HVY: 13</td>
-  <td>-</td>
-  <td>-</td>
-  <td>8</td>
-  <td>10</td>
-  <td>0.8x</td>
-  <td>0.15s</td>
-  <td>51.4</td>
-</tr>
-<tr>
-  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
-  <td>28</td>
-  <td>HVY: 12</td>
-  <td>-</td>
-  <td>-</td>
-  <td>8.5</td>
-  <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
-</tr>
-</tbody>
-</table>
+<table><caption><strong>Crazy Slots</strong></caption><tbody><tr><th>Name</th><th>Base Damage</th><th>Scaling</th><th>Penetration</th><th>Chip Damage</th><th>Posture Damage</th><th>Range</th><th>Swing Speed</th><th>Endlag</th><th>Scaled Damage</th></tr><tr><td><b><a href="Soulwrought_Dagger.md">Soulwrought Dagger</a></b></td><td>19</td><td>LHT: 9</td><td>-</td><td>-</td><td>4</td><td>6</td><td>1.3x</td><td>-</td><td>31.8</td></tr><tr><td><b><a href="Soulwrought_Gun.md">Soulwrought Gun</a></b></td><td>16</td><td>LHT: 16</td><td>-</td><td>-</td><td>3</td><td>12</td><td>1.33x</td><td>-</td><td>35.2</td></tr><tr><td><b><a href="Soulwrought_Longsword.md">Soulwrought Longsword</a></b></td><td>25</td><td>MED: 7</td><td>-</td><td>-</td><td>5.5</td><td>8.5</td><td>1.06x</td><td>-</td><td>38.1</td></tr><tr><td><b><a href="Soulwrought_Spear.md">Soulwrought Spear</a></b></td><td>22.5</td><td>MED: 9</td><td>-</td><td>-</td><td>5</td><td>10</td><td>0.93x</td><td>-</td><td>37.7</td></tr><tr><td><b><a href="Soulwrought_Axe.md">Soulwrought Axe</a></b></td><td>26</td><td>HVY: 13</td><td>-</td><td>-</td><td>8</td><td>10</td><td>0.8x</td><td>0.15s</td><td>51.4</td></tr><tr><td><b><a href="Soulwrought_Greatsword.md">Soulwrought Greatsword</a></b></td><td>28</td><td>HVY: 12</td><td>-</td><td>-</td><td>8.5</td><td>9.2</td><td>0.84x</td><td>0.25s</td><td>53.2</td></tr></tbody></table>
 
 ## Special Abilities
 
@@ -150,10 +63,10 @@ The special abilities deal physical damage and do not have any scaling.
 
 ### Soulwrought Dagger
 
-The user winds up before teleporting to the target with a flurry of Soulwrought slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
+The user winds up before teleporting to the target with a flurry of Soulwrought slashes. Functions similarly to the "[Rapid Slashes](Rapid_Slashes.md)" Mantra.
 
 -   Deals 22.5 damage on the initial slash followed by 2.7 damage over a flurry of slashes.
--   Despite the bleed effects, it does not apply [Bleed](Status_Effects.md#bleed).
+-   Despite the bleed effects, it does not apply [Bleed](Bleed.md).
 
 ### Soulwrought Gun
 
@@ -163,7 +76,7 @@ The user flips upside down and rapidly shoots at the target six times, finishing
 
 ### Soulwrought Longsword
 
-The user strikes forward with their elbow, followed by a [red telegraph](Combat_Mechanics.md#red) leading into three Soulwrought slashes, the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+The user strikes forward with their elbow, followed by a [red telegraph](Telegraphed_Attacks.md#red) leading into three Soulwrought slashes, the final slash ragdolling. Functions similarly to the "[Dark Blade](Dark_Blade.md)" Mantra.
 
 -   Deals 37.5 damage per hit.
 
@@ -205,4 +118,4 @@ The user gains a brief speed boost before leaping into the air and crashing down
 -   The Soulwrought weapons can actually be wielded without the Resonance, though whether or not there is a reason for this has yet to be explained.
     -   The [Golden Warriors](Golden_Warrior.md) found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Soulwrought Greataxes.
     -   The [Sworn Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Soulwrought Spears.
-    -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterparts, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Soulwrought Greatsword or Soulwrought Greataxe.
+    -   The [Immortal Guardians](Immortal_Guardians.md), and by extension their Nightmare counterparts, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Soulwrought Greatsword or Soulwrought Greataxe.

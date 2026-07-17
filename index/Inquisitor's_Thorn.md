@@ -47,12 +47,12 @@ Equipping the Inquisitor's Thorn grants its unique [weapon Talent](Talents.md#we
 
 [**Expeditionary Evasiveness**](Talents.md#expeditionary-evasiveness) increases the Mantra level of your [Agility Mantras](Attunement-less.md#agility-mantras) by +3. This bypasses the Level 5 cap. This is not displayed on the Mantra tooltip.
 
-This Talent is especially strong with [Adrenaline Surge](Attunement-less.md#adrenaline-surge), as its duration and cooldown scale with the Mantra's level. At level 8, this Mantra has a 24 second duration with a 25 second cooldown, meaning there's only 1 second of downtime.
+This Talent is especially strong with [Adrenaline Surge](Adrenaline_Surge.md), as its duration and cooldown scale with the Mantra's level. At level 8, this Mantra has a 24 second duration with a 25 second cooldown, meaning there's only 1 second of downtime.
 
-[Jetstriker](Oath%253A_Jetstriker.md) Mantras are unaffected.
+[Jetstriker](Jetstriker.md) Mantras are unaffected.
 
 ## Critical
 
 Inquisitor's Thorn uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.

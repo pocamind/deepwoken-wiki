@@ -38,4 +38,4 @@ The Oni Beads are a [Vow of Iron](Vow_of_Iron.md)\-exclusive equipment under the
 
 -   It's likely this item was released prematurely, due to its name being formatted like a placeholder or internal name; sharing the exact same drop sources as [Monastery Beads](Monastery_Beads.md); and having no stats, talents, or description.
     -   In the June 16th 2026 update, its name was revealed to be a typo and fixed.
--   It is related to the upcoming [Wandering Demon](Wandering_Demon.md) [Memento](Mementos.md).
+-   It is related to the upcoming [Wandering Demon](Wandering_Demon.md) [Memento](Memento.md).

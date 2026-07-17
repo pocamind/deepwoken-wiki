@@ -16,11 +16,11 @@ Variants: [Saramaed Summit](Saramaed_Summit.md)
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
-Saramaed Summit in [Vow of Iron](Vow_of_Iron.md) is a [Voidzone](Voidzones.md) found in [Miner's Landing (Vow of Iron)](<Miner's_Landing_(Vow_of_Iron).md>).
+Saramaed Summit in [Vow of Iron](Vow_of_Iron.md) is a [Voidzone](Voidzone.md) found in [Miner's Landing (Vow of Iron)](<Miner's_Landing_(Vow_of_Iron).md>).
 
 ## Overview
 
-In [Vow of Iron](Vow_of_Iron.md), Saramed Summit is the crater of an active volcano. [Miner's Landing](<Miner's_Landing.md>) is still under construction, with only a few [Ignition Union](The_Ignition_Union.md) settlements scattered across the island.
+In [Vow of Iron](Vow_of_Iron.md), Saramed Summit is the crater of an active volcano. [Miner's Landing](<Miner's_Landing.md>) is still under construction, with only a few [Ignition Union](Ignition_Union.md) settlements scattered across the island.
 
 Unlike it's [pathfinder counterpart](Saramaed_Summit.md), Saramaed Summit in Vow of Iron is a big open area with minimal human intervention, besides a few construction cranes.
 

@@ -12,7 +12,7 @@ This page summarizes the changes made with the Verse 2 update. If you are lookin
 
 ## Overview
 
-Verse 2 was a massive update in Deepwoken that was released on December 23, 2022. This update included [Map](Maps.md) changes, [Combat Mechanics,](Combat_Mechanics.md) progression reworks, balance changes, more islands, a [new dungeon](Second_Layer.md), new [Weapons](Weapons.md) and [Equipment](Equipment.md), [Lore](Lore.md), [Books](Books.md), [Songs](Deepwoken_OST.md), a new [Luminant](Luminants.md) and new [Talents](Talents.md).
+Verse 2 was a massive update in Deepwoken that was released on December 23, 2022. This update included [Map](Maps.md) changes, [Combat Mechanics,](Combat_Mechanics.md) progression reworks, balance changes, more islands, a [new dungeon](Second_Layer.md), new [Weapons](Weapons.md) and [Equipment](Armor.md), [Lore](Lore.md), [Books](Books.md), [Songs](OST.md), a new [Luminant](Luminants.md) and new [Talents](Talents.md).
 
 ## Luminants
 

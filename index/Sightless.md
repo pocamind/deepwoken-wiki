@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Sightless** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento starts with [Murmur: Rhythm](Murmur%253A_Rhythm.md), a recolored [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), and the [Blinded](Talents.md#blinded) Talent.
+**Sightless** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento starts with [Murmur: Rhythm](Murmur%253A_Rhythm.md), a recolored [Arc Beam](Arc_Beam.md), and the [Blinded](Talents.md#blinded) Talent.
 
 Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) with this Memento will unlock the [Flashing Thunder](Flashing_Thunder.md) Memento.
 
@@ -33,7 +33,7 @@ Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) with this Memento will
 
 -   Blinded: \[Equipment Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances.
-    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
+    -   Grants immunity to the [Flame Blind](Flame_Blind.md) and [Gaze](Gaze.md) Mantras.
 
 -   Murmur: Rhythm \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Rhythm's activation keybind can be configured in settings.
@@ -160,7 +160,7 @@ N/A
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
     -   Does not work on allies.
     -   Does not affect healthpacks.
-    -   Also procs on criticals with the M1 tag.
+    -   Also procs on criticals with the [M1 tag](M1_tag.md).
 
 -   _Eureka_ \[Rare Talent\] **250** \- Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
     -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
@@ -256,10 +256,10 @@ N/A
         -   Tough Love: 2s -> 1s
         -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
         -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
+        -   [Dread Whisper](Dread_Whisper.md) and [Sing](Sing.md): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
         -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
-        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Hair_Spray.md): 15s -> 7.5s
         -   Lasting Charisma (at reqs): 20s -> 10s
 
 -   Keen Recovery \[Common Talent\] **100** \- Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
@@ -353,7 +353,7 @@ N/A
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
 -   Parry window is at the end of the first flash.
--   Shares a cooldown with [Sing](Attunement-less.md#sing).
+-   Shares a cooldown with [Sing](Sing.md).
 -   Can be upgraded with the **Peripheral Vision** Talent, allowing Glare to hit enemies without them having to face you.
 
  |
@@ -367,17 +367,17 @@ N/A
     -   Steals 40% of the Tempo used.
 
 -   Unswayed \[Common Talent\] **100** \- The effects of Taunt and Encore no longer work on you. (+20 Sanity)
-    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
-    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
+    -   The [Taunt](Taunt.md) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
+    -   The [Sing](Sing.md) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
         -   Sing can still apply Charm/Overcharm to the user.
 
 -   Water off a Duck's Back \[Common Talent\] **100** \- Venting will shift any elemental status effects affecting you onto those hit by your vent.
-    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
+    -   Transfers [Suffocation](Suffocation.md), [Winded](Winded.md), [Chill](Chill.md), [Shock](Shock.md), [Burn](Burn.md), and [potion](Potions.md) effects from yourself to your enemy on vent.
 
 -   All-Seeing Eye \[Oath Talent\] **200** \- The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon showcasing their current position.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
-    -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
+        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Beast_Burrow.md), [Portals](Portals.md), and other invisibility effects.
+    -   With this Talent, the [Tacet](Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   This works on anyone who is invisible, yourself and monsters included.
 
 -   _Lightspeed Reflexes_ \[Rare Talent\] **250** \- Feinting gives a very brief auto-parry window. (+1 Passive Agility)
@@ -389,7 +389,7 @@ N/A
 
 -   _**Not a Scratch**_ \[Advanced Talent\] **350** \- You don't show any signs of damage. (+2 Posture)
     -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp anims, no torn clothing, etc.
-    -   Spotter (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
+    -   Spotter (for your opponent's allies) / [Rhythm](Rhythm.md) no longer shows how much health your character has.
     -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being taking damage. This is purely visual.
         -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.
 
@@ -486,7 +486,7 @@ Oath [ResistanceOath](Oaths.md)
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
         -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence, which is halved to 4 seconds if you don't meet this Talent's requirements.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
-    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
+    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flame_Wisp.md), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
 
   
 
@@ -576,7 +576,7 @@ Enemy's Attack
 
 ### Dravik, The Rat King
 
--   Focused Perception \[Memento Talent\] - Massively increase the range of your Rhythm if you use it while [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle) is active.
+-   Focused Perception \[Memento Talent\] - Massively increase the range of your Rhythm if you use it while [Tranquil Circle](Tranquil_Circle.md) is active.
     
     -   The Sightless Memento does not unlock Tranquil Circle at any point, causing this Talent to do nothing.
 
@@ -584,4 +584,4 @@ Enemy's Attack
 
 ### True Heart of Enmity
 
--   Scornful Scowl \[Memento Talent\] - Your [Glare](Attunement-less.md#glare) stuns enemies for much longer.
+-   Scornful Scowl \[Memento Talent\] - Your [Glare](Glare.md) stuns enemies for much longer.

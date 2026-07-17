@@ -25,7 +25,7 @@ categories: [Food]
 
 **Kyrsdog** is a craftable [Food](Food.md) item.
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
 
 ### Effect
 

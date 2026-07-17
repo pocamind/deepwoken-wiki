@@ -20,7 +20,7 @@ A little tavern under a ruin harbors what remains of a once lucrative business.
 
   
 
-**Rat's Den** is a location in _Deepwoken._ It is a landmark in [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
+**Rat's Den** is a [location](Locations.md) in _Deepwoken._ It is a landmark in [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 

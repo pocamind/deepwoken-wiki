@@ -19,7 +19,7 @@ categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemie
 
 Hive Guards are NPCs that only spawns in [Greathive Aratel](Greathive_Aratel.md).
 
-They wear a pair of Woodland Pauldrons and Woodland Boots along with a pair of Crystal Pendant Earrings. In addition, they also don a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) outfit. Similar to any other guard, killing one will give the player negative reputation with [The Hive](Reputation.md).
+They wear a pair of Woodland Pauldrons and Woodland Boots along with a pair of Crystal Pendant Earrings. In addition, they also don a [Grandmaster Pathfinder Cloak](Grandmaster_Pathfinder_Cloak.md) outfit. Similar to any other guard, killing one will give the player negative reputation with [The Hive](Reputation.md).
 
 Other than that, they are all either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md).
 

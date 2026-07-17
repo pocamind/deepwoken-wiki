@@ -44,7 +44,7 @@ The [Blood Siphon](Talents.md#blood-siphon) Talent grants 10% lifesteal to your 
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) everytime you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).
+Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Temporary_Health.md) everytime you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).
 
 ## Trivia
 

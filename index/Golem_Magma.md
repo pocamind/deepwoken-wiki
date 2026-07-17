@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Golem Magmas** are a variation of **Stonelife Golems.** They share their appearance with [Rock Golems](Rock_Golem.md) with a few key differences: their stone is a bit darker and their core is yellow; unlike their originators, whose core is white. The original [Stonelife Golems](Rock_Golem.md) are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md), but the origin of Golem Magmas is currently unknown.
+**Golem Magmas** are a variation of **Stonelife Golems.** They share their appearance with [Rock Golems](Rock_Golem.md) with a few key differences: their stone is a bit darker and their core is yellow; unlike their originators, whose core is white. The original [Stonelife Golems](Stonelife_Golem.md) are given life by [the Duke](Duke_Erisia.md)'s unique [Stonelife resonance](Resonance.md), but the origin of Golem Magmas is currently unknown.
 
 You can only find one Golem Magma currently: It has a static spawn in [Saramaed Summit (Vow of Iron)](<Saramaed_Summit_(Vow_of_Iron).md>).
 

@@ -31,7 +31,7 @@ Variants: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md) · [Hallowed Monastery Cow
 
 ## Description
 
-The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
+The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Etris%253A_Siege.md) event.
 
 The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown upon landing an M1.
 

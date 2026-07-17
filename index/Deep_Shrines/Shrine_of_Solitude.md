@@ -32,49 +32,13 @@ The Shrine of Solitude allows you to affect and influence your odds for Talent C
 
 **Requirements Met:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">So... You desire auguries?</td>
-</tr>
-<tr>
-  <td colspan="2">What Mantras will find me?</td>
-</tr>
-<tr>
-  <td colspan="2">Won't you share with me your thoughts? Solitude need not be prolonged.</td>
-</tr>
-<tr>
-  <td colspan="2">Player selects Mantra type</td>
-</tr>
-<tr>
-  <td colspan="2">Gazing into your Heart... I see a new path. It shall avail itself to you sooner than you might think.</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">So... You desire auguries?</td></tr><tr><td colspan="2">What Mantras will find me?</td></tr><tr><td colspan="2">Won't you share with me your thoughts? Solitude need not be prolonged.</td></tr><tr><td colspan="2">Player selects Mantra type</td></tr><tr><td colspan="2">Gazing into your Heart... I see a new path. It shall avail itself to you sooner than you might think.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **Requirements Unmet:**
 
 If the player is in [Trial of One](../Trial_of_One.md) and is not [Lone Warrior](../Lone_Warrior.md), Shrine of Solitude will say this instead.
 
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*The foreboding statue is silent.*</i></td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*The foreboding statue is silent.*</i></td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 
