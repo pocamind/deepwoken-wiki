@@ -29,7 +29,31 @@ Calamus is located on top of a cliff in the [Starswept Valley](The_Starswept_Val
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">The sands here are flowing much quicker than before. New threats are appearing at alarming rates. It's getting quite dangerous for Hive operations to proceed here with how this situation is escalating..</td></tr><tr><td colspan="3">Who are you?</td><td colspan="3">What's the situation?</td></tr><tr><td colspan="3">My name is Calamus; I am a guardian of our Greathive, sworn to protect the Lordsgrove as well as the Valley itself. In order to ensure our operatives can complete their tasks safely, I am brought here to protect them. When a large threat appears and hinders our progress, it is my sole duty to eliminate it. Despite how troubling recent matters are, I must stay dedicated to my cause. To my people.</td><td colspan="3">I see, this must be news to you. Aratel has become a much more dangerous place as of late. New threats of hostile creatures are appearing at alarming rates as well as the looming fear of the <a href="Glossary.md#the-central-authority">Authority</a>. While our standing with the <a href="Glossary.md#the-central-authority">Authority</a> isn't war, tensions between us are high, to say the least. My assignment is to slay these opponents to ensure the safe passage of our Hive operatives in this region, but.. it's beginning to become overwhelming. Each near death encounter brings more fatigue to myself than before, as if fate itself is telling me it's too late. I am their sole protector, yet.. I am facing a challenge like no other.</td></tr><tr><td colspan="3">What's the situation?</td><td colspan="3">[End Dialogue]</td></tr><tr><td colspan="3">[See first instance]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">The sands here are flowing much quicker than before. New threats are appearing at alarming rates. It's getting quite dangerous for Hive operations to proceed here with how this situation is escalating..</td>
+</tr>
+<tr>
+  <td colspan="3">Who are you?</td>
+  <td colspan="3">What's the situation?</td>
+</tr>
+<tr>
+  <td colspan="3">My name is Calamus; I am a guardian of our Greathive, sworn to protect the Lordsgrove as well as the Valley itself. In order to ensure our operatives can complete their tasks safely, I am brought here to protect them. When a large threat appears and hinders our progress, it is my sole duty to eliminate it. Despite how troubling recent matters are, I must stay dedicated to my cause. To my people.</td>
+  <td colspan="3">I see, this must be news to you. Aratel has become a much more dangerous place as of late. New threats of hostile creatures are appearing at alarming rates as well as the looming fear of the <a href="Glossary.md#the-central-authority">Authority</a>. While our standing with the <a href="Glossary.md#the-central-authority">Authority</a> isn't war, tensions between us are high, to say the least. My assignment is to slay these opponents to ensure the safe passage of our Hive operatives in this region, but.. it's beginning to become overwhelming. Each near death encounter brings more fatigue to myself than before, as if fate itself is telling me it's too late. I am their sole protector, yet.. I am facing a challenge like no other.</td>
+</tr>
+<tr>
+  <td colspan="3">What's the situation?</td>
+  <td colspan="3">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="3">[See first instance]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

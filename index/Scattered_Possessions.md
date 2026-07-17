@@ -28,4 +28,27 @@ The Scattered Possessions can be found lying near a ruined gate post in the [Vir
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*A bunch of scattered possessions - dirty and bloodstained. A helmet, a scabbard, and a battle standard. They look like they belonged to someone from the Etrean Clan Mofisu.*</i></td></tr><tr><td colspan="2">[Inspect]</td></tr><tr><td>[Player has spoken with Samnang prior]</td><td>[Player has not spoken with Samnang prior]</td></tr><tr><td><i>*The expertly-made scabbard stands out among the possessions. Around the neck of the scabbard, you spot a delicately-carved inscryption: 'To Sophon, from Samnang. May your blade be your strength.'.*</i></td><td><i>*On the neck of the scabbard there is a delicately-carved inscryption: 'To Sophon, from Samnang. May your blade be your strength.'. The name does not seem to ring a bell...*</i></td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*A bunch of scattered possessions - dirty and bloodstained. A helmet, a scabbard, and a battle standard. They look like they belonged to someone from the Etrean Clan Mofisu.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">[Inspect]</td>
+</tr>
+<tr>
+  <td>[Player has spoken with Samnang prior]</td>
+  <td>[Player has not spoken with Samnang prior]</td>
+</tr>
+<tr>
+  <td><i>*The expertly-made scabbard stands out among the possessions. Around the neck of the scabbard, you spot a delicately-carved inscryption: 'To Sophon, from Samnang. May your blade be your strength.'.*</i></td>
+  <td><i>*On the neck of the scabbard there is a delicately-carved inscryption: 'To Sophon, from Samnang. May your blade be your strength.'. The name does not seem to ring a bell...*</i></td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

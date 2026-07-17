@@ -274,17 +274,140 @@ If [Aska](Aska.md) were to fall off the map, you will receive the [Pleeksty's In
 
 Exhaustive Loot Table
 
-<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td>N/A</td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Strange_Tomes.md">Strange Tome Volume #2</a>, <a href="Weathered_Timepiece.md">Weathered Timepiece</a>, <a href="Heartstar.md">Heartstars</a>, <a href="Deep_Gems.md">Deep Gems</a></li><li><a href="Relics.md">Relics</a>: <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Void_Spire.md">Void Spire</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Unique Weapons</b>: <a href="Bloodfouler.md"><font>Bloodfouler</font></a></li><li><b>Legendary Weapons</b>: <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Shadebolt.md"><font>Shadebolt</font></a></li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li><li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li><li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a></li></ol></li><li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><center><b>All equipment are guaranteed to be at least 1 star quality.</b></center><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:<ol><li><b>Mythical Head</b>: <a href="Bloodforged_Crown.md"><font>Bloodforged Crown</font></a></li><li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a></li></ol></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a></li><li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li><li><b>Generic Arms</b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li><li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li></ol></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a></li><li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Silver_Ring.md">Silver Ring</a></li></ol></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Strange_Tomes.md">Strange Tome Volume #2</a>, <a href="Weathered_Timepiece.md">Weathered Timepiece</a>, <a href="Heartstar.md">Heartstars</a>, <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Void_Spire.md">Void Spire</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Unique Weapons</b>: <a href="Bloodfouler.md"><font>Bloodfouler</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Shadebolt.md"><font>Shadebolt</font></a></li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li>
+    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td><center><b>All equipment are guaranteed to be at least 1 star quality.</b></center>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
+  <ol>
+    <li><b>Mythical Head</b>: <a href="Bloodforged_Crown.md"><font>Bloodforged Crown</font></a></li>
+    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a></li>
+  </ol></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
+  <ol>
+    <li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a></li>
+    <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li>
+    <li><b>Generic Arms</b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
+  </ol></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li>
+  </ol></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a></li>
+    <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Silver_Ring.md">Silver Ring</a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Oh, a human? Far from home aren't we?</td></tr><tr><td colspan="6">What happened here?</td><td colspan="6">[Attack mid-dialogue]</td></tr><tr><td colspan="6">Oh here? Well, first I disposed of my mutinous team, now I am searching for <font>the City</font>.</td><td colspan="6">Aha, the first strike? Not one to mince words are we?</td></tr><tr><td colspan="3">They mutinied?</td><td colspan="3">The City?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="3">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td><td colspan="3">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a>, the Sleeping City. There lies the so-called bedchambers of the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>. Together perhaps we could -<br><font>[Chaser Attacks]</font></td></tr><tr><td colspan="3">The City?</td><td colspan="3">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td></tr><tr><td colspan="3">[See first instance]</td><td colspan="3">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Oh, a human? Far from home aren't we?</td>
+</tr>
+<tr>
+  <td colspan="6">What happened here?</td>
+  <td colspan="6">[Attack mid-dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">Oh here? Well, first I disposed of my mutinous team, now I am searching for <font>the City</font>.</td>
+  <td colspan="6">Aha, the first strike? Not one to mince words are we?</td>
+</tr>
+<tr>
+  <td colspan="3">They mutinied?</td>
+  <td colspan="3">The City?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="3">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td>
+  <td colspan="3">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a>, the Sleeping City. There lies the so-called bedchambers of the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>. Together perhaps we could -<br>
+  <font>[Chaser Attacks]</font></td>
+</tr>
+<tr>
+  <td colspan="3">The City?</td>
+  <td colspan="3">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
+</tr>
+<tr>
+  <td colspan="3">[See first instance]</td>
+  <td colspan="3">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">How strange... Time truly does run amok when drawn into <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?</td></tr><tr><td colspan="4">Ethiron's Wake?</td><td colspan="4">I won't be fooled again.</td><td colspan="4">[Attack mid-dialogue]</td></tr><tr><td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams.<br><font>[Chaser Attacks]</font></td><td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? Tell me. After we met in your time, did you make it to the-<br><font>[Chaser Attacks]</font></td><td colspan="4">Aha, the first strike? Not one to mince words are we?</td></tr><tr><td colspan="8">Ha? Really?! Gods below, you really are such a FOOL.</td><td colspan="4">[End Dialogue]</td></tr><tr><td colspan="8">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">How strange... Time truly does run amok when drawn into <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?</td>
+</tr>
+<tr>
+  <td colspan="4">Ethiron's Wake?</td>
+  <td colspan="4">I won't be fooled again.</td>
+  <td colspan="4">[Attack mid-dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams.<br>
+  <font>[Chaser Attacks]</font></td>
+  <td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? Tell me. After we met in your time, did you make it to the-<br>
+  <font>[Chaser Attacks]</font></td>
+  <td colspan="4">Aha, the first strike? Not one to mince words are we?</td>
+</tr>
+<tr>
+  <td colspan="8">Ha? Really?! Gods below, you really are such a FOOL.</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="8">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

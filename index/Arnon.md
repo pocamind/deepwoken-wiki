@@ -32,11 +32,35 @@ Arnon is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.m
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Take, <i>*this*</i>!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Take, <i>*this*</i>!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Voidwalker:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Take th- erm...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Take th- erm...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

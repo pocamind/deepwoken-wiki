@@ -38,7 +38,34 @@ Eventually, Skeli died and their lifeless corpse was left to freeze in the waste
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*The Etrean diver's body lies frozen and lifeless before you.</i></td></tr><tr><td colspan="2">[Search]</td></tr><tr><td colspan="2"><i>*You find a diary in the pockets of the <a href="Glossary.md#the-divers">Diver</a>.</i></td></tr><tr><td>[Read it]</td><td>Secrets are best left to the dead.</td></tr><tr><td><i>*You find only one legible entry among the tattered pages and pocket it to read later.*</i></td><td><i>*You leave the body alone.*</i></td></tr><tr><td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Journeyman_Skeli.md">Diver's Journal: Journeyman Skeli</a></td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The Etrean diver's body lies frozen and lifeless before you.</i></td>
+</tr>
+<tr>
+  <td colspan="2">[Search]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*You find a diary in the pockets of the <a href="Glossary.md#the-divers">Diver</a>.</i></td>
+</tr>
+<tr>
+  <td>[Read it]</td>
+  <td>Secrets are best left to the dead.</td>
+</tr>
+<tr>
+  <td><i>*You find only one legible entry among the tattered pages and pocket it to read later.*</i></td>
+  <td><i>*You leave the body alone.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Journeyman_Skeli.md">Diver's Journal: Journeyman Skeli</a></td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

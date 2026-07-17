@@ -31,7 +31,19 @@ Graha is located in [Castle Light](Castle_Light.md), on the second floor next to
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>This stove is the only place to cook <i>anything</i> down here! Most of our meals are Urchin Stew, though.. not much else around here to cook. I just throw three of 'em over the heat and call it a day.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>This stove is the only place to cook <i>anything</i> down here! Most of our meals are Urchin Stew, though.. not much else around here to cook. I just throw three of 'em over the heat and call it a day.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

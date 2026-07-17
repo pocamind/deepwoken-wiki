@@ -242,21 +242,153 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 
 ## Drops
 
-<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><a href="Ringing_Scholar's_Garb.md">Ringing Scholar's Garb</a></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li><li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Remnants_of_Soul.md">Remnant of Soul</a>, <a href="Void_Spire.md">Void Spire</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a><ol><li><b>Light Weapons</b>:</li><li><b>Medium Weapons</b>: <a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></li><li><b>Heavy Weapons</b>: <a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></li></ol></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Ringing_Scholar's_Capeline.md">Ringing Scholar's Capeline</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Ringing_Scholar's_Raiments.md">Ringing Scholar's Raiments</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Ringing_Scholar's_Boots.md">Ringing Scholar's Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Ringing_Scholar's_Necktie.md">Ringing Scholar's Necktie</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Ringing_Scholar's_Garb.md">Ringing Scholar's Garb</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Remnants_of_Soul.md">Remnant of Soul</a>, <a href="Void_Spire.md">Void Spire</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>
+  <ol>
+    <li><b>Light Weapons</b>:</li>
+    <li><b>Medium Weapons</b>: <a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Ringing_Scholar's_Capeline.md">Ringing Scholar's Capeline</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Ringing_Scholar's_Raiments.md">Ringing Scholar's Raiments</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Ringing_Scholar's_Boots.md">Ringing Scholar's Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Ringing_Scholar's_Necktie.md">Ringing Scholar's Necktie</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Aaauurghhhh AAAAAHHG... AAAHH!!! WHUGHH???</td></tr><tr><td colspan="6">What's wrong?</td></tr><tr><td colspan="6">Oh... YOU... you're-? Huuagh?? WHAT -who are you?!</td></tr><tr><td colspan="3">I'm [First Name]. Why?</td><td colspan="3">Why do you care?</td></tr><tr><td colspan="3">YOU FOUND IT! It's you-though... strange, stranger, STRANGE! So wrong, but right? Your EYES-two eyes? Not them... yours, but not mine...?</td><td colspan="3">HAHAHAHAAA!!! I DON'T!!! You're discrepant-wrong one! Haha! Gift given to the wrong person-irreversible! If we can't have it, you can't either!</td></tr><tr><td colspan="3">What are you TALKING about?</td><td colspan="3">That's enough.</td></tr><tr><td colspan="3">You're BEAMING-BEAMING with ripples of stolen inheritance. Maybe your soul... no. Your mind's the key! THE KEY! The key!!! Key to the mending of my wretched, discordant, SCREAMING soul... the sight Ten promised us.</td><td colspan="3">[See first instance]</td></tr><tr><td colspan="3">That's enough.</td></tr><tr><td colspan="3">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td></tr><tr><td colspan="3">[End Dialogue], fight starts</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Aaauurghhhh AAAAAHHG... AAAHH!!! WHUGHH???</td>
+</tr>
+<tr>
+  <td colspan="6">What's wrong?</td>
+</tr>
+<tr>
+  <td colspan="6">Oh... YOU... you're-? Huuagh?? WHAT -who are you?!</td>
+</tr>
+<tr>
+  <td colspan="3">I'm [First Name]. Why?</td>
+  <td colspan="3">Why do you care?</td>
+</tr>
+<tr>
+  <td colspan="3">YOU FOUND IT! It's you-though... strange, stranger, STRANGE! So wrong, but right? Your EYES-two eyes? Not them... yours, but not mine...?</td>
+  <td colspan="3">HAHAHAHAAA!!! I DON'T!!! You're discrepant-wrong one! Haha! Gift given to the wrong person-irreversible! If we can't have it, you can't either!</td>
+</tr>
+<tr>
+  <td colspan="3">What are you TALKING about?</td>
+  <td colspan="3">That's enough.</td>
+</tr>
+<tr>
+  <td colspan="3">You're BEAMING-BEAMING with ripples of stolen inheritance. Maybe your soul... no. Your mind's the key! THE KEY! The key!!! Key to the mending of my wretched, discordant, SCREAMING soul... the sight Ten promised us.</td>
+  <td colspan="3">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="3">That's enough.</td>
+</tr>
+<tr>
+  <td colspan="3">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
+</tr>
+<tr>
+  <td colspan="3">[End Dialogue], fight starts</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Aaauurghhhh AAAAAHHG ... AAAHH!!! WHUGHH??? AAAAAAAAAAAAAHHHHHHHH!!!!!!!!</td></tr><tr><td colspan="12">Remember me?</td></tr><tr><td colspan="12">WHAT??? No..? No. Nope! Ahhh.. WAIT!!!! No. Your soul though it's-AAAAAHH!!!!</td></tr><tr><td colspan="12">That's enough.</td></tr><tr><td colspan="12">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td></tr><tr><td colspan="12">[End Dialogue], fight starts</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Aaauurghhhh AAAAAHHG ... AAAHH!!! WHUGHH??? AAAAAAAAAAAAAHHHHHHHH!!!!!!!!</td>
+</tr>
+<tr>
+  <td colspan="12">Remember me?</td>
+</tr>
+<tr>
+  <td colspan="12">WHAT??? No..? No. Nope! Ahhh.. WAIT!!!! No. Your soul though it's-AAAAAHH!!!!</td>
+</tr>
+<tr>
+  <td colspan="12">That's enough.</td>
+</tr>
+<tr>
+  <td colspan="12">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue], fight starts</td>
+</tr>
+</tbody>
+</table>
 
 **Insufficient Bell Progress:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Aaauurghhhh AAAAAHHG... AAAHH!!!</td></tr><tr><td colspan="6">What's Wrong?</td><td colspan="6">Alright?</td></tr><tr><td colspan="6">Can't get it RIGHT. No no no~ not right, not right. No no.</td><td colspan="6">Bing bong bing bong... bong bong wrong... wrong wrong.</td></tr><tr><td colspan="3">Can I help you?</td><td colspan="3">Alright?</td><td colspan="3">Can I help you?</td></tr><tr><td colspan="6">[See first instance]</td><td colspan="3">NO!... no. Get OUT of my head fake person fake...</td></tr><tr><td colspan="6"></td><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Aaauurghhhh AAAAAHHG... AAAHH!!!</td>
+</tr>
+<tr>
+  <td colspan="6">What's Wrong?</td>
+  <td colspan="6">Alright?</td>
+</tr>
+<tr>
+  <td colspan="6">Can't get it RIGHT. No no no~ not right, not right. No no.</td>
+  <td colspan="6">Bing bong bing bong... bong bong wrong... wrong wrong.</td>
+</tr>
+<tr>
+  <td colspan="3">Can I help you?</td>
+  <td colspan="3">Alright?</td>
+  <td colspan="3">Can I help you?</td>
+</tr>
+<tr>
+  <td colspan="6">[See first instance]</td>
+  <td colspan="3">NO!... no. Get OUT of my head fake person fake...</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

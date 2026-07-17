@@ -129,7 +129,30 @@ A Hobo executes it's opponent after knocking them:
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">I am very happy, very rich! Woooo! I love notes!</td></tr><tr><td colspan="12">Can I have a chest? [Charisma]</td></tr><tr><td colspan="6">Player passes Charisma check</td><td colspan="6">Player does not pass Charisma check</td></tr><tr><td colspan="6">Sure, help yourself!</td><td colspan="6">No! It's mine! Go away!</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">I am very happy, very rich! Woooo! I love notes!</td>
+</tr>
+<tr>
+  <td colspan="12">Can I have a chest? [Charisma]</td>
+</tr>
+<tr>
+  <td colspan="6">Player passes Charisma check</td>
+  <td colspan="6">Player does not pass Charisma check</td>
+</tr>
+<tr>
+  <td colspan="6">Sure, help yourself!</td>
+  <td colspan="6">No! It's mine! Go away!</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 -   Opening chest: Hey that's mine!
 -   Killing Hobo: HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!

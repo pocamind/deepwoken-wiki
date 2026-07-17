@@ -30,4 +30,16 @@ Swordmaster Basher is located on the training grounds at [Fort Merit](Fort_Merit
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hey.. <i>*His eyes scan you, looking for something*</i> ..No, nevermind. Don't waste my time.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Hey.. <i>*His eyes scan you, looking for something*</i> ..No, nevermind. Don't waste my time.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

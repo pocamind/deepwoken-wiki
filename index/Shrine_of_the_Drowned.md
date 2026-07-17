@@ -34,11 +34,44 @@ The Shrine can be used once per character instead of once per slot, as depicted 
 
 **Player is below Power 2:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>The shrine blends into the rubble, just another discarded thing.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>The shrine blends into the rubble, just another discarded thing.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Player is Power 2 or above:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>The shrine stands immaculate amongst the rubble.</td></tr><tr><td>[Inspect]</td></tr><tr><td>You know why it stands here - it offers an alternative. It beckons you to offer a part of who you are to the cold voice - a voice that’s always been at the back of your mind.</td></tr><tr><td>[Make Offering] (R$1000)</td></tr><tr><td>[End Dialogue], player respawns in the Etrean Luminant</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>The shrine stands immaculate amongst the rubble.</td>
+</tr>
+<tr>
+  <td>[Inspect]</td>
+</tr>
+<tr>
+  <td>You know why it stands here - it offers an alternative. It beckons you to offer a part of who you are to the cold voice - a voice that’s always been at the back of your mind.</td>
+</tr>
+<tr>
+  <td>[Make Offering] (R$1000)</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player respawns in the Etrean Luminant</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

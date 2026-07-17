@@ -35,35 +35,119 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 
 **No division:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*This Adret is relaxing, peering out languidly into the distance. Despite their calm gaze, it pierces through you - they must work for the <a href="Glossary.md#the-central-authority">Authority's</a> Inquisition. Judging by their appearance, they're high rank. You've heard stories of tetchy ensigns getting on the wrong side of these elusive agents, and you dare not disturb them.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*This Adret is relaxing, peering out languidly into the distance. Despite their calm gaze, it pierces through you - they must work for the <a href="Glossary.md#the-central-authority">Authority's</a> Inquisition. Judging by their appearance, they're high rank. You've heard stories of tetchy ensigns getting on the wrong side of these elusive agents, and you dare not disturb them.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Command / Shock Corps division:**
 
 **Division Unmaxed:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*They regard you with a half-lidded expression, reeking of haughtiness. As you salute them, they return you a distinctly uncaring, silent salute.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*They regard you with a half-lidded expression, reeking of haughtiness. As you salute them, they return you a distinctly uncaring, silent salute.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Seneschal / Operator:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*They wordlessly salute you, forcing an expressionless look.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*They wordlessly salute you, forcing an expressionless look.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Inquisiton division:**
 
 **Inquisitor / Inquisition 1st Class:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*They regard you with a half-lidded expression, reeking of haughtiness.*</i> [Rank] [Last Name], isn't it? Merey mentioned your joining our cohort - I do hope you aren't struggling too much with the work. Haven't had a new member in a while, though I didn't think we were desperate for extra help. Perhaps Merey saw something in you. Perhaps you were just lucky. She's rather picky with her ensigns.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*They regard you with a half-lidded expression, reeking of haughtiness.*</i> [Rank] [Last Name], isn't it? Merey mentioned your joining our cohort - I do hope you aren't struggling too much with the work. Haven't had a new member in a while, though I didn't think we were desperate for extra help. Perhaps Merey saw something in you. Perhaps you were just lucky. She's rather picky with her ensigns.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Handler:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*They salute you, with a forced yet sly smirk on their face.*</i> Handler [Last Name]. A pleasure. Always good to see a fellow Handler.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*They salute you, with a forced yet sly smirk on their face.*</i> Handler [Last Name]. A pleasure. Always good to see a fellow Handler.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Not Authority Ensign:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The Adret eyes you with suspicion, but says nothing, only observing. Their piercing eyes send a chill down your spine. Maybe it's best not to bother them.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The Adret eyes you with suspicion, but says nothing, only observing. Their piercing eyes send a chill down your spine. Maybe it's best not to bother them.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Bad Authority Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The Adret's gaze is fixed on you, and their hand slowly and carefully reaches for their weapon. It might be a good idea to *get out of here* before you get skewered.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The Adret's gaze is fixed on you, and their hand slowly and carefully reaches for their weapon. It might be a good idea to *get out of here* before you get skewered.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

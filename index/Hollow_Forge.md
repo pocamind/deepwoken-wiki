@@ -33,8 +33,57 @@ The Hollow Forge has the following recipes
 
 **Usage:**
 
-<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td></tr><tr><td colspan="2">[Forge] 3 Pluripotent Alloy → 1 Smith's Alloy</td><td colspan="2">[Forge] 9x Pluripotent Alloy → 1 Armorer's Needle</td><td colspan="2">[Forge] 3 Smith's Alloy → 1 Armorer's Needle</td><td colspan="2">[Forge] 1 Armorer's Needle → 3 Smith's Alloy</td></tr><tr><td colspan="8"><i>*You work the forge, suffocating heat washing over you.*</i></td></tr><tr><td colspan="4">[Return to the Forge]</td><td colspan="4">[End Dialogue]</td></tr><tr><td colspan="4"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td></tr><tr><td colspan="4">[See first instance]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">[Forge] 3 Pluripotent Alloy → 1 Smith's Alloy</td>
+  <td colspan="2">[Forge] 9x Pluripotent Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 3 Smith's Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 1 Armorer's Needle → 3 Smith's Alloy</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*You work the forge, suffocating heat washing over you.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">[Return to the Forge]</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">[See first instance]</td>
+</tr>
+</tbody>
+</table>
 
 **Not enough materials:**
 
-<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8"><i>*The Hollow Forge belts out heat, awaiting use.*</i></td></tr><tr><td colspan="2">[Forge] 3 Pluripotent Alloy → 1 Smith's Alloy</td><td colspan="2">[Forge] 9x Pluripotent Alloy → 1 Armorer's Needle</td><td colspan="2">[Forge] 3 Smith's Alloy → 1 Armorer's Needle</td><td colspan="2">[Forge] 1 Armorer's Needle → 3 Smith's Alloy</td></tr><tr><td colspan="8"><i>*You don't seem to have enough of the required materials.*</i></td></tr><tr><td colspan="8">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*The Hollow Forge belts out heat, awaiting use.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">[Forge] 3 Pluripotent Alloy → 1 Smith's Alloy</td>
+  <td colspan="2">[Forge] 9x Pluripotent Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 3 Smith's Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 1 Armorer's Needle → 3 Smith's Alloy</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*You don't seem to have enough of the required materials.*</i></td>
+</tr>
+<tr>
+  <td colspan="8">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

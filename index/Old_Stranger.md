@@ -35,16 +35,110 @@ If another player has already obtained Murmur: Ardour from or talked to them in 
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="4">Begin dialogue</td></tr><tr><td colspan="4">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td></tr><tr><td colspan="4">What're you trying to figure out?</td></tr><tr><td colspan="4">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's <a href="Glossary.md#soul-murmur">Murmur</a>.</td></tr><tr><td colspan="4">A Murmur, huh?</td></tr><tr><td colspan="4">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td></tr><tr><td colspan="4">Can you teach me how?</td></tr><tr><td colspan="4">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td></tr><tr><td colspan="2">Player has a filled Canteen</td><td>Player has the Condensation Drip Talent</td><td>Player has Redd Juice</td></tr><tr><td colspan="2">[Hand him your Canteen]</td><td>[Collect water using Condensation Drip]</td><td>[Hand him some Redd Juice]</td></tr><tr><td>Canteen contains water from a Well</td><td>Canteen contains water from sea</td><td>Oh, neat trick! That hit the spot. Now, where were we...</td><td>Ah, just like mama used to make! Now, where were we...</td></tr><tr><td>Ah, good thinking! That hit the spot. Now, where were we...</td><td>Oh nah. Not drinkin' that. Keep it.</td><td colspan="2">[End Dialogue], player obtains Ardour</td></tr><tr><td>[End Dialogue], player obtains Ardour</td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
+</tr>
+<tr>
+  <td colspan="4">What're you trying to figure out?</td>
+</tr>
+<tr>
+  <td colspan="4">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's <a href="Glossary.md#soul-murmur">Murmur</a>.</td>
+</tr>
+<tr>
+  <td colspan="4">A Murmur, huh?</td>
+</tr>
+<tr>
+  <td colspan="4">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td>
+</tr>
+<tr>
+  <td colspan="4">Can you teach me how?</td>
+</tr>
+<tr>
+  <td colspan="4">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td>
+</tr>
+<tr>
+  <td colspan="2">Player has a filled Canteen</td>
+  <td>Player has the Condensation Drip Talent</td>
+  <td>Player has Redd Juice</td>
+</tr>
+<tr>
+  <td colspan="2">[Hand him your Canteen]</td>
+  <td>[Collect water using Condensation Drip]</td>
+  <td>[Hand him some Redd Juice]</td>
+</tr>
+<tr>
+  <td>Canteen contains water from a Well</td>
+  <td>Canteen contains water from sea</td>
+  <td>Oh, neat trick! That hit the spot. Now, where were we...</td>
+  <td>Ah, just like mama used to make! Now, where were we...</td>
+</tr>
+<tr>
+  <td>Ah, good thinking! That hit the spot. Now, where were we...</td>
+  <td>Oh nah. Not drinkin' that. Keep it.</td>
+  <td colspan="2">[End Dialogue], player obtains Ardour</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player obtains Ardour</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Some say there's a few other applications of Ardour beyond just strengthenin' your strikes. But I've never looked into that, hah.</td></tr><tr><td>How did you unlock Ardour for me?</td></tr><tr><td>Oh. Don't tell me there's somethin' else weird about me I gotta find the reasons for... Next you'll be telling me not everyone can levitate spoons with their mind, hah!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Some say there's a few other applications of Ardour beyond just strengthenin' your strikes. But I've never looked into that, hah.</td>
+</tr>
+<tr>
+  <td>How did you unlock Ardour for me?</td>
+</tr>
+<tr>
+  <td>Oh. Don't tell me there's somethin' else weird about me I gotta find the reasons for... Next you'll be telling me not everyone can levitate spoons with their mind, hah!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Has another murmur (not Ardour):**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, don't ye worry yerself. You've got other things on your mind, I can tell.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ah, don't ye worry yerself. You've got other things on your mind, I can tell.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Ardour Already Taken:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I can't speak to two folks at once, y'know?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I can't speak to two folks at once, y'know?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

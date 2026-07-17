@@ -30,4 +30,16 @@ Hale is located inside of the [Summer Isle](Summer_Isle.md) castle.
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome to Hale's! - enjoy the sales!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome to Hale's! - enjoy the sales!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

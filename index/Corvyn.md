@@ -35,8 +35,32 @@ Corvyn is located inside of a stronghold on the leftside of [Alsin's Landing](<A
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Alsin's given us better days, but that hasn't stopped us from showing up to the task. No time to waste - the call comes when it comes.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Alsin's given us better days, but that hasn't stopped us from showing up to the task. No time to waste - the call comes when it comes.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Voidwalker:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>By Alsin, a Voidwalker! Begone!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>By Alsin, a Voidwalker! Begone!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

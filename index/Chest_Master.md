@@ -33,4 +33,36 @@ In pathfinder mode, if you manage to get to the bugged [Floating Keep](The_Float
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Ah, got something to turn in?</td></tr><tr><td colspan="2">Can you open this for me?</td><td colspan="2">Why are you guys all over the place?</td></tr><tr><td>[Player is carrying a treasure sack]</td><td>[Player is not carrying a treasure sack]</td><td>'You guys'? What, you mean the Chest Masters? It's quite simple. We're part of the Chest Masters' Guild. We're expert lockpickers and appraisers, one and all - and we keep our methods a closely-guarded secret. Adventurers like yourself keep running into locked up treasures. There's a lot of you running around these days, and our skillset can be very helpful to adventurers on the go... So, we've got a solid niche secured, and business is good. Makes sense, no?</td></tr><tr><td>Of course - for a small cut of the profit that is. Ah, there we go.</td><td>Open what? Your skull? I'm sorry, but I would prefer not to take part in that...</td><td colspan="2">Can you open this for me?</td></tr><tr><td>[End Dialogue], player receives Notes and loot</td><td>Yeah, yeah, here it is. Open please?</td><td colspan="2">[See first instance]</td></tr><tr><td></td><td>[See "<font>Can you open this for me?</font>"]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">Ah, got something to turn in?</td>
+</tr>
+<tr>
+  <td colspan="2">Can you open this for me?</td>
+  <td colspan="2">Why are you guys all over the place?</td>
+</tr>
+<tr>
+  <td>[Player is carrying a treasure sack]</td>
+  <td>[Player is not carrying a treasure sack]</td>
+  <td>'You guys'? What, you mean the Chest Masters? It's quite simple. We're part of the Chest Masters' Guild. We're expert lockpickers and appraisers, one and all - and we keep our methods a closely-guarded secret. Adventurers like yourself keep running into locked up treasures. There's a lot of you running around these days, and our skillset can be very helpful to adventurers on the go... So, we've got a solid niche secured, and business is good. Makes sense, no?</td>
+</tr>
+<tr>
+  <td>Of course - for a small cut of the profit that is. Ah, there we go.</td>
+  <td>Open what? Your skull? I'm sorry, but I would prefer not to take part in that...</td>
+  <td colspan="2">Can you open this for me?</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player receives Notes and loot</td>
+  <td>Yeah, yeah, here it is. Open please?</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td></td>
+  <td>[See "<font>Can you open this for me?</font>"]</td>
+</tr>
+</tbody>
+</table>

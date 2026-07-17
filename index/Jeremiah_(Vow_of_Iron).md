@@ -43,12 +43,48 @@ Jeremiah is located in the [Varicosa District](Varicosa_District.md) of [The Cit
 
 **Quest Start:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The man takes a deep breath in through his nose.*</i> .You REALLY smell like empty pockets. I'll teach ya something if bring me every gem I am looking for.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The man takes a deep breath in through his nose.*</i> .You REALLY smell like empty pockets. I'll teach ya something if bring me every gem I am looking for.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest End:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*He fidgets excitedly, elated at the sight of the gems in your possession. He then stares at them for a few seconds.*</i> These are what I am looking for. Feel free to keep em', I know what I must go and do now.</td></tr><tr><td>[End Dialogue], player obtains <a href="Ether_Erudite.md">Ether Erudite</a> <a href="Mementos.md">Memento</a></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*He fidgets excitedly, elated at the sight of the gems in your possession. He then stares at them for a few seconds.*</i> These are what I am looking for. Feel free to keep em', I know what I must go and do now.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player obtains <a href="Ether_Erudite.md">Ether Erudite</a> <a href="Mementos.md">Memento</a></td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Appreciate the help!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Appreciate the help!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

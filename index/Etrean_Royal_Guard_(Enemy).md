@@ -113,13 +113,49 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 
 **Base Dialogue:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td>What do you think you're doing here?</td></tr><tr><td>I'd like to speak with the Lord Regent.</td></tr><tr><td>Not a chance. Get out of my sight.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>What do you think you're doing here?</td>
+</tr>
+<tr>
+  <td>I'd like to speak with the Lord Regent.</td>
+</tr>
+<tr>
+  <td>Not a chance. Get out of my sight.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogue:**
 
 This dialogue only appears if the player has started the "Forge of Sin" questline.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td>What's your business here?</td></tr><tr><td>I have an audience with the Lord Regent.</td></tr><tr><td>Fine. You may enter.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>What's your business here?</td>
+</tr>
+<tr>
+  <td>I have an audience with the Lord Regent.</td>
+</tr>
+<tr>
+  <td>Fine. You may enter.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

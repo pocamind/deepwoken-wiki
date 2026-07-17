@@ -33,19 +33,85 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
 
 **Bad Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Tch. Get lost. And keep my name out of your mouth, you hear?</td></tr><tr><td>I haven't even said your name?</td></tr><tr><td>Keep it that way. Or else. You get me?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Tch. Get lost. And keep my name out of your mouth, you hear?</td>
+</tr>
+<tr>
+  <td>I haven't even said your name?</td>
+</tr>
+<tr>
+  <td>Keep it that way. Or else. You get me?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Good Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hm? You don't look like much. I've got things to do. Maybe when you've made a name for yourself, heh... You'll say it was all due to this encounter.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Hm? You don't look like much. I've got things to do. Maybe when you've made a name for yourself, heh... You'll say it was all due to this encounter.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Requirements Met:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">So you're the talk of the town, huh? All I'm saying is that if it were me... Well. Let's just say I'd do it with a little more expertise. I can demonstrate how <i>I</i> would have killed it, if you want.</td></tr><tr><td>If I let you teach me will you leave me alone?</td><td>Don't Vigils usually use blades?</td></tr><tr><td>You'll be thankful when you kill those things twice as effectively. Now, the proper way of doing things goes a little like this...</td><td>Tch. Looks like you haven't done your reading. The Blade is the wielder's conviction. Their precision. Their cunning. When you have all of that in spades, well. Then you don't need a weapon. Then you <i>are</i> the weapon.</td></tr><tr><td>[End Dialogue], Fang and Coil obtained</td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">So you're the talk of the town, huh? All I'm saying is that if it were me... Well. Let's just say I'd do it with a little more expertise. I can demonstrate how <i>I</i> would have killed it, if you want.</td>
+</tr>
+<tr>
+  <td>If I let you teach me will you leave me alone?</td>
+  <td>Don't Vigils usually use blades?</td>
+</tr>
+<tr>
+  <td>You'll be thankful when you kill those things twice as effectively. Now, the proper way of doing things goes a little like this...</td>
+  <td>Tch. Looks like you haven't done your reading. The Blade is the wielder's conviction. Their precision. Their cunning. When you have all of that in spades, well. Then you don't need a weapon. Then you <i>are</i> the weapon.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Fang and Coil obtained</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Your stance could do with some work. Your shoulders and footwork are all off.</td></tr><tr><td>Don't Vigils usually use blades?</td></tr><tr><td>[See first instance]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Your stance could do with some work. Your shoulders and footwork are all off.</td>
+</tr>
+<tr>
+  <td>Don't Vigils usually use blades?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

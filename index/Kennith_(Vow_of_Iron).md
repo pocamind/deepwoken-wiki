@@ -34,4 +34,22 @@ Kennith can be found sitting on a mat with his toys at [Etris](Etris.md), near t
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*A little Etrean boy with a sparkle in his eye appears to be playing pretend, wearing a strange hat. A wooden toy sword hangs by his hip.*</i> I can't wait to be a guard one day! I'll do my best to be the <i><b>hero</b></i> Etrea needs!..</td></tr><tr><td>Kid, you're gonna do a great job in the future. I believe in you.</td></tr><tr><td><i>*The child smiles at you, full of glee.*</i> You really think so? Thanks! I'll do my best! One day, maybe I'll be a detective, just like my pa!..</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*A little Etrean boy with a sparkle in his eye appears to be playing pretend, wearing a strange hat. A wooden toy sword hangs by his hip.*</i> I can't wait to be a guard one day! I'll do my best to be the <i><b>hero</b></i> Etrea needs!..</td>
+</tr>
+<tr>
+  <td>Kid, you're gonna do a great job in the future. I believe in you.</td>
+</tr>
+<tr>
+  <td><i>*The child smiles at you, full of glee.*</i> You really think so? Thanks! I'll do my best! One day, maybe I'll be a detective, just like my pa!..</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

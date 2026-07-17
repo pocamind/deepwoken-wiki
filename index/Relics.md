@@ -104,7 +104,28 @@ On use, the user will gain 3 to 5 [Hallowtide](Hallowtide.md)\-related items or 
 
 Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weapons.md).
 
-<table><caption></caption><tbody><tr><th>Image</th><th>Description/Usage</th></tr><tr><td><figure><figcaption></figcaption></figure></td><td><b><a href="Enchant_Stone.md">Enchant Stone</a></b> - A glowing stone imbued with a random weapon enchant. Used to enchant your held weapon with the respective <a href="Enchantments.md">enchantment</a>.<ul><li><i>(Consumed upon usage)</i></li></ul></td></tr><tr><td><figure><figcaption></figcaption></figure></td><td><b><a href="Enchant_Grease.md">Enchant Grease</a></b> - A vial of grease imbued with an equipment enchant. Used to enchant a selected equipment item with the respective <a href="Enchantments.md">enchantment</a>.<ul><li><i>(Consumed upon usage)</i></li></ul></td></tr></tbody></table>
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Image</th>
+  <th>Description/Usage</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b><a href="Enchant_Stone.md">Enchant Stone</a></b> - A glowing stone imbued with a random weapon enchant. Used to enchant your held weapon with the respective <a href="Enchantments.md">enchantment</a>.
+  <ul>
+    <li><i>(Consumed upon usage)</i></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b><a href="Enchant_Grease.md">Enchant Grease</a></b> - A vial of grease imbued with an equipment enchant. Used to enchant a selected equipment item with the respective <a href="Enchantments.md">enchantment</a>.
+  <ul>
+    <li><i>(Consumed upon usage)</i></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### Spire Relics
 

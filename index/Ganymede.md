@@ -45,13 +45,48 @@ Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with d
 
   
 
-<table><tbody><tr><td></td><td><b>Deepfolk</b><ul><li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"<ul><li>Gain 1.2x Sanity from all sources</li><li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge or more now cost 1 less knowledge to make a deal with</li></ul></li></ul></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Willpower</li><li>+2 Intelligence</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Deepfolk</b>
+  <ul>
+    <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"
+  <ul>
+    <li>Gain 1.2x Sanity from all sources</li>
+    <li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge or more now cost 1 less knowledge to make a deal with</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Willpower</li>
+    <li>+2 Intelligence</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Iron Vow:**
 
   
 
-<table><tbody><tr><td></td><td><b>Steady Mind</b><ul><li>"<i>Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.</i>"<ul><li>Either the passive flaws timer in the depths takes longer, or the max count before your head explodes is increased. Currently unknown.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Steady Mind</b>
+  <ul>
+    <li>"<i>Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.</i>"
+  <ul>
+    <li>Either the passive flaws timer in the depths takes longer, or the max count before your head explodes is increased. Currently unknown.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Lore:**
 

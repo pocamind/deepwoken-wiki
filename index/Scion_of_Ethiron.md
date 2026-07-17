@@ -236,7 +236,59 @@ Exhaustive Loot Table
 
 This list may be missing items, please help us by filling in the gaps.
 
-<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><a href="Authority_Commander.md">Authority Commander</a>, <a href="Ignition_Deepdelver.md">Ignition Deepdelver</a>, <a href="Windrunner_Robes.md">Windrunner Robes</a></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li>1 <a href="Crowns.md">Crown</a></li><li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Temporal_Crux.md">Temporal Crux</a>, <a href="Ethereal_Bone_Dust.md">Ethereal Bone Dust</a>.</li><li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a>, <a href="Void_Spire.md">Void Spire</a>.</li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Kyrsieger.md"><font>Kyrsieger</font></a>, <a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li><li><b>Alloyed Weapons</b>: N/A</li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li><li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsblade.md">Kyrsblade</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li><li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Railblade.md">Railblade</a>.</li></ol></li><li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>.</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Kyrsmas_Hat.md"><font>Kyrsmas Hat</font></a> (only obtainable during <a href="Kyrsmas.md">Kyrsmas</a>, Deepwoken's Christmas event).</li><li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:<ol><li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li><li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>.</li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: N/A</li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li><li><b>Generic Rings</b>: <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Silver_Ring.md">Silver Ring</a>.</li></ol></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Authority_Commander.md">Authority Commander</a>, <a href="Ignition_Deepdelver.md">Ignition Deepdelver</a>, <a href="Windrunner_Robes.md">Windrunner Robes</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li>1 <a href="Crowns.md">Crown</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Temporal_Crux.md">Temporal Crux</a>, <a href="Ethereal_Bone_Dust.md">Ethereal Bone Dust</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Kyrsieger.md"><font>Kyrsieger</font></a>, <a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li>
+    <li><b>Alloyed Weapons</b>: N/A</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsblade.md">Kyrsblade</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Railblade.md">Railblade</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Kyrsmas_Hat.md"><font>Kyrsmas Hat</font></a> (only obtainable during <a href="Kyrsmas.md">Kyrsmas</a>, Deepwoken's Christmas event).</li>
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
+  <ol>
+    <li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li>
+    <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>.</li>
+  </ol></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li>
+    <li><b>Generic Rings</b>: <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Silver_Ring.md">Silver Ring</a>.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

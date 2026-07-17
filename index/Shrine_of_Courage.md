@@ -22,7 +22,30 @@ The Shrine of Courage can only be used once if you have completed it.
 
 ### Trial Information
 
-<table><caption></caption><tbody><tr><th>Power</th><th>Wave</th><th>Enemies</th></tr><tr><td>1-9</td><td>1</td><td><a href="Enforcer.md">Enforcer</a></td></tr><tr><td>10-16</td><td>2</td><td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Fury_Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="King_Thresher.md">King Thresher</a></td></tr><tr><td>17-20</td><td>2-3</td><td><b>Corrupted</b> <a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Fury_Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="King_Thresher.md">King Thresher</a></td></tr></tbody></table>
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Power</th>
+  <th>Wave</th>
+  <th>Enemies</th>
+</tr>
+<tr>
+  <td>1-9</td>
+  <td>1</td>
+  <td><a href="Enforcer.md">Enforcer</a></td>
+</tr>
+<tr>
+  <td>10-16</td>
+  <td>2</td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Fury_Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="King_Thresher.md">King Thresher</a></td>
+</tr>
+<tr>
+  <td>17-20</td>
+  <td>2-3</td>
+  <td><b>Corrupted</b> <a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Fury_Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="King_Thresher.md">King Thresher</a></td>
+</tr>
+</tbody>
+</table>
 
 Within the trial there is a slight chance that the monsters can be corrupted, which will bring extreme risk to the player if they aren't prepared to fight them.  
 
@@ -30,11 +53,41 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
 
 **Incompleted:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*A voice calls from a far away place... Beckoning you to leave behind your weakness.*</i></td></tr><tr><td>[Prove yourself]</td></tr><tr><td>YOU SHALL BE TESTED.</td></tr><tr><td>[End Dialogue], your next Depths Trial will be harder.</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*A voice calls from a far away place... Beckoning you to leave behind your weakness.*</i></td>
+</tr>
+<tr>
+  <td>[Prove yourself]</td>
+</tr>
+<tr>
+  <td>YOU SHALL BE TESTED.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], your next Depths Trial will be harder.</td>
+</tr>
+</tbody>
+</table>
 
 **Completed:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The voice hums its approval... Of your proven strength...*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The voice hums its approval... Of your proven strength...*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

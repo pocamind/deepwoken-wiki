@@ -225,7 +225,75 @@ Aside from his seasonal rewards, the Ferryman also provides a line of three ches
 
 Exhaustive Loot Table
 
-<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><p><a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></p></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="The_Ferryman's_Lullaby.md">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li><li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li><li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a></li><li><b>Alloyed Weapons</b>: N/A</li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a></li><li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li><li><b>Heavy Weapons</b>: N/A</li></ol></li><li><b>Offhand Weapons</b>: N/A</li><li><b>Seasonal Exclusive Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter)</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:<ol><li><b>All Seasons</b>: N/A</li><li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Winter)</li></ol></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>All Seasons</b>: N/A</li><li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (Summer &amp; Winter)</li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li><li><b>Seasonal Exclusive</b>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a> (Winter)</li></ol></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>:<ol><li><b>All Seasons</b>: N/A</li><li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter)</li></ol></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:<ol><li><b>All Seasons</b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>.</li><li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn)</li></ol></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li></ol></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><p><a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></p></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="The_Ferryman's_Lullaby.md">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a></li>
+    <li><b>Alloyed Weapons</b>: N/A</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a></li>
+    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li>
+    <li><b>Heavy Weapons</b>: N/A</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: N/A</li>
+    <li><b>Seasonal Exclusive Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter)</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
+  <ol>
+    <li><b>All Seasons</b>: N/A</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Winter)</li>
+  </ol></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
+  <ol>
+    <li><b>All Seasons</b>: N/A</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (Summer &amp; Winter)</li>
+  </ol></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
+  <ol>
+    <li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a> (Winter)</li>
+  </ol></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:
+  <ol>
+    <li><b>All Seasons</b>: N/A</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter)</li>
+  </ol></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:
+  <ol>
+    <li><b>All Seasons</b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>.</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn)</li>
+  </ol></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
+  <ol>
+    <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
@@ -235,21 +303,116 @@ Exhaustive Loot Table
 
 **First Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*He yawns deeply.*</i> Oh, it seems one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br></td></tr><tr><td>Who are you?</td></tr><tr><td>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br></td></tr><tr><td>[Tell him your name]</td></tr><tr><td>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?<br></td></tr><tr><td>A wager?</td></tr><tr><td>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?<br></td></tr><tr><td>Deal.</td></tr><tr><td>[End Dialogue], Fight Begins</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*He yawns deeply.*</i> Oh, it seems one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br>
+  </td>
+</tr>
+<tr>
+  <td>Who are you?</td>
+</tr>
+<tr>
+  <td>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br>
+  </td>
+</tr>
+<tr>
+  <td>[Tell him your name]</td>
+</tr>
+<tr>
+  <td>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?<br>
+  </td>
+</tr>
+<tr>
+  <td>A wager?</td>
+</tr>
+<tr>
+  <td>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?<br>
+  </td>
+</tr>
+<tr>
+  <td>Deal.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Fight Begins</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Oh, back again? Heh, how about another wager?<br></td></tr><tr><td>Deal.</td></tr><tr><td>[End Dialogue], Fight Begins</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Oh, back again? Heh, how about another wager?<br>
+  </td>
+</tr>
+<tr>
+  <td>Deal.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Fight Begins</td>
+</tr>
+</tbody>
+</table>
 
 **Fight End:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Well done, well done!</td></tr><tr><td colspan="12">Who are you?</td></tr><tr><td colspan="6">[Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font>]</td><td colspan="6">[Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font>]</td></tr><tr><td colspan="6">Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</td><td colspan="6">Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</td></tr><tr><td colspan="6">So, what are you?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">I am a <a href="Glossary.md#krulians">Krulian</a>, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Well done, well done!</td>
+</tr>
+<tr>
+  <td colspan="12">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="6">[Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font>]</td>
+  <td colspan="6">[Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font>]</td>
+</tr>
+<tr>
+  <td colspan="6">Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</td>
+  <td colspan="6">Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</td>
+</tr>
+<tr>
+  <td colspan="6">So, what are you?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">I am a <a href="Glossary.md#krulians">Krulian</a>, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Exclusive Dialogue:**
 
 This dialogue was only available during the [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, yes, I see the appeal here... The music, the lights, the show! It is spectacular. Unfortunately I must be going.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ah, yes, I see the appeal here... The music, the lights, the show! It is spectacular. Unfortunately I must be going.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 Additionally, The Ferryman used to have a dialogue for beating him under a certain time limit, as the pre-release obtainment method for the [Rhythm](Murmur%253A_Rhythm.md) murmur.
 

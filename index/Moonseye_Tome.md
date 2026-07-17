@@ -36,17 +36,53 @@ _(one-time use, re-obtainable)_
 
 **First use:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed.</td></tr><tr><td colspan="2">[End Dialogue], you receive 100 and the Tome is consumed</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue], you receive 100 and the Tome is consumed</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent uses:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">The Voices reach out to you more gently now, offering their sympathies in a vast procession of guilt.</td></tr><tr><td colspan="2">[End Dialogue], you receive 50 and the Tome is consumed</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">The Voices reach out to you more gently now, offering their sympathies in a vast procession of guilt.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue], you receive 50 and the Tome is consumed</td>
+</tr>
+</tbody>
+</table>
 
 **Max Knowledge:**
 
 Using the Tome at max Knowledge (999) displays this message.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Your mind is too full to take in the knowledge within.</td></tr><tr><td colspan="2">[End Dialogue], nothing happens</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Your mind is too full to take in the knowledge within.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue], nothing happens</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

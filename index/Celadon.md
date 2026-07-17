@@ -34,7 +34,19 @@ Celadon is located in [Summer Isle](Summer_Isle.md), up the ladder where the bed
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogue:**
 
@@ -42,11 +54,35 @@ These dialogues are unlocked if the player is obtaining [Oathless](Oath%253A_Oat
 
 **First Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Those eyes... You wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Those eyes... You wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

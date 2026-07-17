@@ -45,17 +45,113 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Welcome to Lance's Food... I guess.</td></tr><tr><td>You okay?</td><td>Need some help around here?</td></tr><tr><td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td><td>Yeah, funny that you should mention it. I have a box of supplies for the Vigils training in the temple. Stratos by the pond was asking after it, since I've been a bit slow to deliver... Think you could take it?</td></tr><tr><td>Well, what is your name?</td><td>[End Dialogue]</td></tr><tr><td><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it [Random Name]? Surely not. No loving parent would call their child [Random Name]... Right?*</i> You'll remember it, right?...</td></tr><tr><td>Uh huh! Yep! Sure!</td></tr><tr><td><i>*The man seems moved by your kindness.*</i> "Oh Gods below... Thank you.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Welcome to Lance's Food... I guess.</td>
+</tr>
+<tr>
+  <td>You okay?</td>
+  <td>Need some help around here?</td>
+</tr>
+<tr>
+  <td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td>
+  <td>Yeah, funny that you should mention it. I have a box of supplies for the Vigils training in the temple. Stratos by the pond was asking after it, since I've been a bit slow to deliver... Think you could take it?</td>
+</tr>
+<tr>
+  <td>Well, what is your name?</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it [Random Name]? Surely not. No loving parent would call their child [Random Name]... Right?*</i> You'll remember it, right?...</td>
+</tr>
+<tr>
+  <td>Uh huh! Yep! Sure!</td>
+</tr>
+<tr>
+  <td><i>*The man seems moved by your kindness.*</i> "Oh Gods below... Thank you.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
 **Second Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome to Lance's Food... I guess.</td></tr><tr><td>You okay?</td></tr><tr><td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td></tr><tr><td>Well, what is your name?</td></tr><tr><td><i>*The man looks like he's been stabbed in the heart.*</i> I... I already told you...</td></tr><tr><td>UHH NO I MEANT YOUR MIDDLE NAME?</td></tr><tr><td>Oh... Well, it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a <a href="Glossary.md#the-drowned-gods">Drowned God</a> or something? A <a href="Glossary.md#vows">Vow</a>? What is wrong with this guy?*</i> People always seem so interested in my middle name...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome to Lance's Food... I guess.</td>
+</tr>
+<tr>
+  <td>You okay?</td>
+</tr>
+<tr>
+  <td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td>
+</tr>
+<tr>
+  <td>Well, what is your name?</td>
+</tr>
+<tr>
+  <td><i>*The man looks like he's been stabbed in the heart.*</i> I... I already told you...</td>
+</tr>
+<tr>
+  <td>UHH NO I MEANT YOUR MIDDLE NAME?</td>
+</tr>
+<tr>
+  <td>Oh... Well, it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a <a href="Glossary.md#the-drowned-gods">Drowned God</a> or something? A <a href="Glossary.md#vows">Vow</a>? What is wrong with this guy?*</i> People always seem so interested in my middle name...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Third Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome to Lance's Food... I guess.</td></tr><tr><td>You okay?</td></tr><tr><td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td></tr><tr><td>Well, what is your name?</td></tr><tr><td><i>*The man looks like he's been stabbed in the heart.*</i> I... I already told you...</td></tr><tr><td>UHH NO I MEANT YOUR MIDDLE NAME?</td></tr><tr><td><i>*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void itself. Oh Gods, we're being pulled in. Anchor the ship! Avert your eyes, damn you!*</i> ...I told you that one too...</td></tr><tr><td>[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome to Lance's Food... I guess.</td>
+</tr>
+<tr>
+  <td>You okay?</td>
+</tr>
+<tr>
+  <td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td>
+</tr>
+<tr>
+  <td>Well, what is your name?</td>
+</tr>
+<tr>
+  <td><i>*The man looks like he's been stabbed in the heart.*</i> I... I already told you...</td>
+</tr>
+<tr>
+  <td>UHH NO I MEANT YOUR MIDDLE NAME?</td>
+</tr>
+<tr>
+  <td><i>*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void itself. Oh Gods, we're being pulled in. Anchor the ship! Avert your eyes, damn you!*</i> ...I told you that one too...</td>
+</tr>
+<tr>
+  <td>[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

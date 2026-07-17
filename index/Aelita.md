@@ -44,7 +44,38 @@ She is the twin sister of [Tillian](Tillian.md). The two go by the name of the S
 
 ## Drops
 
-<table><tbody><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: N/A</li><li><b>Alloyed Weapons</b>: N/A</li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: N/A</li><li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a></li><li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a></li></ol></li><li><b>Offhand Weapons</b>: N/A</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Assassin's_Hood.md">Assassin's Hood</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a>, <a href="Authority_Commander_Coat.md">Authority Commander Coat</a>, <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Brow_Stud.md">Brow Stud</a>, <a href="Dermal_Stud.md">Dermal Stud</a>, <a href="Headband.md">Headband</a>, <a href="Moon_Brow_Rings.md">Moon Brow Rings</a>, <a href="Moon_Lip_Ring.md">Moon Lip Ring</a>, <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>, <a href="Nose_Stud.md">Nose Stud</a>, <a href="Snakebite_Studs.md">Snakebite Studs</a>, <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li><li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: N/A</li>
+    <li><b>Alloyed Weapons</b>: N/A</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: N/A</li>
+    <li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: N/A</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Assassin's_Hood.md">Assassin's Hood</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a>, <a href="Authority_Commander_Coat.md">Authority Commander Coat</a>, <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Brow_Stud.md">Brow Stud</a>, <a href="Dermal_Stud.md">Dermal Stud</a>, <a href="Headband.md">Headband</a>, <a href="Moon_Brow_Rings.md">Moon Brow Rings</a>, <a href="Moon_Lip_Ring.md">Moon Lip Ring</a>, <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>, <a href="Nose_Stud.md">Nose Stud</a>, <a href="Snakebite_Studs.md">Snakebite Studs</a>, <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

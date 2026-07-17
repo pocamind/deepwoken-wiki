@@ -56,25 +56,111 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. STATE YOUR PURPOSE.</td></tr><tr><td colspan="2">I wish to engage in a deal.</td></tr><tr><td colspan="2">THE TERMS ARE AS FOLLOWS: I WILL CONSUME YOUR KNOWLEDGE. YOU WILL REAP A BENEFIT.</td></tr><tr><td colspan="2">I agree.</td></tr><tr><td colspan="2">YOU ARE IMBALANCED. LIKE A CORPSE LISTING TO ITS SIDE. YOUR FRAGMENTS WILL BE LINED IN A ROW. LIKE TIN SOLDIERS; ALL THE SAME.</td></tr><tr><td colspan="2">Very well.</td></tr><tr><td colspan="2">[Shrine of Order UI pops up, showing your stats before and after using the Shrine]</td></tr><tr><td>[Player accepts the changes]</td><td>[Player declines the changes]</td></tr><tr><td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL. GO NOW.</td><td>[End Dialogue]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td colspan="2">I wish to engage in a deal.</td>
+</tr>
+<tr>
+  <td colspan="2">THE TERMS ARE AS FOLLOWS: I WILL CONSUME YOUR KNOWLEDGE. YOU WILL REAP A BENEFIT.</td>
+</tr>
+<tr>
+  <td colspan="2">I agree.</td>
+</tr>
+<tr>
+  <td colspan="2">YOU ARE IMBALANCED. LIKE A CORPSE LISTING TO ITS SIDE. YOUR FRAGMENTS WILL BE LINED IN A ROW. LIKE TIN SOLDIERS; ALL THE SAME.</td>
+</tr>
+<tr>
+  <td colspan="2">Very well.</td>
+</tr>
+<tr>
+  <td colspan="2">[Shrine of Order UI pops up, showing your stats before and after using the Shrine]</td>
+</tr>
+<tr>
+  <td>[Player accepts the changes]</td>
+  <td>[Player declines the changes]</td>
+</tr>
+<tr>
+  <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL. GO NOW.</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Requirements Unmet:**
 
 **Not Enough Knowledge:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>YOU LACK THE POTENTIAL TO UNDERSTAND BALANCE.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>YOU LACK THE POTENTIAL TO UNDERSTAND BALANCE.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Have an Oath:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>YOUR HEART IS ALREADY PLEDGED TO ANOTHER.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>YOUR HEART IS ALREADY PLEDGED TO ANOTHER.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Below Power 8:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>THE SCALES HAVE NOT YET TIPPED.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>THE SCALES HAVE NOT YET TIPPED.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

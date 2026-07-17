@@ -28,4 +28,16 @@ Each Sachan in the scene are donned in their respective clan's armor.
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*A group of Etrean nobility is gathered in a circle, apparently engaged in a heated argument, paying you absolutely no heed. It's difficult to make out what the discussion is about, but you do hear the words 'Dravik', 'cowards', and 'Lord Regent' tossed around.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*A group of Etrean nobility is gathered in a circle, apparently engaged in a heated argument, paying you absolutely no heed. It's difficult to make out what the discussion is about, but you do hear the words 'Dravik', 'cowards', and 'Lord Regent' tossed around.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

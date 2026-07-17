@@ -25,7 +25,19 @@ It can only be interacted with if you have at least 15 [Galebreathe](Galebreathe
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">[Trinity Galenwarde] You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">[Trinity Galenwarde] You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -21,15 +21,45 @@ Some Administrators are also official staff for the Deepwoken game.
 
 Staff
 
-<table><tbody><tr><td>Bureaucrats</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Bureaucrats</td>
+</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td>Administrators</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Administrators</td>
+</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td>Content Moderators</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Content Moderators</td>
+</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td>Discussion Moderators</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Discussion Moderators</td>
+</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td>Inactive Staff</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Inactive Staff</td>
+</tr>
+</tbody>
+</table>
 
   
 

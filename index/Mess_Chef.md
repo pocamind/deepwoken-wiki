@@ -30,8 +30,32 @@ The Mess Chef is an NPC located inside of [Guild Bases](Guild_Bases.md). They ca
 
 **From Guild:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td>Ahh [First Name]! You wish for a morsel? Yes? A bite? I will do my best to indulge your tastes!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ahh [First Name]! You wish for a morsel? Yes? A bite? I will do my best to indulge your tastes!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Not from Guild:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ahh... You fancy a bite? A morsel of my finest offering? I will do my best to indulge...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ahh... You fancy a bite? A morsel of my finest offering? I will do my best to indulge...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

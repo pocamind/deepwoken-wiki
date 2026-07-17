@@ -21,4 +21,16 @@ It can only be interacted with if you have at least 15 [Thundercall](Thundercall
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">[Tessa] Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">[Tessa] Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

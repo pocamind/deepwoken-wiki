@@ -113,15 +113,107 @@ Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker.
 
 **Quest Start:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Ah! Hello, hello! The name is Odiolavoro and I seek to be the most brilliant chef this <a href="Glossary.md#the-luminants">Luminant</a> has ever seen! Only... Ah...</td></tr><tr><td colspan="2">Only...?</td></tr><tr><td colspan="2">I am having difficulty keeping up with the - ah... - <i>competition</i>... You know of the Leshi brothers yes? They never seem to run out of stock...</td></tr><tr><td colspan="2">Is there some way I can help?</td></tr><tr><td colspan="2"><i>*He tugs at his moustache ends and looks you up and down.*</i> Hmm... Maybe maybe... Ah! Yes! You can be my sous-chef.</td></tr><tr><td colspan="2">Your sous-chef?</td></tr><tr><td colspan="2">Yes, yes! If you help me prepare some - ah.. - meals... I will pay you handsomely for your efforts. If they are up to my standards, of course...</td></tr><tr><td>Sounds good to me, when can I start?</td><td>Why work for you when I can just set up my own shop?</td></tr><tr><td>Now! I have received an order for one - ah... <b>[FOOD]</b>... Think you can make that for me?</td><td>Ah... Well. The Leshi brothers are quite formidable. There are two of them. And there will be one of you. Yes? Very bad for business.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Ah! Hello, hello! The name is Odiolavoro and I seek to be the most brilliant chef this <a href="Glossary.md#the-luminants">Luminant</a> has ever seen! Only... Ah...</td>
+</tr>
+<tr>
+  <td colspan="2">Only...?</td>
+</tr>
+<tr>
+  <td colspan="2">I am having difficulty keeping up with the - ah... - <i>competition</i>... You know of the Leshi brothers yes? They never seem to run out of stock...</td>
+</tr>
+<tr>
+  <td colspan="2">Is there some way I can help?</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*He tugs at his moustache ends and looks you up and down.*</i> Hmm... Maybe maybe... Ah! Yes! You can be my sous-chef.</td>
+</tr>
+<tr>
+  <td colspan="2">Your sous-chef?</td>
+</tr>
+<tr>
+  <td colspan="2">Yes, yes! If you help me prepare some - ah.. - meals... I will pay you handsomely for your efforts. If they are up to my standards, of course...</td>
+</tr>
+<tr>
+  <td>Sounds good to me, when can I start?</td>
+  <td>Why work for you when I can just set up my own shop?</td>
+</tr>
+<tr>
+  <td>Now! I have received an order for one - ah... <b>[FOOD]</b>... Think you can make that for me?</td>
+  <td>Ah... Well. The Leshi brothers are quite formidable. There are two of them. And there will be one of you. Yes? Very bad for business.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest End:**
 
-<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8">Ah! Hello! Did you get me the <b>[FOOD]</b>?</td></tr><tr><td colspan="8">Yes Chef.</td></tr><tr><td colspan="4">Player has the requested Food</td><td colspan="4">Player does not have the requested Food</td></tr><tr><td colspan="2">Base Dialogue</td><td colspan="2">Player has the <a href="Talents.md#tavernkeep">Artisan Chef</a> <a href="Talents.md">Talent</a></td><td colspan="4">Ah! Non! This will not do. You have not brought me what I asked for.</td></tr><tr><td>Ah! Primo! Let me just get a taste... Not cooked long enough. I want to smell the ash. Still, you have done as I have asked! Payment!</td><td>Ah! Primo! Let me just get a taste... Ah. Needs less salt. Much less salt. Why so much salt? Still, you have done as I have asked! Payment!</td><td colspan="2">Ah! Primo! Let me just get a taste... Ah! Primo, primo! Too good for my customers... I keep for me. Still, you have done as I have asked! Payment!</td><td colspan="4">[End Dialogue]</td></tr><tr><td colspan="4">[End Dialogue], Player receives XP and Chest</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="8">Ah! Hello! Did you get me the <b>[FOOD]</b>?</td>
+</tr>
+<tr>
+  <td colspan="8">Yes Chef.</td>
+</tr>
+<tr>
+  <td colspan="4">Player has the requested Food</td>
+  <td colspan="4">Player does not have the requested Food</td>
+</tr>
+<tr>
+  <td colspan="2">Base Dialogue</td>
+  <td colspan="2">Player has the <a href="Talents.md#tavernkeep">Artisan Chef</a> <a href="Talents.md">Talent</a></td>
+  <td colspan="4">Ah! Non! This will not do. You have not brought me what I asked for.</td>
+</tr>
+<tr>
+  <td>Ah! Primo! Let me just get a taste... Not cooked long enough. I want to smell the ash. Still, you have done as I have asked! Payment!</td>
+  <td>Ah! Primo! Let me just get a taste... Ah. Needs less salt. Much less salt. Why so much salt? Still, you have done as I have asked! Payment!</td>
+  <td colspan="2">Ah! Primo! Let me just get a taste... Ah! Primo, primo! Too good for my customers... I keep for me. Still, you have done as I have asked! Payment!</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue], Player receives XP and Chest</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td>New Orders</td><td>No New Orders</td></tr><tr><td>Ah! My excellent apprentice! Hello! Another order came in. Think you can make <b>[FOOD]</b>?</td><td>Ah! My friend.. Business is slow! No new orders yet. I will have need of you soon, I am sure.</td></tr><tr><td>Yeah, I reckon I can do that.</td><td>[End Dialogue]</td></tr><tr><td>Ah! Excellent! I knew I could count on you... Do make sure the <b>[FOOD]</b> is to my liking though, yes?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>New Orders</td>
+  <td>No New Orders</td>
+</tr>
+<tr>
+  <td>Ah! My excellent apprentice! Hello! Another order came in. Think you can make <b>[FOOD]</b>?</td>
+  <td>Ah! My friend.. Business is slow! No new orders yet. I will have need of you soon, I am sure.</td>
+</tr>
+<tr>
+  <td>Yeah, I reckon I can do that.</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td>Ah! Excellent! I knew I could count on you... Do make sure the <b>[FOOD]</b> is to my liking though, yes?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

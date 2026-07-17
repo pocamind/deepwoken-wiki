@@ -49,12 +49,86 @@ Trig can be found standing outside of the [Inn](Inn.md) at [Summer Isle](Summer_
 
 **Quest Start:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>What do you want? I'm busy.</td></tr><tr><td>Need some help?</td></tr><tr><td>Yeah, this good-for-nothing owes our boss money. The only problem is I can't find him. If you find him, then I'll teach you a Summer Company gun technique.</td></tr><tr><td>Sounds good.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>What do you want? I'm busy.</td>
+</tr>
+<tr>
+  <td>Need some help?</td>
+</tr>
+<tr>
+  <td>Yeah, this good-for-nothing owes our boss money. The only problem is I can't find him. If you find him, then I'll teach you a Summer Company gun technique.</td>
+</tr>
+<tr>
+  <td>Sounds good.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest End:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="2">Player has not retrieved the money from Asius</td><td colspan="4">Ah, my friend, you've returned, do you have the money?</td></tr><tr><td colspan="2">Finish that job I put you on already, I don't got all day.</td><td colspan="2">Player decides to lend Asius a hand</td><td colspan="2">Player has retrieved the money from Asius</td></tr><tr><td colspan="2">[End Dialogue]</td><td colspan="2">No, and you won't be getting your money.</td><td colspan="2">Here. [Hand over papers]</td></tr><tr><td colspan="2"></td><td colspan="2">Huh? This some kinda joke?</td><td colspan="2">Ah that will do, good work friend. Here is your payment.</td></tr><tr><td colspan="2"></td><td>Nope.</td><td>Uh, just a joke.</td><td colspan="2">[End Dialogue], player gains Summer Company Reputation</td></tr><tr><td colspan="2"></td><td>Yeah. Better be.</td><td>I thought as much. Get 'em boys!</td></tr><tr><td colspan="2"></td><td>[End Dialogue]</td><td>[End Dialogue], player loses Summer Company reputation and 3 Summer Company Guards spawn to attack</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Player has not retrieved the money from Asius</td>
+  <td colspan="4">Ah, my friend, you've returned, do you have the money?</td>
+</tr>
+<tr>
+  <td colspan="2">Finish that job I put you on already, I don't got all day.</td>
+  <td colspan="2">Player decides to lend Asius a hand</td>
+  <td colspan="2">Player has retrieved the money from Asius</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">No, and you won't be getting your money.</td>
+  <td colspan="2">Here. [Hand over papers]</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">Huh? This some kinda joke?</td>
+  <td colspan="2">Ah that will do, good work friend. Here is your payment.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>Nope.</td>
+  <td>Uh, just a joke.</td>
+  <td colspan="2">[End Dialogue], player gains Summer Company Reputation</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>Yeah. Better be.</td>
+  <td>I thought as much. Get 'em boys!</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], player loses Summer Company reputation and 3 Summer Company Guards spawn to attack</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td>Hm? I'm busy, leave me alone.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Hm? I'm busy, leave me alone.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

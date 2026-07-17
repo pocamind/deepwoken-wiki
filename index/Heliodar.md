@@ -42,11 +42,42 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 
 **Pathfinder:**
 
-<table><tbody><tr><td>TalentIconWings</td><td><b>Heliodar Wings</b><p><i>Take flight [H].</i></p><ul><li>Gives the user the ability to temporarily fly, sprouting glowing orange wings, though this is temporary and lasts about 15 seconds. This aspect is also not immune to fall damage and can still die from it.<b></b></li><li>In <a href="Vow_of_Iron.md">Vow of Iron</a>, this can be obtained by defeating the <a href="Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md">Shogun of the Prophet's Guard (Temple of Mur)</a> while using the <a href="Solborn.md">Solborn</a> <a href="Mementos.md">Memento</a>.</li></ul></td></tr><tr><td><center><font>+3</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Strength</li><li>+3 Fortitude</li><li>+2 Agility</li><li>+2 Intelligence</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>TalentIconWings</td>
+  <td><b>Heliodar Wings</b><p><i>Take flight [H].</i></p>
+  <ul>
+    <li>Gives the user the ability to temporarily fly, sprouting glowing orange wings, though this is temporary and lasts about 15 seconds. This aspect is also not immune to fall damage and can still die from it.<b></b></li>
+    <li>In <a href="Vow_of_Iron.md">Vow of Iron</a>, this can be obtained by defeating the <a href="Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md">Shogun of the Prophet's Guard (Temple of Mur)</a> while using the <a href="Solborn.md">Solborn</a> <a href="Mementos.md">Memento</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+3</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Strength</li>
+    <li>+3 Fortitude</li>
+    <li>+2 Agility</li>
+    <li>+2 Intelligence</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Vow of Iron:**
 
-<table><tbody><tr><td>TalentIconFire</td><td><b>From The Ashes</b><p><i>Using an Etris Flask when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds. Gain extra healing when below 30% health as well.</i></p><ul><li>Using an <a href="Etris_Flask.md">Etris Flask</a> gives you an x% damage, an x% resistance buff and heals x% extra HP for 30 seconds.</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>TalentIconFire</td>
+  <td><b>From The Ashes</b><p><i>Using an Etris Flask when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds. Gain extra healing when below 30% health as well.</i></p>
+  <ul>
+    <li>Using an <a href="Etris_Flask.md">Etris Flask</a> gives you an x% damage, an x% resistance buff and heals x% extra HP for 30 seconds.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Miscellaneous
 

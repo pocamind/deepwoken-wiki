@@ -22,7 +22,22 @@ Not a lot of information known about this race, though it is a unique Gremor var
 
 ## Racial Traits
 
-<table><tbody><tr><td></td><td><b>Navae's Guidance</b><ul><li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"<ul><li>Gain a compass at the top of your screen that points South.</li><li>Reduced hunger loss.</li><li>If blind, gain a slight range of clear vision around you.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Navae's Guidance</b>
+  <ul>
+    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"
+  <ul>
+    <li>Gain a compass at the top of your screen that points South.</li>
+    <li>Reduced hunger loss.</li>
+    <li>If blind, gain a slight range of clear vision around you.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Miscellaneous
 

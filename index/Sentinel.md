@@ -27,7 +27,25 @@ Sentinel is located under [Etris](Etris.md) in a run-down house.
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>...</td></tr><tr><td>Who are you?</td></tr><tr><td>Enter.</td></tr><tr><td>[End Dialogue], Sentinel steps to one side for five seconds, letting the player through the door</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>...</td>
+</tr>
+<tr>
+  <td>Who are you?</td>
+</tr>
+<tr>
+  <td>Enter.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Sentinel steps to one side for five seconds, letting the player through the door</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -28,11 +28,51 @@ An aspect of nomadic dragons from the North.
 
 **Vow of Iron:**
 
-<table><tbody><tr><td></td><td><b>Scales of the Edenkite</b><ul><li><i>"In order to resolve conflict in Lumen, you need to be able to handle any situation thrown at you. Activate your Scales to reduce all damage taken by 80% and de-aggro enemies briefly. [3 minute CD]"</i><ul><li>Grants a Talent tool that gives 80% damage reduction for 5 seconds. This has a 3 minute cooldown.</li><li>The deaggro effect mentioned in the description does <b>not</b> work.</li></ul></li></ul><hr></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Scales of the Edenkite</b>
+  <ul>
+    <li><i>"In order to resolve conflict in Lumen, you need to be able to handle any situation thrown at you. Activate your Scales to reduce all damage taken by 80% and de-aggro enemies briefly. [3 minute CD]"</i>
+  <ul>
+    <li>Grants a Talent tool that gives 80% damage reduction for 5 seconds. This has a 3 minute cooldown.</li>
+    <li>The deaggro effect mentioned in the description does <b>not</b> work.</li>
+  </ul></li>
+  </ul><hr></td>
+</tr>
+</tbody>
+</table>
 
 **Pathfinder (Unobtainable):**
 
-<table><tbody><tr><td></td><td><b>Teachings of the Edenkite</b><ul><li><i>"Find your centre."</i><ul><li>Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.<ul><li>Very heavily reduces your hunger and thirst consumption.</li><li>You passively gain EXP and Attribute EXP.</li><li>You regenerate health at a mediocre rate, which is slightly reduced when in combat.</li></ul></li></ul></li></ul></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+2 Agility</li><li>+2 Fortitude</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Teachings of the Edenkite</b>
+  <ul>
+    <li><i>"Find your centre."</i>
+  <ul>
+    <li>Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.
+  <ul>
+    <li>Very heavily reduces your hunger and thirst consumption.</li>
+    <li>You passively gain EXP and Attribute EXP.</li>
+    <li>You regenerate health at a mediocre rate, which is slightly reduced when in combat.</li>
+  </ul></li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Agility</li>
+    <li>+2 Fortitude</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Miscellaneous
 

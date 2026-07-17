@@ -30,7 +30,19 @@ Eltus Ferikus Pleristus Zzetchus is a [Kyrsan](Kyrsgarde.md) NPC. They guard the
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Frinwalter... I can not let you through. See our leader.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Frinwalter... I can not let you through. See our leader.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogue:**
 
@@ -38,10 +50,34 @@ Eltus Ferikus Pleristus Zzetchus is a [Kyrsan](Kyrsgarde.md) NPC. They guard the
 
 This dialogue is unlocked once the player has been given orders to retrieve the Spear of Nakti.
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I see you have orders from our leader, you may pass. Be careful Frinwalter, making noise in those caves may awaken some things best left sleeping.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I see you have orders from our leader, you may pass. Be careful Frinwalter, making noise in those caves may awaken some things best left sleeping.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Spear Retrieved:**
 
 This dialogue is unlocked once the player has returned the Spear of Nakti to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md).
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Aelahi [Kyrsan Name], safe travels.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Aelahi [Kyrsan Name], safe travels.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

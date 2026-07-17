@@ -27,7 +27,19 @@ Known Celestials include [Navae](The_Children_of_Navae.md), [Alsin](Alsin.md), a
 
 This dialogue is from the Celestial located in the [Derelict Highchurch](Derelict_Highchurch.md).
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The tortured <a href="Glossary.md#the-celestials">Celestial</a> remains nearly still, with only its breathing visible. It doesn't respond to any words or touch, but simply resides within its cocoon, in a permanently unconscious, tragic state.</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The tortured <a href="Glossary.md#the-celestials">Celestial</a> remains nearly still, with only its breathing visible. It doesn't respond to any words or touch, but simply resides within its cocoon, in a permanently unconscious, tragic state.</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

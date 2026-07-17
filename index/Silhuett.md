@@ -29,11 +29,47 @@ If the player has high Ally [Reputation](Reputation.md) with [The Ministry](The_
 
 **First Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ugh. Typical. Never going to get our hands on those relics at this rate.</td></tr><tr><td>What's up?</td></tr><tr><td>The Ministry have a network of hidden passage and caches, and I managed to tail one of their agents to this point. Only, they disappeared into a swirl of shadows... Now the trail's gone cold. Those freaks have plenty of horrible stuff in store. We need to secure them before it's too late.</td></tr><tr><td>A swirl of shadows?</td></tr><tr><td>Aye. Some kind of Shadowcast technique. Ministry are fond of it - let's them escape in a pinch. Cowards. Still, this kinda technique leaves <i>residuals</i>. Maybe a Shadowcaster could give them a chase somehow?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ugh. Typical. Never going to get our hands on those relics at this rate.</td>
+</tr>
+<tr>
+  <td>What's up?</td>
+</tr>
+<tr>
+  <td>The Ministry have a network of hidden passage and caches, and I managed to tail one of their agents to this point. Only, they disappeared into a swirl of shadows... Now the trail's gone cold. Those freaks have plenty of horrible stuff in store. We need to secure them before it's too late.</td>
+</tr>
+<tr>
+  <td>A swirl of shadows?</td>
+</tr>
+<tr>
+  <td>Aye. Some kind of Shadowcast technique. Ministry are fond of it - let's them escape in a pinch. Cowards. Still, this kinda technique leaves <i>residuals</i>. Maybe a Shadowcaster could give them a chase somehow?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Should be some residuals nearby... We sometimes find a whole heap of <b>Umbral Obsidian</b> and <b>Void Feathers</b> on the agents we capture, maybe that has something to do with it?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Should be some residuals nearby... We sometimes find a whole heap of <b>Umbral Obsidian</b> and <b>Void Feathers</b> on the agents we capture, maybe that has something to do with it?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

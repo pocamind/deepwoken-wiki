@@ -31,4 +31,22 @@ Theadre is located at the town center of [Etris](Etris.md), standing near a burn
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The pious man regards you briefly with his watery eyes before returning to his prayers.*</i></td></tr><tr><td>Uh, excuse me?</td></tr><tr><td><i>Forgive me, stranger, but I am praying. Would you mind?..</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The pious man regards you briefly with his watery eyes before returning to his prayers.*</i></td>
+</tr>
+<tr>
+  <td>Uh, excuse me?</td>
+</tr>
+<tr>
+  <td><i>Forgive me, stranger, but I am praying. Would you mind?..</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

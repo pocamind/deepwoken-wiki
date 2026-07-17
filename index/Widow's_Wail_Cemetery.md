@@ -29,7 +29,55 @@ There is a chance you will be bugged when getting hit with Pumpkin Pitch after b
 
 When the trial is active, you cannot teleport into the Widow's Wail Cemetery. Note that you do **NOT** need a mask to obtain [Joy](Joy.md) from the Trial of the Gourdskipper.
 
-<table><caption>Note that the number of Gourdskippers that spawn is per player (i.e. with two players the number of gourdskippers will be doubled, three players tripled, etc.)</caption><tbody><tr><th>Wave</th><th>Number of gourdskippers</th><th>Chest?</th></tr><tr><td>1</td><td>1</td><td><font>✗</font></td></tr><tr><td>2</td><td>1</td><td><font>✗</font></td></tr><tr><td>3</td><td>2</td><td><font>◯</font></td></tr><tr><td>4</td><td>2</td><td><font>✗</font></td></tr><tr><td>5</td><td>2</td><td><font>◯</font></td></tr><tr><td>6</td><td>2-3</td><td><font>✗</font></td></tr><tr><td>7</td><td>2-3</td><td><font>◯</font></td></tr><tr><td>8</td><td>3</td><td><font>◯</font></td></tr></tbody></table>
+<table><caption>Note that the number of Gourdskippers that spawn is per player (i.e. with two players the number of gourdskippers will be doubled, three players tripled, etc.)</caption>
+<tbody>
+<tr>
+  <th>Wave</th>
+  <th>Number of gourdskippers</th>
+  <th>Chest?</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>1</td>
+  <td><font>✗</font></td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>1</td>
+  <td><font>✗</font></td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>2</td>
+  <td><font>◯</font></td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>2</td>
+  <td><font>✗</font></td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>2</td>
+  <td><font>◯</font></td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>2-3</td>
+  <td><font>✗</font></td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>2-3</td>
+  <td><font>◯</font></td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>3</td>
+  <td><font>◯</font></td>
+</tr>
+</tbody>
+</table>
 
 ### Rewards
 

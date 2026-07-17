@@ -24,17 +24,103 @@ The **Barber** is an NPC that allows customization to your character. They can c
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="32">Begin Dialogue</td></tr><tr><td colspan="32">Hey friend, need a new style?</td></tr><tr><td colspan="8">[Player has <a href="Dye_Packet.md">dyed</a> something]</td><td colspan="8">How are you able to do all of this stuff?</td><td colspan="8">[Player's hair was changed by a <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a> player]</td><td colspan="8">[Player changes their name]</td></tr><tr><td colspan="8">Could you remove some of my dyes?</td><td colspan="4">[Player doesn't have <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a>]</td><td colspan="4">[Player has <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a>]</td><td colspan="8">Help me, barber. A most wretched cut has befallen me.</td><td colspan="8">Hey, that suits you! Nice ring to it.</td></tr><tr><td colspan="8">Sure, what would you like removed?</td><td colspan="4">I took an <a href="Glossary.md#oaths">Oath</a> as a Fadetrimmer.</td><td colspan="4"><i>*They look at you, puzzled.*</i> I see those scissors. You can't fool me, sibling of the fade.</td><td colspan="8">Gods below, you <i>need</i> help. Here.</td><td colspan="8">[End Dialogue]</td></tr><tr><td colspan="8">[Player removes a dye]</td><td colspan="4">...A Fadetrimmer?</td><td colspan="4">[End Dialogue]</td><td colspan="8">[End Dialogue], your hair is returned back to normal</td></tr><tr><td colspan="8">Okay! All done!</td><td colspan="4">Yeah. We're a pretty underground <a href="Glossary.md#oaths">Oath</a>. You probably haven't heard of us.</td></tr><tr><td colspan="8">What else can you offer?</td><td colspan="4">...Can I take the Oath?</td></tr><tr><td colspan="8">Fancy anything?</td><td colspan="2">[Player meets requirements]</td><td colspan="2">[Player doesn't meet requirements]</td></tr><tr><td colspan="4">Could you remove some of my dyes?</td><td colspan="4">How are you able to do all of this stuff?</td><td colspan="2"><i>*They think a little bit.*</i> You know.. I <i>am</i> getting pretty tired of cutting your hair. Sure, why not. If you swear the words, the scissors will manifest. They never dull - pretty convenient, right?</td><td colspan="2"><i>*They look you up and down.*</i> Not with that get-up you can't.</td></tr><tr><td colspan="8">[See first instance.]</td><td colspan="2">[Swear the words]</td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="8"></td><td colspan="2">[End Dialogue], player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td><td colspan="2"></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="32">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="32">Hey friend, need a new style?</td>
+</tr>
+<tr>
+  <td colspan="8">[Player has <a href="Dye_Packet.md">dyed</a> something]</td>
+  <td colspan="8">How are you able to do all of this stuff?</td>
+  <td colspan="8">[Player's hair was changed by a <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a> player]</td>
+  <td colspan="8">[Player changes their name]</td>
+</tr>
+<tr>
+  <td colspan="8">Could you remove some of my dyes?</td>
+  <td colspan="4">[Player doesn't have <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a>]</td>
+  <td colspan="4">[Player has <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a>]</td>
+  <td colspan="8">Help me, barber. A most wretched cut has befallen me.</td>
+  <td colspan="8">Hey, that suits you! Nice ring to it.</td>
+</tr>
+<tr>
+  <td colspan="8">Sure, what would you like removed?</td>
+  <td colspan="4">I took an <a href="Glossary.md#oaths">Oath</a> as a Fadetrimmer.</td>
+  <td colspan="4"><i>*They look at you, puzzled.*</i> I see those scissors. You can't fool me, sibling of the fade.</td>
+  <td colspan="8">Gods below, you <i>need</i> help. Here.</td>
+  <td colspan="8">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="8">[Player removes a dye]</td>
+  <td colspan="4">...A Fadetrimmer?</td>
+  <td colspan="4">[End Dialogue]</td>
+  <td colspan="8">[End Dialogue], your hair is returned back to normal</td>
+</tr>
+<tr>
+  <td colspan="8">Okay! All done!</td>
+  <td colspan="4">Yeah. We're a pretty underground <a href="Glossary.md#oaths">Oath</a>. You probably haven't heard of us.</td>
+</tr>
+<tr>
+  <td colspan="8">What else can you offer?</td>
+  <td colspan="4">...Can I take the Oath?</td>
+</tr>
+<tr>
+  <td colspan="8">Fancy anything?</td>
+  <td colspan="2">[Player meets requirements]</td>
+  <td colspan="2">[Player doesn't meet requirements]</td>
+</tr>
+<tr>
+  <td colspan="4">Could you remove some of my dyes?</td>
+  <td colspan="4">How are you able to do all of this stuff?</td>
+  <td colspan="2"><i>*They think a little bit.*</i> You know.. I <i>am</i> getting pretty tired of cutting your hair. Sure, why not. If you swear the words, the scissors will manifest. They never dull - pretty convenient, right?</td>
+  <td colspan="2"><i>*They look you up and down.*</i> Not with that get-up you can't.</td>
+</tr>
+<tr>
+  <td colspan="8">[See first instance.]</td>
+  <td colspan="2">[Swear the words]</td>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="2">[End Dialogue], player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td>
+  <td colspan="2"></td>
+</tr>
+</tbody>
+</table>
 
 ## Shop UI
 
 Style Pro Bono
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure><div></div></center></td><td><div>Edit Appearance</div><div><i>Enter the Appearance Editor and customise</i><br>(Opens customization UI)</div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure><div></div></center></td>
+  <td><div>Edit Appearance</div><div><i>Enter the Appearance Editor and customise</i><br>
+  (Opens customization UI)</div></td>
+</tr>
+</tbody>
+</table>
 
 The Top Shelf
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>100 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Name Change</div><div><i>Change your first and last name.<br></i><br>Has a 10 minute cooldown.</div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>1 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td><td><div>Alter Resonance Shape</div><div><i>Change the shape of your Resonance to one of your choosing.</i><br>(Only appears if you have a Resonance)</div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>100 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Name Change</div><div><i>Change your first and last name.<br>
+  </i><br>
+  Has a 10 minute cooldown.</div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>1 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Alter Resonance Shape</div><div><i>Change the shape of your Resonance to one of your choosing.</i><br>
+  (Only appears if you have a Resonance)</div></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

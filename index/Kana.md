@@ -26,7 +26,19 @@ Kana was located at [Fort Merit](Fort_Merit.md), standing at a ledge facing [Blu
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>If only my Thundercalling was more intense I could pull this off...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>If only my Thundercalling was more intense I could pull this off...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

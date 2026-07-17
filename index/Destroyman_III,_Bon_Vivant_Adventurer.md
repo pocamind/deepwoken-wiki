@@ -24,7 +24,27 @@ Destroyman III, Bon Vivant Adventurer is located atop a spike high up in [The St
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*As you approach this mischievous wayward traveller, you see him gazing out into the distance, observing the horizon, not acknowledging your presence. He yearns for adventure in a way familiar to you. There is a song ringing in his heart, and a taste for danger lingers on his lips. Do you understand?*</i></td></tr><tr><td>Yes.</td><td>No...</td></tr><tr><td><i>*Then you are kindred spirits. Perhaps one day, together, you shall see the world, and with steadfast comrades like Him at your side, you shall take yourself what is earned. Go forth, friend. Grab <a href="Glossary.md#lumen">Lumen</a> by the short hairs! Take what you can - and give nothing back.*</i></td><td><i>*Then you have much to learn stranger. Walk the world, and learn its ways.*</i></td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*As you approach this mischievous wayward traveller, you see him gazing out into the distance, observing the horizon, not acknowledging your presence. He yearns for adventure in a way familiar to you. There is a song ringing in his heart, and a taste for danger lingers on his lips. Do you understand?*</i></td>
+</tr>
+<tr>
+  <td>Yes.</td>
+  <td>No...</td>
+</tr>
+<tr>
+  <td><i>*Then you are kindred spirits. Perhaps one day, together, you shall see the world, and with steadfast comrades like Him at your side, you shall take yourself what is earned. Go forth, friend. Grab <a href="Glossary.md#lumen">Lumen</a> by the short hairs! Take what you can - and give nothing back.*</i></td>
+  <td><i>*Then you have much to learn stranger. Walk the world, and learn its ways.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

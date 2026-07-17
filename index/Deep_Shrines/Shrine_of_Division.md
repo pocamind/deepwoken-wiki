@@ -45,35 +45,166 @@ For 5 and a Mantra of your choice, obtain a Roll 2.
 
 **Requirements Met:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. STATE YOUR PURPOSE.</td></tr><tr><td colspan="2">I wish to engage in a deal.</td></tr><tr><td colspan="2">VERY WELL. WHICH WORDS WILL BE FORGOTTEN?</td></tr><tr><td colspan="2">[Player selects an eligible Mantra]</td></tr><tr><td colspan="2"><i>*<b>WARNING</b>: Convert <font>[chosen Mantra]</font> into 2 random talents?</i></td></tr><tr><td>No, don't convert it.</td><td>Yes, convert my Mantra into 2 talents.</td></tr><tr><td>[End Dialogue]</td><td>[End Dialogue], player loses 5 and the chosen Mantra to gain 2 random Talents</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td colspan="2">I wish to engage in a deal.</td>
+</tr>
+<tr>
+  <td colspan="2">VERY WELL. WHICH WORDS WILL BE FORGOTTEN?</td>
+</tr>
+<tr>
+  <td colspan="2">[Player selects an eligible Mantra]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*<b>WARNING</b>: Convert <font>[chosen Mantra]</font> into 2 random talents?</i></td>
+</tr>
+<tr>
+  <td>No, don't convert it.</td>
+  <td>Yes, convert my Mantra into 2 talents.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], player loses 5 and the chosen Mantra to gain 2 random Talents</td>
+</tr>
+</tbody>
+</table>
 
 **Requirements Unmet:**
 
 **Not Enough Knowledge:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. STATE YOUR PURPOSE.</td></tr><tr><td colspan="2">I wish to engage in a deal.</td></tr><tr><td colspan="2">VERY WELL. WHICH WORDS WILL BE FORGOTTEN?</td></tr><tr><td colspan="2">[Player selects an eligible Mantra]</td></tr><tr><td colspan="2"><i>*<b>WARNING</b>: Convert <font>[chosen Mantra]</font> into 2 random talents?</i></td></tr><tr><td>No, don't convert it.</td><td>Yes, convert my Mantra into 2 talents.</td></tr><tr><td>[End Dialogue]</td><td>FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td></tr><tr><td></td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td colspan="2">I wish to engage in a deal.</td>
+</tr>
+<tr>
+  <td colspan="2">VERY WELL. WHICH WORDS WILL BE FORGOTTEN?</td>
+</tr>
+<tr>
+  <td colspan="2">[Player selects an eligible Mantra]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*<b>WARNING</b>: Convert <font>[chosen Mantra]</font> into 2 random talents?</i></td>
+</tr>
+<tr>
+  <td>No, don't convert it.</td>
+  <td>Yes, convert my Mantra into 2 talents.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+  <td>FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Too Many Talents:**
 
 If the player has too many Talents, they will not be able to make deals with this Shrine.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">ANY FURTHER - BEYOND ATOM. BEYOND QUARK. BEYOND MATTER. BEYOND HUMAN UNDERSTANDING.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">ANY FURTHER - BEYOND ATOM. BEYOND QUARK. BEYOND MATTER. BEYOND HUMAN UNDERSTANDING.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **No Eligible Mantras:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">MUCH TOO CLEAR OPAQUE.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">MUCH TOO CLEAR OPAQUE.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Not Enough Talents:**
 
 If the player does not have 2 common Talents available, they will not be able to make deals with this Shrine.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. STATE YOUR PURPOSE.</td></tr><tr><td colspan="2">I wish to engage in a deal.</td></tr><tr><td colspan="2">VERY WELL. WHICH WORDS WILL BE FORGOTTEN?</td></tr><tr><td colspan="2">[Player selects an eligible Mantra]</td></tr><tr><td colspan="2"><i>*<b>WARNING</b>: Convert <font>[chosen Mantra]</font> into 2 random talents?</i></td></tr><tr><td>No, don't convert it.</td><td>Yes, convert my Mantra into 2 talents.</td></tr><tr><td>[End Dialogue]</td><td>TOO NARROW, NOT ENOUGH FOR LIGHT TO PASS THROUGH.</td></tr><tr><td></td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td colspan="2">I wish to engage in a deal.</td>
+</tr>
+<tr>
+  <td colspan="2">VERY WELL. WHICH WORDS WILL BE FORGOTTEN?</td>
+</tr>
+<tr>
+  <td colspan="2">[Player selects an eligible Mantra]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*<b>WARNING</b>: Convert <font>[chosen Mantra]</font> into 2 random talents?</i></td>
+</tr>
+<tr>
+  <td>No, don't convert it.</td>
+  <td>Yes, convert my Mantra into 2 talents.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+  <td>TOO NARROW, NOT ENOUGH FOR LIGHT TO PASS THROUGH.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unchosen Hand of Cards:**
 
 If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will appear, forcing them to choose a card before a deal can be made.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Navigation
 

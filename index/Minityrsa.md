@@ -42,7 +42,42 @@ Minityrsa is a mostly uninhabited island perpetually blanketed in snow. It can b
 
 Below is a list of potential items that can spawn in chests in Minityrsa.
 
-<table><tbody><tr><td><a href="Outfits.md">Outfit Schematics</a></td><td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Darksteel_Plate.md">Darksteel Plate</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td></tr><tr><td><b>Miscellaneous</b></td><td></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>:</li><li><b>Light Weapons</b>: <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a> <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li><li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a>, <a href="Duskpole.md">Duskpole</a></li><li><b>Heavy Weapons</b>: <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li><li><b>Offhand Weapons</b>:</li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Legion_Boots.md">Legion Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Plain_Cape.md">Plain Cape</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Eyeglasses.md">Eyeglasses</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li><li><a href="Equipment.md#rings"><b>Rings</b></a>:</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics</a></td>
+  <td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Darksteel_Plate.md">Darksteel Plate</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Light Weapons</b>: <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a> <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
+    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a>, <a href="Duskpole.md">Duskpole</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Legion_Boots.md">Legion Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Plain_Cape.md">Plain Cape</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Maps
 

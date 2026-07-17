@@ -35,4 +35,28 @@ Commander Morredh is located in the dining room near the entrance of the [Fort M
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*The <a href="Glossary.md#canor">Canor</a> officer that stands before you appears disgrunteld with something.*</i> Another civilian? <i>Bah</i>. I bet you're here to see the Warden, like the rest of them. Well, he's <b>not in the dungeon</b>. Get out of my sight.</td></tr><tr><td>'The rest of them?'? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] What do you mean?</td><td>You have a problem with the Warden?</td></tr><tr><td><i>*He glares at you suspiciously.*</i> If you don't know, then you don't know, civvie. If you're not part of the cavalcade that's been coming to see him, get lost.</td><td><i>*The officer shifts uncomfortably, glancing to the side.*</i> I have no problem with my superiors, lowlife. That's a mutinous notion. I do take some issue with their <i>methods</i>, though. For example, I see the likes of you shuffling around the fort. Coming up to see the Warden with special permits, with unclear intentions. That sounds like a huge security risk to me. If I were the Warden, I would not let this happen. So you better not make any missteps, scum... I've got my eye on you.</td></tr><tr><td>You have a problem with the Warden?</td><td>[End Dialogue]</td></tr><tr><td>[See first instance]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The <a href="Glossary.md#canor">Canor</a> officer that stands before you appears disgrunteld with something.*</i> Another civilian? <i>Bah</i>. I bet you're here to see the Warden, like the rest of them. Well, he's <b>not in the dungeon</b>. Get out of my sight.</td>
+</tr>
+<tr>
+  <td>'The rest of them?'? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] What do you mean?</td>
+  <td>You have a problem with the Warden?</td>
+</tr>
+<tr>
+  <td><i>*He glares at you suspiciously.*</i> If you don't know, then you don't know, civvie. If you're not part of the cavalcade that's been coming to see him, get lost.</td>
+  <td><i>*The officer shifts uncomfortably, glancing to the side.*</i> I have no problem with my superiors, lowlife. That's a mutinous notion. I do take some issue with their <i>methods</i>, though. For example, I see the likes of you shuffling around the fort. Coming up to see the Warden with special permits, with unclear intentions. That sounds like a huge security risk to me. If I were the Warden, I would not let this happen. So you better not make any missteps, scum... I've got my eye on you.</td>
+</tr>
+<tr>
+  <td>You have a problem with the Warden?</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>

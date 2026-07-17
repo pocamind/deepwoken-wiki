@@ -53,7 +53,94 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 
 ### Soulwrought Weapon Stats
 
-<table><caption><strong>Crazy Slots</strong></caption><tbody><tr><th>Name</th><th>Base Damage</th><th>Scaling</th><th>Penetration</th><th>Chip Damage</th><th>Posture Damage</th><th>Range</th><th>Swing Speed</th><th>Endlag</th><th>Scaled Damage</th></tr><tr><td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td><td>19</td><td>LHT: 9</td><td>-</td><td>-</td><td>4</td><td>6</td><td>1.3x</td><td>-</td><td>31.8</td></tr><tr><td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td><td>16</td><td>LHT: 16</td><td>-</td><td>-</td><td>3</td><td>12</td><td>1.33x</td><td>-</td><td>35.2</td></tr><tr><td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td><td>25</td><td>MED: 7</td><td>-</td><td>-</td><td>5.5</td><td>8.5</td><td>1.06x</td><td>-</td><td>38.1</td></tr><tr><td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td><td>22.5</td><td>MED: 9</td><td>-</td><td>-</td><td>5</td><td>10</td><td>0.93x</td><td>-</td><td>37.7</td></tr><tr><td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td><td>26</td><td>HVY: 13</td><td>-</td><td>-</td><td>8</td><td>10</td><td>0.8x</td><td>0.15s</td><td>51.4</td></tr><tr><td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td><td>28</td><td>HVY: 12</td><td>-</td><td>-</td><td>8.5</td><td>9.2</td><td>0.84x</td><td>0.25s</td><td>53.2</td></tr></tbody></table>
+<table><caption><strong>Crazy Slots</strong></caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Base Damage</th>
+  <th>Scaling</th>
+  <th>Penetration</th>
+  <th>Chip Damage</th>
+  <th>Posture Damage</th>
+  <th>Range</th>
+  <th>Swing Speed</th>
+  <th>Endlag</th>
+  <th>Scaled Damage</th>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
+  <td>19</td>
+  <td>LHT: 9</td>
+  <td>-</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>31.8</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
+  <td>16</td>
+  <td>LHT: 16</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.33x</td>
+  <td>-</td>
+  <td>35.2</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
+  <td>25</td>
+  <td>MED: 7</td>
+  <td>-</td>
+  <td>-</td>
+  <td>5.5</td>
+  <td>8.5</td>
+  <td>1.06x</td>
+  <td>-</td>
+  <td>38.1</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
+  <td>22.5</td>
+  <td>MED: 9</td>
+  <td>-</td>
+  <td>-</td>
+  <td>5</td>
+  <td>10</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>37.7</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
+  <td>26</td>
+  <td>HVY: 13</td>
+  <td>-</td>
+  <td>-</td>
+  <td>8</td>
+  <td>10</td>
+  <td>0.8x</td>
+  <td>0.15s</td>
+  <td>51.4</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
+  <td>28</td>
+  <td>HVY: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>8.5</td>
+  <td>9.2</td>
+  <td>0.84x</td>
+  <td>0.25s</td>
+  <td>53.2</td>
+</tr>
+</tbody>
+</table>
 
 ## Special Abilities
 

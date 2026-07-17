@@ -28,7 +28,25 @@ The Aberrant Capra has goat-like ears, blue eyes, four dark curved horns and spi
 
 ## Traits
 
-<table><tbody><tr><td></td><td><b>Mark of Jurik</b> (Moon)<ul><li>Buffs the sanity of one person they choose around them as long as they are at a campfire or level 5+</li></ul></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+2 Intelligence</li><li>+2 Willpower</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Mark of Jurik</b> (Moon)
+  <ul>
+    <li>Buffs the sanity of one person they choose around them as long as they are at a campfire or level 5+</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Intelligence</li>
+    <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Miscellaneous
 

@@ -34,7 +34,31 @@ Soul Hearthgems can be found at the [The Garden Reservoir](The_Garden_Reservoir.
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i>*You find a strange looking hearthgem alight with a purple flame.*</i></td></tr><tr><td colspan="12">[Take it]</td></tr><tr><td colspan="6">Player does not have</td><td colspan="6">Player already has</td></tr><tr><td colspan="6"><i>*You pick up the gem feeling its cold warmth in your hands.</i></td><td colspan="6"><i>*You already have the gem.*</i></td></tr><tr><td colspan="6">[End Dialogue], Soul Hearthgem obtained</td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*You find a strange looking hearthgem alight with a purple flame.*</i></td>
+</tr>
+<tr>
+  <td colspan="12">[Take it]</td>
+</tr>
+<tr>
+  <td colspan="6">Player does not have</td>
+  <td colspan="6">Player already has</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*You pick up the gem feeling its cold warmth in your hands.</i></td>
+  <td colspan="6"><i>*You already have the gem.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue], Soul Hearthgem obtained</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -30,13 +30,42 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Mothwing Dust</b><p><i>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.</i></p><ul><li>Once per combat instance, the first person to attack you is <a href="Status_Effects.md#enhanced-perception">highlighted red</a> for 30 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li><li>The angles at which you can be assassinated or backstabbed from are reduced.</li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Charisma</li><li>+2 Agility</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Mothwing Dust</b><p><i>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.</i></p>
+  <ul>
+    <li>Once per combat instance, the first person to attack you is <a href="Status_Effects.md#enhanced-perception">highlighted red</a> for 30 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li>
+    <li>The angles at which you can be assassinated or backstabbed from are reduced.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Charisma</li>
+    <li>+2 Agility</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Iron Vow:**
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Mothwing Defense</b><p><i>Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%.</i></p><ul><li>Take 50% less damage from all backhits.</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Mothwing Defense</b><p><i>Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%.</i></p>
+  <ul>
+    <li>Take 50% less damage from all backhits.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
   
 

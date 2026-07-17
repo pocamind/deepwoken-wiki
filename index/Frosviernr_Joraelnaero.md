@@ -34,15 +34,65 @@ He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 
 **Scion of Ethiron not yet defeated:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Await the call... A thousand worlds beneath our feet.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Await the call... A thousand worlds beneath our feet.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Scion of Ethiron defeated:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Aelahi... I haven't seen anyone around here in ages, gods below. It feels like... I'm not even sure how long. Do you sense it too? Like our time is slipping away, Fringewalker.</td></tr><tr><td colspan="12">That spear... Your brother mentioned something about it.</td></tr><tr><td colspan="12">Ah, Naerotiv... Please... Give my brother my regards. Before this all ends, what is the name of the one who stands before me?</td></tr><tr><td colspan="6">[Your Kyrsan Name]</td><td colspan="6">[Your Luminant Name]</td></tr><tr><td colspan="6">A fine name... I see you have earned the respect of our kin. You are perhaps more fit to wield this spear than I am...</td><td colspan="6">Ah, a good name... Thank you for bringing me some peace in my final moments, [Your First Name]...</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Aelahi... I haven't seen anyone around here in ages, gods below. It feels like... I'm not even sure how long. Do you sense it too? Like our time is slipping away, Fringewalker.</td>
+</tr>
+<tr>
+  <td colspan="12">That spear... Your brother mentioned something about it.</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, Naerotiv... Please... Give my brother my regards. Before this all ends, what is the name of the one who stands before me?</td>
+</tr>
+<tr>
+  <td colspan="6">[Your Kyrsan Name]</td>
+  <td colspan="6">[Your Luminant Name]</td>
+</tr>
+<tr>
+  <td colspan="6">A fine name... I see you have earned the respect of our kin. You are perhaps more fit to wield this spear than I am...</td>
+  <td colspan="6">Ah, a good name... Thank you for bringing me some peace in my final moments, [Your First Name]...</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **After Taking the spear:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">You have no need to linger around this fool any longer.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">You have no need to linger around this fool any longer.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## References
 

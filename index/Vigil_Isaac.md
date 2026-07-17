@@ -48,17 +48,70 @@ Vigil Isaac is located initially at [Upper Erisia](Upper_Erisia.md), sitting inj
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Please... A Gale Stone...</td></tr><tr><td>Player has a Gale Stone</td><td>Player does not have a Gale Stone</td></tr><tr><td>[Give Gale Stone]</td><td>[End Dialogue]</td></tr><tr><td><i>*The Vigil takes hold of the stone and inhales deeply. The stone seems to disappear and color begins to return to the man's face.*</i> Thank you stranger, I owe you my life.</td></tr><tr><td>Your brother sent me.</td></tr><tr><td>That figures... He really needs to quit worrying so much. But I suppose he was right this time. I'm gonna rest up here for a bit then head back, I appreciate your help.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Please... A Gale Stone...</td>
+</tr>
+<tr>
+  <td>Player has a Gale Stone</td>
+  <td>Player does not have a Gale Stone</td>
+</tr>
+<tr>
+  <td>[Give Gale Stone]</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td><i>*The Vigil takes hold of the stone and inhales deeply. The stone seems to disappear and color begins to return to the man's face.*</i> Thank you stranger, I owe you my life.</td>
+</tr>
+<tr>
+  <td>Your brother sent me.</td>
+</tr>
+<tr>
+  <td>That figures... He really needs to quit worrying so much. But I suppose he was right this time. I'm gonna rest up here for a bit then head back, I appreciate your help.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
 **Upper Erisia:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I'll be heading back soon, 'Walk with the Wind' stranger.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I'll be heading back soon, 'Walk with the Wind' stranger.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Temple of the Blade:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Thank you for your help, 'Walk with the Wind' stranger.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Thank you for your help, 'Walk with the Wind' stranger.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## References
 

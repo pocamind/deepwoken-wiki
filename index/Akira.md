@@ -55,15 +55,151 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Another one..? You've got to be kidding me.</td></tr><tr><td colspan="2">Wait, I'm not with them.</td><td colspan="2">Don't mess with the Ignition Union, snake-eyed bookworm trash. [Charisma]</td></tr><tr><td colspan="2"><i>*The menacing-looking man scans you up and down skeptically for a moment.*</i> Well, either way it seems you know your place.</td><td>[Requirements met (75 Charisma)]</td><td>[Requirements not met]</td></tr><tr><td colspan="2">What are you doing down here?</td><td><i>*The man blinks twice, apparently stunned by your words.*</i></td><td>So be it...</td></tr><tr><td colspan="2">A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.</td><td>[End Dialogue], Akira departs</td><td>[End Dialogue], the player's head pops <b>instantly killing and wiping them</b></td></tr><tr><td colspan="2">Research platoon?</td></tr><tr><td colspan="2">Is there something surprising about that or are you just uneducated..? We're currently in the <a href="Glossary.md#the-depths">Depths</a>, we <a href="Glossary.md#the-divers">Divers</a> blow boatloads of <a href="Glossary.md#the-central-authority">Authority</a> funding on expeditions down here.</td></tr><tr><td colspan="2">I just thought the Divers didn't kill people as you did.</td></tr><tr><td colspan="2">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the <a href="Glossary.md#the-depths">Depths</a> for all I care. My judgment is absolute.</td></tr><tr><td colspan="2">Who are you?</td></tr><tr><td colspan="2">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i><a href="Glossary.md#black-divers">Black Diver</a></i>, in charge of research site pre-clearing and new recruit field training.</td></tr><tr><td colspan="2">I want to join the Divers.</td></tr><tr><td colspan="2">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to <a href="Glossary.md#castle-light">Castle Light</a> in one piece and we'll see about your recruitment there.</td></tr><tr><td colspan="2">[End Dialogue], Akira returns to Castle Light</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">Another one..? You've got to be kidding me.</td>
+</tr>
+<tr>
+  <td colspan="2">Wait, I'm not with them.</td>
+  <td colspan="2">Don't mess with the Ignition Union, snake-eyed bookworm trash. [Charisma]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The menacing-looking man scans you up and down skeptically for a moment.*</i> Well, either way it seems you know your place.</td>
+  <td>[Requirements met (75 Charisma)]</td>
+  <td>[Requirements not met]</td>
+</tr>
+<tr>
+  <td colspan="2">What are you doing down here?</td>
+  <td><i>*The man blinks twice, apparently stunned by your words.*</i></td>
+  <td>So be it...</td>
+</tr>
+<tr>
+  <td colspan="2">A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.</td>
+  <td>[End Dialogue], Akira departs</td>
+  <td>[End Dialogue], the player's head pops <b>instantly killing and wiping them</b></td>
+</tr>
+<tr>
+  <td colspan="2">Research platoon?</td>
+</tr>
+<tr>
+  <td colspan="2">Is there something surprising about that or are you just uneducated..? We're currently in the <a href="Glossary.md#the-depths">Depths</a>, we <a href="Glossary.md#the-divers">Divers</a> blow boatloads of <a href="Glossary.md#the-central-authority">Authority</a> funding on expeditions down here.</td>
+</tr>
+<tr>
+  <td colspan="2">I just thought the Divers didn't kill people as you did.</td>
+</tr>
+<tr>
+  <td colspan="2">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the <a href="Glossary.md#the-depths">Depths</a> for all I care. My judgment is absolute.</td>
+</tr>
+<tr>
+  <td colspan="2">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="2">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i><a href="Glossary.md#black-divers">Black Diver</a></i>, in charge of research site pre-clearing and new recruit field training.</td>
+</tr>
+<tr>
+  <td colspan="2">I want to join the Divers.</td>
+</tr>
+<tr>
+  <td colspan="2">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to <a href="Glossary.md#castle-light">Castle Light</a> in one piece and we'll see about your recruitment there.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue], Akira returns to Castle Light</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Please don't disturb my reading.</td></tr><tr><td>Does this kind of thing happen often or something?</td></tr><tr><td>More than you know.. more than you know.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Please don't disturb my reading.</td>
+</tr>
+<tr>
+  <td>Does this kind of thing happen often or something?</td>
+</tr>
+<tr>
+  <td>More than you know.. more than you know.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Castle Light:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Do you have some sort of reason for being here? This is territory of the Divers.</td></tr><tr><td>We met before, I want to join the Divers.</td></tr><tr><td>Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.</td></tr><tr><td>To my grave?</td></tr><tr><td>That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.</td></tr><tr><td>Only one or two?</td></tr><tr><td>Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.</td></tr><tr><td>I want to join.</td></tr><tr><td>Don't say I didn't warn you.</td></tr><tr><td>Sounds fun.</td></tr><tr><td><i>*Akira blinks twice, apparently stunned, before smirking whilst replying,*</i> That may be the spirit needed to join the 2%.</td></tr><tr><td>Hanging around here isn't going to make any progress for us. Get out there and get to work.</td></tr><tr><td>What exactly should I be doing?</td></tr><tr><td>You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.</td></tr><tr><td>Then why are you waiting here?</td></tr><tr><td><i>*You feel murderous intent wash over you as the man glares in your direction*</i> Come again? I didn't quite hear you.</td></tr><tr><td>Nothing.</td></tr><tr><td>As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Do you have some sort of reason for being here? This is territory of the Divers.</td>
+</tr>
+<tr>
+  <td>We met before, I want to join the Divers.</td>
+</tr>
+<tr>
+  <td>Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.</td>
+</tr>
+<tr>
+  <td>To my grave?</td>
+</tr>
+<tr>
+  <td>That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.</td>
+</tr>
+<tr>
+  <td>Only one or two?</td>
+</tr>
+<tr>
+  <td>Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.</td>
+</tr>
+<tr>
+  <td>I want to join.</td>
+</tr>
+<tr>
+  <td>Don't say I didn't warn you.</td>
+</tr>
+<tr>
+  <td>Sounds fun.</td>
+</tr>
+<tr>
+  <td><i>*Akira blinks twice, apparently stunned, before smirking whilst replying,*</i> That may be the spirit needed to join the 2%.</td>
+</tr>
+<tr>
+  <td>Hanging around here isn't going to make any progress for us. Get out there and get to work.</td>
+</tr>
+<tr>
+  <td>What exactly should I be doing?</td>
+</tr>
+<tr>
+  <td>You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.</td>
+</tr>
+<tr>
+  <td>Then why are you waiting here?</td>
+</tr>
+<tr>
+  <td><i>*You feel murderous intent wash over you as the man glares in your direction*</i> Come again? I didn't quite hear you.</td>
+</tr>
+<tr>
+  <td>Nothing.</td>
+</tr>
+<tr>
+  <td>As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -30,13 +30,50 @@ Gremors are an [aspect](Aspects.md) similar to deer. They appear with greenish, 
 
   
 
-<table><tbody><tr><td></td><td><b>Navae's Guidance</b><ul><li>"<i>Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.</i>"<ul><li>Gain a compass at the top of your screen that points East.</li><li>Right-clicking on the map creates a Waymarker or Waypoint. This Waymarker will be both visible on the map, and in the physical world as a beam of light.</li><li>Reduced passive hunger loss.</li><li>If blind, gain a slight range of clear vision around you.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Fortitude</li><li>+2 Strength</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Navae's Guidance</b>
+  <ul>
+    <li>"<i>Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.</i>"
+  <ul>
+    <li>Gain a compass at the top of your screen that points East.</li>
+    <li>Right-clicking on the map creates a Waymarker or Waypoint. This Waymarker will be both visible on the map, and in the physical world as a beam of light.</li>
+    <li>Reduced passive hunger loss.</li>
+    <li>If blind, gain a slight range of clear vision around you.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Fortitude</li>
+    <li>+2 Strength</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Iron Vow:**
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Navae's Technique</b><ul><li>"<i>A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 40%."</i><ul><li>Mantras take 40% less ether.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Navae's Technique</b>
+  <ul>
+    <li>"<i>A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 40%."</i>
+  <ul>
+    <li>Mantras take 40% less ether.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Lore:**
 

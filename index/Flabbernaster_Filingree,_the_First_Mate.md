@@ -30,7 +30,34 @@ Flabbernaster Filingree, the First Mate is a [Gremor](Gremor.md) NPC who was par
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Aye, [First Name]! Tis great to see ye again. Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. He said somethin' about fearin' for yer ability to live in Etrea with that display.</td></tr><tr><td>We just practiced, it's settled now.</td><td>What are you doing?</td></tr><tr><td>Perfect! In that case... <i>*A devious, greedy smile grows upon her face.*</i> Ye can return to <i>work</i>! I think Frank over there may need some swabbin' help...</td><td>Makin' sure none of ye are slackin'! <i>*The woman would call over to a crew member looking at the sea.*</i> Oi! Serendi! 'Ave you refilled the cannons yet?</td></tr><tr><td>Huh? I gotta go. Bye.</td><td>[End Dialogue]</td></tr><tr><td>...Yeah. I bet you do. Go on, then.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Aye, [First Name]! Tis great to see ye again. Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. He said somethin' about fearin' for yer ability to live in Etrea with that display.</td>
+</tr>
+<tr>
+  <td>We just practiced, it's settled now.</td>
+  <td>What are you doing?</td>
+</tr>
+<tr>
+  <td>Perfect! In that case... <i>*A devious, greedy smile grows upon her face.*</i> Ye can return to <i>work</i>! I think Frank over there may need some swabbin' help...</td>
+  <td>Makin' sure none of ye are slackin'! <i>*The woman would call over to a crew member looking at the sea.*</i> Oi! Serendi! 'Ave you refilled the cannons yet?</td>
+</tr>
+<tr>
+  <td>Huh? I gotta go. Bye.</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td>...Yeah. I bet you do. Go on, then.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
