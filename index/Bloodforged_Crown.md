@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 215983
+revid: 220739
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Ornaments, Equipment with Talents, "Equipment with
 | type | Head |
 | rarity | Mythical |
 | selling price | 50 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pips |
+| innate stats | +5 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Cauterized Wounds |
 | bankable | Yes |
 | droppable | Yes |
@@ -23,8 +23,6 @@ categories: [Equipment, Head, Ornaments, Equipment with Talents, "Equipment with
 | pass down | Yes |
 | obtainment | Chaser, Scholar of the Crimson Contract |
 | description | ... |
-
-Variants: [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md) · [The No-Life King's Crown](<The_No-Life_King's_Crown.md>)
 
 ## Description
 

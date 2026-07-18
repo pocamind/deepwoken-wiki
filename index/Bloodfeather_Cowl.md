@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Cowl
-revid: 218990
+revid: 220736
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Cowls]
 | type | Helmet |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | innate stats | +5% Shadow Armor , +6% Stealth , +2 Rare Pips |
 | innate talent | Bloodletter |
 | set | Bloodfeather Cowl, Bloodfeather Mask |
@@ -25,7 +25,9 @@ categories: [Equipment, Head, Cowls]
 | obtainment | Second Layer, Maestro Evengarde Rest, Saramaed Hollow |
 | description | ... |
 
-Variants: [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) · [Necrotic Cowl](Necrotic_Cowl.md)
+Bloodfeather Set
+
+Variants: [Mask](Bloodfeather_Mask.md)
 
 ## Description
 

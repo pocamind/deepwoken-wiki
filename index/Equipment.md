@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 220217
+revid: 220748
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -2513,7 +2513,7 @@ Arms: [Grand Authority Plate](Grand_Authority_Plate.md)
 Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
 
  |
-| File:Grand Boots.png | [Grand Boots](Grand_Boots.md)  
+|  | [Grand Boots](Grand_Boots.md)  
 (**Styles**)  
 (**Set**) | _+1 Posture_
 
@@ -2734,6 +2734,7 @@ Legs: [Silver Sabatons](Silver_Sabatons.md)
 (**Set**) | _+1 Posture_
 
 +1 Uncommon Pip  
++1 Rare Pip  
 _+Talent: [**Flashwind**](Talents.md#flashwind)_  
 _+Set Talent: [**Shock Trooper Specialist**](Talents.md#shock-trooper-specialist)_  
 **Requires Power 20, 30 Galebreathe, 30 Thundercall**

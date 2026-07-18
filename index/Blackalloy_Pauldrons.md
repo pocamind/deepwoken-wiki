@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 218996
+revid: 220725
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +1 Rare Pip |
+| innate stats | +3 Health , +1 Posture , +1 Rare Pip |
 | innate talent | Laminated Armor |
 | set | Blackalloy Helm, Blackalloy Pauldrons |
 | set talent | Captain's Call |

@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 218114
+revid: 220717
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -218,6 +218,7 @@ Dodge
 
 -   **Apex Predator** - The Prime Megalodaunt can use many of its attacks back to back with little endlag or delay. Additionally, they can feint their attacks and all of its attacks have very little endlag. Playing passive is highly recommended.
 -   **Thick Hide** - Prime Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
+-   **Thorn Guard** - Prime Megalodaunt is immune to [Providence's Thorns](<Providence's_Thorns.md>).
 
 ## Finisher
 

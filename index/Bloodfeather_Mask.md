@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Mask
-revid: 220515
+revid: 220737
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -26,7 +26,9 @@ categories: [Equipment, Face, Masks]
 | obtainment | First Layer, Duke Ishamon Erisia, Miner's Landing, Lodestar Bounty job, Second Layer, Heart of Enmity, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Saramaed Hollow |
 | description | ... |
 
-Variants: [Bloodcurdle Mask](Bloodcurdle_Mask.md) · [Necrotic Mask](Necrotic_Mask.md)
+Bloodfeather Set
+
+Variants: [Cowl](Bloodfeather_Cowl.md)
 
 ## Description
 

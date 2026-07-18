@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 219000
+revid: 220724
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | 10 Fortitude |
+| requirements | 10 FTD |
 | weight | 1 |
-| innate stats | +10 Health , +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +10 Health , +1 Uncommon Pip , +1 Rare Pip |
 | innate talent | Sloped Plate |
 | set | Blackalloy Helm, Blackalloy Pauldrons |
 | set talent | Captain's Call |

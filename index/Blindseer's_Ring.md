@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 209809
+revid: 220731
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Uncommon |
 | selling price | 14 |
 | requirements | N/A |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +10 Sanity , +1 Uncommon Pip |
 | bankable | No |
 | droppable | No |
@@ -25,7 +25,7 @@ categories: [Equipment, Rings]
 
 ## Description
 
-The **Blindseer's Ring** is a ring [Equipment](Equipment.md) item that reduces your outgoing damage by 15%, but increases all incoming healing you receive by 20-33%.
+The **Blindseer's Ring** is a ring [Equipment](Equipment.md) item that reduces your outgoing damage by 15%, but increases all incoming healing you receive by 20% in [Pathfinder](Pathfinder.md) or 33% in [Vow of Iron](Vow_of_Iron.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 216914
+revid: 220721
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | requirements | None |
 | weight | 1 |
 | styles | Leather, Quatrefoil |
-| innate stats | +1 Rare Pips |
+| innate stats | +1 Rare Pip |
 | innate talent | Apothecary |
 | bankable | Yes |
 | droppable | Yes |
