@@ -1,6 +1,6 @@
 ---
 title: "Practicioner's Earrings"
-revid: 201802
+revid: 220520
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Duke Erisia, First Layer, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow, Starswept Valley, Chaser, Scholar of the Crimson Contract, Heart of Enmity, Chime of Conflict, Miner's Landing, Deep Widow |
+| obtainment | Chests from:, Summer Isle, Duke Erisia, First Layer, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow, Lodestar Bounty job, Starswept Valley, Chaser, Scholar of the Crimson Contract, Heart of Enmity, Chime of Conflict, Miner's Landing, Deep Widow |
 | description | ... |
 
 ## Description

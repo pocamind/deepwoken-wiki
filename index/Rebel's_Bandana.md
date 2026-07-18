@@ -1,6 +1,6 @@
 ---
 title: "Rebel's Bandana"
-revid: 218856
+revid: 220517
 source: https://deepwoken.fandom.com/wiki/Rebel's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Bandanas]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, Second Layer, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow, Eastern Nomad (Direct drop) |
+| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, Second Layer, Maestro Evengarde Rest, Dread Serpent, Lodestar Bounty job, Saramaed Hollow, Eastern Nomad (Direct drop) |
 | description | A bandana paired with a headband. Perfect for hiding your mouth, nose, and hairline. These are known to be the most identifying features of any outlaw. |
 
 ## Description

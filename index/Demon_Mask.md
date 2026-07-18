@@ -1,6 +1,6 @@
 ---
 title: Demon Mask
-revid: 217248
+revid: 220516
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | First Layer, Chaser, Maestro Evengarde Rest, Dread Serpent, Lodestar, Sea Events |
+| obtainment | First Layer, Chaser, Lodestar Bounty job, Maestro Evengarde Rest, Dread Serpent, Sea Events |
 | description | A haunting feeling creeps upon you, as you behold the mask in your hand, resembling a masterful depiction of a monstrous being. You know it is of traditional Etrean make, and features some motif of folklore - but beyond that, you know little else. Clearly, this is a relic from a time long past. A mask of warriors long-forgotten: their names forever lost to history, their lives - to calamity. |
 
 Variants: [Oni Mask](Oni_Mask.md)

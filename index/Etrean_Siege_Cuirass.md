@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 217396
+revid: 220415
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Depths (Second Layer), Saramaed Summit, Miner's Landing, Lodestar, Crypt of the Unbroken, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Starswept Valley |
+| obtainment | Chests from:, Second Layer, Saramaed Summit, Miner's Landing, Crypt of the Unbroken, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Starswept Valley |
 | description | ... |
 
 ## Description

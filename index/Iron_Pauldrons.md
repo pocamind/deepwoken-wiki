@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 217063
+revid: 220502
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Erisia, Isle of Vigils, Duke Ishamon Erisia, Fort Merit, First Layer |
+| obtainment | Chests From:, Erisia, Isle of Vigils, Duke Ishamon Erisia, Fort Merit, First Layer, Lodestar Bounty job |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Ring of Wisps
-revid: 220097
+revid: 220541
 source: https://deepwoken.fandom.com/wiki/Ring_of_Wisps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -20,11 +20,13 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, First Layer, Maestro Evengarde Rest, Lodestar, Heart of Enmity, Dread Serpent, Saramaed Hollow, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
+| obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
 | description | These essence of the soul gathers around the gemstone of this ring, granting additional strength to bound wisps. |
 
 ## Description
 
-Ring of Wisps grants the user double the amount of charges of Attunement Wisps.
+The Ring of Wisps is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It grants the user double the amount of charges of Attunement Wisps.
 
 Currently bugged (at least on [Flame](Flamecharm.md#flame-wisp) and [Blood](Bloodrend.md#blood-wisp) wisps).

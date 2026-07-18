@@ -1,6 +1,6 @@
 ---
 title: Meemaw
-revid: 220168
+revid: 220409
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Quests]
@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Meemaw is a [Felinor](Felinor.md) NPC. She is the grandmother of [Lucien](Lucien.md).
+Meemaw is a [Felinor](Felinor.md) NPC. She is a miner and the grandmother of [Lucien](Lucien.md).
 
 ## Location
 

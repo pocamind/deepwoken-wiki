@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 208687
+revid: 220428
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict, Diluvian Mechanism, Lodestar, The Depths, Black Diver, Pure Ore Turn-Ins, Voidwalker Bounty ChestsVow of Iron:, Spear Dancer Memento |
+| obtainment | Chime of Conflict, Diluvian Mechanism, The Depths, Black Diver (NPC), Pure Ore Turn-Ins, BountiesVow of Iron:, Spear Dancer Memento |
 | description | A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash. |
 
 ## Description

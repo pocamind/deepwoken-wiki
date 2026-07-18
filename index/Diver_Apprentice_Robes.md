@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 213829
+revid: 220476
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Divers]
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, The Divers]
 | durability | 1000 |
 | resistances | +10% Physical Armor , +15% Elemental Armor |
 | buffs | +20% Ether Regen |
-| obtainment | Deepbound Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests from:, Erisia/General Sea Event Loot, Fishing, First Layer, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Deepbound Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests from:, Erisia, Sea Events, Fishing, Lodestar Bounty job, First LayerVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

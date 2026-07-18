@@ -1,6 +1,6 @@
 ---
 title: Insignia Gem
-revid: 213130
+revid: 220489
 source: https://deepwoken.fandom.com/wiki/Insignia_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -19,7 +19,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | A sign of intelligence.On hit, casting a Mantra within 3 seconds will lower its windup by 15%. (5s CD) |
-| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Found in The Depths, The Depths chests |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, Lodestar Bounty job, First Layer, Sea Events, Fishing, Cinders of Etris, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Found in The Depths, The Depths chests |
 
 ## Description
 

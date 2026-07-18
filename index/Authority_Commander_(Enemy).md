@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 220208
+revid: 220555
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -179,7 +179,7 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
 -   They can be assassinated, if they happen to not look in your direction/or were not alerted consider doing the following and pile up some damage with powerful mantras.
 -   At almost any given time they'll try to use their mantras while performing an M1 combo.
--   Expect [Authority\_Peacekeepers](Authority_Peacekeeper.md) and other nearby Authority NPCS to interfere with your fight.
+-   Expect [Authority Peacekeepers](Authority_Peacekeeper.md) and other nearby Authority NPCS to interfere with your fight.
 -   You'll frequently get into a parry trade with the Commander, so feint to disrupt it.
 
 ## Trivia

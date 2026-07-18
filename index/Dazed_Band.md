@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 216513
+revid: 220439
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,13 +14,13 @@ categories: [Equipment, Rings]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | N/A |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Lodestar, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent, Saramaed Hollow, Deep Widow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent, Saramaed Hollow, Deep Widow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Flourishing an opponent has a chance to stun them automatically. |
 
 ## Description
@@ -29,6 +29,6 @@ categories: [Equipment, Rings]
 
 Though not stated in the description, uppercuts also have a chance to proc this effect.
 
-Proccing this effect by uppercuts will daze the opponent for 5 seconds. Proccing this effect on a flourish however, dazes them for only 1 second.
+Proccing this effect by uppercuts will [Daze](Status_Effects.md#daze) the opponent for 5 seconds. Proccing this effect on a flourish however, [dazes](Status_Effects.md#daze) them for only 1 second.
 
-Rising flame procs the daze effect upon landing, which might mean other rising mantras also proc this. Gran Sudaruska's critical does not proc the daze.
+Certain "uppercut" Mantras also proc the Daze effect.

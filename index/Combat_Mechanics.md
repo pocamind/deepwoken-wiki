@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 216817
+revid: 220410
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -609,6 +609,7 @@ Most attacks with this indicator deal high posture damage.
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Decapitating Sweep
 -   [Parliament](Parliament.md): Owl Dash
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Low Cleave
+-   [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>): Blinkstrike
 
  |
 | 

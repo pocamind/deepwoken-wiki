@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 217405
+revid: 220416
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, First Layer, Lodestar, Second Layer, Crypt of the Unbroken |
+| obtainment | Chests from:, Miner's Landing, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, First Layer, Second Layer, Crypt of the Unbroken |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Strange Tomes
-revid: 209019
+revid: 220540
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Quest Item]
@@ -33,5 +33,4 @@ The tomes can be obtained from the following, and can be done in any order:
 
 ## Trivia
 
--   The Strange Tomes are likely references to the iconic [three journals](https://gravityfalls.fandom.com/wiki/Category:Journals) from [Gravity Falls](https://en.wikipedia.org/wiki/Gravity_Falls).
 -   These items aren't bankable/droppable

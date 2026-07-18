@@ -1,9 +1,9 @@
 ---
 title: Novice Boots
-revid: 218888
+revid: 220507
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Novice Boots
@@ -23,7 +23,7 @@ categories: [Pages using duplicate arguments in template calls, Equipment, Legs,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle |
+| obtainment | Chests from:, Summer Isle, First Layer, Lodestar Bounty job, Maestro Evengarde Rest, Dread Serpent, War Mode, Saramaed Hollow, Deep Widow |
 | description | ... |
 
 Variants: [Beginner's Boots](<Beginner's_Boots.md>)

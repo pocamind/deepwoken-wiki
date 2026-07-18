@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 219322
+revid: 220506
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, First Layer, Fishing, Deep Widow, Saramaed Hollow |
+| obtainment | Chests from:, Duke Erisia, First Layer, Fishing, Lodestar Bounty job, Deep Widow, Saramaed Hollow |
 | description | ... |
 
 ## Description

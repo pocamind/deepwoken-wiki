@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 217115
+revid: 220495
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sea Events, The Depths, Starswept Valley, Saramaed Hollow, Duke Ishamon Erisia, Voidwalker Bounties, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Ministry Heartspiller, Deep Widow |
+| obtainment | Sea Events, The Depths, Starswept Valley, Saramaed Hollow, Duke Ishamon Erisia, Bounties, Lodestar Bounty job, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Ministry Heartspiller, Deep Widow |
 | description | Even outlaws need style. |
 
 ## Description

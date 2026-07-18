@@ -1,6 +1,6 @@
 ---
 title: Thresher Charm
-revid: 218030
+revid: 220408
 source: https://deepwoken.fandom.com/wiki/Thresher_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso]

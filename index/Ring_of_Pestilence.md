@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 214353
+revid: 220538
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,14 +14,14 @@ categories: [Equipment, Rings]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | None |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Titan of the East, First Layer, Duke Ishamon Erisia, Lodestar, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Titan of the East, First Layer, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Your weapon applies 50% anti-heal for 10s. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Deep Crucible
-revid: 216281
+revid: 220414
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics]

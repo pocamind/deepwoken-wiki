@@ -1,6 +1,6 @@
 ---
 title: Ms Stick
-revid: 219245
+revid: 220544
 source: https://deepwoken.fandom.com/wiki/Ms_Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
@@ -20,7 +20,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ms Stick is a [Chrysid](Chrysid.md) NPC. She flips [Mushroom Omelette](Mushroom_Omelette.md) that are sold for 15.
+Ms Stick is a [Chrysid](Chrysid.md) NPC. They are a worker at Lance's Food.
+
+Stick flips [Mushroom Omelettes](Mushroom_Omelette.md) that are sold for 15.
 
 ## Location
 
@@ -50,7 +52,7 @@ Ms Stick can be found standing behind [Lance](Lance.md) inside of Lance's Food a
 
 ## Trivia
 
--   Ms Stick was added in the February 16th, 2026 update, which removed [Mystics](Mystic.md) due to their functions being obsolete with the new foretelling mechanic. This NPC is meant to poke fun at how Mystics are now "forced to seek legitimate employment."
--   Her name is also a reference to her former job as "Ms Stick" is pronounced like "Mystic."
--   Her position as a cook may also be a nod to the term "flipping burgers" or "putting the fries in the bag," which means resorting to entry level, minimum wage jobs due to unemployment.
--   Aside from her [Aspect](Aspects.md), Ms Stick is not based on any of the previous Mystics.
+-   Ms Stick was added in the February 16th, 2026 update, which removed [Mystics](Mystic.md) due to their functions being obsolete with the new foretelling mechanic. This NPC is meant to poke fun at how Mystics are now "forced to seek legitimate employment".
+-   Stick's position as a cook may also be a nod to the term "flipping burgers" or "putting the fries in the bag," which means resorting to entry level, minimum wage jobs due to suddenly being rendered unemployed.
+-   Stick's name is also a reference to her former job as "Ms Stick" is pronounced like "Mystic."
+-   Aside from their [Aspect](Aspects.md), Ms Stick is not based on any of the previous Mystics.
