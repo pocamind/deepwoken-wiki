@@ -1,6 +1,6 @@
 ---
 title: Stone
-revid: 217986
+revid: 220563
 source: https://deepwoken.fandom.com/wiki/Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -22,8 +22,12 @@ Stone is a damage dealing [enchantment](Enchantments.md) that adds damage to you
 
 ## Effect
 
-Stone adds a flat 0.25 true damage to your guardbreaks for every 1 weapon investment you have, capping at +25 damage with 100 weapon investment.
+Stone adds a flat 0.25 true damage to your weapon attack guardbreaks for every 1 weapon investment you have, capping at +25 damage with 100 weapon investment.
 
 ### Notes
 
 -   [Wyrmtooth](Wyrmtooth.md) will prioritize heavy investment over medium investment for the damage scaling.
+
+## Trivia
+
+-   Despite being directly mentioned in the crafting recipe, the Golem Chunk item does not exist ingame, making crafting a Stone [Enchant Stone](Enchant_Stone.md) with that recipe impossible.
