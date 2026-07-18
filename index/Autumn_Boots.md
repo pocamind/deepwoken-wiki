@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 220239
+revid: 220709
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | N/A |
@@ -25,6 +25,10 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Duke Ishamon Erisia, Blacksteel Pirate, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
 | description | ... |
+
+Autumn Set
+
+Variants: [Pauldrons](Autumn_Pauldrons.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 217023
+revid: 220698
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,10 +13,10 @@ categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 20 |
+| requirements | LVL 20 |
 | weight | 1 |
 | styles | Mountain, Tundra, Valley |
-| innate stats | +3% Lightning Armor , +3% Wind Armor , +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +3% Lightning Armor , +3% Wind Armor , +1 Uncommon Pip , +1 Rare Pip |
 | innate talent | Stronger Under Pressure |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |

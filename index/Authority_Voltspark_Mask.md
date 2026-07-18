@@ -1,6 +1,6 @@
 ---
 title: Authority Voltspark Mask
-revid: 209417
+revid: 220686
 source: https://deepwoken.fandom.com/wiki/Authority_Voltspark_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Equipment, Face, Masks, Equipment with Talents, Equipment with Excl
 | selling price | N/A |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +1 Common Pip, +3% Lightning Armor |
+| innate stats | +1 Common Pip , +3% Lightning Armor |
 | innate talent | Volt Reflex |
 | bankable | Yes |
 | droppable | Yes |

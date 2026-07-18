@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 213892
+revid: 220608
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
@@ -41,3 +41,5 @@ This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md
 -   This ability is used by [Titus](Titus_Fulminus_Destellus.md).
 -   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after items.
 -   Due to a bug or oversight, Imperator's Fury was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relics.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.
+-   While not directly affected by damage modfiers, sources of damage directly related to vent will affect it, meaning Cold Front will increase the damage by 30% and dark perals will increase the damage by 40%
+-   Affected by Pen given from sources that are "typeless" like prophets cloak and pen given directly by strength

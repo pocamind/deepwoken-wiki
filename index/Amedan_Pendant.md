@@ -1,6 +1,6 @@
 ---
 title: Amedan Pendant
-revid: 218723
+revid: 220692
 source: https://deepwoken.fandom.com/wiki/Amedan_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]
@@ -13,9 +13,9 @@ categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +3% Elemental Armor , +1 Rare Pip , +1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

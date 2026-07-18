@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Boots
-revid: 216954
+revid: 220690
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talen
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Alloyed Soles |
 | set | Alloyed Phalanx Plate, Alloyed Phalanx Boots |
 | set talent | N/A |
@@ -31,6 +31,10 @@ Variants: [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md)
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Alloyed Phalanx Set
+
+Variants: [Plate](Alloyed_Phalanx_Plate.md)
 
 ## Description
 

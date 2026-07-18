@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Boots
-revid: 216955
+revid: 220712
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, First Layer |
 | description | ... |
+
+Azure Sentinel Set
+
+Variants: [Pauldrons](Azure_Sentinel_Pauldrons.md)
 
 ## Description
 

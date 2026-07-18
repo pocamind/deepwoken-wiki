@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 218642
+revid: 220706
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment of The Cen
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
 | styles | Amber, Bronze, Gold, Haze, Royale, Ruby, Stygian, Verdant |
 | innate stats | +10 Health , +2 Rare Pips |

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 217022
+revid: 220701
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Hats, Head, Craftable, Equipment 
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 20 |
+| requirements | LVL 20 |
 | weight | 1 |
 | styles | Farmland, Fog, Mountain, Tundra, Valley |
 | innate stats | +2 Posture , +1 Legendary Pip |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Hats, Head, Craftable, Equipment 
 | set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | Common Garb among western peons; this hat is perfect for beating the heat or disguising one's identity. |
@@ -60,4 +60,4 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingE
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

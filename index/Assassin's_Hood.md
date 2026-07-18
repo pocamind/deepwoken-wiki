@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 219049
+revid: 220705
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talen
 | type | Hood |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 6, 10 Agility |
+| requirements | LVL 6, 10 AGL |
 | styles | Crimson, Gold, Mist, Pale |
 | innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Deep Wound |

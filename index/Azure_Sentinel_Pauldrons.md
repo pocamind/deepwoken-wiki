@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 216949
+revid: 220713
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | requirements | None |
 | weight | 2 |
 | styles | Brushed, Galvanized |
-| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Azure Sentinel Pauldrons, Azure Sentinel Boots |
 | set talent | N/A |
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, Lower Erisia |
 | description | ... |
+
+Azure Sentinel Set
+
+Variants: [Boots](Azure_Sentinel_Boots.md)
 
 ## Description
 

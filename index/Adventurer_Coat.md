@@ -1,6 +1,6 @@
 ---
 title: Adventurer Coat
-revid: 215112
+revid: 220683
 source: https://deepwoken.fandom.com/wiki/Adventurer_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 2 |
 | styles | Black, Brown, Green, White |
 | innate stats | +2 Rare Pips |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Duke Erisia |
+| obtainment | Chests from:, Duke Erisia |
 | description | ... |
 
 ## Description
