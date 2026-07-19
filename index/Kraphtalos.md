@@ -1,6 +1,6 @@
 ---
 title: Kraphtalos
-revid: 219829
+revid: 220762
 source: https://deepwoken.fandom.com/wiki/Kraphtalos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -98,4 +98,4 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
 ## Trivia
 
--   Kraphtalos seems to use a slightly different variation of the [Teleportation](Teleportation.md) [Resonance](Resonance.md). As to if this is the actually [Resonance](Resonance.md) is unknown.
+-   Kraphtalos seems to use a slightly different variation of the [Teleportation](Teleportation.md) [Resonance](Resonance.md). Whether or not this is the same as the actual Teleportation Resonance is unknown.
