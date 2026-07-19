@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Boots"
-revid: 215968
+revid: 220849
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | rarity | Rare |
 | selling price | 25 |
 | weight | 1 |
-| innate stats | +2 Health +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Health +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Endurance Runner, Gunslinger's Fury |
 | set | Bounty Hunter's Garb, Bounty Hunter's Boots |
 | set talent | Explosive Rounds |

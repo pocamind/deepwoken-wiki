@@ -1,6 +1,6 @@
 ---
 title: Night Star
-revid: 215821
+revid: 220808
 source: https://deepwoken.fandom.com/wiki/Night_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Clubs, Medium Weapons]
@@ -51,7 +51,7 @@ The **Night Star** is a blunt [Club](Clubs.md) type medium weapon.
 
 Equipping the Night Star grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Night Night** applies [Blindness](Status_Effects.md#blinded) to your opponent for 15 seconds after you land an uppercut.
+[**Night Night**](Talents.md#night-night) applies [Blindness](Status_Effects.md#blinded) to your opponent for 15 seconds after you land an uppercut.
 
 ## Critical
 

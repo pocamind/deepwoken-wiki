@@ -1,6 +1,6 @@
 ---
 title: Rimebreakers
-revid: 212410
+revid: 220813
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Fists, Legendary Weapons, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
@@ -21,7 +21,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusiv
 | swing speed | 1.1x |
 | attack duration | 0.5s |
 | penetration | 5% |
-| talent | Fortify |
+| talent | Fortify - Slow down your movement in exchange for fortifying your defenses. |
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
@@ -33,9 +33,11 @@ categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusiv
 | obtainment | Kyrsgarde Champion |
 | description | Immersed within the Ethironal storm and infused with Kyrsan frost, these knucklebone fistwraps are a poignant reflection of the current state of the Kyrsgarde. Once a proud and mighty people, the Kyrsans now find themselves buffeted, suffocating beneath an oppressive force-with little hope for salvation. Perhaps a similar fate awaits your foes, should they face these implements of combat. |
 
+Variants: [Frost Gauntlets](Frost_Gauntlets.md)
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 
@@ -45,7 +47,7 @@ This content is not accessible outside of this gamemode.
 
 Equipping the Rimebreakers grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Fortify** grants a Talent tool that applies a heavy slow debuff (36%) to yourself in exchange for a 15% damage reduction. This effect lasts 30 seconds.
+[**Fortify**](Talents.md#fortify) grants a Talent tool that applies a 36% slow debuff to yourself in exchange for a 15% damage reduction. This effect lasts 30 seconds.
 
 ## Critical
 

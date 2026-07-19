@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Garb"
-revid: 215969
+revid: 220850
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs, Equipment with Set B
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +6% Stealth , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +6% Stealth , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Piercing Shot, Kick Off |
 | set | Bounty Hunter's Garb, Bounty Hunter's Boots |
 | set talent | Explosive Rounds |

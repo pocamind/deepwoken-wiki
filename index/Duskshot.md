@@ -1,6 +1,6 @@
 ---
 title: Duskshot
-revid: 215974
+revid: 220786
 source: https://deepwoken.fandom.com/wiki/Duskshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -51,7 +51,7 @@ The Duskshot is a Pistol weapon exclusive to the [Vow of Iron](Vow_of_Iron.md) g
 
 Equipping the Duskshot grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Hex Bullet** creates a plume of smoke when your bullets are blocked. This smoke drains the [sanity](Insanity.md) of anyone who stands in it.
+[**Hex Bullet**](Talents.md#hex-bullet) creates a plume of smoke when your bullets are blocked. This smoke drains the [sanity](Insanity.md) of anyone who stands in it.
 
 ## Critical
 

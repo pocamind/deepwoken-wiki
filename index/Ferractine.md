@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 215952
+revid: 220788
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
@@ -47,7 +47,7 @@ The Ferractine is an Ironsing sword weapon that was originally wielded by the [I
 
 Equipping the Ferractine grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Blade Threading** procs on weapon critical, applying [Metal Rods](Status_Effects.md#metal-rod) and slowing your opponent.
+[**Blade Threading**](Talents.md#blade-threading) procs on weapon critical, applying [Metal Rods](Status_Effects.md#metal-rods) and slowing your opponent.
 
 ## Critical
 

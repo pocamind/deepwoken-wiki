@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 218982
+revid: 220845
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]

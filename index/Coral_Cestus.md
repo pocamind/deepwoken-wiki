@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 213485
+revid: 220778
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyable Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -21,7 +21,7 @@ categories: [Weapons, Weapons with Unique Criticals, Alloyable Weapons, Fists, L
 | swing speed | 1.1x |
 | attack duration | 0.5s |
 | penetration | 10% / 20% |
-| talent | Base, AlloyedMudskipper Gripper - When executing an opponent with your critical attack, summon mudskippers to aid you in battle. Rage Amp - At 2 or more combat tags, your critical now applies anti-heal while also increasing the size and damage of your critical. This scales with the amount of combat tags you currently have. |
+| talent | Base, AlloyedMudskipper Gripper - When executing an opponent with your critical attack, summon mudskippers to aid you in battle.Rage Amp - At 2 or more combat tags, your critical now applies anti-heal while also increasing the size and damage of your critical. This scales with the amount of combat tags you currently have. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -47,21 +47,21 @@ Equipping the Coral Cestus grants its unique [weapon Talent](Talents.md#weapon-t
 
 **Coral Cestus:**
 
-**Mudskipper Gripper** spawns two [Mudskippers](Mudskipper.md) upon executing a target with the Coral Cestus critical. These Mudskipper can be [Bloatskippers](Mudskipper.md#bloatskipper) or [Miniskippers](Mudskipper.md), chosen at random.
+[**Mudskipper Gripper**](Talents.md#mudskipper-gripper) spawns two [Mudskippers](Mudskipper.md) upon executing a target with the Coral Cestus critical. These Mudskipper can be [Bloatskippers](Mudskipper.md#bloatskipper) or [Miniskippers](Mudskipper.md), chosen at random.
 
 This Talent is exclusive to the unalloyed version of the weapon.
 
 **Broodalloy Cestus:**
 
-**Rage Amp** buffs your critical attack when you have two or more combat tags, granting 100% [Anti-Heal](Status_Effects.md#anti-heal) and increasing the damage and hitbox of the attack, scaling on the amount of combat tags you have.
+[**Rage Amp**](Talents.md#rage-amp) buffs your critical attack when you have two or more combat tags, granting 100% [Anti-Heal](Status_Effects.md#anti-heal) and increasing the damage and hitbox of the attack, scaling on the amount of combat tags you have.
 
 This Talent is exclusive to the alloyed variant of the weapon.
 
 ## Critical
 
-The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown. It has a 1.3x scaled damage multiplier.
+The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short [Knockdown](Status_Effects.md#knockdown). It has a 1.3x scaled damage multiplier. This critical will automatically execute targets who get knocked [Unconscious](Status_Effects.md#unconscious) by the critical, or targets who are already Unconscious when it lands.
 
-The Broodalloy Cestus displays a telegraph alongside a sound effect. On top of that, the critical will **autogrip** anyone who is at low health or is already knocked.
+The Broodalloy Cestus displays a telegraph alongside a sound effect.
 
 The critical has a cooldown of **6 seconds**.
 

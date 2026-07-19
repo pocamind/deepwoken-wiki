@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 209852
+revid: 220863
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Legs, Boots, Equipment, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Legs, Boots, Equipment, Craftable, Equipment with Talents, Equipmen
 | type | Legs |
 | rarity | Rare |
 | selling price | 30 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Cosmic Connection |
 | bankable | Yes |
 | droppable | Yes |

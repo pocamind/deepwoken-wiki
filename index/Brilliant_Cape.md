@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 218224
+revid: 220855
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | type | Torso |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Adretian Hero, Antihero, Beastslayer, Default, Kingmaker, Lightbringer, Northerner, Paladin, Snowbringer, Ranger |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | pass down | Yes |
 | obtainment | Dread Serpent (Direct drop), The Diluvian Mechanism, Sold in Traan Zakshun's black market for 1 |
 | description | ... |
+
+Brilliant Set
+
+Variants: [Pauldrons](Brilliant_Pauldrons.md) · [Boots](Brilliant_Boots.md)
 
 ## Description
 

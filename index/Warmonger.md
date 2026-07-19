@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 215679
+revid: 220828
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Legendary Weapons, Weapons with Talents]
@@ -48,13 +48,13 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 
 Equipping the Warmonger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Pugnacious** procs on basic attack, applying various buffs to the user. On proc, you gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost **per combat tag** you have.
+[**Pugnacious**](Talents.md#pugnacious) procs on basic attack, applying various buffs to the user. On proc, you gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost **per combat tag** you have.
 
 The damage, posture damage, and chip damage bonuses are additive and ignore the damage and posture damage modifier caps. These effects cap at +30% (3 or more combat tags), and are applied to Mantras as well. The chip damage bonus will only apply if some amount of chip is already present.
 
 The elemental and physical damage resistance is multiplicative to other resistance sources.
 
-The speed boost has no cap and is applied **per M1**. For example, if you land 5 m1s and are combat tagged by 5 people, you will gain +250% speed. Each speed boost stack lasts 5 seconds and does not refresh upon acquiring another. Additionally, being hit by an m1 will also proc this bonus.
+The [Speed Boost](Status_Effects.md#speed-boost) has no cap and is applied **per M1**. For example, if you land 5 m1s and are combat tagged by 5 people, you will gain +250% speed. Each speed boost stack lasts 5 seconds and does not refresh upon acquiring another. Additionally, being hit by an m1 will also proc this bonus.
 
 You gain a further damage buff upon gripping a player.
 

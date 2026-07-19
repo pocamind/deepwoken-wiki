@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 220195
+revid: 220843
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -50,7 +50,7 @@ The [Alloyed](Pluripotent_Alloy.md) variant boasts increased stats with a higher
 
 Equipping the Zweihander grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Enemies will recover 30% less posture when parrying your light attacks.
+[**Devastating Recovery**](Talents.md#devastating-recovery) reduces the amount of posture your opponents restore from parrying your light attacks by 30%.
 
 ## Critical
 

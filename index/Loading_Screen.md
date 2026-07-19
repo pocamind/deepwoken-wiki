@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 220151
+revid: 220775
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -202,6 +202,7 @@ Names of games will start to appear from the top of the screen:
 -   Castle Crashers
 -   Celeste
 -   Checkers
+-   Chess
 -   Citizen Sleeper
 -   CONE
 -   CRAZY HORSE GAME 🐴
@@ -214,6 +215,7 @@ Names of games will start to appear from the top of the screen:
 -   Dredge
 -   Dwarf Fortress
 -   Final Fantasy VII
+-   Final Fantast XIV
 -   Find Everything
 -   FPS Chess
 -   Goose Goose Duck
@@ -232,6 +234,7 @@ Names of games will start to appear from the top of the screen:
 -   Mahjong
 -   Mini Metro
 -   monkey raft
+-   Monster Hunter Series
 -   Monster Hunter Wilds
 -   Monster Hunter: World
 -   My Movie

@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 220288
+revid: 220841
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Talents]
@@ -36,7 +36,7 @@ The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 
 Equipping the Worshipper's Shield grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Worshipper's Tolerance** reduces [Burn](Status_Effects.md#burn) damage taken by 15%. Additionally, if you are currently [burning](Status_Effects.md#burn), parrying your opponent will set them [on fire](Status_Effects.md#burn), 45 second cooldown.
+[**Worshipper's Tolerance**](Talents.md#worshippers-tolerance) reduces [Burn](Status_Effects.md#burn) damage taken by 15%. Additionally, if you are currently [burning](Status_Effects.md#burn), parrying your opponent will set them [on fire](Status_Effects.md#burn), 45 second cooldown.
 
 ## Trivia
 

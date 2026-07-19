@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 215673
+revid: 220830
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Legendary Weapons, Reforged Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathamme
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Pale Morning |
 | description | A legacy tarnished by your hand, but granted fell strength by Leiuna's profane forge. The wind is known to hold voices captive and, held in your hands, you hear an earnest plea; Bury the forge. Kill its memory. Greed is their dagger. |
 
-Variants: [Pale Morning](Pale_Morning.md) · [Gale Pale](Gale_Pale.md)
+Variants: [Gale Pale](Gale_Pale.md)
 
 ## Description
 
@@ -44,11 +44,9 @@ The Withered Gale Pale is an endgame [Galebreathe](Galebreathe.md) Greathammer, 
 
 Equipping the Withered Gale Pale grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Soar** allows you to retain your full momentum during your weapon's critical attack. This Talent is extremely good when paired with speed boosts, slides, or Gale/Phantom Step dashes.
+[**Soar**](Talents.md#soar) allows you to retain your full momentum during your weapon's critical attack. This Talent is extremely good when paired with speed boosts, slides, or Gale/Phantom Step dashes.
 
 Equipping [Motifs](Motifs.md) onto Withered Gale Pale will **disable** its weapon Talent.
-
-(This Talent is currently bugged and you wont keep momentum when using the critical)
 
 ## Critical
 

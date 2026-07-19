@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 219958
+revid: 220822
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals, Weapons with Talents]
@@ -44,11 +44,13 @@ Obtainable in Vow of Iron in depth chests and through the [Strange Merchant](Str
 
 Equipping the Scoundrel's Saber grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
+[**Scammer**](Talents.md#scammer) procs if your opponent attempts to parry the fake blow of your Critical attack, applying a stronger [Daze](Status_Effects.md#daze) effect when the real strike connects.
+
 ## Critical
 
 The user rushes forward, delivering a fake blow that leads into a guardbreaking pommel strike.
 
-The pommel strike has a 1.1x scaled damage multiplier and Dazes for 2.5 seconds. If the user lands this critical on the opponent's back, it will gain a 10% damage bonus.
+The pommel strike has a 1.1x scaled damage multiplier and [Dazes](Status_Effects.md#daze) for 2.5 seconds. If the user lands this critical on the opponent's back, it will gain a 10% damage bonus.
 
 The critical has a cooldown of **4 seconds**.
 
@@ -58,4 +60,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   This is part of the Saber weapon family, along with the [Officer Saber](Officer_Saber.md) and [Cavalry Saber](Cavalry_Saber.md).
 -   The critical has a very inconsistent hitbox, often causing the critical's increased damage on backhit gimmick to not work at all.
--   The Scoundrel's Saber had a bug on release, where if you [alloyed](Pluripotent_Alloy.md) it, it would turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).
+-   The Scoundrel's Saber had a bug on release, where if you [alloyed](Pluripotent_Alloy.md) it, it would turn into an [Alloyed Officer Saber](Officer_Saber.md).

@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 212533
+revid: 220803
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -35,7 +35,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Saramaed Hollow, Minityrsa, Etris: Siege, Chime of Conflict, Merchant Ships, The Aratel Sea |
+| obtainment | Starswept Valley, Saramaed Hollow, Minityrsa, Cinders of Etris, Chime of Conflict, Merchant Ships, The Aratel Sea |
 | description | ... |
 
 ## Description
@@ -46,7 +46,7 @@ Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. 
 
 Equipping the Master Hawk's Handaxe grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Battle Frenzy** reduces the posture damage of incoming Mantras by 1 (flat) per combat tag you have. This is applied per hit, and can go into the negatives if the posture damage on the attack is lower than the amount of combat tags you have. When this happens, the Mantra will restore your posture instead.
+[**Battle Frenzy**](Talents.md#battle-frenzy) reduces the posture damage of incoming Mantras by 1 (flat) per combat tag you have. This is applied per hit, and can go into the negatives if the posture damage on the attack is lower than the amount of combat tags you have. When this happens, the Mantra will restore your posture instead.
 
 This effect also works in PvE, but because you cannot stack PvE combat tags, it will be much less effective.
 

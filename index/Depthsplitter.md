@@ -1,6 +1,6 @@
 ---
 title: Depthsplitter
-revid: 215938
+revid: 220783
 source: https://deepwoken.fandom.com/wiki/Depthsplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, Weapons with Talents, Medium Weapons, Weapons of Etrea]
@@ -33,7 +33,7 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, 
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Forest of Lights (Vow of Iron) |
+| obtainment | The Depths (Vow of Iron) |
 | description | An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles. |
 
 Variants: [Scalesplitter](Scalesplitter.md)
@@ -52,7 +52,7 @@ The **Depthsplitter** is a medium twinblade weapon that is exclusive to [Vow of 
 
 Equipping the Depthsplitter grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sadistic Split** heals you when you guardbreak your opponent. The amount of healing received scales inversely on your current [Sanity](Insanity.md), healing more the lower your sanity is.
+[**Sadistic Split**](Talents.md#sadistic-split) heals you when you guardbreak your opponent. The amount of healing received scales inversely on your current [Sanity](Insanity.md), healing more the lower your sanity is.
 
 ## Critical
 

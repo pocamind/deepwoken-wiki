@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 220293
+revid: 220796
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, The Hundred Legions, Offhand]
@@ -24,6 +24,8 @@ categories: [Weapons, Shields, The Hundred Legions, Offhand]
 | pass down | Yes |
 | obtainment | Starswept Valley, Bounties |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
+
+Variants: [Icarus Sun Shield](Icarus_Sun_Shield.md)
 
 ## Description
 

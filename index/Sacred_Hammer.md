@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 212420
+revid: 220818
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
@@ -44,7 +44,9 @@ The **Sacred Hammer** is a bulky medium blunt hammer. It can be considered the e
 
 Equipping the Sacred Hammer grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sacred Aura** grants the [Sacred Aura](Status_Effects.md#sacred-aura) status effect to yourself for 10 seconds after landing a weapon critical. This reduces damage taken by 2.5 (flat), multiplied by the amount of combat tags you currently have.
+[**Sacred Aura**](Talents.md#sacred-aura) grants the [Sacred Aura](Status_Effects.md#sacred-aura) status effect to yourself for 10 seconds after landing a weapon critical. This reduces damage taken by 2.5 (flat), multiplied by the amount of combat tags you currently have.
+
+Damage taken cannot go below 1.
 
 ## Critical
 
@@ -52,7 +54,4 @@ Sacred Hammer uses the default Club critical, an overhead swing. It has a scaled
 
 ## Trivia
 
--   Due to clubs once using the older, unpolished animations for medium weapons, the Sacred Hammer was infamous for having horribly desynced animations that made it a nightmare to fight.
--   **Not Recommended for PVE**, due to the loss of being able to instant guardbreak bosses, it has the lowest critical posture damage ingame along with all other instant guardbreak criticals, at around 2.
--   Meeting the requirement of MED, the damage is (26.2)
--   At max MED, the damage is (29.7)
+-   Due to clubs once using the older, unpolished animations for medium weapons, the Sacred Hammer was once infamous for having horribly desynced animations that made it a nightmare to fight.

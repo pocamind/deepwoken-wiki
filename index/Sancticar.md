@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 212421
+revid: 220820
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -44,7 +44,7 @@ Location
 
 Equipping the Sancticar grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Both Ends** allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+[**Both Ends**](Talents.md#both-ends) allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Critical
 

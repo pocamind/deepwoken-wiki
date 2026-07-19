@@ -1,6 +1,6 @@
 ---
 title: The Death Knell
-revid: 215709
+revid: 220838
 source: https://deepwoken.fandom.com/wiki/The_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -34,7 +34,7 @@ categories: [Vow of Iron Exclusive, Weapons, Fists, Legendary Weapons, "Core-Att
 | obtainment | Bloodstarved Hunter |
 | description | A reminder that all songs must come to an end. |
 
-Variants: [Light's Final Toll](<Light's_Final_Toll.md>) · [Withered Death Knell](Withered_Death_Knell.md)
+Variants: [Withered Death Knell](Withered_Death_Knell.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

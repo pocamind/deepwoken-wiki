@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 212382
+revid: 220789
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Voidwalker Chests, Primadon, Fishing, Starswept Valley, Merchant Ships, Maestro Evengarde Rest, Saramaed Hollow |
+| obtainment | Chests from:, Bounties, Primadon, Fishing, Starswept Valley, Merchant Ships, Maestro Evengarde Rest, Saramaed Hollow |
 | description | Found at the hip of horseback officers during the Canticlysm. For many of the post-tidal years it was but a curio for petty nobles to fawn over. Despite its moniker, it was made fashionable by young naval officers of the Authority who saw value in the trinkets they'd inherited, dragging the blade out from obscurity. |
 
 ## Description
@@ -44,7 +44,7 @@ The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Pr
 
 Equipping the Forgotten Gladius grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Blitz** reduces the Windup of your [Prominence Draw](Attunement-less.md#prominence-draw) by 0.1s (from 0.55s to 0.45s).
+[**Blitz**](Talents.md#blitz) reduces the Windup of your [Prominence Draw](Attunement-less.md#prominence-draw) by 0.1s (from 0.55s to 0.45s).
 
 ## Critical
 

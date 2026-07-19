@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 218136
+revid: 220865
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,7 +40,7 @@ Despite all of the above, they behave like regular Megalodaunts.
 **Slash**  
 (★☆☆)
 
--   ResistanceBlunt ResistanceSlash Physical
+-   ResistancePhysical Physical
 
  | A short range swipe using their arms. Can slash once or twice, and if once can be paired with **Kick**.
 
@@ -59,7 +59,7 @@ Despite all of the above, they behave like regular Megalodaunts.
 **Kick**  
 (★★☆)
 
--   ResistanceBlunt ResistanceSlash Physical
+-   ResistancePhysical Physical
 
  | The Alpha Megalodaunt will wind up its right leg back with a red circle effect before delivering a kick that ragdolls and sends the player flying.
 
@@ -86,7 +86,7 @@ Dodge
 **Thousand Needles**  
 (★☆☆)
 
--   ResistanceBlunt ResistanceSlash Physical
+-   ResistancePhysical Physical
 
  | The Alpha Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
@@ -152,7 +152,7 @@ Dodge
 **Tacet Drop Kick**  
 (★☆☆)
 
--   ResistanceBlunt ResistanceSlash Physical
+-   ResistancePhysical Physical
 
  | Starts out similarly to **Tacet Hug**, but after it turns visible again, it will throw out its entire body in a drop kick, flinging and ragdolling targets hit.
 
@@ -216,3 +216,5 @@ Dodge
 ## Tips
 
 The same knowledge you learned from the base [Megalodaunt](Megalodaunt.md) can be applied to the Alpha Megalodaunt.
+
+Since they can be found facing a library wall inside the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), it is possible that they like to read.

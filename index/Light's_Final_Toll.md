@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 215756
+revid: 220839
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -30,10 +30,8 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Layer 2, The Diluvian Mechanism, Derelict Highchurch chests (from Ministry Bloodrenders)Vow of Iron:, Mystery Boxes |
+| obtainment | Second Layer, The Diluvian Mechanism, Derelict Highchurch chests (from Ministry Bloodrenders)Vow of Iron:, Mystery Boxes |
 | description | A reminder that all songs must come to an end. |
-
-Variants: [Withered Death Knell](Withered_Death_Knell.md) · [The Death Knell](The_Death_Knell.md)
 
 ## Description
 

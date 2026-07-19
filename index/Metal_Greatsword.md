@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 214594
+revid: 220806
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Weapons with Unique Criticals, Weapons with multiple Criticals]
@@ -40,11 +40,13 @@ categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", We
 
 The Metal Greatsword is a Heavy Greatsword exclusive to the [Rending Needle: Augmenter](Talents.md#rending-needle-augmenter) Talent. After applying 5 Iron Rods and then pulling them with X, Metal Greatsword will be equipped for 10 seconds, overriding your previous weapon.
 
+[Rending Needle: Augmenter](Talents.md#rending-needle-augmenter) requires 90 Ironsing and 90 Weapon (90 LHT // 90 MED // 90 HVY) to obtain. Additionally, it is mutually exclusive with [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
+
 ## Talents
 
 Equipping the Metal Greatsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Forced Fulfilment** replaces your critical attack with [Metal Fakeout](Ironsing.md#metal-fakeout). When landing a critical attack using your Metal Greatsword, attaching a heavy rod onto your opponent and reducing their movement speed by 70% for 15 seconds. This slow is reduced to -52.5% movement speed due to the innate slow resistance players have. This Talent has no cooldown.
+[**Forced Fulfilment**](Talents.md#forced-fulfilment) replaces your critical attack with [Metal Fakeout](Ironsing.md#metal-fakeout). When landing a critical attack using your Metal Greatsword, attaching a heavy rod onto your opponent and reducing their movement speed by 70% for 15 seconds. This slow is reduced to -52.5% movement speed due to the innate slow resistance players have. This Talent has no cooldown.
 
 Additionally, your [Metal Armament](Ironsing.md#metal-armament) damage is increased by 50%.
 
@@ -52,7 +54,7 @@ Additionally, your [Metal Armament](Ironsing.md#metal-armament) damage is increa
 
 While inside [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range, your critical attack will be replaced with the Mantra, teleporting behind your target while leaving behind a metal clone before immediately stabbing the target. This attack has innate [Bleed](Status_Effects.md#bleed), and counts as a weapon attack, **not** a Mantra. Attempting to use this critical while it's on cooldown will cause you to lose Ether.
 
-If you aren't within Metal Fakeout's targeting range, your critical attack will be the default [Greatsword](Greatswords.md) critical, an overhead swing. It has a scaled damage multiplier of **1x**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies knockdown and will insta-guardbreak opponents who attempt to block it.
+If you aren't within Metal Fakeout's targeting range, your critical attack will be the default [Greatsword](Greatswords.md) critical, an overhead swing. It has a scaled damage multiplier of **1x**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 Both criticals have a cooldown of **8 seconds**.
 

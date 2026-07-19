@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 220305
+revid: 220856
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | requirements | None |
 | weight | 2 |
 | styles | Debonair (Brushed, Rough), Warlike (Brushed, Rough) |
-| innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Brilliant Pauldrons, Brilliant Boots, Brilliant Cape |
 | set talent | N/A |
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | pass down | Yes |
 | obtainment | Chests From:, Duke Ishamon Erisia, First Layer, Songseeker Wilds, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, War Mode, Heart of Enmity, Dread Serpent, Fishing |
 | description | ... |
+
+Brilliant Set
+
+Variants: [Boots](Brilliant_Boots.md) · [Cape](Brilliant_Cape.md)
 
 ## Description
 

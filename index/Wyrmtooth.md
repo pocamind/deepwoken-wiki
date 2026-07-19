@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 220209
+revid: 220842
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Talents]
@@ -45,7 +45,7 @@ The Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can 
 
 Equipping the Wyrmtooth grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Ebb and Flow** procs when landing a [Medium](Attunement-less.md#medium-weapon-mantras) or [Heavy](Attunement-less.md#heavy-weapon-mantras) weapon Mantra, increasing the Mantra level of your next casted Mantra of the opposing type by +1. This effect **only** applies when alternating weapon Mantras. For example, if you land one heavy Mantra and then follow up with two medium Mantras, the second medium Mantra will **not** receive the buff; your stacks won't be lost, the effect just won't be applied.
+[**Ebb and Flow**](Talents.md#ebb-and-flow) procs when landing a [Medium](Attunement-less.md#medium-weapon-mantras) or [Heavy](Attunement-less.md#heavy-weapon-mantras) weapon Mantra, increasing the Mantra level of your next casted Mantra of the opposing type by +1. This effect **only** applies when alternating weapon Mantras. For example, if you land one heavy Mantra and then follow up with two medium Mantras, the second medium Mantra will **not** receive the buff; your stacks won't be lost, the effect just won't be applied.
 
 This can bypass the level 5 cap, and is stackable, capping at at +5 levels. If one of your Medium or Heavy Mantras get parried, dodged, or blocked, all stacks will be lost. Multi-hits do not grant multiple stacks.
 

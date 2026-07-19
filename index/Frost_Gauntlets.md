@@ -1,6 +1,6 @@
 ---
 title: Frost Gauntlets
-revid: 215960
+revid: 220810
 source: https://deepwoken.fandom.com/wiki/Frost_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -34,7 +34,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Vow of I
 | obtainment | The Indigo Citadel |
 | description | Perfect for a Knuckle Sandwich, served cold. |
 
-Variants: [Legion Cestus](Legion_Cestus.md)
+Variants: [Rimebreakers](Rimebreakers.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
@@ -48,7 +48,7 @@ Frost Gauntlets are a pair of cestus, exclusive to the [Vow of Iron](Vow_of_Iron
 
 Equipping the Frost Gauntlets grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Fortify** gives a Talent tool that applies a heavy slow debuff to yourself in exchange for high damage reduction. Lasts 30 seconds.
+[**Fortify**](Talents.md#fortify) gives a Talent tool that applies a 36% slow debuff to yourself in exchange for 15% damage reduction. Lasts 30 seconds.
 
 ## Critical
 

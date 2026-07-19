@@ -1,6 +1,6 @@
 ---
 title: Icepick
-revid: 212386
+revid: 220797
 source: https://deepwoken.fandom.com/wiki/Icepick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Weapons with Talents, Light Weapons]
@@ -50,7 +50,7 @@ The Icepick is found at the [Starfield Tundra](Starfield_Tundra.md).
 
 Equipping the Icepick grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Shatter** procs when you land your weapon critical. Shatter removes all speed debuffs from your opponent, dealing 5 Frostdraw damage per speed debuff removed.
+[**Shatter**](Talents.md#shatter) procs when you land your weapon critical. Shatter removes all speed debuffs from your opponent, dealing 5 Frostdraw damage per speed debuff removed.
 
 ## Critical
 

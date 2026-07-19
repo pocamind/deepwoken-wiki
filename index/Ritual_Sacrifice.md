@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 215850
+revid: 220814
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Legendary Weapons, Weapons with Talents]
@@ -48,9 +48,7 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 
 Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-### Sacrificial Boon
-
-**Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5. This Talent has a 0.5 second cooldown. The buffs are as follows:
+[**Sacrificial Boon**](Talents.md#sacrificial-boon) grants a random buff upon using the Talent tool at the cost of 5. This Talent has a 0.5 second cooldown. The buffs are as follows:
 
 -   20% damage buff. This buff is also applied to Mantras
 -   [Hyperarmor](Status_Effects.md#hyperarmor) for 10 seconds. This will be lost upon casting any Mantra
@@ -59,9 +57,7 @@ Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weap
 -   Stomach restoration
 -   [Speed Boost](Status_Effects.md#speed-boost) for 10 seconds
 
-### Pierce Through
-
-**Pierce Through** augments the first hit of your **default spear** critical. Your critical attack will no longer cancel if the first hit is parried, without giving autoparry frames. The second hit of your spear critical will almost always land because of this.
+[**Pierce Through**](Talents.md#pierce-through) augments the first hit of your **default spear** critical. Your critical attack will no longer cancel if the first hit is parried, without giving autoparry frames. The second hit of your spear critical will almost always land because of this.
 
 ## Critical
 

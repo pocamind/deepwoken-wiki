@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 218248
+revid: 220787
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Legendary Weapons, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -48,7 +48,7 @@ This weapon comes with a passive ability:
 
 Equipping the Eyes of Ethiron grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sable Winds** adds Shadowcast damage to your [After Cut](Talents.md#after-cut) hits. Additionally, this Talent allows your Shadowcast Mantras to benefit from your [Inhale](Talents.md#inhale) Talent, even allowing you to Inhale the Shadowcast Mantras themselves.
+[**Sable Winds**](Talents.md#sable-winds) adds Shadowcast damage to your [After Cut](Talents.md#after-cut) hits. Additionally, this Talent allows your Shadowcast Mantras to benefit from your [Inhale](Talents.md#inhale) Talent, even allowing you to Inhale the Shadowcast Mantras themselves.
 
 ## Critical
 

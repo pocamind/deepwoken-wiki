@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 220261
+revid: 220816
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Medium Weapons, Weapons with Talents, Weapons of The Summer Company]
@@ -42,7 +42,7 @@ Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing att
 
 Equipping the Rosen's Peacemaker grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[Rosen's Technique](Talents.md#rosens-technique) reduces the cooldown of your [Tactical Reload](Talents.md#tactical-reload) Talent by 45 seconds; from 90 seconds to 45.
+[**Rosen's Technique**](Talents.md#rosens-technique) reduces the cooldown of your [Tactical Reload](Talents.md#tactical-reload) Talent by 45 seconds; from 90 seconds to 45.
 
 ## Critical
 

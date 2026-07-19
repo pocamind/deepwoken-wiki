@@ -1,6 +1,6 @@
 ---
 title: Icarus Sun Shield
-revid: 218237
+revid: 220795
 source: https://deepwoken.fandom.com/wiki/Icarus_Sun_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offhand, Weapons with Talents]
@@ -26,9 +26,11 @@ categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offha
 | obtainment | General Titus Juventius |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
 
+Variants: [Legion Shield](Legion_Shield.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 
@@ -42,7 +44,7 @@ The only obtainment for the Icarus Sun Shield is by defeating [General Titus Juv
 
 Equipping the Icarus Sun Shield grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Champion's Shield** increases the posture damage you deal by 25%. Additionally, you will gain a further posture damage buff, scaling on the amount of posture your character has.
+[**Champion's Shield**](Talents.md#champions-shield) increases the posture damage you deal by 25%. Additionally, you will gain a further posture damage buff, scaling on the amount of posture your character has.
 
 ## Trivia
 

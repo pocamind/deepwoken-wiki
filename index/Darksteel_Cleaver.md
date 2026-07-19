@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 215932
+revid: 220781
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Talents, Heavy Weapons]
@@ -51,7 +51,7 @@ Located where the Chariot's Spire would be in [Pathfinder](Pathfinder.md), near 
 
 Equipping the Darksteel Cleaver grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Monster Slayer** grants a 25% damage buff when attacking giant enemies.
+[**Monster Slayer**](Talents.md#monster-slayer) grants a 25% damage buff when attacking giant enemies.
 
 ## Critical
 

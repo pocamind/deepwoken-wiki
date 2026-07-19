@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Pauldrons
-revid: 215916
+revid: 220862
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

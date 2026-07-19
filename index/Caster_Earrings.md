@@ -1,6 +1,6 @@
 ---
 title: Caster Earrings
-revid: 215971
+revid: 220860
 source: https://deepwoken.fandom.com/wiki/Caster_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Ether Adeptness |

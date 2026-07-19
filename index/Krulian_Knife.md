@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 217755
+revid: 220802
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -21,7 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | attack duration | 0.5s |
 | penetration | 20% |
 | talent | Cruel Counter - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks. |
-| special effect | Krulian Charge - Upon using your critical, gain the Krulian Charge status effect, granting a speed boost and a pink Shock effect to your weapon attacks. |
+| special effect | Krulian Charge - Upon using your critical, gain the Krulian Charge status effect, granting a Speed Boost, a swing speed increase, and a pink Shock effect to your weapon attacks. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Krulian Knife |
@@ -45,9 +45,11 @@ The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defea
 
 Equipping the Krulian Knife grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Cruel Counter** procs when you cancel your opponent's attack with your Krulian Charge critical attack, applying the [Cruel Counter](Status_Effects.md#cruel-counter) status effect to your opponent. This effect increases your critical attack damage against them for 20 seconds.
+[**Cruel Counter**](Talents.md#cruel-counter) procs when you land Krulian Charge critical attack, applying the [Cruel Counter](Status_Effects.md#cruel-counter) status effect to your opponent. This effect increases your critical attack damage by ?% against them for 20 seconds.
 
-Critical attacks gain a +40% damage modifier to anyone who is under the Cruel Counter status effect. This includes non-Krulian Knife critical attacks, even if they come from people who did not apply the status effect. This damage modifier **bypasses** the damage modifier cap.
+If you cancel your opponent's attack with your Krulian Charge critical, the damage buff will be +40% instead.
+
+The damage buff affects all critical attacks, including non-Krulian Knife ones, and attacks from other people who did not apply the status effect. This damage modifier **bypasses** the damage modifier cap.
 
 ## Critical
 

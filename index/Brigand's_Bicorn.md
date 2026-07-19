@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 220495
+revid: 220853
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | type | Head |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 6 |
+| requirements | LVL 6 |
 | weight | 1 |
 | styles | Fabric, Leather |
 | innate stats | +3 Health , +2 Rare Pips |
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | pass down | Yes |
 | obtainment | Sea Events, The Depths, Starswept Valley, Saramaed Hollow, Duke Ishamon Erisia, Bounties, Lodestar Bounty job, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Ministry Heartspiller, Deep Widow |
 | description | Even outlaws need style. |
+
+Brigand's Set
+
+Variants: [Cloak](<Brigand's_Cloak.md>)
 
 ## Description
 

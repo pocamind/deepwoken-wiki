@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 218069
+revid: 220847
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 | type | Legs |
 | rarity | Common |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | I'm Blue |
@@ -21,7 +21,7 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 | set talent | Etherguard |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
 | obtainment | Crafting:, Crafting Station + Bluesteel Boots + 1x Warped Blue GemVow of Iron:, Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
@@ -52,4 +52,4 @@ This item is crafted using the following recipe:
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

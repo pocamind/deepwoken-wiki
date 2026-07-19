@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 215672
+revid: 220834
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Legendary Weapons, Weapons with Talents, Reforged Weapons]
@@ -35,7 +35,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Alloyed Katana |
 | description | The forge's workings singe a memory into the alloyed vessel, thinning its form into translucence. The cast of a vigil swordsman reflects from its depths, appearing sullen and drained of all vitality. |
 
-Variants: [Alloyed Katana](Katana.md) · [Phantomcleave](Phantomcleave.md)
+Variants: [Phantomcleave](Phantomcleave.md)
 
 ## Description
 
@@ -45,7 +45,7 @@ The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [
 
 Equipping the Withered Phantomcleave grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Upon landing a critical attack, activate **Phantom**, allowing your next M1 within 5 seconds to bypass your opponent's block entirely, applying shaky block. This Talent has a 45 second cooldown.
+Upon landing a critical attack, activate [**Phantom**](Talents.md#phantom), allowing your next M1 within 5 seconds to bypass your opponent's block entirely, applying shaky block. This Talent has a 45 second cooldown.
 
 ## Critical
 

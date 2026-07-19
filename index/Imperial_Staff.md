@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 212387
+revid: 220798
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -42,7 +42,7 @@ The Imperial Staff is a Legendary [Staff](Staves.md) that scales with and requir
 
 Equipping the Imperial Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Both Ends** allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+[**Both Ends**](Talents.md#both-ends) allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Critical
 

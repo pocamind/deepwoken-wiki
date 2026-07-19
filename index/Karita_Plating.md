@@ -1,6 +1,6 @@
 ---
 title: Karita Plating
-revid: 215986
+revid: 220801
 source: https://deepwoken.fandom.com/wiki/Karita_Plating
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapons with Talents, "Core-Attribute based weapons", Fists, Justicars, Legendary Weapons, Weapons with multiple Criticals, Jus Karita Weapons]
@@ -50,7 +50,7 @@ It was created by [Konga the 2nd](Konga_the_2nd.md) for use in conjunction with 
 
 Equipping the Karita Plating grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Slider Style** raises the limit on slide speed, and gives your Jus Karita a new sliding critical.
+[**Slider Style**](Talents.md#slider-style) raises the limit on slide speed, and gives your Jus Karita a new sliding critical.
 
 The damage of this sliding critical will increase the faster you are sliding, even sparking and applying [Burn](Status_Effects.md#burn) if you have enough momentum. This critical applies [daze](Status_Effects.md#dazed) on hit.
 

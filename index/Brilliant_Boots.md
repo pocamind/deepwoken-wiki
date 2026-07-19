@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 220249
+revid: 220854
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Songseeker Wilds, Minityrsa, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
+
+Brilliant Set
+
+Variants: [Pauldrons](Brilliant_Pauldrons.md) · [Cape](Brilliant_Cape.md)
 
 ## Description
 

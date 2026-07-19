@@ -1,6 +1,6 @@
 ---
 title: Broodplate Helmet
-revid: 210321
+revid: 220857
 source: https://deepwoken.fandom.com/wiki/Broodplate_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Talents, Equipm
 | type | Head |
 | rarity | Common |
 | selling price | 7 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | innate stats | +2 Health +1 Posture |
 | innate talent | Broodlord's Scream |

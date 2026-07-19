@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 215718
+revid: 220824
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -50,7 +50,7 @@ The [Alloyed](Pluripotent_Alloy.md) variant of the Steel Maul boasts increased s
 
 Equipping the Steel Maul grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Bulwark Breaker** gives your [Pressure Blast](Attunement-less.md#pressure-blast) a very noticeable AoE increase. Additionally, the final hit of your Pressure Blast now deals 3x posture damage, going from 12 to 36.
+[**Bulwark Breaker**](Talents.md#bulwark-breaker) gives your [Pressure Blast](Attunement-less.md#pressure-blast) a very noticeable AoE increase. Additionally, the final hit of your Pressure Blast now deals 3x posture damage, going from 12 to 36.
 
 Assuming all of your Pressure Blast hits hit your opponent's block, they will take 60 total posture damage, compared to the original 36.
 

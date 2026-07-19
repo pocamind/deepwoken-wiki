@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 215863
+revid: 220819
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapon
 | swing speed | 0.8x |
 | attack duration | 0.9s |
 | endlag | 0.1s |
-| talent | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.Reverse Necrosis - Landing any mantra will now heal you based on how slow your opponent is. |
+| talent | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable., Reverse Necrosis - Landing any mantra will now heal you based on how slow your opponent is. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -47,13 +47,13 @@ The Saint Jay's Hammer is a [Vow of Iron](Vow_of_Iron.md) exclusive greathammer 
 
 Equipping the Saint Jay's Hammer grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Bulwark Breaker** gives your [Pressure Blast](Attunement-less.md#pressure-blast) a very noticeable AoE increase. Additionally, the final hit of your Pressure Blast now deals 3x posture damage, going from 12 to 36.
+[**Bulwark Breaker**](Talents.md#bulwark-breaker) gives your [Pressure Blast](Attunement-less.md#pressure-blast) a very noticeable AoE increase. Additionally, the final hit of your Pressure Blast now deals 3x posture damage, going from 12 to 36.
 
 Assuming all of your Pressure Blast hits hit your opponent's block, they will take 60 total posture damage, compared to the original 36.
 
 Your Pressure Blast also becomes **unparryable**.
 
-**Reverse Necrosis** grants healing when you land [Mantras](Mantras.md), with the healing scaling on how slowed your opponent is.
+[**Reverse Necrosis**](Talents.md#reverse-necrosis) grants healing when you land [Mantras](Mantras.md), with the healing scaling on how slowed your opponent is.
 
 ## Critical
 
