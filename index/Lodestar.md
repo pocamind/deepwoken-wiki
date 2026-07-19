@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 220485
+revid: 220761
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
@@ -11,7 +11,7 @@ categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
 | Lodestar | |
 |---|---|
 | health | 12000 |
-| drops | Medium sized chest (see loot table), Navaen War Chief , Guiding Star |
+| drops | Medium sized chest (see loot table), Navaen War Chief, Guiding Star |
 | weapon | Guiding Star |
 | moves | Assault, Critical, Warden's Blades, Ice Daggers, Crystal Impale, Sightless Beam, Wind Forge |
 
@@ -21,15 +21,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their Aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon, the [Guiding Star](Guiding_Star.md) and outfit, [Navaen War Chief](Navaen_War_Chief.md) upon death which will never happen as he is unkillable.
+The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their Aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon, the [Guiding Star](Guiding_Star.md) and outfit, [Navaen War Chief](Navaen_War_Chief.md) upon death.
 
 Their outfit consists of a [Black Blindfold](Blindfold.md), and a [Navaen War Chief](Navaen_War_Chief.md) [Outfit](Outfits.md).
 
-Their chest's lootpool is similar to a [Scyphozia](First_Layer.md) chest, seemingly having heightened [Relic](Relics.md) and [Deep Gem](Mantra_Modifiers.md) rates. See [loot table](#loot-table) for more info.
-
 ## Moveset
 
-The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guiding_Star.md).
+The Lodestar's arsenal consists of the [Guiding Star](Guiding_Star.md).
 
 | Name/Danger | Description |
 | --- | --- |
@@ -132,7 +130,7 @@ Exhaustive Loot Table
   </ul></td>
 </tr>
 <tr>
-  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td></td>
   <td>
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Guiding_Star.md"><font>Guiding Star</font></a> (Direct Drop, <b>Guaranteed</b>), <a href="Stormseye.md"><font>Stormseye</font></a></li>
@@ -171,6 +169,4 @@ Exhaustive Loot Table
 -   A "Lodestar" is an archaic word for stars used to help travellers find their way. In other words: a guiding star.
 -   They have at least four dialogues on spawn, with those being "Loathsome fate...", "So our paths finally cross." ,"Bear your Fangs, wolf." and "Let the trials begin."
 -   They have at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"
--   The Lodestar might be mistaking us for the target shown in their spawn and grip dialogue, as the description on the Guiding Star talks of a 'trial' that the Lodestar could be going through during 'The Festival of Lights', a part of the trial is to blindly hunt a wolf unseen, with the participant failing should they suffer any wounds, with the Guiding Star 'speaking' to the participant, guiding them to completion.
-    -   the Lodestar might be indirectly violating the trial by being a Blindseer, which would allow them to use their sight during the trial.
--   Ironically, Navaen Nomads are hostile towards The Lodestar and Vice-Versa, (Tested by teleporting Lodestar to Meteor Isle using Teleportation Resonance). They also ally with monsters such as Threshers which means they could count as a monster enemy rather than humanoid.
+-   Ironically, Navaen Nomads are hostile towards The Lodestar and Vice-Versa. They also ally with monsters such as Threshers which means they could count as a monster enemy rather than humanoid.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 220093
+revid: 220758
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3698,6 +3698,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Explosive Finish \[Common Talent, Flamecharm\] - If an enemy is on fire when you flourish, blast them away with a fire blast.
     -   Deals 5 Flamecharm damage.
     -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
+    -   Though this can't be procced on [Unconscious](Status_Effects.md#unconscious) targets, the explosion can autoexecute. This applies to [Emperor Flame](#emperor-flame) as well.
     -   Prerequisite: 45 Flamecharm
 
 -   Flaming Flourish \[Common Talent, Flamecharm\] - Set enemies on fire when you flourish or uppercut them.
@@ -3708,14 +3709,16 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Emperor Flame \[Common Talent, Flamecharm\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
     -   Landing a basic attack while you have the Emperor Flame status effect will proc the flourish, dealing 15 Flamecharm damage, 25 Wither damage, and applying burn to the victim and anyone else nearby. This cannot proc on knocked enemies and does not proc Dazing Finisher.
-    -   The Emperor Flame status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
+    -   The [Emperor Flame](Status_Effects.md#emperor-flame) status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
     -   Hitting enemies with attacks that apply burn will grant Emperor Flame stacks. This will proc regardless of if the target is currently burning or not. There is a 2 second cooldown for stack gain.
-    -   Emperor Flame extinguishes burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, your self applied burn will not be extinguished.
-    -   Prerequisites: Agitating Spark, 60 Flamecharm
+    -   Emperor Flame extinguishes burn applied to yourself through [Agitating Spark](#agitating-spark). If Emperor Flame is on cooldown, your self applied burn will not be extinguished.
+    -   Though this can't be procced on [Unconscious](Status_Effects.md#unconscious) targets, the explosion can autoexecute. This applies to [Explosive Finish](#explosive-finish) as well.
+    -   Prerequisites: [Agitating Spark](#agitating-spark), 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
-    -   Has a 20s Cooldown
-    -   With eruption path, it will proc eruption.
+    -   Has a 20s Cooldown.
+    -   Mirage Clone makes an "attack" to apply its burn. This can be parried, blocked, or dodged, preventing the burn application.
+    -   With eruption path, it will cause an eruption instead.
     -   Prerequisite: 65 Flamecharm
 
 ### The Knives of Eylis
