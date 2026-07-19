@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 216802
+revid: 220767
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
@@ -44,7 +44,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 Equipping the Acheron's Warspear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Vital Wound** procs when uppercutting your opponent, applying the [Vital Wound](Status_Effects.md#vital-wound) status effect. This status effects decreases their passive posture recovery by 30% for the next 30 seconds.
+[**Vital Wound**](Talents.md#vital-wound) procs when uppercutting your opponent, applying the [Vital Wound](Status_Effects.md#vital-wound) status effect. This status effects decreases their passive posture recovery by 30% for the next 30 seconds.
 
 This has no cooldown, but it cannot be reapplied to the same target once active.
 

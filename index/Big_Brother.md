@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 213938
+revid: 220769
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Weapons with Talents, Legendary Weapons]
@@ -42,7 +42,7 @@ The Big Brother is a LHT weapon in the Dagger category that can be obtained by m
 
 Equipping the Big Brother grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Swift Strike** procs when you land an M1 on your opponent's back, granting the [Swift Strike](Status_Effects.md#swift-strike) status effect for an indefinite duration. This status effect changes your next critical attack into a teleporting backstab attack that procs all [assassination](Talents.md#assassin) Talents and deals percentage based damage.
+[**Swift Strike**](Talents.md#swift-strike) procs when you land an M1 on your opponent's back, granting the [Swift Strike](Status_Effects.md#swift-strike) status effect for an indefinite duration. This status effect changes your next critical attack into a teleporting backstab attack that procs all [assassination](Talents.md#assassin) Talents and deals percentage based damage.
 
 This has a 20 second cooldown. Using the Swift Strike-enhanced critical consumes the status effect.
 

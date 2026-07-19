@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 215666
+revid: 220772
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents, Legendary Weapons]
@@ -48,15 +48,13 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 
 Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Blood Drinker** provides benefits to your weapon's basic attacks.
+[**Blood Drinker**](Talents.md#blood-drinker) provides benefits to your weapon's basic attacks.
 
 On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 
-On critical, apply a Damage over Time status effect that deals 8 damage per tick 5 times for a maximum of 40 damage. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this. This effect can only proc once per crit.
+On critical, apply a Damage over Time status effect, dubbed [Bloodletting](Status_Effects.md#bloodletting), that deals 8 damage per tick 5 times for a maximum of 40 damage. If you are knocked [Unconscious](Status_Effects.md#unconscious) during the lifespan of this effect, or hit by the critical while being Unconscious, you will be automatically executed This effect can be applied through dodge; parrying this attack is the only way to avoid this.
 
-### Devastating Recovery
-
-Enemies will recover 30% less posture when parrying your light attacks.
+[**Devastating Recovery**](Talents.md#devastating-recovery) reduces the amount of Posture your opponents restore when parrying your light attacks by 30%.
 
 ## Critical
 

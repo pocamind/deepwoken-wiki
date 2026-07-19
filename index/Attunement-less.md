@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 220542
+revid: 220765
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1665,7 +1665,7 @@ Slash ResistanceSlash
 -   Can be modified with a Glass/Magnifying stone to make it bigger.
 -   Wielding the [Vigil Longsword](Vigil_Longsword.md) makes your Master's Flourish bigger and allows it to proc "on flourish" effects.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1706,10 +1706,9 @@ Slash ResistanceSlash
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Deals 5 posture damage.
 -   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
--   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
--   Having the [Forgotten Gladius](Forgotten_Gladius.md) or [Kindred Edict](Kindred_Edict.md) equipped will heavily decrease its windup.
+-   Having the [Forgotten Gladius](Forgotten_Gladius.md) equipped will heavily decrease its windup.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1753,7 +1752,7 @@ Slash ResistanceSlash
 -   Twincleave has an endlag of 0.4s.
 -   Can change the direction you launch backwards by turning your camera.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1801,7 +1800,7 @@ Slash ResistanceSlash
 -   Does not register hits until the end of the move's animation, meaning you can phase through opponents without damaging them if used at close range.
     -   Because of this, it is recommended to use this Mantra after uppercuts or while looking at the floor to land it in CQC.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1842,7 +1841,7 @@ Slash ResistanceSlash
 -   Deals 12 posture damage.
 -   Uppercuts.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 
