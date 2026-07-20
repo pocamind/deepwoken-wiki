@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 220452
+revid: 220890
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Lost Celtor, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Plates, Lost Celtor, Equipment with Talents, "Equi
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
-| innate stats | +8 Health , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +8 Health , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Breathing Exercise |
 | set | Celtor Commander Helm, Celtor Commander Plate, Celtorian Sabatons |
 | set talent | N/A |

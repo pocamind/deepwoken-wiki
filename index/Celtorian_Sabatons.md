@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 220360
+revid: 220891
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Sabatons]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +4 Health , +2 Rare Pips |
 | innate talent | N/A |
