@@ -1,6 +1,6 @@
 ---
 title: "Confessor's Charm"
-revid: 218192
+revid: 220897
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces]
@@ -13,10 +13,10 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Classic, Tarnished |
-| innate stats | +3% Physical Armor , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +3% Physical Armor , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

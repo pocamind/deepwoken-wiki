@@ -1,6 +1,6 @@
 ---
 title: Corrupted Immortal Helm
-revid: 215927
+revid: 220899
 source: https://deepwoken.fandom.com/wiki/Corrupted_Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Corrupt Equipment,
 | type | Head |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Cursed Immortality |

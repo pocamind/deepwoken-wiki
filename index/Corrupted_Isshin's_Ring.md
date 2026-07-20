@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Isshin's Ring"
-revid: 190122
+revid: 220900
 source: https://deepwoken.fandom.com/wiki/Corrupted_Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, Corrupt Equipment]
@@ -13,8 +13,8 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, 
 | type | Ring |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Power 5 |
-| weight | 0.2 |
+| requirements | LVL 5 |
+| weight | 0.1 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | No |
@@ -24,9 +24,11 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, 
 | obtainment | The Depths |
 | description | Dropped from a wandering swordsman who went insane. Take 2x damage and deal 2x damage when in close-quarters combat. |
 
+Variants: [Isshin's Ring](<Isshin's_Ring.md>)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

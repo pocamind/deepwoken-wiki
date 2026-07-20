@@ -1,6 +1,6 @@
 ---
 title: "Chef's Toque"
-revid: 209862
+revid: 220895
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Equipment with Talents, "Equipment with Non-exclus
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Chef Odiolavoro |
+| obtainment | Chests from:, Chef Odiolavoro |
 | description | It's not raw, you are. |
 
 ## Description

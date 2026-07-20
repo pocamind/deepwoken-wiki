@@ -1,6 +1,6 @@
 ---
 title: Crimson Terraplate Pauldrons
-revid: 217515
+revid: 220905
 source: https://deepwoken.fandom.com/wiki/Crimson_Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equi
 | type | Arms |
 | rarity | Rare |
 | selling price | 75 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
-| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Cruentare |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 209861
+revid: 220893
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Capes, Craftable, Equipment with Talents, Equipmen
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 20 |
+| requirements | LVL 20 |
 | weight | 2 |
-| innate stats | +10% Lightning Armor , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +10% Lightning Armor , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | No Interruptions |
 | bankable | Yes |
 | droppable | Yes |

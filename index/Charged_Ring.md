@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 215780
+revid: 220894
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +1 Rare Pip |
 | bankable | Yes |
 | droppable | Yes |
