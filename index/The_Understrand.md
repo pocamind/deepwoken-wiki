@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 217535
+revid: 220883
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Locations in the First Layer, Territory of The Ministry, Lawless Territory]
@@ -46,4 +46,5 @@ The Understrand is primarily used for the obtainment of the [Deepspindle](Deepsp
 -   This used to only be accessible in [The Depths](The_Depths.md) but became accessible through [Outpost Antumbra](Outpost_Antumbra.md) and [Minityrsa](Minityrsa.md).
 -   If you're trying to get here, it's not that ridiculously hard. A great and easy method is to go to [Outpost Antumbra](Outpost_Antumbra.md) at Minityrsa, and server hop then look around the outpost. Eventually, you will find the purple lights with the dark sigil in the outpost in one of the server. Note that you may need to have a sharp eye to spot the lights, as sometimes they are pretty faint due to the fog. This is less time consuming than having to search the Depths for Silhuett, as you are covering less area, and also less risky as you won't wipe in the Overworld.
 -   There will be a pattern on the ground signifying that you have found it its a black circular pattern. The pattern will appear and disappear repeatedly.
--   It is recommended to get shadow travel since getting the desired item may take multiple tries.
+-   It is recommended to get shadow travel since getting the desired item may take multiple tries.'
+-   When entering in the overworld, the combat theme is Lacrimosa Dies Illa, which is the default combat theme for [The Depths](The_Depths.md).

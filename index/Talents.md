@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 220758
+revid: 220874
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4573,8 +4573,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks have 10% additional penetration.
-    -   Gives [Way of Navae](Way_of_Navae.md) M1s 10% more PEN. This does **NOT** apply to criticals unless it has the M1 tag.
-    -   This bypasses the 50% PEN cap.
+    -   Gives [Way of Navae](Way_of_Navae.md) style M1s and criticals with the M1 tag 10% more PEN.
+    -   This also affects fist weapons with Unique light attack animations.
 
 -   Circuit Breaker: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Electrify no longer deals self-damage on use.
     -   The Electrify Talent tool no longer consumes health on use.

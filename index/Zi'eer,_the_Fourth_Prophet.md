@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 218104
+revid: 220887
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits, Prophets of The Ministry]
@@ -375,6 +375,7 @@ Jump
 | **Upon hitting the Inheritor with 'Enhanced Requiem' in Phase 2** | **DIE! DIE! DIE! DIE! DIE!** |
 | **Upon using 'Blinking Divebomb' in Phase 2** | Try and keep up. |
 | **Upon using 'Lightspeed Strike' in Phase 2** | I wonder if you can react to _this._ |
+| **Player is killed** | Pass my most foul regards to [Rakaan](Reclaimer_of_the_Recollection.md), vermin. |
 
 ## Trivia
 

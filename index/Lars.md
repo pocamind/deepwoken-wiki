@@ -1,6 +1,6 @@
 ---
 title: Lars
-revid: 218355
+revid: 220871
 source: https://deepwoken.fandom.com/wiki/Lars
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant, Deceased characters]
@@ -28,6 +28,8 @@ Lars is a [Khan](Khan.md) NPC. He is a member of [The Hundred Legions](The_Hundr
 
 He is part of the 'Legion Scout' [quest](Quests.md) and is the person [Atra](Atra.md) asks you to find.
 
+  
+
 ## Location
 
 Lars is located in [Erisia](Erisia.md) inside the Bluecap Library which is located deep in [The Viper's Jaw](<The_Viper's_Jaw.md>), his dead body rests against a wall in a corner.
@@ -47,6 +49,10 @@ Lars is located in [Erisia](Erisia.md) inside the Bluecap Library which is locat
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Lars hair id is 15913837.
 
 ## References
 

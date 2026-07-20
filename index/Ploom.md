@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 214587
+revid: 220870
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -132,3 +132,7 @@ Ploom is located inside of Lance's Food Shop at [Etris](Etris.md).
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+Ploom’s hair id is 12330952760

@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 220865
+revid: 220873
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -216,5 +216,3 @@ Dodge
 ## Tips
 
 The same knowledge you learned from the base [Megalodaunt](Megalodaunt.md) can be applied to the Alpha Megalodaunt.
-
-Since they can be found facing a library wall inside the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), it is possible that they like to read.

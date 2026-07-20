@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 218351
+revid: 220872
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -131,3 +131,7 @@ This dialogue is unlocked if the player has spoken to [Gaius](Gaius.md) at least
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+Atra's hair id is 12330952760

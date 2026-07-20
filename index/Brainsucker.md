@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 215970
+revid: 220884
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -86,3 +86,4 @@ Being some of the oldest creatures discovered, their common name comes from the 
 -   Uppercutting a Brainsucker or ragdolling them while above the ocean will cause them to fall underwater.
 -   It is implied that there is a "Greater Brainsucker," because its name is "Lesser Brainsucker."
 -   They might be communal or live in small groups or duos due to being found in pairs of two or three frequently.
+-   After a certain period of time they will end up despawning via flying upwards towards the sky including in combat.
