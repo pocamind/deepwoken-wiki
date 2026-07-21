@@ -1,6 +1,6 @@
 ---
 title: "Death's-Head Necktie"
-revid: 209924
+revid: 220935
 source: https://deepwoken.fandom.com/wiki/Death's-Head_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Ties, Hallowtide, Event Item]
@@ -15,7 +15,7 @@ notices:
 | type | Torso |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +3% Shadow Armor , +2 Legendary Pips |
 | innate talent | N/A |

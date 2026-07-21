@@ -37,6 +37,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +18% Physical resistance ResistanceBlunt ResistanceSlash, and +8% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Survivalist](Talents.md#survivalist) Talent.
+This Outfit has 1200 durability, grants +18% Physical resistance ResistancePhysical, and +8% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Survivalist](Talents.md#survivalist) Talent.
 
 The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from certain weather effects like [Acid Rain](Environmental_Hazards.md).

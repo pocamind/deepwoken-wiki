@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 213180
+revid: 221162
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Features absent in Vow of Iron]
@@ -24,33 +24,33 @@ This content is not accessible outside of this gamemode.
 
 ## Shrines
 
-Shrine of Temptation
+[Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md)
 
-Shrine of Blasphemy
+[Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)
 
 **Shrine of Temptation**: Trade a Mantra of your choice and 5 to gain a Whisper Draw.
 
 **Shrine of Blasphemy**: For 5, **POWER 1-16** instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws, granting you a [Flaw](Boons_and_Flaws.md), Or **POWER 17-20** reroll a Flaw of your choice into another, random base [Flaw](Boons_and_Flaws.md#flaws).
 
-Shrine of Mastery
+[Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)
 
-Shrine of Chance
+[Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md)
 
 **Shrine of Mastery**: For 1, trade 1 of your Trait Points into another Trait. You can also remove attribute points.
 
 **Shrine of Chance**: For 5, trade a Talent of your choice to obtain a Talent hand of equal rarity (e.g. Common/Advanced = Common/Advanced, Rare = Rare) OR a Rare Talent for a Talent hand of only Common/Advanced Talents. For 10, trade a Common/Advanced Talent of your choice for a Talent hand consisting only of Rare Talents.
 
-Shrine of Order
+[Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
 
-Shrine of Conceit
+[Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)
 
 **Shrine of Order**: For 10, average your stats (up to a limit of -25 points on main stats, with no limit on attunement stats). Can only be done once per character. You must need **POWER 8+ AND** **NO OATH** to use this.
 
 **Shrine of Conceit**: For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
 
-Shrine of Division
+[Shrine of Division](Deep_Shrines/Shrine_of_Division.md)
 
-Shrine of Unification
+[Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)
 
 Shrine of Division: For 5 and a Mantra of your choice, obtain a Roll 2.
 

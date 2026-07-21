@@ -34,7 +34,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunements.md). Additionally it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1000 durability and grants +25% Physical resistance ResistancePhysical and +25% Elemental resistance [ResistanceElemental](Attunements.md). Additionally it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

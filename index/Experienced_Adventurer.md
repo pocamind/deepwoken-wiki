@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit grants +10% Physical resistance ResistanceBlunt ResistanceSlash and +10% Blunt resistance ResistanceBlunt. Additionally, it provides the [Looter](Talents.md#looter) Talent.
+This Outfit grants +10% Physical resistance ResistancePhysical and +10% Blunt resistance ResistanceBlunt. Additionally, it provides the [Looter](Talents.md#looter) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt ResistanceBlunt and 10% Slash ResistanceSlash.
 

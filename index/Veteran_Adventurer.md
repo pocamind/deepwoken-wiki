@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Foolish Outburst](Talents.md#foolish-outburst) Talent.
+This Outfit has 1500 durability and grants +15% Physical resistance ResistancePhysical, +15% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Foolish Outburst](Talents.md#foolish-outburst) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical ResistanceBlunt ResistanceSlash, 19.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 19.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 15% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical ResistancePhysical, 19.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 19.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 15% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Foolish Outburst](Talents.md#foolish-outburst) Talent absorbs the [Tempo](Combat_Mechanics.md#tempo) cost of a [Vent](Combat_Mechanics.md#tempo) should the wearer block or parry it.
 

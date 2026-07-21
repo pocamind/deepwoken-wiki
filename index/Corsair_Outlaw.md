@@ -34,7 +34,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This outfit has 1200 durability, grants the user +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
+This outfit has 1200 durability, grants the user +15% Physical resistance ResistancePhysical, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
 
 The [Lightweight](Talents.md#lightweight) Talent increases the users movement speed by 25% when their armor's durability reaches 0.
 

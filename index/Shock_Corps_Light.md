@@ -39,9 +39,9 @@ This Outfit will be automatically equipped upon joining the Shock Corps Division
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +15% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Battle-Hardened](Talents.md#battle-hardened) Talent.
+This Outfit has 3500 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +15% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Battle-Hardened](Talents.md#battle-hardened) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 37% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 37% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 37% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 37% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Battle-Hardened](Talents.md#battle-hardened) Talent grants 20% damage reduction to Mantra guardbreaks.
 

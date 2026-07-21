@@ -41,7 +41,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
 
 The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, grants a speed boost and allows you to teleport to your opponent in radius of 25 studs when using M1s, for 20 seconds. This has a cooldown of 100 seconds.
 

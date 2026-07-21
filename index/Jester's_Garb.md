@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 12
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +15% Blunt resistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunements.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Not a Scratch](Talents.md#not-a-scratch) and [Mocking Favor](Talents.md#mocking-favor) Talents.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +15% Blunt resistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunements.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Not a Scratch](Talents.md#not-a-scratch) and [Mocking Favor](Talents.md#mocking-favor) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, and 35% Elemental [ResistanceElemental](Attunements.md).
 

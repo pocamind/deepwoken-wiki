@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 209935
+revid: 220951
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, "Equip
 | type | Arms |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 2 |
 | innate stats | +10 Health +1 Posture , +3 Legendary Pips |
 | innate talent | Conquer Your Fears |

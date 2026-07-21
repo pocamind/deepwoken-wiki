@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 220706
+revid: 221122
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment of The Central Authority]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment of The Cen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, Authority Ambush |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort) |
 | description | ... |
 
 ## Description

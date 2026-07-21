@@ -35,7 +35,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 6 
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +15% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Fleetfoot](Talents.md#fleetfoot) Talent.
+This Outfit has 2000 durability, grants +10% Physical resistance ResistancePhysical, and +15% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Fleetfoot](Talents.md#fleetfoot) Talent.
 
 The [Fleetfoot](Talents.md#fleetfoot) Talent grants the user a speed boost after slide jumping.
 

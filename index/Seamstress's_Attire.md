@@ -36,4 +36,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 2000 durability and grants +25% Physical resistance ResistancePhysical and +20% Elemental resistance [ResistanceElemental](Attunements.md).

@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +20% Fire resistance [ResistanceFlamecharm](Flamecharm.md) and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +20% Fire resistance [ResistanceFlamecharm](Flamecharm.md) and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 40% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 40% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 40% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 40% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20% PEN to any non-weapon attack, such as Mantras and Talent abilities. Additionally, because [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, Crippling darkness allows your typeless damage attacks (e.g. [Bleed](Status_Effects.md#bleed)) to deal more damage against Reinforce users than you would otherwise.
 

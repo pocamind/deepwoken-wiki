@@ -38,7 +38,7 @@ Alternatively, using the [Authority Ensign](Authority_Ensign.md) Origin will gra
 
 ### _Armor Stats_
 
-This Outfit has 1600 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +10% Elemental resistance [ResistanceElemental](Attunements.md), and +15% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1600 durability, grants +15% Physical resistance ResistancePhysical, +10% Slash resistance ResistanceSlash, +10% Elemental resistance [ResistanceElemental](Attunements.md), and +15% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash ResistanceSlash, 15% Blunt ResistanceBlunt, 23.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 10% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

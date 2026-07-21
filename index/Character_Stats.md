@@ -79,7 +79,7 @@ Check out this website to better understand the calculation and try it out inter
 
 ### Armor
 
--   **Physical Armor ResistanceBlunt ResistanceSlash:** Reduce damage taken from weapons and physical Mantras. When on [Outfits](Outfits.md), it stacks multiplicatively with its sub damage types:
+-   **Physical Armor ResistancePhysical:** Reduce damage taken from weapons and physical Mantras. When on [Outfits](Outfits.md), it stacks multiplicatively with its sub damage types:
     -   **Slash Armor ResistanceSlash:** Reduce damage taken from bladed weapons such as swords, daggers or axes.
     -   **Blunt Armor ResistanceBlunt:** Reduce damage taken from blunt weapons such as clubs, fists or hammers.
 -   **Elemental Armor [ResistanceElemental](Attunements.md):** Reduce damage taken from elemental attacks. When on [Outfits](Outfits.md), it stacks multiplicatively with its sub damage types:
@@ -123,7 +123,7 @@ Example 3: If you are [Oathless](Oath%253A_Oathless.md) and are wearing [Ignitio
 
 Example 4: If your opponent has a 30 Slash damage attack with 35% PEN, and you were wearing a [Black Diver](Black_Diver.md) with an 8% Physical resistance head equipment, a 4% Physical resistance arms equipment, a [Bloodiron Ring](Bloodiron_Ring.md), and [Fists of Fortitude](Talents.md#fists-of-fortitude) active, your damage resistance would look like this;
 
-(1 - (((1 - 30%) × (1 - (8 + 4 + 2)%)))) × (1 - 35%) = 0.2587 or 25.87% armor resistance ResistanceBlunt ResistanceSlash
+(1 - (((1 - 30%) × (1 - (8 + 4 + 2)%)))) × (1 - 35%) = 0.2587 or 25.87% armor resistance ResistancePhysical
 
 1 - ((1 - 25.87%) × (1 - 15%)) = 0.3699 or 36.99% resistance, and 18.91 damage taken
 

@@ -118,4 +118,4 @@ If the player hasn't burned any cards or has an unchosen Talent, Mantra, or Trai
 
 ## Navigation
 
-Variants: [Shrine of Temptation](Shrine_of_Temptation.md)
+Variants: [Shrine of Temptation](Shrine_of_Temptation.md) · [Shrine of Blasphemy](Shrine_of_Blasphemy.md) · [Shrine of Mastery](Shrine_of_Mastery.md) · [Shrine of Chance](Shrine_of_Chance.md) · [Shrine of Order](Shrine_of_Order.md) · [Shrine of Division](Shrine_of_Division.md) · [Shrine of Unification](Shrine_of_Unification.md)

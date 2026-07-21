@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md) and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
+This Outfit has 1200 durability and grants +20% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md) and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistanceBlunt ResistanceSlash, 47.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistancePhysical, 47.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 

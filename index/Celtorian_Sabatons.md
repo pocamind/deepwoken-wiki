@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 220891
+revid: 221152
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer, First Layer, Duke Erisia, Maestro Evengarde Rest, War Mode, Dread Serpent |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Erisia, Maestro Evengarde Rest, War Mode, Dread Serpent |
 | description | ... |
 
 ## Description

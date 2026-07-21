@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-The outfit has 3000 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +15% Frostdraw resistance [ResistanceFrostdraw](Frostdraw.md), and +15% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Force Your Way](Talents.md#force-your-way) Talent.
+The outfit has 3000 durability, grants +30% Physical resistance ResistancePhysical, +35% Elemental resistance [ResistanceElemental](Attunements.md), +15% Frostdraw resistance [ResistanceFrostdraw](Frostdraw.md), and +15% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Force Your Way](Talents.md#force-your-way) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.7% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.7% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Force Your Way](Talents.md#force-your-way) Talent grants the player the ability to parry unparryable attacks from large monsters at the cost of some armor durability. The armor durability lost is based on the damage the attack would've done. Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 

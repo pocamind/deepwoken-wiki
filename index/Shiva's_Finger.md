@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Unique |
 | selling price | 100 |
 | requirements | Power 10 |
-| weight | 0.2 |
+| weight | 0.1 |
 | bankable | No |
 | droppable | No |
 | enchantable | No |

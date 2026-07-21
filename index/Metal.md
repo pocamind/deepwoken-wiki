@@ -1,6 +1,6 @@
 ---
 title: Metal
-revid: 217994
+revid: 221169
 source: https://deepwoken.fandom.com/wiki/Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -28,7 +28,8 @@ The armor drain and armor restoration are entirely independent effects and are c
 
 ### Notes
 
--   Metal's armor drain formula is as follows: 0.0021 × weapon's scaled damage × target's armor durability × armor drain modifiers ([Steadfast](Boons_and_Flaws.md#steadfast), [Armor Conserver](Talents.md#armor-conserver), & [Armorer's Ring](<Armorer's_Ring.md>))
+-   Metal's armor drain formula is as follows: 0.0021 × weapon's scaled damage × target's armor durability × armor drain modifiers ([Steadfast](Boons_and_Flaws.md#steadfast), [Bulletproof](Talents.md#bulletproof), [Armor Conserver](Talents.md#armor-conserver), & [Armorer's Ring](<Armorer's_Ring.md>))
+    -   Armor drain resistances are combined multiplicatively.
 -   Metal's armor restoration formula is as follows: 0.0021 × weapon's scaled weapon damage × your armor durability.
 -   Metal will still restore your armor on hit even if your opponent doesn't have any left.
 -   [Non-humanoid NPCs](Monsters.md) get staggered when their armor value reaches 0%. Because of this, this enchant allows you to stagger them **faster**.

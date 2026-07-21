@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 219001
+revid: 221134
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | LVL 8 |
 | weight | 1 |
-| innate stats | +10 Health , +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +10 Health , +1 Uncommon Pip , +1 Rare Pip |
 | innate talent | N/A |
 | set | Blacksteel Helm, Blacksteel Pauldrons |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, First Layer, Duke Ishamon Erisia, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed HollowDrops from:, Blacksteel Pirate |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed HollowDrops from:, Blacksteel Pirate |
 | description | An imposing helmet made from blackened steel. |
 
 Blacksteel Set

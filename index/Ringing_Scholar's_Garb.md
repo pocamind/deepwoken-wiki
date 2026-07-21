@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), -5 Sanity [IconSanity](Insanity.md), +50% Ether Regen [IconEther](Ether.md), and the [Lose Your Mind](Talents.md#lose-your-mind) Talent.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), -5 Sanity [IconSanity](Insanity.md), +50% Ether Regen [IconEther](Ether.md), and the [Lose Your Mind](Talents.md#lose-your-mind) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: +25% Physical ResistanceBlunt ResistanceSlash, 47.5% Ironsing [ResistanceIronsing](Ironsing.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: +25% Physical ResistancePhysical, 47.5% Ironsing [ResistanceIronsing](Ironsing.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
 
 The [Lose Your Mind](Talents.md#lose-your-mind) Talent grants a damage buff that scales on how low your current Sanity is. This Talent scales non-linearly on your Sanity, capping at +15% damage at 0% Sanity.
 

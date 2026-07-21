@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 218610
+revid: 220942
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, The Ignition Union, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Dusters, The Ignition Union, Equipment with Talent
 | type | Arms |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
 | innate stats | +5 Health , +3 Legendary Pips |
 | innate talent | Braced Collapse, Kick Off |
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Dusters, The Ignition Union, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests:, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Miner's Landing, Saramaed Summit, Saramaed Hollow, Starfield VeldtOther Sources:, Travelling MerchantsVow of Iron:, Mystery Boxes |
+| obtainment | Chests:, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Miner's Landing, Saramaed Summit, Saramaed Hollow, Starfield VeldtOther Sources:, Travelling MerchantVow of Iron:, Mystery Boxes |
 | description | ... |
 
 ## Description

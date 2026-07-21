@@ -1,6 +1,6 @@
 ---
 title: Barrel Helm
-revid: 220714
+revid: 221128
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -20,7 +20,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, First Layer, Bounties, Second Layer, Sea EventsFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Bounties, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Sea EventsFound from:, Artifact Turn-ins |
 | description | A sturdy helmet shaped like a barrel. |
 
 ## Description

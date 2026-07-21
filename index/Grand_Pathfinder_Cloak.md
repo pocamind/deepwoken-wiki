@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), and +40% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Legendary](Talents.md#legendary) Talent.
+This Outfit has 2000 durability and grants +20% Physical resistance ResistancePhysical, +20% Elemental resistance [ResistanceElemental](Attunements.md), and +40% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Legendary](Talents.md#legendary) Talent.
 
 The [Legendary](Talents.md#legendary) Talent grants Ether restoration when you land weapon attacks or parry attacks. Parries restore 2.5% of your Ether. M1s and criticals with the M1 tag restore 10% of your Ether.
 

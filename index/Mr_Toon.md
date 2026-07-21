@@ -32,9 +32,9 @@ notices:
 
 ### _Armor Stats_
 
-The Outfit has 2600 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20 Lightning resistance [ResistanceThundercall](Thundercall.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), 16 Sanity [IconSanity](Insanity.md), and +100% Ether Regen [IconEther](Ether.md).
+The Outfit has 2600 durability, grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20 Lightning resistance [ResistanceThundercall](Thundercall.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), 16 Sanity [IconSanity](Insanity.md), and +100% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44% Thundercall [ResistanceThundercall](Thundercall.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 44% Thundercall [ResistanceThundercall](Thundercall.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
 
 Additionally, it provides the [Vow of Mastery](Vow_of_Mastery.md) Talent. Allowing it's user to control and command subjects under its effects.
 

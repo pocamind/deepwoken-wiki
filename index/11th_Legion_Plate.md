@@ -36,6 +36,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +30% Blunt ResistanceBlunt resistance.
+This Outfit has 1500 durability, grants +10% Physical resistance ResistancePhysical, and +30% Blunt ResistanceBlunt resistance.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt ResistanceBlunt and 10% Slash ResistanceSlash.

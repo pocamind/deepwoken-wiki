@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-The Outfit has 2200 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +30% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +20 Sanity [IconSanity](Insanity.md), and +45% Ether Regeneration [IconEther](Ether.md).
+The Outfit has 2200 durability, grants +25% Physical resistance ResistancePhysical, +35% Elemental resistance [ResistanceElemental](Attunements.md), +30% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +20 Sanity [IconSanity](Insanity.md), and +45% Ether Regeneration [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 54.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 51.25% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 54.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 51.25% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 Additionally, it provides the [Tidal Shock](Talents.md#tidal-shock) Talent. This makes your Critical attacks apply short Daze and trigger Tidal Shock's effect.
 

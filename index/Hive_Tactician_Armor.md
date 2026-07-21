@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), +15% Ironsing resistance [ResistanceIronsing](Ironsing.md), and 10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Brunt](Talents.md#brunt) Talent.
+This Outfit has 1200 durability and grants +30% Physical resistance ResistancePhysical, +20% Elemental resistance [ResistanceElemental](Attunements.md), +15% Ironsing resistance [ResistanceIronsing](Ironsing.md), and 10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Brunt](Talents.md#brunt) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 32% Ironsing [ResistanceIronsing](Ironsing.md), 28% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 32% Ironsing [ResistanceIronsing](Ironsing.md), 28% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Brunt](Talents.md#brunt) Talent increases your posture resistance while two-handing by 10%.
 

@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Common |
 | selling price | N/A |
 | requirements | N/A |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +1 Rare Pip |
 | bankable | No |
 | droppable | No |

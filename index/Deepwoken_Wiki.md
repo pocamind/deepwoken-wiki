@@ -34,7 +34,7 @@ Subscribe
 
 ](https://www.youtube.com/@DeepwokenWiki)
 
-This wiki hosts **2,455 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
+This wiki hosts **2,456 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
 
 Navigation
 
@@ -124,7 +124,7 @@ Navigation
 
 Blog Posts
 
-AficionadoOfIdiocy AficionadoOfIdiocy • 27 days ago
+AficionadoOfIdiocy AficionadoOfIdiocy • 19 June
 
 3
 

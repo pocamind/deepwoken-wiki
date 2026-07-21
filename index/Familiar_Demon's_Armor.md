@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Demon Step](Talents.md#demon-step) Talent.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Demon Step](Talents.md#demon-step) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 32.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 32.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when activated makes the user charge forward in a straight line, gaining i-frames. This consumes 50 Ether with a 1 second cooldown.
 

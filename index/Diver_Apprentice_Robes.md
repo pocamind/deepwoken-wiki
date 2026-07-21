@@ -38,7 +38,7 @@ Alternatively, using the [Deepbound](Deepbound.md) Origin will grant it for free
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), and +20% Ether Regen [IconEther](Ether.md).
+This Outfit has 1000 durability, grants +10% Physical resistance ResistancePhysical, +15% Elemental resistance [ResistanceElemental](Attunements.md), and +20% Ether Regen [IconEther](Ether.md).
 
 ## Trivia
 

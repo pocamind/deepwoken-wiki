@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 220703
+revid: 221119
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Tale
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aelita, Aratel Island, Primadon, Elder Primadon, Starswept Valley, Rogue Construct, Calamus, Cloaked Assassins, The Ferryman, Carnival of Hearts, War Mode |
+| obtainment | Aelita, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Primadon, Elder Primadon, Cloaked Assassins, The Ferryman (Winter), Carnival of Hearts, War Mode |
 | description | ... |
+
+Assassin's Set
+
+Variants: [Hood](<Assassin's_Hood.md>)
 
 ## Description
 

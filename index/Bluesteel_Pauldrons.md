@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 220845
+revid: 221142
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Fishing, Authority Ensign Missions |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Fishing, Authority Ensign Missions |
 | description | ... |
 
 Bluesteel Set

@@ -40,7 +40,7 @@ This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Pow
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% [Stealth](Stealth.md) [IconStealth](Stealth.md).
+This Outfit has 1500 durability, grants +15% Physical resistance ResistancePhysical, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% [Stealth](Stealth.md) [IconStealth](Stealth.md).
 
 ## Trivia
 

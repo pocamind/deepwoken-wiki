@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 220896
+revid: 221153
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, First Layer, Second Layer, Chime of Conflict, Heart of Enmity, Maestro Evengarde Rest, The Doom of Caeranthil, Dread Serpent, Bounties, Chaser, Scholar of the Crimson Contract, Voidsea Events, Sea Events |
+| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Chime of Conflict, Heart of Enmity, Maestro Evengarde Rest, The Doom of Caeranthil, Dread Serpent, Bounties, Chaser, Scholar of the Crimson Contract, Voidsea Events, Sea Events |
 | description | Designed for the scholars of the Citadel, these frames are renowned for their simple yet striking style, and are traded and sought after across all Luminants. Unfortunately, they are not your prescription... |
 
 ## Description
@@ -33,5 +33,5 @@ The Citadel Frames are an [Equipment](Equipment.md) item under the "Face" catego
 
 -   This is one of very few items in general to grant negative stats.
 -   This was the first face equipment to possess a health stat.
--   The lowest Posture you can have is 16, with Citadel Frames and [Dark Pearls](Dark_Pearls.md).
+-   The lowest Posture you can have is 17, with Citadel Frames and [Dark Pearls](Dark_Pearls.md).
 -   Back when Equipment Styles were entirely separate items, all Citadel Frames variants initially had -2 Posture, but were buffed to have -1 instead in shadow updates. Notably, the default Browline and Round variants retained their original -2 posture for several months before they were buffed, while the other variants were changed almost immediately after they released.

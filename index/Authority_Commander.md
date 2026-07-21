@@ -40,7 +40,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-The Outfit has 2800 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
+The Outfit has 2800 durability, grants +30% Physical resistance ResistancePhysical, +10% Blunt resistance ResistanceBlunt, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

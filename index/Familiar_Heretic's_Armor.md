@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 4000 durability and grants +35% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Soul Rip](Talents.md#soul-rip) Talent, but will passively reduce your movement speed by 30% while equipped.
+This Outfit has 4000 durability and grants +35% Physical resistance ResistancePhysical, +35% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Soul Rip](Talents.md#soul-rip) Talent, but will passively reduce your movement speed by 30% while equipped.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 35% Physical ResistanceBlunt ResistanceSlash, 38.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 38.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 35% Physical ResistancePhysical, 38.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 38.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Soul Rip](Talents.md#soul-rip) Talent grants 2 _Runes_ every time you kill a player, then upon using its Talent tool it will consume a Rune to grant a 50% melee damage buff, a 20% defense buff, and infinite Ether for 25 seconds. Once Soul Rip ends, one of your legs will break, removing your ability to sprint for 30 seconds.
 

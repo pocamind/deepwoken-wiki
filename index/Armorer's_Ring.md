@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 220697
+revid: 221113
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, The Ferryman, Aelita (Extremely Rare), Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Interluminary Parasol, Summer Isle, Second Layer, Maestro Evengarde Rest, The Doom of Caeranthil, War Mode, Chime of Conflict, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, The Ferryman, Aelita (Extremely Rare), Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Interluminary Parasol, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Maestro Evengarde Rest, The Doom of Caeranthil, War Mode, Chime of Conflict, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 25%. |
 
 ## Description

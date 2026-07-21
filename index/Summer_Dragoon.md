@@ -39,9 +39,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Sunset Ricochet](Talents.md#sunset-ricochet) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Sunset Ricochet](Talents.md#sunset-ricochet) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 40.5% Ironsing [ResistanceIronsing](Ironsing.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 40.5% Ironsing [ResistanceIronsing](Ironsing.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Sunset Ricochet](Talents.md#sunset-ricochet) Talent makes your bullets ricochet to a nearby enemy when hitting an opponent. Bullets that ricochet will hit targets for 35% of the weapon's scaled damage, and has a range of 21 studs per target.
 

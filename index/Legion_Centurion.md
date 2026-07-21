@@ -37,8 +37,8 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +5% Lightning resistance [ResistanceThundercall](Thundercall.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Centurion's Resolve](Talents.md#centurions-resolve) Talent.
+This Outfit has 3000 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +5% Lightning resistance [ResistanceThundercall](Thundercall.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Centurion's Resolve](Talents.md#centurions-resolve) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 33.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 33.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 33.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 33.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Centurion's Resolve](Talents.md#centurions-resolve) Talent grants a 4% melee damage buff to the [Legion Kata](Legion_Kata.md) and [Imperium Kata](Imperium_Kata.md) fist styles.

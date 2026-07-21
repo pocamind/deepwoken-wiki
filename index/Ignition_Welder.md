@@ -37,6 +37,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 3000 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md).
 
 It also gives the [Master Craftsman](Talents.md#master-craftsman) Talent, allowing you to craft items that would normally require a workbench from your inventory.

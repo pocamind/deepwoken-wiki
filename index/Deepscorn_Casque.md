@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 211289
+revid: 220937
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, Equipment with Ex
 | type | Head |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Already Dead |
 | bankable | Yes |
 | droppable | Yes |
@@ -36,7 +36,7 @@ This Talent also reduces the self damage/Wither application from the Poison (HP 
 
 ## Trivia
 
--   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), casting [Electrify](Talents.md#electrify) will heal you instead of dealing damage.
+-   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), casting [Electrify](Talents.md#electrify) will heal you for 12 health instead of dealing self damage.
 -   Its previous description, "Because ten billion years' time is so fragile, so ephemeral... It arouses such a bittersweet, almost heartbreaking fondness," is a quote derived from the opening line in the anime _[Now and Then, Here and There](https://en.wikipedia.org/wiki/Now_and_Then,_Here_and_There)._
 -   Due to the description it can be assumed that Darksteel is a powerful recurring substance in Deepwoken with other items having it's mention being the [Darksteel Greatsword](Darksteel_Greatsword.md) and the [Darksteel Plate](Darksteel_Plate.md).
 -   The emblem on the top of the helmet is a stylized version of [Lost Celtor](Lost_Celtor.md)'s emblem.

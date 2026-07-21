@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical and +25% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
 
 The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 

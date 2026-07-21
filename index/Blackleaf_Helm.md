@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 220494
+revid: 221135
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | innate stats | +5 Health , +1 Posture , +2 Rare Pips |
 | innate talent | Concussive Force |
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Starswept Valley, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, War Mode, Lodestar Bounty job, Gold Plate Turn-ins |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, War Mode, Lodestar Bounty job, Gold Plate Turn-ins |
 | description | ... |
 
 ## Description

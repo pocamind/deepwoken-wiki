@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Devastating Power](Talents.md#devastating-power) Talent.
+This Outfit has 1500 durability and grants +10% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Devastating Power](Talents.md#devastating-power) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistanceBlunt ResistanceSlash, 32.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 32.5% Thundercall [ResistanceThundercall](Thundercall.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistancePhysical, 32.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 32.5% Thundercall [ResistanceThundercall](Thundercall.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Devastating Power](Talents.md#devastating-power) Talent gives the player +10 Ether [IconEther](Ether.md) for every _equipped_ Mantra.
 

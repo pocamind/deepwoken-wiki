@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +5% Physical resistance ResistanceBlunt ResistanceSlash, +20% Slash resistance ResistanceSlash, and +25% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1000 durability and grants +5% Physical resistance ResistancePhysical, +20% Slash resistance ResistanceSlash, and +25% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 24% Slash ResistanceSlash, 5% Blunt ResistanceBlunt, and 25% Flamecharm [ResistanceFlamecharm](Flamecharm.md).
 

@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Kickstart](Talents.md#kickstart) and [Circuit](Talents.md#circuit) Talents.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Kickstart](Talents.md#kickstart) and [Circuit](Talents.md#circuit) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Circuit Breaker](Talents.md#circuit-breaker) Talent removes the self damage from [Electrify](Talents.md#electrify). The [Kickstart](Talents.md#kickstart) Talent revives and heals Unconscious players and humanoid NPCs at the cost of putting yourself in a lengthy animation.
 

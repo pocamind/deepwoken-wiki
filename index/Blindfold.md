@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 220728
+revid: 221137
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia, First Layer, Sea Events, Pure Ore Turn-ins, Chime of Conflict, Voidwalker bounties, Fishing, Meteor Isle, The Depths, Minityrsa, Songseeker Wilds, Ancient Rotlands |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Pure Ore Turn-ins, Chime of Conflict, Bounties, Fishing, Meteor Isle, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds |
 | description | A tightly wound blindfold to hide the horrors of the world from your waking eyes. |
 
 ## Description

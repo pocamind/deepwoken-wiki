@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 220722
+revid: 221130
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, Duke Erisia, Starswept Valley, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Duke Erisia, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description

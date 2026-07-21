@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ## Armor Stats
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and.
 
 The [Wind Dancer](Talents.md#wind-dancer) Talent grants a 10% speed boost for 12 seconds after roll cancelling twice in quick succession, but one of your rolls must dodge a hit in order for it to activate. This has a 10 second cooldown.
 

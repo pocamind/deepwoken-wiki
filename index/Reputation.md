@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 204118
+revid: 220954
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Reputation, Mechanics]

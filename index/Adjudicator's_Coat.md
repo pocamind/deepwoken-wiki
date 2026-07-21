@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 220682
+revid: 221104
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Hostage Turn-Ins, Shipping Schedules Turn-Ins, Authority Ambush, Aratel Island |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort) |
 | description | ... |
 
 ## Description

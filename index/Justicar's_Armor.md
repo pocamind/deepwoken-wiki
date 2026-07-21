@@ -39,7 +39,7 @@ Alternatively, by joining the [Vanguard Path](<Justicar_(Origin).md#vanguard-pat
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +5% Shadow Armor [ResistanceShadowcast](Shadowcast.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [The Path, Unvieled](Talents.md#the-path-unvieled) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistancePhysical, +5% Blunt resistance ResistanceBlunt, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +5% Shadow Armor [ResistanceShadowcast](Shadowcast.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [The Path, Unvieled](Talents.md#the-path-unvieled) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 33.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 33.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 

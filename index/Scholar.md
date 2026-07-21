@@ -35,7 +35,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-The Outfit has 1000 durability, grants the user +8% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Scholar's Intuition](Talents.md#scholars-intuition) Talent.
+The Outfit has 1000 durability, grants the user +8% Physical resistance ResistancePhysical, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Scholar's Intuition](Talents.md#scholars-intuition) Talent.
 
 The [Scholar's Intuition](Talents.md#scholars-intuition) Talent causes [Intelligence](Attributes.md#int), [Willpower](Attributes.md#wll), and [Charisma](Attributes.md#cha) training gear to be 50% more effective.
 

@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This outfit has 1000 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt and. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This outfit has 1000 durability and grants +20% Physical resistance ResistancePhysical, +10% Blunt resistance ResistanceBlunt and. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt ResistanceBlunt, 20% Slash ResistanceSlash, and 30% Elemental [ResistanceElemental](Attunements.md).
 

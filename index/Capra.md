@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 211578
+revid: 221059
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -174,11 +174,9 @@ Capra horns come in many shapes and sizes. These can be [dyed](Dye_Packet.md), t
 
 ## Gallery
 
-Concept art and removed masks.
-
 ### Removed Masks
 
-These are no longer in the game as of 1/22/2023.
+These are no longer in the game as of January 22nd, 2023.
 
 ## Trivia
 

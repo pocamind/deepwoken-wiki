@@ -37,6 +37,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +5% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md) and +20% Ether Regen [IconEther](Ether.md).
+This Outfit has 1000 durability and grants +5% Physical resistance ResistancePhysical, +5% Elemental resistance [ResistanceElemental](Attunements.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md) and +20% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 5% Physical ResistanceBlunt ResistanceSlash, 14.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 14.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 5% Elemental [ResistanceElemental](Attunements.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 5% Physical ResistancePhysical, 14.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 14.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 5% Elemental [ResistanceElemental](Attunements.md).

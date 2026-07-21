@@ -35,6 +35,6 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +12% Physical resistance ResistanceBlunt ResistanceSlash, and +12% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Apothecary](Talents.md#apothecary) Talent.
+This Outfit has 1200 durability, grants +12% Physical resistance ResistancePhysical, and +12% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Apothecary](Talents.md#apothecary) Talent.
 
 The [Apothecary](Talents.md#apothecary) Talent causes potions that benefit the player have +125% potency. This potency is additive to potency from Intelligence investment.

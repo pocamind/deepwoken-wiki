@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Blunt resistance ResistanceBlunt. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
+This Outfit has 1200 durability, grants +20% Physical resistance ResistancePhysical, and +10% Blunt resistance ResistanceBlunt. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt ResistanceBlunt and 20% Slash ResistanceSlash.
 

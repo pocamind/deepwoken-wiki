@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be [Power](Power.md) 5 to be cra
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Slash resistance ResistanceSlash. Additionally, it provides the [Hunter's Reflexes](Talents.md#hunters-reflexes) Talent.
+This Outfit has 1000 durability, grants +10% Physical resistance ResistancePhysical, and +10% Slash resistance ResistanceSlash. Additionally, it provides the [Hunter's Reflexes](Talents.md#hunters-reflexes) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash ResistanceSlash and 10% Blunt ResistanceBlunt.
 

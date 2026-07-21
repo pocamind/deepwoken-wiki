@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 218511
+revid: 220938
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Tale
 | selling price | 50 |
 | requirements | Power 10 |
 | styles | Black, White |
-| innate stats | +5 Health , +1 Posture , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Posture , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Blade Dancer |
 | set | Deepwoken Hood, Deepwoken Cloak |
 | set talent | N/A |

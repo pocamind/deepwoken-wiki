@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Sheltering Grasp](Talents.md#sheltering-grasp) Talents.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Sheltering Grasp](Talents.md#sheltering-grasp) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 30% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 30% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Focused Hematoma](Talents.md#focused-hematoma) Talent increases the amount of [Temporary Health](Status_Effects.md#temporary-health) you receive by 15%.
 

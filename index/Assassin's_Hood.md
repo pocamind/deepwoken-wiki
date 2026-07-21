@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 220705
+revid: 221120
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,8 +23,12 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Cloaked Assassin (Direct drop)Chests from:, Aratel Island, Starswept Valley, Aelita, Ferryman (Winter), Carnival of Hearts |
+| obtainment | Cloaked Assassin (Direct drop)Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Aelita, Ferryman (Winter), Carnival of Hearts |
 | description | ... |
+
+Assassin's Set
+
+Variants: [Cloak](<Assassin's_Cloak.md>)
 
 ## Description
 

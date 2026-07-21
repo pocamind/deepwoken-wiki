@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 216016
+revid: 221166
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -676,7 +676,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
--   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](Frostdraw.md#ice-lance) Mantra.
+-   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance) and [Gale Lunge](Galebreathe.md#gale-lunge).
 
  |
 

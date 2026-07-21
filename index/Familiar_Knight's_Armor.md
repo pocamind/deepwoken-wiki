@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, 40% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by 30% while equipped.
+This Outfit has 3500 durability and grants +30% Physical resistance ResistancePhysical, 40% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by 30% while equipped.
 
 Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to yourself and nearby allies that increases movement speed, defense, and regeneration. This effect becomes weaker the more allies are affected. Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself. Hyperbody has a 2 minute cooldown.
 

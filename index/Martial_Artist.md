@@ -35,9 +35,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ## Armor Stats
 
-This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +5% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
+This Outfit has 1200 durability and grants +30% Physical resistance ResistancePhysical, +20% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +5% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 24% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 24% Ironsing [ResistanceIronsing](Ironsing.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 24% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 24% Ironsing [ResistanceIronsing](Ironsing.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent allows your [Fist](Fists.md) attacks to inflict [Bleed](Status_Effects.md#bleed) temporarily after style swapping (Y).
 

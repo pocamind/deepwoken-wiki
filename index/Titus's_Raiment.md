@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3,000 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Overwhelming Might](Talents.md#overwhelming-might) Talent.
+This Outfit has 3,000 durability, grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Overwhelming Might](Talents.md#overwhelming-might) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 32.5% Thundercall [ResistanceThundercall](Thundercall.md), 32.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 32.5% Thundercall [ResistanceThundercall](Thundercall.md), 32.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Overwhelming Might](Talents.md#overwhelming-might) Talent makes [Strong Left](Attunement-less.md#strong-left) guardbreak at Level 5. Overwhelming Might has a 60 second cooldown.
 

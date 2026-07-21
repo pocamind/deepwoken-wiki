@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 220890
+revid: 221151
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Lost Celtor, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Plates, Lost Celtor, Equipment with Talents, "Equi
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, The Depths, The Ethironal Shrine, Maestro Evengarde Rest, Dread Serpent, Primadon, Miner's Landing, War Mode |
+| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Maestro Evengarde Rest, Dread Serpent, Primadon, Faction Ambushes (The Ignition Union), Miner's Landing, War Mode |
 | description | ... |
 
 ## Description

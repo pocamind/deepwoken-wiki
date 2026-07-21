@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Armor Piercing](Talents.md#armor-piercing) Talent.
+This Outfit has 1500 durability, grants +10% Physical resistance ResistancePhysical, +10% Slash resistance ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Armor Piercing](Talents.md#armor-piercing) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash ResistanceSlash, 10% Blunt ResistanceBlunt, 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 

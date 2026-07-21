@@ -40,7 +40,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
+This Outfit has 3000 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
 The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 

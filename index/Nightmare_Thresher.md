@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 216147
+revid: 221086
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -13,7 +13,7 @@ notices:
 | Nightmare Thresher | |
 |---|---|
 | health | 12003000 (Corrupted) |
-| attacks | Tail Swipe, Burrow, Cursed Flame, Ram, Arm Swipe, Ram |
+| attacks | Tail Sweep, Burrow, Cursed Flame, Ram, Talon Swipes, Rending Maul |
 | locations | Ancient Rotlands, The Diluvian Mechanism |
 | challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
 
@@ -26,7 +26,7 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-**Arm Swipe**  
+**Talon Swipes**  
 (★☆☆)
 
  | The Nightmare Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage.
@@ -38,7 +38,7 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
  |  |
 | 
 
-**Bite**  
+'_Rending Maul_  
 (★☆☆)
 
  | The Nightmare Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage.
@@ -50,7 +50,7 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
  |  |
 | 
 
-**Tail Swipe**  
+**Tail Sweep**  
 (★★☆)
 
  | The Nightmare Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.

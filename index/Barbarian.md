@@ -33,7 +33,7 @@ This Outfit has no crafting or stat requirements to be crafted.
 
 ## Armor Stats
 
-This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 1500 durability and grants +25% Physical resistance ResistancePhysical and +20% Elemental resistance [ResistanceElemental](Attunements.md).
 
 ## Trivia
 

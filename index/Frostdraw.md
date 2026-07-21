@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 219710
+revid: 221164
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -673,7 +673,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   You can press block during the windup to cancel the impale.
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
--   Shares a cooldown with [Gale Lunge](Galebreathe.md#gale-lunge).
+-   Shares a cooldown with [Gale Lunge](Galebreathe.md#gale-lunge) and [Rocket Lance](Ironsing.md#rocket-lance).
 
  |
 | 

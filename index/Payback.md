@@ -51,7 +51,7 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 
 -   Payback (excluding instant variant) can be either blocked, parried or dodged.
 -   The damage type of Payback is dependant on the damage type(s) of the attack(s) you countered. This also allows your Payback to proc damage type-specific conditional effects through countering an attack with said damage type.
-    -   For example, if you are [on fire](Status_Effects.md#burn), and you counter an attack that deals Physical damage ResistanceBlunt ResistanceSlash, your Payback can proc [Immolation](Talents.md#immolation), applying [Burn](Status_Effects.md#burn) to your opponent as well.
+    -   For example, if you are [on fire](Status_Effects.md#burn), and you counter an attack that deals Physical damage ResistancePhysical, your Payback can proc [Immolation](Talents.md#immolation), applying [Burn](Status_Effects.md#burn) to your opponent as well.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
 -   This resonance was formerly known as "Full Counter".

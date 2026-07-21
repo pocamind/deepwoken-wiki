@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 216803
+revid: 221100
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,7 +11,7 @@ categories: [Monsters]
 | King Thresher | |
 |---|---|
 | health | 2500, 6250 (Corrupted) |
-| attacks | Royal Breath, Arm Swipes, Bites, Tail Swipe, Burrow, Body Slam |
+| attacks | Royal Breath, Talon Swipes, Rending Maul, Tail Sweep, Burrow, Body Slam |
 | drops | (Common), King Thresher Spine(Rare), Mantra Modifiers, First Ranger Duster(Rare), Acheron's Warspear, Serrated Warspear, True Seraph Spear |
 | locations | Starswept Valley, The Depths, The Diluvian Mechanism |
 | challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
@@ -33,7 +33,7 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**Arm Swipe**  
+**Talon Swipes**  
 (★☆☆)
 
  | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage.
@@ -45,7 +45,7 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
  |  |
 | 
 
-**Bite**  
+**Rending Maul**  
 (★☆☆)
 
  | The King Thresher bites 3 times in quick succession. Deals moderate damage.
@@ -57,7 +57,7 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
  |  |
 | 
 
-**Tail Swipe**  
+**Tail Sweep**  
 (★★☆)
 
  | The King Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
@@ -149,7 +149,7 @@ Block
 -   Its attacks behave very similarly if not identical to the attacks of its smaller counterpart, the [Thresher](Thresher.md), meaning knowledge learned from it can be re-applied to the King Thresher, except for its exclusive attacks, that being **Royal Breath** and **Body Slam**.
     -   Though, the **Burrow** attack works somewhat differently from a Thresher's. The timing is much more strict due to the King Thresher being quicker to react to getting in its larger range, as well as having a larger rising hitbox, meaning you will have to pay more attention.
 -   The **Royal Breath** attack has a very small window before it actually damages you, though its damage is relatively low. Be wary for this attack if you wish to avoid taking damage.
--   If you get hit by its **Tail Swipe** attack, press M2 to quickly get back up. It is recommended that you do this as it will allow you to defend yourself if it decides to use **Royal Breath** afterwards, which happens often.
+-   If you get hit by its **Tail Sweep** attack, press M2 to quickly get back up. It is recommended that you do this as it will allow you to defend yourself if it decides to use **Royal Breath** afterwards, which happens often.
 -   It is one of the most dangerous [Monsters](Monsters.md) to encounter **Corrupted** in [The Depths](The_Depths.md), second to only the [Mudskipper Broodlord](Mudskipper_Broodlord.md). This is due to its already high damage and health being amplified further due to being Corrupted, as well as its chasing ability being even more prominent due to the nature of Monsters in The Depths.
 -   Avoid fighting it on sloped ground as it will keep moving back and forth, thus making it more difficult to avoid/parry it's attacks. If possible try to bring it towards flatter ground.
 -   This is one of the Monsters that benefits the most from being in a horde alongside other Monsters as well as being in a chase regardless of the situation, due to its fast movement speed, its attacks having a large reach and from being able to shut down your movement, either from hitstun or from ragdolling.

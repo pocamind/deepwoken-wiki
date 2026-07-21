@@ -32,7 +32,7 @@ This Outfit requires five (5) [Cloth](Cloth.md) to craft.
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash and +75% Ether Regen [IconEther](Ether.md).
+This Outfit has 3000 durability and grants +30% Physical resistance ResistancePhysical and +75% Ether Regen [IconEther](Ether.md).
 
 ## Trivia
 

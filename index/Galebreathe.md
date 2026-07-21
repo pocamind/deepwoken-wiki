@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 218492
+revid: 221163
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -290,7 +290,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
--   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance).
+-   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance) and [Rocket Lance](Ironsing.md#rocket-lance).
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |

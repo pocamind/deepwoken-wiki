@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), and +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Perseverance](Talents.md#perseverance) and [Strong Stern](Talents.md#strong-stern) Talents.
+This Outfit has 1000 durability and grants +25% Physical resistance ResistancePhysical, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), and +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Perseverance](Talents.md#perseverance) and [Strong Stern](Talents.md#strong-stern) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 28.75% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

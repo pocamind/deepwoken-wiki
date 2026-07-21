@@ -1652,7 +1652,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   You can press block during the windup to cancel the impale.
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
--   Shares a cooldown with [Gale Lunge](../Galebreathe.md#gale-lunge).
+-   Shares a cooldown with [Gale Lunge](../Galebreathe.md#gale-lunge) and [Rocket Lance](../Ironsing.md#rocket-lance).
 
  |
 | 
@@ -3336,7 +3336,7 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
--   Shares a cooldown with [Ice Lance](../Frostdraw.md#ice-lance).
+-   Shares a cooldown with [Ice Lance](../Frostdraw.md#ice-lance) and [Rocket Lance](../Ironsing.md#rocket-lance).
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
@@ -5469,7 +5469,7 @@ Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
--   Comparable to Galebreathe's [Gale Lunge](../Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](../Frostdraw.md#ice-lance) Mantra.
+-   Shares a cooldown with [Ice Lance](../Frostdraw.md#ice-lance) and [Gale Lunge](../Galebreathe.md#gale-lunge).
 
  |
 
@@ -7994,6 +7994,7 @@ N/A
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the [Off your Game](../Talents.md#off-your-game) Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the [Oh the Irony](../Talents.md#oh-the-irony) Talent, which doubles the amount of [metal rods](../Ironsing.md) applied to Taunted enemies.
+-   Taunt's duration will be increased by 8 seconds if you have the Throat [Food Buff](../Status_Effects.md#food-buff).
 -   Using Taunt on any humanoid [boss](../Bosses.md) (excluding [Titus](../Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
 
  |
@@ -8037,6 +8038,7 @@ N/A
 -   Shares a cooldown with [Glare](../Attunement-less.md#glare).
 -   Can be upgraded with the [Encore](../Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the [Propagandist](../Talents.md#propagandist) Talent, granting your allies [Overcharm](../Status_Effects.md) for 15 seconds.
+-   Sing gains a noticeable range increase while you have the Throat [Food Buff](../Status_Effects.md#food-buff).
 
  |
 | 
@@ -8422,7 +8424,7 @@ Slash ResistanceSlash
 -   Can be modified with a Glass/Magnifying stone to make it bigger.
 -   Wielding the [Vigil Longsword](../Vigil_Longsword.md) makes your Master's Flourish bigger and allows it to proc "on flourish" effects.
 -   Changes color to orange if [One With Flame](../Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -8463,10 +8465,9 @@ Slash ResistanceSlash
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Deals 5 posture damage.
 -   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
--   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
--   Having the [Forgotten Gladius](../Forgotten_Gladius.md) or [Kindred Edict](../Kindred_Edict.md) equipped will heavily decrease its windup.
+-   Having the [Forgotten Gladius](../Forgotten_Gladius.md) equipped will heavily decrease its windup.
 -   Changes color to orange if [One With Flame](../Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -8510,7 +8511,7 @@ Slash ResistanceSlash
 -   Twincleave has an endlag of 0.4s.
 -   Can change the direction you launch backwards by turning your camera.
 -   Changes color to orange if [One With Flame](../Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -8558,7 +8559,7 @@ Slash ResistanceSlash
 -   Does not register hits until the end of the move's animation, meaning you can phase through opponents without damaging them if used at close range.
     -   Because of this, it is recommended to use this Mantra after uppercuts or while looking at the floor to land it in CQC.
 -   Changes color to orange if [One With Flame](../Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -8599,7 +8600,7 @@ Slash ResistanceSlash
 -   Deals 12 posture damage.
 -   Uppercuts.
 -   Changes color to orange if [One With Flame](../Flame_Worshipper_Armor.md) is active.
--   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
 
  |
 

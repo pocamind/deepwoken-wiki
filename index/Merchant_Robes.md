@@ -36,7 +36,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +5% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Merchant's Accord](Talents.md#merchants-accord) Talent.
+This Outfit has 1200 durability, grants +10% Physical resistance ResistancePhysical, and +5% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Merchant's Accord](Talents.md#merchants-accord) Talent.
 
 The [Merchant's Accord](Talents.md#merchants-accord) Talent causes Merchants and [Antiquarians](Antiquarian.md) to do business with you, regardless of reputation.
 

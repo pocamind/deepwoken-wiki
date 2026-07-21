@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 220874
+revid: 221168
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1711,10 +1711,11 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   The [Summer Company Uniform](Summer_Company_Uniform.md) Outfit has this Talent.
     -   Mutual Exclusive: [Bulletproof](#bulletproof), due to them being quest rewards from the opposite endings of the same quest.
 
--   Bulletproof \[Common Talent, Fortitude, Medium Weapon, Light Weapon\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
-    -   This has no effect on your natural armor.
+-   Bulletproof \[Common Talent, Fortitude // Medium Weapon // Light Weapon\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
+    -   This has no effect on Natural Armor.
     -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
-    -   Prerequisites: 20 Medium Weapon OR 20 Light Weapon OR 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
+    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
+    -   Prerequisites: 20 Medium Weapon // 20 Light Weapon // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
     -   Mutual Exclusive: [Armor Piercing](#armor-piercing), due to them being quest rewards for the opposite endings of the same quest.
 
 -   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.

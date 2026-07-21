@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 220852
+revid: 221144
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merchant Ships, Duke Erisia, Primadon, Summer Isle, First Layer, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Merchant Ships, Duke Erisia, Primadon, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 Brigand's Set

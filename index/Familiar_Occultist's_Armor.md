@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Shadow Armor, and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Shadow Armor, and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 40% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 40% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summons attack enemies.
 

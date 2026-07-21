@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 216033
+revid: 221101
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,15 +11,13 @@ categories: [Monsters]
 | Thresher | |
 |---|---|
 | health | 1100, 2750(Corrupted), 500(Trial of One), 1000(Void) |
-| attacks | Arm Swipes, Bite, Tail Swipe, Dig |
+| attacks | Talon Swipes, Rending Maul, Tail Sweep, Burrow |
 | drops | (Common), Thresher Spine, Umbral Obsidian, (Rare), Mantra Modifiers, Thresher Talon, Serrated Warspear (Corrupted and Void only) |
 | challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
 
 “ \[...\] It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
 
 ― Thresher Spine Description'
-
-  
 
 ## Description
 
@@ -38,7 +36,7 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
 | Name/Danger | Description | GIF |
 | --- | --- | --- |
 | 
-**Arm Swipe**  
+**Talon Swipes**  
 (★☆☆)
 
 -   ResistanceSlash Slash
@@ -52,7 +50,7 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
  |  |
 | 
 
-**Bite**  
+**Rending Maul**  
 (★☆☆)
 
 -   ResistanceSlash Slash
@@ -66,7 +64,7 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
  |  |
 | 
 
-**Tail Swipe**  
+**Tail Sweep**  
 (★★☆)
 
 -   ResistanceBlunt Blunt
@@ -120,12 +118,12 @@ Dodge
 
 ## Tips
 
--   When it is using **Bite**, parry the first attack and then parry the other two using muscle memory. This isn't like the [Megalodaunt](Megalodaunt.md)'s **Slash**, meaning you'll have some time to react in between the bites.
--   If you see it turn around, then it's using its **Tail Swipe**, and you can wait for around half a second to press block. This will usually parry it and you should be fine. If you accidentally react too quickly and miss the parry window, don't be afraid to roll backwards. You'll usually have enough time to get your roll cooldown back even if it uses **Burrow**.
-    -   Threshers recover more quickly from their **Tail Swipe** than their other moves. Swing one less time to ensure you can avoid the next attack.
+-   When it is using **Rending Maul**, parry the first attack and then parry the other two using muscle memory. This isn't like the [Megalodaunt](Megalodaunt.md)'s **Slash**, meaning you'll have some time to react in between the bites.
+-   If you see it turn around, then it's using its **Tail Sweep**, and you can wait for around half a second to press block. This will usually parry it and you should be fine. If you accidentally react too quickly and miss the parry window, don't be afraid to roll backwards. You'll usually have enough time to get your roll cooldown back even if it uses **Burrow**.
+    -   Threshers recover more quickly from their **Tail Sweep** than their other moves. Swing one less time to ensure you can avoid the next attack.
 -   When you see it **Burrow**, it is going to pop up to hit you after an unparriable icon flashes. To avoid this, dodge as soon as you see the first flash. You can also block, although it may deal moderate posture damage.
 -   Although inconsistent and difficult to pull off, you can space yourself with a spear or gun and kite it from outside of its attack range.
--   If you get hit by its **Tail Swipe** attack, press M2 to quickly get back up. This will allow you to parry its next attack instead of laying on the ground.
+-   If you get hit by its **Tail Sweep** attack, press M2 to quickly get back up. This will allow you to parry its next attack instead of laying on the ground.
 -   Due to it's animations being very janky, it is sometimes recommended for players to zoom into first person to react to attacks such as the bites, being hard to see.
 -   Threshers are very hostile towards [Stone Knights](Stone_Knight.md), so if you need to get one off of you, lure it towards them.
 

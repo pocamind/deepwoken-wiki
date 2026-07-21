@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-The Outfit has 1500 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Benefactor](Talents.md#benefactor) Talent.
+The Outfit has 1500 durability, grants +20% Physical resistance ResistancePhysical and +20% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Benefactor](Talents.md#benefactor) Talent.
 
 The [Benefactor](Talents.md#benefactor) Talent gives you faction [reputation](Reputation.md) when selling goods to their respective [antiquarian](Antiquarian.md).
 

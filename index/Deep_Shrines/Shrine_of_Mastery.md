@@ -137,4 +137,4 @@ If the player has not invested any Attribute or Trait points, this dialogue will
 
 ## Navigation
 
-Variants: [Shrine of Temptation](Shrine_of_Temptation.md)
+Variants: [Shrine of Temptation](Shrine_of_Temptation.md) · [Shrine of Blasphemy](Shrine_of_Blasphemy.md) · [Shrine of Chance](Shrine_of_Chance.md) · [Shrine of Order](Shrine_of_Order.md) · [Shrine of Conceit](Shrine_of_Conceit.md) · [Shrine of Division](Shrine_of_Division.md) · [Shrine of Unification](Shrine_of_Unification.md)

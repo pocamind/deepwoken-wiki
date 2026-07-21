@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | Power 6 |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |

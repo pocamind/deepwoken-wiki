@@ -38,7 +38,7 @@ Alternatively, joining the Command Division of the [Authority Ensign](Authority_
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 2000 durability and grants +30% Physical resistance ResistancePhysical and +25% Elemental resistance [ResistanceElemental](Attunements.md).
 
 ## Trivia
 

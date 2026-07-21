@@ -37,7 +37,7 @@ This Outfit has no [Attribute](Attributes.md) requirement, but explicitly has a 
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, and +15% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 1500 durability and grants +15% Physical resistance ResistancePhysical, +5% Blunt resistance ResistanceBlunt, and +15% Elemental resistance [ResistanceElemental](Attunements.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19.25% Blunt ResistanceBlunt, Slash ResistanceSlash, and 15% Elemental [ResistanceElemental](Attunements.md).
 

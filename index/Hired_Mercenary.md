@@ -35,7 +35,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md).
+This Outfit has 1000 durability, grants +15% Physical resistance ResistancePhysical, and +10% Elemental resistance [ResistanceElemental](Attunements.md).
 
 ## Trivia/Notes
 

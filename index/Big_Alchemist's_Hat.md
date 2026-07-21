@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 220721
+revid: 221129
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, First Layer, Duke Erisia, Starswept Valley, War Mode, Chime of Conflict |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Erisia, War Mode, Chime of Conflict |
 | description | ... |
 
 ## Description
