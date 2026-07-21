@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 219144
+revid: 220929
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -32,7 +32,7 @@ To speak with him normally, players must have good [Reputation](Reputation.md) w
 To complete Stratos' quest, the player must meet the following requirements:
 
 -   Have 15 points in [Galebreathe](Galebreathe.md).
--   Have "Friend" [Reputation](Reputation.md) with Etrea, around 75 reputation.
+-   Have "Ally" [Reputation](Reputation.md) with Etrea.
 
 Once these requirements are met, speaking to Stratos again will grant the [Windwaker](Talents.md#windwaker) Talent. This Talent appears as an ability in the player's inventory and can be activated while on any boat.
 
