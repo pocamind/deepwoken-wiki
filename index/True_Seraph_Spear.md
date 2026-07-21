@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 220826
+revid: 220918
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents]
@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Drops, Weapons with Unique 
 
 ## Description
 
-The True Seraph Spear is a MED [weapon](Weapons.md). Some consider this to be the most tedious spear to obtain, due to its limited drop locations and low drop rate.
+The True Seraph Spear is a MED [weapon](Weapons.md). Some consider this to be the most tedious spear to farm due to its rare drop rate from hard-to-find mobs. However, it can sometimes be found on sale in [Traan Zakshun's](Traan_Zakshun.md) regular shop for notes and can be bought infinitely.
 
 ## Talents
 

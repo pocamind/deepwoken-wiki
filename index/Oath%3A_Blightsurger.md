@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 220364
+revid: 220916
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -10,7 +10,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, A sum of 40 points invested in Galebreathe or Thundercall |
+| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, A sum of 40 points invested in Thundercall and Galebreathe |
 | effects | +5% PEN, +2 Combat Mantra Slots, +1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
@@ -56,7 +56,7 @@ Blightsurger draws most of its power from Sacred Lightning. It was invented by [
 
 To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Afterwards, approach Titus and select his second dialogue option. Finally, leave the [Merit Detainment Core](Merit_Detainment_Core.md) and speak to [Brutus](Brutus.md) to obtain the Oath.
 
-The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md), and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
+The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as a sum of 40 points invested into [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md), and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
 _Blightsurger **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 

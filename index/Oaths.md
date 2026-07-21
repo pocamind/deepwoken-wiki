@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 219121
+revid: 220915
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -48,7 +48,7 @@ No Stat Requirement
 
 [Blightsurger](Oath%253A_Blightsurger.md)
 
-(comb. 80 STR, FTD, AGL) + (40 WND or LTN)
+(comb. 80 STR, FTD, AGL) + (comb. 40 WND, LTN)
 
 [Blindseerfinal](Oath%253A_Blindseer.md)
 

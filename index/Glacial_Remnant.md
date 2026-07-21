@@ -1,6 +1,6 @@
 ---
 title: Glacial Remnant
-revid: 220751
+revid: 220919
 source: https://deepwoken.fandom.com/wiki/Glacial_Remnant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant, Voidzones]
@@ -16,8 +16,12 @@ Voidzone
 
   
 
-## Overview
+## Description
 
-**Glacial Remnant** is a location in _Deepwoken_. It is a hidden area in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) housing the [Frostdraw](Frostdraw.md) [Saintsworn Obelisk](Saintsworn_Obelisks.md).
+Glacial Remnant is a location in _Deepwoken_. It is a hidden area found by breaking a bookshelf in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
 
-Saintsworm obelisk found at the other side of the location entrance
+## Contents
+
+### Saintsworn Obelisk
+
+-   The [Frostdraw Obelisk](Frostdraw_Obelisk.md) used to obtain [Saintsworn](Oath%253A_Saintsworn.md) can be found in the back of the remnant.
