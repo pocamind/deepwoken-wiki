@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Chaser, Duke Erisia, Chime of Conflict, The Ferryman, Maestro Evengarde Rest, Dread Serpent, The Diluvian Mechanism, Hell Mode, Primadon, Elder Primadon, Pure Astruline turn-in chest, Moon's Eyrie |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Duke Erisia, Chime of Conflict, The Ferryman, Maestro Evengarde Rest, Dread Serpent, The Diluvian Mechanism, Hell Mode, Primadon, Elder Primadon, Pure Astruline turn-in chest, Moon's Eyrie |
 | description | ... |
 
 _This page is about the [Earring](Equipment.md#ears) previously named "Moonlit Earrings". For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Plates, Lost Celtor, Equipment with Talents, "Equi
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Maestro Evengarde Rest, Dread Serpent, Primadon, Faction Ambushes (The Ignition Union), Miner's Landing, War Mode |
+| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Maestro Evengarde Rest, Dread Serpent, Primadon, Faction Ambushes (The Ignition Union), Miner's Landing, War Mode |
 | description | ... |
 
 ## Description

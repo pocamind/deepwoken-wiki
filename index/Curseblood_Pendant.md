@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Fishing, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Minityrsa, Primadon, Titan of the East |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Fishing, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Minityrsa, Primadon, Titan of the East |
 | description | ... |
 
 ## Description

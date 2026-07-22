@@ -23,7 +23,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow |
 | description | ... |
 
 Variants: [Royal Commander Helm](Royal_Commander_Helm.md)

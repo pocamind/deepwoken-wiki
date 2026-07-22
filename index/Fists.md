@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 221186
+revid: 221188
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Weapons by Class]
@@ -77,8 +77,8 @@ Eligible Fist Talents:
 
 Ineligible Fist Talents:
 
--   The Fist Styles
--   The [Jus Karita](Talents.md#justicar) Talents
+-   Fist Styles (e.g. [Way of Navae](Talents.md#way-of-navae) Talent)
+-   [Jus Karita](Talents.md#justicar) Talents
 -   [Justicar](<Justicar_(Origin).md>) (Origin) Talents
 
 ## Default Animations

@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Divers, Scaling Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, The Doom of Caeranthil, Interluminary Parasol, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Lodestar Bounty job, Maestro Evengarde Rest, Trading with Jeremiah, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Doom of Caeranthil, Interluminary Parasol, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Lodestar Bounty job, Maestro Evengarde Rest, Trading with Jeremiah, Ancient Rotlands (Deep Cave) |
 | description | A ring once worn by a Black Diver. It seems he's since passed the need for such trinkets. +1.2 WLL scaling to all weapons. |
 
 ## Description

@@ -22,7 +22,7 @@ categories: [Equipment, Head, Cowls]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Eternal Gale, Maestro Evengarde Rest, Saramaed Hollow |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Maestro Evengarde Rest, Saramaed Hollow |
 | description | ... |
 
 Bloodfeather Set
