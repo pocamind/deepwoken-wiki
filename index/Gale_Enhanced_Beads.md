@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Beads
-revid: 215964
+revid: 221264
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, Torso, Equipment with Talents, Equipment with Exclusive Talents]

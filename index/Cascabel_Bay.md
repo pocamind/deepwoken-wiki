@@ -1,6 +1,6 @@
 ---
 title: Cascabel Bay
-revid: 220245
+revid: 221333
 source: https://deepwoken.fandom.com/wiki/Cascabel_Bay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -22,4 +22,5 @@ Cascabel Bay is a Location in _Deepwoken_. It is a small sea making up the body 
 
 ## Trivia
 
+-   The name "Cascabel Bay" refers to Fort Merit's original name: Fortress Cascabel.
 -   Although released along with many other seas, Cascabel Bay is the only one to be controlled by a faction.

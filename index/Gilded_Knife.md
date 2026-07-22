@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 220206
+revid: 221319
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Merchant Ships, Bounties, Saramaed Hollow, Dread Serpent |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Merchant Ships, Bounties, Saramaed Hollow, Dread Serpent |
 | description | A knife of fine craftmanship, bearing an equally fine sharpness. |
 
 ## Description

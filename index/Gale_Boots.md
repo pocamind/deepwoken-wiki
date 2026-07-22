@@ -1,6 +1,6 @@
 ---
 title: Gale Boots
-revid: 217258
+revid: 221262
 source: https://deepwoken.fandom.com/wiki/Gale_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

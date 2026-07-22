@@ -1,6 +1,6 @@
 ---
 title: Bronze Aspis
-revid: 220283
+revid: 221285
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Shields, Offhand]
@@ -23,11 +23,11 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | No |
-| obtainment | Aratel Sea events, Deep Crucible, Erisia, Sold by Traan Zakshun for 100 , First Layer, Fort Merit Armory for 20 (Authority Ensign exclusive) |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Deep Crucible, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold by Traan Zakshun for 100 , Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Fort Merit Armory for 20 (Authority Ensign exclusive) |
 | description | A round, wooden shield often accompanied by spear or shortblade. |
 
 ## Description
 
-Bronze Aspis is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 15 FTD, or the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
+The Bronze Aspis is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 15 FTD, or the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 
 The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.

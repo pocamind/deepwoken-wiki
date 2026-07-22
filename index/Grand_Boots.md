@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 220506
+revid: 221294
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | type | Boots |
 | rarity | Common |
 | selling price | 7 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | styles | Brushed, Galvanized |
 | innate stats | +5 Health , +1 Posture |
 | innate talent | N/A |
@@ -23,8 +23,12 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, First Layer, Fishing, Lodestar Bounty job, Deep Widow, Saramaed Hollow |
+| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Fishing, Lodestar Bounty job, Deep Widow, Saramaed Hollow |
 | description | ... |
+
+Grand Set
+
+Variants: [Pauldrons](Grand_Pauldrons.md)
 
 ## Description
 

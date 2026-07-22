@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Ring
-revid: 214486
+revid: 221268
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings, Craftable]
 | type | Ring |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 0.1 |
 | bankable | No |
 | droppable | No |

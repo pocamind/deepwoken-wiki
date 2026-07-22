@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 218953
+revid: 221310
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, Songseeker Wilds, Starswept Valley |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
 | description | "Huh!? Hey! You can't just go saying "pal" like that! That's MY endearing character trait!" |
+
+Gumshoe Set
+
+Variants: [Longcoat](Gumshoe_Longcoat.md)
 
 ## Description
 

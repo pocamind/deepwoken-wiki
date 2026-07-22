@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Ring"
-revid: 210142
+revid: 221247
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings]
 | type | Ring |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 6 |
+| requirements | LVL 6 |
 | weight | 0.1 |
 | innate stats | +1 Legendary Pip |
 | innate talent | N/A |
@@ -26,8 +26,8 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Ferryman's Ring** is a Ring [Equipment](Equipment.md) piece that increase the range of the users [Murmur:Rhythm](Murmur%253A_Rhythm.md) by 50%.
+**Ferryman's Ring** is a Ring [Equipment](Equipment.md) piece that increase the range of the users [Murmur: Rhythm](Murmur%253A_Rhythm.md) by 50%.
 
 ## Trivia
 
--   The first and only ring to affect [Murmurs](Murmur%253A_Rhythm.md).
+-   The first and only ring to affect Murmurs.

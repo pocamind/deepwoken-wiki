@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 219581
+revid: 221295
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -30,7 +30,7 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with M
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman, Crypt of the Unbroken, Carnival of Hearts, Sold by Traan Zakshun for 1,250 |
+| obtainment | The Ferryman, Crypt of the Unbroken, Faction Ambushes (The Ministry), Carnival of Hearts, Sold by Traan Zakshun for 1,250 |
 | description | ... |
 
 ## Description

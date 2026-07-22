@@ -1,6 +1,6 @@
 ---
 title: "Grand Pathfinder's Backpack"
-revid: 219103
+revid: 221304
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -12,8 +12,8 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 |---|---|
 | type | Torso |
 | rarity | Common |
-| selling price | 25 |
-| requirements | Power 5 |
+| selling price | 7 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +50 Carry Load +1 Rare Pip |
 | innate talent | Robber Baron |
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Fort Merit, Aratel Island, Minityrsa, Songseeker Wilds, Chime of Conflict, Duke Ishamon Erisia, Maestro Evengarde Rest, Dread Serpent, First Layer, Heart of Enmity, Second Layer, Chaser, Scholar of the Burning Blood, War Mode, Primadon |
+| obtainment | Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Chime of Conflict, Duke Ishamon Erisia, Maestro Evengarde Rest, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Heart of Enmity, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Burning Blood, War Mode, Primadon |
 | description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
 
 ## Description

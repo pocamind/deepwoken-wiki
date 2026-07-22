@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 218963
+revid: 221300
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, The Divers, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets, The Divers, Equipment with Talents, Equip
 | type | Head |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 1 |
-| innate stats | +5% Ice Armor , +5% Lightning Armor , +5 Health , +1 Legendary Pip, +1 Rare Pip |
+| innate stats | +5% Ice Armor , +5% Lightning Armor , +5 Health , +1 Legendary Pip , +1 Rare Pip |
 | innate talent | Coldseep Reactor |
 | set | Grand Fisher Helm, Grand Fisher Plate |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Helmets, The Divers, Equipment with Talents, Equip
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Diver's Faction Job "The Fisherman" Guaranteed Drop |
+| obtainment | The Fisherman (Guaranteed Direct Drop) |
 | description | ... |
 
 Grand Fisher Set

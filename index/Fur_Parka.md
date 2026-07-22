@@ -1,6 +1,6 @@
 ---
 title: Fur Parka
-revid: 220418
+revid: 221261
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Parkas, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Parkas, Equipment with Tale
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Starswept Valley, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Sea Events, Fishing |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol |
 | description | An essential winter coat to protect you against the cold. |
 
 ## Description

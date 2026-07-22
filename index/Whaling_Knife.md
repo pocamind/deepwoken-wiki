@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 220228
+revid: 221280
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Alloyable Weapons, Light Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Knives of Eylis Events, Rook Rethige, Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Layer 1, Interluminary Parasol, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Scion of EthironBought from Traan Zakshun for 300 Alloyed:, Alloying a Whaling Knife, Primadon, Titan of the East (Rare Chance), Heart of Enmity, The Doom of Caeranthil |
+| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Rook Rethige, Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Interluminary Parasol, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Scion of EthironBought from Traan Zakshun for 300 Alloyed:, Alloying a Whaling Knife, Primadon, Titan of the East, Heart of Enmity, The Doom of Caeranthil |
 | description | The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 220768
+revid: 221282
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Sold at Etris Weaponry for 25 , Sold at The Floating Keep Blacksmith for 100 , Chime of Conflict, Starswept Valley, Dread Serpent |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Sold at Etris Weaponry for 25 , Sold at The Floating Keep Blacksmith for 100 , Chime of Conflict, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Dread Serpent |
 | description | Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey. |
 
 ## Description

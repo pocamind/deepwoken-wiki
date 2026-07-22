@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 219323
+revid: 221296
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Duke Erisia, First Layer |
+| obtainment | Chests From:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | description | ... |
+
+Grand Set
+
+Variants: [Boots](Grand_Boots.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 206390
+revid: 221293
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons of The Golden Rats]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons of 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Legion Soldier, Saramaed Hollow |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Legion Soldier, Saramaed Hollow |
 | description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
 
 ## Description

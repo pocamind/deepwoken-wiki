@@ -1,6 +1,6 @@
 ---
 title: Fleet Warden Cape
-revid: 218557
+revid: 221256
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
@@ -16,13 +16,13 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Emerald, Onyx, Rose, Scarlet, Shade, Silver |
-| innate stats | +3% Elemental Armor +1 Legendary Pip, +1 Rare Pip |
+| innate stats | +3% Elemental Armor +1 Rare Pip , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Fishing |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Fishing |
 | description | ... |
 
 ## Description

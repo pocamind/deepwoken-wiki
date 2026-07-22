@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 218268
+revid: 221320
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Ministry Ambushes (Chest), The Diluvian Mechanism (wave 30-50), Second Layer (Floor 1 Chests), Weird Trader |
+| obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), Scion of Ethiron, The Diluvian Mechanism (wave 30-50), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Weird Trader |
 | description | In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska. |
 
 ## Description

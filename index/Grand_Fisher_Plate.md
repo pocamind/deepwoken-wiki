@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 218605
+revid: 221302
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, Equipm
 | type | Arms |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | Power 13 |
+| requirements | LVL 13 |
 | weight | 2 |
 | innate stats | +10 Health , +1 Posture , +3 Legendary Pips |
 | innate talent | Diver's Resilience |
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, Equipm
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Diver's Faction Job "The Fisherman" Guaranteed Drop |
+| obtainment | The Fisherman (Guaranteed Direct Drop) |
 | description | ... |
 
 Grand Fisher Set

@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 215965
+revid: 221266
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment 
 | type | Head |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 6 |
+| requirements | LVL 6 |
 | weight | 1 |
 | innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Blade DancerFootwork Mastery |
@@ -26,7 +26,7 @@ categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment 
 | obtainment | Crafting 1 Monastery Cowl + 1 Gale Essence + 1 Bluster Enchant Stone at Lost Forge |
 | description | ... |
 
-Variants: [Monastery Cowl](Monastery_Cowl.md) · [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md)
+Variants: [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

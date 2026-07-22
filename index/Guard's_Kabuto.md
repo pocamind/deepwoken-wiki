@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 217180
+revid: 221306
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Helmets, Equipment, Head]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Helmets, Equipment, Head]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | styles | Cobra, Guard |
 | innate stats | +8 Health , +1 Rare Pip |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Helmets, Equipment, Head]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread SerpentFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread SerpentFound from:, Artifact Turn-ins |
 | description | ... |
 
 ## Description

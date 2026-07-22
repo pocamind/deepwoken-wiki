@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 220184
+revid: 221301
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]
@@ -32,7 +32,7 @@ categories: [Pathfinder Exclusive, Weapons, Greatswords, Weapons with Unique Cri
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Darksteel Pirates, First Layer, Heart of Enmity, Duke Ishamon Erisia, The Doom of Caeranthil, Tower Event, Chime of Conflict, War Mode, Chaser, Scholar of the Crimson Contract, Interluminary Parasol, Moon's Eyrie, Dread Serpent, The Understrand, Pure Astruline turn-in, Sold at Miner's Landing for 200 , Sold at The Floating Keep Blacksmith for 200 Alloyed:, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Blacksteel Pirate Captain, Sold by Traan Zakshun for 650 |
+| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Darksteel Pirates, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Heart of Enmity, Duke Ishamon Erisia, The Doom of Caeranthil, Tower Event, Chime of Conflict, War Mode, Chaser, Scholar of the Crimson Contract, Interluminary Parasol, Moon's Eyrie, Dread Serpent, The Understrand, Pure Astruline turn-in, Sold at Miner's Landing for 200 , Sold at The Floating Keep Blacksmith for 200 Alloyed:, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Blacksteel Pirate Captain, Sold by Traan Zakshun for 650 |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 Variants: [Darksteel Cleaver](Darksteel_Cleaver.md)

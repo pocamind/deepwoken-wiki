@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 220215
+revid: 221288
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
@@ -35,7 +35,7 @@ categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread Serpent, Saramaed Hollow, Chime of ConflictAlloyed:, Alloying a Canorian Axe |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Primadon, Titan of the East, Merchant Ships, Crypt of the Unbroken, Faction Ambushes (The Ministry), Dread Serpent, Saramaed Hollow, Chime of ConflictAlloyed:, Alloying a Canorian Axe |
 | description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
 ## Description

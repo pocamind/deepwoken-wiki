@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 219033
+revid: 221244
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso]
 | type | Torso |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 0.5 |
-| innate stats | +1 Rare Pip, +2 Legendary Pips |
+| innate stats | +1 Rare Pip , +2 Legendary Pips |
 | innate talent | N/A |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |

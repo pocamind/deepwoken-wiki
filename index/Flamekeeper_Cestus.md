@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 220199
+revid: 221316
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, The Covenant of Flame]
@@ -30,7 +30,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, Songseeker Wilds, First Layer, Cinders of Etris, Bounties, Starswept Valley, Merchant Ships, Chime of Conflict, Dread Serpent, Saramaed Hollow |
+| obtainment | Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Cinders of Etris, Bounties, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Merchant Ships, Chime of Conflict, Dread Serpent, Saramaed Hollow |
 | description | ... |
 
 ## Description

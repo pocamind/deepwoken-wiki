@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 220204
+revid: 221329
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
@@ -29,7 +29,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, First Layer, Crypt of the Unbroken, Chime of Conflict, Dread Serpent, Saramaed HollowVow of Iron:, Berserker Memento, Sightless Memento |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Crypt of the Unbroken, Faction Ambushes (The Ministry), Chime of Conflict, Dread Serpent, Saramaed HollowVow of Iron:, Berserker Memento, Sightless Memento |
 | description | ... |
 
 ## Description

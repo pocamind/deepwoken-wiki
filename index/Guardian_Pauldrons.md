@@ -1,6 +1,6 @@
 ---
 title: Guardian Pauldrons
-revid: 219353
+revid: 221309
 source: https://deepwoken.fandom.com/wiki/Guardian_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,8 +23,12 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, First Layer, Voidwalker Bounties |
+| obtainment | Chests From:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Bounties |
 | description | Often found adorning the shoulders of those who guard villages close to the shores, where cost-effective equipment is prized. |
+
+Guardian Set
+
+Variants: [Helmet](Guardian_Helmet.md)
 
 ## Description
 

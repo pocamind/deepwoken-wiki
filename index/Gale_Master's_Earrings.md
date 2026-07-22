@@ -1,6 +1,6 @@
 ---
 title: "Gale Master's Earrings"
-revid: 215967
+revid: 221270
 source: https://deepwoken.fandom.com/wiki/Gale_Master's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip, +1 Rare Pip |
+| innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | Way of the Wind |
 | bankable | No |
 | droppable | No |
@@ -24,7 +24,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | obtainment | Any Chest in Vow of Iron, Mystery Boxes |
 | description | Putting these on, you feel as if you are light as a cloud. |
 
-Variants: [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) · [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)
+Variants: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

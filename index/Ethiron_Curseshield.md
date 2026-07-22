@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 220290
+revid: 221312
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -22,7 +22,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Pure Ore Rewards, Fishing Chests, Second Layer, Chime of Conflict Chests, First Layer, Bounties, The Diluvian Mechanism |
+| obtainment | Pure Ore Rewards, Fishing Chests, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict Chests, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Bounties, The Diluvian Mechanism |
 | description | A shield forged to brave the harshest of Ethironal winds, handcrafted by those who sought fortune amidst ruin. |
 
 ## Description

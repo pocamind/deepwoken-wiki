@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 220116
+revid: 221315
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Uni
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in:, Erisia, Sea Events, Alloyed:, Alloying a Falchion, Sold by Traan Zakshun for 650 Vow of Iron , Sold in Naan Zakshun's regular shop for 650 |
+| obtainment | Chests in:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sea Events, Alloyed:, Alloying a Falchion, Sold by Traan Zakshun for 650 Vow of Iron , Sold in Naan Zakshun's regular shop for 650 |
 | description | A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production. |
 
 ## Description

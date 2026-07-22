@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 213429
+revid: 221283
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Erisia, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 20 (Authority Ensign exclusive)Vow of Iron:, Berserker Memento |
+| obtainment | Character Creation, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 20 (Authority Ensign exclusive)Vow of Iron:, Berserker Memento |
 | description | A sturdy axe perfect for splitting bone. |
 
 ## Description

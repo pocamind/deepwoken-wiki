@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 220310
+revid: 221272
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Justicars, Jus Karita Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Fists, Light Weapons, Justicars, Jus Karita Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Chaser, Etris: Siege, Fishing, Deep Widow, Interluminary Parasol, Saramaed Hollow, The Depths, Starswept Valley, Polis, Maestro Evengarde Rest, Heart of Enmity, Fort Merit Hostage Quest, Bounties, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent, Vow of Iron:, Direct drop from Dravik, The Rat King |
+| obtainment | Chests from:, Duke Erisia, Chaser, Etris: Siege, Fishing, Deep Widow, Interluminary Parasol, Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Polis, Maestro Evengarde Rest, Heart of Enmity, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Bounties, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent, Vow of Iron:, Direct drop from Dravik, The Rat King |
 | description | [REQUIRES A KICK STYLE] |
 
 ## Description

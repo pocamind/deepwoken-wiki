@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 219359
+revid: 221278
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
 | innate stats | +2 Health , +3 Posture , +1 Rare Pip |
 | innate talent | Lightweight |
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds |
+| obtainment | Chests from:, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 221157
+revid: 221324
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents, The Central Authority]
@@ -34,7 +34,7 @@ categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapon
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rogue Construct, Crypt of the Unbroken, Merchant Ships, Fort Merit Armory for 90 (Authority Ensign exclusive) |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Crypt of the Unbroken, Faction Ambushes (The Ministry), Merchant Ships, Fort Merit Armory for 90 (Authority Ensign exclusive) |
 | description | ... |
 
 ## Description
