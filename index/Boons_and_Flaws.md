@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 219153
+revid: 221172
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -78,7 +78,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </td>
   <td>Your armor retains more durability when attacked.</td>
   <td>Reduces the amount of armor durability lost from being hit by 25%.</td>
-  <td>Stacks multiplicatively with other armor durability damage reduction sources like <a href="Talents.md#armor-conserver">Armor Conserver</a> and the <a href="Armorer's_Ring.md">Armorer's Ring</a>.</td>
+  <td>Stacks multiplicatively with other armor durability damage reduction sources like <a href="Talents.md#armor-conserver">Armor Conserver</a>, <a href="Talents.md#bulletproof">Bulletproof</a>, and the <a href="Armorer's_Ring.md">Armorer's Ring</a>.</td>
   <td>1 Boon Point</td>
 </tr>
 <tr>
@@ -315,7 +315,7 @@ These Flaws are granted via specific means instead of being chosen during charac
 
 -   Your Flaw choice during Character Creation is largely inconsequential (barring Blind), as you can exchange any non-Special Flaw for a random Base Flaw at the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md). Simple and Vegetarian cannot be obtained through this. Note: You need to be Power 17+ or have used the Shrine of Blasphemy Power Up deal prior to unlock Flaw conversion.
 -   Some Flaws are more worth taking than others:
-    -   **Blind** gives you the [Blinded](Status_Effects.md#blinded) effect constantly, heavily limiting your field-of-vision. If you can live through it long enough to obtain [Blindseer](Oath%253A_Blindseer.md), you can negate the Flaw's downside entirely. This Flaw also provides protection from [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Blind also grants your character milky-white eyes. [Gremors](Gremor.md) notably have a small vision radius while blinded, and lighting sources can also be used (such as the [Pathfinder Lantern](Pathfinder_Lantern.md) to slightly mitigate the downsides of this Flaw.
+    -   **Blind** gives you the [Blinded](Status_Effects.md#blinded) effect constantly, heavily limiting your field-of-vision. If you can live through it long enough to obtain [Blindseer](Oath%253A_Blindseer.md), you can negate the Flaw's downside entirely. This Flaw also provides protection from [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Blind also grants your character milky-white eyes. [Gremors](Gremor.md) notably have a small vision radius while blinded, and lighting sources can also be used (such as the [Pathfinder Lantern](Pathfinder_Lantern.md)) to slightly mitigate the downsides of this Flaw.
     -   **Deficient** is a downside for all builds that intend to use Mantras, and is generally not worth taking. However, if you decide to go for [Silentheart](Oath%253A_Silentheart.md), the effect is minor, though still a downside, as Ether can still be useful on this Oath.
     -   **Fugitive** can be worked around by taking quests on [Job Boards](Job_Boards.md) designated by Factions to farm Reputation. If you care about having good reputations with most or all Factions, this Flaw can be a serious time sink, and may not be worth taking for players dislike this aspect of the Flaw. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions. As this Flaw grants two Boon Points, it cannot be chosen alongside another Flaw, while still allowing you to choose two Boons, making Simple very appealing to a lot of players. Simple also grants two Boon Points, making it a great alternative for those who do not wish to use Fugitive.
     -   **Glutton** forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall. This Flaw is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as it entirely disables passive stomach/thirst drain.

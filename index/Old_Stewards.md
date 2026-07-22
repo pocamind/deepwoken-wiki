@@ -1,11 +1,12 @@
 ---
 title: Old Stewards
-revid: 217192
+revid: 221175
 source: https://deepwoken.fandom.com/wiki/Old_Stewards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Old Stewards]
+categories: [Stub pages without reason, StubPages, Pages requiring a cleanup, Old Stewards]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Old Stewards

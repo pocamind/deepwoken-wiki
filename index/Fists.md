@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 209749
+revid: 221186
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Weapons by Class]
@@ -50,7 +50,7 @@ Using the [Legion Centurion](Legion_Centurion.md) Outfit grants this style, and 
 
 **Untrained Fist:**
 
-[Untrained Fist](Untrained_Fist.md); an untrained Fist Style, consisting of general theatrics and weak blows.
+[Untrained Fist](Untrained_Fist.md); an untrained Fist Style, consisting of general theatrics and weak blows. Its critical is a run-up into a haymaker punch.
 
 This style deals 50% less damage than all other Fist Styles.
 
@@ -62,9 +62,24 @@ Using the [Navaen War Chief](Navaen_War_Chief.md) Outfit will grant +10% PEN to 
 
 ## PvE Mechanics
 
-While wielding a Fist Weapon, gain a 2.5% damage buff to all sources of Blunt damage, and a 5% damage buff to weapon attacks in PvE for every Fist Talent you have. This is dealt as a separate damage instance.
+While wielding a Fist Weapon, gain a 2.5% damage buff to all sources of Blunt damage, and a 5% damage buff to weapon attacks in PvE for every Fist Talent you have. This is dealt as a separate damage instance. This effect benefits from [Chain of Perfection](Talents.md#chain-of-perfection) separately.
 
-Jus Karita Talents and individual Fist Styles do not count for this damage buff.
+At maximum, gain +30% weapon damage and +15% Blunt Mantra damage.
+
+Eligible Fist Talents:
+
+-   [Bruiser's Mixup](Talents.md#bruisers-mixup)
+-   [Captain Etrea](Talents.md#captain-etrea)
+-   [Dirty Boxing](Talents.md#dirty-boxing)
+-   [Fists of Fortitude](Talents.md#fists-of-fortitude)
+-   [Fists of Navae](Talents.md#fists-of-navae) Outfit Talent
+-   [Pocket Sand](Talents.md#pocket-sand)
+
+Ineligible Fist Talents:
+
+-   The Fist Styles
+-   The [Jus Karita](Talents.md#justicar) Talents
+-   [Justicar](<Justicar_(Origin).md>) (Origin) Talents
 
 ## Default Animations
 

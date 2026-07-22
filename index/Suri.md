@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 215711
+revid: 221176
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -25,7 +25,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Suri is a [Vesperian](Vesperian.md) NPC. Talking to him will start the Grave Tending [quest](Quests.md) where he asks you to bring a flower to his [brother's grave](Well-kept_Gravestone.md).
+Suri is a [Vesperian](Vesperian.md) NPC.
+
+Talking to him will start the Grave Tending [quest](Quests.md) where he asks you to bring a flower to his [brother's grave](Well-kept_Gravestone.md).
 
 ## Location
 

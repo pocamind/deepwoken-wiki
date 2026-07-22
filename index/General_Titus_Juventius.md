@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 215914
+revid: 221183
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies]
@@ -164,3 +164,4 @@ It's possible to easily defeat Titus by luring him to a whirlpool. Titus will da
 ## Trivia
 
 -   In the [Vow of Iron](Vow_of_Iron.md) [trailer](https://youtu.be/sF8ZLO9dcHY), Titus was depicted with a unique desert-colored outfit.
+-   During the first few days of Vow of Iron releasing, he could suddenly teleport to you from anywhere on the map. It was common to see him attacking players in [The Cerebral Spire](The_Cerebral_Spire.md), though unable to give or take damage due to immunity.

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 220411
+revid: 221180
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -227,7 +227,7 @@ These status effects are applied by some or all [Mantras](Mantras.md) of a certa
 
 ### Winded
 
-Winded reduces your swing speed by 10%. This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforce](Monsters.md#attuned-monsters) monsters. Signified by green (white if the user has Specter Path) spirals on your character.
+Winded reduces your swing speed by 5% (15% if applied by Specter path). This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforce](Monsters.md#attuned-monsters) monsters. Signified by green (white if the user has Specter Path) spirals on your character.
 
 ### Suffocate
 

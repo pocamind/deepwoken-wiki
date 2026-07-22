@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 221086
+revid: 221182
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -38,7 +38,7 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
  |  |
 | 
 
-'_Rending Maul_  
+**Rending Maul**  
 (★☆☆)
 
  | The Nightmare Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage.

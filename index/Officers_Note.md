@@ -1,6 +1,6 @@
 ---
 title: Officers Note
-revid: 221065
+revid: 221181
 source: https://deepwoken.fandom.com/wiki/Officers_Note
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Quest Item, Items]
@@ -22,7 +22,7 @@ notices:
 
 ## Description
 
-The Officers Note was a quest item given that was dropped by [Bandits](Bandit.md) and [Bandit Leaders](Bandit_Leader.md). Upon use, it gave increased positive [Reputation](Reputation.md) with [Etrea](Etrea.md).
+The Officers Note was a quest item that was dropped by [Bandits](Bandit.md) and [Bandit Leaders](Bandit_Leader.md). Upon use, it gave increased positive [Reputation](Reputation.md) with [Etrea](Etrea.md).
 
 ## Trivia
 
