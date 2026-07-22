@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 220938
+revid: 221208
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Tale
 | type | Arm |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | styles | Black, White |
 | innate stats | +5 Health , +1 Posture , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Blade Dancer |
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Tale
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Starswept Valley, Miner's Landing, Primadon, Titan of the East, War Mode, Saramaed Hollow, Duke Ishamon Erisia, Chime of Conflict, Saramaed Hollow |
+| obtainment | Chests from:, The Starswept Valley, Faction Ambushes (The Ignition Union), Miner's Landing, Primadon, Titan of the East, War Mode, Saramaed Hollow, Duke Ishamon Erisia, Chime of Conflict |
 | description | An ancient cloak of incredible power. Worn by a select few. |
 
 Deepwoken Set

@@ -1,6 +1,6 @@
 ---
 title: "Jester's Beret"
-revid: 219231
+revid: 221199
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craft
 | requirements | Power 10 |
 | weight | 1 |
 | styles | Chaos, Joker, Mono, Rogue, Wishmaker |
-| innate stats | +3 Health , +10 Ether , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +3 Health , +10 Ether , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Cap ArtistJester's Ruse |
 | bankable | No |
 | droppable | No |

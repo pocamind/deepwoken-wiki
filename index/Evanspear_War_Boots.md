@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Boots
-revid: 210038
+revid: 221233
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | innate stats | +3 Health , +1 Uncommon Pip |
 | innate talent | N/A |

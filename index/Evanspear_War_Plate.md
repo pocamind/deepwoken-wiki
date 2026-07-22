@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Plate
-revid: 210040
+revid: 221234
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 10, 25 Strength |
+| requirements | LVL 10, 25 STR |
 | weight | 2 |
-| innate stats | +6 Health , +1 Posture , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +6 Health , +1 Posture , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Evanspear War Helmet, Evanspear War Plate, Evanspear War Boots |
 | set talent | N/A |

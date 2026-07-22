@@ -1,6 +1,6 @@
 ---
 title: "Dawnfist's Ring"
-revid: 220933
+revid: 221205
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Scaling Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, Scaling Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Summer Isle, Duke Ishamon Erisia, The Doom of Caeranthil, Deep Widow, Second Layer, Ancient Rotlands (Deep Cave), Maestro Evengarde Rest, Interluminary Parasol, Chime of Conflict, Saramaed Hollow, Lodestar Bounty job, Trading with Jeremiah |
+| obtainment | The Ferryman, Duke Ishamon Erisia, The Doom of Caeranthil, Deep Widow, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Ancient Rotlands (Deep Cave), Maestro Evengarde Rest, Interluminary Parasol, Chime of Conflict, Saramaed Hollow, Lodestar Bounty job, Trading with Jeremiah |
 | description | A ring once worn by an unparalleled warrior. It seems they finally met their match. +1.2 STR scaling to all weapons. |
 
 ## Description

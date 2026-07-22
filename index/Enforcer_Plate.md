@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 210030
+revid: 221219
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
-| innate stats | +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Berserker |
 | set | Enforcer Plate, Enforcer Boots |
 | set talent | N/A |
@@ -23,8 +23,12 @@ categories: [Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Direct drop from:, The EnforcerChests from:, Duke Erisia, First Layer |
+| obtainment | Direct drop from:, The EnforcerChests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | description | ... |
+
+Enforcer Set
+
+Variants: [Boots](Enforcer_Boots.md)
 
 ## Description
 

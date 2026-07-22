@@ -1,6 +1,6 @@
 ---
 title: Enforcer Boots
-revid: 210027
+revid: 221218
 source: https://deepwoken.fandom.com/wiki/Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | selling price | 7 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | +1 Posture, +1 Rare Pip |
+| innate stats | +1 Posture , +1 Rare Pip |
 | innate talent | Conquer your Fears |
 | set | Enforcer Plate, Enforcer Boots |
 | set talent | N/A |
@@ -23,8 +23,12 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer, The Enforcer (Direct drop) |
+| obtainment | Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, The Enforcer (Direct drop) |
 | description | ... |
+
+Enforcer Set
+
+Variants: [Plate](Enforcer_Plate.md)
 
 ## Description
 

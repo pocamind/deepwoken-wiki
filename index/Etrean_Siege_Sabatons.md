@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 220416
+revid: 221229
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | styles | Anaconda, Cobra, Mamba, Psammophis, Steel |
 | innate stats | +4 Health |
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, First Layer, Second Layer, Crypt of the Unbroken |
+| obtainment | Chests from:, Faction Ambushes (The Ignition Union), Miner's Landing, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
 | description | ... |
+
+Etrean Siege Set
+
+Variants: [Cuirass](Etrean_Siege_Cuirass.md)
 
 ## Description
 

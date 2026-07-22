@@ -1,6 +1,6 @@
 ---
 title: Ember Scorch Earrings
-revid: 220549
+revid: 221216
 source: https://deepwoken.fandom.com/wiki/Ember_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip, +1 Rare Pip |
+| innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | Smoldering Touch |
 | bankable | No |
 | droppable | No |
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Ember Scorch Earrings are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Smouldering Touch](Talents.md#smouldering-touch) Talent applies [burn](Status_Effects.md#burn) to your opponent when you guardbreak them.
+The [Smouldering Touch](Talents.md#smouldering-touch) Talent applies [Burn](Status_Effects.md#burn) to your opponent when you guardbreak them.

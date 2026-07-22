@@ -1,6 +1,6 @@
 ---
 title: Evengardes Keepsake
-revid: 195392
+revid: 221236
 source: https://deepwoken.fandom.com/wiki/Evengardes_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -29,4 +29,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Evengardes Keepsake \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives the user the [Chain of Perfection](Talents.md#chain-of-perfection) Talent.
+Evengardes Keepsake \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives the user the effects of the [Chain of Perfection](Talents.md#chain-of-perfection) Talent.

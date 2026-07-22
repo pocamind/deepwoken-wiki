@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 220942
+revid: 221210
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, The Ignition Union, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Dusters, The Ignition Union, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests:, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Miner's Landing, Saramaed Summit, Saramaed Hollow, Starfield VeldtOther Sources:, Travelling MerchantVow of Iron:, Mystery Boxes |
+| obtainment | Chests:, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Faction Ambushes (The Ignition Union), Miner's Landing, Saramaed Hollow, Starfield VeldtOther Sources:, Travelling MerchantVow of Iron:, Mystery Boxes |
 | description | ... |
 
 ## Description

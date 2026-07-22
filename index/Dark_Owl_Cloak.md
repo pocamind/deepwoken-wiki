@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 220910
+revid: 221204
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -34,7 +34,7 @@ Variants: [Chapeau](Dark_Owl_Chapeau.md) · [Cape](Dark_Owl_Cape.md)
 
 The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Disbelief](Talents.md#disbelief) Talent halves the duration of any [Charm](Status_Effects.md#charm) that is afflicted upon you.
+The [Disbelief](Talents.md#disbelief) Talent halves the duration of any [Charm](Status_Effects.md#charm) that is afflicted upon you, and reduces the duration of [Visionshaper](Oath%253A_Visionshaper.md) Clones that target you by 30%.
 
 ## Trivia
 
