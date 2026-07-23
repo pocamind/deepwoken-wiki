@@ -1,9 +1,9 @@
 ---
 title: Ilji
-revid: 216564
+revid: 221365
 source: https://deepwoken.fandom.com/wiki/Ilji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Game-adjacent articles", Pages requiring a cleanup, Quests]
+categories: ["Game-adjacent articles", Pages requiring a cleanup, Individuals with He/him pronouns]
 notices:
   - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---

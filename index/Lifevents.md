@@ -1,6 +1,6 @@
 ---
 title: Lifevents
-revid: 214013
+revid: 221366
 source: https://deepwoken.fandom.com/wiki/Lifevents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

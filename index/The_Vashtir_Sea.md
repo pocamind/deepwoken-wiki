@@ -1,6 +1,6 @@
 ---
 title: The Vashtir Sea
-revid: 220089
+revid: 221370
 source: https://deepwoken.fandom.com/wiki/The_Vashtir_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
@@ -17,4 +17,4 @@ LocationL The Vashtir Sea LocationR
 
 ## Description
 
-The Vashtir Sea is a location in _Deepwoken_. It is a larger sea making up the body of water in the middle of [Miner's Landing](<Miner's_Landing.md>) and [Summer Isle](Summer_Isle.md).
+The Vashtir Sea is a location in _Deepwoken_. It is a larger sea making up the body of water in the middle of [Miner's Landing](<Miner's_Landing.md>), [Summer Isle](Summer_Isle.md), and [Siirka Point](Siirka_Point.md).

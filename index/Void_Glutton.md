@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 217937
+revid: 221368
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
