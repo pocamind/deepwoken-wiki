@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 220765
+revid: 221551
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1458,7 +1458,7 @@ Typeless
 -   Upgrading the Mantra increases teleportation range.
 -   Deals typeless damage, bypassing armor resistances.
 -   Teleports the user to the enemy the cursor is pointed at.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 | 
@@ -1507,7 +1507,7 @@ Slash ResistanceSlash
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
 -   Can be modified with Crystal/Perfect lenses to increase the time you have between slashes, allowing them to be chained together over a longer duration.
 -   Can be modified with Drift/Rush shards but has seemingly no effect.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 | 
@@ -1546,7 +1546,7 @@ Blunt ResistanceBlunt
 
 -   Deals 20/22/24/26/28 base damage per level with 1.65 Light Weapon scaling.
 -   Wind-up is **HEAVILY** reduced upon being used directly after Karita Leap.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 | 
@@ -1585,7 +1585,7 @@ Blunt ResistanceBlunt
 
 -   Deals 30/33/36/39/42 base damage per level with 1.65 Light Weapon scaling.
 -   Hitting a wall causes you to backflip.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 
