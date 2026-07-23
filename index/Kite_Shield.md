@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 220282
+revid: 221374
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Shields, Offhand]
@@ -23,7 +23,7 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia (Chests), Artifacts, Sold at Meteor Isle Blacksmith for 30 , Sold at Fort Merit Armory for 60 (Authority Ensign exclusive) |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold at Meteor Isle Blacksmith for 30 , Sold at Fort Merit Armory for 60 (Authority Ensign exclusive) |
 | description | A fine shield to hold back the horrors of the world. |
 
 ## Description

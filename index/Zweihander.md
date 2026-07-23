@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 220843
+revid: 221540
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -35,7 +35,7 @@ categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 100 , Erisia, Dread SerpentAlloyed:, Alloying a ZweihanderVow of Iron:, Berserker Memento |
+| obtainment | Sold at Etris Weaponry for 100 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Dread SerpentAlloyed:, Alloying a ZweihanderVow of Iron:, Berserker Memento |
 | description | Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy. |
 
 Variants: [Bloodbane](Bloodbane.md)

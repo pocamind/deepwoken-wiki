@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 220028
+revid: 221539
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Hive]
@@ -33,7 +33,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests From:, Starswept Valley, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Golem Constructs, Fishing, Weird Trader |
+| obtainment | Chests From:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Weird Trader |
 | description | A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. Attacks with its dagger offhand scale with LHT. |
 
 ## Description

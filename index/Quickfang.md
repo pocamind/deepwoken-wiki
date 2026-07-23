@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 213965
+revid: 221406
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Echo Unlockables]

@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 212562
+revid: 221447
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
@@ -35,7 +35,7 @@ categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Centr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit Armory for 190 (Authority Ensign exclusive), The Aratel Sea, Lightkeeper Temple, Random Encounters (Sea events), The Starswept Valley, Saramaed Hollow, Fishing |
+| obtainment | Sold at Fort Merit Armory for 190 (Authority Ensign exclusive), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Fishing |
 | description | A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up. |
 
 ## Description

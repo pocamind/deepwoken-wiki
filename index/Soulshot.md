@@ -1,6 +1,6 @@
 ---
 title: Soulshot
-revid: 181370
+revid: 221444
 source: https://deepwoken.fandom.com/wiki/Soulshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Pistols, Weapons with Unique Criticals, Developer Spec]
@@ -37,10 +37,6 @@ notices:
 ## Description
 
 The **Soulshot** is an Exclusive Pistol; Not a lot is known about besides its ramping up damage.
-
-## Critical
-
-???
 
 ## Trivia
 

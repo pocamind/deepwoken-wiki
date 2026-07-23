@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 220196
+revid: 221432
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Scope's Quest, Duke Erisia, Summer Isle, Saramaed Hollow, Deep Widow, Heart of Enmity, Interluminary Parasol, Dread Serpent, War Mode, Bounties, Chaser, Scion of Ethiron |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Duke Ishamon Erisia, Saramaed Hollow, Deep Widow, Heart of Enmity, Interluminary Parasol, Dread Serpent, War Mode, Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
 ## Description

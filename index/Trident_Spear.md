@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 220189
+revid: 221519
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Alloyable Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Minityrsa, Nyanna, Upper Erisia, Deep Widow, Miner's Landing, Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Saramaed Hollow, Summer IsleAlloyed:, Alloying a Trident Spear |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Minityrsa, Sold by Nyanna, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Deep Widow, Miner's Landing, Faction Ambushes (The Ignition Union), Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer IsleAlloyed:, Alloying a Trident Spear |
 | description | A surprisingly effective weapon despite its previous use by fishermen. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 220839
+revid: 221377
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -30,12 +30,12 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, The Diluvian Mechanism, Derelict Highchurch chests (from Ministry Bloodrenders)Vow of Iron:, Mystery Boxes |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Diluvian MechanismVow of Iron:, Mystery Boxes |
 | description | A reminder that all songs must come to an end. |
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist.
+The Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 216052
+revid: 221506
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,11 +16,11 @@ categories: [Monsters]
 | locations | First Layer, The Diluvian Mechanism |
 | challenges | -- Crustaceous Rex --, Go Crabbing - Slay 10.Reward: +10% DMG; +5% RES, Carapace Crown - Slay 25.Reward: +10% DMG; +5% RES, The Chitin Throne - Slay 100.Reward: +10% DMG; +5% RES |
 
+_Also known as **King Crab** or **Crabbo.**_
+
 “ Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crustaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. ”
 
 ― Inquisitor's Thorn Description
-
-_Also known as **King Crab** or just simply **Crab.**_
 
 ## Description
 

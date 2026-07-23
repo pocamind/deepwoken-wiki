@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 220205
+revid: 221493
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyable Weapons, Weapons with Unique Criticals, Light Weapons, Weapons of Etrea]
@@ -31,7 +31,7 @@ categories: [Weapons, Daggers, Alloyable Weapons, Weapons with Unique Criticals,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, Cinders of Etris, The Depths, Rogue Construct, Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Dread Serpent, Saramaed HollowAlloyed:, Alloying a Tanto, Chime of Conflict |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Cinders of Etris, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Dread Serpent, Saramaed HollowAlloyed:, Alloying a Tanto, Chime of Conflict |
 | description | A dagger forged by an Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
 
 ### Description

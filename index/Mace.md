@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 212538
+revid: 221466
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Erisia chestsVow of Iron:, Berserker Memento |
+| obtainment | Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of VigilsVow of Iron:, Berserker Memento |
 | description | A simple blunt weapon effective at breaking guards. |
 
 ## Description

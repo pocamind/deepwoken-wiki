@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 219175
+revid: 221537
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -78,7 +78,6 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas. Or the weapon might be inspired by the Marvel comics character, Wolverine, specifically his metal claws of similar design.
 -   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and is replaced by the chained gauntlet.[\[1\]](#cite-note-1)
--   It seems as if your slot has [Mute](Regalia.md) regalia (animal king), Grudge will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
 -   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
 

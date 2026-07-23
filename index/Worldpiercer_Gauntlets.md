@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 212944
+revid: 221535
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, The Hundred Legions]

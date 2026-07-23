@@ -1,6 +1,6 @@
 ---
 title: Rapiers
-revid: 219833
+revid: 221411
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapon Classes]

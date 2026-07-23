@@ -1,9 +1,9 @@
 ---
 title: Abandoned Diver (Journeyman Skeli)
-revid: 219075
+revid: 221543
 source: https://deepwoken.fandom.com/wiki/Abandoned_Diver_(Journeyman_Skeli)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
+categories: [Etrean NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Abandoned Diver (Journeyman Skeli)
@@ -22,9 +22,13 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
+
 ## Description
 
-**Abandoned Diver** is the lifeless body of **Apprentice Skeli**. The player is able to pocket the [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>) left behind by the corpse.
+**Abandoned Diver** is the lifeless body of **Journeyman Skeli**. The player is able to pocket the [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>) left behind by the corpse.
 
 Skeli was an [Etrean](Etrean.md) [Diver](The_Divers.md) who eventually attained the rank of Journeyman. Skeli had past encounters with the [Black Diver](Black_Divers_division.md) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and witnessed him volunteer to lead an expedition to the [Second Layer](Second_Layer.md). Skeli considered Chaser's eagerness out of character.[\[1\]](#cite-note-journal-ii-1)
 

@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 214480
+revid: 221414
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Stone KnightBlizzard Knight |
+| obtainment | Direct drops:, Stone Knight, Blizzard Knight |
 | description | ... |
 
 ## Description

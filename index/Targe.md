@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 220284
+revid: 221467
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -22,7 +22,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 15 , Sold by Armorer for 15 , Erisia, The Depths |
+| obtainment | Sold at Etris Weaponry for 15 , Sold by Astra for 15 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | description | A round, wooden shield often accompanied by spear or short blade. |
 
 ## Description

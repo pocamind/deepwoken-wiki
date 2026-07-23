@@ -1,6 +1,6 @@
 ---
 title: Unsung Scythern
-revid: 206306
+revid: 221523
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greataxes, Developer Spec]
@@ -32,7 +32,7 @@ notices:
 
 ## Description
 
-The Unsung Scythern is a Greataxe [Heavy Weapon](Weapons.md#heavy-weapons) that possess the animation and similar model of the [Skyreap Blade](Skyreap_Blade.md) with also a light blue glow to it.
+The Unsung Scythern is a [Greataxe](Greataxes.md) that possess the animation and similar model of the [Skyreap Blade](Skyreap_Blade.md) with also a light blue glow to it.
 
 This weapon has the ability that upon critical attacking/countering with the critical attack, it performs a glowing attack that will teleport into another hit with a light blue glow.
 

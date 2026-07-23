@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 215816
+revid: 221502
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -155,9 +155,9 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#jump)
+[AvoidTelegraph](Combat_Mechanics.md#skull)
 
-Jump
+Avoid
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable

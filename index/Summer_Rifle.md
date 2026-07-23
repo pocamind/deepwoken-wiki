@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 220832
+revid: 221458
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
@@ -28,7 +28,7 @@ categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Chime of Conflict, The Depths, Bounty Hunting, Deep Widow, Fishing, Saramaed Hollow, Sea Events, Moon's Eyrie, Pure Erisore turn in |
+| obtainment | Chests from:, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Bounty Hunting, Deep Widow, Fishing, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Moon's Eyrie, Pure Erisore turn in |
 | description | A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models. |
 
 ## Description

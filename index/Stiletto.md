@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 213431
+revid: 221464
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Lower Erisia, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 15 (Authority Ensign exclusive) |
+| obtainment | Character Creation, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 15 (Authority Ensign exclusive) |
 | description | A remarkably thin blade often likened to (and used as) a toothpick. |
 
 ## Description

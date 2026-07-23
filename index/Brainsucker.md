@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 220884
+revid: 221487
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,7 +11,7 @@ categories: [Monsters]
 | Brainsucker | |
 |---|---|
 | health | 250 (Minityrsa), 450 (Duke Erisia's Manor), 600 (Scales on islands), 1500 (Corrupted) |
-| attacks | Bite, Kick |
+| attacks | Skull Dive, Talon Rake |
 | drops | Rare chance to drop Mantra Modifiers |
 | locations | The Etrean Sea, The Aratel Sea, Voidsea, The Starswept Valley, Minityrsa, Duke Erisia's Manor |
 | challenges | -- Brainsucker --, Beakbuster - Slay 10.Reward: +10% DMG; +5% RES, Cephalorin Champion - Slay 25.Reward: +10% DMG; +5% RES, Chiropterous Conqueror - Slay 100.Reward: +10% DMG; +5% RES |
@@ -37,10 +37,10 @@ Being some of the oldest creatures discovered, their common name comes from the 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-**Bite**  
-(★☆☆)
+**Skull Dive**  
+(★★☆)
 
- | Flies up, swoops down and attacks the player.
+ | The Brainsucker flies back and proceeds to swoop down for the player.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -51,10 +51,10 @@ Being some of the oldest creatures discovered, their common name comes from the 
  |
 | 
 
-**Kick**  
+**Talon Rake**  
 (★☆☆)
 
- | Raises its leg and scratches the player.
+ | The Brainsucker raises its legs to strike the players head.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -68,14 +68,11 @@ Being some of the oldest creatures discovered, their common name comes from the 
 
 | Name | Description |
 | --- | --- |
-| Shredder | Scratches opponent's stomach open with its talons, killing them. |
+| Carrion Feast | The Brainsucker rapidly shreds open the player's torso with its talons, killing them. |
 
 ## Tips
 
--   Their attacks, particularly Bite, have very strange hitboxes, making parrying them difficult. This, combined with its low damage, makes it more worthwhile to simply mash your basic attack until it dies.
--   Landing [Ice Lance](Frostdraw.md#ice-lance) on them will cause them to be flung incredibly far, meaning putting a wayward on it may lead to you being sent incredibly far.
--   They seriously aren't a threat. Even as a level 1, you can just stat check it.
--   Most attacks that apply knockback, most notably [Venting](Combat_Mechanics.md), will cause them to fall out of the sky. If this happens when the Brainsucker is flying over the sea, it'll sink into the waters never to be seen again.
+-   Due to its moving hitbox, Skull Dive can be difficult to parry consistently. However, its relatively low damage makes it possible to simply tank the attack and defeat the Brainsucker before it can kill you.
 
 ## Trivia
 

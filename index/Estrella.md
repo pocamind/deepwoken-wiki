@@ -1,6 +1,6 @@
 ---
 title: Estrella
-revid: 215980
+revid: 221475
 source: https://deepwoken.fandom.com/wiki/Estrella
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, Vendors, NPCs, Individuals with unspecified pronouns]

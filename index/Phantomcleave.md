@@ -1,6 +1,6 @@
 ---
 title: Phantomcleave
-revid: 220835
+revid: 221399
 source: https://deepwoken.fandom.com/wiki/Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons]

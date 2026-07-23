@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 220803
+revid: 221380
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -35,12 +35,12 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Saramaed Hollow, Minityrsa, Cinders of Etris, Chime of Conflict, Merchant Ships, The Aratel Sea |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Minityrsa, Cinders of Etris, Chime of Conflict, Merchant Ships |
 | description | ... |
 
 ## Description
 
-Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. It has a base damage of 24, 0.8x Swing speed and 25% Chip damage.
+The Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. It has a base damage of 24, 0.8x Swing speed and 25% Chip damage.
 
 ## Talents
 

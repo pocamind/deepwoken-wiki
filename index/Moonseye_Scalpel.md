@@ -1,6 +1,6 @@
 ---
 title: Moonseye Scalpel
-revid: 209232
+revid: 221385
 source: https://deepwoken.fandom.com/wiki/Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons]
@@ -29,7 +29,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, The Depths, Deep Widow, Starswept Valley, Chime of Conflict, Fishing (all formerly) |
+| obtainment | Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Deep Widow, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Chime of Conflict, Fishing (all formerly) |
 | description | Congratulations! You've won the Rifle Spear lottery. |
 
 _This page is for the publicly released version of the Moonseye Scalpel, not to be confused with the [Developer Spec](Developer_Specs.md) exclusive version, the [Carrion's Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

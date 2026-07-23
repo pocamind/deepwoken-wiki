@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 220181
+revid: 221437
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -30,7 +30,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Aelita, The Ferryman (Winter), Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode, PrimadonVow of Iron:, Flashing Thunder Memento |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Aelita, The Ferryman (Winter), Fishing, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode, Primadon, Titan of the EastVow of Iron:, Flashing Thunder Memento |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description

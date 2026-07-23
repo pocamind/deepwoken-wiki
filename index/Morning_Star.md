@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 220319
+revid: 221382
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
@@ -34,7 +34,7 @@ categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken, Starswept Valley, Deep Widow, Chime of Conflict, Dread Serpent, Saramaed Hollow, Bounties |
+| obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Deep Widow, Chime of Conflict, Dread Serpent, Saramaed Hollow, Bounties |
 | description | ... |
 
 Variants: [Night Star](Night_Star.md)

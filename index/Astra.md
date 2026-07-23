@@ -1,6 +1,6 @@
 ---
 title: Astra
-revid: 215652
+revid: 221468
 source: https://deepwoken.fandom.com/wiki/Astra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea, Individuals with unspecified pronouns]

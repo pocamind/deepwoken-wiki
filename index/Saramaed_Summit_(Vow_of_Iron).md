@@ -1,11 +1,11 @@
 ---
 title: Saramaed Summit (Vow of Iron)
-revid: 215866
+revid: 221492
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with VOI reason, InProgressPages, Vow of Iron Exclusive, Voidzones]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Voidzones]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Saramaed Summit (Vow of Iron)
@@ -15,6 +15,14 @@ Variants: [Saramaed Summit](Saramaed_Summit.md)
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+LocationL Saramaed Summit LocationR
+
+Voidzone
+
+The air itself feels as if it were becoming ash, as the embers around you radiate heat.
+
+  
 
 Saramaed Summit in [Vow of Iron](Vow_of_Iron.md) is a [Voidzone](Voidzones.md) found in [Miner's Landing (Vow of Iron)](<Miner's_Landing_(Vow_of_Iron).md>).
 

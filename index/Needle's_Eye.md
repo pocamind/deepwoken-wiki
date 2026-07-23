@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 208760
+revid: 221387
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -30,7 +30,7 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict, Duke Ishamon Erisia, Saramaed Hollow, Fishing, Erisia/General Sea Event Loot, Sold by Traan Zakshun for 500 |
+| obtainment | Chime of Conflict, Duke Ishamon Erisia, Saramaed Hollow, Fishing, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold by Traan Zakshun for 500 |
 | description | Not much is known about these rapiers other than the fact that they're a reproduction of Duchess Thera Erisia's rapier, which she is said to have died with in a dispute while being vastly outnumbered, the tale goes that she actually made it through the onslaught but died from blood loss in the arms of her noble son Nir, who took her mantle shortly after. |
 
 ## Description

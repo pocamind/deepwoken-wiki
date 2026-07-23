@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 220175
+revid: 221463
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand]
@@ -21,7 +21,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold from Etris Weaponry for 16 , Sold by Armorer for 16 , Sold at The Floating Keep Blacksmith for 16 , Erisia, Saramaed Hollow, The Depths, Deep Widow, Dread Serpent, Bounties, Chime of Conflict, Voidsea |
+| obtainment | Sold from Etris Weaponry for 16 , Sold by Astra for 16 , Sold at The Floating Keep Blacksmith for 16 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Deep Widow, Dread Serpent, Bounties, Chime of Conflict, Voidsea |
 | description | A dagger that is used more as a pivot for parrying than as a weapon of its own right. |
 
 ## Description

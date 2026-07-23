@@ -1,6 +1,6 @@
 ---
 title: Staves
-revid: 219634
+revid: 221450
 source: https://deepwoken.fandom.com/wiki/Staves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Medium Weapons, Weapon Classes]

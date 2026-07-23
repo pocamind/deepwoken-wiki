@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 216347
+revid: 221407
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -32,7 +32,7 @@ categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second LayerVoidwalker Bounty Chests |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Voidwalker Bounty Chests |
 | description | A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale. |
 
 Variants: [Prototype Railblade](Prototype_Railblade.md)

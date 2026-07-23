@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 220130
+revid: 221499
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -348,6 +348,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _It's just good business._
 -   _Just warning ya, you \*might\* be a wanted person in multiple places after buying this. Don't go wavin' that around._
 -   _Man - it's been a like a whole hour, and my seafood boil isn't here yet! For all the talk The Meatlord gets, he's kind of a slowpoke._
+-   _Market's been doing so well I can flaunt my money on my hat! I have more money than you!_
 -   _Maybe clean this when you get a minute._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
 -   _Might need to steal me a sweater, gettin 'a little chilly up here._
@@ -359,6 +360,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Oh, this one might be cursed. Like, actually._
 -   _Ohh yeah, this has gotta be one a kind, just look at the uhh... look at it!_
 -   _Okay, you really have to be careful with this._
+-   _One of the items of all time._
 -   _Some guy literally walked through a mirror and handed me these, it was the strangest thing..._
 -   _Thanks for looking, you know... you could actually buy it._
 -   _That glowy Diver lady's bright, but not that bright. See this scar on my face? I convinced her a regular egg was an exotic Megalodaunt egg and walked away with a whole shipment of dye packets. Worth every bruise._

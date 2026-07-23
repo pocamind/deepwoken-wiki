@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 220809
+revid: 221412
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients, Weapons with Talents]
@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Minityrsa, Starswept Valley, Artifact Turn-Ins, Crimson Terrapod, The Depths, Chime of Conflict, Crypt of the Unbroken, War Mode, Dread Serpent, Saramaed Hollow |
+| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Minityrsa, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Crimson Terrapod, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chime of Conflict, Crypt of the Unbroken, Faction Ambushes (The Ministry), War Mode, Dread Serpent, Saramaed Hollow |
 | description | A serrated cutlass fashioned after the famously brutal bite of a Lionfish. |
 
 ## Description

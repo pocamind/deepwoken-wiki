@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 220796
+revid: 221376
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, The Hundred Legions, Offhand]
@@ -22,7 +22,7 @@ categories: [Weapons, Shields, The Hundred Legions, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Starswept Valley, Bounties |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Bounties |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
 
 Variants: [Icarus Sun Shield](Icarus_Sun_Shield.md)

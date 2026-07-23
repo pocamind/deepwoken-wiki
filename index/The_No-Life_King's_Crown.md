@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 220092
+revid: 221483
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -44,7 +44,7 @@ The [No Limits](Talents.md#no-limits) Talent increases the cap on [Bloodless Gem
 ## Trivia
 
 -   When equipped, even while its visibility is toggled off, the crown has swirling blood and the ascending circle effects.
--   [Dying](Dye_Packet.md) it will only make the crown darker, not changing the color of its effects and itself.
+-   [Dyeing](Dye_Packet.md) it will only make the crown darker, not changing the color of its effects and itself.
 -   Because Bloodless Gem healing is reduced, this equipment should only be used in fights against a large amount of enemies, and on builds that have a lot of extremely large AoE Mantras to hit multiple targets at once. Otherwise, this can be attributed to a net **loss** in your sustain, as your general Bloodless Gem healing will be largely reduced.
     -   For reference, it now takes 94 scaled damage to heal 15 health, as opposed to 63 scaled damage without this equipment.
 

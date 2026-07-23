@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 220294
+revid: 221508
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Shields]
@@ -22,7 +22,7 @@ categories: [Weapons, Offhand, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Deep Widow, Dread Serpent, Duke Ishamon Erisia, First Layer, Fishing, Heart of Enmity, Interluminary Parasol, Maestro Evengarde Rest, Merchant Ships, Saramaed Hollow, Second Layer, The Diluvian Mechanism, The Starswept Valley, The Doom of Caeranthil, War Mode |
+| obtainment | Chaser, Scholar of the Crimson Contract, Deep Widow, Dread Serpent, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Fishing, Heart of Enmity, Interluminary Parasol, Maestro Evengarde Rest, Merchant Ships, Saramaed Hollow, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Diluvian Mechanism, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Doom of Caeranthil, War Mode |
 | description | A venerated shield, donned only by those who have walked their own Path as they see fit. |
 
 ## Description

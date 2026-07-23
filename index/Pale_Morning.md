@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 220833
+revid: 221395
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, Saramaed Hollow, The Depths, Duke Ishamon Erisia, Heart of Enmity, The Diluvian Mechanism, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, War Mode, Cinders of Etris, Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, The Diluvian Mechanism, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, War Mode, Cinders of Etris, Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World. |
 
 ## Description

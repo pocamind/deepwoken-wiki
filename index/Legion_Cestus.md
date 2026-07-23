@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 220811
+revid: 221375
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -31,12 +31,12 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Songseeker Wilds, Brainsucker, Starswept Valley, Golem Constructs, The Diluvian Mechanism, Dread Serpent, Saramaed Hollow, Deep Widow |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Diluvian Mechanism, Dread Serpent, Saramaed Hollow, Deep Widow |
 | description | Cestus used by members of the Hundred Legions. |
 
 ## Description
 
-**Legion Cestus** is a Light Cestus Weapon that requires 30 LHT to use.
+The **Legion Cestus** is a Light Cestus Weapon that requires 30 LHT to use.
 
 ## Talents
 

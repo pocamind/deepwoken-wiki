@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 219698
+revid: 221470
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -24,6 +24,16 @@ Vow of Iron is one of two Paths (gamemodes) available in _Deepwoken_, the other 
 In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>) rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, [The Inheritor](The_Inheritor.md), wield in an attempt to find a detail or weakness that would allow the [Circle of Honor](Circle_of_Honour.md) to defeat Zi'eer in present days.
 
 Vow of Iron is, in essence, a hard mode of _Deepwoken_. Featuring new enemies, bosses, restricted and tweaked progression, and a new map, showcasing Lumen as it was 38 years before the arrival of the Pathfinder.
+
+### In-game Description
+
+_Each Memento plays differently and has its own pool of Talents and Mantras to purchase._  
+  
+_Experience the Eastern Luminant as it was in 1233 CE by reliving the memories of the fallen._  
+  
+_Face a gauntlet of uniquely challenging bosses, searching for a way to bring down the monstrous Lord Regent._  
+  
+_Any death will send you to the Depths. Banking and trading are disabled._
 
 ## Differences from Pathfinder
 

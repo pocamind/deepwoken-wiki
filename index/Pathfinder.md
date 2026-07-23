@@ -1,6 +1,6 @@
 ---
 title: Pathfinder
-revid: 215307
+revid: 221471
 source: https://deepwoken.fandom.com/wiki/Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Game Modes, Paths, Character]
@@ -24,6 +24,18 @@ The ink is not yet dry. Your fate is what you make it. ”
 Pathfinder is one of two Paths (gamemodes) available in _Deepwoken_, the other being [Vow of Iron](Vow_of_Iron.md).
 
 In Pathfinder, the player plays as the eponymous Pathfinder, in their journey throughout the world of _Deepwoken_. They discover what remains of a broken world torn by war, politics, gods and other beings.
+
+### In-game Description
+
+_Talents and Mantras are obtained through increasing your Power._  
+  
+_Shrines enable you to freely exchange your abilities._  
+  
+_Guild Bases can be built, providing many utilities._  
+  
+_Earn Echoes and upgrade subsequent playthroughs._
+
+## Differences from Vow of Iron
 
 Pathfinder is the intended main gamemode of _Deepwoken_. Progress your character by [training](Training_Gear.md) your [attributes](Attributes.md), acquire [Talents](Talents.md) and [Mantras](Mantras.md) as you [Power up](Power.md), gear up, explore Lumen and [The Depths](The_Depths.md), encounter friend and foe alike and try to make a name for yourself.
 
