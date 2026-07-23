@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 212226
+revid: 221346
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -31,7 +31,7 @@ categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits 
 
 ### _Requirements_
 
-This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Gold](Ores.md#gold), and five (5) [Heroism Enchant Stones](Enchant_Stone.md) to craft.
+This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Gold](Ores.md#gold), and five (5) [Heroism](Heroism.md) [Enchant Stones](Enchant_Stone.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 

@@ -1,6 +1,6 @@
 ---
 title: Jadeite Megalodaunt
-revid: 219733
+revid: 221355
 source: https://deepwoken.fandom.com/wiki/Jadeite_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]

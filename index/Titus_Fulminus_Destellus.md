@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 219307
+revid: 221360
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -325,7 +325,7 @@ Avoid
 
 ### Finishers
 
--   Titus does not have a execution animation instead Titus uses his mantras as if you were still conscious until you die.
+-   Titus does not have an execution animation. Instead, Titus uses his mantras as if you were still conscious until you die.
 
 ## Tips and Strategies
 

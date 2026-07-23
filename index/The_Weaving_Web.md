@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 220545
+revid: 221348
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -51,13 +51,13 @@ The critical has a cooldown of **45 seconds.**
 -   The spiderling can be hit to gain [Chain of Perfection](Talents.md#chain-of-perfection) stacks.
 -   The spiderling can attack other mobs, but sometimes you need to hit it for it to aggro.
 -   The spiderling has a chance of being [Corrupted](Monsters.md#scyphozia) if summoned in [the Depths](The_Depths.md).
--   The spiderling can't hit the person who summoned it unless they [Taunt](Attunement-less.md#taunt) them.
--   The spideSpiderlings counts as an ally and can be buffed.
+-   The spiderling can't hit the person who summoned it. However, if "No Holds Barred" is enabled in settings, the user is able to [Taunt](Attunement-less.md#taunt) their own spiderling which causes it to target and attack the user. The spiderling can't hit or damage the user.
+-   The spiderling counts as an ally and can be buffed.
     -   The spiderling will not count as an ally if you have "No Holds Barred" enabled in settings.
-        -   If "No Holds Barred" is enabled the user is able to [Taunt](Attunement-less.md#taunt) their own spiderling which causes it to attack the user. The spiderling can't hit or damage the user.
 -   The spiderling won't despawn if it attacks someone, allowing you to spawn more than one if you manage to keep them aggroed on someone.
--   The Weaving Web shares a synergy with the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) due to the spiderling counting as a summon.
--   Spiderlings spawned by [Visionshaper](Oath%253A_Visionshaper.md) clones or [Lightning Clones](Thundercall.md#lightning-clones) will be able to target you, as they're technically not _your_ summon (CAN AUTOGRIP YOU IF YOU ARE KNOCKED).
+-   The Weaving Web has synergy with the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) due to the spiderling counting as a summon.
+-   Spiderlings spawned by [Visionshaper](Oath%253A_Visionshaper.md) clones or [Lightning Clones](Thundercall.md#lightning-clones) will be able to target you, as they're technically not _your_ summon.
+    -   **These summons can autogrip you if you are knocked.**
 
 ## Trivia
 

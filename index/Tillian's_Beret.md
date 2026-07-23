@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 218815
+revid: 221357
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,9 +13,9 @@ categories: [Equipment, World Event, Head, Hats, Equipment with Talents, "Equipm
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +3 Health , +10 Ether , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +3 Health , +10 Ether , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Cap Artist |
 | bankable | Yes |
 | droppable | Yes |
@@ -23,8 +23,6 @@ categories: [Equipment, World Event, Head, Hats, Equipment with Talents, "Equipm
 | pass down | Yes |
 | obtainment | Carnival of Hearts |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
-
-Variants: [Jester's Beret](<Jester's_Beret.md>) · [Trickster's Beret](<Trickster's_Beret.md>)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Glimmers of Return
-revid: 221201
+revid: 221349
 source: https://deepwoken.fandom.com/wiki/Glimmers_of_Return
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs]
@@ -32,21 +32,20 @@ Inheritors may pay 200 robux to reconstruct their memory and be teleported back 
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*Faint, shimmering shards of your memento hang suspended in the air.*</i></td>
+  <td colspan="4"><i>*Faint, shimmering shards of your memento hang suspended in the air.*</i></td>
 </tr>
 <tr>
-  <td colspan="16">[Inspect]</td>
-  <td>[End Dialogue]</td>
+  <td colspan="4">[Inspect]</td>
 </tr>
 <tr>
-  <td><i>*There may be a way to reconstruct it, but doing so would require a power beyond what was inherited...*</i></td>
+  <td colspan="4"><i>*There may be a way to reconstruct it, but doing so would require a power beyond what was inherited...*</i></td>
 </tr>
 <tr>
-  <td colspan="16">Reconstruct the memory (200 robux)</td>
-  <td>[End Dialogue]</td>
+  <td colspan="2">Reconstruct the memory (200 robux)</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 213642
+revid: 221362
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -38,7 +38,6 @@ Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a 
 ### "Vigil's Savior"
 
 1.  To start the quest, the player has to finish Apprentice Kj's dialogue. He will then ask the player to find and rescue [Vigil Isaac](Vigil_Isaac.md).
-    1.  Warning: If you do not talk to Kj before starting the quest, you will not get his talent.
 2.  Vigil Isaac can be found in a run-down house at [Upper Erisia](Upper_Erisia.md).
 3.  After giving a [Gale Stone](Gale_Stone.md) to Vigil Isaac, head back to Apprentice Kj and complete his dialogue to finish the quest.
 

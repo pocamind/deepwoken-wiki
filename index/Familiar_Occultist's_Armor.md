@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 213059
+revid: 221345
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -58,6 +58,6 @@ The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summ
 
 ## Trivia/Notes
 
--   This outfit is based on Rogue Lineage's [Master Necromancer](https://rogue-lineage.fandom.com/wiki/Master_Necromancer) armor, the Necromancer armor.
--   The Life Leech talent is a passive similarly featured on the Necromancer class in Rogue Lineage, where summoned Shriekers would heal their summoner when dealing damage.
--   The oufit granting Shadow Armor is a nod to Rogue Lineage's Necromancer armor granting immunity to Curse Stacks.
+-   This outfit is based on the Necromancer armor from _Rogue Lineage_, used by the [Master Necromancer](https://rogue-lineage.fandom.com/wiki/Master_Necromancer) class.
+-   The Life Leech talent is a passive similarly featured on the Necromancer class in _Rogue Lineage_, where summoned Shriekers would heal their summoner when dealing damage.
+-   The oufit granting Shadow Armor is a nod to _Rogue Lineage'_s Necromancer armor granting immunity to Curse Stacks.
