@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 216042
+revid: 221702
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Enemies, The Ministry, Ministry Enemies]

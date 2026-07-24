@@ -1,6 +1,6 @@
 ---
 title: Lord Regent Plush
-revid: 215396
+revid: 221688
 source: https://deepwoken.fandom.com/wiki/Lord_Regent_Plush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-The **Lord Regent Plush** is a plush that released as part of a Deepwoken and Makeship collaboration. Classified under the "Plushie" category, it features [The Lord Regent](The_Lord_Regent.md). Its campaign will run from June 12th, 2026, to July 4th, 2026. The plushie measures 17.6 cm in height, 10.3 cm in width, and 12.0 cm in depth. It is made from polypropylene cotton and plush fabric (ultra soft fleece).
+The **Lord Regent Plush** was a plushie that released as part of a Deepwoken and Makeship collaboration. Classified under the "Plushie" category, it resembled [The Lord Regent](The_Lord_Regent.md). Its campaign ran from June 12th, 2026, to July 11th, 2026, before selling out. The plushie measured 17.6 cm in height, 10.3 cm in width, and 12.0 cm in depth. It was made from polypropylene cotton and plush fabric (ultra soft fleece).
 
 ### Official Description
 
@@ -22,4 +22,6 @@ No strings attached!"
 
 ## Trivia
 
+-   A total of 821 Lord Regent Plushies were sold, and the campaign ended at 405% of its funding goal.
 -   The official Makeship link for the Lord Regent Plush can be found [here](https://www.makeship.com/products/lord-regent-plush).
+-   The Lord Regent Plush was released alongside the [Dangerous Depths Pin Pack](Dangerous_Depths_Pin_Pack.md).

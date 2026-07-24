@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 220893
+revid: 221617
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,7 +19,7 @@ categories: [Equipment, Arms, Capes, Craftable, Equipment with Talents, Equipmen
 | innate talent | No Interruptions |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting in the Merit Detainment CoreVow of Iron:, True Heart of Enmity direct drop |
 | description | Time to write your own legends. |
@@ -42,4 +42,4 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

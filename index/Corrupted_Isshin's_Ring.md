@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Isshin's Ring"
-revid: 220900
+revid: 221623
 source: https://deepwoken.fandom.com/wiki/Corrupted_Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, Corrupt Equipment]

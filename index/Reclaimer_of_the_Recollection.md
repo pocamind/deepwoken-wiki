@@ -1,9 +1,9 @@
 ---
 title: Reclaimer of the Recollection
-revid: 221472
+revid: 221718
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits]
+categories: [Gremor NPCs, Pages with broken file links, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
   - "This page is currently being worked on. Voicelines for True Heart of Enmity and Zi'eer"
@@ -171,6 +171,31 @@ Recollection
 </tr>
 <tr>
   <td>They seem to have visited the Moon's Eyrie, out in the Void... And had quite a run-in with its guardians. The events of this memory will have already transpired once you surpass <b>Power [X]</b>, so if you seek this memory you must find it before then.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**None Available:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Well met, Inheritor. Is there something I can assist with?<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
+</tr>
+<tr>
+  <td>Are there any other tasks?</td>
+</tr>
+<tr>
+  <td>At this moment? I believe that will be up to you. The memories held within your Memento are too murky for me to decipher, I'm afraid.<br>
+  File:Reclaimer Dialogue No Task.ogg</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

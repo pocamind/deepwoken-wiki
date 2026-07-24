@@ -1,6 +1,6 @@
 ---
 title: Glimmers of Return
-revid: 221596
+revid: 221693
 source: https://deepwoken.fandom.com/wiki/Glimmers_of_Return
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 The **Glimmers of Return** are an NPC, present in the [Fragments of Else](Fragments_of_Else.md), the last destination of a [Vow of Iron](Vow_of_Iron.md) character. In the Glimmers of Return the player can see Fragments of their [Memento](Mementos.md) drifting aimlessly after their death.
 
-Inheritors may pay 200 robux to reconstruct their memory and be teleported back to the surface.
+The cost to purchase a slot back increases with the more [Power](Power.md) the character has.
 
 ## Dialogue
 
@@ -58,7 +58,7 @@ Inheritors may pay 200 robux to reconstruct their memory and be teleported back 
   <td><i>*There may be a way to reconstruct it, but doing so would require a power beyond what was inherited...*</i></td>
 </tr>
 <tr>
-  <td>Reconstruct the Memory (200 <a href="https://roblox.fandom.com/wiki/Robux">Robux</a>)</td>
+  <td>Reconstruct the Memory (X <a href="https://roblox.fandom.com/wiki/Robux">Robux</a>)</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

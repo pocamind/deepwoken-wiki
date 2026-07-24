@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 217483
+revid: 221713
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -193,7 +193,7 @@ Dodge
 
 (★★★)
 
- | The Shogun lets out a distinct roar, indicating a devastating combo. It will perform two rapid slashes without highlights, followed by two devastating slashes with Red highlights, and finally ends with four slower slashes with Green highlights. Once this attack is used it goes on cooldown for about a minute, and can be reused after.
+ | The Shogun lets out a distinct roar, indicating a devastating combo. It will perform two rapid slashes without highlights, followed by two devastating slashes with Red highlights, and finally ends with four slower slashes with Green highlights. Once this attack is used it goes on cooldown for roughly 30 seconds and can be reused again.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

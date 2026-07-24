@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 220937
+revid: 221648
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]

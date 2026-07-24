@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 216128
+revid: 221665
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies]
@@ -27,8 +27,8 @@ Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are 
 
 ## Moveset
 
-| Name/Danger | Description |
-| --- | --- |
+| Name/Danger | Description | GIF |
+| --- | --- | --- |
 | 
 **Assault**  
 (★☆☆)
@@ -39,7 +39,7 @@ Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are 
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 | 
 
 **Critical**  
@@ -51,7 +51,7 @@ Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are 
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 
 ## Finisher
 

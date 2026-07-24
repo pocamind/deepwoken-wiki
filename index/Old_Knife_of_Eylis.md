@@ -1,6 +1,6 @@
 ---
 title: Old Knife of Eylis
-revid: 216137
+revid: 221683
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, Knives of Eylis Enemies]
@@ -50,7 +50,7 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
  |
 | 
 
-**Adagio**  
+**Voidhunter: Time-Slowing Bubble**  
 (★☆☆)
 
  | Conjures a growing orb that slows down the movement of everyone except their own members.
@@ -75,7 +75,7 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
  |
 | 
 
-**Dash**  
+**Agile Dash**  
 (☆☆☆)
 
  | The knife quickly makes an agile dash.

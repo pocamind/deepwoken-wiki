@@ -1,6 +1,6 @@
 ---
 title: Fragments of Else
-revid: 215957
+revid: 221692
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Else
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations]
@@ -22,9 +22,7 @@ Woven memories split and fray before you. The sharp edge of a paradox has severe
 
   
 
-**Fragments of Else** is a location in _Deepwoken_. It is a sub-location in [The Depths](<The_Depths_(Vow_of_Iron).md>)
-
-of [Vow of Iron](Vow_of_Iron.md).
+**Fragments of Else** is a location in _Deepwoken_. It is a sub-location in [The Depths](<The_Depths_(Vow_of_Iron).md>) of [Vow of Iron](Vow_of_Iron.md).
 
 ## Overview
 

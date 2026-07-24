@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 221476
+revid: 221612
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Legs, Boots, Equipment, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -12,14 +12,14 @@ categories: [Legs, Boots, Equipment, Craftable, Equipment with Talents, Equipmen
 |---|---|
 | type | Legs |
 | rarity | Rare |
-| selling price | 30 |
+| selling price | 25 |
 | requirements | LVL 10 |
 | weight | 1 |
 | innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Cosmic Connection |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting: Astral Enchant Stone, 2 Star Boots, in Cold Forge |
 | description | Using the finest boots in the land and the power of the heavens, you've managed to make something out of this world. |
@@ -40,4 +40,4 @@ Celestial Boots are obtained by crafting the following items together at [Cold F
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

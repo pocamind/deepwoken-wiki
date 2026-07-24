@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 216096
+revid: 221716
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -31,8 +31,8 @@ Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Fal
 
 ## Moveset
 
-| Name/Danger | Description |
-| --- | --- |
+| Name/Danger | Description | GIF |
+| --- | --- | --- |
 | 
 **Assault**  
 (★☆☆)
@@ -43,7 +43,7 @@ Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Fal
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 | 
 
 **Critical**  
@@ -58,7 +58,7 @@ Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Fal
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 
 ## Tips
 

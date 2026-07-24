@@ -1,6 +1,6 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 208465
+revid: 221619
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -46,19 +46,21 @@ Aeroaseluniris Oricalum Forentus is a [Kyrsan](Kyrsgarde.md) NPC. Aero greets th
   <td colspan="2">Uh, what is this place?</td>
 </tr>
 <tr>
-  <td colspan="2">This is our home. I am Aeroaseluniris Oricalum Forentus, but you may call me Aero.</td>
+  <td colspan="2">This is our home. I am Aeroaseluniris Oricalum Forentus, but you may call me Aero.<br>
+  <font>[NPC name changes to Aero]</font></td>
 </tr>
 <tr>
   <td>Nice to meet you Aero, how do I get up to that large tower?</td>
-  <td>Nah, I'm gonna call you [Wrong Name].</td>
+  <td>Nah, I'm gonna call you Swallyhoo Ambrosius.</td>
 </tr>
 <tr>
   <td>Oh... That tower you speak of was once our pride.. a Grand temple to <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>. But a fringewalker has made his way inside. If you want to get inside you may want to speak to our leader.</td>
-  <td>Leader was right, you fringewalkers really are insufferable.</td>
+  <td><font>[NPC name changes to Swallyhoo Ambrosius]</font><br>
+  Leader was right, you fringewalkers really are insufferable.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
-  <td>Nice to meet you [Wrong Name], how do I get up to that large tower?</td>
+  <td>Nice to meet you Swallyhoo Ambrosius, how do I get up to that large tower?</td>
 </tr>
 <tr>
   <td></td>

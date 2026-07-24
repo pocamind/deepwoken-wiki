@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Vessel's Boots"
-revid: 209867
+revid: 221625
 source: https://deepwoken.fandom.com/wiki/Corrupted_Vessel's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]

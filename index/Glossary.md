@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 220027
+revid: 221633
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -875,7 +875,7 @@ Dialogue: | Books: [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 -   The Voidsea is only reliably traversed through the use of a [Lighthouse](#lighthouses).
 
-Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [Dawnfocal](#dawnfocal), [Driftlands](#driftlands), [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Surface](#the-surface), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md), [Trenti](Trenti.md) | Books: [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [Dawnfocal](#dawnfocal), [Driftlands](#driftlands), [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Surface](#the-surface), [The Tides](#the-tides)
 
 ### The Western Luminant
 

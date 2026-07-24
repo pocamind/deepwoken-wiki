@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 219952
+revid: 221700
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures]
@@ -25,7 +25,7 @@ Obtaining Treasures from chests will automatically convert them into [Trinkets](
  | Diamond | _Hey, there's no blood on this one!_ | 18 |
 | 
 
- | Emerald | _Of the non-chaotic variety._ | ? |
+ | Emerald | _Of the non-chaotic variety._ | 50 |
 | 
 
  | Gold Bar | _Hey, it's worth at least a rat's weight in gold._ | 21 |

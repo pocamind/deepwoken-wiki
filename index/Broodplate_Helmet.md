@@ -1,6 +1,6 @@
 ---
 title: Broodplate Helmet
-revid: 220857
+revid: 221606
 source: https://deepwoken.fandom.com/wiki/Broodplate_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

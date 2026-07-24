@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 220748
+revid: 221709
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -448,7 +448,7 @@ _+Talent: [**Already Dead**](Talents.md#already-dead)_
  | Set: Deepwoken  
 Head: [Deepwoken Hood](Deepwoken_Hood.md)  
 Arms: [Deepwoken Cloak](Deepwoken_Cloak.md) |
-| File:Ether Refined Brim.png | [Ether Refined Brim](Ether_Refined_Brim.md)  
+|  | [Ether Refined Brim](Ether_Refined_Brim.md)  
 (**Styles**)  
 (**Set**)  
 (**Unique**) | _+5 Health_
@@ -3110,7 +3110,7 @@ Authority, Black, Blue, Golden, Green, Grey, Red & White |
 **Requires Power 5**
 
  | N/A |
-| File:Regenerative Pendant.png | [Regenerative Pendant](Regenerative_Pendant.md) | _+3% Elemental Armor_
+|  | [Regenerative Pendant](Regenerative_Pendant.md) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 _+Talent: [**Blood Pact**](Talents.md#blood-pact)_  

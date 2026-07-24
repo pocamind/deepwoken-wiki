@@ -1,6 +1,6 @@
 ---
 title: Authority Voltspark Mask
-revid: 221588
+revid: 221720
 source: https://deepwoken.fandom.com/wiki/Authority_Voltspark_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]
@@ -28,10 +28,10 @@ categories: [Equipment, Face, Masks, Equipment with Talents, Equipment with Excl
 
 The Authority Voltspark Mask is an [Equipment](Equipment.md) item under the "Face" category. The Authority Voltspark Mask is a white mask with a glowing cross in the center, similar to [The Central Authority's](The_Central_Authority.md) logo.
 
-The [Volt Reflex](Talents.md#volt-reflex) Talent increases your dodge window, scaling on your [Thundercall](Thundercall.md) investment, but it also increases your roll cooldown to 2.4 seconds. The roll cooldown increase is applied to **both** dodge types.
+The [Volt Reflex](Talents.md#volt-reflex) Talent increases your dodge window, scaling with your [Thundercall](Thundercall.md) investment, but it also increases your roll cooldown to 2.4 seconds. The roll cooldown increase is applied to **both** dodge types.
 
 ## Obtainment
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will become available to you. This item is only craftable at that bench. The recipes are as follows:
 
 1.  1 [Authority Prototype Mask](Authority_Prototype_Mask.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 3 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md).

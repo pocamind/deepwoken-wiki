@@ -1,6 +1,6 @@
 ---
 title: Chained Ring
-revid: 220892
+revid: 221616
 source: https://deepwoken.fandom.com/wiki/Chained_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

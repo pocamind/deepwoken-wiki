@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 221482
+revid: 221636
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -91,7 +91,7 @@ Talking to Guards
 Talking to Guards
 
 -   Ally/Hero Reputation - "Alright, \[Name\]? Good to see a familiar face."
--   Friend Reputation - "How's it going mate?" | "Seas been treating you well mate?"
+-   Friend Reputation - "How's it going mate?" | "Sea's treatin' you well and all, yeah?"
 -   Neutral Reputation - "You on your break or something? Some of us still have to work."
 
 ## Lost Celtor Reputation

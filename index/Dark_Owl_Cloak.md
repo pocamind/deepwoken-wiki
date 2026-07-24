@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 221204
+revid: 221638
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
