@@ -1,6 +1,6 @@
 ---
 title: Parsnip
-revid: 219722
+revid: 221867
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -73,5 +73,5 @@ Parsnip was located inside of a small house near the water wheel at [Miner's Lan
 
 ## Trivia
 
--   When referring to something "familiar," Parsnip was most likely referencing the [Mechalodaunt](Mechalodaunt.md) to the [Megalodaunt](Megalodaunt.md). This is further proven by finding [Summer Company Goons](Summer_Goon.md) fighting [Mechalodaunts](Mechalodaunt.md) in [Saramaed Summit](Saramaed_Summit.md).
+-   When referring to something "familiar," Parsnip was most likely referencing the [Mechalodaunt](Mechalodaunt.md) to the [Megalodaunt](Megalodaunt.md). This is further proven by finding [Summer Goons](Summer_Goon.md) fighting [Mechalodaunts](Mechalodaunt.md) in [Saramaed Summit](Saramaed_Summit.md).
 -   Parsnip's words imply Hell as a concept exists in the world of _Deepwoken_.

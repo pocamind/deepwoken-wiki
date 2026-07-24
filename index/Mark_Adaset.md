@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 221550
+revid: 221814
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
@@ -24,9 +24,11 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Mark Adaset is the Quartermaster of [Castle Light](Castle_Light.md). He wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md)
+Mark Adaset is an [Adret](Adret.md) NPC. He is the Quartermaster of [Castle Light](Castle_Light.md).
 
 Similarly to [Nerin](Nerin.md), he is able to replace the [Deepbound](Boons_and_Flaws.md) flaw for a flaw/flaws of your liking.
+
+He wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md).
 
 ## Location
 

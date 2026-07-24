@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 220067
+revid: 221865
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -10,7 +10,7 @@ categories: [Items, Books]
 
 ## Description
 
-Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [Intelligence or Charisma Training Gears](Training_Gear.md#attribute-training-gears) and [Weapon Training Gears](Training_Gear.md#attribute-training-gears). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. ([Book-Checklist](Book-Checklist.md))
+Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [Intelligence or Charisma Training Gears](Training_Gear.md#attribute-training-gears) and [Weapon Training Gears](Training_Gear.md#attribute-training-gears). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading.
 
 With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
 
@@ -47,7 +47,7 @@ Uniquely, the [Fading Book](Fading_Book.md) is obtained when a different book is
 
 ## Books
 
-Currently there are 30 books and book collections:
+Currently there are 32 books and book collections:
 
 -   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>): The biology, characteristics, and origins of [Megalodaunts](Megalodaunt.md). ~600 words.
 -   [Capran Aphorisms](Capran_Aphorisms.md): A trio of sayings regarding Jurik, Nemit, and Ku. ~100 words.

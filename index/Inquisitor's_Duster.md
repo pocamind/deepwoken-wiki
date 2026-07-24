@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Duster"
-revid: 219099
+revid: 221818
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Dusters, Equipment of The Central Authority]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Arms, Dusters, Equipment of The C
 | requirements | Power 5 |
 | weight | 2 |
 | styles | Brown, Dark, Navy, Smoke, Titan |
-| innate stats | +2 Rare Pips |
+| innate stats | 2 |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

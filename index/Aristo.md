@@ -1,6 +1,6 @@
 ---
 title: Aristo
-revid: 221634
+revid: 221836
 source: https://deepwoken.fandom.com/wiki/Aristo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Etrean NPCs, NPCs located in the Etrean Luminant]
@@ -13,7 +13,7 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Etrean NPCs
 | name | Aristo |
 | aspect | Etrean |
 | pronouns | He/him |
-| location | Etris |
+| location | Isle of Vigils |
 | affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -22,7 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Aristo is an [Etrean](Etrean.md) NPC. He is usually the first person you talk to when starting a new character when spawning at [Isle of Vigils](Isle_of_Vigils.md) as a [Castaway](Castaway.md). He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give you 20 notes, which is useful starting out.
+Aristo is an [Etrean](Etrean.md) NPC. He is a citizen of the [Isle of Vigils](Isle_of_Vigils.md).
+
+He is usually the first NPC [The Pathfinder](The_Pathfinder.md) will talk to. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give 25, which is useful starting out.
 
 He has a counterpart in the [Etris](Etris.md) named [Trenti](Trenti.md)
 

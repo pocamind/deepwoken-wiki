@@ -1,9 +1,9 @@
 ---
 title: Twinblades
-revid: 221521
+revid: 221771
 source: https://deepwoken.fandom.com/wiki/Twinblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Criticals with M1 tag, Weapons, Medium Weapons, Weapon Classes]
+categories: [Criticals with M1 tag, Medium Weapons, Weapon Classes]
 ---
 
 # Twinblades

@@ -1,11 +1,9 @@
 ---
 title: Mementos
-revid: 221367
+revid: 221789
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, Mechanics, Circle of Honour]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Vow of Iron Exclusive, Mementos, Mechanics, Circle of Honour]
 ---
 
 # Mementos

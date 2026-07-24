@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 221135
+revid: 221863
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -32,6 +32,6 @@ The [Concussive Force](Talents.md#concussive-force) Talent increases the duratio
 
 ## Trivia
 
--   Worn by [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>)
+-   Worn by [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>).
 -   Worn by [The Meat Lord](The_Meat_Lord.md) (Dyed #8E8F90).
 -   It is a black version of the [Goldleaf Helm](Goldleaf_Helm.md).

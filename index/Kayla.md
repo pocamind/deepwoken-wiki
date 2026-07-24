@@ -1,9 +1,9 @@
 ---
 title: Kayla
-revid: 219935
+revid: 221850
 source: https://deepwoken.fandom.com/wiki/Kayla
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Adret NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Kayla
@@ -12,6 +12,7 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean 
 |---|---|
 | name | Kayla |
 | aspect | Adret |
+| pronouns | They/them |
 | location | Alsin's Landing |
 | affiliation | The Justicar |
 

@@ -1,9 +1,9 @@
 ---
 title: Etrean Siege Cuirass
-revid: 221228
+revid: 221877
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment of Etrea]
 ---
 
 # Etrean Siege Cuirass
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Faction Ambushes (The Ignition Union), Miner's Landing, Crypt of the Unbroken, Faction Ambushes (The Ministry), Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
+| obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Miner's Landing, Faction Ambushes (The Ignition Union), Crypt of the Unbroken, Faction Ambushes (The Ministry), Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
 | description | ... |
 
 Etrean Siege Set

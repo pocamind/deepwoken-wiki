@@ -1,6 +1,6 @@
 ---
 title: "Jester's Beret"
-revid: 221681
+revid: 221813
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -41,11 +41,9 @@ The [Cap Artist](Talents.md#cap-artist) Talent allows you to press Comma while c
 
 ## Trivia
 
--   The Wishmaker variant is based off of the hat [Marx](https://kirby.fandom.com/wiki/Marx) wears from _[Kirby](<https://en.wikipedia.org/wiki/Kirby_(series)>)_.
--   The Chaos variant is based off of the hat [Jevil](https://deltarune.fandom.com/wiki/Jevil) wears from _[Deltarune](https://en.wikipedia.org/wiki/Deltarune)_.
+-   The Wishmaker variant is based on the hat [Marx](https://kirby.fandom.com/wiki/Marx) wears from _[Kirby](<https://en.wikipedia.org/wiki/Kirby_(series)>)_.
+-   The Chaos variant is based on the hat [Jevil](https://deltarune.fandom.com/wiki/Jevil) wears from _[Deltarune](https://en.wikipedia.org/wiki/Deltarune)_.
 
-  
-
-## Navigation
+## References
 
 1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

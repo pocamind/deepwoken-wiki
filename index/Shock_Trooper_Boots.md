@@ -1,9 +1,9 @@
 ---
 title: Shock Trooper Boots
-revid: 217047
+revid: 221876
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots, Equipment of The Hundred Legions]
 ---
 
 # Shock Trooper Boots
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | The only thing that surpasses a Shock Trooper's Brutality is their speed. |
 
 Shock Trooper Set
@@ -32,6 +32,8 @@ Variants: [Helmet](Shock_Trooper_Helmet.md) · [Plate](Shock_Trooper_Plate.md)
 
 ## Description
 
-The Shock Trooper Boots is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Boots are a pair of black plate leggings.
+The Shock Trooper Boots is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Shock Trooper Set.
+
+Worn by Legion Shock Troopers, the Shock Trooper Boots are a pair of black plate leggings.
 
 This item is used to craft the [Specialist Boots](Specialist_Boots.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

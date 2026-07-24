@@ -1,6 +1,6 @@
 ---
 title: "Smith's Goggles"
-revid: 219417
+revid: 221857
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Goggles]
@@ -23,12 +23,12 @@ categories: [Equipment, Face, Goggles]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Deep Crucible, First Layer, Maestro Evengarde Rest, The Doom of Caeranthil |
+| obtainment | Deep Crucible, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Maestro Evengarde Rest, The Doom of Caeranthil |
 | description | ... |
 
 ## Description
 
-The Smith's Goggles are an [Equipment](Equipment.md) item under the "Face” category, and is a part of the Smith Set.
+The Smith's Goggles are an [Equipment](Equipment.md) item under the "Face" category, and is a part of the Smith Set.
 
 ## Trivia
 

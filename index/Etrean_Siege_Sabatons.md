@@ -1,9 +1,9 @@
 ---
 title: Etrean Siege Sabatons
-revid: 221229
+revid: 221880
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Legs, Sabatons]
+categories: [Equipment with Styles, Equipment, Legs, Sabatons, Equipment of Etrea]
 ---
 
 # Etrean Siege Sabatons
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (The Ignition Union), Miner's Landing, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
+| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
 | description | ... |
 
 Etrean Siege Set

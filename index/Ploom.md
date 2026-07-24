@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 220870
+revid: 221756
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -20,7 +20,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ploom is a [Ganymede](Ganymede.md) NPC. They are able to grant the [Talent](Talents.md) [Pleeksty's Will](Talents.md#pleekstys-will) if the player has either fifty (50) [Charisma](Attributes.md#cha), forty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
+Ploom is a [Ganymede](Ganymede.md) NPC.
+
+They are able to grant the [Talent](Talents.md) [Pleeksty's Will](Talents.md#pleekstys-will) if the player has either fifty (50) [Charisma](Attributes.md#cha), forty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
 
 They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 
@@ -135,4 +137,4 @@ Ploom is located inside of Lance's Food Shop at [Etris](Etris.md).
 
 ## Trivia
 
-Ploom’s hair id is 12330952760
+-   Ploom's hair id is 12330952760.

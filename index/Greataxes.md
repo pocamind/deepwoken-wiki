@@ -1,9 +1,9 @@
 ---
 title: Greataxes
-revid: 219573
+revid: 221768
 source: https://deepwoken.fandom.com/wiki/Greataxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Heavy Weapons, Weapon Classes]
+categories: [Heavy Weapons, Weapon Classes]
 ---
 
 # Greataxes

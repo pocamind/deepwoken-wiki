@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 221505
+revid: 221742
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Spears, "Core-Attribute based weapons"]
@@ -49,8 +49,6 @@ After a short windup, the user lunges forward, impaling the target and then slam
 This critical is shared with the [Crescent Cleaver](Crescent_Cleaver.md) and **The Long Tong of The Law**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-  
 
 ## Trivia
 

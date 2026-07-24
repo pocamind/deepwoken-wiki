@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 221712
+revid: 221847
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,7 +26,7 @@ Crabs only have one attack, listed below:
 | Name/Danger | Description |
 | --- | --- |
 | 
-**Double**  
+**Double Strike**  
 (★☆☆)
 
  | The Crab will lift both of its claws in the air, striking you with its first claw and then quickly following up with the second.

@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Boots
-revid: 221579
+revid: 221781
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]

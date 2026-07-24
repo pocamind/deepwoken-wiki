@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 218257
+revid: 221889
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -38,6 +38,8 @@ To obtain the Justicar [Origin](Origins.md), the player must do the following:
 ## Spawn
 
 Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Neophyte](Justicar_Neophyte.md) [Outfit](Outfits.md), alongside utilities like [Jus Karita](Jus_Karita.md) and the Justicar's Call.
+
+You can however change outfit, unlike with the [Authority Origin](Authority_Ensign.md).
 
 ## Effects
 

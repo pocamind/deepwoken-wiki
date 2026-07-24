@@ -1,6 +1,6 @@
 ---
 title: The Rock
-revid: 221509
+revid: 221740
 source: https://deepwoken.fandom.com/wiki/The_Rock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Developer Spec]
@@ -32,7 +32,7 @@ notices:
 
 ## Description
 
-**The Rock** is an Exclusive Greathammer; It's a rock, enchantable and very dangerous.
+**The Rock** is an Exclusive Greathammer. It's a rock, enchantable and very dangerous.
 
 ## Critical
 

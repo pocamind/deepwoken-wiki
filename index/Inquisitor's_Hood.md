@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Hood"
-revid: 217389
+revid: 221783
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | requirements | LVL 5 |
 | weight | 1 |
 | styles | Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan, Vermilion |
-| innate stats | +1 Legendary Pip |
+| innate stats | 1 |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

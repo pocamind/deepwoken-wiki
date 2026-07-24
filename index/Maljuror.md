@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 220078
+revid: 221831
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -27,8 +27,8 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
 ## Moves
 
-| Name/Danger | Description |
-| --- | --- |
+| Name/Danger | Description | GIF |
+| --- | --- | --- |
 | 
 **Assault**  
 (★☆☆)
@@ -39,7 +39,7 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 | 
 
 **Critical**  
@@ -51,7 +51,7 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 | 
 
 **Fire Blade**  
@@ -63,7 +63,7 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 | 
 
 **Flaming Scourge**  
@@ -75,7 +75,7 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 -   ⛊ Blockable
 -   § Dodgeable
 
- |
+ |  |
 | 
 
 **Hollow Embrace**  
@@ -91,7 +91,7 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 -   ❆ Stun
 -   𓂘 Grab
 
- |
+ |  |
 
 ## Dialogue
 

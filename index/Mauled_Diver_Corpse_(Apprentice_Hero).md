@@ -1,9 +1,9 @@
 ---
 title: Mauled Diver Corpse (Apprentice Hero)
-revid: 221541
+revid: 221729
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Hero)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Mauled Diver Corpse (Apprentice Hero)
@@ -22,13 +22,11 @@ categories: [Etrean NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, 
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Game-adjacent article**  
-This game content bears more significance to _Deepwoken'_s world than to the game.  
-Thus, this article focuses on that.
-
 ## Description
 
-**Mauled Diver Corpse** is the lifeless body of **Apprentice Hero**. The player is able to pocket the [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>) left behind by the corpse.
+The Mauled Diver Corpse is an NPC. It is the lifeless body of Apprentice Hero.
+
+The player is able to pocket the [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>) left behind by the corpse.
 
 Apprentice Hero was a [Diver](The_Divers.md) participating in the third expedition to the [Second Layer](Second_Layer.md), sent by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to retrieve the [Black Diver](Black_Divers_division.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and the original team.[\[1\]](#cite-note-journal-iii-1)
 

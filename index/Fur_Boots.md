@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 221263
+revid: 221897
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -35,4 +35,4 @@ Variants: [Pauldrons](Fur_Pauldrons.md)
 
 ## Description
 
-The Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category.
+The Fur Boots are an [Equipment](Equipment.md) item under the "Legs" category.

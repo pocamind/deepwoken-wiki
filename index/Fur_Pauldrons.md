@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 221260
+revid: 221898
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -35,4 +35,6 @@ Variants: [Boots](Fur_Boots.md)
 
 ## Description
 
-The Fur Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. They are commonly found in chests from [Erisia](Erisia.md) and [Aratel Island](Aratel_Island.md).
+The Fur Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
+
+They are commonly found in chests from [Erisia](Erisia.md) and [Aratel Island](Aratel_Island.md).

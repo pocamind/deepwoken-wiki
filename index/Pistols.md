@@ -1,9 +1,9 @@
 ---
 title: Pistols
-revid: 221400
+revid: 221773
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Light Weapons, Weapon Classes, Weapons, Guns]
+categories: [Light Weapons, Weapon Classes, Guns]
 ---
 
 # Pistols

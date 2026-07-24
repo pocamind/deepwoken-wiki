@@ -1,6 +1,6 @@
 ---
 title: "Blademaster's Robe"
-revid: 221592
+revid: 221737
 source: https://deepwoken.fandom.com/wiki/Blademaster's_Robe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]

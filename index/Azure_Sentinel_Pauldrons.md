@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 221126
+revid: 221830
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
+| obtainment | Chests from:, Duke Ishamon Erisia, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
 | description | ... |
 
 Azure Sentinel Set

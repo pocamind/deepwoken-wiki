@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 221510
+revid: 221785
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -49,6 +49,7 @@ The critical has a cooldown of **45 seconds.**
 -   The spiderling likely has the same AI as the normal mobs which means that they will not attack anything by default unless it's a player, a [golem](Rock_Golem.md) enemy, or a humanoid NPC.
     -   The player can gain EXP when it is killed.
 -   The spiderling can be hit to gain [Chain of Perfection](Talents.md#chain-of-perfection) stacks.
+-   The spiderling can be hit by the summoner's [Whirling Blade](Monster_Mantras.md#whirling-blade) to proc [Cruentare](Talents.md#cruentare) and recover health.
 -   The spiderling can attack other mobs, but sometimes you need to hit it for it to aggro.
 -   The spiderling has a chance of being [Corrupted](Monsters.md#scyphozia) if summoned in [the Depths](The_Depths.md).
 -   The spiderling can't hit the person who summoned it. However, if "No Holds Barred" is enabled in settings, the user is able to [Taunt](Attunement-less.md#taunt) their own spiderling which causes it to target and attack the user. The spiderling can't hit or damage the user.

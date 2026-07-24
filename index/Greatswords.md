@@ -1,9 +1,9 @@
 ---
 title: Greatswords
-revid: 219576
+revid: 221772
 source: https://deepwoken.fandom.com/wiki/Greatswords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Heavy Weapons, Weapon Classes]
+categories: [Heavy Weapons, Weapon Classes]
 ---
 
 # Greatswords

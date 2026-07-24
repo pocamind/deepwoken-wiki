@@ -1,6 +1,6 @@
 ---
 title: Trenti
-revid: 221635
+revid: 221835
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -22,9 +22,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Trenti is an Etrean NPC, he is usually the first NPC you talk to when starting a new character. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give you 25 notes, which is useful starting out.
+Trenti is an [Etrean](Etrean.md) NPC. He is a citizen of [Etris](Etris.md).
 
-He has a counterpart in the [Isle of Vigils](Isle_of_Vigils.md) named [Aristo](Aristo.md)
+He is usually the first NPC [The Pathfinder](The_Pathfinder.md) will talk to. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give 25, which is useful starting out.
+
+He has a counterpart in the [Isle of Vigils](Isle_of_Vigils.md) named [Aristo](Aristo.md).
 
 ## Location
 

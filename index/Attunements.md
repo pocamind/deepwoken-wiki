@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 213989
+revid: 221736
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -176,6 +176,9 @@ Note: All of the icons above are undoubtedly official representations of their b
     -   The next day, "ELE" was changed to "BLD".
 -   The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
 -   A method to previously unlock attunements as a new player was to select the "Random" option in [Character Creation](Character_Creation.md), and then wiping the slot until all four base attunements were unlocked.
+-   Stated by Nuttoons [Kyrsans](Kyrsgarde.md) have their own attunement or adjacent Bone. It's also stated it wouldn't be impossible to learn said attunement in lore as we the player/pathfinders already are able to learn specific moves of theirs in game. Agamatsu additionally threw around the idea of becoming half-kyrsan to learn it fully. Although we're likely extremely far from seeing this if we ever even will
+
+  
 
 ## Navigation
 

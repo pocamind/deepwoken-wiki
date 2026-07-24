@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 221281
+revid: 221859
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -25,7 +25,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Goldleaf Helm is an Equipment item under the "Head" category.
+The Goldleaf Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

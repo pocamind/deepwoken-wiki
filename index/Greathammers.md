@@ -1,9 +1,9 @@
 ---
 title: Greathammers
-revid: 219579
+revid: 221770
 source: https://deepwoken.fandom.com/wiki/Greathammers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Heavy Weapons, Weapon Classes]
+categories: [Heavy Weapons, Weapon Classes]
 ---
 
 # Greathammers

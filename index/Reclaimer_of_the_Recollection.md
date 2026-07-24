@@ -1,9 +1,9 @@
 ---
 title: Reclaimer of the Recollection
-revid: 221718
+revid: 221848
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Pages with broken file links, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits]
+categories: [Gremor NPCs, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits, Individuals with unspecified pronouns]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
   - "This page is currently being worked on. Voicelines for True Heart of Enmity and Zi'eer"
@@ -29,7 +29,7 @@ The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC. They serve as th
 
 The Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their [Mementos](Mementos.md). They also provide information on how to unlock new Mementos.
 
-They're an Aspen [Gremor](Gremor.md) in stage 2 of aging (50-59 years old). He wears the [Light's Final Toll](<Light's_Final_Toll.md>) beads on his arm, a [Canticlysm Pendant](Canticlysm_Pendant.md), and an [Adventurer Coat](Adventurer_Coat.md). Additionally, he wears a pair of [geta](Geta.md).
+They're an Aspen [Gremor](Gremor.md) in stage 2 of aging (50-59 years old). They wear the [Light's Final Toll](<Light's_Final_Toll.md>) beads on their arm, a [Canticlysm Pendant](Canticlysm_Pendant.md), and an [Adventurer Coat](Adventurer_Coat.md). Additionally, they wear a pair of [geta](Geta.md). They also have pink irises.
 
 ## Location
 
@@ -195,7 +195,7 @@ Recollection
 </tr>
 <tr>
   <td>At this moment? I believe that will be up to you. The memories held within your Memento are too murky for me to decipher, I'm afraid.<br>
-  File:Reclaimer Dialogue No Task.ogg</td>
+  </td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -361,7 +361,8 @@ Recollection
   <td>How am I to proceed?</td>
 </tr>
 <tr>
-  <td>As best as you can, you must live out the memories of the one who created your Memento. Recall the Rat King's cunning trick, Inheritor. To shatter the emerald barrier from without, you must shatter it from within. Seek the next core memory within a trial of the Interstice.</td>
+  <td>As best as you can, you must live out the memories of the one who created your Memento. Recall the Rat King's cunning trick, Inheritor. To shatter the emerald barrier from without, you must shatter it from within. Seek the next core memory within a trial of the Interstice.<br>
+  </td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -413,7 +414,8 @@ Recollection
 <tr>
   <td>Very well, I will assist in gathering more of this memory.<br>
   </td>
-  <td>It seems you have reached a new milestone in your power. Make sure to look over the new mantras and talents you have been granted access to.</td>
+  <td>It seems you have reached a new milestone in your power. Make sure to look over the new mantras and talents you have been granted access to.<br>
+  </td>
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>

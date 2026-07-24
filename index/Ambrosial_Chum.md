@@ -1,6 +1,6 @@
 ---
 title: Ambrosial Chum
-revid: 221343
+revid: 221793
 source: https://deepwoken.fandom.com/wiki/Ambrosial_Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Craftable]

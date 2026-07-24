@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 221636
+revid: 221808
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -104,4 +104,5 @@ Talking to Guards
 
 Talking to Guards
 
+-   Friend Reputation - "Greetings, traveller. Don't cause any trouble on the clan grounds." | "Welcome, traveller. Keep out of trouble for me, won't you?"
 -   Neutral Reputation - "Move along, outsider. I don't have time for you."

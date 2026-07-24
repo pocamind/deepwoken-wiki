@@ -1,18 +1,14 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 221514
+revid: 221778
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Game-adjacent articles", Drowned Gods]
+categories: [Drowned Gods]
 ---
 
 # Ethiron, The Maelstrom's Eye
 
 _This is the Drowned God. For the boss of Floor 2 of the Second Layer, see [Scion of Ethiron](Scion_of_Ethiron.md)._
-
-**Game-adjacent article**  
-This game content bears more significance to _Deepwoken'_s world than to the game.  
-Thus, this article focuses on that.
 
 “ YOU HAVE DONE US A GREAT SERVICE LITTLE GODSEEKER. YOUR SCREAMS WILL ECHO ACROSS EONS. AN ETERNITY OF SUFFERING AWAITS YOU IN THE AGONY OF THE GALE. ”
 
@@ -28,7 +24,9 @@ Ethiron is one of the most powerful beings in Deepwoken due to being a Drowned G
 
 Ethiron has a personal domain of his own in the Depths, being the Second Layer. Despite having a lot of control in the Second Layer, as seen through [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md), constantly showing its effects, some other powers of Ethiron have less effects in certain parts of the Second Layer, for example the time dilatation effects can only be seen in Floor 2 and in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md) in the Second Floor in the weakest way. This can probably mean that some parts of the Second Layer has less control over, for example the Ignition Union base and the multiple safepoints in the Second Layer are unaffected by Ethiron's powers, at least in his asleep state.
 
-During Ethiron's slumber, he collected information present and assembled a crude form to resemble a Black Diver, which he dubbed [Mendacia](Mendacia.md), though several of the details were wrong. He used this disguise to try and trick individuals within the Gale into furthering his agenda. He also awakens the Scion of Ethiron to do his bidding against his enemies.[\[3\]](#cite-note-3)
+During Ethiron's slumber, he collected information present and assembled a crude form to resemble a Black Diver, which he dubbed [Mendacia](Mendacia.md), though several of the details were wrong. He used this disguise to try and trick individuals within the Gale into furthering his agenda.[\[3\]](#cite-note-3)
+
+He also awakens the Scion of Ethiron to do his bidding against his enemies.[\[4\]](#cite-note-4)
 
 ## Trivia
 
@@ -40,4 +38,6 @@ During Ethiron's slumber, he collected information present and assembled a crude
 1.  [↑](#cite-ref-1) [https://fxtwitter.com/Deepwoken/status/1508158183025614851](https://fxtwitter.com/Deepwoken/status/1508158183025614851)
 2.  [↑](#cite-ref-2) NPC dialogue: [Naerotiv](Naerotiv.md)  
     _Ethiron's Scion, his puppet, has awoken._
-3.  [↑](#cite-ref-3)
+3.  [↑](#cite-ref-3) NPC dialogue: [Mendacia](Mendacia.md)  
+    
+4.  [↑](#cite-ref-4)

@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 220260
+revid: 221844
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | requirements | Power 8 |
 | weight | 1 |
 | styles | Brushed, Galvanized |
-| innate stats | +10 Health , +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +10 Health , +1 Uncommon Pip , +1 Rare Pip |
 | innate talent | N/A |
 | set | Silver Knight's Helm, Silver Pauldrons, Silver Sabatons |
 | set talent | N/A |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, Starswept Valley, Chaser, Scholar of the Crimson Contract, Miner's Landing |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Miner's Landing |
 | description | ... |
 
 ## Description

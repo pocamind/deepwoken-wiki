@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 220132
+revid: 221905
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks]
 | requirements | Power 8 |
 | weight | 2 |
 | styles | Onyx, Pink, Scarlet, Smoke, Verdant, Yellow |
-| innate stats | +5 Health , +10 Ether , +1 Rare Pips, +1 Legendary Pips |
+| innate stats | +5 Health , +10 Ether , +1 Rare Pip , +1a Legendary PipExpression error: Unrecognized word "a". |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

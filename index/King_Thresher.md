@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 221100
+revid: 221739
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,7 +22,7 @@ categories: [Monsters]
 
 ## Description
 
-The King Thresher (also colloquially known as Big/King Croc, Mother/Mama Thresher, etc) is a larger and usually older male [Thresher](Thresher.md) that is found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
+The King Thresher is a larger and usually older male [Thresher](Thresher.md) that is found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
 
 King Threshers, as its name suggests are similar to an [Alpha Megalodaunt](Alpha_Megalodaunt.md) in terms of social hierarchy; a dominant Thresher leading their own pack. They are a result of male Threshers competing with each other in populated nests, where behavioral shifts sink in. Their growth is derived from an organ in their necks which can be significantly cut short if a competing Thresher's teeth is lodged into an opposing Thresher, thus leading into a Thresher emerging as a king. These Threshers have distinct features from their lesser counterparts, such as its large size, purple body, and a unique ability to breathe purple flames.[\[1\]](#cite-note-1)
 

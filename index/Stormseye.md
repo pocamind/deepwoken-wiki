@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 221456
+revid: 221849
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons of The Summer Company]
@@ -66,7 +66,7 @@ The critical has a cooldown of **10 seconds**.
     -   According to Arch\_Mage, NPCs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[2\]](#cite-note-2)
 -   Contributor HorrorTM uses this weapon as an offhand.
     -   Considering the nature that the average player cannot use rifles as an offhand, it is simply known that whatever twisted hubris's man has wrought may be belonging to Witchcraft.
--   The previous description read :"Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval."
+-   The previous description stated "Pilfered from Union shipments" instead of "Union expedition party".
 
 ## References
 

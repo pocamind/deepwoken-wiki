@@ -1,6 +1,6 @@
 ---
 title: Candle
-revid: 220019
+revid: 221802
 source: https://deepwoken.fandom.com/wiki/Candle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -23,4 +23,4 @@ The **Candle** is an tool item that can be placed and then lit using [Flint](Fli
 
 Regular candles are crafted with 1 [Fiber](Fiber.md) and 1 [Beeswax](Beeswax.md) and will yield only one singular candle per craft.
 
-You can also craft **Umbral Candles** with 1 candle and 1 [Umbral Obsidian](Umbral_Obsidian.md), yielding one Umbral Candle per craft. Alternatively, you can purchase Umbral Candles from [Traan Zakshun](Traan_Zakshun.md) for 1. Umbral Candles are used to obtain [Weal and Woe](Weal_and_Woe.md).
+You can also craft Umbral Candles with 1 candle and 1 [Umbral Obsidian](Umbral_Obsidian.md), yielding one Umbral Candle per craft. Alternatively, you can purchase Umbral Candles from [Traan Zakshun](Traan_Zakshun.md) for 1. Umbral Candles are used to obtain [Weal and Woe](Weal_and_Woe.md).

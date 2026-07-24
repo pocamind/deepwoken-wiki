@@ -1,9 +1,9 @@
 ---
 title: Black Divers division
-revid: 221513
+revid: 221809
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, "Game-adjacent articles", The Divers, Black Divers]
+categories: [SpoilerPages, The Divers, Black Divers]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
@@ -15,10 +15,6 @@ notices:
 | leader | Deukalion Akarad (deceased)[1], The High Convocation |
 | territory | The Depths, Castle Light |
 | goals | Exploring and setting up bases in the Depths., Sending expeditions to the the Depths. |
-
-**Game-adjacent article**  
-This game content bears more significance to _Deepwoken'_s world than to the game.  
-Thus, this article focuses on that.
 
 ## Description
 

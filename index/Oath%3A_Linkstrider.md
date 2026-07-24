@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 219187
+revid: 221807
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -61,7 +61,7 @@ This Oath grants 2 Support Mantra slots, 1 Wildcard Mantra slot, and +5% PEN. Ap
 -   **Entropy Link** - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
     -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
-    -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue, regular are red, and the seat in Voidheart causes it to be white.)
+    -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue (Currently bugged), regular are red, and the seat in Voidheart causes it to be white.)
     -   Limitations:
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.

@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 221122
+revid: 221894
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment of The Central Authority]
@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment of The Cen
 
 ## Description
 
-The Authority Commander Coat is an animated [Equipment](Equipment.md) item under the Arms category.
+The Authority Commander Coat is an animated [Equipment](Equipment.md) item under the "Arms" category.
 
 ## Trivia
 
