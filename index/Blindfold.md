@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 221137
+revid: 221594
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents]
@@ -29,7 +29,7 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 
 The Blindfold is an [Equipment](Equipment.md) item under the "Face" category.
 
-Equipping any of them will grant you the [Blinded](Talents.md#blinded) talent, which is required to unlock the [Blindseer](Oath%253A_Blindseer.md) Oath.
+The [Blinded](Talents.md#blinded) Talent applies the [Blinded](Status_Effects.md#blinded) effect to the wearer, heavily reducing their vision. This, or the [Blind](Boons_and_Flaws.md#flaws) Flaw, is a requirement to obtain the [Blindseer](Oath%253A_Blindseer.md) Oath.
 
 ## Trivia
 

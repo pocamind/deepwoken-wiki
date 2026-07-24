@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 221168
+revid: 221589
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1363,7 +1363,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 55 Intelligence
 
 -   Behind You \[Common Talent, Agility, Intelligence\] - Landing a basic attack behind your enemy after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will apply an ether slash, dealing extra damage based on how much ether you have left.
-    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 15 damage when at full Ether.
+    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 30 damage when at full Ether.
     -   Unlike Spine Cutter, this has no cooldown.
     -   You can proc Behind you and Spine Cutter at the same time, but the proc window is very tight.
     -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence

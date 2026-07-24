@@ -1,6 +1,6 @@
 ---
 title: Hardened Barrel Helm
-revid: 219035
+revid: 221574
 source: https://deepwoken.fandom.com/wiki/Hardened_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Tal
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Uncommon Pips |
+| innate stats | +5 Health , +1 Uncommon Pip |
 | innate talent | Tenacity |
 | bankable | No |
 | droppable | No |
@@ -33,4 +33,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Hardened Barrel Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Tenacity](Talents.md#tenacity) Talent reduces the duration of guardbreaks on you.
+The [Tenacity](Talents.md#tenacity) Talent reduces the duration that you are guardbroken for by 75%.

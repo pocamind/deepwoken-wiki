@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 219825
+revid: 221581
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies]
@@ -353,7 +353,7 @@ Exhaustive Loot Table
   <td colspan="6">[Attack mid-dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">Oh here? Well, first I disposed of my mutinous team, now I am searching for <font>the City</font>.</td>
+  <td colspan="6">Oh, here? Well, first I disposed of my mutinous squad, now I'm searching for <font>the City</font>.</td>
   <td colspan="6">Aha, the first strike? Not one to mince words are we?</td>
 </tr>
 <tr>
@@ -363,7 +363,7 @@ Exhaustive Loot Table
 </tr>
 <tr>
   <td colspan="3">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td>
-  <td colspan="3">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a>, the Sleeping City. There lies the so-called bedchambers of the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>. Together perhaps we could -<br>
+  <td colspan="3">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a><font>, the Sleeping City</font>. There lies the so-called bedchambers of <font>the <a href="Glossary.md#the-drowned-gods">Drowned God</a> Ethiron</font>. Together perhaps we could -<br>
   <font>[Chaser Attacks]</font></td>
 </tr>
 <tr>

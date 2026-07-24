@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 218235
+revid: 221599
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -623,3 +623,4 @@ These are not the only locations these ingredients can be found, but these are t
 
 -   [Attunement](Attunements.md) potions are not brewed using Alchemy but are instead obtained by completing a quest given by the respective [Trainer](Attunement_Trainers.md).
 -   [Ciea](Ciea.md), found near the Widow's Den, offers quests to make different potions and bring them to her. This is a prerequisite for [Saltchemist](Oath%253A_Saltchemist.md).
+-   Attempting to brew a potion while having no availably inventory space will prompt the message: "You're carrying too much to brew potions..."

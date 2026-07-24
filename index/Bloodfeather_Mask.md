@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Mask
-revid: 221140
+revid: 221598
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -23,7 +23,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Faction Ambushes (The Ignition Union), Miner's Landing, Lodestar Bounty job, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Heart of Enmity, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Saramaed Hollow |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Miner's Landing, Faction Ambushes (The Ignition Union), Lodestar Bounty job, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Heart of Enmity, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Saramaed Hollow |
 | description | ... |
 
 Bloodfeather Set

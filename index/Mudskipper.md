@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 216544
+revid: 221562
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -57,12 +57,8 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 
 | Name | Description | GIF |
 | --- | --- | --- |
-| 
-**Scratch**  
-(★☆☆)
-
- | Weakly smacks opponent over and over again until knocked.
-
+| **Scratch**  
+(★☆☆) | Weakly smacks opponent over and over again until knocked.
 -   Used by most Mudskipper variants.
 -   Has relatively high hitstun.
 -   If you whiff a parry against this attack, let the next attack hit you instead of retaliating, as you'll just get hit again.
@@ -71,15 +67,9 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 -   ⛊ Blockable
 -   § Dodgeable
 
- | 
-
- |
-| 
-
-**Pickaxe Swipe**  
-(★☆☆)
-
- | Weakly slashes opponent with a pickaxe over and over again until knocked.
+ |  |
+| **Pickaxe Swipe**  
+(★☆☆) | Weakly slashes opponent with a pickaxe over and over again until knocked.
 
 -   Mineskipper exclusive.
     -   Notably, this is not used by the Bloated Minskipper variants, they use Scratch instead.
@@ -91,12 +81,8 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 -   § Dodgeable
 
  |  |
-| 
-
-**Air Force**  
-(★☆☆)
-
- | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
+| **Air Force**  
+(★☆☆) | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
 
 -   Enhanced Mudskipper and Mineskipper (Bloated) exclusive.
 -   Identical to the [Mantra](Galebreathe.md#air-force) by the same name.

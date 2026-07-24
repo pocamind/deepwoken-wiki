@@ -1,6 +1,6 @@
 ---
 title: Authority Voltspark Mask
-revid: 220686
+revid: 221588
 source: https://deepwoken.fandom.com/wiki/Authority_Voltspark_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]
