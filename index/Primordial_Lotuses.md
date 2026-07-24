@@ -1,6 +1,6 @@
 ---
 title: Primordial Lotuses
-revid: 220055
+revid: 221722
 source: https://deepwoken.fandom.com/wiki/Primordial_Lotuses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Items, Ingredients, Harvestables]
@@ -73,6 +73,8 @@ notices:
 ## Description
 
 Two of the same Primordial Lotuses could be crafted together to create Attribute Flasks. Attribute Flasks increased the user's respective core attribute stat by +1, consuming an investment point on use.
+
+**Removed as of July 10, 2026. Only Pristine Lotus and Scarlet lotus are still in the game for Linkstrider and Saltchemist.**
 
 ## Hellfire Lotus
 
