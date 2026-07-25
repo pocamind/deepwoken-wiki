@@ -1,9 +1,9 @@
 ---
 title: Summer Company Uniform
-revid: 209621
+revid: 222874
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, The Summer Company, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits of The Summer Company]
 ---
 
 # Summer Company Uniform
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, The Summer Company, Outfits with Talents, "
 | durability | 1500 |
 | resistances | +10% Physical Armor , +10% Slash Armor , +5% Elemental Armor , +25% Shadow Armor |
 | talents | Armor Piercing |
-| obtainment | Summer Isle (inside the gun store), Sold by Traan Zakshun for 200 Chests from:, Summer Isle, Moon's Eyrie, First Layer, Erisia/General Sea Event Loot, Primadon |
+| obtainment | Summer Isle (inside the gun store), Sold in Traan Zakshun's regular stock for 200 Chests from:, Summer Isle, Moon's Eyrie, First Layer, Erisia/General Sea Event Loot, Primadon |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
@@ -43,7 +43,7 @@ This Outfit has 1500 durability, grants +10% Physical resistance ResistancePhysi
 
 The [Armor Piercing](Talents.md#armor-piercing) Talent causes your Pistol and Rifle 'blast' shots and bullets to ignore 15% of an opponent's blunt armor. This is applied multiplicatively before PEN is applied, making this worse than a flat increase to your overall PEN.
 
-## Trivia/Notes
+## Trivia
 
 -   Innate Talent is very nice If you are looking to have Armor Piercing in the early stages of the game.
 -   The Summer Company Uniform is a clear reference to the [Crowfeather Garb](https://bloodborne.wiki.fextralife.com/Crowfeather+Garb) from Bloodborne, albeit without the black cloak.

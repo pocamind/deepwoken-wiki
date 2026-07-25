@@ -1,9 +1,9 @@
 ---
 title: Vigil Initiate
-revid: 209622
+revid: 222852
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, Etrea, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Outfits, Adept Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
 ---
 
 # Vigil Initiate
@@ -42,7 +42,7 @@ This Outfit has 1200 durability, grants +20% Physical resistance ResistancePhysi
 
 The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 
-## Trivia/Notes
+## Trivia
 
 -   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card wile having much better stats.
 -   This Outfit is worn by [Das](Das.md) at [Isle of Vigils](Isle_of_Vigils.md).

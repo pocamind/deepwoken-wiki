@@ -1,9 +1,9 @@
 ---
 title: Blessed Nomad Pendant
-revid: 221593
+revid: 222879
 source: https://deepwoken.fandom.com/wiki/Blessed_Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Children of Navae]
 ---
 
 # Blessed Nomad Pendant
@@ -31,6 +31,8 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Blessed Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It has a golden chain attached to an object that resembles a die, particularly a D20, except made with a glassy like finish.
+The Blessed Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+
+It has a golden chain attached to an object that resembles a die, particularly a D20, except made with a glassy like finish.
 
 The [Navae's Connection](Talents.md#navaes-connection) Talent doubles the base damage of all Navae-related weaponry.

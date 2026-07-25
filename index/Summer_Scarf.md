@@ -1,9 +1,9 @@
 ---
 title: Summer Scarf
-revid: 222692
+revid: 222875
 source: https://deepwoken.fandom.com/wiki/Summer_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Scarves, The Summer Company, World Event]
+categories: [Equipment, Arms, Scarves, World Event, Equipment of The Summer Company]
 ---
 
 # Summer Scarf
@@ -26,4 +26,8 @@ categories: [Equipment, Arms, Scarves, The Summer Company, World Event]
 
 ## Description
 
-The Summer Scarf is an animated [Equipment](Equipment.md) item under the Arms category. It is found in chests from [Interluminary Parasol](Interluminary_Parasol.md).
+The Summer Scarf is an animated [Equipment](Equipment.md) item under the "Arms" category.
+
+It is a dark scarf with a brooch in the form of [The Summer Company](The_Summer_Company.md) logo.
+
+It is found in chests from [Interluminary Parasol](Interluminary_Parasol.md).

@@ -1,9 +1,9 @@
 ---
 title: Etrean Guard
-revid: 209628
+revid: 222845
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Etrea, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
 ---
 
 # Etrean Guard
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, Etrea, Outfits with Talents, Outfits with 
 | durability | 2000 Durability |
 | resistances | +25% Physical Armor , +20% Elemental Armor |
 | talents | Unbreakable |
-| obtainment | Etrean Soldier (direct drop)Chests from:, First Layer, Erisia |
+| obtainment | Etrean Soldier (direct drop)Chests from:, Scyphozia, Erisia |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
@@ -48,4 +48,4 @@ The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the gua
     -   A purple-dyed variant is worn by the [Etrean Soldiers](Etrean_Soldier.md) found outside Etris.
 -   It was formerly exclusive to the aforementioned Etrean NPCs, but was made accessible to players due to popular demand.
 -   Despite mention of "padded snakeskin leather" in its description, the Etrean Guard outfit has _zero_ snake-related materials in its crafting requirements.
-    -   Ironically, the _only_ serpentine beings currently present in Deepwoken are the Etreans themselves, which implies this outfit is literally made of them.
+    -   Ironically, the _only_ serpentine beings currently present in _Deepwoken_ are the Etreans themselves, which implies this outfit is literally made of them.

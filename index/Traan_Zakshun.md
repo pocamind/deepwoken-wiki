@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 222790
+revid: 222797
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -30,7 +30,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Traan Zakshun is a [Canor](Canor.md) NPC. He is a merchant who sells various outfit schematics, equipment, and weapons labelled as "Traan's Salvaged Stock".
 
-He is a middle-aged carafe brown Canor with short, dark green hair that sweeps to the right. Both of his eyes are in a vibrant lime hue, accompanied with a small upwards crescent. On his face is a scar that forms from the bridge of his nose to the left side of his face, and markings that consist of a fading green eyeshadow on the top, with downward facing crescents that have three individual streaks on the bottom. He wields an [Iron Twinblade](Iron_Twinblade.md) on his back and wears the [Carefree Garments](Carefree_Garments.md) outfit, complimented with an ivory [Suncross Pendant](Suncross_Pendant.md). Traan also wears a hat made out of kelp on his head, fashioned with two kelp leaves attached by a crown which he claims is for later consumption.
+He is a middle-aged carafe brown Canor with short, dark green hair that sweeps to the right. Both of his eyes are in a vibrant lime hue, accompanied with a small upwards crescent. On his face is a scar that forms from the bridge of his nose to the left side of his face, and markings that consist of a fading green eyeshadow on the top, with downward facing crescents that have three individual streaks on the bottom. He wields an [Iron Twinblade](Iron_Twinblade.md) on his back and wears the default variant of the [Carefree Garments](Carefree_Garments.md) outfit, complimented with an ivory [Suncross Pendant](Suncross_Pendant.md). Traan also wears a hat made out of kelp on his head, fashioned with two kelp leaves attached by a crown which he claims is for later consumption.
 
 Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). During this time, he learned to create kelp hats and gave one to her to wear. He also has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 

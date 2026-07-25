@@ -1,9 +1,9 @@
 ---
 title: Etrean Siege Cuirass
-revid: 221877
+revid: 222851
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment of Etrea]
+categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment of Etrea]
 ---
 
 # Etrean Siege Cuirass

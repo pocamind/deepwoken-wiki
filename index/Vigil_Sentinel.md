@@ -1,9 +1,9 @@
 ---
 title: Vigil Sentinel
-revid: 216731
+revid: 222848
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Etrea, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
+categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents, Outfits of Etrea]
 ---
 
 # Vigil Sentinel
@@ -46,4 +46,4 @@ The [Vigil's Grace](Talents.md#vigils-grace) Talent grants +0.02x swingspeed whi
 ## Trivia
 
 -   Due to how swing speed is calculated, the swingspeed buff is more impactful the slower your weapon is.
--   [Lightning Cloak's](Thundercall.md#lightning-cloak) swingspeed multiplier is applied **after** Action Surge and Vigil's Grace, allowing for an even greater swingspeed increase when combined.
+-   [Lightning Cloak](Thundercall.md#lightning-cloak)'s swingspeed multiplier is applied **after** Action Surge and Vigil's Grace, allowing for an even greater swingspeed increase when combined.

@@ -1,9 +1,9 @@
 ---
 title: Way of Navae
-revid: 221530
+revid: 222886
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae, Navae Weapons]
+categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons of The Children of Navae]
 ---
 
 # Way of Navae

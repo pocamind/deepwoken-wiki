@@ -1,9 +1,9 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 209679
+revid: 222837
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Etrea, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Outfits, Unique Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
 ---
 
 # Jade Vigil's Weave

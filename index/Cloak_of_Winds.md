@@ -1,9 +1,9 @@
 ---
 title: Cloak of Winds
-revid: 220480
+revid: 222842
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Etrea, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
 ---
 
 # Cloak of Winds
@@ -19,7 +19,7 @@ categories: [Outfits, Expert Outfits, Etrea, Outfits with Talents, Outfits with 
 | durability | 1200 |
 | resistances | +20% Physical Armor , +30% Elemental Armor , +25% Shadow Armor |
 | talents | Paired Soul |
-| obtainment | Chests from:, Zana, Fishing, The Depths, Minityrsa, Maestro Evengarde Rest, Songseeker Wilds, Lodestar Bounty job, Sea Events, Crypt of the Unbroken, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Chests from:, Zana, Fishing, Scyphozia, Minityrsa, Maestro Evengarde Rest, Songseeker Wilds, Lodestar Bounty job, Sea Events, Crypt of the Unbroken, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
@@ -42,7 +42,7 @@ This Outfit has 1200 durability and grants +20% Physical resistance ResistancePh
 
 The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 
-## Trivia/Notes
+## Trivia
 
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md), but an inferior version of the [Royal Etrean Guard](Royal_Etrean_Guard.md).
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
