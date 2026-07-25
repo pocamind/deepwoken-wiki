@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 218084
+revid: 222794
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -170,6 +170,8 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 -   You do not have to escape Second Floor via defeating the Scion of Ethiron in order to keep your progress with Carrion's quest. Talking to Carrion will still make him appear in Castle Light even if you Lighthook up or die within Lighthook's time frame. (Confirmed)
 -   Before you do anything else, focus on activating the five Obelisks.
 -   If you want to explore, bring a supply of food and water because there is no way to get food in this location. Players with bloodrend can eat raw fish.
+-   **Fight or flight?** That is the question you should ask yourself when facing a Kyrsgarde—or an entire group of them. Do not overestimate your abilities. When you know you cannot win, run. Kyrsgardes have a large aggro range, so creating distance is your best option when you need to heal, escape, or lose their attention.
+-   Memorize the Kyrsgarde spawn points so you can avoid running into them in the first place. Kyrsgardes eventually respawn after being killed, and they will reappear in the same spawn points.
 
 ## Lore
 

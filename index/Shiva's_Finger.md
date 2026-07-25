@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Finger"
-revid: 222548
+revid: 222787
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,12 +15,18 @@ categories: [Equipment, Rings]
 | selling price | 100 |
 | requirements | LVL 10 |
 | weight | 0.1 |
+| set | Shiva's Pendant Earrings, Shiva's Finger |
+| set talent | N/A |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
 | pass down | No |
 | obtainment | Battle Royale (20+ Players) |
 | description | Gain 3% damage for each player and 1% damage for each mob that has combat-tagged you, and at 5 stacks you may Vent to consume all stacks to reset your cooldowns, after which this effect enters cooldown. With each BR victory, this item grows in power capping out at 10 fingers. Activates at 3 or more combat tags. |
+
+Shiva's Set
+
+Variants: [Pendant Earrings](<Shiva's_Pendant_Earrings.md>)
 
 ## Description
 

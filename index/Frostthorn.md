@@ -1,6 +1,6 @@
 ---
 title: Frostthorn
-revid: 211061
+revid: 222793
 source: https://deepwoken.fandom.com/wiki/Frostthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, Legendary Weapons, "Dual-wielded Weapons"]
@@ -45,6 +45,8 @@ The **Frostthorn** are dual-wielded Legendary Daggers; two layered blades that h
 ## Critical
 
 The user splits the blades into five in each hand and twirls around, dealing damage and applying Bottom Freeze and chill to targets hit.
+
+Does **not** recolor with Crystallization Path, however does apply crystals on Crit due to the aforementioned chill effect.
 
 This critical additionally grants the user a speed boost for a short duration.
 

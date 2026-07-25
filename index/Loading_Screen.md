@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 222774
+revid: 222792
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -19,6 +19,17 @@ During the loading processes, the resources are rendered in so the player can in
 -   Starting and exiting the game
 -   Teleporting to a location found within a different server.
     -   Entering or exiting a [Dungeon](Dungeons.md)
+
+### Possible Flavor Texts
+
+-   Returning to Menu... - Entering the Main Menu
+-   Venturing forth into a Dungeon. - Entering a [Dungeon](Dungeons.md)
+-   The City awaits... - Entering [New Kyrsa](Second_Layer/New_Kyrsa.md)
+-   The Eternal Gale coils around you... - Entering [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md)
+-   Heeding Conflict's call... - Entering [Chime of Conflict](Chime_of_Conflict.md)
+-   Learning some new tricks... - Entering [Training Mode](Training_Mode.md)
+-   Sinking deep into the Depths... - Entering the [First Layer](First_Layer.md)
+-   The Drowned City of Celtor comes into view once more. - Entering the [First Layer](First_Layer.md)
 
 ## Tips
 
@@ -205,73 +216,73 @@ Names of games will start to appear from the top of the screen:
 -   [Chess](https://en.wikipedia.org/wiki/Chess)
 -   [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper)
 -   [CONE](https://www.roblox.com/games/378223328/CONE)
--   CRAZY HORSE GAME 🐴
--   Crypt of the Necrodancer
--   Deep Rock Galactic
+-   [CRAZY HORSE GAME 🐴](https://www.roblox.com/games/15716048273/CRAZY-HORSE-GAME)
+-   [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer)
+-   [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic)
 -   [Deltarune](https://store.steampowered.com/app/1671210/DELTARUNE)
 -   Don't play [ABA](https://www.roblox.com/games/1458767429/ABA) please
 -   [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together)
--   DOORS
--   Dredge
--   Dwarf Fortress
--   Final Fantasy VII
--   Final Fantast XIV
--   Find Everything
--   FPS Chess
--   Goose Goose Duck
--   Hades I & II
--   Halo 3
--   Halo 3 ODST
--   Halo Reach
--   Hello Kitty Island Adventure
--   Hollow Knight
--   Hollow Knight: Silksong
--   Inscryption
--   Isle
--   Kingdom Series
--   L.A. Noire
--   Lethal Company
+-   [DOORS](https://www.roblox.com/games/6516141723/DOORS)
+-   [Dredge](https://store.steampowered.com/app/1562430/DREDGE)
+-   [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress)
+-   [https://store.steampowered.com/app/3837340/FINAL\_FANTASY\_VII](https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII) Final Fantasy VII\]
+-   [Final Fantast XIV](https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online)
+-   [Find Everything](https://www.roblox.com/games/8389627336/Find-Everything)
+-   [FPS Chess](https://store.steampowered.com/app/2021910/FPS_Chess)
+-   [Goose Goose Duck](https://store.steampowered.com/app/1568590/Goose_Goose_Duck)
+-   [Hades I](https://store.steampowered.com/app/1145360/Hades) & [II](https://store.steampowered.com/app/1145350/Hades_II)
+-   [Halo 3](https://store.steampowered.com/app/1064271/Halo_3)
+-   [Halo 3 ODST](https://store.steampowered.com/app/1064272/Halo_3_ODST)
+-   [Halo Reach](https://store.steampowered.com/app/1064220/Halo_Reach)
+-   [Hello Kitty Island Adventure](https://store.steampowered.com/app/2495100/Hello_Kitty_Island_Adventure)
+-   [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight)
+-   [Hollow Knight: Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong)
+-   [Inscryption](https://store.steampowered.com/app/1092790/Inscryption)
+-   [Isle](https://www.roblox.com/games/3095204897/Isle)
+-   [Kingdom Series](https://store.steampowered.com/franchise/kingdom)
+-   [L.A. Noire](https://store.steampowered.com/app/110800/LA_Noire)
+-   [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company)
 -   [Mahjong](https://en.wikipedia.org/wiki/Mahjong)
--   Mini Metro
--   monkey raft
--   Monster Hunter Series
--   Monster Hunter Wilds
--   Monster Hunter: World
--   My Movie
--   Nine Sols
--   No Mans Sky
--   Noita
--   Outer Wilds
--   Peglin
--   QWOP
--   R.E.P.O.
--   Rainworld
--   Red Dead Redemption
--   Risk of Rain 2
--   Road to Gramby's
--   [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)
--   Shadow Gambit: The Cursed Crew (R.I.P. Mimimi Games)
--   Shadow Tactics: Blades Of The Shogun (R.I.P. Mimimi Games)
--   Shadows of Doubt
--   Shovelware's Brain Game
--   Slay the Spire
--   Snakes & Ladders
+-   [Mini Metro](https://store.steampowered.com/app/287980/Mini_Metro)
+-   [monkey raft](https://www.roblox.com/games/17495769916/monkey-raft)
+-   [Monster Hunter Series](https://store.steampowered.com/curator/34827959)
+-   [Monster Hunter Wilds](https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds)
+-   [Monster Hunter: World](https://store.steampowered.com/app/582010/Monster_Hunter_World)
+-   [My Movie](https://www.roblox.com/games/13600218266/My-Movie)
+-   [Nine Sols](https://store.steampowered.com/app/1809540/Nine_Sols)
+-   [No Mans Sky](https://store.steampowered.com/app/275850/No_Mans_Sky)
+-   [Noita](https://store.steampowered.com/app/881100/Noita)
+-   [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds)
+-   [Peglin](https://store.steampowered.com/app/1296610/Peglin)
+-   [QWOP](https://www.foddy.net/legacy/Athletics.html)
+-   [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO)
+-   [Rainworld](https://store.steampowered.com/app/312520/Rain_World)
+-   [Red Dead Redemption](https://store.steampowered.com/app/2668510/Red_Dead_Redemption)
+-   [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2)
+-   [Road to Gramby's](https://www.roblox.com/games/5796917097/Road-to-Grambys)
+-   [Sekiro: Shadows Die Twice](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition)
+-   [Shadow Gambit: The Cursed Crew](https://store.steampowered.com/app/1545560/Shadow_Gambit_The_Cursed_Crew) (R.I.P. Mimimi Games)
+-   [Shadow Tactics: Blades Of The Shogun](https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun) (R.I.P. Mimimi Games)
+-   [Shadows of Doubt](https://store.steampowered.com/app/986130/Shadows_of_Doubt)
+-   [Shovelware's Brain Game](https://www.roblox.com/games/7978512334/Shovelwares-Brain-Game)
+-   [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire)
+-   [Snakes & Ladders](https://en.wikipedia.org/wiki/Snakes_%26_Ladders)
 -   [Sonic Unleashed](https://en.wikipedia.org/wiki/Sonic_Unleashed)
--   Space Station 14
--   Stars Align
--   Straftat
--   Subnautica
--   Sunless Skies
--   Super Bomb Survival
--   Super Doomspire
--   Terraria
--   Tetris
--   The Great Ace Attorney Chronicles
--   Townscaper
--   Tricky Towers
--   Twilight Imperium 4
--   [Undertale](https://store.steampowered.com/app/391540/Undertale/)
--   V Rising
--   Valheim
--   WEBFISHING
--   Wobbledogs
+-   [Space Station 14](https://store.steampowered.com/app/1255460/Space_Station_14)
+-   [Stars Align](https://www.roblox.com/games/15837460390/Stars-Align-Engine-Demo)
+-   [Straftat](https://store.steampowered.com/app/2386720/STRAFTAT)
+-   [Subnautica](https://store.steampowered.com/app/264710/Subnautica)
+-   [Sunless Skies](https://store.steampowered.com/app/596970/Sunless_Skies_Sovereign_Edition)
+-   [Super Bomb Survival](https://www.roblox.com/games/164051105/Super-Bomb-Survival)
+-   [Super Doomspire](https://www.roblox.com/games/3725149043/Super-Doomspire)
+-   [Terraria](https://store.steampowered.com/app/105600/Terraria)
+-   [Tetris](https://en.wikipedia.org/wiki/Tetris)
+-   [The Great Ace Attorney Chronicles](https://store.steampowered.com/app/1158850/The_Great_Ace_Attorney_Chronicles)
+-   [Townscaper](https://store.steampowered.com/app/1291340/Townscaper)
+-   [Tricky Towers](https://store.steampowered.com/app/437920/Tricky_Towers)
+-   [Twilight Imperium 4](https://en.wikipedia.org/wiki/Twilight_Imperium_4)
+-   [Undertale](https://store.steampowered.com/app/391540/Undertale)
+-   [V Rising](https://store.steampowered.com/app/1604030/V_Rising)
+-   [Valheim](https://store.steampowered.com/app/892970/Valheim)
+-   [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING)
+-   [Wobbledogs](https://store.steampowered.com/app/1424330/Wobbledogs)

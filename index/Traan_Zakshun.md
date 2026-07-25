@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 221499
+revid: 222790
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -337,6 +337,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Have I seen you before? Yeah, wait... you told people my stock sucked... Wait. Actually, that might've been someone else. I \*will\* find them._
 -   _Ignore the scuff marks, there were barnacles on it when I found it._
 -   _I barely know what I'm looking at here._
+-   _I found this in my nan's \*other\* stash during clearance... That lady's got a chequered past, eh?_
 -   _I gave one of these away for free yesterday. You missed out._
 -   _I need to use these crowns to buy some earplugs, for that eardrum-rupturing sea snake..._
 -   _I uhh, yeah I really shouldn't have these._
