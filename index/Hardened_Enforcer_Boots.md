@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Boots
-revid: 221942
+revid: 222918
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -48,8 +48,8 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
 
-  
+## Trivia
 
-## Navigation
+-   Despite both Talents giving the respective ability the flourish tag, Offhand shots with [Exexution](Talents.md#exexution) do not proc Enforcer's Technique, but [Master's Flourish](Attunement-less.md#masters-flourish) with [Sweeping Edge](Talents.md#sweeping-edge) does.
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

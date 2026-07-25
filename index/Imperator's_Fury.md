@@ -1,9 +1,9 @@
 ---
 title: "Imperator's Fury"
-revid: 222349
+revid: 222888
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
 ---
 
 # Imperator's Fury

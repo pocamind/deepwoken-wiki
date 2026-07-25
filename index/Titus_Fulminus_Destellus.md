@@ -1,9 +1,9 @@
 ---
 title: Titus Fulminus Destellus
-revid: 221371
+revid: 222930
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
+categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
 ---
 
 # Titus Fulminus Destellus
@@ -12,7 +12,7 @@ categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, 
 |---|---|
 | health | 70000 (+10k per player) |
 | drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems (guaranteed), Several Enchant Stones |
-| moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Thunder Volley, Chorus Divide: Shattering Crescendo |
+| moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Thunder Volley[1], Chorus Divide: Shattering Crescendo |
 | aspect | Khan |
 | pronouns | He/him |
 | affiliation | The Hundred Legions, 49th Legion |
@@ -31,13 +31,13 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the [49th Legion](The_Hundred_Legions.md) and a user of the [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
+**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the [49th Legion](The_Hundred_Legions.md) and a user of the [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[2\]](#cite-note-2)
 
 A Khan with great stature, he's around twice the height of the player. He has darkened yellow eyes and wrinkles across his face, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
-His sheer size creates a physical resilience against attacks, but is also mentally resilient as well.[\[2\]](#cite-note-sres-2) Alongside this, he had a unrivaled, strategic mind, allowing him to catch The Authority off-guard, and even survive when outnumbered.[\[3\]](#cite-note-3)
+His sheer size creates a physical resilience against attacks, but is also mentally resilient as well.[\[3\]](#cite-note-sres-3) Alongside this, he had a unrivaled, strategic mind, allowing him to catch The Authority off-guard, and even survive when outnumbered.[\[4\]](#cite-note-4)
 
-Upon his capture, he intentionally let his guard down to get captured by [Sentinel Augustus](Sentinel_Augustus.md), for the sake of gathering intel within the confines of the Authority.[\[4\]](#cite-note-4)[\[5\]](#cite-note-5) Titus was expected to retire after a few missions prior to his capture, but may have given up on it after receiving the message from the player.[\[6\]](#cite-note-6)
+Upon his capture, he intentionally let his guard down to get captured by [Sentinel Augustus](Sentinel_Augustus.md), for the sake of gathering intel within the confines of the Authority.[\[5\]](#cite-note-5)[\[6\]](#cite-note-6) Titus was expected to retire after a few missions prior to his capture, but may have given up on it after receiving the message from the player.[\[7\]](#cite-note-7)
 
 ### Initiating the Fight with Titus
 
@@ -97,6 +97,7 @@ Jump
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
 -   § Dodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -202,10 +203,17 @@ Dodge
 -   When amplified by Commander's Rage or in second phase, Titus will use Skycrash again if he does not hit anyone initially
 -   This move will briefly stun him if he bashes into a surface.
 
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#jump)
+
+Jump
+
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   § Dodgeable
 -   ⤓ Knockdown
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -229,6 +237,7 @@ Jump
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
 -   § Dodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -261,7 +270,7 @@ Block
 | **Attacks unlocked on Phase 2** |
 | 
 
-**Thunder Volley**  
+**Thunder Volley**[\[1\]](#cite-note-volley-1)  
 (★★☆)
 
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
@@ -631,23 +640,24 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   The placeholder name "Franky Strabes" will appear on Titus' combat tag.
 -   The theme that plays during his fight is [Chainbreaker](Deepwoken_OST.md#chainbreaker).
--   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.[\[2\]](#cite-note-sres-2)
--   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md) and doesn't count in the bestiary.
+-   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.[\[3\]](#cite-note-sres-3)
+-   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md) and doesn't count in the bestiary under normal circumstances.
     -   This is because Titus does not actually die nor despawn when you defeat him most of the time. If you do manage to autogrip him however, he will appropriately grant these rewards.
 -   Titus second phase can be bypassed when the player uses [Poser's Ring](<Poser's_Ring.md>) (if quick enough) or the [Moppet](Moppet.md) weapon. When this happens, a loot chest will drop and Titus' health will fall to zero. He will then enter his second phase animation and his health will return, but he will stay completely docile and will not attack the player. Killing him again will not give any extra loot.
 -   The windup for Warp kick matches the windup of the critical for the [Imperium Kata](Imperium_Kata.md)
 
 ## References
 
-1.  [↑](#cite-ref-1) [Book](Books.md): [Legion Intelligence](Legion_Intelligence.md)  
+1.  ↑ [1.0](#cite-ref-volley-1-0) [1.1](#cite-ref-volley-1-1) Version History: [July 7th, 2026](Version_History/2026.md#july-7th-2026)
+2.  [↑](#cite-ref-2) [Book](Books.md): [Legion Intelligence](Legion_Intelligence.md)  
     _A CHALLENGING DECISION HAS BEEN TAKEN TO DELAY YOVR FREEDOM IN FAVOVR OF THE IMPROVEMENT OF OVR STRATEGIC ODDS._
-2.  ↑ [2.0](#cite-ref-sres-2-0) [2.1](#cite-ref-sres-2-1) NPC dialogue: [High Inquisitor Merey](High_Inquisitor_Merey.md)  
+3.  ↑ [3.0](#cite-ref-sres-3-0) [3.1](#cite-ref-sres-3-1) NPC dialogue: [High Inquisitor Merey](High_Inquisitor_Merey.md)  
     _He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods._
-3.  [↑](#cite-ref-3) NPC dialogue: [Sentinel Augustus](Sentinel_Augustus.md)  
-    _He'd catch us in ambushes, set traps for us, and always be three steps ahead of us. When outnumbered, he would often survive just through sheer strength and discipline. I couldn't stand it._
 4.  [↑](#cite-ref-4) NPC dialogue: [Sentinel Augustus](Sentinel_Augustus.md)  
+    _He'd catch us in ambushes, set traps for us, and always be three steps ahead of us. When outnumbered, he would often survive just through sheer strength and discipline. I couldn't stand it._
+5.  [↑](#cite-ref-5) NPC dialogue: [Sentinel Augustus](Sentinel_Augustus.md)  
     _But... Something was off, when we fought in Aratel. I can't put my finger on it. It felt like he wasn't giving it his all._
-5.  [↑](#cite-ref-5) NPC dialogue: [Caitus](Caitus.md)  
-    _Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit._
 6.  [↑](#cite-ref-6) NPC dialogue: [Caitus](Caitus.md)  
+    _Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit._
+7.  [↑](#cite-ref-7) NPC dialogue: [Caitus](Caitus.md)  
     _He was supposed to retire after his final few missions, including this one... Guess he's thrown that straight into the sea._

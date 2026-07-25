@@ -1,9 +1,9 @@
 ---
 title: Specialist Plate
-revid: 222632
+revid: 222897
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
 ---
 
 # Specialist Plate
@@ -59,8 +59,6 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
 
-  
-
-## Navigation
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

@@ -1,9 +1,9 @@
 ---
 title: Specialist Boots
-revid: 222618
+revid: 222903
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
 ---
 
 # Specialist Boots
@@ -55,8 +55,6 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).
 
-  
-
-## Navigation
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

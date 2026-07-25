@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Plate
-revid: 221941
+revid: 222919
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -50,11 +50,6 @@ Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull
 
 ## Trivia
 
--   The Berserker Talent no longer functions due to it being renamed.
--   This equipment is a copy of the [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.
-
-  
-
-## Navigation
+-   The Berserker Talent no longer functions due to it being renamed to [Brassneck](Talents.md#brassneck).
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

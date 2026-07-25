@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 222782
+revid: 222906
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
@@ -222,12 +222,12 @@ Various islands appear on the sea with various enemies. After defeating all enem
 </tbody>
 </table>
 
-**Overrun Authority Stronghold:**
+**Fort:**
 
 <table>
 <tbody>
 <tr>
-  <td><div><p>A now overrun Authority outpost, the ruins of a tropical fortress resembling <a href="Fort_Merit.md">Fort Merit</a> occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>.</p></div></td>
+  <td><div><p>An outpost, the ruins of a tropical fortress resembling <a href="Fort_Merit.md">Fort Merit</a> occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>.</p></div></td>
   <td><figure><figcaption><p></p><div>A Fort Island</div><p></p></figcaption></figure></td>
 </tr>
 </tbody>

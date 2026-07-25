@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 219853
+revid: 222929
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Bosses, Humanoid Bosses, Voiced Characters, Members of the Erisia family]
@@ -37,8 +37,6 @@ He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its sub
 ## Moveset
 
 Duke Ishamon Erisia's arsenal consists of utilizing his [Resonance](Resonance.md) and [Galebreathe](Galebreathe.md).
-
-_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ol8I8E__J_c) (outdated)._
 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
@@ -115,9 +113,9 @@ Dodge
 
 _Uses Telegraph_
 
-[DuckTelegraph](Combat_Mechanics.md#duck)
+[BlockTelegraph](Combat_Mechanics.md#block)
 
-Duck
+Block
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable

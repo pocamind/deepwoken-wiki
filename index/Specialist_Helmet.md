@@ -1,9 +1,9 @@
 ---
 title: Specialist Helmet
-revid: 222627
+revid: 222899
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
 ---
 
 # Specialist Helmet
@@ -59,8 +59,6 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 2.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
 
-  
-
-## Navigation
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

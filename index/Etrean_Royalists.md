@@ -1,6 +1,6 @@
 ---
 title: Etrean Royalists
-revid: 212112
+revid: 222931
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Factions]
@@ -46,7 +46,7 @@ There are only a few ways to gain reputation with the Royalists:
 -   Completing [Jobs](Job_Boards.md) from the various estates. Jobs on red boards require Power 5 to be accepted, jobs on blue boards require Power 10.
 -   Helping Clan Ganba soldiers defeat members from [The Ignition Union](The_Ignition_Union.md) near the entrance of [The Sable Estate](The_Sable_Estate.md).
 
-The Royalists have a Reputation reset NPC, [Yen](Yen.md), near the front of the [Songseeker Temple](Songseeker_Temple.md). They also are one of the few factions to have NPCs that freely reset your reputation to Neutral with no cost, those being [Seon](Seon.md) and [Kazue](Kazue.md), near [The Golden Rat](The_Golden_Rat.md) and [The Sable Estate](The_Sable_Estate.md) respectively.
+The Royalists have four Reputation Reset NPCs, [Yen](Yen.md), [Kazue](Kazue.md), [Ferenc](Ferenc.md), and [Seon](Seon.md). They are located near the [Songseeker Temple](Songseeker_Temple.md), outside the Sable Estate, at [Summer Isle,](Summer_Isle.md) and in [Isle of Vigils](Isle_of_Vigils.md) respectively.
 
 ## Notable Members
 
@@ -64,7 +64,12 @@ The Royalists have a Reputation reset NPC, [Yen](Yen.md), near the front of the 
 
 -   During the very early start of Vow of Iron's release, the Royalists were always hostile against the players, making obtaining all [Etris Flasks](Etris_Flask.md) harder.
 -   The Royalists seemingly are the only Etreans still capable of making the previously mentioned Etris Flasks seeing as they are only obtainable in their estates. This likely means their dissolution are what makes them not appear in [Pathfinder](Pathfinder.md).
--   Each clan in the Royalists dons their own-colored armor, banners and emblems which are visible below.
+-   The naming scheme of the Royalists are a play on various snake species, evidenced by the Styles of related equipment like the [Etrean Sashimono](Etrean_Sashimono.md). The list is as follows:
+    -   Anako -> Anaconda
+    -   Kobura -> Cobra
+    -   Ganba -> Mamba
+    -   Mofisu -> Psammophis
+-   Each clan of the Royalists don their own banner and emblems as shown below:
 
 ## References
 

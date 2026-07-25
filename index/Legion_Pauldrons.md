@@ -1,9 +1,9 @@
 ---
 title: Legion Pauldrons
-revid: 222052
+revid: 222893
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment of The Hundred Legions]
 ---
 
 # Legion Pauldrons

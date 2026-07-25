@@ -1,9 +1,9 @@
 ---
 title: Legion Helmet
-revid: 222060
+revid: 222894
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Head, Helmets]
+categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment of The Hundred Legions]
 ---
 
 # Legion Helmet
@@ -35,7 +35,8 @@ Variants: [Pauldrons](Legion_Pauldrons.md) · [Boots](Legion_Boots.md)
 
 The Legion Helmet is an [Equipment](Equipment.md) item under the "Head" category.
 
+It is worn by combatants affiliated with [the Hundred Legions](The_Hundred_Legions.md).
+
 ## Trivia
 
--   Worn by enemy NPCs affiliated with [the Hundred Legions](The_Hundred_Legions.md).
 -   Formerly known as "Khan Helmet".
