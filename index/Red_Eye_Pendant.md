@@ -1,6 +1,6 @@
 ---
 title: Red Eye Pendant
-revid: 220509
+revid: 222428
 source: https://deepwoken.fandom.com/wiki/Red_Eye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | N/A |
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Crypt of the Unbroken, Miner's Landing, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Lodestar Bounty job, Saramaed Hollow |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Miner's Landing, Faction Ambushes (The Ignition Union), Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Lodestar Bounty job, Saramaed Hollow |
 | description | ... |
 
 ## Description

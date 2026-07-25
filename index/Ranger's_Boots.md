@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 220254
+revid: 222423
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,10 +23,14 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Songseeker Wilds, Chime of Conflict, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Chime of Conflict, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 Variants: [Veteran Ranger's Boots](<Veteran_Ranger's_Boots.md>)
+
+Ranger's Set
+
+Variants: [Brace](<Ranger's_Brace.md>)
 
 ## Description
 
@@ -36,4 +40,4 @@ The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from c
 
 ## Trivia
 
--   The exclusive Talent granted by these boots are the same as the effects given by the [Survivalist](Boons_and_Flaws.md) Boon.
+-   The exclusive Talent granted by these boots are the same as the effects given by the [Survivalist](Boons_and_Flaws.md#survivalist) Boon.

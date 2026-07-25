@@ -1,6 +1,6 @@
 ---
 title: Terraplate Pauldrons
-revid: 220365
+revid: 222703
 source: https://deepwoken.fandom.com/wiki/Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equi
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
-| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Terrapod Tracer |
 | bankable | Yes |
 | droppable | Yes |

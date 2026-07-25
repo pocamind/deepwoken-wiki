@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 220295
+revid: 222746
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Braces, Equipment with Talents, "Equipment with No
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
 | innate stats | +3 Health , +1 Posture , +2 Rare Pips |
 | innate talent | Replenishing Knockout |
@@ -23,8 +23,12 @@ categories: [Equipment, Arms, Braces, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
 | description | ... |
+
+Vanguard Set
+
+Variants: [Boots](Vanguard_Boots.md)
 
 ## Description
 

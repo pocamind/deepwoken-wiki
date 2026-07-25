@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Necklace
-revid: 201009
+revid: 222042
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Necklace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Torso, Equipment, Necklaces]
@@ -23,7 +23,9 @@ categories: [Drops, Torso, Equipment, Necklaces]
 
 ## Description
 
-The **Kyrsan Necklace** is a Torso equipment, which is most notably used to gain the [Charged Bonecharm](Charged_Bonecharm.md) from [The Gaunt Man](The_Gaunt_Man.md).
+The **Kyrsan Necklace** is an [Equipment](Equipment.md) item under the "Torso" category.
+
+It is most notably used to gain the [Charged Bonecharm](Charged_Bonecharm.md) from [The Gaunt Man](The_Gaunt_Man.md).
 
 ## Trivia
 

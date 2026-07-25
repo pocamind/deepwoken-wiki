@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Isshin's Ring"
-revid: 221623
+revid: 222218
 source: https://deepwoken.fandom.com/wiki/Corrupted_Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, Corrupt Equipment]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, 
 
 | Corrupted Isshin's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | LVL 5 |

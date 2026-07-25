@@ -1,9 +1,9 @@
 ---
 title: Relics
-revid: 221056
+revid: 222343
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Mechanics, Relics]
+categories: [Mechanics, Relics]
 ---
 
 # Relics

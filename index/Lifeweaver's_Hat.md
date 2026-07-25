@@ -1,6 +1,6 @@
 ---
 title: "Lifeweaver's Hat"
-revid: 216916
+revid: 222067
 source: https://deepwoken.fandom.com/wiki/Lifeweaver's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

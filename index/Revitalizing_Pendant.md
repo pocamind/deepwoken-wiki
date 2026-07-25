@@ -1,6 +1,6 @@
 ---
 title: Revitalizing Pendant
-revid: 215848
+revid: 222430
 source: https://deepwoken.fandom.com/wiki/Revitalizing_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Craftable, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
@@ -14,7 +14,7 @@ categories: [Pathfinder Exclusive, Equipment, Torso, Craftable, Necklaces, Equip
 | rarity | Rare |
 | selling price | 25 |
 | weight | 0.5 |
-| innate stats | +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Praise The Sun |
 | bankable | No |
 | droppable | No |

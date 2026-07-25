@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Plate
-revid: 215847
+revid: 222461
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Set 
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
-| innate stats | +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | BerserkerEnforcer's Strength |
 | set | Reinforced Enforcer Plate, Reinforced Enforcer Boots |
 | set talent | Enforcer's Pull |

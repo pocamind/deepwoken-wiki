@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 220747
+revid: 222618
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,10 +22,10 @@ categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment
 | set talent | Shock Trooper Specialist |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting in the Merit Detainment Core |
-| description | The only thing that surpasses a Shock Trooper's Brutality is their speed. |
+| description | The only thing that surpasses a Shock Trooper's brutality is their speed. |
 
 Specialist Set
 
@@ -59,4 +59,4 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

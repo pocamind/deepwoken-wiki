@@ -1,6 +1,6 @@
 ---
 title: "Smith's Bandana"
-revid: 219425
+revid: 222590
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -23,8 +23,12 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Duke Ishamon Erisia, Heart of Enmity, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Interluminary Parasol, The Diluvian Mechanism, Chime of Conflict, Artifact Turn-ins, Pure Erisore turn in |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Duke Ishamon Erisia, Heart of Enmity, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Interluminary Parasol, The Diluvian Mechanism, Chime of Conflict, Pure Erisore turn in |
 | description | ... |
+
+Smith's Set
+
+Variants: [Gloves](<Smith's_Gloves.md>) · [Goggles](<Smith's_Goggles.md>)
 
 ## Description
 

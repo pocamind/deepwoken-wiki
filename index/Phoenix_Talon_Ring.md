@@ -1,6 +1,6 @@
 ---
 title: Phoenix Talon Ring
-revid: 189912
+revid: 222250
 source: https://deepwoken.fandom.com/wiki/Phoenix_Talon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 
 | Phoenix Talon Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | N/A |
@@ -29,4 +29,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Phoenix Talon Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives the user 15 [Temporary Health](Status_Effects.md#temporary-health) if they land an Aerial Attack on an enemy who is currently attacking.
+The Phoenix Talon Ring is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Rings" cateogry.
+
+It gives the user 15 [Temporary Health](Status_Effects.md#temporary-health) if they land an Aerial Attack on an enemy who is currently attacking.

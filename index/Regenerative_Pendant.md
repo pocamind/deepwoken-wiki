@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 221817
+revid: 222451
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, 
 | type | Torso |
 | rarity | Rare |
 | selling price | N/A |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Tarnished, Unblemished |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, 
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted using a 1 Curseblood Pendant + 5 Curse of the No Life King Enchant Stones + 1 Parasol Membrane at the Lost Forge |
+| obtainment | Crafted using a 1 Curseblood Pendant + 5 Curse of the No Life King Enchant Stones + 1 Parasol Membrane at the Lost Forge of Leiuna |
 | description | ... |
 
 Variants: [Trueblood Pendant](Trueblood_Pendant.md)

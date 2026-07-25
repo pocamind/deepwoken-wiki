@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 210583
+revid: 222070
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics, Equipment wi
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +1 Legendary Pip |
 | innate talent | Elegy of Light |
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics, Equipment wi
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Ferryman, Scion of Ethiron, Lysander Spellhardt, Sold in Traan Zakshun's black market for 5 |
+| obtainment | The Ferryman, Scion of Ethiron, Lysander Spellhardt, Sold in Traan Zakshun's black market for 5 |
 | description | A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur. |
 
 ## Description

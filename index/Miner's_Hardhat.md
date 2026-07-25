@@ -1,6 +1,6 @@
 ---
 title: "Miner's Hardhat"
-revid: 220324
+revid: 222125
 source: https://deepwoken.fandom.com/wiki/Miner's_Hardhat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Helmets, Equipment wi
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 6 |
+| requirements | LVL 6 |
 | weight | 1 |
 | styles | Brass (Rookie, Roughneck), Steel (Rookie, Roughneck) |
 | innate stats | +1 Posture , +2 Rare Pips |

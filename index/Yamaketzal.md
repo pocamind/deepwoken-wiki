@@ -1,11 +1,9 @@
 ---
 title: Yamaketzal
-revid: 220123
+revid: 221996
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
 ---
 
 # Yamaketzal

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 202106
+revid: 222782
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
@@ -419,4 +419,4 @@ This event is **VERY RARE** and the odds of it happening are near zero. You have
 
 A special chest can spawn at a very rare chance. Upon opening, it will spawn either a [Megalodaunt](Megalodaunt.md), [Terrapod](Terrapod.md), [Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md).
 
--   There is no way to tell the difference from a normal chest.
+-   A white particle trail is emitted from mimic chests, as a way to differentiate them between normal chests. This may be hard to see while the chest is closed.

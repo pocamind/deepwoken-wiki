@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Eyepatch"
-revid: 220237
+revid: 222691
 source: https://deepwoken.fandom.com/wiki/Warrior's_Eyepatch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -21,12 +21,14 @@ categories: [Equipment, Face, Bandanas]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer, Starswept Valley, Aelita, The Ferryman (Winter) |
+| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Aelita, The Ferryman (Winter) |
 | description | ... |
 
 ## Description
 
-The Warrior's Eyepatch is an [Equipment](Equipment.md) item under the "Face" category. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) and in the [First Layer](First_Layer.md), and [Aelita](Aelita.md).
+The Warrior's Eyepatch is an [Equipment](Equipment.md) item under the "Face" category.
+
+It can be obtained in [Starswept Valley](The_Starswept_Valley.md) and in the [First Layer](First_Layer.md), and [Aelita](Aelita.md).
 
 ## Trivia
 

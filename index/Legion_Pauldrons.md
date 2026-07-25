@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 220503
+revid: 222052
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with T
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Starswept Valley, Songseeker Wilds, War Mode, Lodestar Bounty job, Maestro Evengarde Rest, Saramaed Hollow, Dread Serpent |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, War Mode, Lodestar Bounty job, Maestro Evengarde Rest, Saramaed Hollow, Dread Serpent |
 | description | ... |
+
+Legion Set
+
+Variants: [Helmet](Legion_Helmet.md) · [Boots](Legion_Boots.md)
 
 ## Description
 
@@ -35,4 +39,4 @@ The [Polite Awakening](Talents.md#polite-awakening) Talent recovers 15% of your 
 
 ## Trivia
 
--   Formerly known as "Khan Pauldrons."
+-   Formerly known as "Khan Pauldrons".

@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 221585
+revid: 222192
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings]
 
 | Armorer's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |

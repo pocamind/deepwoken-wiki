@@ -1,6 +1,6 @@
 ---
 title: "Sailor's Fleece"
-revid: 217131
+revid: 222784
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms]
@@ -21,7 +21,7 @@ categories: [Equipment with Styles, Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Voidsea events, Elder Primadon, Erisia, Dread Serpent, Summer Isle, The Depths FragmentOther:, Sold in Traan Zakshun's regular shop for 100 , Handing in Artifacts |
+| obtainment | Chests from:, Voidsea events, Elder Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Dread Serpent, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer IsleOther:, Sold in Traan Zakshun's regular stock for 100 , Handing in Artifacts |
 | description | A thick woolen fleece, somewhat scratchy in texture, commonly work by sailors in the East. When the Suncross falls into the voidfog the seas of Lumen get surprisingly chilly. |
 
 ## Description

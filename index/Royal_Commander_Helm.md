@@ -1,6 +1,6 @@
 ---
 title: Royal Commander Helm
-revid: 215860
+revid: 222512
 source: https://deepwoken.fandom.com/wiki/Royal_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Tal
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Royal Charge, Grasp On Reality |
 | bankable | No |
 | droppable | No |

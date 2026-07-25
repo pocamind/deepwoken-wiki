@@ -1,9 +1,9 @@
 ---
 title: Shock Trooper Plate
-revid: 217046
+revid: 222732
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Plates]
+categories: [Equipment with Styles, Equipment, Arms, Plates, Equipment of The Hundred Legions]
 ---
 
 # Shock Trooper Plate
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
 | styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +5 Health , +2 Rare Pips |
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise. |
 
 Shock Trooper Set

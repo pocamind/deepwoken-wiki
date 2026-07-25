@@ -1,9 +1,9 @@
 ---
 title: Winter Corps Boots
-revid: 214849
+revid: 222768
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots, Equipment of The Central Authority]
 ---
 
 # Winter Corps Boots
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Second Layer, Crypt of the Unbroken, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Heart of Enmity, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 Winter Corps Set

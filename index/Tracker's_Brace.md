@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 220303
+revid: 222734
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Braces]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
 | innate stats | +3 Health , +1 Posture , +2 Rare Pips |
 | innate talent | N/A |
@@ -23,8 +23,12 @@ categories: [Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, War Mode, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, War Mode, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
+
+Tracker's Set
+
+Variants: [Boots](<Tracker's_Boots.md>)
 
 ## Description
 

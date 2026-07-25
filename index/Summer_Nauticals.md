@@ -1,6 +1,6 @@
 ---
 title: Summer Nauticals
-revid: 215372
+revid: 222665
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Summer Isle (rare) |
+| obtainment | Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
 | description | Timeless eyewear produced by the Summer Company. In this world, it's drip or drown. You have no way of knowing if these are genuine. |
 
 ## Description
@@ -33,5 +33,5 @@ The Summer Nauticals are an [Equipment](Equipment.md) item under the "Face" cate
 
 -   When held, the lenses of the Nauticals can't be seen.
 -   If you dye the glasses, it **does** change the glass color.
--   The Summer Company icon can be seen on the top right of the right lens.
+-   The Summer Company [Summericonfaction](The_Summer_Company.md) icon can be seen on the top right of the right lens.
 -   The description suggest that these nauticals are really expensive and sought after cosmetic products in the Deepwoken universe, as people have gone as far as to making fake / knockoffs of these nauticals.

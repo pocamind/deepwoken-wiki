@@ -1,9 +1,9 @@
 ---
 title: Shock Trooper Helmet
-revid: 217045
+revid: 222730
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Head, Helmets]
+categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment of The Hundred Legions]
 ---
 
 # Shock Trooper Helmet
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | N/A |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +8 Health , +1 Rare Pip |
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story. |
 
 Shock Trooper Set

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 221208
+revid: 222695
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Tale
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Starswept Valley, Faction Ambushes (The Ignition Union), Miner's Landing, Primadon, Titan of the East, War Mode, Saramaed Hollow, Duke Ishamon Erisia, Chime of Conflict |
+| obtainment | Chests from:, The Starswept Valley, Miner's Landing, Faction Ambushes (The Ignition Union), Primadon, Titan of the East, War Mode, Saramaed Hollow, Duke Ishamon Erisia, Chime of Conflict |
 | description | An ancient cloak of incredible power. Worn by a select few. |
 
 Deepwoken Set
@@ -32,7 +32,7 @@ Variants: [Hood](Deepwoken_Hood.md)
 
 ## Description
 
-The Deepwoken Cloak is an [Equipment](Equipment.md) item under the Arms category.
+The Deepwoken Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Blade Dancer](Talents.md#blade-dancer) Talent resets your roll cooldown upon landing an M1.
 

@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 210769
+revid: 222465
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equi
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 20 |
+| requirements | LVL 20 |
 | weight | 1 |
 | innate stats | +3 Health , +1 Uncommon Pip |
 | innate talent | Repeated Blows |
@@ -21,7 +21,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equi
 | set talent | Lasting Trauma |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash. |
@@ -32,7 +32,9 @@ Variants: [Helmet](Reinforced_War_Helmet.md) · [Plate](Reinforced_War_Plate.md)
 
 ## Description
 
-The Evanspear War Boots are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots.
+The Evanspear War Boots are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set.
+
+The Evanspear War Boots are a set of green and yellow plated boots.
 
 The [Repeated Blows](Talents.md#repeated-blows) Talent will reset the cooldown of [Strength](Attunement-less.md#strength) Mantras when you land your weapon's critical if a [Wrath Gem](Wrath_Gem.md) is in effect. Wrath Gems last for 9s with a 10s CD. This Talent has no cooldown.
 
@@ -50,6 +52,6 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 1.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + 5 [Forge Needles](Forge_Needle.md) + 3 [Wrath Gems](Wrath_Gem.md).
 
-## Navigation
+## References
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

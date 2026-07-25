@@ -1,6 +1,6 @@
 ---
 title: Wormwarder Lantern
-revid: 221893
+revid: 222773
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Backpack, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

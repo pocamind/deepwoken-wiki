@@ -1,6 +1,6 @@
 ---
 title: Moon Brow Rings
-revid: 210633
+revid: 222174
 source: https://deepwoken.fandom.com/wiki/Moon_Brow_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for 35 Chests from:, First Layer, Upper Erisia, Voidsea, The Ferryman (Winter), Aelita |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Voidsea, The Ferryman (Winter), Aelita |
 | description | FEAR. IRONSINGERS. |
 
 _This page is about the [Face Equipment](Equipment.md#face). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

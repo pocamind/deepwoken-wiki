@@ -1,6 +1,6 @@
 ---
 title: Ministry Hunter Ring
-revid: 189914
+revid: 222259
 source: https://deepwoken.fandom.com/wiki/Ministry_Hunter_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 
 | Ministry Hunter Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | N/A |

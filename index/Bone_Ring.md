@@ -1,6 +1,6 @@
 ---
 title: Bone Ring
-revid: 220848
+revid: 222214
 source: https://deepwoken.fandom.com/wiki/Bone_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Rings, Relics, Equipment Relics, Equipment]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, Rings, Relics, Equipment Relics, Equipment]
 
 | Bone Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | LVL 15 |

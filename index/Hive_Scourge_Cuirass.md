@@ -1,6 +1,6 @@
 ---
 title: Hive Scourge Cuirass
-revid: 218928
+revid: 221983
 source: https://deepwoken.fandom.com/wiki/Hive_Scourge_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,15 +13,15 @@ categories: [Equipment, Arms, Cuirasses, Equipment with Talents, "Equipment with
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 2 |
-| innate stats | +5 Health , +2 Posture , +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +2 Posture , +1 Uncommon Pip , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Lowstride |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Maestro Evengarde Rest, Interluminary Parasol, Second Layer, Crypt of the Unbroken, Bought from Merchant Ships |
+| obtainment | Duke Ishamon Erisia, Maestro Evengarde Rest, Interluminary Parasol, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Bought from Merchant Ships |
 | description | ... |
 
 ## Description

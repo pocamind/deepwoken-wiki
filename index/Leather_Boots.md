@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 217224
+revid: 222028
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Fishing Loot, Echo Unlockables]
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Legs, Boots, Fishing Loot, Echo U
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fishing, Erisia, Brainsucker, First Layer, Other sources:, Starter Equipment Echo Unlock, Purchased from:, Bari or Seraphina for 15 , Tone or Cheruba in Vow of Iron for 15 |
+| obtainment | Chests from:, Fishing, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Other sources:, Starter Equipment Echo Unlock, Purchased from:, Bari or Seraphina for 15 , Tone or Cheruba in Vow of Iron for 15 |
 | description | A pair of worn leather boots. And they're your size! |
+
+Leather Set
+
+Variants: [Gloves](Leather_Gloves.md) · [Pauldrons](Leather_Pauldrons.md)
 
 ## Description
 

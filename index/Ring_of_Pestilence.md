@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 220538
+revid: 222478
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings]
 
 | Ring of Pestilence | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Rare |
 | selling price | 25 |
 | requirements | None |
@@ -21,14 +21,16 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Titan of the East, First Layer, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Your weapon applies 50% anti-heal for 10s. |
 
 ## Description
 
-**Ring Of Pestilence** is a Ring [Equipment](Equipment.md) piece, that applies 50% anti-heal status for 10 seconds to your opponents after hitting them with an M1 or critical attack.
+The Ring of Pestilence is an [Equipment](Equipment.md) item under the "Rings" category.
 
-If you have the [All the Dead Gods](Talents.md#all-the-dead-gods) Talent, your All the Dead Gods anti-heal duration will be increased by 4 seconds for having this ring equipped. Similarly, any Anti-Heal that is innately applied via a weapon critical (e.g. [Umbrite Witherblade](Umbrite_Witherblade.md)) has its Anti-Heal duration increased by 20% while wearing this ring.
+It applies 50% anti-heal status for 10 seconds to your opponents after hitting them with an M1 or critical attack.
+
+If you have the [All the Dead Gods](Talents.md#all-the-dead-gods) Talent, your All the Dead Gods Anti-Heal duration will be increased by 4 seconds for having this ring equipped. Similarly, any Anti-Heal that is innately applied via a weapon critical (e.g. [Umbrite Witherblade](Umbrite_Witherblade.md)) will have its duration increased by 20% while wearing this ring.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 220474
+revid: 222307
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Starter Outfits]
 | droppable | Yes |
 | durability | 1000 |
 | resistances | +15% Physical Armor , +10% Elemental Armor |
-| obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop 80 Chests from:, First Layer, Fishing, Lodestar Bounty job, Primadon (extremely rare)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular stock 80 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
@@ -37,7 +37,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1000 durability, grants +15% Physical resistance ResistancePhysical, and +10% Elemental resistance [ResistanceElemental](Attunements.md).
 
-## Trivia/Notes
+## Trivia
 
 -   Oddly enough, given the name, you can see [Karliah](Karliah.md) wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
 -   Used to be called "DawnBringer" long ago, some people might still have the schematic with such name.

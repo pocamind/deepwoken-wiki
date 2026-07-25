@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 218720
+revid: 221966
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -173,6 +173,8 @@ These optional quests are not essential to the main objective of clearing the se
 4.  Talk to him to gain the Talent.
 
 ### [Bloodrend](../Bloodrend.md) Obtainment
+
+-   **IN ORDER FOR VYRELDA TO SPAWN, YOU MUST KILL CHASER.**
 
 1.  Get To Firfire as usual.
 2.  Inside an Igloo is the trainer, [Vyrelda](../Vyrelda,_Master_of_Blood.md).

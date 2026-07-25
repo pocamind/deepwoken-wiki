@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 218835
+revid: 222536
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso, Scarves]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
-| innate stats | +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Sandrunner Wraps, Sandrunner Scarf |
 | set talent | N/A |
@@ -23,8 +23,12 @@ categories: [Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Chaser, Scholar of the Crimson Contract |
+| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Chaser, Scholar of the Crimson Contract |
 | description | ... |
+
+Sandrunner Set
+
+Variants: [Wraps](Sandrunner_Wraps.md)
 
 ## Description
 

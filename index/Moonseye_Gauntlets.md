@@ -1,6 +1,6 @@
 ---
 title: Moonseye Gauntlets
-revid: 215805
+revid: 222270
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves]
@@ -13,15 +13,15 @@ categories: [Equipment, Arms, Gloves]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 2 |
-| innate stats | +7 Health , +3 Posture , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +7 Health , +3 Posture , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Maestro Evengarde Rest, The Diluvian Mechanism, Random Encounters (Sea Events) |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Maestro Evengarde Rest, The Diluvian Mechanism |
 | description | Gauntlets fashioned with a Moonseye motif. The watchful eye of gloamdark sky, the Moonseye has long been associated with life, death, and rebirth. In the Southern Luminant, the Moonseye was thought of as a lens through which one's dearly departed ancestors might view them from the afterlife. Moonseye charms were often woven into clothing to remember the fallen. Some organised gangs in the City of Celtor would refrain from committing crimes in the view of the Moonseye, on the premise that their ancestors were watching. Of course, dark alleyways and warehouses are often free from its gaze. |
 
 _This page is about the [Pathfinder](Pathfinder.md) arms equipment. For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
@@ -30,8 +30,6 @@ Variants: [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>)
 
 ## Description
 
-The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category. It is a pair of two metal gauntlets bearing many symbols of the [Moonseye](Moonseye.md) on it. It exposes a part of the fist and does not fully cover the arms equipment area, only covering the hands.
+The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category.
 
-## Trivia
-
--   Other Gloves: [Glassdancer Wraps](Glassdancer_Wraps.md), [Smith's Gloves](<Smith's_Gloves.md>), [Leather Gloves](Leather_Gloves.md), [Ignition Gauntlets](Ignition_Gauntlets.md)
+It is a pair of two metal gauntlets bearing many symbols of the [Moonseye](Moonseye.md) on it. It exposes a part of the fist and does not fully cover the arms equipment area, only covering the hands.

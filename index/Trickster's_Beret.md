@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Beret"
-revid: 221724
+revid: 222738
 source: https://deepwoken.fandom.com/wiki/Trickster's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talent
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | innate stats | +3 Health , +10 Ether , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Jester's Ruse, Cap Artist |
@@ -21,10 +21,10 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talent
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Nautilodaunt Officiate, Songseeker Wilds, Minityrsa |
+| obtainment | Nautilodaunt Officiate, Songseeker Wilds, Minityrsa, Sold in Naan Zakshun's black market for 3,000 |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
 
-Variants: [Tillian's Beret](<Tillian's_Beret.md>) · [Jester's Beret](<Jester's_Beret.md>)
+Variants: [Jester's Beret](<Jester's_Beret.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

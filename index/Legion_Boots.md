@@ -1,6 +1,6 @@
 ---
 title: Legion Boots
-revid: 220255
+revid: 222048
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | styles | Brushed, Galvanized |
 | innate stats | +3 Health , +2 Rare Pips |
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Aratel Island, Starswept Valley, Brainsucker, Deep Widow, Maestro Evengarde Rest, Heart of Enmity, War Mode |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Deep Widow, Maestro Evengarde Rest, Heart of Enmity, War Mode |
 | description | ... |
+
+Legion Set
+
+Variants: [Helmet](Legion_Helmet.md) · [Pauldrons](Legion_Pauldrons.md)
 
 ## Description
 
@@ -34,4 +38,4 @@ The Legion Boots are an [Equipment](Equipment.md) item under the "Legs" category
 ## Trivia
 
 -   Worn by NPCs belonging to [The Hundred Legions](The_Hundred_Legions.md).
--   Formerly known as "Khan Boots."
+-   Formerly known as "Khan Boots".

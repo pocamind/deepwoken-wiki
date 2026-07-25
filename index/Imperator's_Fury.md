@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 221190
+revid: 222349
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces, Equipment with Talents, Equipment with
 | type | Torso |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | Brute Strength |
@@ -34,12 +34,12 @@ This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md
 
 ## Trivia
 
--   This has 6.48x PvE scaling (226.8 PvE damage without Perfection stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent.
--   Despite being a "Common" rarity item, it is estimated to have about a 0.1% droprate and still costs Knowledge to unbank.
+-   This has 6.48x PvE scaling (226.8 PvE damage without [Perfection](Status_Effects.md#perfection) stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent.
 -   The damage Brute Strength deals cannot be increased with damage modifiers.
+    -   [Cold Front](Talents.md#cold-front) and [Dark Pearls](Dark_Pearls.md) still apply however.
+-   Affected by general PEN, such as [Strength](Attributes.md#str) investment, [Prophet's Cloak](<Prophet's_Cloak.md>), or having an [Oath](Oaths.md).
 -   This item's previously used the Warmaster's Medallion model before receiving its own unique model.
 -   This ability is used by [Titus](Titus_Fulminus_Destellus.md).
 -   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after items.
+-   Despite being a "Common" rarity item, it is estimated to have about a 0.1% droprate and still costs Knowledge to unbank.
 -   Due to a bug or oversight, Imperator's Fury was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relics.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.
--   While not directly affected by damage modfiers, sources of damage directly related to vent will affect it, meaning Cold Front will increase the damage by 30% and dark perals will increase the damage by 40%
--   Affected by Pen given from sources that are "typeless" like prophets cloak and pen given directly by strength

@@ -1,6 +1,6 @@
 ---
 title: "Trunk's Clutch Ring"
-revid: 210884
+revid: 222743
 source: https://deepwoken.fandom.com/wiki/Trunk's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | type | Ring |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.1 |
 | innate stats | N/A |
 | bankable | No |
@@ -35,4 +35,4 @@ Trunk's Clutch ring massively increases your damage when your health drops below
 
 ## Trivia
 
-The ring is based off of a player, [Trunks](https://www.youtube.com/@shadowking1916) also known as shadowking1916. He was [Agamatsu](https://www.youtube.com/@Agamatsu)'s duo uring the CC [Lightborn](Lightborn.md) tournament, and succeeded in a 1v2 against [Nogo](https://www.youtube.com/@nogo) and [Floppingman](https://www.youtube.com/@Floppingman).
+-   The ring is named after a player, [Trunks](https://www.youtube.com/@shadowking1916) also known as shadowking1916. He was [Agamatsu](https://www.youtube.com/@Agamatsu)'s duo uring the CC [Lightborn](Lightborn.md) tournament, and succeeded in a 1v2 against [Nogo](https://www.youtube.com/@nogo) and [Floppingman](https://www.youtube.com/@Floppingman).

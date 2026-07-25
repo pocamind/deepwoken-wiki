@@ -1,6 +1,6 @@
 ---
 title: Geta
-revid: 221271
+revid: 221946
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]

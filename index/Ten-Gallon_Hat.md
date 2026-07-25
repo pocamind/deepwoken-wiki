@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 220497
+revid: 222701
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -23,14 +23,16 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Primadon, Titan of the East, Duke Ishamon Erisia, Bounties, Lodestar Bounty job, Fishing, Saramaed Hollow, Deep Widow |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Primadon, Titan of the East, Duke Ishamon Erisia, Bounties, Lodestar Bounty job, Fishing, Saramaed Hollow, Deep Widow |
 | description | ... |
+
+Ten-Gallon Set
+
+Variants: [Bandana](Ten-Gallon_Bandana.md)
 
 ## Description
 
-The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category.
-
-It's a wide-brimmed cowboy hat.
+The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category. It's a very wide-brimmed hat, similarly designed to the western hats in the real-world.
 
 ## Trivia
 

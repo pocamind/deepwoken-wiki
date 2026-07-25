@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 214357
+revid: 222510
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Scaling Rings, The Summer Company]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings, Scaling Rings, The Summer Company]
 
 | Rosen's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | N/A |
@@ -20,12 +20,14 @@ categories: [Equipment, Rings, Scaling Rings, The Summer Company]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Etris: Siege, The Doom of Caeranthil, Summer Isle (Extremely Rare), Duke Ishamon Erisia (Very Rare), Second Layer, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands, Saramaed Hollow, Pure Ore Turn-ins (Extremely Rare), Maestro Evengarde Rest, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Cinders of Etris, The Doom of Caeranthil, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Interluminary Parasol, Saramaed Hollow, Pure Ore Turn-ins, Maestro Evengarde Rest, Ancient Rotlands (Deep Cave) |
 | description | A ring once worn by a genius inventor. Said to have been discarded once he turned to other methods of inspiration. +1.2 INT scaling to all weapons. |
 
 ## Description
 
-**Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your weapon.
+Rosen's Ring is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It adds 1.2 Intelligence scaling to your weapon.
 
 Having more than one scaling ring equipped at the same time will lessen their effectiveness.
 

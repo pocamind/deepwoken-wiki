@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 221551
+revid: 222514
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -789,7 +789,6 @@ N/A
 -   Grants a speed boost for 10/12/14/16/18[/20/22/24](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
 -   Has a cooldown of 60/55/50/45/40[/35/30/25](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
 -   Counts as a [Speed Boost](Status_Effects.md#speed-boost), meaning it can proc all speed boost reliant Talents.
--   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
 -   Can be upgraded with the [Action Surge](Talents.md#action-surge) Talent, increasing the swing speed of all weapons by 0.04 while Adrenaline Surge is active.
 
  |

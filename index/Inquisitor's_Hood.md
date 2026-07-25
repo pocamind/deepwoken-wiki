@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Hood"
-revid: 221783
+revid: 221985
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -16,13 +16,13 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | requirements | LVL 5 |
 | weight | 1 |
 | styles | Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan, Vermilion |
-| innate stats | 1 |
+| innate stats | +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), The Starswept Valley, Fishing |
+| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Fishing |
 | description | A shroud worn proudly by the rank-and-file members of the Central Authority Inquisition. Often deployed individually behind enemy lines, Inquisitors are an invaluable tool to the Central Authority, excelling in acts of espionage, sabotage, and subterfuge. |
 
 ## Description

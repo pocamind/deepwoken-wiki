@@ -1,6 +1,6 @@
 ---
 title: Void Ring
-revid: 211122
+revid: 222585
 source: https://deepwoken.fandom.com/wiki/Void_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -10,10 +10,11 @@ categories: [Vow of Iron Exclusive, Equipment, Rings]
 
 | Void Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Common |
 | selling price | 7 |
 | weight | 0.1 |
+| innate stats | +1 Common Pip |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
@@ -27,9 +28,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Void Ring allows the wearer to stay in [the Depths](The_Depths.md) for longer before gaining [Afflictions](<The_Depths_(Vow_of_Iron).md#afflictions>).
+Void Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
-## Obtainment
+It allows the wearer to stay in [the Depths](The_Depths.md) for longer before gaining [Afflictions](<The_Depths_(Vow_of_Iron).md#afflictions>).
 
 The Void Ring can be obtained from its fixed spawn location, which appears atop a small rocky island within the [Voidsea](Voidsea.md), east of [Etris](<Etris_(Vow_of_Iron).md>).
 

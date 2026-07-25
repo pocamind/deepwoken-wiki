@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Robes
-revid: 217017
+revid: 222762
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms]
@@ -13,18 +13,18 @@ categories: [Equipment with Styles, Equipment, Arms]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
 | styles | Mountain, Tundra, Valley |
-| innate stats | +3 Posture , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +3 Posture , +1 Rare Pip , +1 Legendary Pip |
 | set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
-| description | In the Hundred Legion's territory, stealing is considered worse than murder. To kill is to live by a code and fight with honor; but a thief has no place among soldiers. |
+| obtainment | Titus Fulminus Destellus |
+| description | In the Hundred Legion's [sic] territory, stealing is considered worse than murder. To kill is to live by a code and fight with honor; but a thief has no place among soldiers. |
 
 Western Outlaw Set
 

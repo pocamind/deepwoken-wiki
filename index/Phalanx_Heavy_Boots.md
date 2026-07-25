@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 218502
+revid: 222378
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
-| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Phalanx Helmet, Legion Phalanx Plate, Phalanx Heavy Boots |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Duke Ishamon Erisia, The Doom of Caeranthil, Maestro Evengarde Rest, Dread Serpent, War Mode, Erisore turn ins, Saramaed Hollow |
+| obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, The Doom of Caeranthil, Maestro Evengarde Rest, Dread Serpent, War Mode, Erisore turn ins, Saramaed Hollow |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Jadeite Megalodaunt
-revid: 221355
+revid: 222107
 source: https://deepwoken.fandom.com/wiki/Jadeite_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso]
 | type | Torso |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +2 Legendary Pips |
 | innate talent | Good Luck Charm |
@@ -26,9 +26,11 @@ categories: [Equipment, Torso]
 
 ## Description
 
-The Jadeite Megalodaunt is an [Equipment](Equipment.md) item under the "Torso" category. It is a waist-worn Megalodaunt charm made out of jade.
+The Jadeite Megalodaunt is an [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Good Luck Charm](Talents.md#good-luck-charm) Talent has an unknown effect; "Makes you feel a little better, probably."
+It is a waist-worn Megalodaunt charm made out of jade.
+
+The [Good Luck Charm](Talents.md#good-luck-charm) Talent may improve chance based talents and equipment favorably; "Makes you feel a little better, probably."
 
 ## Trivia
 

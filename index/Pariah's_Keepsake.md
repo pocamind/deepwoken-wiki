@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 220425
+revid: 222338
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings, The Divers]
 
 | Pariah's Keepsake | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Rare |
 | selling price | 25 |
 | requirements | N/A |
@@ -20,12 +20,14 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Deep Widow, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Ancient Rotlands (Deep Cave) |
+| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Deep Widow, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Ancient Rotlands (Deep Cave) |
 | description | You deal +20% extra damage to factions who hate you. |
 
 ## Description
 
-Pariah's Keepsake grants the user 20% increased damage against factions that hate them upon being equipped. The damage buff only applies to humanoid NPCs.
+Pariah's Keepsake is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It grants the user 20% increased damage against factions that hate them upon being equipped. The damage buff only applies to humanoid NPCs.
 
 ## Trivia
 

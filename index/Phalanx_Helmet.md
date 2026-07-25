@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 220301
+revid: 222381
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 1 |
-| innate stats | +3 Health , +1 Rare Pip, +1 Legendary Pips |
+| innate stats | +3 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Precise Swing |
 | set | Phalanx Helmet, Legion Phalanx Plate, Phalanx Heavy Boots |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Saramaed Hollow, Deep Widow |
+| obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Saramaed Hollow, Deep Widow |
 | description | ... |
 
 ## Description

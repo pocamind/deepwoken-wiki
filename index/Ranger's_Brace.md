@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 218862
+revid: 222419
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Braces]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
 | innate stats | +3 Health , +1 Posture , +2 Rare Pips |
 | innate talent | N/A |
@@ -23,11 +23,15 @@ categories: [Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Artifacts, Blacksteel Pirate, Duke Ishamon Erisia, Erisia, Hell Mode, Maestro Evengarde Rest, Dread Serpent, Chaser |
+| obtainment | Chests From:, Blacksteel Pirate, Duke Ishamon Erisia, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Hell Mode, Maestro Evengarde Rest, Dread Serpent, Chaser, Scholar of the Crimson Contract |
 | description | ... |
 
 Variants: [Veteran Ranger's Brace](<Veteran_Ranger's_Brace.md>)
 
+Ranger's Set
+
+Variants: [Boots](<Ranger's_Boots.md>)
+
 ## Description
 
-The Ranger's Brace is an [Equipment](Equipment.md) item under the Arms category.
+The Ranger's Brace is an [Equipment](Equipment.md) item under the "Arms" category.

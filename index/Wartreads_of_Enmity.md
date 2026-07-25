@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 219024
+revid: 222684
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Boots]
@@ -28,7 +28,9 @@ categories: [Equipment, Boots]
 
 ## Description
 
-The Wartreads of Enmity are an Unique [Equipment](Equipment.md) item under the "Legs" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
+The Wartreads of Enmity are an [Equipment](Equipment.md) item under the "Legs" category.
+
+They are obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 

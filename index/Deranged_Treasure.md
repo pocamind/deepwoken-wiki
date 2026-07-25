@@ -1,6 +1,6 @@
 ---
 title: Deranged Treasure
-revid: 220947
+revid: 222233
 source: https://deepwoken.fandom.com/wiki/Deranged_Treasure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 
 | Deranged Treasure | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | weight | 0.1 |

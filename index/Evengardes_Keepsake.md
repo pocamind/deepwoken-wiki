@@ -1,6 +1,6 @@
 ---
 title: Evengardes Keepsake
-revid: 221236
+revid: 222222
 source: https://deepwoken.fandom.com/wiki/Evengardes_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 
 | Evengardes Keepsake | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | N/A |

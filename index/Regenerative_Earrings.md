@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 219838
+revid: 222449
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,10 +13,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craft
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 0.1 |
 | styles | Tarnished (Gold, Silver), Unblemished (Gold, Silver) |
-| innate stats | +5 Ether +1 Rare Pip |
+| innate stats | +5 Ether , +1 Rare Pip |
 | innate talent | Blood Convergence |
 | set | Regenerative Pendant, Regenerative Earrings |
 | set talent | Critical Heal |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craft
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted with 1 Old Blood Earrings + 5 Vampirism Enchant Stones + 1 Parasol Membrane at the Lost Forge |
+| obtainment | Crafted with 1 Old Blood Earrings + 5 Vampirism Enchant Stones + 1 Parasol Membrane at the Lost Forge of Leiuna |
 | description | Wearing these fills you with a newfound sense of vitality. |
 
 Variants: [Trueblood Earrings](Trueblood_Earrings.md)
@@ -39,7 +39,9 @@ Variants: [Pendant](Regenerative_Pendant.md)
 
 ## Description
 
-The Regenerative Earrings are an [Equipment](Equipment.md) item found under the "Ears" category. The Regenerative Earrings is similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
+The Regenerative Earrings are an [Equipment](Equipment.md) item found under the "Ears" category.
+
+The Regenerative Earrings is similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
 
 The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more healing from all healing sources when you have [Temporary Health](Status_Effects.md#temporary-health).
 

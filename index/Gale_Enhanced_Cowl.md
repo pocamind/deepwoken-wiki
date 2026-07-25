@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 221266
+revid: 221930
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment 
 | set talent | N/A |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
 | obtainment | Crafting 1 Monastery Cowl + 1 Gale Essence + 1 Bluster Enchant Stone at Lost Forge |
 | description | ... |
@@ -40,6 +40,8 @@ The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown up
 
 This is the [Pathfinder](Pathfinder.md) equivalent of the [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md).
 
+  
+
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

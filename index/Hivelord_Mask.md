@@ -1,6 +1,6 @@
 ---
 title: Hivelord Mask
-revid: 220299
+revid: 221968
 source: https://deepwoken.fandom.com/wiki/Hivelord_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,14 +21,16 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hive Constructs, Chime of Conflict, The Depths, Chaser, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, The Diluvian Mechanism |
+| obtainment | Hive Construct, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chaser, Duke Ishamon Erisia, Maestro Evengarde Rest, Dread Serpent, The Diluvian Mechanism |
 | description | An ancient mask of a lost Hivelord, now a relic. |
 
 ## Description
 
-The Hivelord Mask is an [Equipment](Equipment.md) item under the "Face" category. The Hivelord Mask is a sand-colored ovular mask with five spike jutting out from the top, gradually tapering into a point. Two eyes and an irregular nose shape are painted onto the mask. When worn, the Hivelord Mask completely covers the wearer's face.
+The Hivelord Mask is an [Equipment](Equipment.md) item under the "Face" category.
+
+The Hivelord Mask is a sand-colored ovular mask with five spike jutting out from the top, gradually tapering into a point. Two eyes and an irregular nose shape are painted onto the mask. When worn, the Hivelord Mask completely covers the wearer's face.
 
 ## Trivia
 
--   Appears to be heavily inspired off of the **SKT T1 JHIN** skin from _League of Legends_.
--   Use to be worn by [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) before their remodel albeit the red version.
+-   Appears to be heavily inspired by the **SKT T1 JHIN** skin from _League of Legends_.
+-   Used to be worn by [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) before their remodel albeit the red version.

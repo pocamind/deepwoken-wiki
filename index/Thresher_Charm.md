@@ -1,6 +1,6 @@
 ---
 title: Thresher Charm
-revid: 220408
+revid: 222721
 source: https://deepwoken.fandom.com/wiki/Thresher_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:The Starswept Valley |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
 | description | An old charm engraved by the ancient denizens of Aratel. Beneath the shifting sands, countless artifacts remain lost to time. |
 
 ## Description

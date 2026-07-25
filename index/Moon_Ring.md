@@ -1,6 +1,6 @@
 ---
 title: Moon Ring
-revid: 220528
+revid: 222278
 source: https://deepwoken.fandom.com/wiki/Moon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings]
 
 | Moon Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |
@@ -20,14 +20,16 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aelita, The Ferryman, Duke Ishamon Erisia, First Layer, The Doom of Caeranthil, Second Layer, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands (Deep Cave), Moon's Eyrie, Lodestar Bounty job, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Starswept Valley, Saramaed Hollow |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Aelita, The Ferryman, Duke Ishamon Erisia, The Doom of Caeranthil, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands (Deep Cave), Moon's Eyrie, Lodestar Bounty job, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow |
 | description | A deceptive ring that conceals one's true age. Greatly sought after by vain misers. |
 
 _This page is about the [Ring](Equipment.md#rings) equipment. For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 
-The **Moon Ring** is a Ring [Equipment](Equipment.md) piece that conceals your character's age, making you appear under 40 (pre-Stage 1 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md).
+The Moon Ring is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It conceals your character's age, making you appear under 40 (pre-Stage 1 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md).
 
 ## Trivia
 

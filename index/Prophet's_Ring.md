@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Ring"
-revid: 220529
+revid: 222399
 source: https://deepwoken.fandom.com/wiki/Prophet's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Ministry, Scaling Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings, The Ministry, Scaling Rings]
 
 | Prophet's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | N/A |
@@ -20,16 +20,17 @@ categories: [Equipment, Rings, The Ministry, Scaling Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Duke Ishamon Erisia (Very Rare), Second Layer, The Doom of Caeranthil, Ancient Rotlands, Interluminary Parasol, Lodestar Bounty job, Maestro Evengarde Rest, Elder Primadon, The Titan Warlord, Chime of Conflict, Trading with Jeremiah, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Doom of Caeranthil, Ancient Rotlands, Interluminary Parasol, Lodestar Bounty job, Maestro Evengarde Rest, Elder Primadon, The Titan Warlord, Chime of Conflict, Trading with Jeremiah, Ancient Rotlands (Deep Cave) |
 | description | Once worn by the fanatical followers of a self-proclaimed Prophet from the Southern Luminant. The Shocks Corps were called in to intervene to prevent catastrophe, but upon their arrival the Prophet was nowhere to be found. +1.2 CHA scaling to all weapons. |
 
 ## Description
 
-**Prophets's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Charisma Scaling to your weapon.
+The Prophet's Ring is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It adds 1.2 Charisma Scaling to your weapon.
 
 Having more than one scaling ring equipped at the same time will lessen their effectiveness.
 
 ## Trivia
 
--   The self-proclaimed Prophet refers to the Prophet behind the [great drowning](Lore.md) of The city of Celtor.
 -   The other Weapon Scaling Rings are the following: [Rosen's Ring](<Rosen's_Ring.md>), [Akira's Ring](<Akira's_Ring.md>), [Maestro's Ring](<Maestro's_Ring.md>), [Dawnfist's Ring](<Dawnfist's_Ring.md>).

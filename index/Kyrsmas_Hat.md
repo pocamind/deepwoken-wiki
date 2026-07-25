@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas Hat
-revid: 210519
+revid: 222027
 source: https://deepwoken.fandom.com/wiki/Kyrsmas_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Head, Hats, Event Item]
@@ -17,7 +17,7 @@ notices:
 | selling price | N/A |
 | requirements | None |
 | weight | 1 |
-| innate stats | +10 Health , +1 Posture , +1 Legendary Pips |
+| innate stats | +10 Health , +1 Posture , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +28,9 @@ notices:
 
 ## Description
 
-The **Kyrsmas Hat** is a Unique, Event [Equipment](Equipment.md) Item found under the _"Head"_ category. This item is only obtainable during the [Kyrsmas Event](Kyrsmas.md), being rarely obtained from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and the [Scion of Ethiron](Scion_of_Ethiron.md).
+The **Kyrsmas Hat** is a Unique, Event [Equipment](Equipment.md) Item found under the "Head" category.
+
+This item is only obtainable during [Kyrsmas](Kyrsmas.md), being rarely obtained from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) and the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 The hat itself resembles a typical Christmas / Santa Hat, _(while taking upon a blurple hue),_ and has a miniature [Frozen Membrane](Frozen_Membrane.md) bauble on its closure, which emits particles, and it dyes alongside the hat itself when [Armor Dye](Dye_Packet.md) is used on it.
 

@@ -1,6 +1,6 @@
 ---
 title: Oni Beads
-revid: 215057
+revid: 222146
 source: https://deepwoken.fandom.com/wiki/Oni_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
@@ -32,7 +32,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Oni Beads are a [Vow of Iron](Vow_of_Iron.md)\-exclusive equipment under the Torso category, a bloodshed version of the [Monastery Beads](Monastery_Beads.md).
+The Oni Beads are an [Equipment](Equipment.md) item under the "Torso" category.
+
+A bloodshed version of the [Monastery Beads](Monastery_Beads.md).
 
 ## Trivia
 

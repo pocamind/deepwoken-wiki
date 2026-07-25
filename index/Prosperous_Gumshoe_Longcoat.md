@@ -1,6 +1,6 @@
 ---
 title: Prosperous Gumshoe Longcoat
-revid: 218598
+revid: 222403
 source: https://deepwoken.fandom.com/wiki/Prosperous_Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,6 +32,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Gumshoe Longcoat is an [Equipment](Equipment.md) item under the "Arms" category.
+The Prosperous Gumshoe Longcoat is an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [The Rich Get Richer](Talents.md#the-rich-get-richer) Talent increases the Note gain from selling things by 15%.

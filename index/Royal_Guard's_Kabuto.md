@@ -1,6 +1,6 @@
 ---
 title: "Royal Guard's Kabuto"
-revid: 217161
+revid: 222516
 source: https://deepwoken.fandom.com/wiki/Royal_Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets]
@@ -13,23 +13,22 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | styles | Mamba, Royal Guard |
-| innate stats | +8 Health , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +8 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Primadon |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Primadon |
 | description | ... |
 
 ## Description
 
-The Royal Guard's Kabuto is an Equipment Armor in the "Head" category.
+The Royal Guard's Kabuto is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
--   The Royal Guard's Kabuto, along with the [Captain's Kabuto](<Captain's_Kabuto.md>), and [Guard's Kabuto](<Guard's_Kabuto.md>) are almost the same Equipment Armor, with only slightly different colors.
--   Most likely a reference to Genichiro Ashina from Sekiro: Shadows Die Twice.
+-   The Royal Guard's Kabuto, along with the [Captain's Kabuto](<Captain's_Kabuto.md>), and [Guard's Kabuto](<Guard's_Kabuto.md>) are almost the same Equipment item, with only slightly different colors.

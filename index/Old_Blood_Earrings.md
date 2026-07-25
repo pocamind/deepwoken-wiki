@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 220314
+revid: 222305
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,13 +15,13 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | LVL 5 |
 | weight | 0.1 |
-| innate stats | +5 Ether +2 Rare Pips |
+| innate stats | +5 Ether , +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Chaser, Scholar of the Burning Blood, First Layer, Second Layer, The Doom of Caeranthil, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode, Sea Events |
+| obtainment | Chests from:, Chaser, Scholar of the Burning Blood, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Doom of Caeranthil, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode |
 | description | ... |
 
 ## Description

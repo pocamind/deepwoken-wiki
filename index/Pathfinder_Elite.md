@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 218876
+revid: 222346
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Equipment, Arms, Drops, Coats]
@@ -15,9 +15,9 @@ notices:
 | type | Arms |
 | rarity | Rare |
 | selling price | 50 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
-| innate stats | +5% Damage Vs Monsters, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5% Damage Vs Monsters, +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

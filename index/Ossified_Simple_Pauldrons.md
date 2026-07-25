@@ -1,6 +1,6 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 221754
+revid: 222334
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,9 +19,9 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipm
 | innate talent | Simple Buff |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
-| obtainment | Crafting 1 Simple Pauldrons + 1 Ethereal Osseous Plate +1 Shiva's Codex in the Lost Forge |
+| obtainment | Crafting 1 Simple Pauldrons + 1 Ethereal Osseous Plate +1 Shiva's Codex in the Lost Forge of Leiuna |
 | description | Either they're of low complexity or someone's in need of a punch. |
 
 Variants: [Super Simple Pauldrons](Super_Simple_Pauldrons.md)
@@ -40,4 +40,4 @@ The [Simple Buff](Talents.md#simple-buff) Talent grants a 7.5% damage buff to M1
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

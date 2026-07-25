@@ -1,6 +1,6 @@
 ---
 title: Ossified Barrel Helm
-revid: 220927
+revid: 222313
 source: https://deepwoken.fandom.com/wiki/Ossified_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Equipment, Helmets, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -18,9 +18,9 @@ categories: [Pathfinder Exclusive, Head, Equipment, Helmets, Craftable, Equipmen
 | innate talent | Tenacity |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
-| obtainment | Crafting 1 Barrel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate at the Lost Forge |
+| obtainment | Crafting 1 Barrel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate at the Lost Forge of Leiuna |
 | description | A sturdy helmet shaped like a barrel. |
 
 Variants: [Hardened Barrel Helm](Hardened_Barrel_Helm.md)
@@ -35,6 +35,6 @@ The Ossified Barrel Helm is an **unenchantable**[\[1\]](#cite-note-unenchantable
 
 The [Tenacity](Talents.md#tenacity) Talent heavily reduces guardbreak stun duration.
 
-## Navigation
+## References
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

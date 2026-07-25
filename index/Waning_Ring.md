@@ -1,6 +1,6 @@
 ---
 title: Waning Ring
-revid: 220530
+revid: 222754
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings]
 
 | Waning Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |
@@ -20,12 +20,14 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Understrand, Saramaed Hollow, Aelita, The Ferryman, The Doom of Caeranthil, Duke Ishamon Erisia, First Layer, Interluminary Parasol, Second Layer, Ancient Rotlands (Deep Cave), Moon's Eyrie, Lodestar Bounty job, Primadon, Titan of the East, Maestro Evengarde Rest, The Diluvian Mechanism |
+| obtainment | The Understrand, Saramaed Hollow, Aelita, The Ferryman, The Doom of Caeranthil, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Interluminary Parasol, Ancient Rotlands (Deep Cave), Moon's Eyrie, Lodestar Bounty job, Primadon, Titan of the East, Maestro Evengarde Rest, The Diluvian Mechanism |
 | description | A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike. |
 
 ## Description
 
-The **Waning Ring** is a Ring [Equipment](Equipment.md) piece that conceals your character's [age](Age.md), making you appear over 70 (Stage 4 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md).
+The Waning Ring is an [Equipment](Equipment.md) item under the "Rings" category.
+
+The ring conceals your character's [age](Age.md), making you appear over 70 (Stage 4 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md).
 
 ## Trivia
 

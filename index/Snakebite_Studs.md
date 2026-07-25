@@ -1,6 +1,6 @@
 ---
 title: Snakebite Studs
-revid: 210639
+revid: 222599
 source: https://deepwoken.fandom.com/wiki/Snakebite_Studs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for 35 Chests from:, First Layer, Valley of Heroes, The Ferryman (Winter), Aelita |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Valley of Heroes, The Ferryman (Winter), Aelita |
 | description | That's metal. |
 
 ## Description

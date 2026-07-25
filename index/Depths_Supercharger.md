@@ -1,6 +1,6 @@
 ---
 title: Depths Supercharger
-revid: 220944
+revid: 222232
 source: https://deepwoken.fandom.com/wiki/Depths_Supercharger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 
 | Depths Supercharger | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | N/A |

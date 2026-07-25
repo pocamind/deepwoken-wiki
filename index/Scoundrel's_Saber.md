@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 220822
+revid: 222108
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals, Weapons with Talents]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for 650 |
+| obtainment | Sold in Traan Zakshun's regular stock for 650 |
 | description | A sturdy Celtorian saber with a weighted pommel, once wielded by Traan Zakshun. Known for feints and dirty tricks, he struck foes with the heavy pommel as often as the blade. |
 
 ## Description

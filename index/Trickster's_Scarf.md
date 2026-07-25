@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Scarf"
-revid: 218028
+revid: 222739
 source: https://deepwoken.fandom.com/wiki/Trickster's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves, Equipment with Styles]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Scarves, Equipment with Styles]
 | type | Torso |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | Power 7 |
+| requirements | LVL 7 |
 | weight | 0.5 |
 | innate stats | +2 Legendary Pips |
 | innate talent | N/A |

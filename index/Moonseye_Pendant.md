@@ -1,6 +1,6 @@
 ---
 title: Moonseye Pendant
-revid: 217944
+revid: 222273
 source: https://deepwoken.fandom.com/wiki/Moonseye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,14 +13,14 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Depths, Sea Events |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | description | A simple silver pendant in the likeness of the Moonseye. Wearing such a pendant is a sign of mourning in many cultures, a holdover from the Old World. |
 
 _This page is about the torso [Equipment](Equipment.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

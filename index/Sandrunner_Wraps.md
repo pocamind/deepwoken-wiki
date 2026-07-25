@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 220315
+revid: 222538
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
-| innate stats | +6 Health , +4% Stealth , +8% Fire Armor , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +6 Health , +4% Stealth , +8% Fire Armor , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Kick Off |
 | set | Sandrunner Wraps, Sandrunner Scarf |
 | set talent | N/A |
@@ -23,8 +23,12 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Maestro Evengarde Rest, First Layer, War Mode, Interluminary Parasol, Saramaed Hollow |
+| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Maestro Evengarde Rest, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, War Mode, Interluminary Parasol, Saramaed Hollow |
 | description | ... |
+
+Sandrunner Set
+
+Variants: [Scarf](Sandrunner_Scarf.md)
 
 ## Description
 

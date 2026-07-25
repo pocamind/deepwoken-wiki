@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 220507
+revid: 222300
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,17 +23,17 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, First Layer, Lodestar Bounty job, Maestro Evengarde Rest, Dread Serpent, War Mode, Saramaed Hollow, Deep Widow |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Lodestar Bounty job, Maestro Evengarde Rest, Dread Serpent, War Mode, Saramaed Hollow, Deep Widow |
 | description | ... |
 
 Variants: [Beginner's Boots](<Beginner's_Boots.md>)
+
+Novice Set
+
+Variants: [Brace](Novice_Brace.md)
 
 ## Description
 
 The Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Novice Set.
 
 The [Steady Footing](Talents.md#steady-footing) Talent lessens the effects of knockback on the player, especially on ice.
-
-## Gallery
-
-{{History}\]

@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 220263
+revid: 222066
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -20,9 +20,9 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, Bounties, First LayerFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Ishamon Erisia, Deep Widow, Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobsFound from:, Artifact Turn-ins |
 | description | Survival is your strength. |
 
 ## Description
 
-The Legate Helm is an Equipment item in the "Head" category.
+The Legate Helm is an [Equipment](Equipment.md) item under the "Head" category.

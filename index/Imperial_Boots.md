@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 217139
+revid: 222641
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | requirements | LVL 10 |
 | weight | 1 |
 | styles | Brushed, Galvanized |
-| innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Imperial Pauldrons, Imperial Boots |
 | set talent | N/A |
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Starswept Valley, Primadon, War Mode, Saramaed Hollow, Chime of Conflict, Duke Ishamon Erisia |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Primadon, War Mode, Saramaed Hollow, Chime of Conflict, Duke Ishamon Erisia |
 | description | ... |
+
+Imperial Set
+
+Variants: [Pauldrons](Imperial_Pauldrons.md)
 
 ## Description
 
@@ -33,5 +37,4 @@ The Imperial Boots are an [Equipment](Equipment.md) item under the "Legs" catego
 
 ## Trivia
 
--   Considered to be one of the best boots in the game due to its Pips and innate +5 HP.
 -   Has identical innate stats to the [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) and the [Star Boots](Star_Boots.md).

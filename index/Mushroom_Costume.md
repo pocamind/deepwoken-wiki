@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 219192
+revid: 222075
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -25,17 +25,9 @@ categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 
 ## Description
 
-The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category. When worn, A mushroom hat is put on top on your head, it changes your head color to a bright white, and you become faceless.
+The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category.
 
-## Rarities
-
-Here are estimated chances for each shroom variant, after finding 100 shroom costumes (by Witherald). To even find a Mushroom Costume in a Hallowtide Chest is a ~15% chance.
-
--   Mushroom Costume: **70%**
--   Glowshroom Costume: **~12.5%**
--   Metalshroom Costume: **~12.5%**
--   Charmshroom Costume: **~3%**
--   Zapshroom Costume: **~2%**
+When worn, A mushroom hat is put on top on your head, it changes your head color to a bright white, and you become faceless.
 
 ## Trivia
 

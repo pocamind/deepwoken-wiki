@@ -1,6 +1,6 @@
 ---
 title: Vortex Accelerator
-revid: 219110
+revid: 222561
 source: https://deepwoken.fandom.com/wiki/Vortex_Accelerator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Equipment Relics, Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Equipment Relics, Relics]
 
 | Vortex Accelerator | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 25 |
 | weight | 0.1 |

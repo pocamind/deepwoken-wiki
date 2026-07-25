@@ -1,9 +1,9 @@
 ---
 title: Winter Corps Parka
-revid: 220322
+revid: 222769
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Parkas, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment, Arms, Parkas, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Central Authority]
 ---
 
 # Winter Corps Parka
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Parkas, Equipment with Talents, Equipment with Exc
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
 | innate stats | +6 Health , +2 Posture , +5% Ice Armor , +5% Wind Armor , +2 Rare Pips |
 | innate talent | Winter's Protection |
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Parkas, Equipment with Talents, Equipment with Exc
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Crypt of the Unbroken, Second Layer, The Depths, Duke Erisia, Saramaed Hollow, Maestro Evengarde Rest |
+| obtainment | Chests from:, Crypt of the Unbroken, Faction Ambushes (The Ministry), Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Saramaed Hollow, Maestro Evengarde Rest |
 | description | An essential part of the Authority Winter Corps' kit. Devised to be resilient against the often thorny passages of drakethistle in the Northern Luminant. |
 
 Winter Corps Set

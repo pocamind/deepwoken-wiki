@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 215336
+revid: 222648
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Dusters, Equipment with Talents, Equipment with Ex
 | selling price | 50 |
 | requirements | LVL 10 |
 | weight | 2 |
-| innate stats | +5 Health , +1 Posture , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Posture , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Star Duster |
 | set | Star Duster, Star Boots |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Dusters, Equipment with Talents, Equipment with Ex
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Starswept Valley, Fishing, War Mode, Sea Events |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Fishing, War Mode |
 | description | ... |
 
 Star Set

@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 221595
+revid: 222208
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings]
 
 | Blindseer's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Uncommon |
 | selling price | 14 |
 | requirements | N/A |

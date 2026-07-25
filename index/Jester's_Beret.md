@@ -1,6 +1,6 @@
 ---
 title: "Jester's Beret"
-revid: 221813
+revid: 222008
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -13,19 +13,19 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craft
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | styles | Chaos, Joker, Mono, Rouge, Wishmaker |
 | innate stats | +3 Health , +10 Ether , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Cap ArtistJester's Ruse |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
 | obtainment | Crafting 1 Tillian's Beret + 1 Shiva's Codex + 1 Trickster Dust in the Lost Forge of Leiuna |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
 
-Variants: [Tillian's Beret](<Tillian's_Beret.md>) · [Trickster's Beret](<Trickster's_Beret.md>)
+Variants: [Trickster's Beret](<Trickster's_Beret.md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -46,4 +46,4 @@ The [Cap Artist](Talents.md#cap-artist) Talent allows you to press Comma while c
 
 ## References
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Mask
-revid: 221597
+revid: 222473
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talen
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
 
 Variants: [Necrotic Mask](Necrotic_Mask.md)

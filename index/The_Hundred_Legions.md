@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 217522
+revid: 221989
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -30,12 +30,12 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 The Hundred Legions consists of one hundred legions.
 
--   The [11th Legion](The_Hundred_Legions.md).
-    -   consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and Lars.
+-   The 11th Legion.
+    -   consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and [Lars](Lars.md).
     -   Has associated outfit, [11th Legion Plate](11th_Legion_Plate.md).
 -   The 21st Legion.
     -   Has an associated [Specialist set](Specialist_Plate.md) style.
--   The [49th Legion](The_Hundred_Legions.md).
+-   The 49th Legion.
     -   consists of [Polymarch Legion Soldiers](<Legion_Soldier_(The_Polymarch).md>) and [General Titus Juventius](General_Titus_Juventius.md), now known as [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
     -   Has an associated [Specialist set](Specialist_Plate.md) style.
 -   The 77th Legion.
@@ -84,7 +84,5 @@ Though another way to gain reputation with The Hundred Legions is also through h
 
 -   Their aesthetic draws from the Greek and Roman empires.
 -   From the camp in [The Viper's Jaw](<The_Viper's_Jaw.md>) we can meet a Khan with an unobtainable aspect variant, meaning that there might be more types of Khans than the ones that have made their way in the East.
--   While speaking to Gaius, you can learn that being stationed in the East isn't the best if you're looking to become the next Ruler of the Legion as he outright curses, presumably Akilles, who stationed him there.
--   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say, "Let my comrades know, we'll hold a ceremony in his honor."
 -   Considering that the Battle Royale map is of Legion territory, The Hundred Legions is the first faction to get its own exclusive game mode, and by extension, the only ones to have a server wholly dedicated to them.
--   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legion against the Starkindred Church in the West, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the Etreans. However, their intrusions in the east means the two are now prone to skirmishing.
+-   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legion against [the Starkindred Church](The_Starkindred_Church.md) in the West, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the [Etreans](Etrean.md). However, their intrusion in the east means the two are now prone to skirmishing.

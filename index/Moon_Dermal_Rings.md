@@ -1,6 +1,6 @@
 ---
 title: Moon Dermal Rings
-revid: 210634
+revid: 222178
 source: https://deepwoken.fandom.com/wiki/Moon_Dermal_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for 35 Chests from:, First Layer, The Ferryman (During winter) |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, The Ferryman (During winter) |
 | description | FEAR. IRONSINGERS. |
 
 _This page is about the [Face Equipment](Equipment.md#face). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

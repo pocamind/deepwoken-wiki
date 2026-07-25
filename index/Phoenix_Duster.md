@@ -1,6 +1,6 @@
 ---
 title: Phoenix Duster
-revid: 216746
+revid: 222241
 source: https://deepwoken.fandom.com/wiki/Phoenix_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Arms, Dusters, Developer Spec]
@@ -28,6 +28,8 @@ notices:
 
 ## Description
 
-The Phoenix Duster is a [developer-exclusive](Developer_Specs.md) item.
+The Phoenix Duster is an Equipment item under the "Arms" category.
+
+It is a [developer-exclusive](Developer_Specs.md) item.
 
 One of the rarest items in the game due to this.

@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 218675
+revid: 222405
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
 | innate stats | +5 Health , +2 Rare Pips |
 | innate talent | Braced Collapse |
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Fishing, War Mode, Primadon |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Fishing, War Mode, Primadon |
 | description | ... |
 
 ## Description

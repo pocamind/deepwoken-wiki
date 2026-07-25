@@ -1,6 +1,6 @@
 ---
 title: Trackstar Boots
-revid: 210875
+revid: 222736
 source: https://deepwoken.fandom.com/wiki/Trackstar_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

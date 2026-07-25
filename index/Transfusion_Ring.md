@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 210878
+revid: 222737
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Pathfinder: 1 Ring of Pestilence + 1 Trickster Dust + 1 Necrotic Membrane in the Lost ForgeVow of Iron:, Sitting on an island near the "South" direction on the map compass. |
+| obtainment | Pathfinder: 1 Ring of Pestilence + 1 Trickster Dust + 1 Necrotic Membrane in the Lost Forge of Leiuna Vow of Iron:, Sitting on an island near the "South" direction on the map compass. |
 | description | Gain extra vitality at the cost of your ability to heal (receive 50% less healing). |
 
 ## Description

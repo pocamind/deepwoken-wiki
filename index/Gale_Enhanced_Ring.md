@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Ring
-revid: 221268
+revid: 222248
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings, Craftable]
 
 | Gale Enhanced Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | LVL 10 |
@@ -19,7 +19,7 @@ categories: [Equipment, Rings, Craftable]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted at the Lost Forge with 1 Finisher's Ring & 1 Gale Essence |
+| obtainment | Crafted at the Lost Forge of Leiuna with 1 Finisher's Ring & 1 Gale Essence |
 | description | Suffocate enemies you flourish for a few seconds. |
 
 ## Description

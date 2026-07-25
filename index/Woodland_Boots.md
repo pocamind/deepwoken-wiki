@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 218692
+revid: 222771
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +1 Rare Pip |
 | innate talent | Woodland Terrain |
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Rogue Construct, Maestro Evengarde Rest, Heart of Enmity, Starswept Valley, Dread Serpent, Sea Events |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
 | description | ... |
 
 Woodland Set
@@ -34,7 +34,7 @@ Variants: [Pauldrons](Woodland_Pauldrons.md)
 
 The Woodland Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Woodland Terrain](Talents.md#woodland-terrain) Talent makes you move slightly faster (10% speed boost) on grass.
+The [Woodland Terrain](Talents.md#woodland-terrain) Talent grants a 10% movement speed boost when walking on [grass](Terrains.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 220931
+revid: 222029
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -30,7 +30,7 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 
 When equipped, the pearls emit faint magic circles while ink blots out from within.
 
-[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Combat_Mechanics.md#tempo) black and makes it drain 47.5 Ether from targets it hits. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5, as well as proccing Shadowcast Talents and [Twisted Puppets](Talents.md#twisted-puppets)' [burn](Status_Effects.md#shadow-burn).
+[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Combat_Mechanics.md#tempo) black, makes it drain 47.5 Ether from targets it hits, and increases vent damage by ~15%. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5, as well as proccing Shadowcast Talents and [Twisted Puppets](Talents.md#twisted-puppets)' [burn](Status_Effects.md#shadow-burn).
 
 ## Trivia
 

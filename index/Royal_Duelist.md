@@ -1,6 +1,6 @@
 ---
 title: Royal Duelist
-revid: 218848
+revid: 222511
 source: https://deepwoken.fandom.com/wiki/Royal_Duelist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, In progress with reason, InProgressPages, Equipment, Arms]
@@ -15,7 +15,7 @@ notices:
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 2 |
 | styles | Dark, Faded, Purple, Red, Rose, Stained |
 | innate stats | +2 Rare Pips |
@@ -24,7 +24,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Aratel Island, False Merchant Ship Sea Event, Crypt of the Unbroken |
+| obtainment | Chests from:, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, False Merchant Ship Sea Event, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
 | description | ... |
 
 ## Description

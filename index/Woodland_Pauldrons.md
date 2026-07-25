@@ -1,6 +1,6 @@
 ---
 title: Woodland Pauldrons
-revid: 218693
+revid: 222772
 source: https://deepwoken.fandom.com/wiki/Woodland_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Dread Serpent, Sea Events |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Dread Serpent |
 | description | ... |
 
 Woodland Set

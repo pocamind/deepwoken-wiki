@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 220508
+revid: 222439
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +3 Health |
 | innate talent | N/A |
@@ -23,12 +23,18 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, The Depths, Chime of Conflict, Knives of Eylis Events, Maestro Evengarde Rest, Dread Serpent, Lodestar Bounty job, Fishing, Elder Primadon |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Overrun Authority Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chime of Conflict, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Maestro Evengarde Rest, Dread Serpent, Lodestar Bounty job, Fishing, Elder Primadon |
 | description | ... |
+
+Redsteel Set
+
+Variants: [Pauldrons](Redsteel_Pauldrons.md)
 
 ## Description
 
-The Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md), by winning matches in [Chime of Conflict](Chime_of_Conflict.md) and Knives of Eylis Events.
+The Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category.
+
+They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md), by winning matches in [Chime of Conflict](Chime_of_Conflict.md) and Knives of Eylis Events.
 
 ## Trivia
 

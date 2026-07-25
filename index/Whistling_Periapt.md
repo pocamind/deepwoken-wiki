@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 218499
+revid: 222766
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics, Equipment wi
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +1 Health , +8% Wind Armor |
 | innate talent | Whistleguard |
@@ -21,12 +21,12 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics, Equipment wi
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, Scion of Ethiron, Kyrsgarde Champion, Weird Trader, Fishing (Extremely rare), Sold in Traan Zakshun's black market for 200 |
+| obtainment | Duke Ishamon Erisia, Scion of Ethiron, Kyrsgarde Champion, Weird Trader, Fishing, Sold in Traan Zakshun's black market for 200 |
 | description | The favor of the winds is yours; landing three hits (five for light weapons) on an opponent without taking damage envelops you in a shield of wind |
 
 ## Description
 
-The Whistling Periapt, or commonly referred to as Duke Relic, is a [Relic](Relics.md) Torso [Equipment](Equipment.md).
+The Whistling Periapt is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
 When equipped, the gemstone emits constant rays of green light.
 

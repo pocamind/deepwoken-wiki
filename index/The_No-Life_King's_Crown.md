@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 221483
+revid: 222708
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -13,15 +13,15 @@ categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipm
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Blood NecrosisCauterized Wounds, No Limits |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
-| obtainment | Crafted using 1 Bloodforged Crown + 1 Ethereal Osseous Plate + 1 Necrotic Membrane at the Lost Forge |
+| obtainment | Crafted using 1 Bloodforged Crown + 1 Ethereal Osseous Plate + 1 Necrotic Membrane at the Lost Forge of Leiuna |
 | description | ... |
 
 Variants: [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)
@@ -48,6 +48,8 @@ The [No Limits](Talents.md#no-limits) Talent increases the cap on [Bloodless Gem
 -   Because Bloodless Gem healing is reduced, this equipment should only be used in fights against a large amount of enemies, and on builds that have a lot of extremely large AoE Mantras to hit multiple targets at once. Otherwise, this can be attributed to a net **loss** in your sustain, as your general Bloodless Gem healing will be largely reduced.
     -   For reference, it now takes 94 scaled damage to heal 15 health, as opposed to 63 scaled damage without this equipment.
 
+  
+
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

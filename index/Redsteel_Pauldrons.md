@@ -1,6 +1,6 @@
 ---
 title: Redsteel Pauldrons
-revid: 220356
+revid: 222443
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,8 +23,12 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Knives of Eylis Events, Chime of Conflict, Primadon, Titan of the East, The Doom of Caeranthil, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Chime of Conflict, Primadon, Titan of the East, The Doom of Caeranthil, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
+
+Redsteel Set
+
+Variants: [Boots](Redsteel_Boots.md)
 
 ## Description
 

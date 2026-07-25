@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 216562
+revid: 222785
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,18 +15,18 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip, +1 Rare Pip |
+| innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Merchant ShipsChests from:, Sea Events |
+| obtainment | Merchant ShipsChests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | description | ... |
 
 ## Description
 
-**Ruby Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+Ruby Pendant Earrings are [Equipment](Equipment.md) items under the "Ears" category.
 
 ## Trivia
 

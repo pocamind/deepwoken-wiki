@@ -1,6 +1,6 @@
 ---
 title: Ignition Gauntlets
-revid: 218671
+revid: 221960
 source: https://deepwoken.fandom.com/wiki/Ignition_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves, The Ignition Union, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Gloves, The Ignition Union, Equipment with Talents
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 2 |
-| innate stats | +8 Health , +1 Posture , +1 Rare Pip, +2 Legendary Pips |
+| innate stats | +8 Health , +1 Posture , +1 Rare Pip , +2 Legendary Pips |
 | innate talent | Force Your Way |
 | bankable | Yes |
 | droppable | Yes |

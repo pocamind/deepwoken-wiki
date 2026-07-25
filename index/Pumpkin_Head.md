@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 202743
+revid: 222276
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Hallowtide]
@@ -25,7 +25,9 @@ categories: [Head, Helmets, Equipment, Event Item, Hallowtide]
 
 ## Description
 
-The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category. When [dyed](Dye_Packet.md), the mouth and eyes will glow, with the glow color being based off the chosen dye. Just to show a few examples:
+The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category.
+
+When [dyed](Dye_Packet.md), the mouth and eyes will glow, with the glow color being based off the chosen dye. A few examples:
 
 ## Trivia
 

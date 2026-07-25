@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 210593
+revid: 222106
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +2 Health +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Health +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Endurance Runner |
 | set | Mercenary's Garb, Mercenary's Boots |
 | set talent | N/A |
@@ -23,8 +23,12 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Miner's Landing, Second Layer, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
+| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Faction Ambushes (The Ministry), Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
 | description | ... |
+
+Mercenary's Set
+
+Variants: [Garb](<Mercenary's_Garb.md>)
 
 ## Description
 

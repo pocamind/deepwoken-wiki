@@ -1,6 +1,6 @@
 ---
 title: Iron Boots
-revid: 217067
+revid: 221982
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -24,8 +24,12 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | description | ... |
+
+Iron Set
+
+Variants: [Pauldrons](Iron_Pauldrons.md)
 
 ## Description
 

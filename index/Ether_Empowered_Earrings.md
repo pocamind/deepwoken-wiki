@@ -1,6 +1,6 @@
 ---
 title: Ether Empowered Earrings
-revid: 221221
+revid: 221919
 source: https://deepwoken.fandom.com/wiki/Ether_Empowered_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

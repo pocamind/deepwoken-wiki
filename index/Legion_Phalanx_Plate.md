@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 218495
+revid: 222065
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 2 |
-| innate stats | +6 Health , +2 Posture , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +6 Health , +2 Posture , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Hoplite |
 | set | Phalanx Helmet, Legion Phalanx Plate, Phalanx Heavy Boots |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, The Eternal Gale, Maestro Evengarde Rest, Miner's Landing (Very rare), Primadon, Titan of the East, Heart of Enmity, The Depths, Interluminary Parasol, Chaser, Scholar of the Crimson Contract, Pure Erisore turn-ins, Deep Widow |
+| obtainment | Chests from:, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Maestro Evengarde Rest, Miner's Landing, Faction Ambushes (The Ignition Union), Primadon, Titan of the East, Heart of Enmity, The Depths, Interluminary Parasol, Chaser, Scholar of the Crimson Contract, Pure Erisore turn-ins, Deep Widow |
 | description | ... |
 
 Variants: [Alloyed Phalanx Plate](Alloyed_Phalanx_Plate.md)

@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Finger"
-revid: 216054
+revid: 222548
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,10 +10,10 @@ categories: [Equipment, Rings]
 
 | Shiva's Finger | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 0.1 |
 | bankable | No |
 | droppable | No |

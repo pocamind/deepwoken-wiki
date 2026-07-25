@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 217048
+revid: 222627
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets, Craftable, Equipme
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 20, 30 Galebreathe, 30 Thundercall |
+| requirements | LVL 20, 30 WND, 30 LTN |
 | weight | 1 |
 | styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +8 Health |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets, Craftable, Equipme
 | set talent | Shock Trooper Specialist |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story. |
@@ -63,4 +63,4 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

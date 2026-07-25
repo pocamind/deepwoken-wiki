@@ -1,6 +1,6 @@
 ---
 title: "Hive Greatlord's Royal Adornment"
-revid: 210500
+revid: 222037
 source: https://deepwoken.fandom.com/wiki/Hive_Greatlord's_Royal_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Hats, Developer Spec, Equipment with Talents, Equipment with Exclusive Talents]
@@ -27,7 +27,9 @@ notices:
 
 ## Description
 
-The Hive Greatlord's Royal Adornment is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you +10% Health, +5 Posture, and the [Talent](Talents.md) "Ashes on the Fire". Info on this Talent is unknown.
+The Hive Greatlord's Royal Adornment is an [Equipment](Equipment.md) item under the "Head" category.
+
+Equipping it grants you +10% Health, +5 Posture, and the [Talent](Talents.md) "Ashes on the Fire". Info on this Talent is unknown.
 
 ## Trivia
 

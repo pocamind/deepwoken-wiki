@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Earrings
-revid: 221267
+revid: 221931
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

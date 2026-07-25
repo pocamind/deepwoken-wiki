@@ -1,6 +1,6 @@
 ---
 title: Trueblood Pendant
-revid: 215689
+revid: 222742
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | Blood Pact |

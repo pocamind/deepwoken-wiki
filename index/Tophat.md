@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 218814
+revid: 222728
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,10 +13,10 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 6 |
+| requirements | LVL 6 |
 | weight | 1 |
 | styles | Beige, Burgundy, Slate |
-| innate stats | +4 Health , +1 Uncommon Pip, +1 Rare Pips |
+| innate stats | +4 Health , +1 Uncommon Pip , +1 Rare Pip |
 | innate talent | Give and Take |
 | set | Tophat, Aristocrat Coat, Aristocrat Eyeglasses |
 | set talent | N/A |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
 | description | While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class. |
 
 ## Description

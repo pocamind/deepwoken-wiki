@@ -1,6 +1,6 @@
 ---
 title: Monastery Champion Robes
-revid: 217279
+revid: 222162
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,10 +13,10 @@ categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equ
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 2 |
 | styles | Champion (Cotton, Linen), Oni (Cotton, Linen) |
-| innate stats | +8 Health , +1 Posture , +2 Legendary Pips, +1 Rare Pip |
+| innate stats | +8 Health , +1 Posture , +1 Rare Pip , +2 Legendary Pips |
 | innate talent | Temple Guard |
 | set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |
 | set talent | N/A |
@@ -24,12 +24,16 @@ categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equ
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Maestro Evengarde Rest, Etris: Siege, The Diluvian Mechanism, Fishing Chests |
+| obtainment | Chests from:, Maestro Evengarde Rest, Cinders of Etris, The Diluvian Mechanism, Fishing |
 | description | ... |
+
+Monastery Set
+
+Variants: [Cowl](Monastery_Cowl.md) · [Beads](Monastery_Beads.md)
 
 ## Description
 
-The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
+The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Cinders of Etris](Cinders_of_Etris.md) event.
 
 The [Temple Guard](Talents.md#temple-guard) Talent grants 90% damage reduction to any attack that cancels your critical attack within the first 0.3s of its animation. This does not prevent your critical attack from being canceled, and does not work if the attack doesn't cancel your critical (i.e. hyper armor).
 

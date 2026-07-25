@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 218415
+revid: 222281
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,19 +19,19 @@ categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipmen
 | innate talent | Mindspark |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
-| obtainment | Crafting:, 1 Aazel's Horns + 1 Necrotic Membrane at the Lost Forge |
+| obtainment | Crafting:, 1 Aazel's Horns + 1 Necrotic Membrane at the Lost Forge of Leiuna |
 | description | An otherworldly set of faux horns. Faint scratches on the back spell 'Aazel', though the writing is weathered almost beyond recognition. Whoever wore these must have long since drowned. Strangely, they're warm to the touch... |
 
-Variants: [Aazel's Horns](<Aazel's_Horns.md>) · [Flame Demon Horns](Flame_Demon_Horns.md)
+Variants: [Flame Demon Horns](Flame_Demon_Horns.md)
 
 ## Description
 
-The **Necrotic Demon Horns** is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category.
+The Necrotic Demon Horns is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category.
 
 The [Mindspark](Talents.md#mindspark) Talent grants +0.0205 flat damage to each burn tick for every 1% Sanity you've lost, capping at +2.05 damage at 0% Sanity.
 
-## Navigation
+## References
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

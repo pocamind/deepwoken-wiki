@@ -1,9 +1,9 @@
 ---
 title: "Titus's Cape"
-revid: 210869
+revid: 222727
 source: https://deepwoken.fandom.com/wiki/Titus's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Capes]
+categories: [Equipment, Arms, Capes, Equipment of The Hundred Legions]
 ---
 
 # Titus's Cape
@@ -13,16 +13,16 @@ categories: [Equipment, Arms, Capes]
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 15 |
+| requirements | LVL 15 |
 | weight | 2 |
-| innate stats | +10% Lightning Armor , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +10% Lightning Armor , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Titus Fulminus Destellus |
-| description | The fabled cape of Titus Fulminus Destellis. Even for its size, it's heavier than it looks. |
+| description | The fabled cape of Titus Fulminus Destellis [sic]. Even for its size, it's heavier than it looks. |
 
 ## Description
 

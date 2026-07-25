@@ -1,6 +1,6 @@
 ---
 title: "Worldshaper's Laurel"
-revid: 215082
+revid: 222597
 source: https://deepwoken.fandom.com/wiki/Worldshaper's_Laurel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Exclusive, Equipment, Head, Ornaments, Hats]
@@ -28,7 +28,9 @@ notices:
 
 ## Description
 
-The Worldshaper's Laurel is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It is given to fan-artists who have won contests such as having their art win as a monthly fan-banner, game concept, game thumbnail, etc. Equipping it grants no statistical bonuses.
+The Worldshaper's Laurel is an unobtainable [Equipment](Equipment.md) item under the "Head" category.
+
+It is given to fan-artists who have won contests such as having their art win as a monthly fan-banner, game concept, game thumbnail, etc. Equipping it grants no statistical bonuses.
 
 ## Trivia
 

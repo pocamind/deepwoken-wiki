@@ -1,6 +1,6 @@
 ---
 title: Maljuror Choker
-revid: 210585
+revid: 222084
 source: https://deepwoken.fandom.com/wiki/Maljuror_Choker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +2% Shadow Armor , +1 Legendary Pip |
 | innate talent | N/A |

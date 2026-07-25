@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Boots
-revid: 221876
+revid: 222615
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Equipment of The Hundred Legions]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots, Equipment of The Hun
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +2 Posture , +1 Uncommon Pip |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots, Equipment of The Hun
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Titus Fulminus Destellus |
-| description | The only thing that surpasses a Shock Trooper's Brutality is their speed. |
+| description | The only thing that surpasses a Shock Trooper's brutality is their speed. |
 
 Shock Trooper Set
 

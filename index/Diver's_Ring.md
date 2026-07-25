@@ -1,6 +1,6 @@
 ---
 title: "Diver's Ring"
-revid: 221214
+revid: 221911
 source: https://deepwoken.fandom.com/wiki/Diver's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -14,10 +14,11 @@ categories: [Equipment, Rings, The Divers]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | None |
+| weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict, Heart of Enmity, The Diluvian Mechanism, Maestro Evengarde Rest |
 | description | Deal +5% damage to Monsters in the Depths. |

@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Hat
-revid: 217019
+revid: 222763
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | styles | Farmland, Fog, Mountain, Tundra, Valley |
 | innate stats | +2 Posture , +1 Legendary Pip |
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | Common Garb among western peons; this hat is perfect for beating the heat or disguising one's identity. |
 
 Western Outlaw Set
@@ -32,6 +32,8 @@ Variants: [Robes](Western_Outlaw_Robes.md) Â· [Boots](Western_Outlaw_Boots.md) Â
 
 ## Description
 
-The Western Outlaw Hat is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Western Outlaw Set. The Western Outlaw Hat is a Kasa hat that originated in the Western Luminant.
+The Western Outlaw Hat is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Western Outlaw Set.
+
+The Western Outlaw Hat is a Kasa hat that originated in the Western Luminant.
 
 This item is used to craft the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

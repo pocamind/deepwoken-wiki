@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 218921
+revid: 222775
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,15 +13,15 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 2 |
-| innate stats | +10 Health , +5% Ironsing Armor , +2 Legendary Pips, +1 Rare Pip |
+| innate stats | +10 Health , +5% Ironsing Armor , +1 Rare Pip , +2 Legendary Pips |
 | innate talent | Stay of Execution |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Eternal Gale, Scyphozia, Chaser, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
 | description | ... |
 
 ## Description

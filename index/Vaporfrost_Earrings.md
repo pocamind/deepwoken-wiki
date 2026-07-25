@@ -1,6 +1,6 @@
 ---
 title: Vaporfrost Earrings
-revid: 215684
+revid: 222749
 source: https://deepwoken.fandom.com/wiki/Vaporfrost_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.1 |
-| innate stats | +1 Common Pip, +1 Rare Pip |
+| innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | Drop Dead |
 | bankable | No |
 | droppable | No |

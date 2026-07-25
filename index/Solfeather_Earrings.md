@@ -1,6 +1,6 @@
 ---
 title: Solfeather Earrings
-revid: 210812
+revid: 222602
 source: https://deepwoken.fandom.com/wiki/Solfeather_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -31,4 +31,4 @@ This content is not accessible outside of this gamemode.
 
 **Solfeather Earrings** is an [Equipment](Equipment.md) item under the "Ears" category.
 
-The [Heart Reservoir](Talents.md#heart-reservoir) Talent Increases your max Heartfire Gauge
+The [Heart Reservoir](Talents.md#heart-reservoir) Talent Increases your max Heartfire Gauge.

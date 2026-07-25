@@ -1,6 +1,6 @@
 ---
 title: "Rogue Assassin's Hood"
-revid: 219040
+revid: 222499
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Hoods, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Hoods, Head, Equipment with Talen
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | 10 Agility |
+| requirements | 10 AGL |
 | weight | 1 |
 | innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Deep Wound, Poisoned Knife |

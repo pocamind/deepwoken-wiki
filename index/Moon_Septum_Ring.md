@@ -1,6 +1,6 @@
 ---
 title: Moon Septum Ring
-revid: 210636
+revid: 222266
 source: https://deepwoken.fandom.com/wiki/Moon_Septum_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for 35 Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita |
+| obtainment | Sold in Traan Zakshun's regular stock for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, The Ferryman (Winter), Aelita |
 | description | FEAR. IRONSINGERS. |
 
 _This page is about the [Face Equipment](Equipment.md#face). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

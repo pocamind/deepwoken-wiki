@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Operative Cloak"
-revid: 218586
+revid: 222398
 source: https://deepwoken.fandom.com/wiki/Prophet's_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks, Equipment with Tale
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +6% Stealth , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +6% Stealth , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Tempo Sap, Eureka |
 | bankable | No |
 | droppable | No |
@@ -32,7 +32,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Ministry Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
+The Prophet's Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Tempo Sap](Talents.md#tempo-sap) Talent grants a Talent tool that enhances the M1 attacks of your Dagger weapons. Tempo Sap enhanced M1s steal your opponent's Tempo on hit. Tempo Sap lasts 20 seconds with a 1 minute cooldown.
 

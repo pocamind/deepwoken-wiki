@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 220250
+revid: 222553
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -22,9 +22,9 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Duke Erisia, Dread Serpent, Deep Widow, Heart of Enmity, First Layer, Second Layer, Chaser, Maestro Evengarde Rest, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
+| obtainment | Chests from:, Duke Ishamon Erisia, Dread Serpent, Deep Widow, Heart of Enmity, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Maestro Evengarde Rest, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
 | description | ... |
 
 ## Description
 
-The Vagabond's Bicorn is an Equipment in the "Head" category.
+The Vagabond's Bicorn is an [Equipment](Equipment.md) item under the "Head" category.

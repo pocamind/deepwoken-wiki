@@ -1,9 +1,9 @@
 ---
 title: Reinforced Authority Plate
-revid: 217083
+revid: 222454
 source: https://deepwoken.fandom.com/wiki/Reinforced_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents, Equipment of The Central Authority]
 ---
 
 # Reinforced Authority Plate
@@ -13,9 +13,9 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Tale
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 2 |
-| innate stats | +8 Health , +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +8 Health , +1 Uncommon Pip , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | ClutchHeavy Haul |
 | bankable | No |
 | droppable | No |

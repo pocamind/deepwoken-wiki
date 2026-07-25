@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 220775
+revid: 222774
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -190,27 +190,27 @@ As if the game breaking wasn't enough.
 
 Names of games will start to appear from the top of the screen:
 
--   A Hat in Time
--   Abyss World
--   Airship Assault
--   Animal Crossing: New Leaf
--   Baba Is You
--   Backgammon
--   Bad Business
--   Barotrauma
--   Battleblock Theatre
--   Castle Crashers
--   Celeste
--   Checkers
--   Chess
--   Citizen Sleeper
--   CONE
+-   [A Hat in Time](https://store.steampowered.com/app/253230/A_Hat_in_Time)
+-   [Abyss World](https://www.roblox.com/games/12151453277/Abyss-World)
+-   [Airship Assault](https://www.roblox.com/games/8840562096/Airship-Assault)
+-   [Animal Crossing: New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf)
+-   [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You)
+-   [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
+-   [Bad Business](https://www.roblox.com/games/3233893879/Bad-Business)
+-   [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma)
+-   [Battleblock Theatre](https://store.steampowered.com/app/238460/BattleBlock_Theater)
+-   [Castle Crashers](https://store.steampowered.com/app/204360/Castle_Crashers)
+-   [Celeste](https://store.steampowered.com/app/504230/Celeste)
+-   [Checkers](https://en.wikipedia.org/wiki/Checkers)
+-   [Chess](https://en.wikipedia.org/wiki/Chess)
+-   [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper)
+-   [CONE](https://www.roblox.com/games/378223328/CONE)
 -   CRAZY HORSE GAME 🐴
 -   Crypt of the Necrodancer
 -   Deep Rock Galactic
--   Deltarune
--   Don't play ABA please
--   Don't Starve Together
+-   [Deltarune](https://store.steampowered.com/app/1671210/DELTARUNE)
+-   Don't play [ABA](https://www.roblox.com/games/1458767429/ABA) please
+-   [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together)
 -   DOORS
 -   Dredge
 -   Dwarf Fortress
@@ -231,7 +231,7 @@ Names of games will start to appear from the top of the screen:
 -   Kingdom Series
 -   L.A. Noire
 -   Lethal Company
--   Mahjong
+-   [Mahjong](https://en.wikipedia.org/wiki/Mahjong)
 -   Mini Metro
 -   monkey raft
 -   Monster Hunter Series
@@ -249,14 +249,14 @@ Names of games will start to appear from the top of the screen:
 -   Red Dead Redemption
 -   Risk of Rain 2
 -   Road to Gramby's
--   Sekiro: Shadows Die Twice
+-   [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)
 -   Shadow Gambit: The Cursed Crew (R.I.P. Mimimi Games)
 -   Shadow Tactics: Blades Of The Shogun (R.I.P. Mimimi Games)
 -   Shadows of Doubt
 -   Shovelware's Brain Game
 -   Slay the Spire
 -   Snakes & Ladders
--   Sonic Unleashed
+-   [Sonic Unleashed](https://en.wikipedia.org/wiki/Sonic_Unleashed)
 -   Space Station 14
 -   Stars Align
 -   Straftat
@@ -270,7 +270,7 @@ Names of games will start to appear from the top of the screen:
 -   Townscaper
 -   Tricky Towers
 -   Twilight Imperium 4
--   Undertale
+-   [Undertale](https://store.steampowered.com/app/391540/Undertale/)
 -   V Rising
 -   Valheim
 -   WEBFISHING

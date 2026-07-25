@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 217049
+revid: 222632
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipmen
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | Power 20, 30 Galebreathe, 30 Thundercall |
+| requirements | LVL 20, 30 WND, 30 LTN |
 | weight | 2 |
 | styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +5 Health , +1 Rare Pip |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipmen
 | set talent | Shock Trooper Specialist |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting in the Merit Detainment Core |
 | description | Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise. |
@@ -37,7 +37,7 @@ The Specialist Plate is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) 
 
 The [Stormcall](Talents.md#stormcall) Talent Applies the [Stormcall Shock](Status_Effects.md#stormcall-shock) status effect on opponents when you land a Storm Strike from your other Specialist equipment Talents. Stormcall Shock deals 15 Galebreathe and Thundercall damage and applies [Shock](Status_Effects.md#shock) for 1 second and [Winded](Status_Effects.md#winded) for 2 seconds if your opponent attempts to cast a Mantra.
 
-Stormcall Shock has a 0.03 \* (Thundercall + Galebreathe investment) second duration, capping at 6 seconds with 100 investment in each Attunement. The shock is replaced with a [Surge Rod](Thundercall.md#unstable-capacitor) if the caster has Surge Path.
+Stormcall Shock has a 0.03 × (Thundercall + Galebreathe investment) second duration, capping at 6 seconds with 100 investment in each Attunement. The shock is replaced with a [Surge Rod](Status_Effects.md#surge-rod) if the caster has Surge Path.
 
 ## Set Talent
 
@@ -63,4 +63,4 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

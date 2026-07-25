@@ -1,6 +1,6 @@
 ---
 title: "Maestro's Ring"
-revid: 220527
+revid: 222085
 source: https://deepwoken.fandom.com/wiki/Maestro's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Etrea, Scaling Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings, Etrea, Scaling Rings]
 
 | Maestro's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | N/A |
@@ -20,12 +20,14 @@ categories: [Equipment, Rings, Etrea, Scaling Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Ferryman, Aelita (Extremely Rare), Duke Ishamon Erisia, Second Layer, Ancient Rotlands, Interluminary Parasol, The Doom of Caeranthil, Maestro Evengarde Rest, Lodestar Bounty job, Trading with Jeremiah, Saramaed Hollow, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Aelita, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Interluminary Parasol, The Doom of Caeranthil, Maestro Evengarde Rest, Lodestar Bounty job, Trading with Jeremiah, Saramaed Hollow, Ancient Rotlands (Deep Cave) |
 | description | A ring once worn by a Maestro of the Vigils. Passed down from mentor to student, it seems the line of succession was broken for it to end up in your hands. +1.2 AGL scaling to all weapons. |
 
 ## Description
 
-**Maestro's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Agility Scaling to your weapon.
+Maestro's Ring is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It adds 1.2 Agility Scaling to your weapon.
 
 Having more than one scaling ring equipped at the same time will lessen their effectiveness.
 

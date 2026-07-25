@@ -1,9 +1,9 @@
 ---
 title: Ruby Scorch Earrings
-revid: 215862
+revid: 222530
 source: https://deepwoken.fandom.com/wiki/Ruby_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ruby Scorch Earrings
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip |
+| innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | Smoldering Touch |
 | bankable | No |
 | droppable | No |
@@ -32,6 +32,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-**Ruby Scorch Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+Ruby Scorch Earrings are [Equipment](Equipment.md) items under the "Ears" category.
 
 The [Smouldering Touch](Talents.md#smouldering-touch) Talent applies [burn](Status_Effects.md#burn) to your opponent when you guardbreak them.

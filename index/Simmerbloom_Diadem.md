@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 210806
+revid: 222581
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, The Covenant of Flame, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Ornaments, The Covenant of Flame, Equipment with T
 | type | Head |
 | rarity | Unique |
 | selling price | N/A |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Simmerbloom |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Brim"
-revid: 218682
+revid: 222757
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | type | Head |
 | rarity | Unique |
 | selling price | N/A |
-| requirements | Power 12 |
+| requirements | LVL 12 |
 | weight | 1 |
 | styles | Lilac, Navy, Sky, Verdant |
 | innate stats | +5 Health , +2 Legendary Pips |

@@ -1,9 +1,9 @@
 ---
 title: Vigil Hood
-revid: 220257
+revid: 222753
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hoods, Etrea]
+categories: [Equipment, Head, Hoods, Equipment of Etrea]
 ---
 
 # Vigil Hood
@@ -13,15 +13,15 @@ categories: [Equipment, Head, Hoods, Etrea]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 6, 10 Agility |
+| requirements | LVL 6, 10 AGL |
 | weight | 1 |
-| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Starswept Valley, Duke Ishamon Erisia, Elder Primadon, The Titan Warlord, Heart of Enmity, Maestro Evengarde Rest |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Elder Primadon, The Titan Warlord, Heart of Enmity, Maestro Evengarde Rest |
 | description | ... |
 
 ## Description

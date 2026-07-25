@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Ring"
-revid: 210558
+revid: 222533
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings, Craftable]
 
 | Saint Jay's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |
@@ -21,12 +21,14 @@ categories: [Equipment, Rings, Craftable]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted:, 1 Dazed Band + 1 Frost Essence + 1 Frost Ring at the Lost Forge |
+| obtainment | Crafted:, 1 Dazed Band + 1 Frost Essence + 1 Frost Ring at the Lost Forge of Leiuna |
 | description | Uppercuts inflict chill. |
 
 ## Description
 
-**Saint Jay's Ring** is a Ring [Equipment](Equipment.md). It applies the Chill status effect upon uppercutting an enemy.
+Saint Jay's Ring is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It applies the [Chill](Status_Effects.md#chill) status effect upon uppercutting an enemy.
 
 ## Trivia
 

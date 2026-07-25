@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Ring
-revid: 189911
+revid: 222500
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 
 | Royal Etrean Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 25 |
 | requirements | N/A |
@@ -30,4 +30,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Royal Etrean Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that changes the critical attack of compatible weapons into the [Twincleave](Attunement-less.md#twincleave) Mantra. Your weapon must be a Sword, and you must be using it one-handed for this to activate.
+The Royal Etrean Ring is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Rings" cateogry.
+
+It changes the critical attack of compatible weapons into the [Twincleave](Attunement-less.md#twincleave) Mantra. Your weapon must be a Sword, and you must be using it one-handed for this to activate.

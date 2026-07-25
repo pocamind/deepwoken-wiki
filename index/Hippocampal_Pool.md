@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 205251
+revid: 222579
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Death]
@@ -32,7 +32,7 @@ There are a few items that the Hippocampal Pool will not accept, meaning they wi
 -   [Mantra Modifiers](Mantra_Modifiers.md) (some mantra ingredients _can_ be passed down such as [Crystal Lens](Mantra_Modifiers.md) or [Aeon Logstones](Mantra_Modifiers.md))
 -   [Training Gear](Training_Gear.md)
 -   [Food](Food.md)
--   [Relics](Relics.md)
+-   [Relics](Relics.md) except for [Armors](Equipment.md) like the [Whistling Periapt](Whistling_Periapt.md)
 -   Any item that cannot be banked. Barring things already stated, this includes:
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)
     -   [Mantle of Enmity](Mantle_of_Enmity.md)

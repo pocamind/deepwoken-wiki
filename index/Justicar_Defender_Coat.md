@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 218912
+revid: 222013
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Justicars]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Justicars]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 2 |
 | styles | Black, Jet Black, Faded, Orange, Purple, Red |
 | innate stats | +2 Rare Pips |

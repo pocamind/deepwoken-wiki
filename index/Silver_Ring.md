@@ -1,6 +1,6 @@
 ---
 title: Silver Ring
-revid: 219088
+revid: 222576
 source: https://deepwoken.fandom.com/wiki/Silver_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,12 +14,13 @@ categories: [Equipment, Rings]
 | rarity | Uncommon |
 | selling price | 14 |
 | requirements | None |
+| weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Pure ore turn-ins |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Saramaed Hollow, Miner's Landing, Faction Ambushes (The Ignition Union), Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Scion of Ethiron, Cinders of Etris, Pure ore turn-ins |
 | description | A simple silver ring. |
 
 ## Description

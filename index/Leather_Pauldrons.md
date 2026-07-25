@@ -1,6 +1,6 @@
 ---
 title: Leather Pauldrons
-revid: 218900
+revid: 222040
 source: https://deepwoken.fandom.com/wiki/Leather_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,8 +23,12 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
 | description | ... |
+
+Leather Set
+
+Variants: [Gloves](Leather_Gloves.md) · [Boots](Leather_Boots.md)
 
 ## Description
 

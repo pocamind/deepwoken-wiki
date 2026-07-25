@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 221886
+revid: 222759
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipme
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Glorious, Martial, Radiant, Valiant |
 | innate stats | +1 Legendary Pip |

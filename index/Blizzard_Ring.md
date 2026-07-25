@@ -1,6 +1,6 @@
 ---
 title: Blizzard Ring
-revid: 220730
+revid: 222211
 source: https://deepwoken.fandom.com/wiki/Blizzard_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, Craftable]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, C
 
 | Blizzard Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | LVL 5 |

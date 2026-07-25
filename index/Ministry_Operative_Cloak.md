@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 220417
+revid: 222136
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -15,13 +15,13 @@ categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with No
 | selling price | 25 |
 | requirements | LVL 8 |
 | weight | 2 |
-| innate stats | +6% Stealth , +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +6% Stealth , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Eureka |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Layer 2, Crypt of the Unbroken, Duke Ishamon Erisia, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, War Mode, Saramaed HollowVow of Iron:, Mystery Boxes |
+| obtainment | Chests From:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Duke Ishamon Erisia, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, War Mode, Saramaed HollowVow of Iron:, Mystery Boxes |
 | description | ... |
 
 Variants: [Prophet's Operative Cloak](<Prophet's_Operative_Cloak.md>)

@@ -1,6 +1,6 @@
 ---
 title: "High Inquisitor's Hood"
-revid: 221782
+revid: 221992
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -13,16 +13,16 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | styles | Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan, Vermilion |
-| innate stats | 2 |
+| innate stats | +2 Legendary Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), The Starswept Valley, Fishing |
+| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Fishing |
 | description | A shroud worn proudly by highest ranking [sic] members of the Inquisition of the Central Authority. Orchestrating whole divisions of Inquisitors like relentless, haunting shadows, the High Inquisitors are the faithful eyes and ears of the Authority all over Lumen. |
 
 ## Description

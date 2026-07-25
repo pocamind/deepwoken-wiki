@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 210770
+revid: 222468
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Eq
 | type | Head |
 | rarity | Common |
 | selling price | 25 |
-| requirements | Power 20 |
+| requirements | LVL 20 |
 | weight | 1 |
 | innate stats | +4 Health , +1 Posture , +1 Legendary Pip |
 | innate talent | Fatal Strike |
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Eq
 | set talent | Lasting Trauma |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | Hell hath no fury like an Evanspear. |
@@ -32,7 +32,9 @@ Variants: [Plate](Reinforced_War_Plate.md) · [Boots](Reinforced_War_Boots.md)
 
 ## Description
 
-The Reinforced War Helmet is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow corinthian helmet, similar to Roman headgear.
+The Reinforced War Helmet is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set.
+
+The Reinforced War is a green and yellow corinthian helmet, similar to Roman headgear.
 
 If you have a [Wrath Gem](Wrath_Gem.md) equipped on your [Strength Mantras](Attunement-less.md#strength-mantras), [Fatal Strike](Talents.md#fatal-strike) empowers their guardbreaks, granting them a 20% damage buff and applying a 50% slow for 5.5 seconds. This has a 10 second cooldown.
 
@@ -53,6 +55,6 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 3.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 2 [Wrath Gems](Wrath_Gem.md).
 4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
 
-## Navigation
+## References
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

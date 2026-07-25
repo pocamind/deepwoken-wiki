@@ -1,6 +1,6 @@
 ---
 title: Necrotic Cowl
-revid: 215817
+revid: 222279
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head, Equipment with Talents, Equipment with Exclusive Talents]
@@ -20,12 +20,12 @@ categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonu
 | set talent | Bloodless Overdrive |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
-| obtainment | Crafting 1 Bloodfeather Cowl + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
+| obtainment | Crafting 1 Bloodfeather Cowl + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge of Leiuna |
 | description | ... |
 
-Variants: [Bloodfeather Cowl](Bloodfeather_Cowl.md) · [Bloodcurdle Cowl](Bloodcurdle_Cowl.md)
+Variants: [Bloodcurdle Cowl](Bloodcurdle_Cowl.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -47,8 +47,6 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) everytime you land a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] with a [Bloodless Gem](Bloodless_Gem.md). The amount is around 20% of scaled damage.
 
-  
+## References
 
-## Navigation
-
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 217347
+revid: 222724
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipme
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Tarnished, Unblemished |
 | innate stats | +2 Health , +1 Legendary Pip |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipme
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Primadon, The Diluvian Mechanism, Fishing, Lysander Spellhardt, Sold in Traan Zakshun's black market for 5 |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Primadon, The Diluvian Mechanism, Fishing, Lysander Spellhardt, Sold in Traan Zakshun's black market for 5 |
 | description | Worn by Tiran spiritual leaders, the wielder is safeguarded against the numerous sheer drops and falls of the Tiran homelands. Thought to have originated from a particularly gruesome succession crisis where a leader was shoved unceremoniously off a cliff following a sermon. |
 
 ## Description

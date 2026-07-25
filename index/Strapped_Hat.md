@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 215115
+revid: 222660
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 6 |
+| requirements | LVL 6 |
 | weight | 1 |
 | styles | Default, Grey Fabric, Double Fabric, Double Leather |
 | innate stats | +3 Health , +2 Rare Pips |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer (Both), Heart of Enmity (Black), The Doom of Caeranthil (Black), Primadon, Titan of the East (Black), Fishing (Double) |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Heart of Enmity, The Doom of Caeranthil, Primadon, Titan of the East, Fishing |
 | description | A hat typically worn by those from the Central Luminant. |
 
 ## Description

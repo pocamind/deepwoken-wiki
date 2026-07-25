@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 221324
+revid: 222719
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents, The Central Authority]
+categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents, Weapons of The Central Authority]
 ---
 
 # Inquisitor's Greatsword
@@ -61,4 +61,4 @@ Inquisitor's Greatsword uses the default Greatsword critical, an overhead swing.
 
 ## Trivia
 
--   Used to be called _Inquisitor's Straight Sword_ but was changed in the November 30th, 2024 update.
+-   Used to be called "Inquisitor's Straight Sword" but was changed in the November 30th, 2024 update.

@@ -1,6 +1,6 @@
 ---
 title: Trueblood Earrings
-revid: 215690
+revid: 222741
 source: https://deepwoken.fandom.com/wiki/Trueblood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses,
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.1 |
 | innate stats | +5 Ether +1 Rare Pip |
 | innate talent | Blood Convergence |

@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 218705
+revid: 222745
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -25,6 +25,10 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | pass down | Yes |
 | obtainment | Chests from:, Depths Island Sea Events |
 | description | ... |
+
+Vanguard Set
+
+Variants: [Brace](Vanguard_Brace.md)
 
 ## Description
 

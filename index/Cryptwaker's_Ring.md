@@ -1,6 +1,6 @@
 ---
 title: "Cryptwaker's Ring"
-revid: 221629
+revid: 222220
 source: https://deepwoken.fandom.com/wiki/Cryptwaker's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Equipment]
@@ -10,7 +10,7 @@ categories: [Rings, Equipment]
 
 | Cryptwaker's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | LVL 15 |

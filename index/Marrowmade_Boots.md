@@ -1,6 +1,6 @@
 ---
 title: Marrowmade Boots
-revid: 217520
+revid: 222091
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -12,8 +12,8 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 |---|---|
 | type | Legs |
 | rarity | Legendary |
-| selling price | 70 |
-| requirements | Power 15 |
+| selling price | 50 |
+| requirements | LVL 15 |
 | weight | 1 |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | Osseous Surge, Surestep |
@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 
 ## Description
 
-The **Marrowmade Boots** are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category. They are boots seemed to be made from the foot and head of a [Bonekeeper](Bone_Keeper.md).
+The **Marrowmade Boots** are an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. They are boots seemed to be made from the foot and head of a [Bonekeeper](Bone_Keeper.md).
 
 The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and flinging effect of the winds of the Second Layer. You are still affected by the harsh winds' movement debuffs.
 
@@ -36,9 +36,6 @@ The [Osseous Surge](Talents.md#osseous-surge) effect can be proc'ed via the mant
 
 ## Trivia
 
+-   These boots have an extremely small chance to be [Enchanted](Enchantments.md) when obtained.
 -   The damage increases by 50% going from 30 to 45 with the [Bone Ring](Bone_Ring.md).
 -   It's previous description read: "Boots crafted from what seems to be the foot and head of the [Bonekeeper](Bone_Keeper.md).
-
-## Navigation
-
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

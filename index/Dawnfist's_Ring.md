@@ -1,6 +1,6 @@
 ---
 title: "Dawnfist's Ring"
-revid: 221643
+revid: 222224
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Scaling Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings, Scaling Rings]
 
 | Dawnfist's Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 219732
+revid: 222596
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -489,6 +489,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
     -   After purchasing Multifaceted, all pre-existing characters will have their Aspect-given attribute points uninvested, while you keep any Talent or Mantra that you no longer meet the requirements of.
 -   Elementalist allows you to choose more than 2 elements during [Character Creation](Character_Creation.md). Additionally, this Echo Unlock allows you to freely allocate attribute points into the starting Attunements, such as starting a character with 3 Flame 2 Ice 3 Shadow and 2 Gale, or 9 Blood and 1 Thunder, etc. This will take points out of your starting points though.
+-   There previously was an Echo for consuming an [Attribute Flask](Attribute_Flasks.md) but [Attribute Flasks](Attribute_Flasks.md) have been recently removed
 
 ## Trivia
 

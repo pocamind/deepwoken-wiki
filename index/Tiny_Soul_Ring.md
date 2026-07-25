@@ -1,6 +1,6 @@
 ---
 title: Tiny Soul Ring
-revid: 199595
+revid: 222723
 source: https://deepwoken.fandom.com/wiki/Tiny_Soul_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 
 | Tiny Soul Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Relic |
 | selling price | 100 |
 | requirements | N/A |

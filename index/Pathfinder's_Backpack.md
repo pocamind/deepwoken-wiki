@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 220318
+revid: 222350
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -15,13 +15,13 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 | selling price | Unsellable |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +1 Uncommon Pip |
+| innate stats | +35 Carry Load , +1 Uncommon Pip |
 | innate talent | Robber Baron |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Bounties, First Layer |
+| obtainment | Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
 | description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
 
 ## Description
@@ -32,4 +32,4 @@ It's the lesser version of the [Grand Pathfinder's Backpack](<Grand_Pathfinder's
 
 ## Trivia
 
--   This item was added to the game in the weekly update of [April 12th, 2024](Version_History/2024.md#april-12th-2024)
+-   This item was added to the game in the weekly update of [April 12th, 2024](Version_History/2024.md#april-12th-2024).

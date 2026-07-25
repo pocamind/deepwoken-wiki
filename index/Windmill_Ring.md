@@ -1,6 +1,6 @@
 ---
 title: Windmill Ring
-revid: 220539
+revid: 222767
 source: https://deepwoken.fandom.com/wiki/Windmill_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,21 +10,23 @@ categories: [Equipment, Rings]
 
 | Windmill Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Rare |
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | +2% Elemental Armor , +2% Ice Armor +2% Wind Armor |
+| innate stats | +2% Elemental Armor , +2% Ice Armor , +2% Wind Armor |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow, Bounties, Sea Events, Lodestar Bounty job, Ancient Rotlands (Deep Cave), Chaser, Scholar of the Crimson Contract |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow, Bounties, Sea Events, Lodestar Bounty job, Ancient Rotlands (Deep Cave), Chaser, Scholar of the Crimson Contract |
 | description | Taking damage from ice or wind will cause you to regenerate ether. |
 
 ## Description
 
-**Windmill Ring** causes the user to restore Ether upon taking [Frostdraw](Frostdraw.md) or [Galebreathe](Galebreathe.md) damage, such as from Mantras, [After Cut](Talents.md#after-cut), [Apparitions](Talents.md#apparitions) and [Ghosts](Talents.md#whisper), Chilling [Enchant](Enchantments.md), or [Crystal Detonations](Talents.md#glassdancer). This also procs on block, parry, and dodge. The amount of Ether restored scales on damage taken.
+The Windmill Ring is an [Equipment](Equipment.md) item under the "Rings" category.
+
+It causes the user to restore Ether upon taking [Frostdraw](Frostdraw.md) or [Galebreathe](Galebreathe.md) damage, such as from Mantras, [After Cut](Talents.md#after-cut), [Apparitions](Talents.md#apparitions) and [Ghosts](Talents.md#whisper), Chilling [Enchant](Enchantments.md), or [Crystal Detonations](Talents.md#glassdancer). This also procs on block, parry, and dodge. The amount of Ether restored scales on damage taken.
 
 Windmill Ring cannot proc on self damage.

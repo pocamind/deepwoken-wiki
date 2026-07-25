@@ -1,6 +1,6 @@
 ---
 title: Seafarer Pendant
-revid: 220510
+revid: 222543
 source: https://deepwoken.fandom.com/wiki/Seafarer_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +1 Legendary Pip |
 | innate talent | N/A |
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing, First Layer, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Dread Serpent |
+| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Dread Serpent |
 | description | ... |
 
 ## Description

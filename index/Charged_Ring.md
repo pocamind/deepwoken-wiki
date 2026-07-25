@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 221618
+revid: 222217
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,7 +10,7 @@ categories: [Equipment, Rings]
 
 | Charged Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |
