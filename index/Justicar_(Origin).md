@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 221889
+revid: 223177
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -89,6 +89,7 @@ As you can only gain a maximum of 4 promotions which inludes Path promotions, yo
     -   Regardless of your currently equipped weapon, this will replace your critical attack/attacks with [Jus Karita](Jus_Karita.md)'s.
     -   The Jus Karita critical will adopt your equipped weapon's scaling stat.
     -   Having the Vanguard Style Talent will override this Talent, allowing you to use the Vanguard Style critical on any weapon instead of the Jus Karita one, at the cost of increasing your critical cooldown from 3 seconds to 8 seconds.
+
 -   **Justicar's Technique** - Replace your running light attack with the Jus Karita running light attack. With the Justicar's Training, your legs extend the range of this running attack by an extra 0.5.
 -   **Swiftfoot** - Reduce all slows you recieve by 10%.
 -   **Trained Legs** - Slightly increase your climb strength.
@@ -204,7 +205,8 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire]
     -   Prerequisite: Justicar's Mark
 -   **Righteous Violence** - Landing a Critical Attack heals your [marked](Status_Effects.md#justicars-mark) ally. Landing a [Jus Karita](Jus_Karita.md) critical or Karita Swap heals your marked ally even more.
     -   Prerequisite: Justicar's Mark
--   **Kindness** - Whenever you heal another player, heal 5 health yourself. \[3 second cooldown\]
+-   **Kindness** - Whenever you heal another player, heal 5 health yourself.
+    -   3 second cooldown.
 
   
 

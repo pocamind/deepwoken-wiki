@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 208767
+revid: 223182
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Mechanics, Humanoids with Unobtainable Outfits]
