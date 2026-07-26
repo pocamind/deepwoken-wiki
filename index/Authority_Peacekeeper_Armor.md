@@ -1,9 +1,9 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 220475
+revid: 223246
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, Outfits of The Central Authority, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Adept Outfits, Outfits, Outfits of The Central Authority, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Authority Peacekeeper Armor
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, Outfits of The Central Authority, Outfits w
 | durability | 1600 |
 | resistances | +15% Physical Armor , +10% Slash Armor , +10% Elemental Armor , +15% Fire Armor |
 | talents | Lowstride |
-| obtainment | Authority Ensign Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests From:, The Depths, Primadon, Erisia, Lodestar Bounty job, Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Authority Ensign Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests From:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Lodestar Bounty jobVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

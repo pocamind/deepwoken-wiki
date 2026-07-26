@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 219305
+revid: 223207
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -28,6 +28,8 @@ If it is raining, then a lightning strike will hit your opponent, dealing 33% of
 
 Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](Status_Effects.md#surge-rod) on proc.
 
+Similarly to a [Thundercall](Thundercall.md) Mantra, landing a Storm basic attack on an armor-broken [Monster](Monsters.md) will increase the duration of the stun by 25%. This also changes the color of the armor broken visual effect to match the Storm enchantment.
+
 ### Notes
 
 -   Storm's secondary damage instance cannot be buffed.
@@ -41,4 +43,3 @@ Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](St
 ## Trivia
 
 -   The lightning strike caused from proccing this enchantment while it is raining grants [Thundercall](Thundercall.md) experience.
--   If u stun **monster** and proc storm in same time - stun effect will consist of lightning in the same colour as the storm

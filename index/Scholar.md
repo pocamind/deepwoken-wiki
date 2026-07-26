@@ -1,9 +1,9 @@
 ---
 title: Scholar
-revid: 209575
+revid: 223241
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Scholar
@@ -19,7 +19,7 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, Outfits with Exclus
 | durability | 1000 |
 | resistances | +8% Physical Armor , +10% Elemental Armor |
 | talents | Scholar's Intuition |
-| obtainment | Chests from:, Erisia, The Depths, Moon's Eyrie, PrimadonSold by Traan Zakshun and Nyanna for 200 |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Moon's Eyrie, PrimadonSold by Traan Zakshun and Nyanna for 200 |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -41,6 +41,6 @@ The [Scholar's Intuition](Talents.md#scholars-intuition) Talent causes [Intellig
 
 ## Trivia
 
--   This Outfit was introduced in the 8/18/23 update, alongside the [Eager Tradesman](Eager_Tradesman.md) Outfit.
+-   This Outfit was introduced in the [August 18th, 2023](Version_History/2023.md#august-18th-2023) update, alongside the [Eager Tradesman](Eager_Tradesman.md) Outfit.
 -   This Outfit is known for being worn by the [Antiquarian](Antiquarian.md).
 -   With this Outfit's Talent, _Scholar's Intuition_, the time taken to gain a Willpower level by meditating is reduced from 31s to 22s, an increase of 30% efficiency.

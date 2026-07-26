@@ -1,9 +1,9 @@
 ---
 title: 11th Legion Plate
-revid: 212561
+revid: 223244
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, The Hundred Legions]
+categories: [Adept Outfits, Outfits, The Hundred Legions]
 ---
 
 # 11th Legion Plate
@@ -19,7 +19,7 @@ categories: [Outfits, Adept Outfits, The Hundred Legions]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +10% Physical Armor , +30% Blunt Armor |
-| obtainment | Sold by Traan Zakshun for 200 Chests from:, Erisia/General Sea Event Loot, Starswept Valley, The Depths, Moon's Eyrie, Deep Widow, Primadon |
+| obtainment | Sold by Traan Zakshun for 200 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Moon's Eyrie, Primadon |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

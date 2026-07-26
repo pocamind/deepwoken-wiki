@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 219662
+revid: 223186
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry, Individuals with unspecified pronouns]
@@ -82,3 +82,4 @@ Exact location of Soothsayer on the map:
 -   It takes 45 Knowledge from enemy rank to become hero rank.
 -   It would take 334 Knowledge to get 0-100,000 notes.
 -   This NPC is an easy way to get Ministry Reputation for the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
+-   The Dialog "AH! ALL SO CLEAR! THE VOW! OH, THE VOW THEY MADE! WHAT FOLLY! WHAT FOLLY!" is a reference to how the Celtor Guards/Soldiers made the Vows with a entity (Possibly the voices of the depths) to "Keep Celtor safe", However that vow really just made them and the Monsters not attack each other and made Angels Servants till death for the watchers. Making Celtor even more dangerous

@@ -1,9 +1,9 @@
 ---
 title: Bounty Hunter
-revid: 209581
+revid: 223248
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, Bandits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Adept Outfits, Outfits, Bandits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Bounty Hunter
@@ -19,7 +19,7 @@ categories: [Outfits, Adept Outfits, Bandits, Outfits with Talents, "Outfits wit
 | durability | 1500 |
 | resistances | +20% Physical Armor , +10% Elemental Armor |
 | talents | Lightweight |
-| obtainment | Erisia/General Sea Event Loot |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

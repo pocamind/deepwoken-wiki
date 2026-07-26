@@ -1,9 +1,9 @@
 ---
 title: Corsair Outlaw
-revid: 209564
+revid: 223235
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits, Bandits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Starter Outfits, Outfits, Bandits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Corsair Outlaw
@@ -17,7 +17,7 @@ categories: [Outfits, Starter Outfits, Bandits, Outfits with Talents, "Outfits w
 | durability | 1200 |
 | resistances | +15% Physical Armor , +10% Elemental Armor |
 | talents | Lightweight |
-| obtainment | Bandit (direct drop)Chests from:, Lower Erisia, Sea Events |
+| obtainment | Bandit (direct drop)Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

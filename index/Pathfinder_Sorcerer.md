@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Sorcerer
-revid: 209573
+revid: 223240
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Pathfinder Sorcerer
@@ -20,7 +20,7 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, "Outfits with Non-e
 | durability | 1000 |
 | resistances | +5% Physical Armor , +10% Elemental Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, The Depths, Fishing, Primadon |
+| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Primadon |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -40,7 +40,7 @@ This Outfit has 1000 durability, grants +5% Physical resistance ResistancePhysic
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
-## Trivia/Notes
+## Trivia
 
 -   Stats wise, Pathfinder Sorcerer is very lacking compared to others of the same level.
 -   The Pathfinder Sorcerer is a recolored and statistically inferior version of the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).

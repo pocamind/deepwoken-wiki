@@ -1,9 +1,9 @@
 ---
 title: Union Initiate
-revid: 213369
+revid: 223233
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Ignition Union]
+categories: [Starter Outfits, Pathfinder Exclusive, Outfits, The Ignition Union]
 ---
 
 # Union Initiate

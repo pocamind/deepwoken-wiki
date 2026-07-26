@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 216142
+revid: 223192
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters]
@@ -46,9 +46,9 @@ It was said that the eradication efforts against the Arkasids required an immens
 **Paralyzing Throw**  
 (★★☆)
 
- | The Arkasid Spits a purple projectile at the target, [Ragdolling](Status_Effects.md#ragdoll) the player and inflicting [Sleeping](Status_Effects.md#sleeping) if it lands.
+ | The Arkasid Spits a purple projectile at the target, [Ragdolling](Status_Effects.md#ragdoll) the player and inflicting [Paralyzed](Status_Effects.md#paralyzed) if it lands.
 
--   The [Sleeping](Status_Effects.md#sleeping) effect can be avoided by having the [Brick Wall](Talents.md#brick-wall) Talent, applying a slow instead.
+-   The [Paralzed](Status_Effects.md#paralzed) effect can be avoided by having the [Brick Wall](Talents.md#brick-wall) Talent, applying a slow instead.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -90,8 +90,8 @@ It was said that the eradication efforts against the Arkasids required an immens
 
 ## Tips
 
--   When fighting groups of Arkasids, block the **Paralyzing Throw** first before attacking as they do very low posture damage, and then attack them after. Attacking them before they use **Paralyzing Throw** may result in you being put to [Sleep](Status_Effects.md#sleep) if you dont have [Brick Wall](Talents.md#brick-wall); this will likely lead to you losing a considerable amount of Health from the subsequent attacks from all other Arkasids.
-    -   As mentioned above, having the [Brick Wall](Talents.md#brick-wall) Talent negates the [Ragdoll](Status_Effects.md#ragdoll) and [Sleep](Status_Effects.md#sleep) effects, applying a slow instead.
+-   When fighting groups of Arkasids, block the **Paralyzing Throw** first before attacking as they do very low posture damage, and then attack them after. Attacking them before they use **Paralyzing Throw** may result in you being [Paralyzed](Status_Effects.md#paralyzed) if you dont have [Brick Wall](Talents.md#brick-wall); this will likely lead to you losing a considerable amount of Health from the subsequent attacks from all other Arkasids.
+    -   As mentioned above, having the [Brick Wall](Talents.md#brick-wall) Talent negates the [Ragdoll](Status_Effects.md#ragdoll) and [Paralyzed](Status_Effects.md#paralyzed) effects, applying a slow instead.
 -   All of the Arkasid attacks deal very low posture damage, so blocking attacks is a valid strategy.
 -   Using the [Providence Thorns](<Providence's_Thorns.md>) enchantment is recommended, as parrying their **Spin Strikes** attack with it will deal a good amount of damage back to them.
 -   [Mute](Regalia.md) does not work on Arkasids.[\[2\]](#cite-note-2)

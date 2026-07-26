@@ -1,9 +1,9 @@
 ---
 title: Skeptic Pioneer
-revid: 209577
+revid: 223245
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Skeptic Pioneer
@@ -19,7 +19,7 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, "Outfits with Non-e
 | durability | 1200 |
 | resistances | +12% Physical Armor , +12% Elemental Armor |
 | talents | Apothecary |
-| obtainment | Sold in Etris weapon shop, Chests from:, Lower Erisia |
+| obtainment | Sold in Etris weapon shopChests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -37,4 +37,4 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1200 durability, grants +12% Physical resistance ResistancePhysical, and +12% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Apothecary](Talents.md#apothecary) Talent.
 
-The [Apothecary](Talents.md#apothecary) Talent causes potions that benefit the player have +125% potency. This potency is additive to potency from Intelligence investment.
+The [Apothecary](Talents.md#apothecary) Talent causes potions that benefit the player have +125% potency. This potency is additive to potency from Intelligence investment, but it is not listed in potion stats.

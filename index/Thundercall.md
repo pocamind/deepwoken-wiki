@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 219734
+revid: 223210
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -21,6 +21,12 @@ _A Thundercall infused sword_
 **Thundercall** is an [Attunement](Attunements.md) which grants the user the ability to control, conjure and create thunder and electricity, giving them access to abilities which focus on combat, stunning, and movement.
 
 Thundercall makes use of a highly unpredictable nature due to its speed and high slow/stun potential.
+
+## PvE Mechanic(s)
+
+Hitting an armor broken [Monster](Monsters.md) with a **Thundercall** Mantra will extend the stun, with the increased stun duration scaling on your Thundercall investment. At 100 Thundercall, this doubles the armor break stun for default Thundercall, and increases it by 50% for Surge Path Thundercall. This can only be applied once per armor break.
+
+The [Electrified](Status_Effects.md#electrified) status effect lasts twice as long on PvE enemies.
 
 ## Obtainment
 

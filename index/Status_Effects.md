@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 222936
+revid: 223215
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -80,7 +80,7 @@ While ragdolled, you gain slight damage reduction at the cost of your character 
 
 ### Knockdown
 
-While affected by knockdowns, you cannot move or cast any abilities. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Knockdowns are applied through various sources such as default heavy weapon criticals and certain [Mantras](Mantras.md). This effect is signified by your character being slammed into the ground briefly.
+While affected by knockdowns, you cannot move or cast any abilities. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Knockdowns are applied through various sources such as default heavy weapon criticals and certain [Mantras](Mantras.md). Upon being knocked down, gain a short duration of knockdown immunity. During knockdown immunity, gain [Daze](#daze) immunity as well. This effect is signified by your character being slammed into the ground briefly.
 
 ### Respite
 
@@ -113,7 +113,7 @@ An enhanced form of [Hyperarmor](#hyperarmor). Your attack becomes entirely unin
 
 ### Dazed
 
-Have your dodge frames lowered and be unable to sprint for a brief period. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras, criticals, or applied by certain Talents.
+Have your dodge frames lowered and be unable to sprint for a brief period. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied after being flourished into a wall and through several effects and abilities. You cannot be Dazed if you are under [Knockdown](#knockdown) Immunity. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras, criticals, or applied by certain Talents.
 
 #### True Daze
 
@@ -280,6 +280,28 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra, and through cert
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent is activatable, highlighting enemies when you hit them.
 -   At 70% Blood Poisoning, [Gruesome Harvest](Talents.md#gruesome-harvest) Talent is activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
 
+## Origin Applied
+
+These status effects are applied exclusively through [Origin](Origins.md)\-exclusive Talents or Mantras.
+
+### Glorious Charge
+
+\[[Authority Ensign](Authority_Ensign.md) [Authorityiconfaction](The_Central_Authority.md) \] Applied through the [Command Division](Authority_Ensign.md#command-division)'s [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra, all [squadmates](Authority_Ensign.md#squads) gain a [speed boost](#speed-boost) for 20 seconds and become unable to be knocked for 10. Signified by blue rings of light pulsing from your character.
+
+### Poison
+
+\[[Authority Ensign](Authority_Ensign.md) [Authorityiconfaction](The_Central_Authority.md) \] This effect is applied through the [Inquisition Division](Authority_Ensign.md#inquisition-division)'s [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This effect increases the [Shaky Block](Combat_Mechanics.md#posture) duration of your opponent by 20% for 8 seconds. The [Inquisition Light](Inquisition_Light.md) Outfit doubles the duration of this effect. Signified by green spirals on your character's body.
+
+### Alsin's Aid
+
+\[[Justicar](<Justicar_(Origin).md>)\] Applied through the [Warder Path](<Justicar_(Origin).md#warder-path>)'s [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) Mantra, gain increased healing from all sources and a [Speed Boost](#speed-boost) for 10 seconds. Signified by star-like particles emanating from the character.
+
+### Justicar's Mark
+
+\[[Justicar](<Justicar_(Origin).md>)\] Applied through the [Warder Path](<Justicar_(Origin).md#warder-path>)'s [Justicar's Mark](Talents.md#justicars-mark) Talent, gain 20% damage reduction and redirect 20% of the damage you would have taken to the Warder who applied this effect. Only one mark can be active at a time for each Warder. Strangely, the Justicar's Mark can be applied to non-allies, including [Monsters](Monsters.md) and [Bosses](Bosses.md), though there is no upside to this. This effect is signified by a white swirling ring emanating from affected targets.
+
+The Justicar's Mark effect can be augmented through several Warder Path Talents, granting additional upsides and/or reducing the downsides. For example, the [Righteous Violence](Talents.md#righteous-violence) Talent allows the Warder to heal their marked ally by landing critical attacks, the [Justicar's Blessing](Talents.md#justicars-blessing) Talent grants the marked ally increased healing, the [Mark Mastery](Talents.md#mark-mastery) Talent reduces the amount of damage the Warder takes from the redirection effect from 20% of the damage the marked ally takes to 5%, etc. (see [Justicar](<Justicar_(Origin).md#warder-path>) for more info).
+
 ## Oath Applied
 
 These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and attacks.
@@ -390,7 +412,7 @@ Applied from being hit by a player with the [Curse of Void](Curse_of_Void.md) en
 
 ### Kyrsan Chill
 
-Applied from being hit by a player with the [Kyrsan Chill](Kyrsan_Chill.md) enchant, gain slowness when being hit. Each stack makes you 20% slower. At 5 stacks, you'll be fully encased in ice. This can also be procced through [Kyrsan Gem](Kyrsan_Gem.md) and [Coldpoint](Coldpoint.md). [Kyrsan Chill](Kyrsan_Chill.md) is signified by a pink-ish glow on your torso.
+Applied from being hit by a player with the [Kyrsan Chill](Kyrsan_Chill.md) enchant, [Coldpoint](Coldpoint.md) critical attack, and [Kyrsan Gem](Kyrsan_Gem.md) Deep Gem, gain slowness when being hit. Each stack makes you 20% slower. If applied through the Kyrsan Chill enchantment, you'll be fully encased in ice upon reaching 5 stacks. Similar to [Frozen](#frozen), mashing F allows you to escape from the ice faster. Signified by a pink-ish glow on your torso.
 
 ## Mantra Applied
 
@@ -428,14 +450,6 @@ Applied from the [Reinforce](Attunement-less.md#reinforce) Mantra and [Golden To
 
 If the caster has [Lord's Tithe](Talents.md#lords-tithe) and buffs another player with [Reinforce](Attunement-less.md#reinforce), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. The Ether steal scales on the user's Shadowcast investment. Steals health from enemies in PvE. Signified by red Reinforce particles surrounding the body and a black tendril extending towards the caster; this visual stacks with the base Reinforce visual.
 
-### Glorious Charge
-
-Applied through the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra, all [squadmates](Authority_Ensign.md#squads) gain a [speed boost](#speed-boost) for 20 seconds and become unable to be knocked for 10. Signified by blue rings of light pulsing from your character.
-
-### Poison
-
-This effect is applied through the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This effect increases the [Shaky Block](Combat_Mechanics.md#posture) duration of your opponent by 20% for 8 seconds. The [Inquisition Light](Inquisition_Light.md) Outfit doubles the duration of this effect. Signified by green spirals on your character's body.
-
 ### Rallied
 
 All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#rally). Signified by your character emitting white circles.
@@ -464,15 +478,15 @@ Applied by the final hit of [Fractine](Fractine.md)'s Greatsword critical, this 
 
 ### Enlightened
 
-Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with extended [Hyperarmor](#hyperarmor) and gain Hyperarmor for the running critical. This status effect is applied by landing hits with the tip of the Imperator's Edge and is signified by a yellow halo above the character's head.
+Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with extended [Hyperarmor](#hyperarmor) and gain [Hyperarmor](#hyperarmor) for the running critical. This status effect is applied by landing hits with the tip of the Imperator's Edge and is signified by a yellow halo above the character's head.
 
 ### Krulian Charge
 
-Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a [Speed Boost](#speed-boost) for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
+Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a [Speed Boost](#speed-boost) and slight swing speed boost for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons during it, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
 
 ### Cruel Counter
 
-Applied if your attack gets interrupted by the [Krulian Knife's](Krulian_Knife.md) Krulian Charge critical attack. This effect grants a +40% damage modifier to all damage taken by critical attacks for the next 20 seconds. Any critical that hits you while you have this status effect will gain this damage bonus, even if it isn't from the Krulian Knife or the person who applied the status. This damage modifier **bypasses** the damage modifier cap. Signified by cackling purple electricity on your body.
+Applied by being hit by the [Krulian Knife](Krulian_Knife.md)'s Krulian Charge critical attack. This effect grants a damage modifier to all damage taken by critical attacks for the next 20 seconds. A strengthened version of this effect is applied if your attack is cancelled by this critical attack, increasing critical damage by +40% instead. Any critical that hits you while you have this status effect will gain this damage bonus, even if it isn't from the Krulian Knife or the person who applied the status. This damage modifier **bypasses** the damage modifier cap. Signified by cackling purple electricity on your body.
 
 ### Punishing Riposte
 
@@ -592,9 +606,9 @@ These status effects are applied through use of [Resonances](Resonance.md).
 
 Applied by standing within an ally's [Sacred Field](Sacred_Field.md) [Resonance](Resonance.md) zone. Gain physical, elemental, and sanity resistance, with the amount of each being based on the Resonance points of the Sacred Field user. Signified by vibrant particles emanating off your character. The color of these particles is based on the color of the Sacred Field, which is also dependent on Resonance points.
 
-### Sleeping
+### Paralyzed
 
-Become [Ragdolled](#ragdolled) and be unable to move for a duration. Being afflicted with [Sleeping](#sleeping) from [Paralytic Dust](Paralytic_Dust.md) will grant 90% damage reduction. If applied in the [First Layer](First_Layer.md), gain 100% damage immunity instead of damage reduction. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance and the [Arkasid](Arkasid.md)'s **Paralyzing Throw** attack. If the user has the self cast variant of the [Paralytic Dust](Paralytic_Dust.md) Resonance, they will also heal for the duration of the [Sleeping](#sleeping) effect. Cannot be applied to people with the [Brick Wall](Talents.md#brick-wall) Talent (including yourself). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
+Become [Ragdolled](#ragdoll) and be unable to move for a duration. This effect is automatically cleared if hit while Paralyzed. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance and the [Arkasid](Arkasid.md)'s **Paralyzing Throw** attack. Being afflicted with Paralyzed from the [Paralytic Dust](Paralytic_Dust.md) Resonance will grant 90% damage reduction and true damage immunity. If applied in the [First Layer](First_Layer.md), gain full damage immunity instead of damage reduction. If Paralyzed is applied while your character is [Knocked down](#knockdown), the knockdown will be negated. Upon waking up from being Paralyzed, gain [Knockdown](#knockdown) immunity, [Daze](#daze) immunity, and [Hyperarmor](#hyperarmor) for 2 seconds. Cannot be applied to people with the [Brick Wall](Talents.md#brick-wall) Talent (including yourself). Signified by "ZZZ" marks emanating from the player head.
 
 ## Talent Applied
 
@@ -728,11 +742,11 @@ This status effect can only be applied in PvE. Gain +30% elemental damage reduct
 
 ### Heal Boost
 
-This status effect can only be applied in PvE. Increase the amount of healing gained from targets who are affected by your Anti-Heal. Each Anti-Heal Talent grants a different amount of Heal Boost, and you need to have their effects active for this to activate. These Talents are: [All Above, Gods Below](Talents.md#all-above-gods-below) (+15%), [All the Dead Gods](Talents.md#all-the-dead-gods) (+5%), [Frostbite](Talents.md#frostbite) (+5%), [Saint Jay](Talents.md#saint-jay) (+10%), and [Sin Stacker](Talents.md#sin-stacker) (+10%) for a maximum possible Heal Boost of 45%.
+This status effect can only be applied in PvE. Increase the amount of offensive healing (e.g. [Bloodless Gems](Bloodless_Gem.md)) gained from attacking targets who are affected by your [Anti-Heal](#anti-heal). Each [Anti-Heal](#anti-heal) Talent grants a different amount of Heal Boost. These Talents are: [All Above, Gods Below](Talents.md#all-above-gods-below) (+15%), [All the Dead Gods](Talents.md#all-the-dead-gods) (+5%), [Frostbite](Talents.md#frostbite) (+5%),[Saint Jay](Talents.md#saint-jay) (+10%), and [Sin Stacker](Talents.md#sin-stacker) (+10%) for a maximum possible Heal Boost of 45%.
 
 ### Sluggish
 
-This status effect can only be applied in PvE. Upon proccing specific Talents that apply a slowing effect, also proc Sluggish. This effect reduces the damage enemies deal, with its duration being based on the slow that procced this effect.
+This status effect can only be applied in PvE. Upon proccing specific Talents that apply a slowing effect, also proc Sluggish. This effect reduces the damage enemies deal by 15%, with its duration being based on the slow that procced this effect.
 
 ### Fight
 
@@ -828,7 +842,9 @@ Your dashes are enhanced by the winds or thunder, increasing their distance trav
 
 ### Electrified
 
-Deal 10% less damage and have your damage type on basic attacks transfer to Thundercall damage. Applied through being hit by 5 hits from any [Thundercall](Thundercall.md) Mantra with the [Resolve Crusher](Talents.md#resolve-crusher) Talent. Signified by a swirling lightning effect in the users torso.
+Deal 10% less damage and have your damage type on basic attacks transfer to Thundercall damage. Applied through being hit by 5 hits from any [Thundercall](Thundercall.md) Mantra with the [Resolve Crusher](Talents.md#resolve-crusher) Talent. Signified by a swirling lightning effect on the afflicted's torso.
+
+This effect is enhanced if the applicator has the [Second Interrogation](Talents.md#second-interrogation) Talent, the reducing damage and posture damage dealt by the afflicted by 50% instead.
 
 ### Static Linked
 
@@ -846,7 +862,7 @@ When you reach 5 Static Blade stacks, clear all stacks and gain the Gathering El
 
 Applied by using the [Electrify](Talents.md#electrify) Talent tool. Grants a +10% damage modifier to weapon attacks, and allows you to apply [Shock](#shock) or [Surge Stacks](#overloaded) on your weapon attacks, depending on your chosen Thundercall path. Additionally, all incoming damage will be increased by 10%. This effect lasts 15 seconds. Signified by a colored conduit over your heart.
 
-This effect will be enhanced if you have the [Amplified Rage](Talents.md#amplified-rage) or [Amplified Reflexes](Talents.md#amplified-reflexes) Talents. If you have Amplified Rage, the damage buff will be doubled to +20%. If you have Amplified Reflexes, then you will gain +50% walk speed and 15% more climb height for the duration of Amped, at the cost of the self damage taken when casting Amped tripling and the cooldown doubling. These Talents are mutually exclusive with eachother.
+This effect will be enhanced if you have the [Amplified Rage](Talents.md#amplified-rage) or [Amplified Reflexes](Talents.md#amplified-reflexes) Talents. If you have Amplified Rage, the damage buff will be doubled to +20%. If you have Amplified Reflexes, then you will gain +50% walk speed and 15% more climb height for the duration of Amped. These Talents are mutually exclusive with eachother.
 
 ### Obscured
 

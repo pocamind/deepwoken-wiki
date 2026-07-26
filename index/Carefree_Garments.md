@@ -1,9 +1,9 @@
 ---
 title: Carefree Garments
-revid: 220432
+revid: 223249
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
+categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
 ---
 
 # Carefree Garments
@@ -18,7 +18,7 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, Outfits with Exclusiv
 | durability | 2000 |
 | resistances | +10% Physical Armor , +15% Elemental Armor |
 | talents | Fleetfoot |
-| obtainment | Diluvian Mechanism, First Layer chests, Carnival of Hearts, Erisia, Sea Events, Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Diluvian Mechanism, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Carnival of Hearts, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Dress) |

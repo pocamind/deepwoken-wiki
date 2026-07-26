@@ -1,9 +1,9 @@
 ---
 title: Eager Tradesman
-revid: 209568
+revid: 223236
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Eager Tradesman
@@ -19,7 +19,7 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, Outfits with Exclus
 | durability | 1000 |
 | resistances | +10% Physical Armor , +5% Elemental Armor |
 | talents | Knack |
-| obtainment | Sold by:, Traan Zakshun in Lower Erisia for 200 , Chests from:, First Layer, Fishing, Moon's Eyrie, Primadon, Sea Events, Erisia |
+| obtainment | Sold by:, Traan Zakshun in Lower Erisia for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Moon's Eyrie, Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
 | selling_price | 10 |
 | weight | 1 |
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 219737
+revid: 223208
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,9 +20,11 @@ Bloodrend Icon
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
-It's extremely effective at long to mid range. To counter this attunement, prioritize staying up close and applying constant pressure, as Bloodrend lacks close range low windup mantras. Keep in mind that any mistake is likely to lead to you getting severely punished by the Bloodrend user, even at close range from Mantras like Bloodcurdle.
+It's extremely effective at long to mid range. To counter this attunement, prioritize staying up close and applying constant pressure, as Bloodrend lacks close range low windup mantras. Keep in mind that any mistake is likely to lead to you getting severely punished by the Bloodrend user, even at close range from Mantras like [Bloodcurdle](Bloodrend.md#bloodcurdle).
 
-Bloodrenders can leverage the **Hemorrhaging** mechanic, dealing 17.5% (scaling off of blood/power) of a PvE enemy's current health once a threshold of blood drain is met. This threshold can be built up by using any source of blood drain, not exclusively Bloodrend. When this procs, the enemy will lose a percentage of the blood poisoning you've applied to them.
+## PvE Mechanic(s)
+
+Bloodrenders can leverage the **Hemorrhaging** mechanic, dealing a percentage, scaling on Bloodrend investment and player level, of a PvE enemy's current health in a singular damage instance, once a threshold of blood loss is met. At Power 20 with 100 Bloodrend, this deals 17.5% of the target's current health. This threshold can be built up by using any source of blood loss, not exclusively Bloodrend, and does not explicitly require thr player to be a Bloodrender to use. When this procs, the enemy will lose a percentage of the [Blood Poisoning](Status_Effects.md#blood-poisoning) you've applied to them.
 
 ## Obtainment
 
