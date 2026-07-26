@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 222423
+revid: 222962
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Chime of Conflict, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Chime of Conflict, Dread Serpent |
 | description | ... |
 
 Variants: [Veteran Ranger's Boots](<Veteran_Ranger's_Boots.md>)

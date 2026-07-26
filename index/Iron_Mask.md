@@ -1,6 +1,6 @@
 ---
 title: Iron Mask
-revid: 222002
+revid: 223046
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Bounties, Primadon, Titan of the East |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Dread Serpent, Interluminary Parasol, Bounties, Primadon, Titan of the East |
 | description | A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority. |
 
 Variants: [Armored Sensor Mask](Armored_Sensor_Mask.md)

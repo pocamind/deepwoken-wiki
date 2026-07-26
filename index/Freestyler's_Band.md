@@ -1,6 +1,6 @@
 ---
 title: "Freestyler's Band"
-revid: 222242
+revid: 223141
 source: https://deepwoken.fandom.com/wiki/Freestyler's_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode, Lodestar Bounty job, Chime of Conflict, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Chime of Conflict, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Swim like some famous swimmer. Just like Mikhael Felps. |
 
 ## Description

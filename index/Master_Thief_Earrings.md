@@ -1,6 +1,6 @@
 ---
 title: Master Thief Earrings
-revid: 222096
+revid: 223094
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Overrun Authority Fort Sea Event, Maestro Evengarde Rest, The Ferryman (Summer/Autumn) |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, The Ferryman (Summer/Autumn) |
 | description | ... |
 
 ## Description

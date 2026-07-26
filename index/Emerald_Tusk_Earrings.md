@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 221950
+revid: 223093
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Earrings]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears, Earrings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Fishing, Kujae, Maestro Evengarde Rest, The Understrand, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
+| obtainment | Chests from:, Duke Ishamon Erisia, Fishing, Kujae, The Understrand, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs |
 | description | ... |
 
 ## Description

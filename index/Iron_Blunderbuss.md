@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 221328
+revid: 223018
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
@@ -29,7 +29,7 @@ categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Summit, Duke Ishamon Erisia, The Doom of Caeranthil, Maestro Evengarde Rest, Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Diluvian Mechanism, Interluminary Parasol, Heart of Enmity, Sea Events, Scion of Ethiron, Dread Serpent, War Mode |
+| obtainment | Chests from:, Saramaed Summit, Duke Ishamon Erisia, The Doom of Caeranthil, Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Diluvian Mechanism, Interluminary Parasol, Heart of Enmity, Scion of Ethiron, Dread Serpent, War Mode |
 | description | Rustic and shabby in design, this application of Rosen's gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer Company's earliest gunsmithing experiments. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 219201
+revid: 223127
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +25% Physical Armor , +30% Elemental Armor , +25% Wind Armor |
 | buffs | +50% Ether Regen |
 | talents | Wind Dancer |
-| obtainment | The Diluvian Mechanism, Maestro Evengarde Rest, Scion of Ethiron, Sold by Glaive Spellhardt for 100 Joy |
+| obtainment | The Diluvian Mechanism, Scion of Ethiron, Maestro Evengarde Rest, Sold by Glaive Spellhardt for 100 Joy |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

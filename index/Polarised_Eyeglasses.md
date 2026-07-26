@@ -1,6 +1,6 @@
 ---
 title: Polarised Eyeglasses
-revid: 222277
+revid: 222974
 source: https://deepwoken.fandom.com/wiki/Polarised_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Duke Ishamon Erisia, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Dread Serpent |
 | description | ... |
 
 ## Description

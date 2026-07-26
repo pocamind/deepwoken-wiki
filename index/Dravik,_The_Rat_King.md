@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 216024
+revid: 223151
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Humanoids with Unobtainable Outfits, Enemies]
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, 
 |---|---|
 | health | 6000 |
 | drops | 3 Knowledge, 2,500 Notes, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
-| weapon | Soulwrought Axe |
+| weapon | The King's Greataxe |
 | moves | Axe Swings, Critical, Feint, Golden Tornado, Gilded Rushdown, Aureate Flourish, Gilded Left, Glowing Slashes, Ruler's Rush, Three Swing Cleave, Pasmarkintini, Sparkle Blitz, Rodent Pounce, Rites of the Rat, King's Might: Glistening Crush |
 | affiliation | The Golden Rats |
 
@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 Dravik, the Rat King is an instanced [boss](Bosses.md) fought in the [Vault of the Aureate](Vault_of_the_Aureate.md) which is a boundary located in the [The Golden Rat](The_Golden_Rat.md), near eastern most Waterlock in the [Etrean Luminant](Luminants.md). He is the first King of the Golden Rats and the one enforcing the Golden Rule. This boss is not optional, as he is mandatory to fight the [True Heart of Enmity](True_Heart_of_Enmity.md). The fight unlocks the [Flashing Thunder](Flashing_Thunder.md) [Memento](Mementos.md) upon defeat while using the [Sightless](Sightless.md) [Memento](Mementos.md). When Dravik is killed, he appears as a memory inside the [The Cerebral Spire](The_Cerebral_Spire.md). Upon talking to him, he will tell you to destroy the statue inside [Etris Palace](Etris_Palace.md) to break the barrier protecting [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>). To destroy the statue, you need to defeat the True Heart of Enmity in the [Depths Trial](Cathedral_of_the_Interstice.md#the-trial).
 
-He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs, resembling what could be a darker version of the [Imperial Pauldrons](Imperial_Pauldrons.md) and [Imperial Boots](Imperial_Boots.md). A worn, dark cloak or scarf hangs from his shoulders, similar in appearance to a [Brilliant Cape](Brilliant_Cape.md) dyed black. He uses a custom version of the [Soulwrought Greataxe](Crazy_Slots.md) as his arsenal with a glowing golden crescent blade, suggesting it has been magically enhanced. The handle is dark iron and made for a strong grip.
+He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs, resembling what could be a darker version of the [Imperial Pauldrons](Imperial_Pauldrons.md) and [Imperial Boots](Imperial_Boots.md). A worn, dark cloak or scarf hangs from his shoulders, similar in appearance to a [Brilliant Cape](Brilliant_Cape.md) dyed black. He uses a custom Greataxe as his weapon, which has a glowing golden crescent blade.
 
 ### Starting the Fight with Dravik
 

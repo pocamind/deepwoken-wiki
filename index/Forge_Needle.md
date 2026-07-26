@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 200228
+revid: 223124
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -20,6 +20,8 @@ categories: [Pathfinder Exclusive, Relics]
 | pass down | No |
 | desc | When coated with Smith's Alloy, an Armorer's Needle can be used to elevate the qualities inherent with Equipment. |
 | obtainment | Crafting, Sold in Traan Zakshun's black market for 2 |
+
+Variants: [Armorer's Needle](<Armorer's_Needle.md>) · [Gilded Needle](Gilded_Needle.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

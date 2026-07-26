@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 221594
+revid: 223108
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Pure Ore Turn-ins, Chime of Conflict, Bounties, Fishing, Meteor Isle, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Pure Ore Turn-ins, Chime of Conflict, Bounties, Fishing, Meteor Isle, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest |
 | description | A tightly wound blindfold to hide the horrors of the world from your waking eyes. |
 
 ## Description
@@ -34,6 +34,6 @@ The [Blinded](Talents.md#blinded) Talent applies the [Blinded](Status_Effects.md
 ## Trivia
 
 -   Model wise, the Crimson and Black blindfold are visually the exact same, just with different colors.
--   [Gremors](Gremor.md) get a small circle of clear vision around them when affected by the Blinded Talent.
+-   [Gremor](Gremor.md) get a small circle of clear vision around them when affected by the Blinded Talent.
 -   The [Blinded](Talents.md#blinded) Talent originally made the screen completely black so the user could not see anything other than chat messages and the GUI.
 -   Many players used this to troll freshies by tricking them into equipping it, as the blindfold could not be removed without a campfire, removing it through the inventory, or equipping another piece of face equipment. Since finding a campfire was extremely difficult while completely blinded, many unsuspecting players would end up stranded. (At least back then.)

@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 221508
+revid: 223001
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Shields]
@@ -22,12 +22,12 @@ categories: [Weapons, Offhand, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract, Deep Widow, Dread Serpent, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Fishing, Heart of Enmity, Interluminary Parasol, Maestro Evengarde Rest, Merchant Ships, Saramaed Hollow, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Diluvian Mechanism, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Doom of Caeranthil, War Mode |
+| obtainment | Chaser, Scholar of the Crimson Contract, Dread Serpent, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Heart of Enmity, Interluminary Parasol, Merchant Ships, Saramaed Hollow, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Diluvian Mechanism, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Doom of Caeranthil, War Mode |
 | description | A venerated shield, donned only by those who have walked their own Path as they see fit. |
 
 ## Description
 
-The Path's Defender is a [Offhand](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 75 Fortitude.
+The Path's Defender is an [Offhand](Weapons.md) in the [Shields](Shields.md) category. The requirement to wield it is 75 Fortitude.
 
 The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 

@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 222254
+revid: 223142
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Miner's Landing, Faction Ambushes (The Ignition Union), Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Scion of Ethiron, Cinders of Etris, Chime of Conflict, Pure ore turn-ins, Authority Ensign Missions, Lodestar Bounty job, Heart of Enmity, Deep Widow, Primadon, Titan of the East |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Miner's Landing, Faction Ambushes (The Ignition Union), Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Scion of Ethiron, Maestro Evengarde Rest, Cinders of Etris, Chime of Conflict, Pure ore turn-ins, Authority Ensign Missions, Lodestar Bounty job, Heart of Enmity, Deep Widow, Primadon, Titan of the East |
 | description | Ring of the infamous thief Emiya Konga. Allows the user to slide with little delay. |
 
 ## Description

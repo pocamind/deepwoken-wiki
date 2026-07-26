@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 213693
+revid: 222998
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ignition Union, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, The Ignition Union, Outfits with Talents, 
 | resistances | +30% Physical Armor +35% Elemental Armor , +15% Ironsing Armor , +15% Ice Armor |
 | buffs | +20% Ether Regen |
 | talents | Force Your Way |
-| obtainment | Layer 2, Scion of Ethiron, The Diluvian Mechanism, Glaive SpellhardtVow of Iron:, Mystery Boxes |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, The Diluvian Mechanism, Glaive SpellhardtVow of Iron:, Mystery Boxes |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

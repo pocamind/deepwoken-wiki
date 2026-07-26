@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 222768
+revid: 223019
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment of The Central Authority]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Equipment of The Central Authority]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Heart of Enmity, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Heart of Enmity, Chaser, Scholar of the Crimson Contract, Dread Serpent |
 | description | ... |
 
 Winter Corps Set

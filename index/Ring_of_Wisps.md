@@ -1,6 +1,6 @@
 ---
 title: Ring of Wisps
-revid: 222492
+revid: 223058
 source: https://deepwoken.fandom.com/wiki/Ring_of_Wisps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
+| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Heart of Enmity, Dread Serpent, Saramaed Hollow, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
 | description | These essence of the soul gathers around the gemstone of this ring, granting additional strength to bound wisps. |
 
 ## Description

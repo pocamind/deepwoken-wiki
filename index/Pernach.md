@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 221398
+revid: 223105
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -33,12 +33,12 @@ categories: [Weapons, Clubs, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Saramaed Hollow, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Interluminary Parasol, War Mode, Dread Serpent |
+| obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Saramaed Hollow, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Interluminary Parasol, War Mode, Dread Serpent |
 | description | ... |
 
 ## Description
 
-The **Pernach** is a medium blunt weapon in the [Club](Clubs.md) category. This flanged mace, considered to be the endgame version of the [Mace](Mace.md), has innate bleed and high armor penetration, making it one of the stronger weapons within its subclass.
+The **Pernach** is a medium blunt [weapon](Weapons.md) in the [Club](Clubs.md) category. This flanged mace, considered to be the endgame version of the [Mace](Mace.md), has innate bleed and high armor penetration, making it one of the stronger weapons within its subclass.
 
 ## Critical
 

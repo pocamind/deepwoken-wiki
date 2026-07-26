@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 221299
+revid: 222960
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -33,7 +33,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Lodestar Bounty job, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Sold in Traan Zakshun's black market for 4 |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Scion of Ethiron, Duke Erisia, Fishing, Lodestar Bounty job, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Sold in Traan Zakshun's black market for 4 |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
 Variants: [Eyes of Ethiron](Eyes_of_Ethiron.md)
@@ -62,7 +62,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   The original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
 -   This is one of the most widely recognized weapons in Deepwoken, even extending to real life blacksmithing!
     -   [Forging the Curved Blade of Winds from Deepwoken! Roblox](https://youtu.be/MFUmEsBYf9E?si=JeNeFasI0o-CkMUy) (YouTube video showing someone smelt a real Curved Blade)
--   The original updated Curved Blade of Winds contained an absurd 120k vertices. Following the March 27th, 2023 update, this was reduced to a mere 7k vertices.
+-   The original updated Curved Blade of Winds contained an absurd 120k vertices. Following the [March 27th, 2023](Version_History/2023.md#march-27th-2023) update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds features two sets of lines written in runes that run alongside the blade's markings.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
     -   You however can have a shield on your back in both stances, allowing you to utilize the [Turtle Shell](Talents.md#turtle-shell) Talent.

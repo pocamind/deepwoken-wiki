@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 221209
+revid: 222986
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -23,8 +23,12 @@ categories: [Equipment, Head, Hoods]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Faction Ambushes (The Ignition Union), Miner's Landing, Saramaed Hollow |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Miner's Landing, Faction Ambushes (The Ignition Union), Saramaed Hollow |
 | description | ... |
+
+Deepwoken Set
+
+Variants: [Cloak](Deepwoken_Cloak.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 222553
+revid: 222987
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Dread Serpent, Deep Widow, Heart of Enmity, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Maestro Evengarde Rest, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
+| obtainment | Chests from:, Duke Ishamon Erisia, Dread Serpent, Deep Widow, Heart of Enmity, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
 | description | ... |
 
 ## Description

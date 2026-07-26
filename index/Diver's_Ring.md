@@ -1,6 +1,6 @@
 ---
 title: "Diver's Ring"
-revid: 221911
+revid: 222994
 source: https://deepwoken.fandom.com/wiki/Diver's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict, Heart of Enmity, The Diluvian Mechanism, Maestro Evengarde Rest |
+| obtainment | Chests from:, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict, Heart of Enmity, The Diluvian Mechanism |
 | description | Deal +5% damage to Monsters in the Depths. |
 
 ## Description

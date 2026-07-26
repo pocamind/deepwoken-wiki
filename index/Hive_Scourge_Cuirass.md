@@ -1,6 +1,6 @@
 ---
 title: Hive Scourge Cuirass
-revid: 221983
+revid: 223028
 source: https://deepwoken.fandom.com/wiki/Hive_Scourge_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Cuirasses, Equipment with Talents, "Equipment with
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Maestro Evengarde Rest, Interluminary Parasol, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Bought from Merchant Ships |
+| obtainment | Duke Ishamon Erisia, Interluminary Parasol, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Bought from Merchant Ships |
 | description | ... |
 
 ## Description

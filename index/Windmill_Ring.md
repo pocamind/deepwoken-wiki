@@ -1,6 +1,6 @@
 ---
 title: Windmill Ring
-revid: 222767
+revid: 223115
 source: https://deepwoken.fandom.com/wiki/Windmill_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow, Bounties, Sea Events, Lodestar Bounty job, Ancient Rotlands (Deep Cave), Chaser, Scholar of the Crimson Contract |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Saramaed Hollow, Bounties, Maestro Evengarde Rest, Lodestar Bounty job, Ancient Rotlands (Deep Cave), Chaser, Scholar of the Crimson Contract |
 | description | Taking damage from ice or wind will cause you to regenerate ether. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 222338
+revid: 223068
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Deep Widow, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Ancient Rotlands (Deep Cave) |
+| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Deep Widow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Heart of Enmity, Dread Serpent, Chime of Conflict, Ancient Rotlands (Deep Cave) |
 | description | You deal +20% extra damage to factions who hate you. |
 
 ## Description

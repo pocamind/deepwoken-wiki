@@ -1,6 +1,6 @@
 ---
 title: Thresher Charm
-revid: 222721
+revid: 223160
 source: https://deepwoken.fandom.com/wiki/Thresher_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso]
@@ -30,6 +30,8 @@ categories: [Equipment with Styles, Equipment, Torso]
 The Thresher Charm is an [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Thresher Thrasher](Talents.md#thresher-thrasher) Talent enhances the [Beast Burrow](Monster_Mantras.md) Mantra, increasing the duration you can remain underground by 30% and reducing the Mantra's cooldown by 25%.
+
+  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 217897
+revid: 223113
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Humanoid Bosses, Bosses, Etrea]
@@ -11,7 +11,7 @@ categories: [Pathfinder Exclusive, NPCs, Humanoid Bosses, Bosses, Etrea]
 | Maestro Evengarde Rest | |
 |---|---|
 | health | 15000 |
-| drops | Large chest, Purple Cloud (Guaranteed on the first kill with Medium), Pale Briar (Guaranteed on first kill with Heavy), Cerulean Thread (Guaranteed on first kill with Light), Windrunner Robes, Wyrmtooth, Curved Blade of Winds, Crypt Blade, Imperial Staff, Drops Smith's Alloy, Sinner's Ash and Armorer's Needle, Misc. (See Lootpool) |
+| drops | Large chest, Purple Cloud (Guaranteed on the first kill with Medium), Pale Briar (Guaranteed on first kill with Heavy), Cerulean Thread (Guaranteed on first kill with Light), Misc. (See Lootpool) |
 | weapon | Shattered Katana |
 | pronouns | He/him[1] |
 | affiliation | Etrea |
@@ -293,14 +293,13 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 
 Upon defeating Maestro, he will drop a large chest containing many different item including:
 
--   **On First Kill**, and at/above 75 WEP (you might need to be unbound), he is guaranteed to drop your weapon classes respective weapon being:
+-   **On First Kill**, and with [Weapons Unbound](Attributes_Unbound.md) or [Silentheart](Oath%253A_Silentheart.md), he is guaranteed to drop your weapon classes respective weapon being:
     -   [Cerulean Thread](Cerulean_Thread.md) (LHT)
     -   [Purple Cloud](Purple_Cloud.md) (MED)
     -   [Pale Briar](Pale_Briar.md) (HVY)
 -   Multiple Mid-Late Game [Weapons](Weapons.md) for each weapon class, along with [Deep Gems](Deep_Gems.md), Legendary Rings and other [Equipment](Equipment.md).
 -   The [Windrunner Robes](Windrunner_Robes.md) and other Outfits.
--   Rarely, the [Monastery Champion Set](Monastery_Champion_Robes.md), the [Imperial Staff](Imperial_Staff.md), or [Lesser Relics](Relics.md)
--   Extremely Rarely, a [Sinner's Ash](<Sinner's_Ash.md>)
+-   Rarely, the [Monastery Champion Set](Monastery_Champion_Robes.md) or [Lesser Relics](Relics.md)
 
 Despite his loot-pool's variety and size, he will mainly drop [Enchant Stones](Enchant_Stone.md), and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md) due to the ease and speed of accessing his fight.
 
@@ -309,8 +308,6 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 ### 
 
 Exhaustive Loot Table
-
-**Keep in mind that this list is still incomplete.**
 
 <table>
 <tbody>
@@ -326,29 +323,22 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a>, though Wind Gem has more chance to drop than others.</li>
-    <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Extremely Rare)</li>
-  </ul></li>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Blessed_Gem.md">Blessed Gem</a>, <a href="Bloodless_Gem.md">Bloodless Gem</a>, <a href="Blue_Gem.md">Blue Gem</a>, <a href="Insignia_Gem.md">Insignia Gem</a>, <a href="Wayward_Gem.md">Wayward Gem</a>, <a href="Wind_Gem.md">Wind Gem</a> (guaranteed)</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>. However, their drop chances significantly decrease after the first kill.)</li>
+    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.</li>
     <li>[Note: You can receive any of the exclusive weapons, they just have a very low drop rate after the first kill]
   <ol>
     <li><a href="Cerulean_Thread.md">Cerulean Thread</a> (Light)</li>
     <li><a href="Purple_Cloud.md">Purple Cloud</a> (Medium)</li>
     <li><a href="Pale_Briar.md">Pale Briar</a> (Heavy)</li>
   </ol></li>
-    <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Crypt_Blade.md"><font>Crypt Blade</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a></li>
     <li><b>Hybrid Weapons</b>: <a href="Wyrmtooth.md">Wyrmtooth</a></li>
     <li><b>Alloyed Weapons</b>: <a href="Katana.md">Alloyed Katana</a></li>
     <li><b>Generic Weapons</b>:
@@ -364,29 +354,16 @@ Exhaustive Loot Table
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
-  <ol>
-    <li><b>Legendary Head</b>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a>.</li>
-    <li><b>Generic Head</b>:</li>
-  </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
-  <ol>
-    <li><b>Legendary Arms</b>: <a href="Monastery_Champion_Robes.md"><font>Monastery Champion Robes</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Blademaster's_Robe.md">Blademaster's Robe</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
-  <ol>
-    <li><b>Legendary Torso</b>: <a href="Monastery_Beads.md"><font>Monastery Beads</font></a>.</li>
-    <li><b>Generic Torso</b>: <a href="Etrean_Sashimono.md">Etrean Sashimono</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Legs Equipment</b></a>: <a href="Geta.md">Geta</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Blademaster's_Robe.md"><font>Blademaster's Robe</font></a>, <a href="Monastery_Champion_Robes.md"><font>Monastery Champion Robes</font></a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Geta.md"><font>Geta</font></a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Etrean_Sashimono.md"><font>Etrean Sashimono</font></a>, <a href="Monastery_Beads.md"><font>Monastery Beads</font></a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
-    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li>
-    <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
+    <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a></li>
+    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Windmill_Ring.md">Windmill Ring</a></li>
   </ol></li>
   </ul></td>
 </tr>

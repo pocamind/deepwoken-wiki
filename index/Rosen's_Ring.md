@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 222859
+revid: 223137
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Scaling Rings, Equipment of The Summer Company]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, Scaling Rings, Equipment of The Summer Company]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Cinders of Etris, The Doom of Caeranthil, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Interluminary Parasol, Saramaed Hollow, Pure Ore Turn-ins, Maestro Evengarde Rest, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Cinders of Etris, The Doom of Caeranthil, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Maestro Evengarde Rest, Interluminary Parasol, Saramaed Hollow, Pure Ore Turn-ins, Ancient Rotlands (Deep Cave) |
 | description | A ring once worn by a genius inventor. Said to have been discarded once he turned to other methods of inspiration. +1.2 INT scaling to all weapons. |
 
 ## Description

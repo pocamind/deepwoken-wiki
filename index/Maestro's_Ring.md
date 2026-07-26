@@ -1,6 +1,6 @@
 ---
 title: "Maestro's Ring"
-revid: 222085
+revid: 223133
 source: https://deepwoken.fandom.com/wiki/Maestro's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Etrea, Scaling Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, Etrea, Scaling Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Aelita, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Interluminary Parasol, The Doom of Caeranthil, Maestro Evengarde Rest, Lodestar Bounty job, Trading with Jeremiah, Saramaed Hollow, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Aelita, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Maestro Evengarde Rest, Interluminary Parasol, The Doom of Caeranthil, Lodestar Bounty job, Trading with Jeremiah, Saramaed Hollow, Ancient Rotlands (Deep Cave) |
 | description | A ring once worn by a Maestro of the Vigils. Passed down from mentor to student, it seems the line of succession was broken for it to end up in your hands. +1.2 AGL scaling to all weapons. |
 
 ## Description

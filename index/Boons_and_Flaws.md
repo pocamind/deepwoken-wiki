@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 221172
+revid: 223152
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -334,7 +334,7 @@ These Flaws are granted via specific means instead of being chosen during charac
 -   The Restless Flaw was originally obtainable when [Oathbreaking](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) [Oathless](Oath%253A_Oathless.md) and using [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), however this Flaw is currently unobtainable.
 -   The [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) used to grant a random base Flaw on use, this was removed during the [September 6th, 2025](Version_History/2025.md#september-6th-2025) update.
 -   There used to be more Boons and Flaws. The currently known ones are Adept (likely the original version of the Talent) and Seasick.
--   The icon for thr Restless Flaw is a [Troll Face](https://en.wikipedia.org/wiki/Troll_Face) of [Haske Vantage](Developer_Specs.md#arch-mage-haske-vantage), developer Arch\_Mage's [Primal Vesperian](Primal_Vesperian.md).
+-   The icon for the Restless Flaw is a [Troll Face](https://en.wikipedia.org/wiki/Troll_Face) of [Haske Vantage](Developer_Specs.md#arch-mage-haske-vantage), developer Arch\_Mage's [Primal Vesperian](Primal_Vesperian.md).
 -   While not confirmed, Wishbound's passive insanity gain shares some similarities with the Latin concept/word, lunaticus. Within it's Latin origins, the word refers to diseases caused by the moon, such as madness or epilepsy.
 
 Having the _Blind_ Flaw at night. (No, this isn't just a black image. Look carefully.)

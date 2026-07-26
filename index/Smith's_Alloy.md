@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 211997
+revid: 223110
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | A cruder form of the famed Pluripotent Alloy, this fusion of rare metals is still renowned for its ability to draw out hidden strength in weapons. |
-| obtainment | Duke Erisia, The Ferryman, Primadon's Gem Chest, Elder Primadon, The Titan Warlord, Fishing, Etris: Siege, The Diluvian Mechanism, Heart of Enmity, War Mode, The Doom of Caeranthil, Maestro Evengarde Rest, Bounty Hunting, Saramaed Hollow, Titus Fulminus Destellus, Hollow Forge, Lysander Spellhardt, Deep Widow, Diver Expedition Sea Event, Carnival of Hearts, Weird Trader, Sold in Traan Zakshun's black market for 3 |
+| obtainment | Duke Ishamon Erisia, The Ferryman, Primadon's Gem Chest, Elder Primadon, The Titan Warlord, Fishing, Cinders of Etris, The Diluvian Mechanism, Heart of Enmity, War Mode, The Doom of Caeranthil, Bounties, Saramaed Hollow, Titus Fulminus Destellus, Hollow Forge, Lysander Spellhardt, Deep Widow, Diver Expedition Sea Event, Carnival of Hearts, Weird Trader, Sold in Traan Zakshun's black market for 3 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ## Farming
 
-Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), the [Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
+Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), [the Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
 
 They can also be found less consistently from completing [Voidwalker](Voidwalker.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
 

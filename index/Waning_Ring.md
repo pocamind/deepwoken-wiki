@@ -1,6 +1,6 @@
 ---
 title: Waning Ring
-revid: 222754
+revid: 223073
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Understrand, Saramaed Hollow, Aelita, The Ferryman, The Doom of Caeranthil, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Interluminary Parasol, Ancient Rotlands (Deep Cave), Moon's Eyrie, Lodestar Bounty job, Primadon, Titan of the East, Maestro Evengarde Rest, The Diluvian Mechanism |
+| obtainment | The Understrand, Saramaed Hollow, Aelita, The Ferryman, The Doom of Caeranthil, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Interluminary Parasol, Ancient Rotlands (Deep Cave), Moon's Eyrie, Lodestar Bounty job, Primadon, Titan of the East, The Diluvian Mechanism |
 | description | A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike. |
 
 ## Description

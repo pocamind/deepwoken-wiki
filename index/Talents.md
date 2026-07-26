@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 222880
+revid: 222933
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -637,6 +637,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Bloodrender
 
 -   Bloodrender \[Mantra Level Talent, Bloodrend\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] replenish your blood, steal blood and apply '[Blood Poisoning](Status_Effects.md#blood-poisoning)'.
+    -   [Blood Poison](Status_Effects.md#blood-poison) is an effect that is overlayed on top of your opponent's blood bar. Upon reaching certain Blood Poison thresholds (percentage of the blood bar covered with Poison), you will apply debuffs to the target and may proc certain conditional Talent effects.
+    -   Blood poison passively drains over time, requiring you to constantly apply pressure to maintain the debuffs.
+    -   See [Bloodrend](Bloodrend.md#trivia) for more info.
     -   Obtained at 1 Bloodrend
 
 -   Adept Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 1-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
@@ -660,21 +663,22 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Hemorrhaging Blow_ \[Rare Talent, Bloodrend\] - Block breaking your opponent with a blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] turns your opponent's combat healing into damage for 8 seconds
     -   55 second cooldown, with the cooldown starting on guard break.
     -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
-    -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however wouldn't work on things like Health Regen Potions or Conditioned Runner as that they are forms of passive healing.
+    -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however doesn't work on things like Health Regen Potions or [Conditioned Runner](#conditioned-runner) as that they are forms of passive healing.
     -   This works on healing outside of combat.
-    -   Works with [Mindsoothe](Oath%253A_Blindseer.md#mindsoothe), [Blood Scourge](Blood_Scourge.md) bell, [Grand Support](Attunement-less.md#reinforce), Fadetrimmer's Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray) and etc.
+    -   Works with [Mindsoothe](Oath%253A_Blindseer.md#mindsoothe), [Blood Scourge](Blood_Scourge.md) bell, [Grand Support](#grand-support), Fadetrimmer's Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray), etc.
     -   Prerequisite: 95 Bloodrend, Master Bloodrender
 
 -   _Rush Hour_ \[Rare Talent, Bloodrend\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
-    -   Drains 4.5 HP per second and 2% Blood per second.
-    -   [Deepscorn Casque](Deepscorn_Casque.md) and the Enhanced Flow Talent are the only two effects in the game that can reduce the self damage taken by Rush Hour.
+    -   **Drains** 4.5 health and 2% Blood per second.
+        -   Because this drains your health, it isn't affected by sources of damage reduction, unless explicitly stated, **ignores** [Temporary Health](Status_Effects.md#temporary-health), and does not proc "on damage" conditionals.
+        -   [Deepscorn Casque](Deepscorn_Casque.md) and the [Enhanced Flow](#enhanced-flow) Talent are the only two effects in the game that can reduce the health drain from Rush Hour.
     -   Grants a 15% damage buff, affected by the damage modifier cap.
-    -   Increases blood bar damage by +35% (additive).
-    -   Grants a 30% active speed boost. This counts for Talents such as Speed Demon and Cheap Shot.
-    -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
-    -   If you have the Enhanced Flow Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
-    -   Having Rush Hour active doubles the duration of the Torture Mastery status effect.
+    -   Increases blood loss by +35% (additive).
+    -   Grants a 30% [Speed Boost](Status_Effects.md#speed-boost). This counts for Talents such as Speed Demon and Cheap Shot.
+    -   Recover 5% Blood when dealing damage (0.35s cooldown). [Burn](Status_Effects.md#burn) damage cannot proc this effect.
+    -   If you have the [Enhanced Flow](#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
+    -   Having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect.
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent, Bloodrend\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 220118
+revid: 223049
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -798,7 +798,7 @@ _Parrying attacks damages your foes._
 
 Providence's Thorns is parryable, but it does not grant autoparry frames.
 
-Certain bosses are **entirely immune** to Providence Thorns. These are: [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+Certain bosses are **entirely immune** to Providence Thorns. These are: [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 **Obtainment:**
 

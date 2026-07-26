@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 222920
+revid: 223069
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict, Heart of Enmity, Maestro Evengarde Rest, The Doom of Caeranthil, Dread Serpent, Bounties, Chaser, Scholar of the Crimson Contract, Voidsea Events |
+| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict, Heart of Enmity, The Doom of Caeranthil, Dread Serpent, Bounties, Chaser, Scholar of the Crimson Contract, Voidsea |
 | description | Designed for the scholars of the Citadel, these frames are renowned for their simple yet striking style, and are traded and sought after across all Luminants. Unfortunately, they are not your prescription... |
 
 ## Description

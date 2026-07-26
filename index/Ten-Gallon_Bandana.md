@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Bandana"
-revid: 222699
+revid: 222992
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -23,7 +23,7 @@ categories: [Equipment, Face, Bandanas]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Minityrsa, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chaser, Scholar of the Crimson Contract |
+| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Heart of Enmity, Dread Serpent, Chaser, Scholar of the Crimson Contract |
 | description | ... |
 
 Ten-Gallon Set

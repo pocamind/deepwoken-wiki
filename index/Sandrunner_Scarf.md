@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 222536
+revid: 223041
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -23,7 +23,7 @@ categories: [Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Chaser, Scholar of the Crimson Contract |
+| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Dread Serpent, Interluminary Parasol, Chaser, Scholar of the Crimson Contract |
 | description | ... |
 
 Sandrunner Set

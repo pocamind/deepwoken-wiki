@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 221306
+revid: 223011
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Helmets, Equipment, Head]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Helmets, Equipment, Head]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread SerpentFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread SerpentFound from:, Artifact Turn-ins |
 | description | ... |
 
 ## Description

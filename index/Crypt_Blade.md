@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 220182
+revid: 223122
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -26,18 +26,18 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
-| selling price | 120 |
+| selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader, Sold in Traan Zakshun's black market for 4 |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The Diluvian Mechanism, Fishing, Heart of Enmity, The Understrand, Maestro Evengarde Rest, The Ferryman, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
 
-The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a stocky bull-necked hilt giving rise to an ominous blade serving as the crypt and final resting place of a previous generation, hence its name. The weapon itself is wreathed in waning shadow, and is made of a large and long forthright blade that is adorned in sharp symmetry and pallid patterns. The Crypt Blade scales off [Shadowcast](Shadowcast.md) alongside [Heavy Weapons](Attributes.md).
+The **Crypt Blade** is a Legendary [Greatsword](Greatswords.md) [weapon](Weapons.md); a stocky bull-necked hilt giving rise to an ominous blade serving as the crypt and final resting place of a previous generation, hence its name. The weapon itself is wreathed in waning shadow, and is made of a large and long forthright blade that is adorned in sharp symmetry and pallid patterns. The Crypt Blade scales off [Shadowcast](Shadowcast.md) alongside [Heavy Weapons](Attributes.md).
 
 The Crypt Blade comes with 2 passive abilities:
 

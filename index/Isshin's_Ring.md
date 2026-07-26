@@ -1,6 +1,6 @@
 ---
 title: "Isshin's Ring"
-revid: 222783
+revid: 223118
 source: https://deepwoken.fandom.com/wiki/Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Primadon, Titan of the East, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Heart of Enmity, Maestro Evengarde Rest, War Mode, Saramaed Hollow, Chime of Conflict, Lodestar Bounty job, Dread Serpent, Deep Widow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Primadon, Titan of the East, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Heart of Enmity, War Mode, Maestro Evengarde Rest, Saramaed Hollow, Chime of Conflict, Lodestar Bounty job, Dread Serpent, Deep Widow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Ring of a wandering Swordsman. [sic] Take 1.2x damage and deal 1.15x damage when in close-quarters combat. |
 
 ## Description

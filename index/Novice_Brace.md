@@ -1,6 +1,6 @@
 ---
 title: Novice Brace
-revid: 222302
+revid: 223036
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Found from:, Blacksteel Pirate, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Eastern Nomad Leader, Heart of Enmity, Hell Mode, Maestro Evengarde Rest, Duke Ishamon Erisia, Dread Serpent |
+| obtainment | Found from:, Blacksteel Pirate, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Eastern Nomad Leader, Heart of Enmity, Hell Mode, Duke Ishamon Erisia, Dread Serpent |
 | description | ... |
 
 Variants: [Beginner's Brace](<Beginner's_Brace.md>)

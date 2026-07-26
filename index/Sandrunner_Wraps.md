@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 222538
+revid: 223103
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Maestro Evengarde Rest, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, War Mode, Interluminary Parasol, Saramaed Hollow |
+| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, War Mode, Interluminary Parasol, Saramaed Hollow |
 | description | ... |
 
 Sandrunner Set

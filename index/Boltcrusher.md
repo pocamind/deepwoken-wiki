@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 215500
+revid: 223158
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -64,7 +64,3 @@ Both the running and the standing version share a cooldown of **10 seconds**.
 
 -   The line _"From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark."_ from the item's description is a reference to [The Hammer's Call](<The_Hammer's_Call.md>), the Ignition Union's in-universe anthem.
 -   This weapon is one of two weapons that is able to mine ores while equipped, the other being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).
-
-## References
-
-{{History})

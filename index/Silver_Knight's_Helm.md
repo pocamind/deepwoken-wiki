@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 222564
+revid: 223014
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Miner's Landing, Faction Ambushes (The Ignition Union) |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Miner's Landing, Faction Ambushes (The Ignition Union) |
 | description | ... |
 
 Silver Set

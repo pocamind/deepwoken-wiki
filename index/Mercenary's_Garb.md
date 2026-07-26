@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 222110
+revid: 223025
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Garbs, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Garbs, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Crypt of the Unbroken, Faction Ambushes (The Ministry), Miner's Landing, Faction Ambushes (The Ignition Union), Maestro Evengarde Rest, War Mode, Heart of Enmity |
+| obtainment | Chests from:, Crypt of the Unbroken, Faction Ambushes (The Ministry), Miner's Landing, Faction Ambushes (The Ignition Union), War Mode, Heart of Enmity |
 | description | ... |
 
 Variants: [Gallery](<Mercenary's_Garb/Gallery.md>)

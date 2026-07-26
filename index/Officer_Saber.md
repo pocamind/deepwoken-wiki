@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 221392
+revid: 222942
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyable Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Weapons of The Central Auth
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Dread Serpent, Chime of Conflict, Fort Merit Armory for 60 (Authority Ensign exclusive), Saramaed HollowAlloyed, Alloying an Officer Saber, Fort Merit Armory for 170 (Authority Ensign exclusive), Moon's Eyrie, Duke Erisia, Maestro Evengarde Rest, Heart of Enmity |
+| obtainment | Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Dread Serpent, Chime of Conflict, Fort Merit Armory for 60 (Authority Ensign exclusive), Saramaed HollowAlloyed, Alloying an Officer Saber, Fort Merit Armory for 170 (Authority Ensign exclusive), Moon's Eyrie, Duke Erisia, Heart of Enmity |
 | description | The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories. |
 
 ## Description

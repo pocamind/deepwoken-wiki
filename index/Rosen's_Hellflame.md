@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 212718
+revid: 222968
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Summer Company]
@@ -30,7 +30,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "A
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Diluvian Mechanism, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest (very rare), Saramaed Hollow, Scion of Ethiron, Hell Mode |
+| obtainment | The Diluvian Mechanism, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Scion of Ethiron, Hell Mode |
 | description | The sources of inspiration and insight utilized by Rosen on his journeys becomes clearer in some of his one-off pieces. Capable of unleashing a torrent of scorching flames at will, the Hellflame is no exception. There was a time when Rosen never left his workshop, fevered as he was by a fell drive to draw out the knowledge he had gained in its entirety, like a sinner in a confessional. |
 
 ## Description
@@ -45,9 +45,9 @@ This weapon comes with a singular passive ability:
 
 Rosen's Hellflame has two critical attacks.
 
-For the **standing critical**, the user aims at the target and fires a constant torrent of flames from its barrel, dealing a burst of damage at the start before spraying weaker flames afterwards. The critical consumes Ether to spray flames and will end if the user runs out or if 5 seconds pass. It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
+For the **standing critical**, the user aims at the target and fires a constant torrent of flames from its barrel, dealing a burst of damage at the start before spraying weaker flames afterwards. The critical consumes Ether to spray flames and will end if the user runs out or if 5 seconds pass. Applies [Burn](Status_Effects.md#burn). It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
 
-For the **aerial critical**, the user performs a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
+For the **aerial critical**, the user performs a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a [burn](Status_Effects.md#burn)\-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
 
 Both critical attacks share a cooldown of **10 seconds**.
 

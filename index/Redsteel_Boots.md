@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 222439
+revid: 222961
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Overrun Authority Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chime of Conflict, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Maestro Evengarde Rest, Dread Serpent, Lodestar Bounty job, Fishing, Elder Primadon |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Chime of Conflict, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Dread Serpent, Lodestar Bounty job, Fishing, Elder Primadon |
 | description | ... |
 
 Redsteel Set

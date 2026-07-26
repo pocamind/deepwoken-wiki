@@ -1,6 +1,6 @@
 ---
 title: Red Eye Pendant
-revid: 222428
+revid: 223098
 source: https://deepwoken.fandom.com/wiki/Red_Eye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Miner's Landing, Faction Ambushes (The Ignition Union), Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Lodestar Bounty job, Saramaed Hollow |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry), Miner's Landing, Faction Ambushes (The Ignition Union), Heart of Enmity, Dread Serpent, Lodestar Bounty job, Saramaed Hollow |
 | description | ... |
 
 ## Description

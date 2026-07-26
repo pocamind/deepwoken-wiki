@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 220247
+revid: 223125
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -19,6 +19,8 @@ categories: [Pathfinder Exclusive, Relics]
 | pass down | Yes |
 | obtainment | Crafting, Carnival of Hearts, Sold in Traan Zakshun's black market for 5 , Goodie Bag, Gold Plate Turn-ins |
 | description | A splendid needle of Gilded ironsing, capable of even more precise adjustments to the characteristics of equipment. |
+
+Variants: [Armorer's Needle](<Armorer's_Needle.md>) · [Forge Needle](Forge_Needle.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 222106
+revid: 223031
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Faction Ambushes (The Ministry), Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
+| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Faction Ambushes (The Ministry), Chaser, Scholar of the Crimson Contract, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
 | description | ... |
 
 Mercenary's Set

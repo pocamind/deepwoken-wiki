@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 222893
+revid: 223013
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment of The Hundred Legions]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with T
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, War Mode, Lodestar Bounty job, Maestro Evengarde Rest, Saramaed Hollow, Dread Serpent |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, War Mode, Lodestar Bounty job, Saramaed Hollow, Dread Serpent |
 | description | ... |
 
 Legion Set
