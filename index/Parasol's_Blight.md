@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 221903
+revid: 223172
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -31,6 +31,7 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 ### Notes
 
 -   **If you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character, this enchantment will not work and your weapon's damage will be voided.**
+-   The summons count as Allies for all effects.
 -   The summons can be buffed by equipping the [Cryptwaker's Ring](<Cryptwaker's_Ring.md>), saying to increasing the health of your monsters but it only gives them 5% resistance, and granting you a small chance to spawn [Bone Keepers](Bone_Keeper.md) instead.
 -   The monsters summoned will not attack you, even if you attack them first.
 -   There is no cooldown on the monsters spawning. You can proc this effect multiple times at once.
@@ -39,4 +40,3 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 -   The enemies do not need to be killed through manually executing them for this enchantment to proc, nor do they need to be killed specifically by you.
 -   You cannot apply the Parasol's Blight status effect to already Unconscious opponents.
 -   The monsters summoned count as 'summons' for the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), healing you when they deal damage.
--   The monsters summoned count as allies benefiting from [golden tongue](Talents.md)

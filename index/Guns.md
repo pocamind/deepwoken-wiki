@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 221765
+revid: 223166
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapon Classes]
@@ -8,7 +8,7 @@ categories: [Weapon Classes]
 
 # Guns
 
-A player firing a [Flintlock](Flintlock.md).
+A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 220009
+revid: 223169
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -25,7 +25,7 @@ The Summer Company is a faction that operates in their headquarters, [Summer Isl
 
 The company was founded prior to 1062 CE when the [son of a young village blacksmith](Gunsmith_Rosen.md) who journeyed into the sea, returning with the innovations of guns and forever changing the art of combat.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 
-Alongside the [Ignition Union](The_Ignition_Union.md) and the [Divers](The_Divers.md), the Summer Company is employed by the [Authority](The_Central_Authority.md). Notably, there was an incident surrounding the Authority when [Gunsmith Hierka](Gunsmith_Hierka.md) of the [Bureau of Research](Bureau_of_Research.md) was sent to steal the company's secrets, resulting in the creation of the [Rifle Spear](Rifle_Spear.md).
+Alongside [The Ignition Union](The_Ignition_Union.md) and the [Divers](The_Divers.md), the Summer Company is employed by [The Central Authority](The_Central_Authority.md). Notably, there was an incident surrounding the Authority when [Gunsmith Hierka](Gunsmith_Hierka.md) of the [Bureau of Research](Bureau_of_Research.md) was sent to steal the company's secrets, resulting in the creation of the [Rifle Spear](Rifle_Spear.md).
 
 They frequently come to blows with [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves, In retaliation, they snuck into [Miner's Landing](<Miner's_Landing.md>) and accidentally activated unfinished prototypes of the Union's security devices, the [Mechalodaunts](Megalodaunt.md), making the cyborgs aggressively attack friend and foe alike.
 

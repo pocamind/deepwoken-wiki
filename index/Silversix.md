@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 215779
+revid: 223168
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Echo Unlockables]

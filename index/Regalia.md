@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 219932
+revid: 223175
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -54,7 +54,7 @@ This Regalia is **not** kept upon wiping at any Power.
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
-A flat increase is applied to your reputation with each faction. Additionally, [Bandits](Bandit.md), [Blacksteel Pirates](Blacksteel_Pirate.md), [Bounty Hunters](<Bounty_Hunter_(NPC).md>), and other 'factionless' humans will not aggro onto you unless provoked (effectively being a reverse Mute Regalia).
+A flat increase is applied to your reputation with each faction.
 
 ### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 

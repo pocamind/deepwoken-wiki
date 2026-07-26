@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 221419
+revid: 223164
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
@@ -39,7 +39,7 @@ The Rockmaller is a mid-late game Greathammer with a unique critical, found in M
 
 It can be found by completing the [Security Detail job](Job_Boards.md) at [Summer Isle](Summer_Isle.md) and finding it in the chest that spawns upon completion.
 
-An easy way to obtain this weapon would be to farm the "[Summer Goons](Summer_Goon.md)".
+An easy way to obtain this weapon would be to farm the [Summer Goons](Summer_Goon.md).
 
 ## Critical
 

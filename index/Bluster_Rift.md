@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 215469
+revid: 223163
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant]
@@ -77,7 +77,7 @@ Events that spawn in Bluster Rift that do not involve combat. For more info, see
 </tbody>
 </table>
 
-## Trivia/Notes
+## Trivia
 
 -   The waters will push you downstream, eventually pushing you off a waterfall. Mind your step!
 -   Not very worth grinding here, unless you're specifically looking for the [Crimson Megalodaunt](Crimson_Megalodaunt.md). It's better to grind at [Starswept Valley](The_Starswept_Valley.md) - they have the same events but better spawn rates and a more accessible location.

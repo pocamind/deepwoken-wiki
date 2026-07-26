@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 215617
+revid: 223165
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -162,8 +162,3 @@ Gremor facial markings consist of freckles, which can be [dyed](Dye_Packet.md).
 -   When wearing a helmet/hat, it won't hide the horns.
 -   One of the only obtainable 2 aspects in the game that have the Fortitude Stat Bonus, with the other being [Vesperian](Vesperian.md).
 -   Combining the Reduced Hunger loss with Carnivore, you almost will never be below Half Hunger. (Unless you are trying to)
--   [Sudaruska](Sudaruska.md) could potentially be a Gremor.[\[1\]](#cite-note-1)
-
-## References
-
-1.  [↑](#cite-ref-1)
