@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 222449
+revid: 223458
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -20,10 +20,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craft
 | innate talent | Blood Convergence |
 | set | Regenerative Pendant, Regenerative Earrings |
 | set talent | Critical Heal |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted with 1 Old Blood Earrings + 5 Vampirism Enchant Stones + 1 Parasol Membrane at the Lost Forge of Leiuna |
 | description | Wearing these fills you with a newfound sense of vitality. |
 

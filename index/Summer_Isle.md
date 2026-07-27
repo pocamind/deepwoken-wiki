@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 219854
+revid: 223343
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Summer Company]
@@ -39,7 +39,7 @@ Main Article - [Guns](Guns.md) The Summer Isle's main attractions are the firear
 
 Notes:
 
--   [Bullets](Bullet_Casings.md) can be purchased for five notes each, or they by crafted anywhere with one iron, creating 20 bullets per iron.
+-   [Bullets](Bullets.md#bullet-casings) can be purchased for five notes each, or they by crafted anywhere with one iron, creating 20 bullets per iron.
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
 
@@ -195,7 +195,7 @@ Items and equipment that can be directly bought with currency.
 -   [Cloth](Cloth.md)
 -   [Fiber](Fiber.md)
 -   [Flint](Flint.md)
--   [Bullets](Bullet_Casings.md)
+-   [Bullets](Bullets.md#bullet-casings)
 
 #### Blueprints
 
@@ -265,6 +265,7 @@ Items and equipment that can be obtained from loot chests.
 -   [The Meat Lord](The_Meat_Lord.md) has a chance to spawn here.
 -   When a player with bad reputation comes near Summer Isle, the Summer Isle Cannon will activate, giving a warning sound. Then, firing a large cannonball at the player after 3–5 seconds.
 -   The location may be a reference to the historic [Somers Isles Company](https://en.wikipedia.org/wiki/Somers_Isles_Company) and Somers Isles which is now more commonly known as [Bermuda](https://en.wikipedia.org/wiki/Bermuda).
+-   Inside the summer isle inn, you can find the head of some monster placed on the wall. Presumably, it was added as a reference to The Hogfish, what was a joke monster talked about in the testing stages of Deepwoken.
 
 ## References
 

@@ -1,9 +1,9 @@
 ---
 title: Hive Drone
-revid: 220482
+revid: 223272
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, The Hive, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Expert Outfits, Outfits, The Hive, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Hive Drone
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, The Hive, Outfits with Talents, "Outfits w
 | durability | 1000 |
 | resistances | +25% Physical Armor , +5% Blunt Armor +25% Elemental Armor , +5% Wind Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Starswept Valley, Summer Isle, Rogue Construct, Lodestar Bounty job, The Depths, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

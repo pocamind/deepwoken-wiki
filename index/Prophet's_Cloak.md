@@ -1,9 +1,9 @@
 ---
 title: "Prophet's Cloak"
-revid: 222857
+revid: 223297
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Ministry]
+categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Ministry]
 ---
 
 # Prophet's Cloak
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +25% Physical Armor , +25% Elemental Armor , +20% Ice Armor , +20% Fire Armor |
 | buffs | +50% Ether Regen |
 | talents | Crippling Darkness |
-| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, Saramaed Hollow, Primadon, The Starswept Valley, The Depths, Diver Journeyman Ambush, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, Saramaed Hollow, Primadon, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

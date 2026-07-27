@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 222906
+revid: 223294
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
@@ -314,7 +314,7 @@ Can be identified via whether or not the antiquarian is in its usual position. I
 
 #### Weird Trader
 
-A [Dinghy](Ships_&_Sailing.md) with a lone [Ganymede](Ganymede.md). Upon talking to him, he asks you to give him three random items. Any of which could be a [weapon](Weapons.md), [mantra ingredient](Mantra_Modifiers.md), or [ingredient](Ingredients.md). Falsely claiming to have the items he asks for will send you up flying from his uppercut, dealing high damage. However if you give him the specific items he asks for, he'll reward you with a random legendary weapon, a dye packet, Sinners Ash, or an [Astral](Enchantments.md#blessings) [Enchant Stone](Enchant_Stone.md) (possibly other enchant stones, unconfirmed). He seems to be talking in broken english, without the use of proper grammar.
+A [Dinghy](Ships_&_Sailing.md) with a lone [Ganymede](Ganymede.md). Upon talking to him, he asks you to give him three random items. Any of which could be a [weapon](Weapons.md), [mantra ingredient](Mantra_Modifiers.md), or [ingredient](Ingredients.md). Falsely claiming to have the items he asks for will send you up flying from his uppercut, dealing high damage. However if you give him the specific items he asks for, he'll reward you with a random item. See the [Weird Trader](Weird_Trader.md) page for more info. He seems to be talking in broken english, without the use of proper grammar.
 
 -   See [Weird Trader](Weird_Trader.md)
 

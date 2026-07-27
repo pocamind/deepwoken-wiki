@@ -1,6 +1,6 @@
 ---
 title: Ambrosial Chum
-revid: 221793
+revid: 223341
 source: https://deepwoken.fandom.com/wiki/Ambrosial_Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Craftable]
@@ -36,6 +36,4 @@ categories: [Food, Craftable]
 ## Trivia
 
 -   Despite being a "Food" item, Ambrosial Chum cannot be made into Artisan quality using the [Artisan Chef](Talents.md#artisan-chef) Talent.
--   Unlike regular [Chum](Chum.md), Ambrosial Chum cannot be used as [fishing](Fishing.md) bait.
-    -   Ambrosial Chum's description likely implies that fishing bait was the intended use case of this item, however.
 -   Ambrosial Chum's Model is the same as the [Raw Parasol Brain](Raw_Parasol_Brain.md).

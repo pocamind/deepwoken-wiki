@@ -1,9 +1,9 @@
 ---
 title: "Duelist's Attire"
-revid: 206708
+revid: 223252
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits]
+categories: [Adept Outfits, Outfits]
 ---
 
 # Duelist's Attire
@@ -18,7 +18,7 @@ categories: [Outfits, Adept Outfits]
 | droppable | Yes |
 | durability | 1200 |
 | resistances | +20% Physical Armor , +10% Slash Armor |
-| obtainment | Sold by Nyanna, Lower Erisia, Sea EventsVow of Iron:, Spear Dancer Memento (automatically crafted) |
+| obtainment | Sold by Nyanna, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of VigilsVow of Iron:, Spear Dancer Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

@@ -1,9 +1,9 @@
 ---
 title: Darksteel Plate
-revid: 209626
+revid: 223268
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Darksteel Plate
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 2500 |
 | resistances | +25% Physical Armor , +25% Elemental Armor |
 | talents | Unbreakable |
-| obtainment | Chests from:, Summer Isle, Songseeker Wilds, Minityrsa, Lower Erisia, Sold above the Lord Regent's throne in Etris for 200 |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold above the Lord Regent's throne in Etris for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

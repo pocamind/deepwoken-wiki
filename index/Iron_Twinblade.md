@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict, Diluvian Mechanism, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Black Diver (NPC), Pure Ore Turn-Ins, BountiesVow of Iron:, Spear Dancer Memento |
+| obtainment | Chime of Conflict, Diluvian Mechanism, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Black Diver (NPC), Pure Ore Turn-Ins, BountiesVow of Iron:, Spear Dancer Memento |
 | description | A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash. |
 
 ## Description

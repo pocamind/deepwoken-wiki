@@ -1,9 +1,9 @@
 ---
 title: "Cala-Mariner"
-revid: 213692
+revid: 223287
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Cala-Mariner
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +25% Physical Armor , +35% Elemental Armor , +30% Wind Armor , +25% Blood Armor |
 | buffs | +45% Ether Regen , +20 Sanity |
 | talents | Tidal Shock |
-| obtainment | Nautilodaunt (direct drop)Fury Nautilodaunt (direct drop) |
+| obtainment | Drops from:, Nautilodaunt, Fury Nautilodaunt |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

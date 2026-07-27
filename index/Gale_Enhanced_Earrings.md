@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Earrings
-revid: 221931
+revid: 223561
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,10 +17,10 @@ categories: [Equipment, Ears, Craftable, Equipment with Talents, Equipment with 
 | weight | 0.1 |
 | innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | Way of the Wind |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Emerald Tusk Earrings + 5 Gale Stone + 1 Gale Essence in the Lost Forge |
 | description | Putting these on, you feel as if you are light as a cloud. |
 

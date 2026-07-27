@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 221464
+revid: 223577
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -12,12 +12,12 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 |---|---|
 | type | Dagger |
 | damage type | Slash |
-| requirements | 0 LHT |
-| damage | 11 |
+| requirements | N/A |
+| damage | 11.5 |
 | scaling | LHT: 3 |
 | posture damage | 2 |
 | range | 6 Sweep |
-| swing speed | 1.25x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | m.equip | Yes |
 | m.extract | Yes |

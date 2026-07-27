@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Saramaed Hollow, Duke Ishamon Erisia, Lodestar Bounty job, Primadon, Titan of the East |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Saramaed Hollow, Duke Ishamon Erisia, Lodestar Bounty job, Primadon, Titan of the East |
 | description | ... |
 
 Flameguard Set

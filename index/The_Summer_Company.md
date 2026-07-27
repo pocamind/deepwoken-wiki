@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 223169
+revid: 223624
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -87,6 +87,14 @@ Neutral-Bad Reputation:
 
 [Mag](Mag.md): A Gremor inside the bowels of the Summer Castle who can turn ores into bullet casings, he is implied to be an Ironsinger due to to being the only member who deals with metals.
 
+[Thula](Thula.md): A Celtor dragoon who is stationed at [Songseeker Wilds](Songseeker_Wilds.md) with her group, investigating the nearby mines for entrances into the Boundary.
+
+[Ignacio](Ignacio.md): A Canor dragoon who is stationed at Songseeker Wilds with his group, investigating the nearby mines for entrances into the Boundary.
+
+[Clint](Clint.md): An Etrean gunslinger within the Songseeker Wilds' windmill. He is seen attempting to open a trapdoor, which holds nothing inside but bricks.
+
+[Amethyst](<Amethyst_(NPC).md>): An Adretian dragoon inside an entrance of the Songseeker mines, questioning the waterway systems that lie within the cave.
+
 ## Trivia
 
 -   Despite being on very good terms with the Central Authority, the [Authority Ensign](Authority_Ensign.md) Origin spawns with Neutral reputation with the Company. In contrast the Divers and, ironically, the Union spawn with Friend reputation.
@@ -98,6 +106,6 @@ Neutral-Bad Reputation:
 
 ## Navigation
 
-1.  [↑](#cite-ref-1) Our Fortress (Of Smoke And Steel
+1.  [↑](#cite-ref-1) [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
 2.  [↑](#cite-ref-2) [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
 3.  [↑](#cite-ref-3) [Flintlock](Flintlock.md) description

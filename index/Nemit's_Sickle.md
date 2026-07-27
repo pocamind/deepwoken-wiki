@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 221388
+revid: 223580
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -13,11 +13,11 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Mult
 | type | Dagger |
 | damage type | Slash |
 | requirements | 60 LHT |
-| damage | 11 |
+| damage | 11.5 |
 | scaling | LHT: 13 |
 | posture damage | 4 |
 | range | 6 Sweep |
-| swing speed | 1.25x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | penetration | 30% |
 | talent | Curved Edge - Your light weapon mantras now gain 30% more chip. |
@@ -33,7 +33,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Mult
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Minityrsa, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Merchant Ships, The Ferryman |
+| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Merchant Ships, The Ferryman |
 | description | ... |
 
 ## Description

@@ -1037,7 +1037,7 @@ All bosses have differing loot tables found here
     <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
     <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
   </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>

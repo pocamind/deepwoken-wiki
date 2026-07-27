@@ -1,6 +1,6 @@
 ---
 title: Geta
-revid: 222812
+revid: 223602
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment of Etrea]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equip
 | requirements | LVL 12 |
 | weight | 1 |
 | styles | Dark, Light |
-| innate stats | +2 Rare Pips |
+| innate stats | +1 Posture , +3 Rare Pips |
 | innate talent | Dancing Steps Of War |
 | set | Blademaster's Robe, Geta |
 | set talent | Momentum |

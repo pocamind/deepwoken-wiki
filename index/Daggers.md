@@ -1,6 +1,6 @@
 ---
 title: Daggers
-revid: 221767
+revid: 223399
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Light Weapons, Weapon Classes]
@@ -16,7 +16,7 @@ These weapons are typically locked to the One Handed stance.
 
 ## PvE Mechanics
 
-When used with the [Knife's Journey](Talents.md#knifes-journey) Talent, Daggers gain a 15% chance to **critically hit** on basic attacks, dealing 5x their normal damage.
+When used with the [Knife's Journey](Talents.md#knifes-journey) Talent, Daggers gain a 15% chance to **critically hit** on basic attacks, dealing 5x their normal damage. This has a 15 second cooldown.
 
 **Critical hits** are not to be confused with **critical attacks**, as they do not proc any "on critical attack" effects.
 
@@ -371,7 +371,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>

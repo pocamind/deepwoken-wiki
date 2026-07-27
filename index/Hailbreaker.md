@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 214005
+revid: 223513
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Divers]
@@ -50,15 +50,11 @@ This weapon comes with the following passive:
 
 ## Critical
 
-The Hailbreaker has three different criticals. When a critical is landed, it will advance to the next stage.
+The Hailbreaker has three different criticals. When a critical is landed, it will advance to the next stage, changing its appearance. The stages are reset upon being sheathed.
 
-For the **Stage I** critical, the user slowly winds up before performing a heavy ice-infused slash. This will advance the weapon to its next stage, removing the carbon coating.
+For the **Stage I**/**II** critical, the user slowly winds up before performing a heavy ice-infused slash, applying Frozen to the target. Three ice explosions will form a triangle around the user after a short delay.
 
-For the **Stage II** critical, the user performs a heavier ice-infused slash, freezing the target in place. This will advance the weapon to its final stage, coating it in ice.
-
-For the **Stage III** critical, the user dashes forward before performing a large upward ice-infused slash, freezing the target in place. This will revert the weapon to its first stage, gaining the carbon coating once more.
-
-At the end of each critical, the slashes are followed up by explosions of ice around the user that grow in size with each stage. They deal the same damage as each tick of the critical as pure Frostdraw damage. The positions of these explosions are random, but they are telegraphed with a blue swirl effect before they explode.
+For the **Stage III** critical, the user dashes forward before performing a large upward ice-infused slash, freezing the target in place. Six ice explosions will form a ring around the user after a short delay before moving to the weapon's first stage.
 
 All criticals have a cooldown of **10 seconds**.
 

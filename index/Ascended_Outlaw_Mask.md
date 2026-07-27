@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 220699
+revid: 223382
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,7 +17,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks, Craftable, Equipment
 | styles | Mountain, Tundra, Valley |
 | innate stats | +1 Common Pip |
 | innate talent | Destructive Yell |
-| set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
+| set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Breeches, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +28,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks, Craftable, Equipment
 
 Ascended Outlaw Set
 
-Variants: [Hat](Ascended_Outlaw_Hat.md) · [Robes](Ascended_Outlaw_Robes.md) · [Boots](Ascended_Outlaw_Boots.md)
+Variants: [Hat](Ascended_Outlaw_Hat.md) · [Robes](Ascended_Outlaw_Robes.md) · [Breeches](Ascended_Outlaw_Breeches.md)
 
 ## Description
 

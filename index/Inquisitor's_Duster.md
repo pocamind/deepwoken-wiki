@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Dusters, Equipment of The C
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Doom of Caeranthil, Authority Ensign Missions (Inquisition Division exclusive), Etrean Guardmaster event, Faction Ambushes (The Central Authority), Overrun Authority Fort Sea Event |
+| obtainment | Chests from:, The Doom of Caeranthil, Authority Ensign Missions (Inquisition Division exclusive), Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event |
 | description | ... |
 
 Variants: [Gallery](<Inquisitor's_Duster/Gallery.md>)

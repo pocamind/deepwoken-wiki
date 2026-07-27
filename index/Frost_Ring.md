@@ -1,6 +1,6 @@
 ---
 title: Frost Ring
-revid: 222244
+revid: 223456
 source: https://deepwoken.fandom.com/wiki/Frost_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Relics, Equipment Relics, Craftable]
@@ -16,10 +16,10 @@ categories: [Equipment, Rings, Relics, Equipment Relics, Craftable]
 | weight | 0.1 |
 | innate stats | N/A |
 | innate talent | N/A |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted w/ 1 Heavy Hands Ring + 1 Frost Essence at Lost Forge of Leiuna Vow of Iron:, Found at Minityrsa, near the entrance to the Starfield Tundra. |
 | description | Apply a very light slow on your opponent when landing a light attack. This effect stacks. |
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 214417
+revid: 223434
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,11 +76,12 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 
 Despite keeping these talents after [oathbreaking](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), **they do not function without the Oathless Oath**.
 
--   **Chorus of Souls** - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
+-   **[Chorus of Souls](Talents.md#chorus-of-souls)** - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
     -   Grants heightened health regeneration while all Wisps are active.
+    -   This healing is reduced by 0.477% for every point in each Attunement stat that is below 30. Having more than 30 points in an Attunement does not compensate for this.
     -   Prerequisites: Oathless, 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
 
--   **Wisp Convergence** - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
+-   **[Wisp Convergence](Talents.md#wisp-convergence)** - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra active.
     -   Your basic attacks will apply the following [status effects](Status_Effects.md): Burn, Shock, Chill (crystals for some reason not as of right now), Winded, Shadow, Metal Rods, and Blood Poison all at once.
     -   This Talent will not work if you do not have the Oathless Oath.
@@ -161,12 +162,11 @@ Oath [ResistanceOath](Oaths.md)
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
 -   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
 -   5 minute cooldown.
-    -   Adding a [Blessed Gem](Blessed_Gem.md) will greatly reduce cooldown.
-        -   Note: it will proc ONLY if you hit someone with the last tick of the beam.
 -   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
     -   Cannot be canceled manually by caster and unfeintable.
     -   Getting hit by a Vent will cancel it.
 -   Can turn while shooting beam.
+-   Cannot be modified using [Deep Gems](Deep_Gems.md).
 
  |
 

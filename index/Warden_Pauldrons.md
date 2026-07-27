@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Pauldrons, Equipment of The Central Authority]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, War Mode, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Overrun Authority Fort Sea Event |
+| obtainment | Chests from:, War Mode, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event |
 | description | Elegant and steadfast, these pauldrons are truly fit for one who protects the seas. |
 
 ## Description

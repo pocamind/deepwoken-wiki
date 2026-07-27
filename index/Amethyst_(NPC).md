@@ -1,0 +1,61 @@
+---
+title: Amethyst (NPC)
+revid: 223628
+source: https://deepwoken.fandom.com/wiki/Amethyst_(NPC)
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Adret NPCs, Individuals with She/her pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+---
+
+# Amethyst (NPC)
+
+| Amethyst (NPC) | |
+|---|---|
+| name | Amethyst |
+| aspect | Adret |
+| pronouns | She/her |
+| location | Songseeker Wilds |
+| affiliation | The Summer Company |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Amethyst is an [Adret](Adret.md) NPC. She is a dragoon of [The Summer Company](The_Summer_Company.md).
+
+## Location
+
+Amethyst is located in the [Songseeker Wilds](Songseeker_Wilds.md).
+
+## Dialogue
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The <a href="Glossary.md#adret">Adret</a> woman is looking off into the depths of the mine, sniffing the air. She does not seem to notice you.*</i> Huh... How strange...</td>
+</tr>
+<tr>
+  <td>What's strange?</td>
+</tr>
+<tr>
+  <td>Oh! Sorry, got lost in thought there... Can you smell it too?.. It's like a sea breeze, coming from inside there. <i>Salty</i> air. Saltier than the air outside... A curious scent to be coming from a cavern with running water, no?</td>
+</tr>
+<tr>
+  <td>Isn't that just the smell of the water that settles in the cavern?</td>
+</tr>
+<tr>
+  <td><i>*She pauses to think for a moment.*</i> There's a few small pools of water in there... But I don't think that's it. The salinity ain't right. Besides, for the amount of water that courses through here, those cave pools should be much bigger. I suspect they must be draining out somewhere underneath... I wonder what kind of waterway systems they connect to? I've heard of rivers that disappear under the land, only to emerge to the surface again far, far away...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

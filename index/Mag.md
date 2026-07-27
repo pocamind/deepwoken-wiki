@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Mag is a Birch [Gremor](Gremor.md) NPC. They can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
+Mag is a Birch [Gremor](Gremor.md) NPC. They can craft [Bullet Casings](Bullets.md#bullet-casings) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
 
 They wear a Black [Plain Hood](Plain_Hood.md) and the [Summer Company Uniform](Summer_Company_Uniform.md).
 

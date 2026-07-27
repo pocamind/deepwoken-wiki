@@ -23,7 +23,7 @@ categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Tale
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold at Lance's Food Shop for 45 , Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Dread Serpent, Chime of Conflict, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Saramaed HollowVow of Iron:, Sold at Meteor Isle Blacksmith for 45 |
+| obtainment | Sold at Lance's Food Shop for 45 , Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Dread Serpent, Chime of Conflict, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Saramaed HollowVow of Iron:, Sold at Meteor Isle Blacksmith for 45 |
 | description | A shield bearing an emblem of a Flamepriest. The worship of Fire is seen as embracing a dichotomy between the Fire and the Sea, and places the Deep as the ultimate enemy, with the Fire representing mankind. |
 
 ## Description

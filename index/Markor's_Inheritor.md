@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 221379
+revid: 223634
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -35,7 +35,7 @@ categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Ministry Agent, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Bounties, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Ministry Agent, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Bounties, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent |
 | description | The Blade Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 ## Description
@@ -129,6 +129,7 @@ This attack has a **5 second cooldown**.
 
 ## Trivia
 
+-   The [Gatherhand](Gatherhand.md) inscibed on the Markor's Inheritor says "Ignorance be thy tomb. To wander without wit is to stray into a battlefield without blade"
 -   Markor's Inheritor can use the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) [Fang and Coil](Fang_and_Coil.md) critical, which is uncommon, even amongst fist weapons.
 -   Markor's Inheritor is the only Heavy weapon that has an aerial kick as an aerial attack. Heavies used to have fist-style aerial attacks, until a unique heavy aerial was added.
 -   It can proc Fist Talents on critical, even if Blade Scholar is not active.

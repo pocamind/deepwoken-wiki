@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, MinityrsaDropped From:, Dread Serpent |
+| obtainment | Chests From:, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, MinityrsaDropped From:, Dread Serpent |
 | description | "My salary's been kinda on the low end... So yeah, my food options have been kinda non-existent. Off-brand chicken soup, off-brand spaghetti, off-brand bread... That sort of stuff. Instant noodles? ...I got really sick of the stuff after a while, sir." |
 
 Variants: [Prosperous Gumshoe Longcoat](Prosperous_Gumshoe_Longcoat.md)

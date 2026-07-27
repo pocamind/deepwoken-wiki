@@ -1,9 +1,9 @@
 ---
 title: Martial Artist
-revid: 209700
+revid: 223276
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Drops, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Variants]
+categories: [Expert Outfits, Outfits, Drops, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Variants]
 ---
 
 # Martial Artist
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, Drops, Outfits with Talents, "Outfits with
 | durability | 1200 |
 | resistances | +30% Physical Armor , +20% Elemental Armor , +5% Fire Armor , +5% Ironsing Armor |
 | talents | Bruiser's Mixup |
-| obtainment | Scyphozia (Depths Collapse), Mudskipper Broodlord, Mudskipper Brute, Diluvian Mechanism (wave 15-50), Fury Nautilodaunt, Lionfish, Saramaed Hollow, The Understrand |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Diluvian Mechanism (wave 15-50), Saramaed Hollow, The UnderstrandDrops from:, Mudskipper Brute, Mudskipper Broodlord, Fury Nautilodaunt |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Shirtless) |

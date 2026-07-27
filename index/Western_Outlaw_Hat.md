@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Hat
-revid: 222763
+revid: 223604
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -15,9 +15,9 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | selling price | N/A |
 | requirements | LVL 10 |
 | weight | 1 |
-| styles | Farmland, Fog, Mountain, Tundra, Valley |
+| styles | Farmland, Fog, Mountain, Peaks, Tundra, Valley |
 | innate stats | +2 Posture , +1 Legendary Pip |
-| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
+| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Breeches, Western Outlaw Mask |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +28,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 
 Western Outlaw Set
 
-Variants: [Robes](Western_Outlaw_Robes.md) · [Boots](Western_Outlaw_Boots.md) · [Mask](Western_Outlaw_Mask.md)
+Variants: [Robes](Western_Outlaw_Robes.md) · [Breeches](Western_Outlaw_Breeches.md) · [Mask](Western_Outlaw_Mask.md)
 
 ## Description
 

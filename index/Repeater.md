@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 221415
+revid: 223358
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Company]
@@ -14,7 +14,7 @@ categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Com
 | damage type | Blunt |
 | requirements | 65 LHT |
 | damage | 14 |
-| scaling | LHT: 15 |
+| scaling | LHT: 12 |
 | posture damage | 3 |
 | range | 12 Sweep |
 | swing speed | 1.25x |
@@ -31,14 +31,14 @@ categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Com
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for 200 , Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chime of Conflict (Chests), Fishing, Bounties, Saramaed Hollow |
+| obtainment | Sold at Summer Isle for 200 , Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Chime of Conflict (Chests), Fishing, Bounties, Saramaed Hollow |
 | description | A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire. |
 
 ## Description
 
 The Repeater is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
 
-The Repeater has a [Bullet](Bullet_Casings.md) capacity of 6, Meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
+The Repeater has a [Bullet](Bullets.md#bullet-casings) capacity of 6, Meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 
 ## Critical
 
@@ -48,7 +48,7 @@ Repeater uses the default Pistol critical, an empowered shot. It has a scaled da
 
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
 -   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main-hand is not enchanted, it will not have any effect.
--   Prior to the update on 06/07/2024, this weapon was called the Revolver, but was changed because it didn't look anything like a revolver.[\[1\]](#cite-note-1)
+-   This weapon was once called the Revolver, but was changed because it didn't look anything like a revolver.[\[1\]](#cite-note-1)
     -   The gun's model is more accurate to a modified [Lancaster pistol](https://en.wikipedia.org/wiki/Lancaster_pistol).
         -   Notably, Lancaster pistols possess four barrels, while the Repeater only has two. This is due to it being directly copied from a piece of concept art for a hypothetical sequel to the videogame _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_, drawn by Cal Santiago. Due to the concept art showing only the sideviews, it gave the appearance that the gun only had two barrels, despite having four.[\[2\]](#cite-note-2)
 

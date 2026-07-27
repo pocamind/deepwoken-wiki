@@ -1,9 +1,9 @@
 ---
 title: Barbarian
-revid: 209703
+revid: 223305
 source: https://deepwoken.fandom.com/wiki/Barbarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Outfits, Unique Outfits, Outfits with Variants]
+categories: [Unique Outfits, Vow of Iron Exclusive, Outfits, Outfits with Variants]
 ---
 
 # Barbarian

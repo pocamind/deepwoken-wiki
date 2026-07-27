@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 223208
+revid: 223362
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -301,7 +301,7 @@ Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.
 -   This attack apparently has 2 hits.
--   Feinting this mantra leaves you in the air, but does not restore its cooldown.
+-   Feinting this Mantra leaves you in the air, but does not restore its cooldown.
 -   Only has 2 scaling
 -   Been testing: Inflicts a flat 15 blood poisoning
 
@@ -337,7 +337,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target._
 
--   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
+-   At Mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
 -   Deals 4.75/5.5/6.25/7/7.75 per hit, per dagger, 4 posture per dagger, 0.6s windup (0.5s recall windup) 15s CD at level 5.
 -   Recalled daggers deal the same damage and posture damage.
 -   Has 1 second cooldown before you able to recall daggers

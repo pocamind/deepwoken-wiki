@@ -45,7 +45,7 @@ The [Iron Requiem](Iron_Requiem.md) cannot be Offhanded.
 ## Miscellaneous Mechanics
 
 -   [Bullets](Bullets.md) grant Pistol blast shots +10% PEN.
--   [Bullet Casings](Bullet_Casings.md) can be used to entirely modify the effects you apply on blast shots, though usually at the cost of a decrease in weapon damage.
+-   [Bullet Casings](Bullets.md#bullet-casings) can be used to entirely modify the effects you apply on blast shots, though usually at the cost of a decrease in weapon damage.
 
 For more information on Pistol mechanics, view [Guns](Guns.md).
 
@@ -133,14 +133,14 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -191,7 +191,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>

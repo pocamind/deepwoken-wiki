@@ -382,7 +382,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -971,14 +971,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -1029,7 +1029,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -3312,7 +3312,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -3446,7 +3446,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -3543,7 +3543,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>38.5</td>
 </tr>
@@ -3900,7 +3900,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -4011,7 +4011,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -4677,7 +4677,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -5266,14 +5266,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -5324,7 +5324,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -5685,7 +5685,7 @@ Daggers
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -6325,14 +6325,14 @@ Pistols
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -6383,7 +6383,7 @@ Pistols
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -10298,7 +10298,7 @@ Bows
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -10432,7 +10432,7 @@ Bows
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -10529,7 +10529,7 @@ Bows
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>38.5</td>
 </tr>
@@ -11436,7 +11436,7 @@ Greathammers
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -11570,7 +11570,7 @@ Greathammers
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -11667,7 +11667,7 @@ Greathammers
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>38.5</td>
 </tr>
@@ -12105,7 +12105,7 @@ Elemental
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -12216,7 +12216,7 @@ Elemental
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -12562,7 +12562,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -12574,7 +12574,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -13461,7 +13461,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -13939,14 +13939,14 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -13997,7 +13997,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -14535,7 +14535,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -15124,14 +15124,14 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -15182,7 +15182,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -19172,7 +19172,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -19306,7 +19306,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -19403,7 +19403,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>38.5</td>
 </tr>
@@ -20298,7 +20298,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -20432,7 +20432,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -20529,7 +20529,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>38.5</td>
 </tr>
@@ -20952,7 +20952,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -21063,7 +21063,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -22173,7 +22173,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -22762,14 +22762,14 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -22820,7 +22820,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -25103,7 +25103,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -25237,7 +25237,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -25334,7 +25334,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>38.5</td>
 </tr>
@@ -25691,7 +25691,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -25802,7 +25802,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>

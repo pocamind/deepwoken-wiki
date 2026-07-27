@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Gloves, Echo Unlockables]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Other sources:, Tutorial, Starter Equipment Echo Unlock |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Other sources:, Tutorial, Starter Equipment Echo Unlock |
 | description | A pair of leather gloves. One size fits all, I guess? |
 
 Leather Set

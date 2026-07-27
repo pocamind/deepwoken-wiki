@@ -1,9 +1,9 @@
 ---
 title: Cloak of Winds
-revid: 223128
+revid: 223267
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
+categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
 ---
 
 # Cloak of Winds

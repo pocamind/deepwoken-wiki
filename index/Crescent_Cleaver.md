@@ -35,7 +35,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Crypt of the Unbroken, Faction Ambushes (The Ministry), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Merchant Ships, Scion of Ethiron, FishingAlloyed, Alloying a Crescent Cleaver |
+| obtainment | Minityrsa, Crypt of the Unbroken, Faction Ambushes (The Ministry), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Merchant Ships, Scion of Ethiron, FishingAlloyed, Alloying a Crescent Cleaver |
 | description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood. |
 
 ## Description

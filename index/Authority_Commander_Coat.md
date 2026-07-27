@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment of The Cen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort) |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event |
 | description | ... |
 
 ## Description

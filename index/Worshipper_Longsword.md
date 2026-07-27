@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in: , Minityrsa, Deep Widow, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Sold at Miner's Landing for 30 Vow of Iron:, Flame Worshipper Memento |
+| obtainment | Chests in: , Minityrsa, Deep Widow, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Dread Serpent, Saramaed Hollow, Sold at Miner's Landing for 30 Vow of Iron:, Flame Worshipper Memento |
 | description | A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 223207
+revid: 223412
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,6 +19,8 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Storm is a damage dealing [enchantment](Enchantments.md) that applies [Shock](Status_Effects.md#shock) to your opponent.
+
+Having the [Adept Thundercaller](Talents.md#adept-thundercaller) Talent turns this enchantment yellow. Having the [Surge Path](Talents.md#unstable-capacitor) gives this enchantment a blue hue, overriding the previous yellow recolor.
 
 ## Effect
 

@@ -1,9 +1,9 @@
 ---
 title: Ignition Trailblazer
-revid: 209632
+revid: 223274
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, The Ignition Union, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Expert Outfits, Outfits, The Ignition Union, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Ignition Trailblazer
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, The Ignition Union, Outfits with Talents, 
 | durability | 1000 |
 | resistances | +25% Physical Armor , +5% Blunt Armor , +25% Elemental Armor , +5% Fire Armor |
 | talents | Perseverance, Strong Stern |
-| obtainment | Sold by Nyanna for, Sold in Traan Zakshun's regular shop for 200 Chests from:, Starswept Valley, Saramaed Hollow, Summer Isle, Rogue Construct, The Depths, Moon's Eyrie, Primadon, Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | Sold by Nyanna for, Sold in Traan Zakshun's regular shop for 200 Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Moon's Eyrie, PrimadonVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

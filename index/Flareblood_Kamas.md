@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 210989
+revid: 223454
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -18,7 +18,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | scaling | LHT: 8, INT: 1.5, BLD: 3 |
 | posture damage | 4 |
 | range | 6 Sweep |
-| swing speed | 1.25x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | penetration | 30% |
 | special effect | On hit, take away small amounts of blood from your opponent. |

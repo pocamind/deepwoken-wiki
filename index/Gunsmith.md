@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 The Gunsmith is an NPC who is found in the Armory of [Guild Bases](Guild_Bases.md). They can be hired for 1,000. They have the exact same function as [Mag](Mag.md) but inside of your guild base.
 
-Their main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two hundred Bullets into specialized Bullets using Ores for a price of up to 40, giving them different properties and playstyles.
+Their main use is to produce [Bullet Casings](Bullets.md#bullet-casings) by converting two hundred Bullets into specialized Bullets using Ores for a price of up to 40, giving them different properties and playstyles.
 
 ## Dialogue
 

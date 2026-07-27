@@ -1,9 +1,9 @@
 ---
 title: Keeper
-revid: 220479
+revid: 223257
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits]
+categories: [Adept Outfits, Outfits]
 ---
 
 # Keeper
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits]
 | durability | 1000 |
 | resistances | +5% Physical Armor , +5% Elemental Armor , +10% Ice Armor , +10% Wind Armor |
 | buffs | +20% Ether Regen |
-| obtainment | Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Fishing, Erisia, Lodestar Bounty job, Sea Events, The DepthsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Fishing, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

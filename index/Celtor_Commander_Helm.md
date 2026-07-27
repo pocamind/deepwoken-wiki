@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 223047
+revid: 223578
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -24,7 +24,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Saramaed Hollow |
-| description | ... |
+| description | Despite being a realm built primarily on commerce, the city of Celtor also possessed many long-standing military traditions, now lost to time. But, by candle light, among the Celtorian diaspora, some still recall their fragments, many generations since. These embers of history survive through word of mouth and recollection. Tales of valiant knights in shining armour, of glorious quests, of honour and virtue. Yet, what kernels of truth remain in these stories, diluted by the salt-brine of time? |
 
 Variants: [Royal Commander Helm](Royal_Commander_Helm.md)
 

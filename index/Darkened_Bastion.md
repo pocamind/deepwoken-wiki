@@ -1,9 +1,9 @@
 ---
 title: Darkened Bastion
-revid: 219154
+revid: 223290
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Darkened Bastion

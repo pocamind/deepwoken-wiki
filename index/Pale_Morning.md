@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 222956
+revid: 223350
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -33,12 +33,14 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, The Diluvian Mechanism, Dread Serpent, Interluminary Parasol, War Mode, Cinders of Etris, Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, The Diluvian Mechanism, Dread Serpent, Interluminary Parasol, War Mode, Cinders of Etris, Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World. |
 
 ## Description
 
-The Pale Morning is an endgame Greathammer. The description mentions a [Canor](Canor.md) [warlord](Unidentified_Canor_warlord.md) whose name is currently unknown.
+A Pale Morning is an endgame Greathammer.
+
+Pale Mornings are replicas of a hammer used by a [Canor](Canor.md) [warlord](Unidentified_Canor_warlord.md).
 
 ## Critical
 

@@ -1,9 +1,9 @@
 ---
 title: Veteran Adventurer
-revid: 209644
+revid: 223282
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Expert Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Veteran Adventurer
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, "Outfits with Non-ex
 | durability | 1500 |
 | resistances | +15% Physical Armor , +15% Elemental Armor , +5% Fire Armor , +5% Shadow Armor |
 | talents | Foolish Outburst |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Summer Isle |
+| obtainment | Chests from:, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

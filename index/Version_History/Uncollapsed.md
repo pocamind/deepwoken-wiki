@@ -29,6 +29,168 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 
   
 
+## **July 26th, 2025; pv\_JUL\_27\_01:33a**
+
+**Job Improvements & Quality of Life**  
+🔧 Jobs now show up in your task list instantly. Also, you can take as many jobs as you like in an area without getting the "too many jobs" popup - if it can't find a spot, it'll periodically try again and show up on your map once a spot has been found  
+💡 The task UI is now separated into collapsible categories  
+💡 Added faction icons to tasks in your task UI  
+💡 Jobs can now have descriptions  
+  
+**Authority Ensign Improvements**  
+💡 Instead of being teleported to Port Merit on mission start, your squad is now transported to a shore near to your destination. No more sailing for 20 minutes to get to the action!  
+💡 3 Authority Outposts are now available across the Eastern Luminant to turn-in and receive missions from, saving an arduous journey back to Merit. These new outposts are visible on the ingame map for Authority members  
+🔧 Added a tutorial objective for Authority players to find Drill Sergeant Kernel  
+🔧 Captain Trist has moved to the docks at Port Merit under orders from Warden Jericho to "stand where the recruits can see you"  
+  
+**Fishing Improvements**  
+📰 Behind the scenes, fishing has been rewritten, optimised, and configured to allow for a much broader degree of variety. This patch's changes pave the way to some bigger changes we want to do on fishing  
+💡 New fish: Lampreys  
+🔧 The depth and salinity of the water you fish in now affects what you can catch. For example, you can find Sea Bass close to the shore, but not in the deep ocean or in rivers  
+🔧 Fish are now their own item type and show their habitat in the tooltip  
+🔧 Removed the old system for rare fish distribution that was based on a noise algorithm. Finding rare fish now has much more to do with the quality of your bait. A map still exists for activity (i.e. there's still areas where you get more/less nibbles)  
+⏫ Bait now increases the chance of receiving nibbles on top of increasing the chance of a nibble turning into a successful bite  
+🔧 Reduced the volume of fishing to not be deafening  
+🔧 Made it so you can hold M1 when reeling your line in to continuously reel your line in instead of having to repeatedly click  
+🔧 Clicking while casting your line out now withdraws your line instantly  
+🔧 The boat spawn input prompt no longer shows while holding a fishing rod  
+⏫ Ambrosial Chum can now be used as an extremely potent bait for fishing  
+🩹 Fixed being locked into the fishing minigame and not being able to exit  
+🩹 Fixed the fishing rod idle not playing  
+  
+**Equipment Styles**  
+🔧 New Authority Helm style: Tarnished  
+🔧 Whaler Scarf now has two styles: Collar (default), and No Collar  
+🔧 New style for Western Outlaw Hat and Ascended Outlaw Hat: Peaks  
+🔧 Added long-missing smartbones to Western Outlaw Robes and Ascended Outlaw Robes  
+📰 Western & Ascended Outlaw Boots renamed to Western & Ascended Outlaw Breeches respectively  
+  
+**Content & Systems**  
+💡 New Equipment: Broodplate Chestplate and Broodplate Boots  
+💡 Multiple Bloodrend abilities now have new windup sound effects  
+💡 Markor's Inheritor and its alloy have been remodelled and retextured  
+💡 Celtor Commander Helm, Plate, and Celtorian Sabatons have had their models remastered, with new styles to boot  
+💡 Added the ability to accept requests (like Vow of Allegiance or Vow of Mastery) using the Head Nod emote  
+💡 Visually refreshed the PoI icons to add color to them, making them a lot easier to pick out  
+🔧 Hovering over a minor area label on the map now fades it so you can see what's beneath the text  
+🔧 Allies on your map now show their username in their tooltip  
+  
+**Mob Behavior Fixes**  
+⚖️ Fixed mobs being able to block/parry in situations players can't  
+⚖️ Fixed mob parries having a longer period where they can't attack than player parries  
+⚖️ Fixed mob feints not working the same as player feints. In particular, mobs can't feint M1's before their windups  
+⚖️ Interrupted mob m1's behave more like interrupted player m1's, letting them retaliate with similar timing  
+🩹 Fixed mobs playing the parry swing sound twice  
+🩹 Fixed mob autoparries playing the parry animation  
+🩹 Fixed lingering block frames not clearing from mobs on dodge  
+  
+**Balancing & Tweaks**  
+⏫ Deepbound and Lone Warrior now spawn in with a Justicar Whistle, however they are only able to use it when under power 16  
+⏫ Your void threshold now adjusts instantly when _gaining_ combat tags. Losing tags still has it gradually adjust, keeping the prevention of 'mb all' abuse  
+⏫ Dye Packets can now be passed down  
+⏫ Greatly increased how much Mute (aka Animal King) reduces aggro ranges  
+⏫ All The Dead Gods, Sin Stacker and All Above, Gods Below now work on other forms of anti-heal. All The Dead Gods now adds 2 seconds to other forms of anti-heal  
+⚖️ Changed speed buffs/debuffs being completely removed on parry  
+⚖️ You can no longer sprint during light attacks and weapon criticals. Initially this was intended as 'tech' by quickly double-tapping forward (on keyboard) immediately upon initiating a light attack / critical. Performing the tech successfully would essentially grant you a small speed boost while attacking and required some skill to pull off consistently. By now however, this can be trivially performed by binding the Sprint keybind to the same input as the Basic Attack / Critical keybind. While technically a bug in this instance, fixing only the bug would keep the tech in place, but would leave room open for it to be abused by macros. As such, this tech is being removed outright  
+⚖️ Most daggers with a swing speed over 1.2x had their swing speed reduced to 1.2x, some have been given base damage buffs as compensation  
+⚖️ You can no longer place teleportation markers if a whirlpool is nearby  
+🔧 Most Lost Forge items have been made bankable/droppable  
+⏫ Geta now has 1 additional posture and 1 more rare pip  
+⏫ Increased Alloyed Soles's knockdown reduction from 25% to 75%  
+⏫ Increased Stronger Under Pressure's base slow by 3  
+⏬ Moppet's Critical attack activation no longer counts as an M1 for talent effects  
+🔧 Buster Call now tells you the time remaining until it comes off cooldown  
+⚖️ Hailbreaker charges now reset on unequip (this fixes the frozen visual not matching the charges)  
+⚖️ Instead of being split into 5 hits, the Hailbreaker crit slash is now one hit. The posture damage has been reduced, too  
+⚖️ Hailbreaker now has a different windup animation for the crits before the final crit. Considering the crit can be feinted, it didn't really need a built-in fakeout windup  
+⚖️ Fixed the telegraphing on Hailbreaker being mistimed  
+⏬ The followup ice blasts on Hailbreaker are now placed in a consistent ring around the user and have much better telegraphing. They also no longer count as crit or melee damage and can't hit the same target multiple times  
+⚖️ Hailbreaker crit windup anim now matches the duration. Windup timing has been adjusted for all crits, with the initial crit swing windup getting buffed but the subsequent swings getting nerfed  
+⚖️ Hailbreaker hyperarmor duration is now based on the windup duration, instead of being a flat 0.6s  
+🩹 Fixed Hailbreaker final crit not correctly telegraphing that it's a blockbreak  
+⏬ Gale Trap and Wind Gun no longer automatically apply Suffocate  
+⏬ Gale Trap cooldown increased (10s -> 18s)  
+⏬ Reduced how much extra speed how much modifiers add to Wind Blade's speed  
+⏬ Reduced Frostthorn's active frames on its critical attack  
+⏬ Increased the amount of stun the user who lands Backstabber has, should help prevent movestacks / animation hides  
+⏬ Generally reduced Jet Kick's hitbox, was larger than intended  
+⏬ Backstabber no longer procs off silentheart abilities  
+⏬ Backstabber now gives its victim a 3 second cooldown from being backstabbed again  
+⏬ Reduced damage of Reversal Spark servants mantras in PvE  
+⏬ Knife's Journey now has a 15 second CD in PvE  
+⏬ Rapier extra hit PvE buff reduced from 33% to 25%  
+⏬ Captain's Call has been disabled in Chime, the pirates claim you have not been paying them enough...  
+⏬ Using Silentheart abilities removes Whistling Periapt's wind shield  
+⏬ Gale Pale swingspeed reduced from 0.9 to 0.83  
+⏬ Boltcrusher swingspeed reduced from 0.87 to 0.82  
+⏬ Emotion Wave now does not spawn in extra waves of lightning if its parried/dodged or does not hit anybody  
+⏬ Broodalloy Cestus cooldown crit increased from 6 to 9, general per combat tag buffs from its talent reduced  
+⏬ Soulwrought Dagger and Soulwrought Gun swingspeed reduced to 1.25x  
+⏬ Repeater scaling reduced from 15 to 12  
+⏬ Serpent's Edge critical attack cooldown increased from 5 to 10  
+⏬ Corrupt Smokescreen's teleport now scales with health  
+⏬ Kyrsan Gem cooldown increased from 1 to 2 seconds  
+⏬ Soul Beam no longer procs deep gems  
+⏬ Chorus of Souls' healing now scales based on the total amount of points you have for your attunement out of the requirement for the talent. So if you only have 20 points in all 7 attunements (while the requirement is 30 points), you would receive 33% less bonus passive healing from having all 7 wisps active. Going past 30 points in a single attunement does not increase this either.  
+⏬ Wisp Convergence no longer procs on bullets  
+⏬ Increased Crimson Rain's return windup form 0.3 to 0.375  
+⚖️ Removed Inquisitor's Visor's -5 health, now gives you the Blinded talent similar to other blindfolds  
+⚖️ Backstabber damage increased from 15 to 20, now applies iframes to the target on land, reduced the 2x swing speed buff when behind enemies to 10%  
+⏬ Removed the Tacet window where you could run/climb without Tacet going away, jumping still works however  
+⏬ Reduced the max speed at which Twister Kicks takes you forward, with it also lowering based on your health  
+⏬ You now deal 50% less posture for 3 seconds after swapping  
+⏬ You now deal 33% less damage for 1 second after swapping  
+⏬ When parrying a Visionshaper clone, disable their ability to swap for 3 seconds  
+⏬ Made Illusory Counter's clone last much shorter  
+⏫ Gave Reverse Spark Flaming Scourge and Ascension a bit more leeway on cast, allowing to use it when you jump  
+⏬ Carve mantras can no longer hit behind your block  
+🔧 Tweaked Titus Thunder Volley to be reactable  
+🔧 Adjusted Vigil's dock to allow for larger ships to actually exit the dock  
+📰 Updated Skillful Recovery's talent description to further clarify on what it actually does  
+🔧 Storm Enchant now visually becomes yellow if you have the Adept Thundercaller talent, this is overwritten by having Surge Path  
+  
+**Bugfixes & Optimization**  
+📰 Internally we've been overhauling our bug tracking system, in particular with being able to sort bugs based on priority and on which versions of the game they're present in. This has allowed us to fix a lot of longstanding issues this week, and going forwards we're hoping for it to make us much more efficient and timely in how we handle them.  
+⚙️ Optimized client replication of character data  
+🩹 Fixed the ugly stuttering and delay when in camera lock  
+🩹 Fixed some cases where being in camera lock would force your character upright even when ragdolled or when held in a grab by an enemy  
+🩹 Fixed infinitely falling in Layer 2  
+🩹 Fixed Viscosity voiding certain DoT effects like Crystal Impale's triple hit  
+🩹 Fixed a variety of inconsistent and buggy interactions on Payback, including being able to reflect Unconscious to enemies with full health  
+🩹 Fixed Stronger Under Pressure not working  
+🩹 Fixed Overwhelming Might going on CD for _any_ guardbreaks, not just Strong Left  
+🩹 Fixed thrown Aromatic potions landing 'sideways', causing the lingering potion mist to go upwards  
+🩹 Fixed Skillful Recovery increasing the posture enemies regenerate when parrying your attacks  
+🩹 Fixed Laminated Armor always setting the minimum damage of damage hits/ticks to 1, even if the hit would've dealt less than 1 damage regardless. This caused you to take extra damage from certain damage sources like Linkstrider Leech  
+🩹 The damage dealt from activating Poser's Ring's / Gathering Storm's / Moppet's built-up damage now counts as true damage to fix issues where the damage would be doubly resisted or multiplied  
+🩹 Dying with a Light Hook now returns you to Castle Light instead of dumping you in the wilderness  
+🩹 Fixed Windwaker's boat speed boost not working at all  
+🩹 Fixed not being able to obtain Will o' Wisp with Blood Wisp  
+🩹 Fixed picking Jus Karita in character creation preventing you from using the Shrine of Mastery to go below 40 LHT  
+🩹 Fixed getting refunded aces for frozen/foretold cards  
+🩹 Fixed carry load not updating when depositing items in the bank  
+🩹 Fixed being able to remove foretelling on cards in your shrine hands  
+🩹 Fixed the foretell prompt showing internal names for mantras  
+🩹 Fixed Buster Call  
+🩹 Fixed using Buster Call while stunned putting it on cooldown even though it didn't fire off  
+🩹 Fixed Frozen Anchor turning regular freezes on certain criticals into true freezes  
+🩹 Fixed a broken dialogue option when talking with the Eastern Camp Master  
+🩹 Fixed Gaunt Trial exit portal  
+🩹 Fixed Nell dialogue softlock  
+🩹 Fixed being able to place teleportation markers near Lord Regent and Voidheart  
+🩹 Fixed Shade Devour's damage bonus stacking way higher than intended with damage multiplier potions  
+🩹 Fixed Shade Devour applying its buff all forms of damage instead of light attacks and criticals  
+🩹 Made Soulflare Siphon more consistent, should stop it going through dodge  
+🩹 Fixed Razor Blitz sometimes doing its second hit on dodge  
+🩹 Fixed Justicar's Technique removing the untrained fist damage debuff  
+🩹 Fixed Backstabber hiding anims  
+🩹 Fixed Illusory Counter not making your clone more durable for 5 seconds when landed  
+🩹 Fixed True Ether Bullets/Prime Ether Bullets not working  
+🩹 Fixed not being able to stack chests into your sack in Vow of Iron  
+🩹 Fixed feinting mantras like Wind Carve or Rapid Punches and using marrowmade boots' bone wave sometimes feinting your next mantra  
+🩹 Fixed Titus Skycrash Indicator  
+🩹 Fixed item alignment on Western & Ascended Outlaw Breeches
+
 ## **July 7th, 2026; pv\_JUL\_08\_10:30a**
 
 **Content & Systems**  

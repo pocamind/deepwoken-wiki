@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
+| obtainment | Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs |
 | description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
 
 ## Description

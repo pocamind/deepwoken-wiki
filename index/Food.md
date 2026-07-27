@@ -146,7 +146,7 @@ OR
 (15) | ◯ | ◯ | ✗ |
 |  | [Redd Juice](Redd_Juice.md) | 3 [Redds](Redd.md) | 3% | 25% | N/A | ✗ | ◯ | ◯ |
 |  | [Sauteed Scallops](Sauteed_Scallops.md) | 2 [Scallops](Scallop.md) | 25% | 5% | N/A | ◯ | ◯ | ✗ |
-|  | [Scholar's Brew](<Scholar's_Brew.md>) | 1 of any [Mantra Modifier](Mantra_Modifiers.md),  
+|  | [Scholar's Brew](<Scholar's_Brew.md>) | 1 [Bluecap](Bluecap.md),  
 1 of any [Mushroom](Ingredients.md#mushrooms) | 3% | 25% | Ether Regeneration  
 (15) | ◯ | ◯ | ◯ |
 |  | [Seafood Boil](Seafood_Boil.md) | 1 [Squid](Squid.md),  

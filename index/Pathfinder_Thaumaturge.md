@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 209616
+revid: 223260
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Pathfinder Thaumaturge
@@ -19,7 +19,7 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exc
 | durability | 1000 |
 | resistances | +10% Physical Armor , +15% Elemental Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Chests from:, Erisia/General Sea Event Loot, The Depths, Moon's Eyrie, Primadon, Vow of Iron:, Sold in Naan Zakshun's black market for4,000 |
+| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Moon's Eyrie, Primadon, Vow of Iron:, Sold in Naan Zakshun's black market for4,000 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

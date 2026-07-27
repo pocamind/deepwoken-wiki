@@ -22,7 +22,7 @@ categories: [Weapons, Offhand, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract, Dread Serpent, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Heart of Enmity, Interluminary Parasol, Merchant Ships, Saramaed Hollow, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Diluvian Mechanism, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Doom of Caeranthil, War Mode |
+| obtainment | Chaser, Scholar of the Crimson Contract, Dread Serpent, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Heart of Enmity, Interluminary Parasol, Merchant Ships, Saramaed Hollow, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, The Diluvian Mechanism, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Doom of Caeranthil, War Mode |
 | description | A venerated shield, donned only by those who have walked their own Path as they see fit. |
 
 ## Description

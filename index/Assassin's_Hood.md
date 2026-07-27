@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Cloaked Assassin (Direct drop)Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Aelita, Ferryman (Winter), Carnival of Hearts |
+| obtainment | Cloaked Assassin (Direct drop)Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Aelita, Ferryman (Winter), Carnival of Hearts |
 | description | ... |
 
 Assassin's Set

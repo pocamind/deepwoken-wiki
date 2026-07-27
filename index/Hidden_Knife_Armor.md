@@ -1,9 +1,9 @@
 ---
 title: Hidden Knife Armor
-revid: 209675
+revid: 223315
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Outfits, Unique Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Unique Outfits, Vow of Iron Exclusive, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Hidden Knife Armor

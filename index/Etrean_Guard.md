@@ -1,9 +1,9 @@
 ---
 title: Etrean Guard
-revid: 222845
+revid: 223270
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
+categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
 ---
 
 # Etrean Guard
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 2000 Durability |
 | resistances | +25% Physical Armor , +20% Elemental Armor |
 | talents | Unbreakable |
-| obtainment | Etrean Soldier (direct drop)Chests from:, Scyphozia, Erisia |
+| obtainment | Etrean Soldier (direct drop)Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

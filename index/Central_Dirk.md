@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 221291
+revid: 223612
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -14,11 +14,11 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 | damage type | Slash |
 | requirements | 50 LHT, OR Authority Ensign |
 | faction | Authority |
-| damage | 15 |
+| damage | 16 |
 | scaling | LHT: 7 |
 | posture damage | 4 |
 | range | 6.5 Sweep |
-| swing speed | 1.23x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | penetration | 5% |
 | m.equip | Yes |
@@ -33,7 +33,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Moon's Eyrie, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Chime of Conflict, Fort Merit Armory for 80 (Authority Ensign exclusive), Authority Ensign Missions |
+| obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Moon's Eyrie, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Chime of Conflict, Fort Merit Armory for 80 (Authority Ensign exclusive), Authority Ensign Missions |
 | description | ... |
 
 ## Description

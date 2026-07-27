@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Island Sea Events (Overrun Fort), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
 | description | "Huh!? Hey! You can't just go saying "pal" like that! That's MY endearing character trait!" |
 
 Gumshoe Set

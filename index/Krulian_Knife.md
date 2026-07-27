@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 220802
+revid: 223609
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -17,7 +17,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | scaling | LHT: 10.5 |
 | posture damage | 4 |
 | range | 6 Sweep |
-| swing speed | 1.25x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | penetration | 20% |
 | talent | Cruel Counter - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks. |

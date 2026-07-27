@@ -1,9 +1,9 @@
 ---
 title: Whaler Scarf
-revid: 222764
+revid: 223344
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Scarves, Equipment of The Knives of Eylis]
+categories: [Equipment with Styles, Equipment, Torso, Scarves, Equipment of The Knives of Eylis]
 ---
 
 # Whaler Scarf
@@ -15,6 +15,7 @@ categories: [Equipment, Torso, Scarves, Equipment of The Knives of Eylis]
 | selling price | 25 |
 | requirements | LVL 5 |
 | weight | 0.5 |
+| styles | Collar, No Collar |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | None |
 | bankable | Yes |

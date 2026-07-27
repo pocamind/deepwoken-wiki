@@ -1,9 +1,9 @@
 ---
 title: "Arachnid's Weave"
-revid: 219188
+revid: 223285
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Arachnid's Weave
@@ -49,4 +49,4 @@ Visually, a critical attack will have a siphoning effect when landed.
 ## Trivia/Notes
 
 -   Arachnid's Weave originally had 15% Physical resist and a staggering 40% Elemental resist. This, along with its name (it was originally called Arachnid's Corset) were shadow updated on the same day this Outfit was added to the game.
--   The Corrosive Touch Talent has a great synergy with the [Ironsing](Ironsing.md) Attunement and [Metal](Metal.md) Enchant.
+-   The Corrosive Touch Talent has a great synergy with the [Ironsing](Ironsing.md) Attunement and the [Metal](Metal.md) Enchant.

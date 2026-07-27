@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 222451
+revid: 223459
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -20,10 +20,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, 
 | innate talent | Blood Pact |
 | set | Regenerative Pendant, Regenerative Earrings |
 | set talent | Critical Heal |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted using a 1 Curseblood Pendant + 5 Curse of the No Life King Enchant Stones + 1 Parasol Membrane at the Lost Forge of Leiuna |
 | description | ... |
 

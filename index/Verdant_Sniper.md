@@ -1,9 +1,9 @@
 ---
 title: Verdant Sniper
-revid: 206854
+revid: 223281
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits]
+categories: [Expert Outfits, Outfits]
 ---
 
 # Verdant Sniper
@@ -19,7 +19,7 @@ categories: [Outfits, Expert Outfits]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +25% Physical Armor , +20% Elemental Armor , +10% Wind Armor |
-| obtainment | Chests from:, Summer Isle |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

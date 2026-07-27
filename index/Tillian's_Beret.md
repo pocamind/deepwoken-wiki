@@ -1,9 +1,9 @@
 ---
 title: "Tillian's Beret"
-revid: 221357
+revid: 223322
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, World Event, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Tillian's Beret

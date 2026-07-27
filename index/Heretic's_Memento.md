@@ -1,9 +1,9 @@
 ---
 title: "Heretic's Memento"
-revid: 210931
+revid: 223313
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Unique Outfits, Outfits, World Event, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Heretic's Memento

@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment of The H
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, War ModePurchased from:, Merchant Ships |
+| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, War ModePurchased from:, Merchant Ships |
 | description | ... |
 
 Legion Set

@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Pendant Earrings"
-revid: 222760
+revid: 223453
 source: https://deepwoken.fandom.com/wiki/Warrior's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings, Equipment with Talents, Equipment with Exclusive Talents]
@@ -24,14 +24,14 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings, Equipment with Ta
 | obtainment | Mystery Boxes |
 | description | Donning these fills you with strength and fury. |
 
-Variants: [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)
+Variants: [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 
 Warrior's Pendant Earrings are an [Equipment](Equipment.md) item under the "Ears" category.
 
-The [Skillful Recovery](Talents.md#skillful-recovery) Talent increases all forms of posture recovery by 35%.
+The [Skillful Recovery](Talents.md#skillful-recovery) Talent increases passive posture regeneration by 35% (20% in [Pathfinder](Pathfinder.md)), and increases the posture restored on parry by 20%.

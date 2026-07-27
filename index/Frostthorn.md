@@ -1,6 +1,6 @@
 ---
 title: Frostthorn
-revid: 222793
+revid: 223594
 source: https://deepwoken.fandom.com/wiki/Frostthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, Legendary Weapons, "Dual-wielded Weapons"]
@@ -18,7 +18,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusiv
 | scaling | LHT: 8, ICE: 1 |
 | posture damage | 4 |
 | range | 6 Sweep |
-| swing speed | 1.25x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | penetration | 15% |
 | m.equip | No |

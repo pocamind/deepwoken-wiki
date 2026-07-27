@@ -41,7 +41,7 @@ The Frost Essence can craft into a few items with the [Lost Forge](Lost_Forge_of
 -   [Weapons](Weapons.md)
     -   [Winter Rifle](Winter_Rifle.md): [Summer Rifle](Summer_Rifle.md) + 1x Frost Essence
 -   Miscellaneous
-    -   999x [Frost Bullet](Bullet_Casings.md#frost): 1x [Bullet](Bullets.md) + 1x Frost Essence
+    -   999x [Frost Bullet](Bullets.md#frost): 1x [Bullet](Bullets.md) + 1x Frost Essence
 
 ## Trivia
 

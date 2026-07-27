@@ -1,9 +1,9 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 209629
+revid: 223271
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Grand Pathfinder Cloak
@@ -21,7 +21,7 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +20% Physical Armor , +20% Elemental Armor |
 | buffs | +40% Stealth |
 | talents | Legendary |
-| obtainment | Chests from:, Erisia, Aratel Island, The Depths, Sea Events |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

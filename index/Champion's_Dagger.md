@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 221292
+revid: 223584
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents, Weapons of The Golden Rats]
@@ -13,11 +13,11 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | type | Dagger |
 | damage type | Slash |
 | requirements | 50 LHT |
-| damage | 14.5 |
+| damage | 16 |
 | scaling | LHT: 8 |
 | posture damage | 4 |
 | range | 6 Sweep |
-| swing speed | 1.25x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | chip damage | 10% |
 | talent | Rat's Spirit - Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people. |
@@ -33,7 +33,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Hollow, Voidwalker Bounties, Chime of Conflict, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Merchant Ships |
+| obtainment | Chests from:, Saramaed Hollow, Bounties, Chime of Conflict, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Merchant Ships |
 | description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
 
 ## Description

@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Weapons 
 | droppable | Yes / No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Miner's Landing, Faction Ambushes (The Ignition Union), Sold at The Floating Keep Blacksmith for 100 , Sold by Traan Zakshun for 300 , Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Crypt of the Unbroken, Faction Ambushes (The Ministry), Chime of Conflict, Voidwalker chestsVow of Iron:, Sold in Naan Zakshun's regular shop for 300 Alloyed:, Alloying a Vigil Longsword |
+| obtainment | Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Miner's Landing, Faction Ambushes (The Ignition Union), Sold at The Floating Keep Blacksmith for 100 , Sold by Traan Zakshun for 300 , Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Crypt of the Unbroken, Faction Ambushes (The Ministry), Chime of Conflict, Voidwalker chestsVow of Iron:, Sold in Naan Zakshun's regular shop for 300 Alloyed:, Alloying a Vigil Longsword |
 | description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
 
 ## Description

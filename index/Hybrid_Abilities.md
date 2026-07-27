@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 217024
+revid: 223432
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -285,12 +285,11 @@ Oath [ResistanceOath](Oaths.md)
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
 -   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
 -   5 minute cooldown.
-    -   Adding a [Blessed Gem](Blessed_Gem.md) will greatly reduce cooldown.
-        -   Note: it will proc ONLY if you hit someone with the last tick of the beam.
 -   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
     -   Cannot be canceled manually by caster and unfeintable.
     -   Getting hit by a Vent will cancel it.
 -   Can turn while shooting beam.
+-   Cannot be modified using [Deep Gems](Deep_Gems.md).
 
  |
 
@@ -1249,7 +1248,7 @@ These Talents require the combination of all attunements to be obtained. Very fe
   <sup>[Sage of Wisps]</sup></td>
   <td><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, 30 in all Attunements</td>
   <td>Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)</td>
-  <td>While all Attunement Wisp Mantras are active, gain massively increased healing. This effect will stop working if any Wisp is not present.</td>
+  <td>While all Attunement Wisp Mantras are active, gain massively increased healing. This healing is reduced by 0.477% for every point in each Attunement stat that is below 30. Having more than 30 points in an Attunement does not compensate for this. This effect will stop working if any Wisp is not present.</td>
 </tr>
 <tr>
   <td>Wisp Convergence<br>

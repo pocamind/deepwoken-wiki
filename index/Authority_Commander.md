@@ -1,9 +1,9 @@
 ---
 title: Authority Commander
-revid: 212549
+revid: 223304
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Unique Outfits, Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Authority Commander
@@ -21,7 +21,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits 
 | resistances | +30% Physical Armor , +10% Blunt Armor , +30% Elemental Armor , +10% Fire Armor |
 | buffs | +20% Ether Regen |
 | talents | Riot Breaker |
-| obtainment | Layer 2, Scion of Ethiron, Diluvian Mechanism |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Diluvian Mechanism |
 | selling_price | 10 |
 | weight | 1 |
 

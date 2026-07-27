@@ -98,7 +98,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.87x</td>
+  <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
 </tr>
@@ -232,7 +232,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>41.8</td>
 </tr>
@@ -329,7 +329,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>-</td>
   <td>10</td>
   <td>9</td>
-  <td>0.9x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>38.5</td>
 </tr>

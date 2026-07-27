@@ -1,6 +1,6 @@
 ---
 title: Blizzard Ring
-revid: 222211
+revid: 223447
 source: https://deepwoken.fandom.com/wiki/Blizzard_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, Craftable]
@@ -16,10 +16,10 @@ categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, C
 | requirements | LVL 5 |
 | weight | 0.1 |
 | innate stats | None |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted using 1 Gale Enhanced Ring + 1 Frost Ring + 1 Shiva's Codex at the Lost Forge |
 | description | Apply a very light slow on your opponent when landing a light attack and suffocate opponents when flourishing them. Gain extra ether when landing Galebreath or Frostdraw attacks. |
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 221163
+revid: 223395
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -368,9 +368,8 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   Has a base damage of 2.25/2.31/2.38/2.44/2.5 per level, per hit (14) with 2.75 Galebreathe scaling.
 -   Deals 5 posture damage on the first hit and 1 posture damage on all subsequent hits (13).
 -   Hits 14 times over 2 seconds.
--   Has a windup of 0.6 seconds with a cooldown of 10 seconds.
+-   Has a windup of 0.6 seconds with a cooldown of 18 seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
--   Applies the [Suffocation](Status_Effects.md#suffocate) status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), causing the trap to detonate on contact with any object.
 -   Refer to [Gale Trap](Talents.md#gale-trap) if you are looking for the talent instead.
@@ -692,7 +691,6 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   The base variant deals 10 posture damage. The Blast Spark variant deals 4 posture damage per hit (4), while the Multiplying Spark variant deals 0.8 posture damage per hit (8). Both sparks combined deals 3 posture damage per hit (24).
 -   Has a windup of 0.45 seconds. The Multiplying and both Spark variants has a windup of 0.55 seconds. Has a 15 second cooldown.
 -   Pushes and ragdolls opponent.
--   Applies the [Suffocate](Status_Effects.md#suffocate) status effect.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a vert tight cone AoE.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a wide cone AoE.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds.

@@ -1,9 +1,9 @@
 ---
 title: Inquisition Light
-revid: 213939
+revid: 223317
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
+categories: [Unique Outfits, Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
 ---
 
 # Inquisition Light

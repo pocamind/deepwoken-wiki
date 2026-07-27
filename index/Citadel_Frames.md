@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 223069
+revid: 223368
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
@@ -27,7 +27,9 @@ categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
 
 ## Description
 
-The Citadel Frames are an [Equipment](Equipment.md) item under the "Face" category. These Diver-branded glasses reduce the wearer's posture due to not being their prescription.
+The Citadel Frames are an [Equipment](Equipment.md) item under the "Face" category.
+
+These Diver-branded glasses reduce the wearer's posture due to not being their prescription.
 
 ## Trivia
 

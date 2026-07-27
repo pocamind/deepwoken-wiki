@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 221780
+revid: 223354
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -75,7 +75,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.3x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
 </tr>
@@ -87,7 +87,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -190,7 +190,7 @@ The user gains a brief speed boost before leaping into the air and crashing down
 
 ## Trivia
 
--   The Soulwrought weapons carry over the Quality Bonus (stars), [Enchant](Enchantments.md), and if any, Special Effect from your main weapon.
+-   The Soulwrought weapons carry over the Quality Bonus (stars), [Enchantments](Enchantments.md), and if any, Special Effect from your main weapon.
 -   Soulwrought weapons **cannot** use [Motifs](Motifs.md)
 -   The exceptionally high base damage for each weapon makes them especially powerful in PvE; it is a tried-and-true choice for M1 builds.
 -   The designs of the Soulwrought weapons were inspired by weapons from other media:

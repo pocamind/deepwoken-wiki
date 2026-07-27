@@ -1,9 +1,9 @@
 ---
 title: Cerulean Gown
-revid: 206723
+revid: 223266
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits]
+categories: [Expert Outfits, Outfits]
 ---
 
 # Cerulean Gown
@@ -19,7 +19,7 @@ categories: [Outfits, Expert Outfits]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +20% Physical Armor , +25% Elemental Armor |
-| obtainment | Chests from:, Moon's Eyrie, First Layer, The Doom of Caeranthil, Interluminary Parasol, Carnival of Hearts, Moon's Eyrie, The Understrand, Sea Events, Sold by Traan Zakshun for 200 |
+| obtainment | Chests from:, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The Doom of Caeranthil, Interluminary Parasol, Carnival of Hearts, Moon's Eyrie, The Understrand, Sold by Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
 

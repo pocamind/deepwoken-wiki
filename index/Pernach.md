@@ -33,7 +33,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Saramaed Hollow, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Interluminary Parasol, War Mode, Dread Serpent |
+| obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Saramaed Hollow, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Interluminary Parasol, War Mode, Dread Serpent |
 | description | ... |
 
 ## Description

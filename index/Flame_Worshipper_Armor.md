@@ -1,9 +1,9 @@
 ---
 title: Flame Worshipper Armor
-revid: 220477
+revid: 223254
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Adept Outfits, Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Flame Worshipper Armor
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, The Covenant of Flame, Outfits with Talents
 | durability | 1000 |
 | resistances | +10% Physical Armor , +5% Elemental Armor , +25% Fire Armor |
 | talents | Intrepid Flame, One With Flame |
-| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Erisia, Lodestar Bounty job, Sea Events, Miner's LandingVow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento (automatically crafted) |
+| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Lodestar Bounty job, Miner's Landing, Faction Ambushes (The Ignition Union)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

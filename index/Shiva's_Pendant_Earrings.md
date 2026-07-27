@@ -1,9 +1,9 @@
 ---
 title: "Shiva's Pendant Earrings"
-revid: 222786
+revid: 223451
 source: https://deepwoken.fandom.com/wiki/Shiva's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Pathfinder Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Shiva's Pendant Earrings
@@ -26,6 +26,12 @@ categories: [Equipment, Ears, Equipment with Talents, Equipment with Exclusive T
 | obtainment | Crafted w/ 1 Amethyst Pendant Earrings + 1 Doom of Caeranthil's Scale + 1 Shiva's Codex at Lost Forge of Leiuna |
 | description | Donning these fills you with strength and fury. |
 
+Variants: [Warrior's Pendant Earrings](<Warrior's_Pendant_Earrings.md>)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+
 Shiva's Set
 
 Variants: [Finger](<Shiva's_Finger.md>)
@@ -34,9 +40,7 @@ Variants: [Finger](<Shiva's_Finger.md>)
 
 Shiva's Pendant Earrings are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Skillful Recovery](Talents.md#skillful-recovery) Talent recovers more posture in all forms of combat.
-
-The [Vow of Iron](Vow_of_Iron.md) version of this Talent restores 35% more posture, but the version in [Pathfinder](Pathfinder.md) appears to be bugged currently and does nothing.
+The [Skillful Recovery](Talents.md#skillful-recovery) Talent increases passive posture regeneration by 20% (35% in [Vow of Iron](Vow_of_Iron.md)), and increases the posture restored on parry by 20%.
 
 ## Obtainment
 

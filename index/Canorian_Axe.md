@@ -35,7 +35,7 @@ categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Primadon, Titan of the East, Merchant Ships, Crypt of the Unbroken, Faction Ambushes (The Ministry), Dread Serpent, Saramaed Hollow, Chime of ConflictAlloyed:, Alloying a Canorian Axe |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Primadon, Titan of the East, Merchant Ships, Crypt of the Unbroken, Faction Ambushes (The Ministry), Dread Serpent, Saramaed Hollow, Chime of ConflictAlloyed:, Alloying a Canorian Axe |
 | description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 220550
+revid: 223397
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -412,8 +412,9 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 ### Exclusive Features
 
 -   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
-    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
+    -   Procs on M1s and criticals with the M1 tag.
     -   This Talent does not have a range limit.
+    -   Grants the target hit 3 seconds of Backstabber immunity.
     -   Applies [daze](Status_Effects.md#dazed) and [ragdolls](Status_Effects.md#ragdoll).
     -   Prerequisite: 30 Agility
 

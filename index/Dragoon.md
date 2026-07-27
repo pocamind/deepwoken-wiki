@@ -31,7 +31,7 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for 500 , Arena Chests, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Saramaed Hollow, Chime of Conflict |
+| obtainment | Sold at Summer Isle for 500 , Arena Chests, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Saramaed Hollow, Chime of Conflict |
 | description | The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mantlepieces of the wealthy. |
 
 ## Description

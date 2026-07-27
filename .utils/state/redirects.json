@@ -387,6 +387,9 @@
   "Ascended Mantras": {
     "to": "Developer Specs"
   },
+  "Ascended Outlaw Boots": {
+    "to": "Ascended Outlaw Breeches"
+  },
   "Ascension": {
     "to": "Oath: Starkindred",
     "fragment": "Ascension"
@@ -757,6 +760,10 @@
   },
   "Bullet": {
     "to": "Bullets"
+  },
+  "Bullet Casings": {
+    "to": "Bullets",
+    "fragment": "Bullet Casings"
   },
   "Bulwark Helm": {
     "to": "Grand Authority Sallet"
@@ -5292,6 +5299,9 @@
   "Western Luminant": {
     "to": "Luminants",
     "fragment": "Western Luminant"
+  },
+  "Western Outlaw Boots": {
+    "to": "Western Outlaw Breeches"
   },
   "Whaler": {
     "to": "Knife of Eylis"

@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Mask
-revid: 222679
+revid: 223376
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks]
 | weight | 0.5 |
 | styles | Mountain, Tundra, Valley |
 | innate stats | +1 Common Pip |
-| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
+| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Breeches, Western Outlaw Mask |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks]
 
 Western Outlaw Set
 
-Variants: [Hat](Western_Outlaw_Hat.md) · [Robes](Western_Outlaw_Robes.md) · [Boots](Western_Outlaw_Boots.md)
+Variants: [Hat](Western_Outlaw_Hat.md) · [Robes](Western_Outlaw_Robes.md) · [Breeches](Western_Outlaw_Breeches.md)
 
 ## Description
 

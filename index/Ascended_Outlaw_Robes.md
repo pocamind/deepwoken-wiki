@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 220700
+revid: 223383
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -18,7 +18,7 @@ categories: [Equipment with Styles, Equipment, Arms, Craftable, Equipment with S
 | styles | Mountain, Tundra, Valley |
 | innate stats | +3 Posture , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Ether Pinpoint |
-| set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
+| set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Breeches, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
@@ -29,7 +29,7 @@ categories: [Equipment with Styles, Equipment, Arms, Craftable, Equipment with S
 
 Ascended Outlaw Set
 
-Variants: [Hat](Ascended_Outlaw_Hat.md) · [Boots](Ascended_Outlaw_Boots.md) · [Mask](Ascended_Outlaw_Mask.md)
+Variants: [Hat](Ascended_Outlaw_Hat.md) · [Breeches](Ascended_Outlaw_Breeches.md) · [Mask](Ascended_Outlaw_Mask.md)
 
 ## Description
 
@@ -40,7 +40,7 @@ The [Ether Pinpoint](Talents.md#ether-pinpoint) Talent allows your Mantras with 
 ## Set Talent
 
 When wearing the full equipment set (excluding the [Mask](Ascended_Outlaw_Mask.md)), you will gain the Set Talent.  
-This requires the [Hat](Ascended_Outlaw_Hat.md), **Robes**, and [Boots](Ascended_Outlaw_Boots.md) of the set; the [Mask](Ascended_Outlaw_Mask.md) does not contribute to, nor is required for the Set Talent.
+This requires the [Hat](Ascended_Outlaw_Hat.md), **Robes**, and [Breeches](Ascended_Outlaw_Breeches.md) of the set; the [Mask](Ascended_Outlaw_Mask.md) does not contribute to, nor is required for the Set Talent.
 
 Set Talent: [Offensive Recovery](Talents.md#offensive-recovery) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 

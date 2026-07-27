@@ -1,6 +1,6 @@
 ---
 title: Revitalizing Pendant
-revid: 222430
+revid: 223457
 source: https://deepwoken.fandom.com/wiki/Revitalizing_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Craftable, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
@@ -16,10 +16,10 @@ categories: [Pathfinder Exclusive, Equipment, Torso, Craftable, Necklaces, Equip
 | weight | 0.5 |
 | innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Praise The Sun |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted with 1 Wheel Pendant + 5 Solar Enchant Stones + 1 Parasol Membrane at the Lost Forge |
 | description | ... |
 

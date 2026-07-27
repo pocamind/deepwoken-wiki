@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Robes
-revid: 222762
+revid: 223374
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms]
@@ -17,7 +17,7 @@ categories: [Equipment with Styles, Equipment, Arms]
 | weight | 2 |
 | styles | Mountain, Tundra, Valley |
 | innate stats | +3 Posture , +1 Rare Pip , +1 Legendary Pip |
-| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
+| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Breeches, Western Outlaw Mask |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +28,7 @@ categories: [Equipment with Styles, Equipment, Arms]
 
 Western Outlaw Set
 
-Variants: [Hat](Western_Outlaw_Hat.md) · [Boots](Western_Outlaw_Boots.md) · [Mask](Western_Outlaw_Mask.md)
+Variants: [Hat](Western_Outlaw_Hat.md) · [Breeches](Western_Outlaw_Breeches.md) · [Mask](Western_Outlaw_Mask.md)
 
 ## Description
 

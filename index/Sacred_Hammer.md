@@ -33,7 +33,7 @@ categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Cinders of Etris, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Merchant Ships, Saramaed Hollow |
+| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Cinders of Etris, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Merchant Ships, Saramaed Hollow |
 | description | ... |
 
 ## Description

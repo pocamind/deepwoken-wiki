@@ -1,9 +1,9 @@
 ---
 title: Summer Dragoon
-revid: 222872
+revid: 223300
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Summer Company]
+categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Summer Company]
 ---
 
 # Summer Dragoon
@@ -20,7 +20,7 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +30% Physical Armor , +30% Elemental Armor , +25% Wind Armor , +15% Ironsing Armor |
 | buffs | +20% Ether Regen |
 | talents | Sunset Ricochet |
-| obtainment | Glaive SpellhardtChests from:, Miner's Landing, Saramaed Summit, Starfield Veldt, Summer Isle |
+| obtainment | Glaive SpellhardtChests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Starfield Veldt, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

@@ -1,9 +1,9 @@
 ---
 title: Moppet
-revid: 221386
+revid: 223596
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
+categories: [Weapons, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
 ---
 
 # Moppet
@@ -13,11 +13,11 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | type | Dagger |
 | damage type | Blunt |
 | requirements | 75 LHT |
-| damage | 14 |
+| damage | 15 |
 | scaling | LHT: 8.5 |
 | posture damage | 4 |
 | range | 6 Sweep |
-| swing speed | 1.25x |
+| swing speed | 1.2x |
 | attack duration | 0.5s |
 | special effect | On M1, the puppet will take the appearance of the opponent.M1s deal no damage, instead the damage is stored until you use your critical. |
 | m.equip | No |
@@ -47,7 +47,7 @@ The damage this critical deals cannot be directly increased; you must increase t
 
 This critical cannot be parried, blocked, or dodged, but it can be avoided via gaining iframes (e.g. [Venting](Combat_Mechanics.md#tempo)). You cannot deal more than 70% of a player's maximum health with one usage of your critical. This limitation does not apply PvE.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. The critical has a cooldown of **3 seconds**.
+The critical has a cooldown of **3 seconds**.
 
 ## Trivia
 
@@ -64,5 +64,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
         -   The _innate_ effects of [Might](Might_Gem.md) and [Wrath Gems](Wrath_Gem.md) do not apply to Moppet's critical.
         -   All other [Deep Gems](Deep_Gems.md) work, but they aren't as notable or have no unique properties with this weapon.
 -   [Visionshaper](Oath%253A_Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
--   Despite having the M1 tag on its critical, Moppet's critical cannot proc [Spine Cutter](Talents.md#spine-cutter).
-    -   When this weapon initially released, it _could_ proc Spine Cutter on its critical however, allowing it to effectively bypass its damage cap by dealing a separate instance of damage.
+-   This weapon's critical originally had the M1 tag. On released, using this with [Spine Cutter](Talents.md#spine-cutter) alloyed you to bypass the health gate limitation and one shot players.

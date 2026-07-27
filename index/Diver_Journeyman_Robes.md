@@ -1,9 +1,9 @@
 ---
 title: Diver Journeyman Robes
-revid: 220481
+revid: 223269
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, The Divers, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Expert Outfits, Outfits, The Divers, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Diver Journeyman Robes
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, The Divers, Outfits with Talents, "Outfits
 | durability | 1000 |
 | resistances | +20% Physical Armor , +10% Blunt Armor , +30% Elemental Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, The Depths, Lodestar Bounty job, Sold Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Lodestar Bounty job, Sold Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

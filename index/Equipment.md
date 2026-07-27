@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 221709
+revid: 223416
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -230,7 +230,7 @@ _+Set Talent: [**Offensive Recovery**](Talents.md#offensive-recovery)_
 **Requires Power 20**
 
  | Styles:  
-Farmland, Fog, Mountain, Tundra & Valley
+Farmland, Fog, Mountain, Peaks, Tundra & Valley
 
   
 Variants:  
@@ -239,7 +239,7 @@ Variants:
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
-Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Legs: [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)  
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
@@ -269,7 +269,7 @@ _+Talent: [**Strong Hold**](Talents.md#strong-hold)_
 **Requires Power 10, 10 Fortitude OR [Authority Ensign](Authority_Ensign.md)**
 
  | Styles:  
-Brushed & Galvanized |
+Brushed, Galvanized & Tarnished |
 |  | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
 
 +1 Uncommon Pip
@@ -1062,7 +1062,7 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 **Requires Power 10**
 
  | Styles:  
-Farmland, Fog, Mountain, Tundra & Valley
+Farmland, Fog, Mountain, Peaks, Tundra & Valley
 
   
 Variants:  
@@ -1070,7 +1070,7 @@ Variants:
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
-Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Legs: [Western Outlaw Breeches](Western_Outlaw_Breeches.md)  
 Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
  |
@@ -1201,7 +1201,7 @@ Variants:
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
-Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Legs: [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)  
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
@@ -2213,7 +2213,7 @@ Variants:
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
-Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Legs: [Western Outlaw Breeches](Western_Outlaw_Breeches.md)  
 Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
  |
@@ -2284,7 +2284,7 @@ Variants/Set
  | Set: Abyss Wanderer  
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
 Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
-|  | [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+|  | [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)  
 (**Styles**)  
 (**Set**) | _+3% Lightning Armor_  
 _+3% Wind Armor_
@@ -2300,12 +2300,12 @@ Mountain, Tundra & Valley
 
   
 Variants:  
-[Western](#western-outlaw-boots) & [Ascended](#ascended-outlaw-boots)  
+[Western](#western-outlaw-breeches) & [Ascended](#ascended-outlaw-breeches)  
   
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
-Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Legs: [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)  
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
@@ -2481,8 +2481,9 @@ Legs: [Fur Boots](Fur_Boots.md)
 |  | [Geta](Geta.md)  
 (**Styles**)  
 (**Set**)  
-(**Legendary**) | +1 Rare Pip
+(**Legendary**) | _+1 Posture_
 
++2 Rare Pips  
 _+Talent: [**Dancing Steps Of War**](Talents.md#dancing-steps-of-war)_  
 _+Set Talent: [**Momentum**](Talents.md#momentum)_  
 **Requires Power 12**
@@ -2799,7 +2800,7 @@ Arms: [Bastions of Enmity](Bastions_of_Enmity.md)
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
-|  | [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+|  | [Western Outlaw Breeches](Western_Outlaw_Breeches.md)  
 (**Styles**)  
 (**Set**) | _+5 Health_  
 _+3% Lightning Armor_  
@@ -2813,12 +2814,12 @@ Mountain, Tundra & Valley
 
   
 Variants:  
-[Western](#western-outlaw-boots) & [Ascended](#ascended-outlaw-boots)  
+[Western](#western-outlaw-breeches) & [Ascended](#ascended-outlaw-breeches)  
   
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
-Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Legs: [Western Outlaw Breeches](Western_Outlaw_Breeches.md)  
 Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
  |
@@ -3207,12 +3208,14 @@ Amber, Black, Lavender & White |
 **Requires Power 5**
 
  | N/A |
-|  | [Whaler Scarf](Whaler_Scarf.md) | _+3% Elemental Armor_
+|  | [Whaler Scarf](Whaler_Scarf.md)  
+(**Styles**) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
 
- | N/A |
+ | Styles:  
+Collar & No Collar |
 |  | [Wheel Pendant](Wheel_Pendant.md)  
 (**Styles**) | +1 Rare Pip  
 +1 Legendary Pip | Styles:  
@@ -3304,7 +3307,7 @@ Variants:
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
-Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Legs: [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)  
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
@@ -3381,10 +3384,10 @@ _+Talent: [**Angel's Guise**](Talents.md#angels-guise)_
 [Hollow](#hollow-angel-mask), [Sworn](#sworn-angel-mask) |
 |  | [Iron Mask](Iron_Mask.md) | +1 Common Pip | N/A |
 |  | [Inquisitor's Visor](<Inquisitor's_Visor.md>)  
-(**Styles**) | _\-5 Health_  
-_+1 Posture_
+(**Styles**) | _+1 Posture_
 
 +2 Rare Pips  
+_+Talent: [**Blinded**](Talents.md#blinded)_  
 _+Talent: [**Blind Spot**](Talents.md#blind-spot)_
 
  | Styles:  
@@ -3463,7 +3466,7 @@ Variants:
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
-Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Legs: [Western Outlaw Breeches](Western_Outlaw_Breeches.md)  
 Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
  |

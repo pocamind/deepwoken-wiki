@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons, Equipment of Etre
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
+| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
 | description | ... |
 
 Etrean Siege Set

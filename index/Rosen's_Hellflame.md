@@ -53,7 +53,7 @@ Both critical attacks share a cooldown of **10 seconds**.
 
 ## Trivia
 
--   Despite being a flamethrower, Rosen's Hellflame is capable of using bullets and [Bullet Casings](Bullet_Casings.md). (Note: You must press the Y/Swap Weapon key in order to use bullets. All guns are set to "No Bullet" by default.)
+-   Despite being a flamethrower, Rosen's Hellflame is capable of using bullets and [Bullet Casings](Bullets.md#bullet-casings). (Note: You must press the Y/Swap Weapon key in order to use bullets. All guns are set to "No Bullet" by default.)
     -   Additionally, the Bullet Casings change the color of the flames that come out on the 2nd and 4th M1.
 -   Before October 8, 2024's update, The critical cooldown started as soon as the button was pressed, Allowing for the grounded crit to essentially have no cooldown if you had the ether to spam it.
 -   Using the Rosen's Hellflame's Grounded Crit make you immune to [The Ferryman's](The_Ferryman.md) Lightning Assault. (First phase only)

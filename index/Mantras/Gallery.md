@@ -3414,9 +3414,8 @@ Wind [ResistanceGalebreathe](../Galebreathe.md)
 -   Has a base damage of 2.25/2.31/2.38/2.44/2.5 per level, per hit (14) with 2.75 Galebreathe scaling.
 -   Deals 5 posture damage on the first hit and 1 posture damage on all subsequent hits (13).
 -   Hits 14 times over 2 seconds.
--   Has a windup of 0.6 seconds with a cooldown of 10 seconds.
+-   Has a windup of 0.6 seconds with a cooldown of 18 seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
--   Applies the [Suffocation](../Status_Effects.md#suffocate) status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 -   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), causing the trap to detonate on contact with any object.
 -   Refer to [Gale Trap](../Talents.md#gale-trap) if you are looking for the talent instead.
@@ -3738,7 +3737,6 @@ Wind [ResistanceGalebreathe](../Galebreathe.md)
 -   The base variant deals 10 posture damage. The Blast Spark variant deals 4 posture damage per hit (4), while the Multiplying Spark variant deals 0.8 posture damage per hit (8). Both sparks combined deals 3 posture damage per hit (24).
 -   Has a windup of 0.45 seconds. The Multiplying and both Spark variants has a windup of 0.55 seconds. Has a 15 second cooldown.
 -   Pushes and ragdolls opponent.
--   Applies the [Suffocate](../Status_Effects.md#suffocate) status effect.
 -   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to fire a few bullets at once in a vert tight cone AoE.
 -   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to fire a few bullets at once in a wide cone AoE.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds.
@@ -6000,7 +5998,7 @@ Blood [ResistanceBloodrend](../Bloodrend.md) + [Bleed](../Status_Effects.md#blee
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.
 -   This attack apparently has 2 hits.
--   Feinting this mantra leaves you in the air, but does not restore its cooldown.
+-   Feinting this Mantra leaves you in the air, but does not restore its cooldown.
 -   Only has 2 scaling
 -   Been testing: Inflicts a flat 15 blood poisoning
 
@@ -6036,7 +6034,7 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target._
 
--   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
+-   At Mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
 -   Deals 4.75/5.5/6.25/7/7.75 per hit, per dagger, 4 posture per dagger, 0.6s windup (0.5s recall windup) 15s CD at level 5.
 -   Recalled daggers deal the same damage and posture damage.
 -   Has 1 second cooldown before you able to recall daggers
@@ -6799,12 +6797,11 @@ Oath [ResistanceOath](../Oaths.md)
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
 -   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
 -   5 minute cooldown.
-    -   Adding a [Blessed Gem](../Blessed_Gem.md) will greatly reduce cooldown.
-        -   Note: it will proc ONLY if you hit someone with the last tick of the beam.
 -   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
     -   Cannot be canceled manually by caster and unfeintable.
     -   Getting hit by a Vent will cancel it.
 -   Can turn while shooting beam.
+-   Cannot be modified using [Deep Gems](../Deep_Gems.md).
 
  |
 
@@ -7548,7 +7545,6 @@ N/A
 -   Grants a speed boost for 10/12/14/16/18[/20/22/24](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
 -   Has a cooldown of 60/55/50/45/40[/35/30/25](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
 -   Counts as a [Speed Boost](../Status_Effects.md#speed-boost), meaning it can proc all speed boost reliant Talents.
--   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
 -   Can be upgraded with the [Action Surge](../Talents.md#action-surge) Talent, increasing the swing speed of all weapons by 0.04 while Adrenaline Surge is active.
 
  |
@@ -8217,7 +8213,7 @@ Typeless
 -   Upgrading the Mantra increases teleportation range.
 -   Deals typeless damage, bypassing armor resistances.
 -   Teleports the user to the enemy the cursor is pointed at.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
 
  |
 | 
@@ -8266,7 +8262,7 @@ Slash ResistanceSlash
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
 -   Can be modified with Crystal/Perfect lenses to increase the time you have between slashes, allowing them to be chained together over a longer duration.
 -   Can be modified with Drift/Rush shards but has seemingly no effect.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
 
  |
 | 
@@ -8305,7 +8301,7 @@ Blunt ResistanceBlunt
 
 -   Deals 20/22/24/26/28 base damage per level with 1.65 Light Weapon scaling.
 -   Wind-up is **HEAVILY** reduced upon being used directly after Karita Leap.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
 
  |
 | 
@@ -8344,7 +8340,7 @@ Blunt ResistanceBlunt
 
 -   Deals 30/33/36/39/42 base damage per level with 1.65 Light Weapon scaling.
 -   Hitting a wall causes you to backflip.
--   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
+-   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
 
  |
 

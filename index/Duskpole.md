@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Hollow, Duke Ishamon Erisia, Sea Events, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Voidwalker Bounties, Minityrsa |
+| obtainment | Chests from:, Saramaed Hollow, Duke Ishamon Erisia, Sea Events, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Voidwalker Bounties, Minityrsa |
 | description | ... |
 
 ## Description

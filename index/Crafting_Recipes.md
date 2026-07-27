@@ -125,8 +125,8 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), the [Detainment Core](Meri
 -   **[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)**
     -   [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md)
     -   [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>)
--   **[Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)**
-    -   [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md)
+-   **[Ascended Outlaw Boots](Ascended_Outlaw_Breeches.md)**
+    -   [Western Outlaw Boots](Western_Outlaw_Breeches.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md)
 -   **[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)**
     -   [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md)
 -   **[Reinforced War Helmet](Reinforced_War_Helmet.md)**
@@ -185,7 +185,7 @@ These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
     -   1 [Monastery Cowl](Monastery_Cowl.md) + 1 [Gale Essence](Gale_Essence.md) + 1 [Bluster](Bluster.md)
 -   **[Gale Enhanced Beads](Gale_Enhanced_Beads.md)**
     -   1 [Monastery Beads](Monastery_Beads.md) + 1 [Gale Essence](Gale_Essence.md) + 1 [Windswept](Windswept.md)
--   **999x [Gale Bullet](Bullet_Casings.md)**
+-   **999x [Gale Bullet](Bullets.md#bullet-casings)**
     -   1 [Bullet](Bullets.md) + 1 [Gale Essence](Gale_Essence.md)
 -   **[Frost Ring](Frost_Ring.md)**
     -   1 [Heavy Hands Ring](Heavy_Hands_Ring.md) + 1 [Frost Essence](Frost_Essence.md)
@@ -195,7 +195,7 @@ These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
     -   1 [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) + 1 [Chilling Enchant Stone](Chilling.md) + 1 [Frost Essence](Frost_Essence.md)
 -   **[Winter Rifle](Winter_Rifle.md)**
     -   1 [Summer Rifle](Summer_Rifle.md) + 1 [Frost Essence](Frost_Essence.md)
--   **999x [Frost Bullet](Bullet_Casings.md)**
+-   **999x [Frost Bullet](Bullets.md#bullet-casings)**
     -   1 [Bullet](Bullets.md) + 1 [Frost Essence](Frost_Essence.md)
 -   **[Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)**
     -   1 [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) + 1 [Giant Femur](Giant_Femur.md)

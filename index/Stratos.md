@@ -3,7 +3,7 @@ title: Stratos
 revid: 221650
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Stratos
@@ -212,4 +212,4 @@ Stratos can be found meditating in front of a fountain at the [Temple of the Bla
 
 ## References
 
-1.  [↑](#cite-ref-1) File:Windwaker Sea Highways.png
+1.  [↑](#cite-ref-1)

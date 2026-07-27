@@ -1,9 +1,9 @@
 ---
 title: Whaler Coat
-revid: 206856
+revid: 223283
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, The Knives of Eylis]
+categories: [Expert Outfits, Outfits, The Knives of Eylis]
 ---
 
 # Whaler Coat
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, The Knives of Eylis]
 | durability | 1500 |
 | resistances | +25% Physical Armor , +15% Elemental Armor |
 | buffs | +50% Stealth |
-| obtainment | Chests from:, The Depths, Moon's Eyrie, Bought from Traan Zakshun for 200 , Sea Events |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Moon's Eyrie, Bought from Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

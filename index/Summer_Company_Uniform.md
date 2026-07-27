@@ -1,9 +1,9 @@
 ---
 title: Summer Company Uniform
-revid: 222874
+revid: 223263
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits of The Summer Company]
+categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits of The Summer Company]
 ---
 
 # Summer Company Uniform
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exc
 | durability | 1500 |
 | resistances | +10% Physical Armor , +10% Slash Armor , +5% Elemental Armor , +25% Shadow Armor |
 | talents | Armor Piercing |
-| obtainment | Summer Isle (inside the gun store), Sold in Traan Zakshun's regular stock for 200 Chests from:, Summer Isle, Moon's Eyrie, First Layer, Erisia/General Sea Event Loot, Primadon |
+| obtainment | Summer Isle (inside the gun store), Sold in Traan Zakshun's regular stock for 200 Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Primadon |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

@@ -81,8 +81,8 @@ After defeating Titus, the Detainment Core's special crafting station will open 
 -   **[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)**
     1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md).
     2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>).
--   **[Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)**
-    1.  1 [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
+-   **[Ascended Outlaw Boots](Ascended_Outlaw_Breeches.md)**
+    1.  1 [Western Outlaw Boots](Western_Outlaw_Breeches.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
 -   **[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)**
     1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md).
 
@@ -154,7 +154,7 @@ After defeating Titus, the Detainment Core's special crafting station will open 
     <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
     <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a>.</li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a>.</li>
   </ul></td>

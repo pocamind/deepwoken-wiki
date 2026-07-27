@@ -1,9 +1,9 @@
 ---
 title: "Troublemaker's Overcoat"
-revid: 206852
+revid: 223279
 source: https://deepwoken.fandom.com/wiki/Troublemaker's_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits]
+categories: [Expert Outfits, Outfits]
 ---
 
 # Troublemaker's Overcoat
@@ -19,7 +19,7 @@ categories: [Outfits, Expert Outfits]
 | droppable | Yes |
 | durability | 2500 |
 | resistances | +25% Physical Armor , +20% Elemental Armor |
-| obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, First Layer, Interluminary Parasol, Primadon, Titan of the East, Sea Events |
+| obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Interluminary Parasol, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

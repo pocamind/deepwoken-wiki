@@ -1,9 +1,9 @@
 ---
 title: Navaen Nomad Robes
-revid: 209613
+revid: 223258
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, The Children of Navae, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Adept Outfits, Outfits, The Children of Navae, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Navaen Nomad Robes
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, The Children of Navae, Outfits with Talents
 | resistances | +10% Physical Armor , +10% Blunt Armor , +10% Elemental Armor , +15% Ice Armor , +15% Shadow Armor |
 | buffs | +50% Stealth |
 | talents | Fists of Navae |
-| obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Erisia/General Sea Event Loot, Moon's Eyrie, Minityrsa, Summer Isle, Primadon, Titan of the East |
+| obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Moon's Eyrie, Minityrsa, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
 

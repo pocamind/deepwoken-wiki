@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Minityrsa, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
+| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
 | description | ... |
 
 ## Description

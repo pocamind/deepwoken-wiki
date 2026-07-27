@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Boots
-revid: 222918
+revid: 223464
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,10 +19,10 @@ categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bo
 | innate talent | Enforcer's Technique |
 | set | Hardened Enforcer Plate, Hardened Enforcer Boots |
 | set talent | Enforcer's Pull |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted with 1 Enforcer Boots + 1 Enmity's Armor Piece + 1 Ethereal Bone Dust at the Lost Forge |
 | description | ... |
 

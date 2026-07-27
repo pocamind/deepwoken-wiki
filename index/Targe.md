@@ -22,7 +22,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 15 , Sold by Astra for 15 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs |
+| obtainment | Sold at Etris Weaponry for 15 , Sold by Astra for 15 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs |
 | description | A round, wooden shield often accompanied by spear or short blade. |
 
 ## Description

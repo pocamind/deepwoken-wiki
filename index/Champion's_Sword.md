@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons of 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Legion Soldier, Saramaed Hollow |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Legion Soldier, Saramaed Hollow |
 | description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
 
 ## Description

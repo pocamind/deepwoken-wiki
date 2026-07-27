@@ -12,7 +12,7 @@ A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are ranged weapons that are designed to fire projectiles if the user has bullets in their inventory which are capable of adding ranged capabilities (1H only) while also providing advantages and disadvantages depending on the [ore the bullets are made of](Bullet_Casings.md). Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), except for the [Dawnshot](Dawnshot.md) and the [Silversix](Silversix.md), with the latter being an advanced starting weapon that is purchased with echoes when creating a new character. Rifles are found only as drops from enemies. There are several different types of guns in game.
+**Guns** are ranged weapons that are designed to fire projectiles if the user has bullets in their inventory which are capable of adding ranged capabilities (1H only) while also providing advantages and disadvantages depending on the [ore the bullets are made of](Bullets.md#bullet-casings). Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), except for the [Dawnshot](Dawnshot.md) and the [Silversix](Silversix.md), with the latter being an advanced starting weapon that is purchased with echoes when creating a new character. Rifles are found only as drops from enemies. There are several different types of guns in game.
 
 For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to as "1H" for the rest of this article.
 
@@ -201,14 +201,14 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td><b><a href="Repeater.md">Repeater</a></b></td>
   <td>65 LHT</td>
   <td>14</td>
-  <td>LHT: 15</td>
+  <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>29.8</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -259,7 +259,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>-</td>
   <td>3</td>
   <td>12</td>
-  <td>1.33x</td>
+  <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
 </tr>
@@ -439,7 +439,7 @@ Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
 ## Trivia
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 [Iron](Ores.md#iron) for 50 bullets.
-    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
+    -   You can also modify your bullets with [Bullet Casings](Bullets.md#bullet-casings) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
 -   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md). (Two Rifles and one Pistol.)
 -   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits, both being legendary weapons.
 -   One handed guns are the only type of guns where having [iron bullets](Bullets.md) isn't a direct upgrade.

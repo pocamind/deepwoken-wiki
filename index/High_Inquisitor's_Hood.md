@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Fishing |
+| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Fishing |
 | description | A shroud worn proudly by highest ranking [sic] members of the Inquisition of the Central Authority. Orchestrating whole divisions of Inquisitors like relentless, haunting shadows, the High Inquisitors are the faithful eyes and ears of the Authority all over Lumen. |
 
 ## Description

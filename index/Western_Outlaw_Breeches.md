@@ -1,14 +1,14 @@
 ---
-title: Western Outlaw Boots
-revid: 222761
-source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Boots
+title: Western Outlaw Breeches
+revid: 223381
+source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Breeches
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
-# Western Outlaw Boots
+# Western Outlaw Breeches
 
-| Western Outlaw Boots | |
+| Western Outlaw Breeches | |
 |---|---|
 | type | Legs |
 | rarity | Common |
@@ -17,7 +17,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | weight | 1 |
 | styles | Mountain, Tundra, Valley |
 | innate stats | +5 Health , +3% Lightning Armor , +3% Wind Armor , +1 Rare Pip |
-| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
+| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Breeches, Western Outlaw Mask |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -32,8 +32,8 @@ Variants: [Hat](Western_Outlaw_Hat.md) · [Robes](Western_Outlaw_Robes.md) · [M
 
 ## Description
 
-The Western Outlaw Boots is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Western Outlaw Set.
+The Western Outlaw Breeches is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Western Outlaw Set.
 
-The Western Outlaw Boots are a pair of tattered pants that originated from the Western Luminant.
+The Western Outlaw Breeches are a pair of tattered pants that originated from the Western Luminant.
 
-This item is used to craft the [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).
+This item is used to craft the [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

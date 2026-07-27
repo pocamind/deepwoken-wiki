@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 213131
+revid: 223360
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Deep Gems, Mantras, Treasures]
@@ -18,7 +18,7 @@ categories: [Pathfinder Exclusive, Relics, Deep Gems, Mantras, Treasures]
 | bankable | No |
 | droppable | No |
 | pass down | No |
-| desc | It chills you to the bone...On hit, slow your opponents. This effect is stackable. (1s CD) |
+| desc | It chills you to the bone...On hit, slow your opponents. This effect is stackable. (2s CD) |
 | obtainment | Kyrsgarde Champion |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -33,7 +33,7 @@ It is exclusively obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Cham
 
 ## Effect
 
-On hit, apply [Kyrsan Chill](Status_Effects.md#kyrsan-chill); a stacking 6 second slow. This has a 1 second cooldown.
+On hit, apply [Kyrsan Chill](Status_Effects.md#kyrsan-chill); a stacking 6 second slow. This has a 2 second cooldown.
 
 This slows by 20%, with each subsequent stack slowing by an additional 4%.
 

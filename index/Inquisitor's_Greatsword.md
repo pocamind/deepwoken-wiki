@@ -34,7 +34,7 @@ categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapon
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Crypt of the Unbroken, Faction Ambushes (The Ministry), Merchant Ships, Fort Merit Armory for 90 (Authority Ensign exclusive) |
+| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Crypt of the Unbroken, Faction Ambushes (The Ministry), Merchant Ships, Fort Merit Armory for 90 (Authority Ensign exclusive) |
 | description | ... |
 
 ## Description

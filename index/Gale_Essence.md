@@ -42,7 +42,7 @@ The Gale Essence can craft into a few items with the [Lost Forge](Lost_Forge_of_
     -   [Gale Enhanced Beads](Gale_Enhanced_Beads.md): [Windswept Enchant Stone](Windswept.md) + [Monastery Beads](Monastery_Beads.md) + 1x Gale Essence
     -   [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md): [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 5x [Gale Stone](Gale_Stone.md) + 1x Gale Essence
 -   Miscellaneous
-    -   999x [Gale Bullets](Bullet_Casings.md#gale): [Bullet](Bullets.md) + 1x Gale Essence
+    -   999x [Gale Bullets](Bullets.md#gale): [Bullet](Bullets.md) + 1x Gale Essence
 
 ## Trivia
 

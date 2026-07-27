@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 222317
+revid: 223461
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,10 +19,10 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipmen
 | innate talent | Sloped Plate |
 | set | Ossified Black Helm, Ossified Black Pauldrons |
 | set talent | Captain's Call |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Blacksteel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge of Leiuna |
 | description | An imposing helmet made from blackened steel. |
 

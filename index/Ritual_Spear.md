@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 100 , Legion Soldier, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Scyphozia, Scyphozia jobs, Dread Serpent, Chime of Conflict |
+| obtainment | Sold at Etris Weaponry for 100 , Legion Soldier, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Dread Serpent, Chime of Conflict |
 | description | A spear that was once utilised in Gremor rituals pledged to Navae, but has now been appropriated across the Eastern Luminant. |
 
 Variants: [Ritual Sacrifice](Ritual_Sacrifice.md)

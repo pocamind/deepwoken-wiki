@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 222933
+revid: 223553
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1038,7 +1038,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Knife's Journey_ \[Rare Talent, Light Weapon\] - Daggers Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
     -   Displays a red particle on the target enemy after proccing.
-    -   Though not mentioned in the Talent description, Daggers gain a 15% chance to **critically hit** on basic attacks in PVE, dealing 5x damage.
+    -   Though not mentioned in the Talent description, Daggers gain a 15% chance to **critically hit** on basic attacks in PVE, dealing 5x damage. This has a 15 second cooldown.
         -   This does **not** work on non-Dagger weapons via Switchblade. Additionally, [Moppet](Moppet.md)'s critical attack cannot critically hit.
         -   Critical **hits** do **not** proc "on critical **attack**" Talents.
     -   Prerequisite: 30 Light Weapon
@@ -1753,7 +1753,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 40 Light Weapon, Using a Pistol
 
 -   Taste The Rainbow \[Common Talent, Light Weapon\] - Every time you shoot, switch your ammo type. \[Dual Guns\]
-    -   Every M1 switches your [Bullet type](Bullet_Casings.md).
+    -   Every M1 switches your [Bullet type](Bullets.md#bullet-casings).
     -   Prerequisites: 50 Light Weapon, Using a Pistol
 
 -   _True Ether Bullets_ \[Rare Talent, Light Weapon // Medium Weapon // Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
@@ -2085,7 +2085,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Inquisitive Lethality
 
--   **Backstabber** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
+-   **Backstabber** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 20 damage. \[15 second CD\] (+1 Passive Agility)
     -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
     -   This Talent does not have a range limit.
     -   Applies daze and ragdolls.
@@ -2653,8 +2653,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
     -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Will also combat tag anybody hit.
-    -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-Mantra skills.
-    -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+    -   Can movestack with M1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-Mantra skills by casting them during the animation.
+    -   Waring the [Broodplate Helmet](Broodplate_Helmet.md) makes Ardour Scream apply 100% [Anti-Heal](Status_Effects.md#anti-heal) for its full duration, via the [Broodlord's Scream](#broodlords-scream) Talent.
+    -   Wearing the [Broodplate Set](Broodplate_Helmet.md) grants Ardour Scream for free, bypassing its requirements. Additionally, the set grants the [Second Nature](#second-nature) Talent, which makes Ardour Scream completely free at the cost of increasing its cooldown by 10 seconds.
+    -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md) OR wear the [Broodplate](Broodplate_Helmet.md) set
 
 -   **[Murmur: Rhythm](Murmur%253A_Rhythm.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
@@ -3020,6 +3022,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _**Chorus of Souls**_ \[Advanced Talent, [Oathless](Oath%253A_Oathless.md)\] - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
     -   Grants heavily increased health regeneration if you have all Wisps active.
+        -   This healing is reduced by 0.477% for every point in each Attunement stat that is below 30. Having more than 30 points in an Attunement does not compensate for this.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
     -   This Talent will not work if you do not have the Oathless Oath.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
@@ -3842,6 +3845,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Adept Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 1-star Thundercaller mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   This Talent will be removed from you if you no longer meet its requirements.
+    -   Turns the [Storm](Storm.md) enchantment yellow. This recolor will be overriden if you have the Surge path.
     -   Obtained at 20 Thundercall
 
 -   Expert Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 2-star Thundercaller mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
@@ -4511,6 +4515,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   This effect is applied before Critical Engine Blessed Gem is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).
 
 -   Alloyed Soles: [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) & [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](Status_Effects.md#knockdown) applied to you.
+    
+    -   Reduces knockdown duration by 75%.
 
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
@@ -4539,7 +4545,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   15 second cooldown.
     -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).
 
--   Blinded: [Blindfold](Blindfold.md) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
+-   Blinded: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances
     -   Even though the [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision even with a Blindfold, the Talent still works.
     -   The Talent grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
@@ -4701,6 +4707,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Viscosity.md), or Rush Hour from Bloodrend.
 
+-   Gut Rot: [Broodplate Sabatons](Broodplate_Sabatons.md) - Landing a flourish enhances your next instance of [anti-heal](Status_Effects.md#anti-heal), doubling its duration for how long it lasts.
+
 -   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
     -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#relentless-hunt) unless this Talent is on cooldown.
@@ -4859,7 +4867,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.
-    -   Combining this Talent with excavator gives you a chance to get 4 ores at a time.
+    -   Combining this Talent with [Excavator](#excavator) gives you a chance to get 4 ores at a time.
+
+-   Rotten Regeneration: [Broodplate Cuirass](Broodplate_Cuirass.md) - Heal 20% more off enemies who have [anti-heal](Status_Effects.md#anti-heal) on them.
+    -   Grants a 20% buff to all sources of offensive healing, such as [Bloodless Gems](Bloodless_Gem.md), when targeting enemies who are afflicted with [Anti-Heal](Status_Effects.md#anti-heal).
 
 -   Scholar's Intuition: [Scholar](Scholar.md) - INT, WILL, and CHA Training Gear is 50% more effective.
 
@@ -4881,7 +4892,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Grants a 7.5% damage buff to M1s (15% in Vow of Iron).
 
--   Skillful Recovery: [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<Warrior's_Pendant_Earrings.md>) - Recover more posture in all situations.
+-   Skillful Recovery: [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
 
 -   Sloped Plate: [Ossified Black Helm](Ossified_Black_Helm.md) & [Blackalloy Helm](Blackalloy_Helm.md) - Reduces the amount of damage you take when guardbroken by 10.
 
@@ -4903,8 +4914,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Storm Strikes from other Specialist Equipment Talents now apply the [Stormcall Shock](Status_Effects.md#stormcall-shock) status effect, causing your opponent to take damage if they cast Mantras during its duration.
     -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
 
--   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.
-    -   This applies a 5% slow per combat tag you have. This slow lasts 1 second.
+-   Stronger Under Pressure: [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.
+    -   This applies an 8% slow per combat tag you have. This slow lasts 1 second.
 
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 
@@ -5044,7 +5055,11 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   Offensive Recovery: Ascended Outlaw Set - If all your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will restore your posture.
     -   This functions somewhat similarly to Arcwarder Mantras while in Arc suit.
-    -   Ascended Outlaw Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+    -   Ascended Outlaw Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)
+
+-   Second Nature: Broodplate Set - [Ardour Scream](#ardour-scream) no longer consumes ether and now instead adds 10 seconds to its cooldown.
+    -   This set also grants the [Ardour Scream](#ardour-scream) Talent. See above.
+    -   Broodplate Set: [Broodplate Helmet](Broodplate_Helmet.md), [Broodplate Cuirass](Broodplate_Cuirass.md), [Broodplate Sabatons](Broodplate_Sabatons.md)
 
 -   Shock Trooper Specialist: Specialist Set - Empower the mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   To proc Shock Trooper Specialist, you must meet the a damage threshold of 600 damage dealt with Thunder and Gale Mantras. Each point in Galebreathe or Thundercall reduces this threshold by 1, capping at 400 damage dealt for a Storm Strike with 100 Gale and Thunder.

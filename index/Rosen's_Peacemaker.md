@@ -57,4 +57,4 @@ Rosen's Peacemaker uses a modified variant of the default Rifle critical, dealin
 -   It is considered a direct upgrade to the [Summer Rifle](Summer_Rifle.md) as they share the same swing speed but has superior stats.
 -   Unlike its swing M1, the shot M1 has a straight line hitbox making it generally harder to hit enemies.
 -   The critical can still proc [Critical Attack](Talent_Quests.md) even if it gets blocked.
--   The rifle can utilize [Bullet Casings](Bullet_Casings.md) but only on its shot M1s.
+-   The rifle can utilize [Bullet Casings](Bullets.md#bullet-casings) but only on its shot M1s.

@@ -1,9 +1,9 @@
 ---
 title: "Trickster's Habit"
-revid: 213065
+revid: 223333
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
+categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
 ---
 
 # Trickster's Habit
