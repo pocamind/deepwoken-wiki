@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 217789
+revid: 223796
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]

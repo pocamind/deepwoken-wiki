@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 223652
+revid: 223740
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -33,6 +33,8 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | pass down | Yes |
 | obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Crypt of the Unbroken, Faction Ambushes (The Ministry) |
 | description | ... |
+
+Variants: [Rangescraper](Rangescraper.md)
 
 ## Description
 

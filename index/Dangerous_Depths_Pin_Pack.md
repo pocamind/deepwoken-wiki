@@ -1,6 +1,6 @@
 ---
 title: Dangerous Depths Pin Pack
-revid: 221690
+revid: 223780
 source: https://deepwoken.fandom.com/wiki/Dangerous_Depths_Pin_Pack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]

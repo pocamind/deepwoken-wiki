@@ -1,6 +1,6 @@
 ---
 title: Ignacio
-revid: 223716
+revid: 223731
 source: https://deepwoken.fandom.com/wiki/Ignacio
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -77,7 +77,7 @@ This dialogue is unlocked if the player has reached ally [Reputation](Reputation
 </tr>
 <tr>
   <td><font>[Unlocked dialogue begins here]</font><br>
-  <i>*The man gives you a brief acknowledging nod, barely moving his eyes away from the paper he's holding. Just a moment pal... Azimuth of 142 degrees, altitude of 15, distance of... Mhm... Yep, maths checks out... There, there, and </i>there<i>. Brilliant. </i>*He turns to you again.*<i> Friend of the Company, huh? Nice of you to visit.</i></td>
+  <i>*The man gives you a brief acknowledging nod, barely moving his eyes away from the paper he's holding.*</i> Just a moment pal... Azimuth of 142 degrees, altitude of 15, distance of... Mhm... Yep, maths checks out... There, there, and <i>there</i>. Brilliant. <i>*He turns to you again.*</i> Friend of the Company, huh? Nice of you to visit.</td>
 </tr>
 <tr>
   <td>What are you doing here?</td>

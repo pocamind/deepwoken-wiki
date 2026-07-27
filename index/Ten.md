@@ -1,8 +1,9 @@
 ---
 title: Ten
-revid: 208786
+revid: 223778
 source: https://deepwoken.fandom.com/wiki/Ten
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: ["Content not present in-game"]
 ---
 
 # Ten
@@ -10,6 +11,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Ten | |
 |---|---|
 | name | Ten |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

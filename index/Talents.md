@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 223553
+revid: 223752
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4330,6 +4330,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick regardless of the initial hit's damage, and it ticks 5 times over 5 seconds instead of 3 ticks immediately. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
     -   This Talent was formerly called "Bloodthirsty".
+    -   For the [Bloodbane](Bloodbane.md)'s other Talent, view [Devastating Recovery](#devastating-recovery).
 
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
     
@@ -4341,6 +4342,11 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Clutch Recovery: [Canor Fang](Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
+
+-   Continuation: [Rangescraper](Rangescraper.md) - Everytime you swing your weapon, fire a series of slashes forward after that act as another light attack when landing.
+    -   Light attacks fire projectiles that have the M1 tag.
+    -   This effect has no cooldown.
+    -   For the [Rangescraper](Rangescraper.md)'s other Talent, view [Extension](#extension).
 
 -   Continuous Bleed: [Razor Cutlass](Razor_Cutlass.md) - Every time you land a crit, flourish or uppercut, increase the amount of [bleed](Status_Effects.md#bleed) damage you deal for 15 seconds. This is stackable.
     -   Adds one additional bleed tick per stack, but reduces the damage each bleed tick deals by 10%.
@@ -4385,6 +4391,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Your M1s deal 3 posture damage to non-blocking opponents. Your criticals deal 10 posture damage to non-blocking opponents.
     -   This cannot guardbreak.
     -   This does not benefit from posture damage modifiers. Additionally, your weapon's damage and weight stat have no impact on this Talent's effects.
+
+-   Extension: [Rangescraper](Rangescraper.md) - For every hit you land with Rangescraper, extend the weapons range by 1 for 8 seconds. This effect stacks.
+    -   For the [Rangescraper](Rangescraper.md)'s other Talent, view [Continuation](#continuation).
 
 -   Finishing Slay: [Messer](Messer.md) & [Alloyed Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your [Perfection](Status_Effects.md#perfection) stacks for a secondary instance of damage on your critical.
@@ -4451,6 +4460,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Thirst restoration
         -   Stomach restoration
         -   Speed boost for 10 seconds
+    -   For the [Ritual Sacrifice](Ritual_Sacrifice.md)'s other Talent, view [Pierce Through](#pierce-through).
 
 -   Scammer: [Scoundrel's Saber](<Scoundrel's_Saber.md>) - If your opponent tries to parry the fake hit of your critical attack, your critical attack will inflict a stronger daze upon your opponent.
     -   If your opponent attempts to parry the 'fakeout' attack in the Scoundrel Saber critical, they will take a stronger [Dazed](Status_Effects.md#dazed) effect.

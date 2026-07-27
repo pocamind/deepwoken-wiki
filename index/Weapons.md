@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 223669
+revid: 223782
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -111,7 +111,22 @@ All weapons within the game have the chance of being found with or without diffe
   <td>19.6</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
+  <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
+  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <td>35 LHT</td>
+  <td>18</td>
+  <td>LHT: 7.5</td>
+  <td>-</td>
+  <td>-</td>
+  <td>2.2</td>
+  <td>11</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>28.1</td>
+</tr>
+<tr>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -4406,7 +4421,22 @@ All weapons within the game have the chance of being found with or without diffe
   <td>19.6</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
+  <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
+  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <td>35 LHT</td>
+  <td>18</td>
+  <td>LHT: 7.5</td>
+  <td>-</td>
+  <td>-</td>
+  <td>2.2</td>
+  <td>11</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>28.1</td>
+</tr>
+<tr>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -5414,7 +5444,22 @@ Daggers
   <td>19.6</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
+  <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
+  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <td>35 LHT</td>
+  <td>18</td>
+  <td>LHT: 7.5</td>
+  <td>-</td>
+  <td>-</td>
+  <td>2.2</td>
+  <td>11</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>28.1</td>
+</tr>
+<tr>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -13190,7 +13235,22 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>19.6</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
+  <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
+  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <td>35 LHT</td>
+  <td>18</td>
+  <td>LHT: 7.5</td>
+  <td>-</td>
+  <td>-</td>
+  <td>2.2</td>
+  <td>11</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>28.1</td>
+</tr>
+<tr>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -14264,7 +14324,22 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>19.6</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
+  <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
+  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <td>35 LHT</td>
+  <td>18</td>
+  <td>LHT: 7.5</td>
+  <td>-</td>
+  <td>-</td>
+  <td>2.2</td>
+  <td>11</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>28.1</td>
+</tr>
+<tr>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -21902,7 +21977,22 @@ Every player-obtainable weapon, excluding offhands.
   <td>19.6</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
+  <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
+  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <td>35 LHT</td>
+  <td>18</td>
+  <td>LHT: 7.5</td>
+  <td>-</td>
+  <td>-</td>
+  <td>2.2</td>
+  <td>11</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>28.1</td>
+</tr>
+<tr>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -26185,7 +26275,9 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Scaling: [Par's Glaive](<Par's_Glaive.md>) (30 CHA)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Darksteel Cleaver](Darksteel_Cleaver.md) (13)
-    -   Swing speed: [Soulwrought Gun](Crazy_Slots.md#weapons), [Soulwrought Dagger](Crazy_Slots.md#weapons) (1.25x)
+        
+        -   Honorable mention: [Rangescraper](Rangescraper.md) (11, Talent gives it a scaling range bonus)
+    -   Swing speed: [Rangescraper](Rangescraper.md) (1.3x)
     -   Amount of unique criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Rifles are the only weapon type that have four basic m1s before a flourish.

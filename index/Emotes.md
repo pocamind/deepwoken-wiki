@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 210836
+revid: 223789
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -61,7 +61,7 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | Grizzly | Swing your arms from side to side then cross your arms while still dancing. |  |
 | Hoss | Strike a pose with an upside down _Deepwoken_ symbol marked on your back with a flowing red visual effect on your right eye. This is based off of Akuma from the Street Fighter series. Whilst its name "Hoss" is based off of "Big Hoss" from Rogue Lineage. |  |
 | Meditate | Sit peacefully in meditation, leaving your weapon on the ground if equipped. |  |
-| Shrug | Shrug while shifting your head from side to side. |  |
+| Mocking Shrug | Shrug while shifting your head from side to side. |  |
 | Sturdy | You get Sturdy. |  |
 
 **Exclusive:**

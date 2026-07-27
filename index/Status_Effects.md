@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 223215
+revid: 223759
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,7 +32,7 @@ You are in a [Voidzone](Voidzones.md) or in the range of a [Void Spire](Void_Spi
 
 ### Cursed
 
-You currently have a [Curse of the No Life King](Curse_of_the_No_Life_King.md) or [Curse of Void](Curse_of_Void.md) enchanted weapon equipped. Similar to [Injured](#injured), perishing will send you to [the Depths](The_Depths.md). This effect can be removed by changing your weapon or enchantment, returning you to your previous state. However, this effect will persist for 60 seconds after you take damage, preventing you from swapping to a different weapon to prevent your trip to [the Depths](The_Depths.md).
+You currently have a [Curse of the No Life King](Curse_of_the_No_Life_King.md) or [Curse of Void](Curse_of_Void.md) enchanted weapon equipped. Similar to [Injured](#injured), perishing will send you to [the Depths](The_Depths.md). This effect can be removed by changing your weapon or enchantment, returning you to your previous state. However, this effect will persist for 60 seconds after you take damage, effectively preventing you from swapping to a different weapon near the end of a fight to prevent your trip to [the Depths](The_Depths.md).
 
 ## General
 
@@ -241,7 +241,7 @@ Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mant
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, [Hailbreaker](Hailbreaker.md) Critical, And [Winter Rifle's](Winter_Rifle.md) Running attack. Signified by being encased in a block of ice. Mash F to escape faster.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, [Hailbreaker](Hailbreaker.md) Critical, And [Winter Rifle's](Winter_Rifle.md) Running attack. Signified by being encased in a block of ice. Mash F, Q, or Space to escape faster, or [Vent](Combat_Mechanics.md#tempo) to escape instantly.
 
 ### Crystal
 
@@ -412,7 +412,7 @@ Applied from being hit by a player with the [Curse of Void](Curse_of_Void.md) en
 
 ### Kyrsan Chill
 
-Applied from being hit by a player with the [Kyrsan Chill](Kyrsan_Chill.md) enchant, [Coldpoint](Coldpoint.md) critical attack, and [Kyrsan Gem](Kyrsan_Gem.md) Deep Gem, gain slowness when being hit. Each stack makes you 20% slower. If applied through the Kyrsan Chill enchantment, you'll be fully encased in ice upon reaching 5 stacks. Similar to [Frozen](#frozen), mashing F allows you to escape from the ice faster. Signified by a pink-ish glow on your torso.
+Applied from being hit by a player with the [Kyrsan Chill](Kyrsan_Chill.md) enchant, [Coldpoint](Coldpoint.md) critical attack, and [Kyrsan Gem](Kyrsan_Gem.md) Deep Gem, gain slowness when being hit. Each stack makes you 20% slower. If applied through the Kyrsan Chill enchantment, you'll be fully encased in ice upon reaching 5 stacks. Similar to [Frozen](#frozen), mashing F, Q, or Space allows you to escape from the ice faster, or [Vent](Combat_Mechanics.md#tempo) to break out instantly. Signified by a pink-ish glow on your torso.
 
 ## Mantra Applied
 
@@ -428,7 +428,7 @@ Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have yo
 
 ### Engulfed by Shadows
 
-Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour), this effect grants a by 20-25% damage buff, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
+Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour), this effect grants a 20-25% weapon damage buff, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
 
 ### Blight
 

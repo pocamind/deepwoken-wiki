@@ -61,7 +61,7 @@
   },
   "828": {
     "title": "Weapons",
-    "lastrevid": 223669
+    "lastrevid": 223782
   },
   "829": {
     "title": "Iron Spear",
@@ -521,7 +521,7 @@
   },
   "1664": {
     "title": "Nanji",
-    "lastrevid": 217789
+    "lastrevid": 223796
   },
   "1665": {
     "title": "Ores",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 223553
+    "lastrevid": 223752
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -693,7 +693,7 @@
   },
   "2263": {
     "title": "Status Effects",
-    "lastrevid": 223215
+    "lastrevid": 223759
   },
   "2302": {
     "title": "Suri",
@@ -1241,7 +1241,7 @@
   },
   "3265": {
     "title": "Canor Fang",
-    "lastrevid": 223652
+    "lastrevid": 223740
   },
   "3267": {
     "title": "Master Hawk's Handaxe",
@@ -2593,7 +2593,7 @@
   },
   "6254": {
     "title": "Silversix",
-    "lastrevid": 223168
+    "lastrevid": 223788
   },
   "6256": {
     "title": "Avenger",
@@ -2881,7 +2881,7 @@
   },
   "7513": {
     "title": "Emotes",
-    "lastrevid": 210836
+    "lastrevid": 223789
   },
   "7521": {
     "title": "Human",
@@ -4549,7 +4549,7 @@
   },
   "13852": {
     "title": "Job Boards",
-    "lastrevid": 219250
+    "lastrevid": 223760
   },
   "13872": {
     "title": "Megalodaunt (disambiguation)",
@@ -6777,7 +6777,7 @@
   },
   "19838": {
     "title": "Captain Trist",
-    "lastrevid": 208582
+    "lastrevid": 223761
   },
   "19840": {
     "title": "Armourer Kev",
@@ -8681,7 +8681,7 @@
   },
   "23033": {
     "title": "Heavensfall",
-    "lastrevid": 196319
+    "lastrevid": 223776
   },
   "23043": {
     "title": "Legion Soldier (The Polymarch)",
@@ -8893,7 +8893,7 @@
   },
   "23247": {
     "title": "Echelon",
-    "lastrevid": 197945
+    "lastrevid": 223777
   },
   "23250": {
     "title": "Charged Parasol Part",
@@ -9149,7 +9149,7 @@
   },
   "24231": {
     "title": "The Recollection",
-    "lastrevid": 206898
+    "lastrevid": 223775
   },
   "24237": {
     "title": "Simforea",
@@ -9321,7 +9321,7 @@
   },
   "24433": {
     "title": "Ten",
-    "lastrevid": 208786
+    "lastrevid": 223778
   },
   "24453": {
     "title": "Siirka Point",
@@ -9501,7 +9501,7 @@
   },
   "24921": {
     "title": "Dangerous Depths Pin Pack",
-    "lastrevid": 221690
+    "lastrevid": 223780
   },
   "24973": {
     "title": "Jadeite Megalodaunt",
@@ -9565,7 +9565,7 @@
   },
   "25692": {
     "title": "The Vents",
-    "lastrevid": 219498
+    "lastrevid": 223774
   },
   "25899": {
     "title": "Resonance Door",
@@ -9629,7 +9629,7 @@
   },
   "26068": {
     "title": "Thula",
-    "lastrevid": 223718
+    "lastrevid": 223743
   },
   "26096": {
     "title": "Clint",
@@ -9637,7 +9637,7 @@
   },
   "26097": {
     "title": "Ignacio",
-    "lastrevid": 223716
+    "lastrevid": 223731
   },
   "26098": {
     "title": "Amethyst (NPC)",
@@ -9645,6 +9645,30 @@
   },
   "26100": {
     "title": "Captain Klave",
-    "lastrevid": 223627
+    "lastrevid": 223767
+  },
+  "26118": {
+    "title": "Rangescraper",
+    "lastrevid": 223755
+  },
+  "26120": {
+    "title": "Captain Rendez",
+    "lastrevid": 223765
+  },
+  "26121": {
+    "title": "Captain Massi",
+    "lastrevid": 223766
+  },
+  "26122": {
+    "title": "Outpost Wrath",
+    "lastrevid": 223768
+  },
+  "26123": {
+    "title": "Outpost Dignity",
+    "lastrevid": 223769
+  },
+  "26124": {
+    "title": "Outpost Virtue",
+    "lastrevid": 223770
   }
 }

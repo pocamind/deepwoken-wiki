@@ -1,19 +1,20 @@
 ---
-title: Captain Trist
-revid: 223761
-source: https://deepwoken.fandom.com/wiki/Captain_Trist
+title: Captain Massi
+revid: 223766
+source: https://deepwoken.fandom.com/wiki/Captain_Massi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Etrean NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
-# Captain Trist
+# Captain Massi
 
-| Captain Trist | |
+| Captain Massi | |
 |---|---|
-| name | Trist |
-| aspect | Adret |
-| pronouns | He/him[1] |
-| location | Port Merit |
+| name | Massi |
+| aspect | Etrean |
+| location | Outpost Dignity |
 | affiliation | The Central Authority |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -22,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Captain Trist is an [Adret](Adret.md) NPC. He is an officer of [The Central Authority](The_Central_Authority.md) who assigns missions to [Authority Ensigns](Authority_Ensign.md) that allow them to rank up.
+Captain Massi is an [Etrean](Etrean.md) NPC. They are an officer of [The Central Authority](The_Central_Authority.md) who assigns missions to [Authority Ensigns](Authority_Ensign.md) that allow them to rank up.
 
 These missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md). For more information on specific Missions as well as the Mission completion lootpool, view the [Authority Ensign](Authority_Ensign.md#progression) page.
 
@@ -37,7 +38,7 @@ These missions are timed objectives that vary in difficulty depending on the obj
 
 ## Location
 
-Captain Trist is located on the dock at [Port Merit](Port_Merit.md).
+Captain Massi is located at [Outpost Dignity](Outpost_Dignity.md), stationed at [The Starswept Valley](The_Starswept_Valley.md).
 
 ## Dialogue
 
@@ -133,8 +134,3 @@ Captain Trist is located on the dock at [Port Merit](Port_Merit.md).
 </tr>
 </tbody>
 </table>
-
-## References
-
-1.  [↑](#cite-ref-1) NPC dialogue: [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)  
-    _As a MEMBER of the AUTHORITY, your main task will be to **COMPLETE MISSIONS** assigned to you by **CAPTAIN TRIST**! He will be your _MAIN_ point of contact for all of your **ASSIGNMENTS**, and you will learn to LOVE and RESPECT him!_
