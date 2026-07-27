@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 219070
+revid: 223677
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -125,8 +125,8 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), the [Detainment Core](Meri
 -   **[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)**
     -   [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md)
     -   [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>)
--   **[Ascended Outlaw Boots](Ascended_Outlaw_Breeches.md)**
-    -   [Western Outlaw Boots](Western_Outlaw_Breeches.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md)
+-   **[Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)**
+    -   [Western Outlaw Breeches](Western_Outlaw_Breeches.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md)
 -   **[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)**
     -   [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md)
 -   **[Reinforced War Helmet](Reinforced_War_Helmet.md)**

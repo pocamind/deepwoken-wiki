@@ -1,6 +1,6 @@
 ---
 title: Thula
-revid: 223635
+revid: 223664
 source: https://deepwoken.fandom.com/wiki/Thula
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -187,6 +187,24 @@ This dialogue is unlocked if the player has reached ally [Reputation](Reputation
 </tr>
 <tr>
   <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Ignition Delver:**
+
+This dialogue is unlocked if the player is an [Ignition Delver](Ignition_Delver.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The Celtor lady sighs at your approach.*</i> Another one of you Union dunces poking around here? Surely you've got more useful things to do with your time. Like mining, or something... Yeah. Why don't you go do that? Only far, <i>far</i> away from here.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

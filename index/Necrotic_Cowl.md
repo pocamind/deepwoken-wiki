@@ -1,6 +1,6 @@
 ---
 title: Necrotic Cowl
-revid: 222279
+revid: 223656
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head, Equipment with Talents, Equipment with Exclusive Talents]
@@ -18,10 +18,10 @@ categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonu
 | innate talent | Blood Siphon |
 | set | Necrotic Cowl, Necrotic Mask |
 | set talent | Bloodless Overdrive |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Bloodfeather Cowl + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge of Leiuna |
 | description | ... |
 

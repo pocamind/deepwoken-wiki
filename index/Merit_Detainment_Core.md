@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 216979
+revid: 223686
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -81,8 +81,8 @@ After defeating Titus, the Detainment Core's special crafting station will open 
 -   **[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)**
     1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md).
     2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>).
--   **[Ascended Outlaw Boots](Ascended_Outlaw_Breeches.md)**
-    1.  1 [Western Outlaw Boots](Western_Outlaw_Breeches.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
+-   **[Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)**
+    1.  1 [Western Outlaw Breeches](Western_Outlaw_Breeches.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
 -   **[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)**
     1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md).
 
@@ -132,8 +132,8 @@ After defeating Titus, the Detainment Core's special crafting station will open 
   <td>Miscellaneous</td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a> (particularly <a href="Might_Gem.md">Might</a> and <a href="Wrath_Gem.md">Wrath Gems</a>), <a href="Dying_Embers.md">Dying Embers</a>, <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, Master Key, Override Key, Release Key, <a href="Spark_Gland.md">Spark Gland</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Wardens Armor Piece</font></a>.</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorers Needle</a>, <a href="Bluster.md">Bluster Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Stone.md">Stone Enchant Stone</a>, <a href="Storm.md">Storm Enchant Stone</a>, <a href="Windswept.md">Windswept Enchant Stone</a>.</li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a> (particularly <a href="Might_Gem.md">Might</a> and <a href="Wrath_Gem.md">Wrath Gems</a>), <a href="Dying_Embers.md">Dying Embers</a>, <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, Master Key, Override Key, Release Key, <a href="Spark_Gland.md">Spark Gland</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Wardens Armor Piece</font></a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorers Needle</a>, <a href="Bluster.md">Bluster Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Stone.md">Stone Enchant Stone</a>, <a href="Storm.md">Storm Enchant Stone</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -148,15 +148,15 @@ After defeating Titus, the Detainment Core's special crafting station will open 
   <td><a href="Equipment.md">Equipment</a></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
     <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Boots</a>.</li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a>.</li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Breeches</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
   </ul></td>
 </tr>
 </tbody>

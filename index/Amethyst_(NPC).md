@@ -1,6 +1,6 @@
 ---
 title: Amethyst (NPC)
-revid: 223628
+revid: 223663
 source: https://deepwoken.fandom.com/wiki/Amethyst_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -53,6 +53,26 @@ Amethyst is located in the [Songseeker Wilds](Songseeker_Wilds.md).
 </tr>
 <tr>
   <td><i>*She pauses to think for a moment.*</i> There's a few small pools of water in there... But I don't think that's it. The salinity ain't right. Besides, for the amount of water that courses through here, those cave pools should be much bigger. I suspect they must be draining out somewhere underneath... I wonder what kind of waterway systems they connect to? I've heard of rivers that disappear under the land, only to emerge to the surface again far, far away...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+**Ignition Delver:**
+
+This dialogue is unlocked if the player is an [Ignition Delver](Ignition_Delver.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The <a href="Glossary.md#adret">Adret</a> lady scowls at you.*</i> Hey, back off there, Union chump. The Company is staking a claim here, you here? You can't mine here. Scram now, before I swing this pickaxe here.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

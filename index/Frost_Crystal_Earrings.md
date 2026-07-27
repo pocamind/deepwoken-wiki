@@ -1,6 +1,6 @@
 ---
 title: Frost Crystal Earrings
-revid: 221258
+revid: 223691
 source: https://deepwoken.fandom.com/wiki/Frost_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,10 +17,10 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | weight | 0.1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Instant Nucleation |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted w/ 1 Crystal Pendant Earrings + 1 Chilling Enchant Stones + 1 Frost Essence at Lost Forge of Leiuna |
 | description | The crystals of these earrings are cold to the touch, seemingly unaffected by the warmth of your palms. Listening closely, you can hear the constant, subtle cracking of frost emanating from their core. |
 

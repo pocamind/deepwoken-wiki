@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 223572
+revid: 223681
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -25,7 +25,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, War Mode, Dread Serpent |
-| description | ... |
+| description | Born from maritime traditions, the Celtorian faith - Skyscriven - held that a pantheon of gods was responsible for keeping the stars of the night-sky shining, each star presided over by a different god. So, too, did they expect the commanders of Celtor's armies to act as the guiding stars of soldiery. Each officer announted at the Cathedral of the Empyrean, their armour marked with three stars. Upon the chest - the Guiding Star; upon the sabatons - the Twins... |
 
 ## Description
 

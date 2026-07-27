@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 223513
+revid: 223693
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Divers]
@@ -46,17 +46,17 @@ The **Hailbreaker** is a [Greatsword](Greatswords.md) that scales with Frostdraw
 
 This weapon comes with the following passive:
 
--   **Ingenious Invention** - The Hailbreaker changes forms upon use of its critical. There are three stages in total, which each affect how the critical is performed.
+-   **Ingenious Invention** - The Hailbreaker's blade changes after a critical attack is used, signifying its advancement to the next stage There are three stages in total, with the final stage being enhanced.
 
 ## Critical
 
 The Hailbreaker has three different criticals. When a critical is landed, it will advance to the next stage, changing its appearance. The stages are reset upon being sheathed.
 
-For the **Stage I**/**II** critical, the user slowly winds up before performing a heavy ice-infused slash, applying Frozen to the target. Three ice explosions will form a triangle around the user after a short delay.
+For the **Stage I**/**II** critical, the user slowly winds up before performing a heavy ice-infused slash, Three ice blasts will form a triangle around the user after a short delay.
 
-For the **Stage III** critical, the user dashes forward before performing a large upward ice-infused slash, freezing the target in place. Six ice explosions will form a ring around the user after a short delay before moving to the weapon's first stage.
+For the **Stage III** critical, the user rushes forward before unleashing a horizontal ice-infused slash, Six ice blasts will form a ring around the user after a short delay before moving to the weapon's first stage.
 
-All criticals have a cooldown of **10 seconds**.
+All criticals give the user brief hyperarmor and apply Frozen on the initial hit, and have a cooldown of **10 seconds**.
 
 Pressing M2 during the windup of the critical will perform a feint that resets stages and has a cooldown of 2 seconds. All stages have this ability.
 

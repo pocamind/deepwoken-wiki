@@ -1,6 +1,6 @@
 ---
 title: "Jester's Beret"
-revid: 222008
+revid: 223688
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -18,10 +18,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craft
 | styles | Chaos, Joker, Mono, Rouge, Wishmaker |
 | innate stats | +3 Health , +10 Ether , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Cap ArtistJester's Ruse |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Tillian's Beret + 1 Shiva's Codex + 1 Trickster Dust in the Lost Forge of Leiuna |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
 

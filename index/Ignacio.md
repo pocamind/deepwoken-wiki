@@ -1,6 +1,6 @@
 ---
 title: Ignacio
-revid: 223640
+revid: 223666
 source: https://deepwoken.fandom.com/wiki/Ignacio
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -68,6 +68,8 @@ Ignacio is located in the [Songseeker Wilds](Songseeker_Wilds.md).
 
 **Unlockable Dialogue:**
 
+**Company Friend:**
+
 This dialogue is unlocked if the player has reached ally [Reputation](Reputation.md) with the [The Summer Company](The_Summer_Company.md).
 
 <table>
@@ -102,6 +104,24 @@ This dialogue is unlocked if the player has reached ally [Reputation](Reputation
 </tr>
 <tr>
   <td>Besides all that, they say this place was once a nitre mine. Most people think the resources here have been wholly depleted - but if there's a connection a cavern network underneath, then maybe that ain't the case at all. <a href="Glossary.md#pathfinder">Pathfinder</a> miners still linger around this place, trying to excavate whatever remains... <i>*He glances over towards the miner hunched over by the entryway.*</i> But, of course, the things that ultimately stopped the <i>previous</i> operations in these mines persist. Won't be a problem for us, though. <i>*He smirks.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Ignition Delver:**
+
+This dialogue is unlocked if the player is an [Ignition Delver](Ignition_Delver.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The dragoon shoots you a scornful gaze. He gives his colleagues a meaningful look, as their hands shift towards their pistols.*</i> Come to get your trade secrets back? <b>Too bad.</b> The Company's staking a claim to this territory, and all the resources herein... And don't even bother trying to persuade us otherwise. If you want us ousted from here, you're more than welcome to try. But I doubt you chumps have the wherewithal for that, eh? <i>*He chuckles, and his companions laugh.*</i></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

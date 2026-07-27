@@ -1,6 +1,6 @@
 ---
 title: Clint
-revid: 223621
+revid: 223665
 source: https://deepwoken.fandom.com/wiki/Clint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -83,6 +83,26 @@ This dialogue is unlocked if the player has at least 25 [Intelligence](Attribute
 </tr>
 <tr>
   <td><i>*He takes a deep breath, closing his eyes as he exhales.*</i> ...ABSOLUTELY NOTHING. Just <b>bricks.</b> The room underneath has been <b>WALLED IN.</b> Straight up filled with bricks and stone and mortar. For what purpose!? It took me HALF AN HOUR to pick the lock without breaking it out of the rotting wood! Just because I wanted to avoid making loud noises, so that I wouldn't draw my colleagues' attention?! I had to be <b>EXTREMELY</b> delicate with it!?! <i>*His eye twitches. He looks positively apoplectic.*</i> ...What kind of psychopath would <i>DO</i> something like that? To an honest plunderer?!?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+**Ignition Delver:**
+
+This dialogue is unlocked if the player is an [Ignition Delver](Ignition_Delver.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The gunslinger glares at your approach.*</i> Another Union thug? You're below my paygrade, buddy. Buzz off.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

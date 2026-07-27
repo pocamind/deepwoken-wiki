@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Breeches
-revid: 223388
+revid: 223683
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Breeches
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |
-| obtainment | Crafting:, Prison Crafting Station + Western Outlaw Boots + 3x Gilded Needle + 3x Might Gem |
+| obtainment | Crafting:, Prison Crafting Station + Western Outlaw Breeches + 3x Gilded Needle + 3x Might Gem |
 | description | Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband. |
 
 Ascended Outlaw Set

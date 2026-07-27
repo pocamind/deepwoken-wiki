@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 205119
+revid: 223670
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -244,3 +244,4 @@ Lucky Spot
 -   Fishing up a [Golden Swordfish](Golden_Swordfish.md) allows you to use it as a weapon.
 -   Fishing without a lucky spot is not recommended. You can't fish lionfish and swordfishes are very rare (more than the weapon [Dormant Splinter](Dormant_Splinter.md)). Lucky spots can't give you Seaweed/Leather boot if you have all the fishing talents.
 -   [Lionfish's](Lionfish.md) can be caught in the New Kyrsa fishing spot and will be capable of using **Cero**.
+-   Canteens can be used as bait

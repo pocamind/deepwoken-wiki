@@ -61,7 +61,7 @@
   },
   "828": {
     "title": "Weapons",
-    "lastrevid": 214679
+    "lastrevid": 223669
   },
   "829": {
     "title": "Iron Spear",
@@ -97,7 +97,7 @@
   },
   "895": {
     "title": "Fishing",
-    "lastrevid": 205119
+    "lastrevid": 223670
   },
   "904": {
     "title": "Worshipper's Shield",
@@ -141,7 +141,7 @@
   },
   "996": {
     "title": "Crafting Recipes",
-    "lastrevid": 219070
+    "lastrevid": 223677
   },
   "997": {
     "title": "Leveling",
@@ -1241,7 +1241,7 @@
   },
   "3265": {
     "title": "Canor Fang",
-    "lastrevid": 221287
+    "lastrevid": 223652
   },
   "3267": {
     "title": "Master Hawk's Handaxe",
@@ -1341,7 +1341,7 @@
   },
   "3469": {
     "title": "Gilded Knife",
-    "lastrevid": 221319
+    "lastrevid": 223643
   },
   "3482": {
     "title": "Songseeker Temple",
@@ -2373,7 +2373,7 @@
   },
   "5797": {
     "title": "Kyrsedge",
-    "lastrevid": 218465
+    "lastrevid": 223668
   },
   "5798": {
     "title": "Ethiron Curseshield",
@@ -2454,6 +2454,10 @@
   "5951": {
     "title": "Immortal Guardian",
     "lastrevid": 216102
+  },
+  "5952": {
+    "title": "Bullets",
+    "lastrevid": 223674
   },
   "5973": {
     "title": "Calamus",
@@ -2569,7 +2573,7 @@
   },
   "6215": {
     "title": "Grand Authority Plate",
-    "lastrevid": 222996
+    "lastrevid": 223695
   },
   "6245": {
     "title": "Black Diver (NPC)",
@@ -2761,7 +2765,7 @@
   },
   "7163": {
     "title": "Celtor Commander Helm",
-    "lastrevid": 223578
+    "lastrevid": 223644
   },
   "7168": {
     "title": "Thresher Talon",
@@ -2861,7 +2865,7 @@
   },
   "7457": {
     "title": "Grand Authority Sallet",
-    "lastrevid": 223040
+    "lastrevid": 223696
   },
   "7459": {
     "title": "Flareblood Kamas",
@@ -3093,7 +3097,7 @@
   },
   "7894": {
     "title": "Grand Authority Sabatons",
-    "lastrevid": 223056
+    "lastrevid": 223694
   },
   "7908": {
     "title": "Stormseye",
@@ -3309,7 +3313,7 @@
   },
   "8367": {
     "title": "Celtorian Sabatons",
-    "lastrevid": 223572
+    "lastrevid": 223681
   },
   "8368": {
     "title": "Smith's Gloves",
@@ -4517,7 +4521,7 @@
   },
   "13786": {
     "title": "Boltcrusher",
-    "lastrevid": 223351
+    "lastrevid": 223642
   },
   "13796": {
     "title": "Corsair Outlaw",
@@ -4785,7 +4789,7 @@
   },
   "14476": {
     "title": "The Flippers of Fate",
-    "lastrevid": 223658
+    "lastrevid": 223659
   },
   "14480": {
     "title": "The Pastry Paster",
@@ -5041,7 +5045,7 @@
   },
   "15094": {
     "title": "Hailbreaker",
-    "lastrevid": 223513
+    "lastrevid": 223693
   },
   "15101": {
     "title": "Abyss Wanderer's Plate/Gallery",
@@ -5935,10 +5939,6 @@
     "title": "Gold Plate",
     "lastrevid": 190641
   },
-  "17939": {
-    "title": "Bullets",
-    "lastrevid": 223637
-  },
   "17956": {
     "title": "Attribute Trees",
     "lastrevid": 220377
@@ -6393,7 +6393,7 @@
   },
   "18605": {
     "title": "Might Gem",
-    "lastrevid": 218741
+    "lastrevid": 223678
   },
   "18606": {
     "title": "Friendly Prisoner",
@@ -6405,7 +6405,7 @@
   },
   "18609": {
     "title": "Titus Fulminus Destellus",
-    "lastrevid": 222930
+    "lastrevid": 223685
   },
   "18610": {
     "title": "Wrath Gem",
@@ -6441,7 +6441,7 @@
   },
   "18642": {
     "title": "Merit Detainment Core",
-    "lastrevid": 216979
+    "lastrevid": 223686
   },
   "18643": {
     "title": "Greatcannons",
@@ -6549,7 +6549,7 @@
   },
   "18772": {
     "title": "Ascended Outlaw Breeches",
-    "lastrevid": 223388
+    "lastrevid": 223683
   },
   "18778": {
     "title": "Authority Chainwarden",
@@ -8409,7 +8409,7 @@
   },
   "22320": {
     "title": "Naan Zakshun",
-    "lastrevid": 217528
+    "lastrevid": 223679
   },
   "22325": {
     "title": "Caster Fur Pauldrons",
@@ -8813,11 +8813,11 @@
   },
   "23157": {
     "title": "Shiva's Pendant Earrings",
-    "lastrevid": 223451
+    "lastrevid": 223689
   },
   "23160": {
     "title": "Jester's Beret",
-    "lastrevid": 222008
+    "lastrevid": 223688
   },
   "23162": {
     "title": "Duck",
@@ -8833,7 +8833,7 @@
   },
   "23171": {
     "title": "Frost Crystal Earrings",
-    "lastrevid": 221258
+    "lastrevid": 223691
   },
   "23173": {
     "title": "Parasol Membrane",
@@ -8841,7 +8841,7 @@
   },
   "23175": {
     "title": "The No-Life King's Crown",
-    "lastrevid": 222708
+    "lastrevid": 223687
   },
   "23179": {
     "title": "Ossified Blood Earrings",
@@ -8861,7 +8861,7 @@
   },
   "23220": {
     "title": "Saint Jay's Ring",
-    "lastrevid": 222533
+    "lastrevid": 223690
   },
   "23222": {
     "title": "Hardened Enforcer Plate",
@@ -8913,7 +8913,7 @@
   },
   "23281": {
     "title": "Necrotic Cowl",
-    "lastrevid": 222279
+    "lastrevid": 223656
   },
   "23282": {
     "title": "Necrotic Mask",
@@ -8981,7 +8981,7 @@
   },
   "23342": {
     "title": "Blizzard Ring",
-    "lastrevid": 223447
+    "lastrevid": 223657
   },
   "23343": {
     "title": "Cinders of Etris",
@@ -9629,19 +9629,19 @@
   },
   "26068": {
     "title": "Thula",
-    "lastrevid": 223635
+    "lastrevid": 223664
   },
   "26096": {
     "title": "Clint",
-    "lastrevid": 223621
+    "lastrevid": 223665
   },
   "26097": {
     "title": "Ignacio",
-    "lastrevid": 223640
+    "lastrevid": 223666
   },
   "26098": {
     "title": "Amethyst (NPC)",
-    "lastrevid": 223628
+    "lastrevid": 223663
   },
   "26100": {
     "title": "Captain Klave",

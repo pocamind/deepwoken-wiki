@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 214679
+revid: 223669
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -74,108 +74,108 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
   <td>N/A</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 3</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>13.5</td>
+  <td>14.1</td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
   <td>25 LHT</td>
-  <td>13</td>
+  <td>14.5</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.8</td>
+  <td>23.2</td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
   <td>35 LHT</td>
-  <td>12</td>
+  <td>13.5</td>
   <td>LHT: 6</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>17.4</td>
+  <td>19.6</td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
-  <td>11</td>
+  <td>12</td>
   <td>LHT: 10</td>
   <td>5%</td>
   <td>-</td>
   <td>5</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.5</td>
+  <td>21</td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
   <td>40 LHT</td>
-  <td>10</td>
+  <td>12.5</td>
   <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>4.5</td>
   <td>5.8</td>
-  <td>1.24x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>19.3</td>
+  <td>23.8</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.6</td>
+  <td>22</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
   <td>50 LHT</td>
-  <td>14.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>10%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>25.6</td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
   <td>50 LHT<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -195,29 +195,29 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
   <td>50 LHT<br>
   75 BLD</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 6.5<br>
   BLD: 4</td>
   <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6.5</td>
-  <td>1.22x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>24.1</td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 13</td>
   <td>30%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.7</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -232,7 +232,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
@@ -241,16 +241,16 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
   <td>70 LHT<br>
   30 MND</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 8<br>
   MND: 3</td>
   <td>15%</td>
   <td>-</td>
   <td>3.5</td>
   <td>6.5</td>
-  <td>1.26x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.7</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -261,7 +261,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
 </tr>
@@ -281,42 +281,42 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
   <td>75 LHT</td>
-  <td>14</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
   <td>75 LHT</td>
-  <td>13</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>30%</td>
   <td>15%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.3</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>15</td>
+  <td>16.5</td>
   <td>LHT: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>24</td>
+  <td>26.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -369,7 +369,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
 </tr>
@@ -4369,108 +4369,108 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
   <td>N/A</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 3</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>13.5</td>
+  <td>14.1</td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
   <td>25 LHT</td>
-  <td>13</td>
+  <td>14.5</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.8</td>
+  <td>23.2</td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
   <td>35 LHT</td>
-  <td>12</td>
+  <td>13.5</td>
   <td>LHT: 6</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>17.4</td>
+  <td>19.6</td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
-  <td>11</td>
+  <td>12</td>
   <td>LHT: 10</td>
   <td>5%</td>
   <td>-</td>
   <td>5</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.5</td>
+  <td>21</td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
   <td>40 LHT</td>
-  <td>10</td>
+  <td>12.5</td>
   <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>4.5</td>
   <td>5.8</td>
-  <td>1.24x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>19.3</td>
+  <td>23.8</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.6</td>
+  <td>22</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
   <td>50 LHT</td>
-  <td>14.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>10%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>25.6</td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
   <td>50 LHT<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -4490,29 +4490,29 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
   <td>50 LHT<br>
   75 BLD</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 6.5<br>
   BLD: 4</td>
   <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6.5</td>
-  <td>1.22x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>24.1</td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 13</td>
   <td>30%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.7</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -4527,7 +4527,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
@@ -4536,16 +4536,16 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
   <td>70 LHT<br>
   30 MND</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 8<br>
   MND: 3</td>
   <td>15%</td>
   <td>-</td>
   <td>3.5</td>
   <td>6.5</td>
-  <td>1.26x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.7</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -4556,7 +4556,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
 </tr>
@@ -4576,42 +4576,42 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
   <td>75 LHT</td>
-  <td>14</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
   <td>75 LHT</td>
-  <td>13</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>30%</td>
   <td>15%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.3</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>15</td>
+  <td>16.5</td>
   <td>LHT: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>24</td>
+  <td>26.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -4664,7 +4664,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
 </tr>
@@ -5377,108 +5377,108 @@ Daggers
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
   <td>N/A</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 3</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>13.5</td>
+  <td>14.1</td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
   <td>25 LHT</td>
-  <td>13</td>
+  <td>14.5</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.8</td>
+  <td>23.2</td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
   <td>35 LHT</td>
-  <td>12</td>
+  <td>13.5</td>
   <td>LHT: 6</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>17.4</td>
+  <td>19.6</td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
-  <td>11</td>
+  <td>12</td>
   <td>LHT: 10</td>
   <td>5%</td>
   <td>-</td>
   <td>5</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.5</td>
+  <td>21</td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
   <td>40 LHT</td>
-  <td>10</td>
+  <td>12.5</td>
   <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>4.5</td>
   <td>5.8</td>
-  <td>1.24x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>19.3</td>
+  <td>23.8</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.6</td>
+  <td>22</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
   <td>50 LHT</td>
-  <td>14.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>10%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>25.6</td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
   <td>50 LHT<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -5498,29 +5498,29 @@ Daggers
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
   <td>50 LHT<br>
   75 BLD</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 6.5<br>
   BLD: 4</td>
   <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6.5</td>
-  <td>1.22x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>24.1</td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 13</td>
   <td>30%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.7</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -5535,7 +5535,7 @@ Daggers
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
@@ -5544,16 +5544,16 @@ Daggers
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
   <td>70 LHT<br>
   30 MND</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 8<br>
   MND: 3</td>
   <td>15%</td>
   <td>-</td>
   <td>3.5</td>
   <td>6.5</td>
-  <td>1.26x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.7</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -5564,7 +5564,7 @@ Daggers
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
 </tr>
@@ -5584,42 +5584,42 @@ Daggers
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
   <td>75 LHT</td>
-  <td>14</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
   <td>75 LHT</td>
-  <td>13</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>30%</td>
   <td>15%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.3</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>15</td>
+  <td>16.5</td>
   <td>LHT: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>24</td>
+  <td>26.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -5672,7 +5672,7 @@ Daggers
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
 </tr>
@@ -13153,108 +13153,108 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
   <td>N/A</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 3</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>13.5</td>
+  <td>14.1</td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
   <td>25 LHT</td>
-  <td>13</td>
+  <td>14.5</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.8</td>
+  <td>23.2</td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
   <td>35 LHT</td>
-  <td>12</td>
+  <td>13.5</td>
   <td>LHT: 6</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>17.4</td>
+  <td>19.6</td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
-  <td>11</td>
+  <td>12</td>
   <td>LHT: 10</td>
   <td>5%</td>
   <td>-</td>
   <td>5</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.5</td>
+  <td>21</td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
   <td>40 LHT</td>
-  <td>10</td>
+  <td>12.5</td>
   <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>4.5</td>
   <td>5.8</td>
-  <td>1.24x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>19.3</td>
+  <td>23.8</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.6</td>
+  <td>22</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
   <td>50 LHT</td>
-  <td>14.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>10%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>25.6</td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
   <td>50 LHT<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -13274,29 +13274,29 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
   <td>50 LHT<br>
   75 BLD</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 6.5<br>
   BLD: 4</td>
   <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6.5</td>
-  <td>1.22x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>24.1</td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 13</td>
   <td>30%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.7</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -13311,7 +13311,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
@@ -13320,16 +13320,16 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
   <td>70 LHT<br>
   30 MND</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 8<br>
   MND: 3</td>
   <td>15%</td>
   <td>-</td>
   <td>3.5</td>
   <td>6.5</td>
-  <td>1.26x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.7</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -13340,7 +13340,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
 </tr>
@@ -13360,42 +13360,42 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
   <td>75 LHT</td>
-  <td>14</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
   <td>75 LHT</td>
-  <td>13</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>30%</td>
   <td>15%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.3</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>15</td>
+  <td>16.5</td>
   <td>LHT: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>24</td>
+  <td>26.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -13448,7 +13448,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
 </tr>
@@ -14227,108 +14227,108 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
   <td>N/A</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 3</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>13.5</td>
+  <td>14.1</td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
   <td>25 LHT</td>
-  <td>13</td>
+  <td>14.5</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.8</td>
+  <td>23.2</td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
   <td>35 LHT</td>
-  <td>12</td>
+  <td>13.5</td>
   <td>LHT: 6</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>17.4</td>
+  <td>19.6</td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
-  <td>11</td>
+  <td>12</td>
   <td>LHT: 10</td>
   <td>5%</td>
   <td>-</td>
   <td>5</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.5</td>
+  <td>21</td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
   <td>40 LHT</td>
-  <td>10</td>
+  <td>12.5</td>
   <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>4.5</td>
   <td>5.8</td>
-  <td>1.24x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>19.3</td>
+  <td>23.8</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.6</td>
+  <td>22</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
   <td>50 LHT</td>
-  <td>14.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>10%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>25.6</td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
   <td>50 LHT<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -14348,29 +14348,29 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
   <td>50 LHT<br>
   75 BLD</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 6.5<br>
   BLD: 4</td>
   <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6.5</td>
-  <td>1.22x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>24.1</td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 13</td>
   <td>30%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.7</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -14385,7 +14385,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
@@ -14394,16 +14394,16 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
   <td>70 LHT<br>
   30 MND</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 8<br>
   MND: 3</td>
   <td>15%</td>
   <td>-</td>
   <td>3.5</td>
   <td>6.5</td>
-  <td>1.26x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.7</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -14414,7 +14414,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
 </tr>
@@ -14434,42 +14434,42 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
   <td>75 LHT</td>
-  <td>14</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
   <td>75 LHT</td>
-  <td>13</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>30%</td>
   <td>15%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.3</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>15</td>
+  <td>16.5</td>
   <td>LHT: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>24</td>
+  <td>26.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -14522,7 +14522,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
 </tr>
@@ -21865,108 +21865,108 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
   <td>N/A</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 3</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>13.5</td>
+  <td>14.1</td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
   <td>25 LHT</td>
-  <td>13</td>
+  <td>14.5</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.8</td>
+  <td>23.2</td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
   <td>35 LHT</td>
-  <td>12</td>
+  <td>13.5</td>
   <td>LHT: 6</td>
   <td>-</td>
   <td>-</td>
   <td>2</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>17.4</td>
+  <td>19.6</td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
-  <td>11</td>
+  <td>12</td>
   <td>LHT: 10</td>
   <td>5%</td>
   <td>-</td>
   <td>5</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.5</td>
+  <td>21</td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
   <td>40 LHT</td>
-  <td>10</td>
+  <td>12.5</td>
   <td>LHT: 12</td>
   <td>-</td>
   <td>-</td>
   <td>4.5</td>
   <td>5.8</td>
-  <td>1.24x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>19.3</td>
+  <td>23.8</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>20.6</td>
+  <td>22</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
   <td>50 LHT</td>
-  <td>14.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
   <td>-</td>
   <td>10%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>25.6</td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
   <td>50 LHT<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
-  <td>15</td>
+  <td>16</td>
   <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.23x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -21986,29 +21986,29 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
   <td>50 LHT<br>
   75 BLD</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 6.5<br>
   BLD: 4</td>
   <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6.5</td>
-  <td>1.22x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.2</td>
+  <td>24.1</td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
-  <td>11</td>
+  <td>11.5</td>
   <td>LHT: 13</td>
   <td>30%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.7</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -22023,7 +22023,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
@@ -22032,16 +22032,16 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
   <td>70 LHT<br>
   30 MND</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>LHT: 8<br>
   MND: 3</td>
   <td>15%</td>
   <td>-</td>
   <td>3.5</td>
   <td>6.5</td>
-  <td>1.26x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>23.7</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -22052,7 +22052,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
 </tr>
@@ -22072,42 +22072,42 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
   <td>75 LHT</td>
-  <td>14</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>-</td>
   <td>-</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>22.9</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
   <td>75 LHT</td>
-  <td>13</td>
+  <td>15</td>
   <td>LHT: 8.5</td>
   <td>30%</td>
   <td>15%</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>21.3</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>15</td>
+  <td>16.5</td>
   <td>LHT: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
-  <td>24</td>
+  <td>26.4</td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -22160,7 +22160,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>4</td>
   <td>6</td>
-  <td>1.25x</td>
+  <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
 </tr>
@@ -26185,7 +26185,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Scaling: [Par's Glaive](<Par's_Glaive.md>) (30 CHA)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Darksteel Cleaver](Darksteel_Cleaver.md) (13)
-    -   Swing speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)
+    -   Swing speed: [Soulwrought Gun](Crazy_Slots.md#weapons), [Soulwrought Dagger](Crazy_Slots.md#weapons) (1.25x)
     -   Amount of unique criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Rifles are the only weapon type that have four basic m1s before a flourish.

@@ -1,6 +1,6 @@
 ---
 title: Bullets
-revid: 223637
+revid: 223674
 source: https://deepwoken.fandom.com/wiki/Bullets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics, Items]

@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Ring"
-revid: 222533
+revid: 223690
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]
@@ -16,11 +16,10 @@ categories: [Equipment, Rings, Craftable]
 | requirements | None |
 | weight | 0.1 |
 | innate stats | +1 Rare Pip |
-| innate talent | None |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted:, 1 Dazed Band + 1 Frost Essence + 1 Frost Ring at the Lost Forge of Leiuna |
 | description | Uppercuts inflict chill. |
 

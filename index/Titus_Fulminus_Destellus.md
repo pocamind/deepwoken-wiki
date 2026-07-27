@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 222930
+revid: 223685
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -11,7 +11,7 @@ categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, 
 | Titus Fulminus Destellus | |
 |---|---|
 | health | 70000 (+10k per player) |
-| drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems (guaranteed), Several Enchant Stones |
+| drops | Chest (see loot pool), Imperator's Fury, Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems (guaranteed), Several Enchant Stones |
 | moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Thunder Volley[1], Chorus Divide: Shattering Crescendo |
 | aspect | Khan |
 | pronouns | He/him |
@@ -380,8 +380,8 @@ Unique Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Unique Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a>, <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a>.</li>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
+    <li><b>Unique Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a>, <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a></li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
     <li><b>Legendary Weapons</b>: N/A</li>
     <li><b>Alloyed Weapons</b>: N/A</li>
     <li><b>Generic Weapons</b>:
@@ -401,9 +401,9 @@ Unique Loot Table
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li>
+    <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
   </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Boots</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Breeches</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
