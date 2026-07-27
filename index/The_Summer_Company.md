@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 223624
+revid: 223704
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -23,7 +23,7 @@ categories: [Factions, The Summer Company]
 
 The Summer Company is a faction that operates in their headquarters, [Summer Isle](Summer_Isle.md), in [The Aratel Sea](The_Aratel_Sea.md). They are the premier manufacturers of firearms and ammunition in Lumen.
 
-The company was founded prior to 1062 CE when the [son of a young village blacksmith](Gunsmith_Rosen.md) who journeyed into the sea, returning with the innovations of guns and forever changing the art of combat.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
+The company was founded prior to 1062 CE when the [son of a young village blacksmith](Gunsmith_Rosen.md) who journeyed into the sea, returning with the innovations of guns and forever changing the art of combat.[\[1\]](#cite-note-our-fort-1)[\[2\]](#cite-note-2)
 
 Alongside [The Ignition Union](The_Ignition_Union.md) and the [Divers](The_Divers.md), the Summer Company is employed by [The Central Authority](The_Central_Authority.md). Notably, there was an incident surrounding the Authority when [Gunsmith Hierka](Gunsmith_Hierka.md) of the [Bureau of Research](Bureau_of_Research.md) was sent to steal the company's secrets, resulting in the creation of the [Rifle Spear](Rifle_Spear.md).
 
@@ -99,13 +99,12 @@ Neutral-Bad Reputation:
 
 -   Despite being on very good terms with the Central Authority, the [Authority Ensign](Authority_Ensign.md) Origin spawns with Neutral reputation with the Company. In contrast the Divers and, ironically, the Union spawn with Friend reputation.
 -   There is presumably an **[Ironsinger](Ironsing.md)** among their ranks because the [Summer Dragoon](Summer_Dragoon.md) armor has Ironsing resistances and is implied to be Mag due to how he can make bullet casings with ore.
--   All the named members of Summer Company are named after parts of guns.
+-   All the named members of Summer Company's main housing are named after parts of guns.
     -   [Scope](Scope.md) is named after the scope.
     -   [Trig](Trig.md) is named after the trigger.
     -   [Mag](Mag.md) is named after the magazine.
 
-## Navigation
+## References
 
-1.  [↑](#cite-ref-1) [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
-2.  [↑](#cite-ref-2) [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
-3.  [↑](#cite-ref-3) [Flintlock](Flintlock.md) description
+1.  ↑ [1.0](#cite-ref-our-fort-1-0) [1.1](#cite-ref-our-fort-1-1) [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
+2.  [↑](#cite-ref-2) [Flintlock](Flintlock.md) description

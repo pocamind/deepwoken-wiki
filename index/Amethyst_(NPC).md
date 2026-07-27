@@ -1,11 +1,9 @@
 ---
 title: Amethyst (NPC)
-revid: 223663
+revid: 223720
 source: https://deepwoken.fandom.com/wiki/Amethyst_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Individuals with She/her pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Amethyst (NPC)
@@ -28,7 +26,7 @@ Amethyst is an [Adret](Adret.md) NPC. She is a dragoon of [The Summer Company](T
 
 ## Location
 
-Amethyst is located in the [Songseeker Wilds](Songseeker_Wilds.md).
+Amethyst is located in a small opening of the mineshaft going up the [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
 
@@ -61,8 +59,6 @@ Amethyst is located in the [Songseeker Wilds](Songseeker_Wilds.md).
 </table>
 
 **Unlockable Dialogue:**
-
-**Ignition Delver:**
 
 This dialogue is unlocked if the player is an [Ignition Delver](Ignition_Delver.md).
 

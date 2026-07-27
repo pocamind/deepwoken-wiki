@@ -1,11 +1,9 @@
 ---
 title: Ignacio
-revid: 223666
+revid: 223716
 source: https://deepwoken.fandom.com/wiki/Ignacio
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Ignacio
@@ -68,7 +66,7 @@ Ignacio is located in the [Songseeker Wilds](Songseeker_Wilds.md).
 
 **Unlockable Dialogue:**
 
-**Company Friend:**
+**Company Ally:**
 
 This dialogue is unlocked if the player has reached ally [Reputation](Reputation.md) with the [The Summer Company](The_Summer_Company.md).
 

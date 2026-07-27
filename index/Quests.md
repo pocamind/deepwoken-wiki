@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 213860
+revid: 223717
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -24,7 +24,7 @@ When these quests are completed, they give a [Talent](Talents.md) (or [Mantra](M
 
 The following quests grant the _Bravery_ Talent hand on top of their other rewards. Keep in mind this cannot be stacked with other Bravery quests.
 
-#### Family Recipe
+#### Mineskipper Mayhem
 
 <table>
 <tbody>

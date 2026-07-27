@@ -1,6 +1,6 @@
 ---
 title: Lucien
-revid: 221815
+revid: 223705
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -62,14 +62,14 @@ Lucien is located at Songseeker Wilds, sitting outside of the mineshaft.
 </tr>
 <tr>
   <td colspan="6">Have you tried asking those Summer Company dragoons over there for help?</td>
-  <td colspan="6">I'll clear the mineskippers out. For meemaw.</td>
+  <td colspan="6">I'll clear the mineskippers out. For Meemaw.</td>
 </tr>
 <tr>
   <td colspan="6"><i>*He grunts.*</i> Ugh... I have! They told me somethin' about how they'll 'get to it', 'eventually'... But they haven't done a darn thing! Haven't moved a <i>finger!</i> They just look at those fancy telescopes o' theirs, and keep drawin' something! An' that one lady keeps lookin' at me something funny, all sad-like... Some help they are... Bah!</td>
-  <td colspan="6">Yeah... YEAH! That's what I'm talkin' about! Get on in there, they're... festering. All disgusting-like. Oh, oh I got an idea! If you can clear out those <i>RATS</i>, I'll teach 'ya one of my ol' meemaw's recipes! She was a great cook, ya know.</td>
+  <td colspan="6">Yeah... YEAH! That's what I'm talkin' about! Get on in there, they're... festering. All disgusting-like. Oh, oh I got an idea! If you can clear out those <i>RATS</i>, I'll teach 'ya one of my ol' Meemaw's recipes! She was a great cook, ya know.</td>
 </tr>
 <tr>
-  <td colspan="6">I'll clear the mineskippers out. For meemaw.</td>
+  <td colspan="6">I'll clear the mineskippers out. For Meemaw.</td>
   <td colspan="6">Sounds good.</td>
 </tr>
 <tr>

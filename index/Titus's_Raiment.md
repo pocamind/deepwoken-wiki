@@ -1,9 +1,9 @@
 ---
 title: "Titus's Raiment"
-revid: 223302
+revid: 223699
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Hundred Legions]
 ---
 
 # Titus's Raiment
