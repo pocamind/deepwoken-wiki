@@ -1,6 +1,6 @@
 ---
 title: Thula
-revid: 223743
+revid: 223815
 source: https://deepwoken.fandom.com/wiki/Thula
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 Thula is a [Celtor](Celtor.md) NPC. She is a dragoon of [The Summer Company](The_Summer_Company.md).
 
-Thula is presently in charge of a detachment of dragoons assigned to the [Songseeker Wilds](Songseeker_Wilds.md) to survey its mines.
+Thula is presently in charge of a detachment of dragoons assigned to the [Songseeker Wilds](Songseeker_Wilds.md) to survey its mines and potential relation to the Boundary.
 
 ## Location
 
@@ -46,7 +46,7 @@ Thula is located in the [Songseeker Wilds](Songseeker_Wilds.md).
   <td colspan="2">Hey there, everything alright?</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*Your question seems to start her [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>] a little.*</i> Oh? Hello. Sorry, just lot in my own work. Don't worry about it... Pondering the history of that mine over there.</td>
+  <td colspan="2"><i>*Your question seems to start her a little.*</i> Oh? Hello. Sorry, just lot in my own work. Don't worry about it... Pondering the history of that mine over there.</td>
 </tr>
 <tr>
   <td colspan="2">Is there something special about it?</td>
@@ -112,7 +112,7 @@ This dialogue is unlocked if the player has reached ally [Reputation](Reputation
   <td>Hey there, everything alright?</td>
 </tr>
 <tr>
-  <td><i>*Your question seems to start her [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>] a little.*</i> Oh? Hello. Sorry, just lot in my own work. Don't worry about it... Pondering the history of that mine over there.</td>
+  <td><i>*Your question seems to start her a little.*</i> Oh? Hello. Sorry, just lot in my own work. Don't worry about it... Pondering the history of that mine over there.</td>
 </tr>
 <tr>
   <td>Is there something special about it?</td>
@@ -170,7 +170,7 @@ This dialogue is unlocked if the player has completed the "[Mineskipper Mayhem](
   <td>Hey there, everything alright?</td>
 </tr>
 <tr>
-  <td><i>*Your question seems to start her [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>] a little.*</i> Oh? Hello. Sorry, just lot in my own work. Don't worry about it... Pondering the history of that mine over there.</td>
+  <td><i>*Your question seems to start her a little.*</i> Oh? Hello. Sorry, just lot in my own work. Don't worry about it... Pondering the history of that mine over there.</td>
 </tr>
 <tr>
   <td>Is there something special about it?</td>

@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 209189
+revid: 223804
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -37,6 +37,8 @@ The Authority is highly treacherous and dishonorable; they have conspired behind
 The upper ranks of The Authority heavily favor [Adrets](Adret.md) and [Canors](Canor.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers, excluding a handful of extreme situations. This is also notable in the lyrics of the Gideshu March, which frames the Authority's acts as partially motivated by the desire to spread specifically "Adretian" fame. Given its origins and popularity, this implies this sentiment is well known and held among the low ranking infantry.
 
 The side effect of their practices is the Authority are far more fragile than one might think. Due to the number of cultures they have subsumed into their collective, the Authority lack any culture of their own outside of the military hierarchy, which constantly threatens to deepen divides within the organization and result in in-fighting.[\[5\]](#cite-note-5)
+
+The Central Authority possesses taxation policies, but the exact details of these are not known.[\[6\]](#cite-note-6)
 
 ## Gameplay
 
@@ -109,4 +111,6 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 3.  [↑](#cite-ref-3) [Book](Books.md): [Jericho's Journal](<Jericho's_Journal.md>)  
     _How short-sighted we must be, for it was in the arms of our old enemy that we found him._
 4.  [↑](#cite-ref-4) [Falchion](Falchion.md) description
-5.  [↑](#cite-ref-5) [Book](Books.md): [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1)
+5.  [↑](#cite-ref-5) [Book](Books.md): [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1)  
+    
+6.  [↑](#cite-ref-6) NPC dialogue: [Cheral](Cheral.md)

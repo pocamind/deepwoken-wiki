@@ -1,6 +1,6 @@
 ---
 title: Jadeite Megalodaunt
-revid: 223337
+revid: 223811
 source: https://deepwoken.fandom.com/wiki/Jadeite_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -30,7 +30,7 @@ The Jadeite Megalodaunt is an [Equipment](Equipment.md) item under the "Torso" c
 
 It is a waist-worn Megalodaunt charm made out of jade.
 
-The [Good Luck Charm](Talents.md#good-luck-charm) Talent improves chance based talents and equipment favorably; "Makes you feel a little better, probably."
+The [Good Luck Charm](Talents.md#good-luck-charm) Talent has an unknown effect; "Makes you feel a little better, probably."
 
 ## Trivia
 

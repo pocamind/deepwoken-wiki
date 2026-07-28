@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 223670
+revid: 223827
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -29,7 +29,9 @@ The frequency and quality of loot from fishing is also heavily based on the loca
 Many varieties of fish can be obtained from fishing, as well as some loot. **Fished up objects can very rarely be _golden._** Golden loot will not be deposited into your inventory as an item, instead granting you 1 [Knowledge](Knowledge.md). The bigger the fish, the better the loot. The loot you can get from fishing is:
 
 -   [Sea Bass](Sea_Bass.md)
+-   [Yellow Bass](Yellow_Bass.md)
 -   [Red Snapper](Red_Snapper.md)
+-   [Lamprey](Lamprey.md)
 -   [Tuna](Tuna.md)
 -   [Swordfish](Swordfish.md)
 -   [Squid](Squid.md)
@@ -45,7 +47,9 @@ Many varieties of fish can be obtained from fishing, as well as some loot. **Fis
 Everything you can get from fishing has its own chat bubble pop-up, as a reaction of your character, with most of them being puns or word plays.
 
 -   If you fish a Sea Bass: "It's a Sea Bass! Where's its instrument?"
+-   If you fish a Yellow Bass: "It's a Yellow Bass! What a coward!"
 -   If you fish a Red Snapper: "A Red Snapper! Quite the sailor's mouth on this one..."
+-   If you fish a Lamprey: "It's a Lamprey... Gotcha, sucker!"
 -   If you fish a Tuna: "Holy moly! A Tuna! I wonder what at-tuna-ment it is?"
 -   If you fish a Swordfish: "A Swordfish! Too bad I can't wield it..."
 -   If you fish a Squid: "Cool Squid! No, I'm not squidding."

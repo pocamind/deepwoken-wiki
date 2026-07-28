@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 213153
+revid: 223852
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -36,5 +36,5 @@ The Trickster Dust can be used at the [Lost Forge](Lost_Forge_of_Leiuna.md) foun
 -   [Equipment](Equipment.md):
     -   [Jester's Beret](<Jester's_Beret.md>): [Tillian's Beret](<Tillian's_Beret.md>) + 1x Trickster Dust + 1x [Shiva's Codex](<Shiva's_Codex.md>)
     -   [Transfusion Ring](Transfusion_Ring.md): [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Trickster Dust + 1x [Necrotic Membrane](Necrotic_Membrane.md)
-    -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Trickster Dust + 1x [Parasol Membrane](Parasol_Membrane.md) + 1x [Weathered Timepiece](Weathered_Timepiece.md)
-    -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Trickster Dust + 1x [Parasol Membrane](Parasol_Membrane.md) + 1x [Temporal Crux](Temporal_Crux.md)
+-   [Ingredients](Ingredients.md)
+    -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Trickster Dust + 1x [Parasol Membrane](Parasol_Membrane.md) + 1x [Weathered Timepiece](Weathered_Timepiece.md) OR 1x [Temporal Crux](Temporal_Crux.md)

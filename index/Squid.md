@@ -1,34 +1,30 @@
 ---
 title: Squid
-revid: 192678
+revid: 223856
 source: https://deepwoken.fandom.com/wiki/Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Fishing Exclusive]
+categories: [Items, Fish, Ingredients, Fishing Exclusive]
 ---
 
 # Squid
 
 | Squid | |
 |---|---|
-| value | 10 |
-| weight | 1 |
+| weight | .25 |
 | stack | x99 |
-| type | Ingredient |
-| food type | Meat |
-| rarity | Common |
-| stomach | ??% |
-| water | ??% |
+| type | Fish |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | No, I'm not squidding. |
+| habitat | Saltwater |
+| desc | Cool Squid! No, I'm not squidding. |
 | fishingquote | Cool Squid! No, I'm not squidding. |
 
 _Not to be confused with the [Nautilodaunt](Nautilodaunt.md), commonly nicknamed "Squibbo"._
 
 ## Description
 
-A squid can be caught by [Fishing](Fishing.md).
+A squid can be caught by [Fishing](Fishing.md) in Saltwater.
 
 ## Crafting
 

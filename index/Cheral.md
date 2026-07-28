@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 220144
+revid: 223816
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, In progress with reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
@@ -20,8 +20,6 @@ notices:
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-  
 
 ## Description
 
@@ -66,7 +64,13 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
   <td>Is there some kind of arrangement between the Etreans and you?</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Of a sort. There has often been a mutual understanding between our peoples. Our ways of life are both threatened by the <a href="Glossary.md#the-central-authority">Authority's</a> tyranny.</td>
+</tr>
+<tr>
+  <td>What does the Authority have against you?</td>
+</tr>
+<tr>
+  <td>Naturally, there are the usual prejudices of settled folk. They call us thieves, bandits, vagrants. But the <a href="Glossary.md#authority">Authority</a> hold us in greater contempt; they seek to erase <a href="Glossary.md#lumen">Lumen's</a> culture, supplant it. And of course, what good are citizens you can't tax?</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

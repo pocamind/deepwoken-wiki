@@ -97,7 +97,7 @@
   },
   "895": {
     "title": "Fishing",
-    "lastrevid": 223670
+    "lastrevid": 223827
   },
   "904": {
     "title": "Worshipper's Shield",
@@ -945,7 +945,7 @@
   },
   "2686": {
     "title": "The Central Authority",
-    "lastrevid": 209189
+    "lastrevid": 223804
   },
   "2687": {
     "title": "Adretian Axe",
@@ -1765,7 +1765,7 @@
   },
   "4707": {
     "title": "Cheral",
-    "lastrevid": 220144
+    "lastrevid": 223816
   },
   "4708": {
     "title": "Repair Kit",
@@ -3045,7 +3045,7 @@
   },
   "7781": {
     "title": "Squid",
-    "lastrevid": 192678
+    "lastrevid": 223856
   },
   "7784": {
     "title": "Lost Celtor",
@@ -4633,7 +4633,7 @@
   },
   "14071": {
     "title": "Murmur: Tacet",
-    "lastrevid": 216543
+    "lastrevid": 223854
   },
   "14072": {
     "title": "Murmur: Rhythm",
@@ -5129,7 +5129,7 @@
   },
   "15522": {
     "title": "Umbrite Witherblade",
-    "lastrevid": 221522
+    "lastrevid": 223836
   },
   "15545": {
     "title": "Sea Highway",
@@ -5137,7 +5137,7 @@
   },
   "15577": {
     "title": "Heart of Enmity",
-    "lastrevid": 218327
+    "lastrevid": 223822
   },
   "15578": {
     "title": "Warlock's Mantle",
@@ -5401,7 +5401,7 @@
   },
   "16213": {
     "title": "Glossary",
-    "lastrevid": 223639
+    "lastrevid": 223798
   },
   "16223": {
     "title": "Inquisitor's Duster/Gallery",
@@ -5969,7 +5969,7 @@
   },
   "18031": {
     "title": "Oath: Blightsurger",
-    "lastrevid": 221554
+    "lastrevid": 223830
   },
   "18062": {
     "title": "Elder Primadon, The Titan Warlord",
@@ -6385,7 +6385,7 @@
   },
   "18603": {
     "title": "Curse of the Authoritative",
-    "lastrevid": 218014
+    "lastrevid": 223818
   },
   "18604": {
     "title": "Windswept",
@@ -6709,7 +6709,7 @@
   },
   "19758": {
     "title": "Chud Steel",
-    "lastrevid": 211040
+    "lastrevid": 223799
   },
   "19760": {
     "title": "Fabantou",
@@ -8565,7 +8565,7 @@
   },
   "22710": {
     "title": "Swordfish",
-    "lastrevid": 194217
+    "lastrevid": 223828
   },
   "22711": {
     "title": "Red Snapper",
@@ -8577,7 +8577,7 @@
   },
   "22713": {
     "title": "Sea Bass",
-    "lastrevid": 194218
+    "lastrevid": 223857
   },
   "22716": {
     "title": "The Forest of Lights",
@@ -8593,7 +8593,7 @@
   },
   "22722": {
     "title": "Version History/2026",
-    "lastrevid": 223446
+    "lastrevid": 223812
   },
   "22730": {
     "title": "Suri's brother",
@@ -8773,7 +8773,7 @@
   },
   "23119": {
     "title": "Trickster Dust",
-    "lastrevid": 213153
+    "lastrevid": 223852
   },
   "23133": {
     "title": "Dread Serpent's Mane",
@@ -8977,7 +8977,7 @@
   },
   "23337": {
     "title": "Ossified Phalanx Boots",
-    "lastrevid": 222330
+    "lastrevid": 223855
   },
   "23342": {
     "title": "Blizzard Ring",
@@ -9389,7 +9389,7 @@
   },
   "24601": {
     "title": "Broodplate Helmet",
-    "lastrevid": 223516
+    "lastrevid": 223806
   },
   "24602": {
     "title": "Terraplate Pauldrons",
@@ -9505,7 +9505,7 @@
   },
   "24973": {
     "title": "Jadeite Megalodaunt",
-    "lastrevid": 223337
+    "lastrevid": 223811
   },
   "25051": {
     "title": "Thresher Charm",
@@ -9621,15 +9621,15 @@
   },
   "26063": {
     "title": "Broodplate Cuirass",
-    "lastrevid": 223519
+    "lastrevid": 223809
   },
   "26064": {
     "title": "Broodplate Sabatons",
-    "lastrevid": 223499
+    "lastrevid": 223808
   },
   "26068": {
     "title": "Thula",
-    "lastrevid": 223743
+    "lastrevid": 223815
   },
   "26096": {
     "title": "Clint",
@@ -9670,5 +9670,13 @@
   "26124": {
     "title": "Outpost Virtue",
     "lastrevid": 223770
+  },
+  "26129": {
+    "title": "Lamprey",
+    "lastrevid": 223825
+  },
+  "26130": {
+    "title": "Yellow Bass",
+    "lastrevid": 223826
   }
 }

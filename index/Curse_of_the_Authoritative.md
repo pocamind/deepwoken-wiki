@@ -1,6 +1,6 @@
 ---
 title: Curse of the Authoritative
-revid: 218014
+revid: 223818
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Authoritative
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -22,7 +22,7 @@ Curse of the Authoritative is a debuffing curse [enchantment](Enchantments.md) t
 
 ## Effect
 
-On uppercut, flourish, or critical attack, Curse of the Authoritative applies the [Authoritative](Status_Effects.md#authoritative) status effect to the user, increasing the posture damage they deal by 50% for 30 seconds.
+On uppercut, flourish, or critical attack, Curse of the Authoritative applies the [Authoritative](Status_Effects.md#authoritative) status effect to the user, increasing the posture damage they take by 50% for 30 seconds.
 
 ### Curse
 
