@@ -1,9 +1,9 @@
 ---
 title: Incognito
-revid: 215885
+revid: 224002
 source: https://deepwoken.fandom.com/wiki/Incognito
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Mantras, Quests, NPCs located in the Eastern Luminant, NPCs]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]
 ---
 
 # Incognito
@@ -97,6 +97,7 @@ Incognito is located inside of the mines at [Songseeker Wilds](Songseeker_Wilds.
 
 ## Trivia
 
+-   Incognito means to keep one's identity hidden.
 -   The statue you transform into is the white king piece from the chess board at [Voidheart](Voidheart.md).
     -   It is also the statue of the King of Etrea seen in Etris Palace.
 -   Using the Campfire disguise while having the Talent [Azure Flames](Talents.md#azure-flames) will make your campfire have blue flames instead of orange or yellow. This doesn't work with [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets).

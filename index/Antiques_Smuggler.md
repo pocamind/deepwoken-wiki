@@ -1,9 +1,9 @@
 ---
 title: Antiques Smuggler
-revid: 215890
+revid: 223953
 source: https://deepwoken.fandom.com/wiki/Antiques_Smuggler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Antiques Smuggler
@@ -19,7 +19,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Antiques Smuggler is an [Etrean](Etrean.md) NPC. They function similarly to an [Antiquarian](Antiquarian.md), but at the cost of purchasing most items at only 50% of their normal value. However, trinkets can still be traded at the standard rate.
+The Antiques Smuggler is an [Etrean](Etrean.md) NPC.
+
+They function similarly to an [Antiquarian](Antiquarian.md), but at the cost of purchasing most items at only 50% of their normal value. However, trinkets can still be traded at the standard rate.
 
 The Antiques Smuggler wears a [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md).
 

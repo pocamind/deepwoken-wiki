@@ -1,6 +1,6 @@
 ---
 title: Alina Sokolof
-revid: 215633
+revid: 223980
 source: https://deepwoken.fandom.com/wiki/Alina_Sokolof
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, NPCs located in the First Layer, The Divers]
@@ -24,7 +24,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Alina Sokolof is a [Celtor](Celtor.md) NPC. She was the Quartermaster of [Castle Light](Castle_Light.md) prior to being succeeded by [Mark Adaset](Mark_Adaset.md). She wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md).
+Alina Sokolof is a [Celtor](Celtor.md) NPC. She was the Quartermaster of [Castle Light](Castle_Light.md) prior to being succeeded by [Mark Adaset](Mark_Adaset.md).
+
+She wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md).
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Invasion of the Isle of Vigils
-revid: 201488
+revid: 224007
 source: https://deepwoken.fandom.com/wiki/Invasion_of_the_Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Articles with conjectural titles]
@@ -21,7 +21,7 @@ notices:
 | side1 | Etrea[3], The Ministry[3] |
 | side2 | The Vigils[3] |
 | commanders1 | The Lord Regent[3] |
-| commanders2 | Maestro Alkhurst Legato[3] |
+| commanders2 | Maestro Alkhurst Legato†[3] |
 | casual1 | Unknown |
 | casual2 | Maestro Alkhurst Legato[3] |
 

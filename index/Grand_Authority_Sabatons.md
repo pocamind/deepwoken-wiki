@@ -1,9 +1,9 @@
 ---
 title: Grand Authority Sabatons
-revid: 223694
+revid: 223938
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Legs, Sabatons]
+categories: [Equipment with Styles, Equipment, Legs, Sabatons, Equipment of The Central Authority]
 ---
 
 # Grand Authority Sabatons

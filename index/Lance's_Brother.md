@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 213918
+revid: 223947
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Lance's Brother**, also known as **(?),** is an [Etrean](Etrean.md) NPC, he sells various [food](Food.md) items at his stand.
+Lance's Brother, also known as (?), is an [Etrean](Etrean.md) NPC. He sells various [food](Food.md) items at his stand.
 
 ## Location
 

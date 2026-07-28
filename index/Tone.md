@@ -1,9 +1,9 @@
 ---
 title: Tone
-revid: 215696
+revid: 223990
 source: https://deepwoken.fandom.com/wiki/Tone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
+categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs, Individuals with unspecified pronouns]
 ---
 
 # Tone
@@ -13,7 +13,7 @@ categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 | name | Tone |
 | aspect | Tiran |
 | location | Isle of Vigils |
-| affiliation | Etrea |
+| affiliation | The Vigils |
 
 Variants: [Bari](Bari.md)
 
@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Tone is a [Tiran](Tiran.md) NPC. He sells starter equipment aimed towards new and early game players.
+Tone is a [Tiran](Tiran.md) NPC. They sell starter equipment aimed towards early game players.
 
 ## Location
 

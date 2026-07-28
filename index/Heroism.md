@@ -1,6 +1,6 @@
 ---
 title: Heroism
-revid: 217996
+revid: 224011
 source: https://deepwoken.fandom.com/wiki/Heroism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -26,7 +26,7 @@ When your health is at 75% or higher, Heroism grants a damage buff to your weapo
 
 Heroism's damage buff is lessened in PvE.
 
-Being under certain negative status effects will apply them to your opponent when you hit them with your weapon attacks. Note: this does not remove the status effect from yourself, it only applies it to your opponent.
+Being under certain negative status effects will apply them to your opponent when you hit them with your weapon attacks. Note: Despite not removing the visual of negative debuffs, it DOES remove the status effect from you and transfer it to the opponent.
 
 ### Notes
 

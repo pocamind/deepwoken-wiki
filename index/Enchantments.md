@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 223049
+revid: 224010
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -533,7 +533,7 @@ In PVE the damage buff is 0.25x the damage buff in PVP (4% - > 1%, 20% - > 5%)
 
 Landing weapon attacks will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental [Status Effects](Status_Effects.md) ([Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Suffocation](Status_Effects.md#suffocation), [Winded](Status_Effects.md#winded), [Shock](Status_Effects.md#shock), and [Fear the Dark](Status_Effects.md#fear-the-dark)), [Antiheal](Status_Effects.md#antiheal), and [Taunt](Status_Effects.md#taunt).
 
-Note: This does not clear the status effect from yourself. Additionally, the reflected status effects are applied as if they were your own (e.g. Burn scales on your Flamecharm investment, not your opponents).
+Note: Despite not removing the visual of the status effects, it DOES remove the status effect. Additionally, the reflected status effects are applied as if they were your own (e.g. Burn scales on your Flamecharm investment, not your opponents).
 
 **Obtainment:**
 

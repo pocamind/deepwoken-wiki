@@ -1,9 +1,9 @@
 ---
 title: Ten
-revid: 223778
+revid: 223928
 source: https://deepwoken.fandom.com/wiki/Ten
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game"]
+categories: ["Game-adjacent articles", Individuals with unspecified pronouns]
 ---
 
 # Ten
@@ -12,9 +12,9 @@ categories: ["Content not present in-game"]
 |---|---|
 | name | Ten |
 
-**Content is not present in-game**  
-The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
-E.G. a character mentioned in a book doesn't exist as an interactible NPC.
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

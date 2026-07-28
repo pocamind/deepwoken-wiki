@@ -1,6 +1,6 @@
 ---
 title: Broodplate Sabatons
-revid: 223808
+revid: 223943
 source: https://deepwoken.fandom.com/wiki/Broodplate_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -44,8 +44,6 @@ This Equipment set allows you to utilize Ardour Scream with any [Murmur](Murmur.
 
 Set Talent: [Second Nature](Talents.md#second-nature) - [Ardour Scream](Talents.md#ardour-scream) no longer consumes ether and now instead adds 10 seconds to its cooldown.
 
-  
-
-## Navigation
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

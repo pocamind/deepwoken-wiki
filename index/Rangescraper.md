@@ -1,6 +1,6 @@
 ---
 title: Rangescraper
-revid: 223755
+revid: 223967
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons, Light Weapons, Legendary Weapons, Weapons with Talents]
@@ -35,11 +35,11 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons
 | obtainment | Heart of Enmity |
 | description | An unusual dagger owned by a once famous outlaw. The only details they gave on how their dagger worked was it "kinda was phasing in and out of reality". They also have claimed that it was created in the void sea, but is unsure who or what made it. |
 
-Variants: [Canor Fang](Canor_Fang.md)
+Variants: [Gilded Knife](Gilded_Knife.md)
 
 ## Description
 
-The **Rangescraper** is a Light Dagger, an enhanced variant of the [Canor Fang](Canor_Fang.md) with lower requirements. This weapon bears a dark purple appearance, with a knuckle guard found similarly on trench knives, resembling the base Canor Fang.
+The **Rangescraper** is a Light Dagger, an enhanced variant of the [Gilded Knife](Gilded_Knife.md) with higher requirements. This weapon bears a dark purple appearance, with a knuckle guard found similarly on trench knives.
 
 Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Rangescraper, though its unique Talent is disabled there. Rangescraper **cannot** be enchanted.
 
@@ -54,3 +54,7 @@ Equipping the Rangescraper grants its unique [weapon Talent](Talents.md#weapon-t
 ## Critical
 
 Rangescraper uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**. It has a cooldown of **3 seconds**.
+
+## Trivia
+
+-   Despite deteriorating into the [Gilded Knife](Gilded_Knife.md), the weapon more closely resembles the [Canor Fang](Canor_Fang.md).

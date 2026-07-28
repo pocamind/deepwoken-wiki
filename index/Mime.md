@@ -1,9 +1,9 @@
 ---
 title: Mime
-revid: 215774
+revid: 224003
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Ganymede NPCs]
+categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Mime
@@ -22,7 +22,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-**Mime** is a [Ganymede](Ganymede.md) NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
+Mime is a [Ganymede](Ganymede.md) NPC. He is found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
 
 He appears around a lot of [Mineskippers](Mudskipper.md) disguised as barrels, which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Attunement-less.md#disguise), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied.
 

@@ -1,6 +1,6 @@
 ---
 title: Porter
-revid: 215840
+revid: 223986
 source: https://deepwoken.fandom.com/wiki/Porter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
@@ -101,5 +101,5 @@ Porter is located inside of the [Summer Isle](Summer_Isle.md) castle, standing b
 
 ## Trivia
 
--   Dockson's dialogue changes depending on the aspect of the player, addressing them by it.
+-   Porter's dialogue changes depending on the aspect of the player, addressing them by it.
 -   They wear the [Summer Company Uniform](Summer_Company_Uniform.md).

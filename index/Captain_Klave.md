@@ -1,9 +1,9 @@
 ---
 title: Captain Klave
-revid: 223767
+revid: 223929
 source: https://deepwoken.fandom.com/wiki/Captain_Klave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Canor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

@@ -1,6 +1,6 @@
 ---
 title: ??? (Scion Caller)
-revid: 191271
+revid: 223977
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Scion_Caller)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -18,7 +18,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-??? is an NPC used to summon the [Scion of Ethiron](Scion_of_Ethiron.md). It appears as a purple tempest holding the souls of the [Kyrsgarde](Kyrsgarde.md).
+??? is an NPC. It is used to summon the [Scion of Ethiron](Scion_of_Ethiron.md).
+
+It appears as a purple tempest holding the souls of the [Kyrsgarde](Kyrsgarde.md).
 
 ## Dialogue
 
@@ -62,7 +64,7 @@ This content is not accessible outside of this gamemode.
 
 ## Trivia
 
--   The entity who awakens the Scion is none other than [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) himself.[\[1\]](#cite-note-1)
+-   The entity who awakens the Scion by telling it to "Wake" is none other than [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) himself.[\[1\]](#cite-note-1)
 
 ## References
 

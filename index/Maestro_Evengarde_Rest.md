@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 223113
+revid: 223962
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Humanoid Bosses, Bosses, Etrea]
@@ -224,9 +224,9 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
  | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
--   Triggered by spitting on him **at any point**. Charisma can not bypass this.
--   Spitting anywhere while in his arena, even if not directly on Maestro himself, will trigger Tempest Eye when the fight starts. If you spit at any point before interacting with Maestro, exit the dungeon and reenter it.
--   Reduces reputation with Etrea by a great amount.
+-   Triggered by spitting in the dungeon**at any point**. Charisma can not bypass this.
+-   Spitting anywhere while in his arena, even if not directly on Maestro himself, will trigger Tempest Eye when the fight starts. If you spit at any point even before interacting with Maestro, the Tempest eye will activate and you will die.
+-   Reduces reputation with Etrea by a great amount.(Currently bugged.)
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -427,12 +427,12 @@ This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https:/
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) Oath mantra [Ascension](Oath%253A_Starkindred.md) and the [Heavy Weapon](Attributes.md) [Talent](Talents.md) Rending Impact still knocks him down, allowing room for combos.
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him one of the only "optional" bosses in the game, alongside the [Heart of Enmity](Heart_of_Enmity.md), as he is not required for W Rank.
--   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:
-    -   _"This is how you treat my generosity?"_
+-   Spitting in Maestro Evengarde Rest's dungeon both before the fight and during it makes his character say the following dialogue:
+    -   _"This is how you treat my generosity? (The spit doesn't have to be on him, it can be anywhere in the dungeon.)"_
     -   After this, he instantly kills you.
         -   His eyes flash onto your screen, a green flash appears on your character's head as the only evidence of his attack, cleaving it apart instantly.
         -   You fell in battle to... Your disrespect, punished by the Tempest Eye
-    -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing.
+    -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing. (Currently bugged.)
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
 -   He has heterochromia, meaning both his eyes are different colors. It is unknown whether he has it due to his powers or not.

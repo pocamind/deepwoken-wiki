@@ -1,6 +1,6 @@
 ---
 title: Mag
-revid: 215761
+revid: 223992
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Vendors, Individuals with unspecified pronouns]
@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Mag is a Birch [Gremor](Gremor.md) NPC. They can craft [Bullet Casings](Bullets.md#bullet-casings) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
+Mag is a [Gremor](Gremor.md) NPC. They can craft [Bullet Casings](Bullets.md#bullet-casings) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
 
 They wear a Black [Plain Hood](Plain_Hood.md) and the [Summer Company Uniform](Summer_Company_Uniform.md).
 
@@ -102,5 +102,5 @@ This dialogue can only appear if the player has not made at least 200 Bullet Cas
 
 ## Trivia
 
--   Their name is a reference to magazines, a part found on guns.
+-   Their name is a reference to magazines, a part found on firearms.
 -   The [Gunsmith](Gunsmith.md) NPC found in the [Guild Base](Guild_Bases.md) is near identical to Mag, with the only exception being their appearance.

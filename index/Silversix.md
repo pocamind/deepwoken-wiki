@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 223788
+revid: 223960
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Echo Unlockables]
@@ -51,8 +51,4 @@ Silversix uses the default Pistol critical, an empowered shot. It has a scaled d
 ## Trivia
 
 -   A single Silversix can fire six shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
--   The model of the Silversix is a reference to [Mesa's Presidio Regulators](https://wiki.warframe.com/w/Mesa_Presidio_Skin#Notes) skin from [Warframe](https://en.wikipedia.org/wiki/Warframe).[\[1\]](#cite-note-1)
-
-## References
-
-1.  [↑](#cite-ref-1)
+-   The model of the Silversix is a reference to the [Mesa's Presidio Regulators](https://wiki.warframe.com/w/Mesa_Presidio_Skin#Notes) skin from _[Warframe](https://en.wikipedia.org/wiki/Warframe)_, but with a more muted palette and no trigger.
