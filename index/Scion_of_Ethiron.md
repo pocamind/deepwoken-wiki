@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 216584
+revid: 224073
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -52,7 +52,12 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 -   It can be easily avoided with an air-dash, **Ghost**/**Dark Rift**, jumping down a floor, using a waypoint with [Run It Back](Run_It_Back.md) or using [Portals](Portals.md).
 -   [Payback](Payback.md), despite not being disabled like other invincibility moves, will not prevent damage from this attack.
 -   This attack can be cancelled with a group by attacking three small gale balls at the first floor, but is un-recommended due to the time it takes, along with requiring 2 people.
--   This attack is able to be tanked on the right setup, but is not recommended.
+-   This attack is able to be tanked on the right setup, but is not recommended.  
+      
+    
+-   While the Purge Shrine is active, this attack deals increased damage and charges twice as fast. However, it does **NOT** match the sound cue and will fire midway through it rather than at the end, though The Scion's throw speed remains unchanged.
+
+  
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
@@ -68,7 +73,10 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 
  | The Scion charges up it's fist, then fires a blinding ball of gale towards the player.
 
--   This animation is shared with Pressured Wind, however does a pitiful 1 damage.
+-   This animation is shared with Pressured Wind, however does a pitiful 1 damage.  
+      
+    
+-   While the Purge Shrine is active, this move remains unchanged.
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
@@ -84,7 +92,10 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 
  | The Scion charges up its arm and releases a purple laser, locking onto a random player and forcing them to parry it.
 
--   While the damage is punishing if you get hit by the full beam, you should parry it on reaction to taking damage rather than reacting to the animation, as the animation is shared with Blinding Gale.
+-   While the damage is punishing if you get hit by the full beam, you should parry it on reaction to taking damage rather than reacting to the animation, as the animation is shared with Blinding Gale.  
+      
+    
+-   While the Purge Shrine is active, this attack deals increased damage.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -100,7 +111,10 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 
  | The Scion pulls its arm back, then swings at the player.
 
--   The arm will remain for ~2 seconds after hitting the player, regardless of if it hit or not, leaving the Scion vulnerable for a few hits on parry.
+-   The arm will remain for ~2 seconds after hitting the player, regardless of if it hit or not, leaving the Scion vulnerable for a few hits on parry.  
+      
+    
+-   While the Purge Shrine is active, this attack deals increased damage.
 
 _Uses Telegraph_
 
@@ -127,7 +141,10 @@ Parry
 -   If blocked/parried, the bone will fall onto the floor to be picked up and put into a shrine.
 -   If the bone instead hits, does a low amount of damage and will not fall onto the floor.
 -   If the bone collides with a wall, it will fizzle out and despawn.
--   This attack always targets the same players in the same order unless someone dies/leaves.
+-   This attack always targets the same players in the same order unless someone dies/leaves.  
+      
+    
+-   While the Purge Shrine is active, the amount of bones increases from 3 to 4, and the damage increases.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -144,7 +161,10 @@ Parry
  | Bones will appear on the ground and grow upwards, this can be used in combination with any other move.
 
 -   If this hits, it will launch you into the air and do low damage, but makes the next hit guaranteed.
--   In order to avoid this jump or roll through the spikes.
+-   In order to avoid this jump or roll through the spikes.  
+      
+    
+-   While the Purge Shrine is active, the time between the bone sprouts appearing on the floor and their rising is drastically reduced, and the damage increases.
 
 _Uses Telegraph_
 
@@ -169,7 +189,10 @@ Dodge
  | Bones will rise from the ground and circle around **a single floor**.
 
 -   Similar to Bonegrow in able to remain active during other attacks, but sends you further, is more constant, does more damage, and is completely unable to be blocked.
--   To avoid this move, you must jump, or hold the Jump key and leave to another floor.
+-   To avoid this move, you must jump, or hold the Jump key and leave to another floor.  
+      
+    
+-   While the Purge Shrine is active, this move will come out much earlier than usual, and the damage increases.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -183,9 +206,12 @@ Dodge
 **Debris**  
 (★☆☆)
 
- | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move.
+ | The Scion summons 1 Kyrsgarde Sniper on each of the vurrently available Shrines, these have greatly reduced health and stats and are unable to move.
 
--   These only serve to heal you in the fight via killing them.
+-   These only serve to heal you in the fight via killing them.  
+      
+    
+-   While the Purge Shrine is active, The Scion will not use this move.
 
 -   \+ Summon
 
@@ -208,11 +234,9 @@ Note that many on-demand invincibility abilities are disabled during this fight 
 
 The primary strategy for defeating the Scion is to use the bones it throws during its **Bone Throw** move. You must place these bones into their corresponding shrines. This will stun the boss, creating a window for you to deal heavy damage. To accomplish this, simply block or parry the bonestaves and then run to a shrine while carrying them.
 
-A secondary, albeit much slower, win condition is to simply ignore the bone mechanic. If you allow the Scion to hit you with its punch multiple times, it will eventually die without summoning the [Kyrsgarde Snipers](Kyrsgarde_Sniper.md) for health packs.
+A secondary, albeit much slower, win condition is to simply ignore the bone mechanic. If you allow the Scion to hit you with its punch multiple times, it will eventually die without summoning the [Kyrsgarde Snipers](Kyrsgarde_Sniper.md) for health packs. Keep in mind you must activate the first 3 Shrines on the first floor for the Scion to use its punch.
 
-For health packs to spawn, you must have anchored the Scion using all nine shrines at least once. After this, multiple [Kyrsgarde snipers](Kyrsgarde_Sniper.md) will spawn during each cycle.
-
-To avoid the ultimate, you can either parry or dodge it. The dodging method involves sliding, waiting for the audio cue of the Scion firing its orb, and then jumping and air-dashing to evade the attack. To parry the ultimate, wait for the same audio cue, but begin your parry just before the orb makes contact. While these maneuvers may seem difficult initially, they will become muscle memory with practice. For players without experience, air-dashing is generally the easier method to learn.
+To avoid the ultimate, you can either parry or dodge it. The dodging method involves sliding, waiting for the audio cue of the Scion firing its orb, and then jumping and air-dashing to evade the attack. To parry the ultimate, wait for the same audio cue, but begin your parry just before the orb makes contact. While these maneuvers may seem difficult initially, they will become muscle memory with practice. For players without experience, air-dashing is generally the easier method to learn. With the Surge Shrine active you must pay attention to the orb and not the sound queue since the windup decreases while the sound cue stays the same.
 
 ## Loot Table
 

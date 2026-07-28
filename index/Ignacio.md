@@ -1,6 +1,6 @@
 ---
 title: Ignacio
-revid: 223731
+revid: 224038
 source: https://deepwoken.fandom.com/wiki/Ignacio
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -126,3 +126,7 @@ This dialogue is unlocked if the player is an [Ignition Delver](Ignition_Delver.
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+Ignacio's hair id is 84136627828367

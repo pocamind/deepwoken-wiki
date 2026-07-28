@@ -1,6 +1,6 @@
 ---
 title: Invasion of the Isle of Vigils
-revid: 224007
+revid: 224016
 source: https://deepwoken.fandom.com/wiki/Invasion_of_the_Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Articles with conjectural titles]
@@ -24,6 +24,10 @@ notices:
 | commanders2 | Maestro Alkhurst Legato†[3] |
 | casual1 | Unknown |
 | casual2 | Maestro Alkhurst Legato[3] |
+
+During the twilight years of the [Etrean Civil War](Etrean_Civil_War.md), the [Ministry](The_Ministry.md)\-backed forces of [Etrea](Etrea.md) launched a full **invasion** of the [Isle of Vigils](Isle_of_Vigils.md). Without the [Etrean Royalists](Etrean_Royalists.md) to help them the Vigils, under [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), had to fend them off on their lonesome.
+
+Though the Vigils emerged victorious, the victory was a pyrrhic one. Maestro Legato lost his life in the process and their victory was quickly rendered meaningless. The Vigils were soon fully integrated into Etrea and their participation in the war was lost from memory, drawing the Civil War to a close.
 
 ## References
 

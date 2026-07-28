@@ -1,9 +1,9 @@
 ---
 title: Summer Goon
-revid: 216108
+revid: 224030
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Summer Company, Summer Company Enemies]
+categories: [Enemies, Summer Company Enemies]
 ---
 
 # Summer Goon

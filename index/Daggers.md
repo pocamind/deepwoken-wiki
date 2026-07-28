@@ -74,7 +74,8 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>14.1</td>
 </tr>
 <tr>
-  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
+  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -101,7 +102,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -114,8 +115,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>28.1</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>

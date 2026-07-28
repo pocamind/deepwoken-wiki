@@ -85,7 +85,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>14.1</td>
 </tr>
 <tr>
-  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
+  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -112,7 +113,7 @@ All weapons within the game have the chance of being found with or without diffe
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -125,8 +126,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>28.1</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -4395,7 +4395,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>14.1</td>
 </tr>
 <tr>
-  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
+  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -4422,7 +4423,7 @@ All weapons within the game have the chance of being found with or without diffe
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -4435,8 +4436,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>28.1</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -5418,7 +5418,8 @@ Daggers
   <td>14.1</td>
 </tr>
 <tr>
-  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
+  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -5445,7 +5446,7 @@ Daggers
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -5458,8 +5459,7 @@ Daggers
   <td>28.1</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -13209,7 +13209,8 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>14.1</td>
 </tr>
 <tr>
-  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
+  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -13236,7 +13237,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -13249,8 +13250,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>28.1</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -14298,7 +14298,8 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>14.1</td>
 </tr>
 <tr>
-  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
+  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -14325,7 +14326,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -14338,8 +14339,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>28.1</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>
@@ -21951,7 +21951,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>14.1</td>
 </tr>
 <tr>
-  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b></td>
+  <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
+  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -21978,7 +21979,7 @@ Every player-obtainable weapon, excluding offhands.
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#canor-fang">Canor Fang</a></small></div></td>
+  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -21991,8 +21992,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>28.1</td>
 </tr>
 <tr>
-  <td><b><a href="Canor_Fang.md">Canor Fang</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
   <td>40 LHT</td>
   <td>12</td>
   <td>LHT: 10</td>

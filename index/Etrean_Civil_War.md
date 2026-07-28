@@ -1,9 +1,9 @@
 ---
 title: Etrean Civil War
-revid: 224006
+revid: 224020
 source: https://deepwoken.fandom.com/wiki/Etrean_Civil_War
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, SpoilerPages]
+categories: [In progress without reason, InProgressPages, SpoilerPages, Civil wars]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 223397
+revid: 224022
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -114,11 +114,11 @@ Non-direct kills, such as dropping someone in water or blowing someone up from c
 
 ## Progression
 
-Speak to [Captain Trist](Captain_Trist.md), an Adret NPC located on the path from [Fort Merit](Fort_Merit.md) to [Merit's Reach](<Merit's_Reach.md>), to gain a Mission. Missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md).
+Speak to [Captain Trist](Captain_Trist.md), [Captain Klave](Captain_Klave.md), [Captain Massi](Captain_Massi.md) or [Captain Rendez](Captain_Rendez.md) to gain a Mission. Missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md).
 
 Your current Mission objective and the Mission's location will be displayed on the top left of your screen, similar to [jobs](Job_Boards.md). You can right click the Mission popup to view its location on the map. The amount of time allocated to each mission depends on the mission location.
 
-Upon completing a Mission, you will have to report back to Captain Trist. This will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, a small chest, and 3-5 **full** training points. The amount of full training points depends on your rank.
+Upon completing a Mission, you will have to report back to the Captain. This will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, a small chest, and 3-5 **full** training points. The amount of full training points depends on your rank.
 
 If you fail a Mission by running out of time, failing the objective, or dying (which includes resetting your character with Esc + R + Enter to teleport), you will lose 25 promotion points instead. The mission will also be considered failed if any of the previous things happen while you are on your way back to Captain Trist after a successful mission. Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
 
@@ -301,7 +301,6 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 -   **Breakthrough Drive** - Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. \[90 second CD\]
 
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
-    -   _**(CURRENTLY BROKEN, DOES NOT ACTIVATE)**_
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Deals little to no pve monster damage (test if it does work on humanoids)
     -   Applies burn on hit.

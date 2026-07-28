@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 218058
+revid: 224070
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency, Mechanics]
@@ -156,6 +156,7 @@ Note that currently, the Crown system is being slowly rolled out, meaning more u
 
 ## **Trivia**
 
--   Due to it's relatively low difficulty, fighting the [Scion of Ethiron](Scion_of_Ethiron.md) can be a great way to farm Crowns for people who can't fight the [Heart of Enmity](Heart_of_Enmity.md) or don't want to wait for World Events.
+-   Due to it's relatively low difficulty, fighting the [Scion of Ethiron](Scion_of_Ethiron.md) can be a great way to farm Crowns for people who can't fight the [Heart of Enmity](Heart_of_Enmity.md) or don't want to wait for World Events. Otherwise, if you are ready to wait for World Events, [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) is the best option as you can join another server with the boss after killing one, giving 4-12 Crowns, if you are fast enough.
+    -   If you want to kill [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) faster, you can buy [Schooner](Ships_&_Sailing.md) and "alternate" between two cannons at the front of a ship by quickly taking the second cannon after shooting from the first one. This also will allow you to contribute more damage if you're not alone, rewarding you more Crowns.
 -   Crown are one of two currencies that can be interacted with by clicking their icons, the other being [Notes](Notes.md).
     -   Clicking Crowns allows you to exchange them for Notes/Knowledge, while clicking Notes allows you to drop up to 1000 Notes at a time.

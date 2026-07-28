@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 223668
+revid: 224023
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Kyrs series]
@@ -38,7 +38,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 
 ## Description
 
-The Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md).
+The Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md).
 
 ## Critical
 

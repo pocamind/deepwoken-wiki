@@ -1,12 +1,11 @@
 ---
 title: Fishing
-revid: 224008
+revid: 224014
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, OutdatedPages, Fishing, Mechanics]
+categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
 notices:
   - "This page is currently being worked on. Fishing was recently reworked, please allow for some time before changes are fully set."
-  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Fishing
@@ -15,11 +14,37 @@ notices:
 
 **Fishing** is a mechanic in _Deepwoken_ that allows players to catch seafood and other valuables from almost any body of water using a [Fishing Rod](Fishing_Rod.md).
 
-Fishing Rods can be crafted with two [Sticks](Stick.md) and one [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md), or purchased from select vendors for 30/35.
+Fishing Rods can be crafted with two [Sticks](Stick.md) and one [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md), or purchased from select vendors for 30/35.
 
 To fish, cast a line into any body of water by pressing M1. Once the bobber lands into water, it will take some to settle before a minigame pops up to fish. Once something is caught onto the line, reel in catches by pressing the displayed key (W, A, S, or D) while holding down M1 before the caught item gets loose. Lines can also be instantly withdrawn by pressing M1 while its being thrown.
 
-Fishing also grants experience toward all physical [Attributes](Attributes.md).
+Fishing also grants experience toward all _physical_ [Attributes](Attributes.md).
+
+## Catches
+
+Fishing can yield a variety of fish, creatures, and other items. Every possible catch has a unique chat message displayed by the player's character upon being reeled in, with most being fish-related puns or other wordplay.
+
+The longer it takes to successfully reel in a catch, the higher the quality of the fish and potential loot obtained. On rare occasions, a catch may be **golden**. With the sole exception of the [Golden Swordfish](Golden_Swordfish.md), golden catches are automatically converted into 1 [Knowledge](Knowledge.md) instead of being added to the player's inventory, up to a maximum of five times per fish.
+
+The following are all possible fishing catches and their quotes:
+
+-   [Golden Swordfish](Golden_Swordfish.md) (and any golden fish): "Huh?!"
+-   [Lamprey](Lamprey.md): It's a Lamprey... Gotcha sucker!"
+-   [Leather Boots](Leather_Boots.md)
+-   [Lionfish](Lionfish.md) (As an enemy): "A LIONFISH?!"
+-   [Mudskipper](Mudskipper.md) (As an enemy): "What the...?!"
+-   [Pufferfish](Pufferfish.md): "A poisonous Pufferfish! Careful eating this one..."
+-   [Red Snapper](Red_Snapper.md): "A Red Snapper! Quite the sailor's mouth on this one..."
+-   [Sea Bass](Sea_Bass.md): "It's a Sea Bass! Where's its instrument?"
+-   [Seaweed Bundle](Seaweed_Bundle.md): "It was stuck on some seaweed..."
+-   [Squid](Squid.md): "Cool Squid! No, I'm not squidding."
+-   [Swordfish](Swordfish.md): "A Swordfish! Too bad I can't wield it..."
+-   [Treasure Chests](Chests_&_Sacks.md): "Woah a treasure chest!"
+-   [Tuna](Tuna.md): "Holy moly! A Tuna! I wonder what at-tuna-ment it is?"
+-   [Urchin](Urchin.md): "Barely edible..."
+-   [Yellow Bass](Yellow_Bass.md): "It's a Yellow Bass! What a coward!"
+
+Failing to catch something will give the quote: "It broke loose!", "I didn't reel it in fast enough..."
 
 ## Bait
 
@@ -49,8 +74,6 @@ The following items are known to function as bait:
 -   [Squid](Squid.md)
 -   [Urchin](Urchin.md)
 
-  
-
 | Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 100 Pomars | 0 | 76 | 0 | 1 | 12 | 0 | 11 |
@@ -66,32 +89,6 @@ Lucky Spot
 | 100 Urchin | 0 | 56 | 10 | 1 | 17 | 16 | 0 |
 | 100 Fish Meat | 0 | 60 | 19 | 0 | 9 | 12 | 0 |
 | 100 Seaweed | 0 | 62 | 10 | 0 | 11 | 17 | 0 |
-
-## Catches
-
-Fishing can yield a variety of fish, creatures, and other items. Every possible catch has a unique chat message displayed by the player's character upon being reeled in, with most being fish-related puns or other wordplay.
-
-On rare occasions, a catch may be **golden**. With the sole exception of the [Golden Swordfish](Golden_Swordfish.md), golden catches are automatically converted into 1 [Knowledge](Knowledge.md) instead of being added to the player's inventory, up to a maximum of five times per fish.
-
-The following are all possible fishing catches and their quotes:
-
--   [Golden Swordfish](Golden_Swordfish.md) (and any golden fish): "Huh?!"
--   [Lamprey](Lamprey.md): It's a Lamprey... Gotcha sucker!"
--   [Leather Boots](Leather_Boots.md)
--   [Lionfish](Lionfish.md) (As an enemy): "A LIONFISH?!"
--   [Mudskipper](Mudskipper.md) (As an enemy): "What the...?!"
--   [Pufferfish](Pufferfish.md): "A poisonous Pufferfish! Careful eating this one..."
--   [Red Snapper](Red_Snapper.md): "A Red Snapper! Quite the sailor's mouth on this one..."
--   [Sea Bass](Sea_Bass.md): "It's a Sea Bass! Where's its instrument?"
--   [Seaweed Bundle](Seaweed_Bundle.md): "It was stuck on some seaweed..."
--   [Squid](Squid.md): "Cool Squid! No, I'm not squidding."
--   [Swordfish](Swordfish.md): "A Swordfish! Too bad I can't wield it..."
--   [Treasure Chests](Chests_&_Sacks.md): "Woah a treasure chest!"
--   [Tuna](Tuna.md): "Holy moly! A Tuna! I wonder what at-tuna-ment it is?"
--   [Urchin](Urchin.md): "Barely edible..."
--   [Yellow Bass](Yellow_Bass.md): "It's a Yellow Bass! What a coward!"
-
-Failing to catch something will give the quote: "It broke loose!", "I didn't reel it in fast enough..."
 
 ## Fishing Spots
 
