@@ -1,6 +1,6 @@
 ---
 title: Red Snapper
-revid: 194215
+revid: 223921
 source: https://deepwoken.fandom.com/wiki/Red_Snapper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Fishing Exclusive]
@@ -10,18 +10,14 @@ categories: [Items, Ingredients, Fishing Exclusive]
 
 | Red Snapper | |
 |---|---|
-| value | 6 |
 | weight | 0.25 |
 | stack | x99 |
-| type | Ingredient |
-| food type | Meat |
-| rarity | Common |
-| stomach | ??% |
-| water | ??% |
+| type | Fish |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Quite the sailor's mouth on this one... |
+| habitat | Saltwater |
+| desc | A Red Snapper! Quite the sailor's mouth on this one... |
 | fishingquote | A Red Snapper! Quite the sailor's mouth on this one... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Sea Bass
-revid: 223857
+revid: 223899
 source: https://deepwoken.fandom.com/wiki/Sea_Bass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Ingredients, Fishing Exclusive]
@@ -12,10 +12,11 @@ categories: [Items, Fish, Ingredients, Fishing Exclusive]
 |---|---|
 | weight | 0.25 |
 | stack | x99 |
-| type | Ingredient |
+| type | Fish |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| habitat | Saltwater |
 | desc | It's a Sea Bass! How do I play this? |
 | fishingquote | It's a Sea Bass! How do I play this? |
 

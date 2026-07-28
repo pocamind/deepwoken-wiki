@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 223827
+revid: 223881
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -159,14 +159,41 @@ This spot is located in open sea area behind Minityrsa.
 
 There are currently three Talents related to fishing, each automatically obtained after reaching certain milestones.
 
-| Name | Description | Requirements | Image |
-| --- | --- | --- | --- |
-| Fisher's Lure | Fish are drawn to your line more quickly. | 50 Bites |  |
-| Hook, Line, and Sinker | Once something's caught your line, it's much harder for it to get loose.
-(+4 [Carry Load](Carry_Load.md))
-
- | 30 Bites |  |
-| Proficient Baiting | Casting your line excites ocean life, reducing the chances of fishing up trash. | 10 Bites |  |
+<table>
+<tbody>
+<tr>
+  <td><b>Media</b></td>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Card Description</b></td>
+  <td><b>Effect</b></td>
+</tr>
+<tr>
+  <td></td>
+  <td>Proficient Baiting</td>
+  <td>10 Bites<br>
+  <small>(Given automatically)</small></td>
+  <td>Casting your line excites ocean life, reducing the chances of fishing up trash.</td>
+  <td>Drastically increases the chances of catching fish instead of junk items. This inadvertently reduces the chances of fishing up chests however, due to fish being more common.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Hook, Line, and Sinker</td>
+  <td>30 Bites<br>
+  <small>(Given automatically)</small></td>
+  <td>Once something's caught your line, it's much harder for it to get loose.</td>
+  <td>Increases the amount of time provided to complete the fishing minigame.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Fisher's Lure</td>
+  <td>50 Bites<br>
+  <small>(Given automatically)</small></td>
+  <td>Fish are drawn to your line more quickly.</td>
+  <td>Reduces the amount of time it takes to get a bite.</td>
+</tr>
+</tbody>
+</table>
 
 ## Bait
 

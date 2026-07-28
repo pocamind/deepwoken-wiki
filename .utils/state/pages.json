@@ -97,7 +97,7 @@
   },
   "895": {
     "title": "Fishing",
-    "lastrevid": 223827
+    "lastrevid": 223881
   },
   "904": {
     "title": "Worshipper's Shield",
@@ -3045,7 +3045,7 @@
   },
   "7781": {
     "title": "Squid",
-    "lastrevid": 223856
+    "lastrevid": 223890
   },
   "7784": {
     "title": "Lost Celtor",
@@ -3185,7 +3185,7 @@
   },
   "8137": {
     "title": "Oath: Linkstrider",
-    "lastrevid": 221807
+    "lastrevid": 223917
   },
   "8138": {
     "title": "Oath: Jetstriker",
@@ -3889,7 +3889,7 @@
   },
   "10921": {
     "title": "Seaweed Bundle",
-    "lastrevid": 190757
+    "lastrevid": 223919
   },
   "10933": {
     "title": "Diluvian Mechanism (NPC)",
@@ -7729,7 +7729,7 @@
   },
   "21442": {
     "title": "Alloyed Phalanx Boots",
-    "lastrevid": 221781
+    "lastrevid": 223873
   },
   "21447": {
     "title": "Alloyed Phalanx Plate",
@@ -8525,7 +8525,7 @@
   },
   "22627": {
     "title": "Pufferfish",
-    "lastrevid": 194214
+    "lastrevid": 223920
   },
   "22634": {
     "title": "Dawnfist",
@@ -8565,19 +8565,19 @@
   },
   "22710": {
     "title": "Swordfish",
-    "lastrevid": 223828
+    "lastrevid": 223897
   },
   "22711": {
     "title": "Red Snapper",
-    "lastrevid": 194215
+    "lastrevid": 223921
   },
   "22712": {
     "title": "Tuna",
-    "lastrevid": 194216
+    "lastrevid": 223901
   },
   "22713": {
     "title": "Sea Bass",
-    "lastrevid": 223857
+    "lastrevid": 223899
   },
   "22716": {
     "title": "The Forest of Lights",
@@ -8977,7 +8977,7 @@
   },
   "23337": {
     "title": "Ossified Phalanx Boots",
-    "lastrevid": 223855
+    "lastrevid": 223874
   },
   "23342": {
     "title": "Blizzard Ring",
@@ -9673,10 +9673,14 @@
   },
   "26129": {
     "title": "Lamprey",
-    "lastrevid": 223825
+    "lastrevid": 223918
   },
   "26130": {
     "title": "Yellow Bass",
-    "lastrevid": 223826
+    "lastrevid": 223892
+  },
+  "26143": {
+    "title": "Jungle Hashi",
+    "lastrevid": 223908
   }
 }

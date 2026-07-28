@@ -1,6 +1,6 @@
 ---
 title: Squid
-revid: 223856
+revid: 223890
 source: https://deepwoken.fandom.com/wiki/Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Ingredients, Fishing Exclusive]
@@ -10,7 +10,7 @@ categories: [Items, Fish, Ingredients, Fishing Exclusive]
 
 | Squid | |
 |---|---|
-| weight | .25 |
+| weight | 0.25 |
 | stack | x99 |
 | type | Fish |
 | bankable | Yes |

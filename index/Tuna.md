@@ -1,32 +1,28 @@
 ---
 title: Tuna
-revid: 194216
+revid: 223901
 source: https://deepwoken.fandom.com/wiki/Tuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Fishing Exclusive]
+categories: [Items, Fish, Ingredients, Fishing Exclusive]
 ---
 
 # Tuna
 
 | Tuna | |
 |---|---|
-| value | 10 |
 | weight | 0.25 |
 | stack | x99 |
-| type | Ingredient |
-| food type | Meat |
-| rarity | Common |
-| stomach | ??% |
-| water | ??% |
+| type | Fish |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| habitat | Saltwater |
 | desc | These things are fast enough swimmers to escape even a Lionfish... |
 | fishingquote | Holy moly! A Tuna! Wonder what at-tuna-ment it is? |
 
 ## Description
 
-A Tuna can be caught rarely by [Fishing](Fishing.md). Fishing spots can be used to greatly improve the chances of catching a Tuna.
+A Tuna can be caught by [Fishing](Fishing.md) in [The Aratel Sea](The_Aratel_Sea.md). Fishing spots can be used to greatly improve the chances of catching a Tuna.
 
 ## Crafting
 

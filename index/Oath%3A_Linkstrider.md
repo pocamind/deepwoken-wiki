@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 221807
+revid: 223917
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -207,7 +207,7 @@ Upon killing 3 players with [Oaths](Oaths.md)
 -   You do not need a wallbreak mantra to access to Entropy Catalyst (M1 also breaks the walls).
     -   You can also climb up the surrounding walls (often with clever Chime of Dwelling usage.)
 -   Back when Talent categories had unique lines, the category line for Linkstrider was "I create bonds between others."
--   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
+-   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are too.
 -   Anyone can use the white orb once it is spawned, regardless of who places them.
 -   If you have Pristine Lotuses and put a knocked player on the sacrifice ritual, you should get a Scarlet and a completed sacrifice crater.
 -   The obtainment method used to be much harder than now as the oath used to require to kill 4 players with oaths instead of 3 players with oaths/bosses.

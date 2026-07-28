@@ -1,6 +1,6 @@
 ---
 title: Yellow Bass
-revid: 223826
+revid: 223892
 source: https://deepwoken.fandom.com/wiki/Yellow_Bass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Ingredients, Fish, Fishing Exclusive]
@@ -12,7 +12,7 @@ notices:
 
 | Yellow Bass | |
 |---|---|
-| weight | .25 |
+| weight | 0.25 |
 | stack | x? |
 | type | Fish |
 | bankable | Yes |
@@ -25,7 +25,7 @@ notices:
 
 ## Description
 
-A Yellow Bass can be caught by [Fishing](Fishing.md) in freshwater rivers.
+A Yellow Bass can be caught by [Fishing](Fishing.md) in [freshwater](Fishing.md#habitats) rivers.
 
 ## Crafting
 

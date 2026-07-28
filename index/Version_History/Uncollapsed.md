@@ -191,6 +191,19 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🩹 Fixed Titus Skycrash Indicator  
 🩹 Fixed item alignment on Western & Ascended Outlaw Breeches
 
+### _**Patch 3.2.17a; pv\_JUL\_27\_20:38a**_
+
+**Hotchanges**  
+⚖️ Teleportation resonance now removes Unconscious/Ragdoll to prevent physics issues and to safeguard against killpit tp's  
+⚖️ Venting now breaks you out of the Frozen status  
+⏫ Introduced better visual feedback for breaking out of the Frozen status by mashing F. Also, you can now mash the inputs for Dodge or Jump to break out  
+🩹 Fixed Fast Blade not having a small cooldown (so it doesn't stack on multi-hits)  
+🩹 Fixed a character loading bug related to spawn location that could occur when rejoining Iron Vow Luminant servers  
+🩹 Fixed Stonesparks  
+🩹 Fixed ugly alpha bleeding on the square particle texture used in a lot of places  
+🔧 Tweaked Crimson Rain's windup and Bloodcurdle's target sound effects  
+🔧 Characters you're in combat with now have Roblox's animation throttling disabled, preventing you from having to fight characters with reduced frame rates who attack like a slideshow
+
 ## **July 7th, 2026; pv\_JUL\_08\_10:30a**
 
 **Content & Systems**  
@@ -335,7 +348,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 
 ## **June 20th, 2026; pv\_JUN\_21\_14:26a**
 
-_**Content & Systems**  
+**Content & Systems**  
 📰 Mini-patch today as we wanted to make sure we got some issues fixed!  
 💡 New Echo Unlock: Choice of Chance; expands the maximum number of cards in your Shrine of Chance hands to 4  
 💡 Added new sorting options to the character slot menu: Recent, Playtime  
@@ -372,7 +385,7 @@ _**Content & Systems**
 🩹 Fixed floating & misplaced ingredients  
 🩹 Fixed Chainwarden chains having infinite range  
 🩹 Fixed Chainwarden chains stacking, proccing the chain again now just extends the duration  
-🩹 Fixed Impel not applying Enchained_
+🩹 Fixed Impel not applying Enchained
 
 ## **June 15th, 2026; pv\_JUN\_15\_12:31a**
 

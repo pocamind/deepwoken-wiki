@@ -1053,6 +1053,10 @@
     "to": "Resonance",
     "fragment": "Corrupted Resonances"
   },
+  "Cosmopolitan": {
+    "to": "Fishing",
+    "fragment": "Habitats"
+  },
   "Covenant": {
     "to": "The Covenant of Flame"
   },
@@ -1870,6 +1874,10 @@
   "Fragile Heart": {
     "to": "Echoes",
     "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Freshwater": {
+    "to": "Fishing",
+    "fragment": "Habitats"
   },
   "Frigate": {
     "to": "Ships & Sailing",
@@ -3774,6 +3782,9 @@
     "to": "Attunement-less",
     "fragment": "Rapid Slashes"
   },
+  "Rapier": {
+    "to": "Rapiers"
+  },
   "Rat King": {
     "to": "Dravik, The Rat King"
   },
@@ -4015,6 +4026,10 @@
   "Saltspan": {
     "to": "Seasons",
     "fragment": "Winter"
+  },
+  "Saltwater": {
+    "to": "Fishing",
+    "fragment": "Habitats"
   },
   "Salute": {
     "to": "Emotes",
