@@ -1,6 +1,6 @@
 ---
 title: Roa
-revid: 214094
+revid: 224183
 source: https://deepwoken.fandom.com/wiki/Roa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -119,4 +119,5 @@ This Dialogue is unlocked if the player is a [Castaway](Castaway.md).
 
 ## Trivia
 
+-   Roa's hair id is 121695811397523
 -   Compared to other Marten [Celtors](Celtor.md), their eyes are a light gray.

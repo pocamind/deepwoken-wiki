@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 222806
+revid: 224217
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -23,6 +23,7 @@ During the loading processes, the resources are rendered in so the player can in
 ### Possible Flavor Texts
 
 -   Returning to Menu... - Entering the Main Menu
+-   Travelling... - Entering the Main Menu
 -   Venturing forth into a Dungeon. - Entering a [Dungeon](Dungeons.md)
 -   The City awaits... - Entering [New Kyrsa](Second_Layer/New_Kyrsa.md)
 -   The Eternal Gale coils around you... - Entering [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md)
@@ -30,6 +31,8 @@ During the loading processes, the resources are rendered in so the player can in
 -   Learning some new tricks... - Entering [Training Mode](Training_Mode.md)
 -   Sinking deep into the Depths... - Entering the [First Layer](First_Layer.md)
 -   The Drowned City of Celtor comes into view once more. - Entering the [First Layer](First_Layer.md)
+-   Descending beyond comprehension... - Dying in a [Dungeon](Dungeons.md) and being sent to [Fragments of Self](Fragments_of_Self.md) or [Fragments of Else](Fragments_of_Else.md).
+-   Accessing Memories of the past... - Defeating a core [Mementos](Mementos.md) [Boss](Bosses.md)
 
 ## Tips
 
@@ -155,6 +158,7 @@ During the loading processes, the resources are rendered in so the player can in
 -   Staggered monsters will lose all their resistances temporarily, taking more damage from incoming attacks.
 -   While not in a Dungeon, chaining horizontal mobility moves in succession lessens their effectiveness.
 -   Dashing backwards in midair performs a flip that greatly reduces your velocity, letting you recover from knockback.
+-   The depth of water you fish at affects what you'll catch. Some fish are best caught at the shore, and others far out on a boat!
 
 ### Oaths
 

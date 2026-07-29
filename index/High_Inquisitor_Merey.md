@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 223976
+revid: 224163
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -68,7 +68,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*You recognize the shadow-clad Canor woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor, Merey Scarsen. You offer a salute.*</i> ...Ah. You must be... Lance Corporal [Last Name] was it? Very good. I had just finished looking over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
+  <td colspan="2"><i>*You recognize the shadow-clad <a href="Glossary.md#canor">Canor</a> woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor, Merey Scarsen. You offer a salute.*</i> ...Ah. You must be... Lance Corporal [Last Name] was it? Very good. I had just finished looking over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
 </tr>
 <tr>
   <td>Yes, High Inquisitor.</td>
@@ -261,7 +261,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
   <td colspan="4">*<i>She wanders insouciantly in her memories.</i>* It was wonderful and challenging at the same time, [Last Name]. All the books you could ever want, and on any topic. You're taught and tutored by the best minds in <a href="Glossary.md#lumen">Lumen</a>. There's lively discussion and debate of all kind... But the academic standards were sky-high. The scholars expect nothing but excellence from their pupils... It does foster a healthy sense of ambition within the students, though - and prepares the next generation of <a href="Glossary.md#lumen">Lumen's</a> finest.</td>
   <td colspan="2">[See first instance]</td>
   <td colspan="2">*<i>She shakes her heads, straightening her visor meticulously.</i>* He expects a lot of his subordinates, and thus, I do my part in giving him all the information he needs to survey the dynamics of the region. But it never seems to amount to anything further than surveying. Probing and pushing. Small scuffles on long-contested territory which inevitably ammounts to little. To be frank, things have ground to a screeching halt compared to my early days as the High Inquisitor, [Last Name].</td>
-  <td colspan="2">*<i>You can tell Merey rolls her eyes underneath her visor.</i>* The Sentinel, if I am to speak freely, has all the subtlety of a wall of bricks. He also has no grasp of metaphors, or figures of speech. Though, I admit - it's almost endearing to see him try to pick up idioms and phrases from me... I just wish he didn't have his natural talent for immediately turning them into metaphors. I guess you can't teach an old Canor new tricks, eh, [Last Name]? *<i>She chuckles.</i>*</td>
+  <td colspan="2">*<i>You can tell Merey rolls her eyes underneath her visor.</i>* The Sentinel, if I am to speak freely, has all the subtlety of a wall of bricks. He also has no grasp of metaphors, or figures of speech. Though, I admit - it's almost endearing to see him try to pick up idioms and phrases from me... I just wish he didn't have his natural talent for immediately turning them into metaphors. I guess you can't teach an old <a href="Glossary.md#canor">Canor</a> new tricks, eh, [Last Name]? *<i>She chuckles.</i>*</td>
 </tr>
 <tr>
   <td>Why did you end up joining the Inquisition?</td>
@@ -452,7 +452,7 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*Although the Canor woman wears a visor, you can tell her eyes are set upon you like daggers.*</i> This area is off-limits to outsiders. I highly suggest you make yourself scarce, civilian... Unless you'd like to be introduced to the Fort Merit dungeons firsthand.</td>
+  <td><i>*Although the <a href="Glossary.md#canor">Canor</a> woman wears a visor, you can tell her eyes are set upon you like daggers.*</i> This area is off-limits to outsiders. I highly suggest you make yourself scarce, civilian... Unless you'd like to be introduced to the Fort Merit dungeons firsthand.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

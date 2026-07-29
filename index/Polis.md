@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 219998
+revid: 224169
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, Justicars]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Qu
 | health | 5000 |
 | drops | Anklets of Alsin |
 | weapon | Darksteel Greatsword |
-| moves | Assault, Critical, Gale Lunge, Rising Wind, Strong Left, Rapid Punches |
+| moves | Assault, Critical, Gale Lunge, Rising Wind, Strong Left, Rapid Punches, Onslaught, Karita Leap |
 | affiliation | The Justicar, Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

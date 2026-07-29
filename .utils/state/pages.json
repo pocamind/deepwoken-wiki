@@ -97,7 +97,7 @@
   },
   "895": {
     "title": "Fishing",
-    "lastrevid": 224150
+    "lastrevid": 224174
   },
   "904": {
     "title": "Worshipper's Shield",
@@ -1621,7 +1621,7 @@
   },
   "4393": {
     "title": "Polis",
-    "lastrevid": 219998
+    "lastrevid": 224169
   },
   "4397": {
     "title": "Etrean Soldier",
@@ -1765,7 +1765,7 @@
   },
   "4707": {
     "title": "Cheral",
-    "lastrevid": 223816
+    "lastrevid": 224168
   },
   "4708": {
     "title": "Repair Kit",
@@ -2681,7 +2681,7 @@
   },
   "6544": {
     "title": "Regek",
-    "lastrevid": 213897
+    "lastrevid": 224216
   },
   "6547": {
     "title": "Ghost Bounder",
@@ -4545,11 +4545,11 @@
   },
   "13850": {
     "title": "??? (Coral Clump)",
-    "lastrevid": 221025
+    "lastrevid": 224187
   },
   "13852": {
     "title": "Job Boards",
-    "lastrevid": 223760
+    "lastrevid": 224222
   },
   "13872": {
     "title": "Megalodaunt (disambiguation)",
@@ -5401,7 +5401,7 @@
   },
   "16213": {
     "title": "Glossary",
-    "lastrevid": 223948
+    "lastrevid": 224164
   },
   "16223": {
     "title": "Inquisitor's Duster/Gallery",
@@ -6613,7 +6613,7 @@
   },
   "19461": {
     "title": "Bluestone Boots",
-    "lastrevid": 221603
+    "lastrevid": 224188
   },
   "19467": {
     "title": "Astra",
@@ -6621,7 +6621,7 @@
   },
   "19468": {
     "title": "Bluestone Pauldrons",
-    "lastrevid": 221602
+    "lastrevid": 224189
   },
   "19469": {
     "title": "Warped Blue Gem",
@@ -6673,7 +6673,7 @@
   },
   "19714": {
     "title": "Loading Screen",
-    "lastrevid": 222806
+    "lastrevid": 224217
   },
   "19736": {
     "title": "Sentinel",
@@ -6709,7 +6709,7 @@
   },
   "19758": {
     "title": "Chud Steel",
-    "lastrevid": 224161
+    "lastrevid": 224177
   },
   "19760": {
     "title": "Fabantou",
@@ -6745,7 +6745,7 @@
   },
   "19792": {
     "title": "Sentinel Augustus",
-    "lastrevid": 224139
+    "lastrevid": 224184
   },
   "19796": {
     "title": "Greathive Approach",
@@ -6757,7 +6757,7 @@
   },
   "19806": {
     "title": "High Inquisitor Merey",
-    "lastrevid": 223976
+    "lastrevid": 224163
   },
   "19808": {
     "title": "Big Brother",
@@ -8349,7 +8349,7 @@
   },
   "22094": {
     "title": "Sky Warrior Helm",
-    "lastrevid": 222588
+    "lastrevid": 224185
   },
   "22095": {
     "title": "Potion Master's Hat",
@@ -8837,7 +8837,7 @@
   },
   "23173": {
     "title": "Parasol Membrane",
-    "lastrevid": 219654
+    "lastrevid": 224167
   },
   "23175": {
     "title": "The No-Life King's Crown",
@@ -8965,7 +8965,7 @@
   },
   "23322": {
     "title": "Ether Refined Brim",
-    "lastrevid": 221223
+    "lastrevid": 224214
   },
   "23323": {
     "title": "Ossified Simple Pauldrons",
@@ -9309,7 +9309,7 @@
   },
   "24379": {
     "title": "Roa",
-    "lastrevid": 214094
+    "lastrevid": 224183
   },
   "24396": {
     "title": "Grudgeroot",
@@ -9673,7 +9673,7 @@
   },
   "26129": {
     "title": "Lamprey",
-    "lastrevid": 223918
+    "lastrevid": 224171
   },
   "26130": {
     "title": "Yellow Bass",
@@ -9686,5 +9686,13 @@
   "26156": {
     "title": "The Boundary",
     "lastrevid": 224147
+  },
+  "26160": {
+    "title": "Skyscriven",
+    "lastrevid": 224193
+  },
+  "26161": {
+    "title": "Cathedral of the Empyrean",
+    "lastrevid": 224194
   }
 }

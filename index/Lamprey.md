@@ -1,6 +1,6 @@
 ---
 title: Lamprey
-revid: 223918
+revid: 224171
 source: https://deepwoken.fandom.com/wiki/Lamprey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Fishing Exclusive]

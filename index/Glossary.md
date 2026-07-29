@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 223948
+revid: 224164
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -576,7 +576,7 @@ Dialogue: [Samael](Samael.md)
 -   Supposedly hailing from a mountainous region before the coming of the [Tides](#the-tides), the Adret people consisted of a smattering of tribes and kingdoms isolated by their rugged landscape. As the [Tides](#the-tides) rose, the rest of the world opened up to the Adret, allowing them to expand and subdue their neighbours, thus forming the [Adretian Empire](#the-adretian-empire). Over time, the Empire formed a coalition with multiple other nations, becoming the [Central Authority](#the-central-authority).
 -   Lending to their history, the Adret have a reputation as bureaucrats and government officials.
 
-Dialogue: [Amethyst](<Amethyst_(NPC).md>), [Artus](Artus.md), [Ishan](Ishan.md), [Karliah](Karliah.md), [Kayla](Kayla.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Amethyst](<Amethyst_(NPC).md>), [Artus](Artus.md), Chud-Steel, [Ishan](Ishan.md), [Karliah](Karliah.md), [Kayla](Kayla.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ### Canor
 
@@ -584,7 +584,7 @@ Dialogue: [Amethyst](<Amethyst_(NPC).md>), [Artus](Artus.md), [Ishan](Ishan.md),
 -   They are known for their fierce loyalty, and frequently for their ferocity and combat prowess - lending them a reputation as powerful warriors. Often found as guards, generals, and loyal servants of the powerful.
 -   Historically, various Canor kingdoms and polities were subsumed and incorporated into the [Central Authority](#the-central-authority), and its predecessor empires. As a result, many Canor have adopted positions within its councils of governance.
 
-Dialogue: [Commander Morredh](Commander_Morredh.md), [The Foreman](The_Foreman.md), [Ignacio](Ignacio.md), [Sawbones](Sawbones.md), [Schnitzel](Mantra_Collector.md), [The Beard](The_Beard.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries:
+Dialogue: [Commander Morredh](Commander_Morredh.md), [High Inquisitor Merey](High_Inquisitor_Merey.md), [Ignacio](Ignacio.md), [Sawbones](Sawbones.md), [Schnitzel](Mantra_Collector.md), [The Beard](The_Beard.md), [The Foreman](The_Foreman.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries:
 
 ### Pathfinders
 
@@ -799,7 +799,7 @@ Dialogue: [Adrofalis](Adrofalis.md), [Armourer Kev](Armourer_Kev.md), [Chef Buon
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants; the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Thula](Thula.md) [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouses](#lighthouses), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Thula](Thula.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouses](#lighthouses), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The City of New Kyrsa
 

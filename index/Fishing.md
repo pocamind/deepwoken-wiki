@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 224150
+revid: 224174
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -9,6 +9,10 @@ notices:
 ---
 
 # Fishing
+
+“ The depth of water you fish at affects what you'll catch. Some fish are best caught at the shore, and others far out on a boat! ”
+
+― [Loading Screen](Loading_Screen.md) tip
 
 ## Description
 
@@ -30,7 +34,7 @@ The following are all possible fishing catches and their quotes:
 
 -   [Golden Swordfish](Golden_Swordfish.md) (and any golden fish): "Huh?!"
 -   [Lamprey](Lamprey.md): It's a Lamprey... Gotcha sucker!"
--   [Leather Boots](Leather_Boots.md)
+-   [Leather Boots](Leather_Boots.md): "A pair of old boots..."
 -   [Lionfish](Lionfish.md) (As an enemy): "A LIONFISH?!"
 -   [Mudskipper](Mudskipper.md) (As an enemy): "What the...?!"
 -   [Pufferfish](Pufferfish.md): "A poisonous Pufferfish! Careful eating this one..."

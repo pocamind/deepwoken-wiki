@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 223816
+revid: 224168
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, In progress with reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
@@ -50,7 +50,7 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
 
 ## Dialogue
 
-**Base Dialogue:**
+**{{!}}-{{!}}Base Dialogue:**
 
 <table>
 <tbody>
@@ -78,7 +78,29 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
 </tbody>
 </table>
 
-**Already obtained Way of Navae:**
+**Unlockable Dialogue:**
+
+**Hostage Rescued:**
+
+This dialogue is unlocked if the player is holding a [Navaen Hostage](Navaen_Hostage.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. <i>(<a href="Glossary.md#talent">Talent</a> Unlocked)</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue], <a href="Way_of_Navae.md">Way of Navae</a> fist style learned</td>
+</tr>
+</tbody>
+</table>
+
+**Navae's Blessing:**
+
+This dialogue will appear if the player has obtained [Way of Navae](Way_of_Navae.md) on any character.
 
 <table>
 <tbody>
@@ -89,12 +111,14 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
   <td>You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fulfill my part in prophecy, please allow me to share some of our knowledge with you...</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td>[End Dialogue], <a href="Way_of_Navae.md">Way of Navae</a> fist style learned</td>
 </tr>
 </tbody>
 </table>
 
-**Returning a Hostage:**
+**Tyrant:**
+
+This dialogue will unlock if the player has completed the "[Duke of Sin](Quests.md#duke-of-sin)" Quest.
 
 <table>
 <tbody>
@@ -102,7 +126,20 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. <i>(<a href="Glossary.md#talent">Talent</a> Unlocked)</i></td>
+  <td>Ah, a homelander. Did you need something?</td>
+</tr>
+<tr>
+  <td>Is there some kind of arrangement between the Etreans and you?</td>
+</tr>
+<tr>
+  <td>Of a sort. There has often been a mutual understanding between our peoples. Our ways of life are both threatened by the <a href="Glossary.md#the-central-authority">Authority's</a> tyranny.</td>
+</tr>
+<tr>
+  <td>The Lord Regent is a tyrant all the same.</td>
+</tr>
+<tr>
+  <td><font>[Unlocked dialogue begins here]</font><br>
+  Perhaps. But we would rather camp beside the tyrant that tolerates us than the tyrant who won't. Nomads can't be too picky.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

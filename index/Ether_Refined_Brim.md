@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Brim
-revid: 221223
+revid: 224214
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -20,10 +20,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Hats, Head,
 | innate talent | Sorcerer's Skill |
 | set | Ether Refined Brim, Ether Refined Mantle |
 | set talent | Sorcerer's Supply |
-| bankable | No |
-| droppable | No |
-| enchantable | No |
-| pass down | No |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Only on craft[1] |
+| pass down | Yes |
 | obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Warlock's Brim in the Lost Forge |
 | description | A finely crafted hat worn by master wizards of the Northen Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle. |
 
@@ -51,8 +51,6 @@ Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amou
 
 This increases your [Tempo](Combat_Mechanics.md#tempo) by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).
 
-  
+## References
 
-## Navigation
-
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
