@@ -1,9 +1,11 @@
 ---
 title: Gale Pale
-revid: 223349
+revid: 224295
 source: https://deepwoken.fandom.com/wiki/Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]
+categories: [Cut Content, Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Gale Pale
@@ -30,15 +32,13 @@ categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]
 | obtainment | Jungle Jim |
 | description | An artisinal reuse of an old faithful greathammer. Coated in silver, this Pale Morning can glide through the winds current like nothing to maul it's opponents. |
 
-Variants: [Withered Gale Pale](Withered_Gale_Pale.md)
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Gale Pale is an endgame Greathammer, obtainable in the [Vow of Iron](Vow_of_Iron.md) gamemode only.
+The Gale Pale was an endgame Greathammer, obtainable in the [Vow of Iron](Vow_of_Iron.md) gamemode only.
 
 ## Critical
 

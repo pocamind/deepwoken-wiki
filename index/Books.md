@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 221865
+revid: 224258
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -49,10 +49,10 @@ Uniquely, the [Fading Book](Fading_Book.md) is obtained when a different book is
 
 Currently there are 32 books and book collections:
 
--   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>): The biology, characteristics, and origins of [Megalodaunts](Megalodaunt.md). ~600 words.
--   [Capran Aphorisms](Capran_Aphorisms.md): A trio of sayings regarding Jurik, Nemit, and Ku. ~100 words.
+-   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>): The biology, characteristics, and origins of [Megalodaunts](Megalodaunt.md). 661 words, 3m reading time.
+-   [Capran Aphorisms](Capran_Aphorisms.md): A trio of sayings regarding Jurik, Nemit, and Ku. 104 words, <1m reading time.
 -   [Children of the Aftertide](Children_of_the_Aftertide.md)
-    -   Children of the Aftertide I
+    -   Children of the Aftertide I 781 words, 3m reading time.
 -   [Coldheart's Journal](<Coldheart's_Journal.md>)
 -   [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)
 -   [Debriefing Log on Operator Polaris Enigvidion](Debriefing_Log_on_Operator_Polaris_Enigvidion.md)
@@ -61,7 +61,7 @@ Currently there are 32 books and book collections:
 -   [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>)
 -   [Eggs In A Basket](Eggs_In_A_Basket.md): A sailor's shanty. 107 words, <1m reading time.
 -   [Fading Book](Fading_Book.md): A placeholder for removed books. Its pages fading, crumbling. ~50 words.
--   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md). ~200 words.
+-   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md). 222 words, 1m reading time.
 -   [The Gideshu March](The_Gideshu_March.md): [The Central Authority](The_Central_Authority.md)'s anthem and its brief history. Playable on [Instruments](Instruments.md). ~500 words.
 -   [The Hammer's Call](<The_Hammer's_Call.md>): [The Ignition Union](The_Ignition_Union.md)'s anthem and its brief history. ~400 words.
 -   [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md) 1,559 words, 7m reading time.
@@ -69,21 +69,21 @@ Currently there are 32 books and book collections:
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
     -   Lumen's Folklore: Volume 'Attunement'
     -   Lumen's Folklore: Volume 'North'
--   [Ministry Field Report](Ministry_Field_Report.md) 29 words, <1m reading time.
+-   [Ministry Field Report](Ministry_Field_Report.md) 435 words, 2m reading time.
 -   [Munet Journal](Munet_Journal.md)
-    -   Munet Journal, XIV
+    -   Munet Journal, XIV 107 words, <1m reading time.
 -   [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md)
--   [O Pardoner of Mine](O_Pardoner_of_Mine.md)
--   [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>)
--   [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)
+-   [O Pardoner of Mine](O_Pardoner_of_Mine.md) 419 words, 2m reading time.
+-   [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>) 1,861 words, 9m reading time.
+-   [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) 865 words, 4m reading time.
 -   [Ossuary Maintenance](Ossuary_Maintenance.md)
 -   [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
 -   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md): Playable on [Instruments](Instruments.md). ~2,600 words.
 -   [Strange Missives](Strange_Missives.md)
 -   [Studies on Canticlysm](Studies_on_Canticlysm.md)
-    -   Studies on Canticlysm, Vol. IV
+    -   Studies on Canticlysm, Vol. IV 1,376 words, 6m reading time.
 -   [Tale of the Storm](Tale_of_the_Storm.md)
--   [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
+-   [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) 896 words, 4m reading time.
 -   [Words of Light](Words_of_Light.md): A Kyrsan Manifesto. 559 words, 2m reading time.
 
 ### Removed books

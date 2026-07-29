@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 223401
+revid: 224296
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Legendary Weapons, Reforged Weapons]
@@ -31,10 +31,8 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathamme
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Pale Morning |
+| obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding or holding the Pale MorningVow of Iron, Jungle Jim |
 | description | A legacy tarnished by your hand, but granted fell strength by Leiuna's profane forge. The wind is known to hold voices captive and, held in your hands, you hear an earnest plea; Bury the forge. Kill its memory. Greed is their dagger. |
-
-Variants: [Gale Pale](Gale_Pale.md)
 
 ## Description
 

@@ -1,11 +1,9 @@
 ---
 title: Guild Bases
-revid: 211411
+revid: 224248
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Pathfinder Exclusive, Guilds, Locations]
 ---
 
 # Guild Bases

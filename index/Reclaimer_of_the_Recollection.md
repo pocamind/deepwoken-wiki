@@ -1,12 +1,12 @@
 ---
 title: Reclaimer of the Recollection
-revid: 224017
+revid: 224240
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits, Individuals with unspecified pronouns]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
-  - "This page is currently being worked on. Voicelines for True Heart of Enmity and Zi'eer"
+  - "This page is currently being worked on. Voicelines needed regarding Zi'eer"
 ---
 
 # Reclaimer of the Recollection

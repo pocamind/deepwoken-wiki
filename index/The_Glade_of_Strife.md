@@ -1,12 +1,11 @@
 ---
 title: The Glade of Strife
-revid: 188777
+revid: 224245
 source: https://deepwoken.fandom.com/wiki/The_Glade_of_Strife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Chime of Conflict Arenas]
+categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Chime of Conflict Arenas]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The Glade of Strife

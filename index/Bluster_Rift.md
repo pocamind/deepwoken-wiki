@@ -1,11 +1,9 @@
 ---
 title: Bluster Rift
-revid: 223163
+revid: 224241
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant]
 ---
 
 # Bluster Rift

@@ -1,11 +1,9 @@
 ---
 title: Yellow Bass
-revid: 223892
+revid: 224242
 source: https://deepwoken.fandom.com/wiki/Yellow_Bass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Ingredients, Fish, Fishing Exclusive]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Ingredients, Fish, Fishing Exclusive]
 ---
 
 # Yellow Bass
@@ -13,7 +11,7 @@ notices:
 | Yellow Bass | |
 |---|---|
 | weight | 0.25 |
-| stack | x? |
+| stack | x99 |
 | type | Fish |
 | bankable | Yes |
 | droppable | Yes |

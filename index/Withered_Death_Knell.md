@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 221532
+revid: 224293
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons, Weapons with Unique Criticals]
@@ -31,10 +31,8 @@ categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weap
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Light's Final Toll |
+| obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding or holding the Light's Final TollVow of Iron:, Bloodstarved Hunter |
 | description | A reminder that all songs must be consumed. |
-
-Variants: [The Death Knell](The_Death_Knell.md)
 
 ## Description
 
@@ -53,3 +51,7 @@ For the final critical, the user raises into the air with a [green telegraph](Co
 All criticals have a cooldown of **5 seconds**.
 
 All of these critical drain the target's blood while restoring the user's, and applies 3% of [Blood Poison](Status_Effects.md#blood-poisoning) per hit.
+
+## Trivia
+
+-   A death knell is the ringing of a church bell to announce the death of a person.
