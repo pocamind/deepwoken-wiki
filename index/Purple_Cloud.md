@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 221403
+revid: 224238
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -35,7 +35,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 
 ## Description
 
-The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, low chance afterward). It's part of a trio of weapons from the [Maestro](Maestro_Evengarde_Rest.md)'s arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilizes your fists and legs to attack, with the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the move sets of swords with those of [Fists](Fists.md).
+The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, low chance afterward). It's part of a trio of weapons from the [Maestro](Maestro_Evengarde_Rest.md)'s arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilizes your fists and legs to attack, with the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the move sets of swords with those of [Fists](Fists.md). It can only be used one-handed.
 
 Akin to the [Shattered](Shattered_Katana.md) and [Alloyed Katanas](Katana.md), the [Paired Soul](Talents.md#paired-soul) [Outfit](Outfits.md) Talent increases its damage by 5%.
 
@@ -57,8 +57,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
     -   This is because the Purple Cloud is sheathed most of the time, and when it is unsheathed for the critical, the blade is put right back in its place, so it would just deal delayed critical damage
     -   The other weapons that possess scabbards are the [Katana](Katana.md), [Shattered Katana](Shattered_Katana.md), and the [Bloodfouler](Bloodfouler.md)
 -   Despite being a pseudo fist-type weapon, it does not proc/activate Talents related to fists.
--   Its critical attack is based on the martial art "Iaido", which involves quickly drawing and sheathing the sword in order to attack or defend.
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium weapon with the average damage, attack speed and slightly below average range as what you would expect from a medium weapon.
--   It can only be used one-handed.
--   Clones wield the weapon unsheathed.
+-   Its critical attack is based on the martial art "Iaido", which involves quickly drawing and sheathing the sword in order to attack or defend.
+-   Clones (e.g. [Lightning Clones](Thundercall.md#lightning-clones) summons) wield the weapon unsheathed.
 -   Vow of Iron's version of Purple Cloud shares its swing animations with [Umbrite Witherblade](Umbrite_Witherblade.md).

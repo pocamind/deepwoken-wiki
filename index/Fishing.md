@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 224174
+revid: 224225
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -33,7 +33,7 @@ The longer it takes to successfully reel in a catch, the higher the quality of t
 The following are all possible fishing catches and their quotes:
 
 -   [Golden Swordfish](Golden_Swordfish.md) (and any golden fish): "Huh?!"
--   [Lamprey](Lamprey.md): It's a Lamprey... Gotcha sucker!"
+-   [Lamprey](Lamprey.md): It's a Lamprey... Gotcha, sucker!"
 -   [Leather Boots](Leather_Boots.md): "A pair of old boots..."
 -   [Lionfish](Lionfish.md) (As an enemy): "A LIONFISH?!"
 -   [Mudskipper](Mudskipper.md) (As an enemy): "What the...?!"
