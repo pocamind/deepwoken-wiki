@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 201502
+revid: 224103
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1953,7 +1953,7 @@ Kyrsan names are the custom names that are given by [Erosius Amaltus Urivortus A
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in. John Doe is a placeholder name when the true name of a person is unknown or purposefully hidden.
 -   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[2\]](#cite-note-2)
--   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
+-   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe. It may also be referencing Albion, one the Fallen of Albaz's dragon forms, a character from Yu-Gi-Oh!
 -   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
 -   The name Corvo could be a reference to Corvo Attano, the protagonist of Dishonored.
 -   The name Dogbert is a reference to [a megalomaniacal dog](https://dilbert.fandom.com/wiki/Dogbert)

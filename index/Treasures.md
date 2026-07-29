@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 221700
+revid: 224148
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures]
@@ -31,7 +31,7 @@ Obtaining Treasures from chests will automatically convert them into [Trinkets](
  | Gold Bar | _Hey, it's worth at least a rat's weight in gold._ | 21 |
 | 
 
- | [Gold Plate](Gold_Plate.md) | _Hey, it's worth at least a rat's weight in gold._ | ? |
+ | [Gold Plate](Gold_Plate.md) | _Hey, it's worth at least a rat's weight in gold._ | 7 |
 | 
 
  | Platinum Bar | _The only metal fit for a king. But how about a ring?_ | 55 |

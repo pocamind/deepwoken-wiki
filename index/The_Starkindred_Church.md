@@ -1,6 +1,6 @@
 ---
 title: The Starkindred Church
-revid: 199075
+revid: 224097
 source: https://deepwoken.fandom.com/wiki/The_Starkindred_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Starkindred Church, Religious groups]
@@ -30,3 +30,4 @@ In the [Eastern Luminant](Luminants.md#eastern-luminant), their only base is the
 ## Trivia
 
 -   The design of the [Celestial](Celestial.md) in the basement of the [Derelict Highchurch](Derelict_Highchurch.md) was highly inspired by [Lilith](https://evangelion.fandom.com/wiki/Lilith) from [Evangelion](https://evangelion.fandom.com/wiki/Main_Page).
+-   It is possible that The Starkindred Church and [The Ministry](The_Ministry.md) are enemies due to the different parties they worship opposing each other, along with the fact that they both originate from the Western Luminant it is most likely that they kill each other on sight.

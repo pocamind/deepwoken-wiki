@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 200363
+revid: 224154
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Game Modes]
@@ -97,7 +97,7 @@ Ranked **(Top 101-250)**
 
 -   Silver Usernames
 
-Ranked **(Top 1000-251)**
+Ranked **(Top 251-1000)**
 
 -   Bronze Usernames
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 223752
+revid: 224094
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4349,10 +4349,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   For the [Rangescraper](Rangescraper.md)'s other Talent, view [Extension](#extension).
 
 -   Continuous Bleed: [Razor Cutlass](Razor_Cutlass.md) - Every time you land a crit, flourish or uppercut, increase the amount of [bleed](Status_Effects.md#bleed) damage you deal for 15 seconds. This is stackable.
-    -   Adds one additional bleed tick per stack, but reduces the damage each bleed tick deals by 10%.
+    -   Each stack reduces the bleed damage you deal by 10%, while increasing the amount of damage instances from your bleed by +1.
+    -   On the first stack, this equates to a net increase of +20% bleed damage. This has diminishing returns for each stack you have, peaking at an ~59% net bleed damage increase on the 6th and 7th stacks, and then decaying from the 8th stack onwards.
     -   This applies to all sources of bleed, not just Razor Cutlass' innate bleed.
     -   Each stack is counted separately from eachother with their own durations.
     -   Multi-hit criticals do not grant additional stacks.
+    -   [Desmos calculator](https://www.desmos.com/calculator/qlbcvgz9yr)
 
 -   Corporeal Dissolution: [Black Death](Black_Death.md) - Applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain.
     -   This is capped at 10 Wither per proc.

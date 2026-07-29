@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 221412
+revid: 224093
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients, Weapons with Talents]
@@ -49,7 +49,9 @@ It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [
 
 Equipping the Razor Cutlass grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Gain stacks of [**Continuous Bleed**](Talents.md#continuous-bleed) upon landing a critical attack, flourish, or uppercut. Each stack slightly reduces your [bleed](Status_Effects.md#bleed) damage, but grants an additional bleed damage tick, equating to a net ~90% damage increase in your bleed, per stack. Each stack has an independent 15 second duration. Multi-hit criticals do not grant multiple stacks.
+Gain stacks of [**Continuous Bleed**](Talents.md#continuous-bleed) upon landing a critical attack, flourish, or uppercut. Each stack reduces your [bleed](Status_Effects.md#bleed) damage by 10%, but grants an additional bleed damage tick. On the first stack, this equates to a net increase of +20% bleed damage. This has diminishing returns for each stack you have, peaking at an ~59% net bleed damage increase on the 6th and 7th stacks, and then decaying from the 8th stack onwards. Each stack has an independent 15 second duration. Multi-hit criticals do not grant multiple stacks.
+
+[Desmos calculator](https://www.desmos.com/calculator/qlbcvgz9yr)
 
 ## Critical
 

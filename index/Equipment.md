@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 223416
+revid: 224151
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]

@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 221808
+revid: 224158
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,7 +29,7 @@ Talking to Guards
 
 Talking to guards/camp masters
 
--   Ally/Hero Reputation - "Navae guide you, homelander." | "Blessings of Navae upon you, homelander."
+-   Ally/Hero Reputation - "Navae guide you, homelander." | "Blessings of Navae upon you, homelander." | Ah, Bloodkin \[First Name\]. It's good to have you with us.
 -   Friend Reputation - "Ah homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
 -   Neutral Reputation - "Ah, a homelander." | "Keep your distance from my people homelander. I do not wish for this to become violent"
 

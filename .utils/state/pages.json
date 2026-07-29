@@ -97,7 +97,7 @@
   },
   "895": {
     "title": "Fishing",
-    "lastrevid": 224014
+    "lastrevid": 224150
   },
   "904": {
     "title": "Worshipper's Shield",
@@ -249,7 +249,7 @@
   },
   "1102": {
     "title": "Treasures",
-    "lastrevid": 221700
+    "lastrevid": 224148
   },
   "1103": {
     "title": "Frostdraw",
@@ -601,11 +601,11 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 223752
+    "lastrevid": 224094
   },
   "1880": {
     "title": "Razor Cutlass",
-    "lastrevid": 221412
+    "lastrevid": 224093
   },
   "1884": {
     "title": "Champion's Sword",
@@ -649,7 +649,7 @@
   },
   "1999": {
     "title": "Dialogue",
-    "lastrevid": 221808
+    "lastrevid": 224158
   },
   "2034": {
     "title": "Way of Navae",
@@ -657,7 +657,7 @@
   },
   "2078": {
     "title": "Names",
-    "lastrevid": 201502
+    "lastrevid": 224103
   },
   "2084": {
     "title": "Akira",
@@ -729,7 +729,7 @@
   },
   "2422": {
     "title": "Boons and Flaws",
-    "lastrevid": 223152
+    "lastrevid": 224160
   },
   "2438": {
     "title": "Authority Peacekeeper",
@@ -1149,7 +1149,7 @@
   },
   "3195": {
     "title": "Chime of Conflict",
-    "lastrevid": 200363
+    "lastrevid": 224154
   },
   "3205": {
     "title": "Nemit's Sickle",
@@ -1481,7 +1481,7 @@
   },
   "3873": {
     "title": "Cestis",
-    "lastrevid": 216502
+    "lastrevid": 224144
   },
   "3881": {
     "title": "Dark Feather",
@@ -2013,7 +2013,7 @@
   },
   "4891": {
     "title": "Barber",
-    "lastrevid": 195489
+    "lastrevid": 224159
   },
   "4892": {
     "title": "Dusklit Garden",
@@ -2121,7 +2121,7 @@
   },
   "5126": {
     "title": "Equipment",
-    "lastrevid": 223416
+    "lastrevid": 224151
   },
   "5135": {
     "title": "Discussion Moderators",
@@ -2289,7 +2289,7 @@
   },
   "5671": {
     "title": "Echoes",
-    "lastrevid": 222596
+    "lastrevid": 224088
   },
   "5672": {
     "title": "Chime of Dwelling",
@@ -2521,7 +2521,7 @@
   },
   "6092": {
     "title": "Star Duster",
-    "lastrevid": 222648
+    "lastrevid": 224136
   },
   "6093": {
     "title": "Vanguard Brace",
@@ -4985,7 +4985,7 @@
   },
   "14827": {
     "title": "Bloodrend",
-    "lastrevid": 223362
+    "lastrevid": 224074
   },
   "14831": {
     "title": "Heartstar",
@@ -6709,7 +6709,7 @@
   },
   "19758": {
     "title": "Chud Steel",
-    "lastrevid": 223799
+    "lastrevid": 224161
   },
   "19760": {
     "title": "Fabantou",
@@ -6745,7 +6745,7 @@
   },
   "19792": {
     "title": "Sentinel Augustus",
-    "lastrevid": 205040
+    "lastrevid": 224139
   },
   "19796": {
     "title": "Greathive Approach",
@@ -7097,7 +7097,7 @@
   },
   "20507": {
     "title": "The Starkindred Church",
-    "lastrevid": 199075
+    "lastrevid": 224097
   },
   "20508": {
     "title": "The Covenant of Flame",
@@ -8865,11 +8865,11 @@
   },
   "23222": {
     "title": "Hardened Enforcer Plate",
-    "lastrevid": 222919
+    "lastrevid": 224156
   },
   "23225": {
     "title": "Suffocated (enchantment)",
-    "lastrevid": 217983
+    "lastrevid": 224089
   },
   "23228": {
     "title": "Royalist Guard",
@@ -8889,7 +8889,7 @@
   },
   "23245": {
     "title": "Hardened Enforcer Boots",
-    "lastrevid": 223464
+    "lastrevid": 224155
   },
   "23247": {
     "title": "Echelon",
@@ -9649,7 +9649,7 @@
   },
   "26118": {
     "title": "Rangescraper",
-    "lastrevid": 223967
+    "lastrevid": 224100
   },
   "26120": {
     "title": "Captain Rendez",
@@ -9682,5 +9682,9 @@
   "26143": {
     "title": "Summer Company Gunslinger",
     "lastrevid": 224043
+  },
+  "26156": {
+    "title": "The Boundary",
+    "lastrevid": 224147
   }
 }

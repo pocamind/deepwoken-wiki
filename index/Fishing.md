@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 224014
+revid: 224150
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -16,7 +16,7 @@ notices:
 
 Fishing Rods can be crafted with two [Sticks](Stick.md) and one [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md), or purchased from select vendors for 30/35.
 
-To fish, cast a line into any body of water by pressing M1. Once the bobber lands into water, it will take some to settle before a minigame pops up to fish. Once something is caught onto the line, reel in catches by pressing the displayed key (W, A, S, or D) while holding down M1 before the caught item gets loose. Lines can also be instantly withdrawn by pressing M1 while its being thrown.
+To fish, cast a line into any body of water by pressing M1, or hold M1 to cast if farther and higher. Once the bobber lands into water, it will take some to settle before a minigame pops up to fish. Once something is caught onto the line, reel in catches by pressing the displayed key (W, A, S, or D) while holding down M1 before the caught item gets loose. Lines can also be instantly withdrawn by pressing M1 while its being thrown.
 
 Fishing also grants experience toward all _physical_ [Attributes](Attributes.md).
 
@@ -44,24 +44,30 @@ The following are all possible fishing catches and their quotes:
 -   [Urchin](Urchin.md): "Barely edible..."
 -   [Yellow Bass](Yellow_Bass.md): "It's a Yellow Bass! What a coward!"
 
-Failing to catch something will give the quote: "It broke loose!", "I didn't reel it in fast enough..."
+Failing to reel in something that was caught can give the quotes: "It broke loose!" or "I didn't reel it in fast enough..."
 
 ## Bait
 
-While bait is not required, higher quality bait significantly increases the chance of attracting nibbles and converting them into successful bites. Bait can be attached by holding a Fishing Rod and clicking on the desired bait.
+While bait is not required, attaching bait increases the chance of attracting nibbles and converting them into successful bites. Bait can be attached by holding out a Fishing Rod and clicking on the desired item to put on as bait.
 
 The following items are known to function as bait:
 
+-   [Arkasid Pupa](Arkasid_Pupa.md)
 -   [Ambrosial Chum](Ambrosial_Chum.md) (Extremely potent)
 -   [Browncap](Browncap.md)
 -   [Calabash](Calabash.md)
 -   [Canteen](Canteen.md)
+-   [Cheese](Cheese.md)
 -   [Chum](Chum.md)
 -   [Crustacean Meat](Crustacean_Meat.md)
 -   [Dentifilo](Dentifilo.md)
 -   [Dread Flesh](Dread_Flesh.md) (Extremely potent)
 -   [Fish Meat](Fish_Meat.md)
+-   [Fish Stew](Fish_Stew.md)
+-   [Glazed Fish](Glazed_Fish.md)
 -   [Gobletto](Gobletto.md)
+-   [Latchgrain](Latchgrain.md)
+-   [Mushroom Bisque](Mushroom_Bisque.md)
 -   [Plumfruit](Plumfruit.md)
 -   [Pomar](Pomar.md)
 -   [Primal Slab](Primal_Slab.md) (Extremely potent)
@@ -71,7 +77,9 @@ The following items are known to function as bait:
 -   [Redd](Redd.md)
 -   [Sap](Sap.md)
 -   [Seaweed Bundle](Seaweed_Bundle.md)
+-   [Squelcap](Squelcap.md)
 -   [Squid](Squid.md)
+-   [Sushi](Sushi.md)
 -   [Urchin](Urchin.md)
 
 | Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |

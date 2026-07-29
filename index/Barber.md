@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 195489
+revid: 224159
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -10,7 +10,6 @@ categories: [Vendors, NPCs]
 
 | Barber | |
 |---|---|
-| name | Barber |
 | aspect | Adret, Randomized (Guild base) |
 | location | Near Nerin in Etris, Inside the castle on Summer Isle, At the archives room in the Greathive Aratel, At the mantra shop in Isle of Vigils, In a corner of the Guild base, Inside Castle Light, Port Merit, Fort Merit |
 
@@ -21,6 +20,38 @@ categories: [Vendors, NPCs]
 ## Description
 
 The **Barber** is an NPC that allows customization to your character. They can change your appearance, change your name for 100, change the model of your [Resonance](Resonance.md) with 1, or remove the dye from one of your dyed items for free. Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abilities similar to them.
+
+## Shop UI
+
+Style Pro Bono
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure><div></div></center></td>
+  <td><div>Edit Appearance</div><div><i>Enter the Appearance Editor and customise</i><br>
+  (Opens customization UI)</div></td>
+</tr>
+</tbody>
+</table>
+
+The Top Shelf
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>100 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Name Change</div><div><i>Change your first and last name.<br>
+  </i><br>
+  Has a 10 minute cooldown.</div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>1 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Alter Resonance Shape</div><div><i>Change the shape of your Resonance to one of your choosing.</i><br>
+  (Only appears if you have a Resonance)</div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
@@ -86,38 +117,6 @@ The **Barber** is an NPC that allows customization to your character. They can c
   <td colspan="8"></td>
   <td colspan="2">[End Dialogue], player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td>
   <td colspan="2"></td>
-</tr>
-</tbody>
-</table>
-
-## Shop UI
-
-Style Pro Bono
-
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure><div></div></center></td>
-  <td><div>Edit Appearance</div><div><i>Enter the Appearance Editor and customise</i><br>
-  (Opens customization UI)</div></td>
-</tr>
-</tbody>
-</table>
-
-The Top Shelf
-
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>100 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Name Change</div><div><i>Change your first and last name.<br>
-  </i><br>
-  Has a 10 minute cooldown.</div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>1 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
-  <td><div>Alter Resonance Shape</div><div><i>Change the shape of your Resonance to one of your choosing.</i><br>
-  (Only appears if you have a Resonance)</div></td>
 </tr>
 </tbody>
 </table>

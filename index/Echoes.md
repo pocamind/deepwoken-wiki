@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 222596
+revid: 224088
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -483,7 +483,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   [Starvation](Status_Effects.md#starved)
 -   Loose Change does not make you lose Notes when you take damage from any source like the description implies, instead only attacks from humanoids reduce your Notes, though it can be inconsistent at times.
 -   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
--   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and [Interluminary Parasol](Interluminary_Parasol.md) do not reward Echoes.
+-   Unlike all the other bosses in the game, defeating [Knell](Knell,_The_Lunatic_Resonator.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and [Interluminary Parasol](Interluminary_Parasol.md) do not reward Echoes.
     -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock are equipped automatically at the end of character creation. This means, if you've chosen [Lone Warrior](Lone_Warrior.md), you can spawn in the [Trial of One](Trial_of_One.md) with equipment on.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.

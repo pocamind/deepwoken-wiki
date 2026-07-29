@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 222648
+revid: 224136
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, Equipment with Talents, Equipment with Exclusive Talents]

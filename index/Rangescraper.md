@@ -1,6 +1,6 @@
 ---
 title: Rangescraper
-revid: 223967
+revid: 224100
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons, Light Weapons, Legendary Weapons, Weapons with Talents]
@@ -15,7 +15,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons
 | requirements | 35 LHT |
 | damage | 18 |
 | scaling | LHT: 7.5 |
-| posture damage | 2.2 |
+| posture damage | 2 |
 | range | 11 Sweep |
 | swing speed | 1.3x |
 | attack duration | 0.5s |

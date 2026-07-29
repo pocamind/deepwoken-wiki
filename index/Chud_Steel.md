@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 223799
+revid: 224161
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -50,7 +50,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*An Adretian soldier clad in garish blue armor stands before you, beaming with pride. You can't help but feel like you've seen that helmet before...*</i> HURRAH, soldier! Welcome to the Central Authority Military! Keep on keeping on! <i>*He flashes you with two finger guns. You can't tell, but you swear he's giving you a pristine smile underneath that helmet of his.*</i></td>
+  <td><i>*An <a href="Glossary.md#adretian">Adretian</a> soldier clad in garish blue armor stands before you, beaming with pride. You can't help but feel like you've seen that helmet before...*</i> HURRAH, soldier! Welcome to the Central Authority Military! Keep on keeping on! <i>*He flashes you with two finger guns. You can't tell, but you swear he's giving you a pristine smile underneath that helmet of his.*</i></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -238,7 +238,7 @@ Upon asking to hear one of Chud Steel's legendary catchphrases, he will randomly
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*The gaudily-armoured Adretian soldier stands proudly before you. His voice is muffled by his garish blue helmet.*</i> Three cheers, citizen! Fear not, we fight for <i>you</i>!</td>
+  <td><i>*The gaudily-armoured <a href="Glossary.md#adretian">Adretian</a> soldier stands proudly before you. His voice is muffled by his garish blue helmet.*</i> Three cheers, citizen! Fear not, we fight for <i>you</i>!</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
