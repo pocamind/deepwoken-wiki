@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 224094
+revid: 224498
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2962,6 +2962,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Conductor's Cable \[Common Talent, Ironsing\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Steals 10% of your enemy's maximum armor durability on proc.
+    -   Currently bugged and does not work as intended.
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.

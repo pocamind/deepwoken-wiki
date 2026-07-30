@@ -1,6 +1,6 @@
 ---
 title: Gale Pale
-revid: 224295
+revid: 224500
 source: https://deepwoken.fandom.com/wiki/Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]
@@ -46,4 +46,4 @@ Gale Pale uses the default Greathammer critical, an overhead swing. It has a sca
 
 ## Trivia
 
--   This weapon, along with the character it drops from, is a nod to Agamatsu's Galebreathe heavy build in Verse 1.
+-   This weapon, along with the character it dropped from, is a nod to Agamatsu's Galebreathe heavy build in Verse 1.

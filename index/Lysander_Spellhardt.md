@@ -1,9 +1,9 @@
 ---
 title: Lysander Spellhardt
-revid: 224372
+revid: 224499
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
+categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
 ---
 
 # Lysander Spellhardt
@@ -13,6 +13,7 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, H
 | name | Lysander Spellhardt |
 | alias | Minister of Treats (self-proclaimed)[1] |
 | aspect | Lightborn |
+| pronouns | He/him |
 | location | The Floating Keep |
 | family | Spellhardt family, Brasidas Spellhardt (younger brother)[2] |
 
