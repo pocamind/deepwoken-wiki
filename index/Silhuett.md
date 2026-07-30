@@ -1,6 +1,6 @@
 ---
 title: Silhuett
-revid: 201876
+revid: 224948
 source: https://deepwoken.fandom.com/wiki/Silhuett
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Random Encounters, The Divers, Individuals with unspecified pronouns]

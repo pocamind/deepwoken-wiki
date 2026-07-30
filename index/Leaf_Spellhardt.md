@@ -1,6 +1,6 @@
 ---
 title: Leaf Spellhardt
-revid: 192349
+revid: 224844
 source: https://deepwoken.fandom.com/wiki/Leaf_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]

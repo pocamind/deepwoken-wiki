@@ -1,6 +1,6 @@
 ---
 title: Dust
-revid: 215975
+revid: 224742
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Individuals with unspecified pronouns]

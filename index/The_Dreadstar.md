@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 200087
+revid: 224965
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Oath Trainer]

@@ -1,6 +1,6 @@
 ---
 title: Topol
-revid: 220139
+revid: 224980
 source: https://deepwoken.fandom.com/wiki/Topol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]

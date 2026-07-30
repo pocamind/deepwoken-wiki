@@ -1,6 +1,6 @@
 ---
 title: Reva
-revid: 210105
+revid: 224916
 source: https://deepwoken.fandom.com/wiki/Reva
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kiron NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]

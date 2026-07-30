@@ -1,6 +1,6 @@
 ---
 title: Mauled Diver Corpse (Apprentice Hero)
-revid: 221729
+revid: 224863
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Hero)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 221188
+revid: 224563
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Weapons by Class]

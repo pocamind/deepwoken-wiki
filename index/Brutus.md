@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 215471
+revid: 224678
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]

@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 215189
+revid: 224667
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs]

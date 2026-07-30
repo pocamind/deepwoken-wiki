@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 199937
+revid: 224694
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns, Oath Trainer]

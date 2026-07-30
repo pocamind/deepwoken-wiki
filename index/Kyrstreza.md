@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 218467
+revid: 224609
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Kyrs series]

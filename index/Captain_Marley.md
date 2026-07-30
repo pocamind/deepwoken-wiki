@@ -1,6 +1,6 @@
 ---
 title: Captain Marley
-revid: 216177
+revid: 225024
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Central Authority Enemies]

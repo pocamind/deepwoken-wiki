@@ -1,6 +1,6 @@
 ---
 title: "Hive Leader's Garment"
-revid: 206969
+revid: 225167
 source: https://deepwoken.fandom.com/wiki/Hive_Leader's_Garment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive Outfits, Exclusive, Outfits, Developer Spec]

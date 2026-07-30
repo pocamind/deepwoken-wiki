@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 224502
+revid: 224518
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, World of Deepwoken, OutdatedPages, SpoilerPages]
@@ -145,7 +145,7 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
--   Apparently, he also writes books, with the only known one being "Flame and the failure of man", which [Ploom](Ploom.md) was reading.
+-   Apparently, he also writes books, with the only known one being "The Eternal Flame and the failure of man", which [Ploom](Ploom.md) was reading.
 -   Has maintained his sanity despite living in the Third Layer for so long.[\[1\]](#cite-note-rag-1)
     -   A 'chill guy.'[\[1\]](#cite-note-rag-1)
 -   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is [Venn Kaelhand](Venn_Kaelhand.md), the original user of the First Light.[\[4\]](#cite-note-firstlight-4)

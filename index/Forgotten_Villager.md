@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 216074
+revid: 224770
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, NPCs located in the Etrean Luminant]

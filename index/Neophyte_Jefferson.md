@@ -1,6 +1,6 @@
 ---
 title: Neophyte Jefferson
-revid: 210542
+revid: 224883
 source: https://deepwoken.fandom.com/wiki/Neophyte_Jefferson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]

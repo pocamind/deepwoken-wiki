@@ -1,6 +1,6 @@
 ---
 title: Nitron
-revid: 223993
+revid: 224886
 source: https://deepwoken.fandom.com/wiki/Nitron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, NPCs, Vendors, The Summer Company, Individuals with unspecified pronouns]

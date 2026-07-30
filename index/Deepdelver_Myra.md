@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Myra
-revid: 196293
+revid: 224727
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Deepdelvers]

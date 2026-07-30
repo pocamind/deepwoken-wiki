@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 218466
+revid: 224608
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand, Kyrs series]

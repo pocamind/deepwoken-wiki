@@ -1,6 +1,6 @@
 ---
 title: Knife Guard
-revid: 216123
+revid: 225054
 source: https://deepwoken.fandom.com/wiki/Knife_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Knives of Eylis Enemies]

@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 219541
+revid: 224944
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Death, NPCs located in the First Layer]

@@ -1,6 +1,6 @@
 ---
 title: Neero
-revid: 216650
+revid: 224881
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]

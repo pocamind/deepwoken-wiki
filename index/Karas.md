@@ -1,6 +1,6 @@
 ---
 title: Karas
-revid: 215744
+revid: 224825
 source: https://deepwoken.fandom.com/wiki/Karas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Enemies, Quests]

@@ -1,6 +1,6 @@
 ---
 title: Celadon
-revid: 199928
+revid: 224692
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]

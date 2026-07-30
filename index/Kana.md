@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 218179
+revid: 224823
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, NPCs, Individuals with unspecified pronouns]

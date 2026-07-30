@@ -1,6 +1,6 @@
 ---
 title: DeepcrusherSword
-revid: 181265
+revid: 224542
 source: https://deepwoken.fandom.com/wiki/DeepcrusherSword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Greathammers]

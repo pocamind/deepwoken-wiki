@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 216594
+revid: 224968
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]

@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 200744
+revid: 224651
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]

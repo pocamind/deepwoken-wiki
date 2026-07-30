@@ -1,6 +1,6 @@
 ---
 title: Diver Quartermaster
-revid: 203339
+revid: 224737
 source: https://deepwoken.fandom.com/wiki/Diver_Quartermaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Random Encounters, The Divers]

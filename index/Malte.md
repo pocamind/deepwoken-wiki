@@ -1,6 +1,6 @@
 ---
 title: Malte
-revid: 194433
+revid: 224858
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]

@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 216161
+revid: 225143
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters, Humanoids with Unobtainable Outfits]

@@ -1,6 +1,6 @@
 ---
 title: Ethirifle
-revid: 153134
+revid: 224557
 source: https://deepwoken.fandom.com/wiki/Ethirifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Rifles]

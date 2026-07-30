@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsman Hostage
-revid: 208609
+revid: 224757
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsman_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]

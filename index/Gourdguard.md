@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 220291
+revid: 224574
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]

@@ -1,6 +1,6 @@
 ---
 title: Regarde
-revid: 201831
+revid: 224914
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]

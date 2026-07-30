@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 213333
+revid: 224717
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -215,6 +215,8 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Navigation
 

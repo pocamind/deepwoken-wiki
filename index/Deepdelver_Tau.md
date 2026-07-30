@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Tau
-revid: 195891
+revid: 224728
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Tau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Deepdelvers, Individuals with unspecified pronouns]

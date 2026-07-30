@@ -1,6 +1,6 @@
 ---
 title: Elder Sasha
-revid: 218340
+revid: 224744
 source: https://deepwoken.fandom.com/wiki/Elder_Sasha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]

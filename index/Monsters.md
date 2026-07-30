@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 221704
+revid: 225134
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -103,8 +103,6 @@ Certain Monsters have unique visual effects when attuned.
 **Aratel Island:**
 
 **Miner's Landing:**
-
-**Meteor Isle:**
 
 **The Monkey's Paw:**
 

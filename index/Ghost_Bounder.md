@@ -1,6 +1,6 @@
 ---
 title: Ghost Bounder
-revid: 192040
+revid: 225114
 source: https://deepwoken.fandom.com/wiki/Ghost_Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Layer 2, Floor 1, Monsters]

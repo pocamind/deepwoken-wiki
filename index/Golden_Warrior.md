@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 216069
+revid: 224784
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Enemies, The Golden Rats]

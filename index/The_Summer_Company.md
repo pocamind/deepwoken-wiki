@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 223704
+revid: 224591
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -31,7 +31,7 @@ They frequently come to blows with [Ignition Union](The_Ignition_Union.md), who 
 
 ## Reputation
 
-All [origins](Origins.md) start with neutral [reputation](Reputation.md) with the Summer Company. Upon having negative reputation with the Summer Company, being within the vicinity of Summer Isle will cause a foghorn to blare and have their cannon fire at the player afterwards, dealing heavy damage.
+All [origins](Origins.md) except for [Ignition Delver](Ignition_Delver.md) start with neutral [reputation](Reputation.md) with the Summer Company, while Ignition Delver starts with Enemy. Upon having negative reputation with the Summer Company, being within the vicinity of Summer Isle will cause a foghorn to blare and have their cannon fire at the player afterwards, dealing heavy damage.
 
 [Nepo](Nepo.md), who is located in a bridge behind the castle at Summer Isle, can reset the player's reputation with the Summer Company.
 
@@ -87,7 +87,7 @@ Neutral-Bad Reputation:
 
 [Mag](Mag.md): A Gremor inside the bowels of the Summer Castle who can turn ores into bullet casings, he is implied to be an Ironsinger due to to being the only member who deals with metals.
 
-[Thula](Thula.md): A Celtor dragoon who is stationed at [Songseeker Wilds](Songseeker_Wilds.md) with her group, investigating the nearby mines for entrances into the Boundary.
+[Thula](Thula.md): A Celtor dragoon who is stationed at [Songseeker Wilds](Songseeker_Wilds.md) with her group, investigating the nearby mines for entrances into the [Boundary](The_Boundary.md).
 
 [Ignacio](Ignacio.md): A Canor dragoon who is stationed at Songseeker Wilds with his group, investigating the nearby mines for entrances into the Boundary.
 

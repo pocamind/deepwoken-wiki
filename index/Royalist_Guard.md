@@ -1,6 +1,6 @@
 ---
 title: Royalist Guard
-revid: 216186
+revid: 225075
 source: https://deepwoken.fandom.com/wiki/Royalist_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Etrean Royalists Enemies]

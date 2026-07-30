@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 218137
+revid: 224967
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, Pathfinder Exclusive, NPCs, Vendors]

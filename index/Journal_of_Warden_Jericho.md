@@ -1,6 +1,6 @@
 ---
 title: Journal of Warden Jericho
-revid: 191492
+revid: 224820
 source: https://deepwoken.fandom.com/wiki/Journal_of_Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, NPCs located in the Etrean Luminant]

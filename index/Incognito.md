@@ -1,6 +1,6 @@
 ---
 title: Incognito
-revid: 224002
+revid: 224803
 source: https://deepwoken.fandom.com/wiki/Incognito
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]

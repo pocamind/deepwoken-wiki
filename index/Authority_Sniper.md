@@ -1,6 +1,6 @@
 ---
 title: Authority Sniper
-revid: 220114
+revid: 225014
 source: https://deepwoken.fandom.com/wiki/Authority_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies, Central Authority Enemies, Enemies that can wield Enchantments]

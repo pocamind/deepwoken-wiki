@@ -1,6 +1,6 @@
 ---
 title: Saffron
-revid: 199926
+revid: 224920
 source: https://deepwoken.fandom.com/wiki/Saffron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]

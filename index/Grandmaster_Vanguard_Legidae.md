@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 212984
+revid: 224786
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]

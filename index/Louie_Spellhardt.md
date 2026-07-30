@@ -1,6 +1,6 @@
 ---
 title: Louie Spellhardt
-revid: 201839
+revid: 224850
 source: https://deepwoken.fandom.com/wiki/Louie_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, Vendors, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]

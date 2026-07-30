@@ -1,6 +1,6 @@
 ---
 title: Thundercall Obelisk
-revid: 191668
+revid: 224975
 source: https://deepwoken.fandom.com/wiki/Thundercall_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer]

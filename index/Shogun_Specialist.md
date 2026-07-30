@@ -1,6 +1,6 @@
 ---
 title: Shogun Specialist
-revid: 216183
+revid: 225080
 source: https://deepwoken.fandom.com/wiki/Shogun_Specialist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies, Etrea Enemies]

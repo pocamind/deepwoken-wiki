@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 224217
+revid: 224505
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -159,6 +159,7 @@ During the loading processes, the resources are rendered in so the player can in
 -   While not in a Dungeon, chaining horizontal mobility moves in succession lessens their effectiveness.
 -   Dashing backwards in midair performs a flip that greatly reduces your velocity, letting you recover from knockback.
 -   The depth of water you fish at affects what you'll catch. Some fish are best caught at the shore, and others far out on a boat!
+-   Most fish are either freshwater or saltwater fish - though some are euryhaline, meaning they can be found in either!
 
 ### Oaths
 

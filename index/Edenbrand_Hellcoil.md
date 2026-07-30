@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 214484
+revid: 224552
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons, "Weapons with Multi-Hit Criticals"]

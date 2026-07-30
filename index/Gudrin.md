@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 215910
+revid: 224789
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]

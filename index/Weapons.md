@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 223782
+revid: 224618
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -119,7 +119,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>LHT: 7.5</td>
   <td>-</td>
   <td>-</td>
-  <td>2.2</td>
+  <td>2</td>
   <td>11</td>
   <td>1.3x</td>
   <td>-</td>
@@ -4429,7 +4429,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>LHT: 7.5</td>
   <td>-</td>
   <td>-</td>
-  <td>2.2</td>
+  <td>2</td>
   <td>11</td>
   <td>1.3x</td>
   <td>-</td>
@@ -5452,7 +5452,7 @@ Daggers
   <td>LHT: 7.5</td>
   <td>-</td>
   <td>-</td>
-  <td>2.2</td>
+  <td>2</td>
   <td>11</td>
   <td>1.3x</td>
   <td>-</td>
@@ -13243,7 +13243,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>LHT: 7.5</td>
   <td>-</td>
   <td>-</td>
-  <td>2.2</td>
+  <td>2</td>
   <td>11</td>
   <td>1.3x</td>
   <td>-</td>
@@ -14332,7 +14332,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>LHT: 7.5</td>
   <td>-</td>
   <td>-</td>
-  <td>2.2</td>
+  <td>2</td>
   <td>11</td>
   <td>1.3x</td>
   <td>-</td>
@@ -21985,7 +21985,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>LHT: 7.5</td>
   <td>-</td>
   <td>-</td>
-  <td>2.2</td>
+  <td>2</td>
   <td>11</td>
   <td>1.3x</td>
   <td>-</td>

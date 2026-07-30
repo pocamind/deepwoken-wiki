@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 216148
+revid: 225106
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

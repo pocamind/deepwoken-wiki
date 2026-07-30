@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 215128
+revid: 224535
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons]

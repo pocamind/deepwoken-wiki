@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 209692
+revid: 225173
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive Outfits, Exclusive, Outfits, Developer Spec, Outfits with Talents, "Outfits with Non-exclusive Talents"]

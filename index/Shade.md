@@ -1,6 +1,6 @@
 ---
 title: Shade
-revid: 216166
+revid: 225077
 source: https://deepwoken.fandom.com/wiki/Shade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

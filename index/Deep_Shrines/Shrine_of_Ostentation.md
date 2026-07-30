@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Ostentation
-revid: 191388
+revid: 224722
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Ostentation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, Mechanics]

@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant (Outfit)
-revid: 223330
+revid: 225176
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Vow of Iron Exclusive, Outfits]

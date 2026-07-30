@@ -1,6 +1,6 @@
 ---
 title: Disciple Gobletto
-revid: 212661
+revid: 224735
 source: https://deepwoken.fandom.com/wiki/Disciple_Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]

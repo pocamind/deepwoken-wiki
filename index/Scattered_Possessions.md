@@ -1,6 +1,6 @@
 ---
 title: Scattered Possessions
-revid: 215868
+revid: 224926
 source: https://deepwoken.fandom.com/wiki/Scattered_Possessions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs, Clan Mofisu]

@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 221650
+revid: 224955
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]

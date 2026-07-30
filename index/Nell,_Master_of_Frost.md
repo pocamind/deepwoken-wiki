@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 216115
+revid: 224882
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant]

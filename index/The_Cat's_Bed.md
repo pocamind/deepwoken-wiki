@@ -1,6 +1,6 @@
 ---
 title: "The Cat's Bed"
-revid: 198222
+revid: 224964
 source: https://deepwoken.fandom.com/wiki/The_Cat's_Bed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, NPCs]

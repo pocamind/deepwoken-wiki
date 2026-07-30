@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 224501
+revid: 224919
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Vendors]

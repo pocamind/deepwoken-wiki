@@ -1,6 +1,6 @@
 ---
 title: Sarkale
-revid: 200026
+revid: 224924
 source: https://deepwoken.fandom.com/wiki/Sarkale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]

@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Crawler
-revid: 216681
+revid: 225126
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Crawler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Floor 2, Layer 2, Monsters]

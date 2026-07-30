@@ -1,6 +1,6 @@
 ---
 title: Galebreathe Obelisk
-revid: 209218
+revid: 224778
 source: https://deepwoken.fandom.com/wiki/Galebreathe_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Oath Trainer]

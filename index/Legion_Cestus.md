@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 221375
+revid: 224611
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -20,7 +20,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | swing speed | 1.11x |
 | attack duration | 0.5s |
 | penetration | 5% |
-| talent | Static Beatdown - The metal the cestus is made from allows electricity to be conducted easily through it, allowing you to further extend how long your opponents are stuck in shaky block based on your total Thundercall investment. |
+| talent | Static Beatdown - Landing a Thundercall mantra electrifies the metal in your Cestus for 8 seconds, extending how long your opponents are stuck in shaky block based on your total Thundercall investment. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -31,7 +31,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Diluvian Mechanism, Dread Serpent, Saramaed Hollow, Deep Widow |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, The Diluvian Mechanism, Dread Serpent, Saramaed Hollow, Deep Widow |
 | description | Cestus used by members of the Hundred Legions. |
 
 ## Description
@@ -42,7 +42,7 @@ The **Legion Cestus** is a Light Cestus Weapon that requires 30 LHT to use.
 
 Equipping the Legion Cestus grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Static Beatdown**](Talents.md#static-beatdown) increases the duration of shaky block that you apply, based on your Thundercall investment. Gains +0.004s of shaky block for every 1 attribute point invested into Thundercall. At 100 Thundercall, apply an additional +0.4s of shaky block.
+[**Static Beatdown**](Talents.md#static-beatdown) increases the duration of shaky block that you apply for 8 seconds following a successfully landed Thundercall mantra, based on your Thundercall investment. Gains +0.004s of shaky block for every 1 attribute point invested into Thundercall. At 100 Thundercall, apply an additional +0.4s of shaky block.
 
 ## Critical
 

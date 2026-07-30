@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 195403
+revid: 224828
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]

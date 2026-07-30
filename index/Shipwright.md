@@ -1,6 +1,6 @@
 ---
 title: Shipwright
-revid: 201558
+revid: 224942
 source: https://deepwoken.fandom.com/wiki/Shipwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

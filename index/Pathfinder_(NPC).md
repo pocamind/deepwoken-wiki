@@ -1,6 +1,6 @@
 ---
 title: Pathfinder (NPC)
-revid: 216122
+revid: 225073
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies]

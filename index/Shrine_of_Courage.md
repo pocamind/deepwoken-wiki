@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 210123
+revid: 224943
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer, Mechanics]

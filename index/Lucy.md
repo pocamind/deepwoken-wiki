@@ -1,6 +1,6 @@
 ---
 title: Lucy
-revid: 219972
+revid: 224851
 source: https://deepwoken.fandom.com/wiki/Lucy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]

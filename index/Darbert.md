@@ -1,6 +1,6 @@
 ---
 title: Darbert
-revid: 218291
+revid: 224714
 source: https://deepwoken.fandom.com/wiki/Darbert
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

@@ -1,6 +1,6 @@
 ---
 title: Valikor (Vow of Iron)
-revid: 215687
+revid: 224988
 source: https://deepwoken.fandom.com/wiki/Valikor_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs]

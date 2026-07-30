@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 190467
+revid: 224590
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -23,19 +23,19 @@ categories: [Items, Relics]
 
 ## Description
 
-The Pluripotent Alloy is a utility item in Deepwoken that can be used to transform certain early and midgame weapons into their endgame variants.
+The **Pluripotent Alloy** is a utility item in Deepwoken that can be used to transform certain early and midgame weapons into (usually) endgame-viable variants.
 
 ## Obtainment
 
-**Pluripotent Alloys** can primarily be obtained from most [Bosses](Bosses.md). Killing the first boss on any character is guaranteed to reward a **Pluripotent Alloy**. Afterwards, bosses have a 25% chance of dropping it. There is a pity system, where not obtaining a Pluripotent Alloy after 3 boss kill guarantees a drop on the 4th kill.
+Pluripotent Alloys can primarily be obtained from most [Bosses](Bosses.md). Killing the first boss on any character is guaranteed to reward a Pluripotent Alloy. Afterwards, bosses have a 25% chance of dropping it. There is a pity system, where not obtaining a Pluripotent Alloy after 3 boss kill guarantees a drop on the 4th kill.
 
-**Pluripotent Alloys** can also be found in chests in the [Saramaed Hollow](Saramaed_Hollow.md).
+Pluripotent Alloys can also be found in chests in the [Saramaed Hollow](Saramaed_Hollow.md).
 
 ## Usage
 
 ### Alloying a Weapon
 
-Using a Pluripotent Alloy while wielding an Alloyable weapon will consume the Alloy to transform the weapon into an endgame variant of itself with higher stats and requirements. To perform this, you must be at least [Power](Power.md) 10 and you need to meet the weapon requirement of the respective weapon's alloyed variant, which is usually 75 investment.
+Using a Pluripotent Alloy while wielding an Alloyable weapon will consume the Alloy to transform the weapon into an endgame variant of itself with higher stats and requirements. To perform this, you must be at least [Power](Power.md) 10 and you need to meet the weapon requirement of the respective weapon's alloyed variant, which is usually 75 investment. Alloyed weapons will retain the enchant and the quality stars of the original weapon.
 
 The list of alloyable weapons can be found here.
 
@@ -54,7 +54,5 @@ If you have obtained this Attunement previously, this part can be skipped, as th
 
 ## Trivia
 
--   Alloyed weapons will retain the enchant and the quality stars of the original weapon.
 -   The alloy itself cannot be dropped or lost on death, but the weapons can.
--   You do not lose the alloy when doing the Ironsing quest.
--   You can only hold 15 alloys at one time. If you pick up anymore, they will be deleted.
+-   The texture applied to weapons upon alloying them resembles [damascus steel](https://en.wikipedia.org/wiki/Damascus_steel), a legendary type of steel known for its strength.

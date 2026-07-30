@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 221085
+revid: 225155
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]

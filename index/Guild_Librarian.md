@@ -1,6 +1,6 @@
 ---
 title: Guild Librarian
-revid: 221864
+revid: 224790
 source: https://deepwoken.fandom.com/wiki/Guild_Librarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]

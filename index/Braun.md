@@ -1,6 +1,6 @@
 ---
 title: Braun
-revid: 212657
+revid: 224677
 source: https://deepwoken.fandom.com/wiki/Braun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]

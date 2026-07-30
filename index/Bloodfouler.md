@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 222854
+revid: 224509
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, Heavy Weapons, Weapons of The Ministry]

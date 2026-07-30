@@ -1,6 +1,6 @@
 ---
 title: Mod Hoodie
-revid: 200141
+revid: 225169
 source: https://deepwoken.fandom.com/wiki/Mod_Hoodie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Exclusive Outfits]

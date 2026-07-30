@@ -1,6 +1,6 @@
 ---
 title: Graha
-revid: 215912
+revid: 224785
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]

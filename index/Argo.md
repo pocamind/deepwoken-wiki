@@ -1,6 +1,6 @@
 ---
 title: Argo
-revid: 192358
+revid: 224654
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Fishing, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

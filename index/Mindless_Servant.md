@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 216043
+revid: 225063
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies]

@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 216112
+revid: 225061
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, The Divers]

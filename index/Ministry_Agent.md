@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 216146
+revid: 224872
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Enemies, Ministry Enemies]

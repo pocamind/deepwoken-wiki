@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 216162
+revid: 225027
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]

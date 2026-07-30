@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 216346
+revid: 224765
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]

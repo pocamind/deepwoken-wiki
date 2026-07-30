@@ -1,6 +1,6 @@
 ---
 title: Chef Buongustino
-revid: 219926
+revid: 224697
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Vendors, Quests]

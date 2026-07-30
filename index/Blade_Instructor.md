@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 216090
+revid: 225021
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea Enemies]

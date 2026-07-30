@@ -1,6 +1,6 @@
 ---
 title: Falei
-revid: 219991
+revid: 224766
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]

@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 216103
+revid: 224673
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]

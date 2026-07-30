@@ -1,6 +1,6 @@
 ---
 title: Treasurer
-revid: 220051
+revid: 224983
 source: https://deepwoken.fandom.com/wiki/Treasurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]

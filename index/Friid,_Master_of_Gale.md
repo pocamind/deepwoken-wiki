@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 216114
+revid: 224773
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]

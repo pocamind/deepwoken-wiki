@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 220887
+revid: 225190
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits, Prophets of The Ministry]
@@ -391,7 +391,7 @@ Jump
 -   The boss fight was designed by developer par.[\[1\]](#cite-note-1)
 -   Zi'eer has unique dialogue with the Inheritor within the Etris Palace dependent on how many times they've talked to them. This can be achieved by leaving The Throne of Lies while not combat tagged (such as in the cutscene), leaving the game while loading, or simply being unable to connect to the Instanced fight.
     -   This seems to indicate that, at some point during development, fighting Zi'eer did not wipe the player's slot, whether or not you lost or won. It remains unclear why this was scrapped, though the dialogue remains in-game regardless.
--   Zi'eer is the only boss fight in the Vow of Iron storyline that doesn't allow you to revive, unlike [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md) & [True Heart of Enmity](True_Heart_of_Enmity.md).
+-   Zi'eer is the only boss fight in the Vow of Iron storyline that doesn't allow you to revive, unlike the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md) & [True Heart of Enmity](True_Heart_of_Enmity.md).
 
 ## References
 

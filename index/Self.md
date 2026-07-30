@@ -1,6 +1,6 @@
 ---
 title: Self
-revid: 204010
+revid: 224930
 source: https://deepwoken.fandom.com/wiki/Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs]

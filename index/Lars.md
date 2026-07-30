@@ -1,6 +1,6 @@
 ---
 title: Lars
-revid: 220889
+revid: 224843
 source: https://deepwoken.fandom.com/wiki/Lars
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant, Deceased characters]

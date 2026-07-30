@@ -1,6 +1,6 @@
 ---
 title: Roa
-revid: 224183
+revid: 224917
 source: https://deepwoken.fandom.com/wiki/Roa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

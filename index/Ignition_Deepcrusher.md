@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 221323
+revid: 224592
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, Medium Weapons, Weapons of The Ignition Union]
@@ -31,7 +31,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, Swo
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Saramaed Hollow, The Diluvian Mechanism, Weird Trader |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Saramaed Hollow, The Diluvian Mechanism, Weird Trader |
 | description | ... |
 
 ## Description

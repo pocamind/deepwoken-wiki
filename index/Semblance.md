@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 221806
+revid: 225076
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

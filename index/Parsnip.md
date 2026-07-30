@@ -1,6 +1,6 @@
 ---
 title: Parsnip
-revid: 221867
+revid: 224894
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]

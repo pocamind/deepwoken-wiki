@@ -1,6 +1,6 @@
 ---
 title: Bellmarrow Reave
-revid: 217969
+revid: 224507
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]

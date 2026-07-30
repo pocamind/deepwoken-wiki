@@ -1,6 +1,6 @@
 ---
 title: Joanna
-revid: 220141
+revid: 224816
 source: https://deepwoken.fandom.com/wiki/Joanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 216059
+revid: 225070
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]

@@ -1,6 +1,6 @@
 ---
 title: "Dapple-Horned Besul"
-revid: 203957
+revid: 224713
 source: https://deepwoken.fandom.com/wiki/Dapple-Horned_Besul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs, The Children of Navae]

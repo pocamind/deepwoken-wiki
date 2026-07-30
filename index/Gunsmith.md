@@ -1,6 +1,6 @@
 ---
 title: Gunsmith
-revid: 192390
+revid: 224791
 source: https://deepwoken.fandom.com/wiki/Gunsmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]

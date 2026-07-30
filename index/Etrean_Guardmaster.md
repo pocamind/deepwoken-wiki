@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardmaster
-revid: 196011
+revid: 224756
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea, Individuals with unspecified pronouns]

@@ -1,6 +1,6 @@
 ---
 title: "Frank F'alzone"
-revid: 192489
+revid: 224771
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Individuals with unspecified pronouns, Members of the Rotten Lot]

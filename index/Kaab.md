@@ -1,6 +1,6 @@
 ---
 title: Kaab
-revid: 201887
+revid: 224821
 source: https://deepwoken.fandom.com/wiki/Kaab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]

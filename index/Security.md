@@ -1,6 +1,6 @@
 ---
 title: Security
-revid: 199296
+revid: 224928
 source: https://deepwoken.fandom.com/wiki/Security
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, "Non-canon articles", Event Only Content, NPCs, Individuals with unspecified pronouns]

@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 223192
+revid: 225099
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters]

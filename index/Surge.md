@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 192239
+revid: 224957
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Oath Trainer]

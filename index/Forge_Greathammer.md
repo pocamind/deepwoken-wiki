@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 221317
+revid: 224567
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Saramaed Hollow, Deep Widow, Chime of Conflict, BountiesAlloyed:, Alloying a Forge Greathammer |
+| obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Saramaed Hollow, Deep Widow, Chime of Conflict, BountiesAlloyed:, Alloying a Forge Greathammer |
 | description | It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill. |
 
 ## Description

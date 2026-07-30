@@ -1,6 +1,6 @@
 ---
 title: Iris
-revid: 215881
+revid: 224806
 source: https://deepwoken.fandom.com/wiki/Iris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, Quests]

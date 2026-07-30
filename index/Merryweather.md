@@ -1,6 +1,6 @@
 ---
 title: Merryweather
-revid: 195986
+revid: 224867
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]

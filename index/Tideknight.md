@@ -1,6 +1,6 @@
 ---
 title: Tideknight
-revid: 201345
+revid: 225094
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Celtor Enemies]

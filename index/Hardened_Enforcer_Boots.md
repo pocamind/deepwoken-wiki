@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Boots
-revid: 224155
+revid: 224585
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -50,7 +50,7 @@ Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull
 
 ## Trivia
 
--   Despite both Talents giving the respective ability the flourish tag, Offhand shots with [Exexution](Talents.md#exexution) do not proc Enforcer's Technique, but [Master's Flourish](Attunement-less.md#masters-flourish) with [Sweeping Edge](Talents.md#sweeping-edge) does.
+-   Despite both Talents giving the respective ability the flourish tag, Offhand shots with [Exeсution](Talents.md#exeution) do not proc Enforcer's Technique, but [Master's Flourish](Attunement-less.md#masters-flourish) with [Sweeping Edge](Talents.md#sweeping-edge) does.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 216724
+revid: 224775
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, Quests, NPCs located in the Second Floor of the Second Layer]

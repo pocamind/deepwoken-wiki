@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 216067
+revid: 224963
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs]

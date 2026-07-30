@@ -1,6 +1,6 @@
 ---
 title: Authority Captain (Test)
-revid: 216182
+revid: 225008
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, Central Authority Enemies, Enemies]

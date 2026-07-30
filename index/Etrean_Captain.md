@@ -1,6 +1,6 @@
 ---
 title: Etrean Captain
-revid: 216205
+revid: 225035
 source: https://deepwoken.fandom.com/wiki/Etrean_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]

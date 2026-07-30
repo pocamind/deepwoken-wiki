@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 213961
+revid: 224506
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Greatswords, Heavy Weapons, Echo Unlockables]

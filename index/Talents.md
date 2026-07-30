@@ -1,9 +1,11 @@
 ---
 title: Talents
-revid: 224498
+revid: 225199
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Outfits, Skills, Talents]
+categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
+notices:
+  - This page is currently being worked on. This page is currently undergoing changes. Please be patient.
 ---
 
 # Talents
@@ -18,15 +20,13 @@ categories: [Mechanics, Outfits, Skills, Talents]
     -   _(i.e "40 Agility" to find Talents that require 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
--   Each Talent has a list of tags listed after the Talent's name. These tags list the Talent's rarity and the name of the individual attribute(s) required to obtain it.
-    -   Talents with additional attribute requirements have their tags separated by commas. _(i.e Strength, Agility)_
-    -   Talents with alternative attribute requirements have "//" in their tags, separating the attributes. _(i.e Strength // Agility)_
+-   Each Talent has a list of tags listed under a Talents name on PC, or at the bottom of the additional info section on mobile. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it., and any additional stat the Talent may provide These tags are bracketed, i.e. "\[Strength\]", to allow for easier searching with \[CTRL + F\], or mobile's alternative. See above.
 -   Talent requirements display additional and alternative requirements of the Talents.
     -   Additional requirements on Talents are separated with commas.
         -   _(i.e Suffocating Impact requires 15 Strength and 35 Galebreathe, written as "15 Strength, 35 Galebreathe")_
     -   Alternative requirements on Talents are displayed as "OR" or "//".
         -   "//" is used if there is an alternative individual requirement.
-            -   _(i.e Hell's Partisan requires 35 Flamecharm and \[[Fire Forge](Flamecharm.md#fire-forge) or Warding Radiance\], written as "35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // Warding Radiance)_
+            -   _(i.e Hell's Partisan requires 35 Flamecharm and \[the Fire Forge Mantra or the Warding Radiance Talent\], written as "35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance))_
         -   "OR" is used if there is an alternative group of requirements.
             -   _(i.e Murmur: Tacet can be obtained by doing its [obtainment quest](Cestis.md) OR by obtaining [Oath: Soulbreaker](Oath%253A_Soulbreaker.md))_
 
@@ -112,47 +112,217 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ## Talents
 
-### Absolute Focus
+### 
 
--   Against All Odds \[Common Talent, Willpower\] - For each combat tag you have on your character, increase your damage by 2% (max of 14%).
+Absolute Focus
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Against All Odds</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><br>
+  <small>[Willpower]</small></center><center>For each combat tag you have on your character, increase your damage by 2% (max of 14%).</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Works in PvE combat, with each mob counting as an individual combat tag.</li>
+  </ul>
+  <ul>
+    <li>Prerequisites: 65 Willpower<br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Against All Odds** - For each combat tag you have on your character, increase your damage by 2% (max of 14%).
+    
     -   Works in PvE combat, with each mob counting as an individual combat tag.
-    -   Prerequisite: 65 Willpower
+    -   Prerequisites: 65 Willpower  
+        
+    -   Tags: \[Common Talent\] \[Willpower\]
 
--   Emergency Reserves \[Common Talent, Willpower\] - When you get hit below 20% health, gain 20% tempo immediately.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Emergency Reserves</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><br>
+  <small>[Willpower]</small></center><center>When you get hit below 20% health, gain 20% tempo immediately.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>3 minute cooldown.</li>
+    <li>While under the health threshold, every time you get hit, this Talent will proc. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.</li>
+  </ul>
+  <ul>
+    <li>Prerequisites: 80 Willpower<br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Emergency Reserves** - When you get hit below 20% health, gain 20% tempo immediately.
+    
     -   3 minute cooldown.
-    -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
-    -   Prerequisite: 80 Willpower
+    -   While under the health threshold, every time you get hit, this Talent will proc. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.
+    -   Prerequisites: 80 Willpower  
+        
+    -   Tags: \[Common Talent\] \[Willpower\]
 
--   Unswayed \[Common Talent, Willpower\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
-    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Unswayed</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><br>
+  <small>[Willpower] [+Sanity]</small></center><center>The effects of Taunt and Encore no longer work on you.</center><br>
+  <center><small>+20 Sanity</small></center><br>
+  </td>
+  <td>
+  <ul>
+    <li>The <a href="Attunement-less.md#taunt">Taunt</a> Mantra, and the "<a href="#cornered-fool">Cornered Fool</a>" Talent can no longer inflict "<a href="Status_Effects.md#taunt">Taunt</a>" on the user.</li>
+    <li>The <a href="Attunement-less.md#sing">Sing</a> Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
+  <ul>
+    <li>Sing can still apply <kbd><abbr><a href="Status_Effects.md#charmed">Charm</a></abbr></kbd> or <a href="Status_Effects.md#overcharm">Overcharm</a> to the user.</li>
+  </ul></li>
+  </ul>
+  <ul>
+    <li>Prerequisites: 75 Willpower<br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Unswayed** - The effects of Taunt and Encore no longer work on you.
+    
+    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
     -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
-        -   Sing can still apply Charm/Overcharm to the user.
-    -   Prerequisite: 75 Willpower
+        -   Sing can still apply [Charm](Status_Effects.md#charmed) or [Overcharm](Status_Effects.md#overcharm) to the user.  
+            
+        
+        -   Grants +20 Sanity
+    -   Prerequisites: 75 Willpower  
+        
+    -   Tags: \[Common Talent\] \[Willpower\] \[+Sanity\]
 
-### Acrobat
+### 
 
--   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
-    -   Causes _**all**_ falls to be considered "shorter" by 10 studs, also reducing larger falls.
-    -   Increases climb distance by ~15% when off cooldown.
-    -   Slide jumping now also slightly increases climb distance.
-    -   Has a cooldown of 3 seconds.
-    -   Prerequisites: 20 Agility
-    -   The [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Delver's Duster](<Delver's_Duster.md>), [Sandrunner Wraps](Sandrunner_Wraps.md), and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>) equipment items have this Talent.
+Acrobat
 
--   Steady Footing \[Common Talent, Strength, Agility\] - You're much more resistant to being pushed around. (+5 Carry Load, +2 Passive Agility)
-    -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
+<table>
+<tbody>
+<tr>
+  <td><center><b>Kick Off</b></center><div>TalentIconBoots</div><center><small>[Common Talent]</small><br>
+  <small>[Agility] [+Passive Agility]</small></center><center>You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall.</center><br>
+  <center><small>+6 Passive Agility</small></center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Causes <b>all</b> falls to be considered 10 studs "shorter" by 10 studs, reducing the damage taken from larger falls and negating smaller falls.</li>
+    <li>Increases climb distance by ~15% when off cooldown. Has a cooldown of 3 seconds.</li>
+    <li>Slide jumping now also slightly increases climb distance.</li>
+  </ul>
+  <ul>
+    <li>Prerequisites: 20 Agility<br>
+  </li>
+    <li>The following <a href="Equipment.md">Equipment</a> and <a href="Outfits.md">Outfit</a> items grant this Talent when equipped: <a href="Bounty_Hunter's_Garb.md">Bounty Hunter's Garb</a>, <a href="Delver's_Duster.md">Delver's Duster</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, and <a href="Abyss_Wanderer's_Plate.md">Abyss Wanderer's Plate</a><br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Kick Off** - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall.
+    
+    -   Causes **all** falls to be considered 10 studs "shorter" by 10 studs, reducing the damage taken from larger falls and negating smaller falls.
+    -   Increases climb distance by ~15% when off cooldown. Has a cooldown of 3 seconds.
+    -   Slide jumping now also slightly increases climb distance.  
+        
+    
+    -   Grants +6 Passive Agility
+    -   Prerequisites: 20 Agility  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Delver's Duster](<Delver's_Duster.md>), [Sandrunner Wraps](Sandrunner_Wraps.md), and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
+        
+    -   Tags: \[Common Talent\] \[Agility\] \[+Passive Agility\]
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Steady Footing</b></center><div>TalentIconBoots</div><center><small>[Common Talent]</small><br>
+  <small>[Strength] [Agility] [+Carry Load] [+Passive Agility]</small></center><center>You're much more resistant to being pushed around.</center><br>
+  <center><small>+5 Carry Load, +2 Passive Agility</small></center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Reduces knockback to the user by 20%. (stacks with other sources of knockback resistance, including Anchor <a href="Equipment.md">Pips</a>)
+  <ul>
+    <li>This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be <b>not recommended</b> outside PvE.</li>
+  </ul></li>
+    <li>Removes ice's bonus slide distance, but <b>does not</b> affect the lowered friction when moving on ice.
+  <ul>
+    <li>This is a considerable downside to <a href="Frostdraw.md">Frostdraw</a> users, as there is no upside to this effect, it is <b>not recommended</b>.</li>
+  </ul></li>
+  </ul>
+  <ul>
+    <li>Prerequisites: 10 Agility, 10 Strength<br>
+  </li>
+    <li>The following <a href="Equipment.md">Equipment</a> and <a href="Outfits.md">Outfit</a> items grant this Talent when equipped: <a href="Fur_Parka.md">Fur Parka</a><br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Steady Footing** - You're much more resistant to being pushed around.
+    
+    -   Reduces knockback to the user by 20%. (stacks with other sources of knockback resistance, including Anchor [Pips](Equipment.md))
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
-        -   This is a considerable downside to Frostdraw users, as there is no upside to this effect, it is **not recommended**.
-    -   Prerequisites: 10 Agility, 10 Strength
-    -   The [Fur Parka](Fur_Parka.md) equipment has this Talent.
+        -   This is a considerable downside to [Frostdraw](Frostdraw.md) users, as there is no upside to this effect, it is **not recommended**.  
+            
+        
+        -   Grants +5 Carry Load, +2 Passive Agility
+    -   Prerequisites: 10 Agility, 10 Strength  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Fur Parka](Fur_Parka.md)  
+        
+    -   Tags: \[Common Talent\] \[Strength\] \[Agility\] \[+Carry Load\] \[+Passive Agility\]
 
--   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
+<table>
+<tbody>
+<tr>
+  <td><center><b>Time To Go</b></center><div>TalentIconBoots</div><center><small>[Common Talent]</small><br>
+  <small>[Agility] [+Passive Agility]</small></center><center>Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.</center><br>
+  <center><small>+1 Passive Agility</small></center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Provides a 25% speed boost, doubling to 50% when killing a player.
+  <ul>
+    <li>Procs all speed boost related talents. (ex. <a href="#speed-demon">Speed Demon</a>)</li>
+  </ul></li>
+    <li>Duration is visually represented by a red glow by the user's eyes.</li>
+    <li>Can stack, allowing the user to build tremendous speed by executing multiple targets at once.</li>
+  </ul>
+  <ul>
+    <li>Prerequisites: 5 Agility<br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Time To Go** - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.
+    
     -   Provides a 25% speed boost, doubling to 50% when killing a player.
-        -   Procs all speed boost related talents. (ex. Speed Demon)
+        -   Procs all speed boost related talents. (ex. [Speed Demon](#speed-demon))
     -   Duration is visually represented by a red glow by the user's eyes.
-    -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.
-    -   Prerequisite: 5 Agility
+    -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.  
+        
+    
+    -   Grants +1 Passive Agility
+    -   Prerequisites: 5 Agility  
+        
+    -   Tags: \[Common Talent\] \[Agility\] \[+Passive Agility\]
 
 ### Adaptive Arsenal
 

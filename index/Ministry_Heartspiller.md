@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 219648
+revid: 225068
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]

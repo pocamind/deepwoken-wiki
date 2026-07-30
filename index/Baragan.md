@@ -1,6 +1,6 @@
 ---
 title: Baragan
-revid: 201838
+revid: 224668
 source: https://deepwoken.fandom.com/wiki/Baragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Humanoids with Unobtainable Outfits]

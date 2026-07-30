@@ -1,6 +1,6 @@
 ---
 title: Baby Spider
-revid: 152836
+revid: 225100
 source: https://deepwoken.fandom.com/wiki/Baby_Spider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]

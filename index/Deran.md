@@ -1,6 +1,6 @@
 ---
 title: Deran
-revid: 223952
+revid: 224732
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]

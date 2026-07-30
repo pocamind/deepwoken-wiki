@@ -1,6 +1,6 @@
 ---
 title: Asius
-revid: 194346
+revid: 224659
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]

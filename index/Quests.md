@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 223717
+revid: 224906
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]

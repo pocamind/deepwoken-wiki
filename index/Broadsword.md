@@ -1,6 +1,6 @@
 ---
 title: Broadsword
-revid: 200988
+revid: 224511
 source: https://deepwoken.fandom.com/wiki/Broadsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]

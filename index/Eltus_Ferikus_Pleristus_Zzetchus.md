@@ -1,6 +1,6 @@
 ---
 title: Eltus Ferikus Pleristus Zzetchus
-revid: 191413
+revid: 224745
 source: https://deepwoken.fandom.com/wiki/Eltus_Ferikus_Pleristus_Zzetchus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]

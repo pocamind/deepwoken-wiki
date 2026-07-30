@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 218049
+revid: 225013
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]

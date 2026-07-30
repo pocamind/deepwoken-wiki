@@ -1,6 +1,6 @@
 ---
 title: Soren
-revid: 209693
+revid: 225175
 source: https://deepwoken.fandom.com/wiki/Soren
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive Outfits, Exclusive, Outfits, Developer Spec, Outfits with Talents, Outfits with Exclusive Talents]

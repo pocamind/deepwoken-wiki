@@ -1,6 +1,6 @@
 ---
 title: Emil
-revid: 220002
+revid: 224748
 source: https://deepwoken.fandom.com/wiki/Emil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests, Individuals with unspecified pronouns]

@@ -1,6 +1,6 @@
 ---
 title: Clint
-revid: 223719
+revid: 224706
 source: https://deepwoken.fandom.com/wiki/Clint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]

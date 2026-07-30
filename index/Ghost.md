@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 221665
+revid: 225041
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies]

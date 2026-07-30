@@ -1,6 +1,6 @@
 ---
 title: Eiris
-revid: 191411
+revid: 224743
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Random Encounters, The Knives of Eylis]

@@ -1,6 +1,6 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 221619
+revid: 224639
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Floor of the Second Layer]

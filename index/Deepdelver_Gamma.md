@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 195807
+revid: 224726
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Deepdelvers]

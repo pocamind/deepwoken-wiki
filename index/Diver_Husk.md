@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 219492
+revid: 225030
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Layer 2]

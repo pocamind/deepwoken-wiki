@@ -1,6 +1,6 @@
 ---
 title: Arnon
-revid: 220143
+revid: 224656
 source: https://deepwoken.fandom.com/wiki/Arnon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

@@ -1,6 +1,6 @@
 ---
 title: "C'lantaa"
-revid: 218182
+revid: 224679
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, Cut Content, NPCs]

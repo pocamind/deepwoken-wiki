@@ -1,6 +1,6 @@
 ---
 title: Sherman
-revid: 218296
+revid: 224941
 source: https://deepwoken.fandom.com/wiki/Sherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

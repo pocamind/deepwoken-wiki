@@ -1,6 +1,6 @@
 ---
 title: Ms Stick
-revid: 220544
+revid: 224877
 source: https://deepwoken.fandom.com/wiki/Ms_Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]

@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 209696
+revid: 225166
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, The Hive, Outfits with Talents, "Outfits with Non-exclusive Talents"]

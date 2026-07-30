@@ -1,6 +1,6 @@
 ---
 title: "Well-tended Gravestone"
-revid: 215676
+revid: 224999
 source: https://deepwoken.fandom.com/wiki/Well-tended_Gravestone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
