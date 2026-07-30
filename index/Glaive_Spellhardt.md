@@ -1,9 +1,9 @@
 ---
 title: Glaive Spellhardt
-revid: 200618
+revid: 224369
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
 ---
 
 # Glaive Spellhardt

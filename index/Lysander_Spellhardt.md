@@ -1,9 +1,9 @@
 ---
 title: Lysander Spellhardt
-revid: 202390
+revid: 224372
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
 ---
 
 # Lysander Spellhardt
@@ -267,10 +267,9 @@ When you complete his quest, he will say this.
 
 ## Trivia
 
--   Glaive says the same dialogue when you succeed in buying anything.
 -   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md), though the latter was replaced with buying a random [Relic](Relics.md).
-    -   Buying a random [Relic](Relics.md) used to cost 30 [Joy](Joy.md), and had both Rain and Void spire relics in its lootpool.
--   [Mantle of Enmity](Mantle_of_Enmity.md), [Fauld of Enmity](Fauld_of_Enmity.md) and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.
+-   Buying a random [Relic](Relics.md) used to cost 30 [Joy](Joy.md).
+-   [Mantle of Enmity](Mantle_of_Enmity.md), [Fauld of Enmity](Fauld_of_Enmity.md) and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander through the random Relic selection.
 -   According to [Mikhail Spellhardt](Mikhail_Spellhardt.md), Lysander is as old, if not older, than [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), despite one looking much older than the other. Also according to Mikhail, this is because a [Lightborn](Lightborn.md)'s appearance reflects their feelings, which is why Galpin is so old as he reminisces about their homeland a lot.[\[3\]](#cite-note-3)
 
 ## References

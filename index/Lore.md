@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 217829
+revid: 224338
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, World of Deepwoken, OutdatedPages, SpoilerPages]
@@ -2001,10 +2001,10 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### Tempest Eye
 
--   A technique that allows Evengarde Rest to be on par with Pleeksty.[\[1\]](#cite-note-rag-1)
+-   A artifact that allows Evengarde Rest to be on par with Pleeksty, not to be confused with the technique of the same name.[\[1\]](#cite-note-rag-1)
 -   Requires conditions to be met for usage.[\[1\]](#cite-note-rag-1)
 -   Exists in the games files.
--   Used on the player character if they spit on Evengarde, cleaving their head off with no way to counter or evade it.
+-   A technique of the same name is used on the player character if they spit on Evengarde, cleaving their head off with no way to dodge or counter it.
 
 ### Animals
 

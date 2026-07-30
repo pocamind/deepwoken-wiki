@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 224225
+revid: 224364
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -197,38 +197,79 @@ There are currently three Talents related to fishing, each automatically obtaine
 <table>
 <tbody>
 <tr>
-  <td><b>Media</b></td>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td></td>
-  <td>Proficient Baiting</td>
-  <td>10 Bites<br>
-  <small>(Given automatically)</small></td>
-  <td>Casting your line excites ocean life, reducing the chances of fishing up trash.</td>
-  <td>Drastically increases the chances of catching fish instead of junk items. This inadvertently reduces the chances of fishing up chests however, due to fish being more common.</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Hook, Line, and Sinker</td>
-  <td>30 Bites<br>
-  <small>(Given automatically)</small></td>
-  <td>Once something's caught your line, it's much harder for it to get loose.</td>
-  <td>Increases the amount of time provided to complete the fishing minigame.</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Fisher's Lure</td>
-  <td>50 Bites<br>
-  <small>(Given automatically)</small></td>
-  <td>Fish are drawn to your line more quickly.</td>
-  <td>Reduces the amount of time it takes to get a bite.</td>
+  <td><center><b>Proficient Baiting</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><br>
+  <small></small></center><center>Casting your line excites ocea life, reducing the chances of fishing up trash.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Drastically increases the chances of catching fish instead of junk items.</li>
+    <li>This inadvertently reduces the chances of fishing up chests however, due to fish being more common.</li>
+  </ul>
+  <ul>
+    <li>Prerequisites: Get 10 Bites in fishing (given automatically)<br>
+  </li>
+  </ul></td>
 </tr>
 </tbody>
 </table>
+
+-   **Proficient Baiting** - Casting your line excites ocea life, reducing the chances of fishing up trash.
+    
+    -   Drastically increases the chances of catching fish instead of junk items.
+    -   This inadvertently reduces the chances of fishing up chests however, due to fish being more common.
+    -   Prerequisites: Get 10 Bites in fishing (given automatically)  
+        
+    -   Tags: \[Quest Talent\]
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Hook, Line, and Sinker</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><br>
+  <small></small></center><center>Once something's caught your line, it's much harder for it to get loose.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Increases the amount of time provided to complete the fishing minigame.</li>
+  </ul>
+  <ul>
+    <li>Prerequisites: Get 30 Bites in fishing (given automatically)<br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Hook, Line, and Sinker** - Once something's caught your line, it's much harder for it to get loose.
+    
+    -   Increases the amount of time provided to complete the fishing minigame.
+    -   Prerequisites: Get 30 Bites in fishing (given automatically)  
+        
+    -   Tags: \[Quest Talent\]
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Fisher's Lure</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><br>
+  <small></small></center><center>Fish are drawn to your line more quickly.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Reduces the amount of time it takes to get a bite.</li>
+  </ul>
+  <ul>
+    <li>Prerequisites: Get 50 Bites in fishing (given automatically)<br>
+  </li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Fisher's Lure** - Fish are drawn to your line more quickly.
+    
+    -   Reduces the amount of time it takes to get a bite.
+    -   Prerequisites: Get 50 Bites in fishing (given automatically)  
+        
+    -   Tags: \[Quest Talent\]
 
 ## Gallery
 

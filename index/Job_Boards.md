@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 224287
+revid: 224318
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests, Mechanics]
@@ -14,7 +14,7 @@ categories: [Quests, Mechanics]
 
 The core of a Job usually involves traveling to a designated area and fulfilling a specific objective. These objectives can range from transporting goods to eliminating enemy patrols. When interacting with a Job, M2 will present two options: "Abandon Objective" to abandon the quest, or "View on Map" to display the Job's location on the players map.
 
-Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs From: their ruling faction. However, Job Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) provide Jobs From: any faction that can generate in that area. Players with the [Ignition Delver](Ignition_Delver.md) origin can utilize the [Union Pager](Ignition_Delver.md) tool to accept jobs remotely.
+Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs From: their ruling faction. However, Job Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) provide Jobs from any faction that can generate in that area. Players with the [Ignition Delver](Ignition_Delver.md) origin can utilize the [Union Pager](Ignition_Delver.md) tool to accept jobs remotely.
 
 **Pathfinder:**
 
@@ -33,12 +33,13 @@ _Jobs relating to [Erisia](Erisia.md) can be given by [Etrea](Etrea.md) [Etreaic
     -   Note: Killing them will reduce your [Central Authority](The_Central_Authority.md) [reputation](Reputation.md).
     -   Rewards: A chest of the [Erisia](Erisia.md) [loot pool](Loot_Tables.md#erisia), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
--   **Black Feathers**
+-   (From: [Etreaiconfaction](Etrea.md) ) **Black Feathers** : _"A dangerous entity lurks at the boundaries of perception. Extreme caution is urged."_
     -   Tasks the player with slaying a [Deep Owl](Deep_Owl.md).
     -   Rewards: A chest of the [Erisia](Erisia.md) [loot pool](Loot_Tables.md#erisia), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 -   (From: [Authorityiconfaction](The_Central_Authority.md) ) [Authorityiconfaction](The_Central_Authority.md) **Clash Of Empires** : _"Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this."_
     -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).
+    -   Rewards: A chest of the **TBA** [loot pool](Loot_Tables.md), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 -   (From: [Etreaiconfaction](Etrea.md) ) **Forge Recall** : _"In order to prevent one of the Duke's creations from reporting back to him, a reward is being offered for its destruction."_
     -   Tasks the player with slaying a [Stonespark](Stonespark.md).
@@ -50,6 +51,7 @@ _Jobs relating to [Erisia](Erisia.md) can be given by [Etrea](Etrea.md) [Etreaic
 
 -   (From: [Etreaiconfaction](Etrea.md) [Authorityiconfaction](The_Central_Authority.md) ) [Etreaiconfaction](Etrea.md) [Authorityiconfaction](The_Central_Authority.md) **The Eastern Conflict** : _"The Authority have mounted an assault but have been ambushed by a contingent of Etrean soldiers. Lend your blade."_
     -   Tasks the player with defeating two enemy soldiers, either two [Authority Officers](Authority_Officer.md) or two [Etrean Soldiers](Etrean_Soldier.md).
+    -   Rewards: A chest of the **TBA** [loot pool](Loot_Tables.md), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 ## Eastern Luminant
 
@@ -68,6 +70,7 @@ _Jobs relating to [Aratel Island](Aratel_Island.md) can be given by [The Central
 
 -   (From: [Authorityiconfaction](The_Central_Authority.md) ) [Authorityiconfaction](The_Central_Authority.md) **Clash Of Empires** : _"Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this."_
     -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).
+    -   Rewards: A chest of the **TBA** [loot pool](Loot_Tables.md), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 -   (From: [Authorityiconfaction](The_Central_Authority.md) ) **Lodestar Bounty** : _"A blindfolded nomad wielding a bow has been causing a surprising amount of trouble, despite not seeming to know where they are."_
     -   Previously: _"A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness."_
@@ -150,6 +153,7 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Divers
 
 -   (From: ) **Drowned Delver**
     -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).
+    -   Rewards: A chest of the **TBA** [loot pool](Loot_Tables.md), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 -   (From: [Diversiconfaction](The_Divers.md) ) **Gigamed Extermination**
     -   Tasks the player with slaying a pack of three [Gigameds](Gigamed.md).
@@ -169,6 +173,7 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Divers
 
 -   **The Fisherman**
     -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
+    -   Rewards: A chest of the **TBA** [loot pool](Loot_Tables.md), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 -   (From: [Diversiconfaction](The_Divers.md) ) **Thresher Extermination** : _"A pack of Threshers has been hampering exploration and may become a larger threat if not dealt with."_
     -   Tasks the player with slaying two [Threshers](Thresher.md).

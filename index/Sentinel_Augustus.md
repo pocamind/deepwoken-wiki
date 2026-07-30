@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 224184
+revid: 224310
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -438,4 +438,4 @@ This dialogue is unlocked by speaking with [High Inquisitor Merey](High_Inquisit
 
 ## Trivia
 
--   Sentinel Augustus's hair is 15108173343 with the beard being 15216772565
+-   Sentinel Augustus's hair id is 15108173343 with the beard being 15216772565
