@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 223110
+revid: 224403
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -35,7 +35,7 @@ Currently known to drop from a wide variety of sources. But they can be obtained
 
 They can also be found less consistently from completing [Voidwalker](Voidwalker.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
 
-If you are in dire need of many **Smith's Alloys**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md). If you are quick or have a group to help, you can kill 2-3 Parasols across different servers before they escape. Once you have done that, you can head to Ferryman and farm him until the next Parasol event.
+If you are in dire need of many **Smith's Alloys**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md).
 
 ## Usage
 

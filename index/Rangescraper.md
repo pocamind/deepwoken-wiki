@@ -1,6 +1,6 @@
 ---
 title: Rangescraper
-revid: 224100
+revid: 224495
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons, Light Weapons, Legendary Weapons, Weapons with Talents]
@@ -41,7 +41,7 @@ Variants: [Gilded Knife](Gilded_Knife.md)
 
 The **Rangescraper** is a Light Dagger, an enhanced variant of the [Gilded Knife](Gilded_Knife.md) with higher requirements. This weapon bears a dark purple appearance, with a knuckle guard found similarly on trench knives.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Rangescraper, though its unique Talent is disabled there. Rangescraper **cannot** be enchanted.
+Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Rangescraper. Rangescraper **cannot** be enchanted.
 
 ## Talents
 
@@ -58,3 +58,4 @@ Rangescraper uses the default Dagger critical, a series of 3 quick slashes. The 
 ## Trivia
 
 -   Despite deteriorating into the [Gilded Knife](Gilded_Knife.md), the weapon more closely resembles the [Canor Fang](Canor_Fang.md).
+-   The first person to turn in the Rangescraper to the developer Agamatsu received the custom title "Diesel, One Who Scraped the Horizon."

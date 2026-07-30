@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 223177
+revid: 224497
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -81,7 +81,7 @@ These are the ranks you can progress through:
 
 These Talents can be chosen upon being promoted at any point in your Justicar playthrough. These talents cannot be removed or rerolled once obtained so choose carefully.
 
-As you can only gain a maximum of 4 promotions which inludes Path promotions, your Talents of choice are limited. You are also forced to pick 2 generic promotion Talents before you can start picking Path exclusive talents, so there is a maximum of 2 Path-exclusive Talents that you can have, as you cannot reroll generic promotion Talents into Path-exclusive ones with [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
+As you can only gain a maximum of 4 promotions which inludes Path promotions, your Talents of choice are limited. You are also forced to pick 2 generic promotion Talents before you can start picking Path exclusive talents, so there is a maximum of 2 Path-exclusive Talents that you can have, as you cannot reroll generic promotion Talents into Path-exclusive ones with [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) outside of a niche interaction with the "Choice of Chance" Echo upgrade that allows for a third Path-exclusive promotion talent.
 
 -   **Justicar's Adaptation** - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using [Jus Karita](Jus_Karita.md). Your Jus Karita running attacks can now also proc fist talents.
     -   Having the Justicar's Technique Talent allows you to have the Jus Karita running attack on any weapon. This allows you to proc Jus Karita and Fist exclusive Talents on any weapon via the running attack.
