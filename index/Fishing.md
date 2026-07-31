@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 224364
+revid: 225402
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -213,13 +213,14 @@ There are currently three Talents related to fishing, each automatically obtaine
 </tbody>
 </table>
 
--   **Proficient Baiting** - Casting your line excites ocea life, reducing the chances of fishing up trash.
+-   **Proficient Baiting** \[Quest Talent\] - Casting your line excites ocea life, reducing the chances of fishing up trash.
     
     -   Drastically increases the chances of catching fish instead of junk items.
-    -   This inadvertently reduces the chances of fishing up chests however, due to fish being more common.
+    -   This inadvertently reduces the chances of fishing up chests however, due to fish being more common.  
+        
     -   Prerequisites: Get 10 Bites in fishing (given automatically)  
         
-    -   Tags: \[Quest Talent\]
+    -   Tags:
 
 <table>
 <tbody>
@@ -239,12 +240,13 @@ There are currently three Talents related to fishing, each automatically obtaine
 </tbody>
 </table>
 
--   **Hook, Line, and Sinker** - Once something's caught your line, it's much harder for it to get loose.
+-   **Hook, Line, and Sinker** \[Quest Talent\] - Once something's caught your line, it's much harder for it to get loose.
     
-    -   Increases the amount of time provided to complete the fishing minigame.
+    -   Increases the amount of time provided to complete the fishing minigame.  
+        
     -   Prerequisites: Get 30 Bites in fishing (given automatically)  
         
-    -   Tags: \[Quest Talent\]
+    -   Tags:
 
 <table>
 <tbody>
@@ -264,12 +266,13 @@ There are currently three Talents related to fishing, each automatically obtaine
 </tbody>
 </table>
 
--   **Fisher's Lure** - Fish are drawn to your line more quickly.
+-   **Fisher's Lure** \[Quest Talent\] - Fish are drawn to your line more quickly.
     
-    -   Reduces the amount of time it takes to get a bite.
+    -   Reduces the amount of time it takes to get a bite.  
+        
     -   Prerequisites: Get 50 Bites in fishing (given automatically)  
         
-    -   Tags: \[Quest Talent\]
+    -   Tags:
 
 ## Gallery
 

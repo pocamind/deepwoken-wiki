@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225321
+revid: 225414
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -714,59 +714,197 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Alley Cat
 
--   Endurance Runner \[Common Talent, Agility\] - Your speed is decreased less by low health. (+2 Passive Agility)
+-   **Endurance Runner** \[Common Talent\] - Your speed is decreased less by low health.
     -   Halve the speed penalty tied to lost health.
-    -   Currently does not work.
-    -   Prerequisites: 25 Agility, 25 Fortitude
-    -   The [Mercenary's Boots](<Mercenary's_Boots.md>) equipment has this Talent.
+    -   Currently does not work.  
+        
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 25 Agility, 25 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Mercenary's Boots](<Mercenary's_Boots.md>)  
+        
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Mobility\]
 
--   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility)
+-   **Endurance Runner** \[Common Talent\] - Your speed is decreased less by low health.
+    
+    {#if: \*Halve the speed penalty tied to lost health.
+    
+    -   Currently does not work.|\*Halve the speed penalty tied to lost health.
+    -   Currently does not work.  
+        }}
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 25 Agility, 25 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Mercenary's Boots](<Mercenary's_Boots.md>)  
+        
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Mobility\]
+
+-   **Scaredy Cat** \[Common Talent\] - When enemies initiate a fight first, gain a speed boost.
     -   Gives you a 42.5% speed boost for 5s.
-    -   The enemy must not be in combat to trigger this effect.
-    -   Prerequisite: 5 Agility
+    -   The enemy must not be in combat to trigger this effect.  
+        
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 5 Agility  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
 
--   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility)
+-   **Scaredy Cat** \[Common Talent\] - When enemies initiate a fight first, gain a speed boost.
+    
+    {#if: \*Gives you a 42.5% speed boost for 5s.
+    
+    -   The enemy must not be in combat to trigger this effect.|\*Gives you a 42.5% speed boost for 5s.
+    -   The enemy must not be in combat to trigger this effect.  
+        }}
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 5 Agility  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
+
+-   _**Conditioned Runner**_ \[Advanced Talent\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.
     -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
     -   The increased health regeneration is equal to +(Agility × 2)% health regen, having no bonus at 0 Agility, and scaling up to +200% at 100 Agility.
-    -   Health regen is reduced in PvP combat, reducing the effectiveness of this Talent. Additionally, this Talent is fully disabled in the [Chime of Conflict](Chime_of_Conflict.md).
-    -   Prerequisites: Endurance Runner, Scaredy Cat, 25 Agility
+    -   Passive health regen is reduced in PvP combat, reducing the effectiveness of this Talent. Additionally, this Talent is fully disabled in the [Chime of Conflict](Chime_of_Conflict.md).  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Endurance Runner](#endurance-runner), [Scaredy Cat](#scaredy-cat), 25 Agility  
+        
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Sustain\]
+
+-   **Conditioned Runner** \[Advanced Talent\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.
+    
+    {#if: \*After 3 seconds of sprinting without taking damage, gain increased health regeneration.
+    
+    -   The increased health regeneration is equal to +(Agility × 2)% health regen, having no bonus at 0 Agility, and scaling up to +200% at 100 Agility.
+    -   Passive health regen is reduced in PvP combat, reducing the effectiveness of this Talent. Additionally, this Talent is fully disabled in the [Chime of Conflict](Chime_of_Conflict.md).|\*After 3 seconds of sprinting without taking damage, gain increased health regeneration.
+    -   The increased health regeneration is equal to +(Agility × 2)% health regen, having no bonus at 0 Agility, and scaling up to +200% at 100 Agility.
+    -   Passive health regen is reduced in PvP combat, reducing the effectiveness of this Talent. Additionally, this Talent is fully disabled in the [Chime of Conflict](Chime_of_Conflict.md).  
+        }}
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Endurance Runner](#endurance-runner), [Scaredy Cat](#scaredy-cat), 25 Agility  
+        
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Sustain\]
 
 ### All-Knowing
 
--   Approaching Singularity \[Common Talent, Intelligence\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
+-   **Approaching Singularity** \[Common Talent\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
     -   Gives 0.1% Mantra PEN per point in Intelligence.
-        -   Provides +8% PEN at the requirement, and +10% PEN at 100 Intelligence.
-    -   Prerequisite: 80 Intelligence
+    -   Provides +8% PEN at the requirement, +5.5% PEN at the minimum requirement, and +10% PEN at 100 Intelligence.  
+        
+    -   Prerequisites: 80 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[PEN\]
+
+-   **Approaching Singularity** \[Common Talent\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
+    
+    {#if: \*Gives 0.1% Mantra PEN per point in Intelligence.
+    
+    -   Provides +8% PEN at the requirement, +5.5% PEN at the minimum requirement, and +10% PEN at 100 Intelligence.|\*Gives 0.1% Mantra PEN per point in Intelligence.
+    -   Provides +8% PEN at the requirement, +5.5% PEN at the minimum requirement, and +10% PEN at 100 Intelligence.  
+        }}
+    -   Prerequisites: 80 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[PEN\]
 
 ### Amoran Seeker
 
--   Flame Within \[Common Talent, Flamecharm\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
-    -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
-    -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
-    -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
-    -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
-        -   Because Flame Within's mobility buff is a flat 12.5% increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain Mantras like [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) or [Iron Skin](Ironsing.md#iron-skin).
-    -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
-    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
-    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
-    -   Grotesque Resilience reduces the damage taken from Flame Within's burn DoT by 25%.
-    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct nerf for Flame within.
-    -   The old Last Laugh Talent was merged into Flame Within.
-    -   Prerequisite: 25 Flamecharm
+-   **Flame Within** \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
+    -   Unlike normal [burn](Status_Effects.md#burn), Flame Within's burn is not cleared by rolling or sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
+    -   Flame Within has an 8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
+    -   l\*Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
+    -   It grants a general damage buff, and as such it'll affect all sources of damage that can be modified.
+    -   Flame Within can be enabled while knocked [Unconscious](Status_Effects.md#unconscious). This is meant to synergize with [Phoenix Flames](#phoenix-flames). Though, doing so will halve the strength of [Phoenix Flames](#phoenix-flames).
+    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md)'s [Already Dead](#already-dead) Talent, Flamecharm resistance, and general resistances.
+    -   The burn damage can be reduced with Flamecharm resistance, [Immolation](#immolation), [Flame Wisp](Flamecharm.md#flame-wisp), [Parasol Planter](Parasol_Planter.md)'s [Grotesque Resilience](#grotesque-resilience) (25% damage reduction), [Flame Worshipper Armor](Flame_Worshipper_Armor.md)'s [Intrepid Flame](#intrepid-flame), [Worshipper's Shield](<Worshipper's_Shield.md>)'s [Worshipper Tolerance](#worshipper-tolerance), and sources of general damage reduction. It is recommended to have low Flamecharm investment on Flame Within builds go minimize the damage taken.
+    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct debuff for Flame within.
+    -   The old [Last Laugh Talent](Cut_Content.md#last-laugh-talent) was merged into Flame Within.  
+        
+    -   Prerequisites: 25 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Damage Buff\] \[Tool\]
+
+-   **Flame Within** \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
+    
+    {#if: \*Unlike normal [burn](Status_Effects.md#burn), Flame Within's burn is not cleared by rolling or sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
+    
+    -   Flame Within has an 8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
+    -   l\*Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
+    -   It grants a general damage buff, and as such it'll affect all sources of damage that can be modified.
+    -   Flame Within can be enabled while knocked [Unconscious](Status_Effects.md#unconscious). This is meant to synergize with [Phoenix Flames](#phoenix-flames). Though, doing so will halve the strength of [Phoenix Flames](#phoenix-flames).
+    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md)'s [Already Dead](#already-dead) Talent, Flamecharm resistance, and general resistances.
+    -   The burn damage can be reduced with Flamecharm resistance, [Immolation](#immolation), [Flame Wisp](Flamecharm.md#flame-wisp), [Parasol Planter](Parasol_Planter.md)'s [Grotesque Resilience](#grotesque-resilience) (25% damage reduction), [Flame Worshipper Armor](Flame_Worshipper_Armor.md)'s [Intrepid Flame](#intrepid-flame), [Worshipper's Shield](<Worshipper's_Shield.md>)'s [Worshipper Tolerance](#worshipper-tolerance), and sources of general damage reduction. It is recommended to have low Flamecharm investment on Flame Within builds go minimize the damage taken.
+    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct debuff for Flame within.
+    -   The old [Last Laugh Talent](Cut_Content.md#last-laugh-talent) was merged into Flame Within.|\*Unlike normal [burn](Status_Effects.md#burn), Flame Within's burn is not cleared by rolling or sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
+    -   Flame Within has an 8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
+    -   l\*Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
+    -   It grants a general damage buff, and as such it'll affect all sources of damage that can be modified.
+    -   Flame Within can be enabled while knocked [Unconscious](Status_Effects.md#unconscious). This is meant to synergize with [Phoenix Flames](#phoenix-flames). Though, doing so will halve the strength of [Phoenix Flames](#phoenix-flames).
+    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md)'s [Already Dead](#already-dead) Talent, Flamecharm resistance, and general resistances.
+    -   The burn damage can be reduced with Flamecharm resistance, [Immolation](#immolation), [Flame Wisp](Flamecharm.md#flame-wisp), [Parasol Planter](Parasol_Planter.md)'s [Grotesque Resilience](#grotesque-resilience) (25% damage reduction), [Flame Worshipper Armor](Flame_Worshipper_Armor.md)'s [Intrepid Flame](#intrepid-flame), [Worshipper's Shield](<Worshipper's_Shield.md>)'s [Worshipper Tolerance](#worshipper-tolerance), and sources of general damage reduction. It is recommended to have low Flamecharm investment on Flame Within builds go minimize the damage taken.
+    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct debuff for Flame within.
+    -   The old [Last Laugh Talent](Cut_Content.md#last-laugh-talent) was merged into Flame Within.  
+        }}
+    -   Prerequisites: 25 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Damage Buff\] \[Tool\]
 
 ### Angler
 
--   _Proficient Baiting_ \[Quest Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
-    -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
-    -   Prerequisite: Fish a total of 10 times successfully. (Automatically obtained)
+-   _Proficient Baiting_ \[Quest Talent\] - Casting your line excites ocea life, reducing the chances of fishing up trash.
+    -   Drastically increases the chances of catching fish instead of junk items.
+    -   This inadvertently reduces the chances of fishing up chests however, due to fish being more common.  
+        
+    -   Prerequisites: Get 10 Bites in [fishing](Fishing.md) (given automatically)  
+        
+    -   Tags: \[Fishing\]
 
--   _Hook, Line, and Sinker_ \[Quest Talent\] - Once something's caught your line, it's much harder to get loose.
-    -   Slightly increases margin of failure before losing a fish.
-    -   Prerequisite: Fish a total of 30 times successfully. (Automatically obtained)
+-   **Proficient Baiting** \[Quest Talent\] - Casting your line excites ocea life, reducing the chances of fishing up trash.
+    
+    {#if: \*Drastically increases the chances of catching fish instead of junk items.
+    
+    -   This inadvertently reduces the chances of fishing up chests however, due to fish being more common.|\*Drastically increases the chances of catching fish instead of junk items.
+    -   This inadvertently reduces the chances of fishing up chests however, due to fish being more common.  
+        }}
+    -   Prerequisites: Get 10 Bites in [fishing](Fishing.md) (given automatically)  
+        
+    -   Tags: \[Fishing\]
+
+-   _Hook, Line, and Sinker_ \[Quest Talent\] - Once something's caught your line, it's much harder for it to get loose.
+    -   Increases the amount of time provided to complete the fishing minigame.  
+        
+    -   Prerequisites: Get 30 Bites in [fishing](Fishing.md) (given automatically)  
+        
+    -   Tags: \[Fishing\]
+
+-   **Hook, Line, and Sinker** \[Quest Talent\] - Once something's caught your line, it's much harder for it to get loose.
+    
+    {#if: \*Increases the amount of time provided to complete the fishing minigame.|\*Increases the amount of time provided to complete the fishing minigame.  
+    }}
+    
+    -   Prerequisites: Get 30 Bites in [fishing](Fishing.md) (given automatically)  
+        
+    -   Tags: \[Fishing\]
 
 -   _Fisher's Lure_ \[Quest Talent\] - Fish are drawn to your line more quickly.
-    -   Slightly increases the chance of hooking something while fishing.
-    -   Prerequisite: Fish a total of 50 times successfully. (Automatically obtained)
+    -   Reduces the amount of time it takes to get a bite.  
+        
+    -   Prerequisites: Get 50 Bites in [fishing](Fishing.md) (given automatically)  
+        
+    -   Tags: \[Fishing\]
+
+-   **Fisher's Lure** \[Quest Talent\] - Fish are drawn to your line more quickly.
+    
+    {#if: \*Reduces the amount of time it takes to get a bite.|\*Reduces the amount of time it takes to get a bite.  
+    }}
+    
+    -   Prerequisites: Get 50 Bites in [fishing](Fishing.md) (given automatically)  
+        
+    -   Tags: \[Fishing\]
 
 ### Annihilator
 
@@ -4962,7 +5100,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
     -   This effect is applied before [Critical Engine](#critical-engine) [Blessed Gem](Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).  
         
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Resonance\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Resonance\]
 
 -   **Actions Speak Louder**: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your [Resonance](Resonance.md) cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 10% instead.
     
@@ -4973,14 +5111,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
     -   This effect is applied before [Critical Engine](#critical-engine) [Blessed Gem](Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).  
         }}
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Resonance\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Resonance\]
 
 -   **Alloyed Soles**: [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) & [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](Status_Effects.md#knockdown) applied to you.
     
     -   Reduces Knockdown duration by 75%.
     -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.  
         
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Alloyed Soles**: [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) & [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](Status_Effects.md#knockdown) applied to you.
     
@@ -4989,7 +5127,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.|\*Reduces Knockdown duration by 75%.
     -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.  
         }}
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Already Dead**: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
@@ -4998,7 +5136,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.  
         
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Already Dead**: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     
@@ -5013,14 +5151,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.  
         }}
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Angel's Guise**: [Hollow Angel Mask](Hollow_Angel_Mask.md) & [Sworn Angel Mask](Sworn_Angel_Mask.md) - You resemble one of the [Sworn Angels](Sworn_Angel.md).
     -   Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
     -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
     -   [Angels](Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Angel's Guise**: [Hollow Angel Mask](Hollow_Angel_Mask.md) & [Sworn Angel Mask](Sworn_Angel_Mask.md) - You resemble one of the [Sworn Angels](Sworn_Angel.md).
     
@@ -5031,7 +5169,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
     -   [Angels](Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         }}
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Bane**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
     
@@ -5039,7 +5177,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   The teleportation has a range limit of 25 studs.
     -   Bane additionally grants a [Speed Boost](Status_Effects.md#speed-boost) for its full duration.  
         
-    -   Tags: \[Outfit\] \[Mobility\] \[Speed Boost\] \[Tool\]
+    -   Tags: \[Common Talent\] \[Outfit\] \[Mobility\] \[Speed Boost\] \[Tool\]
 
 -   **Bane**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
     
@@ -5050,25 +5188,25 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   The teleportation has a range limit of 25 studs.
     -   Bane additionally grants a [Speed Boost](Status_Effects.md#speed-boost) for its full duration.  
         }}
-    -   Tags: \[Outfit\] \[Mobility\] \[Speed Boost\] \[Tool\]
+    -   Tags: \[Common Talent\] \[Outfit\] \[Mobility\] \[Speed Boost\] \[Tool\]
 
 -   **Benefactor**: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to [Antiquarians](Antiquarian.md) within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).  
         
-    -   Tags: \[Outfit\]
+    -   Tags: \[Common Talent\] \[Outfit\]
 
 -   **Benefactor**: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to [Antiquarians](Antiquarian.md) within faction territories.
     
     {#if: \*Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).|\*Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).  
     }}
     
-    -   Tags: \[Outfit\]
+    -   Tags: \[Common Talent\] \[Outfit\]
 
 -   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
     -   15 second cooldown.
     -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).  
         
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Debuff\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Debuff\]
 
 -   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - \[Land Critical Attack or Hidden Blade\] Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
     
@@ -5077,14 +5215,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).|\*15 second cooldown.
     -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).  
         }}
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Debuff\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Debuff\]
 
 -   **Blinded**: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Applies the [Blinded](Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
     -   The [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
     -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.  
         
-    -   Tags: \[Equipment\] \[Debuff\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Debuff\]
 
 -   **Blinded**: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     
@@ -5095,24 +5233,24 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   The [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
     -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.  
         }}
-    -   Tags: \[Equipment\] \[Debuff\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Debuff\]
 
 -   **Blood Converence**: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
     
-    -   Tags: \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
 
 -   **Blood Converence**: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
     
     {#if: |  
     }}
     
-    -   Tags: \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
 
 -   **Blood Necrosis**: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
     -   You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
     -   For The No-Life King's other Talent, view [No Limits](#no-limits)  
         
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Blood Necrosis**: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
     
@@ -5121,25 +5259,25 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   For The No-Life King's other Talent, view [No Limits](#no-limits)|\*You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
     -   For The No-Life King's other Talent, view [No Limits](#no-limits)  
         }}
-    -   Tags: \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Blood Pact**: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
     
-    -   Tags: \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
 
 -   **Blood Pact**: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
     
     {#if: |  
     }}
     
-    -   Tags: \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
 
 -   **Blood Plague**: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
     
     -   M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
     -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.  
         
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
 
 -   **Blood Plague**: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
     
@@ -5148,36 +5286,36 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.|\*M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
     -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.  
         }}
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
 
 -   **Blood Siphon**: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
     
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
 
 -   **Blood Siphon**: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
     
     {#if: |  
     }}
     
-    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
 
 -   **Breeze**: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.
     -   Increases your movement speed by +2 studs/s, permanently.  
         
-    -   Tags: \[Outfit\] \[Mobility\]
+    -   Tags: \[Common Talent\] \[Outfit\] \[Mobility\]
 
 -   **Breeze**: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.
     
     {#if: \*Increases your movement speed by +2 studs/s, permanently.|\*Increases your movement speed by +2 studs/s, permanently.  
     }}
     
-    -   Tags: \[Outfit\] \[Mobility\]
+    -   Tags: \[Common Talent\] \[Outfit\] \[Mobility\]
 
 -   **Broodlord's Scream**: [Broodplate Helmet](Broodplate_Helmet.md) - Using [Sing](Attunement-less.md#sing), [Taunt](Attunement-less.md#taunt), or Ardour Scream applies [anti heal](Status_Effects.md#anti-heal) for the duration of the move.
     -   Applies 100% Anti-Heal.
     -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.  
         
-    -   Tags: \[Equipment\] \[Anti-Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Anti-Sustain\]
 
 -   **Broodlord's Scream**: [Broodplate Helmet](Broodplate_Helmet.md) - Using [Sing](Attunement-less.md#sing), [Taunt](Attunement-less.md#taunt), or Ardour Scream applies [anti heal](Status_Effects.md#anti-heal) for the duration of the move.
     
@@ -5186,19 +5324,19 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.|\*Applies 100% Anti-Heal.
     -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.  
         }}
-    -   Tags: \[Equipment\] \[Anti-Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Anti-Sustain\]
 
 -   **Brunt**: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
         
-    -   Tags: \[Outfit\] \[Posture Resistance\]
+    -   Tags: \[Common Talent\] \[Outfit\] \[Posture Resistance\]
 
 -   **Brunt**: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     
     {#if: \*Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).|\*Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
     }}
     
-    -   Tags: \[Outfit\] \[Posture Resistance\]
+    -   Tags: \[Common Talent\] \[Outfit\] \[Posture Resistance\]
 
 -   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     -   Deals 35 Blunt damage with 20 Posture damage.
@@ -5206,7 +5344,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         
-    -   Tags:
+    -   Tags: \[Common Talent\]
 
 -   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     
@@ -5219,7 +5357,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         }}
-    -   Tags:
+    -   Tags: \[Common Talent\]
 
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.

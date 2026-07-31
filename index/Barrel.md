@@ -1,6 +1,6 @@
 ---
 title: Barrel
-revid: 217891
+revid: 225394
 source: https://deepwoken.fandom.com/wiki/Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects]
@@ -10,7 +10,7 @@ categories: [Interactible Objects]
 
 _Not to be confused with the weapon, [The Barrel](The_Barrel.md)._
 
-A player standing next to Barrels of various sizes
+A standard Barrel
 
 ## Description
 

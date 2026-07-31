@@ -1,9 +1,9 @@
 ---
 title: Red Snapper
-revid: 223921
+revid: 225409
 source: https://deepwoken.fandom.com/wiki/Red_Snapper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Fishing Exclusive]
+categories: [Items, Ingredients, Fishing Exclusive, Fish]
 ---
 
 # Red Snapper

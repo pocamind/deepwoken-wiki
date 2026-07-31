@@ -1,9 +1,9 @@
 ---
 title: "Captain's Rec"
-revid: 220323
+revid: 225362
 source: https://deepwoken.fandom.com/wiki/Captain's_Rec
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Quest Item]
+categories: [Items, Quest Item]
 ---
 
 # Captain's Rec
@@ -22,3 +22,7 @@ categories: [Quest Item]
 ## Description
 
 The Captain's Rec is a [Quest](Quests.md) item given to you by [Legion Captains](Legion_Captain.md) that spawn throughout Aratel island. When given to [Amara](Amara.md), the player will learn the ability to wield the arts of the Legion known as [Legion Kata](Legion_Kata.md).
+
+## Trivia
+
+-   It was previously called "Captain's Recc" before being removed and then reintroduced from the game.

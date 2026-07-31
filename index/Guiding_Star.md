@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 222884
+revid: 225375
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Chainwarden, Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Bows, Weapons of The Children of Navae]

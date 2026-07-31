@@ -1,6 +1,6 @@
 ---
 title: Cinders of Etris
-revid: 219137
+revid: 225391
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Random Encounters, Etrea, Disaster]
@@ -70,6 +70,7 @@ Up to nine NPCs are in this event.
 
 -   **NPCs will have special dialogue during this event, such as:**
     -   "Get to the town center! Hurry!"
+    -   "Something terrible draws near. You best run while you still can. I think this may be a bloodbath."
     -   "The town is burning! It's burning! Help!"
     -   "The town! They're sieging the town!"
     -   "We need all the help we can get! Get to the town and clear out the Authority! Please!"

@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 221224
+revid: 225359
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -20,10 +20,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craft
 | innate talent | Overflowing DamSorcerer's Surge |
 | set | Ether Refined Brim, Ether Refined Mantle |
 | set talent | Sorcerer's Supply |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Warlock's Mantle in the Lost Forge |
 | description | A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle. |
 

@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 223455
+revid: 225361
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

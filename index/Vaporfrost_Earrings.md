@@ -1,6 +1,6 @@
 ---
 title: Vaporfrost Earrings
-revid: 222749
+revid: 225360
 source: https://deepwoken.fandom.com/wiki/Vaporfrost_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,10 +17,10 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | weight | 0.1 |
 | innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | Drop Dead |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted w/ 1 Dew Drop Earrings + 5 Frigid Prism + 1 Frost Essence at the Lost Forge of Leiuna |
 | description | ... |
 

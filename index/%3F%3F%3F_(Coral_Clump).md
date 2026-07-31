@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 225268
+revid: 225411
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
@@ -17,7 +17,7 @@ categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified
 
 "???" is an NPC. They are an individual turning into a [Mudskipper](Mudskipper.md).
 
-They are apparently the only passive [Mudskipper](Mudskipper.md) still in "sound mind" with the ability to talk using proper words.
+They are the only passive [Mudskipper](Mudskipper.md), and they have the ability to talk using proper words.
 
 ## Location
 
@@ -53,5 +53,4 @@ It resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The
 
 ## Trivia
 
--   It gives a lot of lore about [Mudskippers](Mudskipper.md), implying that they are simply beings that, like the [Celtorian Guards](Celtorian_Guard.md), lost themselves to [The Depths](The_Depths.md). It is currently undergoing this phase, seen by its wheezing and him "letting it all go by".
--   Its skin tone is slightly darker compared to other Mudskippers, and uses what seems to be an [Etrean](Etrean.md) face rather than a Mudskipper's face.
+-   Its skin tone is slightly darker compared to other Mudskippers, and uses a standard [human](Aspects.md) face rather than a Mudskipper face.
