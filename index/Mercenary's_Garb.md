@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 223025
+revid: 225341
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Garbs, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -40,5 +40,4 @@ The [Kick Off](Talents.md#kick-off) Talent grants various bonuses to climbing an
 
 ## Trivia
 
--   The Mercenary's Garb drops in bizarrely few places compared to the Boots.
 -   Has a cosmetic [Repeater](Repeater.md).

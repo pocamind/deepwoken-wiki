@@ -1,6 +1,6 @@
 ---
 title: Grudgeroot
-revid: 220287
+revid: 225323
 source: https://deepwoken.fandom.com/wiki/Grudgeroot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Ingredients, Harvestables, Alchemy]

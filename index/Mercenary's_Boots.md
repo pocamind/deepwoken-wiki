@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 223031
+revid: 225338
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
