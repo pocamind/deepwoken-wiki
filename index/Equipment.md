@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 224151
+revid: 225320
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -2115,8 +2115,8 @@ _+1 Posture_
 +1 Legendary Pip  
 **Requires Power 5**
 
- | Variants:  
-[Summer](Summer_Scarf.md), [Threadwork](Summer_Scarf.md) |
+ | Styles:  
+Finely-woven, Threadwork |
 |  | [Terraplate Pauldrons](Terraplate_Pauldrons.md) | +2 Rare Pips  
 +1 Legendary Pip
 

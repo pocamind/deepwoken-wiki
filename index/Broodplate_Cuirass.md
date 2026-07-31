@@ -1,11 +1,9 @@
 ---
 title: Broodplate Cuirass
-revid: 223942
+revid: 225311
 source: https://deepwoken.fandom.com/wiki/Broodplate_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Broodplate Cuirass

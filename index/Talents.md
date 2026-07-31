@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225292
+revid: 225321
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -116,57 +116,65 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Absolute Focus
 
 -   **Against All Odds** \[Common Talent\] - For each [combat tag](Combat_Tag.md) you have on your character, increase your damage by 2% (max of 14%).
-    
-    -   Works in PvE combat, with each mob counting as an individual combat tag.
+    -   Works in PvE combat, with each mob counting as an individual combat tag.  
+        
     -   Prerequisites: 65 Willpower  
         
     -   Tags: \[Willpower\] \[Damage Buff\]
 
 -   **Against All Odds** \[Common Talent\] - For each [combat tag](Combat_Tag.md) you have on your character, increase your damage by 2% (max of 14%).
     
-    -   Works in PvE combat, with each mob counting as an individual combat tag.
+    {#if: \*Works in PvE combat, with each mob counting as an individual combat tag.|\*Works in PvE combat, with each mob counting as an individual combat tag.  
+    }}
+    
     -   Prerequisites: 65 Willpower  
         
     -   Tags: \[Willpower\] \[Damage Buff\]
 
 -   **Emergency Reserves** \[Common Talent\] - When you get hit below 20% health, gain 20% [tempo](Combat_Mechanics.md#tempo) immediately.
-    
     -   Grants 20% of your maximum [Tempo](Combat_Mechanics.md#tempo) on proc.
     -   3 minute cooldown.
-    -   While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.
+    -   While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.  
+        
     -   Prerequisites: 80 Willpower  
         
     -   Tags: \[Willpower\] \[Tempo\]
 
 -   **Emergency Reserves** \[Common Talent\] - When you get hit below 20% health, gain 20% [tempo](Combat_Mechanics.md#tempo) immediately.
     
-    -   Grants 20% of your maximum [Tempo](Combat_Mechanics.md#tempo) on proc.
+    {#if: \*Grants 20% of your maximum [Tempo](Combat_Mechanics.md#tempo) on proc.
+    
     -   3 minute cooldown.
-    -   While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.
+    -   While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.|\*Grants 20% of your maximum [Tempo](Combat_Mechanics.md#tempo) on proc.
+    -   3 minute cooldown.
+    -   While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.  
+        }}
     -   Prerequisites: 80 Willpower  
         
     -   Tags: \[Willpower\] \[Tempo\]
 
 -   **Unswayed** \[Common Talent\] - The effects of Taunt and Encore no longer work on you.
-    
     -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
     -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
         -   Sing can still apply [Charm](Status_Effects.md#charmed) or [Overcharm](Status_Effects.md#overcharm) to the user.  
             
+    -   Grants +20 Sanity  
         
-        -   Grants +20 Sanity
     -   Prerequisites: 75 Willpower  
         
     -   Tags: \[Willpower\] \[+Sanity\]
 
 -   **Unswayed** \[Common Talent\] - The effects of Taunt and Encore no longer work on you.
     
-    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
+    {#if: \*The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
+    
+    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
+        -   Sing can still apply [Charm](Status_Effects.md#charmed) or [Overcharm](Status_Effects.md#overcharm) to the user.|\*The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
     -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
         -   Sing can still apply [Charm](Status_Effects.md#charmed) or [Overcharm](Status_Effects.md#overcharm) to the user.  
-            
+            }}
+    -   Grants +20 Sanity  
         
-        -   Grants +20 Sanity
     -   Prerequisites: 75 Willpower  
         
     -   Tags: \[Willpower\] \[+Sanity\]
@@ -174,13 +182,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Acrobat
 
 -   **Kick Off** \[Common Talent\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall.
-    
     -   Causes **all** falls to be considered 10 studs "shorter" by 10 studs, reducing the damage taken from larger falls and negating smaller falls.
     -   Increases climb distance by ~15% when off cooldown. Has a cooldown of 3 seconds.
     -   Slide jumping now also slightly increases climb distance.  
         
-    
-    -   Grants +6 Passive Agility
+    -   Grants +6 Passive Agility  
+        
     -   Prerequisites: 20 Agility  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Delver's Duster](<Delver's_Duster.md>), [Sandrunner Wraps](Sandrunner_Wraps.md), and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
@@ -189,12 +196,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Kick Off** \[Common Talent\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall.
     
-    -   Causes **all** falls to be considered 10 studs "shorter" by 10 studs, reducing the damage taken from larger falls and negating smaller falls.
+    {#if: \*Causes **all** falls to be considered 10 studs "shorter" by 10 studs, reducing the damage taken from larger falls and negating smaller falls.
+    
+    -   Increases climb distance by ~15% when off cooldown. Has a cooldown of 3 seconds.
+    -   Slide jumping now also slightly increases climb distance.|\*Causes **all** falls to be considered 10 studs "shorter" by 10 studs, reducing the damage taken from larger falls and negating smaller falls.
     -   Increases climb distance by ~15% when off cooldown. Has a cooldown of 3 seconds.
     -   Slide jumping now also slightly increases climb distance.  
+        }}
+    -   Grants +6 Passive Agility  
         
-    
-    -   Grants +6 Passive Agility
     -   Prerequisites: 20 Agility  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Delver's Duster](<Delver's_Duster.md>), [Sandrunner Wraps](Sandrunner_Wraps.md), and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
@@ -202,14 +212,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Agility\] \[+Passive Agility\] \[Mobility\]
 
 -   **Steady Footing** \[Common Talent\] - You're much more resistant to being pushed around.
-    
     -   Reduces knockback the user takes by 20%. (stacks with other sources of knockback resistance, including Anchor [Pips](Equipment.md))
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
         -   This is a considerable downside to [Frostdraw](Frostdraw.md) users, as there is no upside to this effect, it is **not recommended**.  
             
+    -   Grants +5 Carry Load, +2 Passive Agility  
         
-        -   Grants +5 Carry Load, +2 Passive Agility
     -   Prerequisites: 10 Agility, 10 Strength  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Fur Parka](Fur_Parka.md)  
@@ -218,13 +227,17 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Steady Footing** \[Common Talent\] - You're much more resistant to being pushed around.
     
-    -   Reduces knockback the user takes by 20%. (stacks with other sources of knockback resistance, including Anchor [Pips](Equipment.md))
+    {#if: \*Reduces knockback the user takes by 20%. (stacks with other sources of knockback resistance, including Anchor [Pips](Equipment.md))
+    
+    -   -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
+    -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
+        -   This is a considerable downside to [Frostdraw](Frostdraw.md) users, as there is no upside to this effect, it is **not recommended**.|\*Reduces knockback the user takes by 20%. (stacks with other sources of knockback resistance, including Anchor [Pips](Equipment.md))
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
         -   This is a considerable downside to [Frostdraw](Frostdraw.md) users, as there is no upside to this effect, it is **not recommended**.  
-            
+            }}
+    -   Grants +5 Carry Load, +2 Passive Agility  
         
-        -   Grants +5 Carry Load, +2 Passive Agility
     -   Prerequisites: 10 Agility, 10 Strength  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Fur Parka](Fur_Parka.md)  
@@ -232,27 +245,30 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Strength\] \[Agility\] \[+Carry Load\] \[+Passive Agility\]
 
 -   **Time To Go** \[Common Talent\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.
-    
     -   Provides a 25% speed boost, doubling to 50% when killing a player.
         -   Procs all speed boost related talents. (ex. [Speed Demon](#speed-demon))
     -   Duration is visually represented by a red glow by the user's eyes.
     -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.  
         
-    
-    -   Grants +1 Passive Agility
+    -   Grants +1 Passive Agility  
+        
     -   Prerequisites: 5 Agility  
         
     -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
 
 -   **Time To Go** \[Common Talent\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.
     
-    -   Provides a 25% speed boost, doubling to 50% when killing a player.
+    {#if: \*Provides a 25% speed boost, doubling to 50% when killing a player.
+    
+    -   -   Procs all speed boost related talents. (ex. [Speed Demon](#speed-demon))
+    -   Duration is visually represented by a red glow by the user's eyes.
+    -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.|\*Provides a 25% speed boost, doubling to 50% when killing a player.
         -   Procs all speed boost related talents. (ex. [Speed Demon](#speed-demon))
     -   Duration is visually represented by a red glow by the user's eyes.
     -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.  
+        }}
+    -   Grants +1 Passive Agility  
         
-    
-    -   Grants +1 Passive Agility
     -   Prerequisites: 5 Agility  
         
     -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
@@ -260,53 +276,64 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Adaptive Arsenal
 
 -   _An Ironsinger's Instinct_ \[Rare Talent\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
-    
     -   After dodging gain the [Ironsinger's Instinct](Status_Effects.md#ironclad-defenses) status effect for 2 seconds, reducing the damage of the next hit by 60%.
     -   The user visually gains a grey metallic shine upon for the duration, clearing on hit.
-    -   Has a cooldown of 18 seconds, starting immediately upon dodge.
+    -   Has a cooldown of 18 seconds, starting immediately upon dodge.  
+        
     -   Prerequisites: 75 Ironsing  
         
     -   Tags: \[Ironsing\] \[Damage Resistance\]
 
 -   **An Ironsinger's Instinct** \[Rare Talent\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
     
-    -   After dodging gain the [Ironsinger's Instinct](Status_Effects.md#ironclad-defenses) status effect for 2 seconds, reducing the damage of the next hit by 60%.
+    {#if: \*After dodging gain the [Ironsinger's Instinct](Status_Effects.md#ironclad-defenses) status effect for 2 seconds, reducing the damage of the next hit by 60%.
+    
     -   The user visually gains a grey metallic shine upon for the duration, clearing on hit.
-    -   Has a cooldown of 18 seconds, starting immediately upon dodge.
+    -   Has a cooldown of 18 seconds, starting immediately upon dodge.|\*After dodging gain the [Ironsinger's Instinct](Status_Effects.md#ironclad-defenses) status effect for 2 seconds, reducing the damage of the next hit by 60%.
+    -   The user visually gains a grey metallic shine upon for the duration, clearing on hit.
+    -   Has a cooldown of 18 seconds, starting immediately upon dodge.  
+        }}
     -   Prerequisites: 75 Ironsing  
         
     -   Tags: \[Ironsing\] \[Damage Resistance\]
 
 -   **Exposed Durability** \[Common Talent\] - Deal 10% more damage to opponents with no armor durability left.
-    
     -   Also applies to players who are wearing the [Stranded](Stranded.md) Outfit.
     -   Always procs on your Basic Attacks if you have [Berserk](#berserk) active, and with any attack made against Berserk users.
-    -   This synergizes extremely well with abilities that drain your opponent's armor durability, such as the [Arachnid's Weave](<Arachnid's_Weave.md>)'s [Corrosive Touch](#corrosive-touch) and the [Metal](Metal.md) Enchantment.
+    -   This synergizes extremely well with abilities that drain your opponent's armor durability, such as the [Arachnid's Weave](<Arachnid's_Weave.md>)'s [Corrosive Touch](#corrosive-touch) and the [Metal](Metal.md) Enchantment.  
+        
     -   Prerequisites: 60 Ironsing  
         
     -   Tags: \[Ironsing\] \[Damage Buff\]
 
 -   **Exposed Durability** \[Common Talent\] - Deal 10% more damage to opponents with no armor durability left.
     
-    -   Also applies to players who are wearing the [Stranded](Stranded.md) Outfit.
+    {#if: \*Also applies to players who are wearing the [Stranded](Stranded.md) Outfit.
+    
     -   Always procs on your Basic Attacks if you have [Berserk](#berserk) active, and with any attack made against Berserk users.
-    -   This synergizes extremely well with abilities that drain your opponent's armor durability, such as the [Arachnid's Weave](<Arachnid's_Weave.md>)'s [Corrosive Touch](#corrosive-touch) and the [Metal](Metal.md) Enchantment.
+    -   This synergizes extremely well with abilities that drain your opponent's armor durability, such as the [Arachnid's Weave](<Arachnid's_Weave.md>)'s [Corrosive Touch](#corrosive-touch) and the [Metal](Metal.md) Enchantment.|\*Also applies to players who are wearing the [Stranded](Stranded.md) Outfit.
+    -   Always procs on your Basic Attacks if you have [Berserk](#berserk) active, and with any attack made against Berserk users.
+    -   This synergizes extremely well with abilities that drain your opponent's armor durability, such as the [Arachnid's Weave](<Arachnid's_Weave.md>)'s [Corrosive Touch](#corrosive-touch) and the [Metal](Metal.md) Enchantment.  
+        }}
     -   Prerequisites: 60 Ironsing  
         
     -   Tags: \[Ironsing\] \[Damage Buff\]
 
 -   _Phantom Edge_ \[Rare Talent\] - Your weapon Basic Attacks have +0.25 range.
-    
     -   It is not recommended to take this Talent, as its effect is objectively, unnoticeably minuscule.
-    -   Stacks with other sources of weapon range increases, such as [Duelist's Lunge](#duelists-lunge).
+    -   Stacks with other sources of weapon range increases, such as [Duelist's Lunge](#duelists-lunge).  
+        
     -   Prerequisites: 75 Ironsing  
         
     -   Tags: \[Ironsing\] \[Range\]
 
 -   **Phantom Edge** \[Rare Talent\] - Your weapon Basic Attacks have +0.25 range.
     
-    -   It is not recommended to take this Talent, as its effect is objectively, unnoticeably minuscule.
-    -   Stacks with other sources of weapon range increases, such as [Duelist's Lunge](#duelists-lunge).
+    {#if: \*It is not recommended to take this Talent, as its effect is objectively, unnoticeably minuscule.
+    
+    -   Stacks with other sources of weapon range increases, such as [Duelist's Lunge](#duelists-lunge).|\*It is not recommended to take this Talent, as its effect is objectively, unnoticeably minuscule.
+    -   Stacks with other sources of weapon range increases, such as [Duelist's Lunge](#duelists-lunge).  
+        }}
     -   Prerequisites: 75 Ironsing  
         
     -   Tags: \[Ironsing\] \[Range\]
@@ -314,54 +341,66 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Adept Caster
 
 -   _Everchanging Aegis_ \[Rare Talent\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
-    
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
         -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis was not attuned to that damage type.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
     -   [Burn](Status_Effects.md#burn) and self damage do not proc Everchanging Aegis.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
-    -   Does not affect attacks that do not deal elemental damage.
+    -   Does not affect attacks that do not deal elemental damage.  
+        
     -   Prerequisites: 25 Intelligence  
         
     -   Tags: \[Intelligence\] \[Damage Resistance\]
 
 -   **Everchanging Aegis** \[Rare Talent\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
     
-    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
+    {#if: \*Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
+    
+    -   -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis was not attuned to that damage type.
+    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
+    -   [Burn](Status_Effects.md#burn) and self damage do not proc Everchanging Aegis.
+    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+        -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
+    -   Does not affect attacks that do not deal elemental damage.|\*Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
         -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis was not attuned to that damage type.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
     -   [Burn](Status_Effects.md#burn) and self damage do not proc Everchanging Aegis.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
-    -   Does not affect attacks that do not deal elemental damage.
+    -   Does not affect attacks that do not deal elemental damage.  
+        }}
     -   Prerequisites: 25 Intelligence  
         
     -   Tags: \[Intelligence\] \[Damage Resistance\]
 
 -   _**Neural Overload**_ \[Advanced Talent\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    
     -   The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
     -   Removing this Talent after modifying Mantras will **not** alter their pre-existing modifiers, keeping the benefit.
-    -   This does **not** increase the maximum Mantra modification hard limit.
+    -   This does **not** increase the maximum Mantra modification hard limit.  
+        
     -   Prerequisites: 85 Intelligence  
         
     -   Tags: \[Intelligence\]
 
 -   **Neural Overload** \[Advanced Talent\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
     
-    -   The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
+    {#if: \*The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
+    
     -   Removing this Talent after modifying Mantras will **not** alter their pre-existing modifiers, keeping the benefit.
-    -   This does **not** increase the maximum Mantra modification hard limit.
+    -   This does **not** increase the maximum Mantra modification hard limit.|\*The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
+    -   Removing this Talent after modifying Mantras will **not** alter their pre-existing modifiers, keeping the benefit.
+    -   This does **not** increase the maximum Mantra modification hard limit.  
+        }}
     -   Prerequisites: 85 Intelligence  
         
     -   Tags: \[Intelligence\]
 
 -   _Overflowing Dam_ \[Rare Talent\] - Having full [Ether](Ether.md) for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
-    
     -   For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
         -   For [Warlock's](<Warlock's_Mantle.md>) and [Ether Refined Mantle](Ether_Refined_Mantle.md), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.
-    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
+    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.  
+        
     -   Prerequisites: 40 Intelligence  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Warlock's Mantle](<Warlock's_Mantle.md>), [Ether Refined Mantle](Ether_Refined_Mantle.md), [Sorcerer's Mantle](<Sorcerer's_Mantle.md>)  
@@ -370,9 +409,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Overflowing Dam** \[Rare Talent\] - Having full [Ether](Ether.md) for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     
-    -   For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
+    {#if: \*For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
+    
+    -   -   For [Warlock's](<Warlock's_Mantle.md>) and [Ether Refined Mantle](Ether_Refined_Mantle.md), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.
+    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.|\*For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
         -   For [Warlock's](<Warlock's_Mantle.md>) and [Ether Refined Mantle](Ether_Refined_Mantle.md), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.
-    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
+    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.  
+        }}
     -   Prerequisites: 40 Intelligence  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Warlock's Mantle](<Warlock's_Mantle.md>), [Ether Refined Mantle](Ether_Refined_Mantle.md), [Sorcerer's Mantle](<Sorcerer's_Mantle.md>)  
@@ -387,6 +430,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Perfect Flash** \[Rare Talent\] - Having over 95% health causes your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
     
+    {#if: |  
+    }}
+    
     -   Prerequisites: 25 Intelligence  
         
     -   Tags: \[Intelligence\] \[Damage Buff\]
@@ -394,17 +440,20 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Aerial Dancer
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
-    
     -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
-    -   Synergizes very well with [uppercuts](Combat_Mechanics.md).
+    -   Synergizes very well with [uppercuts](Combat_Mechanics.md).  
+        
     -   Prerequisites: 15 Strength, 25 Weapon (25 Light // 25 Medium // 25 Heavy)  
         
     -   Tags: \[Strength\] \[Weapon\] \[Damage Buff\]
 
 -   **Wyvern's Claw** \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     
-    -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
-    -   Synergizes very well with [uppercuts](Combat_Mechanics.md).
+    {#if: \*Activates after not being in contact with a grounded surface for ~0.75 seconds.
+    
+    -   Synergizes very well with [uppercuts](Combat_Mechanics.md).|\*Activates after not being in contact with a grounded surface for ~0.75 seconds.
+    -   Synergizes very well with [uppercuts](Combat_Mechanics.md).  
+        }}
     -   Prerequisites: 15 Strength, 25 Weapon (25 Light // 25 Medium // 25 Heavy)  
         
     -   Tags: \[Strength\] \[Weapon\] \[Damage Buff\]
@@ -412,7 +461,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Aeromancer
 
 -   _Aerogliding_ \[Rare Talent\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor.
-    
     -   Has a windup of 1 second.
         -   When active, create an aura that reduces fall speed and stopping fall damage.
         -   Does not prevent existing fall damage, if user was already falling, Aerogliding may still damage the user upon activation.
@@ -422,15 +470,23 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled. (Stacks with [Feathered Glider](#feathered-glider))
     -   The old "[The Old Wind](Cut_Content.md#the-old-wind)" Talent was merged into this.  
         
-    
-    -   Grants +2 Passive Agility
+    -   Grants +2 Passive Agility  
+        
     -   Prerequisites: 35 Galebreathe, 30 Agility  
         
     -   Tags: \[Agility\] \[Galebreathe\] \[+Passive Agility\] \[Mobility\]
 
 -   **Aerogliding** \[Rare Talent\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor.
     
-    -   Has a windup of 1 second.
+    {#if: \*Has a windup of 1 second.
+    
+    -   -   When active, create an aura that reduces fall speed and stopping fall damage.
+        -   Does not prevent existing fall damage, if user was already falling, Aerogliding may still damage the user upon activation.
+    -   Automatically ends after 5 seconds, although it can be reactivated midair up to 3 times, however the windup will cause the user to take fall damage.
+        -   By air stalling you can continually reactivate Aerogliding and prevent fall damage.
+    -   When active, also lightly pushes user forwards, giving the user control.
+    -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled. (Stacks with [Feathered Glider](#feathered-glider))
+    -   The old "[The Old Wind](Cut_Content.md#the-old-wind)" Talent was merged into this.|\*Has a windup of 1 second.
         -   When active, create an aura that reduces fall speed and stopping fall damage.
         -   Does not prevent existing fall damage, if user was already falling, Aerogliding may still damage the user upon activation.
     -   Automatically ends after 5 seconds, although it can be reactivated midair up to 3 times, however the windup will cause the user to take fall damage.
@@ -438,89 +494,98 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   When active, also lightly pushes user forwards, giving the user control.
     -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled. (Stacks with [Feathered Glider](#feathered-glider))
     -   The old "[The Old Wind](Cut_Content.md#the-old-wind)" Talent was merged into this.  
+        }}
+    -   Grants +2 Passive Agility  
         
-    
-    -   Grants +2 Passive Agility
     -   Prerequisites: 35 Galebreathe, 30 Agility  
         
     -   Tags: \[Agility\] \[Galebreathe\] \[+Passive Agility\] \[Mobility\]
 
 -   **Gale Trap** \[Common Talent\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
-    
     -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) Mantra instead.**
     -   Marks players knocked by you for 6s with "Gale Trap".
     -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
     -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
-    -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.
+    -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.  
+        
     -   Prerequisites: Wind Step, 50 Galebreathe  
         
     -   Tags: \[Galebreathe\] \[Speed Boost\]
 
 -   **Gale Trap** \[Common Talent\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
     
-    -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) Mantra instead.**
+    {#if: \***Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) Mantra instead.**
+    
     -   Marks players knocked by you for 6s with "Gale Trap".
     -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
     -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
-    -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.
+    -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.|\***Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) Mantra instead.**
+    -   Marks players knocked by you for 6s with "Gale Trap".
+    -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
+    -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
+    -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.  
+        }}
     -   Prerequisites: Wind Step, 50 Galebreathe  
         
     -   Tags: \[Galebreathe\] \[Speed Boost\]
 
 -   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocation) for a short duration.
     
-      
-    
-
--   Grants +2 Passive Agility
+    -   Grants +2 Passive Agility  
+        
     -   Prerequisites: Prerequisites: 15 Strength, 35 Galebreathe  
         
     -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
 
 -   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocation) for a short duration.
     
-      
+    {#if: |  
+    }}
     
-
--   Grants +2 Passive Agility
+    -   Grants +2 Passive Agility  
+        
     -   Prerequisites: Prerequisites: 15 Strength, 35 Galebreathe  
         
     -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
 
 -   _Stifled Jump_ \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated.
-    
     -   The Daze effect lasts for 1 second.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
         
-    
-    -   Grants +2 Passive Agility
+    -   Grants +2 Passive Agility  
+        
     -   Prerequisites: Suffocating Impact  
         
     -   Tags: \[Galebreathe\] \[+Passive Agility\]
 
 -   **Stifled Jump** \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated.
     
-    -   The Daze effect lasts for 1 second.
-    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
-        
+    {#if: \*The Daze effect lasts for 1 second.
     
-    -   Grants +2 Passive Agility
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.|\*The Daze effect lasts for 1 second.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
+        }}
+    -   Grants +2 Passive Agility  
+        
     -   Prerequisites: Suffocating Impact  
         
     -   Tags: \[Galebreathe\] \[+Passive Agility\]
 
 -   **Vacuum Punch** \[Common Talent\] - Your [Gale Punch](Galebreathe.md#gale-punch) pulls enemies in before you hit them.
-    
     -   Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)
-    -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.
+    -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.  
+        
     -   Prerequisites: 20 Galebreathe, [Gale Punch](Galebreathe.md#gale-punch) (Mantra)  
         
     -   Tags: \[Galebreathe\]
 
 -   **Vacuum Punch** \[Common Talent\] - Your [Gale Punch](Galebreathe.md#gale-punch) pulls enemies in before you hit them.
     
-    -   Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)
-    -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.
+    {#if: \*Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)
+    
+    -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.|\*Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)
+    -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.  
+        }}
     -   Prerequisites: 20 Galebreathe, [Gale Punch](Galebreathe.md#gale-punch) (Mantra)  
         
     -   Tags: \[Galebreathe\]
@@ -528,10 +593,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Alchemist
 
 -   **Apothecary** \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.
-    
     -   Additively increases potion Potency by 125%. This is not displayed on the stats of your crafted potions. (More info on the [potions](Alchemy.md) page.)
     -   The bonus acts similar to a potion ingredient, therefore Apothecary does nothing else after brewing.
-    -   The old [Exterminator](Cut_Content.md#exterminator) Talent was merged into this.
+    -   The old [Exterminator](Cut_Content.md#exterminator) Talent was merged into this.  
+        
     -   Prerequisites: 10 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Skeptic Pioneer](Skeptic_Pioneer.md), [Alchemist's Hat](<Alchemist's_Hat.md>), and [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>). It is encouraged to simply utilize these when brewing instead of taking this as a Talent card.  
@@ -540,9 +605,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Apothecary** \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.
     
-    -   Additively increases potion Potency by 125%. This is not displayed on the stats of your crafted potions. (More info on the [potions](Alchemy.md) page.)
+    {#if: \*Additively increases potion Potency by 125%. This is not displayed on the stats of your crafted potions. (More info on the [potions](Alchemy.md) page.)
+    
     -   The bonus acts similar to a potion ingredient, therefore Apothecary does nothing else after brewing.
-    -   The old [Exterminator](Cut_Content.md#exterminator) Talent was merged into this.
+    -   The old [Exterminator](Cut_Content.md#exterminator) Talent was merged into this.|\*Additively increases potion Potency by 125%. This is not displayed on the stats of your crafted potions. (More info on the [potions](Alchemy.md) page.)
+    -   The bonus acts similar to a potion ingredient, therefore Apothecary does nothing else after brewing.
+    -   The old [Exterminator](Cut_Content.md#exterminator) Talent was merged into this.  
+        }}
     -   Prerequisites: 10 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Skeptic Pioneer](Skeptic_Pioneer.md), [Alchemist's Hat](<Alchemist's_Hat.md>), and [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>). It is encouraged to simply utilize these when brewing instead of taking this as a Talent card.  
@@ -550,77 +619,95 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Intelligence\]
 
 -   **Chain Reaction** \[Common Talent\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
-    
     -   Procs when a **thrown** potion replaces a different potion's effect. (Does not work on drank potions)
     -   This effect increases the effectiveness of your potion by 40% and is applied multiplicatively to potency.
-    -   The old [Taste Test](Cut_Content.md#taste-test) Talent was merged into this.
+    -   The old [Taste Test](Cut_Content.md#taste-test) Talent was merged into this.  
+        
     -   Prerequisites: 80 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Intelligence\]
 
 -   **Chain Reaction** \[Common Talent\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     
-    -   Procs when a **thrown** potion replaces a different potion's effect. (Does not work on drank potions)
+    {#if: \*Procs when a **thrown** potion replaces a different potion's effect. (Does not work on drank potions)
+    
     -   This effect increases the effectiveness of your potion by 40% and is applied multiplicatively to potency.
-    -   The old [Taste Test](Cut_Content.md#taste-test) Talent was merged into this.
+    -   The old [Taste Test](Cut_Content.md#taste-test) Talent was merged into this.|\*Procs when a **thrown** potion replaces a different potion's effect. (Does not work on drank potions)
+    -   This effect increases the effectiveness of your potion by 40% and is applied multiplicatively to potency.
+    -   The old [Taste Test](Cut_Content.md#taste-test) Talent was merged into this.  
+        }}
     -   Prerequisites: 80 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Intelligence\]
 
 -   **Chemistry Kit** \[Common Talent\] - You no longer drop potions on death. You have a 25% chance to brew an extra potion.
-    
     -   Saltchemist salts innately make your potions not drop on death, however are not manually droppable.
     -   When brewing potions, there's a 25% chance you'll gain 2 potions instead of 1.
-    -   The [Wild Alchemy](Cut_Content.md#wild-alchemy) and [Chemist's Bag](Cut_Content.md#chemists-bag) Talents were merged into this Talent
+    -   The [Wild Alchemy](Cut_Content.md#wild-alchemy) and [Chemist's Bag](Cut_Content.md#chemists-bag) Talents were merged into this Talent  
+        
     -   Prerequisites: 25 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Intelligence\]
 
 -   **Chemistry Kit** \[Common Talent\] - You no longer drop potions on death. You have a 25% chance to brew an extra potion.
     
-    -   Saltchemist salts innately make your potions not drop on death, however are not manually droppable.
+    {#if: \*Saltchemist salts innately make your potions not drop on death, however are not manually droppable.
+    
     -   When brewing potions, there's a 25% chance you'll gain 2 potions instead of 1.
-    -   The [Wild Alchemy](Cut_Content.md#wild-alchemy) and [Chemist's Bag](Cut_Content.md#chemists-bag) Talents were merged into this Talent
+    -   The [Wild Alchemy](Cut_Content.md#wild-alchemy) and [Chemist's Bag](Cut_Content.md#chemists-bag) Talents were merged into this Talent|\*Saltchemist salts innately make your potions not drop on death, however are not manually droppable.
+    -   When brewing potions, there's a 25% chance you'll gain 2 potions instead of 1.
+    -   The [Wild Alchemy](Cut_Content.md#wild-alchemy) and [Chemist's Bag](Cut_Content.md#chemists-bag) Talents were merged into this Talent  
+        }}
     -   Prerequisites: 25 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Intelligence\]
 
 -   _Placebo Effect_ \[Rare Talent\] - Drinking potions near allies will share the potion's effect with them.
-    
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
-    -   Its effective range is exactly 30 studs.
+    -   Its effective range is exactly 30 studs.  
+        
     -   Prerequisites: 60 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Intelligence\] \[Support\]
 
 -   **Placebo Effect** \[Rare Talent\] - Drinking potions near allies will share the potion's effect with them.
     
-    -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
-    -   Its effective range is exactly 30 studs.
+    {#if: \*Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
+    
+    -   Its effective range is exactly 30 studs.|\*Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
+    -   Its effective range is exactly 30 studs.  
+        }}
     -   Prerequisites: 60 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Intelligence\] \[Support\]
 
 -   _Potion Quaffer_ \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
-    
     -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
     -   The increased potion effectiveness is applied multiplicatively after Potency.
     -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
     -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
-    -   The old [Subsistence](Cut_Content.md#subsistence) Talent was merged into this.
+    -   The old [Subsistence](Cut_Content.md#subsistence) Talent was merged into this.  
+        
     -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Fortitude\] \[Willpower\] \[Intelligence
 
 -   **Potion Quaffer** \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     
-    -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
+    {#if: \*Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
+    
     -   The increased potion effectiveness is applied multiplicatively after Potency.
     -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
     -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
-    -   The old [Subsistence](Cut_Content.md#subsistence) Talent was merged into this.
+    -   The old [Subsistence](Cut_Content.md#subsistence) Talent was merged into this.|\*Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
+    -   The increased potion effectiveness is applied multiplicatively after Potency.
+    -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
+    -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
+    -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
+    -   The old [Subsistence](Cut_Content.md#subsistence) Talent was merged into this.  
+        }}
     -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Fortitude\] \[Willpower\] \[Intelligence
@@ -3310,7 +3397,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Conductor's Cable \[Common Talent, Ironsing\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Steals 10% of your enemy's maximum armor durability on proc.
-    -   Currently bugged and does not work as intended.
+    -   Although it says "steals", the enemy does not lose armor. You gain armor durability equal to 10% of their armor on proc.
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
@@ -4871,96 +4958,268 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 Certain Talents are given when a specific Equipment or Outfit is worn. Multiple copies of the same Talent do not stack. Equipment Talents are listed in alphabetical order:
 
 -   **Actions Speak Louder**: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your [Resonance](Resonance.md) cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 10% instead.
-    
     -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
-    -   This effect is applied before [Critical Engine](#critical-engine) [Blessed Gem](Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).
-    
-    -   Tags: \[Equipment\] \[Resonance\]
+    -   This effect is applied before [Critical Engine](#critical-engine) [Blessed Gem](Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).  
+        
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Resonance\]
 
 -   **Actions Speak Louder**: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your [Resonance](Resonance.md) cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 10% instead.
     
-    -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
+    {#if: \*Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
+    
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
-    -   This effect is applied before [Critical Engine](#critical-engine) [Blessed Gem](Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).
-    
-    -   Tags: \[Equipment\] \[Resonance\]
+    -   This effect is applied before [Critical Engine](#critical-engine) [Blessed Gem](Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).|\*Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
+    -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
+    -   This effect is applied before [Critical Engine](#critical-engine) [Blessed Gem](Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).  
+        }}
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Resonance\]
 
 -   **Alloyed Soles**: [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) & [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](Status_Effects.md#knockdown) applied to you.
     
     -   Reduces Knockdown duration by 75%.
-    -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.
-    
+    -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.  
+        
     -   Tags: \[Equipment\]
 
 -   **Alloyed Soles**: [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) & [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](Status_Effects.md#knockdown) applied to you.
     
-    -   Reduces Knockdown duration by 75%.
-    -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.
+    {#if: \*Reduces Knockdown duration by 75%.
     
+    -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.|\*Reduces Knockdown duration by 75%.
+    -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](Shadowcast.md#eclipse-kick) or charged Bow shots get parried.  
+        }}
     -   Tags: \[Equipment\]
 
--   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
+-   **Already Dead**: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), [Flame Within](#flame-within) (on cast, NOT the burn ticks), [Rush Hour](#rush-hour), [Shadow Travel](#shadow-travel), and [Electrify](#electrify).
         -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, [Circuit Breaker](#circuit-breaker), using [Electrify](#electrify) will cause you to heal 12 health instead of taking damage.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
-    -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
+    -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.  
+        
+    -   Tags: \[Equipment\]
 
--   Angel's Guise: [Hollow Angel Mask](Hollow_Angel_Mask.md) & [Sworn Angel Mask](Sworn_Angel_Mask.md) - You resemble one of the Sworn Angels.
+-   **Already Dead**: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
+    
+    {#if: \*Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
+    
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), [Flame Within](#flame-within) (on cast, NOT the burn ticks), [Rush Hour](#rush-hour), [Shadow Travel](#shadow-travel), and [Electrify](#electrify).
+        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, [Circuit Breaker](#circuit-breaker), using [Electrify](#electrify) will cause you to heal 12 health instead of taking damage.
+    -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
+    -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.|\*Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), [Flame Within](#flame-within) (on cast, NOT the burn ticks), [Rush Hour](#rush-hour), [Shadow Travel](#shadow-travel), and [Electrify](#electrify).
+        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, [Circuit Breaker](#circuit-breaker), using [Electrify](#electrify) will cause you to heal 12 health instead of taking damage.
+    -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
+    -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.  
+        }}
+    -   Tags: \[Equipment\]
+
+-   **Angel's Guise**: [Hollow Angel Mask](Hollow_Angel_Mask.md) & [Sworn Angel Mask](Sworn_Angel_Mask.md) - You resemble one of the [Sworn Angels](Sworn_Angel.md).
     -   Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
     -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
-    -   Angels will still aggro onto you while you have this Talent.
+    -   [Angels](Hollow_Angel.md) will still aggro onto you while you have this Talent.  
+        
+    -   Tags: \[Equipment\]
 
--   Bane: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
+-   **Angel's Guise**: [Hollow Angel Mask](Hollow_Angel_Mask.md) & [Sworn Angel Mask](Sworn_Angel_Mask.md) - You resemble one of the [Sworn Angels](Sworn_Angel.md).
     
-    -   Grants a Talent tool that on use allows you to teleport to your opponent when you M1 for 20 seconds.
+    {#if: \*Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
+    
+    -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
+    -   [Angels](Hollow_Angel.md) will still aggro onto you while you have this Talent.|\*Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
+    -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
+    -   [Angels](Hollow_Angel.md) will still aggro onto you while you have this Talent.  
+        }}
+    -   Tags: \[Equipment\]
+
+-   **Bane**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
+    
+    -   Grants a Talent tool that on use allows you to teleport to your opponent every time you M1 for 20 seconds.
     -   The teleportation has a range limit of 25 studs.
-    -   Bane additionally grants a speed boost for its full duration.
+    -   Bane additionally grants a [Speed Boost](Status_Effects.md#speed-boost) for its full duration.  
+        
+    -   Tags: \[Outfit\] \[Mobility\] \[Speed Boost\] \[Tool\]
 
--   Battle-Hardened: [Shock Corps Light](Shock_Corps_Light.md) - Reduce how much damage you take from mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] guardbreaks by 20%.
+-   **Bane**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
+    
+    {#if: \*Grants a Talent tool that on use allows you to teleport to your opponent every time you M1 for 20 seconds.
+    
+    -   The teleportation has a range limit of 25 studs.
+    -   Bane additionally grants a [Speed Boost](Status_Effects.md#speed-boost) for its full duration.|\*Grants a Talent tool that on use allows you to teleport to your opponent every time you M1 for 20 seconds.
+    -   The teleportation has a range limit of 25 studs.
+    -   Bane additionally grants a [Speed Boost](Status_Effects.md#speed-boost) for its full duration.  
+        }}
+    -   Tags: \[Outfit\] \[Mobility\] \[Speed Boost\] \[Tool\]
 
--   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
-    -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
+-   **Benefactor**: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to [Antiquarians](Antiquarian.md) within faction territories.
+    -   Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).  
+        
+    -   Tags: \[Outfit\]
 
--   Blind Spot: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
+-   **Benefactor**: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to [Antiquarians](Antiquarian.md) within faction territories.
+    
+    {#if: \*Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).|\*Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).  
+    }}
+    
+    -   Tags: \[Outfit\]
+
+-   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
     -   15 second cooldown.
-    -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).
+    -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).  
+        
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Debuff\]
 
--   Blinded: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
-    -   Makes everything darker and creates fog at long distances
-    -   Even though the [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision even with a Blindfold, the Talent still works.
-    -   The Talent grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
+-   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - \[Land Critical Attack or Hidden Blade\] Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
+    
+    {#if: \*15 second cooldown.
+    
+    -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).|\*15 second cooldown.
+    -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).  
+        }}
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Debuff\]
 
--   Blood Convergence: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
+-   **Blinded**: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
+    -   Applies the [Blinded](Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
+    -   The [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
+    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.  
+        
+    -   Tags: \[Equipment\] \[Debuff\]
 
--   Blood Necrosis: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
+-   **Blinded**: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
+    
+    {#if: \*Applies the [Blinded](Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
+    
+    -   The [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
+    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.|\*Applies the [Blinded](Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
+    -   The [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
+    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.  
+        }}
+    -   Tags: \[Equipment\] \[Debuff\]
+
+-   **Blood Converence**: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
+    
+    -   Tags: \[Equipment\] \[Sustain\]
+
+-   **Blood Converence**: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
+    
+    {#if: |  
+    }}
+    
+    -   Tags: \[Equipment\] \[Sustain\]
+
+-   **Blood Necrosis**: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
     -   You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
+    -   For The No-Life King's other Talent, view [No Limits](#no-limits)  
+        
+    -   Tags: \[Equipment\]
 
--   Blood Pact: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Pendant](Trueblood_Pendant.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
+-   **Blood Necrosis**: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
+    
+    {#if: \*You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
+    
+    -   For The No-Life King's other Talent, view [No Limits](#no-limits)|\*You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
+    -   For The No-Life King's other Talent, view [No Limits](#no-limits)  
+        }}
+    -   Tags: \[Equipment\]
 
--   Blood Plague: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
+-   **Blood Pact**: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
+    
+    -   Tags: \[Equipment\] \[Sustain\]
+
+-   **Blood Pact**: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
+    
+    {#if: |  
+    }}
+    
+    -   Tags: \[Equipment\] \[Sustain\]
+
+-   **Blood Plague**: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
     
     -   M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
-    -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.
+    -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.  
+        
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
 
--   Blood Siphon: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
+-   **Blood Plague**: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
+    
+    {#if: \*M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
+    
+    -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.|\*M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
+    -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.  
+        }}
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
 
--   Breeze: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.
-    -   Increases your movement speed by +2 studs/s, permanently.
+-   **Blood Siphon**: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
+    
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
 
--   Broodlord's Scream: [Broodplate Helmet](Broodplate_Helmet.md) - Using [Sing](Attunement-less.md#sing), [Taunt](Attunement-less.md#taunt), or Ardour Scream applies [anti heal](Status_Effects.md#anti-heal) for the duration of the move.
+-   **Blood Siphon**: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
+    
+    {#if: |  
+    }}
+    
+    -   Tags: \[Equipment\] \[Critical Attack\] \[Sustain\]
+
+-   **Breeze**: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.
+    -   Increases your movement speed by +2 studs/s, permanently.  
+        
+    -   Tags: \[Outfit\] \[Mobility\]
+
+-   **Breeze**: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.
+    
+    {#if: \*Increases your movement speed by +2 studs/s, permanently.|\*Increases your movement speed by +2 studs/s, permanently.  
+    }}
+    
+    -   Tags: \[Outfit\] \[Mobility\]
+
+-   **Broodlord's Scream**: [Broodplate Helmet](Broodplate_Helmet.md) - Using [Sing](Attunement-less.md#sing), [Taunt](Attunement-less.md#taunt), or Ardour Scream applies [anti heal](Status_Effects.md#anti-heal) for the duration of the move.
     -   Applies 100% Anti-Heal.
-    -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.
+    -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.  
+        
+    -   Tags: \[Equipment\] \[Anti-Sustain\]
 
--   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
-    -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
+-   **Broodlord's Scream**: [Broodplate Helmet](Broodplate_Helmet.md) - Using [Sing](Attunement-less.md#sing), [Taunt](Attunement-less.md#taunt), or Ardour Scream applies [anti heal](Status_Effects.md#anti-heal) for the duration of the move.
+    
+    {#if: \*Applies 100% Anti-Heal.
+    
+    -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.|\*Applies 100% Anti-Heal.
+    -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.  
+        }}
+    -   Tags: \[Equipment\] \[Anti-Sustain\]
 
--   Brute Strength: [Imperator's Fury](<Imperator's_Fury.md>) - Your vent is replaced with a ground slam attack that knocks back enemies.
+-   **Brunt**: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
+    -   Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
+        
+    -   Tags: \[Outfit\] \[Posture Resistance\]
+
+-   **Brunt**: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
+    
+    {#if: \*Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).|\*Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
+    }}
+    
+    -   Tags: \[Outfit\] \[Posture Resistance\]
+
+-   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     -   Deals 35 Blunt damage with 20 Posture damage.
-    -   Cannot be buffed through damage modifiers.
+    -   Cannot be buffed through damage modifiers, though [Cold Front](#cold-front)'s 40% Vent damage buff applies to Brute Strenth.
     -   Increases your Vent's windup from 0.25s to 0.5s.
-    -   Procs all "on Vent" Talents and effects.
+    -   Procs all "on Vent" Talents and effects.  
+        
+    -   Tags:
+
+-   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
+    
+    {#if: \*Deals 35 Blunt damage with 20 Posture damage.
+    
+    -   Cannot be buffed through damage modifiers, though [Cold Front](#cold-front)'s 40% Vent damage buff applies to Brute Strenth.
+    -   Increases your Vent's windup from 0.25s to 0.5s.
+    -   Procs all "on Vent" Talents and effects.|\*Deals 35 Blunt damage with 20 Posture damage.
+    -   Cannot be buffed through damage modifiers, though [Cold Front](#cold-front)'s 40% Vent damage buff applies to Brute Strenth.
+    -   Increases your Vent's windup from 0.25s to 0.5s.
+    -   Procs all "on Vent" Talents and effects.  
+        }}
+    -   Tags:
 
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.

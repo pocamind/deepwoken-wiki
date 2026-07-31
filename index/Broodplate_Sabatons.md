@@ -1,6 +1,6 @@
 ---
 title: Broodplate Sabatons
-revid: 223943
+revid: 225312
 source: https://deepwoken.fandom.com/wiki/Broodplate_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

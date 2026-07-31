@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 220912
+revid: 225302
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -194,7 +194,7 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
 
 -   As of 27.03.2025 There's a green screen location on the map, located behind a wall without collision.
     
-    Green Screen Location ( Eastern Luminant )
+    Green screen room (Eastern luminant)
     
 -   Previously, all landmarks were initially blurred until they were visited by the player, and your map progress only persisted per slot.
 -   The player marker will accurately track the players movement and position within the world from [Dimensional Travel](Dimensional_Travel.md), but will not track their ally markers properly if they're within the dimension.

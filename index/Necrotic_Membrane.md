@@ -1,6 +1,6 @@
 ---
 title: Necrotic Membrane
-revid: 223645
+revid: 225298
 source: https://deepwoken.fandom.com/wiki/Necrotic_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
