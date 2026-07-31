@@ -1,9 +1,9 @@
 ---
 title: Jadeite Megalodaunt
-revid: 223811
+revid: 225254
 source: https://deepwoken.fandom.com/wiki/Jadeite_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso]
+categories: [Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Jadeite Megalodaunt
@@ -30,10 +30,14 @@ The Jadeite Megalodaunt is an [Equipment](Equipment.md) item under the "Torso" c
 
 It is a waist-worn Megalodaunt charm made out of jade.
 
-The [Good Luck Charm](Talents.md#good-luck-charm) Talent has an unknown effect; "Makes you feel a little better, probably."
+The [Good Luck Charm](Talents.md#good-luck-charm) Talent does not do anything and is purely cosmetic.[\[1\]](#cite-note-1)
 
 ## Trivia
 
 -   If you have the Cloth Physics [Setting](Settings.md) on, the charm will have physics applied to it, bouncing around as you move.
 -   The charm emits sparkling visual effects, which can change color to match dyes applied to it.
 -   The charm appears to resemble depictions of Cthulhu charms, due to its dark green coloring and strikingly similar pose.
+
+## References
+
+1.  [↑](#cite-ref-1)

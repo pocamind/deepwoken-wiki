@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 223172
+revid: 225234
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -24,7 +24,7 @@ Parasol's Blight is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive summoning [enchan
 
 When hitting a player with a weapon attack, Parasol's Blight applies the [Parasol's Blight](Status_Effects.md#parasols-blight) status effect for 60 seconds. Landing subsequent attacks on affected targets will refresh the debuff duration. If an affected player dies, an allied [Monster](Monsters.md) will spawn over their corpse.
 
-PvE enemies you kill have a small (3%~) chance of proccing Parasol's Blight and summoning allied monsters.
+PvE enemies you kill have a small chance of proccing Parasol's Blight and summoning allied monsters.
 
 Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Nautilodaunt](Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), or [Void Thresher](Thresher.md). These monsters can spawn [Corrupted](Monsters.md#scyphozia) if this enchantment is used in [The Depths](The_Depths.md).
 

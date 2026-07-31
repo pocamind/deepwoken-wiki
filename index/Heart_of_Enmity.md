@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 225161
+revid: 225260
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -192,6 +192,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
+    <li><b>Named Weapons</b>: <a href="Rangescraper.md">Rangescraper</a></li>
     <li><b>Unique Weapons</b>: <a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a>, <a href="Gaunts_of_Enmity.md"><font>Gaunts of Enmity</font></a>.</li>
     <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
     <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>.</li>

@@ -1,6 +1,6 @@
 ---
 title: Sea Bass
-revid: 223899
+revid: 225284
 source: https://deepwoken.fandom.com/wiki/Sea_Bass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Ingredients, Fishing Exclusive]
@@ -22,7 +22,7 @@ categories: [Items, Fish, Ingredients, Fishing Exclusive]
 
 ## Description
 
-A Sea Bass can be caught by [Fishing](Fishing.md) in the [The Etrean Sea](The_Etrean_Sea.md)
+A Sea Bass can be caught by [Fishing](Fishing.md), being more common in coastal waters
 
 ## Crafting
 

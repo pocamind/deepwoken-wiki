@@ -1,6 +1,6 @@
 ---
 title: Greathammers
-revid: 221770
+revid: 225224
 source: https://deepwoken.fandom.com/wiki/Greathammers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heavy Weapons, Weapon Classes]
@@ -12,7 +12,7 @@ categories: [Heavy Weapons, Weapon Classes]
 
 Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle. These weapons are second to none for their high posture damage.
 
-Like [Greatswords](Greatswords.md) and [Greataxes](Greataxes.md), Greathammers receive a -15% damage penalty to their aerial attacks. Additionally, like all other Heavy Weapon categories, _most_ Greathammers are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
+Like [Greatswords](Greatswords.md) and [Greataxes](Greataxes.md), Greathammers receive a -15% damage penalty to their aerial attacks. Additionally, like all other Heavy Weapon categories, _most_ Greathammers are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapon investment.
 
 After parrying an attack, your next light attack will gain [Hyperarmor](Status_Effects.md#hyperarmor).
 
