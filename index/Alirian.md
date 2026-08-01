@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 224644
+revid: 225499
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

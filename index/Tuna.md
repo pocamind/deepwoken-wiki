@@ -1,6 +1,6 @@
 ---
 title: Tuna
-revid: 223901
+revid: 225515
 source: https://deepwoken.fandom.com/wiki/Tuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Ingredients, Fishing Exclusive]
@@ -22,7 +22,7 @@ categories: [Items, Fish, Ingredients, Fishing Exclusive]
 
 ## Description
 
-A Tuna can be caught by [Fishing](Fishing.md) in [The Aratel Sea](The_Aratel_Sea.md). Fishing spots can be used to greatly improve the chances of catching a Tuna.
+A Tuna can be caught by [Fishing](Fishing.md). Fishing spots can be used to greatly improve the chances of catching a Tuna.
 
 ## Crafting
 

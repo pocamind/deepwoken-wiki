@@ -1,6 +1,6 @@
 ---
 title: Bari
-revid: 224671
+revid: 225446
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

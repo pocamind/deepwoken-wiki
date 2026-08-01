@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225414
+revid: 225430
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -861,7 +861,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: Get 10 Bites in [fishing](Fishing.md) (given automatically)  
         
-    -   Tags: \[Fishing\]
 
 -   **Proficient Baiting** \[Quest Talent\] - Casting your line excites ocea life, reducing the chances of fishing up trash.
     
@@ -872,14 +871,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: Get 10 Bites in [fishing](Fishing.md) (given automatically)  
         
-    -   Tags: \[Fishing\]
 
 -   _Hook, Line, and Sinker_ \[Quest Talent\] - Once something's caught your line, it's much harder for it to get loose.
     -   Increases the amount of time provided to complete the fishing minigame.  
         
     -   Prerequisites: Get 30 Bites in [fishing](Fishing.md) (given automatically)  
         
-    -   Tags: \[Fishing\]
 
 -   **Hook, Line, and Sinker** \[Quest Talent\] - Once something's caught your line, it's much harder for it to get loose.
     
@@ -888,14 +885,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: Get 30 Bites in [fishing](Fishing.md) (given automatically)  
         
-    -   Tags: \[Fishing\]
 
 -   _Fisher's Lure_ \[Quest Talent\] - Fish are drawn to your line more quickly.
     -   Reduces the amount of time it takes to get a bite.  
         
     -   Prerequisites: Get 50 Bites in [fishing](Fishing.md) (given automatically)  
         
-    -   Tags: \[Fishing\]
 
 -   **Fisher's Lure** \[Quest Talent\] - Fish are drawn to your line more quickly.
     
@@ -904,80 +899,276 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: Get 50 Bites in [fishing](Fishing.md) (given automatically)  
         
-    -   Tags: \[Fishing\]
 
 ### Annihilator
 
--   _**Collapsed Lung**_ \[Advanced Talent, Strength\] - Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to [Vent](Combat_Mechanics.md#tempo) for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
     -   The Vent negation duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
         -   Collapsed Lung will have a 7 second duration at 75 Strength.
-    -   Collapsed decreases the posture damage affected targets do to you by 40%.
-    -   Prerequisite: 100 Strength
+    -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets deal to you by 40%.  
+        
+    -   Prerequisites: 100 Strength  
+        
+    -   Tags: \[Strength\] \[Guardbreak\]
+
+-   **Collapsed Lung** \[Advanced Talent\] - Block breaking an opponent closes off their ability to [Vent](Combat_Mechanics.md#tempo) for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
+    
+    {#if: \*The Vent negation duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
+    
+    -   -   Collapsed Lung will have a 7 second duration at 75 Strength.
+    -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets deal to you by 40%.|\*The Vent negation duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
+        -   Collapsed Lung will have a 7 second duration at 75 Strength.
+    -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets deal to you by 40%.  
+        }}
+    -   Prerequisites: 100 Strength  
+        
+    -   Tags: \[Strength\] \[Guardbreak\]
 
 ### Apex Predator
 
--   _Carnivore_ \[Rare Talent, Strength, Willpower\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
-    -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
-    -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
-    -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
-    -   Prerequisites: 5 Strength, 5 Willpower
-    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) (Flaw)
+-   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+    -   You now vomit when consuming plant-based [Food](Food.md) items. Generic and Meat-type foods are still consumable.
+    -   Gain hunger and thirst upon executing an monster, NPC or player. The nourishment gained scales on the strength of the target.
+    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
+        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
+            
+    -   Prerequisites: 5 Strength, 5 Willpower  
+        
+    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw  
+        
+    -   Tags: \[Strength\] \[Willpower\] \[Food\]
 
--   Grand Feast \[Common Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
-    -   Healing is negated in PVP combat.
-    -   40% tempo gain, 55% ether gain, 3% blood gain, 5% health gain.
-    -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
-    -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
-    -   Prerequisite: Carnivore
+-   **Carnivore** \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+    
+    {#if: \*You now vomit when consuming plant-based [Food](Food.md) items. Generic and Meat-type foods are still consumable.
+    
+    -   Gain hunger and thirst upon executing an monster, NPC or player. The nourishment gained scales on the strength of the target.
+    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
+        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.|\*You now vomit when consuming plant-based [Food](Food.md) items. Generic and Meat-type foods are still consumable.
+    -   Gain hunger and thirst upon executing an monster, NPC or player. The nourishment gained scales on the strength of the target.
+    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
+        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
+            }}
+    -   Prerequisites: 5 Strength, 5 Willpower  
+        
+    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw  
+        
+    -   Tags: \[Strength\] \[Willpower\] \[Food\]
 
--   Sunken Predator \[Common Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
+-   **Grand Feast** \[Common Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing.
+    -   The healing is negated while in PVP combat.
+    -   On proc, gain 40% maximum [Tempo](Combat_Mechanics.md#tempo), 55% maximum [Ether](Ether.md), 3% maximum blood, and 5% maximum health.
+    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
+        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
+            
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Carnivore](#carnivore)  
+        
+    -   Tags: \[Strength\] \[Willpower\] \[+Passive Agility\] \[Food\] \[Sustain\]
+
+-   **Grand Feast** \[Common Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing.
+    
+    {#if: \*The healing is negated while in PVP combat.
+    
+    -   On proc, gain 40% maximum [Tempo](Combat_Mechanics.md#tempo), 55% maximum [Ether](Ether.md), 3% maximum blood, and 5% maximum health.
+    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
+        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.|\*The healing is negated while in PVP combat.
+    -   On proc, gain 40% maximum [Tempo](Combat_Mechanics.md#tempo), 55% maximum [Ether](Ether.md), 3% maximum blood, and 5% maximum health.
+    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
+        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
+            }}
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Carnivore](#carnivore)  
+        
+    -   Tags: \[Strength\] \[Willpower\] \[+Passive Agility\] \[Food\] \[Sustain\]
+
+-   **Sunken Predator** \[Common Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
-    -   Players are only slowed a little bit for less time instead.
-    -   Prerequisite: [Power](Power.md) 11
+    -   Players are only slowed a little bit for less time instead.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Power](Power.md) 11  
+        
+    -   Tags: \[+Passive Agility\] \[Debuff\]
+
+-   **Sunken Predator** \[Common Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
+    
+    {#if: \*Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
+    
+    -   Players are only slowed a little bit for less time instead.|\*Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
+    -   Players are only slowed a little bit for less time instead.  
+        }}
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Power](Power.md) 11  
+        
+    -   Tags: \[+Passive Agility\] \[Debuff\]
 
 ### Arcwarder
 
--   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot, +5% PEN)
-    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
+-   **Oath: Arcwarder** \[Oath Talent\] - You [vow](Glossary.md#vow) to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
+    -   See [Oath: Arcwarder](Oath%253A_Arcwarder.md).  
+        
+    -   Grants +1 Wildcard Mantra Slot, +2 Combat Mantra Slots, +5% PEN  
+        
+    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, complete [Alpha](Alpha.md)'s quest  
+        
+    -   Tags: \[Arcwarder\] \[Fortitude\] \[Flamecharm\] \[+PEN\] \[+Mantra Slot\]
 
--   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Your dashes become Jet Dashes, allowing you to attack while dashing.
+-   **Oath: Arcwarder** \[Oath Talent\] - You [vow](Glossary.md#vow) to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
+    
+    {#if: \*See [Oath: Arcwarder](Oath%253A_Arcwarder.md).|\*See [Oath: Arcwarder](Oath%253A_Arcwarder.md).  
+    }}
+    
+    -   Grants +1 Wildcard Mantra Slot, +2 Combat Mantra Slots, +5% PEN  
+        
+    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, complete [Alpha](Alpha.md)'s quest  
+        
+    -   Tags: \[Arcwarder\] \[Fortitude\] \[Flamecharm\] \[+PEN\] \[+Mantra Slot\]
+
+-   **Arc Module: Dash** \[Oath Talent\] - In Arc Suit Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
-    -   Also allows the user to M1 while performing a dash, ending their dash early.
-    -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
+    -   Also allows the user to M1 while performing a dash, ending their dash early.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md)  
+        
+    -   Tags: \[Arcwarder\] \[Mobility\]
 
--   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit When blockbroken, eject from your suit.
+-   **Arc Module: Dash** \[Oath Talent\] - \[In Arc Suit\] Your dashes become Jet Dashes, allowing you to attack while dashing.
+    
+    {#if: \*Jet dashes go much further than regular dashes.
+    
+    -   Also allows the user to M1 while performing a dash, ending their dash early.|\*Jet dashes go much further than regular dashes.
+    -   Also allows the user to M1 while performing a dash, ending their dash early.  
+        }}
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md)  
+        
+    -   Tags: \[Arcwarder\] \[Mobility\]
+
+-   **Arc Module: Eject** \[Oath Talent\] - In Arc Suit When blockbroken, eject from your suit.
     -   If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
-    -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Upon ejecting from the Arc Suit, your posture will be set to 50%.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\] \[Guardbreak\]
 
--   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Your Arcwarder Mantras deal increased damage.
+-   **Arc Module: Eject** \[Oath Talent\] - \[In Arc Suit\] When blockbroken, eject from your suit.
+    
+    {#if: \*If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
+    
+    -   Upon ejecting from the Arc Suit, your posture will be set to 50%.|\*If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
+    -   Upon ejecting from the Arc Suit, your posture will be set to 50%.  
+        }}
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\] \[Guardbreak\]
+
+-   **Arc Module: Enhance** \[Oath Talent\] - In Arc Suit Your Arcwarder Mantras deal increased damage.
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
-    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your more conventional modifiers by giving them a higher base damage to work off of.
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your more conventional modifiers by giving them a higher base damage to work off of.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\] \[Damage Buff\]
 
--   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit You can block attacks from any direction and cannot be backstabbed.
-    -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you can block attacks that are coming from any direction.
-    -   Talents that proc on backstab (e.g. _Spine Cutter_) cannot proc on you while you're in Arc Suit.
-    -   Does **not** prevent assassinations or nullify damage from attacks that hit your back.
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+-   **Arc Module: Enhance** \[Oath Talent\] - \[In Arc Suit\] Your Arcwarder Mantras deal increased damage.
+    
+    {#if: \*Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
+    
+    -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
+    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your more conventional modifiers by giving them a higher base damage to work off of.|\*Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
+    -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
+    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your more conventional modifiers by giving them a higher base damage to work off of.  
+        }}
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\] \[Damage Buff\]
 
--   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Holding Spacebar after double jumping propels you up for a short duration.
+-   **Arc Module: Guard** \[Oath Talent\] - In Arc Suit You can block attacks from any direction and cannot be backstabbed.
+    
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\]
+
+-   **Arc Module: Guard** \[Oath Talent\] - \[In Arc Suit\] You can block attacks from any direction and cannot be backstabbed.
+    
+    {#if: |  
+    }}
+    
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\]
+
+-   **Arc Module: Leap** \[Oath Talent\] - In Arc Suit Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
-    -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\] \[Mobility\]
 
--   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+-   **Arc Module: Leap** \[Oath Talent\] - \[In Arc Suit\] Holding Spacebar after double jumping propels you up for a short duration.
+    
+    {#if: \*Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
+    
+    -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.|\*Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
+    -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.  
+        }}
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\] \[Mobility\]
+
+-   **Arc Module: Null** \[Oath Talent\] - In Arc Suit Outgoing and incoming enchant effects are nullified. Can be toggled with N.
     -   Toggling Null on/off has a 5 second cooldown.
     -   Has a sound effect on toggle.
-    -   Toggle hotkey can be changed in settings.
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   There is no way to tell if it is active or not until you attempt to use or get hit by an [Enchantment](Enchantments.md).
+    -   Only affects weapon Enchantments.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\]
+
+-   **Arc Module: Null** \[Oath Talent\] - \[In Arc Suit\] Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+    
+    {#if: \*Toggling Null on/off has a 5 second cooldown.
+    
+    -   Has a sound effect on toggle.
+    -   There is no way to tell if it is active or not until you attempt to use or get hit by an [Enchantment](Enchantments.md).
+    -   Only affects weapon Enchantments.|\*Toggling Null on/off has a 5 second cooldown.
+    -   Has a sound effect on toggle.
+    -   There is no way to tell if it is active or not until you attempt to use or get hit by an [Enchantment](Enchantments.md).
+    -   Only affects weapon Enchantments.  
+        }}
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[Arcwarder\]
 
 ### Artisan
 
--   Master Craftsman \[Common Talent, Intelligence\] - Your skills alone substitute the need for a Craft Station. (+5 Health)
-    -   When crafting, the user no longer requires a Craft Station in their recipes. (Ex. Glider)
-    -   Prerequisite: 45 Intelligence
+-   **Master Craftsman** \[Common Talent\] - Your skills alone substitute the need for a Craft Station.
+    -   The user permanently gains the effects of the [Crafting Station](Crafting_Station.md), allowing them to craft Crafting Station recipes from their inventory (e.g. [Gliders](Gliders.md)).  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: 45 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[+Health\]
+
+-   **Master Craftsman** \[Common Talent\] - Your skills alone substitute the need for a Craft Station.
+    
+    {#if: \*The user permanently gains the effects of the [Crafting Station](Crafting_Station.md), allowing them to craft Crafting Station recipes from their inventory (e.g. [Gliders](Gliders.md)).|\*The user permanently gains the effects of the [Crafting Station](Crafting_Station.md), allowing them to craft Crafting Station recipes from their inventory (e.g. [Gliders](Gliders.md)).  
+    }}
+    
+    -   Grants +5 Health  
+        
+    -   Prerequisites: 45 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[+Health\]
 
 ### Assassin
 

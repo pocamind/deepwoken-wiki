@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 225109
+revid: 225512
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -26,7 +26,7 @@ _Commonly referred to by the community as Kaido (Developers prefer that it is re
 
 ## Description
 
-An once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a massive [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It's spawn is displayed by a mass of bubbles being on the water.
+A once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a massive [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It's spawn is displayed by a mass of bubbles being on the water.
 
 The Dread Serpent appears as a long, gray serpent-like dragon possessing four horns and eyes. It sports a black mane and beard, as well as a black fur that runs throughout its back, ending with a fire-shaped tail. It primarily uses the power of [Frostdraw](Frostdraw.md) to stop boats and prey alike.
 

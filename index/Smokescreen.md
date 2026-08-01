@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 208553
+revid: 225520
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -37,7 +37,7 @@ The invisibility is cancelled when using an attack.
 
 Smokescreen will give 20% Stealth when active.
 
-If Smokescreen is corrupted, it can be activated again by pressing C, which teleports the user backwards and places another smoke on the teleport location.
+If Smokescreen is corrupted, it can be activated again by pressing C, which teleports the user backwards and places another smoke on the teleport location. The length of this teleport scales on the user's current health.
 
 ## Point Usage
 

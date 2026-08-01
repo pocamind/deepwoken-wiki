@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 224566
+revid: 225471
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]

@@ -1,6 +1,6 @@
 ---
 title: Amethyst (NPC)
-revid: 224649
+revid: 225494
 source: https://deepwoken.fandom.com/wiki/Amethyst_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]

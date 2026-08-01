@@ -1,6 +1,6 @@
 ---
 title: Barber (Glumbo)
-revid: 224670
+revid: 225445
 source: https://deepwoken.fandom.com/wiki/Barber_(Glumbo)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Exclusive, Vendors, NPCs]

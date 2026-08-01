@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 219264
+revid: 225518
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -70,6 +70,8 @@ This Oath grants 1 Support Mantra slot, 2 Combat Mantra slots, and +5% PEN. Appe
     -   Swaps your position with your clone, teleporting you to their current position and them to yours, very large range of ~350 studs.
     -   You can use Shaper Swap within up to 0.2 seconds after using a move.
         -   You can also use Shaper Swap during the middle of an attack with negative endlag. (Ex. before the second slash of [Umbrite Witherblade](Umbrite_Witherblade.md)'s crit)
+    -   After swapping, you will deal 33% less damage for 1 second, and 50% less posture damage for 3 seconds.
+    -   When a player parries one of your Visionshaper clones, your ability to use Shaper Swap is disabled for 3 seconds.
     -   Having Shaper Swap and something else bonded to the same key may allow the user to do both actions at once, such as teleporting while executing players.
     -   Has a cooldown of 8 seconds.
 
@@ -182,6 +184,7 @@ TBA
 -   The name of currently stored attacks is written above the clone's head in white text with a purple outline. (Clears on use)
 -   The [modifiers](Mantra_Modifiers.md) of mantras will be copied.
 -   Clones disappear in 3 hits, but are immune to damage over time effects.
+-   A clone spawned from Illusory Servant will disappear after ~15 seconds, so long as the clone is not killed prematurely.
 -   Clones cannot copy enchantments/talents.
 -   If the targeted player has the Disbelief Talent, clone duration is halved.
 -   The damage of the clones its 50% of the unscaled and unleveled damage of your basic attack, crit, or mantra.
@@ -225,6 +228,8 @@ TBA
 **Effect:** _Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone on the right side of your opponent._
 
 -   The counter animation plays before the actual counter is activated, which may result in you being hit "during the counter".
+-   Clones disappear in 3 hits, but are immune to damage over time effects.
+-   A clone spawned from Illusory Counter will disappear after ~2.5 seconds, so long as the clone is not killed prematurely.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion.
 -   User can't move while using Illusory Counter.
 

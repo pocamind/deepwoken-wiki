@@ -1,6 +1,6 @@
 ---
 title: Abandoned Diver (Journeyman Skeli)
-revid: 224634
+revid: 225509
 source: https://deepwoken.fandom.com/wiki/Abandoned_Diver_(Journeyman_Skeli)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]

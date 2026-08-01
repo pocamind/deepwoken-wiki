@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 216775
+revid: 225519
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -41,7 +41,7 @@ If you hover your mouse over one of your active waypoints, activation will inste
   
 You can place teleport points in the Depths, however, teleporting to it will cause it to disappear.
 
-**This Resonance cannot be used in any [Dungeon](Dungeons.md).**
+**This Resonance cannot be used in any [Dungeon](Dungeons.md). You cannot place teleportation markers near/in [Whirlpools](Whirlpools.md), [The Lord Regent](The_Lord_Regent.md), or the [Voidheart](Voidheart.md).**
 
 ### Drowned Teleportation
 
@@ -102,4 +102,5 @@ If Teleportation is used in combat, its cooldown is doubled upon usage.
 -   If you are trapped in somebody else's Gravity Field bell, and that person is standing in your teleportation radius, they will be sent to the destination but you will stay where you are.
 -   Teleportation charges faster if you are relatively close by the location you chose to teleport to.
 -   Teleportation now cancels if hit during the first 6s of its windup. If its windup is cancelled, it is put on a 15s cooldown
+-   If you are unconscious or ragdolled and are teleported, you will instantly stand up.
 -   If you have the _[Tarnished](Boons_and_Flaws.md#flaws)_ flaw, you will only be able to teleport if you click on the mark too many times.

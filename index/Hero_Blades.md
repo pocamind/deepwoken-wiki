@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 224579
+revid: 225476
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Hero Blades]

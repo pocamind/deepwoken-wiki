@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 218787
+revid: 225516
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -172,6 +172,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   If you have 0% Tempo, your Rising Star, Relentless Hunt, and Mayhem deal reduced damage, posture damage, and will have longer windups.
     -   Heavy: -15 damage, -5 posture damage / Medium: -15 damage, -4 posture damage / Light: -7.5 damage, -1 posture damage.
 -   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
+-   Using any Silentheart ability will remove your active Whistleguard, granted you are wearing a [Whistling Periapt](Whistling_Periapt.md).
 -   Dying to an attunement user does not necessarily mean being manually executed by them; dying by any method as long as they are the killer will work.
 -   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCONFIRMED)**
 -   You will still gain [Whisper Draws](Whisper_Draw.md) when leveling up, and from Special Mantra Hands.

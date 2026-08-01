@@ -1,6 +1,6 @@
 ---
 title: Avian
-revid: 224665
+revid: 225441
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]

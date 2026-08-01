@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 223759
+revid: 225513
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -231,7 +231,7 @@ Winded reduces your swing speed by 5% (15% if applied by Specter path). This eff
 
 ### Suffocate
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap), [Wind Blade](Galebreathe.md#wind-blade)(tempest wind variant), [Galeforce](Monsters.md#attuned-monsters) monsters, or through certain Galebreathe Talents. Removes your ability to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent [Stifled Jump](Talents.md#stifled-jump), you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Blade](Galebreathe.md#wind-blade)(tempest wind variant), [Galeforce](Monsters.md#attuned-monsters) monsters, or through certain Galebreathe Talents. Removes your ability to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent [Stifled Jump](Talents.md#stifled-jump), you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
   
 

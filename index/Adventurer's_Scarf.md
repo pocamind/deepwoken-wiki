@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 221105
+revid: 225506
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Scarves]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Cinders of Etris, Aelita, The Ferryman (Winter), Saramaed Hollow |
+| obtainment | Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Cinders of Etris, Aelita, The Ferryman (Winter), Saramaed Hollow |
 | description | ... |
 
 ## Description

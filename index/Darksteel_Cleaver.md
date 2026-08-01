@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 224538
+revid: 225462
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Talents, Heavy Weapons]

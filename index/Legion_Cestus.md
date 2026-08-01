@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 224611
+revid: 225490
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, Weapons with Talents]

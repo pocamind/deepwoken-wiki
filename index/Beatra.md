@@ -1,6 +1,6 @@
 ---
 title: Beatra
-revid: 224672
+revid: 225447
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pathfinder Exclusive, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]

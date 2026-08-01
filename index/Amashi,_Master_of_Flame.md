@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 224647
+revid: 225496
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]

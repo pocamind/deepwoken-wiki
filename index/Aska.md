@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 224660
+revid: 225437
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
