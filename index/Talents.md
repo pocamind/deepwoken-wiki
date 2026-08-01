@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225535
+revid: 225543
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1382,7 +1382,19 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Authority Soldier
 
 -   _Authority Ensign_ \[Origin Talent\] - You are a member of the Authority deployed to the Eastern Luminant. You may find trouble with the local factions and must become stronger through advancing the Authority's position.
-    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin
+    
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\]
+
+-   **Authority Ensign** \[Origin Talent\] - You are a member of the Authority deployed to the Eastern Luminant. You may find trouble with the local factions and must become stronger through advancing the Authority's position.
+    
+    {#if: |  
+    }}
+    
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\]
 
 ### Bastion
 
@@ -2882,12 +2894,6 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
 
--   Simmerbloom \[Common Talent, Equipment Talent\] - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
-    -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
-        -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
-    -   Obtained from [Simmerbloom Diadem](Simmerbloom_Diadem.md)
-    -   Requirements for Equipment: [Power](Power.md) 10
-
 ### Innate
 
 Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of Iron](Vow_of_Iron.md) gamemode, you will additionally gain the [Vow of Iron exclusive Aspect Talents](#innate-vow-of-iron) from your respective Aspect.
@@ -3405,12 +3411,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 25 Willpower
     -   The [Dark Owl Cloak](Dark_Owl_Cloak.md) equipment has this Talent.
 
-### Merchant
-
--   Art of the Deal \[Common Talent, [Equipment](Equipment.md)\] - Your rapport with merchants gives you lower prices!
-    -   Reduces an item's purchase price by 10%.
-    -   Obtained by equipping an [Aristocrat Coat](Aristocrat_Coat.md).
-
 ### Metallurgist
 
 -   Intuitive Repairs \[Common Talent, Ironsing\] - Your 'Iron Skin' repairs armor while it's active.
@@ -3444,23 +3444,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Upon taking damage from any non-self damage source (excluding fall damage), all stacks will be lost.
     -   Prerequisites: Defeat any [boss](Bosses.md) solo without taking any damage.
         -   Once you have obtained this Talent on any character, you will receive this Talent automatically on all subsequent characters.
-
-### Ministry Prophet
-
--   Already Dead \[Common Talent, [Equipment](Equipment.md)\] - You take reduced damage from abilities with a health cost.
-    -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
-        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, Circuit Breaker, using Electrify will cause you to heal flat 3% instead of taking damage.
-    -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
-    -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
-    -   Lower the Wither application from [Symbiotic Sustain](Oath%253A_Linkstrider.md) to 5%
-    -   Shade Devour self damage is reduced by 50%
-    -   Rush Hour self damage is reduced by 22%
-    -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
-
--   Withering Soul \[Common Talent, [Outfit](Outfits.md)\] - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
-    -   The Wither applied is based off your weapon's scaled damage.
-    -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
 
 ### Mindbreaker
 
@@ -4414,16 +4397,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The posture damage and chip damage buffs have reduced effects if you have under 75 Galebreathe.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
-### Spoils of Enmity
-
--   Heartwing Beat \[Common Talent, [Equipment](Equipment.md)\] - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
-    -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
-    -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#relentless-hunt) unless this Talent is on cooldown.
-    -   Heartwing Beat has 25 base damage, and mirrors the scaling stat from your equipped weapon. Tangentially, this Talent uses the weapon scaling formula.
-        -   For example, using Heartwing Beat on the [Sword](<Sword_(weapon).md>) will give it 2.5 Medium scaling, while using it on the [Repeater](Repeater.md) will give it 15 Light Weapon scaling.
-    -   Heartwing Beat has a 10 second cooldown.
-    -   Granted by the [Mantle of Enmity](Mantle_of_Enmity.md) torso equipment.
-
 ### Starkindred
 
 -   [**Oath: Starkindred**](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN)
@@ -4522,15 +4495,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
 
-### Survivor
-
--   Winter's Protection \[Common Talent, [Equipment](Equipment.md)\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
-    -   Increases the time it takes for the [Second Layer](Second_Layer.md)'s parasites to kill you.
-    -   Negates damage buffs from weather:
-        -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage buff during snow.
-        -   [Thundercall](Thundercall.md) will no longer gain its 5% damage buff during rain. Stratoshock will also no longer apply its additional 5% damage buff.
-    -   Obtained by equipping [Winter Corps Parka](Winter_Corps_Parka.md).
-
 ### Swiftshade
 
 -   _**Dustlunge**_ \[Advanced Talent, Agility\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. Assassinating an enemy will automatically assassinate other nearby enemies. (+1 Passive Agility)
@@ -4602,16 +4566,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   Having all Tavernkeep Talents will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 24.
     -   Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 [Food](Food.md) items
         -   The food items must be cooked individually to count; bulk crafting will **not** count as multiple food items cooked. Additionally, any craftable food item works.
-
--   Umami \[Common Talent, [Equipment](Equipment.md)\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
-    -   Has a 35% chance to proc with a 3 cooldown per **proc attempt**, going on cooldown even if it fails to proc.
-    -   Hunger and thirst steal formula is as follows: 1.95 \* ln(D) + 1.075, where D = scaled damage dealt. A calculator is listed [here](https://www.desmos.com/calculator/yktgme7xnc).
-    -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
-    -   Acts similarly to and stacks additively with the Gluttony enchant.
-    -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
-    -   Increases the amount of health regenerated by [Fondant Splitter's](Fondant_Splitter.md) critical by a flat +2 on each tick, totaling to +4 Health. This stacks additively with the healing increase on all other Tavernkeep Talents.
-        -   Having all Tavernkeep Talents will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 24.
-    -   Obtained from: [Chef's Toque](<Chef's_Toque.md>)
 
 ### The Demon Blade
 

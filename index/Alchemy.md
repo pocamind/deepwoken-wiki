@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 221599
+revid: 225544
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -524,8 +524,9 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Redds and Glumfigs have an instant health effect, and they're not very strong, though Glumfigs are more potent. The last two ingredients can be Redds for more instant health or Beeswax / Goblettos to restore additional health over time.
     -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much.
 
--   **Instant Damage** - 3 Bluecaps + 2 Redds
+-   **Instant Damage** - 3 Bluecaps + 2 Browncaps
     -   Keep in mind, instant damage potions deal 75% less damage if you don't directly land them.
+    -   Deals around 63-66 damage per potion.
 
 -   **Instant Ether** - 3 Bluecaps + 2 Dentifilos
     -   Almost a full Ether restore - deals damage on application.
