@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225430
+revid: 225535
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -20,8 +20,22 @@ notices:
     -   _(i.e "40 Agility" to find Talents that require 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
--   Each Talent has a list of tags listed under a Talent's name on PC, or at the bottom of the additional info section on mobile. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Strength\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
-    -   Tagged categories include: "Damage Buff", "Posture Damage", "Damage Resistance", "Posture Resistance", "Sustain", "Anti-Sustain", "Support", "Debuff", "Range", "Chip Damage", "Tempo" "Speed Boost".
+-   Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Strength\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
+    -   -   General:
+            -   \[Rarity Talent\] - "Rarity" is replaced with the name of the Talent rarity, see [below](#card-terminology).
+            -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires.
+            -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
+        -   Specific Terms; Talents are given these tags if the effect of the Talent pertains to any of these, generally broad, categories:
+            -   \[Anti-Sustain\], \[Assassination\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Food\], \[Guardbreak\], \[Mobility\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Speed Boost\], \[Sustain\], \[Tempo\], \[Tool\]
+            -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
+            -   If applicable: \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], \[[Vow of Iron](Vow_of_Iron.md) Exclusive\], \[Weapon type\], with the underlined text being replaced with the corresponding name.
+        -   Notes:
+            -   If a prerequisite Talent requires an attribute that the listed Talent doesn't, then the attribute tags of the prerequisite Talent will carry over to the listed one.  
+                (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list Strength and Willpower in its tags.
+            -   If a Talent grants Mantra Slots, then the tags will list \[+Mantra Slots\] without specifying the type. On the other hand, General, Mantra, and Melee PEN all have their own tags: \[+Type PEN\].
+            -   The \[Tool\] tag is only given to Talents that provide a Talent tool.
+        
+
 -   Talent requirements display additional and alternative requirements of the Talents.
     -   Additional requirements on Talents are separated with commas.
         -   _(i.e Suffocating Impact requires 15 Strength and 35 Galebreathe, written as "15 Strength, 35 Galebreathe")_
@@ -601,7 +615,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Skeptic Pioneer](Skeptic_Pioneer.md), [Alchemist's Hat](<Alchemist's_Hat.md>), and [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>). It is encouraged to simply utilize these when brewing instead of taking this as a Talent card.  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Potion\]
 
 -   **Apothecary** \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.
     
@@ -616,7 +630,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Skeptic Pioneer](Skeptic_Pioneer.md), [Alchemist's Hat](<Alchemist's_Hat.md>), and [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>). It is encouraged to simply utilize these when brewing instead of taking this as a Talent card.  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Potion\]
 
 -   **Chain Reaction** \[Common Talent\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     -   Procs when a **thrown** potion replaces a different potion's effect. (Does not work on drank potions)
@@ -625,7 +639,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 80 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Potion\]
 
 -   **Chain Reaction** \[Common Talent\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     
@@ -638,7 +652,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: 80 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Potion\]
 
 -   **Chemistry Kit** \[Common Talent\] - You no longer drop potions on death. You have a 25% chance to brew an extra potion.
     -   Saltchemist salts innately make your potions not drop on death, however are not manually droppable.
@@ -647,7 +661,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 25 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Potion\]
 
 -   **Chemistry Kit** \[Common Talent\] - You no longer drop potions on death. You have a 25% chance to brew an extra potion.
     
@@ -660,7 +674,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: 25 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Potion\]
 
 -   _Placebo Effect_ \[Rare Talent\] - Drinking potions near allies will share the potion's effect with them.
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
@@ -668,7 +682,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 60 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Intelligence\] \[Support\]
+    -   Tags: \[Intelligence\] \[Potion\] \[Support\]
 
 -   **Placebo Effect** \[Rare Talent\] - Drinking potions near allies will share the potion's effect with them.
     
@@ -679,7 +693,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: 60 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Intelligence\] \[Support\]
+    -   Tags: \[Intelligence\] \[Potion\] \[Support\]
 
 -   _Potion Quaffer_ \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
@@ -691,7 +705,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Fortitude\] \[Willpower\] \[Intelligence
+    -   Tags: \[Fortitude\] \[Intelligence\] \[Willpower\] \[Potion\]
 
 -   **Potion Quaffer** \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     
@@ -710,7 +724,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)  
         
-    -   Tags: \[Fortitude\] \[Willpower\] \[Intelligence
+    -   Tags: \[Fortitude\] \[Intelligence\] \[Willpower\] \[Potion\]
 
 ### Alley Cat
 
@@ -1172,65 +1186,198 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Assassin
 
--   Deep Wound \[Common Talent, Agility\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
+-   **Deep Wound** \[Common Talent\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
-    -   Applies 60% [Anti-Heal](Status_Effects.md#deep-wound), signified by red cloud particles.
-    -   This anti-heal won't stack with any other anti-heal, the higher potency effect will take priority.
-    -   Prerequisite: 35 Agility
-    -   The [Assassin's Hood](<Assassin's_Hood.md>) equipment has this Talent.
+    -   Applies 60% [Anti-Heal](Status_Effects.md#deep-wound), signified by red cloud particles.  
+        
+    -   Prerequisites: 35 Agility  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Assassin's Hood](<Assassin's_Hood.md>)  
+        
+    -   Tags: \[Agility\] \[Anti-Sustain\] \[Assassination\] \[Debuff\]
 
--   Lights Out \[Common Talent, Agility\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility)
-    -   Targets being carried will have the "Blinded" Talent's visual effect, however they can still see names of players, their general surroundings, and their map if they open it.
-    -   Prerequisite: 55 Agility
+-   **Deep Wound** \[Common Talent\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
+    
+    {#if: \*The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
+    
+    -   Applies 60% [Anti-Heal](Status_Effects.md#deep-wound), signified by red cloud particles.|\*The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
+    -   Applies 60% [Anti-Heal](Status_Effects.md#deep-wound), signified by red cloud particles.  
+        }}
+    -   Prerequisites: 35 Agility  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Assassin's Hood](<Assassin's_Hood.md>)  
+        
+    -   Tags: \[Agility\] \[Anti-Sustain\] \[Assassination\] \[Debuff\]
 
--   Lowstride \[Common Talent, Agility\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently. (+1 Passive Agility)
+-   **Lights Out** \[Common Talent\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.
+    -   Targets being carried will have the [Blinded](Status_Effects.md#blinded) visual effect, significantly hindering their vision.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 55 Agility  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Assassination\] \[Debuff\] \[PEN\]
+
+-   **Lights Out** \[Common Talent\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.
+    
+    {#if: \*Targets being carried will have the [Blinded](Status_Effects.md#blinded) visual effect, significantly hindering their vision.|\*Targets being carried will have the [Blinded](Status_Effects.md#blinded) visual effect, significantly hindering their vision.  
+    }}
+    
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 55 Agility  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Assassination\] \[Debuff\] \[PEN\]
+
+-   **Lowstride** \[Common Talent\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.
     -   Doubles the [Stealth](Stealth.md) gain bonuses from crouching.
-        -   Crouching normally increases your Stealth by 50% and adds a flat 50 Stealth afterwards, but having Lowstride makes crouching increase your Stealth by 100% and add a flat 100 Stealth instead.
+        -   Crouching normally increases your Stealth by 1.5x and adds a flat +50 Stealth afterwards, but having Lowstride makes crouching increase your Stealth by 2x and add a flat 100 Stealth instead.
         -   Stealth × 1.5 + 50 -> Stealth × 2 + 100.
     -   Removes the SFX from sheathing and unsheathing your weapon.
     -   Speeds up crouching to be fast as walking.
     -   Increases roll distance by 15% when crouching.
-    -   Very strong synergy with "Murmur: Tacet", as it requires the user to crouch.
-    -   Prerequisite: 20 Agility
-    -   The following Outfits and equipment items have this Talent: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>).
+    -   Very strong synergy with "[Murmur: Tacet](#murmur-tacet)", as it requires the user to crouch.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 20 Agility  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>)  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\]
 
--   Unseen Threat \[Common Talent, Agility\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
-    -   This talent allows you to assassinate enemies who are in combat and holding a weapon.
-    -   Prerequisite: 60 Agility, Deep Wound
-        -   Merged with the old Low Blow Talent.
+-   **Lowstride** \[Common Talent\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.
+    
+    {#if: \*Doubles the [Stealth](Stealth.md) gain bonuses from crouching.
+    
+    -   -   Crouching normally increases your Stealth by 1.5x and adds a flat +50 Stealth afterwards, but having Lowstride makes crouching increase your Stealth by 2x and add a flat 100 Stealth instead.
+        -   Stealth × 1.5 + 50 -> Stealth × 2 + 100.
+    -   Removes the SFX from sheathing and unsheathing your weapon.
+    -   Speeds up crouching to be fast as walking.
+    -   Increases roll distance by 15% when crouching.
+    -   Very strong synergy with "[Murmur: Tacet](#murmur-tacet)", as it requires the user to crouch.|\*Doubles the [Stealth](Stealth.md) gain bonuses from crouching.
+        -   Crouching normally increases your Stealth by 1.5x and adds a flat +50 Stealth afterwards, but having Lowstride makes crouching increase your Stealth by 2x and add a flat 100 Stealth instead.
+        -   Stealth × 1.5 + 50 -> Stealth × 2 + 100.
+    -   Removes the SFX from sheathing and unsheathing your weapon.
+    -   Speeds up crouching to be fast as walking.
+    -   Increases roll distance by 15% when crouching.
+    -   Very strong synergy with "[Murmur: Tacet](#murmur-tacet)", as it requires the user to crouch.  
+        }}
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 20 Agility  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>)  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\]
+
+-   **Unseen Threat** \[Common Talent\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
+    -   This Talent allows you to assassinate enemies who are in combat and holding a weapon.
+    -   The old [Low Blow](Cut_Content.md#low-blow) Talent was merged into this.  
+        
+    -   Prerequisites: 60 Agility, [Deep Wound](#deep-wound)  
+        
+    -   Tags: \[Agility\] \[Assassination\] \[Debuff\]
+
+-   **Unseen Threat** \[Common Talent\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
+    
+    {#if: \*This Talent allows you to assassinate enemies who are in combat and holding a weapon.
+    
+    -   The old [Low Blow](Cut_Content.md#low-blow) Talent was merged into this.|\*This Talent allows you to assassinate enemies who are in combat and holding a weapon.
+    -   The old [Low Blow](Cut_Content.md#low-blow) Talent was merged into this.  
+        }}
+    -   Prerequisites: 60 Agility, [Deep Wound](#deep-wound)  
+        
+    -   Tags: \[Agility\] \[Assassination\] \[Debuff\]
 
 ### Authority Interrogator
 
--   Authority Intimidation \[Common Talent, Thundercall\] - Lightning moves slow your opponent more.
-    -   Works with Surge Path.
-    -   Prerequisites: 60 Thundercall, [Power](Power.md) 10
+-   **Authority Intimidation** \[Common Talent\] - Lightning moves slow your opponent more.
+    -   Works with Surge Path.  
+        
+    -   Prerequisites: 60 Thundercall, [Power](Power.md) 10  
+        
+    -   Tags: \[Thundercall\]
 
--   Resolve Crusher \[Common Talent, Thundercall\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
-    -   Electrified targets have their damage on weapon attacks changed to Thundercall damage.
-    -   Electrified only reduces damage from weapon attacks.
-    -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the Talent)
+-   **Authority Intimidation** \[Common Talent\] - Lightning moves slow your opponent more.
+    
+    {#if: \*Works with Surge Path.|\*Works with Surge Path.  
+    }}
+    
+    -   Prerequisites: 60 Thundercall, [Power](Power.md) 10  
+        
+    -   Tags: \[Thundercall\]
+
+-   **Resolve Crusher** \[Common Talent\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+    -   Not to be confused with the [Electrify](#electrify) Talent, [Electrified](Status_Effects.md#electrified) targets have their damage on weapon attacks changed to Thundercall damage.
+    -   Electrified **only** reduces damage from weapon attacks.
+    -   Electrified procs when landing an attack that would apply the fifth stack, not the fourth.
     -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
-    -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you'll need 5 more stacks to activate this Talent.
+    -   Stacks last for 5 seconds. Stacks **do not** have independent durations; applying a new stack will refresh the duration of all stacks, but if you wait 5 seconds without applying a new stack, all of tour stacks will be lost.
     -   Electrified, when procced, lasts for 4 seconds.
-    -   The visual effect for this Talent is currently bugged.
-    -   Prerequisite: 65 Thundercall
+    -   The visual effect for this Talent is currently bugged.  
+        
+    -   Prerequisites: 65 Thundercall  
+        
+    -   Tags: \[Thundercall\] \[Damage Resistance\]
 
--   First Interrogation \[Common Talent, Thundercall\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
-    -   Only procs on weapon attacks from Electrified opponents.
-    -   Ether given is equal to half of the attack's unmodified damage.
-    -   Still gives ether even if you block, parry, or dodge their attack.
-    -   Prerequisites: 65 Thundercall, Resolve Crusher
+-   **Resolve Crusher** \[Common Talent\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+    
+    {#if: \*Not to be confused with the [Electrify](#electrify) Talent, [Electrified](Status_Effects.md#electrified) targets have their damage on weapon attacks changed to Thundercall damage.
+    
+    -   Electrified **only** reduces damage from weapon attacks.
+    -   Electrified procs when landing an attack that would apply the fifth stack, not the fourth.
+    -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
+    -   Stacks last for 5 seconds. Stacks **do not** have independent durations; applying a new stack will refresh the duration of all stacks, but if you wait 5 seconds without applying a new stack, all of tour stacks will be lost.
+    -   Electrified, when procced, lasts for 4 seconds.
+    -   The visual effect for this Talent is currently bugged.|\*Not to be confused with the [Electrify](#electrify) Talent, [Electrified](Status_Effects.md#electrified) targets have their damage on weapon attacks changed to Thundercall damage.
+    -   Electrified **only** reduces damage from weapon attacks.
+    -   Electrified procs when landing an attack that would apply the fifth stack, not the fourth.
+    -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
+    -   Stacks last for 5 seconds. Stacks **do not** have independent durations; applying a new stack will refresh the duration of all stacks, but if you wait 5 seconds without applying a new stack, all of tour stacks will be lost.
+    -   Electrified, when procced, lasts for 4 seconds.
+    -   The visual effect for this Talent is currently bugged.  
+        }}
+    -   Prerequisites: 65 Thundercall  
+        
+    -   Tags: \[Thundercall\] \[Damage Resistance\]
 
--   Second Interrogation \[Common Talent, Thundercall\] - Electrified attacks do 50% less damage and posture damage to you.
+-   **Second Interrogation** \[Common Talent\] - [Electrified](Status_Effects.md#electrified) attacks do 50% less damage and posture damage to you.
     -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
-    -   This also only applies to weapon attacks.
-    -   Prerequisites: 65 Thundercall, First Interrogation
+    -   Like [Resolve Crusher](#resolve-crusher), this, too, only applies to weapon attacks.  
+        
+    -   Prerequisites: 65 Thundercall, [First Interrogation](#first-interrogation)  
+        
+    -   Tags: \[Thundercall\] \[Damage Resistance\] \[Posture Resistance\]
+
+-   **Second Interrogation** \[Common Talent\] - [Electrified](Status_Effects.md#electrified) attacks do 50% less damage and posture damage to you.
+    
+    {#if: \*Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
+    
+    -   Like [Resolve Crusher](#resolve-crusher), this, too, only applies to weapon attacks.|\*Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
+    -   Like [Resolve Crusher](#resolve-crusher), this, too, only applies to weapon attacks.  
+        }}
+    -   Prerequisites: 65 Thundercall, [First Interrogation](#first-interrogation)  
+        
+    -   Tags: \[Thundercall\] \[Damage Resistance\] \[Posture Resistance\]
 
 ### Authority Ensign
 
--   _Horn of the Authority_ \[Origin Talent\] - Mark escaping prisoners.
-    -   Grants a Talent tool that blows a horn, highlighting escaping prisoners and targets.
-    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin
+-   _Horn of Authority_ \[Origin Talent\] - Mark escaping prisoners.
+    -   Grants a Talent tool that blows a horn, combat tagging and highlighting escaping prisoners.  
+        
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\]
+
+-   **Horn of Authority** \[Origin Talent\] - Mark escaping prisoners.
+    
+    {#if: \*Grants a Talent tool that blows a horn, combat tagging and highlighting escaping prisoners.|\*Grants a Talent tool that blows a horn, combat tagging and highlighting escaping prisoners.  
+    }}
+    
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\]
 
 ### Authority Soldier
 
