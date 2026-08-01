@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 220400
+revid: 225546
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -32,7 +32,7 @@ Lore wise Chainwardens are strong enforcers of justice serving [The Central Auth
 1.  The Oath requires at least 40 points **combined** into either **Strength, Fortitude and Willpower**, for example: 20 Strength, 5 Fortitude and 15 Willpower, or 0 Strength, 30 Fortitude and 10 Willpower.
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with slightly below than [Ally Rep](Reputation.md) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
 
-1.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top of the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn, rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
+1.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top of the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn, rejoining to another server should resolve this issue.** Upon defeating him, head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) with neutral or less [Reputation](Reputation.md) with [Etrea](Etrea.md) and he will provide you the Oath.
 2.  If obtaining this with a friend and you don't receive kill credit after dealing damage to [Emar Vend](Emar_Vend.md), head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) and he will provide you the oath.
 
 _Chainwarden **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as the Vice Warden will insult you._
