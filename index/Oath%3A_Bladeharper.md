@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 221566
+revid: 225588
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Bladeharper | |
 |---|---|
-| oath_req | 75 MED, or a sum of 90 points invested into weapon stats, 25 AGL or STR |
+| oath_req | 75 MED OR a sum of 90 points invested into weapon stats (75 MED OR LHT + MED + HVY ≥ 90), 25 AGL or STR |
 | effects | +5% PEN, +3 Combat Mantra |
 
 “ Your presence here... We both know what it means. If you believe yourself ready, this is where you shall pledge yourself to the Blade. ”

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 219190
+revid: 225589
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath:  Soulbreaker | |
 |---|---|
-| oath_req | Any Murmur, A Resonance (dependant), High Ally rep with Etrea (dependant), 50 points in charisma or willpower (Combined) |
+| oath_req | Any Murmur, A Resonance (dependant), High Ally rep with Etrea (dependant), A sum of 50 points in Charisma and Willpower (CHA + WLL ≥ 50) |
 | effects | +2 Combat Mantra Slot, +1 Wildcard Mantra Slot, Ability to wield all three Murmurs, +5% PEN |
 
 “ THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. ”

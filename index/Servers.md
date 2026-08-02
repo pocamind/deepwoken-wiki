@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 225566
+revid: 225592
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -299,7 +299,7 @@ Servers follow a naming scheme of two adjectives (descriptive and color) followe
 ## Trivia
 
 -   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
--   Every [aspect](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are aspect variants, and not their own independent aspect.
+-   Every [aspect](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesperian](Primal_Vesperian.md) are server nouns. However, this may just be because they are aspect variants, and not their own independent aspect.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, Nocturnal Gem, and Wind Gem have their first names as server adjectives.
 -   When joining the Second Layer, the server loading screen will sometimes be white instead of the usual dark green.
 -   Inside dungeons, the only way to control which server location you connect to is to rejoin.

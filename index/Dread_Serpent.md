@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 225523
+revid: 225593
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -155,7 +155,8 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon). Specifically its general design is very smiliar to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form. According to Arch\_Mage, this is a result of _Deepwoken_ employing far more modelers via contracts prior to its release, resulting in lower quality work that was frequently stolen from other sources with no credit (such as with the [repeater](Repeater.md) and [Enforcer's Blade](<Enforcer's_Blade.md>)). As a result, Arch\_Mage has expressed distaste to using the name and wishes that people call it Dread Serpent, while being very vocal about wanting the creature to be remodeled.\[citation needed\]
+It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon). Specifically its general design is very smiliar to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form. According to Arch\_Mage, this is a result of _Deepwoken_ employing far more modelers via contracts prior to its release, resulting in lower quality work that was frequently stolen from other sources with no credit (such as with the [repeater](Repeater.md) and [Enforcer's Blade](<Enforcer's_Blade.md>)). As a result, Arch\_Mage has expressed distaste to using the name and wishes that people call it Dread Serpent, while being very vocal about wanting the creature to be remodeled.\[citation needed\]
+
 -   Anyone can get the Murmur as long as you did any damage, it doesn't matter how many people hit him, everyone will get the Murmur unless they already have one
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
 -   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
@@ -170,7 +171,3 @@ Exhaustive Loot Table
 -   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, even in [Dimensional Travel](Dimensional_Travel.md).
 -   Formerly summonable via Dimensional Travel anywhere due to leaving the Interstice putting you in a brief state of being considered in the Voidsea. The Dread Serpent would spawn wherever you returned to the overworld at.
 -   The new Dread Serpent model was accidentally spawned during the Verse 3 Deepwoken Direct, closely resembling the art in it's Bestiary.
-
-A screenshot of the new Dread Serpent Model in Roblox Studio.
-
-Arch\_Mage (left) and Agamatsu (right) appalled by a floating Dread Serpent during the Verse 3 Deepwoken Direct.

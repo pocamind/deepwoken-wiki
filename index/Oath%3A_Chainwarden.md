@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 225546
+revid: 225586
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -10,7 +10,7 @@ categories: [Oaths, The Central Authority]
 
 | Oath: Chainwarden | |
 |---|---|
-| oath_req | Ally/Hero Reputation with The Central Authority, A sum of 40 points invested in Strength, Fortitude and Willpower |
+| oath_req | High Ally Reputation with The Central Authority, A sum of 40 points invested in Strength, Fortitude, and Willpower (STR + FTD + WLL ≥ 40) |
 | effects | +5% PEN, +1 Wildcard Mantra slot, +2 Combat Mantra slot |
 
 “ Chain those who oppose our justice. Should you find someone truly worthy of being ensnared by our chains, the Words will surely find you. ”
