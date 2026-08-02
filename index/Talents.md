@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225543
+revid: 225565
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -21,19 +21,19 @@ notices:
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
 -   Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Strength\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
-    -   -   General:
-            -   \[Rarity Talent\] - "Rarity" is replaced with the name of the Talent rarity, see [below](#card-terminology).
+    -   -   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
+        -   General:
+            -   \[Rarity Talent\] - see [below](#card-terminology).
             -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires.
             -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
         -   Specific Terms; Talents are given these tags if the effect of the Talent pertains to any of these, generally broad, categories:
-            -   \[Anti-Sustain\], \[Assassination\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Food\], \[Guardbreak\], \[Mobility\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Speed Boost\], \[Sustain\], \[Tempo\], \[Tool\]
+            -   Categories: \[Anti-Sustain\], \[Assassination\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Food\], \[Guardbreak\], \[Mobility\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Speed Boost\], \[Sustain\], \[Tempo\]
             -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
-            -   If applicable: \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], \[[Vow of Iron](Vow_of_Iron.md) Exclusive\], \[Weapon type\], with the underlined text being replaced with the corresponding name.
+            -   If applicable: \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], \[[Vow of Iron](Vow_of_Iron.md) Exclusive\], \[Weapon type\], \[Tool\] (for Talents that provide a Talent tool\]
         -   Notes:
-            -   If a prerequisite Talent requires an attribute that the listed Talent doesn't, then the attribute tags of the prerequisite Talent will carry over to the listed one.  
+            -   If a prerequisite Talent requires an attribute that the listed Talent doesn't, then the attribute tags of the prerequisite Talent will carry over to the listed one. The only exception to this are Oath Talents, which will only list the Oath's name in the tags.  
                 (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list Strength and Willpower in its tags.
-            -   If a Talent grants Mantra Slots, then the tags will list \[+Mantra Slots\] without specifying the type. On the other hand, General, Mantra, and Melee PEN all have their own tags: \[+Type PEN\].
-            -   The \[Tool\] tag is only given to Talents that provide a Talent tool.
+            -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
         
 
 -   Talent requirements display additional and alternative requirements of the Talents.
@@ -1023,16 +1023,16 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Arcwarder
 
--   **Oath: Arcwarder** \[Oath Talent\] - You [vow](Glossary.md#vow) to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
+-   **Oath: Arcwarder** \[Oath Talent\] - You [vow](Glossary.md#vows) to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
     -   See [Oath: Arcwarder](Oath%253A_Arcwarder.md).  
         
     -   Grants +1 Wildcard Mantra Slot, +2 Combat Mantra Slots, +5% PEN  
         
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, complete [Alpha](Alpha.md)'s quest  
         
-    -   Tags: \[Arcwarder\] \[Fortitude\] \[Flamecharm\] \[+PEN\] \[+Mantra Slot\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Fortitude\] \[Flamecharm\] \[+Mantra Slot\] \[+PEN\]
 
--   **Oath: Arcwarder** \[Oath Talent\] - You [vow](Glossary.md#vow) to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
+-   **Oath: Arcwarder** \[Oath Talent\] - You [vow](Glossary.md#vows) to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
     
     {#if: \*See [Oath: Arcwarder](Oath%253A_Arcwarder.md).|\*See [Oath: Arcwarder](Oath%253A_Arcwarder.md).  
     }}
@@ -1041,7 +1041,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, complete [Alpha](Alpha.md)'s quest  
         
-    -   Tags: \[Arcwarder\] \[Fortitude\] \[Flamecharm\] \[+PEN\] \[+Mantra Slot\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Fortitude\] \[Flamecharm\] \[+Mantra Slot\] \[+PEN\]
 
 -   **Arc Module: Dash** \[Oath Talent\] - In Arc Suit Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
@@ -1049,7 +1049,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md)  
         
-    -   Tags: \[Arcwarder\] \[Mobility\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Mobility\]
 
 -   **Arc Module: Dash** \[Oath Talent\] - \[In Arc Suit\] Your dashes become Jet Dashes, allowing you to attack while dashing.
     
@@ -1060,7 +1060,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md)  
         
-    -   Tags: \[Arcwarder\] \[Mobility\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Mobility\]
 
 -   **Arc Module: Eject** \[Oath Talent\] - In Arc Suit When blockbroken, eject from your suit.
     -   If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
@@ -1068,7 +1068,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\] \[Guardbreak\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Guardbreak\]
 
 -   **Arc Module: Eject** \[Oath Talent\] - \[In Arc Suit\] When blockbroken, eject from your suit.
     
@@ -1079,7 +1079,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\] \[Guardbreak\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Guardbreak\]
 
 -   **Arc Module: Enhance** \[Oath Talent\] - In Arc Suit Your Arcwarder Mantras deal increased damage.
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
@@ -1088,7 +1088,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\] \[Damage Buff\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Damage Buff\]
 
 -   **Arc Module: Enhance** \[Oath Talent\] - \[In Arc Suit\] Your Arcwarder Mantras deal increased damage.
     
@@ -1101,13 +1101,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\] \[Damage Buff\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Damage Buff\]
 
 -   **Arc Module: Guard** \[Oath Talent\] - In Arc Suit You can block attacks from any direction and cannot be backstabbed.
     
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\]
 
 -   **Arc Module: Guard** \[Oath Talent\] - \[In Arc Suit\] You can block attacks from any direction and cannot be backstabbed.
     
@@ -1116,7 +1116,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\]
 
 -   **Arc Module: Leap** \[Oath Talent\] - In Arc Suit Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
@@ -1124,7 +1124,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\] \[Mobility\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Mobility\]
 
 -   **Arc Module: Leap** \[Oath Talent\] - \[In Arc Suit\] Holding Spacebar after double jumping propels you up for a short duration.
     
@@ -1135,7 +1135,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\] \[Mobility\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Mobility\]
 
 -   **Arc Module: Null** \[Oath Talent\] - In Arc Suit Outgoing and incoming enchant effects are nullified. Can be toggled with N.
     -   Toggling Null on/off has a 5 second cooldown.
@@ -1145,7 +1145,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\]
 
 -   **Arc Module: Null** \[Oath Talent\] - \[In Arc Suit\] Outgoing and incoming enchant effects are nullified. Can be toggled with N.
     
@@ -1160,7 +1160,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[Arcwarder\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\]
 
 ### Artisan
 
@@ -1398,71 +1398,271 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Bastion
 
--   Battle Tendency \[Common Talent, Fortitude, Willpower\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
-    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
-    -   Prerequisites: 15 Fortitude, 15 Willpower
-    -   The [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) equipment has this talent.
+-   **Battle Tendency** \[Common Talent\] - You can breathe more easily with +20% faster posture regen.
+    -   In combat, when not running or blocking, you regenerate posture passively. Battle Tendency increases this regen by +20%.  
+        
+    -   Grants +2 Posture, +10 Sanity  
+        
+    -   Prerequisites: 15 Fortitude, 15 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Posture\] \[+Sanity\]
 
--   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
-    -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.
-    -   Prerequisite: 25 Fortitude
-    -   The [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>), [Delver's Duster](<Delver's_Duster.md>), and [Providence Coat](Providence_Coat.md) equipment have this Talent.
+-   **Battle Tendency** \[Common Talent\] - You can breathe more easily with +20% faster posture regen.
+    
+    {#if: \*In combat, when not running or blocking, you regenerate posture passively. Battle Tendency increases this regen by +20%.|\*In combat, when not running or blocking, you regenerate posture passively. Battle Tendency increases this regen by +20%.  
+    }}
+    
+    -   Grants +2 Posture, +10 Sanity  
+        
+    -   Prerequisites: 15 Fortitude, 15 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Posture\] \[+Sanity\]
 
--   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.
-    -   Prerequisite: 5 Fortitude
+-   **Braced Collapse** \[Common Talent\] - After being block broken, the next attack to hit you deals reduced damage.
+    -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.  
+        
+    -   Prerequisites: 25 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>), [Delver's Duster](<Delver's_Duster.md>), and [Providence Coat](Providence_Coat.md)  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\] \[Guardbreak\]
 
--   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
-    -   This can stack with other Talents to reduce knock time even further. (Ex. Defiance)
-    -   Prerequisites: 30 Fortitude, 30 Willpower
-    -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
+-   **Braced Collapse** \[Common Talent\] - After being block broken, the next attack to hit you deals reduced damage.
+    
+    {#if: \*After being block broken, reduce the next instance of damage by 20%. This has no cooldown.|\*After being block broken, reduce the next instance of damage by 20%. This has no cooldown.  
+    }}
+    
+    -   Prerequisites: 25 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>), [Delver's Duster](<Delver's_Duster.md>), and [Providence Coat](Providence_Coat.md)  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\] \[Guardbreak\]
 
--   _**Reinforced Armor**_ \[Advanced Talent, Fortitude\] - Incoming PEN is reduced by 30%.
+-   **Moving Fortress** \[Common Talent\] - Blocking no longer slows you down as much
+    -   Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.  
+        
+    -   Prerequisites: 5 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[+Posture\] \[Mobility\]
+
+-   **Moving Fortress** \[Common Talent\] - Blocking no longer slows you down as much
+    
+    {#if: \*Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.|\*Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.  
+    }}
+    
+    -   Prerequisites: 5 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[+Posture\] \[Mobility\]
+
+-   **Perseverance** \[Common Talent\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%.
+    -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
+        
+    -   Grants +5 Sanity  
+        
+    -   Prerequisites: 30 Fortitude, 30 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Ignition Trailblazer](Ignition_Trailblazer.md)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Sanity\]
+
+-   **Perseverance** \[Common Talent\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%.
+    
+    {#if: \*This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))|\*This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
+    }}
+    
+    -   Grants +5 Sanity  
+        
+    -   Prerequisites: 30 Fortitude, 30 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Ignition Trailblazer](Ignition_Trailblazer.md)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Sanity\]
+
+-   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%.
     -   The effects of Reinforced Armor are lessened if you do not meet the Talent's requirements, losing 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.
-        -   Alternatively, this can be stated as 10 + 0.8 \* (Fortitude - 65) = RA effectiveness, though this cannot go below 10%.
-    -   PEN calculation: incoming PEN \* (1 - 0.Reinforced Armor effectiveness) = reduced incoming PEN.
+        -   Alternatively, this can be stated as 10 + 0.8 × (Fortitude - 65) = RA effectiveness, though this cannot go below 10% or above 30%.
+    -   PEN calculation: incoming PEN × (1 - Reinforced Armor effectiveness%) = reduced incoming PEN.
         -   For example, 50% PEN vs 30% Reinforced Armor and 50% physical armor:
-            -   Base: 50% PEN vs 50% physical armor; 50 \* (1 - 0.5) = 25% resistance after PEN.
-            -   Reinforced Armor: 50% PEN vs 30% RA; 50 \* (1 - 0.3) = 35% PEN. 35% PEN vs 50% physical armor = 50 \* (1 - 0.35) = 32.5% resistance after PEN.
-    -   Prerequisites: 90 Fortitude, All Bastion Talents
+            -   Base: 50% PEN vs 50% physical armor; 50 × (1 - 50%) = 25% resistance after PEN.
+            -   Reinforced Armor: 50% PEN vs 30% RA; 50 × (1 - 30%) = 35% PEN. 35% PEN vs 50% physical armor = 50 × (1 - 35%) = 32.5% resistance after PEN.  
+                
+    -   Prerequisites: 90 Fortitude, [Battle Tendency](#battle-tendency), [Braced Collapse](#braced-collapse), [Moving Fortress](#moving-fortress), [Perseverance](#perseverance)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[PEN\]
+
+-   **Reinforced Armor** \[Advanced Talent\] - Incoming PEN is reduced by 30%.
+    
+    {#if: \*The effects of Reinforced Armor are lessened if you do not meet the Talent's requirements, losing 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.
+    
+    -   -   Alternatively, this can be stated as 10 + 0.8 × (Fortitude - 65) = RA effectiveness, though this cannot go below 10% or above 30%.
+    -   PEN calculation: incoming PEN × (1 - Reinforced Armor effectiveness%) = reduced incoming PEN.
+        -   For example, 50% PEN vs 30% Reinforced Armor and 50% physical armor:
+            -   Base: 50% PEN vs 50% physical armor; 50 × (1 - 50%) = 25% resistance after PEN.
+            -   Reinforced Armor: 50% PEN vs 30% RA; 50 × (1 - 30%) = 35% PEN. 35% PEN vs 50% physical armor = 50 × (1 - 35%) = 32.5% resistance after PEN.|\*The effects of Reinforced Armor are lessened if you do not meet the Talent's requirements, losing 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.
+        -   Alternatively, this can be stated as 10 + 0.8 × (Fortitude - 65) = RA effectiveness, though this cannot go below 10% or above 30%.
+    -   PEN calculation: incoming PEN × (1 - Reinforced Armor effectiveness%) = reduced incoming PEN.
+        -   For example, 50% PEN vs 30% Reinforced Armor and 50% physical armor:
+            -   Base: 50% PEN vs 50% physical armor; 50 × (1 - 50%) = 25% resistance after PEN.
+            -   Reinforced Armor: 50% PEN vs 30% RA; 50 × (1 - 30%) = 35% PEN. 35% PEN vs 50% physical armor = 50 × (1 - 35%) = 32.5% resistance after PEN.  
+                }}
+    -   Prerequisites: 90 Fortitude, [Battle Tendency](#battle-tendency), [Braced Collapse](#braced-collapse), [Moving Fortress](#moving-fortress), [Perseverance](#perseverance)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[PEN\]
 
 ### Battle Readiness
 
--   **Armored Plating** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
-    -   Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+-   **Armored Plating** \[Faction Talent\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
+    -   Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Sustain\]
 
--   **Crossguard** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - If you are using a sword, you gain 10% chip against other opponents wielding swords.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+-   **Armored Plating** \[Faction Talent\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
+    
+    {#if: \*Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.|\*Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.  
+    }}
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Sustain\]
 
--   **Riot Shield** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
-    -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+-   **Crossguard** \[Faction Talent\] - If you are using a [sword](Swords.md), you gain 10% chip against other opponents wielding swords.
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Sword\]
 
--   **Oppressive Force** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+-   **Crossguard** \[Faction Talent\] - If you are using a [sword](Swords.md), you gain 10% chip against other opponents wielding swords.
+    
+    {#if: |  
+    }}
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Sword\]
+
+-   **Riot Shield** \[Faction Talent\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
+    -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Damage Resistance\] \[Shield\]
+
+-   **Riot Shield** \[Faction Talent\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
+    
+    {#if: \*Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.|\*Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.  
+    }}
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Damage Resistance\] \[Shield\]
+
+-   **Oppressive Force** \[Faction Talent\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and [dazes](Status_Effects.md#dazed) them.
     -   The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
     -   The damage and posture damage of the second hit cannot be buffed.
     -   The second hit will only happen if the first one lands. This means it does not follow through on block.
-    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, it cannot proc [enchants](Enchantments.md), and it cannot proc any "on flourish" Talents.
+    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, and it cannot proc [enchants](Enchantments.md) or any "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
     -   The following weapons can proc this effect: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Additionally, the Alloyed variants of all of these weapons will also proc it.
-    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Flourish\]
 
--   **Steel Tread** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+-   **Oppressive Force** \[Faction Talent\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and [dazes](Status_Effects.md#dazed) them.
+    
+    {#if: \*The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
+    
+    -   The damage and posture damage of the second hit cannot be buffed.
+    -   The second hit will only happen if the first one lands. This means it does not follow through on block.
+    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, and it cannot proc [enchants](Enchantments.md) or any "on flourish" Talents.
+    -   The second hit does not proc on non-humanoid targets.
+    -   The following weapons can proc this effect: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Additionally, the Alloyed variants of all of these weapons will also proc it.
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.|\*The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
+    -   The damage and posture damage of the second hit cannot be buffed.
+    -   The second hit will only happen if the first one lands. This means it does not follow through on block.
+    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, and it cannot proc [enchants](Enchantments.md) or any "on flourish" Talents.
+    -   The second hit does not proc on non-humanoid targets.
+    -   The following weapons can proc this effect: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Additionally, the Alloyed variants of all of these weapons will also proc it.
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.  
+        }}
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Flourish\]
+
+-   **Steel Tread** \[Faction Talent\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Damage Resistance\]
+
+-   **Steel Tread** \[Faction Talent\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+    
+    {#if: |  
+    }}
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Damage Resistance\]
 
 ### Blindseer
 
--   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +1 Combat Mantra Slot, +5% PEN)
-    -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, [Blindfold](Blindfold.md) / [Blind](Boons_and_Flaws.md#flaws) Flaw, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+-   **Oath: Blindseer** \[Oath Talent\] - You [vow](Glossary.md#vows) to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.
+    -   See [Oath: Blindseer](Oath%253A_Blindseer.md).
+    -   Note: you can remove the prerequisite Talents after obtaining this Oath.  
+        
+    -   Grants +1 Combat Mantra Slot, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +5% PEN, +10 Sanity  
+        
+    -   Prerequisites: 40 Willpower, [Breathing Exercise](#breathing-exercise), [Conquer Your Fears](#conquer-your-fears), [Disbelief](#disbelief), [Blinded](#blinded) Talent // [Blind](Boons_and_Flaws.md#flaws) Flaw, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)  
+        
+    -   Tags: \[[Blindseer](Oath%253A_Blindseer.md)\] \[Willpower\] \[+Mantra Slots\] \[+PEN\] \[+Sanity\]
 
--   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md)\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
+-   **Oath: Blindseer** \[Oath Talent\] - You [vow](Glossary.md#vows) to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.
+    
+    {#if: \*See [Oath: Blindseer](Oath%253A_Blindseer.md).
+    
+    -   Note: you can remove the prerequisite Talents after obtaining this Oath.|\*See [Oath: Blindseer](Oath%253A_Blindseer.md).
+    -   Note: you can remove the prerequisite Talents after obtaining this Oath.  
+        }}
+    -   Grants +1 Combat Mantra Slot, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +5% PEN, +10 Sanity  
+        
+    -   Prerequisites: 40 Willpower, [Breathing Exercise](#breathing-exercise), [Conquer Your Fears](#conquer-your-fears), [Disbelief](#disbelief), [Blinded](#blinded) Talent // [Blind](Boons_and_Flaws.md#flaws) Flaw, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)  
+        
+    -   Tags: \[[Blindseer](Oath%253A_Blindseer.md)\] \[Willpower\] \[+Mantra Slots\] \[+PEN\] \[+Sanity\]
+
+-   **All-Seeing Eye** \[Oath Talent\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players and monsters are revealed by a Blindseer Eye icon showcasing their current position.
-        -   Specifically reveals players under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
+        -   Specifically reveals players under the effects of [Ghost](#ghost), [Static Flash Clone](#static-flash-clone), [Cheap Trick](#cheap-trick), [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants)' casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
     -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   This works on anyone who is invisible, yourself and monsters included.
-    -   Prerequisites: [Oath: Blindseer](Oath%253A_Blindseer.md), help 4 Pathfinders escape their [Depths Trials](Cathedral_of_the_Interstice.md) OR pay 10 to the wall text you obtained the Oath from to skip Blindseer's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Because your body is rendered out while in first person, Al-Seeing Eye triggers on yourself. You can see the swirling effect if you look downwards.  
+        
+    -   Prerequisites: [Oath: Blindseer](Oath%253A_Blindseer.md), help 4 Pathfinders without [Oaths](Oaths.md) escape their [Depths Trials](Cathedral_of_the_Interstice.md) OR pay 10 to the wall text you obtained the Oath from to skip Blindseer's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Blindseer](Oath%253A_Blindseer.md)\]
+
+-   **All-Seeing Eye** \[Oath Talent\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
+    
+    {#if: \*Invisible players and monsters are revealed by a Blindseer Eye icon showcasing their current position.
+    
+    -   -   Specifically reveals players under the effects of [Ghost](#ghost), [Static Flash Clone](#static-flash-clone), [Cheap Trick](#cheap-trick), [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants)' casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
+    -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
+    -   This works on anyone who is invisible, yourself and monsters included.
+    -   Because your body is rendered out while in first person, Al-Seeing Eye triggers on yourself. You can see the swirling effect if you look downwards.|\*Invisible players and monsters are revealed by a Blindseer Eye icon showcasing their current position.
+        -   Specifically reveals players under the effects of [Ghost](#ghost), [Static Flash Clone](#static-flash-clone), [Cheap Trick](#cheap-trick), [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants)' casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
+    -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
+    -   This works on anyone who is invisible, yourself and monsters included.
+    -   Because your body is rendered out while in first person, Al-Seeing Eye triggers on yourself. You can see the swirling effect if you look downwards.  
+        }}
+    -   Prerequisites: [Oath: Blindseer](Oath%253A_Blindseer.md), help 4 Pathfinders without [Oaths](Oaths.md) escape their [Depths Trials](Cathedral_of_the_Interstice.md) OR pay 10 to the wall text you obtained the Oath from to skip Blindseer's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Blindseer](Oath%253A_Blindseer.md)\]
 
 ### Berserker
 

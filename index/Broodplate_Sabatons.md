@@ -1,6 +1,6 @@
 ---
 title: Broodplate Sabatons
-revid: 225312
+revid: 225570
 source: https://deepwoken.fandom.com/wiki/Broodplate_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,6 +23,7 @@ categories: [Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, E
 | enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting : 3 Grudgeroot + Grand Authority Sabatons + Ring of Pestilence |
+| description | ... |
 
 Broodplate Set
 

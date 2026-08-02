@@ -1,32 +1,26 @@
 ---
 title: Servers
-revid: 213043
+revid: 225566
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Mechanics]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Mechanics]
 ---
 
 # Servers
 
 ## Description
 
-As of September 4th, 2022, there are new server names. These include Executioner, Fence, Squire, and Vainglorious.
+**Servers** are the primary way to join _[Deepwoken](<Deepwoken_(game).md>)_.
 
-**Servers** are the way to join Deepwoken. They are comprised of two random adjectives (descriptive, then color) and a random noun from the list below. The Etrean Luminant can host 30 people, the Eastern Luminant, 24, and [The Depths](The_Depths.md), 26.
+The Etrean Luminant can host 24 people, the Eastern Luminant, 20, and [The Depths](The_Depths.md), 14.
 
-Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode. In addition, servers in the Eastern Luminant will be an orange color if War Mode is currently active.
+If [Hell Mode](Hell_Mode.md) is active in a server, the server card will appear red with \[HELL\] labeled next to the player count. Similarly, an ongoing [War Mode](War_Mode.md) server will appear yellow with \[WAR\] labeled next to the player count.
 
-Example Private Server (from Great-war 2026)
+Private Servers will only have both their text and border in a orange color, as well as removing the limit on player counts. These are reserved for events, testing, etc.; and require developer or moderation permission to view and access.
 
-Private Servers will have both their text and border in a yellow color, and have a description instead of a player-count. These are reserved for events, testing, etc.; and require developer or moderation permission to view and access.
+## Server Regions
 
-Example hellmode server
-
-## Server Locations
-
-There are currently 21 possible locations:
+There are approximately 23 possible regions:
 
 -   NSW, AU (Australia)
 -   Hesse, DE (Germany)
@@ -40,10 +34,11 @@ There are currently 21 possible locations:
 -   Leinster, IE (Ireland)
 -   São Paulo, BR (Brazil)
 
-USA has 9 different regions:
+In addition, the USA has its own subregions:
 
 -   California
 -   Florida
+-   Georgia
 -   Illinois
 -   New Jersey
 -   New York
@@ -58,6 +53,8 @@ It is also possible to encounter a region known as the Unknown Region, which may
 _Please note that it is possible that some locations may have been missed, as Roblox servers may not be up at all times, or may lack sufficient dedicated servers for certain locations due to a possible shortage of players._
 
 ## Server Names
+
+Servers follow a naming scheme of two adjectives (descriptive and color) followed by a noun. They are used to distinguish differences between servers.
 
 **Adjectives:**
 
@@ -301,10 +298,9 @@ _Please note that it is possible that some locations may have been missed, as Ro
 
 ## Trivia
 
--   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
 -   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
 -   Every [aspect](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are aspect variants, and not their own independent aspect.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, Nocturnal Gem, and Wind Gem have their first names as server adjectives.
--   When joining layer 2 the server loading screen will sometimes be white instead of the usual dark green.
+-   When joining the Second Layer, the server loading screen will sometimes be white instead of the usual dark green.
 -   Inside dungeons, the only way to control which server location you connect to is to rejoin.
 -   If you clicked on the wrong server by accident, you can right click before you to connect to cancel joining that server.

@@ -1,9 +1,9 @@
 ---
 title: Broodplate Cuirass
-revid: 225311
+revid: 225572
 source: https://deepwoken.fandom.com/wiki/Broodplate_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Broodplate Cuirass
@@ -14,6 +14,7 @@ categories: [Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, 
 | rarity | Common |
 | selling price | 7 |
 | weight | 2 |
+| styles | Cestus, No Cestus |
 | innate stats | +2 Posture , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Rotten Regeneration |
 | set | Broodplate Helmet, Broodplate Cuirass, Broodplate Sabatons |
@@ -23,6 +24,7 @@ categories: [Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, 
 | enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting : 5 Grudgeroot + Necrotic Membrane + Grand Authority Plate |
+| description | ... |
 
 Broodplate Set
 
@@ -32,7 +34,7 @@ Variants: [Helmet](Broodplate_Helmet.md) · [Sabatons](Broodplate_Sabatons.md)
 
 The Broodplate Cuirass is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Rotten Regeneration](Talents.md#rotten-regeneration) Talent increases offensive healing gained (e.g. [Bloodless Gems](Bloodless_Gem.md)) received by 20% when targeting enemies who are under the effect of [Anti-Heal](Status_Effects.md#anti-heal).
+The [Rotten Regeneration](Talents.md#rotten-regeneration) Talent increases offensive healing (e.g. [Bloodless Gems](Bloodless_Gem.md)) by 20% when targeting enemies who are under the effect of [Anti-Heal](Status_Effects.md#anti-heal).
 
 ## Set Talents
 

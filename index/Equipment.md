@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 225320
+revid: 225574
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -373,13 +373,19 @@ Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)
 Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
 
  |
-|  | [Broodplate Helmet](Broodplate_Helmet.md) | _+2 Health_  
+|  | [Broodplate Helmet](Broodplate_Helmet.md)  
+(**Set**) | _+2 Health_  
 _+1 Posture_
 
 _+Talent: [**Broodlord's Scream**](Talents.md#broodlords-scream)_  
+_+Set Talent: [**Ardour Scream**](Talents.md#ardour-scream)_  
+_+Set Talent: [**Second Nature**](Talents.md#second-nature)_  
 **Requires Power 10**
 
- | N/A |
+ | Set: Broodplate  
+Head: [Broodplate Helmet](Broodplate_Helmet.md)  
+Arms: [Broodplate Cuirass](Broodplate_Cuirass.md)  
+Legs: [Broodplate Sabatons](Broodplate_Sabatons.md) |
 |  | [Captain's Kabuto](<Captain's_Kabuto.md>)  
 (**Styles**)  
 (**Series**) | _+8 Health_
@@ -1357,6 +1363,26 @@ Legs: [Brilliant Boots](Brilliant_Boots.md)
 Torso: [Brilliant Cape](Brilliant_Cape.md)
 
  |
+|  | [Broodplate Cuirass](Broodplate_Cuirass.md)  
+(**Styles**)  
+(**Set**) | _+2 Posture_
+
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: [**Rotten Regeneration**](Talents.md#rotten-regeneration)_  
+_+Set Talent: [**Ardour Scream**](Talents.md#ardour-scream)_  
+_+Set Talent: [**Second Nature**](Talents.md#second-nature)_
+
+ | Styles:  
+Cestus, No Cestus
+
+  
+Set: Broodplate  
+Head: [Broodplate Helmet](Broodplate_Helmet.md)  
+Arms: [Broodplate Cuirass](Broodplate_Cuirass.md)  
+Legs: [Broodplate Sabatons](Broodplate_Sabatons.md)
+
+ |
 |  | [Celtor Commander Plate](Celtor_Commander_Plate.md)  
 (**Set**) | _+8 Health_
 
@@ -2088,8 +2114,7 @@ Legs [Specialist Boots](Specialist_Boots.md)
 
  |
 |  | [Star Duster](Star_Duster.md)  
-(**Set**)  
-(**Legendary**) | _+5 Health_  
+(**Set**) | _+5 Health_  
 _+1 Posture_
 
 +2 Rare Pips  
@@ -2373,6 +2398,18 @@ Legs: [Brilliant Boots](Brilliant_Boots.md)
 Torso: [Brilliant Cape](Brilliant_Cape.md)
 
  |
+|  | [Broodplate Sabatons](Broodplate_Sabatons.md)  
+(**Set**) | _+9 Health_
+
++1 Legendary Pip  
+_+Talent: [**Gut Rot**](Talents.md#gut-rot)_  
+_+Set Talent: [**Ardour Scream**](Talents.md#ardour-scream)_  
+_+Set Talent: [**Second Nature**](Talents.md#second-nature)_
+
+ | Set: Broodplate  
+Head: [Broodplate Helmet](Broodplate_Helmet.md)  
+Arms: [Broodplate Cuirass](Broodplate_Cuirass.md)  
+Legs: [Broodplate Sabatons](Broodplate_Sabatons.md) |
 |  | [Celestial Boots](Celestial_Boots.md) | +2 Rare Pips  
 +1 Legendary Pip  
 
