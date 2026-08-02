@@ -1,6 +1,6 @@
 ---
 title: Lamprey
-revid: 224171
+revid: 225579
 source: https://deepwoken.fandom.com/wiki/Lamprey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Fishing Exclusive]
@@ -11,7 +11,7 @@ categories: [Items, Fish, Fishing Exclusive]
 | Lamprey | |
 |---|---|
 | weight | 0.25 |
-| stack | x99 |
+| stack | x39 |
 | type | Fish |
 | bankable | Yes |
 | droppable | Yes |
