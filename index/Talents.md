@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225565
+revid: 225575
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -6215,9 +6215,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Opponents who attempt to heal off you (e.g. with [Bloodless Gems](Bloodless_Gem.md)) while affected by Anti-Heal take 0.5% of their maximum health as damage.
     -   This has a 0.5 second cooldown.
 
--   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) & [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.
-    -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.
-    -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+-   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) & [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 10% more damage.
+    -   Counts as a damage modifier, so it will build up to, and is affected by, the damage modifier cap.
 
 -   Thresher Thrasher: [Thresher Charm](Thresher_Charm.md) - Adapt to the ways of the thresher, increasing how long you are able to stay underground with [Beast Burrow](Monster_Mantras.md#beast-burrow) by 30%, and reducing its cooldown by 25%.
 
