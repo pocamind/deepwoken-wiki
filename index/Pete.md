@@ -1,6 +1,6 @@
 ---
 title: Pete
-revid: 224895
+revid: 225661
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -42,7 +42,7 @@ Pete is a [Vesperian](Vesperian.md) NPC who was part of [Cap'n Orlandeau](<Cap'n
   <td>What's wrong, Pete?</td>
 </tr>
 <tr>
-  <td>Th' waves aren't kind to me gut, [First Name]. Gah, ol' Frank tried feedin' me a mushy stew, but- urgh. Tis not a help. Th' stew beckons my downfall, [First Name].</td>
+  <td>Th' waves aren't kind to me gut, [Player Username]. Gah, ol' Frank tried feedin' me a mushy stew, but- urgh. Tis not a help. Th' stew beckons my downfall, [Player Username].</td>
 </tr>
 <tr>
   <td>Rest up.</td>

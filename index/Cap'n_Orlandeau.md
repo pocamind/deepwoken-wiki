@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 225459
+revid: 225665
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -187,7 +187,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 
 **The Scoundrel's Bounty (Tutorial):**
 
-**Lesson 1:**
+**Lesson 2: Combat:**
 
 <table>
 <tbody>
@@ -195,69 +195,69 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Ohoho, look who's up late! Feeling caught in the waves this morning, [First Name]? Yer late for yer trainin'! What do you have to say for yerself?</td>
+  <td colspan="12">Feeling caught in the waves this morning, [Player Username]? Yer late for yer trainin'! Draw yer sword and let's get a move on.</td>
 </tr>
 <tr>
-  <td colspan="4">Apologies, Cap'n.</td>
-  <td colspan="4">It was a nice nap.</td>
-  <td colspan="4">You interrupted my dream.</td>
+  <td colspan="6">[Basics of attacking completed]</td>
+  <td colspan="6">[Basics of attacking incomplete]</td>
 </tr>
 <tr>
-  <td colspan="4">Hah, no need for formality, friend. I'm merely pullin' yer bicorn. One thing I won't be jokin' about though is yer trainin'! Let's not let that blade of yours go to waste! Pick up that sword.</td>
-  <td colspan="4">I'm sure it was, [First Name]! Ye nearly slept through all o' [SEASON]! Yer gonna need to work on some <i>discipline</i>, mate! All members of <i>Orlandeau's Crew</i> are hard workin', all together!</td>
-  <td colspan="4">Dreamin', aye? A foretellin' of the future, perhaps? Ye won't make it there if ye dont train, mate! No more stallin'. We don't got all mornin!</td>
+  <td colspan="6">Now, let's test yer reactions. We'll be startin' with ye <b>Dodging</b> my attacks. Dodged are forgiving and evasive. Handy for gettin' out of trouble. Ready?</td>
+  <td colspan="6">Well, [Player Username]? Give yer blade a go!</td>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue], move on to Lesson 2</td>
-  <td colspan="8">Apologies, Cap'n.</td>
+  <td colspan="6">Let me at 'em.</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="8">[See first instance]</td>
-</tr>
-</tbody>
-</table>
-
-**Lesson 2:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td colspan="6"><font>[Orlandeau draw his cutlass]</font><br>
+  <b>Prepare yourself!</b><br>
+  Three...<br>
+  Two...<br>
+  <b>One!</b><br>
+  <b>And again!</b><br>
+  <font>[Dialogue loops from "Three..." if player has not dodged an attack]</font></td>
 </tr>
 <tr>
-  <td colspan="6">Player has completed basics of attacking</td>
-  <td colspan="6">Player has not completed basics of attacking</td>
+  <td colspan="6">[Player dodges an attack]</td>
 </tr>
 <tr>
-  <td colspan="6">Now, I'll be giving ye a few practice swings for ye to try to <b>Parry</b>. Try <b>Parrying</b> when ye see the 'spark' of the swing, or when yer opponent is just about to bring their blade down.</td>
-  <td colspan="6">Well, [First Name]? Give yer blade a go!</td>
+  <td colspan="6"><b>That's it! Bravo!</b><br>
+  Not bad! Next up, we'll have ye <b>Parry</b> my attacks. Parrying an attack will often interrupt it and give you an opportunity to retaliate. Ready?</td>
 </tr>
 <tr>
   <td colspan="6">Let me at 'em.</td>
 </tr>
 <tr>
-  <td colspan="6">Player has parried Cap'n Orlandeau</td>
+  <td colspan="6"><font>[Orlandeau draw his cutlass]</font><br>
+  <b>Prepare yourself!</b><br>
+  Three...<br>
+  Two...<br>
+  <b>One!</b><br>
+  <b>And again!</b><br>
+  <font>[Dialogue loops from "Three..." if player has not parried an attack]</font></td>
 </tr>
 <tr>
-  <td colspan="6">Very good, [First Name]! Yer doin' great, mate. Wanna give it another go to get more practice in, or move on?</td>
+  <td colspan="6">[Player parries an attack]</td>
 </tr>
 <tr>
-  <td colspan="3">Let's move on to the next lesson.</td>
-  <td colspan="3">Let me do another try.</td>
+  <td colspan="6"><b>That's it! Bravo!</b><br>
+  Very good, [Player Username]! Yer doin' great, mate. Wanna give it another go to get more practice in, or move on?</td>
 </tr>
 <tr>
-  <td colspan="3">[End Dialogue], move on to Lesson 3</td>
-  <td colspan="3">Player has parried Cap'n Orlandeau</td>
+  <td colspan="2">Let's move on to the next lesson.</td>
+  <td colspan="2">[Dodging]</td>
+  <td colspan="2">[Parrying]</td>
 </tr>
 <tr>
-  <td colspan="3"></td>
-  <td colspan="3">[See first instance]</td>
+  <td colspan="2">[Moves on to Lesson 3: Survival]</td>
+  <td colspan="2">[Revisits dodging section]</td>
+  <td colspan="2">[Revisits parrying sections]</td>
 </tr>
 </tbody>
 </table>
 
-**Lesson 3:**
+**Lesson 3: Survival:**
 
 <table>
 <tbody>
@@ -265,27 +265,25 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Now then, ye look like you could do with a <b>Rest</b>. Why don't ye put together a <b>Campfire</b> to recover your health? Er. Don't mind the hazard to the ship, I'll snuff it out.</td>
+  <td colspan="12"><font>[Player is given 3x Sticks and a Flint]</font><br>
+  Now then, ye look like you could do with a <b>Rest.</b> Why don't ye put together a <b>Campfire</b> to recover your health? Er. Don't mind the hazard to the ship, I'll snuff it out.</td>
 </tr>
 <tr>
-  <td colspan="6">Player has sat at a campfire</td>
-  <td colspan="6">Player has not sat at a campfire</td>
+  <td colspan="6">[Player has sat at a campfire]</td>
+  <td colspan="6">[Player has not sat at a campfire]</td>
 </tr>
 <tr>
-  <td colspan="6">That's a lot of thinkin' I've had ye do, huh? Let's try teachin' ye somethin' simpler then, heh. Another key to survival within this <a href="Glossary.md#the-luminants">Luminant</a> is utilizing <b>Equipment</b> to enhance your survivability. You can find all sorts of various knick knacks around.. or off bodies. I can lend ye one if you'd like, I promise this one isn't off a corpse.</td>
-  <td colspan="6">Well, [First Name]? Are ye gonna make yer own campfire to <b>Rest</b>?</td>
+  <td colspan="6">With recoverin' from damage out of the way, let's move onto using <b>Equipment</b> to <i>reduce</i> damage. Try this on fer size.<font>[Player is given Leather Gloves]</font></td>
+  <td colspan="6">Well, [Player Username]? Are ye gonna make yer own campfire to <b>Rest?</b></td>
 </tr>
 <tr>
-  <td colspan="6">..Sure?</td>
+  <td colspan="6">[Moves on to Lesson 4: Commerce]</td>
   <td colspan="6">[End Dialogue]</td>
 </tr>
-<tr>
-  <td colspan="6">[End Dialogue], move on to Lesson 4</td>
-</tr>
 </tbody>
 </table>
 
-**Lesson 4:**
+**Lesson 4: Commerce:**
 
 <table>
 <tbody>
@@ -293,14 +291,11 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Try it on, mate! <b>Equip</b> it and see how it fits!</td>
+  <td colspan="6">[Player has equipped Leather Gloves]</td>
+  <td colspan="6">[Player has not equipped Leather Gloves]</td>
 </tr>
 <tr>
-  <td colspan="6">Player has equipped Leather Gloves</td>
-  <td colspan="6">Player has not equipped Leather Gloves</td>
-</tr>
-<tr>
-  <td colspan="6">Alright! That was a lot. Let's have a change of scenery, I've had enough of this lower deck for a lifetime. Over here, mate.</td>
+  <td colspan="6">Alright! Let's have a change of scenery, I've had enough of this lower deck for a lifetime. Over here, mate.</td>
   <td colspan="6">Go on, then! <b>Equip</b> the gloves, mate.</td>
 </tr>
 <tr>
@@ -308,38 +303,33 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">Now, if ye want to get by, ye'll need to do a bit of buyin' and sellin', y'hear? Ye'll be needin' to buy food, equipment, and trainin' gear. In these parts, we use <b>Notes</b>.</td>
+  <td colspan="6"><font>[Orlandeau moves to the cargo]</font><br>
+  On yer travels, ye'll need to do a bit of buyin' and sellin', y'hear? Best way to make money is sellin' the things you find to an <b>Antiquarian.</b> Why don't ye try sellin' this gem to the fellow in the red outfit?<font>[Player is given Orlandeau's Emerald]</font></td>
 </tr>
 <tr>
-  <td colspan="6">How can I get notes?</td>
+  <td colspan="3">[Player has sold Orlandeau's Emerald]</td>
+  <td colspan="3">[Player has not sold Orlandeau's Emerald]</td>
 </tr>
 <tr>
-  <td colspan="6">As many ways as ye can think! Though yer best bet is sellin' off the things ye find to an <b>Antiquarian</b>. Ye can find one is most towns. Why don't ye try to pawn off this gem to that fellow in the red outfit?</td>
-</tr>
-<tr>
-  <td colspan="6">Deal.</td>
-</tr>
-<tr>
-  <td colspan="6">Go on then. Sell this Emerald here, don't be shy.</td>
-</tr>
-<tr>
-  <td colspan="3">Player has sold Orlandeau's Emerald</td>
-  <td colspan="3">Player has not sold Orlandeau's Emerald</td>
-</tr>
-<tr>
-  <td colspan="3">Aye, need a reminder, mate? Try to buy that <b>Dumbbell</b> with the notes ye earned, then use it to train your <b>Strength</b>. Ye gotta hold it out just like yer Campfire Pit from befure, then <b>use</b> it.</td>
+  <td colspan="3">It brings a tear to me eye... Now, let's try purchasin' some <b>Training Gear</b> from the cabinet over there and we can get ye started on some <b>Attribute Trainin'.</b></td>
   <td colspan="3">Don't be shy, mate! Try to sell that emerald I gave ye to that <b>Antiquarian</b> over there, then come back to me.</td>
 </tr>
 <tr>
-  <td colspan="3">Player has bought and used Dumbbell</td>
+  <td colspan="3">[Player has bought a Dumbbell]</td>
+  <td colspan="3">[Player has not bought and used a Dumbbell]</td>
 </tr>
 <tr>
-  <td colspan="3">[End Dialogue], move on to Lesson 5</td>
+  <td colspan="3">[Moves on to Lesson 5: Power]</td>
+  <td colspan="3">Aye, need a reminder, mate? Try to buy that <b>Dumbbell</b> with the notes ye earned, then use it to train your <b>Strength.</b> Ye gotta hold it out just like yer Campfire Pit from befure, then <b>use</b> it.</td>
+</tr>
+<tr>
+  <td colspan="3"></td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Lesson 5:**
+**Lesson 5: Power:**
 
 <table>
 <tbody>
@@ -353,16 +343,17 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="2">What do you mean by Power?</td>
 </tr>
 <tr>
-  <td colspan="2">Once one improves enough of their physical attributes, their <b>Power</b> grows. With each level reached, one picks up further <b>abilities</b>. But enough of that, let's not keep yer crewmates waitin'.</td>
+  <td colspan="2">Once one improves enough of their physical attributes, their <b>Power</b> grows. With each level reached, one picks up further <b>abilities.</b> But enough of that, let's not keep yer crewmates waitin'.</td>
 </tr>
 <tr>
   <td colspan="2">Very well, Cap'n.</td>
 </tr>
 <tr>
-  <td colspan="2">Nothing quite like the smell of the sea, aye? Ye did great in yer training today, [First Name]. Ye can take a moment to chat with yer crewmates if ye like, just come back my way when you've had enough.</td>
+  <td colspan="2"><font>[Orlandeau moves to the upper deck]</font><br>
+  Nothing quite like the smell of the sea, aye? Ye did great in yer training today, [Player Username]. Ye can take a moment to chat with yer crewmates if ye like, just come back my way when you've had enough.</td>
 </tr>
 <tr>
-  <td colspan="2">Player speaks to Cap'n Orlandeau again</td>
+  <td colspan="2">[Player speaks to Orlandeau again]</td>
 </tr>
 <tr>
   <td colspan="2">Ye get a good enough chinwag out there, then?</td>
@@ -377,29 +368,28 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="2">Mantras?</td>
 </tr>
 <tr>
-  <td colspan="2">Aye, fragments of the <a href="Glossary.md#the-song"><font>Song</font></a> that ye can call upon to wield in battle. Ye'll surely come across them as ye increase your <b>Power</b>.</td>
+  <td colspan="2">Aye, fragments of the <a href="Glossary.md#the-song"><font>Song</font></a> that ye can call upon to wield in battle. Ye'll surely come across them as ye increase your <b>Power.</b><br>
+  <font>[Player is given a Whisper Draw]</font></td>
 </tr>
 <tr>
-  <td colspan="2">[Player receives a <a href="Whisper_Draw.md">Whisper Draw</a>]</td>
-</tr>
-<tr>
-  <td>[Player speaks to the Cap'n before claiming a Mantra]</td>
   <td>[Player claims a Mantra]</td>
+  <td>[Player speaks to Orlandeau before claiming a Mantra]</td>
 </tr>
 <tr>
-  <td>Why don't ye pick one of the cards I gave ye? I'll walk ye through how to use it next.</td>
   <td>Ahah! A great choice. Why don't ye give it a whirl?</td>
+  <td>Why don't ye pick one of the cards I gave ye? I'll walk ye through how to use it next.</td>
 </tr>
 <tr>
-  <td colspan="2">[Player uses their chosen Mantra]</td>
+  <td>[Player uses their chosen Mantra]</td>
+  <td>[End Dialogue],</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue], move on to Lesson 6</td>
+  <td>[Moves on to Lesson 5: Power]</td>
 </tr>
 </tbody>
 </table>
 
-**Lesson 6:**
+**Lesson 6: Horizons:**
 
 <table>
 <tbody>
@@ -416,10 +406,20 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td>Heh, well next up we have my favor-</td>
 </tr>
 <tr>
-  <td>No... The <a href="Glossary.md#the-central-authority">Authority</a> can't have... <b>GET BELOW DECK, NOW!</b></td>
+  <td>No... The <a href="Glossary.md#the-central-authority">Authority</a> can't have... <b>GET BELOW DECK, NOW!</b><br>
+  <font>[The Authority busts the ship and screen goes black]</font></td>
 </tr>
 <tr>
-  <td>[End Dialogue] of Tutorial</td>
+  <td><i>*Everything goes black. Your mind feverishly slips into the dull complacency of unconsciousness, your thoughts no longer able to hold on.*</i></td>
+</tr>
+<tr>
+  <td><i>*All dreams must come to an end. And so too must the endless procession of nightmares plague the <font>Drowned...*</font></i></td>
+</tr>
+<tr>
+  <td><i>*Or so you thought.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue], Tutorial ends and player is returned to the Main Menu</td>
 </tr>
 </tbody>
 </table>

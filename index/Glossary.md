@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 224164
+revid: 225667
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -799,7 +799,7 @@ Dialogue: [Adrofalis](Adrofalis.md), [Armourer Kev](Armourer_Kev.md), [Chef Buon
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants; the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Thula](Thula.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouses](#lighthouses), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Alirian](Alirian.md), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Thula](Thula.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouses](#lighthouses), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The City of New Kyrsa
 

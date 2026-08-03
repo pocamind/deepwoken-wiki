@@ -1,6 +1,6 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 224768
+revid: 225659
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -11,6 +11,7 @@ categories: [Gremor NPCs, Individuals with She/her pronouns, Pathfinder Exclusiv
 | Flabbernaster Filingree, the First Mate | |
 |---|---|
 | name | Flabbernaster Filingree |
+| alias | The First Mate |
 | aspect | Gremor |
 | pronouns | She/her |
 | location | The Scoundrel's Bounty |
@@ -36,7 +37,7 @@ Flabbernaster Filingree, the First Mate is a [Gremor](Gremor.md) NPC who was par
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2">Aye, [First Name]! Tis great to see ye again. Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. He said somethin' about fearin' for yer ability to live in Etrea with that display.</td>
+  <td colspan="2">Aye, [Player Username]! Tis great to see ye again. Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. He said somethin' about fearin' for yer ability to live in Etrea with that display.</td>
 </tr>
 <tr>
   <td>We just practiced, it's settled now.</td>

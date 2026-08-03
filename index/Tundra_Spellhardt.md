@@ -1,6 +1,6 @@
 ---
 title: Tundra Spellhardt
-revid: 224986
+revid: 225669
 source: https://deepwoken.fandom.com/wiki/Tundra_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide, NPCs located in The Floating Keep, Members of the Spellhardt family]
@@ -42,7 +42,7 @@ Tundra is female [Lightborn](Lightborn.md) located in [The Floating Keep](The_Fl
   <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td>*<i>The woman would let out a loud scoff, then shrugging her shoulders.</i>* Well! You're standing in a room called <i>The Dispute Hall</i>, it's quite easy to assume we have our little disagreements. Settled by blade, usually.</td>
+  <td>*<i>The woman lets out a loud scoff, then shrugging her shoulders.</i>* Well! You're standing in a room called <i>The Dispute Hall</i>, so it's quite easy to assume we have our little disagreements. Settled by blade, usually.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: "Frank F'alzone"
-revid: 224771
+revid: 225664
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Individuals with unspecified pronouns, Members of the Rotten Lot]
@@ -36,7 +36,7 @@ Frank F'alzone, is a [Celtor](Celtor.md) NPC who was part of [Captain Orlandeau'
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Aye, 'appy to see ye, [First Name]. I 'eard Orlandeau hollerin' at ye from here! Did he teach you well? Didn't kill yer confidence, aye?</td>
+  <td>Aye, 'appy to see ye, [Player Username]. I 'eard Orlandeau hollerin' at ye from here! Did he teach you well? Didn't kill yer confidence, aye?</td>
 </tr>
 <tr>
   <td>You could say that.</td>
