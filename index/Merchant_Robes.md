@@ -19,7 +19,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclus
 | durability | 1200 |
 | resistances | +10% Physical Armor , +5% Elemental Armor |
 | talents | Merchant's Accord |
-| obtainment | Sold from:, Traan Zakshun's regular shop for 200 , Nyanna for 200 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Moon's Eyrie, Lower Erisia |
+| obtainment | Sold from:, Traan Zakshun's regular shop for 200 , Nyanna for 200 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Moon's Eyrie, Lower Erisia |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

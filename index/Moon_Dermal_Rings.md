@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The Ferryman (During winter) |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Ferryman (During winter) |
 | description | FEAR. IRONSINGERS. |
 
 _This page is about the [Face Equipment](Equipment.md#face). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

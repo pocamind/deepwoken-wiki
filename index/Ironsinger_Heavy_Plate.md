@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
 | description | ... |
 
 ## Description

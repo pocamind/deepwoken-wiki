@@ -23,7 +23,7 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Sold at Meteor Isle Blacksmith for 30 , Sold at Fort Merit Armory for 60 (Authority Ensign exclusive) |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Sold at Meteor Isle Blacksmith for 30 , Sold at Fort Merit Armory for 60 (Authority Ensign exclusive) |
 | description | A fine shield to hold back the horrors of the world. |
 
 ## Description

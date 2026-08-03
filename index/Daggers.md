@@ -108,7 +108,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>LHT: 7.5</td>
   <td>-</td>
   <td>-</td>
-  <td>2.2</td>
+  <td>2</td>
   <td>11</td>
   <td>1.3x</td>
   <td>-</td>

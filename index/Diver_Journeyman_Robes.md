@@ -20,7 +20,7 @@ categories: [Expert Outfits, Outfits, The Divers, Outfits with Talents, "Outfits
 | durability | 1000 |
 | resistances | +20% Physical Armor , +10% Blunt Armor , +30% Elemental Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Lodestar Bounty job, Sold Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Lodestar Bounty job, Sold Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

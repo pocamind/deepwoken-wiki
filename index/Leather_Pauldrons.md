@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | description | ... |
 
 Leather Set

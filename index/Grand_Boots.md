@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Lodestar Bounty job, Deep Widow, Saramaed Hollow |
+| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Lodestar Bounty job, Deep Widow, Saramaed Hollow |
 | description | ... |
 
 Grand Set

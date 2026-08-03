@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The Ferryman (Winter), Aelita |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Ferryman (Winter), Aelita |
 | description | That's metal. |
 
 ## Description

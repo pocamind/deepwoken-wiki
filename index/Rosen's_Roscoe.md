@@ -32,7 +32,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Com
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Dread Serpent, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Deep Widow, Interluminary Parasol, Diluvian Mechanism, Voidsea |
+| obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Dread Serpent, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Deep Widow, Interluminary Parasol, Diluvian Mechanism, Voidsea |
 | description | A sleek hand cannon, wrought from meticulous ironsmithing. The Roscoe marks Lumen's first generation of true cylindrical barrel revolvers. Though slower than the Company's repeater models, it delivers unmatched power and precision, earning Rosen's student a well deserved payday for their innovation. |
 
 ## Description

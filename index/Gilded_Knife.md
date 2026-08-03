@@ -31,7 +31,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Merchant Ships, Bounties, Saramaed Hollow, Dread Serpent |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Merchant Ships, Bounties, Saramaed Hollow, Dread Serpent |
 | description | A knife of fine craftmanship, bearing an equally fine sharpness. |
 
 Variants: [Rangescraper](Rangescraper.md)

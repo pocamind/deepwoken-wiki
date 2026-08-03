@@ -33,7 +33,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Scion of Ethiron, Duke Erisia, Fishing, Lodestar Bounty job, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Sold in Traan Zakshun's black market for 4 |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Scion of Ethiron, Duke Erisia, Fishing, Lodestar Bounty job, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Sold in Traan Zakshun's black market for 4 |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
 Variants: [Eyes of Ethiron](Eyes_of_Ethiron.md)

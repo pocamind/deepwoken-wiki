@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Equipment with T
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Miner's Landing, Faction Ambushes (The Ignition Union), Crypt of the Unbroken, Faction Ambushes (The Ministry), Heart of Enmity, Dread Serpent, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
+| obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Miner's Landing, Faction Ambushes (The Ignition Union), Crypt of the Unbroken, Faction Ambushes (The Ministry), Heart of Enmity, Dread Serpent, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs |
 | description | ... |
 
 Etrean Siege Set

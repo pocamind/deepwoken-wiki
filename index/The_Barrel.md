@@ -32,7 +32,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatca
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Fishing, Minityrsa, Interluminary Parasol, Dread Serpent, The Doom of Caeranthil |
+| obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Fishing, Minityrsa, Interluminary Parasol, Dread Serpent, The Doom of Caeranthil |
 | description | Once mounted on a royal Etrean galleon, this bulky cannon was salvaged from a wreck by the Summer Company and addapted into a handheld design; still cumbersome, according to those who used it before its eventual retirement. |
 
 _Not to be confused with [Barrels](Barrel.md)._

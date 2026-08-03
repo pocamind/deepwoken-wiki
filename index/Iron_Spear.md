@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Chime of ConflictVow of Iron:, Spear Dancer Memento |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Chime of ConflictVow of Iron:, Spear Dancer Memento |
 | description | A spear perfect for poking at a safe distance. |
 
 ## Description

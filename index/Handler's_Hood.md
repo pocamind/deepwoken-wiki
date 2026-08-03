@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Fishing |
+| obtainment | Chests from:, Authority Ensign Missions (Inquisition Division only), Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Fishing |
 | description | A shroud worn proud by the higher ranking members of the Central Authority Inquisition. Becoming a Handler is no easy feat for any Inquisitor, and requires a high expertise in a variety of skills. Handlers often act as trusted agents commanded directly by the High Inquisitors, extending the reach of their activities far beyond Authority territory. They are the measured blades which slice apart the chains which seek to bind all. |
 
 ## Description

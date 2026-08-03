@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Duke Ishamon Erisia, Dread Serpent |
+| obtainment | Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Duke Ishamon Erisia, Dread Serpent |
 | description | ... |
 
 ## Description

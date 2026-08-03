@@ -33,7 +33,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatca
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Dread Serpent, Interluminary Parasol, The Doom of Caeranthil, Titus Fulminus Destellus |
+| obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Dread Serpent, Interluminary Parasol, The Doom of Caeranthil, Titus Fulminus Destellus |
 | description | An antique creation from the Summer Company, built to place battleship-level firepower in the palms of your hands. Once hailed a masterpiece, it was soon overshadowed by the lighter rifles, yet in the hands of someone strong enough to wield it, it can still unleash devastation unmatched by newer models. |
 
 ## Description

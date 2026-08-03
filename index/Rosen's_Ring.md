@@ -20,7 +20,7 @@ categories: [Equipment, Rings, Scaling Rings, Equipment of The Summer Company]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Cinders of Etris, The Doom of Caeranthil, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Maestro Evengarde Rest, Interluminary Parasol, Saramaed Hollow, Pure Ore Turn-ins, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Cinders of Etris, The Doom of Caeranthil, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Scion of Ethiron, Maestro Evengarde Rest, Interluminary Parasol, Saramaed Hollow, Pure Ore Turn-ins, Ancient Rotlands (Deep Cave) |
 | description | A ring once worn by a genius inventor. Said to have been discarded once he turned to other methods of inspiration. +1.2 INT scaling to all weapons. |
 
 ## Description

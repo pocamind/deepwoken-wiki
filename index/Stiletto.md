@@ -31,7 +31,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 15 (Authority Ensign exclusive) |
+| obtainment | Character Creation, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 15 (Authority Ensign exclusive) |
 | description | A remarkably thin blade often likened to (and used as) a toothpick. |
 
 ## Description

@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event |
+| obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event |
 | description | ... |
 
 ## Description

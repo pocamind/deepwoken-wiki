@@ -220,7 +220,6 @@ There are currently three Talents related to fishing, each automatically obtaine
         
     -   Prerequisites: Get 10 Bites in fishing (given automatically)  
         
-    -   Tags:
 
 <table>
 <tbody>
@@ -246,7 +245,6 @@ There are currently three Talents related to fishing, each automatically obtaine
         
     -   Prerequisites: Get 30 Bites in fishing (given automatically)  
         
-    -   Tags:
 
 <table>
 <tbody>
@@ -272,7 +270,6 @@ There are currently three Talents related to fishing, each automatically obtaine
         
     -   Prerequisites: Get 50 Bites in fishing (given automatically)  
         
-    -   Tags:
 
 ## Gallery
 

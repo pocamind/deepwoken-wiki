@@ -20,7 +20,7 @@ categories: [Expert Outfits, Outfits, The Ignition Union, Outfits with Talents, 
 | durability | 1000 |
 | resistances | +25% Physical Armor , +5% Blunt Armor , +25% Elemental Armor , +5% Fire Armor |
 | talents | Perseverance, Strong Stern |
-| obtainment | Sold by Nyanna for, Sold in Traan Zakshun's regular shop for 200 Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Moon's Eyrie, PrimadonVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | Sold by Nyanna for, Sold in Traan Zakshun's regular shop for 200 Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie, PrimadonVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

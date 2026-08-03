@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Braces, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Duke Ishamon Erisia, Heart of Enmity, Dread Serpent |
 | description | ... |
 
 Vanguard Set

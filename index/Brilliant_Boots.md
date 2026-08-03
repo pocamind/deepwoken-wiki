@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Dread Serpent |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Dread Serpent |
 | description | ... |
 
 Brilliant Set

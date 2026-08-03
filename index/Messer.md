@@ -35,7 +35,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Medium W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 16 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Chime of Conflict, Sold at The Floating Keep Blacksmith for 16 Alloyed:, Alloying a Messer |
+| obtainment | Sold at Etris Weaponry for 16 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Chime of Conflict, Sold at The Floating Keep Blacksmith for 16 Alloyed:, Alloying a Messer |
 | description | Considered by many to be an overgrown kitchen knife, the Messer is a favourite of rangers and beast hunters the world over. |
 
 ## Description

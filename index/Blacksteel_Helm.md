@@ -23,7 +23,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Chime of Conflict, Heart of Enmity, Dread Serpent, Saramaed HollowDrops from:, Blacksteel Pirate |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Chime of Conflict, Heart of Enmity, Dread Serpent, Saramaed HollowDrops from:, Blacksteel Pirate |
 | description | An imposing helmet made from blackened steel. |
 
 Blacksteel Set

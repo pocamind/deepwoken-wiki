@@ -5957,7 +5957,8 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 -   Deals 5/6/7/8/9 base damage per level, per stake, 2 posture per stake at level 5, 1.15s windup, Has 14s CD
 -   Has 2.7x PVE scaling
--   Leaves behind a Blood Pool.
+-   Leaves behind Blood Pools that last 6 seconds.
+-   If there are blood pools nearby each one will spawn an additional stake from the pool.
 -   Every level adds a blood stake (6 at max lv)
 -   Posture DMG and DMG scales with blood pools
 
@@ -6110,6 +6111,7 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 -   Deals 15+7.5/20+10/25+12.5/30+15/35+17.5 damage per level, 1 posture, 0.5s windup has 10s CD at 5 lvl
 -   Has 9.18x PVE scaling
 -   If first hit is blocked then entire move is stopped and goes on CD.
+-   The second hit counts as a flourish & procs majority of flourish effects.
 
  |
 | 

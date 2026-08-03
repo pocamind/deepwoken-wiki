@@ -31,7 +31,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, The Diluvian Mechanism, Dread Serpent, Saramaed Hollow, Deep Widow |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, The Diluvian Mechanism, Dread Serpent, Saramaed Hollow, Deep Widow |
 | description | Cestus used by members of the Hundred Legions. |
 
 ## Description

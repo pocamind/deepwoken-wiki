@@ -20,7 +20,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Saramaed Hollow, Miner's Landing, Faction Ambushes (The Ignition Union), Heart of Enmity |
+| obtainment | Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Saramaed Hollow, Miner's Landing, Faction Ambushes (The Ignition Union), Heart of Enmity |
 | description | ... |
 
 Variants: [Blessed Nomad Pendant](Blessed_Nomad_Pendant.md)

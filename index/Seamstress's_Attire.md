@@ -19,7 +19,7 @@ categories: [Expert Outfits, Outfits]
 | droppable | Yes |
 | durability | 2000 |
 | resistances | +25% Physical Armor , +20% Elemental Armor |
-| obtainment | Chests from:, Carnival of Hearts, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Bounties, The Diluvian Mechanism, Primadon, Titan of the East, Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 |
+| obtainment | Chests from:, Carnival of Hearts, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Bounties, The Diluvian Mechanism, Primadon, Titan of the East, Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

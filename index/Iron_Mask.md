@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Dread Serpent, Interluminary Parasol, Bounties, Primadon, Titan of the East |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Dread Serpent, Interluminary Parasol, Bounties, Primadon, Titan of the East |
 | description | A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority. |
 
 Variants: [Armored Sensor Mask](Armored_Sensor_Mask.md)

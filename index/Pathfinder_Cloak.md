@@ -20,7 +20,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusiv
 | durability | 1200 |
 | resistances | +18% Physical Armor , +8% Elemental Armor |
 | talents | Survivalist |
-| obtainment | Sold by Nyanna, Sold near FriidChests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Moon's Eyrie, Primadon, Titan of the East |
+| obtainment | Sold by Nyanna, Sold near FriidChests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Moon's Eyrie, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

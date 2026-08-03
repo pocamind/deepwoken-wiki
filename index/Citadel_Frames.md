@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict, Heart of Enmity, The Doom of Caeranthil, Dread Serpent, Bounties, Chaser, Scholar of the Crimson Contract, Voidsea |
+| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chime of Conflict, Heart of Enmity, The Doom of Caeranthil, Dread Serpent, Bounties, Chaser, Scholar of the Crimson Contract, Voidsea |
 | description | Designed for the scholars of the Citadel, these frames are renowned for their simple yet striking style, and are traded and sought after across all Luminants. Unfortunately, they are not your prescription... |
 
 ## Description

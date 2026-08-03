@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment with Tal
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Saramaed Hollow |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Saramaed Hollow |
 | description | Despite being a realm built primarily on commerce, the city of Celtor also possessed many long-standing military traditions, now lost to time. But, by candle light, among the Celtorian diaspora, some still recall their fragments, many generations since. These embers of history survive through word of mouth and recollection. Tales of valiant knights in shining armour, of glorious quests, of honour and virtue. Yet, what kernels of truth remain in these stories, diluted by the salt-brine of time? |
 
 Variants: [Royal Commander Helm](Royal_Commander_Helm.md)

@@ -20,7 +20,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs |
 | description | A simple silver pendant in the likeness of the Moonseye. Wearing such a pendant is a sign of mourning in many cultures, a holdover from the Old World. |
 
 _This page is about the torso [Equipment](Equipment.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._

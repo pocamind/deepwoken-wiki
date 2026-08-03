@@ -20,7 +20,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusiv
 | durability | 1000 |
 | resistances | +10% Physical Armor , +10% Blunt Armor |
 | talents | Looter |
-| obtainment | Etris, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
+| obtainment | Etris, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

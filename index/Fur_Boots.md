@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Heart of Enmity, Dread Serpent, War Mode, Authority Ensign Missions |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Heart of Enmity, Dread Serpent, War Mode, Authority Ensign Missions |
 | description | ... |
 
 Variants: [Caster Fur Boots](Caster_Fur_Boots.md)

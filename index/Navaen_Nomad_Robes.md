@@ -20,7 +20,7 @@ categories: [Adept Outfits, Outfits, The Children of Navae, Outfits with Talents
 | resistances | +10% Physical Armor , +10% Blunt Armor , +10% Elemental Armor , +15% Ice Armor , +15% Shadow Armor |
 | buffs | +50% Stealth |
 | talents | Fists of Navae |
-| obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Moon's Eyrie, Minityrsa, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Primadon, Titan of the East |
+| obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Moon's Eyrie, Minityrsa, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
 

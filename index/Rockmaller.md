@@ -30,7 +30,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | War Mode, Miner's Landing, Faction Ambushes (The Ignition Union), Saramaed Summit, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | War Mode, Miner's Landing, Faction Ambushes (The Ignition Union), Saramaed Summit, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | It's just a small, quarried chunk of a far more powerful stone. Silent, unremarkable, about as lively as... well, a rock on a stick. But as soon as you grip it, you feel that raw, untamed power humming beneath its rough surface. This isn't about wielding a polished weapon, it's about the sheer, brutal devastation this humble fragment is ready to unleash in your hands. |
 
 ## Description

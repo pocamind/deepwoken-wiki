@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Saramaed Hollow, Bounties, Maestro Evengarde Rest, Lodestar Bounty job, Ancient Rotlands (Deep Cave), Chaser, Scholar of the Crimson Contract |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Saramaed Hollow, Bounties, Maestro Evengarde Rest, Lodestar Bounty job, Ancient Rotlands (Deep Cave), Chaser, Scholar of the Crimson Contract |
 | description | Taking damage from ice or wind will cause you to regenerate ether. |
 
 ## Description

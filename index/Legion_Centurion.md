@@ -21,7 +21,7 @@ categories: [Master Outfits, Outfits, The Hundred Legions, Outfits with Talents,
 | resistances | +30% Physical Armor , +30% Elemental Armor , +5% Wind Armor , +5% Lightning Armor |
 | buffs | +20% Ether Regen |
 | talents | Centurion's Resolve |
-| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Primadon, Moon's Eyrie, Cinders of Etris, Saramaed HollowSold by:, Nyanna for 200 , Traan Zakshun for 200 , Glaive Spellhardt for 100 Joy |
+| obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Primadon, Moon's Eyrie, Cinders of Etris, Saramaed HollowSold by:, Nyanna for 200 , Traan Zakshun for 200 , Glaive Spellhardt for 100 Joy |
 | selling_price | 10 |
 | weight | 1 |
 

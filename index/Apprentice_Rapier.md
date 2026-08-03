@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Minityrsa, Sold at Etris Weaponry for 25 , Sold at The Floating Keep Blacksmith for 100 , Chime of Conflict, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Dread Serpent |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Minityrsa, Sold at Etris Weaponry for 25 , Sold at The Floating Keep Blacksmith for 100 , Chime of Conflict, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Dread Serpent |
 | description | Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey. |
 
 ## Description

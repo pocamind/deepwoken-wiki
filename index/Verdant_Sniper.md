@@ -19,7 +19,7 @@ categories: [Expert Outfits, Outfits]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +25% Physical Armor , +20% Elemental Armor , +10% Wind Armor |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

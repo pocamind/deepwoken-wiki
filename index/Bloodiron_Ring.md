@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, Dread Serpent, Lodestar Bounty job, Heart of Enmity, Maestro Evengarde Rest, War Mode, Saramaed Hollow, Deep Widow, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, Dread Serpent, Lodestar Bounty job, Heart of Enmity, Maestro Evengarde Rest, War Mode, Saramaed Hollow, Deep Widow, Ancient Rotlands (Deep Cave) |
 | description | A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armour. |
 
 ## Description

@@ -19,7 +19,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusiv
 | durability | 1200 |
 | resistances | +20% Physical Armor , +10% Blunt Armor |
 | talents | Paired Soul |
-| obtainment | Isle of Vigils inside the Mantra shop, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of VigilsVow of Iron:, Near the Temple of the Blade Blacksmith |
+| obtainment | Isle of Vigils inside the Mantra shop, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Vow of Iron:, Near the Temple of the Blade Blacksmith |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

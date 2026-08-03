@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Plates, Lost Celtor, Equipm
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Dread Serpent, Primadon, Miner's Landing, Faction Ambushes (The Ignition Union), War Mode |
+| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Dread Serpent, Primadon, Miner's Landing, Faction Ambushes (The Ignition Union), War Mode |
 | description | Clad in sturdy mastercraft armour modelled to resemble the walls of Celtor, the city's highest-ranking officers oversaw the day-to-day running of its military affairs. What did they see, on Celtor's final, fateful day? What hearts of stone belayed the Grand Marshal's order to evacuate the city? How many of them fled ahead of time, seeking to save their sorry lives? What hand valiantly stayed behind, to shepherd desperate civilians to the harbour? |
 
 ## Description

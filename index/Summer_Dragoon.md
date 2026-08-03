@@ -20,7 +20,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +30% Physical Armor , +30% Elemental Armor , +25% Wind Armor , +15% Ironsing Armor |
 | buffs | +20% Ether Regen |
 | talents | Sunset Ricochet |
-| obtainment | Glaive SpellhardtChests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Starfield Veldt, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | Glaive SpellhardtChests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Starfield Veldt, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

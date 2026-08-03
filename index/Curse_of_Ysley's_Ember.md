@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 | droppable | No |
 | pass down | Yes |
 | desc | Once enough stacks have been applied, the Fire of Life geminates. The explosion deals a random amount of damage and grants temporary health to the affected targets. |
-| obtainment | Curse of Ysley's Ember Enchant Stone:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 5 , Hive Construct (direct drop), Rogue Construct (direct drop) |
+| obtainment | Curse of Ysley's Ember Enchant Stone:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 5 , Hive Construct (direct drop), Rogue Construct (direct drop) |
 
 ## Description
 

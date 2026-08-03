@@ -20,7 +20,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exc
 | durability | 1000 Durability |
 | resistances | +5% Physical Armor , +20% Slash Armor , +25% Flamecharm Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | 10 |
 | weight | 1 |
 

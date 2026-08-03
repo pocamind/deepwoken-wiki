@@ -35,7 +35,7 @@ categories: [Weapons, Greathammers, Alloyable Weapons, Heavy Weapons, Weapons wi
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 100 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Chime of ConflictAlloyed:, Alloying a Steel MaulVow of Iron:, Berserker Memento |
+| obtainment | Sold at Etris Weaponry for 100 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Chime of ConflictAlloyed:, Alloying a Steel MaulVow of Iron:, Berserker Memento |
 | description | A sturdy maul perfect for knocking walls and people down alike. |
 
 Variants: [Warmonger](Warmonger.md) · [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>)

@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 223360
+revid: 225599
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Deep Gems, Mantras, Treasures]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Kyrsan Gem** is a pink crystalline [Relic](Relics.md) [Deep Gem](Deep_Gems.md) made up of several hexagonal prisms that converge at the bottom, not too dissimilar to the real-world quartz in shape. It also exudes a pink Kyrsan Chill aura.
+The **Kyrsan Gem** is a [Relic](Relics.md) [Deep Gem](Deep_Gems.md) made up of several pink crystals that converge at the bottom, and emits a chilling effect around it.
 
 It is exclusively obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and will be found in its chest.
 

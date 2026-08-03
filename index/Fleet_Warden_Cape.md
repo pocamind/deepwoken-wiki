@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Fishing |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Fishing |
 | description | ... |
 
 ## Description

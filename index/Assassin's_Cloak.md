@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Tale
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aelita, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Primadon, Elder Primadon, Cloaked Assassins, The Ferryman (Winter), Carnival of Hearts, War Mode |
+| obtainment | Aelita, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Primadon, Elder Primadon, Cloaked Assassins, The Ferryman (Winter), Carnival of Hearts, War Mode |
 | description | ... |
 
 Assassin's Set

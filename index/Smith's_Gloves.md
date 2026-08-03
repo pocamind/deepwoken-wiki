@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Gloves]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Duke Ishamon Erisia, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity |
 | description | ... |
 
 Smith's Set

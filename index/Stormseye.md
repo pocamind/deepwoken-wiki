@@ -30,7 +30,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "A
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fury Nautilodaunt, Fishing (Chest), Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The Diluvian Mechanism, Weird Trader, Sold in Traan Zakshun's black market for 4 |
+| obtainment | The Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fury Nautilodaunt, Fishing (Chest), Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Diluvian Mechanism, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | Pilfered from a returning Union expedition party, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
 
 ## Description

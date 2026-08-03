@@ -21,7 +21,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +25% Physical Armor , +25% Elemental Armor , +20% Ice Armor , +20% Fire Armor |
 | buffs | +50% Ether Regen |
 | talents | Crippling Darkness |
-| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, Saramaed Hollow, Primadon, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, Saramaed Hollow, Primadon, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

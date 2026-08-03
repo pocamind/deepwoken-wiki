@@ -3,7 +3,7 @@ title: Weapons
 revid: 224618
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Character, Mechanics]
+categories: [Weapons, Character, Mechanics, Pages with math errors, Pages with math render errors]
 ---
 
 # Weapons
@@ -4135,7 +4135,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>32.6</td>
 </tr>
 <tr>
-  <td><b><a href="Shadebolt.md"><font>Shadebolt</font></a></b></td>
+  <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
   <td>45 MED<br>
   30 SDW</td>
   <td>16</td>
@@ -12370,7 +12370,7 @@ Elemental
   <td>32.6</td>
 </tr>
 <tr>
-  <td><b><a href="Shadebolt.md"><font>Shadebolt</font></a></b></td>
+  <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
   <td>45 MED<br>
   30 SDW</td>
   <td>16</td>
@@ -21247,7 +21247,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>32.6</td>
 </tr>
 <tr>
-  <td><b><a href="Shadebolt.md"><font>Shadebolt</font></a></b></td>
+  <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
   <td>45 MED<br>
   30 SDW</td>
   <td>16</td>
@@ -26001,7 +26001,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>32.6</td>
 </tr>
 <tr>
-  <td><b><a href="Shadebolt.md"><font>Shadebolt</font></a></b></td>
+  <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
   <td>45 MED<br>
   30 SDW</td>
   <td>16</td>
@@ -26228,7 +26228,7 @@ B a s e D a m a g e × ( 1 + ( ( 0.75 × S 1 + S 2 + S 3 + S 4 1000 + R 1 + R 2 
 Key:
 
 -   BaseDamage accounts for damage stars as well. This can be calculated with the following formula:  
-    B a s e D a m g e \= W e a p o n B a s e D a m a g e × ( 1 + 0.02 × D a m a g e S t a r s ) {\\displaystyle BaseDamge=WeaponBaseDamage\\times (1+0.02\\times DamageStars)} {\\displaystyle BaseDamge=WeaponBaseDamage\\times (1+0.02\\times DamageStars)}
+    **Failed to parse (SVG (MathML can be enabled via browser plugin): Invalid response ("Math extension cannot connect to Restbase.") from server "http://mathoid-facade/v1/":): {\\displaystyle BaseDamge = WeaponBaseDamage \\times (1 + 0.02 \\times DamageStars)}**
 -   S1-4 = Attribute Level x Attribute Scaling for each stat.
 -   R1-4 = Scaling Rings. The order the rings are added is based on your respective attribute investment. The highest investment is R1, the next is R2, and so on.
     -   Scaling Rings are calculated as follows:

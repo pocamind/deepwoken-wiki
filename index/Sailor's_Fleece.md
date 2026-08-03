@@ -21,7 +21,7 @@ categories: [Equipment with Styles, Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Voidsea events, Elder Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Dread Serpent, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer IsleOther:, Sold in Traan Zakshun's regular stock for 100 , Handing in Artifacts |
+| obtainment | Chests from:, Voidsea events, Elder Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Dread Serpent, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security DetailOther:, Sold in Traan Zakshun's regular stock for 100 , Handing in Artifacts |
 | description | A thick woolen fleece, somewhat scratchy in texture, commonly work by sailors in the East. When the Suncross falls into the voidfog the seas of Lumen get surprisingly chilly. |
 
 ## Description

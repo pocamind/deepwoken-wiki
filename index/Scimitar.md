@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Sold at Meteor Isle Blacksmith for 16 |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Sold at Meteor Isle Blacksmith for 16 |
 | description | A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture. |
 
 ## Description

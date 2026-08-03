@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Authority Ensign Missions (Inquisition Division only), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Authority Ensign Missions (Inquisition Division only), Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs |
 | description | A metal visor favoured by the Inquisitors of the Central Authority. The perfect facewear to steel your visage from the world around you-hide your identity and emotions while retaining a look that commands authority on the field. |
 
 ## Description

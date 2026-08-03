@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Miner's Landing, Faction Ambushes (The Ignition Union) |
+| obtainment | Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Miner's Landing, Faction Ambushes (The Ignition Union) |
 | description | ... |
 
 Silver Set

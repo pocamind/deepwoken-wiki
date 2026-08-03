@@ -32,7 +32,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 20 (Authority Ensign exclusive)Vow of Iron:, Berserker Memento |
+| obtainment | Character Creation, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Sold by Astra for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 20 (Authority Ensign exclusive)Vow of Iron:, Berserker Memento |
 | description | A sturdy axe perfect for splitting bone. |
 
 ## Description

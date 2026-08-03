@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, The Doom of Caeranthil, Dread Serpent, Lodestar Bounty job, Saramaed Hollow |
+| obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, The Doom of Caeranthil, Dread Serpent, Lodestar Bounty job, Saramaed Hollow |
 | description | ... |
 
 ## Description

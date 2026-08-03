@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Blacksteel Pirate, Duke Ishamon Erisia, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Hell Mode, Dread Serpent, Chaser, Scholar of the Crimson Contract |
+| obtainment | Chests From:, Blacksteel Pirate, Duke Ishamon Erisia, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Hell Mode, Dread Serpent, Chaser, Scholar of the Crimson Contract |
 | description | ... |
 
 Variants: [Veteran Ranger's Brace](<Veteran_Ranger's_Brace.md>)

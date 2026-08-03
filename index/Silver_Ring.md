@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Chaser, Saramaed Hollow, Miner's Landing, Faction Ambushes (The Ignition Union), Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Scion of Ethiron, Cinders of Etris, Pure ore turn-ins |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Chaser, Saramaed Hollow, Miner's Landing, Faction Ambushes (The Ignition Union), Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Scion of Ethiron, Cinders of Etris, Pure ore turn-ins |
 | description | A simple silver ring. |
 
 ## Description

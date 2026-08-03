@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Chime of Conflict, Primadon, Titan of the East, The Doom of Caeranthil, Dread Serpent |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Chime of Conflict, Primadon, Titan of the East, The Doom of Caeranthil, Dread Serpent |
 | description | ... |
 
 Redsteel Set

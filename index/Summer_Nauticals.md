@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | Timeless eyewear produced by the Summer Company. In this world, it's drip or drown. You have no way of knowing if these are genuine. |
 
 ## Description

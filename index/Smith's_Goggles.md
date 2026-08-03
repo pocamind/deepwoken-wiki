@@ -23,7 +23,7 @@ categories: [Equipment, Face, Goggles]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Deep Crucible, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The Doom of Caeranthil |
+| obtainment | Deep Crucible, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Doom of Caeranthil |
 | description | ... |
 
 Smith's Set

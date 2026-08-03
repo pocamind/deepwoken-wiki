@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, War Mode, Interluminary Parasol, Saramaed Hollow |
+| obtainment | Chests from:, Miner's Landing, Faction Ambushes (The Ignition Union), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, War Mode, Interluminary Parasol, Saramaed Hollow |
 | description | ... |
 
 Sandrunner Set

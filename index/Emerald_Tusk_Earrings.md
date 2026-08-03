@@ -21,7 +21,7 @@ categories: [Equipment, Ears, Earrings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Fishing, Kujae, The Understrand, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs |
+| obtainment | Chests from:, Duke Ishamon Erisia, Fishing, Kujae, The Understrand, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs |
 | description | ... |
 
 ## Description

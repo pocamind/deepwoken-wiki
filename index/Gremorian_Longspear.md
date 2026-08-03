@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Alloyable Weapons, Medium W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Eastern Nomads (Direct drop), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Chime of Conflict, Dread Serpent, Saramaed HollowAlloyed:, Alloying a Gremorian Longspear |
+| obtainment | Eastern Nomads (Direct drop), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Chime of Conflict, Dread Serpent, Saramaed HollowAlloyed:, Alloying a Gremorian Longspear |
 | description | Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness. |
 
 ## Description

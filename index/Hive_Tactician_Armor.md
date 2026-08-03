@@ -19,7 +19,7 @@ categories: [Expert Outfits, Outfits, The Hive, Outfits with Talents, Outfits wi
 | durability | 1200 |
 | resistances | +30% Physical Armor , +20% Elemental Armor , +10% Ironsing Armor |
 | talents | Brunt |
-| obtainment | Chests from:, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Moon's Eyrie, Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Minityrsa, Primadon, Titan of the EastSold by Nyanna for 80 , Sold by Traan Zakshun for 200 |
+| obtainment | Chests from:, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Moon's Eyrie, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Minityrsa, Primadon, Titan of the EastSold by Nyanna for 80 , Sold by Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

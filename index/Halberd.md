@@ -36,7 +36,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Blacksteel Pirate, Chime of Conflict, Dread Serpent, Duke Ishamon Erisia, Saramaed Hollow, Fort Merit Armory for 60 (Authority Ensign exclusive)Alloyed:, Alloying a Halberd, Fort Merit Armory for 180 (Authority Ensign exclusive) |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Blacksteel Pirate, Chime of Conflict, Dread Serpent, Duke Ishamon Erisia, Saramaed Hollow, Fort Merit Armory for 60 (Authority Ensign exclusive)Alloyed:, Alloying a Halberd, Fort Merit Armory for 180 (Authority Ensign exclusive) |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
 ## Description

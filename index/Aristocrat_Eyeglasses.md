@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Lodestar Bounty job, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Heart of Enmity, Dread Serpent, Interluminary Parasol, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Lodestar Bounty job, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Heart of Enmity, Dread Serpent, Interluminary Parasol, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | ... |
 
 ## Description

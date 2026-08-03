@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Heart of Enmity, Chaser, Scholar of the Crimson Contract, War Mode, Dread Serpent, Authority Ensign Missions, Saramaed Hollow, Maestro Evengarde Rest, Deep Widow, Ancient Rotlands (Deep Cave)Drops from:, Nell, Master of Frost |
+| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Heart of Enmity, Chaser, Scholar of the Crimson Contract, War Mode, Dread Serpent, Authority Ensign Missions, Saramaed Hollow, Maestro Evengarde Rest, Deep Widow, Ancient Rotlands (Deep Cave)Drops from:, Nell, Master of Frost |
 | description | Taking damage from fire or lightning will cause you to regenerate ether. |
 
 ## Description

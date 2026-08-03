@@ -18,7 +18,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusiv
 | durability | 2000 |
 | resistances | +10% Physical Armor , +15% Elemental Armor |
 | talents | Fleetfoot |
-| obtainment | Diluvian Mechanism, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Carnival of Hearts, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Diluvian Mechanism, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Carnival of Hearts, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Dress) |

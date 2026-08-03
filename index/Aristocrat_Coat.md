@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | Any man worth his salt or indeed worth the salt of a hundred other men would have a coat like this, you're sure. |
 
 ## Description

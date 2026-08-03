@@ -33,7 +33,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Chime of Conflict, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Moon's Eyrie, The Diluvian Mechanism, Saramaed Hollow |
+| obtainment | Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Moon's Eyrie, The Diluvian Mechanism, Saramaed Hollow |
 | description | ... |
 
 ## Description

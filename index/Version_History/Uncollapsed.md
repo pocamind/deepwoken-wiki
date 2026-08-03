@@ -29,7 +29,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 
   
 
-## **July 26th, 2025; pv\_JUL\_27\_01:33a**
+## **July 26th, 2026; pv\_JUL\_27\_01:33a**
 
 **Job Improvements & Quality of Life**  
 🔧 Jobs now show up in your task list instantly. Also, you can take as many jobs as you like in an area without getting the "too many jobs" popup - if it can't find a spot, it'll periodically try again and show up on your map once a spot has been found  
@@ -203,6 +203,13 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🩹 Fixed ugly alpha bleeding on the square particle texture used in a lot of places  
 🔧 Tweaked Crimson Rain's windup and Bloodcurdle's target sound effects  
 🔧 Characters you're in combat with now have Roblox's animation throttling disabled, preventing you from having to fight characters with reduced frame rates who attack like a slideshow
+
+### _**Patch 3.2.18a; pv\_JUL\_29\_01:27a**_
+
+**Hotchanges**  
+💡 Remodelled and retextured the Star Duster, with some major optimisations on the mesh itself. Now supports cloth physics, too!  
+🩹 Fixed PvP combat logs  
+🩹 Fixed hands colliding with cloth physics. Should fix the ugly jittering and bouncing
 
 ## **July 7th, 2026; pv\_JUL\_08\_10:30a**
 

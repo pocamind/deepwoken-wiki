@@ -34,7 +34,7 @@ categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Deep Widow, Chime of Conflict, Dread Serpent, Saramaed Hollow, Bounties |
+| obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Deep Widow, Chime of Conflict, Dread Serpent, Saramaed Hollow, Bounties |
 | description | ... |
 
 Variants: [Night Star](Night_Star.md)

@@ -18,7 +18,7 @@ categories: [Adept Outfits, Outfits]
 | droppable | Yes |
 | durability | 1200 |
 | resistances | +20% Physical Armor , +10% Slash Armor |
-| obtainment | Sold by Nyanna, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of VigilsVow of Iron:, Spear Dancer Memento (automatically crafted) |
+| obtainment | Sold by Nyanna, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Vow of Iron:, Spear Dancer Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

@@ -19,7 +19,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exc
 | durability | 1500 |
 | resistances | +10% Physical Armor , +5% Elemental Armor , +10% Shadow Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of VigilsSold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Sold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

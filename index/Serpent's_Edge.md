@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Duke Ishamon Erisia, Saramaed Hollow, Deep Widow, Heart of Enmity, Interluminary Parasol, Dread Serpent, War Mode, Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Duke Ishamon Erisia, Saramaed Hollow, Deep Widow, Heart of Enmity, Interluminary Parasol, Dread Serpent, War Mode, Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
 ## Description

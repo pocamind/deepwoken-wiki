@@ -20,7 +20,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-e
 | durability | 1000 |
 | resistances | +5% Physical Armor , +10% Elemental Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Primadon |
+| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Primadon |
 | selling_price | 10 |
 | weight | 1 |
 

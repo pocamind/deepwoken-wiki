@@ -23,7 +23,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Primadon, Titan of the East, Duke Ishamon Erisia, Bounties, Lodestar Bounty job, Fishing, Saramaed Hollow, Deep Widow |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Primadon, Titan of the East, Duke Ishamon Erisia, Bounties, Lodestar Bounty job, Fishing, Saramaed Hollow, Deep Widow |
 | description | ... |
 
 Ten-Gallon Set

@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Medium W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Dread Serpent, Saramaed HollowAlloyed:, Alloying a Shotel |
+| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Dread Serpent, Saramaed HollowAlloyed:, Alloying a Shotel |
 | description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
 
 ## Description

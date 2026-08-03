@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Minityrsa, Sold by Nyanna, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Deep Widow, Miner's Landing, Faction Ambushes (The Ignition Union), Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer IsleAlloyed:, Alloying a Trident Spear |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Minityrsa, Sold by Nyanna, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Deep Widow, Miner's Landing, Faction Ambushes (The Ignition Union), Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security DetailAlloyed:, Alloying a Trident Spear |
 | description | A surprisingly effective weapon despite its previous use by fishermen. |
 
 ## Description

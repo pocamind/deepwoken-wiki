@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Saramaed Hollow, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Lodestar Bounty job, Deep WidowDrops from:, Blacksteel Pirates and Blacksteel Pirate Captains |
+| obtainment | Chests from:, Duke Ishamon Erisia, Saramaed Hollow, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Lodestar Bounty job, Deep WidowDrops from:, Blacksteel Pirates and Blacksteel Pirate Captains |
 | description | ... |
 
 Blacksteel Set

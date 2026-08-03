@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Rook Rethige, Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Interluminary Parasol, Heart of Enmity, Dread Serpent, Scion of EthironBought from Traan Zakshun for 300 Alloyed:, Alloying a Whaling Knife, Primadon, Titan of the East, Heart of Enmity, The Doom of Caeranthil |
+| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Rook Rethige, Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Interluminary Parasol, Heart of Enmity, Dread Serpent, Scion of EthironBought from Traan Zakshun for 300 Alloyed:, Alloying a Whaling Knife, Primadon, Titan of the East, Heart of Enmity, The Doom of Caeranthil |
 | description | The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'. |
 
 ## Description

@@ -225,6 +225,10 @@
     "to": "Mantra Modifiers",
     "fragment": "Regular"
   },
+  "Anchor Shock": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Anchor Shock"
+  },
   "Ancient Soul": {
     "to": "Regalia",
     "fragment": "Ancient Soul"
@@ -591,6 +595,18 @@
   "Blessings": {
     "to": "Enchantments",
     "fragment": "Blessings"
+  },
+  "Blight Pierce": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Blight Pierce"
+  },
+  "Blighted Touch": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Blighted Touch"
+  },
+  "Blightlash": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Blightlash"
   },
   "Blightshock": {
     "to": "Oath: Blightsurger",

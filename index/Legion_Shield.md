@@ -22,7 +22,7 @@ categories: [Weapons, Shields, The Hundred Legions, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Bounties |
+| obtainment | Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Bounties |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
 
 Variants: [Icarus Sun Shield](Icarus_Sun_Shield.md)

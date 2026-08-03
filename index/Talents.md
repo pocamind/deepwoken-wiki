@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 225575
+revid: 225619
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
+categories: [Pages using duplicate arguments in template calls, In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
 notices:
   - This page is currently being worked on. This page is currently undergoing changes. Please be patient.
 ---
@@ -1666,148 +1666,526 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Berserker
 
--   Berserk \[Common Talent, Strength\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
+-   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
+        -   The armor nullification effect on M1 is **not** considered PEN by any effect in the game, instead it just allows your attacks to entirely ignore their armor.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
     -   When activated:
         -   Your eyes and hair turn red with your eyes gaining a red trail.
         -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
-        -   Padded Armor, Steel Scales, and Lightweight are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
-        -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
-    -   The color of the eyes and hair is [dyable](Dye_Packet.md).
-    -   Prerequisite: 80 Strength
+        -   [Padded Armor](#padded-armor), [Steel Scales](#steel-scales), and [Lightweight](#lightweight) are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
+        -   You benefit from [Exposed Durability](#exposed-durability)'s 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
+    -   The color of the eyes and hair are [dyable](Dye_Packet.md), though it's currently bugged and your hair does not change color.  
+        
+    -   Tags: \[Strength\] \[PEN\] \[Tool\]
+
+-   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
+    
+    {#if: \*While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
+    
+    -   -   The armor nullification effect on M1 is **not** considered PEN by any effect in the game, instead it just allows your attacks to entirely ignore their armor.
+    -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
+    -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
+    -   When activated:
+        -   Your eyes and hair turn red with your eyes gaining a red trail.
+        -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
+        -   [Padded Armor](#padded-armor), [Steel Scales](#steel-scales), and [Lightweight](#lightweight) are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
+        -   You benefit from [Exposed Durability](#exposed-durability)'s 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
+    -   The color of the eyes and hair are [dyable](Dye_Packet.md), though it's currently bugged and your hair does not change color.|\*While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
+        -   The armor nullification effect on M1 is **not** considered PEN by any effect in the game, instead it just allows your attacks to entirely ignore their armor.
+    -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
+    -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
+    -   When activated:
+        -   Your eyes and hair turn red with your eyes gaining a red trail.
+        -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
+        -   [Padded Armor](#padded-armor), [Steel Scales](#steel-scales), and [Lightweight](#lightweight) are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
+        -   You benefit from [Exposed Durability](#exposed-durability)'s 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
+    -   The color of the eyes and hair are [dyable](Dye_Packet.md), though it's currently bugged and your hair does not change color.  
+        }}
+    -   Tags: \[Strength\] \[PEN\] \[Tool\]
 
 ### Bladeharper
 
--   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+3 Combat Mantra Slot, +5% PEN)
-    -   Prerequisites: 25 Agility // 25 Strength, 75 MED // a combined total of 90 in any weapon stat (75 MED // LHT + MED + HVY ≥ 90), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
+-   **Oath: Bladeharper** \[Oath Talent\] - You [vow](Glossary.md#vows) to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.
+    -   See [Oath: Bladeharper](Oath%253A_Bladeharper.md)  
+        
+    -   Grants +3 Combat Mantra Slots, +5% PEN  
+        
+    -   Prerequisites: 25 Agility // 25 Strength, 75 MED // a combined total of 90 in any weapon stat (75 MED // LHT + MED + HVY ≥ 90), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md)  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Strength\] \[Agility\] \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[+Mantra Slots\] \[+PEN\]
 
--   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
-    -   It has a cooldown of 5 seconds.
-    -   Only accessible when True Strength is active.
-    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time.
+-   **Oath: Bladeharper** \[Oath Talent\] - You [vow](Glossary.md#vows) to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.
+    
+    {#if: \*See [Oath: Bladeharper](Oath%253A_Bladeharper.md)|\*See [Oath: Bladeharper](Oath%253A_Bladeharper.md)  
+    }}
+    
+    -   Grants +3 Combat Mantra Slots, +5% PEN  
+        
+    -   Prerequisites: 25 Agility // 25 Strength, 75 MED // a combined total of 90 in any weapon stat (75 MED // LHT + MED + HVY ≥ 90), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md)  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Strength\] \[Agility\] \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[+Mantra Slots\] \[+PEN\]
 
--   Lithe Step \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
-    -   Makes the player briefly invisible, similar to [Jetstriker's](Oath%253A_Jetstriker.md) Rush of Ancients.
+-   **Float Like a Butterfly** \[Oath Talent\] - While having [True Strength](Status_Effects.md#true-strength) active, cancel your air dash to enter a frenzy of slashes.
+    -   It has a cooldown of 5 seconds.  
+        
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\]
+
+-   **Float Like a Butterfly** \[Oath Talent\] - While having [True Strength](Status_Effects.md#true-strength) active, cancel your air dash to enter a frenzy of slashes.
+    
+    {#if: \*It has a cooldown of 5 seconds.|\*It has a cooldown of 5 seconds.  
+    }}
+    
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\]
+
+-   **Lithe Step** \[Oath Talent\] - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed.
+    -   Makes the player briefly invisible, similar to [Jetstriker](Oath%253A_Jetstriker.md)'s [Rush of Ancients](#rush-of-ancients).
     -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
-    -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
-    -   Prerequisite: [Oath: Bladeharper](Oath%253A_Bladeharper.md)
+    -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in [True Strength](Status_Effects.md#true-strength).  
+        
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md)  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Mobility\]
 
--   Reveal \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - Pour your heart out, and reveal your true strength.
-    -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on True Strength. Use the tool again to toggle True Strength back off.
+-   **Lithe Step** \[Oath Talent\] - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed.
+    
+    {#if: \*Makes the player briefly invisible, similar to [Jetstriker](Oath%253A_Jetstriker.md)'s [Rush of Ancients](#rush-of-ancients).
+    
+    -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
+    -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in [True Strength](Status_Effects.md#true-strength).|\*Makes the player briefly invisible, similar to [Jetstriker](Oath%253A_Jetstriker.md)'s [Rush of Ancients](#rush-of-ancients).
+    -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
+    -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in [True Strength](Status_Effects.md#true-strength).  
+        }}
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md)  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Mobility\]
+
+-   **Reveal** \[Oath Talent\] - Pour your heart out, and reveal your true strength.
+    -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on [True Strength](Status_Effects.md#true-strength). Use the tool again to toggle True Strength back off.
     -   While **Reveal's** True Strength state, you passively build up [Wither](Status_Effects.md#wither) on yourself.
-    -   If you go below 10% HP, Reveal will automatically turn itself off.
-    -   Oddly enough, Reveal procs things that require you to take damage like [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
-    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time.
+    -   If you go below 10% HP, Reveal will automatically turn itself off, and it cannot be turned back on again until you have over 10% health.
+    -   Oddly enough, Reveal procs things that require you to take damage like [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.  
+        
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Tool\]
 
--   Soaring Storm \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
-    -   Proc condition is removed and damage is increased if in True Strength.
-    -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
-    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time.
+-   **Reveal** \[Oath Talent\] - Pour your heart out, and reveal your true strength.
+    
+    {#if: \*Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on [True Strength](Status_Effects.md#true-strength). Use the tool again to toggle True Strength back off.
+    
+    -   While **Reveal's** True Strength state, you passively build up [Wither](Status_Effects.md#wither) on yourself.
+    -   If you go below 10% HP, Reveal will automatically turn itself off, and it cannot be turned back on again until you have over 10% health.
+    -   Oddly enough, Reveal procs things that require you to take damage like [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.|\*Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on [True Strength](Status_Effects.md#true-strength). Use the tool again to toggle True Strength back off.
+    -   While **Reveal's** True Strength state, you passively build up [Wither](Status_Effects.md#wither) on yourself.
+    -   If you go below 10% HP, Reveal will automatically turn itself off, and it cannot be turned back on again until you have over 10% health.
+    -   Oddly enough, Reveal procs things that require you to take damage like [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.  
+        }}
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Tool\]
 
--   Untouchable \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
-    -   Upon proccing Untouchable, enter the True Strength state for 15 seconds.
-    -   Untouchable requires 10 'Untouchable Stacks'. Being hit by any non-self damage source will reset all Untouchable Stacks.
+-   **Soaring Storm** \[Oath Talent\] - \*Proc condition is removed and damage is increased if in [True Strength](Status_Effects.md#true-strength).
+-   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
+    
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\]
+
+-   **Soaring Storm** \[Oath Talent\] - \*Proc condition is removed and damage is increased if in [True Strength](Status_Effects.md#true-strength).
+-   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
+    
+    {#if: |  
+    }}
+    
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\]
+
+-   **Untouchable** \[Oath Talent\] - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
+    -   Upon proccing Untouchable, enter the [True Strength](Status_Effects.md#true-strength) state for 15 seconds.
+    -   Untouchable requires 10 'Untouchable Stacks'. Being hit by any non-self damage source will reset all Untouchable Stacks. You cannot build up Untouchable Stacks while True Strength is active.
         -   Landing weapon attacks will build up 2 stacks each.
-        -   Landing non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
-    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time.
+        -   Landing non weapon attacks (like [Burn](Status_Effects.md#burn), Mantras, Eruptions, etc.) build up 1 stack each. [Bleed](Status_Effects.md#bleed) does not build up stacks however.  
+            
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\]
+
+-   **Untouchable** \[Oath Talent\] - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
+    
+    {#if: \*Upon proccing Untouchable, enter the [True Strength](Status_Effects.md#true-strength) state for 15 seconds.
+    
+    -   Untouchable requires 10 'Untouchable Stacks'. Being hit by any non-self damage source will reset all Untouchable Stacks. You cannot build up Untouchable Stacks while True Strength is active.
+        -   Landing weapon attacks will build up 2 stacks each.
+        -   Landing non weapon attacks (like [Burn](Status_Effects.md#burn), Mantras, Eruptions, etc.) build up 1 stack each. [Bleed](Status_Effects.md#bleed) does not build up stacks however.|\*Upon proccing Untouchable, enter the [True Strength](Status_Effects.md#true-strength) state for 15 seconds.
+    -   Untouchable requires 10 'Untouchable Stacks'. Being hit by any non-self damage source will reset all Untouchable Stacks. You cannot build up Untouchable Stacks while True Strength is active.
+        -   Landing weapon attacks will build up 2 stacks each.
+        -   Landing non weapon attacks (like [Burn](Status_Effects.md#burn), Mantras, Eruptions, etc.) build up 1 stack each. [Bleed](Status_Effects.md#bleed) does not build up stacks however.  
+            }}
+    -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time  
+        
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\]
 
 ### Blightsurger
 
--   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot, +5% PEN)
-    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe // Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
+-   **Oath: Blightsurger** \[Oath Talent\] - Fists and storm. Wield sacred lightning, tear through foes and leave them withered.
+    
+    See [Oath: Blightsurger](Oath%253A_Blightsurger.md)  
+    
+    -   Grants +2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN  
+        
+    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), combined total of 40 in Galebreathe/Thundercall (WND + LTN ≥ 40), high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md)  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Strength\] \[Fortitude\] \[Agility\] \[Galebreathe\] \[Thundercall\] \[+Mantra Slots\] \[+PEN\]
 
--   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock prevents targets from using mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Oath: Blightsurger** \[Oath Talent\] - Fists and storm. Wield sacred lightning, tear through foes and leave them withered.
+    
+    {#if: See [Oath: Blightsurger](Oath%253A_Blightsurger.md)|See [Oath: Blightsurger](Oath%253A_Blightsurger.md)  
+    }}
+    
+    -   Grants +2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN  
+        
+    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), combined total of 40 in Galebreathe/Thundercall (WND + LTN ≥ 40), high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md)  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Strength\] \[Fortitude\] \[Agility\] \[Galebreathe\] \[Thundercall\] \[+Mantra Slots\] \[+PEN\]
+
+-   **Anchor Shock** \[Oath Talent\] - Your Blightshock prevents targets from using mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
-    -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 67 times
+    -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.  
+        
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 67 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\]
 
--   Blight Pierce \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
+-   **Anchor Shock** \[Oath Talent\] - Your Blightshock prevents targets from using mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    {#if: \*This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
+    
+    -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.|\*This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
+    -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.  
+        }}
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 67 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\]
+
+-   **Blight Pierce** \[Oath Talent\] - Your [Blightshock](Status_Effects.md#blightshock) attacks pierce through your enemies [hyperarmor](Status_Effects.md#hyperarmor) and gain more penetration.
     -   [Blightshock](Status_Effects.md#blightshock) now works similar to regular [Shock](Status_Effects.md#shock), canceling [Hyperarmor](Status_Effects.md#hyperarmor).
-    -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
-    -   This Talent is bugged and currently does not work.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 37 times
+    -   [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), the Blightsurger exclusive weapon, and Blightsurge Mantras gain +15% more PEN.
+    -   Because Blightsurger Mantras deal pure Oath damage, the PEN given to your Mantras only matter in specific scenarios, such as fighting an [Oathless](Oath%253A_Oathless.md) player, or someone who is using [Reinforce](Attunement-less.md#reinforce).  
+        
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 37 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[PEN\]
 
--   Blighted Touch \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Landing Basic Attacks during Sovereign State now applies Blightshock.
-    -   This allows your Sovereign Bangle to apply Wither on hit.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 22 times
+-   **Blight Pierce** \[Oath Talent\] - Your [Blightshock](Status_Effects.md#blightshock) attacks pierce through your enemies [hyperarmor](Status_Effects.md#hyperarmor) and gain more penetration.
+    
+    {#if: \*[Blightshock](Status_Effects.md#blightshock) now works similar to regular [Shock](Status_Effects.md#shock), canceling [Hyperarmor](Status_Effects.md#hyperarmor).
+    
+    -   [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), the Blightsurger exclusive weapon, and Blightsurge Mantras gain +15% more PEN.
+    -   Because Blightsurger Mantras deal pure Oath damage, the PEN given to your Mantras only matter in specific scenarios, such as fighting an [Oathless](Oath%253A_Oathless.md) player, or someone who is using [Reinforce](Attunement-less.md#reinforce).|\*[Blightshock](Status_Effects.md#blightshock) now works similar to regular [Shock](Status_Effects.md#shock), canceling [Hyperarmor](Status_Effects.md#hyperarmor).
+    -   [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), the Blightsurger exclusive weapon, and Blightsurge Mantras gain +15% more PEN.
+    -   Because Blightsurger Mantras deal pure Oath damage, the PEN given to your Mantras only matter in specific scenarios, such as fighting an [Oathless](Oath%253A_Oathless.md) player, or someone who is using [Reinforce](Attunement-less.md#reinforce).  
+        }}
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 37 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[PEN\]
 
--   Blightlash \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your swing range is enhanced during Sovereign State.
-    -   Increases the range of the Sovereign Bangle from 6 to 7.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 82 times
+-   **Blighted Touch** \[Oath Talent\] - Landing Basic Attacks during [Sovereign State](#sovereign-state) now applies [Blightshock](Status_Effects.md#blightshock).
+    -   This allows your [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) to apply [Wither](Status_Effects.md#wither) on hit.  
+        
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 22 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\]
 
--   Sovereign State \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
+-   **Blighted Touch** \[Oath Talent\] - Landing Basic Attacks during [Sovereign State](#sovereign-state) now applies [Blightshock](Status_Effects.md#blightshock).
+    
+    {#if: \*This allows your [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) to apply [Wither](Status_Effects.md#wither) on hit.|\*This allows your [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) to apply [Wither](Status_Effects.md#wither) on hit.  
+    }}
+    
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 22 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\]
+
+-   **Blightlash** \[Oath Talent\] - Your swing range is enhanced during Sovereign State.
+    -   Increases the range of the Sovereign Bangle from 6 to 7.  
+        
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 82 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Range\]
+
+-   **Blightlash** \[Oath Talent\] - Your swing range is enhanced during Sovereign State.
+    
+    {#if: \*Increases the range of the Sovereign Bangle from 6 to 7.|\*Increases the range of the Sovereign Bangle from 6 to 7.  
+    }}
+    
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 82 times  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Range\]
+
+-   **Sovereign State** \[Oath Talent\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
     -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
     -   Sovereign State has a 10 second activation cooldown once the duration runs out.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
-        -   This keybind can be changed in settings.
     -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle)_.
-    -   Skycrash will be automatically used twice in quick succession while in this state.
-    -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
-    -   Prerequisite: [Oath: Blightsurger](Oath%253A_Blightsurger.md)
+    -   [Skycrash](Oath%253A_Blightsurger.md#skycrash) will be automatically used twice in quick succession while in this state.
+    -   Increases the [Wither](Status_Effects.md#wither) damage that [Sovereign Drive](Oath%253A_Blightsurger.md#sovereign-drive) and [Warp Kick](Oath%253A_Blightsurger.md#warp-kick) deal.  
+        
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md)  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\]
+
+-   **Sovereign State** \[Oath Talent\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
+    
+    {#if: \*Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
+    
+    -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
+    -   Sovereign State has a 10 second activation cooldown once the duration runs out.
+    -   You can press X while having at least 30% Blight Meter to activate Sovereign State. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
+    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle)_.
+    -   [Skycrash](Oath%253A_Blightsurger.md#skycrash) will be automatically used twice in quick succession while in this state.
+    -   Increases the [Wither](Status_Effects.md#wither) damage that [Sovereign Drive](Oath%253A_Blightsurger.md#sovereign-drive) and [Warp Kick](Oath%253A_Blightsurger.md#warp-kick) deal.|\*Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
+    -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
+    -   Sovereign State has a 10 second activation cooldown once the duration runs out.
+    -   You can press X while having at least 30% Blight Meter to activate Sovereign State. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
+    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle)_.
+    -   [Skycrash](Oath%253A_Blightsurger.md#skycrash) will be automatically used twice in quick succession while in this state.
+    -   Increases the [Wither](Status_Effects.md#wither) damage that [Sovereign Drive](Oath%253A_Blightsurger.md#sovereign-drive) and [Warp Kick](Oath%253A_Blightsurger.md#warp-kick) deal.  
+        }}
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md)  
+        
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\]
 
 ### Bloodhound
 
--   Bloodwarden's Sense \[Common Talent, Bloodrend\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning.
-    -   Prerequisite: 30 Bloodrend
+-   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning.
+    
+    -   Prerequisites: 30 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Debuff\]
 
--   _Smell of Blood_ \[Rare Talent, Bloodrend\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with [Bloodscent](Status_Effects.md#bloodscent) for 6s.
-    -   Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.
-    -   Prerequisite: 65 Bloodrend
+-   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning.
+    
+    {#if: |  
+    }}
+    
+    -   Prerequisites: 30 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Debuff\]
+
+-   _Smell of Blood_ \[Rare Talent\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with [Bloodscent](Status_Effects.md#bloodscent) for 6s.
+    -   Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.  
+        
+    -   Prerequisites: 65 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
+
+-   **Smell of Blood** \[Rare Talent\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with [Bloodscent](Status_Effects.md#bloodscent) for 6s.
+    
+    {#if: \*Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.|\*Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.  
+    }}
+    
+    -   Prerequisites: 65 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
 
 ### Bloodrender
 
--   Bloodrender \[Mantra Level Talent, Bloodrend\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] replenish your blood, steal blood and apply '[Blood Poisoning](Status_Effects.md#blood-poisoning)'.
+-   **Bloodrender** \[Mantra Level Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] replenish your blood, steal blood and apply '[Blood Poisoning](Status_Effects.md#blood-poisoning)'.
     -   [Blood Poison](Status_Effects.md#blood-poison) is an effect that is overlayed on top of your opponent's blood bar. Upon reaching certain Blood Poison thresholds (percentage of the blood bar covered with Poison), you will apply debuffs to the target and may proc certain conditional Talent effects.
     -   Blood poison passively drains over time, requiring you to constantly apply pressure to maintain the debuffs.
-    -   See [Bloodrend](Bloodrend.md#trivia) for more info.
-    -   Obtained at 1 Bloodrend
+    -   See [Bloodrend](Bloodrend.md#trivia) for more info.  
+        
+    -   Prerequisites: Obtained at 1 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Debuff\]
 
--   Adept Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 1-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 20 Bloodrend
+-   **Bloodrender** \[Mantra Level Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] replenish your blood, steal blood and apply '[Blood Poisoning](Status_Effects.md#blood-poisoning)'.
+    
+    {#if: \*[Blood Poison](Status_Effects.md#blood-poison) is an effect that is overlayed on top of your opponent's blood bar. Upon reaching certain Blood Poison thresholds (percentage of the blood bar covered with Poison), you will apply debuffs to the target and may proc certain conditional Talent effects.
+    
+    -   Blood poison passively drains over time, requiring you to constantly apply pressure to maintain the debuffs.
+    -   See [Bloodrend](Bloodrend.md#trivia) for more info.|\*[Blood Poison](Status_Effects.md#blood-poison) is an effect that is overlayed on top of your opponent's blood bar. Upon reaching certain Blood Poison thresholds (percentage of the blood bar covered with Poison), you will apply debuffs to the target and may proc certain conditional Talent effects.
+    -   Blood poison passively drains over time, requiring you to constantly apply pressure to maintain the debuffs.
+    -   See [Bloodrend](Bloodrend.md#trivia) for more info.  
+        }}
+    -   Prerequisites: Obtained at 1 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Debuff\]
 
--   Expert Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 2-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 30 Bloodrend
+-   **Adept Bloodrender** \[Mantra Level Talent\] - You can now obtain 1-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
 
--   Master Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 3-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 50 Bloodrend.
+-   **Adept Bloodrender** \[Mantra Level Talent\] - You can now obtain 1-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    {#if: \*This Talent will be removed from you if you no longer meet its requirements.|\*This Talent will be removed from you if you no longer meet its requirements.  
+    }}
+    
+    -   Prerequisites: Obtained at 20 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
 
--   Crimson Fountain \[Common Talent, Bloodrend\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] cast within blood pools have a reduced cost.
-    -   Prerequisite: 35 Bloodrend
+-   **Expert Bloodrender** \[Mantra Level Talent\] - You can now obtain 2-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
 
--   First Blood \[Common Talent, Bloodrend\] - Your first blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use in combat has no blood cost and deals additional blood drain. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
-    -   Prerequisite: 10 Bloodrend
+-   **Expert Bloodrender** \[Mantra Level Talent\] - You can now obtain 2-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    {#if: \*This Talent will be removed from you if you no longer meet its requirements.|\*This Talent will be removed from you if you no longer meet its requirements.  
+    }}
+    
+    -   Prerequisites: Obtained at 30 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
 
--   _Hemorrhaging Blow_ \[Rare Talent, Bloodrend\] - Block breaking your opponent with a blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] turns your opponent's combat healing into damage for 8 seconds
+-   **Master Bloodrender** \[Mantra Level Talent\] - You can now obtain 3-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Bloodrend.  
+        
+    -   Tags: \[Bloodrend\] \[+Health\]
+
+-   **Master Bloodrender** \[Mantra Level Talent\] - You can now obtain 3-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace.
+    
+    {#if: \*This Talent will be removed from you if you no longer meet its requirements.|\*This Talent will be removed from you if you no longer meet its requirements.  
+    }}
+    
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Bloodrend.  
+        
+    -   Tags: \[Bloodrend\] \[+Health\]
+
+-   **Crimson Fountain** \[Common Talent\] - 35 Bloodrend
+    
+    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\]
+
+-   **Crimson Fountain** \[Common Talent\] - 35 Bloodrend
+    
+    {#if: |  
+    }}
+    
+    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\]
+
+-   **First Blood** \[Common Talent\] - Your first blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use in combat has no blood cost and deals additional blood drain. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+    
+    -   Prerequisites: 10 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
+
+-   **First Blood** \[Common Talent\] - Your first blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use in combat has no blood cost and deals additional blood drain. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+    
+    {#if: |  
+    }}
+    
+    -   Prerequisites: 10 Bloodrend  
+        
+    -   Tags: \[Bloodrend\]
+
+-   _Hemorrhaging Blow_ \[Rare Talent\] - Block breaking your opponent with a blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] turns your opponent's combat healing into damage for 8 seconds
     -   55 second cooldown, with the cooldown starting on guard break.
     -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
     -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however doesn't work on things like Health Regen Potions or [Conditioned Runner](#conditioned-runner) as that they are forms of passive healing.
     -   This works on healing outside of combat.
-    -   Works with [Mindsoothe](Oath%253A_Blindseer.md#mindsoothe), [Blood Scourge](Blood_Scourge.md) bell, [Grand Support](#grand-support), Fadetrimmer's Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray), etc.
-    -   Prerequisite: 95 Bloodrend, Master Bloodrender
+    -   Works with [Mindsoothe](Oath%253A_Blindseer.md#mindsoothe), [Blood Scourge](Blood_Scourge.md) bell, [Grand Support](#grand-support), Fadetrimmer's Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray), etc.  
+        
+    -   Prerequisites: 95 Bloodrend, [Master Bloodrender](#master-bloodrender)  
+        
+    -   Tags: \[Bloodrend\] \[Anti-Sustain\] \[Guardbreak\]
 
--   _Rush Hour_ \[Rare Talent, Bloodrend\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
+-   **Hemorrhaging Blow** \[Rare Talent\] - Block breaking your opponent with a blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] turns your opponent's combat healing into damage for 8 seconds
+    
+    {#if: \*55 second cooldown, with the cooldown starting on guard break.
+    
+    -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
+    -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however doesn't work on things like Health Regen Potions or [Conditioned Runner](#conditioned-runner) as that they are forms of passive healing.
+    -   This works on healing outside of combat.
+    -   Works with [Mindsoothe](Oath%253A_Blindseer.md#mindsoothe), [Blood Scourge](Blood_Scourge.md) bell, [Grand Support](#grand-support), Fadetrimmer's Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray), etc.|\*55 second cooldown, with the cooldown starting on guard break.
+    -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
+    -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however doesn't work on things like Health Regen Potions or [Conditioned Runner](#conditioned-runner) as that they are forms of passive healing.
+    -   This works on healing outside of combat.
+    -   Works with [Mindsoothe](Oath%253A_Blindseer.md#mindsoothe), [Blood Scourge](Blood_Scourge.md) bell, [Grand Support](#grand-support), Fadetrimmer's Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray), etc.  
+        }}
+    -   Prerequisites: 95 Bloodrend, [Master Bloodrender](#master-bloodrender)  
+        
+    -   Tags: \[Bloodrend\] \[Anti-Sustain\] \[Guardbreak\]
+
+-   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
     -   **Drains** 4.5 health and 2% Blood per second.
-        -   Because this drains your health, it isn't affected by sources of damage reduction, unless explicitly stated, **ignores** [Temporary Health](Status_Effects.md#temporary-health), and does not proc "on damage" conditionals.
+        -   Because this drains your health, instead of dealing damage, it isn't affected by sources of damage reduction (unless explicitly stated), **ignores** [Temporary Health](Status_Effects.md#temporary-health), and does not proc "on damage" conditionals.
         -   [Deepscorn Casque](Deepscorn_Casque.md) and the [Enhanced Flow](#enhanced-flow) Talent are the only two effects in the game that can reduce the health drain from Rush Hour.
     -   Grants a 15% damage buff, affected by the damage modifier cap.
     -   Increases blood loss by +35% (additive).
-    -   Grants a 30% [Speed Boost](Status_Effects.md#speed-boost). This counts for Talents such as Speed Demon and Cheap Shot.
+    -   Grants a 30% [Speed Boost](Status_Effects.md#speed-boost). This counts for Talents such as [Speed Demon](#speed-demon) and [Cheap Shot](#cheap-shot).
     -   Recover 5% Blood when dealing damage (0.35s cooldown). [Burn](Status_Effects.md#burn) damage cannot proc this effect.
     -   If you have the [Enhanced Flow](#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
-    -   Having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect.
-    -   Prerequisite: 50 Bloodrend
+    -   Having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect.  
+        
+    -   Prerequisites: 50 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Damage Buff\] \[Speed Boost\] \[Tool\]
 
--   Sanguine Siphon \[Common Talent, Bloodrend\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Rush Hour** \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
+    
+    {#if: \*Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
+    
+    -   **Drains** 4.5 health and 2% Blood per second.
+        -   Because this drains your health, instead of dealing damage, it isn't affected by sources of damage reduction (unless explicitly stated), **ignores** [Temporary Health](Status_Effects.md#temporary-health), and does not proc "on damage" conditionals.
+        -   [Deepscorn Casque](Deepscorn_Casque.md) and the [Enhanced Flow](#enhanced-flow) Talent are the only two effects in the game that can reduce the health drain from Rush Hour.
+    -   Grants a 15% damage buff, affected by the damage modifier cap.
+    -   Increases blood loss by +35% (additive).
+    -   Grants a 30% [Speed Boost](Status_Effects.md#speed-boost). This counts for Talents such as [Speed Demon](#speed-demon) and [Cheap Shot](#cheap-shot).
+    -   Recover 5% Blood when dealing damage (0.35s cooldown). [Burn](Status_Effects.md#burn) damage cannot proc this effect.
+    -   If you have the [Enhanced Flow](#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
+    -   Having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect.|\*Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
+    -   **Drains** 4.5 health and 2% Blood per second.
+        -   Because this drains your health, instead of dealing damage, it isn't affected by sources of damage reduction (unless explicitly stated), **ignores** [Temporary Health](Status_Effects.md#temporary-health), and does not proc "on damage" conditionals.
+        -   [Deepscorn Casque](Deepscorn_Casque.md) and the [Enhanced Flow](#enhanced-flow) Talent are the only two effects in the game that can reduce the health drain from Rush Hour.
+    -   Grants a 15% damage buff, affected by the damage modifier cap.
+    -   Increases blood loss by +35% (additive).
+    -   Grants a 30% [Speed Boost](Status_Effects.md#speed-boost). This counts for Talents such as [Speed Demon](#speed-demon) and [Cheap Shot](#cheap-shot).
+    -   Recover 5% Blood when dealing damage (0.35s cooldown). [Burn](Status_Effects.md#burn) damage cannot proc this effect.
+    -   If you have the [Enhanced Flow](#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
+    -   Having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect.  
+        }}
+    -   Prerequisites: 50 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Damage Buff\] \[Speed Boost\] \[Tool\]
+
+-   **Sanguine Siphon** \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   Buffs the next Mantra's damage by 25% upon proccing, signified by flowing blood out of your hands.
-    -   Effect lasts 15s before disappearing.
-    -   Prerequisite: 40 Bloodrend
+    -   Effect lasts 15s before disappearing.  
+        
+    -   Prerequisites: 40 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\]
+
+-   **Sanguine Siphon** \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    {#if: \*Buffs the next Mantra's damage by 25% upon proccing, signified by flowing blood out of your hands.
+    
+    -   Effect lasts 15s before disappearing.|\*Buffs the next Mantra's damage by 25% upon proccing, signified by flowing blood out of your hands.
+    -   Effect lasts 15s before disappearing.  
+        }}
+    -   Prerequisites: 40 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\]
 
 ### Bloodsong
 

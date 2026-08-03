@@ -20,7 +20,7 @@ categories: [Expert Outfits, Outfits, Outfits with Talents, "Outfits with Non-ex
 | durability | 1500 |
 | resistances | +15% Physical Armor , +15% Elemental Armor , +5% Fire Armor , +5% Shadow Armor |
 | talents | Foolish Outburst |
-| obtainment | Chests from:, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | Chests from:, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

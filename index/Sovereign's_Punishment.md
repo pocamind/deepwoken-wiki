@@ -35,7 +35,7 @@ categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Centr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Fort Merit Armory for 190 (Authority Ensign exclusive), Aratel Island, (Most) Aratel Island jobs, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Saramaed Hollow, Fishing |
+| obtainment | Sold at Fort Merit Armory for 190 (Authority Ensign exclusive), Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Saramaed Hollow, Fishing |
 | description | A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up. |
 
 ## Description

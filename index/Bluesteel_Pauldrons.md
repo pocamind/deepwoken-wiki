@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Fishing, Authority Ensign Missions |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Fishing, Authority Ensign Missions |
 | description | ... |
 
 Bluesteel Set

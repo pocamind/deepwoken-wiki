@@ -23,7 +23,7 @@ categories: [Equipment, Face, Bandanas]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Heart of Enmity, Dread Serpent, Chaser, Scholar of the Crimson Contract |
+| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Heart of Enmity, Dread Serpent, Chaser, Scholar of the Crimson Contract |
 | description | ... |
 
 Ten-Gallon Set

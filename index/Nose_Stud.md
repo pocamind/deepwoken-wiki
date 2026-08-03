@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's regular stock for 35 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Aelita, The Ferryman (Winter)Vow of Iron:, Sold in Naan Zakshun's regular shop for 35 |
+| obtainment | Sold in Traan Zakshun's regular stock for 35 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Aelita, The Ferryman (Winter)Vow of Iron:, Sold in Naan Zakshun's regular shop for 35 |
 | description | FEAR. IRONSINGERS. |
 
 ## Description

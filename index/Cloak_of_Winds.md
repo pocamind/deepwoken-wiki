@@ -19,7 +19,7 @@ categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 1200 |
 | resistances | +20% Physical Armor , +30% Elemental Armor , +25% Shadow Armor |
 | talents | Paired Soul |
-| obtainment | Chests from:, Fishing, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Minityrsa, Maestro Evengarde Rest, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Lodestar Bounty job, Crypt of the Unbroken, Faction Ambushes (The Ministry), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Chests from:, Fishing, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Minityrsa, Maestro Evengarde Rest, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Lodestar Bounty job, Crypt of the Unbroken, Faction Ambushes (The Ministry), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

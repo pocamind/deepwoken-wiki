@@ -17,7 +17,7 @@ categories: [Starter Outfits, Outfits, Bandits, Outfits with Talents, "Outfits w
 | durability | 1200 |
 | resistances | +15% Physical Armor , +10% Elemental Armor |
 | talents | Lightweight |
-| obtainment | Bandit (direct drop)Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
+| obtainment | Bandit (direct drop)Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

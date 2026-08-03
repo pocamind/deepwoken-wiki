@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso, Equipment with Talents, "E
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Crafting : (1) Dying Ember or Spark Gland, (1) Iron, (1) Fiber, The Diluvian MechanismVow of Iron:, Sightless Memento, Flashing Thunder Memento |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Crafting : (1) Dying Ember or Spark Gland, (1) Iron, (1) Fiber, The Diluvian MechanismVow of Iron:, Sightless Memento, Flashing Thunder Memento |
 | description | A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost. |
 
 ## Description

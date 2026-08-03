@@ -42,7 +42,7 @@ Variants: [Steel Maul](Steel_Maul.md) · [Saint Jay's Hammer](<Saint_Jay's_Hamme
 
 The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul](Steel_Maul.md) with higher requirements. This weapon bears a brown appearance with a stone texture and a red swing trail, distinguishing it from base Steel Maul.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Warmonger, though its unique Talent is disabled there. Warmonger **cannot** be enchanted.
+Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Warmonger. Warmonger **cannot** be enchanted.
 
 ## Talents
 

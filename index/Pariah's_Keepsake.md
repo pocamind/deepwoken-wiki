@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Deep Widow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Heart of Enmity, Dread Serpent, Chime of Conflict, Ancient Rotlands (Deep Cave) |
+| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Duke Ishamon Erisia, Deep Widow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Heart of Enmity, Dread Serpent, Chime of Conflict, Ancient Rotlands (Deep Cave) |
 | description | You deal +20% extra damage to factions who hate you. |
 
 ## Description

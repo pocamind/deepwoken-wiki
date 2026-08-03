@@ -42,7 +42,7 @@ Variants: [Ritual Spear](Ritual_Spear.md)
 
 The **Ritual Sacrifice** is a Medium Spear, an enhanced version of the [Ritual Spear](Ritual_Spear.md). This weapon bears a blue appearance with a light blue shimmer emanating from the spear's tip and a blue swing trail, distinguishing it from base Ritual Spear.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Ritual Sacrifice, though its unique Talent is disabled there. Ritual Sacrifice **cannot** be enchanted.
+Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Ritual Sacrifice. Ritual Sacrifice **cannot** be enchanted.
 
 ## Talents
 

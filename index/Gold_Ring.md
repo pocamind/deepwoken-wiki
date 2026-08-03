@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | PolisChests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Ancient Rotlands (Deep Cave)Vow of Iron:, Spear Dancer Memento |
+| obtainment | PolisChests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Ancient Rotlands (Deep Cave)Vow of Iron:, Spear Dancer Memento |
 | description | A simple gold ring. |
 
 ## Description

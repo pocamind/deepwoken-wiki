@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Your weapon applies 50% anti-heal for 10s. |
 
 ## Description

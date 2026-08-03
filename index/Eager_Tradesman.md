@@ -19,7 +19,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclus
 | durability | 1000 |
 | resistances | +10% Physical Armor , +5% Elemental Armor |
 | talents | Knack |
-| obtainment | Sold by:, Traan Zakshun in Lower Erisia for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, Fishing, Moon's Eyrie, Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils |
+| obtainment | Sold by:, Traan Zakshun in Lower Erisia for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Moon's Eyrie, Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | 10 |
 | weight | 1 |
 

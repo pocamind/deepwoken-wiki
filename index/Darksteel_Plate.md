@@ -20,7 +20,7 @@ categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 2500 |
 | resistances | +25% Physical Armor , +25% Elemental Armor |
 | talents | Unbreakable |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Erisia jobs, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Sold above the Lord Regent's throne in Etris for 200 |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Sold above the Lord Regent's throne in Etris for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

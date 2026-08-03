@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Security Detail job, Summer Isle |
+| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class. |
 
 ## Description

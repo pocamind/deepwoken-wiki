@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes. |
-| obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Scyphozia jobs, The Diluvian Mechanism, Elder Primadon, The Titan Warlord, Weird Trader, Moon's Eyrie, War Mode, Saramaed Hollow, Lysander Spellhardt, Hell Mode, Heart of Enmity, Goodie Bag, Sold in Traan Zakshun's black market for 6 |
+| obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Diluvian Mechanism, Elder Primadon, The Titan Warlord, Weird Trader, Moon's Eyrie, War Mode, Saramaed Hollow, Lysander Spellhardt, Hell Mode, Heart of Enmity, Goodie Bag, Sold in Traan Zakshun's black market for 6 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
