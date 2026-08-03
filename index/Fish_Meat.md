@@ -26,7 +26,7 @@ categories: [Food, Ingredients, Alchemy]
 
 ## Description
 
-**Fish Meat** is a craftable [Food](Food.md) item and crafting ingredient. It can be crafted from any type of [Fish](Fishing.md) and is used in recipes to cook different kinds of Food.
+**Fish Meat** is a craftable [Food](Food.md) item and crafting ingredient. It can be crafted from any type of Fish and is used in recipes to cook different kinds of Food.
 
 ### Effect
 
@@ -36,7 +36,7 @@ When consumed, it replenishes 5% Stomach and 2% Water.
 
 ### Recipe
 
--   Any [Fish](Fishing.md). Different types of fish will craft into different amounts of Fish Meat:
+-   Any Fish. Different types of fish will craft into different amounts of Fish Meat:
     -   Sea Bass crafts into 1.
     -   Red Snapper crafts into 2.
     -   Tuna crafts into 3.

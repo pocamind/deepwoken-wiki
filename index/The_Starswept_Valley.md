@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 220346
+revid: 225652
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -99,9 +99,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   The music for this area is [In Starstruck Sands](Deepwoken_OST.md#in-starstruck-sands) by Naktigonis.
 -   The combat music for this area is [Pyres of Glass](Deepwoken_OST.md#pyres-of-glass) by Naktigonis.
 -   You can climb over the mountains to [The Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face near the [Lightkeeper Temple](Lightkeeper_Temple.md).
--   The best place to grind from around level 12 onwards. (You can go to Starswept at around level 9 or 10 if you're familiar with the game's mechanics.)
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
--   Based on the skeletons and corals that can be seen everywhere, as well as the condition of the Lordsgrove, it can be speculated that this was once an undersea area or a forest full of life, but the nutrients were sucked away by the planting of the [Greathive](Greathive_Aratel.md).
--   Be wary of [Stone Knights](Stone_Knight.md) or [King Threshers](King_Thresher.md) as they can spawn randomly without warning.
+-   As seen by the skeletons, corals, and [Vow of Iron](Vow_of_Iron.md) time period, the valley was once a forest full of life, but the nutrients were sucked away by the planting of the [Greathive](Greathive_Aratel.md).
 -   Occasionally, you may find a sack that looks similar to a player's [lootbag](Chests_&_Sacks.md). You can carry this sack to [Mercille](Mercille.md) at [The Summer Company](The_Summer_Company.md) outpost in [Meteor Isle](Meteor_Isle.md) for Aratel Island loot.
 -   If, during the Authority Captain vs Hive Mech event, the battle is interrupted by an outside aggressor and said aggressor is then slain, both the [Hive Construct](Hive_Construct.md) and [Authority Captain](Authority_Captain.md) will sometimes stop fighting each other, a bug which has been in the game for a long period of time.

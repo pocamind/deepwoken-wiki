@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 211900
+revid: 225651
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -49,13 +49,13 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
     -   [Vigil Initiate](Vigil_Initiate.md) for 45.
     -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for 45.
 
--   Near the Mantra Shop, there is a destructible wall. Behind the wall usually have 4-5 Erisia chests plus **most**, but not all buyable mantra modifiers.
+-   Near the Mantra Shop, there is a destructible wall. Behind the wall contains some small chests and the [Cave Master](Cave_Master.md) who sells [Mantra Modifiers](Mantra_Modifiers.md).
 
 The wall
 
 ### Bank & Antiquarian
 
--   Players can find a Banker who they can turn in [artifacts](Artifacts.md) to.
+-   Players can find a Banker to access their [Item Bank](Item_Bank.md) and turn in [Artifacts](Artifacts.md) to.
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 
 ### [Mantra Collector](Mantra_Collector.md)
@@ -99,7 +99,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Bewildered, the Etrean offers the Player to Strong Left 5 Trees for research.
 -   After 5 Trees has been Strong Left'd, return to the Lumberjack and gain the Talent.
 
-### Chipped Sword
+### Travelling Blade
 
 -   Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 
@@ -116,6 +116,12 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Go back and talk to Apprentice Kj.
 -   Then go to the [Maestro](Evengarde_Rest.md), facing opposite the sparring instructor, with the white cloak.
 -   Talk to him to unbound your weapon proficiency by picking your weapon type.
+
+### Seroth
+
+-   Taking a zipline to a mountain near the docks of vigils will lead to a destructible wall.
+-   Inside players can find [Seroth](Seroth.md), an Etrean Royal Guard observing the corpse of a [Ministry](The_Ministry.md) agent.
+-   Upon speaking with Seroth players can obtain the [Ancient Dagger Remains](Ancient_Dagger_Remains.md) that can be used to craft the [Sanguine Transfuser](Sanguine_Transfuser.md).
 
 ## Maps
 

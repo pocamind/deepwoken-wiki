@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 225592
+revid: 225649
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ There are approximately 23 possible regions:
 -   Tokyo, JP (Japan)
 -   North Holland, NL (Netherlands)
 -   Mazovia, PL (Poland)
--   Singapore, SG
+-   Singapore, SG (Singapore)
 -   England, UK (United Kingdom)
 -   Maharashtra, IN (India)
 -   Leinster, IE (Ireland)

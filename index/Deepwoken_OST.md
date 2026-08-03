@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 220334
+revid: 225644
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, In progress with reason, InProgressPages, Deepwoken]
@@ -138,6 +138,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | ? | Opulent, Imperial[\[3\]](#cite-note-naktimessage3-3) | 2:14 | [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) (Previously [Voidheart](Voidheart.md)) |  |
 | ? | [Sibex](Sibex.md)'s Gale Wisp Tune | 6:16 | [Sibex](Sibex.md), [The Aratel Sea](The_Aratel_Sea.md) |  |
+| ? | Wind Chime Jingle | 1:01 | [Isle of Vigils](Isle_of_Vigils.md) |  |
 
 ## Alternative Soundtracks
 

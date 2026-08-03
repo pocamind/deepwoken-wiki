@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 223677
+revid: 225647
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -78,7 +78,7 @@ These recipes can be crafted directly from your Journal.
 -   [Umbral Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
 -   [Bullets](Bullets.md) (50x) - _1 [Iron](Ores.md#iron)_
 -   [Fishing Rod](Fishing_Rod.md) - _2 [Stick](Stick.md), 1 [Fiber](Fiber.md)_
--   [Chum](Chum.md) - _2 [Fish Meat](Fish_Meat.md) / 2 [Crustacean Meat](Crustacean_Meat.md) / 1 [Pufferfish](Fishing.md)_
+-   [Chum](Chum.md) - _2 [Fish Meat](Fish_Meat.md) / 2 [Crustacean Meat](Crustacean_Meat.md) / 1 [Pufferfish](Pufferfish.md)_
 -   [Monster Bait](Monster_Bait.md) - (Can be obtained from [Mortus](Mortus.md)) 2/3 _[Chum](Chum.md)_
 -   [Void Feather](Dark_Feather.md#void-feather) - _3 [Dark Feathers](Dark_Feather.md), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
 -   [Dark Feather](Dark_Feather.md) (3x) - _1 [Void Feather](Dark_Feather.md#void-feather)_

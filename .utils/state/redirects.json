@@ -1749,7 +1749,7 @@
     "fragment": "Firing Line"
   },
   "Fish": {
-    "to": "Fishing"
+    "to": "Category:Fish"
   },
   "Fist": {
     "to": "Fists"
