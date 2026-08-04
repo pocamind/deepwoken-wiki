@@ -316,7 +316,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>

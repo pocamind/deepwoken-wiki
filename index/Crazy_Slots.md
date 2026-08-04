@@ -124,20 +124,20 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 </tbody>
 </table>

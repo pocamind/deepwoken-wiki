@@ -440,15 +440,15 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
   <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>

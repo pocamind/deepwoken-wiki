@@ -1170,6 +1170,9 @@
   "DSGS": {
     "to": "Darksteel Greatsword"
   },
+  "Dagger": {
+    "to": "Daggers"
+  },
   "Dance, If You Can!": {
     "to": "Deepwoken OST",
     "fragment": "Dance, If You Can!"
@@ -2119,6 +2122,9 @@
   },
   "Greater Angel": {
     "to": "Sworn Angel"
+  },
+  "Greathammer": {
+    "to": "Greathammers"
   },
   "Greatsword": {
     "to": "Category:Greatswords"

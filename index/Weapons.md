@@ -3,7 +3,7 @@ title: Weapons
 revid: 224618
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Character, Mechanics, Pages with math errors, Pages with math render errors]
+categories: [Weapons, Character, Mechanics]
 ---
 
 # Weapons
@@ -2812,7 +2812,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
@@ -3230,15 +3230,15 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
   <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -9828,7 +9828,7 @@ Bows
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
@@ -10246,15 +10246,15 @@ Bows
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
   <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -10932,7 +10932,7 @@ Bows
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
@@ -11367,15 +11367,15 @@ Bows
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
   <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -12656,20 +12656,20 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 </tbody>
 </table>
@@ -18694,7 +18694,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
@@ -19131,15 +19131,15 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
   <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -19858,7 +19858,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
@@ -20276,15 +20276,15 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
   <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -24678,7 +24678,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.15s</td>
+  <td>0.2s</td>
   <td>51.4</td>
 </tr>
 <tr>
@@ -25096,15 +25096,15 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
   <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
-  <td>28</td>
+  <td>30</td>
   <td>HVY: 12</td>
   <td>-</td>
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.25s</td>
-  <td>53.2</td>
+  <td>0.3s</td>
+  <td>57</td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -26228,7 +26228,7 @@ B a s e D a m a g e × ( 1 + ( ( 0.75 × S 1 + S 2 + S 3 + S 4 1000 + R 1 + R 2 
 Key:
 
 -   BaseDamage accounts for damage stars as well. This can be calculated with the following formula:  
-    **Failed to parse (SVG (MathML can be enabled via browser plugin): Invalid response ("Math extension cannot connect to Restbase.") from server "http://mathoid-facade/v1/":): {\\displaystyle BaseDamge = WeaponBaseDamage \\times (1 + 0.02 \\times DamageStars)}**
+    B a s e D a m g e \= W e a p o n B a s e D a m a g e × ( 1 + 0.02 × D a m a g e S t a r s ) {\\displaystyle BaseDamge=WeaponBaseDamage\\times (1+0.02\\times DamageStars)} {\\displaystyle BaseDamge=WeaponBaseDamage\\times (1+0.02\\times DamageStars)}
 -   S1-4 = Attribute Level x Attribute Scaling for each stat.
 -   R1-4 = Scaling Rings. The order the rings are added is based on your respective attribute investment. The highest investment is R1, the next is R2, and so on.
     -   Scaling Rings are calculated as follows:
