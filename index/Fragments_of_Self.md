@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 215958
+revid: 225760
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Death, The Depths]
@@ -40,6 +40,8 @@ Located to the left-hand side, beyond a small parkour section. Interacting with 
 
 ### Shrine of the Drowned
 
+_Main page: [Shrine of the Drowned](Shrine_of_the_Drowned.md)_
+
 Located before Self, a statue that allows you to pay 1000 [Robux](https://roblox.fandom.com/wiki/Robux) to return to the Surface. This can only be used once per character and requires at least [Power](Power.md) 2.
 
 ### Self
@@ -72,9 +74,10 @@ Trying to get to Fragments of Self
 -   Owls and Lesser Angels can seemingly spawn here, but they are unable to actually damage you.
 -   Chests can also spawn here, but they cannot be opened.
 -   Fragments of Self is virtually located above The Depths, which could potentially (but unlikely) be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
--   Self doesn't update if you de-equip or equip equipment, meaning it will look like your character when you wiped.
--   If you wiped your character through the red skull in the main menu, "Self" will be a plain white character. Due to your character not loading in the game when you wipe, since you were in the main menu, the game does not have any data to generate "Self" as it appears as the character when you wiped.
+    -   Such a bug was previously possible, though now patched.
+-   Self doesn't update if you de-equip or equip equipment, meaning it will always look like your character at the moment of wiping.
+    -   However, if you wiped your character through the red skull in the main menu, "Self" will be a plain white character. This is due to your character not having been loaded in the game when you wiped. Since you were in the main menu, the game does not have any data to generate "Self" as it would normally appear as the character at the moment of a normal wipe.
 -   If you died during [Hell Mode](Hell_Mode.md), the red screen tint stays, although this is most likely a bug.
 -   It is actually possible to chop down the trees around the area if you have a [Lumber Axe](Lumber_Axe.md).
 -   You can hypothetically save somebody from the fragments by headstacking, but it has only ever been done once and headstacking has since been made harder.
--   When you try to get up to The Fragments of Self by yourself when you haven't wiped yet, Yun'shul interrupts you, saying "INCONCEVABLE." and disabling everything and stuns(?) for a moment, resulting player to fall down. [https://www.youtube.com/watch?v=AxPpST6d3eY](https://www.youtube.com/watch?v=AxPpST6d3eY)
+-   Upon trying to get up to The Fragments of Self when you haven't wiped yet, Yun'shul interrupts you, saying "INCONCEVABLE.", disabling everything and stuns(?) for a moment, resulting in the player falling down, taking fall damage as normal. [https://www.youtube.com/watch?v=AxPpST6d3eY](https://www.youtube.com/watch?v=AxPpST6d3eY)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225741
+revid: 225750
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -30,8 +30,8 @@ notices:
             -   Categories: \[Anti-Sustain\], \[Assassination\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Food\], \[Guardbreak\], \[Mobility\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Slow\], \[Speed Boost\], \[Sustain\], \[Tempo\], \[Temporary Health\]
             -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
             -   \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], \[[Vow of Iron](Vow_of_Iron.md) Exusive\], or \[Weapon category\] if applicable
-            -   \[Investment Scaling\] (Talents that scale on the investment of the required attribute(s)), \[Scale-down\] (Talents that lose effectiveness if you do not meet their requirements), \[Hard Requirements\] (Talents that do not function _unless_ you meet their requirements)
-            -   Miscellaneous: \[Spec\] (Deepwoken Developer or Moderator exclusive Talents) \[Tool\] - Talents that provide a Talent tool, \[Multi-Attunement\] - Talents that require more than one Attunement attribute
+            -   \[Investment Scaling\] (Talents that scale above their base values when you have more than the required amount of attribute investment), \[Scale-down\] (Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements), \[Hard Requirements\] (Talents that do not function _unless_ you meet their requirements) - \[Investment Scaling\] is not mutually exclusive with either of the other two.
+            -   Miscellaneous: \[Multi-Attunement\] - Talents that require more than one Attunement attribute, \[Spec\] (Deepwoken Developer or Moderator exclusive Talents) \[Tool\] - Talents that provide a Talent tool, \[Vaulted\] (Talents that have been removed from the Talent pool to await balance changes)
         -   Notes:
             -   If a prerequisite Talent requires an attribute that the listed Talent doesn't, then the attribute tags of the prerequisite Talent will carry over to the listed one. The only exception to this are Oath Talents, which will list the Oath's name in the tags instead.  
                 (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list Strength and Willpower in its tags.
@@ -2587,7 +2587,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
             
     -   Prerequisites: 70 Willpower  
         
-    -   Tags: \[Willpower\]
+    -   Tags: \[Willpower\] \[Scale-down\]
 
 -   **Defiance** \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
@@ -2605,7 +2605,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
             
     -   Prerequisites: 70 Willpower  
         
-    -   Tags: \[Willpower\]
+    -   Tags: \[Willpower\] \[Scale-down\]
 
 -   **Underdog** \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
     -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
@@ -2620,7 +2620,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
         
-    -   Tags: \[Willpower\] \[Damage Buff\]
+    -   Tags: \[Willpower\] \[Damage Buff\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Underdog** \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
     -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
@@ -2635,7 +2635,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
         
-    -   Tags: \[Willpower\] \[Damage Buff\]
+    -   Tags: \[Willpower\] \[Damage Buff\] \[Investment Scaling\] \[Scale-down\]
 
 ### Charm Caster
 
@@ -2668,7 +2668,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
         
-    -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\]
+    -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Chaotic Charm** \[Common Talent\] - Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
     -   Applies a unique status effect, [Chaotic Charm](Status_Effects.md#chaotic-charm), for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
@@ -2681,7 +2681,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
         
-    -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\]
+    -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Lasting Charisma** \[Common Talent\] - Enemies charmed by your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are charmed longer.
     -   Lasting Charisma increases the duration of **[Charismatic Cast](#charismatic-cast)'s** Charm from 10s to 20s.
@@ -2689,7 +2689,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
         
-    -   Tags: \[Charisma\] \[Charm\]
+    -   Tags: \[Charisma\] \[Charm\] \[Scale-down\]
 
 -   **Lasting Charisma** \[Common Talent\] - Enemies charmed by your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are charmed longer.
     -   Lasting Charisma increases the duration of **[Charismatic Cast](#charismatic-cast)'s** Charm from 10s to 20s.
@@ -2697,7 +2697,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
         
-    -   Tags: \[Charisma\] \[Charm\]
+    -   Tags: \[Charisma\] \[Charm\] \[Scale-down\]
 
 -   **Tough Love** \[Common Talent\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same [Aspect](Aspects.md) or [Oath](Oaths.md) as you applies [Charmed](Status_Effects.md#charm) briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
@@ -2736,7 +2736,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Mutual Exclusives: [Bulldozer](#bulldozer)  
         
-    -   Tags: \[Charisma\] \[Charm\] \[Debuff\] \[Flourish\]
+    -   Tags: \[Charisma\] \[Charm\] \[Debuff\] \[Flourish\] \[Scale-down\]
 
 -   **Dazing Finisher** \[Common Talent\] - Flourishing enemies that are [Charmed](Status_Effects.md#charm) by you cause them to not be knocked back and [Dazed](Status_Effects.md#daze) instead.
     -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
@@ -2747,7 +2747,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Mutual Exclusives: [Bulldozer](#bulldozer)  
         
-    -   Tags: \[Charisma\] \[Charm\] \[Debuff\] \[Flourish\]
+    -   Tags: \[Charisma\] \[Charm\] \[Debuff\] \[Flourish\] \[Scale-down\]
 
 ### Christmas Miracle
 
@@ -2755,13 +2755,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     
     -   Prerequisites: MODSHOPREWARD  
         
-    -   Tags: \[Spec Talent\] \[Tool\]
+    -   Tags: \[[Spec](Developer_Specs.md)\] \[Tool\]
 
 -   **Christmas Miracle** \[Common Talent\] - Christmas Mod Shop reward. Regens hunger and thirst. "Thank you so much K1!" Heh, no problem guys. All in a day's work.
     
     -   Prerequisites: MODSHOPREWARD  
         
-    -   Tags: \[Spec Talent\] \[Tool\]
+    -   Tags: \[[Spec](Developer_Specs.md)\] \[Tool\]
 
 ### Cold Phantom
 
@@ -6758,7 +6758,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         
-    -   Tags: \[Common Talent\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     -   Deals 35 Blunt damage with 20 Posture damage.
@@ -6766,7 +6766,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         
-    -   Tags: \[Common Talent\]
+    -   Tags: \[Common Talent\] \[Equipment\]
 
 -   **Centurion's Resolve**: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.  

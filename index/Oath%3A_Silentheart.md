@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 225587
+revid: 225752
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -73,6 +73,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
 -   Attunements are unable to be obtained.
 -   "Elemental" weapons **cannot** be equipped.
+-   All Silentheart abilities gain a secondary damage instance in PvE that deals 133% of the original attack's damage. This benefits from [Chain of Perfection](Talents.md#chain-of-perfection) twice.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
 
@@ -174,7 +175,6 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
 -   Using any Silentheart ability will remove your active Whistleguard, granted you are wearing a [Whistling Periapt](Whistling_Periapt.md).
 -   Dying to an attunement user does not necessarily mean being manually executed by them; dying by any method as long as they are the killer will work.
--   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCONFIRMED)**
 -   You will still gain [Whisper Draws](Whisper_Draw.md) when leveling up, and from Special Mantra Hands.
 -   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.
 -   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.

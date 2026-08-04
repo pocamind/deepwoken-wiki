@@ -1,6 +1,6 @@
 ---
 title: Redd
-revid: 204449
+revid: 225756
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Harvestables, Food Ingredients]
@@ -19,7 +19,6 @@ categories: [Consumables, Harvestables, Food Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Nice and orange. |
 
 ## Description
 
