@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 225624
+revid: 225678
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -14,6 +14,8 @@ categories: [Monsters, Knights]
 | attacks | Slash, Kick, Wind Cutter, Terra Eruption |
 | drops | Advanced Mantra Modifiers, Dying Embers, Relic Axe |
 | challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
+
+Variants: [Star Knight](Star_Knight.md) · [Moss Knight](Moss_Knight.md)
 
 “ Seeing the state of their cities... Their arrival seems less like divine visitation and more like evacuation. As above, so below. ”
 

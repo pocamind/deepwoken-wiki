@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225619
+revid: 225674
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -522,7 +522,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
     -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.  
         
-    -   Prerequisites: Wind Step, 50 Galebreathe  
+    -   Prerequisites: [Wind Step](#wind-step), 50 Galebreathe  
         
     -   Tags: \[Galebreathe\] \[Speed Boost\]
 
@@ -539,7 +539,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
     -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.  
         }}
-    -   Prerequisites: Wind Step, 50 Galebreathe  
+    -   Prerequisites: [Wind Step](#wind-step), 50 Galebreathe  
         
     -   Tags: \[Galebreathe\] \[Speed Boost\]
 
@@ -547,7 +547,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: Prerequisites: 15 Strength, 35 Galebreathe  
+    -   Prerequisites: 15 Strength, 35 Galebreathe  
         
     -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
 
@@ -558,7 +558,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: Prerequisites: 15 Strength, 35 Galebreathe  
+    -   Prerequisites: 15 Strength, 35 Galebreathe  
         
     -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
 
@@ -568,9 +568,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: Suffocating Impact  
+    -   Prerequisites: [Suffocating Impact](#suffocating-impact)  
         
-    -   Tags: \[Galebreathe\] \[+Passive Agility\]
+    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
 
 -   **Stifled Jump** \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated.
     
@@ -581,9 +581,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         }}
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: Suffocating Impact  
+    -   Prerequisites: [Suffocating Impact](#suffocating-impact)  
         
-    -   Tags: \[Galebreathe\] \[+Passive Agility\]
+    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
 
 -   **Vacuum Punch** \[Common Talent\] - Your [Gale Punch](Galebreathe.md#gale-punch) pulls enemies in before you hit them.
     -   Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)

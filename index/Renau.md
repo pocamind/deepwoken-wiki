@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 224915
+revid: 225673
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -48,3 +48,4 @@ Renau is located in the [The Depths](The_Depths.md) in [The Chariot's Spire](<Th
 ## Trivia
 
 -   Renau's racial variant appears to be Lion.
+-   Due to reworks to the dialogue system, it is impossible to view Renau's name in normal gameplay.

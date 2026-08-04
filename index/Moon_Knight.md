@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 225135
+revid: 225680
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -17,6 +17,8 @@ categories: [Monsters, Knights]
 | challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
 
 _This page is about the [Monster](Monsters.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
+
+Variants: [Stone Knight](Stone_Knight.md) · [Star Knight](Star_Knight.md) · [Moss Knight](Moss_Knight.md)
 
 ## **Description**
 

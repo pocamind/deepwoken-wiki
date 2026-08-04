@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 225153
+revid: 225679
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Knights]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Monsters, Knights]
 | locations | Resonant Dawn Event |
 | challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
 
-Variants: [Stone Knight](Stone_Knight.md)
+Variants: [Stone Knight](Stone_Knight.md) · [Moss Knight](Moss_Knight.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
