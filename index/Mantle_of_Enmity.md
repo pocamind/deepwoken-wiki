@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 222088
+revid: 225764
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,7 +32,7 @@ Variants: [Gallery](Mantle_of_Enmity/Gallery.md)
 
 The **Mantle of Enmity** is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-This equipment grants the [Heartwing Beat](Talents.md#heartwing-beat) Talent, transforming your aerial attack into a quick slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 15 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash. This attack procs all "On Critical" Talents. Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor.
+This equipment grants the [Heartwing Beat](Talents.md#heartwing-beat) Talent, transforming your aerial attack into a quick slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 12 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash. This attack procs all "On Critical" Talents. Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor.
 
 This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) Talent.
 

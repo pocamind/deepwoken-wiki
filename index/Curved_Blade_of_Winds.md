@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 222960
+revid: 225766
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -33,7 +33,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Scion of Ethiron, Duke Erisia, Fishing, Lodestar Bounty job, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Sold in Traan Zakshun's black market for 4 |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Scion of Ethiron, Duke Ishamon Erisia, Fishing, Lodestar Bounty job, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Sold in Traan Zakshun's black market for 4 |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
 Variants: [Eyes of Ethiron](Eyes_of_Ethiron.md)

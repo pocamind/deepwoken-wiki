@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225750
+revid: 225771
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3205,52 +3205,153 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Darksiphon
 
--   Blighted Song \[Common Talent, Fortitude, Shadowcast\] - Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. You take reduced damage from enemies while this is applied.
-    -   Grants 20% damage reduction against attacks coming from entities that are not the caster or the person affected by Blighted Song.
-    -   Prerequisite: [Shadow Chains](Shadowcast.md#shadow-chains) (Mantra), 10 Fortitude
+-   **Blighted Song** \[Common Talent\] - Attaching your [Shadow Chains](Shadowcast.md#shadow-chains) to enemies disables yours and the enemy's ability to cast mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. You take reduced damage from enemies while this is applied.
+    -   Grants 20% damage reduction against attacks coming from entities that are not the caster or the person affected by Blighted Song.  
+        
+    -   Prerequisites: [Shadow Chains](Shadowcast.md#shadow-chains) (Mantra), 10 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Shadowcast\] \[Damage Resistance\] \[Debuff\]
 
--   Dark God \[Common Talent, Shadowcast\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
-    -   Prerequisite: 20 Shadowcast
+-   **Blighted Song** \[Common Talent\] - Attaching your [Shadow Chains](Shadowcast.md#shadow-chains) to enemies disables yours and the enemy's ability to cast mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. You take reduced damage from enemies while this is applied.
+    -   Grants 20% damage reduction against attacks coming from entities that are not the caster or the person affected by Blighted Song.  
+        
+    -   Prerequisites: [Shadow Chains](Shadowcast.md#shadow-chains) (Mantra), 10 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Shadowcast\] \[Damage Resistance\] \[Debuff\]
 
--   Dark Replenishment \[Common Talent, Intelligence, Shadowcast\] - Knocking out an enemy in combat restores a portion of your ether.
-    -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
+-   **Dark God** \[Common Talent\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their [Tempo](Combat_Mechanics.md#tempo) instead and increase your Tempo.
+    
+    -   Prerequisites: 20 Shadowcast  
+        
 
--   Dark Synergy \[Common Talent, Shadowcast\] - Engulf your enemy in shadows when flourishing them.
+-   **Dark God** \[Common Talent\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their [Tempo](Combat_Mechanics.md#tempo) instead and increase your Tempo.
+    
+    -   Prerequisites: 20 Shadowcast  
+        
+
+-   **Dark Replenishment** \[Common Talent\] - Knocking out an enemy in combat restores a portion of your ether.
+    
+    -   Prerequisites: 50 Shadowcast, 25 Intelligence, [Dark God](#dark-god)  
+        
+    -   Tags: \[Intelligence\] \[Shadowcast\]
+
+-   **Dark Replenishment** \[Common Talent\] - Knocking out an enemy in combat restores a portion of your ether.
+    
+    -   Prerequisites: 50 Shadowcast, 25 Intelligence, [Dark God](#dark-god)  
+        
+    -   Tags: \[Intelligence\] \[Shadowcast\]
+
+-   **Dark Synergy** \[Common Talent\] - Engulf your enemy in shadows when flourishing them.
     -   Deals 5 Shadowcast damage on proc.
-    -   Does not proc any shadow Talents except Shadow Overflow.
-    -   Does not steal or halt any Ether regen.
-    -   Prerequisites: 45 Shadowcast, Dark God
+    -   Does not steal or halt any Ether regen.  
+        
+    -   Prerequisites: 45 Shadowcast, [Dark God](#dark-god)  
+        
+    -   Tags: \[Shadowcast\] \[Flourish\]
 
--   Dark Waltz \[Common Talent, Shadowcast, Weapon\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#b) to PvE enemies.
-    -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
-    -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
+-   **Dark Synergy** \[Common Talent\] - Engulf your enemy in shadows when flourishing them.
+    -   Deals 5 Shadowcast damage on proc.
+    -   Does not steal or halt any Ether regen.  
+        
+    -   Prerequisites: 45 Shadowcast, [Dark God](#dark-god)  
+        
+    -   Tags: \[Shadowcast\] \[Flourish\]
 
--   Dark Hours \[Common Talent, Shadowcast\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
-    -   Night cycle is XX:50 to XX:10.
-    -   Always active in the depths.
-    -   Prerequisite: 35 Shadowcast
+-   **Dark Waltz** \[Common Talent\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies.
+    -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.  
+        
+    -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light // 90 Medium // 90 Heavy)  
+        
+    -   Tags: \[Shadowcast\] \[Weapon\] \[Guardbreak\] \[Tempo\]
 
--   _Dark Rift_ \[Rare Talent, Shadowcast\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   **Dark Waltz** \[Common Talent\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies.
+    -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.  
+        
+    -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light // 90 Medium // 90 Heavy)  
+        
+    -   Tags: \[Shadowcast\] \[Weapon\] \[Guardbreak\] \[Tempo\]
+
+-   **Dark Hours** \[Common Talent\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+    -   Night cycle is XX:50 to XX:10 in IRL time.
+    -   Always active in [the Depths](The_Depths.md).  
+        
+    -   Prerequisites: 35 Shadowcast  
+        
+    -   Tags: \[Shadowcast\] \[Damage Buff\]
+
+-   **Dark Hours** \[Common Talent\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+    -   Night cycle is XX:50 to XX:10 in IRL time.
+    -   Always active in [the Depths](The_Depths.md).  
+        
+    -   Prerequisites: 35 Shadowcast  
+        
+    -   Tags: \[Shadowcast\] \[Damage Buff\]
+
+-   _Dark Rift_ \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use Mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
-    -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
-    -   Prerequisites: 60 Shadowcast, Dark Hours
+    -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.  
+        
+    -   Prerequisites: 60 Shadowcast, [Dark Hours](#dark-hours)  
+        
+    -   Tags: \[Shadowcast\]
 
--   Night Terror \[Common Talent, Shadowcast, Weapon\] - Your light attacks now proc Fear the Dark.
-    -   Despite its description, this talent applies the Fear status for 1 second with no cooldown (they are not required to run away from you).
-    -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker's](Oath%253A_Dawnwalker.md) Absolute Radiance.
-    -   Also procs on weapon criticals.
-    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy), Fear the Dark
+-   **Dark Rift** \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+    -   Blocking, parrying, dodging, or sliding will also cancel the effect.
+    -   You cannot use Mantras during the effect.
+    -   You hover with a dark outline while dark rift is active.
+    -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.  
+        
+    -   Prerequisites: 60 Shadowcast, [Dark Hours](#dark-hours)  
+        
+    -   Tags: \[Shadowcast\]
 
--   Overwhelming Drain \[Common Talent, Shadowcast\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
-    -   This talent is currently bugged and does not work.
-    -   Prerequisite: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)
+-   **Night Terror** \[Common Talent\] - Your light attacks now proc [Fear the Dark](#fear-the-dark).
+    -   Despite its description, this Talent applies the [Fear the Dark](Status_Effects.md#fear-the-dark) status for 1 second with no cooldown (they are not required to run away from you).
+    -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker](Oath%253A_Dawnwalker.md)'s [Absolute Radiance](#absolute-radiance).
+    -   Also procs on weapon criticals.  
+        
+    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy), [Fear the Dark](#fear-the-dark)  
+        
+    -   Tags: \[Shadowcast\] \[Weapon\] \[Debuff\]
 
--   Shadow Overflow \[Common Talent, Shadowcast\] - Extra ether stolen with mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are exerted as dark energy, damaging and absorbing ether from those nearby.
+-   **Night Terror** \[Common Talent\] - Your light attacks now proc [Fear the Dark](#fear-the-dark).
+    -   Despite its description, this Talent applies the [Fear the Dark](Status_Effects.md#fear-the-dark) status for 1 second with no cooldown (they are not required to run away from you).
+    -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker](Oath%253A_Dawnwalker.md)'s [Absolute Radiance](#absolute-radiance).
+    -   Also procs on weapon criticals.  
+        
+    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy), [Fear the Dark](#fear-the-dark)  
+        
+    -   Tags: \[Shadowcast\] \[Weapon\] \[Debuff\]
+
+-   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [dazed](Status_Effects.md#daze).
+    
+    -   Prerequisites: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)  
+        
+    -   Tags: \[Shadowcast\] \[Debuff\]
+
+-   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [dazed](Status_Effects.md#daze).
+    
+    -   Prerequisites: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)  
+        
+    -   Tags: \[Shadowcast\] \[Debuff\]
+
+-   **Shadow Overflow** \[Common Talent\] - Extra ether stolen with mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are exerted as dark energy, damaging and absorbing ether from those nearby.
     -   Has a 4 second cooldown.
-    -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.
-    -   Prerequisites: 55 Shadowcast, Dark God
+    -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.  
+        
+    -   Prerequisites: 55 Shadowcast, [Dark God](#dark-god)  
+        
+    -   Tags: \[Shadowcast\]
+
+-   **Shadow Overflow** \[Common Talent\] - Extra ether stolen with mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are exerted as dark energy, damaging and absorbing ether from those nearby.
+    -   Has a 4 second cooldown.
+    -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.  
+        
+    -   Prerequisites: 55 Shadowcast, [Dark God](#dark-god)  
+        
+    -   Tags: \[Shadowcast\]
 
 ### Dawnwalker
 
@@ -6876,28 +6977,79 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Common Talent\] \[Equipment\] \[Bleed\] \[Sustain\]
 
--   Dancing Steps of War - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
+-   **Dancing Steps Of War**: [Geta](Geta.md) - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
     -   Provides a 35% [Speed Boost](Status_Effects.md#speed-boost).
     -   Reduces your dodge cooldown to 0.5s while active. This affects both dodge types.
-    -   The duration of this effect can be increased by 0.5s by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).
+    -   The duration of this effect can be increased by 0.5s by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Flourish\] \[Speed Boost\]
 
--   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
-    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your current posture will be dealt to you as self-posture damage.
-    -   1 second cooldown.
+-   **Dancing Steps Of War**: [Geta](Geta.md) - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
+    -   Provides a 35% [Speed Boost](Status_Effects.md#speed-boost).
+    -   Reduces your dodge cooldown to 0.5s while active. This affects both dodge types.
+    -   The duration of this effect can be increased by 0.5s by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Flourish\] \[Speed Boost\]
 
--   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your Ardour Screams now break campfires around you and have a larger AoE.
+-   **Demon Step**: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
+    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your _current_ posture will be dealt to you as self-posture damage.
+    -   1 second cooldown.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Mobility\] \[Tool\]
+
+-   **Demon Step**: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
+    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your _current_ posture will be dealt to you as self-posture damage.
+    -   1 second cooldown.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Mobility\] \[Tool\]
+
+-   **Destructive Yell**: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your [Ardour Screams](#ardour-scream) now break campfires around you and have a larger AoE.
     -   Your Ardour Scream now destroys all campfires within its range.
+    -   Adds 100 studs to [Ardour Scream](#ardour-scream)'s range (95 to 195). This stacks with [Soul Infusion](#soul-infusion)'s +105 studs for 300 total studs.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
+-   **Destructive Yell**: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your [Ardour Screams](#ardour-scream) now break campfires around you and have a larger AoE.
+    -   Your Ardour Scream now destroys all campfires within its range.
+    -   Adds 100 studs to [Ardour Scream](#ardour-scream)'s range (95 to 195). This stacks with [Soul Infusion](#soul-infusion)'s +105 studs for 300 total studs.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Devastating Power**: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.
-    -   Maximum of +140 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +1 from Wisp Convergence, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
-        -   Wisp Convergence will not work if you do not have Oathless, but it will still grant its additional Wisp Mantra slot.
+    -   Maximum of +140 Ether (6 innate Mantra slots, +1 from [Neuroplasticity](#neuroplasticity), +1 from [Will o' Wisp](#will-o-wisp), +1 from [Chorus of Souls](#chorus-of-souls), +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
+        -   Chorus of Souls will not work if you do not have [Oathless](Oath%253A_Oathless.md), but it will still grant its additional Wisp Mantra slot.
+        -   While [Contractor](Oath%253A_Contractor.md) grants 2 less Mantra slots than Saintsworn, it makes up for it by providing +20 Ether on Talent stats, making a great alternative.  
+            
+    -   Tags: \[Common Talent\] \[Outfit\]
 
--   Diver's Resilience: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+-   **Devastating Power**: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
+    -   Gain 10 Ether for every Mantra you have equipped.
+    -   Maximum of +140 Ether (6 innate Mantra slots, +1 from [Neuroplasticity](#neuroplasticity), +1 from [Will o' Wisp](#will-o-wisp), +1 from [Chorus of Souls](#chorus-of-souls), +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
+        -   Chorus of Souls will not work if you do not have [Oathless](Oath%253A_Oathless.md), but it will still grant its additional Wisp Mantra slot.
+        -   While [Contractor](Oath%253A_Contractor.md) grants 2 less Mantra slots than Saintsworn, it makes up for it by providing +20 Ether on Talent stats, making a great alternative.  
+            
+    -   Tags: \[Common Talent\] \[Outfit\]
+
+-   **Diver's Resilience**: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
     -   20 second cooldown.
-    -   Cannot parry ALL types of attacks, similar to [Hunter's Brace](<Hunter's_Brace.md>), you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.
+    -   Cannot parry ALL types of attacks, similar to [Hunter's Brace](<Hunter's_Brace.md>) and [Force Your Way](#force-your-way). Additionally, your movement speed is reduced.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Drop Dead: [Vaporfrost Earrings](Vaporfrost_Earrings.md) & [Vapordrop Earrings](Vapordrop_Earrings.md) - Take less damage when Crouching.
+-   **Diver's Resilience**: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+    -   20 second cooldown.
+    -   Cannot parry ALL types of attacks, similar to [Hunter's Brace](<Hunter's_Brace.md>) and [Force Your Way](#force-your-way). Additionally, your movement speed is reduced.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Drop Dead**: [Vaporfrost Earrings](Vaporfrost_Earrings.md) & [Vapordrop Earrings](Vapordrop_Earrings.md) - Take less damage when Crouching.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\]
+
+-   **Drop Dead**: [Vaporfrost Earrings](Vaporfrost_Earrings.md) & [Vapordrop Earrings](Vapordrop_Earrings.md) - Take less damage when Crouching.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\]
 
 -   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes and provides [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
@@ -7270,7 +7422,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Woodland Terrain: [Woodland Boots](Woodland_Boots.md) - You move slightly faster on grass.
 
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
-    -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
+    -   Makes you entirely immune to the [Second Layer](Second_Layer.md)'s Parasites, but at a cost of granting you a mobility debuff.
 
 ## Set Talents
 
