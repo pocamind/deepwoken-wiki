@@ -1,6 +1,6 @@
 ---
 title: Frost Ring
-revid: 223456
+revid: 225819
 source: https://deepwoken.fandom.com/wiki/Frost_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Relics, Equipment Relics, Craftable]
@@ -27,7 +27,9 @@ categories: [Equipment, Rings, Relics, Equipment Relics, Craftable]
 
 Frost Ring is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that slows your opponent when you land M1s. This slow stacks with subsequent hits.
 
-This Ring can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Heavy Hands Ring](Heavy_Hands_Ring.md) and 1 [Frost Essence](Frost_Essence.md). In [Vow of Iron](Vow_of_Iron.md), this Ring can be found at [Minityrsa](Minityrsa.md).
+This Ring can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Heavy Hands Ring](Heavy_Hands_Ring.md) and 1 [Frost Essence](Frost_Essence.md).
+
+In [Vow of Iron](Vow_of_Iron.md), this Ring can be found at [Minityrsa](Minityrsa.md).
 
 ## Trivia
 
