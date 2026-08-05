@@ -34,7 +34,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Saramaed HollowAlloyed, Alloying a Cavalry Saber, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Moon's Eyrie, Heart of Enmity, Fort Merit Armory for 60 (Authority Ensign exclusive) |
+| obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Saramaed HollowAlloyed, Alloying a Cavalry Saber, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Moon's Eyrie, Heart of Enmity, Fort Merit Armory for 60 (Authority Ensign exclusive) |
 | description | To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as an effective blade for raiding. |
 
 ## Description

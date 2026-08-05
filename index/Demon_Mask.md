@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Lodestar Bounty job, Dread Serpent |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Lodestar Bounty job, Dread Serpent |
 | description | A haunting feeling creeps upon you, as you behold the mask in your hand, resembling a masterful depiction of a monstrous being. You know it is of traditional Etrean make, and features some motif of folklore - but beyond that, you know little else. Clearly, this is a relic from a time long past. A mask of warriors long-forgotten: their names forever lost to history, their lives - to calamity. |
 
 Variants: [Oni Mask](Oni_Mask.md)

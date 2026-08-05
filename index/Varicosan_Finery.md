@@ -20,7 +20,7 @@ categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 1500 |
 | resistances | +20% Physical Armor , +20% Elemental Armor |
 | talents | Benefactor |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Primadon, The Diluvian Mechanism, Moon's Eyrie, The Understrand, Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 Vow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Primadon, The Diluvian Mechanism, Moon's Eyrie, The Understrand, Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 Vow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Dress) |

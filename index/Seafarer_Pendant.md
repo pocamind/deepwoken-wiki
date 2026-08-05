@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, War Mode, Lodestar Bounty job, Dread Serpent |
+| obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, War Mode, Lodestar Bounty job, Dread Serpent |
 | description | ... |
 
 ## Description

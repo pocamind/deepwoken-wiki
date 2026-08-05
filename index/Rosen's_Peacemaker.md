@@ -29,7 +29,7 @@ categories: [Weapons, Rifles, Medium Weapons, Weapons with Talents, Weapons of T
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Heart of Enmity, Miner's Landing, Faction Ambushes (The Ignition Union), Saramaed Summit, Starfield Veldt, Merchant Ships, Bounties, Dread Serpent, The Diluvian Mechanism, Scion of Ethiron, War Mode, Saramaed Hollow |
+| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Heart of Enmity, Miner's Landing, Faction Ambushes (The Ignition Union), Saramaed Summit, Starfield Veldt, Merchant Ships, Bounties, Dread Serpent, The Diluvian Mechanism, Scion of Ethiron, War Mode, Saramaed Hollow |
 | description | A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value on the market, due to both the historical importance of this firearm, as well as it's effectiveness. |
 
 ## Description

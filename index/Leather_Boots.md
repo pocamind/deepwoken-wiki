@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots, Fishing Loot, Echo U
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fishing, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Other sources:, Starter Equipment Echo Unlock, Purchased from:, Bari or Seraphina for 15 , Tone or Cheruba in Vow of Iron for 15 |
+| obtainment | Chests from:, Fishing, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Other sources:, Starter Equipment Echo Unlock, Purchased from:, Bari or Seraphina for 15 , Tone or Cheruba in Vow of Iron for 15 |
 | description | A pair of worn leather boots. And they're your size! |
 
 Leather Set

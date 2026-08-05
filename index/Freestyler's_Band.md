@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Chime of Conflict, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Chime of Conflict, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Swim like some famous swimmer. Just like Mikhael Felps. |
 
 ## Description

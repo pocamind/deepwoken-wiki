@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hive Construct, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Duke Ishamon Erisia, Dread Serpent, The Diluvian Mechanism |
+| obtainment | Hive Construct, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Duke Ishamon Erisia, Dread Serpent, The Diluvian Mechanism |
 | description | An ancient mask of a lost Hivelord, now a relic. |
 
 ## Description

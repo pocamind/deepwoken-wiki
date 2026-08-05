@@ -20,7 +20,7 @@ categories: [Expert Outfits, Outfits, The Knives of Eylis]
 | durability | 1500 |
 | resistances | +25% Physical Armor , +15% Elemental Armor |
 | buffs | +50% Stealth |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie, Bought from Traan Zakshun for 200 |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie, Bought from Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

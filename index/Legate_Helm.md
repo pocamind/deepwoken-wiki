@@ -20,7 +20,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Deep Widow, Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobsFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Ishamon Erisia, Deep Widow, Bounties, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobsFound from:, Artifact Turn-ins |
 | description | Survival is your strength. |
 
 ## Description

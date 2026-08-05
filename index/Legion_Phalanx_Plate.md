@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Miner's Landing, Faction Ambushes (The Ignition Union), Primadon, Titan of the East, Heart of Enmity, Interluminary Parasol, Chaser, Scholar of the Crimson Contract, Pure Erisore turn-ins, Deep Widow |
+| obtainment | Chests from:, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Miner's Landing, Faction Ambushes (The Ignition Union), Primadon, Titan of the East, Heart of Enmity, Interluminary Parasol, Chaser, Scholar of the Crimson Contract, Pure Erisore turn-ins, Deep Widow |
 | description | ... |
 
 Variants: [Alloyed Phalanx Plate](Alloyed_Phalanx_Plate.md)

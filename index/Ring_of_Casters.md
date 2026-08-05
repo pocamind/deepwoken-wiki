@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Miner's Landing, Faction Ambushes (The Ignition Union), Duke Ishamon Erisia, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Saramaed Hollow, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Chime of Conflict, Lodestar Bounty job, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Miner's Landing, Faction Ambushes (The Ignition Union), Duke Ishamon Erisia, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Saramaed Hollow, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Chime of Conflict, Lodestar Bounty job, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Mantra damage increased by 5% but reduces melee damage by 5%. |
 
 ## Description

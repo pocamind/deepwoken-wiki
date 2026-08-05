@@ -19,7 +19,7 @@ categories: [Expert Outfits, Outfits]
 | droppable | Yes |
 | durability | 2500 |
 | resistances | +25% Physical Armor , +20% Elemental Armor |
-| obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Interluminary Parasol, Primadon, Titan of the East |
+| obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Interluminary Parasol, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

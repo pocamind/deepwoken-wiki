@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Primadon, Titan of the East, Deep Widow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Heart of Enmity, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Chime of Conflict, Maestro Evengarde Rest, Fishing, Lodestar Bounty job, Voidsea, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Primadon, Titan of the East, Deep Widow, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Heart of Enmity, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Chime of Conflict, Maestro Evengarde Rest, Fishing, Lodestar Bounty job, Voidsea, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
 | description | You come across mortal encounters more frequently. |
 
 ## Description

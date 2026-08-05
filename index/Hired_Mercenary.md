@@ -18,7 +18,7 @@ categories: [Starter Outfits, Outfits]
 | droppable | Yes |
 | durability | 1000 |
 | resistances | +15% Physical Armor , +10% Elemental Armor |
-| obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular stock 80 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Lodestar Bounty job, Primadon (extremely rare)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular stock 80 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Lodestar Bounty job, Primadon (extremely rare)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

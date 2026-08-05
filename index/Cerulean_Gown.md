@@ -19,7 +19,7 @@ categories: [Expert Outfits, Outfits]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +20% Physical Armor , +25% Elemental Armor |
-| obtainment | Chests from:, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Doom of Caeranthil, Interluminary Parasol, Carnival of Hearts, Moon's Eyrie, The Understrand, Sold by Traan Zakshun for 200 |
+| obtainment | Chests from:, Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Doom of Caeranthil, Interluminary Parasol, Carnival of Hearts, Moon's Eyrie, The Understrand, Sold by Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
 

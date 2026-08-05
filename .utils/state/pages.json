@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 225771
+    "lastrevid": 225812
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -1981,7 +1981,7 @@
   },
   "4878": {
     "title": "Star Boots",
-    "lastrevid": 222643
+    "lastrevid": 225797
   },
   "4879": {
     "title": "Tracker's Boots",
@@ -2381,7 +2381,7 @@
   },
   "5799": {
     "title": "Kyrscleave",
-    "lastrevid": 225488
+    "lastrevid": 225814
   },
   "5800": {
     "title": "Kyrsblade",
@@ -4265,7 +4265,7 @@
   },
   "13005": {
     "title": "Summer Nauticals",
-    "lastrevid": 222665
+    "lastrevid": 225802
   },
   "13008": {
     "title": "Aska",
@@ -6405,7 +6405,7 @@
   },
   "18609": {
     "title": "Titus Fulminus Destellus",
-    "lastrevid": 224977
+    "lastrevid": 225818
   },
   "18610": {
     "title": "Wrath Gem",
@@ -6477,7 +6477,7 @@
   },
   "18685": {
     "title": "Imperator's Fury",
-    "lastrevid": 222888
+    "lastrevid": 225778
   },
   "18688": {
     "title": "Shock Trooper Boots",
@@ -6965,7 +6965,7 @@
   },
   "20215": {
     "title": "Familiar Demon's Armor",
-    "lastrevid": 223308
+    "lastrevid": 225772
   },
   "20216": {
     "title": "Familiar Occultist's Armor",
@@ -7461,7 +7461,7 @@
   },
   "21143": {
     "title": "Curse of Captain Greene",
-    "lastrevid": 219155
+    "lastrevid": 225813
   },
   "21144": {
     "title": "JOE's",
@@ -8785,7 +8785,7 @@
   },
   "23137": {
     "title": "Withered Phantomcleave",
-    "lastrevid": 224289
+    "lastrevid": 225795
   },
   "23139": {
     "title": "Withered Gale Pale",
@@ -9277,7 +9277,7 @@
   },
   "24327": {
     "title": "Kraphtalos",
-    "lastrevid": 224837
+    "lastrevid": 225816
   },
   "24328": {
     "title": "Squelcap Pilaf",
@@ -9698,5 +9698,9 @@
   "26195": {
     "title": "Unidentified Outlaw",
     "lastrevid": 224521
+  },
+  "26250": {
+    "title": "Raid on the Temple of Mur",
+    "lastrevid": 225793
   }
 }

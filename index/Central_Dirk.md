@@ -33,7 +33,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Moon's Eyrie, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Fort Merit Armory for 80 (Authority Ensign exclusive), Authority Ensign Missions |
+| obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Moon's Eyrie, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Fort Merit Armory for 80 (Authority Ensign exclusive), Authority Ensign Missions |
 | description | ... |
 
 ## Description

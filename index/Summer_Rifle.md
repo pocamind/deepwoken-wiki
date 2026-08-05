@@ -28,7 +28,7 @@ categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Bounty Hunting, Deep Widow, Fishing, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Moon's Eyrie, Pure Erisore turn in |
+| obtainment | Chests from:, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Bounty Hunting, Deep Widow, Fishing, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Moon's Eyrie, Pure Erisore turn in |
 | description | A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models. |
 
 ## Description

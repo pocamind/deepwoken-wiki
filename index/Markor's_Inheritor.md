@@ -35,7 +35,7 @@ categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Ministry Agent, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Bounties, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Ministry Agent, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Bounties, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent |
 | description | The Blade Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 224977
+revid: 225818
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -56,7 +56,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  | Titus firmly swings his fists at his opponent with hyperarmor.
 
 -   These moves are typically slow and can often lead to the player missing a parry.
--   Because he has the effect of Commander's Rage and throughout the entire second phase, his attacks become Unparryable being telegraphed.
+-   Because he has the effect of Commander's Rage and throughout the entire second phase, this attack becomes Unparryable being telegraphed.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -127,6 +127,12 @@ Jump
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
 
 -   This move can cause debris to fall.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#parry)
+
+Parry
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
@@ -227,12 +233,13 @@ Jump
 
 -   This move can be easily avoided by jumping.
 -   Titus will only use this move in his second phase.
+-   sends those hit very high up.
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#jump)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
-Jump
+Dodge
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
@@ -279,9 +286,9 @@ Block
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#avoid)
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
 
-Avoid
+High posture
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable

@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Dread Serpent, Deep Widow, Heart of Enmity, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
+| obtainment | Chests from:, Duke Ishamon Erisia, Dread Serpent, Deep Widow, Heart of Enmity, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
 | description | ... |
 
 ## Description

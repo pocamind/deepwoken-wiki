@@ -21,7 +21,7 @@ categories: [Equipment, Head, Cowls]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Artifact Turn-ins, Chime of Conflict, Heart of Enmity, Dread Serpent |
+| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Artifact Turn-ins, Chime of Conflict, Heart of Enmity, Dread Serpent |
 | description | ... |
 
 Variants: [Cultist Cowl](Cultist_Cowl.md)

@@ -32,7 +32,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Moon's Eyrie, Sold in Traan Zakshun's regular shop for 300 , Sold by Nyanna for 300 , Sold by Kujae for 350 , Sold at Fort Merit Armory for 145 (Authority Ensign exclusive), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, War Mode, Heart of Enmity, The Doom of Caeranthil, Scion of Ethiron, Dread Serpent, VoidseaVow of Iron:, Entrance of the Miner Cave Boundary |
+| obtainment | Chests from:, Duke Ishamon Erisia, Moon's Eyrie, Sold in Traan Zakshun's regular shop for 300 , Sold by Nyanna for 300 , Sold by Kujae for 350 , Sold at Fort Merit Armory for 145 (Authority Ensign exclusive), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, War Mode, Heart of Enmity, The Doom of Caeranthil, Scion of Ethiron, Dread Serpent, VoidseaVow of Iron:, Entrance of the Miner Cave Boundary |
 | description | The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies. |
 
 ## Description

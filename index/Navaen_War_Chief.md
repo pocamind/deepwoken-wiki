@@ -20,7 +20,7 @@ categories: [Master Outfits, Outfits, The Children of Navae, Outfits with Talent
 | resistances | +30% Physical Armor , +30% Elemental Armor , +10% Ice Armor , +5% Shadow Armor |
 | buffs | +50% Stealth +20% Ether Regen |
 | talents | Chief's Will |
-| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Primadon, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobsOther:, Lodestar (Direct drop), Sold by Glaive Spellhardt for 100 Joy |
+| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Primadon, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobsOther:, Lodestar (Direct drop), Sold by Glaive Spellhardt for 100 Joy |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

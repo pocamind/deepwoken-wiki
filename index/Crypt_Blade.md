@@ -32,7 +32,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Diluvian Mechanism, Fishing, Heart of Enmity, The Understrand, Maestro Evengarde Rest, The Ferryman, Weird Trader, Sold in Traan Zakshun's black market for 4 |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Diluvian Mechanism, Fishing, Heart of Enmity, The Understrand, Maestro Evengarde Rest, The Ferryman, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description

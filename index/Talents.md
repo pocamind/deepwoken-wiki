@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225771
+revid: 225812
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -27,11 +27,11 @@ notices:
             -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires.
             -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
         -   Specific Terms; given if applicable:
-            -   Categories: \[Anti-Sustain\], \[Assassination\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Food\], \[Guardbreak\], \[Mobility\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Slow\], \[Speed Boost\], \[Sustain\], \[Tempo\], \[Temporary Health\]
+            -   Categories: \[Anti-Sustain\], \[Assassination\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[Tempo\], \[Temporary Health\]
             -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
             -   \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], \[[Vow of Iron](Vow_of_Iron.md) Exusive\], or \[Weapon category\] if applicable
             -   \[Investment Scaling\] (Talents that scale above their base values when you have more than the required amount of attribute investment), \[Scale-down\] (Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements), \[Hard Requirements\] (Talents that do not function _unless_ you meet their requirements) - \[Investment Scaling\] is not mutually exclusive with either of the other two.
-            -   Miscellaneous: \[Multi-Attunement\] - Talents that require more than one Attunement attribute, \[Spec\] (Deepwoken Developer or Moderator exclusive Talents) \[Tool\] - Talents that provide a Talent tool, \[Vaulted\] (Talents that have been removed from the Talent pool to await balance changes)
+            -   Miscellaneous: \[M1 Tag\] (Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag), \[Multi-Attunement\] (Talents that require more than one Attunement attribute), \[Spec\] (Deepwoken Developer or Moderator exclusive Talents), \[Tool\] (Talents that provide a Talent tool), \[Vaulted\] (Talents that have been removed from the Talent pool to await balance changes)
         -   Notes:
             -   If a prerequisite Talent requires an attribute that the listed Talent doesn't, then the attribute tags of the prerequisite Talent will carry over to the listed one. The only exception to this are Oath Talents, which will list the Oath's name in the tags instead.  
                 (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list Strength and Willpower in its tags.
@@ -479,7 +479,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 15 Strength, 35 Galebreathe  
         
-    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
+    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\] \[Flourish\]
 
 -   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocation) for a short duration.
     
@@ -487,7 +487,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 15 Strength, 35 Galebreathe  
         
-    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
+    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\] \[Flourish\]
 
 -   _Stifled Jump_ \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated.
     -   The Daze effect lasts for 1 second.
@@ -497,7 +497,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Suffocating Impact](#suffocating-impact)  
         
-    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
+    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\]
 
 -   **Stifled Jump** \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated.
     -   The Daze effect lasts for 1 second.
@@ -507,7 +507,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Suffocating Impact](#suffocating-impact)  
         
-    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\]
+    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\]
 
 -   **Vacuum Punch** \[Common Talent\] - Your [Gale Punch](Galebreathe.md#gale-punch) pulls enemies in before you hit them.
     -   Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)
@@ -1176,14 +1176,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Horn of Authority_ \[Origin Talent\] - Mark escaping prisoners.
     -   Grants a Talent tool that blows a horn, combat tagging and highlighting escaping prisoners.  
         
-    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin  
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin // [Two-Faced](Regalia.md#two-faced) Regalia  
         
     -   Tags: \[[Authority Ensign](Authority_Ensign.md)\]
 
 -   **Horn of Authority** \[Origin Talent\] - Mark escaping prisoners.
     -   Grants a Talent tool that blows a horn, combat tagging and highlighting escaping prisoners.  
         
-    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin  
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin // [Two-Faced](Regalia.md#two-faced) Regalia  
         
     -   Tags: \[[Authority Ensign](Authority_Ensign.md)\]
 
@@ -1498,7 +1498,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md)  
         
-    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Mobility\]
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Dodge\] \[Mobility\]
 
 -   **Lithe Step** \[Oath Talent\] - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed.
     -   Makes the player briefly invisible, similar to [Jetstriker](Oath%253A_Jetstriker.md)'s [Rush of Ancients](#rush-of-ancients).
@@ -1507,7 +1507,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md)  
         
-    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Mobility\]
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Dodge\] \[Mobility\]
 
 -   **Reveal** \[Oath Talent\] - Pour your heart out, and reveal your true strength.
     -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on [True Strength](Status_Effects.md#true-strength). Use the tool again to toggle True Strength back off.
@@ -2351,7 +2351,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 60 Fortitude  
         
-    -   Tags: \[Fortitude\] \[Debuff\] \[Scale-down\] \[Slow\]
+    -   Tags: \[Fortitude\] \[Debuff\] \[M1 Tag\] \[Scale-down\] \[Slow\]
 
 -   **Down to your Level** \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 5s.
     -   Down to your Level's duration will be reduced by 0.05s for every point in Fortitude below 60, capping at a minimum of 3.75s with 35 Fortitude.
@@ -2361,7 +2361,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 60 Fortitude  
         
-    -   Tags: \[Fortitude\] \[Debuff\] \[Scale-down\] \[Slow\]
+    -   Tags: \[Fortitude\] \[Debuff\] \[M1 Tag\] \[Scale-down\] \[Slow\]
 
 -   **Knuckle Guard** \[Common Talent\] - Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.  
@@ -2386,7 +2386,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 15 Agility  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Speed Boost\]
 
 -   **Swift Rebound** \[Common Talent\] - Move faster after successfully dodging an attack.
     -   Provides a 30% speed boost for 2s.  
@@ -2395,7 +2395,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 15 Agility  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Speed Boost\]
 
 -   _Evasive Expert_ \[Rare Talent\] - Your speed boost granted from dodging is increased.
     -   Increases your [Swift Rebound](#swift-rebound) speed boost from 30% to 50%.  
@@ -2404,7 +2404,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 15 Agility, [Swift Rebound](#swift-rebound)  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Speed Boost\]
 
 -   **Evasive Expert** \[Rare Talent\] - Your speed boost granted from dodging is increased.
     -   Increases your [Swift Rebound](#swift-rebound) speed boost from 30% to 50%.  
@@ -2413,7 +2413,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 15 Agility, [Swift Rebound](#swift-rebound)  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Speed Boost\]
 
 -   _Risky Moves_ \[Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack.
     -   User is covered in a blue highlight when the effect is active.
@@ -2428,7 +2428,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Mutual Exclusives: [Observation](#observation), [Safety Dance](#safety-dance)  
         
-    -   Tags: \[Agility\] \[+Passive Agility\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\]
 
 -   **Risky Moves** \[Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack.
     -   User is covered in a blue highlight when the effect is active.
@@ -2443,7 +2443,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Mutual Exclusives: [Observation](#observation), [Safety Dance](#safety-dance)  
         
-    -   Tags: \[Agility\] \[+Passive Agility\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\]
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible, ending early if you attack.
     -   Provides I-frames for the duration of the invisibility.
@@ -2456,7 +2456,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 40 Agility, [Swift Rebound](#swift-rebound), [Evasive Expert](#evasive-expert), [Risky Moves](#risky-moves)  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Scale-down\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Scale-down\]
 
 -   **Ghost** \[Advanced Talent\] - Dodging a move will briefly make you invisible, ending early if you attack.
     -   Provides I-frames for the duration of the invisibility.
@@ -2469,7 +2469,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 40 Agility, [Swift Rebound](#swift-rebound), [Evasive Expert](#evasive-expert), [Risky Moves](#risky-moves)  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Scale-down\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Scale-down\]
 
 ### Castaway
 
@@ -3172,7 +3172,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 30 Agility  
         
-    -   Tags: \[Agility\] \[+Passive Agility\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
 
 -   **In a Hurry** \[Common Talent\] - You grip faster with a movement speed boost.
     -   Reduces the time it takes to execute someone by 0.5 seconds (16.67% faster).  
@@ -3181,7 +3181,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 30 Agility  
         
-    -   Tags: \[Agility\] \[+Passive Agility\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
 
 -   **Muffled Screams** \[Common Talent\] - You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions.
     -   NPCs have a shortened aggro range from executing their allies in proximity.
@@ -3355,144 +3355,469 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Dawnwalker
 
--   [**Oath: Dawnwalker**](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots, +5% PEN)
-    -   Prerequisites: [Power](Power.md) 15, Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+-   **Oath: Dawnwalker** \[Oath Talent\] - You [vow](Glossary.md#vows) to forever reach towards the brilliant Light. There is no shadow that your [radiance](Glossary.md#lightkeeping) cannot expunge.
+    -   See [Oath: Dawnwalker](Oath%253A_Dawnwalker.md).  
+        
+    -   Grants +3 Combat Mantra Slots, +5% PEN  
+        
+    -   Prerequisites: [Power](Power.md) 10, Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\] \[+Mantra Slots\] \[+PEN\]
 
--   Absolute Radiance \[Oath Talent,[Dawnwalker](Oath%253A_Dawnwalker.md)\] - Dealing damage with Dawnwalker mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] briefly makes you immune to all elemental effects for a short period.
-    -   All elemental status effects cannot be applied to you during Absolute Radiance.
-    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 60 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) OR pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once).
+-   **Oath: Dawnwalker** \[Oath Talent\] - You [vow](Glossary.md#vows) to forever reach towards the brilliant Light. There is no shadow that your [radiance](Glossary.md#lightkeeping) cannot expunge.
+    -   See [Oath: Dawnwalker](Oath%253A_Dawnwalker.md).  
+        
+    -   Grants +3 Combat Mantra Slots, +5% PEN  
+        
+    -   Prerequisites: [Power](Power.md) 10, Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\] \[+Mantra Slots\] \[+PEN\]
 
--   Protagonist Syndrome \[Oath Talent, [Dawnwalker](Oath%253A_Dawnwalker.md)\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are empowered after getting hit by Shadowcast.
+-   **Absolute Radiance** \[Oath Talent\] - Dealing damage with Dawnwalker mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] briefly makes you immune to all elemental effects for a short period.
+    -   All _elemental_ [Status Effects](Status_Effects.md) cannot be applied to you during Absolute Radiance.
+        -   This includes: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Winded](Status_Effects.md#winded), [Suffocation](Status_Effects.md#suffocation), [Metal Rods](Status_Effects.md#metal-rods), and [Fear the Dark](Status_Effects.md#fear-the-dark) (Fear the Dark, when procced via [Night Terror](#night-terror) bypasses this effect however).  
+            
+    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 60 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) // pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\]
+
+-   **Absolute Radiance** \[Oath Talent\] - Dealing damage with Dawnwalker mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] briefly makes you immune to all elemental effects for a short period.
+    -   All _elemental_ [Status Effects](Status_Effects.md) cannot be applied to you during Absolute Radiance.
+        -   This includes: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Winded](Status_Effects.md#winded), [Suffocation](Status_Effects.md#suffocation), [Metal Rods](Status_Effects.md#metal-rods), and [Fear the Dark](Status_Effects.md#fear-the-dark) (Fear the Dark, when procced via [Night Terror](#night-terror) bypasses this effect however).  
+            
+    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 60 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) // pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\]
+
+-   **Protagonist Syndrome** \[Oath Talent\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are empowered after getting hit by Shadowcast.
     -   Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage.
-    -   [Shade Devour](Shadowcast.md#shade-devour)'s self damage is typeless, so it will not proc this effect.
-    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) OR pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   [Shade Devour](Shadowcast.md#shade-devour)'s self damage is typeless, so it will not proc this effect.  
+        
+    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) // pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\] \[Damage Buff\]
 
--   Luminous Flash \[Oath Talent, [Dawnwalker](Oath%253A_Dawnwalker.md)\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
-    -   During Absolute Radiance, your M1 attacks have a chance to proc Luminous Flash, increasing their damage by 75% (the damage modifier hardcap). In PvP combat, this is lowered to 50% instead (the damage modifier hardcap).
-    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) OR pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once).
+-   **Protagonist Syndrome** \[Oath Talent\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are empowered after getting hit by Shadowcast.
+    -   Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage.
+    -   [Shade Devour](Shadowcast.md#shade-devour)'s self damage is typeless, so it will not proc this effect.  
+        
+    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) // pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\] \[Damage Buff\]
+
+-   **Luminous Flash** \[Oath Talent\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
+    -   During Absolute Radiance, your M1 attacks have a small chance to proc Luminous Flash, increasing their damage by 50% in PvP or 75% in PvE (the damage modifier hardcap).  
+        
+    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) // pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\] \[Damage Buff\]
+
+-   **Luminous Flash** \[Oath Talent\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
+    -   During Absolute Radiance, your M1 attacks have a small chance to proc Luminous Flash, increasing their damage by 50% in PvP or 75% in PvE (the damage modifier hardcap).  
+        
+    -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) // pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Dawnwalker](Oath%253A_Dawnwalker.md)\] \[Damage Buff\]
 
 ### Death Speaker
 
--   Blackhole \[Common Talent, Shadowcast\] - Your singularity pulls everyone nearby in.
-    -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a Shadow Mantra.
-    -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
+-   **Blackhole** \[Common Talent\] - Your singularity pulls everyone nearby in.
+    -   Pulls anyone nearby in a medium sized AoE, to the closest opponent you hit with a Shadow Mantra.  
+        
+    -   Prerequisites: [Singularity](#singularity), 60 Shadowcast, [Power](Power.md) 13  
+        
+    -   Tags: \[Shadowcast\]
 
--   Energy Siphon \[Common Talent, Shadowcast\] - Your singularity now pulls ether from extra players affected by Blackhole.
-    -   Takes around 15 Ether from the affected opponent on proc.
-    -   Prerequisites: Blackhole, 60 Shadowcast, [Power](Power.md) 13
+-   **Blackhole** \[Common Talent\] - Your singularity pulls everyone nearby in.
+    -   Pulls anyone nearby in a medium sized AoE, to the closest opponent you hit with a Shadow Mantra.  
+        
+    -   Prerequisites: [Singularity](#singularity), 60 Shadowcast, [Power](Power.md) 13  
+        
+    -   Tags: \[Shadowcast\]
+
+-   **Energy Siphon** \[Common Talent\] - Your [singularity](#singularity) now pulls ether from extra players affected by [Blackhole](#blackhole).
+    -   Takes around 15 Ether from the affected opponents on proc.  
+        
+    -   Prerequisites: [Blackhole](#blackhole), 60 Shadowcast, [Power](Power.md) 13  
+        
+    -   Tags: \[Shadowcast\]
+
+-   **Energy Siphon** \[Common Talent\] - Your [singularity](#singularity) now pulls ether from extra players affected by [Blackhole](#blackhole).
+    -   Takes around 15 Ether from the affected opponents on proc.  
+        
+    -   Prerequisites: [Blackhole](#blackhole), 60 Shadowcast, [Power](Power.md) 13  
+        
+    -   Tags: \[Shadowcast\]
 
 ### Deepbound Contract
 
--   _Call of the Deep_ \[Origin Talent\] - Sink beneath the waves and return to the Depths.
-    -   Grants a Talent tool.
-    -   When used in the Overworld, play an animation and sink into the [First Layer](First_Layer.md). This does not count as a drown.
-    -   When used in the [First Layer](First_Layer.md), teleport to [Castle Light](Castle_Light.md) with a 20 minute cooldown.
-    -   Prerequisites: [Deepbound](Deepbound.md) Origin
+-   _Call of the Deep_ \[Origin Talent\] - Sink beneath the waves and return to [the Depths](The_Depths.md).
+    -   When the tool is used in the Overworld, play an animation and sink into the [First Layer](First_Layer.md). This does not count as a drown.
+    -   When the tool is used in the [First Layer](First_Layer.md), teleport to [Castle Light](Castle_Light.md) with a 20 minute cooldown.  
+        
+    -   Prerequisites: [Deepbound](Deepbound.md) Origin // [Two-Faced](Regalia.md#two-faced) Regalia  
+        
+    -   Tags: \[[Deepbound](Deepbound.md)\] \[Tool\]
 
--   _Deepbound Contract_ \[Origin Talent\] - You progress much faster in the Depths, and slower on the overworld. You can regain sanity at Castle Light, but will always face the strongest foes in your Trial.
-    -   You can always enter [Castle Light](Castle_Light.md), even if you've drowned, or are a [Contractor](Oath%253A_Contractor.md), However the turret infront of [Castle Light](Castle_Light.md) WILL attack you.
-    -   Your [Depths Trial](Cathedral_of_the_Interstice.md) will always be an Enforcer or harder.
+-   **Call of the Deep** \[Origin Talent\] - Sink beneath the waves and return to [the Depths](The_Depths.md).
+    -   When the tool is used in the Overworld, play an animation and sink into the [First Layer](First_Layer.md). This does not count as a drown.
+    -   When the tool is used in the [First Layer](First_Layer.md), teleport to [Castle Light](Castle_Light.md) with a 20 minute cooldown.  
+        
+    -   Prerequisites: [Deepbound](Deepbound.md) Origin // [Two-Faced](Regalia.md#two-faced) Regalia  
+        
+    -   Tags: \[[Deepbound](Deepbound.md)\] \[Tool\]
+
+-   _Deepbound Contract_ \[Origin Talent\] - You progress much faster in [the Depths](The_Depths.md), and slower on the overworld. You can regain sanity at [Castle Light](Castle_Light.md), but will always face the strongest foes in your [Trial](Cathedral_of_the_Interstice.md).
+    -   You can always enter [Castle Light](Castle_Light.md) and [Chariot's Spire](<The_Chariot's_Spire.md>), even if you've drowned, or are a [Contractor](Oath%253A_Contractor.md).
+        -   The turret outside of [Castle Light](Castle_Light.md) may still attack you if you have bad reputation and/or are a Contractor.
+    -   Your [Depths Trial](Cathedral_of_the_Interstice.md) will always be an [Enforcer](Enforcer.md) or harder.
     -   You gain passive sanity regeneration at [Castle Light](Castle_Light.md).
-    -   Gain increased experience gain while in either layer of [the Depths](The_Depths.md), but your experience gain is reduced elsewhere.
-    -   Prerequisites: [Deepbound](Deepbound.md) Origin
+    -   Gain more experience while in [the Depths](The_Depths.md), but your experience gain is reduced elsewhere.  
+        
+    -   Prerequisites: [Deepbound](Deepbound.md) Origin  
+        
+    -   Tags: \[[Deepbound](Deepbound.md)\]
+
+-   **Deepbound Contract** \[Origin Talent\] - You progress much faster in [the Depths](The_Depths.md), and slower on the overworld. You can regain sanity at [Castle Light](Castle_Light.md), but will always face the strongest foes in your [Trial](Cathedral_of_the_Interstice.md).
+    -   You can always enter [Castle Light](Castle_Light.md) and [Chariot's Spire](<The_Chariot's_Spire.md>), even if you've drowned, or are a [Contractor](Oath%253A_Contractor.md).
+        -   The turret outside of [Castle Light](Castle_Light.md) may still attack you if you have bad reputation and/or are a Contractor.
+    -   Your [Depths Trial](Cathedral_of_the_Interstice.md) will always be an [Enforcer](Enforcer.md) or harder.
+    -   You gain passive sanity regeneration at [Castle Light](Castle_Light.md).
+    -   Gain more experience while in [the Depths](The_Depths.md), but your experience gain is reduced elsewhere.  
+        
+    -   Prerequisites: [Deepbound](Deepbound.md) Origin  
+        
+    -   Tags: \[[Deepbound](Deepbound.md)\]
 
 ### Deepwoken
 
 -   _Spell Shout_ \[Quest Talent\] - You will now shout your mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] name upon cast.
     -   The player will say the name of the Mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
-    -   Renamed Mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!".
+    -   Renamed Mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!". You can rename Mantras by clicking on their name in the [Mantra Lectern](Mantra_Lectern.md) menu.
     -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used. Casting a Mantra named "64 palms" will say "Palms!".
-    -   If a Mantra name gets moderated by the chat (####), the shout will default to the original name of the Mantra.
+    -   If a Mantra name gets moderated by Roblox's automated chat moderation, the shout will default to the original name of the Mantra.
     -   You can toggle spell shout visibility by typing '/e shout' into chat. This setting is per-slot. If you have spell shout visibility disabled, you won't see anyone's spell shouts
     -   **IMPORTANT:** Make sure to not use offensive names or slurs for your Mantras. This can result in moderation action taken against you.
-        -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
-    -   Prerequisite: Obtaining the Talent from [Valikor](Valikor.md)
+        -   Offensive includes mentions to Race, Gender, Sexual Preference, Religion, etc.  
+            
+    -   Prerequisites: Obtaining from [Valikor](Valikor.md)  
+        
+
+-   **Spell Shout** \[Quest Talent\] - You will now shout your mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] name upon cast.
+    -   The player will say the name of the Mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
+    -   Renamed Mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!". You can rename Mantras by clicking on their name in the [Mantra Lectern](Mantra_Lectern.md) menu.
+    -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used. Casting a Mantra named "64 palms" will say "Palms!".
+    -   If a Mantra name gets moderated by Roblox's automated chat moderation, the shout will default to the original name of the Mantra.
+    -   You can toggle spell shout visibility by typing '/e shout' into chat. This setting is per-slot. If you have spell shout visibility disabled, you won't see anyone's spell shouts
+    -   **IMPORTANT:** Make sure to not use offensive names or slurs for your Mantras. This can result in moderation action taken against you.
+        -   Offensive includes mentions to Race, Gender, Sexual Preference, Religion, etc.  
+            
+    -   Prerequisites: Obtaining from [Valikor](Valikor.md)  
+        
 
 ### Doomsday Engine
 
--   Frozen Web \[Common Talent, Dual Attunement, Frostdraw, Thundercall\] - Landing a critical with a Static Link on your opponent applies Chilled.
-    -   Applies [Chill](Status_Effects.md#chill) for 7 seconds and [Bottom Freeze](Status_Effects.md#bottom-freeze).
-    -   Applies fragile freeze if the critical guardbreaks.
+-   **Frozen Web** \[Common Talent\] - Landing a critical with a [Static Link](Status_Effects.md#static-link) on your opponent applies [Chilled](Status_Effects.md#chill).
+    -   Applies [Chill](Status_Effects.md#chill) for 7 seconds and [Bottom Freeze](Status_Effects.md#bottom-freeze). You do not need the Bottom Freeze Talent to apply this effect.
     -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
-    -   3 second cooldown.
-    -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
+    -   3 second cooldown.  
+        
+    -   Prerequisites: [Static Link](#static-link), 40 Frostdraw, 40 Thundercall  
+        
+    -   Tags: \[Frostdraw\] \[Thundercall\] \[Critical Attack\] \[Debuff\] \[Multi-Attunement\] \[Static Link\]
+
+-   **Frozen Web** \[Common Talent\] - Landing a critical with a [Static Link](Status_Effects.md#static-link) on your opponent applies [Chilled](Status_Effects.md#chill).
+    -   Applies [Chill](Status_Effects.md#chill) for 7 seconds and [Bottom Freeze](Status_Effects.md#bottom-freeze). You do not need the Bottom Freeze Talent to apply this effect.
+    -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
+    -   3 second cooldown.  
+        
+    -   Prerequisites: [Static Link](#static-link), 40 Frostdraw, 40 Thundercall  
+        
+    -   Tags: \[Frostdraw\] \[Thundercall\] \[Critical Attack\] \[Debuff\] \[Multi-Attunement\] \[Static Link\]
 
 ### Dread Imperium
 
--   **Buster Call** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
+-   **Breakthrough Drive** \[Faction Talent\] - Knocking a player refreshes your [Glorious Charge](Authority_Ensign.md#glorious-charge) cooldown and extends both of its effects by 5 seconds. \[90 second CD\]
+    -   Knocking a _player_ [Unconscious](Status_Effects.md#unconscious) increases the duration of the knock prevention and Speed Boost given to your squadmates by the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra by 5 seconds, alongside resetting its cooldown.
+    -   This Talent will proc every time you knock a player Unconscious. If it is already on cooldown, then knocking a player will add an extra instance of the cooldown, without doing anything else.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Support\]
+
+-   **Breakthrough Drive** \[Faction Talent\] - Knocking a player refreshes your [Glorious Charge](Authority_Ensign.md#glorious-charge) cooldown and extends both of its effects by 5 seconds. \[90 second CD\]
+    -   Knocking a _player_ [Unconscious](Status_Effects.md#unconscious) increases the duration of the knock prevention and Speed Boost given to your squadmates by the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra by 5 seconds, alongside resetting its cooldown.
+    -   This Talent will proc every time you knock a player Unconscious. If it is already on cooldown, then knocking a player will add an extra instance of the cooldown, without doing anything else.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Support\]
+
+-   **Buster Call** \[Faction Talent\] - Radio in [the Authority](The_Central_Authority.md)'s navy for a buster call, sending out a barrage of bombardment wherever you see fit.
     -   1 day cooldown (24 IRL hours).
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
-    -   Applies burn on hit.
-    -   Cannot knock players.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
+    -   Applies [Burn](Status_Effects.md#burn) on hit.
+    -   Cannot knock players [Unconscious](Status_Effects.md#unconscious) on direct hits, but the Burn procs can.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Tool\]
 
--   **Officer's Slash** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
+-   **Buster Call** \[Faction Talent\] - Radio in [the Authority](The_Central_Authority.md)'s navy for a buster call, sending out a barrage of bombardment wherever you see fit.
+    -   1 day cooldown (24 IRL hours).
+    -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
+    -   Applies [Burn](Status_Effects.md#burn) on hit.
+    -   Cannot knock players [Unconscious](Status_Effects.md#unconscious) on direct hits, but the Burn procs can.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Tool\]
+
+-   **Officer's Slash** \[Faction Talent\] - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
     -   20 second cooldown.
     -   This critical has the M1 tag.
     -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
     -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
-    -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
+    -   The Alloyed variants of all of the above weapons proc this effect as well.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Critical Attack\] \[M1 Tag\]
 
--   **Officer's Training** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from criticals.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
+-   **Officer's Slash** \[Faction Talent\] - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
+    -   20 second cooldown.
+    -   This critical has the M1 tag.
+    -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
+    -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+    -   The Alloyed variants of all of the above weapons proc this effect as well.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Critical Attack\] \[M1 Tag\]
 
--   **Target Focus** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
+-   **Officer's Training** \[Faction Talent\] - While using a [Sword](Swords.md) or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: [Authority Ensign](Authority_Ensign.md)\] \[Posture Resistance\] \[Sword\] \[Rapier\]
+
+-   **Officer's Training** \[Faction Talent\] - While using a [Sword](Swords.md) or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: [Authority Ensign](Authority_Ensign.md)\] \[Posture Resistance\] \[Sword\] \[Rapier\]
+
+-   **Target Focus** \[Faction Talent\] - Enemies you charm take more damage from your squadmates in your party.
+    -   Due to [Charm](Status_Effects.md#charm)'s ownership mechanics, it is highly recommended that you have [Lasting Charisma](#lasting-charisma) for a long Charm duration. See [Status Effects](Status_Effects.md#charm) for more info.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Charm\] \[Damage Buff\] \[Support\]
+
+-   **Target Focus** \[Faction Talent\] - Enemies you charm take more damage from your squadmates in your party.
+    -   Due to [Charm](Status_Effects.md#charm)'s ownership mechanics, it is highly recommended that you have [Lasting Charisma](#lasting-charisma) for a long Charm duration. See [Status Effects](Status_Effects.md#charm) for more info.  
+        
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Charm\] \[Damage Buff\] \[Support\]
 
 ### Drowned Secret
 
--   _Ethiron's Gaze_ \[Quest Talent\] - Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now.
-    -   Obtainment: While within the [Second Layer](Second_Layer.md), complete the [quest](Quests.md#ethirons-gaze) given to you by Erosius Amaltus Urivortus Alistus Casius Walistoshus.
+-   _Ethiron's Gaze_ \[Quest Talent\] - Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the [Eternal Gale](Second_Layer.md) more clearly now.
+    -   Significantly reduces the fog in the [Second Layer](Second_Layer.md) and during [Snowstorms](Environmental_Hazards.md).  
+        
+    -   Prerequisites: While within the [Second Layer](Second_Layer.md), complete the [quest](Quests.md#ethirons-gaze) given to you by [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)  
+        
+
+-   **Ethiron's Gaze** \[Quest Talent\] - Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the [Eternal Gale](Second_Layer.md) more clearly now.
+    -   Significantly reduces the fog in the [Second Layer](Second_Layer.md) and during [Snowstorms](Environmental_Hazards.md).  
+        
+    -   Prerequisites: While within the [Second Layer](Second_Layer.md), complete the [quest](Quests.md#ethirons-gaze) given to you by [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)  
+        
 
 ### Duelist
 
--   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
-    -   The Stagger status effect makes your opponent take 33% more posture damage.
-    -   Prerequisites: 20 Strength, 15 Fortitude
+-   _Concussion_ \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
+    -   The Stagger status effect makes your opponent take 33% more posture damage.  
+        
+    -   Prerequisites: 20 Strength, 15 Fortitude  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[Debuff\] \[Flourish\]
 
--   Concussive Force \[Common Talent, Strength\] - Enemies you knocked remain downed longer than usual.
-    -   Enemies remain knocked for 15 seconds instead of 10.
-    -   Prerequisite: 15 Strength
-    -   The [Blackleaf Helm](Blackleaf_Helm.md) and [Gladiator Helm](Gladiator_Helm.md) equipment have this Talent.
+-   **Concussion** \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
+    -   The Stagger status effect makes your opponent take 33% more posture damage.  
+        
+    -   Prerequisites: 20 Strength, 15 Fortitude  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[Debuff\] \[Flourish\]
 
--   Precise Swing \[Common Talent, Strength, Agility\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+1 Passive Agility)
+-   **Concussive Force** \[Common Talent\] - Enemies you knocked remain downed longer than usual.
+    -   Enemies remain knocked [Unconscious](Status_Effects.md#unconscious) for 15 seconds instead of 10.  
+        
+    -   Prerequisites: 15 Strength  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Blackleaf Helm](Blackleaf_Helm.md) and [Gladiator Helm](Gladiator_Helm.md)  
+        
+    -   Tags: \[Strength\]
+
+-   **Concussive Force** \[Common Talent\] - Enemies you knocked remain downed longer than usual.
+    -   Enemies remain knocked [Unconscious](Status_Effects.md#unconscious) for 15 seconds instead of 10.  
+        
+    -   Prerequisites: 15 Strength  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Blackleaf Helm](Blackleaf_Helm.md) and [Gladiator Helm](Gladiator_Helm.md)  
+        
+    -   Tags: \[Strength\]
+
+-   **Precise Swing** \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block.
     -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
     -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
         -   If your M1 is whiffed or dodged, the status effect will not be consumed.
     -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
-    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
-    -   Prerequisites: 25 Strength, 15 Agility
-    -   The [Phalanx Helmet](Phalanx_Helmet.md) equipment has this Talent.
+    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 25 Strength, 15 Agility  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Phalanx Helmet](Phalanx_Helmet.md)  
+        
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[Chip Damage\] \[Critical Attack\]
 
--   _Spine Cutter_ \[Rare Talent, Strength, Agility\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+2 Passive Agility)
+-   **Precise Swing** \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block.
+    -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
+    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
+        -   If your M1 is whiffed or dodged, the status effect will not be consumed.
+    -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
+    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 25 Strength, 15 Agility  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Phalanx Helmet](Phalanx_Helmet.md)  
+        
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[Chip Damage\] \[Critical Attack\]
+
+-   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
-    -   The second slash has no PEN.
-    -   The damage isn't actually your weapon's raw damage, it's your weapon's damage without modifiers except halved.
+    -   Deals half of your weapon's scaled damage, withe no PEN.
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
-    -   Prerequisites: 20 Strength, 25 Agility
+    -   Cannot be parried.
+    -   Players with [Turtle Shell](#turtle-shell) or [Arc Module: Guard](#arc-module-guard) active are immune to Spine Cutter.  
+        
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 20 Strength, 25 Agility  
+        
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[M1 Tag\]
 
--   Steady Nerves \[Common Talent, Strength, Agility\] - You dance from toe to toe - successful dodges restore posture. (+2 Passive Agility)
-    -   Restore 2 flat posture on a successful dodge.
-    -   Prerequisites: 15 Strength, 45 Agility.
+-   **Spine Cutter** \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.
+    -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
+    -   Deals half of your weapon's scaled damage, withe no PEN.
+    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
+    -   Cannot be parried.
+    -   Players with [Turtle Shell](#turtle-shell) or [Arc Module: Guard](#arc-module-guard) active are immune to Spine Cutter.  
+        
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 20 Strength, 25 Agility  
+        
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[M1 Tag\]
 
--   Strong Hold \[Common Talent, Strength, Medium Weapon\] - Medium Weapons When above 33% health and two-handing, posture damage taken is reduced by 5%. (+1 Passive Agility)
-    -   Prerequisites: 30 Strength, 30 Medium Weapon
-    -   The [Authority Helm](Authority_Helm.md) and [Grand Authority Sallet](Grand_Authority_Sallet.md) equipment have this Talent.
+-   **Steady Nerves** \[Common Talent\] - You dance from toe to toe - successful dodges restore posture.
+    -   Restores 2 flat posture on a successful dodge.  
+        
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 15 Strength, 45 Agility  
+        
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[Dodge\]
 
--   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#daze) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+5 Carry Load)
-    -   Prerequisites: 15 Strength, 25 Fortitude
-    -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
+-   **Steady Nerves** \[Common Talent\] - You dance from toe to toe - successful dodges restore posture.
+    -   Restores 2 flat posture on a successful dodge.  
+        
+    -   Grants +2 Passive Agility  
+        
+    -   Prerequisites: 15 Strength, 45 Agility  
+        
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[Dodge\]
 
--   _Tap Dancer_ \[Rare Talent, Agility\] - Dodging immediately after a roll-cancel no longer puts your Dodge on a longer cooldown. (+1 Passive Agility)
-    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
-    -   Prerequisite: 60 Agility
+-   **Strong Hold** \[Common Talent\] - Medium Weapons When above 33% health and two-handing, posture damage taken is reduced by 5%.
+    
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 30 Strength, 30 Medium Weapon  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Authority Helm](Authority_Helm.md) and [Grand Authority Sallet](Grand_Authority_Sallet.md)  
+        
+    -   Tags: \[Strength\] \[Medium Weapon\] \[+Passive Agility\] \[Posture Resistance\]
+
+-   **Strong Hold** \[Common Talent\] - \[Medium Weapons\] When above 33% health and two-handing, posture damage taken is reduced by 5%.
+    
+    -   The Medium Weapons condition must be met in order for this Talent to apply.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 30 Strength, 30 Medium Weapon  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Authority Helm](Authority_Helm.md) and [Grand Authority Sallet](Grand_Authority_Sallet.md)  
+        
+    -   Tags: \[Strength\] \[Medium Weapon\] \[+Passive Agility\] \[Posture Resistance\]
+
+-   _Strong Stern_ \[Rare Talent\] - The duration you are [Dazed](Status_Effects.md#daze) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well.
+    
+    -   Grants +5 Carry Load  
+        
+    -   Prerequisites: 15 Strength, 25 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Ignition Trailblazer](Ignition_Trailblazer.md)  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[+Carry Load\]
+
+-   **Strong Stern** \[Rare Talent\] - The duration you are [Dazed](Status_Effects.md#daze) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well.
+    
+    -   Grants +5 Carry Load  
+        
+    -   Prerequisites: 15 Strength, 25 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Ignition Trailblazer](Ignition_Trailblazer.md)  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[+Carry Load\]
+
+-   _Tap Dancer_ \[Rare Talent\] - Dodging immediately after a roll-cancel no longer puts your Dodge on a longer cooldown.
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 60 Agility  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\]
+
+-   **Tap Dancer** \[Rare Talent\] - Dodging immediately after a roll-cancel no longer puts your Dodge on a longer cooldown.
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 60 Agility  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\]
 
 ### Duelist Flame
 
--   Concussive Flash \[Common Talent, Strength, Flamecharm\] - Your blinding light now concusses foes.
-    -   People blinded by Flame Blind are Dazed for 2 seconds.
-    -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 30 Flamecharm, 25 Strength
+-   **Concussive Flash** \[Common Talent\] - Your blinding light now concusses foes.
+    -   People blinded by [Flame Blind](Flamecharm.md#flame-blind) are [Dazed](Status_Effects.md#dazed) for 2 seconds.  
+        
+    -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 30 Flamecharm, 25 Strength  
+        
+    -   Tags: \[Strength\] \[Flamecharm\] \[Debuff\]
+
+-   **Concussive Flash** \[Common Talent\] - Your blinding light now concusses foes.
+    -   People blinded by [Flame Blind](Flamecharm.md#flame-blind) are [Dazed](Status_Effects.md#dazed) for 2 seconds.  
+        
+    -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 30 Flamecharm, 25 Strength  
+        
+    -   Tags: \[Strength\] \[Flamecharm\] \[Debuff\]
 
 ### Elemental Rebound
 
@@ -6773,11 +7098,11 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   **Blood Converence**: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
     
-    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\] \[Temporary Health\]
 
 -   **Blood Converence**: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
     
-    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\] \[Temporary Health\]
 
 -   **Blood Necrosis**: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
     -   You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
@@ -6793,25 +7118,25 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   **Blood Pact**: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
     
-    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\] \[Temporary Health\]
 
 -   **Blood Pact**: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
     
-    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\] \[Temporary Health\]
 
 -   **Blood Plague**: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
     
     -   M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
     -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\] \[Temporary Health\]
 
 -   **Blood Plague**: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
     
     -   M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
     -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\] \[Temporary Health\]
 
 -   **Blood Siphon**: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
     
@@ -6982,14 +7307,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Reduces your dodge cooldown to 0.5s while active. This affects both dodge types.
     -   The duration of this effect can be increased by 0.5s by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Flourish\] \[Speed Boost\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Dodge\] \[Flourish\] \[Speed Boost\]
 
 -   **Dancing Steps Of War**: [Geta](Geta.md) - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
     -   Provides a 35% [Speed Boost](Status_Effects.md#speed-boost).
     -   Reduces your dodge cooldown to 0.5s while active. This affects both dodge types.
     -   The duration of this effect can be increased by 0.5s by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Flourish\] \[Speed Boost\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Dodge\] \[Flourish\] \[Speed Boost\]
 
 -   **Demon Step**: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
     -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your _current_ posture will be dealt to you as self-posture damage.

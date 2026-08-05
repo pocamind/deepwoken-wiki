@@ -21,7 +21,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Neck
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Lodestar Bounty job, Chaser, Scholar of the Crimson Contract, Saramaed Hollow |
+| obtainment | Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Lodestar Bounty job, Chaser, Scholar of the Crimson Contract, Saramaed Hollow |
 | description | A simple golden pendant in the likeness of the Suncross. Revered as a bringer of life and warmth by both Man and Celestial. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Dread Serpent, Interluminary Parasol, War Mode, Artifact Turn-ins |
+| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Dread Serpent, Interluminary Parasol, War Mode, Artifact Turn-ins |
 | description | ... |
 
 Variants: [Sky Warrior Helm](Sky_Warrior_Helm.md)

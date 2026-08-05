@@ -21,7 +21,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold from Etris Weaponry for 16 , Sold by Astra for 16 , Sold at The Floating Keep Blacksmith for 16 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Deep Widow, Dread Serpent, Bounties, Chime of Conflict, Voidsea |
+| obtainment | Sold from Etris Weaponry for 16 , Sold by Astra for 16 , Sold at The Floating Keep Blacksmith for 16 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Saramaed Hollow, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Deep Widow, Dread Serpent, Bounties, Chime of Conflict, Voidsea |
 | description | A dagger that is used more as a pivot for parrying than as a weapon of its own right. |
 
 ## Description

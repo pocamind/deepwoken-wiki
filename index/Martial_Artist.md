@@ -20,7 +20,7 @@ categories: [Expert Outfits, Outfits, Drops, Outfits with Talents, "Outfits with
 | durability | 1200 |
 | resistances | +30% Physical Armor , +20% Elemental Armor , +5% Fire Armor , +5% Ironsing Armor |
 | talents | Bruiser's Mixup |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Diluvian Mechanism (wave 15-50), Saramaed Hollow, The UnderstrandDrops from:, Mudskipper Brute, Mudskipper Broodlord, Fury Nautilodaunt |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Diluvian Mechanism (wave 15-50), Saramaed Hollow, The UnderstrandDrops from:, Mudskipper Brute, Mudskipper Broodlord, Fury Nautilodaunt |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Shirtless) |

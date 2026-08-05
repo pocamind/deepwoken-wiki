@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Dread Serpent, Lodestar Bounty job, Fishing, Elder Primadon |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Dread Serpent, Lodestar Bounty job, Fishing, Elder Primadon |
 | description | ... |
 
 Redsteel Set

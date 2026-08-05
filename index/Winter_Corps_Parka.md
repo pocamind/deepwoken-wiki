@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Parkas, Equipment with Talents, Equipment with Exc
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Crypt of the Unbroken, Faction Ambushes (The Ministry), Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Saramaed Hollow |
+| obtainment | Chests from:, Crypt of the Unbroken, Faction Ambushes (The Ministry), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Saramaed Hollow |
 | description | An essential part of the Authority Winter Corps' kit. Devised to be resilient against the often thorny passages of drakethistle in the Northern Luminant. |
 
 Winter Corps Set

@@ -31,7 +31,7 @@ categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Com
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for 200 , Depths Island Sea Events, Faction Ambushes (The Divers), Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict (Chests), Fishing, Bounties, Saramaed Hollow |
+| obtainment | Sold at Summer Isle for 200 , Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict (Chests), Fishing, Bounties, Saramaed Hollow |
 | description | A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire. |
 
 ## Description
