@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 225513
+revid: 225831
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -179,7 +179,7 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
 -   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
 -   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
 -   Ether: +20% Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
--   Heal: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Candy Suncorn](Candy_Suncorn.md), [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md), [Fruit Salad](Fruit_Salad.md), or [Pumpkin Pie](Pumpkin_Pie.md).
+-   Heal: +30% health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Candy Suncorn](Candy_Suncorn.md), [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md), [Fruit Salad](Fruit_Salad.md), or [Pumpkin Pie](Pumpkin_Pie.md).
 -   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Candy](Candy.md) or [Seafood Boil](Seafood_Boil.md).
 -   Brain: Increases the effectiveness or efficiency of your [Deep Gems](Deep_Gems.md); _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
     -   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
@@ -190,12 +190,12 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
     -   [Might Gem](Might_Gem.md): Posture damage buff increased from +10% to +15%.
     -   [Nocturnal Gem](Nocturnal_Gem.md): Damage is increased from 10 to 15.
     -   [Warped Blue Gem](Warped_Blue_Gem.md): No noticeable difference.
-    -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 3s.
+    -   [Wayward Gem](Wayward_Gem.md): Cooldown is reduced from 8s to 3s.
     -   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration increased from 10s to 15s.
     -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
 -   Scale: Reduces incoming Penetration by 15%; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
--   Throat: Increases your [Taunt](Attunement-less.md#taunt) (Mantra)'s duration by 8 seconds, increases your [Sing's](Attunement-less.md#sing) range, and increases your [Vow Command: Fight](#fight) duration by 7.5 seconds; _"An odd meal that soothes your throat!"_ Applied by consuming the [Dread Filet](Dread_Filet.md).
--   Strength: Increases posture damage by 10%; _"An invigorating meal that strengthens your muscles!"_ Applied by consuming the [Primal Cutlet](Primal_Cutlet.md).
+-   Throat: Increases your [Taunt](Attunement-less.md#taunt) (Mantra)'s duration by 8 seconds and [Vow Command: Fight](#fight) duration by 7.5 seconds; _"An odd meal that soothes your throat!"_ Applied by consuming the [Dread Filet](Dread_Filet.md).
+-   Strength: +10% M1 posture damage; _"An invigorating meal that strengthens your muscles!"_ Applied by consuming the [Primal Cutlet](Primal_Cutlet.md).
 
 ### Potions
 

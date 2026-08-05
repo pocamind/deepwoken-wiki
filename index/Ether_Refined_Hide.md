@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Hide
-revid: 220553
+revid: 225833
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Craftable]
@@ -10,7 +10,7 @@ categories: [Items, Ingredients, Craftable]
 
 | Ether Refined Hide | |
 |---|---|
-| stack | x?? |
+| stack | x1 |
 | type | Ingredient |
 | usage | Crafting material |
 | bankable | No |

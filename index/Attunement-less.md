@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 222514
+revid: 225821
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1161,7 +1161,7 @@ N/A
 
 ### _Charisma Mantras_
 
-Charisma Mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends' to level up charisma. You do not have to read the book near an NPC or player, as you will still gain experience by correctly typing the instructed phrase.
+Charisma Mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on '[How to Make Friends](How_to_Make_Friends.md)' to level up charisma, though keep in mind that you will require the audience of a player or NPC.
 
 | 
 **Name**
@@ -1278,7 +1278,6 @@ N/A
 -   Shares a cooldown with [Glare](Attunement-less.md#glare).
 -   Can be upgraded with the [Encore](Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the [Propagandist](Talents.md#propagandist) Talent, granting your allies [Overcharm](Status_Effects.md) for 15 seconds.
--   Sing gains a noticeable range increase while you have the Throat [Food Buff](Status_Effects.md#food-buff).
 
  |
 | 

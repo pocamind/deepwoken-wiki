@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 212651
+revid: 225827
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -44,10 +44,10 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 
 ### Buffs
 
--   _"A hearty meal that'll empower your melee strikes!"_ The Power buff increases the user's melee damage. (5% M1 damage buff)
+-   _"A hearty meal that'll empower your melee strikes!"_ The Power buff increases the user's melee damage. (5% M1 damage buff, also applies to criticals with the M1 tag)
 -   _"An energising meal that'll empower your mantras!"_ The Enchant buff increases the user's mantra damage. (5% mantra damage buff)
 -   _"A complex meal that'll get you moving!"_ The Speed buff increases your sprinting speed. (5% running speed buff)
--   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (1.2x Ether regeneration)
+-   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (+20% Ether regeneration)
 -   _"A soothing meal to recover your strength!"_ The Heal buff increases the user's health regeneration speed. (+30% health regeneration)
 -   _"A filling meal to keep you fed for longer!"_ The Full buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
 -   _"A strange meat that empowers your Deep Gem knowledge."_ The Brain buff enhances the effect of your [Deep Gems](Deep_Gems.md):
@@ -63,8 +63,8 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
     -   [Wind Gem](Wind_Gem.md): Speed boost duration increased from 10s to 15s.
     -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
 -   _"A heavy meat that hardens your skin!"_ The Scale buff grants 15% PEN reduction.
--   _"An odd meal that soothes your throat!"_ The Throat buff increases your [Taunt](Attunement-less.md#taunt) duration by 8 seconds, your [Command: Fight](Vow_of_Mastery.md) duration by 7.5 seconds, and grants [Sing](Attunement-less.md#sing) a noticeable range increase.
--   _"An invigorating meal that strengthens your muscles!_" The Strength buff grants +10% posture damage.
+-   _"An odd meal that soothes your throat!"_ The Throat buff increases your [Taunt](Attunement-less.md#taunt) duration by 8 seconds, and your [Command: Fight](Vow_of_Mastery.md) duration by 7.5 seconds.
+-   _"An invigorating meal that strengthens your muscles!_" The Strength buff grants a posture damage buff. (+10% M1 posture damage, also applies to criticals with the M1 tag)
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 
