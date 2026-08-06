@@ -1,6 +1,6 @@
 ---
 title: Etrean Sashimono
-revid: 222808
+revid: 225908
 source: https://deepwoken.fandom.com/wiki/Etrean_Sashimono
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Equipment with Exclusive Talents, Equipment with Talents, Equipment of Etrea]
@@ -13,6 +13,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Equi
 | type | Torso |
 | rarity | Legendary |
 | selling price | 50 |
+| requirements | Power 12 |
 | weight | 0.5 |
 | styles | Anaconda, Cobra, Forbidden, Joy, Mamba, Peace, Pride, Psammophis, Royal |
 | innate stats | +3% Wind Armor , +1 Rare Pip , +1 Legendary Pip |

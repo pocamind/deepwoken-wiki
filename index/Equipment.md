@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 225574
+revid: 225909
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -1371,7 +1371,8 @@ Torso: [Brilliant Cape](Brilliant_Cape.md)
 +1 Legendary Pip  
 _+Talent: [**Rotten Regeneration**](Talents.md#rotten-regeneration)_  
 _+Set Talent: [**Ardour Scream**](Talents.md#ardour-scream)_  
-_+Set Talent: [**Second Nature**](Talents.md#second-nature)_
+_+Set Talent: [**Second Nature**](Talents.md#second-nature)_  
+**Requires Power 10**
 
  | Styles:  
 Cestus, No Cestus
@@ -2977,7 +2978,8 @@ Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
 (**Legendary**) | +1 Rare Pip  
 +1 Legendary Pip
 
-_+Talent: [**Traditional Execution**](Talents.md#traditional-execution)_
+_+Talent: [**Traditional Execution**](Talents.md#traditional-execution)_  
+**Requires Power 12**
 
  | Styles:  
 Anaconda, Cobra, Forbidden, Joy, Mamba, Peace, Pride, Psammophis & Royal |
@@ -3892,8 +3894,10 @@ Cannot deal more than 70% of a player's maximum health in one sheathe.
 +1 Common Pip |
 |  | [Transfusion Ring](Transfusion_Ring.md) | Gain extra vitality at the cost of your ability to heal (receive 50% less healing).
 
+  
 _+20 Health_  
-+1 Uncommon Pip
++1 Uncommon Pip  
+**Requires Power 5**
 
  |
 |  | [Waning Ring](Waning_Ring.md)  

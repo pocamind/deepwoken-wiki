@@ -1,6 +1,6 @@
 ---
 title: Crimson Terrapod Shell
-revid: 213150
+revid: 225906
 source: https://deepwoken.fandom.com/wiki/Crimson_Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -19,7 +19,7 @@ categories: [Items, Drops, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A shell fragment of the rare Crimson Terrapod. |
-| obtainment | Crimson Terrapod (direct drop), Sold in Traan Zakshun's black market for 10 |
+| obtainment | Crimson Terrapod (direct drop), Sold in Traan Zakshun's black market for 10 , Scion of Ethiron (Chest) |
 
 ## Description
 

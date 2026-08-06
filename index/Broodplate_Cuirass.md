@@ -1,6 +1,6 @@
 ---
 title: Broodplate Cuirass
-revid: 225572
+revid: 225905
 source: https://deepwoken.fandom.com/wiki/Broodplate_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -12,7 +12,8 @@ categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Craftable, Equip
 |---|---|
 | type | Arms |
 | rarity | Common |
-| selling price | 7 |
+| selling price | N/A |
+| requirements | LVL 10 |
 | weight | 2 |
 | styles | Cestus, No Cestus |
 | innate stats | +2 Posture , +1 Rare Pip , +1 Legendary Pip |

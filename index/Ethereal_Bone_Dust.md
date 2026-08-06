@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 219152
+revid: 225907
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 |---|---|
 | value | N/A |
 | weight | 0 |
-| stack | x1 |
+| stack | x4? (unknown) |
 | type | Ingredient |
 | rarity | Unique |
 | bankable | Yes |

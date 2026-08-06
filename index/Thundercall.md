@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 225897
+revid: 225902
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -479,7 +479,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a windup of 0.65 seconds.
 -   11 second cooldown.
--   Can be modified with Perfect/Crystal Lens to make you move slightly forward right before the kick happens
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make you move slightly forward right before the kick happens
 -   Press F immediately after the initial kick lands to follow it up with a second less potent kick that teleports you to the target.
     -   The second kick deals 35% of the initial kick's damage.
     -   Doesn't work if the initial kick guardbroke the target.
