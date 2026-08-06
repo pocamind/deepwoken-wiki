@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 221166
+revid: 225898
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -80,6 +80,8 @@ This Cantrip hides all visual tears the player's [Outfit](Outfits.md) gains when
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 
 ## Mantras
+
+  
 
 ### Combat Mantras
 
@@ -988,7 +990,7 @@ N/A
 
  |
 
-## **Talents**
+## Talents
 
 Below is a list of all Ironsing exclusive Talents. Hybrid Talents are listed [here](Hybrid_Abilities.md).
 
@@ -1109,8 +1111,8 @@ These are Talents found in "_Scrapsinger_" Category.
 -   Ironsing is one of two Attunements that does not have a [Hero Blade](Hero_Blades.md), with the only other being [Bloodrend](Bloodrend.md).
 -   **Alloyblood** turns your [Bloodrend](Bloodrend.md) mantras blue-ish grey.
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an Oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
-    -   Gold gives a 5% damage buff and a gold particle effect. DMG buff applies only to m1, not to any of mantras (Lasts 25 sec)
-    -   Using Irithine gives a green particle effect. Effects unknown.
+    -   Using [Gold](Ores.md#gold) gives a 5% damage buff to M1s and a gold particle effect for 25 seconds.
+    -   Using [Irithine](Ores.md#irithine) gives a green particle effect. Effects unknown.
 -   Similarly to every other Wisp Mantra, **Metal Wisp** gives the player a finger on the hand that casts the Mantra.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
 -   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.

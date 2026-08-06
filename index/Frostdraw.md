@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 221164
+revid: 225896
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -69,6 +69,8 @@ Purifiable water sources include:
 -   [The Garden Reservoir](The_Garden_Reservoir.md) acid water
 
 ## Mantras
+
+  
 
 ### Combat Mantras
 
@@ -1369,7 +1371,7 @@ These Talents are found in the _Ice Age_ category.
 -   Frostdraw has the most Mantras out of all attunements in the game.
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
--   Prior to the January 12th, 2024 update, Glass Path: Crystallization didn't recolor your Frostdraw and the Crystals themselves were also blue.
+-   Prior to the [January 12th, 2024](Version_History/2024.md#january-12th-2024), Glass Path: Crystallization didn't recolor your Frostdraw and the Crystals themselves were also blue.
 -   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
 -   Saint Jay and Frostbite are less effective with Glass Path: Crystallization, as they are only applied for 2 seconds after a Crystal is applied.
 -   Frozen Legs applies on all ice Mantras and has a fixed duration that can't be increased.

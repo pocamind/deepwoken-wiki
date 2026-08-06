@@ -16,7 +16,7 @@ categories: [Food]
 | food type | Plant |
 | stomach | 20% |
 | water | 20% |
-| buff | Heal (+17.5% health regeneration) |
+| buff | Heal (+30% health regeneration) |
 | buff strength | 10% |
 | bankable | Yes |
 | droppable | Yes |

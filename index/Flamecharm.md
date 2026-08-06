@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 215108
+revid: 225895
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -61,6 +61,8 @@ This Cantrip allows the player to light [Campfires](Campfire_Pit.md) without [Fl
 This Cantrip is shared with [Thundercall](Thundercall.md), though the sound effect differs based on the Attunement.
 
 ## Mantras
+
+  
 
 ### Combat Mantras
 
@@ -1097,7 +1099,7 @@ N/A
 
  |
 
-## **Talents**
+## Talents
 
 Below is a list of all Flamecharm exclusive talents and its Paths. Hybrid talents are listed [here](Hybrid_Abilities.md#flamecharm).
 
@@ -1343,16 +1345,16 @@ Steam clouds deal 2 typeless damage per tick in an AoE, at a rate of 6 ticks per
 
 ## Trivia
 
--   All Burn types deal Flamecharm damage.
-    -   Base burn has a base damage of 3.33 per tick with 5 Flamecharm scaling, ticking 2.4 times per second. This gives base burn a DPS of 8 at 0 Flamecharm and a DPS of 12 at 100 Flamecharm.
-    -   Azure Flames burn deals 12.5% more damage than base burn with the same tick rate and scaling. This means Azure Flames burn has a DPS of 9 at 0 Flamecharm and 13.5 at 100 Flamecharm.
-    -   **White Flames** from [Corrupt Shard Bow](Shard_Bow.md) or [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) has differing stats from base burn, with 3.21 base damage per tick and 5 Flamecharm scaling, at a rate of 3 ticks per second. This gives **White Flames** a DPS of 9.6 at 0 Flamecharm and a DPS of 14.4 at 100 Flamecharm.
+-   All [Burn](Status_Effects.md#burn) types deal Flamecharm damage.
+    -   Base burn has a base damage of 3.33 per tick with 5 Flamecharm scaling, ticking 2.4 times per second. This gives base [burn](Status_Effects.md#burn) a DPS of 8 at 0 Flamecharm and a DPS of 12 at 100 Flamecharm.
+    -   [Azure Flames burn](Status_Effects.md#azure-burning) deals 12.5% more damage than base [burn](Status_Effects.md#burn) with the same tick rate and scaling. This means [Azure Flames burn](Status_Effects.md#azure-burning) has a DPS of 9 at 0 Flamecharm and 13.5 at 100 Flamecharm.
+    -   **White Flames** from [Corrupt Shard Bow](Shard_Bow.md) or [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) has differing stats from base [burn](Status_Effects.md#burn), with 3.21 base damage per tick and 5 Flamecharm scaling, at a rate of 3 ticks per second. This gives **White Flames** a DPS of 9.6 at 0 Flamecharm and a DPS of 14.4 at 100 Flamecharm.
         -   **White Flames** or [Deepfire Ring](Deepfire_Ring.md) + Azure Flames has a DPS of 10.8 at 0 Flamecharm and 16.25 at 100 Flamecharm.
-        -   [Deepfire Ring](Deepfire_Ring.md) applies the same upsides and downsides that **White Flames** has to all other burn types, lowering burn's base damage but increasing the tick rate. The DPS from **White Flames** and Deepfire Ring is identical, though Deepfire Ring **does not** affect **White Flames**. Deepfire Ring is seen as a direct upgrade due to the higher DPS.
-    -   Puppet Burn from Twisted Puppets deals 87.5% less damage than base burn with the same tick rate and scaling. This gives Puppet Burn a DPS of 1 at 0 Flamecharm and 1.5 at 100 Flamecharm. Additionally, this burn type drains 6.25 Ether per tick (15 Ether per second) from affected targets and spawns Puppets every 4 seconds.
-    -   Shadow Burn from Twisted Puppets deals 75% less damage than base burn with the same tick rate and scaling. This gives Shadow Burn a DPS of 2 at 0 Flamecharm and 3 at 100 Flamecharm. Additionally, this burn type drains 6.25 Ether per tick (15 Ether per second) from affected targets.
--   Burn didn't always scale on your Flamecharm investment, nor was it always affected by Flamecharm resistance. This was added in the October 31st, 2024 update.
--   Burn benefits from **general** PEN, such as PEN from [Strength](Attributes.md#str) or [Thresher Claws](Talents.md#thresher-claws).
+        -   [Deepfire Ring](Deepfire_Ring.md) applies the same upsides and downsides that **White Flames** has to all other [burn](Status_Effects.md#burn) types, lowering [burn](Status_Effects.md#burn)'s base damage but increasing the tick rate. The DPS from **White Flames** and Deepfire Ring is identical, though Deepfire Ring **does not** affect **White Flames**. Deepfire Ring is seen as a direct upgrade due to the higher DPS.
+    -   [Puppet Burn](Status_Effects.md#puppet-burn) from Twisted Puppets deals 87.5% less damage than base burn with the same tick rate and scaling. This gives [Puppet Burn](Status_Effects.md#puppet-burn) a DPS of 1 at 0 Flamecharm and 1.5 at 100 Flamecharm. Additionally, this [burn](Status_Effects.md#black-flames) type drains 6.25 Ether per tick (15 Ether per second) from affected targets and spawns Puppets every 4 seconds.
+    -   [Shadow Burn](Status_Effects.md#shadow-burn) from Twisted Puppets deals 75% less damage than base burn with the same tick rate and scaling. This gives [Shadow Burn](Status_Effects.md#shadow-burn) a DPS of 2 at 0 Flamecharm and 3 at 100 Flamecharm. Additionally, this [burn](Status_Effects.md#shadow-burn) type drains 6.25 Ether per tick (15 Ether per second) from affected targets.
+-   [Burn](Status_Effects.md#burn) didn't always scale on your Flamecharm investment, nor was it always affected by Flamecharm resistance. This was added in the [October 31st, 2024](Version_History/2024.md#october-31st-2024) update.
+-   [Burn](Status_Effects.md#burn) benefits from **general** PEN, such as PEN from [Strength](Attributes.md#str) or from having an [Oath](Oaths.md).
 -   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move.
 -   All Flamecharm Mantras deal 10% reduced damage in the rain, unless the user has the _Unyielding Inferno_ Talent.
     -   This also applies to the [First Light](First_Light.md) Critical and Twisted Puppets' Puppets.

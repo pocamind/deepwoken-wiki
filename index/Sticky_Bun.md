@@ -16,7 +16,7 @@ categories: [Food]
 | food type | Generic |
 | stomach | 25% |
 | water | -5% |
-| buff | Ether (Increased Ether regeneration) |
+| buff | Ether (+20% Ether regeneration) |
 | buff strength | 30% |
 | bankable | Yes |
 | droppable | Yes |

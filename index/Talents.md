@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225812
+revid: 225879
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3821,84 +3821,235 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Elemental Rebound
 
--   Charged Return \[Common Talent, Strength, Willpower\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, Fatigued Swings (from Mocking Favor), and Suffocation.
-        -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
-    -   Prerequisites: 20 Willpower, 15 Strength
+-   **Charged Return** \[Common Talent\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
+    -   Procs on: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Fear the Dark](Status_Effects.md#fear-the-dark) (from the [Fear the Dark](#fear-the-dark) and [Night Terror](#night-terror) Talents), [Winded](Status_Effects.md#winded), [Fatigued Swings](Status_Effects.md#mocking-favor) (from [Mocking Favor](#mocking-favor)), and [Suffocation](Status_Effects.md#suffocation).
+        -   Also procs if the aforementioned status effects are self-applied, like using [Flame Within](#flame-within) or [Agitating Spark](#agitating-spark) to self apply Burn.  
+            
+    -   Prerequisites: 20 Willpower, 15 Strength  
+        
+    -   Tags: \[Strength\] \[Willpower\] \[Damage Buff\]
 
--   Nullifying Clarity \[Common Talent, Strength, Intelligence\] - Deal 10% more damage to enemies with elemental status effects, but remove the status on hit.
-    -   Procs if you land an M1 on a target who is affected by any of the following status effects: Burn, Chill, Shock, Winded, Suffocation, and Fear (from Fear the Dark and Night Terror).
-    -   Does not work with Critical Attacks.
-    -   Prerequisites: 15 Strength, 5 Intelligence
+-   **Charged Return** \[Common Talent\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
+    -   Procs on: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Fear the Dark](Status_Effects.md#fear-the-dark) (from the [Fear the Dark](#fear-the-dark) and [Night Terror](#night-terror) Talents), [Winded](Status_Effects.md#winded), [Fatigued Swings](Status_Effects.md#mocking-favor) (from [Mocking Favor](#mocking-favor)), and [Suffocation](Status_Effects.md#suffocation).
+        -   Also procs if the aforementioned status effects are self-applied, like using [Flame Within](#flame-within) or [Agitating Spark](#agitating-spark) to self apply Burn.  
+            
+    -   Prerequisites: 20 Willpower, 15 Strength  
+        
+    -   Tags: \[Strength\] \[Willpower\] \[Damage Buff\]
+
+-   **Nullifying Clarity** \[Common Talent\] - Deal 10% more damage to enemies with elemental status effects, but remove the status on hit.
+    -   Procs if you land an M1 on a target who is affected by any of the following status effects: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Winded](Status_Effects.md#winded), [Suffocation](Status_Effects.md#suffocation), and [Fear the Dark](Status_Effects.md#fear-the-dark) (from [Fear the Dark](#fear-the-dark) and [Night Terror](#night-terror)).
+    -   Applied before [Immolation](#immolation) in proc order, allowing you to reapply your burn on the same hit.
+    -   Applies Burn Imminity when extinguishing burn.
+    -   Does not work with Critical Attacks.  
+        
+    -   Prerequisites: 15 Strength, 5 Intelligence  
+        
+    -   Tags: \[Strength\] \[Intelligence\] \[Damage Buff\]
+
+-   **Nullifying Clarity** \[Common Talent\] - Deal 10% more damage to enemies with elemental status effects, but remove the status on hit.
+    -   Procs if you land an M1 on a target who is affected by any of the following status effects: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Winded](Status_Effects.md#winded), [Suffocation](Status_Effects.md#suffocation), and [Fear the Dark](Status_Effects.md#fear-the-dark) (from [Fear the Dark](#fear-the-dark) and [Night Terror](#night-terror)).
+    -   Applied before [Immolation](#immolation) in proc order, allowing you to reapply your burn on the same hit.
+    -   Applies Burn Imminity when extinguishing burn.
+    -   Does not work with Critical Attacks.  
+        
+    -   Prerequisites: 15 Strength, 5 Intelligence  
+        
+    -   Tags: \[Strength\] \[Intelligence\] \[Damage Buff\]
 
 ### Empath
 
--   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a [Charm](Status_Effects.md#b) opponent procs Taunt for 5s, making them take and deal more damage.
+-   **Cornered Fool** \[Common Talent\] - Blockbreaking a [Charmed](Status_Effects.md#charm) opponent procs [Taunt](Status_Effects.md#taunt) for 5s, making them take and deal more damage.
     -   15 second cooldown.
-    -   Despite what the description states, this applies Taunt for 6 seconds.
+    -   Despite what the description states, this applies [Taunt](Status_Effects.md#taunt) for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
     -   The Taunt damage buff is also applied to the attack that guard broke.
-    -   This Talent will still function as normal if you no longer have the Taunt Mantra.
-    -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
+    -   This Talent will still function as normal if you no longer have the Taunt Mantra.  
+        
+    -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+        
+    -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Scale-down\]
 
--   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
+-   **Cornered Fool** \[Common Talent\] - Blockbreaking a [Charmed](Status_Effects.md#charm) opponent procs [Taunt](Status_Effects.md#taunt) for 5s, making them take and deal more damage.
+    -   15 second cooldown.
+    -   Despite what the description states, this applies [Taunt](Status_Effects.md#taunt) for 6 seconds.
+    -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
+    -   The Taunt damage buff is also applied to the attack that guard broke.
+    -   This Talent will still function as normal if you no longer have the Taunt Mantra.  
+        
+    -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+        
+    -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Scale-down\]
+
+-   **Give and Take** \[Common Talent\] - Deal less damage to comrades and receive less damage from comrades.
     -   Take 20% less damage from allies and deal 20% less damage to allies. This does not apply to self damage.
-        -   The Canor Aspect's innate Talent has a similar effect and they can stack, totaling to 48% damage reduction.
-    -   Guildmates, your Roblox friends, people who are in a Vow of Mastery, or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
-    -   Prerequisites: 35 Charisma
-    -   The [Investigator's Hat](<Investigator's_Hat.md>) and [Tophat](Tophat.md) equipment have this Talent.
+        -   The [Canor](Canor.md) Aspect's innate Talent, [Loyalty](#loyalty), has a similar effect and they can stack, totaling to 48% damage reduction.
+    -   [Guildmates](Guilds.md), your Roblox friends, people who are in a [Vow of Mastery](Vow_of_Mastery.md), or people who are in a [Vow of Allegiance](Combat_Mechanics.md#alliances) with you take less damage from you and deal less damage to you.  
+        
+    -   Prerequisites: 35 Charisma  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Investigator's Hat](<Investigator's_Hat.md>) [Tophat](Tophat.md)  
+        
+    -   Tags: \[Charisma\] \[Damage Resistance\] \[Support\]
 
--   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
-    -   Prerequisites: 90 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
+-   **Give and Take** \[Common Talent\] - Deal less damage to comrades and receive less damage from comrades.
+    -   Take 20% less damage from allies and deal 20% less damage to allies. This does not apply to self damage.
+        -   The [Canor](Canor.md) Aspect's innate Talent, [Loyalty](#loyalty), has a similar effect and they can stack, totaling to 48% damage reduction.
+    -   [Guildmates](Guilds.md), your Roblox friends, people who are in a [Vow of Mastery](Vow_of_Mastery.md), or people who are in a [Vow of Allegiance](Combat_Mechanics.md#alliances) with you take less damage from you and deal less damage to you.  
+        
+    -   Prerequisites: 35 Charisma  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Investigator's Hat](<Investigator's_Hat.md>) [Tophat](Tophat.md)  
+        
+    -   Tags: \[Charisma\] \[Damage Resistance\] \[Support\]
+
+-   **Off Your Game** \[Common Talent\] - You now slow Taunted enemies when you hit them.
+    
+    -   Prerequisites: 90 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+        
+    -   Tags: \[Charisma\] \[Debuff\] \[Slow\]
+
+-   **Off Your Game** \[Common Talent\] - You now slow Taunted enemies when you hit them.
+    
+    -   Prerequisites: 90 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+        
+    -   Tags: \[Charisma\] \[Debuff\] \[Slow\]
 
 ### Escape Artist
 
--   Robber Baron \[Common Talent\] - You hold onto more items when defeated.
+-   **Robber Baron** \[Common Talent\] - You hold onto more items when defeated.
     -   Item loss on death is reduced from 50% to 25%.
-    -   You no longer lose notes from dying.
-    -   Prerequisites: None
-    -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) equipment have this Talent.
+    -   You no longer lose Notes from dying.  
+        
+    -   Prerequisites: None  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)  
+        
+
+-   **Robber Baron** \[Common Talent\] - You hold onto more items when defeated.
+    -   Item loss on death is reduced from 50% to 25%.
+    -   You no longer lose Notes from dying.  
+        
+    -   Prerequisites: None  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)  
+        
 
 ### Ether Conduit
 
--   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras.
-    -   Prerequisite: 15 Intelligence
+-   **Ether Absorption** \[Common Talent\] - Receive Ether back when inflicted with damage from Mantras.
+    
+    -   Prerequisites: 15 Intelligence  
+        
+    -   Tags: \[Intelligence\]
 
--   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#inspired) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspired).
+-   **Ether Absorption** \[Common Talent\] - Receive Ether back when inflicted with damage from Mantras.
+    
+    -   Prerequisites: 15 Intelligence  
+        
+    -   Tags: \[Intelligence\]
+
+-   _Eureka_ \[Rare Talent\] - Gain a stack of [Inspiration](Status_Effects.md#inspired) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspired).
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
     -   You do not gain additional stacks from multi-hits or autoparry frames.
     -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
-    -   Prerequisite: 30 Intelligence
-    -   This Talent was merged with the old Ether Conduit Talent.
-    -   The [Ministry Operative Cloak](Ministry_Operative_Cloak.md) equipment has this Talent.
+    -   This Talent was merged with the old "[Ether Conduit](Cut_Content.md#ether-conduit)" Talent.  
+        
+    -   Prerequisites: 30 Intelligence  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Ministry Operative Cloak](Ministry_Operative_Cloak.md)  
+        
+    -   Tags: \[Intelligence\] \[Damage Buff\]
 
--   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] refunds the cost of the mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Prerequisite: 20 Intelligence
+-   **Eureka** \[Rare Talent\] - Gain a stack of [Inspiration](Status_Effects.md#inspired) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspired).
+    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
+        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
+        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
+    -   You do not gain additional stacks from multi-hits or autoparry frames.
+    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
+    -   This Talent was merged with the old "[Ether Conduit](Cut_Content.md#ether-conduit)" Talent.  
+        
+    -   Prerequisites: 30 Intelligence  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Ministry Operative Cloak](Ministry_Operative_Cloak.md)  
+        
+    -   Tags: \[Intelligence\] \[Damage Buff\]
+
+-   **Mantra Permanence** \[Common Talent\] - Knocking an enemy with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] refunds the cost of the mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    -   Prerequisites: 20 Intelligence  
+        
+    -   Tags: \[Intelligence\]
+
+-   **Mantra Permanence** \[Common Talent\] - Knocking an enemy with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] refunds the cost of the mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    -   Prerequisites: 20 Intelligence  
+        
+    -   Tags: \[Intelligence\]
 
 ### Ether Endeavors
 
--   Keen Recovery \[Common Talent, Intelligence\] - Landing a basic attack after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will restore the feinted mantra's \[_[sic](https://en.wikipedia.org/wiki/sic)_\] ether cost.
-    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.
-    -   Does not proc if your basic attack is blocked, parried, or dodged.
-    -   Prerequisites: 55 Intelligence
+-   **Keen Recovery** \[Common Talent\] - Landing a basic attack after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will restore the feinted mantra's \[_[sic](https://en.wikipedia.org/wiki/sic)_\] ether cost.
+    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.  
+        
+    -   Prerequisites: 55 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[Scale-down\]
 
--   Behind You \[Common Talent, Agility, Intelligence\] - Landing a basic attack behind your enemy after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will apply an ether slash, dealing extra damage based on how much ether you have left.
-    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 30 damage when at full Ether.
-    -   Unlike Spine Cutter, this has no cooldown.
-    -   You can proc Behind you and Spine Cutter at the same time, but the proc window is very tight.
-    -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence
+-   **Keen Recovery** \[Common Talent\] - Landing a basic attack after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will restore the feinted mantra's \[_[sic](https://en.wikipedia.org/wiki/sic)_\] ether cost.
+    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.  
+        
+    -   Prerequisites: 55 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[Scale-down\]
 
--   Unwavering Focus \[Common Talent, Strength, Intelligence\] - When your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are parried, receive less posture (scales with intelligence).
-    -   Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.
-    -   Prerequisites: 60 Intelligence, 10 Strength
+-   **Behind You** \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will apply an ether slash, dealing extra damage based on how much ether you have left.
+    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 30 damage when at full Ether. This has no cooldown.
+    -   You can proc Behind you and [Spine Cutter](#spine-cutter) at the same time, but the proc window is very tight.  
+        
+    -   Prerequisites: [Keen Recovery](#keen-recovery), 40 Agility, 70 Intelligence  
+        
+    -   Tags: \[Agility\] \[Intelligence\]
+
+-   **Behind You** \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will apply an ether slash, dealing extra damage based on how much ether you have left.
+    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 30 damage when at full Ether. This has no cooldown.
+    -   You can proc Behind you and [Spine Cutter](#spine-cutter) at the same time, but the proc window is very tight.  
+        
+    -   Prerequisites: [Keen Recovery](#keen-recovery), 40 Agility, 70 Intelligence  
+        
+    -   Tags: \[Agility\] \[Intelligence\]
+
+-   **Unwavering Focus** \[Common Talent\] - When your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are parried, receive less posture (scales with intelligence).
+    -   Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.  
+        
+    -   Prerequisites: 60 Intelligence, 10 Strength  
+        
+    -   Tags: \[Strength\] \[Intelligence\] \[Investment Scaling\] \[Posture Resistance\] \[Scale-down\]
+
+-   **Unwavering Focus** \[Common Talent\] - When your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are parried, receive less posture (scales with intelligence).
+    -   Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.  
+        
+    -   Prerequisites: 60 Intelligence, 10 Strength  
+        
+    -   Tags: \[Strength\] \[Intelligence\] \[Investment Scaling\] \[Posture Resistance\] \[Scale-down\]
 
 ### Evil Endeavors
 
--   Reverse Leech \[Common Talent, Shadowast\] - Anytime you proc Behind You, steal ether from your opponent too.
-    -   Behind You is procced by landing a basic attack behind your enemy after feinting a Mantra.
-    -   Prerequisites: 60 Shadowcast, Behind You
+-   **Reverse Leech** \[Common Talent\] - Anytime you proc [Behind You](#behind-you), steal ether from your opponent too.
+    -   [Behind You](#behind-you) is procced by landing a basic attack behind your enemy after feinting a Mantra.  
+        
+    -   Prerequisites: 60 Shadowcast, [Behind You](#behind-you)  
+        
+    -   Tags: \[Agility\] \[Intelligence\] \[Shadowcast\]
+
+-   **Reverse Leech** \[Common Talent\] - Anytime you proc [Behind You](#behind-you), steal ether from your opponent too.
+    -   [Behind You](#behind-you) is procced by landing a basic attack behind your enemy after feinting a Mantra.  
+        
+    -   Prerequisites: 60 Shadowcast, [Behind You](#behind-you)  
+        
+    -   Tags: \[Agility\] \[Intelligence\] \[Shadowcast\]
 
 ### Fadetrimmer
 
@@ -7376,30 +7527,87 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\]
 
--   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes and provides [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
+-   **Elegy of Light**: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The [Unspoken Vow](Glossary.md#vows) of [the Waking God](Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](Deep_Gems.md) for 3 minutes and provides [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
-    -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
+    -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Enforcer's Strength: [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md) & [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) - Your enemies recover 20% less posture on parry.
+-   **Elegy of Light**: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The [Unspoken Vow](Glossary.md#vows) of [the Waking God](Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](Deep_Gems.md) for 3 minutes and provides [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
+    -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
+    -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
+    -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Enforcer's Strength**: [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md) & [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) - Your enemies recover 20% less posture on parry.
     
-    -   Enemies recover 20% less posture when they parry your attacks.
+    -   Enemies recover 20% less posture when they parry your attacks.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Enforcer's Technique: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
-
--   Ether Adeptness: [Ether Empowered Earrings](Ether_Empowered_Earrings.md) & [Caster Earrings](Caster_Earrings.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra chip.
+-   **Enforcer's Strength**: [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md) & [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) - Your enemies recover 20% less posture on parry.
     
-    -   Grants 5% Mantra chip.
+    -   Enemies recover 20% less posture when they parry your attacks.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Ether Emergency: [Bluestone Pauldrons](Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
-    -   Instantly restores 15% of your maximum Ether as flat health at the cost of all of your Ether and the inability to cast Mantras for a short duration.
-
--   Ether Pinpoint: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
-    -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
-
--   Ether Tension: [Ether Imbued Earrings](Ether_Imbued_Earrings.md) & [Expert Practitioner's Earrings](<Expert_Practitioner's_Earrings.md>) - Deal bonus true damage whenever you guardbreak an opponent with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Enforcer's Technique**: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
     
-    -   Deals 10 true damage.
+    -   Does not work on [Execution](#execution)'s offhand shots.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Buff\] \[Flourish\]
+
+-   **Enforcer's Technique**: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
+    
+    -   Does not work on [Execution](#execution)'s offhand shots.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Buff\] \[Flourish\]
+
+-   **Ether Adeptness**: [Ether Empowered Earrings](Ether_Empowered_Earrings.md) & [Caster Earrings](Caster_Earrings.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra chip.
+    
+    -   Grants 5% Mantra chip.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Chip Damage\]
+
+-   **Ether Adeptness**: [Ether Empowered Earrings](Ether_Empowered_Earrings.md) & [Caster Earrings](Caster_Earrings.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra chip.
+    
+    -   Grants 5% Mantra chip.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Chip Damage\]
+
+-   **Ether Emergency**: [Bluestone Pauldrons](Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
+    -   Instantly restores 15% of your maximum Ether as flat health at the cost of all of your Ether and the inability to cast Mantras for a short duration.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
+
+-   **Ether Emergency**: [Bluestone Pauldrons](Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
+    -   Instantly restores 15% of your maximum Ether as flat health at the cost of all of your Ether and the inability to cast Mantras for a short duration.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Sustain\]
+
+-   **Ether Pinpoint**: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
+    -   Acts similarly to [Shield Breaker](#shield-breaker), though this does not require the Mantra to deal blunt damage.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Ether Pinpoint**: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
+    -   Acts similarly to [Shield Breaker](#shield-breaker), though this does not require the Mantra to deal blunt damage.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Ether Tension**: [Ether Imbued Earrings](Ether_Imbued_Earrings.md) & [Expert Practitioner's Earrings](<Expert_Practitioner's_Earrings.md>) - Deal bonus true damage whenever you guardbreak an opponent with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    -   Deals 10 true damage.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Guardbreak\]
+
+-   **Ether Tension**: [Ether Imbued Earrings](Ether_Imbued_Earrings.md) & [Expert Practitioner's Earrings](<Expert_Practitioner's_Earrings.md>) - Deal bonus true damage whenever you guardbreak an opponent with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    -   Deals 10 true damage.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Guardbreak\]
 
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
     -   Adds a +20% damage modifier to your [Strength Mantras](Attunement-less.md#strength-mantras), should they guardbreak while you have a [Wrath Gem](Wrath_Gem.md) equipped onto them.

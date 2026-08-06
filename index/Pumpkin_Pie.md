@@ -16,7 +16,7 @@ categories: [Food]
 | food type | Generic |
 | stomach | 50% |
 | water | 20% |
-| buff | Heal (+17.5% health regeneration) |
+| buff | Heal (+30% health regeneration) |
 | buff strength | 35% |
 | bankable | Yes |
 | droppable | Yes |

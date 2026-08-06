@@ -16,7 +16,7 @@ categories: [Food]
 | food type | Meat |
 | stomach | 40% |
 | water | 16% |
-| buff | Throat (Buffs Sing, Taunt, and Command: Fight) |
+| buff | Throat (Increases Taunt and Command: Fight duration) |
 | buff strength | 15% |
 | bankable | Yes |
 | droppable | Yes |
@@ -33,7 +33,7 @@ It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons
 
 When consumed, it replenishes 40% Stomach and 16% Water.  
   
-Additionally, it grants the Throat buff, affecting 15% of the Stomach bar. The buff increases [Taunt](Attunement-less.md#taunt)'s duration by 8 seconds, [Command: Fight](Vow_of_Mastery.md)'s duration by 7.5 seconds, and grants [Sing](Attunement-less.md#sing) a noticeable range increase.
+Additionally, it grants the Throat buff, affecting 15% of the Stomach bar. The buff increases [Taunt](Attunement-less.md#taunt)'s duration by 8 seconds and [Command: Fight](Vow_of_Mastery.md)'s duration by 7.5 seconds.
 
 ## Crafting
 

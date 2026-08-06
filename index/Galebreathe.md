@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 223395
+revid: 225893
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -61,6 +61,8 @@ This Cantrip allows the player to harvest multiple of the same ingredient at onc
 This does not work on [Ores](Ores.md).
 
 ## Mantras
+
+  
 
 ### Combat Mantras
 

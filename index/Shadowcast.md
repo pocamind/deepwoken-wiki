@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 223226
+revid: 225899
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -55,6 +55,8 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 This Cantrip increases the brightness in dark locations, allowing the player to see better in low-light environments.
 
 ## Mantras
+
+  
 
 ### Combat Mantras
 

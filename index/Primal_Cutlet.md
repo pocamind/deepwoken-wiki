@@ -16,7 +16,7 @@ categories: [Food]
 | food type | Meat |
 | stomach | 50% |
 | water | 20% |
-| buff | Strength (Increases posture damage by 10%) |
+| buff | Strength (+10% M1 posture damage) |
 | buff strength | 15% |
 | bankable | Yes |
 | droppable | Yes |
@@ -33,7 +33,7 @@ It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons
 
 When consumed, it replenishes 50% Stomach and 20% Water.  
   
-Additionally, it grants the Strength buff, affecting 15% of the Stomach bar. The buff increases posture damage by 10%.
+Additionally, it grants the Strength buff, affecting 15% of the Stomach bar. The buff increases M1 posture damage by 10%.
 
 ## Crafting
 

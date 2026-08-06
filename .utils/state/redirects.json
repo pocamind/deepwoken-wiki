@@ -4689,6 +4689,9 @@
   "Talent": {
     "to": "Talents"
   },
+  "Talents/Vow of Iron": {
+    "to": "Talents"
+  },
   "Tarnished": {
     "to": "Boons and Flaws",
     "fragment": "Flaws"

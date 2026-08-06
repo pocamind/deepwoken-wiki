@@ -16,7 +16,7 @@ categories: [Food]
 | food type | Meat |
 | stomach | 50% |
 | water | 15% |
-| buff | Heal (+17.5% health regeneration) |
+| buff | Heal (+30% health regeneration) |
 | buff strength | 25% |
 | bankable | Yes |
 | droppable | Yes |

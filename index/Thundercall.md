@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 223210
+revid: 225897
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -67,6 +67,8 @@ This Cantrip allows the player to light [Campfires](Campfire_Pit.md) without [Fl
 This Cantrip is shared with [Flamecharm](Flamecharm.md), though the sound effect differs based on the attunement.
 
 ## Mantras
+
+  
 
 ### Combat Mantras
 
