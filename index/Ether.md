@@ -1,6 +1,6 @@
 ---
 title: Ether
-revid: 218500
+revid: 225838
 source: https://deepwoken.fandom.com/wiki/Ether
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras]
@@ -21,7 +21,7 @@ categories: [Character, Mantras]
     -   [Contractor](Oath%253A_Contractor.md) or [Saintsworn](Oath%253A_Saintsworn.md) must be used, as they benefit the most from [Devastating Power](Talents.md#devastating-power).
 -   Maximum ether obtainable increases if you have not bought [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) [Echo modifier](Echoes.md).
     -   The [aspect](Aspects.md) that can get the most ether from not getting [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) is [Celtor](Celtor.md) with a whopping 8.5 additional ether.
--   Currently (04/07/2026) maximum ether is 1153, reaching this amount is not reccomended unless you wish to cast [Mantras](Mantras.md) that are modified to the limit.
+-   Currently (04/07/2026) maximum ether is 1173, reaching this amount is not reccomended unless you wish to cast [Mantras](Mantras.md) that are modified to the limit.
 
 ## **Trivia**
 

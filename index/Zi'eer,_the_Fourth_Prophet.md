@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 225190
+revid: 225841
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits, Prophets of The Ministry]
@@ -170,7 +170,7 @@ Avoid
 -   Due to the speed of the attack, you must [roll-cancel](Combat_Mechanics.md#advanced-movement) to avoid both dashes.
 -   Before dashing, Zi'eer will briefly be highlighted in red.
 
-**Dashes Telegraph**
+**Dashes**
 
 _Uses Telegraph_
 
@@ -186,7 +186,7 @@ After the second dash, Zi'eer faces the Inheritor and is briefly highlighted in 
 
 -   This move is extremely predictable. If unfamiliar, looking up at Zi'eer while airborne may help.
 
-**Drop Slam Telegraph**
+**Drop Slam**
 
 _Uses Telegraph_
 

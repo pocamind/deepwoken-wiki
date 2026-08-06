@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 224913
+revid: 225836
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits, Individuals with unspecified pronouns]
@@ -561,6 +561,7 @@ Recollection
 ## Trivia
 
 -   The Reclaimer is voiced by Naktigonis.
+-   The Reclaimer's hair ID(s) are; 95174346454397, 5857760980, 100905453987082.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Pendant Earrings
-revid: 223091
+revid: 225866
 source: https://deepwoken.fandom.com/wiki/Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -20,7 +20,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Hollow, Duke Ishamon Erisia, Elder Primadon, The Titan Warlord |
+| obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Saramaed Hollow, Duke Ishamon Erisia, Elder Primadon, The Titan Warlord |
 | description | ... |
 
 ## Description

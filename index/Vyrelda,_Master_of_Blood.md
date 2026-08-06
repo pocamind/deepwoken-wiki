@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 224997
+revid: 225859
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Stub pages with reason, StubPages, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
@@ -35,7 +35,7 @@ The outfit she wears is [Sanguine Finery](Sanguine_Finery.md), obtained exclusiv
 
 ## Location
 
-Vyrelda is first found inside an igloo in [Firfire](Firfire.md), located in the [Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md). After obtaining Bloodrend, she can be found in [Derelict Highchurch](Derelict_Highchurch.md) account-wide.
+Vyrelda is first found inside an igloo in [Firfire](Firfire.md), located in the [Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md). While doing [silentheart's](Oath%253A_Silentheart.md) progression or after obtaining Bloodrend, she can be found in [Derelict Highchurch](Derelict_Highchurch.md) account-wide.
 
 ## Dialogue
 

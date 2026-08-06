@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 223243
+revid: 225837
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Outfits]
@@ -37,3 +37,4 @@ This Outfit has 0 durability and grants absolutely no effects to the player. Str
 
 -   Sometimes wearing Stranded will display as you having 100% armor durability despite Stranded not having any durability.
 -   The Outfit appears to be a severely tattered version of the Brown [Traveller's Jacket](<Traveller's_Jacket.md>).
+-   It is possible to get the Stranded Schematic, notably from [Artifacts](Artifacts.md), however, learning it will void it.

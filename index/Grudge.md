@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 225043
+revid: 225858
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Enemies]
@@ -142,7 +142,7 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 
 ## Trivia
 
--   The Grudge does not caste a shadow.[\[1\]](#cite-note-1)
+-   The Grudge does not cast a shadow.[\[1\]](#cite-note-1)
 -   Using [Rhythm](Murmur%253A_Rhythm.md) to seek out event spawns is another strategy that may help you locate Grudge.
 -   Arch has confirmed that the only requirement for Grudge to spawn is uncapped Galebreathe.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3) However, it is possible for the Grudge to spawn on a player who has no Attunements at all.
 -   A strategy that has been alleged to increase Grudge's spawn rate is having multiple people with uncapped Galebreathe in a single server.

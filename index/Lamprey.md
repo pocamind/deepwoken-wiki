@@ -1,6 +1,6 @@
 ---
 title: Lamprey
-revid: 225579
+revid: 225865
 source: https://deepwoken.fandom.com/wiki/Lamprey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Fishing Exclusive]
@@ -30,3 +30,7 @@ A Lamprey can be caught by [Fishing](Fishing.md) anywhere.
 ### Used in
 
 -   [Fish Meat](Fish_Meat.md) - 1 Lamprey
+
+## Gallery
+
+golden lamprey

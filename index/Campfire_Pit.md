@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 208858
+revid: 225863
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Tools]
@@ -32,7 +32,7 @@ A Campfire Pit can be must be crafted with the following recipe:
 
 A Campfire Pit must be placed down on the ground and lighting it by using a [Flint](Flint.md) or [Umbral Flint](Flint.md), letting a [Flame Wisp](Flamecharm.md#flame-wisp) light it or by shooting it using [Fire Gun](Flamecharm.md#fire-gun).
 
-After lighting a Campfire, the player can rest by pressing E, allowing them to cook and replenish any lost stats.
+After lighting a Campfire, the player can rest by pressing E, allowing them to cook food or replenish any lost stats (health, blood, armor, sanity).
 
 Lit Campfires additionally create a small updraft, causing the player to ascend slightly while [Gliding](Gliders.md) directly above it.
 
@@ -51,3 +51,4 @@ A Campfire that is placed by a player can be destroyed by attacking it.
 -   Four lit campfires are required to summon [The Ferryman](The_Ferryman.md).
 -   Campfires were visually revamped in the September 15th, 2025 update.
 -   Attempting to build a campfire on a boat will yield a message saying "Putting a campfire here probably isn't the best idea."
+-   If you're using the campfire to regen blood, it'll consume water/stomach.
