@@ -1012,6 +1012,9 @@
     "to": "Mantra Modifiers",
     "fragment": "Regular Modifiers"
   },
+  "Club": {
+    "to": "Clubs"
+  },
   "Clutching Shadow": {
     "to": "Shadowcast",
     "fragment": "Clutching Shadow"
@@ -2122,6 +2125,9 @@
   },
   "Greataxe": {
     "to": "Category:Greataxes"
+  },
+  "Greatcannon": {
+    "to": "Greatcannons"
   },
   "Greater Angel": {
     "to": "Sworn Angel"
@@ -3912,6 +3918,9 @@
   "Rhythm Advance": {
     "to": "Oath: Soulbreaker",
     "fragment": "Rhythm Advance"
+  },
+  "Rifle": {
+    "to": "Category:Rifles"
   },
   "Rifles": {
     "to": "Category:Rifles"

@@ -1,9 +1,9 @@
 ---
 title: Phantom Hunter
-revid: 225971
+revid: 225989
 source: https://deepwoken.fandom.com/wiki/Phantom_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Ministry Enemies]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

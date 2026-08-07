@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 204006
+revid: 225990
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Treasures, Deep Gems]

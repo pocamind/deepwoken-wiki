@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225968
+revid: 225982
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5035,168 +5035,511 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Gunslinger
 
--   _Armor Piercing_ \[Rare Talent, Medium Weapon // Light Weapon\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+-   _Armor Piercing_ \[Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+    -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
     -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
-        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: 1 - ((1 - Current PEN%) × (1 - 0.1)) = effective PEN against blunt armor.
+        -   Though, keep in mind that the game does not treat this effect as PEN under any circumstance, meaning PEN resistance has no effect on it.
+        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: 1 - ((1 - Current PEN%) × (1 - 10%)) = effective PEN against blunt armor.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
         -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
         -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
-            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
-    -   Prerequisites: 30 Medium Weapon // 30 Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
-    -   The [Summer Company Uniform](Summer_Company_Uniform.md) Outfit has this Talent.
-    -   Mutual Exclusive: [Bulletproof](#bulletproof), due to them being quest rewards from the opposite endings of the same quest.
+            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.  
+                
+    -   Prerequisites: 30 Medium Weapon // 30 Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)
+        -   Though not very notable, wearing this Outfit allows you to have Armor Piercing and [Bulletproof](#bulletproof) simultaneously.  
+            
+    -   Mutual Exclusives: [Bulletproof](#bulletproof), due to them being being quest rewards for the opposite endings of the same quest  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
 
--   Bulletproof \[Common Talent, Fortitude // Medium Weapon // Light Weapon\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
+-   **Armor Piercing** \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+    -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
+    -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
+        -   Though, keep in mind that the game does not treat this effect as PEN under any circumstance, meaning PEN resistance has no effect on it.
+        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: 1 - ((1 - Current PEN%) × (1 - 10%)) = effective PEN against blunt armor.
+        -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
+    -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
+        -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
+        -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
+            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.  
+                
+    -   The Guns condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: 30 Medium Weapon // 30 Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)
+        -   Though not very notable, wearing this Outfit allows you to have Armor Piercing and [Bulletproof](#bulletproof) simultaneously.  
+            
+    -   Mutual Exclusives: [Bulletproof](#bulletproof), due to them being being quest rewards for the opposite endings of the same quest  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
+
+-   **Bulletproof** \[Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on Natural Armor.
-    -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
-    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
-    -   Prerequisites: 20 Medium Weapon // 20 Light Weapon // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
-    -   Mutual Exclusive: [Armor Piercing](#armor-piercing), due to them being quest rewards for the opposite endings of the same quest.
+    -   This Talent simply removes/reduces armor damage taken; it has no effect on PEN.
+    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).  
+        
+    -   Prerequisites: 20 Medium Weapon // 20 Light Weapon // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)  
+        
+    -   Mutual Exclusives: [Armor Piercing](#armor-piercing), due to them being quest rewards for the opposite endings of the same quest  
+        
+    -   Tags: \[Fortitude\] \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
 
--   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
+-   **Bulletproof** \[Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
+    -   This has no effect on Natural Armor.
+    -   This Talent simply removes/reduces armor damage taken; it has no effect on PEN.
+    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).  
+        
+    -   Prerequisites: 20 Medium Weapon // 20 Light Weapon // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)  
+        
+    -   Mutual Exclusives: [Armor Piercing](#armor-piercing), due to them being quest rewards for the opposite endings of the same quest  
+        
+    -   Tags: \[Fortitude\] \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
+
+-   _Execution_ \[Rare Talent\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.
     -   The extra damage is true damage.
-    -   Does not work with [Unnecessary Theatrics](#unnecessary-theatrics) and [Dazing Finisher](#dazing-finisher).
-    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a Pistol
-    -   Mutual Exclusive: Hip Shooter
+    -   Does not work with [Unnecessary Theatrics](#unnecessary-theatrics) and [Dazing Finisher](#dazing-finisher).  
+        
+    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Mutual Exclusives: [Hip Shooter](#hip-shooter)  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Flourish\] \[Offhand Pistol\] \[Pistol\]
 
--   Gunpowder Blast \[Common Talent, Light Weapon\] - Pistol shots without bullets deal 2 extra posture. \[Dual Gun\]
-    -   Increases the posture damage of your blast shots by 2 if you do not have physical [bullets](Bullets.md) in your inventory.
-    -   Prerequisites: 45 Light Weapon, Using a Pistol
+-   **Execution** \[Rare Talent\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
+    -   Works with dual guns, adding 5 flat damage to every second shot.
+    -   The extra damage is true damage.
+    -   Does not work with [Unnecessary Theatrics](#unnecessary-theatrics) and [Dazing Finisher](#dazing-finisher).  
+        
+    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Mutual Exclusives: [Hip Shooter](#hip-shooter)  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Flourish\] \[Offhand Pistol\] \[Pistol\]
 
--   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
+-   **Gunpowder Blast** \[Common Talent\] - Pistol shots without bullets deal 2 extra posture. \[Dual Gun\]
+    -   Increases the posture damage of your blast shots by 2 if you do not have physical [bullets](Bullets.md) in your inventory.  
+        
+    -   Prerequisites: 45 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   **Gunpowder Blast** \[Common Talent\] - Pistol shots without bullets deal 2 extra posture. \[Dual Gun\]
+    -   Increases the posture damage of your blast shots by 2 if you do not have physical [bullets](Bullets.md) in your inventory.  
+        
+    -   Prerequisites: 45 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
     -   This requires you to have [bullets](Bullets.md) in your inventory.
-    -   5 second cooldown.
-    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using an Offhand Pistol
-    -   Mutual Exclusive: Execution
+    -   5 second cooldown.  
+        
+    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using a Pistol  
+        
+    -   Mutual Exclusives: [Execution](#execution)  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Offhand Pistol\] \[Pistol\]
 
--   Parting Gift \[Common Talent, Light Weapon\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
+-   **Hip Shooter** \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
+    -   This requires you to have [bullets](Bullets.md) in your inventory.
+    -   5 second cooldown.  
+        
+    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using a Pistol  
+        
+    -   Mutual Exclusives: [Execution](#execution)  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Offhand Pistol\] \[Pistol\]
+
+-   **Parting Gift** \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
     -   Procs even if your flourish is parried or blocked.
-    -   The projectile M1s from this Talent can proc [True Ether Bullets](#true-ether-bullets).
-    -   Prerequisites: 75 Light Weapon, Using a Pistol
+    -   The projectile M1s from this Talent can proc [True Ether Bullets](#true-ether-bullets).  
+        
+    -   Prerequisites: 75 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Flourish\] \[Pistol\]
 
--   Quickdraw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
-    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
-    -   Prerequisites: 55 Light Weapon, Using a Pistol
+-   **Parting Gift** \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
+    -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
+    -   Procs even if your flourish is parried or blocked.
+    -   The projectile M1s from this Talent can proc [True Ether Bullets](#true-ether-bullets).  
+        
+    -   Prerequisites: 75 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Flourish\] \[Pistol\]
 
--   Quick Swap \[Common Talent, Light Weapon\] - Massively reduce your bullet swap cooldown. \[Dual Gun\]
-    -   Prerequisites: 40 Light Weapon, Using a Pistol
+-   **Quickdraw** \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon.  
+        
+    -   Prerequisites: 55 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Offhand Pistol\] \[Pistol\]
 
--   Taste The Rainbow \[Common Talent, Light Weapon\] - Every time you shoot, switch your ammo type. \[Dual Guns\]
-    -   Every M1 switches your [Bullet type](Bullets.md#bullet-casings).
-    -   Prerequisites: 50 Light Weapon, Using a Pistol
+-   **Quickdraw** \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon.  
+        
+    -   Prerequisites: 55 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Offhand Pistol\] \[Pistol\]
 
--   _True Ether Bullets_ \[Rare Talent, Light Weapon // Medium Weapon // Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
-    -   Landing 2 shots will make the 3rd shot deal elemental damage.
-        -   The 3rd shot apply your attunement's elemental effect:
-            -   **[Flamecharm](Flamecharm.md)**: Your bullets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
-            -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
-            -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
-            -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
-            -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
-            -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
-            -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
+-   **Quick Swap** \[Common Talent\] - Massively reduce your bullet swap cooldown. \[Dual Gun\]
+    -   You can swap [Bullet Casing](Bullets.md#bullet-casings) types by stance changing (Y).  
+        
+    -   Prerequisites: 40 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   **Quick Swap** \[Common Talent\] - Massively reduce your bullet swap cooldown. \[Dual Gun\]
+    -   You can swap [Bullet Casing](Bullets.md#bullet-casings) types by stance changing (Y).  
+        
+    -   Prerequisites: 40 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   **Taste The Rainbow** \[Common Talent\] - Every time you shoot, switch your ammo type. \[Dual Guns\]
+    -   Every M1 switches your [Bullet type](Bullets.md#bullet-casings).  
+        
+    -   Prerequisites: 50 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   **Taste The Rainbow** \[Common Talent\] - Every time you shoot, switch your ammo type. \[Dual Guns\]
+    -   Every M1 switches your [Bullet type](Bullets.md#bullet-casings).  
+        
+    -   Prerequisites: 50 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   _True Ether Bullets_ \[Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
+    -   Landing 2 shots will make the 3rd shot deal elemental damage and apply the elemental status effect of your highest invested Attunement. If you do not have an Attunement, this Talent **will not** function.
+        -   **[Flamecharm](Flamecharm.md)**: Your bullets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
+        -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
+        -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
+        -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
+        -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+        -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
+        -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
         -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-    -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
-    -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
-    -   Currently bugged and does not work.
-    -   Prerequisites: 30 Intelligence, 20 Weapon (20 Light // 20 Medium // 20 Heavy), Using a Pistol/Rifle/Greatcannon
+    -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.  
+        
+    -   Prerequisites: 30 Intelligence, 20 Weapon (20 Light // 20 Medium // 20 Heavy), Using a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Intelligence\] \[Weapon\] \[Debuff\] \[Greatcannon\] \[Rifle\] \[Pistol\]
 
--   _**Prime Ether Bullets**_ \[Advanced Talent, Intelligence, Light Weapon\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
+-   **True Ether Bullets** \[Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
+    -   Landing 2 shots will make the 3rd shot deal elemental damage and apply the elemental status effect of your highest invested Attunement. If you do not have an Attunement, this Talent **will not** function.
+        -   **[Flamecharm](Flamecharm.md)**: Your bullets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
+        -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
+        -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
+        -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
+        -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+        -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
+        -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
+        -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+    -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
+    -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.  
+        
+    -   Prerequisites: 30 Intelligence, 20 Weapon (20 Light // 20 Medium // 20 Heavy), Using a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Intelligence\] \[Weapon\] \[Debuff\] \[Greatcannon\] \[Rifle\] \[Pistol\]
+
+-   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
-    -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
-    -   Currently bugged and does not work.
-    -   Prerequisites: 90 Light Weapon, 60 Intelligence, [True Ether Bullets](#true-ether-bullets), Using a Pistol
+    -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).  
+        
+    -   Prerequisites: 90 Light Weapon, 60 Intelligence, [True Ether Bullets](#true-ether-bullets), Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Intelligence\] \[Light Weapon\] \[Dual Pistols\] \[Investment Scaling\] \[Pistol\]
+
+-   **Prime Ether Bullets** \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
+    -   True Ether Bullets now procs in 2 hits instead of 3.
+    -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).  
+        
+    -   Prerequisites: 90 Light Weapon, 60 Intelligence, [True Ether Bullets](#true-ether-bullets), Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Intelligence\] \[Light Weapon\] \[Dual Pistols\] \[Investment Scaling\] \[Pistol\]
 
 ### Hammer Rage
 
--   Brain Rattler \[Common Talent, Medium Weapon\] - Clubs Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and blurs their vision.
+-   **Brain Rattler** \[Common Talent\] - Clubs Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and blurs their vision.
     -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
-    -   The Stagger status effect makes your opponent take 33% more posture damage.
-    -   Prerequisites: 50 Medium Weapon, Club equipped
+    -   Applies a visual obscuration effect and blood loss on guardbreak. In PvE this also applies Staggered.
+    -   The Stagger status effect makes your opponent take 33% more posture damage.  
+        
+    -   Prerequisites: 50 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Club\] \[Debuff\] \[Guardbreak\]
 
--   Dispatch \[Common Talent, Medium Weapon\] - Clubs Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#daze) targets deal 20% less posture. This can stack.
-    -   Prerequisites: Bear Trap, 55 Medium Weapon, Club equipped
+-   **Brain Rattler** \[Common Talent\] - \[Clubs\] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and blurs their vision.
+    -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
+    -   Applies a visual obscuration effect and blood loss on guardbreak. In PvE this also applies Staggered.
+    -   The Stagger status effect makes your opponent take 33% more posture damage.  
+        
+    -   The Clubs condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: 50 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Club\] \[Debuff\] \[Guardbreak\]
 
--   Hammerfall \[Common Talent, Medium Weapon\] - Clubs Aerial attacks do 25% more posture damage when blocked.
-    -   Prerequisites: 35 Medium Weapon, Club equipped
+-   **Dispatch** \[Common Talent\] - Clubs Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#daze) targets deal 20% less posture. This can stack.
+    
+    -   Prerequisites: [Bear Trap](#bear-trap), 55 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Strength\] \[Agility\] \[Medium Weapon\] \[Club\] \[Debuff\]
+
+-   **Dispatch** \[Common Talent\] - \[Clubs\] Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#daze) targets deal 20% less posture. This can stack.
+    
+    -   The Clubs condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: [Bear Trap](#bear-trap), 55 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Strength\] \[Agility\] \[Medium Weapon\] \[Club\] \[Debuff\]
+
+-   **Hammerfall** \[Common Talent\] - Clubs Aerial attacks do 25% more posture damage when blocked.
+    
+    -   Prerequisites: 35 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Club\] \[Posture Damage Buff\]
+
+-   **Hammerfall** \[Common Talent\] - \[Clubs\] Aerial attacks do 25% more posture damage when blocked.
+    
+    -   The Clubs condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: 35 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Club\] \[Posture Damage Buff\]
 
 ### Heat Column
 
--   Fan the Flames \[Common Talent, Dual Attunement, Flamecharm, Galebreathe\] - Your stored Wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] can now empower your Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   The effects of inhale (causing [Mantra Modifiers](Mantra_Modifiers.md) to transfer across Galebreathe Mantras) and the damage buff that Inhale grants, (Inhaled Mantra's level times 2)%, will now also affect Flamecharm Mantras.
-    -   Prerequisites: Inhale, 40 Flamecharm
+-   **Fan the Flames** \[Common Talent\] - Your stored Wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] can now empower your Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   The effects of [Inhale](#inhale) (causing [Mantra Modifiers](Mantra_Modifiers.md) to transfer across Galebreathe Mantras) and the damage buff that Inhale grants, (Inhaled Mantra's level times 2)%, will now also affect Flamecharm Mantras. You cannot _inhale_ Flamecharm Mantras however.  
+        
+    -   Prerequisites: [Inhale](#inhale), 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Galebreathe\] \[Damage Buff\] \[Multi-Attunement\]
+
+-   **Fan the Flames** \[Common Talent\] - Your stored Wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] can now empower your Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   The effects of [Inhale](#inhale) (causing [Mantra Modifiers](Mantra_Modifiers.md) to transfer across Galebreathe Mantras) and the damage buff that Inhale grants, (Inhaled Mantra's level times 2)%, will now also affect Flamecharm Mantras. You cannot _inhale_ Flamecharm Mantras however.  
+        
+    -   Prerequisites: [Inhale](#inhale), 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Galebreathe\] \[Damage Buff\] \[Multi-Attunement\]
 
 ### Heretic
 
--   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s. (+7 Sanity)
+-   _All the Dead Gods_ \[Rare Talent\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s.
     -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
     -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
         -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
-    -   All the Dead Gods' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), Conditioned Runner, [Curse of the No Life King](Curse_of_the_No_Life_King.md), Chorus of Souls, and natural health regeneration.
+    -   All the Dead Gods' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), [Conditioned Runner](#conditioned-runner), [Curse of the No Life King](Curse_of_the_No_Life_King.md), [Chorus of Souls](#chorus-of-souls), and natural health regeneration.
     -   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) increases All the Dead Gods' anti-heal duration by 4 seconds; from 8 to 12.
+    -   Having this Talent increases the duration of all other Anti-Heal effects you apply by 2 seconds.
     -   The anti-heal cannot be procced on allies, and it does not affect healthpacks.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.
-    -   Prerequisites: 65 Willpower, 40 Intelligence
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.  
+        
+    -   Grants +7 Sanity  
+        
+    -   Prerequisites: 65 Willpower, 40 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Sustain\] \[Scale-down\]
 
--   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well. (+20 Sanity)
+-   **All the Dead Gods** \[Rare Talent\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s.
+    -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
+    -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
+        -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
+    -   All the Dead Gods' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), [Conditioned Runner](#conditioned-runner), [Curse of the No Life King](Curse_of_the_No_Life_King.md), [Chorus of Souls](#chorus-of-souls), and natural health regeneration.
+    -   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) increases All the Dead Gods' anti-heal duration by 4 seconds; from 8 to 12.
+    -   Having this Talent increases the duration of all other Anti-Heal effects you apply by 2 seconds.
+    -   The anti-heal cannot be procced on allies, and it does not affect healthpacks.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.  
+        
+    -   Grants +7 Sanity  
+        
+    -   Prerequisites: 65 Willpower, 40 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Sustain\] \[Scale-down\]
+
+-   _**All Above, Gods Below**_ \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well.
+    -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
-    -   All Above, Gods Below's duration scales on your Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your All the Dead Gods. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to All the Dead Gods), down to a minimum of 50% of All the Dead Gods duration at 150 combined invest.
+    -   All Above, Gods Below's duration scales on your combined Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your Anti-Heal. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to the Anti-Heal's duration), down to a minimum of 50% of your Anti-Heal's duration at 150 combined invest.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +15% Heal Boost.
-    -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +15% Heal Boost.  
+        
+    -   Grants +20 Sanity  
+        
+    -   Prerequisites: [All the Dead Gods](#all-the-dead-gods), 100 Willpower, 100 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Scale-down\] \[Sustain\]
 
--   _Heretic's Sutra_ \[Quest Talent, Willpower\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
+-   **All Above, Gods Below** \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well.
+    -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
+    -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
+    -   All Above, Gods Below's duration scales on your combined Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your Anti-Heal. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to the Anti-Heal's duration), down to a minimum of 50% of your Anti-Heal's duration at 150 combined invest.
+    -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
+    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +15% Heal Boost.  
+        
+    -   Grants +20 Sanity  
+        
+    -   Prerequisites: [All the Dead Gods](#all-the-dead-gods), 100 Willpower, 100 Intelligence  
+        
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Scale-down\] \[Sustain\]
+
+-   _Heretic's Sutra_ \[Quest Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
+    -   On use, this reduces your [Sanity](Insanity.md). If your Sanity is above or at 80%, it gets set to 65%. If your sanity is below 80%, lose 15% Sanity instead.
+    -   This automatically activates [Shared Misery](#shared-misery) and [Piercing Will](#piercing-will) for 15 seconds. [Lose Your Mind](#lose-your-mind) also begins to scale, due to your Sanity being less than 70%.
+    -   A speech bubble appears on use that says a quote from a set list. This speech bubble is green, with yellow text and a unique font. You can reproduce this effect with any message by writing "££" at the start.
     -   Heretic's Sutra has a base windup of 0.4s and a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the windup is reduced by 0.00429 seconds.
         -   Has a windup of 0.186 seconds at 80 Willpower, a maximum windup of 0.293 seconds at 55 Willpower, and a minimum windup of 0.1 seconds at 100 Willpower.
     -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
-        -   Has a cooldown of 19.71 seconds at 80 Willpower, a maximum cooldown of 21.86 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.
-    -   Gives a burst of insanity to yourself.
-        -   Immediately lose 15% sanity on use.
-        -   If above 80% sanity, immediately lose sanity down to 65%.
-    -   You start benefitting from Talents that require insanity to use (namely _Lose Your Mind_)
-    -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds.
-        -   Namely Shared Misery and _Piercing Will_.
-        -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your current sanity percentage. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
-    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
+        -   Has a cooldown of 19.71 seconds at 80 Willpower, a maximum cooldown of 21.86 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.  
+            
+    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).  
+        
+    -   Tags: \[Willpower\] \[Investment Scaling\] \[Sanity\] \[Scale-down\] \[Tool\]
 
--   _Sin Stacker_ \[Rare Talent, Willpower\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead. (+8 Sanity)
-    -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
-        -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
-    -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.
-    -   Prerequisites: All the Dead Gods, 90 Willpower
+-   **Heretic's Sutra** \[Quest Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
+    -   On use, this reduces your [Sanity](Insanity.md). If your Sanity is above or at 80%, it gets set to 65%. If your sanity is below 80%, lose 15% Sanity instead.
+    -   This automatically activates [Shared Misery](#shared-misery) and [Piercing Will](#piercing-will) for 15 seconds. [Lose Your Mind](#lose-your-mind) also begins to scale, due to your Sanity being less than 70%.
+    -   A speech bubble appears on use that says a quote from a set list. This speech bubble is green, with yellow text and a unique font. You can reproduce this effect with any message by writing "££" at the start.
+    -   Heretic's Sutra has a base windup of 0.4s and a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the windup is reduced by 0.00429 seconds.
+        -   Has a windup of 0.186 seconds at 80 Willpower, a maximum windup of 0.293 seconds at 55 Willpower, and a minimum windup of 0.1 seconds at 100 Willpower.
+    -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
+        -   Has a cooldown of 19.71 seconds at 80 Willpower, a maximum cooldown of 21.86 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.  
+            
+    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).  
+        
+    -   Tags: \[Willpower\] \[Investment Scaling\] \[Sanity\] \[Scale-down\] \[Tool\]
+
+-   _Sin Stacker_ \[Rare Talent\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead.
+    -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
+    -   By proccing additional instances of Anti-Heal on an Anti-Healed target, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second, per Anti-Heal stack applied.
+        -   Using [All the Dead Gods](#all-the-dead-gods) as an example: At 1 Anti-Heal stack, your All the Dead aGods Anti-Heal lasts 8 seconds. Applying another stack of Anti-Heal will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
+        -   As Anti-Heal stacks decay, the additional duration they apply to future stacks is nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third hit will only last 9 seconds.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.  
+        
+    -   Grants +8 Sanity  
+        
+    -   Prerequisites: [All the Dead Gods](#all-the-dead-gods), 90 Willpower  
+        
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\]
+
+-   **Sin Stacker** \[Rare Talent\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead.
+    -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
+    -   By proccing additional instances of Anti-Heal on an Anti-Healed target, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second, per Anti-Heal stack applied.
+        -   Using [All the Dead Gods](#all-the-dead-gods) as an example: At 1 Anti-Heal stack, your All the Dead aGods Anti-Heal lasts 8 seconds. Applying another stack of Anti-Heal will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
+        -   As Anti-Heal stacks decay, the additional duration they apply to future stacks is nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third hit will only last 9 seconds.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.  
+        
+    -   Grants +8 Sanity  
+        
+    -   Prerequisites: [All the Dead Gods](#all-the-dead-gods), 90 Willpower  
+        
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\]
 
 ### Human Architecture
 
--   _**Brick Wall**_ \[Advanced Talent, Fortitude, Willpower\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious](Status_Effects.md#unconscious). Also reduces the duration of [Knockdown](Status_Effects.md#knockdown). (+5 Health, +2 Posture)
-    -   The Knockdown duration reduction scales on your combined investment into the Willpower and Fortitude attributes, being fully negated if you have 100 points invested into both.
-    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
+-   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious](Status_Effects.md#unconscious). Also reduces the duration of [Knockdown](Status_Effects.md#knockdown).
+    -   The [Knockdown](Status_Effects.md#knockdown) duration reduction scales on your combined investment into the Willpower and Fortitude attributes, being fully negated if you have 100 points invested into both.
+    -   Gain total immunity to [ragdoll](Status_Effects.md#ragdoll), only being pushed back instead from moves that would normally ragdoll.
     -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
-    -   Makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
-    -   **Cap Artist** is disabled with this Talent.
-    -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
+    -   Makes you resistant to the [Eternal Gale](Second_Layer.md)'s winds, causing only momentary stun instead of ragdolling you.
+    -   [Cap Artist](#cap-artist) is disabled with this Talent.
+    -   Despite giving immunity to [Knockdowns](Status_Effects.md#knockdown) at full investment, this does not give the Knockdown Immunity effect, and therefore does not grant immunity to the [Dazed](Status_Effects.md#dazed) status effect.  
+        
+    -   Grants +5 Health, +2 Posture  
+        
+    -   Prerequisites: 100 Fortitude, 100 Willpower, [Perseverance](#perseverance)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\]
 
--   _Mythic Stability_ \[Rare Talent, Fortitude\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious](Status_Effects.md#unconscious). 60s CD.
-    -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.
-    -   Prerequisites: 85 Fortitude
+-   **Brick Wall** \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious](Status_Effects.md#unconscious). Also reduces the duration of [Knockdown](Status_Effects.md#knockdown).
+    -   The [Knockdown](Status_Effects.md#knockdown) duration reduction scales on your combined investment into the Willpower and Fortitude attributes, being fully negated if you have 100 points invested into both.
+    -   Gain total immunity to [ragdoll](Status_Effects.md#ragdoll), only being pushed back instead from moves that would normally ragdoll.
+    -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
+    -   Makes you resistant to the [Eternal Gale](Second_Layer.md)'s winds, causing only momentary stun instead of ragdolling you.
+    -   [Cap Artist](#cap-artist) is disabled with this Talent.
+    -   Despite giving immunity to [Knockdowns](Status_Effects.md#knockdown) at full investment, this does not give the Knockdown Immunity effect, and therefore does not grant immunity to the [Dazed](Status_Effects.md#dazed) status effect.  
+        
+    -   Grants +5 Health, +2 Posture  
+        
+    -   Prerequisites: 100 Fortitude, 100 Willpower, [Perseverance](#perseverance)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\]
 
--   _**Not a Scratch**_ \[Advanced Talent, Fortitude, Willpower\] - You don't show any signs of damage. (+2 Posture)
-    -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp anims, no torn clothing, etc.
-    -   Spotter (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
+-   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious](Status_Effects.md#unconscious). 60s CD.
+    -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.  
+        
+    -   Prerequisites: 85 Fortitude  
+        
+    -   Tags: \[Fortitude\]
+
+-   **Mythic Stability** \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious](Status_Effects.md#unconscious). 60s CD.
+    -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.  
+        
+    -   Prerequisites: 85 Fortitude  
+        
+    -   Tags: \[Fortitude\]
+
+-   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage.
+    -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp animations, no torn clothing, etc.
+        -   The [Bloodrend](Bloodrend.md) and [Ironsing](Ironsing.md) [Cantrips](Elemental_Cantrips.md) have a similar effect of visually hiding blood splotches and armor tears respectively when at low health/armor durability.
+    -   [Spotter](#spotter) (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
+    -   [Heart Reverb](#heart-reverb), [Primal Rage](#primal-rage), and [Smell of Blood](#smell-of-blood) ignore this Talent's effects, and still display your character's respective percentages to your opponent.
     -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon taking damage. This is purely visual.
-        -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.
-    -   Prerequisites: 20 Fortitude, 100 Willpower
-    -   The [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>) Outfits have this Talent.
+        -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.  
+            
+    -   Grants +2 Posture  
+        
+    -   Prerequisites: 20 Fortitude, 100 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Posture\] \[Scale-down\]
+
+-   **Not a Scratch** \[Advanced Talent\] - You don't show any signs of damage.
+    -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp animations, no torn clothing, etc.
+        -   The [Bloodrend](Bloodrend.md) and [Ironsing](Ironsing.md) [Cantrips](Elemental_Cantrips.md) have a similar effect of visually hiding blood splotches and armor tears respectively when at low health/armor durability.
+    -   [Spotter](#spotter) (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
+    -   [Heart Reverb](#heart-reverb), [Primal Rage](#primal-rage), and [Smell of Blood](#smell-of-blood) ignore this Talent's effects, and still display your character's respective percentages to your opponent.
+    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon taking damage. This is purely visual.
+        -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.  
+            
+    -   Grants +2 Posture  
+        
+    -   Prerequisites: 20 Fortitude, 100 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>)  
+        
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Posture\] \[Scale-down\]
 
 ### Hunter
 
--   _Peripheral Vision_ \[Rare Talent, Willpower\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
-    -   Prerequisites: 40 Willpower, [Glare](Attunement-less.md#glare) (Mantra)
+-   _Peripheral Vision_ \[Rare Talent\] - Your [glare](Attunement-less.md#glare) now ignores if your opponent is facing you.
+    -   [Glare](Attunement-less.md#glare) normally cannot hit targets who are not facing you. This Talent removes this restriction.  
+        
+    -   Grants +5 Sanity  
+        
+    -   Prerequisites: 40 Willpower, [Glare](Attunement-less.md#glare) (Mantra)  
+        
+    -   Tags: \[Willpower\] \[+Sanity\]
+
+-   **Peripheral Vision** \[Rare Talent\] - Your [glare](Attunement-less.md#glare) now ignores if your opponent is facing you.
+    -   [Glare](Attunement-less.md#glare) normally cannot hit targets who are not facing you. This Talent removes this restriction.  
+        
+    -   Grants +5 Sanity  
+        
+    -   Prerequisites: 40 Willpower, [Glare](Attunement-less.md#glare) (Mantra)  
+        
+    -   Tags: \[Willpower\] \[+Sanity\]
 
 ### Ice Age
 

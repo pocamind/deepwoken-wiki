@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 225361
+revid: 225988
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -30,3 +30,4 @@ The **Blindseer's Ring** is a ring [Equipment](Equipment.md) item that reduces y
 ## Trivia
 
 -   Ring location on the map alongside a closeup
+-   This ring does not affect any healing outside of green healing. Campfire regeneration, natural regeneration, NLK, health packs, etc. Are completely unaffected.

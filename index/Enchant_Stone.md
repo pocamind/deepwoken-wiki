@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 214850
+revid: 225992
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]

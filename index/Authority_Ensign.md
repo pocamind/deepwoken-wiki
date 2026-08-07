@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 225960
+revid: 225985
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -644,7 +644,7 @@ As a lot of pros and cons have already been previously mentioned under the [Effe
 ### Cons
 
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
--   Because your player grip is replaced with [imprisoning](Fort_Merit.md#prison-tower) them, you will need some kind of weapon or mantra that automatically [grips](<Terminology_(game).md#grip>) in order to confirm kills.
+-   Because your player grip is replaced with [imprisoning](Fort_Merit.md#prison-tower) them, you will need some kind of weapon or mantra that automatically [grips](<Terminology_(game).md#grip>) in order to confirm kills (Auto-grips does NOT exile you).
     -   This makes the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization Talent in the Inquisition Division, a tad harder as you would need to rely on bleeding them out with light attacks if you don't have anything that auto-grips. Having outside help with allies that can grip normally also helps immensely.
 -   As mentioned in the [Reputation Issues](#reputation-issues) section, you cannot obtain stuff like [Blightsurger](Oath%253A_Blightsurger.md), [Contractor](Oath%253A_Contractor.md) and etc. due to the reputation limitations.
     -   Due to the cap on [Etrea](Etrea.md) reputation you will always be able to be voidwalked leading to unnecessary fighting and possible deaths.
