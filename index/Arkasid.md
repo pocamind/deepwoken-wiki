@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 225099
+revid: 225914
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | health | 2400 |
 | attacks | Arm Swipes, Paralyzing Throw, Pounce, Spin Strikes |
-| drops | Arkasid Carapace, Arkasid Pupa, Dormant Splinter, Bellmarrow Reave (from chest), Dissonant Chimecaller(from chest) |
+| drops | Arkasid Carapace, Arkasid Pupa, Dormant Splinter, Bellmarrow Reave (from chest) |
 | locations | Simforea |
 | challenges | -- Arkasid --, Good Night - Slay 3.Reward: +5% DMG; +2.5% RES, Sleep Tight - Slay 9.Reward: +5% DMG; +2.5% RES, Don't Let The Bed Bugs Bite - Slay 15.Reward: +5% DMG; +2.5% RES |
 

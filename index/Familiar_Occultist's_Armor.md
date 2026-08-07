@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 223311
+revid: 225919
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -54,10 +54,11 @@ The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summ
     -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Mirror Illusion](Oath%253A_Visionshaper.md#mirror-illusion)
     -   [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me)
     -   [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets)' puppets
-    -   [Blacksteel Pirate](Blacksteel_Pirate.md) summoned from the Captain's Call talent on the Ossified Black Set.
+    -   [Blacksteel pirate captains](Blacksteel_Pirate_Captain.md) summoned from the Captain's Call talent on the Ossified Black Set.
 
 ## Trivia/Notes
 
 -   This outfit is based on the Necromancer armor from _Rogue Lineage_, used by the [Master Necromancer](https://rogue-lineage.fandom.com/wiki/Master_Necromancer) class.
 -   The Life Leech talent is a passive similarly featured on the Necromancer class in _Rogue Lineage_, where summoned Shriekers would heal their summoner when dealing damage.
 -   The oufit granting Shadow Armor is a nod to _Rogue Lineage'_s Necromancer armor granting immunity to Curse Stacks.
+-   Healing can be stolen with [All Above Gods Below](Talents.md) but stolen healing is not enough to nullify the damage dealt by summons.

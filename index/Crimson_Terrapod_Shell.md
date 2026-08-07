@@ -1,6 +1,6 @@
 ---
 title: Crimson Terrapod Shell
-revid: 225906
+revid: 225912
 source: https://deepwoken.fandom.com/wiki/Crimson_Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -19,7 +19,7 @@ categories: [Items, Drops, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A shell fragment of the rare Crimson Terrapod. |
-| obtainment | Crimson Terrapod (direct drop), Sold in Traan Zakshun's black market for 10 , Scion of Ethiron (Chest) |
+| obtainment | Crimson Terrapod (direct drop), Sold in Traan Zakshun's black market for 10 |
 
 ## Description
 
@@ -27,4 +27,5 @@ The **Crimson Terrapod Shell** is a rare drop from the [Crimson Terrapod](Terrap
 
 ## Crafting
 
--   [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md): 1x [Curse of the Bloodthirsty Enchant Stone](Enchant_Stone.md) + 1x [Terraplate Pauldrons](Terraplate_Pauldrons.md) + 1x Crimson Terrapod Shell
+-   [Equipment](Equipment.md):
+    -   [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md): 1x [Curse of the Bloodthirsty Enchant Stone](Enchant_Stone.md) + 1x [Terraplate Pauldrons](Terraplate_Pauldrons.md) + 1x Crimson Terrapod Shell

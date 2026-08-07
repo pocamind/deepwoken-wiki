@@ -1237,7 +1237,7 @@
   },
   "3263": {
     "title": "Forgotten Gladius",
-    "lastrevid": 225473
+    "lastrevid": 225921
   },
   "3265": {
     "title": "Canor Fang",
@@ -4185,7 +4185,7 @@
   },
   "12386": {
     "title": "Golden Swordfish",
-    "lastrevid": 224573
+    "lastrevid": 225910
   },
   "12659": {
     "title": "Gild",
@@ -6061,7 +6061,7 @@
   },
   "18180": {
     "title": "Parasol's Blight",
-    "lastrevid": 225234
+    "lastrevid": 225920
   },
   "18181": {
     "title": "Doom of Caeranthil's Scale",
@@ -6373,7 +6373,7 @@
   },
   "18597": {
     "title": "Imperium Kata",
-    "lastrevid": 225480
+    "lastrevid": 225917
   },
   "18601": {
     "title": "Hector",
@@ -6405,7 +6405,7 @@
   },
   "18609": {
     "title": "Titus Fulminus Destellus",
-    "lastrevid": 225818
+    "lastrevid": 225918
   },
   "18610": {
     "title": "Wrath Gem",
@@ -6969,7 +6969,7 @@
   },
   "20216": {
     "title": "Familiar Occultist's Armor",
-    "lastrevid": 223311
+    "lastrevid": 225919
   },
   "20217": {
     "title": "Pumpkin Pie",
@@ -8741,7 +8741,7 @@
   },
   "23100": {
     "title": "Ethereal Bone Dust",
-    "lastrevid": 225907
+    "lastrevid": 225911
   },
   "23102": {
     "title": "Kyrsan Chill",
@@ -9165,7 +9165,7 @@
   },
   "24240": {
     "title": "Arkasid",
-    "lastrevid": 225099
+    "lastrevid": 225914
   },
   "24242": {
     "title": "Staves",
@@ -9201,7 +9201,7 @@
   },
   "24260": {
     "title": "Remnants of Soul",
-    "lastrevid": 225834
+    "lastrevid": 225913
   },
   "24261": {
     "title": "Konga The Third",
@@ -9397,7 +9397,7 @@
   },
   "24612": {
     "title": "Crimson Terrapod Shell",
-    "lastrevid": 225906
+    "lastrevid": 225912
   },
   "24613": {
     "title": "Crimson Terraplate Pauldrons",
@@ -9673,7 +9673,7 @@
   },
   "26129": {
     "title": "Lamprey",
-    "lastrevid": 225865
+    "lastrevid": 225915
   },
   "26130": {
     "title": "Yellow Bass",
@@ -9702,5 +9702,9 @@
   "26250": {
     "title": "Raid on the Temple of Mur",
     "lastrevid": 225793
+  },
+  "26263": {
+    "title": "Cobblers of Celtor",
+    "lastrevid": 225924
   }
 }

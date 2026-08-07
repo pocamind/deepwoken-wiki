@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 225907
+revid: 225911
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 |---|---|
 | value | N/A |
 | weight | 0 |
-| stack | x4? (unknown) |
+| stack | x1 |
 | type | Ingredient |
 | rarity | Unique |
 | bankable | Yes |
@@ -39,3 +39,7 @@ The Ethereal Bone Dust can be used to craft Armor and other items with the [Lost
 
 -   [Ingredients](Ingredients.md):
     -   [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md): 1x [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) + 1x Ethereal Bone Dust + 1x [Giant Femur](Giant_Femur.md)
+
+## Trivia
+
+Despite the item having a stack limit of 1 this restriction is bypassed when multiple are in the same chest.

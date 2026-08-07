@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 225818
+revid: 225918
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -111,6 +111,12 @@ Jump
 
 -   This move is very similar to Worldpiercing Deluge, in which it shares the same animation.
 
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#parry)
+
+Parry
+
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
 -   ↻ Undodgeable
@@ -180,7 +186,7 @@ Parry
 **Sovereign Drive**  
 (★★☆)
 
- | Titus dashes forward in a blink, knocking down enemies in its path.
+ | Titus dashes forward in a blink, briefly ragdolling enemies in its path.
 
 -   This move may be used twice or more.
 
@@ -193,7 +199,7 @@ Dodge
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   § Dodgeable
--   ⤓ Knockdown
+-   ⤻ Ragdoll
 
  | 
 
@@ -309,7 +315,7 @@ High posture
 -   This move can cause debris to fall.
 -   These beams are combined with the [Wind-Up](Wind-Up.md) blasts per hit, making this move **very deadly**.
 -   While he is winding up, it is best to start running or getting to higher levels to avoid the beams.
--   You can easily counter this by using prediction.
+-   You can counter this by using [prediction](Attunement-less.md) requiring the talent [successive prediction](Talents.md)
 
 _Uses Telegraph_
 

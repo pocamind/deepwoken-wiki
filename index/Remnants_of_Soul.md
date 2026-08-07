@@ -1,6 +1,6 @@
 ---
 title: Remnants of Soul
-revid: 225834
+revid: 225913
 source: https://deepwoken.fandom.com/wiki/Remnants_of_Soul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -27,7 +27,3 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The Remnants of Soul is a [Relic](Relics.md) containing a mix of healing remedies and soul made in [Simforea](Simforea.md). Using it will cause the user to spread white mist around themselves, healing whoever was within its radius. _(one-time use, re-obtainable)_
-
-## Trivia
-
--   Due to it being green healing it most likely also works with [Critical Heal](Talents.md#critical-heal).
