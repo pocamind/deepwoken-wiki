@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 224893
+revid: 225927
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -22,15 +22,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ottilde is a [Chrysid](Chrysid.md) NPC. She is a worker of [The Ignition Union](The_Ignition_Union.md).
+Ottilde is a [Chrysid](Chrysid.md) NPC. She is a worker of [The Ignition Union](The_Ignition_Union.md), seeking to return to the [Lullaby Isles](Lullaby_Isles.md).
 
-Ottilde has known nothing but the Union since she was born.
-
-She wears the [Ignition Welder](Ignition_Welder.md) Outfit and [Smith's Goggles](<Smith's_Goggles.md>).
+She wears the [Ignition Welder](Ignition_Welder.md) alongside a Desert [Adventurer's Scarf](<Adventurer's_Scarf.md>) and a pair of [Smith's Goggles](<Smith's_Goggles.md>).
 
 ## Location
 
-Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of the bank, overlooking the sea.
+Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right next to a set of waterfalls near the Antiquarian building.
 
 ## Dialogue
 

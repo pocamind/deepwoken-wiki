@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 225920
+revid: 225925
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -40,4 +40,4 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 -   The enemies do not need to be killed through manually executing them for this enchantment to proc, nor do they need to be killed specifically by you.
 -   You cannot apply the Parasol's Blight status effect to already Unconscious opponents.
 -   The monsters summoned count as 'summons' for the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), healing you when they deal damage.
--   [Bonekeepers](Bone_Keeper.md) summoned from parasols blight are passive to other [monsters](Monsters.md) summoned but if they accidentally hit each other they will become attacking one another.
+-   [Bonekeepers](Bone_Keeper.md) summoned from parasols blight are passive to other [monsters](Monsters.md) summoned but if they accidentally hit each other they will become aggressive to each other.

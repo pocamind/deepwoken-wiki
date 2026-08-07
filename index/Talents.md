@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225879
+revid: 225936
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4053,28 +4053,66 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Fadetrimmer
 
--   [**Oath: Fadetrimmer**](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: [Power](Power.md) 12, change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)
+-   **Oath: Fadetrimmer** \[Oath Talent\] - You [vow](Glossary.md#vows) to forever hone your precision with the scissors. There will never be another fringe incident again.
+    -   See [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Grants +2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN  
+        
+    -   Prerequisites: [Power](Power.md) 12, change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[+Mantra Slots\] \[+PEN\]
 
--   Barber's Skillset \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md)\] - What type of look are we going for today?
+-   **Oath: Fadetrimmer** \[Oath Talent\] - You [vow](Glossary.md#vows) to forever hone your precision with the scissors. There will never be another fringe incident again.
+    -   See [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Grants +2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN  
+        
+    -   Prerequisites: [Power](Power.md) 12, change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[+Mantra Slots\] \[+PEN\]
+
+-   **Barber's Skillset** \[Oath Talent\] - What type of look are we going for today?
     -   Gives a Talent tool that opens an outdated version of the [Barber](Barber.md) UI. Because this uses the outdated variant of this UI, it only has 4 hair slots.
     -   When selecting others: Changes what haircut your Fadetrimmer Mantras apply on hit.
     -   When selecting yourself: Changes your own hair.
-    -   **Do not use hair IDs that can be seen as offensive. This is bannable. You are the one responsible for what hairs you give.**
-    -   Prerequisite: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)
+    -   **Do not use hair IDs that can be seen as offensive. This is bannable. You are the one responsible for what hairs you give.**  
+        
+    -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Tool\]
 
--   Hair Products \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md)\] - What's in these things?
-    -   Gives a Talent tool that shows a popup menu and allows you to select either Flammable, Charming, or Revitalizing Hair Sprays. Your Hair Spray will change to the chosen effect.
-    -   Prerequisite: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)
+-   **Barber's Skillset** \[Oath Talent\] - What type of look are we going for today?
+    -   Gives a Talent tool that opens an outdated version of the [Barber](Barber.md) UI. Because this uses the outdated variant of this UI, it only has 4 hair slots.
+    -   When selecting others: Changes what haircut your Fadetrimmer Mantras apply on hit.
+    -   When selecting yourself: Changes your own hair.
+    -   **Do not use hair IDs that can be seen as offensive. This is bannable. You are the one responsible for what hairs you give.**  
+        
+    -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Tool\]
 
--   Hair Spray \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md)\] - Apply your Hair Products.
-    -   Gives the Hair Spray Talent tool that applies the spray that was selected in the Hair Products' popup menu.
+-   **Hair Products** \[Oath Talent\] - What's in these things?
+    -   Gives a Talent tool that shows a popup menu and allows you to select either Flammable, Charming, or Revitalizing Hair Sprays. Your [Hair Spray](#hair-spray) will change to the chosen effect.  
+        
+    -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Tool\]
+
+-   **Hair Products** \[Oath Talent\] - What's in these things?
+    -   Gives a Talent tool that shows a popup menu and allows you to select either Flammable, Charming, or Revitalizing Hair Sprays. Your [Hair Spray](#hair-spray) will change to the chosen effect.  
+        
+    -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Tool\]
+
+-   **Hair Spray** \[Oath Talent\] - Apply your Hair Products.
+    -   Gives the Hair Spray Talent tool that applies the spray that was selected in the [Hair Products](#hair-products)' popup menu.
     -   Flammable:
-        -   Ignites your opponent or causes an Eruption on hit. 10s CD.
+        -   [Ignites](Status_Effects.md#burn) your opponent or causes an Eruption on hit. 10s CD.
         -   Does not directly deal damage, deals no posture damage and restores no posture if parried.
         -   Parryable and blockable, but it applies the burn on the first tick, meaning if you don't frame perfect parry it, your parry won't do anything.
     -   Charming:
-        -   Charms your opponent for 15 seconds on hit (halved to 7.5s against Disbelief). 10s CD.
+        -   [Charms](Status_Effects.md#charm) your opponent for 15 seconds on hit. 10s CD.
         -   Does not deal damage, deals no posture damage and restores no posture if parried.
         -   Parryable and blockable, but it applies the Charm on the first tick, meaning if you don't frame perfect parry it, your parry won't do anything.
         -   Can be used as a substitute for the Lasting Charisma Talent in low/no Charisma builds.
@@ -4082,23 +4120,72 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   Heals a flat 10% health to any targets hit. 10s CD.
         -   Can heal non-allies or even mobs.
         -   Unparryable and unblockable.
-        -   Can become a damaging tool with the Bloodrend Talent, Hemorrhaging Blow.
-    -   Prerequisite: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)
+        -   Can become a damaging tool with the Bloodrend Talent, [Hemorrhaging Blow](#hemorrhaging-blow).  
+            
+    -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Charn\] \[Debuff\] \[Support\] \[Tool\]
+
+-   **Hair Spray** \[Oath Talent\] - Apply your Hair Products.
+    -   Gives the Hair Spray Talent tool that applies the spray that was selected in the [Hair Products](#hair-products)' popup menu.
+    -   Flammable:
+        -   [Ignites](Status_Effects.md#burn) your opponent or causes an Eruption on hit. 10s CD.
+        -   Does not directly deal damage, deals no posture damage and restores no posture if parried.
+        -   Parryable and blockable, but it applies the burn on the first tick, meaning if you don't frame perfect parry it, your parry won't do anything.
+    -   Charming:
+        -   [Charms](Status_Effects.md#charm) your opponent for 15 seconds on hit. 10s CD.
+        -   Does not deal damage, deals no posture damage and restores no posture if parried.
+        -   Parryable and blockable, but it applies the Charm on the first tick, meaning if you don't frame perfect parry it, your parry won't do anything.
+        -   Can be used as a substitute for the Lasting Charisma Talent in low/no Charisma builds.
+    -   Revitalizing:
+        -   Heals a flat 10% health to any targets hit. 10s CD.
+        -   Can heal non-allies or even mobs.
+        -   Unparryable and unblockable.
+        -   Can become a damaging tool with the Bloodrend Talent, [Hemorrhaging Blow](#hemorrhaging-blow).  
+            
+    -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
+        
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Charn\] \[Debuff\] \[Support\] \[Tool\]
 
 ### Falling Star Guard
 
--   Meteor Impact \[Common Talent, Flamecharm\] - Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
-    -   Deals 10 flat Flamecharm damage on top of your weapon's scaled damage.
+-   **Meteor Impact** \[Common Talent\] - Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
+    -   Deals 10 flat damage on top of your weapon's scaled damage, dealt fully as Flamecharm damage.
     -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
     -   Meteor impact is used by light attacking after using some Mantras that end with both user and victim suspended in air, including: [Rising Flame](Flamecharm.md#rising-flame), [Flame Leap](Flamecharm.md#flame-leap), [Rising Frost](Frostdraw.md#rising-frost), [Rising Wind](Galebreathe.md#rising-wind), [Lightning Impact](Thundercall.md#lightning-impact), [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints. There may be more that do, but simply aren't documented yet.
         -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely.
-    -   Some Mantras, despite leaving both players in the air, **can't** activate Meteor Impact, such as [Celestial Assault](Oath%253A_Starkindred.md), or [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark).
+    -   Some Mantras, despite leaving both players in the air, **can't** activate Meteor Impact, such as [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault), or [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark).  
+        
     -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
-        -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)
+        -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)  
+            
+    -   Tags: \[Flamecharm\]
 
--   Phoenix Impact \[Common Talent, Flamecharm\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
-    -   Heals 4% max HP and restores 20 ether.
-    -   Prerequisites: Meteor Impact, 40 Flamecharm
+-   **Meteor Impact** \[Common Talent\] - Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
+    -   Deals 10 flat damage on top of your weapon's scaled damage, dealt fully as Flamecharm damage.
+    -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
+    -   Meteor impact is used by light attacking after using some Mantras that end with both user and victim suspended in air, including: [Rising Flame](Flamecharm.md#rising-flame), [Flame Leap](Flamecharm.md#flame-leap), [Rising Frost](Frostdraw.md#rising-frost), [Rising Wind](Galebreathe.md#rising-wind), [Lightning Impact](Thundercall.md#lightning-impact), [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints. There may be more that do, but simply aren't documented yet.
+        -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely.
+    -   Some Mantras, despite leaving both players in the air, **can't** activate Meteor Impact, such as [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault), or [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark).  
+        
+    -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
+        -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)  
+            
+    -   Tags: \[Flamecharm\]
+
+-   **Phoenix Impact** \[Common Talent\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
+    -   Heals 4% max HP and restores 20 ether.  
+        
+    -   Prerequisites: [Meteor Impact](#meteor-impact), 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Sustain\]
+
+-   **Phoenix Impact** \[Common Talent\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
+    -   Heals 4% max HP and restores 20 ether.  
+        
+    -   Prerequisites: [Meteor Impact](#meteor-impact), 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Sustain\]
 
 ### Fish
 
@@ -7609,75 +7696,215 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Common Talent\] \[Equipment\] \[Guardbreak\]
 
--   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
+-   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
     -   Adds a +20% damage modifier to your [Strength Mantras](Attunement-less.md#strength-mantras), should they guardbreak while you have a [Wrath Gem](Wrath_Gem.md) equipped onto them.
     -   Applies a 50% slow for 5.5 seconds on proc.
-    -   10 second cooldown.
+    -   10 second cooldown.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Slow\]
 
--   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
+-   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
+    -   Adds a +20% damage modifier to your [Strength Mantras](Attunement-less.md#strength-mantras), should they guardbreak while you have a [Wrath Gem](Wrath_Gem.md) equipped onto them.
+    -   Applies a 50% slow for 5.5 seconds on proc.
+    -   10 second cooldown.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Slow\]
+
+-   **Featherfall**: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates up to 255 fall damage before going on a 2 minute cooldown.
-    -   The fall damage negated, before this goes on cooldown, does not reset and saves between servers.
+    -   The fall damage negated, before this goes on cooldown, does not reset and saves between servers.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\]
 
--   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
+-   **Featherfall**: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
+    -   Negates up to 255 fall damage before going on a 2 minute cooldown.
+    -   The fall damage negated, before this goes on cooldown, does not reset and saves between servers.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\]
 
--   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Double the amount of ether you gain on successful light attacks.
-    -   Doubles the Ether gained from landed M1 attacks.
+-   **Ferryman's Curse**: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
+    -   This synergizes with this Outfit's combined 51% Thundercall resistance.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Damage Resistance\]
 
--   Flashwind: [Specialist Boots](Specialist_Boots.md) - Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.
+-   **Ferryman's Curse**: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
+    -   This synergizes with this Outfit's combined 51% Thundercall resistance.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Damage Resistance\]
+
+-   **Fists of Navae**: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Double the amount of ether you gain on successful light attacks.
+    -   Doubles the Ether gained from landed M1 attacks.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\]
+
+-   **Fists of Navae**: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Double the amount of ether you gain on successful light attacks.
+    -   Doubles the Ether gained from landed M1 attacks.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\]
+
+-   **Flashwind**: [Specialist Boots](Specialist_Boots.md) - Anytime you proc [Air Pressure](#air-pressure) or [Overcharge](#overcharge), give yourself the ability to have enhanced dashes again for a few seconds.
     -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.
-    -   While similar to Lightning/Gale dashes, this is its own thing and ignores their cooldowns.
+    -   While similar to Lightning/Gale dashes, this is its own thing and ignores their cooldowns.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Dodge\] \[Mobility\]
 
--   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
+-   **Flashwind**: [Specialist Boots](Specialist_Boots.md) - Anytime you proc [Air Pressure](#air-pressure) or [Overcharge](#overcharge), give yourself the ability to have enhanced dashes again for a few seconds.
+    -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.
+    -   While similar to Lightning/Gale dashes, this is its own thing and ignores their cooldowns.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Dodge\] \[Mobility\]
 
--   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Increase the amount of [temporary health](Status_Effects.md#temporary-health) you receive by 15%.
+-   **Fleetfoot**: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
+    
+    -   Tags: \[Common Talent\] \[Outfit\] \[Speed Boost\]
 
--   Focused Strikes: [Gale Enhanced Beads](Gale_Enhanced_Beads.md) & [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
+-   **Fleetfoot**: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
+    
+    -   Tags: \[Common Talent\] \[Outfit\] \[Speed Boost\]
 
--   Footwork Mastery: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md) & [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) - Landing a critical gives you an immense speed boost for 10 seconds.
+-   **Focused Hematoma**: [Sanguine Finery](Sanguine_Finery.md) - Increase the amount of [temporary health](Status_Effects.md#temporary-health) you receive by 15%.
+    
+    -   Tags: \[Common Talent\] \[Outfit\] \[Sustain\] \[Temporary Health\]
+
+-   **Focused Hematoma**: [Sanguine Finery](Sanguine_Finery.md) - Increase the amount of [temporary health](Status_Effects.md#temporary-health) you receive by 15%.
+    
+    -   Tags: \[Common Talent\] \[Outfit\] \[Sustain\] \[Temporary Health\]
+
+-   **Focused Strikes**: [Gale Enhanced Beads](Gale_Enhanced_Beads.md) & [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Posture Damage Buff\]
+
+-   **Focused Strikes**: [Gale Enhanced Beads](Gale_Enhanced_Beads.md) & [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Posture Damage Buff\]
+
+-   **Footwork Mastery**: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md) & [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) - Landing a critical gives you an immense speed boost for 10 seconds.
     
     -   45 second cooldown.
-    -   The speed boost lasts 15 seconds despite what the description states.
+    -   The speed boost lasts 15 seconds despite what the description states.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Speed Boost\]
 
--   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) & [Reforged Gauntlets](Reforged_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of armor durability.
+-   **Footwork Mastery**: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md) & [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) - Landing a critical gives you an immense speed boost for 10 seconds.
+    
+    -   45 second cooldown.
+    -   The speed boost lasts 15 seconds despite what the description states.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Speed Boost\]
+
+-   **Force Your Way**: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) & [Reforged Gauntlets](Reforged_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of armor durability.
     
     -   This does not allow you to parry **all** unparryable monster attacks.
+    -   Monster attacks that are parriable with Force Your Way are tagged as such on their pages.
     -   The armor durability lost is based on the amount of damage you would have taken normally.
-    -   When parrying attacks that are slide, jump, or slide only, the armor loss penalty will be greatly increased.
+    -   When parrying attacks that are slide, jump, or slide only, the armor loss penalty is greatly increased.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Outfit\]
 
--   Good Luck Charm: [Jadeite Megalodaunt](Jadeite_Megalodaunt.md) - Makes you feel a little better, probably.
-    -   This Talent has no effects,[\[1\]](#cite-note-1) so it probably isn't actually going to make you feel better.
+-   **Force Your Way**: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) & [Reforged Gauntlets](Reforged_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of armor durability.
+    
+    -   This does not allow you to parry **all** unparryable monster attacks.
+    -   Monster attacks that are parriable with Force Your Way are tagged as such on their pages.
+    -   The armor durability lost is based on the amount of damage you would have taken normally.
+    -   When parrying attacks that are slide, jump, or slide only, the armor loss penalty is greatly increased.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Outfit\]
 
--   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
-    -   Reduces Burn damage by 50%
-        -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
-    -   Reduces Bleed damage by 25%
+-   **Good Luck Charm**: [Jadeite Megalodaunt](Jadeite_Megalodaunt.md) - Makes you feel a little better, probably.
+    -   This Talent has no effects,[\[1\]](#cite-note-1) so it probably isn't actually going to make you feel better.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Good Luck Charm**: [Jadeite Megalodaunt](Jadeite_Megalodaunt.md) - Makes you feel a little better, probably.
+    -   This Talent has no effects,[\[1\]](#cite-note-1) so it probably isn't actually going to make you feel better.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Grotesque Resilience**: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
+    -   Reduces [Burn](Status_Effects.md#burn) damage by 50%
+        -   If you are utilizing [Flame Within](#flame-within), the DoT damage reduction will be reduced down to 25%.
+    -   Reduces [Bleed](Status_Effects.md#bleed) damage by 25%
     -   Does not work on all Damage over Time effects.
-        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Viscosity.md), or Rush Hour from Bloodrend.
+        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) [Reveal](#reveal), [Viscosity](Viscosity.md), [Deferred](Deferred.md), or [Rush Hour](#rush-hour) from Bloodrend.  
+            
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\]
 
--   Gut Rot: [Broodplate Sabatons](Broodplate_Sabatons.md) - Landing a flourish enhances your next instance of [anti-heal](Status_Effects.md#anti-heal), doubling its duration for how long it lasts.
+-   **Grotesque Resilience**: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
+    -   Reduces [Burn](Status_Effects.md#burn) damage by 50%
+        -   If you are utilizing [Flame Within](#flame-within), the DoT damage reduction will be reduced down to 25%.
+    -   Reduces [Bleed](Status_Effects.md#bleed) damage by 25%
+    -   Does not work on all Damage over Time effects.
+        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) [Reveal](#reveal), [Viscosity](Viscosity.md), [Deferred](Deferred.md), or [Rush Hour](#rush-hour) from Bloodrend.  
+            
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\]
 
--   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
-    -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
+-   **Gut Rot**: [Broodplate Sabatons](Broodplate_Sabatons.md) - Landing a flourish enhances your next instance of [anti-heal](Status_Effects.md#anti-heal), doubling its duration for how long it lasts.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Anti-Sustain\] \[Flourish\]
+
+-   **Gut Rot**: [Broodplate Sabatons](Broodplate_Sabatons.md) - Landing a flourish enhances your next instance of [anti-heal](Status_Effects.md#anti-heal), doubling its duration for how long it lasts.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Anti-Sustain\] \[Flourish\]
+
+-   **Heartwing Beat**: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
+    -   Replaces your aerial attack with a swooshing attack that applies [Wither](Status_Effects.md#wither) and has innate [Bleed](Status_Effects.md#bleed).
     -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#relentless-hunt) unless this Talent is on cooldown.
     -   Heartwing Beat has 25 base damage, and mirrors the scaling stat from your equipped weapon. Tangentially, this Talent uses the weapon scaling formula.
         -   For example, using Heartwing Beat on the [Sword](<Sword_(weapon).md>) will give it 2.5 Medium scaling, while using it on the [Repeater](Repeater.md) will give it 15 Light Weapon scaling.
-    -   Heartwing Beat has a 10 second cooldown.
+    -   Heartwing Beat has a 10 second cooldown.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\]
 
--   Herbivore: [Herbalist's Hat](<Herbalist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) - You gain more nutrition from eating plants.
+-   **Heartwing Beat**: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
+    -   Replaces your aerial attack with a swooshing attack that applies [Wither](Status_Effects.md#wither) and has innate [Bleed](Status_Effects.md#bleed).
+    -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#relentless-hunt) unless this Talent is on cooldown.
+    -   Heartwing Beat has 25 base damage, and mirrors the scaling stat from your equipped weapon. Tangentially, this Talent uses the weapon scaling formula.
+        -   For example, using Heartwing Beat on the [Sword](<Sword_(weapon).md>) will give it 2.5 Medium scaling, while using it on the [Repeater](Repeater.md) will give it 15 Light Weapon scaling.
+    -   Heartwing Beat has a 10 second cooldown.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\]
 
--   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
-    -   Your dodge window is increased by 0.05s.
+-   **Herbivore**: [Herbalist's Hat](<Herbalist's_Hat.md>) & [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) - You gain more nutrition from eating plants.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Food\]
 
--   Hyperbody: [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) - Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it. \[2 min CD\]
+-   **Herbivore**: [Herbalist's Hat](<Herbalist's_Hat.md>) & [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) - You gain more nutrition from eating plants.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Food\]
+
+-   **Hunter's Reflexes**: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
+    -   Your dodge window is increased by 0.05s.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Dodge\]
+
+-   **Hunter's Reflexes**: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
+    -   Your dodge window is increased by 0.05s.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Dodge\]
+
+-   **Hyperbody**: [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) - Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it. \[2 min CD\]
     -   Grants a Talent tool that applies buffs to yourself and allies.
     -   Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself.
     -   Hyperbody has a 2 minute cooldown.
-    -   Increases your movement speed by 7.5 studs/s, split evenly among each ally buffed.
-        -   This counts as a speed boost for Talent effects.
-    -   Grants +50% passive health regeneration, split among each ally buffed.
+    -   Grants a +7.5 studs/s [Speed Boost](Status_Effects.md#speed-boost), split evenly among each ally buffed.
+    -   Grants +50% passive health regeneration, split evenly among each ally buffed.
     -   Grants a 35.5% damage reduction buff. This is **increased** by 20% multiplicatively for every ally buffed.
         -   For example at one ally, this will grant +42.6% damage reduction, at two allies this will grant 51.12% damage reduction, and so on.
-    -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.
+    -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Damage Resistance\] \[Speed Boost\] \[Support\] \[Sustain\] \[Tool\]
+
+-   **Hyperbody**: [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) - Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it. \[2 min CD\]
+    -   Grants a Talent tool that applies buffs to yourself and allies.
+    -   Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself.
+    -   Hyperbody has a 2 minute cooldown.
+    -   Grants a +7.5 studs/s [Speed Boost](Status_Effects.md#speed-boost), split evenly among each ally buffed.
+    -   Grants +50% passive health regeneration, split evenly among each ally buffed.
+    -   Grants a 35.5% damage reduction buff. This is **increased** by 20% multiplicatively for every ally buffed.
+        -   For example at one ally, this will grant +42.6% damage reduction, at two allies this will grant 51.12% damage reduction, and so on.
+    -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Damage Resistance\] \[Speed Boost\] \[Support\] \[Sustain\] \[Tool\]
 
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
     -   Increases the effectiveness of Blue Gems by 20%, additively.
