@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225936
+revid: 225968
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4190,104 +4190,328 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 ### Fish
 
 -   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water.
-    -   The old Scuba Drowner Talent was merged into this Talent.
+    -   The old [Scuba Drowner](Cut_Content.md#scuba-drowner) Talent was merged into this Talent.  
+        
+    -   Prerequisites: None  
+        
+    -   Tags: \[Sustain\]
+
+-   **Fishman** \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water.
+    -   The old [Scuba Drowner](Cut_Content.md#scuba-drowner) Talent was merged into this Talent.  
+        
+    -   Prerequisites: None  
+        
+    -   Tags: \[Sustain\]
 
 -   _Landshark_ \[Quest Talent\] - Killing a [megalodaunt](Megalodaunt.md) will grant lifesteal on your attacks for 30 seconds.
     -   The lifesteal does not work in PvP.
     -   This procs when killing any [Megalodaunt variant](<Megalodaunt_(disambiguation).md>)
-    -   This Talent is unobtainable.
+    -   This Talent is unobtainable.  
+        
+    -   Tags: \[Sustain\]
+
+-   **Landshark** \[Quest Talent\] - Killing a [megalodaunt](Megalodaunt.md) will grant lifesteal on your attacks for 30 seconds.
+    -   The lifesteal does not work in PvP.
+    -   This procs when killing any [Megalodaunt variant](<Megalodaunt_(disambiguation).md>)
+    -   This Talent is unobtainable.  
+        
+    -   Tags: \[Sustain\]
 
 ### Fang and Coil
 
--   _Fang and Coil_ \[Common Talent, Light Weapon\] - Adopt the path of the serpent.
-    -   Allows you to use the [Fang and Coil](Fang_and_Coil.md) [fist style](Fists.md).
-    -   Prerequisites: 20 Light Weapon, Friend [Etris](Etris.md) Reputation, defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and speak to [Vesque](Vesque.md).
+-   _Fang and Coil_ \[Quest Talent\] - Adopt the path of the serpent.
+    -   Allows you to use the [Fang and Coil](Fang_and_Coil.md) [fist style](Fists.md). See [Fang and Coil](Fang_and_Coil.md).  
+        
+    -   Prerequisites: 20 Light Weapon, Friend [Etris](Etris.md) Reputation, defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and speak to [Vesque](Vesque.md).  
+        
+    -   Tags: \[Light Weapon\] \[Fist\] \[Fist Style\]
+
+-   **Fang and Coil** \[Quest Talent\] - Adopt the path of the serpent.
+    -   Allows you to use the [Fang and Coil](Fang_and_Coil.md) [fist style](Fists.md). See [Fang and Coil](Fang_and_Coil.md).  
+        
+    -   Prerequisites: 20 Light Weapon, Friend [Etris](Etris.md) Reputation, defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and speak to [Vesque](Vesque.md).  
+        
+    -   Tags: \[Light Weapon\] \[Fist\] \[Fist Style\]
 
 ### Flame Dancer
 
--   Dancing Steps \[Common Talent, Flamecharm\] - Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now move you in the direction you're facing.
+-   **Dancing Steps** \[Common Talent\] - Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now move you in the direction you're facing.
     -   Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted.
     -   Very useful for closing distance and getting into close quarters combat.
-    -   Despite what Graceful Step's Talent description implies, this Talent does **not** grant a speed boost.
-    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.
-    -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
+    -   Despite what [Graceful Step](#graceful-step)'s Talent description implies, this Talent does **not** grant a speed boost.
+    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.  
+        
+    -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8  
+        
+    -   Tags: \[Flamecharm\] \[Mobility\]
 
--   _Graceful Steps_ \[Rare Talent, Flamecharm\] - Your dancing steps now gives a faster speed boost.
+-   **Dancing Steps** \[Common Talent\] - Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now move you in the direction you're facing.
+    -   Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted.
+    -   Very useful for closing distance and getting into close quarters combat.
+    -   Despite what [Graceful Step](#graceful-step)'s Talent description implies, this Talent does **not** grant a speed boost.
+    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.  
+        
+    -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8  
+        
+    -   Tags: \[Flamecharm\] \[Mobility\]
+
+-   _Graceful Steps_ \[Rare Talent\] - Your dancing steps now gives a faster speed boost.
     -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
-    -   The speed boost has a very short duration; having a fast swingspeed weapon is recommended to capitalize off this Talent's effect.
-    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.
-    -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
+    -   The speed boost has a very short duration; having a fast swingspeed weapon and Mantra feinting is recommended to capitalize off this Talent's effect.
+    -   This does not increase the distance traveled by [Dancing Steps](#dancing-steps).
+    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.  
+        
+    -   Tags: \[Flamecharm\] \[Mobility\] \[Speed Boost\]
 
--   _The Final Act_ \[Rare Talent, Flamecharm\] - Landing a fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] immediately after flourishing an opponent will cause them to explode.
+-   **Graceful Steps** \[Rare Talent\] - Your dancing steps now gives a faster speed boost.
+    -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
+    -   The speed boost has a very short duration; having a fast swingspeed weapon and Mantra feinting is recommended to capitalize off this Talent's effect.
+    -   This does not increase the distance traveled by [Dancing Steps](#dancing-steps).
+    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.  
+        
+    -   Tags: \[Flamecharm\] \[Mobility\] \[Speed Boost\]
+
+-   _The Final Act_ \[Rare Talent\] - Landing a fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] immediately after flourishing an opponent will cause them to explode.
     -   Does not have a cooldown.
     -   Deals 5 Flamecharm damage.
-    -   Will not proc on knocked NPCs/players and mobs.
-    -   Can proc with [Mecha Gatling](Monster_Mantras.md#mecha-gatling).
-    -   Prerequisites: 60 Flamecharm, [Power](Power.md) 13
-    -   Mutual Exclusive: Eruption Path: Lava Serpent
+    -   Does not proc on [Unconscious](Status_Effects.md#unconscious) entities.
+    -   Can proc with [Mecha Gatling](Monster_Mantras.md#mecha-gatling).  
+        
+    -   Prerequisites: 60 Flamecharm, [Power](Power.md) 12  
+        
+    -   Mutual Exclusives: [Eruption Path: Lava Serpent](#eruption-path-lava-serpent)  
+        
+    -   Tags: \[Flamecharm\] \[Flourish\]
+
+-   **The Final Act** \[Rare Talent\] - Landing a fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] immediately after flourishing an opponent will cause them to explode.
+    -   Does not have a cooldown.
+    -   Deals 5 Flamecharm damage.
+    -   Does not proc on [Unconscious](Status_Effects.md#unconscious) entities.
+    -   Can proc with [Mecha Gatling](Monster_Mantras.md#mecha-gatling).  
+        
+    -   Prerequisites: 60 Flamecharm, [Power](Power.md) 12  
+        
+    -   Mutual Exclusives: [Eruption Path: Lava Serpent](#eruption-path-lava-serpent)  
+        
+    -   Tags: \[Flamecharm\] \[Flourish\]
 
 ### Flame Warden
 
--   Cauterized Wounds \[Common Talent, Fortitude, Flamecharm\] - Blood loss from all sources is lowered. (+1 Passive Agility)
+-   **Cauterized Wounds** \[Common Talent\] - Blood loss from all sources is lowered.
     -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Alchemy.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
     -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
-    -   Stacks with Alloyblood.
-    -   Prerequisites: 40 Flamecharm, 5 Fortitude
-    -   The [Bloodforged Crown](Bloodforged_Crown.md) equipment has this Talent.
+    -   Stacks with other Talents that reduce blood loss, like [Alloyblood](#alloyblood).  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 40 Flamecharm, 5 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Bloodforged Crown](Bloodforged_Crown.md), [The No-Life King's Crown](<The_No-Life_King's_Crown.md>), and [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)  
+        
+    -   Tags: \[Fortitude\] \[Flamecharm\] \[+Passive Agility\]
 
--   _Warding Radiance_ \[Rare Talent, Agility, Flamecharm\] - Every fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
-    -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
+-   **Cauterized Wounds** \[Common Talent\] - Blood loss from all sources is lowered.
+    -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Alchemy.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
+    -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
+    -   Stacks with other Talents that reduce blood loss, like [Alloyblood](#alloyblood).  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 40 Flamecharm, 5 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Bloodforged Crown](Bloodforged_Crown.md), [The No-Life King's Crown](<The_No-Life_King's_Crown.md>), and [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)  
+        
+    -   Tags: \[Fortitude\] \[Flamecharm\] \[+Passive Agility\]
+
+-   _Warding Radiance_ \[Rare Talent\] - Every fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+    -   Allows you to proc [Hell's Partisan](#hells-partisan) on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
     -   This can be easily procced by landing a multi-hit fire Mantra.
-    -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.
-    -   Prerequisites: 20 Agility, 30 Flamecharm
+    -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 20 Agility, 30 Flamecharm  
+        
+    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\] \[Mobility\]
 
--   Flamewalker \[Common Talent, Agility, Flamecharm\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
-    -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
+-   **Warding Radiance** \[Rare Talent\] - Every fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+    -   Allows you to proc [Hell's Partisan](#hells-partisan) on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
+    -   This can be easily procced by landing a multi-hit fire Mantra.
+    -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 20 Agility, 30 Flamecharm  
+        
+    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\] \[Mobility\]
 
--   Hell's Partisan \[Common Talent, Flamecharm\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
+-   **Flamewalker** \[Common Talent\] -
+    -   When targets come into contact with the flame trail, they are set on fire. If you have Eruption Path, this will cause an Eruption instead.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 25 Agility, 40 Flamecharm, [Warding Radiance](#warding-radiance)  
+        
+    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\]
+
+-   **Flamewalker** \[Common Talent\] -
+    -   When targets come into contact with the flame trail, they are set on fire. If you have Eruption Path, this will cause an Eruption instead.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 25 Agility, 40 Flamecharm, [Warding Radiance](#warding-radiance)  
+        
+    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\]
+
+-   **Hell's Partisan** \[Common Talent\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.
+    -   "Flame dagger" refers to the [Fire Forge](Flamecharm.md#fire-forge) Mantra.
+    -   The [Warding Radiance](#warding-radiance) Talent allows you to proc Hell's Partisan with any Flamecharm Mantra, instead of exclusively [Fire Forge](Flamecharm.md#fire-forge).
     -   Deals 5 Flamecharm damage.
     -   Has a 5 second cooldown.
-    -   This is parryable, but is not blockable nor dodgeable due to hitstun.
-    -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // Warding Radiance
+    -   This is parryable, but is not blockable nor dodgeable due to hitstun.  
+        
+    -   Grants +4 Sanity  
+        
+    -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance)  
+        
+    -   Tags: \[Flamecharm\] \[+Sanity\]
+
+-   **Hell's Partisan** \[Common Talent\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.
+    -   "Flame dagger" refers to the [Fire Forge](Flamecharm.md#fire-forge) Mantra.
+    -   The [Warding Radiance](#warding-radiance) Talent allows you to proc Hell's Partisan with any Flamecharm Mantra, instead of exclusively [Fire Forge](Flamecharm.md#fire-forge).
+    -   Deals 5 Flamecharm damage.
+    -   Has a 5 second cooldown.
+    -   This is parryable, but is not blockable nor dodgeable due to hitstun.  
+        
+    -   Grants +4 Sanity  
+        
+    -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance)  
+        
+    -   Tags: \[Flamecharm\] \[+Sanity\]
 
 ### Flamecharmer
 
--   Flamecharmer \[Mantra Level Talent, Flamecharm\] - Grants you the ability to command Fire as a Flamecharmer.
-    -   Obtained at 1 Flamecharm
+-   **Flamecharmer** \[Mantra Level Talent\] - Grants you the ability to command Fire as a Flamecharmer.
+    
+    -   Prerequisites: Obtained at 1 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
 
--   Adept Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 20 Flamecharm
+-   **Flamecharmer** \[Mantra Level Talent\] - Grants you the ability to command Fire as a Flamecharmer.
+    
+    -   Prerequisites: Obtained at 1 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
 
--   Expert Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 30 Flamecharm
+-   **Adept Flamecharmer** \[Mantra Level Talent\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Hard Requirements\]
 
--   Master Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 50 Flamecharm
+-   **Adept Flamecharmer** \[Mantra Level Talent\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Hard Requirements\]
 
--   Azure Flames \[Common Talent, Willpower, Flamecharm\] - Many of your flames turn blue, signifying their increased intensity.
+-   **Expert Flamecharmer** \[Mantra Level Talent\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Hard Requirements\]
+
+-   **Expert Flamecharmer** \[Mantra Level Talent\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Hard Requirements\]
+
+-   **Master Flamecharmer** \[Mantra Level Talent\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[+Health\] \[Hard Requirements\]
+
+-   **Master Flamecharmer** \[Mantra Level Talent\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[+Health\] \[Hard Requirements\]
+
+-   **Azure Flames** \[Common Talent\] - Many of your flames turn blue, signifying their increased intensity.
+    -   Changes the color of your [Flamecharm](Flamecharm.md) to blue; your Flame Mantras, [Burn](Status_Effects.md#burn) status, Eruptions, [Blazing](Blazing.md) enchantment, and legendary weapons become blue.
     -   Increases burn damage by 12.5%.
     -   Increases the radius and posture damage of your Eruptions.
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
-    -   Increases [Graceful Flame](Flamecharm.md#graceful-flame)'s "Undying Flame" talent passive healing by 20%.
-    -   Prerequisites: 70 Flamecharm, 40 Willpower
+    -   Increases [Graceful Flame](Flamecharm.md#graceful-flame)'s "[Undying Flame](#undying-flame)" Talent passive healing by 20%.  
+        
+    -   Prerequisites: 70 Flamecharm, 40 Willpower  
+        
+    -   Mutual Exclusives: [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
+        
+    -   Tags: \[Willpower\] \[Flamecharm\] \[Damage Buff\]
 
--   Unyielding Inferno \[Common Talent, Flamecharm\] - Your flames burn just as strong even in the fiercest of storms.
+-   **Azure Flames** \[Common Talent\] - Many of your flames turn blue, signifying their increased intensity.
+    -   Changes the color of your [Flamecharm](Flamecharm.md) to blue; your Flame Mantras, [Burn](Status_Effects.md#burn) status, Eruptions, [Blazing](Blazing.md) enchantment, and legendary weapons become blue.
+    -   Increases burn damage by 12.5%.
+    -   Increases the radius and posture damage of your Eruptions.
+    -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
+    -   Increases [Graceful Flame](Flamecharm.md#graceful-flame)'s "[Undying Flame](#undying-flame)" Talent passive healing by 20%.  
+        
+    -   Prerequisites: 70 Flamecharm, 40 Willpower  
+        
+    -   Mutual Exclusives: [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
+        
+    -   Tags: \[Willpower\] \[Flamecharm\] \[Damage Buff\]
+
+-   **Unyielding Inferno** \[Common Talent\] - Your flames burn just as strong even in the fiercest of storms.
     -   Negates the innate 10% damage debuff Flamecharm Mantras, [First Light](First_Light.md)'s critical, and Twisted Puppets' Puppets receive during the [rain](Environmental_Hazards.md).
-    -   Prevents your burn from going out in rain.
-    -   Prerequisite: 35 Flamecharm
+    -   Prevents your burn from going out in rain.  
+        
+    -   Prerequisites: 35 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
+
+-   **Unyielding Inferno** \[Common Talent\] - Your flames burn just as strong even in the fiercest of storms.
+    -   Negates the innate 10% damage debuff Flamecharm Mantras, [First Light](First_Light.md)'s critical, and Twisted Puppets' Puppets receive during the [rain](Environmental_Hazards.md).
+    -   Prevents your burn from going out in rain.  
+        
+    -   Prerequisites: 35 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
 
 ### Flashfreeze
 
--   Temperature Shock \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Your fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now detonate any stacked crystals.
-    -   This has a 4 second cooldown.
-    -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
+-   **Temperature Shock** \[Common Talent\] - Your fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now detonate any stacked crystals.
+    -   Landing a Flamecharm Mantra detonates the [Crystals](Status_Effects.md#crystals) you've applied.
+    -   This has a 4 second cooldown.  
+        
+    -   Prerequisites: [Glass Path: Crystallization](#glass-path-crystallization), 40 Flamecharm, 40 Frostdraw  
+        
+    -   Tags: \[Flamecharm\] \[Frostdraw\] \[Multi-Attunement\]
+
+-   **Temperature Shock** \[Common Talent\] - Your fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now detonate any stacked crystals.
+    -   Landing a Flamecharm Mantra detonates the [Crystals](Status_Effects.md#crystals) you've applied.
+    -   This has a 4 second cooldown.  
+        
+    -   Prerequisites: [Glass Path: Crystallization](#glass-path-crystallization), 40 Flamecharm, 40 Frostdraw  
+        
+    -   Tags: \[Flamecharm\] \[Frostdraw\] \[Multi-Attunement\]
 
 ### Freak Of Nature
 
--   _Exoskeleton_ \[Rare Talent, Fortitude\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
+-   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
     -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
     -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
@@ -4295,167 +4519,519 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
-    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
-    -   Prerequisite: 40 Fortitude.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased, but can be decreased by having damage reduction.  
+        
+    -   Prerequisites: 40 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\] \[Scale-down\]
 
--   _To The Finish_ \[Rare Talent, Fortitude\] - You take 10% less damage when below 30% health.
-    -   For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.
-    -   Prerequisite: 50 Fortitude
+-   **Exoskeleton** \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
+    -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
+    -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
+    -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
+    -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
+    -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
+    -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased, but can be decreased by having damage reduction.  
+        
+    -   Prerequisites: 40 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\] \[Scale-down\]
+
+-   _To The Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
+    -   For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.  
+        
+    -   Prerequisites: 50 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\] \[Scale-down\]
+
+-   **To The Finish** \[Rare Talent\] - You take 10% less damage when below 30% health.
+    -   For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.  
+        
+    -   Prerequisites: 50 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\] \[Scale-down\]
 
 ### Frost Forger
 
--   Glacial Mobility \[Common Talent, Agility, Frostdraw\] - Cast while slide-jumping to perform a running attack with your ice sabers.
-    -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.
-    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility
+-   **Glacial Mobility** \[Common Talent\] - Cast while slide-jumping to perform a running attack with your ice sabers.
+    -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.  
+        
+    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility  
+        
+    -   Tags: \[Agility\] \[Frostdraw\]
+
+-   **Glacial Mobility** \[Common Talent\] - Cast while slide-jumping to perform a running attack with your ice sabers.
+    -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.  
+        
+    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility  
+        
+    -   Tags: \[Agility\] \[Frostdraw\]
 
 ### Frostdrawer
 
--   Frostdrawer \[Mantra Level Talent, Frostdraw\] - Grants you the ability to command Ice as a Frostdrawer.
-    -   Obtained at 1 Frostdraw
+-   **Frostdrawer** \[Mantra Level Talent\] - Grants you the ability to command Ice as a Frostdrawer.
+    
+    -   Prerequisites: Obtained at 1 Frostdraw  
+        
+    -   Tags: \[Frostdraw\]
 
--   Adept Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 20 Frostdraw
+-   **Frostdrawer** \[Mantra Level Talent\] - Grants you the ability to command Ice as a Frostdrawer.
+    
+    -   Prerequisites: Obtained at 1 Frostdraw  
+        
+    -   Tags: \[Frostdraw\]
 
--   Expert Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 30 Frostdraw
+-   **Adept Frostdrawer** \[Mantra Level Talent\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Hard Requirements\]
 
--   Master Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 50 Frostdraw
+-   **Adept Frostdrawer** \[Mantra Level Talent\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Hard Requirements\]
 
--   Cold Front \[Common Talent, Frostdraw\] - Your vent is imbued with glacial frost.
+-   **Expert Frostdrawer** \[Mantra Level Talent\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Hard Requirements\]
+
+-   **Expert Frostdrawer** \[Mantra Level Talent\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Hard Requirements\]
+
+-   **Master Frostdrawer** \[Mantra Level Talent\] - You can now obtain 3-Star Leveled Frostdraw Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[+Health\] \[Hard Requirements\]
+
+-   **Master Frostdrawer** \[Mantra Level Talent\] - You can now obtain 3-Star Leveled Frostdraw Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[+Health\] \[Hard Requirements\]
+
+-   **Cold Front** \[Common Talent\] - Your vent is imbued with glacial frost.
     -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
-    -   Increases your Vent damage by 40% and changes its damage type to Frostdraw.
-        -   This also applies to the [Imperator's Fury](<Imperator's_Fury.md>)'s Talent despite its damage being otherwise unmodifiable.
-    -   Prerequisites: 25 Frostdraw
+    -   Increases your Vent damage by 40%, and changes its damage type to Frostdraw.
+        -   This also applies to the [Imperator's Fury](<Imperator's_Fury.md>)'s Talent despite its damage being otherwise unmodifiable.  
+            
+    -   Prerequisites: 25 Frostdraw  
+        
+    -   Tags: \[Frostdraw\]
+
+-   **Cold Front** \[Common Talent\] - Your vent is imbued with glacial frost.
+    -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
+    -   Increases your Vent damage by 40%, and changes its damage type to Frostdraw.
+        -   This also applies to the [Imperator's Fury](<Imperator's_Fury.md>)'s Talent despite its damage being otherwise unmodifiable.  
+            
+    -   Prerequisites: 25 Frostdraw  
+        
+    -   Tags: \[Frostdraw\]
 
 ### Frozen Lightning
 
--   Fulgurite Formation \[Common Talent, Dual Attunement, Frostdraw, Thundercall\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
-    -   The lightning strikes deal 5 typeless damage with no PvE scaling & don't apply Surge stacks.
+-   **Fulgurite Formation** \[Common Talent\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
+    -   The lightning strikes deal 5 typeless damage with no PvE scaling, and don't apply [Surge Rods](Status_Effects.md#surge-rods).
     -   The lightning strikes have a cooldown of 4 seconds.
     -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
-    -   The lightning strikes proc Grounding Bolt.
-    -   Prerequisites: Glass Path: Crystallization, Surge Path: Unstable Capacitor, 50 Frostdraw, 50 Thundercall
+    -   The lightning strikes proc [Grounding Bolt](#grounding-bolt).  
+        
+    -   Prerequisites: [Glass Path: Crystallization](#glass-path-crystallization), [Surge Path: Unstable Capacitor](#surge-path-unstable-capacitor), 50 Frostdraw, 50 Thundercall  
+        
+    -   Tags: \[Frostdraw\] \[Thundercall\] \[Multi-Attunement\]
+
+-   **Fulgurite Formation** \[Common Talent\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
+    -   The lightning strikes deal 5 typeless damage with no PvE scaling, and don't apply [Surge Rods](Status_Effects.md#surge-rods).
+    -   The lightning strikes have a cooldown of 4 seconds.
+    -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
+    -   The lightning strikes proc [Grounding Bolt](#grounding-bolt).  
+        
+    -   Prerequisites: [Glass Path: Crystallization](#glass-path-crystallization), [Surge Path: Unstable Capacitor](#surge-path-unstable-capacitor), 50 Frostdraw, 50 Thundercall  
+        
+    -   Tags: \[Frostdraw\] \[Thundercall\] \[Multi-Attunement\]
 
 ### Frostthorn
 
--   Orbital Ice \[Common Talent, Frostdraw\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
-    -   Durability of Orbital Ice is equal to "Frostdraw investment +10".
+-   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
+    -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
     -   Lasts 50 seconds if it is not broken
-    -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 8 seconds. This procs regardless of Bottom Freeze's cooldown.
-    -   Mutual Exclusive: Fists of Fortitude
-        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Fists of Fortitude.
-    -   Prerequisite: 65 Frostdraw
+    -   If you have the [Refreeze](#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
+        
+    -   Prerequisites: 65 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Icebringer's Vestments](<Icebringer's_Vestments.md>)  
+        
+    -   Mutual Exclusives: [Fists of Fortitude](#fists-of-fortitude)
+        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with [Fists of Fortitude](#fists-of-fortitude).  
+            
+    -   Tags: \[Frostdraw\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
--   Glacial Coasting \[Common Talent, Agility, Frostdraw\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
-    -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
+-   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
+    -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
+    -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
+    -   Lasts 50 seconds if it is not broken
+    -   If you have the [Refreeze](#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
+        
+    -   Prerequisites: 65 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Icebringer's Vestments](<Icebringer's_Vestments.md>)  
+        
+    -   Mutual Exclusives: [Fists of Fortitude](#fists-of-fortitude)
+        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with [Fists of Fortitude](#fists-of-fortitude).  
+            
+    -   Tags: \[Frostdraw\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
+
+-   **Glacial Coasting** \[Common Talent\] - Sliding while Orbital Ice is active leaves trails of ice.
+    -   Creates ice patches as you slide, improving your slide speed.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Orbital Ice](#orbital-ice), 25 Agility, 50 Frostdraw  
+        
+    -   Tags: \[Agility\] \[Frostdraw\] \[+Passive Agility\] \[Mobility\]
+
+-   **Glacial Coasting** \[Common Talent\] - Sliding while Orbital Ice is active leaves trails of ice.
+    -   Creates ice patches as you slide, improving your slide speed.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Orbital Ice](#orbital-ice), 25 Agility, 50 Frostdraw  
+        
+    -   Tags: \[Agility\] \[Frostdraw\] \[+Passive Agility\] \[Mobility\]
 
 ### Frozen Warrior
 
--   _Frozen Legs_ \[Rare Talent, Frostdraw\] - Your slow effect prevents your opponents from rolling.
+-   _Frozen Legs_ \[Rare Talent\] - Your slow effect prevents your opponents from rolling.
     -   Does not work with Crystallization.
     -   Lasts the first 0.75 seconds after chill/freeze procs.
-    -   Only procs off Mantras.
-    -   Prerequisite: 60 Frostdraw.
+    -   Only procs off Mantras.  
+        
+    -   Prerequisites: 60 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
+
+-   **Frozen Legs** \[Rare Talent\] - Your slow effect prevents your opponents from rolling.
+    -   Does not work with Crystallization.
+    -   Lasts the first 0.75 seconds after chill/freeze procs.
+    -   Only procs off Mantras.  
+        
+    -   Prerequisites: 60 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
 
 ### Gale Kata
 
--   _Imperium Kata_ \[Quest Talent\] - Wield an advanced form of the Legion's martial arts. (+1 Passive Agility)
-    -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md).
-    -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)
+-   _Imperium Kata_ \[Quest Talent\] - Wield an advanced form of [the Legion](The_Hundred_Legions.md)'s martial arts.
+    -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md). See [Imperium Kata](Imperium_Kata.md).  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)  
+        
+    -   Tags: \[+Passive Agility\] \[Fist\] \[Fist Styles\]
 
--   _Legion Kata_ \[Quest Talent\] - Gain the ability to use the Legion's martial arts.
-    -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
-    -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Rec in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE REC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
+-   **Imperium Kata** \[Quest Talent\] - Wield an advanced form of [the Legion](The_Hundred_Legions.md)'s martial arts.
+    -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md). See [Imperium Kata](Imperium_Kata.md).  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)  
+        
+    -   Tags: \[+Passive Agility\] \[Fist\] \[Fist Styles\]
+
+-   _Legion Kata_ \[Quest Talent\] - Gain the ability to use [the Legion](The_Hundred_Legions.md)'s martial arts.
+    -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md). See [Legion Kata](Legion_Kata.md).  
+        
+    -   Prerequisites: Talk with [Amara](Amara.md) while having [Captain's Rec](<Captain's_Rec.md>) in your inventory.
+        -   _Note: clicking while holding the Captain's Rec deletes it from your inventory, but you can still obtain Legion Kata._  
+            
+    -   Tags: \[Fist\] \[Fist Styles\]
+
+-   **Legion Kata** \[Quest Talent\] - Gain the ability to use [the Legion](The_Hundred_Legions.md)'s martial arts.
+    -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md). See [Legion Kata](Legion_Kata.md).  
+        
+    -   Prerequisites: Talk with [Amara](Amara.md) while having [Captain's Rec](<Captain's_Rec.md>) in your inventory.
+        -   _Note: clicking while holding the Captain's Rec deletes it from your inventory, but you can still obtain Legion Kata._  
+            
+    -   Tags: \[Fist\] \[Fist Styles\]
 
 ### Galebreather
 
--   Galebreather \[Mantra Level Talent, Galebreathe\] - Grants you the ability to command wind as a Galebreather.
-    -   Obtained at 1 Galebreathe
+-   **Galebreather** \[Mantra Level Talent\] - Grants you the ability to command wind as a Galebreather.
+    
+    -   Prerequisites: Obtained at 1 Galebreathe  
+        
+    -   Tags: \[Galebreathe\]
 
--   Adept Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 1-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 20 Galebreathe
+-   **Galebreather** \[Mantra Level Talent\] - Grants you the ability to command wind as a Galebreather.
+    
+    -   Prerequisites: Obtained at 1 Galebreathe  
+        
+    -   Tags: \[Galebreathe\]
 
--   Expert Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 2-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 30 Galebreathe
+-   **Adept Galebreather** \[Mantra Level Talent\] - You can now obtain 1-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[Hard Requirements\]
 
--   Master Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 3-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. (+5 Health)
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 50 Galebreathe
+-   **Adept Galebreather** \[Mantra Level Talent\] - You can now obtain 1-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[Hard Requirements\]
+
+-   **Expert Galebreather** \[Mantra Level Talent\] - You can now obtain 2-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[Hard Requirements\]
+
+-   **Expert Galebreather** \[Mantra Level Talent\] - You can now obtain 2-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[Hard Requirements\]
+
+-   **Master Galebreather** \[Mantra Level Talent\] - You can now obtain 3-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[+Health\] \[Hard Requirements\]
+
+-   **Master Galebreather** \[Mantra Level Talent\] - You can now obtain 3-Star Leveled Galebreathe mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[+Health\] \[Hard Requirements\]
 
 ### Galeforce
 
--   After Cut \[Common Talent, Galebreathe\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\], it does 5% damage instead.
+-   **After Cut** \[Common Talent\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\], it does 5% damage instead.
     -   The only Galebreathe Mantras that benefit from the 5% damage increase are: [Wind Blade](Galebreathe.md#wind-blade), [Air Force](Galebreathe.md#air-force), [Tornado Kick](Galebreathe.md#tornado-kick), [Tornado](Galebreathe.md#tornado), [Galetrap](Galebreathe.md#galetrap), and [Wind Gun](Galebreathe.md#wind-gun).
+    -   The [Maestro's Blade](Status_Effects.md#maestros-blade) status effect from [Inhale](#inhale) allows your basic attacks to benefit from After Cut. Galebreathe weapons benefit from After Cut without needing Inhale, however.
     -   After Cut is **not** a damage modifier, it's a second hit of Galebreathe damage with no hitstun. This means it is unaffected by the damage modifier cap.
     -   After Cut deals damage based on your **final** damage dealt, after resistances and multipliers.
         -   For example, if you deal 100 M1 damage, you'll deal 10 After Cut damage, but if your opponent has 50% physical damage reduction, meaning your M1 now deals 50 damage, this'll also lower your After Cut damage to 5 (10% of 50). On the other hand, if you deal 100 M1 damage and have +50% damage from damage modifiers, After Cut will deal damage based on your modified damage, dealing 15 damage (10% of 150).
-    -   After Cut deals Galebreathe damage, and thus it can be resisted by Galebreathe resistance and Everchanging Aegis.
-    -   Prerequisites: 40 Galebreathe
+    -   After Cut deals Galebreathe damage, which allows it to be double resisted.  
+        
+    -   Prerequisites: 40 Galebreathe  
+        
+    -   Tags: \[Galebreathe\]
 
--   Breathing Impact \[Common Talent, Galebreathe\] - When knocked into objects by wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] enemies take additional blunt damage based off of how hard they are hit.
+-   **After Cut** \[Common Talent\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\], it does 5% damage instead.
+    -   The only Galebreathe Mantras that benefit from the 5% damage increase are: [Wind Blade](Galebreathe.md#wind-blade), [Air Force](Galebreathe.md#air-force), [Tornado Kick](Galebreathe.md#tornado-kick), [Tornado](Galebreathe.md#tornado), [Galetrap](Galebreathe.md#galetrap), and [Wind Gun](Galebreathe.md#wind-gun).
+    -   The [Maestro's Blade](Status_Effects.md#maestros-blade) status effect from [Inhale](#inhale) allows your basic attacks to benefit from After Cut. Galebreathe weapons benefit from After Cut without needing Inhale, however.
+    -   After Cut is **not** a damage modifier, it's a second hit of Galebreathe damage with no hitstun. This means it is unaffected by the damage modifier cap.
+    -   After Cut deals damage based on your **final** damage dealt, after resistances and multipliers.
+        -   For example, if you deal 100 M1 damage, you'll deal 10 After Cut damage, but if your opponent has 50% physical damage reduction, meaning your M1 now deals 50 damage, this'll also lower your After Cut damage to 5 (10% of 50). On the other hand, if you deal 100 M1 damage and have +50% damage from damage modifiers, After Cut will deal damage based on your modified damage, dealing 15 damage (10% of 150).
+    -   After Cut deals Galebreathe damage, which allows it to be double resisted.  
+        
+    -   Prerequisites: 40 Galebreathe  
+        
+    -   Tags: \[Galebreathe\]
+
+-   **Breathing Impact** \[Common Talent\] - When knocked into objects by wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] enemies take additional blunt damage based off of how hard they are hit.
     -   The following Galebreathe Mantras have knockback and can benefit from this Talent: [Air Force](Galebreathe.md#air-force), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), [Tornado Kick](Galebreathe.md#tornado-kick), [Gale Punch](Galebreathe.md#gale-punch), [Rising Wind](Galebreathe.md#rising-wind), and [Wind Gun](Galebreathe.md#wind-gun).
     -   The increased damage dealt is based on the attack's initial damage and your opponent's acceleration.
-    -   Due to the increased damage being based on acceleration, it is **heavily** affected by server performance and ping.
-    -   Prerequisite: 30 Galebreathe
+    -   Due to the increased damage being based on acceleration, it is **heavily** affected by server performance and ping.  
+        
+    -   Prerequisites: 30 Galebreathe  
+        
+    -   Tags: \[Galebreathe\]
 
--   Inhale \[Common Talent, Galebreathe\] - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Breathing Impact** \[Common Talent\] - When knocked into objects by wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] enemies take additional blunt damage based off of how hard they are hit.
+    -   The following Galebreathe Mantras have knockback and can benefit from this Talent: [Air Force](Galebreathe.md#air-force), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), [Tornado Kick](Galebreathe.md#tornado-kick), [Gale Punch](Galebreathe.md#gale-punch), [Rising Wind](Galebreathe.md#rising-wind), and [Wind Gun](Galebreathe.md#wind-gun).
+    -   The increased damage dealt is based on the attack's initial damage and your opponent's acceleration.
+    -   Due to the increased damage being based on acceleration, it is **heavily** affected by server performance and ping.  
+        
+    -   Prerequisites: 30 Galebreathe  
+        
+    -   Tags: \[Galebreathe\]
+
+-   **Inhale** \[Common Talent\] - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale Mantra a 10% damage buff.
     -   Inhaling grants a speed boost for 3 seconds.
     -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut.
-    -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
-    -   Can be procced through Shadowcast Mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.
-    -   Prerequisites: 60 Galebreathe
+        -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
+    -   Can be procced on Flamecharm Mantras if you have the [Fan the Flames](#fan-the-flames) Talent. Can be procced on Shadowcast Mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.  
+        
+    -   Prerequisites: 60 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[Damage Buff\] \[Speed Boost\]
+
+-   **Inhale** \[Common Talent\] - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale Mantra a 10% damage buff.
+    -   Inhaling grants a speed boost for 3 seconds.
+    -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut.
+        -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
+    -   Can be procced on Flamecharm Mantras if you have the [Fan the Flames](#fan-the-flames) Talent. Can be procced on Shadowcast Mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.  
+        
+    -   Prerequisites: 60 Galebreathe  
+        
+    -   Tags: \[Galebreathe\] \[Damage Buff\] \[Speed Boost\]
 
 ### Genius Intellect
 
--   _Neuroplasticity_ \[Rare Talent, Mind\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 10%. (+1 Wildcard Mantra Slot)
+-   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 10%.
     -   The increased Ether Cost from Modified Mantras is reduced by 10% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 9, for tier 2 - from 20 Ether to 18).
-    -   Does not apply retroactively to previously modified Mantras until you rejoin.
-    -   Prerequisite: 35 Mind (35 Charisma // 35 Intelligence // 35 Willpower)
+    -   Does not apply retroactively to previously modified Mantras until you rejoin.  
+        
+    -   Grants +1 Wildcard Mantra Slot  
+        
+    -   Prerequisites: 35 Mind (35 Charisma // 35 Intelligence // 35 Willpower)  
+        
+    -   Tags: \[Mind\] \[+Mantra Slots\]
+
+-   **Neuroplasticity** \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 10%.
+    -   The increased Ether Cost from Modified Mantras is reduced by 10% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 9, for tier 2 - from 20 Ether to 18).
+    -   Does not apply retroactively to previously modified Mantras until you rejoin.  
+        
+    -   Grants +1 Wildcard Mantra Slot  
+        
+    -   Prerequisites: 35 Mind (35 Charisma // 35 Intelligence // 35 Willpower)  
+        
+    -   Tags: \[Mind\] \[+Mantra Slots\]
 
 ### Glassdancer
 
--   Glass Path: Crystallization \[Common Talent, Frostdraw\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
+-   **Glass Path: Crystallization** \[Common Talent\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
     -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking an opponent who has crystals makes them explode.
-    -   3 base Frostdraw damage per crystal explosion with 5 Frostdraw scaling. Formula to calculate crystal DMG is ((3+frostdraw investment\*0.015)\*crystal amount)
-    -   Has 4.45x PVE scale (18.75 DMG PVP, 83.53 DMG PVE), affected by Chain of Perfection.
+    -   3 base Frostdraw damage per crystal with 5 Frostdraw scaling. The formula to calculate crystal damage is: (3 + (1 + 5/1000 × Frostdraw investment)) × crystal amount
+    -   Has a PvE damage multiplier of 4.45x.
     -   1s cooldown on explosion proc.
     -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
     -   Increases the damage of [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) (they will do reduced damage if you remove this Talent).
     -   [Chilling](Chilling.md) now applies 1 crystal on hit.
-    -   Changes color of your Frostdraw Mantras, [Gran Sudaruska](Gran_Sudaruska.md), [Kyrswynter](Kyrswynter.md), and [Chilling](Chilling.md) Enchant to become a pinkish red color.
-    -   Prerequisite: 40 Frostdraw
-    -   Mutual Exclusives: Unyielding Frost, Flashboil
+    -   Changes color of your Frostdraw Mantras, [Gran Sudaruska](Gran_Sudaruska.md), [Kyrswynter](Kyrswynter.md), [Hero's Blade of Frost](<Hero's_Blade_of_Frost.md>), and [Chilling](Chilling.md) Enchant to become a pinkish red color.  
+        
+    -   Prerequisites: 40 Frostdraw  
+        
+    -   Mutual Exclusives: [Unyielding Frost](#unyielding-frost), [Flashboil](#flashboil)  
+        
+    -   Tags: \[Frostdraw\] \[Attunement Path\] \[Debuff\] \[Investment Scaling\] \[Scale-down\]
 
--   Crystal Shrapnel \[Common Talent, Frostdraw\] - Your crystal explosions now have an AoE that applies crystals to all hit.
+-   **Glass Path: Crystallization** \[Common Talent\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
+    -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking an opponent who has crystals makes them explode.
+    -   3 base Frostdraw damage per crystal with 5 Frostdraw scaling. The formula to calculate crystal damage is: (3 + (1 + 5/1000 × Frostdraw investment)) × crystal amount
+    -   Has a PvE damage multiplier of 4.45x.
+    -   1s cooldown on explosion proc.
+    -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
+    -   Increases the damage of [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) (they will do reduced damage if you remove this Talent).
+    -   [Chilling](Chilling.md) now applies 1 crystal on hit.
+    -   Changes color of your Frostdraw Mantras, [Gran Sudaruska](Gran_Sudaruska.md), [Kyrswynter](Kyrswynter.md), [Hero's Blade of Frost](<Hero's_Blade_of_Frost.md>), and [Chilling](Chilling.md) Enchant to become a pinkish red color.  
+        
+    -   Prerequisites: 40 Frostdraw  
+        
+    -   Mutual Exclusives: [Unyielding Frost](#unyielding-frost), [Flashboil](#flashboil)  
+        
+    -   Tags: \[Frostdraw\] \[Attunement Path\] \[Debuff\] \[Investment Scaling\] \[Scale-down\]
+
+-   **Crystal Shrapnel** \[Common Talent\] - Your crystal explosions now have an AoE that applies crystals to all hit.
     -   Does not hit allies or the target procced on.
-    -   Has a range of 10 studs from the target procced on.
-    -   Scales off Frostdraw investment and amount of crystals present.
-    -   Prerequisites: Glass Path: Crystallization, 60 Frostdraw
+    -   Has a range of 10 studs from the target procced on.  
+        
+    -   Prerequisites: [Glass Path: Crystallization](#glass-path-crystallization), 60 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
 
--   Reclaimed Glass \[Common Talent, Frostdraw\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds.
-    -   Targets with Reclaimed Glass will have a pink triangle VFX that stacks.
-    -   Despite the VFX stacking the elemental resistance will not stack.
-    -   Relanding this will refresh the duration.
-    -   Prerequisites: Crystal Shrapnel, 65 Frostdraw
+-   **Crystal Shrapnel** \[Common Talent\] - Your crystal explosions now have an AoE that applies crystals to all hit.
+    -   Does not hit allies or the target procced on.
+    -   Has a range of 10 studs from the target procced on.  
+        
+    -   Prerequisites: [Glass Path: Crystallization](#glass-path-crystallization), 60 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
+
+-   **Reclaimed Glass** \[Common Talent\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds.
+    -   Targets with Reclaimed Glass will have a pink triangle VFX that stacks on subsequent procs.
+        -   Despite the VFX stacking with subsequent procs, the elemental resistance does not stack.
+    -   Proccing this while active will cause the duration to refresh.  
+        
+    -   Prerequisites: [Crystal Shrapnel](#crystal-shrapnel), 65 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Damage Resistance\] \[Support\]
+
+-   **Reclaimed Glass** \[Common Talent\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds.
+    -   Targets with Reclaimed Glass will have a pink triangle VFX that stacks on subsequent procs.
+        -   Despite the VFX stacking with subsequent procs, the elemental resistance does not stack.
+    -   Proccing this while active will cause the duration to refresh.  
+        
+    -   Prerequisites: [Crystal Shrapnel](#crystal-shrapnel), 65 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Damage Resistance\] \[Support\]
 
 ### Greatarcher
 
--   _Bodkin Arrow_ \[Rare Talent, Strength\] - Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.
-    -   Prerequisites: Bow equipped, 55 Strength
+-   _Bodkin Arrow_ \[Rare Talent\] - Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.
+    -   Charged bow shots bypass armor entirely, even without this Talent, causing the first effect to do nothing.  
+        
+    -   Prerequisites: Bow equipped, 55 Strength  
+        
+    -   Tags: \[Strength\] \[Bow\]
 
--   _Hard Stop_ \[Rare Talent, Strength\] - Landing a charged shot will knock your opponent back.
-    -   Prerequisites: Bow equipped, Bodkin Arrow, 55 Strength
+-   **Bodkin Arrow** \[Rare Talent\] - Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.
+    -   Charged bow shots bypass armor entirely, even without this Talent, causing the first effect to do nothing.  
+        
+    -   Prerequisites: Bow equipped, 55 Strength  
+        
+    -   Tags: \[Strength\] \[Bow\]
 
--   _Precision Crusher_ \[Rare Talent, Strength\] - Landing a charged shot will knock your opponent down instead of back.
-    -   Prerequisites: Bow equipped, Hard Stop, 75 Strength
+-   _Hard Stop_ \[Rare Talent\] - Landing a charged shot will knock your opponent back.
+    
+    -   Prerequisites: Bow equipped, [Bodkin Arrow](#bodkin-arrow), 55 Strength  
+        
+    -   Tags: \[Strength\] \[Bow\]
+
+-   **Hard Stop** \[Rare Talent\] - Landing a charged shot will knock your opponent back.
+    
+    -   Prerequisites: Bow equipped, [Bodkin Arrow](#bodkin-arrow), 55 Strength  
+        
+    -   Tags: \[Strength\] \[Bow\]
+
+-   _Precision Crusher_ \[Rare Talent\] - Landing a charged shot will knock your opponent down instead of back.
+    -   Charged bow shots now apply [Knockdown](Status_Effects.md#knockdown).  
+        
+    -   Prerequisites: Bow equipped, [Hard Stop](#hard-stop), 75 Strength  
+        
+    -   Tags: \[Strength\] \[Bow\] \[Debuff\]
+
+-   **Precision Crusher** \[Rare Talent\] - Landing a charged shot will knock your opponent down instead of back.
+    -   Charged bow shots now apply [Knockdown](Status_Effects.md#knockdown).  
+        
+    -   Prerequisites: Bow equipped, [Hard Stop](#hard-stop), 75 Strength  
+        
+    -   Tags: \[Strength\] \[Bow\] \[Debuff\]
 
 ### Gunslinger
 

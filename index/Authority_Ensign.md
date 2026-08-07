@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 225935
+revid: 225960
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -666,10 +666,8 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
--   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be [Exiled](#exile).
-    -   This restriction will be removed, should you be [Exiled](#exile). Visit the [Reputation Issues](#reputation-issues) section for major effects caused by this.
--   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally', and **cannot** be raised further.
-    -   This restriction will be removed, should you be [Exiled](#exile). Visit the [Reputation Issues](#reputation-issues) section for major effects caused by this.
+-   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of mid 'Ally', and **cannot** be increased further.
+    -   Visit the [Reputation Issues](#reputation-issues) section for major effects caused by this.
 
 If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 

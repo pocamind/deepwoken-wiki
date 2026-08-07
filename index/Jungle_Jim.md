@@ -1,12 +1,11 @@
 ---
 title: Jungle Jim
-revid: 218484
+revid: 225964
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages, Individuals with unspecified pronouns]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Individuals with unspecified pronouns]
 notices:
-  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Jungle Jim
@@ -14,7 +13,7 @@ notices:
 | Jungle Jim | |
 |---|---|
 | health | ? |
-| drops | Gale Pale |
+| drops | Withered Gale Pale |
 | weapon | Gale Pale |
 | moves | Revenge, Judgement, Twincleave, Twister Kicks, Gale Lunge |
 | affiliation | The Ministry |
@@ -25,16 +24,16 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Jungle Jim**, known as **Pale Ravager** in its death message, is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md).
+**Jungle Jim**, known as **Pale Ravager** in its death message, is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md) or on completion of any [job](Job_Boards.md).
 
-Jungle Jim is a Hallowtide [Vesperian](Vesperian.md) with green dyed eyes, and wears a [Prophet's Cloak](<Prophet's_Cloak.md>), [Moonseye Gauntlets](Moonseye_Gauntlets.md), a [Shade Fleet Warden Cape](Fleet_Warden_Cape.md), and a pair of black-dyed [Tracker's Boots](<Tracker's_Boots.md>). Additionally, they have a custom animated halo.
+Jungle Jim is a [Vesperian](Vesperian.md), and wears a [Prophet's Cloak](<Prophet's_Cloak.md>), [Moonseye Gauntlets](Moonseye_Gauntlets.md), a black [Fleet Warden Cape](Fleet_Warden_Cape.md), and a pair of black [Tracker's Boots](<Tracker's_Boots.md>). Additionally, they have a custom animated halo.
 
 ## Moveset
 
 Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess a [Bell](Resonance.md). However, they don't seem to use it.
 
-| Name/Danger | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
 **Assault**  
 (★☆☆)
@@ -57,8 +56,6 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 -   ⛉ Unblockable
 -   § Dodgeable
 
- | 
-
  |
 | 
 
@@ -72,8 +69,6 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 -   § Dodgeable
 -   ⛧ Teleport
 
- | 
-
  |
 | 
 
@@ -86,8 +81,6 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 -   ⛊ Blockable
 -   § Dodgeable
 
- | 
-
  |
 | 
 
@@ -99,8 +92,6 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
 -   § Dodgeable
-
- | 
 
  |
 | 
@@ -116,8 +107,6 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 -   ⛊ Blockable
 -   § Dodgeable
 -   💀 Autogrip
-
- | 
 
  |
 
