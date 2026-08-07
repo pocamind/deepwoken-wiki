@@ -1,6 +1,6 @@
 ---
 title: Trig
-revid: 224985
+revid: 226002
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
@@ -33,11 +33,16 @@ Trig is a [Gremor](Gremor.md) NPC. He gives the player [Armor Piercing](Talents.
 
 1.  To start the quest, the player has to finish Trig's dialogue. He will then ask the player to find [Asius](Asius.md).
 2.  Asius can be found behind the Inn, following the path leading away in an alcove facing Aratel Island.
-3.  After getting the papers from Asius, head back to Trig to complete the quest.
 
-He gives the player [Armor Piercing](Talents.md#gunslinger) as a rollable talent upon completing his quest.
+There are two endings to this quest:
 
-Attempting to help Asius by selecting the dialogue dialogue option "I'll see what I can do." then coming back to Trig and telling him it isn't a joke, will cause 3 Summer Company guards to spawn on the player and lose Summer Company reputation.
+1.  Siding with **Trig**: After getting the papers from Asius, head back to Trig to complete the quest.
+    -   Rewards: [Armor Piercing](Talents.md#armor-piercing) is added to your Talent pool.
+    -   Consequences: You are permanently locked out of obtaining [Bulletproof](Talents.md#bulletproof).
+
+1.  Siding with [Asius](Asius.md): After telling Asius you'll help him out, head back to Trig and confirm your decision.
+    -   Rewards: [Bulletproof](Talents.md#bulletproof) is added to your Talent pool.
+    -   Consequences: Three [Summer Company Guards](Summer_Company_Guard.md) spawn, and the player loses [Summer Company](The_Summer_Company.md) [Reputation](Reputation.md). The player can choose to apologise to Trig afterwards, and at the cost of 2,000, he'll add [Armor Piercing](Talents.md#armor-piercing) to your Talent pool and give you positive [Summer Company](The_Summer_Company.md) [Reputation](Reputation.md).
 
 ## Location
 
@@ -102,7 +107,7 @@ Trig can be found standing outside of the [Inn](Inn.md) at [Summer Isle](Summer_
   <td colspan="2"></td>
   <td>Nope.</td>
   <td>Uh, just a joke.</td>
-  <td colspan="2">[End Dialogue], player gains Summer Company Reputation</td>
+  <td colspan="2">[End Dialogue], player gains Summer Company Reputation, <a href="Talents.md#armor-piercing">Armor Piercing</a> is added to their Talent pool</td>
 </tr>
 <tr>
   <td colspan="2"></td>
@@ -112,7 +117,7 @@ Trig can be found standing outside of the [Inn](Inn.md) at [Summer Isle](Summer_
 <tr>
   <td colspan="2"></td>
   <td>[End Dialogue]</td>
-  <td>[End Dialogue], player loses Summer Company reputation and 3 Summer Company Guards spawn to attack</td>
+  <td>[End Dialogue], player loses Summer Company reputation and 3 Summer Company Guards spawn to attack, <a href="Talents.md#bulletproof">Bulletproof</a> is added to their Talent pool</td>
 </tr>
 </tbody>
 </table>
@@ -122,13 +127,43 @@ Trig can be found standing outside of the [Inn](Inn.md) at [Summer Isle](Summer_
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Hm? I'm busy, leave me alone.</td>
+  <td colspan="2">Player sided with <strong>Trig</strong></td>
+  <td colspan="2">Player Sided with <a href="Asius.md">Asius</a></td>
 </tr>
 <tr>
+  <td colspan="2">Hm? I'm busy, leave me alone.</td>
+  <td colspan="2">What do you want, punk?</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">I've come to apologise.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">Yeah? You got my money?</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>Player has less than 2,000</td>
+  <td>Player has 2,000 or more</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>No...</td>
+  <td>Uh, here. [Hand over 2000 Notes]</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>Don't come back unless you have what I asked for.</td>
+  <td>Tch. Whatever. At least you did what I asked.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
   <td>[End Dialogue]</td>
+  <td>[End Dialogue], player loses 2,000, but gains Summer Company reputation, and <a href="Talents.md#armor-piercing">Armor Piercing</a> is added to their Talent pool</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Shrouded Cape
-revid: 222788
+revid: 226005
 source: https://deepwoken.fandom.com/wiki/Shrouded_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Fishing |
+| obtainment | Chests from:, Duke Ishamon Erisia, Fishing |
 | description | ... |
 
 ## Description

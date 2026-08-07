@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 223917
+revid: 226000
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -196,7 +196,7 @@ Upon killing 3 players with [Oaths](Oaths.md)
 -   Parryable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
 -   Blockable. While blocking may stop the damage, it will not stop the caster's healing.
 -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
--   Can be used with [Bloodless Gems](Bloodless_Gem.md) to heal more health.
+-   Can be used with [Bloodless Gems](Bloodless_Gem.md) to heal more health. (LIES)
 -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
 -   Leech ticks can proc [Hard Read](Talents.md#hard-read), and most blocking related talents.
 

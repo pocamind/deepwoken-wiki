@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 223343
+revid: 226003
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Summer Company]
@@ -114,8 +114,10 @@ You will be given two quest dialogue options after answering why you're meeting 
 2.  No you bottom-feeder, hand over the money now or you'll be sinking to the 3rd layer.
 3.  \[ End Dialogue \]
 
-1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation, and zero EXP if you don't kill the guards.
-2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but will also unlock **a rare Talent called "Armor Piercing" that can be obtained from Talent hands.** (obviously, it affects only guns)
+1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you. The [Bulletproof](Talents.md#bulletproof) Talent will be added to your Talent pool, and you will lose Summer Company reputation.
+    -   You can apologize to Trig after completing the quest, and for 2,000, he will add [Armor Piering](Talents.md#armor-piering) to your Talent pool, along with rewarding you with positive Summer Company reputation.
+2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with positive Summer Company reputation, EXP, and the [Armor Piercing](Talents.md#armor-piercing) Talent will be added to your Talent pool.
+    -   Unlike the opposing quest ending, there is **no way** to obtain [Bulletproof](Talents.md#bulletproof) if you initially sided with Trig.
 
 ### Reputation Reset
 

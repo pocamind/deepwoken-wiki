@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225982
+revid: 225999
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5044,16 +5044,15 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
         -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
         -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
-            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.  
-                
-    -   Prerequisites: 30 Medium Weapon // 30 Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)  
+            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
+    -   Despite being obtainable on [Greatcannons](Greatcannons.md), this Talent does not function on this weapon type.
+    -   **Note**: Completing the quest while initially siding with [Trig](Trig.md) locks you out of obtaining [Bulletproof](#bulletproof). Instead, if you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add Armor Piercing to your Talent pool, allowing you to obtain both.  
         
-    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)
-        -   Though not very notable, wearing this Outfit allows you to have Armor Piercing and [Bulletproof](#bulletproof) simultaneously.  
-            
-    -   Mutual Exclusives: [Bulletproof](#bulletproof), due to them being being quest rewards for the opposite endings of the same quest  
+    -   Prerequisites: 30 Weapon (30 Light // 30 Medium // 30 Heavy), weilding a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md), and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Trig](Trig.md) OR helping [Asius](Asius.md) then paying Trig to apologize)  
         
-    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)  
+        
+    -   Tags: \[Weapon\] \[Quest Talent\]
 
 -   **Armor Piercing** \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
@@ -5064,40 +5063,37 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
         -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
         -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
-            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.  
-                
+            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
+    -   Despite being obtainable on [Greatcannons](Greatcannons.md), this Talent does not function on this weapon type.
+    -   **Note**: Completing the quest while initially siding with [Trig](Trig.md) locks you out of obtaining [Bulletproof](#bulletproof). Instead, if you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add Armor Piercing to your Talent pool, allowing you to obtain both.  
+        
     -   The Guns condition must be met in order for this Talent to apply.  
         
-    -   Prerequisites: 30 Medium Weapon // 30 Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)  
+    -   Prerequisites: 30 Weapon (30 Light // 30 Medium // 30 Heavy), weilding a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md), and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Trig](Trig.md) OR helping [Asius](Asius.md) then paying Trig to apologize)  
         
-    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)
-        -   Though not very notable, wearing this Outfit allows you to have Armor Piercing and [Bulletproof](#bulletproof) simultaneously.  
-            
-    -   Mutual Exclusives: [Bulletproof](#bulletproof), due to them being being quest rewards for the opposite endings of the same quest  
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)  
         
-    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
+    -   Tags: \[Weapon\] \[Quest Talent\]
 
 -   **Bulletproof** \[Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on Natural Armor.
     -   This Talent simply removes/reduces armor damage taken; it has no effect on PEN.
-    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).  
+    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
+    -   **Note**: If you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
-    -   Prerequisites: 20 Medium Weapon // 20 Light Weapon // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)  
+    -   Prerequisites: 20 Weapon (20 Light // 20 Medium // 20 Heavy) // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
         
-    -   Mutual Exclusives: [Armor Piercing](#armor-piercing), due to them being quest rewards for the opposite endings of the same quest  
-        
-    -   Tags: \[Fortitude\] \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
+    -   Tags: \[Fortitude\] \[Weapon\] \[Quest Talent\]
 
 -   **Bulletproof** \[Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on Natural Armor.
     -   This Talent simply removes/reduces armor damage taken; it has no effect on PEN.
-    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).  
+    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
+    -   **Note**: If you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
-    -   Prerequisites: 20 Medium Weapon // 20 Light Weapon // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)  
+    -   Prerequisites: 20 Weapon (20 Light // 20 Medium // 20 Heavy) // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
         
-    -   Mutual Exclusives: [Armor Piercing](#armor-piercing), due to them being quest rewards for the opposite endings of the same quest  
-        
-    -   Tags: \[Fortitude\] \[Light Weapon\] \[Medium Weapon\] \[Quest Talent\]
+    -   Tags: \[Fortitude\] \[Weapon\] \[Quest Talent\]
 
 -   _Execution_ \[Rare Talent\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.

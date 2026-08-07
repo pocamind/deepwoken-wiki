@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 224906
+revid: 226004
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -176,8 +176,9 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Summer_Isle.md">Summer Isle</a><br>
-  <b>Guide</b>: Talk to the Gremor NPC Trig outside the Guildhall at Summer Isle. He'll have you find Asius, a merchant who hasn't been paying his dues. When speaking to Asius, the quest has two branching paths from here; each ending is <b>mutually exclusive with the other</b>, locking out the other quest ending. Get the ship deed from Asius then return to Trig at the inn for the <b>Armor Piercing</b> ending. Tell Trig you'll help them for the <b>Bullet Proof</b> ending.<b><br>
-  </b><b>Reward(s)</b>: <a href="Talents.md#armor-piercing">Armor Piercing</a> OR <a href="Talents.md#bullet-proof">Bullet Proof</a> (Added to Talent pool, not given instantly), either Positive or Negative Summer Company Reputation depending on the ending (Armor Piercing gives positive rep / Bulletproof gives negative), 3 Full Training points</p></div></td>
+  <b>Guide</b>: Talk to the Gremor NPC Trig outside the Guildhall at Summer Isle. He'll have you find Asius, a merchant who hasn't been paying his dues. When speaking to Asius, the quest has two branching paths from here; each ending is <b>mutually exclusive with the other</b>, locking out the other quest ending. Get the ship deed from Asius then return to Trig at the inn for the <b>Armor Piercing</b> ending. Tell Trig you'll help them for the <b>Bulletproof</b> ending.<br>
+  <b>Reward(s)</b>: <a href="Talents.md#armor-piercing">Armor Piercing</a> OR <a href="Talents.md#bulletproof">Bulletproof</a> Talents (Added to Talent pool, not given instantly), either Positive or Negative Summer Company Reputation depending on the ending (Armor Piercing gives positive rep / Bulletproof gives negative), 3 Full Training points<br>
+  <b>Afterwards:</b> After completing the <b>Bulletproof</b> ending, you can apologize to Trig, and for 2,000, he will reward you with positive Summer Company reputation, and the <a href="Talents.md#armor-piercing">Armor Piercing</a> Talent will be added to your Talent pool. There is no way to obtain <a href="Talents.md#bulletproof">Bulletproof</a> if you completed the <b>Armor Piercing</b> ending, however.</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Trig.md">Trig</a></div><p></p></figcaption></figure><figure><figcaption><p></p><div><a href="Asius.md">Asius</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
