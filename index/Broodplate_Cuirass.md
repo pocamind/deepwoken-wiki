@@ -1,9 +1,9 @@
 ---
 title: Broodplate Cuirass
-revid: 225905
+revid: 226057
 source: https://deepwoken.fandom.com/wiki/Broodplate_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Broodplate Cuirass
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Craftable, Equip
 | pass down | Yes |
 | obtainment | Crafting : 5 Grudgeroot + Necrotic Membrane + Grand Authority Plate |
 | description | ... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Broodplate Set
 

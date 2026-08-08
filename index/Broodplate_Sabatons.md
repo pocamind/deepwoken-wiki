@@ -1,9 +1,9 @@
 ---
 title: Broodplate Sabatons
-revid: 225570
+revid: 226056
 source: https://deepwoken.fandom.com/wiki/Broodplate_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Pathfinder Exclusive, Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Broodplate Sabatons
@@ -24,6 +24,10 @@ categories: [Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, E
 | pass down | Yes |
 | obtainment | Crafting : 3 Grudgeroot + Grand Authority Sabatons + Ring of Pestilence |
 | description | ... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Broodplate Set
 

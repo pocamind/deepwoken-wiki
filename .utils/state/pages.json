@@ -309,7 +309,7 @@
   },
   "1207": {
     "title": "Enchantments",
-    "lastrevid": 224553
+    "lastrevid": 226034
   },
   "1208": {
     "title": "Galebreathe",
@@ -601,11 +601,11 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 226024
+    "lastrevid": 226051
   },
   "1880": {
     "title": "Razor Cutlass",
-    "lastrevid": 224093
+    "lastrevid": 226047
   },
   "1884": {
     "title": "Champion's Sword",
@@ -5161,7 +5161,7 @@
   },
   "15591": {
     "title": "Heretic's Memento",
-    "lastrevid": 223313
+    "lastrevid": 226050
   },
   "15592": {
     "title": "Aegis of Enmity",
@@ -6605,7 +6605,7 @@
   },
   "19385": {
     "title": "Settings",
-    "lastrevid": 226031
+    "lastrevid": 226037
   },
   "19412": {
     "title": "Prisoner",
@@ -9389,7 +9389,7 @@
   },
   "24601": {
     "title": "Broodplate Helmet",
-    "lastrevid": 225313
+    "lastrevid": 226058
   },
   "24602": {
     "title": "Terraplate Pauldrons",
@@ -9621,11 +9621,11 @@
   },
   "26063": {
     "title": "Broodplate Cuirass",
-    "lastrevid": 225905
+    "lastrevid": 226057
   },
   "26064": {
     "title": "Broodplate Sabatons",
-    "lastrevid": 225570
+    "lastrevid": 226056
   },
   "26068": {
     "title": "Thula",
@@ -9702,6 +9702,10 @@
   "26250": {
     "title": "Raid on the Temple of Mur",
     "lastrevid": 225793
+  },
+  "26262": {
+    "title": "Talents/Vow of Iron",
+    "lastrevid": 226055
   },
   "26263": {
     "title": "Cobblers of Celtor",

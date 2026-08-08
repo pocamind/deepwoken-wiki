@@ -1,9 +1,9 @@
 ---
 title: Broodplate Helmet
-revid: 225313
+revid: 226058
 source: https://deepwoken.fandom.com/wiki/Broodplate_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Pathfinder Exclusive, Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Broodplate Helmet
@@ -25,6 +25,10 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Eq
 | pass down | Yes |
 | obtainment | Crafting : 5 Grudgeroot + 5 Indichite + 1 Broodalloy Cestus |
 | description | ... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Broodplate Set
 

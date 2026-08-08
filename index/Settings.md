@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 226031
+revid: 226037
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -347,8 +347,8 @@ There are 8 combat related settings.
 
 -   **No Holds Barred On/Off** - "Disables ally checks for abilities."
     -   When On: Your allies will temporarily no longer count as your allies in all aspects. You will combat eachother when attacking, be able to target eachother with attacks, ally-exclusive buffs will no longer work, etc.
-    -   When turning this setting on, or when your character spawns while this setting is on, they'll say a quote from a small list: "I [vow](Glossary.md#vows) to fight with no holds barred.", TBA
-    -   When turning this setting off, your character will say a quote from a small list: "Show's over.", TBA
+    -   When turning this setting on, or when your character spawns while this setting is on, they'll say one of two quoted: "I [Vow](Glossary.md#vows) to fight with no holds barred." or "I [Vow](Glossary.md#vows) to not hold back."
+    -   When turning this setting off, your character will say one of two quotes: "Fight's over." or "Show's over."
 -   **Hold to Attack On/Off** - "Lets you hold your Basic Attack input to automatically swing."
     -   When On: Holding M1 will repeatedly swing your weapon back-to-back.
 -   **Input Buffering On/Off** - "Enables input buffering on your Basic Attacks."

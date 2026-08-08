@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226024
+revid: 226051
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -7963,11 +7963,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   For the [Rangescraper](Rangescraper.md)'s other Talent, view [Extension](#extension).
 
 -   Continuous Bleed: [Razor Cutlass](Razor_Cutlass.md) - Every time you land a crit, flourish or uppercut, increase the amount of [bleed](Status_Effects.md#bleed) damage you deal for 15 seconds. This is stackable.
-    -   Each stack reduces the bleed damage you deal by 10%, while increasing the amount of damage instances from your bleed by +1.
-    -   On the first stack, this equates to a net increase of +20% bleed damage. This has diminishing returns for each stack you have, peaking at an ~59% net bleed damage increase on the 6th and 7th stacks, and then decaying from the 8th stack onwards.
+    -   Each stack reduces the bleed damage you deal by 5%, while increasing the amount of damage instances of your bleed by +1.
+    -   On the first stack, this equates to a net increase of +26.7% bleed damage. This has diminishing returns for each stack you have, peaking at an 179% net bleed damage increase on the 16th and 17th stacks, and then decaying from the 18th stack onwards. Though, reaching this stack count is functionally impossible.
     -   This applies to all sources of bleed, not just Razor Cutlass' innate bleed.
-    -   Each stack is counted separately from eachother with their own durations.
-    -   Multi-hit criticals do not grant additional stacks.
+    -   Each stack is counted separately from eachother with their own durations. Stack gain has a 1.5 second cooldown.
     -   [Desmos calculator](https://www.desmos.com/calculator/qlbcvgz9yr)
 
 -   Corporeal Dissolution: [Black Death](Black_Death.md) - Applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain.
@@ -8337,7 +8336,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         
-    -   Tags: \[Common Talent\] \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Vent\]
 
 -   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     -   Deals 35 Blunt damage with 20 Posture damage.
@@ -8345,7 +8344,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         
-    -   Tags: \[Common Talent\] \[Equipment\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Vent\]
 
 -   **Centurion's Resolve**: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.  
@@ -8436,14 +8435,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Duration is 5 seconds + 0.02 × Strength investment, lasting 7 seconds at 100 Strength.
     -   Wrath Gems last 9 seconds with no visual indication.  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Vent\]
 
 -   **Crippling Impact**: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical on someone while [Wrath Gem](Wrath_Gem.md) is active disables their [vent](Combat_Mechanics.md#tempo) for a few seconds.
     -   Procs through parry, block and dodge with no cooldown.
     -   Duration is 5 seconds + 0.02 × Strength investment, lasting 7 seconds at 100 Strength.
     -   Wrath Gems last 9 seconds with no visual indication.  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Critical Attack\] \[Vent\]
 
 -   **Cruentare**: [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) - Increase the amount of all [bleed](Status_Effects.md#bleed) damage you deal by 50%. Your [Whirling Blade](Monster_Mantras.md#whirling-blade) now heals you when landing it.
     -   Whirling Blade heals you for 25% of damage dealt. Hitting allies or player summons will still grant this healing.  
@@ -8821,33 +8820,93 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Common Talent\] \[Outfit\] \[Damage Resistance\] \[Speed Boost\] \[Support\] \[Sustain\] \[Tool\]
 
--   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
+-   **I'm Blue**: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
     -   Increases the effectiveness of Blue Gems by 20%, additively.
-    -   With I'm Blue, Blue Gems reduce the total Ether cost of Mantras by 45%.
+    -   With I'm Blue, Blue Gems reduce the total Ether cost of Mantras by 45%.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Immortality: [Immortal Helm](Immortal_Helm.md) - The remnants of the helmet's Mind Veil stir into life when you would be made [Unconscious](Status_Effects.md#unconscious) soaking all damage for a brief duration. 30s CD. [Viscosity](Viscosity.md) is rejected.
+-   **I'm Blue**: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
+    -   Increases the effectiveness of Blue Gems by 20%, additively.
+    -   With I'm Blue, Blue Gems reduce the total Ether cost of Mantras by 45%.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Immortality**: [Immortal Helm](Immortal_Helm.md) - The remnants of the helmet's Mind Veil stir into life when you would be made [Unconscious](Status_Effects.md#unconscious) soaking all damage for a brief duration. 30s CD. [Viscosity](Viscosity.md) is rejected.
     -   Grants one instance of knock prevention, leaving you at 1% HP on proc.
-    -   The [Viscosity](Viscosity.md) enchantment will be disabled while wearing this equipment.
+    -   The [Viscosity](Viscosity.md) enchantment will be disabled while wearing this equipment.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Inky Pearls: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether.
+-   **Immortality**: [Immortal Helm](Immortal_Helm.md) - The remnants of the helmet's Mind Veil stir into life when you would be made [Unconscious](Status_Effects.md#unconscious) soaking all damage for a brief duration. 30s CD. [Viscosity](Viscosity.md) is rejected.
+    -   Grants one instance of knock prevention, leaving you at 1% HP on proc.
+    -   The [Viscosity](Viscosity.md) enchantment will be disabled while wearing this equipment.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
+
+-   **Inky Pearls**: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your [vent](Combat_Mechanics.md#tempo) now steals a small amount of ether.
     -   Turns your Vent black and makes it drain 47.5 Ether on hit.
     -   Increases your Vent's Ether cost on successful hit from 22.5 to 47.5.
-    -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's Shadowcast flames and Sightless Still.
+    -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's [Shadowcast flames](Status_Effects.md#shadow-burn) and [Sightless Still](#sightless-still).  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Vent\]
 
--   Instant Nucleation: [Frost Crystal Earrings](Frost_Crystal_Earrings.md) & [Hardened Crystal Earrings](Hardened_Crystal_Earrings.md) - Take less damage for a few seconds after you are guardbroken.
+-   **Inky Pearls**: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your [vent](Combat_Mechanics.md#tempo) now steals a small amount of ether.
+    -   Turns your Vent black and makes it drain 47.5 Ether on hit.
+    -   Increases your Vent's Ether cost on successful hit from 22.5 to 47.5.
+    -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's [Shadowcast flames](Status_Effects.md#shadow-burn) and [Sightless Still](#sightless-still).  
+        
+    -   Tags: \[Common Talent\] \[Equipment\] \[Vent\]
 
--   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you. Flames that come from your Flame Within deal much less damage to you.
-    -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.
+-   **Instant Nucleation**: [Frost Crystal Earrings](Frost_Crystal_Earrings.md) & [Hardened Crystal Earrings](Hardened_Crystal_Earrings.md) - Take less damage for a few seconds after you are guardbroken.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\] \[Guardbreak\]
 
--   Jester's Ruse: [Jester's Beret](<Jester's_Beret.md>) & [Trickster's Beret](<Trickster's_Beret.md>) - Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified.
+-   **Instant Nucleation**: [Frost Crystal Earrings](Frost_Crystal_Earrings.md) & [Hardened Crystal Earrings](Hardened_Crystal_Earrings.md) - Take less damage for a few seconds after you are guardbroken.
+    
+    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Resistance\] \[Guardbreak\]
+
+-   **Intrepid Flame**: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you. Flames that come from your [Flame Within](#flame-within) deal much less damage to you.
+    -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Damage Resistance\]
+
+-   **Intrepid Flame**: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you. Flames that come from your [Flame Within](#flame-within) deal much less damage to you.
+    -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\] \[Damage Resistance\]
+
+-   **Jester's Ruse**: [Jester's Beret](<Jester's_Beret.md>) & [Trickster's Beret](<Trickster's_Beret.md>) - Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified.
     
     -   [Visionshaper](Oath%253A_Visionshaper.md)'s Cheap Trick visual effect plays on proc.
-    -   This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.
+    -   This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Justicar's Gift: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
+-   **Jester's Ruse**: [Jester's Beret](<Jester's_Beret.md>) & [Trickster's Beret](<Trickster's_Beret.md>) - Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified.
+    
+    -   [Visionshaper](Oath%253A_Visionshaper.md)'s Cheap Trick visual effect plays on proc.
+    -   This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.  
+        
+    -   Tags: \[Common Talent\] \[Equipment\]
 
--   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
-    -   Increases the boat repair speed.
+-   **Justicar's Gift**: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
+    
+    -   Tags: \[Common Talent\] \[[Justicar](<Justicar_(Origin).md>)\] \[Outfit\] \[Support\]
+
+-   **Justicar's Gift**: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
+    
+    -   Tags: \[Common Talent\] \[[Justicar](<Justicar_(Origin).md>)\] \[Outfit\] \[Support\]
+
+-   **Knack**: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
+    -   Increases the boat repair speed.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\]
+
+-   **Knack**: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
+    -   Increases the boat repair speed.  
+        
+    -   Tags: \[Common Talent\] \[Outfit\]
 
 -   Laminated Armor: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md) & [Blackalloy Pauldrons](Blackalloy_Pauldrons.md) - Reduces all incoming damage by 2/3 (applied after damage multipliers).
     

@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 223313
+revid: 226050
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, World Event, Outfits with Talents, Outfits with Exclusive Talents]
@@ -40,9 +40,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 2000 durability and grants +25% Physical resistance ResistancePhysical, +10% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), +25% Ironsing resistance [ResistanceIronsing](Ironsing.md), +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +100% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 43.75% Ironsing [ResistanceIronsing](Ironsing.md), 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 43.75% Ironsing [ResistanceIronsing](Ironsing.md), 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
 
-This Outfit grants the **Overflow** Talent, Doubling the tempo recieved when landing light attacks.
+The [Overflow](Talents.md#overflow) Talent doubles the [Tempo](Combat_Mechanics.md#tempo) recieved from landing M1s.
 
 ## Trivia
 
