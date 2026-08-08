@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 225918
+revid: 226018
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -95,9 +95,10 @@ _Uses Telegraph_
 Jump
 
 -   ⚠︎ Unparryable
--   ⛊ Blockable
+-   ⛉ Unblockable
 -   § Dodgeable
 -   ↑ Jump-Avoidable
+-   ⤻ Ragdoll
 
  | 
 
@@ -217,9 +218,9 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#jump)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
-Jump
+Dodge
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -248,9 +249,10 @@ _Uses Telegraph_
 Dodge
 
 -   ⚠︎ Unparryable
--   ⛊ Blockable
+-   ⛉ Unblockable
 -   § Dodgeable
 -   ↑ Jump-Avoidable
+-   ⤻ Ragdoll
 
  | 
 
@@ -264,7 +266,7 @@ Dodge
 
 -   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
 -   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
--   This move is technically dodgeable, however, it is only possible at the very last moments of the attack. It's advised to block the attack instead.
+-   This move is technically dodgeable, however, it is only possible at the very last moments of the attack. It's advised to block the attack instead dealing 10.46 posture.
 
 _Uses Telegraph_
 
@@ -299,7 +301,6 @@ High posture
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
 -   § Dodgeable
--   ⤓ Knockdown
 -   💀 Autogrip
 
  | 

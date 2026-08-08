@@ -1,6 +1,6 @@
 ---
 title: Pomar
-revid: 190666
+revid: 226016
 source: https://deepwoken.fandom.com/wiki/Pomar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Harvestables, Food Ingredients]
@@ -24,7 +24,7 @@ categories: [Harvestables, Food Ingredients]
 
 ## Description
 
-A large round yellow fruit. Commonly found on trees at [Etris](Etris.md) and [Fort Merit](Fort_Merit.md).
+A large, round, yellow fruit commonly found on trees at [Etris](Etris.md), [Fort Merit](Fort_Merit.md), and behind [Greathive Aratel](Greathive_Aratel.md)'s [Blacksmith](Blacksmith.md).
 
 ## Crafting
 

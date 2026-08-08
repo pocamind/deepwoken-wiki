@@ -1,6 +1,6 @@
 ---
 title: Ossified Blood Earrings
-revid: 222326
+revid: 226017
 source: https://deepwoken.fandom.com/wiki/Ossified_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Earrings, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,10 +17,10 @@ categories: [Pathfinder Exclusive, Equipment, Earrings, Craftable, Equipment wit
 | weight | 0.1 |
 | innate stats | +3% Stealth , +2 Rare Pips |
 | innate talent | Sharpened Dagger |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted w/ 1 Old Blood Earrings + 1 Ethereal Osseous Plate at Lost Forge of Leiuna |
 | description | ... |
 
