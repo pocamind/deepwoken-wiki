@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 225999
+revid: 226024
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5046,7 +5046,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
             -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
     -   Despite being obtainable on [Greatcannons](Greatcannons.md), this Talent does not function on this weapon type.
-    -   **Note**: Completing the quest while initially siding with [Trig](Trig.md) locks you out of obtaining [Bulletproof](#bulletproof). Instead, if you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add Armor Piercing to your Talent pool, allowing you to obtain both.  
+    -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
     -   Prerequisites: 30 Weapon (30 Light // 30 Medium // 30 Heavy), weilding a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md), and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Trig](Trig.md) OR helping [Asius](Asius.md) then paying Trig to apologize)  
         
@@ -5065,7 +5065,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
             -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
     -   Despite being obtainable on [Greatcannons](Greatcannons.md), this Talent does not function on this weapon type.
-    -   **Note**: Completing the quest while initially siding with [Trig](Trig.md) locks you out of obtaining [Bulletproof](#bulletproof). Instead, if you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add Armor Piercing to your Talent pool, allowing you to obtain both.  
+    -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
     -   The Guns condition must be met in order for this Talent to apply.  
         
@@ -5079,7 +5079,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   This has no effect on Natural Armor.
     -   This Talent simply removes/reduces armor damage taken; it has no effect on PEN.
     -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
-    -   **Note**: If you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
+    -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
     -   Prerequisites: 20 Weapon (20 Light // 20 Medium // 20 Heavy) // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
         
@@ -5089,7 +5089,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   This has no effect on Natural Armor.
     -   This Talent simply removes/reduces armor damage taken; it has no effect on PEN.
     -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
-    -   **Note**: If you side with [Asius](Asius.md), then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
+    -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
     -   Prerequisites: 20 Weapon (20 Light // 20 Medium // 20 Heavy) // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
         

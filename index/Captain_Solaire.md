@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 225025
+revid: 226020
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -73,7 +73,7 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 **Cannon Call**  
 (★★☆)
 
- | Solaire whistles, signaling the Merit's cannons to fire upon you.
+ | Solaire whistles, signaling for Merit's cannons to fire upon you.
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
@@ -167,6 +167,18 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 -   ⛉ Unblockable
 -   § Dodgeable
 -   ⤓ Knockdown
+
+ |
+| 
+
+**Cannon Call**  
+(★★☆)
+
+ | Solaire whistles, signaling for Merit's cannons to fire upon you.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -282,6 +294,18 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 -   ⛉ Unblockable
 -   § Dodgeable
 -   ⤓ Knockdown
+
+ |
+| 
+
+**Cannon Call**  
+(★★☆)
+
+ | Solaire whistles, signaling for Merit's cannons to fire upon you.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
