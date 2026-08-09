@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Visor"
-revid: 223421
+revid: 226084
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Visor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Central Authority]
