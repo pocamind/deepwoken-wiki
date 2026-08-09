@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 225328
+revid: 226098
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -19,7 +19,7 @@ categories: [Equipment, Face, Masks, Equipment with Talents, "Equipment with Non
 | innate talent | Lose Your Mind |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |

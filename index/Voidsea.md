@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 213389
+revid: 226091
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -31,6 +31,7 @@ The **Voidsea** is similar to [Voidzones](Voidzones.md) in many ways, progressin
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Simforea](Simforea.md)
+-   A tall spire on the edge of the Voidsea in the Eastern Luminant, northwest from Port Merit. Legends say a Broodlord with a gold chain lay upon its peak.
 
 ## Trivia
 

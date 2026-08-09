@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 220685
+revid: 226097
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -19,7 +19,7 @@ categories: [Equipment, Head, Helmets]
 | innate talent | N/A |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

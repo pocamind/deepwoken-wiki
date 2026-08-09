@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 224571
+revid: 226105
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
@@ -26,7 +26,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | rarity | Unique |
 | selling price | N/A |
 | weight | 2 |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

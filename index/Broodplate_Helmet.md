@@ -1,6 +1,6 @@
 ---
 title: Broodplate Helmet
-revid: 226058
+revid: 226096
 source: https://deepwoken.fandom.com/wiki/Broodplate_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Equipment, Head, Helmets, Craftable, Equipmen
 | innate talent | Broodlord's Scream |
 | set | Broodplate Helmet, Broodplate Cuirass, Broodplate Sabatons |
 | set talent | Ardour Scream, Second Nature |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 220718
+revid: 226101
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment]
@@ -19,7 +19,7 @@ categories: [Arms, Equipment]
 | innate talent | N/A |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

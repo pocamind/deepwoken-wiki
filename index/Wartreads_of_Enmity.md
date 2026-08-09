@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 222684
+revid: 226099
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Boots]
@@ -19,7 +19,7 @@ categories: [Equipment, Boots]
 | innate talent | N/A |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

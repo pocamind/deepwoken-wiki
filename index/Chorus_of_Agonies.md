@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 224535
+revid: 226102
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | rarity | Unique |
 | selling price | 100 |
 | weight | 2 |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |

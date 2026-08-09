@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 224546
+revid: 226103
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -26,7 +26,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium W
 | rarity | Relic |
 | selling price | 100 |
 | weight | 2 |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
