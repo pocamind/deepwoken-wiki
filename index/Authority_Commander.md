@@ -1,9 +1,9 @@
 ---
 title: Authority Commander
-revid: 223304
+revid: 226063
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits, Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Master Outfits, Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Authority Commander
@@ -11,12 +11,12 @@ categories: [Unique Outfits, Outfits, Outfits of The Central Authority, Outfits 
 | Authority Commander | |
 |---|---|
 | caption | The armored robes of an Authority Commander. |
-| tier | Unique |
+| tier | Master |
 | crafting_req | x5 Cloth , x5 Fiber, x1 Blessed Gem, x1 Bounder Claw, x1 Dark Feather, x1 Thresher Spine, x5 Vibrant Gem |
 | price | 1,000 |
 | stat_req | Power 15 |
 | bankable | No |
-| droppable | No |
+| droppable | Yes |
 | durability | 2800 |
 | resistances | +30% Physical Armor , +10% Blunt Armor , +30% Elemental Armor , +10% Fire Armor |
 | buffs | +20% Ether Regen |

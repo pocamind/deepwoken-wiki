@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 211336
+revid: 226062
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, NPCs located in the Second Floor of the Second Layer, Black Divers]
@@ -219,7 +219,7 @@ If you talk to him with a Resonance and the Tarnished flaw, he will offer to unt
 | [Brachial Spear](Monster_Mantras.md#brachial-spear) | Throws a giant femur towards selected area. Deals high damage and high knockback, high wind-up time. | [Giant Femur](Giant_Femur.md) |
 | [Coral Spear](Monster_Mantras.md#coral-spear) | Similar to Megalodaunt Thousand Needles attack. Grow coral on your back and create a multihit AOE around you. | [Megalodaunt Coral](Megalodaunt_Coral.md) |
 | [Dread Breath](Monster_Mantras.md#dread-breath) | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) |
-| [Enforcer Pull](Monster_Mantras.md#enforcer-pull) | When in proximity, pulls victim towards the user. | [Enforcer Eye](Enforcer_Eye.md) |
+| [Enforcer Pull](Monster_Mantras.md#enforcer-pull) | When in proximity, pulls the victim towards the user. | [Enforcer Eye](Enforcer_Eye.md) |
 | [Mecha Gatling](Monster_Mantras.md#mecha-gatling) | Mounts a gatling gun upon the player's shoulder and fires it forwards, multi-hit. | [Broken Gatling Gun](Broken_Gatling_Gun.md) |
 | [Whirling Blade](Monster_Mantras.md#whirling-blade) | Grow a Terrapod claw from their left arm and spin forward after a short windup, cancelling if parried. | [Terrapod Shell](Terrapod_Shell.md) |
 

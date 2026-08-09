@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 225517
+revid: 226066
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -97,13 +97,13 @@ Stratos can be found meditating in front of a fountain at the [Temple of the Bla
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin Dialogue</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="6">Ah, it seems you have it... You understand the winds in ways imperceptible to others.</td>
+  <td colspan="12">Ah, it seems you have it... You understand the winds in ways imperceptible to others.</td>
 </tr>
 <tr>
-  <td colspan="6">So you'll teach me?</td>
+  <td colspan="12">So you'll teach me?</td>
 </tr>
 <tr>
   <td colspan="6">Yes, my disciple, please take this gift. I hope that it shall guide you on your journeys as you have been guided to me.</td>
@@ -196,7 +196,7 @@ Stratos can be found meditating in front of a fountain at the [Temple of the Bla
   <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="6">You have done a great service for our people.. It is within my right to grant you this. Don the cloak of winds, we would be honored to have you representing our<p>order.</p></td>
+  <td colspan="6">You have done a great service for our people.. It is within my right to grant you this. Don the cloak of winds, we would be honored to have you representing our order.</td>
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>

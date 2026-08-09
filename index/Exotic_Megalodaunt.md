@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 225112
+revid: 226061
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 |---|---|
 | health | 10,00025,000(Corrupted) |
 | attacks | Slash, Kick, Jump, Roar, Thousand Needles, Feint, Cero, Finisher: Stomp |
-| drops | Exotic HideIrithine |
+| drops | Exotic Hide, Irithine, Megalodaunt Coral |
 | locations | First Layer |
 | challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
 
