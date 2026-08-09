@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226051
+revid: 226081
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -716,7 +716,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   **Flame Within** \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
     -   Unlike normal [burn](Status_Effects.md#burn), Flame Within's burn is not cleared by rolling or sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Flame Within has an 8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
-    -   l\*Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
+    -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
     -   It grants a general damage buff, and as such it'll affect all sources of damage that can be modified.
     -   Flame Within can be enabled while knocked [Unconscious](Status_Effects.md#unconscious). This is meant to synergize with [Phoenix Flames](#phoenix-flames). Though, doing so will halve the strength of [Phoenix Flames](#phoenix-flames).
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md)'s [Already Dead](#already-dead) Talent, Flamecharm resistance, and general resistances.
@@ -731,7 +731,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   **Flame Within** \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
     -   Unlike normal [burn](Status_Effects.md#burn), Flame Within's burn is not cleared by rolling or sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Flame Within has an 8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
-    -   l\*Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
+    -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
     -   It grants a general damage buff, and as such it'll affect all sources of damage that can be modified.
     -   Flame Within can be enabled while knocked [Unconscious](Status_Effects.md#unconscious). This is meant to synergize with [Phoenix Flames](#phoenix-flames). Though, doing so will halve the strength of [Phoenix Flames](#phoenix-flames).
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md)'s [Already Dead](#already-dead) Talent, Flamecharm resistance, and general resistances.
@@ -792,7 +792,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 100 Strength  
         
-    -   Tags: \[Strength\] \[Guardbreak\] \[Scale-down\]
+    -   Tags: \[Strength\] \[Guardbreak\] \[Scale-down\] \[Vent\]
 
 -   **Collapsed Lung** \[Advanced Talent\] - Block breaking an opponent closes off their ability to [Vent](Combat_Mechanics.md#tempo) for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
     -   The Vent negation duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
@@ -801,7 +801,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 100 Strength  
         
-    -   Tags: \[Strength\] \[Guardbreak\] \[Scale-down\]
+    -   Tags: \[Strength\] \[Guardbreak\] \[Scale-down\] \[Vent\]
 
 ### Apex Predator
 
@@ -1441,6 +1441,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   You benefit from [Exposed Durability](#exposed-durability)'s 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
     -   The color of the eyes and hair are [dyable](Dye_Packet.md), though it's currently bugged and your hair does not change color.  
         
+    -   Prerequisites: 80 Strength  
+        
     -   Tags: \[Strength\] \[PEN\] \[Scale-down\] \[Tool\]
 
 -   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
@@ -1454,6 +1456,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   [Padded Armor](#padded-armor), [Steel Scales](#steel-scales), and [Lightweight](#lightweight) are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
         -   You benefit from [Exposed Durability](#exposed-durability)'s 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
     -   The color of the eyes and hair are [dyable](Dye_Packet.md), though it's currently bugged and your hair does not change color.  
+        
+    -   Prerequisites: 80 Strength  
         
     -   Tags: \[Strength\] \[PEN\] \[Scale-down\] \[Tool\]
 
@@ -3325,13 +3329,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Shadowcast\] \[Weapon\] \[Debuff\]
 
--   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [dazed](Status_Effects.md#daze).
+-   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [Dazed](Status_Effects.md#daze) for 0.7s.
     
     -   Prerequisites: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)  
         
     -   Tags: \[Shadowcast\] \[Debuff\]
 
--   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [dazed](Status_Effects.md#daze).
+-   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [Dazed](Status_Effects.md#daze) for 0.7s.
     
     -   Prerequisites: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)  
         
@@ -4630,22 +4634,22 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Frostdraw\] \[+Health\] \[Hard Requirements\]
 
 -   **Cold Front** \[Common Talent\] - Your vent is imbued with glacial frost.
-    -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
+    -   Venting creates an ice patch on the floor and applies [Chill](Status_Effects.md#chill) to any enemy hit by it.
     -   Increases your Vent damage by 40%, and changes its damage type to Frostdraw.
         -   This also applies to the [Imperator's Fury](<Imperator's_Fury.md>)'s Talent despite its damage being otherwise unmodifiable.  
             
     -   Prerequisites: 25 Frostdraw  
         
-    -   Tags: \[Frostdraw\]
+    -   Tags: \[Frostdraw\] \[Damage Buff\] \[Debuff\] \[Vent\]
 
 -   **Cold Front** \[Common Talent\] - Your vent is imbued with glacial frost.
-    -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
+    -   Venting creates an ice patch on the floor and applies [Chill](Status_Effects.md#chill) to any enemy hit by it.
     -   Increases your Vent damage by 40%, and changes its damage type to Frostdraw.
         -   This also applies to the [Imperator's Fury](<Imperator's_Fury.md>)'s Talent despite its damage being otherwise unmodifiable.  
             
     -   Prerequisites: 25 Frostdraw  
         
-    -   Tags: \[Frostdraw\]
+    -   Tags: \[Frostdraw\] \[Damage Buff\] \[Debuff\] \[Vent\]
 
 ### Frozen Lightning
 

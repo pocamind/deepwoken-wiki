@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 220915
+revid: 226082
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -250,6 +250,16 @@ Proof of Time Magic's existence and it being an "Oath"
 -   An oath used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'.
 -   It is very likely to be the Oath mentioned by Eylis when you ask her about her Oath as a Voidwalker.
 -   It is not confirmed, but its very probably that this Oath can manipulate time in a very similar way as the Voidsea due to the relation of the Voidwalkers and the Voidsea, meaning, that instead like a "time magic" Oath, it could be more like a "Void Oath" where time manipulation is just one part of the Oath.
+    
+
+**Unnamed Bloodrend Oath:**
+
+## Unnamed Bloodrend Oath
+
+-   This oath is given by the [Second Prophet](Second_Prophet.md) of the ministry.
+-   It's vows are capable of being altered as such with [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Vyrelda](Vyrelda,_Master_of_Blood.md), this ability allowed [Vyrelda](Vyrelda,_Master_of_Blood.md) to keep Bloodrend after leaving.
+-   This oath has no visual.
+-   Upon breaking the oath the oathbreaker loses access to Bloodrend
     
 
 ## Trivia
