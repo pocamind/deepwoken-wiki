@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 224280
+revid: 226116
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
@@ -392,6 +392,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 
 ## Trivia
 
+-   This boss was made by Nuttoons
 -   Knell's name comes from the noun used to describe the sound of a bell, especially when rung solemnly for a death or funeral.
 -   Knell is the only entity whose title in the [Bestiary](Bestiary.md) differs from their usual name.
 -   Knell's final Bestiary name is a possible reference to the song "For Whom The Bell Tolls" by Metallica, as they also had a previous Metallica based event featuring their 72 seasons album release, [here](https://youtube.com/watch?v=B_HSa1dEL9s&is=cIXw9OtuDMw_GHOO).
