@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 226037
+revid: 226120
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -301,7 +301,7 @@ There are 11 interface related settings.
     -   Drag items and materials into the 3 slots to craft from your inventory without Journal recipes.
     -   Some crafting recipes (namely [Enchant Stones](Enchant_Stone.md) and [Grease](Enchant_Grease.md) do not work with the crafting slots, and need to be crafted in your journal.
 -   **Points of Interest On/Off** - "Enables markers in towns for points of interest."
-    -   When On: Displays markers for [Antiquarians](Antiquarian.md) (including the [Antiques Smuggler](Antiques_Smuggler.md)), [Attunement Trainers](Attunement_Trainers.md), [Bankers](Banker.md), [Blacksmiths](Blacksmith.md), [Dungeon](Dungeons.md) entrances, [Food](Food.md) vendors, [Gear Cabinets](Training_Gear.md), Guildhall NPCs, [Inn](Inn.md) Keepers, [Job Boards](Job_Boards.md), [Mantra Lecterns](Mantra_Lectern.md), and [Shipwrights](Shipwright.md) in the physical world. These can be seen through walls.
+    -   When On: Displays markers for [Antiquarians](Antiquarian.md) (including the [Antiques Smuggler](Antiques_Smuggler.md)), [Attunement Trainers](Attunement_Trainers.md), [Bankers](Banker.md), [Blacksmiths](Blacksmith.md), [Combat Training](Training_Mode.md) entrance NPC, [Dungeon](Dungeons.md) entrances, [Food](Food.md) vendors, [Gear Cabinets](Training_Gear.md), Guildhall NPCs, [Inn](Inn.md) Keepers, [Job Boards](Job_Boards.md), [Mantra Lecterns](Mantra_Lectern.md), and [Shipwrights](Shipwright.md) in the physical world. These can be seen through walls.
     -   These markers are displaysd on the [Map](Maps.md), regardless if setting is on or off.
     -   [Guild Base](Guild_Bases.md) NPCs/Mantra Lectern do not have the Point of Interest displays.
 -   **3D Icon Behavior Always/Hover/Off** - "Sets 3D icon behavior."

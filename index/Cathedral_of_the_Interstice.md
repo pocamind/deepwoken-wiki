@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 225511
+revid: 226121
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -49,7 +49,7 @@ You can locate the 2 bells by listening a soft humming that gets louder the clos
 -   Using the [Dimensional Travel](Dimensional_Travel.md) legendary [Resonance](Resonance.md).
 -   Entering from above [The City of the Drowned's](The_City_of_the_Drowned.md) walls, either by using vertical movement mobility mantras, stacking [Barrels](Barrel.md) atop each other for increased height, or [Gliding](Gliders.md) from a high vantage point.
 
-## The Cathedral's Spire
+## The Trial
 
 “ As a quasi-metaphysical realm, the Depths is believed to exert a pulling force on one's soul, based on one's proximity to the deep. So to say, once one is in the Depths, their soul experiences a constant downward pull. If one tries to leave the Depths by simply physically exiting it upwards, without the aid of ritual or other preparation, they will cross what is known as 'the boundary' - a limit beyond which a soul cannot continue physically travelling in your body. Ergo, the body continues upwards, while the soul is pulled downwards, until the two are wholly separated, and the person dies. ”
 
