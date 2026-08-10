@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 225985
+revid: 226143
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -302,7 +302,7 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
-    -   Deals little to no pve monster damage (test if it does work on humanoids)
+    -   Deals little to no pve monster damage (Works on humanoids, effective against legion camps)
     -   Applies burn on hit.
     -   Explosions cannot be parried and blockbreak.
     -   Automatically grips knocked players.
