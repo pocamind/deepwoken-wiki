@@ -1,6 +1,6 @@
 ---
 title: Ether Empowered Earrings
-revid: 223284
+revid: 226114
 source: https://deepwoken.fandom.com/wiki/Ether_Empowered_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -16,10 +16,10 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | weight | 0.1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Ether Adeptness |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Pendant Earrings + 1 Ether Refined Hide in the Lost Forge |
 | description | ... |
 

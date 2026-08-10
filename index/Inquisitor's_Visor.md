@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Visor"
-revid: 226084
+revid: 226112
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Visor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Central Authority]
@@ -34,5 +34,5 @@ The [Blind Spot](Talents.md#blind-spot) Talent applies [Blinded](Status_Effects.
 ## Trivia
 
 -   Worn by [High Inquisitor Merey](High_Inquisitor_Merey.md) and [High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md). The [Etrean Apostle](Etrean_Apostle.md) wears a vantablack version of the visor, despite being affiliated with the Authority's enemy.
--   This is the only Equipment that has negative health as a stat.
+-   This is the only Equipment that had negative health as a stat.
 -   This equipment used to give -5 Health IconHealth. This gave it the opposite innate stats of the [Citadel Frames](Citadel_Frames.md), which grants +5 Health IconHealth and -1 Posture [IconPosture](Combat_Mechanics.md#posture) instead.

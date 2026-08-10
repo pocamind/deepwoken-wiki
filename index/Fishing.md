@@ -197,7 +197,7 @@ There are currently three Talents related to fishing, each automatically obtaine
 <table>
 <tbody>
 <tr>
-  <td><center><b>Proficient Baiting</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><br>
+  <td><center><b>Proficient Baiting</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><small></small><br>
   <small></small></center><center>Casting your line excites ocea life, reducing the chances of fishing up trash.</center><br>
   </td>
   <td>
@@ -224,7 +224,7 @@ There are currently three Talents related to fishing, each automatically obtaine
 <table>
 <tbody>
 <tr>
-  <td><center><b>Hook, Line, and Sinker</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><br>
+  <td><center><b>Hook, Line, and Sinker</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><small></small><br>
   <small></small></center><center>Once something's caught your line, it's much harder for it to get loose.</center><br>
   </td>
   <td>
@@ -249,7 +249,7 @@ There are currently three Talents related to fishing, each automatically obtaine
 <table>
 <tbody>
 <tr>
-  <td><center><b>Fisher's Lure</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><br>
+  <td><center><b>Fisher's Lure</b></center><div>TalentIconClaw</div><center><small>[Quest Talent]</small><small></small><br>
   <small></small></center><center>Fish are drawn to your line more quickly.</center><br>
   </td>
   <td>

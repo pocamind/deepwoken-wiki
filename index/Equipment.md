@@ -1,9 +1,9 @@
 ---
 title: Equipment
-revid: 225909
+revid: 226113
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
+categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments. Please help us improve the page through editing, or wait for an updated version of the page to release."
   - "This page is currently being worked on. This page is currently in-progress, as a lot of the equipment texture changes and new styles have yet to be docummented by the wiki. Please be patient as this page undergoes changes."
@@ -1840,7 +1840,7 @@ _+Talent: [**Kick Off**](Talents.md#kick-off)_
  | Set: Mercenary  
 Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
 Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
-| File:Ministry Cloak Smoke.png | [Ministry Cloak](Ministry_Cloak.md)  
+|  | [Ministry Cloak](Ministry_Cloak.md)  
 (**Styles**)  
 (**Cloth Physics**) | _+5 Health_  
 _+10 Ether_
@@ -3884,7 +3884,7 @@ Cannot deal more than 70% of a player's maximum health in one sheathe.
 
  |
 |  | [Saint Jay's Ring](<Saint_Jay's_Ring.md>)  
-(**Legendary**) | Uppercuts inflict chill.
+(**Legendary**) | Uppercuts inflict [chill](Status_Effects.md#chill).
 
   
 +1 Rare Pip
