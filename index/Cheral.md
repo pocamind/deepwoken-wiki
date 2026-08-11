@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 224699
+revid: 226150
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, In progress with reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
@@ -50,7 +50,7 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
 
 ## Dialogue
 
-**{{!}}-{{!}}Base Dialogue:**
+**Base Dialogue:**
 
 <table>
 <tbody>

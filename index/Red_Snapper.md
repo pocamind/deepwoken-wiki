@@ -1,6 +1,6 @@
 ---
 title: Red Snapper
-revid: 225409
+revid: 226174
 source: https://deepwoken.fandom.com/wiki/Red_Snapper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Fishing Exclusive, Fish]
@@ -22,7 +22,7 @@ categories: [Items, Ingredients, Fishing Exclusive, Fish]
 
 ## Description
 
-A Red Snapper can be caught rarely by [Fishing](Fishing.md).
+A Red Snapper can be caught by [Fishing](Fishing.md) in shallow waters.
 
 ## Crafting
 

@@ -1,6 +1,6 @@
 ---
 title: Pufferfish
-revid: 223920
+revid: 226173
 source: https://deepwoken.fandom.com/wiki/Pufferfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Fishing Exclusive]
@@ -22,7 +22,7 @@ categories: [Items, Fish, Fishing Exclusive]
 
 ## Description
 
-A Pufferfish can be caught rarely by [Fishing](Fishing.md). Eating a Pufferfish will cause you to vomit, even if you have [Iron Gut](Talents.md#iron-gut).
+A Pufferfish can be caught rarely by [Fishing](Fishing.md) in shallow waters. Eating a Pufferfish will cause you to vomit, even if you have [Iron Gut](Talents.md#iron-gut).
 
 ## Crafting
 

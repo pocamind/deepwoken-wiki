@@ -1,6 +1,6 @@
 ---
 title: Summer Company Gunslinger
-revid: 225087
+revid: 226159
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Gunslinger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Summer Company Enemies]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Enemies, Summer Company Enemies]
 | health | ??? |
 | drops | None |
 | weapon | Flintlock, Parrying Dagger |
-| moves | Assault, Critical |
+| moves | Assault, Critical, Taunt, Exhaustion Strike |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

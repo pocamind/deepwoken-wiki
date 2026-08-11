@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 224293
+revid: 226172
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons, Weapons with Unique Criticals]
@@ -28,9 +28,9 @@ categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weap
 | selling price | 50 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | No |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding or holding the Light's Final TollVow of Iron:, Bloodstarved Hunter |
 | description | A reminder that all songs must be consumed. |
 

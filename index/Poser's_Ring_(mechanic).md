@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring (mechanic)"
-revid: 226137
+revid: 226169
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring_(mechanic)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -61,7 +61,7 @@ Exclusive to the [Flashing Thunder](Flashing_Thunder.md) [Memento](Mementos.md),
 
 This plays an animation and applies an extended true stun to the target. During this stun, the user and the target gain damage immunity to outside damage.
 
-Unlike the others, this effect has a visual component; as you store damage, lightning orbs will form and orbit your character's head. More orbs will appear the more damage you store, capping at 8, vsiually, and the orbs are fired on sheathe. These orbs have various effects, given to them by the other [Flashing Thunder](Flashing_Thunder.md) Talents. See [Flashing Thunder](Flashing_Thunder.md) for more info.
+Unlike the others, this effect has a visual component; as you store damage, lightning orbs will form and orbit your character's head. More orbs will appear the more damage you store, capping at 8, visually, and the orbs are fired on sheathe. These orbs have various effects, given to them by the other [Flashing Thunder](Flashing_Thunder.md) Talents. See [Flashing Thunder](Flashing_Thunder.md) for more info.
 
 ### [Moppet](Moppet.md)
 
