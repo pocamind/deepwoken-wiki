@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226199
+revid: 226214
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -2643,7 +2643,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Charm Caster
 
--   **Charismatic Cast** \[Common Talent\] - Landing a hit with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+-   **Charismatic Cast** \[Common Talent\] - Landing a hit with a Mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
     -   This charm lasts 10s.
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have [Lasting Charisma](#lasting-charisma) if you wish to get use out of Charismatic Cast during ganks and other team fights.  
@@ -2652,7 +2652,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\] \[Support\]
 
--   **Charismatic Cast** \[Common Talent\] - Landing a hit with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+-   **Charismatic Cast** \[Common Talent\] - Landing a hit with a Mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
     -   This charm lasts 10s.
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have [Lasting Charisma](#lasting-charisma) if you wish to get use out of Charismatic Cast during ganks and other team fights.  

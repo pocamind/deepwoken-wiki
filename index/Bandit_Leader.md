@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 225017
+revid: 226203
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -93,5 +93,5 @@ A Bandit Leader executes their opponent after knocking them:
 
 ## Trivia
 
--   The Bandit Leaders, especially if they wield the Silver Dagger, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with the speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
+-   The Bandit Leaders, especially if they wield the Gilded Knife, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with the speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
 -   They used to be called "Bandit Captains."

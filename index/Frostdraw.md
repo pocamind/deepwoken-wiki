@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 225896
+revid: 226201
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1318,7 +1318,7 @@ These Talents are found in the _Frozen Warrior_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Frozen Legs  
-(60 Frostdraw) | Your slow effect prevents your opponents from rolling. | Only procs on Mantras. Lasts for the first 0.75s of Chill duration. Does **not** work with Crystallization Path. |
+(60 Frostdraw) | [Chilled](Status_Effects.md#chill) applied by your Mantras prevents your opponents from rolling. | Lasts for the first 0.75s of Chill duration. Does **not** work with Crystallization Path. |
 
 **Glassdancer:**
 

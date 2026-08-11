@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring (mechanic)"
-revid: 226196
+revid: 226205
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring_(mechanic)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -37,7 +37,7 @@ The term "**Suspended Hit**" refers to the release of the stored damage; [Poser'
 -   The stored damage is amassed on the target, and is not recorded per player. The damage credit goes to the player who triggers the Suspended Hit first. For example: If two people are fighting an enemy with Poser's Ring mechanic weapons, and person B sheathes ([Poser's Ring](<Poser's_Ring.md>)), then all of the stored damage applied by both players will be dealt at once. This credits the damage to Player B, regardless of how much Player A contributed.
 -   The stored damage on each target you've damaged will be dealt simultaneously on Suspended Hit; hitting enemy A, then enemy B, and then proccing the Suspended Hit will cause both of them to take their respective stored damage.
 -   Chip damage and the damage from damage-dealing enchantments are not stored, and deal their damage normally.
--   Player clones do not sore their damage, and will instead deal their damage normally. In the case of [Moppet](Moppet.md), they also cannot use its critical attack.
+-   Player clones do not store their damage, and will instead deal their damage normally. In the case of [Moppet](Moppet.md), they also cannot use its critical attack.
 
 #### Damage Snapshotting
 
@@ -45,7 +45,7 @@ The damage that each hit deals is calculated and stored, accounting for the effe
 
 To prevent damage buffs or resistances from double-dipping, the Suspended Hit deals **true damage**, meaning it cannot be directly buffed or resisted. In practice, however, this does not necessarily deal true damage, as the resistances and damage modifiers are taken into account for each hit landed. To reclarify: it deals true damage to fix fringe cases where something would buff or resist the Suspended Hit specifically, and in practice, the hits are still resisted.
 
-Simple examples scenarios:
+Example scenarios:
 
 1.  While [Taunt](Attunement-less.md#taunt) is active (20% damage modifier), you land three basic attacks that normally deal 10 damage each. Once Taunt runs out, you land three more basic attacks and then Sheathe ([Poser's Ring](<Poser's_Ring.md>)). In total, you've dealt 66 damage, as the first three hits received Taunt's damage buff, but the last three didn't.
 2.  You land six basic attacks that deal 10 damage each, then apply [Taunt](Attunement-less.md#taunt) (20% damage modifier) and Sheathe ([Poser's Ring](<Poser's_Ring.md>)). In total, you've done 60 damage, as Taunt was not active for any of the hits landed, and the Suspended Hit cannot be directly buffed.
