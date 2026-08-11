@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226081
+revid: 226199
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4725,19 +4725,17 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Frozen Warrior
 
--   _Frozen Legs_ \[Rare Talent\] - Your slow effect prevents your opponents from rolling.
+-   _Frozen Legs_ \[Rare Talent\] - [Chilled](Status_Effects.md#chill) applied from Mantras prevents your opponents from rolling.
     -   Does not work with Crystallization.
-    -   Lasts the first 0.75 seconds after chill/freeze procs.
-    -   Only procs off Mantras.  
+    -   Lasts the first 0.75 seconds after chill/freeze procs.  
         
     -   Prerequisites: 60 Frostdraw  
         
     -   Tags: \[Frostdraw\] \[Debuff\]
 
--   **Frozen Legs** \[Rare Talent\] - Your slow effect prevents your opponents from rolling.
+-   **Frozen Legs** \[Rare Talent\] - [Chilled](Status_Effects.md#chill) applied from Mantras prevents your opponents from rolling.
     -   Does not work with Crystallization.
-    -   Lasts the first 0.75 seconds after chill/freeze procs.
-    -   Only procs off Mantras.  
+    -   Lasts the first 0.75 seconds after chill/freeze procs.  
         
     -   Prerequisites: 60 Frostdraw  
         
