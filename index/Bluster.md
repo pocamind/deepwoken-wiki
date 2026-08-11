@@ -1,6 +1,6 @@
 ---
 title: Bluster
-revid: 218005
+revid: 226198
 source: https://deepwoken.fandom.com/wiki/Bluster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -32,3 +32,4 @@ The hit count required to proc this enchantment varies based on your weapon type
 
 -   Bluster can be blocked and parried, dealing 10 posture damage if blocked.
 -   Bluster procs certain "on flourish" Talents such as [Chainlash](Oath%253A_Chainwarden.md#chainlash) and [Hidden Tendril](Oath%253A_Contractor.md#hidden-tendril).
+-   The [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) increases Bluster's damage by 35%.

@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdrill
-revid: 203203
+revid: 226194
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdrill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, The Ignition Union]
@@ -8,10 +8,25 @@ categories: [Mechanics, Layer 2, The Ignition Union]
 
 # Ignition Deepdrill
 
-The deepdriller located at the end of the Nest Corridor.
+| Ignition Deepdrill | |
+|---|---|
 
 ## Description
 
-The **Deepdrill** is a drill located at [The Eternal Gale](Lore.md#the-eternal-gale-the-second-layer), specifically at the end of the [Nest Corridor](Nest_Corridor.md). Its only purpose is to help players escape; it is one of the three ways of leaving the first floor safely. It is mainly used by players who go hookless for a safer escape.
+The **Ignition Deepdrill** is a transport vehicle created by the [Ignition Union](The_Ignition_Union.md) for excavation purposes.
 
-The Deepdrill can only be called by [Llevyn](Llevyn.md) at the [The Frontier Furnace](The_Frontier_Furnace.md). Which must be opened by activating a generator, past the [Bone Keeper](Bone_Keeper.md) at the bridge above [Aezeroth Kaladin](Aezeroth_Kaladin.md).
+## Usage
+
+Depending on the location, the Deepdrill has two uses:
+
+### Saramaed Hollow
+
+The Deepdrill can be used for expeditions in the Hollow. While descending, all of the stored fuel in the Deepdrill is consumed and will require the player to fetch more.
+
+A radio located inside the drill allows the player to be sent back to the starting point.
+
+### The Depths
+
+In the [First Layer](First_Layer.md), the Deepdriller can only be used by [Ignition Delvers](Ignition_Delver.md) at [The Chariot's Spire](<The_Chariot's_Spire.md>) to start expeditions in the [Second Layer](Second_Layer.md), given that the player has already escaped via the Deepdrill at least once. Entering the Second Layer through the Deepdrill spawns the player at [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already activated.
+
+A Deepdriller can be called down by [Llevyn](Llevyn.md) at The Frontier Furnace, appearing at the [Nest Corridor](Nest_Corridor.md) for an alternative escape method. This will require the generator to be turned on.
