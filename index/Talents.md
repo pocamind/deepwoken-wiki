@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226235
+revid: 226250
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -303,7 +303,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Ironsing\] \[Damage Buff\]
 
--   _Phantom Edge_ \[Rare Talent\] - Your weapon Basic Attacks have +0.25 range.
+-   _Phantom Edge_ \[Rare Talent\] - Your weapon M1's have +0.25 range.
     -   It is not recommended to take this Talent, as its effect is objectively, unnoticeably minuscule.
     -   Stacks with other sources of weapon range increases, such as [Duelist's Lunge](#duelists-lunge).  
         
@@ -311,7 +311,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Ironsing\] \[Range\]
 
--   **Phantom Edge** \[Rare Talent\] - Your weapon Basic Attacks have +0.25 range.
+-   **Phantom Edge** \[Rare Talent\] - Your weapon M1's have +0.25 range.
     -   It is not recommended to take this Talent, as its effect is objectively, unnoticeably minuscule.
     -   Stacks with other sources of weapon range increases, such as [Duelist's Lunge](#duelists-lunge).  
         
@@ -805,9 +805,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Apex Predator
 
--   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+-   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by killing others.
     -   You now vomit when consuming plant-based [Food](Food.md) items. Generic and Meat-type foods are still consumable.
-    -   Gain hunger and thirst upon executing an monster, NPC or player. The nourishment gained scales on the strength of the target.
+    -   Gain hunger and thirst upon executing an monster, NPC, or player. The nourishment gained scales on the strength of the target.
     -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
         -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
             
@@ -817,9 +817,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Strength\] \[Willpower\] \[Food\]
 
--   **Carnivore** \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+-   **Carnivore** \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by killing others.
     -   You now vomit when consuming plant-based [Food](Food.md) items. Generic and Meat-type foods are still consumable.
-    -   Gain hunger and thirst upon executing an monster, NPC or player. The nourishment gained scales on the strength of the target.
+    -   Gain hunger and thirst upon executing an monster, NPC, or player. The nourishment gained scales on the strength of the target.
     -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
         -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
             
@@ -1129,7 +1129,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Thundercall\]
 
--   **Resolve Crusher** \[Common Talent\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+-   **Resolve Crusher** \[Common Talent\] - Lightning moves now apply stacks of 'Resolve Crusher'. At 4 stacks, you apply '[Electrified](Status_Effects.md#electrified)' to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Not to be confused with the [Electrify](#electrify) Talent, [Electrified](Status_Effects.md#electrified) targets have their damage on weapon attacks changed to Thundercall damage.
     -   Electrified **only** reduces damage from weapon attacks.
     -   Electrified procs when landing an attack that would apply the fifth stack, not the fourth.
@@ -1142,7 +1142,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Thundercall\] \[Damage Resistance\]
 
--   **Resolve Crusher** \[Common Talent\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+-   **Resolve Crusher** \[Common Talent\] - Lightning moves now apply stacks of 'Resolve Crusher'. At 4 stacks, you apply '[Electrified](Status_Effects.md#electrified)' to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Not to be confused with the [Electrify](#electrify) Talent, [Electrified](Status_Effects.md#electrified) targets have their damage on weapon attacks changed to Thundercall damage.
     -   Electrified **only** reduces damage from weapon attacks.
     -   Electrified procs when landing an attack that would apply the fifth stack, not the fourth.
@@ -1155,7 +1155,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Thundercall\] \[Damage Resistance\]
 
--   **Second Interrogation** \[Common Talent\] - [Electrified](Status_Effects.md#electrified) attacks do 50% less damage and posture damage to you.
+-   **Second Interrogation** \[Common Talent\] - Opponents who are [Electrified](Status_Effects.md#electrified) do 50% less damage and 50% less posture damage to you.
     -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
     -   Like [Resolve Crusher](#resolve-crusher), this, too, only applies to weapon attacks.  
         
@@ -1163,7 +1163,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Thundercall\] \[Damage Resistance\] \[Posture Resistance\]
 
--   **Second Interrogation** \[Common Talent\] - [Electrified](Status_Effects.md#electrified) attacks do 50% less damage and posture damage to you.
+-   **Second Interrogation** \[Common Talent\] - Opponents who are [Electrified](Status_Effects.md#electrified) do 50% less damage and 50% less posture damage to you.
     -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
     -   Like [Resolve Crusher](#resolve-crusher), this, too, only applies to weapon attacks.  
         
@@ -3223,12 +3223,12 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Fortitude\] \[Shadowcast\] \[Damage Resistance\] \[Debuff\]
 
--   **Dark God** \[Common Talent\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their [Tempo](Combat_Mechanics.md#tempo) instead and increase your Tempo.
+-   **Dark God** \[Common Talent\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their [Tempo](Combat_Mechanics.md#tempo) instead and increase your Tempo. Shadowcast mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will now raise your tempo if your ether is full.
     
     -   Prerequisites: 20 Shadowcast  
         
 
--   **Dark God** \[Common Talent\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their [Tempo](Combat_Mechanics.md#tempo) instead and increase your Tempo.
+-   **Dark God** \[Common Talent\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their [Tempo](Combat_Mechanics.md#tempo) instead and increase your Tempo. Shadowcast mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will now raise your tempo if your ether is full.
     
     -   Prerequisites: 20 Shadowcast  
         
@@ -3291,7 +3291,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Shadowcast\] \[Damage Buff\]
 
--   _Dark Rift_ \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   _Dark Rift_ \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled early if you attack.
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use Mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
@@ -3301,7 +3301,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Shadowcast\]
 
--   **Dark Rift** \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   **Dark Rift** \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled early if you attack.
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use Mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
@@ -4673,7 +4673,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Frostthorn
 
--   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
+-   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
     -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
     -   Lasts 50 seconds if it is not broken
@@ -4688,7 +4688,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
             
     -   Tags: \[Frostdraw\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
--   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
+-   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
     -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
     -   Lasts 50 seconds if it is not broken
@@ -5609,7 +5609,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Immolator
 
--   Agitating Spark \[Common Talent, Flamecharm\] - Applying [Burning](Status_Effects.md#burn) to enemies spreads to to anyone nearby. Including yourself.
+-   Agitating Spark \[Common Talent, Flamecharm\] - Applying [Burning](Status_Effects.md#burn) to enemies spreads it to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
     -   Agitating Spark bypasses block and parry.
     -   Procs on self damage.
@@ -5630,9 +5630,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Inferno
 
--   Corpse Explosion \[Common Talent, Flamecharm\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
-    -   Burn grip unconscious targets, even yourself, in 3.5 seconds instead of 7.
-        -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
+-   Corpse Explosion \[Common Talent, Flamecharm\] - Bodies that you burn to death immediately explode, dealing massive damage. Your fires will incinerate unconscious targets much faster.
+    -   -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
     -   The explosion does not work; you'll burn them to death without an explosion.
     -   Prerequisites: 60 Flamecharm, Agitating Spark
 
@@ -6262,7 +6261,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
     -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
 
--   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
+-   Polite Awakening \[Common Talent\] - Upon recovering from being [Unconscious](Status_Effects.md#unconscious), your health is restored up to a minimum of 15% of your max health. (+1 Passive Agility)
+    -   Prerequisite: None
     -   The [Legion Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
 
 -   Ready or Not \[Common Talent, Fortitude\] - The first attack to hit you while out of combat has its damage cut in half.
@@ -6900,7 +6900,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Blossoming Darkness \[Common Talent, Shadowcast\] - The more Ether you drain during Shadow Roar, the bigger it gets.
     -   Prerequisites: [Shadow Roar](Shadowcast.md#shadow-roar) (Mantra), 40 Shadowcast
 
--   Fear the Dark \[Common Talent, Shadowcast\] - Enemies will briefly hang in place when they run from you.
+-   Fear the Dark \[Common Talent, Shadowcast\] - Enemies that run from you after being hit by your shadows will hang in place briefly.
     -   After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you in the next 5 seconds, they will be locked in place for 1.5 seconds.
     -   This does not apply hitstun.
     -   Prerequisite: 50 Shadowcast
@@ -6925,7 +6925,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This Talent was merged with the old Black Out Talent.
     -   Mutual Exclusive: Singularity
 
--   Singularity \[Common Talent, Shadowcast\] - Enemies will briefly hang in place when hit by a shadow move. Also procs Shaky Block.
+-   Singularity \[Common Talent, Shadowcast\] - Enemies will briefly hang in place immediately after being hit by a shadow move.
+    -   Also procs Shaky Block.
     -   Prerequisite: 40 Shadowcast
     -   Mutual Exclusive: Sightless Still
 
@@ -7597,14 +7598,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   15 second cooldown if at least one Puppet is successfully sacrificed, 1 second cooldown if not.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 
--   Explosive Rage \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
+-   Explosive Rage \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Causing explosion will make your puppets go into a frenzy, speeding up and dealing 50% more damage.
     -   The buff is signified by an orange swirling aura around your Puppets.
     -   Buffs all currently alive Puppets and all Puppets that spawn within the next 10 seconds.
         -   The damage buff only applies to newly created Puppets, unlike the movement speed buff, which affects both old and new Puppets.
     -   The following abilities and Talents proc Explosive Rage: [Explosive Finish](#explosive-finish), [Emperor Flame](#emperor-flame), [The Final Act](#the-final-act), [Scorchblood](#scorchblood), and the [Detonation](Detonation.md) enchant.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
--   Moths to a Flame \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - You summon a puppet of black flames that homes onto enemies with black flames.
+-   Moths to a Flame \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your Twisted Puppets now home towards burning enemies.
     -   Your Puppets home onto the closest entity (excluding yourself) who is burning from either of the Twisted Puppets burn types. This can include allies.
     -   Puppets move significantly faster when they get close to a burning target.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
