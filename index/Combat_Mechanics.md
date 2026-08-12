@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 220410
+revid: 226253
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -37,7 +37,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
     <li>Posture can be restored through many methods: the passive Posture regeneration when not sprinting or blocking, Parrying attacks, landing a Taunt (<kbd><abbr>T</abbr></kbd>), or through the use of certain <a href="Talents.md">Talents</a>.</li>
   </ul>
   <ul>
-    <li>Posture can have multipliers effecting the maximum &amp; minimum given from various <a href="Talents.md">Talents</a>, <a href="Enchantments.md">Enchantments</a>, or other effects. posture damage delt has a soft cap of 1.5x where all posture multipliers after get halved with a maximum hard cap of 1.75x where you cannot do more than 175% of the posture damage an attack was meant to deal. Posture damage received has a hard cap of 0.5x where you cannot take less than 50% of the posture damage the attack was meant to deal.</li>
+    <li>Posture can have multipliers effecting the maximum &amp; minimum given from various <a href="Talents.md">Talents</a>, <a href="Enchantments.md">Enchantments</a>, or other effects. posture damage dealt has a soft cap of 1.5x where all posture multipliers after get halved with a maximum hard cap of 1.75x where you cannot do more than 175% of the posture damage an attack was meant to deal. Posture damage received has a hard cap of 0.5x where you cannot take less than 50% of the posture damage the attack was meant to deal.</li>
     <li>When blocking while in shaky block frames, your posture bar glows red to indicate that your block isn't full yet.<figure><figcaption></figcaption></figure></li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
