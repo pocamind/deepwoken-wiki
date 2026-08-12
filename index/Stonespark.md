@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 225155
+revid: 226224
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -82,6 +82,7 @@ Stonesparks are a mob that can be found deployed throughout [Erisia](Erisia.md),
 -   [Marcus](Marcus.md), located in [The Hidden Village](The_Hidden_Village.md), is the only known passive Stonespark.
     -   Marcus was in the game for a significant amount of time before the addition of hostile Stonesparks.
 -   Stonesparks can block and get guard broken.
+-   When attempting to save a player being gripped by a Stonespark, the player saved will be stuck in the air unable to move after being saved unless they leave the game. (bug)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 224856
+revid: 226222
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Humanoid Bosses, Bosses, Etrea]
@@ -261,6 +261,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Risky Moves - Whenever Maestro Evengarde Rest dodges an attack, he'll automatically dodge the next attack.
 -   Ghost - Whenever Maestro Evengarde Rest dodges an attack, he turns invisible.
 -   Chronostasis - Maestro Evengarde Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
+-   Audacity - Maestro Evengarde Rest will stun nearby enemies when manually executing a humanoid (possible with spawned [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md)).
 -   Pressure Break - If Maestro Evengarde Rest guardbreaks you, you'll get ragdolled and tossed back.
 -   Stifled Jump - Jumping while suffocated by Maestro Evengarde Rest's Galebreathe will result in you getting dazed.
 -   Showstopper - When rolling through one of Maestro Evengarde Rest's physical attacks, he will stomp the ground and daze you. Removes your speed buffs.
