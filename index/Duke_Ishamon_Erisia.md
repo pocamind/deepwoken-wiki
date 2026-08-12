@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 226177
+revid: 226227
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Bosses, Humanoid Bosses, Voiced Characters, Members of the Erisia family]
@@ -270,7 +270,7 @@ Dodge
 
 -   Covers a large Area of Effect.
 -   More often to happen if Duke takes major damage quickly.
--   Duke will always use this move after he drops below half HP
+-   Duke will usually use this move after he drops below half HP
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

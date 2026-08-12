@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226214
+revid: 226235
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1063,7 +1063,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Agility\] \[+Passive Agility\] \[Assassination\] \[Debuff\] \[PEN\]
 
--   **Lowstride** \[Common Talent\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.
+-   **Lowstride** \[Common Talent\] - When crouching, your stealth and roll distance are increased. Your speed while crouching is less slow You \[_[sic](https://en.wikipedia.org/wiki/sic)_\] draw your weapon silently.
     -   Doubles the [Stealth](Stealth.md) gain bonuses from crouching.
         -   Crouching normally increases your Stealth by 1.5x and adds a flat +50 Stealth afterwards, but having Lowstride makes crouching increase your Stealth by 2x and add a flat 100 Stealth instead.
         -   Stealth × 1.5 + 50 -> Stealth × 2 + 100.
@@ -1080,7 +1080,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Agility\] \[+Passive Agility\]
 
--   **Lowstride** \[Common Talent\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.
+-   **Lowstride** \[Common Talent\] - When crouching, your stealth and roll distance are increased. Your speed while crouching is less slow You \[_[sic](https://en.wikipedia.org/wiki/sic)_\] draw your weapon silently.
     -   Doubles the [Stealth](Stealth.md) gain bonuses from crouching.
         -   Crouching normally increases your Stealth by 1.5x and adds a flat +50 Stealth afterwards, but having Lowstride makes crouching increase your Stealth by 2x and add a flat 100 Stealth instead.
         -   Stealth × 1.5 + 50 -> Stealth × 2 + 100.
@@ -3703,7 +3703,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[Chip Damage\] \[Critical Attack\]
 
--   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.
+-   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second attack that deals your weapon's raw damage.
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   Deals half of your weapon's scaled damage, withe no PEN.
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
@@ -3716,7 +3716,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[M1 Tag\]
 
--   **Spine Cutter** \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.
+-   **Spine Cutter** \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second attack that deals your weapon's raw damage.
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   Deals half of your weapon's scaled damage, withe no PEN.
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
@@ -3921,18 +3921,16 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Escape Artist
 
--   **Robber Baron** \[Common Talent\] - You hold onto more items when defeated.
-    -   Item loss on death is reduced from 50% to 25%.
-    -   You no longer lose Notes from dying.  
+-   **Robber Baron** \[Common Talent\] - Halves the number of items you drop on death. You no longer lose [Notes](Notes.md) on death.
+    -   Item loss on death is reduced from 50% to 25%.  
         
     -   Prerequisites: None  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)  
         
 
--   **Robber Baron** \[Common Talent\] - You hold onto more items when defeated.
-    -   Item loss on death is reduced from 50% to 25%.
-    -   You no longer lose Notes from dying.  
+-   **Robber Baron** \[Common Talent\] - Halves the number of items you drop on death. You no longer lose [Notes](Notes.md) on death.
+    -   Item loss on death is reduced from 50% to 25%.  
         
     -   Prerequisites: None  
         
@@ -6218,7 +6216,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Scales on your current sanity percentage, similar to Lose Your Mind.
     -   Prerequisite: 80 Willpower
 
--   Shared Misery \[Common Talent, Willpower\] - Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
+-   Shared Misery \[Common Talent, Willpower\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
     -   Activates when you are actively losing sanity or for 15 seconds after using Heretic's Sutra.
     -   On proc remove 3% of the targets maximum sanity. This effect has no cooldown.
     -   The amount of sanity damage per hit will scale down if you have less than 85 Willpower.
@@ -6379,7 +6377,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Increases the effectiveness of the on-parry speed boost from 12.5% to 27.5%, and duration its from 0.5s to 1.5s.
     -   Prerequisite: 20 Agility
 
--   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+-   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - Feinting your Basic Attacks gives you a very brief auto-parry window. (+1 Passive Agility)
     -   The auto-parry window is 0.03s, almost requiring the player themselves to have light speed reflexes...
     -   Prerequisites: 20 Agility, 20 Intelligence
 
@@ -7395,7 +7393,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Thief
 
--   Cap Artist \[Common Talent, Agility, Charisma\] - Pressing Comma while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well. (+2 Passive Agility)
+-   Cap Artist \[Common Talent, Agility, Charisma\] - Pressing CapArtist while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well. (+2 Passive Agility)
+    -   Innately bound to Comma (unbound on Console).
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cap Artist's activation keybind can be configured in settings.
     -   Cancelled by pressing the activation key again.

@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 225763
+revid: 226225
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -19,15 +19,15 @@ There are currently four base Attunements that anyone may select when first [cre
 -   The more attunements you wield, the more expensive it will become to manage them, because you do not have an infinite number of points to spend on your character. Choose wisely.
 -   By choosing no attunement, you are provided 10 extra investment points to make up for the loss of attunement. Normally, these 10 points would be auto-invested if you chose an attunement.
 
-Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 2-3 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
+Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method, and then find and ask the trainer for the attunement.
 
--   [Flamecharm](Flamecharm.md) = [Dying Embers](Dying_Embers.md)
--   [Frostdraw](Frostdraw.md) = [Frigid Prisms](Frigid_Prism.md)
--   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
--   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
--   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
+-   [Flamecharm](Flamecharm.md) = 2 [Dying Embers](Dying_Embers.md)
+-   [Frostdraw](Frostdraw.md) = 2 [Frigid Prisms](Frigid_Prism.md)
+-   [Thundercall](Thundercall.md) = 2 [Spark Glands](Spark_Gland.md)
+-   [Galebreathe](Galebreathe.md) = 2 [Gale Stones](Gale_Stone.md)
+-   [Shadowcast](Shadowcast.md) = 2 [Umbral Obsidian](Umbral_Obsidian.md)
 -   [Ironsing](Ironsing.md) = 1 [Pluripotent Alloy](Pluripotent_Alloy.md), 6 _[Ores](Ores.md)_ (Iron, Gold, Erisore, Irithine, Astruline, Umbrite)
--   [Bloodrend](Bloodrend.md) = [Heartstars](Heartstar.md)
+-   [Bloodrend](Bloodrend.md) = 2 [Heartstars](Heartstar.md)
 
 These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that once consumed will provide the character with a singular point in that attunement.
 
