@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Finger"
-revid: 222787
+revid: 226431
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -34,7 +34,7 @@ Variants: [Pendant Earrings](<Shiva's_Pendant_Earrings.md>)
 
 At 10 Shiva's Fingers, this provides a 4.5% damage buff per combat tag you have, as long as you have at least four combat tags.
 
-With each Battle Royale win the player will cosmetically gain more Shiva's Fingers on their hands. The maximum number of fingers is 10.
+With each [Battle Royale](Battle_Royale.md) win the player will cosmetically gain more Shiva's Fingers on their hands. The maximum number of fingers is 10.
 
 ## Trivia
 

@@ -1,9 +1,11 @@
 ---
 title: Darkblood Vial
-revid: 226410
+revid: 226420
 source: https://deepwoken.fandom.com/wiki/Darkblood_Vial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items, Drops, Ingredients]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Darkblood Vial
@@ -15,7 +17,7 @@ categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 | stack | N/A |
 | type | Ingredient |
 | rarity | Legendary |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | pass down | No |
 | desc | A vial of dark, clotted blood, harvested from creatures melded with Shadow. Exposure to this material can induce spontaneous necrosis. |

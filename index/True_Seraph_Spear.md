@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 226342
+revid: 226430
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -43,9 +43,11 @@ The True Seraph Spear is a MED [weapon](Weapons.md). Some consider this to be th
 
 Equipping the True Seraph Spear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Upon landing the first hit of your critical attack, regardless if parried or not, [**True Seraph Slash**](Talents.md#true-seraph-slash) replaces your next critical attack with the Angels' spear smite ability.
+Upon successfully landing the first hit of your critical attack, [**True Seraph Slash**](Talents.md#true-seraph-slash) replaces your next critical attack with the Angels' spear smite ability.
 
-This critical will gain an additional attack if you are wearing the [Sworn](Sworn_Angel_Mask.md) or [Hollow Angel Masks](Hollow_Angel_Mask.md), or have your [Starkindred](Oath%253A_Starkindred.md) wings out.
+This critical will gain an additional attack if you are wearing the [Sworn](Sworn_Angel_Mask.md) or [Hollow Angel Masks](Hollow_Angel_Mask.md), or have your [Starkindred](Oath%253A_Starkindred.md) wings out. Additionally, if you have both the mask and the wings, your spear smite ability will spawn an allied [Sworn Angel](Sworn_Angel.md) to temporarily assist you in the fight.
+
+The spawned angel is relatively fragile and can have an [enchanted](Enchantments.md) [Soulwrought Spear](Crazy_Slots.md). This angel will down itself after 5 seconds of lifetime.
 
 This attack deals 0.75x scaled damage per hit (4, 5 with the above synergy), dealt as **typeless** damage. In total, this deals 3x to 3.75x your weapon's scaled damage.
 
