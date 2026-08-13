@@ -1,6 +1,6 @@
 ---
 title: The Justicar
-revid: 218273
+revid: 226267
 source: https://deepwoken.fandom.com/wiki/The_Justicar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Justicars]
@@ -20,7 +20,7 @@ This article is about the faction. For the [Origin](Origins.md), visit [Justicar
 
 ## Description
 
-The Justicar are a group hailing from [the North](Luminants.md#the-northern-luminant). They are bound by the idea of walking their own variation of The Path, which they pick for themselves, with their spiritual leader, [Alsin](Alsin.md)'s, judgement in the end.[\[1\]](#cite-note-polis-1)
+The Justicar are a group hailing from [the North](Luminants.md#northern-luminant). They are bound by the idea of walking their own variation of The Path, which they pick for themselves, with their spiritual leader, [Alsin](Alsin.md)'s, judgement in the end.[\[1\]](#cite-note-polis-1)
 
 The Path is the code of the Justicar, which they interpret in their own way. One may interpret The Path to help others, some may use it to exact righteous violence upon people. They can only hope that The Path they have chosen to follow is right.[\[1\]](#cite-note-polis-1)
 

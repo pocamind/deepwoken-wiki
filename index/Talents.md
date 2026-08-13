@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226250
+revid: 226261
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4679,7 +4679,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Lasts 50 seconds if it is not broken
     -   If you have the [Refreeze](#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
         
-    -   Prerequisites: 65 Fortitude  
+    -   Prerequisites: 65 Frostdraw  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Icebringer's Vestments](<Icebringer's_Vestments.md>)  
         
@@ -4694,7 +4694,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Lasts 50 seconds if it is not broken
     -   If you have the [Refreeze](#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
         
-    -   Prerequisites: 65 Fortitude  
+    -   Prerequisites: 65 Frostdraw  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Icebringer's Vestments](<Icebringer's_Vestments.md>)  
         

@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 224238
+revid: 226259
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -35,7 +35,9 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 
 ## Description
 
-The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, low chance afterward). It's part of a trio of weapons from the [Maestro](Maestro_Evengarde_Rest.md)'s arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilizes your fists and legs to attack, with the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the move sets of swords with those of [Fists](Fists.md). It can only be used one-handed.
+The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, then, very slim chance afterward). It's part of a trio of weapons from the [Maestro](Maestro_Evengarde_Rest.md)'s arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilizes your fists and legs to attack, with the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the move sets of swords with those of [Fists](Fists.md). It can only be used one-handed.
+
+  
 
 Akin to the [Shattered](Shattered_Katana.md) and [Alloyed Katanas](Katana.md), the [Paired Soul](Talents.md#paired-soul) [Outfit](Outfits.md) Talent increases its damage by 5%.
 

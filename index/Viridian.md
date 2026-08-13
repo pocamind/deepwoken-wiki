@@ -1,6 +1,6 @@
 ---
 title: Viridian
-revid: 224993
+revid: 226262
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
@@ -90,5 +90,3 @@ These dialogues are unlocked if the player is obtaining [Oathless](Oath%253A_Oat
 -   They are named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Viridian City_](https://bulbapedia.bulbagarden.net/wiki/Viridian_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Celadon](Celadon.md).
 -   Viridian usually means the shade of the color green.
--   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, Viridian and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.
-    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"
