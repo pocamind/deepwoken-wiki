@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 225893
+revid: 226307
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -731,7 +731,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
 -   Has a base damage of 4.25/5.35/6.45/7.55/8.65 per level, per hit (5) with 2.75 Galebreathe scaling.
 -   Deals 2.5 posture damage per hit (5).
--   Has a windup of 0.45 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
+-   Has a windup of 0.47 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
 -   At level 3+, the last hit of Astral Wind sends the opponent upwards.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.

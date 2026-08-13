@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226261
+revid: 226357
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -287,7 +287,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Exposed Durability** \[Common Talent\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also applies to players who are wearing the [Stranded](Stranded.md) Outfit.
-    -   Always procs on your Basic Attacks if you have [Berserk](#berserk) active, and with any attack made against Berserk users.
     -   This synergizes extremely well with abilities that drain your opponent's armor durability, such as the [Arachnid's Weave](<Arachnid's_Weave.md>)'s [Corrosive Touch](#corrosive-touch) and the [Metal](Metal.md) Enchantment.  
         
     -   Prerequisites: 60 Ironsing  
@@ -296,7 +295,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Exposed Durability** \[Common Talent\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also applies to players who are wearing the [Stranded](Stranded.md) Outfit.
-    -   Always procs on your Basic Attacks if you have [Berserk](#berserk) active, and with any attack made against Berserk users.
     -   This synergizes extremely well with abilities that drain your opponent's armor durability, such as the [Arachnid's Weave](<Arachnid's_Weave.md>)'s [Corrosive Touch](#corrosive-touch) and the [Metal](Metal.md) Enchantment.  
         
     -   Prerequisites: 60 Ironsing  
@@ -1430,32 +1428,20 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Berserker
 
 -   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
-    -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
-        -   The armor nullification effect on M1 is **not** considered PEN by any effect in the game, instead it just allows your attacks to entirely ignore their armor.
+    -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
-    -   When activated:
-        -   Your eyes and hair turn red with your eyes gaining a red trail.
-        -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
-        -   [Padded Armor](#padded-armor), [Steel Scales](#steel-scales), and [Lightweight](#lightweight) are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
-        -   You benefit from [Exposed Durability](#exposed-durability)'s 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
-    -   The color of the eyes and hair are [dyable](Dye_Packet.md), though it's currently bugged and your hair does not change color.  
+    -   Your eyes and hair turn red with your eyes gaining a red trail when activated as well. This is [dyable](Dye_Packet.md). (Currently bugged, as hair color does not change)  
         
     -   Prerequisites: 80 Strength  
         
     -   Tags: \[Strength\] \[PEN\] \[Scale-down\] \[Tool\]
 
 -   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
-    -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
-        -   The armor nullification effect on M1 is **not** considered PEN by any effect in the game, instead it just allows your attacks to entirely ignore their armor.
+    -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
-    -   When activated:
-        -   Your eyes and hair turn red with your eyes gaining a red trail.
-        -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
-        -   [Padded Armor](#padded-armor), [Steel Scales](#steel-scales), and [Lightweight](#lightweight) are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
-        -   You benefit from [Exposed Durability](#exposed-durability)'s 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
-    -   The color of the eyes and hair are [dyable](Dye_Packet.md), though it's currently bugged and your hair does not change color.  
+    -   Your eyes and hair turn red with your eyes gaining a red trail when activated as well. This is [dyable](Dye_Packet.md). (Currently bugged, as hair color does not change)  
         
     -   Prerequisites: 80 Strength  
         
@@ -4511,7 +4497,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Flamecharm\] \[Frostdraw\] \[Multi-Attunement\]
 
-### Freak Of Nature
+### Freak of Nature
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
     -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
@@ -4540,6 +4526,18 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 40 Fortitude  
         
     -   Tags: \[Fortitude\] \[Damage Resistance\] \[Scale-down\]
+
+-   _**Scalrosis**_ \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
+    
+    -   Prerequisites: 100 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\]
+
+-   **Scalrosis** \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
+    
+    -   Prerequisites: 100 Fortitude  
+        
+    -   Tags: \[Fortitude\] \[Damage Resistance\]
 
 -   _To The Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.  
@@ -4879,9 +4877,10 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Galebreathe\]
 
--   **Inhale** \[Common Talent\] - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Inhale** \[Common Talent\] - [Canceling](Combat_Mechanics.md#combat-basics) a Wind Mantra stores it for 5 seconds, empowering the next Wind Mantra cast in that time. \[7 sec CD, gets removed upon landing a light attack\]
     -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale Mantra a 10% damage buff.
     -   Inhaling grants a speed boost for 3 seconds.
+    -   Inhaling a Mantra also stores its [Mantra Modifiers](Mantra_Modifiers.md), applying them to the next eligible Mantra you cast.
     -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut.
         -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
     -   Can be procced on Flamecharm Mantras if you have the [Fan the Flames](#fan-the-flames) Talent. Can be procced on Shadowcast Mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.  
@@ -4890,9 +4889,10 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Galebreathe\] \[Damage Buff\] \[Speed Boost\]
 
--   **Inhale** \[Common Talent\] - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Inhale** \[Common Talent\] - [Canceling](Combat_Mechanics.md#combat-basics) a Wind Mantra stores it for 5 seconds, empowering the next Wind Mantra cast in that time. \[7 sec CD, gets removed upon landing a light attack\]
     -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale Mantra a 10% damage buff.
     -   Inhaling grants a speed boost for 3 seconds.
+    -   Inhaling a Mantra also stores its [Mantra Modifiers](Mantra_Modifiers.md), applying them to the next eligible Mantra you cast.
     -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut.
         -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
     -   Can be procced on Flamecharm Mantras if you have the [Fan the Flames](#fan-the-flames) Talent. Can be procced on Shadowcast Mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.  
@@ -6566,9 +6566,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _**Million Ton Piercer**_ \[Advanced Talent, Strength\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   The additional 5% PEN scales with your Strength, only granting the full +5% PEN at 90 Strength.
-    -   Like Ether Overdrive, this removes the 50% Mantra and Weapon PEN cap.
+    -   This removes the 50% Melee PEN cap.
     -   Prerequisites: 90 Strength, All Rampaging Brute Talents
-    -   Mutual Exclusive: Ether Overdrive
 
 ### Rampant Static
 
@@ -6618,12 +6617,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer
 
--   _Rending Needle: Jailer_ \[Rare Talent, Ironsing\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
+-   _Rending Needle: Jailer_ \[Rare Talent, Ironsing\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them for 1s instead of pulling them.
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
     -   When affected by Jailer, the victim will be unable to do anything except [Vent](Combat_Mechanics.md#tempo).
     -   The victim is given 30% damage reduction when Jailed.
     -   When Jailed, the victim will have a 6 second rod and pull immunity. When Jailer expires, their rod pull immunity will be automatically reduced down to 1 second.
-    -   Jailer's duration scales on the amount of rods applied, having a 1.08s duration at 5 rods, and gaining 0.104 seconds per rod after 5. This caps at a 1.6s duration with 10 rods.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Conductor
 
@@ -7068,11 +7066,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   If you have less than 100 Intelligence, the number of ritual keys will be halved instead, rounding up if necessary.
     -   Prerequisite: 100 Intelligence
 
--   _**Ether Overdrive**_ \[Advanced Talent, Intelligence, Element\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+-   _**Ether Overdrive**_ \[Advanced Talent, Intelligence\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   The additional 5% PEN scales with your Intelligence, only granting the full +5% PEN at 90 Intelligence.
-    -   Like Million Ton Piercer, this removes the 50% Mantra and Weapon PEN cap.
-    -   Prerequisites: 20 Element (20 in any Attunement), 90 Intelligence
-    -   Mutual Exclusive: Million Ton Piercer
+    -   This removes the 50% Mantra PEN cap.
+    -   Prerequisite: 90 Intelligence
 
 ### Soul Converter
 
@@ -7149,7 +7146,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Starkindred
 
 -   [**Oath: Starkindred**](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN)
-    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
+    -   Prerequisites: 40 Strength, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
 -   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md)\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
     -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
@@ -7496,23 +7493,26 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Toxic Personality
 
+-   Elemental Mentalist \[Common Talent, Intelligence, Charisma\] - Empower your [Overcharm](Status_Effects.md#overcharm), allowing you and your allies to bring forth your high stat attunement's elemental effect into your light attacks when overcharmed.
+    -   While you or your allies are Overcharmed by you, your light attacks will apply the status effect of _your_ highest invested Attunement.
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast) 40 Intelligence, 80 Charisma
+
 -   Manipulator \[Common Talent, Charisma\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   10 second cooldown.
     -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
         -   Will not allow you to proc Manipulator twice as it has a cooldown.
     -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
     -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
-        -   For example, a 5 hit multihit critical will only gain the 20% damage bonus from Manipulator on the first hit as it only procs once and then goes on cooldown.
         -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
-    -   Prerequisites: Charismatic Cast, 60 Charisma
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 60 Charisma
 
 -   Narcissist \[Common Talent, Charisma\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
     -   Overcharms yourself for 4 seconds.
     -   Charms yourself for 8 seconds (halved to 4s if you have Disbelief).
         -   The self Charm proc reduces self damage taken by 10% and allows you to benefit from Charismatic Cast's secondary effect, which reduces your time knocked by 50%.
     -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents.
-    -   Mutual Exclusives: Tough Love
-    -   Prerequisites: Charismatic Cast, 60 Charisma
+    -   Mutual Exclusives: [Tough Love](#tough-love)
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 60 Charisma
 
 ### Transitory Vitality
 
@@ -7954,6 +7954,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
     -   Grants a **very** large increase to the AoE of your Pressure Blast.
 
+-   Camaraderie: [Canorian Axe](Canorian_Axe.md) & [Alloyed Canorian Axe](Canorian_Axe.md) - Landing a critical attack reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. \[1 sec CD\]
+
 -   Careful Stance: [Apprentice Rapier](Apprentice_Rapier.md) - Gain a bit more autoparry frames on successful parries.
 
 -   Clutch Recovery: [Canor Fang](Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
@@ -8120,8 +8122,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   The teleport has a range limit.
     -   20 second cooldown.
 
--   True Seraph Slash: [True Seraph Spear](True_Seraph_Spear.md) - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability.
-    -   This deals 0.5x your weapons scaled damage per hit (4), dealt as typeless damage.
+-   True Seraph Slash: [True Seraph Spear](True_Seraph_Spear.md) - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability. Having [Starkindred](Oath%253A_Starkindred.md) Wings out or [Angel's Guise](#angels-guise) adds 1 bolt to your enhanced crit.
+    -   This deals 0.75x your weapons scaled damage per hit (4, 5 with the synergy), dealt as typeless damage.
 
 -   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
     -   Deals 5 true damage per slow effect removed.
@@ -8989,7 +8991,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Deals 30 damage and can be jumped over or parried. This attack is unblockable and undodgeable, having the [Green Telegraph](Combat_Mechanics.md#green).
     -   The damage this ability deals can be enhanced by wearing the [Bone Ring](Bone_Ring.md), increasing its damage to 45.
 
--   Overflow: [Heretic's Memento](<Heretic's_Memento.md>) - Double the amount of [tempo](Combat_Mechanics.md#tempo) you receive when landing light attacks.
+-   Overflow: [Heretic's Memento](<Heretic's_Memento.md>) - Increase the amount of [tempo](Combat_Mechanics.md#tempo) you receive when landing light attacks by 50%.
 
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left) now guard breaks at level 5.
     -   1 minute cooldown.

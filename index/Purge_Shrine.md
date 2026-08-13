@@ -1,6 +1,6 @@
 ---
 title: Purge Shrine
-revid: 207869
+revid: 226313
 source: https://deepwoken.fandom.com/wiki/Purge_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Floor 2]
@@ -10,7 +10,7 @@ categories: [Mechanics, Floor 2]
 
 ## Description
 
-The Purge Shrine is an interactable tower that can be found atop a small cliff near [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) in [New Kyrsa](Second_Layer/New_Kyrsa.md). Interacting with the shrine after wishing for power from [Misérables](Misérables.md) will prompt the screen to shake, signaling the effect has incurred.
+The Purge Shrine is an interactable tower that can be found atop a small cliff near [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) in [New Kyrsa](Second_Layer/New_Kyrsa.md). Interacting with the shrine after wishing for power from [Misérables](Misérables.md). But using the [Puzzle Route](Second_Layer/The_Ethironal_Shrine.md#puzzle-route-skip) you will skip having to interact with Misérables abd will prompt the screen to shake, signaling the effect has incurred.
 
 ## Effects
 

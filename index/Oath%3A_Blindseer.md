@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 226238
+revid: 226345
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,6 +67,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   With this Talent, the [Tacet Murmur](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   This works on anyone who is invisible, yourself included.
     -   Reveals players in disguise.
+    -   On console, this allows you to lock-on to targets who are highlighted by this ability.
 -   Obtainment: 4 Pathfinders helped in the Depths Trial (must be alive)
 
 ### Mantras
@@ -231,7 +232,7 @@ Obtained with the Oath
 
 **Support Mantra**
 
-_All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters._
+_All within the ring cannot cast Mantras or Resonances. Those who stand within the ring gain 10% Monster Armor and 10% DvM._
 
  | 
 
@@ -239,7 +240,7 @@ _All within the ring cannot cast Mantras. Those who stand within the ring gain 1
 
   
 **Support Mantra**  
-_All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters._
+_All within the ring cannot cast Mantras or Resonances. Those who stand within the ring gain 10% Monster Armor and 10% DvM._
 
  |
 | 
@@ -257,10 +258,10 @@ N/A
  |
 | 
 
-**Effect:** _This affects everybody, including the caster and their allies, making even yourself unable to cast Mantras._
+**Effect:** _This affects everybody, including the caster and their allies, making even yourself unable to cast Mantras or use Resonances._
 
 -   Bosses are immune to the silencing aspect.
--   While inside the circle, gain total immunity to Mantra damage and to the effects of the [Gravity Field](Gravity_Field.md) Resonance.
+-   Everyone inside the circle gains total immunity to Mantra damage and to the effects of all [Resonances](Resonance.md), at the cost of not being able to cast these abilities.
 -   This is one of the few sources of Monster Armor and Damage vs Monsters, making it exceptionally useful for M1 PvE builds.
 -   Shares a cooldown with [Devouring Eye](Shadowcast.md#devouring-eye).
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks). This makes the circle much smaller but makes it follow the user.

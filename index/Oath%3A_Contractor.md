@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 225205
+revid: 226321
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -48,7 +48,7 @@ _Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---o
 
 ## Progression
 
-As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 2 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progged will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
+As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 2 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progged will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted. An alternative method of progression is by completing [The Diluvian Mechanism](The_Diluvian_Mechanism.md), Beating the the [Gaunt Man](The_Gaunt_Man.md)'s [experiment](The_Vat.md), or beating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) with no [Light Hook](Light_Hook.md) all either solo or with a party composed solely with Contractors.
 
 -   Obtained upon unlocking contractor - Hidden Tendril and Lord's Slice
 -   1st Grip - Equalizer

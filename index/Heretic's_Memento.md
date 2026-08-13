@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 226050
+revid: 226323
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, World Event, Outfits with Talents, Outfits with Exclusive Talents]
@@ -42,7 +42,7 @@ This Outfit has 2000 durability and grants +25% Physical resistance ResistancePh
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 43.75% Ironsing [ResistanceIronsing](Ironsing.md), 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
 
-The [Overflow](Talents.md#overflow) Talent doubles the [Tempo](Combat_Mechanics.md#tempo) recieved from landing M1s.
+The [Overflow](Talents.md#overflow) Talent grants 50% more tempo from landing M1s.
 
 ## Trivia
 

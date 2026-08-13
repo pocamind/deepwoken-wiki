@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 225118
+revid: 226309
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Monsters]
 |---|---|
 | health | 30007500 (Corrupted) |
 | attacks | Recessive Spin, Prime Laser, Laser Barrage, Stomp, Ground Slam, Uppercut, Scream |
-| drops | Dying Embers, Tier 2 Mantra Modifiers, Great Maul |
+| drops | Dying Embers, Tier 2 Mantra Modifiers, Great Maul, Golem Chunk |
 | locations | Duke Erisia's Manor, The Diluvian Mechanism |
 | challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
 

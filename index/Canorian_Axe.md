@@ -1,9 +1,9 @@
 ---
 title: Canorian Axe
-revid: 225458
+revid: 226343
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
+categories: [Weapons, Weapons with Talents, Greataxes, Alloyable Weapons, Heavy Weapons]
 ---
 
 # Canorian Axe
@@ -23,6 +23,7 @@ categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
 | endlag | N/A / 0.1s |
 | penetration | 20% |
 | chip damage | 10% |
+| talent | Camaraderie - Landing a critical attack reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. [1 sec CD] |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |
@@ -41,6 +42,12 @@ categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
 ## Description
 
 The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Merchant Ship](Travelling_Merchant.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+
+## Talent
+
+Equipping the Canorian Axe grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Camaraderie**](Talents.md#camaraderie) procs upon landing a weapon critical, healing your allies for 1% of their maximum health and reducing their Mantra cooldowns by 5 seconds. This has a one second cooldown.
 
 ## Critical
 

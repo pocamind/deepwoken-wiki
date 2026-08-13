@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 218390
+revid: 226311
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -10,7 +10,7 @@ categories: [Oaths, The Starkindred Church]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 40 Strength + 1 Player Grip |
+| oath_req | 40 Strength |
 | effects | +2 Combat Mantra slots, +1 Wildcard Mantra Slot, +8 Health, +5% PEN, Modified Fire Blade |
 
 “ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
@@ -31,7 +31,7 @@ The power of this particular Oath comes from one drinking the Holy Ichor, the bl
 
 ## Obtainment
 
-1.  Have 40 Strength and grip any player. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
+1.  Have 40 Strength.
 2.  Talk to [Samael](Samael.md), located in the [Derelict Highchurch](Derelict_Highchurch.md) above the Voidzone in the [Ancient Rotlands](Ancient_Rotlands.md).
     1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church. Or, if you have [Union Hook](Talents.md#union-hook), there are two hooks on the backside of the Church that lead directly to it.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
@@ -268,3 +268,4 @@ Obtained after the third Sinner kill
     -   This does not work with the alternative Oath cosmetics.
 -   The Talent "Death from Above" is a reference to the skill [Sakura Dance](https://sekiro-shadows-die-twice.fandom.com/Sakura_Dance) from _Sekiro: Shadows Die Twice_.
 -   If you skip the Oath's progression with Knowledge, the sinners will still spawn in their respective locations.
+-   As of 13/08/2026, a player grip is no longer necessary to obtain the Oath.

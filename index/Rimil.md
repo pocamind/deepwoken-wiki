@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 215849
+revid: 226353
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -12,7 +12,7 @@ categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located 
 |---|---|
 | name | Rimil |
 | aspect | Canor |
-| location | Meteor Isle |
+| location | N/A |
 | affiliation | The Ministry |
 
 Variants: [Emel](Emel.md) · [Imel](Imel.md)
@@ -23,13 +23,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Rimil is a [Canor](Canor.md) NPC. They are a member of [the Ministry](The_Ministry.md).
+Rimil was a [Canor](Canor.md) NPC. They are a member of [the Ministry](The_Ministry.md) but have been moved to another unknown post[\[1\]](#cite-note-1).
 
-They will give you a mission to kill an enemy in [the Starswept Valley](The_Starswept_Valley.md); you must grip a player in the Starswept Valley and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
+They used to give you a mission to kill an enemy in [the Starswept Valley](The_Starswept_Valley.md); you must grip a player in the Starswept Valley and return to them to obtain reputation and rewards. If you complete it you used to gain reputation with the Ministry and a payment for your deeds.
 
 ## Location
 
-Rimil can be found leaning against a large log very close to the main village on [Meteor Isle](Meteor_Isle.md).
+Rimil used to be found leaning against a large log very close to the main village on [Meteor Isle](Meteor_Isle.md).
 
 ## Dialogue
 
@@ -110,3 +110,9 @@ Rimil can be found leaning against a large log very close to the main village on
 ## Trivia
 
 -   Rimil's racial variant appears to be River.
+
+-   As of 13/08/2026 (UTC) Rimil no longer exists
+
+1.  [↑](#cite-ref-1)
+    
+    Citation for rimil moving post

@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 222794
+revid: 226315
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -159,7 +159,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 
 ## Tips & Notes
 
--   The entire layout for this dungeon is entirely **linear**, you are always forced to get the Starting and Library lantern in that order (unless you have a skip), and the rest can be done with a linear path of Start -> Library -> Tower -> Sewer -> Lost Divers.
+-   The entire layout for this dungeon is entirely **linear**, you are always forced to get the Starting and Library lantern in that order (unless you have a skip), and the rest can be done with a linear path of Start -> Library -> Tower -> Sewer -> Lost Divers (As of 8/12/2026, you are able to use the [Floor 1 puzzle entrance](The_Ethironal_Shrine.md#puzzle-route-skip) to skip the obelisks.)
 -   Do **NOT** enter random buildings, as they may be a trap-room which will lead to a **swift death**.
 -   Sliding on ROBLOX Smooth Terrain is risky, as it can take you down into the void unintentionally, and as such, should be done sparingly.
 -   Bring as many people as you wish, as the Scion's health does **not** increase proportionally to players.

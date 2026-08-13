@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 224560
+revid: 226373
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -14,7 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Uni
 | type | Sword |
 | damage type | Slash |
 | requirements | 20 / 75 MED |
-| damage | 16 |
+| damage | 16 / 18 |
 | scaling | MED: 6 / MED: 7 |
 | posture damage | 4 / 5 |
 | range | 7.5 Sweep |
@@ -38,7 +38,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Uni
 
 The Falchion is a [Medium Weapon](Weapons.md#medium-weapons) that can be obtained from chests that use the [Erisia](Erisia.md) lootpool. The weapon has a base damage of 16 and requires 20 MED to equip.
 
-The Alloyed Falchion has similar stats to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), having the same scaling, 1 more weight and 1 less base damage. However, it has 20% PEN, which gives it a slight edge in damage, this means it is down to the critical attack or personal preference for which weapon you pick.
+The Alloyed Falchion has better stats than the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), possessing 1 more Weight and 1 more base damage. Additionally, it has 20% PEN, giving it a boost in damage output against Physical armor. This means it is down to the needs and preference of the user, as it has a greater MED requirement than the Warden Ceremonial Sword and possesses a different critical attack.
 
 ## Critical
 

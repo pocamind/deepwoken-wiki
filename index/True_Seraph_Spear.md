@@ -1,9 +1,9 @@
 ---
 title: True Seraph Spear
-revid: 221520
+revid: 226342
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents]
+categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
 ---
 
 # True Seraph Spear
@@ -21,7 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Drops, Weapons with Unique 
 | attack duration | 0.6s |
 | penetration | 20% |
 | chip damage | 40% |
-| talent | True Seraph Slash - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability. |
+| talent | True Seraph Slash - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability. Having Starkindred Wings out or Angel's Guise adds 1 bolt to your enhanced crit. |
 | m.equip | Yes |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -45,7 +45,9 @@ Equipping the True Seraph Spear grants its unique [weapon Talent](Talents.md#wea
 
 Upon landing the first hit of your critical attack, regardless if parried or not, [**True Seraph Slash**](Talents.md#true-seraph-slash) replaces your next critical attack with the Angels' spear smite ability.
 
-This attack deals 0.5x scaled damage per hit (4), dealt as **typeless** damage.
+This critical will gain an additional attack if you are wearing the [Sworn](Sworn_Angel_Mask.md) or [Hollow Angel Masks](Hollow_Angel_Mask.md), or have your [Starkindred](Oath%253A_Starkindred.md) wings out.
+
+This attack deals 0.75x scaled damage per hit (4, 5 with the above synergy), dealt as **typeless** damage. In total, this deals 3x to 3.75x your weapon's scaled damage.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Imel
-revid: 224802
+revid: 226281
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -23,13 +23,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Imel is an [Adret](Adret.md) NPC of the Boulder variant, who is a member of [the Ministry](The_Ministry.md).
+Imel was an [Adret](Adret.md) NPC of the Boulder variant, who is a member of [the Ministry](The_Ministry.md).
 
-They will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
+They used to give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip a player in Erisia and return to them to obtain reputation and rewards. If you complete it you used to gain reputation with the Ministry and a payment for your deeds.
 
 ## Location
 
-Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with four king statues, they are leaning against a wall facing the gate to [Erisia](Erisia.md).
+Imel was located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with four king statues, they were leaning against a wall facing the gate to [Erisia](Erisia.md).
 
 ## Dialogue
 
@@ -110,4 +110,7 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
 ## Trivia
 
 -   Due to the similarity in name and [aspect](Aspects.md) variant, Imel may be a sibling of [Emel](Emel.md).
+
 -   Another member of the Ministry ([Emel](Emel.md)) with the same mission as Imel in the Eastern Sea, on the islet near [Summer Isle](Summer_Isle.md), gives you the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md).
+
+-   As of 13/08/2026 (UTC) Imel no longer exists along with [Emel](Emel.md) and [Rimil](Rimil.md).

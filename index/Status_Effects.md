@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 226093
+revid: 226306
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -370,10 +370,6 @@ Applied from the [Entanglement](Entanglement.md) Enchantment; gain 10% damage re
 
 This is applied by being hit by the [Harrowing](Harrowing.md) Enchant, hiding your Health, Posture, and Armor values. Signified by purple mist dissipating from your character and the aforementioned bars being covered by a mix of purple and yellow.
 
-#### Confusion
-
-When proccing [Harrowing](Harrowing.md) on a PvE enemy, apply Confusion to them for 12 seconds. Confused enemies have a 5% chance to hit themselves instead when landing attacks, nullifying their attack, stunning them, and dealing their damage back to themselves. The Confusion effect is signified by yellow question marks around the enemy's head. The attack redirection is signified by a yellow circle on the attack's target.
-
 ### Deferred
 
 This is applied by being hit by the [Deferred](Deferred.md) enchant. Take their attack's damage as a damage over time effect. This ticks 10 times over the course of 2.5 seconds and grants their attacks a 7% damage bonus. The formula is as follows: ((weapon damage \* 1.07) \* 0.1) = damage per tick. Deferred's damage is snapshotted at the time of the attack landing, meaning changes in resistances or damage modifiers will not have an impact on Deferred's damage. This effect has no visual indication.
@@ -636,10 +632,6 @@ Applied from the [Target Focus](Talents.md#target-focus) Talent, your Charm incr
 
 Gain brief invincibility frames after dodging an attack. Applied through the [Risky Moves](Talents.md#risky-moves), [Ghost](Talents.md#ghost), and [Dark Rift](Talents.md#dark-rift) Talents. Duration and visual effect depends on the source, but all have a 20 second cooldown. This effect is removed upon attacking. Dark Rift can also be procced by using [Deepsindle's](Deepspindle.md) running critical.
 
-### Perfection
-
-Applied through the [Chain of Perfection](Talents.md#chain-of-perfection) Talent, gain a final +5% damage buff to your attacks in PvE per Perfection stack above 5, capping at +100% damage with 25 stacks. Perfection acts as a final damage multiplier, bypassing the damage modifier cap entirely. Perfection stacks are gained through dealing damage to NPCs, gaining 0.5 stacks per hit, doubled for weapon attacks. You cannot get more than 3 stacks from any attack. All Perfection stacks will be lost if you take damage from any non-self damage source (excluding fall damage). Perfection stacks can also be consumed for the [Finishing Slay](Talents.md#finishing-slay) Talent from the [Messer](Messer.md), dealing raw damage based on the amount of Perfection stacks you had when your critical landed. Signified by a translucent white chain halo rotating on your head, visible only to you.
-
 ### Bloodlusted
 
 A [speed boost](#speed-boost) triggered by executing someone while you have [Time to Go](Talents.md#time-to-go). Signified by red glowing eyes.
@@ -716,10 +708,6 @@ Applied by being near someone with the [Audacity](Talents.md#audacity) Talent wh
 
 Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though applied most notably through the Strength Talent, [Collapsed Lung](Talents.md#collapsed-lung), this effect can also be applied through the [Reinforced War Plate's](Reinforced_War_Plate.md) Talent, [Crippling Impact](Talents.md#crippling-impact). This effect has no visual indicator.
 
-### Collapsed
-
-This status effect can only be applied in PvE. Upon proccing [Collapsed Lung](Talents.md#collapsed-lung) on a PvE enemy, also apply the Collapsed status effect to them. While affected, enemies deal 40% less posture damage to you.
-
 ### Precise Swing
 
 Applied through the [Precise Swing](Talents.md#precise-swing) Talent, this effect grants 25% additive chip damage to your next M1. The Precise Swing status effect lasts 30 seconds, but will be consumed if your next M1 lands, hit someone's block, or gets parried. This effect has no visual indicator.
@@ -731,22 +719,6 @@ After meeting a damage threshold with Thundercall damage, gain the Shocking Reve
 ### Martyrdom
 
 Upon being knocked Unconscious while having the [Martyr](Talents.md#martyr) Talent, grant your nearby allies the Martyrdom status effect for 20 seconds. This grants +20% damage and damage reduction.
-
-### Stagger
-
-This status effect can only be applied in PvE. Increase the amount of posture damage your opponent takes by 33%. This effect can be applied through a multitude of Talents.
-
-### Ether Sunder
-
-This status effect can only be applied in PvE. Gain +30% elemental damage reduction against PvE targets for the duration of Ether Sunder. This effect can be applied from the [Chronostasis](Talents.md#chronostasis), [Dark Waltz](Talents.md#dark-waltz), and [Sightless Still](Talents.md#sightless-still) Talents.
-
-### Heal Boost
-
-This status effect can only be applied in PvE. Increase the amount of offensive healing (e.g. [Bloodless Gems](Bloodless_Gem.md)) gained from attacking targets who are affected by your [Anti-Heal](#anti-heal). Each [Anti-Heal](#anti-heal) Talent grants a different amount of Heal Boost. These Talents are: [All Above, Gods Below](Talents.md#all-above-gods-below) (+15%), [All the Dead Gods](Talents.md#all-the-dead-gods) (+5%), [Frostbite](Talents.md#frostbite) (+5%),[Saint Jay](Talents.md#saint-jay) (+10%), and [Sin Stacker](Talents.md#sin-stacker) (+10%) for a maximum possible Heal Boost of 45%.
-
-### Sluggish
-
-This status effect can only be applied in PvE. Upon proccing specific Talents that apply a slowing effect, also proc Sluggish. This effect reduces the damage enemies deal by 15%, with its duration being based on the slow that procced this effect.
 
 ### Fight
 
@@ -784,10 +756,6 @@ Buffs the blood and health regeneration of people near you. Also slightly buffs 
 
 \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Prince of the Moon](Prince_of_the_Moon.md) Memento's [Soul Veil](Talents.md#soul-veil) Talent, gain a stacking 7.5% damage buff when you land attacks with the [Soulthorn](Soulthorn.md). This damage buff caps at +30% damage. If you take damage while having the Soul Veil status effect, your opponent will steal the buff until you hit them back. This buff is applied to the attack that gains the buff, allowing your opponents to nuke you if you get hit. Signified by your character being shimmering with a celestial white and black aura.
 
-### Madness
-
-\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Strange Merchant](Strange_Merchant.md) Memento's [Toxic Personality](Talents.md#toxic-personality-vow-of-iron) Talent tree, this effect causes non-player enemies to attack eachother instead of the caster. Additionally, non-player enemies affected by Madness will not be able to deal damage to or hitstun the caster. **This effect does not work on bosses.** Signified by pink circles around the eyes of affected targets.
-
 ## Attunement-Exclusive Talents
 
 These status effects are applied as the effect of certain [Talents](Talents.md) which require investment into an [Attunement](Attunements.md) to obtain.
@@ -815,10 +783,6 @@ After [feinting](Combat_Mechanics.md#feinting) a Galebreathe Mantra with the Inh
 #### Maestro's Blade
 
 After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#after-cut) and [Possession](Talents.md#possession). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by your hand emitting wind effects.
-
-### Gale Reflection
-
-This status effect can only be applied in PvE. Upon killing a PvE enemy while having the [Gale Trap](Talents.md#gale-trap) Talent, gain the Gale Reflection status effect. The next time any PvE enemy attempts to hit you, you will gain damage reduction to the attack and they will be Gale Trapped, dealing damage to them. The damage this deals is based on the maximum health of the target you killed.
 
 ### Orbital Ice
 
@@ -888,10 +852,6 @@ Take 4.5 damage and lose 2% of your maximum blood per second, but gain a 15% dam
 
 All chip damage dealt to an opponent affected by Torture Mastery will be transferred into healing for yourself. The conversion rate is 1:1 with damage dealt to healing gained. To proc this effect, you must land a critical attack while having the [Torture Mastery](Talents.md#torture-mastery) Talent. Torture Mastery lasts 15 seconds, doubled to 30 if you have [Rush Hour](#rush-hour) active on Talent proc. This effect is signified by a crimson chain linking yourself and affected opponents.
 
-### Gem Enhancement
-
-This status effect can only be applied in PvE. Upon proccing [Vasculitis](Talents.md#vasculitis) on a PvE enemy or using the [Elegy of Light](Talents.md#elegy-of-light) Talent Tool, gain the Gem Enhancement status effect, increasing the potency of your [Deep Gems](Deep_Gems.md) against PvE targets.
-
 ## Deep Gem Applied
 
 These status effects are applied when landing a Mantra with a certain [Deep Gem](Deep_Gems.md) equipped on it.
@@ -904,9 +864,65 @@ Procced from landing a Mantra with the [Wrath Gem](Wrath_Gem.md) equipped, this 
 
 Gain 10% damage reduction for 10 seconds, applied by landing a Mantra with the [Aegis Gem](Aegis_Gem.md) equipped, signified by a pink translucent, cylindrical dome on your character. This duration of this effect will be increased to 15 seconds if you have the Brain [food buff](#reinforced-hunger). Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character.
 
+## PvE Exclusive
+
+Not to be confused with [NPC exlusive](#npc-exclusive) status effects, these are effects that are applied by Players and **only** work in PvE.
+
+### Perfection
+
+Applied through the [Chain of Perfection](Talents.md#chain-of-perfection) Talent, gain a final +5% damage buff to your attacks in PvE per Perfection stack above 5, capping at +100% damage with 25 stacks (the first five stacks do not contribute to the damage buff). Perfection acts as a final damage multiplier, bypassing the damage modifier cap entirely. Perfection stacks are gained through dealing damage to NPCs, gaining 0.5 stacks per hit, doubled for weapon attacks. You cannot get more than 3 stacks from any attack.
+
+All Perfection stacks will be lost if you take damage from any non-self damage source (excluding fall damage). Perfection stacks can also be consumed for the [Finishing Slay](Talents.md#finishing-slay) Talent from the [Messer](Messer.md), dealing damage based on the amount of Perfection stacks you had when your critical landed. Signified by a translucent white chain halo rotating on your head, visible only to you.
+
+### Stagger
+
+Increase the amount of posture damage your opponent takes by 33%. This effect can be applied through a multitude of Talents.
+
+### Collapsed
+
+Upon proccing [Collapsed Lung](Talents.md#collapsed-lung) on a PvE enemy, also apply the Collapsed status effect to them. While affected, enemies deal 40% less posture damage to you.
+
+### Confusion
+
+When proccing [Harrowing](Harrowing.md) on a PvE enemy, apply Confusion to them for 12 seconds. Confused enemies have a 5% chance to hit themselves instead of their intended target when landing attacks, nullifying their attack, stunning them, and dealing their damage back to themselves. The Confusion effect is signified by yellow question marks around the enemy's head. The attack redirection is signified by a yellow circle on the attack's target.
+
+### Ether Sunder
+
+Gain +30% elemental damage reduction against PvE targets for the duration of Ether Sunder. This effect can be applied from the [Chronostasis](Talents.md#chronostasis), [Dark Waltz](Talents.md#dark-waltz), and [Sightless Still](Talents.md#sightless-still) Talents.
+
+### Gem Enhancement
+
+Upon proccing [Vasculitis](Talents.md#vasculitis) on a PvE enemy or using the [Elegy of Light](Talents.md#elegy-of-light) Talent Tool, gain the Gem Enhancement status effect. This effectively applies the Brain [Food Buff](#food-buff) to all of your [Deep Gems](Deep_Gems.md) that apply on hit;
+
+-   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
+-   [Blessed Gem](Blessed_Gem.md): Cooldown reduction is increased from -50% to -66%.
+-   [Bloodless Gem](Bloodless_Gem.md): Heal cap increased from 15 to 20.
+-   [Insignia Gem](Insignia_Gem.md): No noticeable difference.
+-   [Might Gem](Might_Gem.md): Posture damage buff increased from +10% to +15%.
+-   [Nocturnal Gem](Nocturnal_Gem.md): Damage is increased from 10 to 15.
+-   [Wayward Gem](Wayward_Gem.md): Cooldown is reduced from 8s to 3s.
+-   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration increased from 10s to 15s.
+-   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
+
+### Gale Reflection
+
+Upon killing a PvE enemy while having the [Gale Trap](Talents.md#gale-trap) Talent, gain the Gale Reflection status effect. The next time any PvE enemy attempts to hit you, you will gain damage reduction to the attack and they will be Gale Trapped, dealing damage to them. This can also proc if you parry or block their attack. The damage this deals is based on the maximum health of the target you killed.
+
+### Heal Boost
+
+Increase the amount of offensive healing (e.g. [Bloodless Gems](Bloodless_Gem.md)) gained from attacking targets who are affected by your [Anti-Heal](#anti-heal). Each [Anti-Heal](#anti-heal) Talent grants a different amount of Heal Boost. These Talents are: [All Above, Gods Below](Talents.md#all-above-gods-below) (+15%), [All the Dead Gods](Talents.md#all-the-dead-gods) (+5%), [Frostbite](Talents.md#frostbite) (+5%),[Saint Jay](Talents.md#saint-jay) (+10%), and [Sin Stacker](Talents.md#sin-stacker) (+10%) for a maximum possible Heal Boost of 45%.
+
+### Sluggish
+
+Upon proccing specific Talents and abilities that apply a slowing effect, also proc Sluggish. This effect reduces the damage enemies deal by 15%, with its duration being based on the slow that procced this effect.
+
+### Madness
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Strange Merchant](Strange_Merchant.md) Memento's [Toxic Personality](Talents.md#toxic-personality-vow-of-iron) Talent tree, this effect causes non-player enemies to attack eachother instead of the caster. Additionally, non-player enemies affected by Madness will not be able to deal damage to or hitstun the caster. **This effect does not work on bosses.** Signified by pink circles around the eyes of affected targets.
+
 ## NPC Exclusive
 
-These, almost always harmful, status effects are exclusively used by and applied from Monsters or other non playable characters.
+Not to be confused with [PvE exclusive](#pve-exclusive) status effects, these, almost always harmful, status effects are exclusively used by and applied from Monsters or other non playable characters.
 
 ### Time Stasis
 

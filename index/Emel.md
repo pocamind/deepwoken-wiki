@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 224747
+revid: 226278
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -12,7 +12,7 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located 
 |---|---|
 | name | Emel |
 | aspect | Adret |
-| location | Summer Isle, islet near the port |
+| location | N/A |
 | affiliation | The Ministry |
 
 Variants: [Imel](Imel.md) · [Rimil](Rimil.md)
@@ -23,9 +23,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Emel is an [Adret](Adret.md) NPC who is a member of [the Ministry](The_Ministry.md). They can be found leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
+Emel was a [Adret](Adret.md) NPC who is a member of [the Ministry](The_Ministry.md). They used to be found leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
 
-They will give you a mission to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md); you must grip a player in the Songseeker Wilds and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
+They used to give you a mission to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md); you must grip a player in the Songseeker Wilds and return to them to obtain reputation and rewards. If you completed it you used to gain reputation with the Ministry and a payment for your deeds.
 
 ## Dialogue
 
@@ -106,4 +106,7 @@ They will give you a mission to kill an enemy in the [Songseeker Wilds](Songseek
 ## Trivia
 
 -   Emel's racial variant appears to be Boulder.
+
 -   Due to the similarity in name and [Aspect](Aspects.md) variant, Emel may be a sibling of [Imel](Imel.md).
+
+-   Due to the update as of 13/08/2026 (UTC) he has been removed.
