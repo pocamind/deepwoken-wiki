@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 222467
+revid: 226461
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -42,9 +42,9 @@ The [Crippling Impact](Talents.md#crippling-impact) Talent disables your opponen
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it. This also buffs [Fatal Strike](Talents.md#fatal-strike), causing it to deal 15 true damage on proc.
 
-The [Fearful](Status_Effects.md#fearful) status effect lasts 19 seconds.
+The [Fearful](Status_Effects.md#fearful) status effect lasts 19 seconds. Deal 15 true damage whenever you guardbreak with a [Strength Mantra](Attunement-less.md#strength-mantras) that has a [Wrath Gem](Wrath_Gem.md) equipped onto it.
 
 ## Obtainment
 

@@ -1,9 +1,9 @@
 ---
 title: Sanguine Finery
-revid: 223327
+revid: 226476
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
+categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Sanguine Finery
@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Sheltering Grasp](Talents.md#sheltering-grasp) Talents.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 30% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

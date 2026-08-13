@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 226367
+revid: 226445
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| styles | Carmine, Emerald, Gold, Sapphire |
+| styles | Carmine, Emerald, Gold, Quartz, Sapphire |
 | innate stats | +1 Uncommon Pip , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |

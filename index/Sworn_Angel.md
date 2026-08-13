@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 225091
+revid: 226493
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobtainable Outfits, Humanoid Monsters]
@@ -132,3 +132,4 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 -   In the Trial of One, Sworn Angel's Gaze can affect each other Angel if they walk in front of the other while it's active, allowing for a chance to strike.
 -   In the Trial of One, executing one of the Sworn Angels will cause the other to automatically despawn, passing the trial with less effort.
 -   They **CAN** be spawned by [Watchers](Watcher.md) when you are above [Power](Power.md) 8-10(testing needed), so being below that will spawn a [Hollow Angel](Hollow_Angel.md) as usual.
+-   Activating [**True Seraph Slash**](Talents.md#true-seraph-slash) with a [Sworn](Sworn_Angel_Mask.md) or [Hollow Angel Mask](Hollow_Angel_Mask.md) while having [Starkindred](Oath%253A_Starkindred.md) wings out will allow you to spawn an allied Sworn Angel.

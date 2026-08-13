@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 224811
+revid: 226435
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -30,8 +30,6 @@ His main use is to [Smelt](Transmogrification.md) two pieces of equipment for 10
     -   For a further, more in-depth explanation, see _[Transmogrification](Transmogrification.md)._
 
 ## Dialogue
-
-**Base Dialogue:**
 
 **First Encounter:**
 
@@ -107,36 +105,6 @@ This dialogue only appears if the player has ended the dialogue while Jarvis sti
 </tr>
 <tr>
   <td>[End Dialogue], player receives equipment back</td>
-</tr>
-</tbody>
-</table>
-
-**Unlockable Dialogue:**
-
-This dialogue only appears if the player has a [Magenta Pathfinder Elite](Pathfinder_Elite.md)
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Sup lad, wanna smelt some gear?</td>
-</tr>
-<tr>
-  <td>Yes.</td>
-</tr>
-<tr>
-  <td>Alright, first give me the item you want to keep the attributes of.</td>
-</tr>
-<tr>
-  <td>Here is the item I wish to keep attributes on.</td>
-</tr>
-<tr>
-  <td>Hm?! What is zis?!</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

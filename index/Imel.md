@@ -1,9 +1,11 @@
 ---
 title: Imel
-revid: 226281
+revid: 226456
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Adret NPCs, Cut Content, NPCs, The Ministry, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Imel
@@ -17,15 +19,11 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs 
 
 Variants: [Emel](Emel.md) · [Rimil](Rimil.md)
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
-
 ## Description
 
-Imel was an [Adret](Adret.md) NPC of the Boulder variant, who is a member of [the Ministry](The_Ministry.md).
+Imel was an [Adret](Adret.md) NPC who was a member of [The Ministry](The_Ministry.md).
 
-They used to give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip a player in Erisia and return to them to obtain reputation and rewards. If you complete it you used to gain reputation with the Ministry and a payment for your deeds.
+They used to give you a mission requiring the player to kill another player in the [Erisia](Erisia.md). Returning to Emel with the mission completed granted positive [Reputation](Reputation.md) with the Ministry and a payment for your deeds.
 
 ## Location
 
@@ -110,7 +108,4 @@ Imel was located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with f
 ## Trivia
 
 -   Due to the similarity in name and [aspect](Aspects.md) variant, Imel may be a sibling of [Emel](Emel.md).
-
--   Another member of the Ministry ([Emel](Emel.md)) with the same mission as Imel in the Eastern Sea, on the islet near [Summer Isle](Summer_Isle.md), gives you the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md).
-
--   As of 13/08/2026 (UTC) Imel no longer exists along with [Emel](Emel.md) and [Rimil](Rimil.md).
+-   On the [August 12th, 2026](Version_History/2026.md#august-12th-2026) update, Imel was removed.

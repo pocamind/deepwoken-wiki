@@ -1,6 +1,6 @@
 ---
 title: Necrotic Cowl
-revid: 223656
+revid: 226501
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head, Equipment with Talents, Equipment with Exclusive Talents]
@@ -37,7 +37,7 @@ Variants: [Mask](Necrotic_Mask.md)
 
 ## Description
 
-The Bloodcurdle Cowl is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category.
+The Necrotic Cowl is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category.
 
 The [Blood Siphon](Talents.md#blood-siphon) Talent grants 10% lifesteal to your critical attacks.
 

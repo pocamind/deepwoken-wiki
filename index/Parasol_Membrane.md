@@ -1,6 +1,6 @@
 ---
 title: Parasol Membrane
-revid: 224167
+revid: 226439
 source: https://deepwoken.fandom.com/wiki/Parasol_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
@@ -38,4 +38,4 @@ The Parasol Membrane can be used to craft into other items with the [Lost Forge]
     -   [Regenerative Pendant](Regenerative_Pendant.md): 1x [Curseblood Pendant](Curseblood_Pendant.md) + 5x [Curse of the No Life King](Curse_of_the_No_Life_King.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
     -   [Revitalizing Pendant](Revitalizing_Pendant.md): 1x [Wheel Pendant](Wheel_Pendant.md) + 5x [Solar](Solar.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
 -   [Ingredients](Ingredients.md)
-    -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Parasol Membrane + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Weathered Timepiece](Weathered_Timepiece.md) OR 1x [Temporal Crux](Temporal_Crux.md)
+    -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Parasol Membrane + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Darkblood Vial](Darkblood_Vial.md)

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 220066
+revid: 226490
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -99,6 +99,8 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Strange Claw](Strange_Claw.md)
     -   [Terrapod Shell](Terrapod_Shell.md)
     -   [Crimson Terrapod Shell](Crimson_Terrapod_Shell.md)
+-   [Rock Golem](Rock_Golem.md) and [Golem Prime](Golem_Prime.md)
+    -   [Golem Chunk](Golem_Chunk.md)
 -   [Thresher](Thresher.md)
     -   [Thresher Spine](Thresher_Spine.md)
     -   [Thresher Talon](Thresher_Talon.md)
@@ -159,12 +161,29 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
     -   [Weathered Timepiece](Weathered_Timepiece.md)
+    -   [Darkblood Vial](Darkblood_Vial.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
     -   [Temporal Crux](Temporal_Crux.md)
     -   [Ethereal Bone Dust](Ethereal_Bone_Dust.md)
 -   [Kyrsgarde Champion, Kyrsa's Star](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)
     -   [Gale Essence](Gale_Essence.md)
     -   [Frost Essence](Frost_Essence.md)
+
+### Craftable
+
+Ingredients that are crafted by using other ingredients, these tend to be higher rarity and value.
+
+-   [Champion's Alloy](<Champion's_Alloy.md>)
+-   [Ether Refined Hide](Ether_Refined_Hide.md)
+-   [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+-   [Necrotic Membrane](Necrotic_Membrane.md)
+
+### Miscellaneous
+
+Any ingredients that do not fall under other categories and are obtained through other methods.
+
+-   [Ancient Dagger Remains](Ancient_Dagger_Remains.md)
+-   [Shiva's Codex](<Shiva's_Codex.md>)
 
 ### Mantra Ingredients
 

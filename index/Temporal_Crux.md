@@ -1,6 +1,6 @@
 ---
 title: Temporal Crux
-revid: 212264
+revid: 226441
 source: https://deepwoken.fandom.com/wiki/Temporal_Crux
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
@@ -26,3 +26,12 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The **Temporal Crux** drops from the [Scion of Ethiron](Scion_of_Ethiron.md) and is used in the crafting recipe for the [Vortex Echo](Vortex_Echo.md).
+
+## Crafting
+
+-   [Weapons](Weapons.md):
+    -   [Vortex Echo](Vortex_Echo.md): 1x Temporal Crux + 1x [Weathered Timepiece](Weathered_Timepiece.md) + 1x [Kyrsan Schematic](Kyrsan_Schematic.md)
+
+## Trivia
+
+-   It was previously used to craft the [Necrotic Membrane](Necrotic_Membrane.md) before being swapped with the [Darkblood Vial](Darkblood_Vial.md).

@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 226382
+revid: 226447
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | selling price | 25 |
 | requirements | LVL 5 |
 | weight | 1 |
-| styles | Grand Marshal, Sable, Stygian, Tideknight |
+| styles | Grand Marshal, Highborn, Sable, Stygian, Tideknight |
 | innate stats | +4 Health , +2 Rare Pips |
 | innate talent | N/A |
 | set | Celtor Commander Helm, Celtor Commander Plate, Celtorian Sabatons |

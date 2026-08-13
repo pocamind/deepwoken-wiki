@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 222468
+revid: 226460
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -36,15 +36,15 @@ The Reinforced War Helmet is an **unenchantable**[\[1\]](#cite-note-unenchantabl
 
 The Reinforced War is a green and yellow corinthian helmet, similar to Roman headgear.
 
-If you have a [Wrath Gem](Wrath_Gem.md) equipped on your [Strength Mantras](Attunement-less.md#strength-mantras), [Fatal Strike](Talents.md#fatal-strike) empowers their guardbreaks, granting them a 20% damage buff and applying a 50% slow for 5.5 seconds. This has a 10 second cooldown.
+If you have a [Wrath Gem](Wrath_Gem.md) equipped on your [Strength Mantras](Attunement-less.md#strength-mantras), [Fatal Strike](Talents.md#fatal-strike) empowers their guardbreaks, applying a 50% slow for 5.5 seconds. This has a 10 second cooldown. This effect is strengthened if you are using the full Reinforced War Set, dealing an additional 15 true damage on proc.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it. This also buffs [Fatal Strike](Talents.md#fatal-strike), causing it to deal 15 true damage on proc.
 
-The [Fearful](Status_Effects.md#fearful) status effect lasts 19 seconds.
+The [Fearful](Status_Effects.md#fearful) status effect lasts 19 seconds. Deal 15 true damage whenever you guardbreak with a [Strength Mantra](Attunement-less.md#strength-mantras) that has a [Wrath Gem](Wrath_Gem.md) equipped onto it.
 
 ## Obtainment
 

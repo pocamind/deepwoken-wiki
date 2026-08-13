@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 219963
+revid: 226487
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Black Divers]
@@ -69,8 +69,8 @@ After this you are able to talk to Akira, in which he has two different conversa
 </tr>
 <tr>
   <td colspan="2"><i>*The menacing-looking man scans you up and down skeptically for a moment.*</i> Well, either way it seems you know your place.</td>
-  <td>[Requirements met (75 Charisma)]</td>
-  <td>[Requirements not met]</td>
+  <td>[Sufficient Charisma (75 Charisma)]</td>
+  <td>[Insufficient Charisma]</td>
 </tr>
 <tr>
   <td colspan="2">What are you doing down here?</td>

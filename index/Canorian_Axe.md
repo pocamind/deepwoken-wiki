@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 226343
+revid: 226491
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greataxes, Alloyable Weapons, Heavy Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons, Weapons with Talents, Greataxes, Alloyable Weapons, Heavy 
 | endlag | N/A / 0.1s |
 | penetration | 20% |
 | chip damage | 10% |
-| talent | Camaraderie - Landing a critical attack reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. [1 sec CD] |
+| talent | Camaraderie - Landing a critical attack reduce your allies' mantra [sic] cooldowns by 5 seconds and heals them 1%. [1 sec CD] |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |

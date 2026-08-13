@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 226383
+revid: 226446
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Plates, Lost Celtor, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Arms, Plates, Lost Celtor, Equipm
 | selling price | 25 |
 | requirements | LVL 10 |
 | weight | 2 |
-| styles | Grand Marshal, Sable, Stygian, Tideknight |
+| styles | Grand Marshal, Highborn, Sable, Stygian, Tideknight |
 | innate stats | +8 Health , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Breathing Exercise |
 | set | Celtor Commander Helm, Celtor Commander Plate, Celtorian Sabatons |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226357
+revid: 226516
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -221,7 +221,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             
     -   Grants +5 Carry Load, +2 Passive Agility  
         
-    -   Prerequisites: 10 Agility, 10 Strength  
+    -   Prerequisites: 10 Strength, 10 Agility  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Fur Parka](Fur_Parka.md)  
         
@@ -235,7 +235,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             
     -   Grants +5 Carry Load, +2 Passive Agility  
         
-    -   Prerequisites: 10 Agility, 10 Strength  
+    -   Prerequisites: 10 Strength, 10 Agility  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Fur Parka](Fur_Parka.md)  
         
@@ -429,7 +429,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: 35 Galebreathe, 30 Agility  
+    -   Prerequisites: 30 Agility, 35 Galebreathe  
         
     -   Tags: \[Agility\] \[Galebreathe\] \[+Passive Agility\] \[Mobility\]
 
@@ -445,7 +445,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: 35 Galebreathe, 30 Agility  
+    -   Prerequisites: 30 Agility, 35 Galebreathe  
         
     -   Tags: \[Agility\] \[Galebreathe\] \[+Passive Agility\] \[Mobility\]
 
@@ -511,7 +511,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)
     -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.  
         
-    -   Prerequisites: 20 Galebreathe, [Gale Punch](Galebreathe.md#gale-punch) (Mantra)  
+    -   Prerequisites: [Gale Punch](Galebreathe.md#gale-punch) (Mantra), 20 Galebreathe  
         
     -   Tags: \[Galebreathe\]
 
@@ -519,7 +519,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Gale Punch will now pull players towards the user during the windup of the Mantra. (Cannot be feinted)
     -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.  
         
-    -   Prerequisites: 20 Galebreathe, [Gale Punch](Galebreathe.md#gale-punch) (Mantra)  
+    -   Prerequisites: [Gale Punch](Galebreathe.md#gale-punch) (Mantra), 20 Galebreathe  
         
     -   Tags: \[Galebreathe\]
 
@@ -607,7 +607,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
     -   The old [Subsistence](Cut_Content.md#subsistence) Talent was merged into this.  
         
-    -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)  
+    -   Prerequisites: 15 Fortitude // 15 Willpower, 30 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Fortitude\] \[Intelligence\] \[Willpower\] \[Potion\]
 
@@ -619,7 +619,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
     -   The old [Subsistence](Cut_Content.md#subsistence) Talent was merged into this.  
         
-    -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)  
+    -   Prerequisites: 15 Fortitude // 15 Willpower, 30 Intelligence, interact with a [Cauldron](Cauldron.md)  
         
     -   Tags: \[Fortitude\] \[Intelligence\] \[Willpower\] \[Potion\]
 
@@ -631,7 +631,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: 25 Agility, 25 Fortitude  
+    -   Prerequisites: 25 Fortitude, 25 Agility  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Mercenary's Boots](<Mercenary's_Boots.md>)  
         
@@ -643,7 +643,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Grants +2 Passive Agility  
         
-    -   Prerequisites: 25 Agility, 25 Fortitude  
+    -   Prerequisites: 25 Fortitude, 25 Agility  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Mercenary's Boots](<Mercenary's_Boots.md>)  
         
@@ -678,7 +678,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Endurance Runner](#endurance-runner), [Scaredy Cat](#scaredy-cat), 25 Agility  
         
-    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Investment Scaling\] \[Sustain\]
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Investment Scaling\] \[Scale-down\] \[Sustain\]
 
 -   **Conditioned Runner** \[Advanced Talent\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.
     -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
@@ -689,7 +689,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Endurance Runner](#endurance-runner), [Scaredy Cat](#scaredy-cat), 25 Agility  
         
-    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Investment Scaling\] \[Sustain\]
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Investment Scaling\] \[Scale-down\] \[Sustain\]
 
 ### All-Knowing
 
@@ -699,7 +699,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 80 Intelligence  
         
-    -   Tags: \[Intelligence\] \[PEN\]
+    -   Tags: \[Intelligence\] \[Investment Scaling\] \[PEN\] \[Scale-down\]
 
 -   **Approaching Singularity** \[Common Talent\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
     -   Gives 0.1% Mantra PEN per point in Intelligence.
@@ -707,7 +707,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 80 Intelligence  
         
-    -   Tags: \[Intelligence\] \[PEN\]
+    -   Tags: \[Intelligence\] \[Investment Scaling\] \[PEN\] \[Scale-down\]
 
 ### Amoran Seeker
 
@@ -1285,7 +1285,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             -   Base: 50% PEN vs 50% physical armor; 50 × (1 - 50%) = 25% resistance after PEN.
             -   Reinforced Armor: 50% PEN vs 30% RA; 50 × (1 - 30%) = 35% PEN. 35% PEN vs 50% physical armor = 50 × (1 - 35%) = 32.5% resistance after PEN.  
                 
-    -   Prerequisites: 90 Fortitude, [Battle Tendency](#battle-tendency), [Braced Collapse](#braced-collapse), [Moving Fortress](#moving-fortress), [Perseverance](#perseverance)  
+    -   Prerequisites: [Battle Tendency](#battle-tendency), [Braced Collapse](#braced-collapse), [Moving Fortress](#moving-fortress), [Perseverance](#perseverance), 90 Fortitude  
         
     -   Tags: \[Fortitude\] \[Willpower\] \[PEN\] \[Scale-down\]
 
@@ -1297,7 +1297,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             -   Base: 50% PEN vs 50% physical armor; 50 × (1 - 50%) = 25% resistance after PEN.
             -   Reinforced Armor: 50% PEN vs 30% RA; 50 × (1 - 30%) = 35% PEN. 35% PEN vs 50% physical armor = 50 × (1 - 35%) = 32.5% resistance after PEN.  
                 
-    -   Prerequisites: 90 Fortitude, [Battle Tendency](#battle-tendency), [Braced Collapse](#braced-collapse), [Moving Fortress](#moving-fortress), [Perseverance](#perseverance)  
+    -   Prerequisites: [Battle Tendency](#battle-tendency), [Braced Collapse](#braced-collapse), [Moving Fortress](#moving-fortress), [Perseverance](#perseverance), 90 Fortitude  
         
     -   Tags: \[Fortitude\] \[Willpower\] \[PEN\] \[Scale-down\]
 
@@ -2356,14 +2356,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Knuckle Guard** \[Common Talent\] - Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.  
         
-    -   Prerequisites: 55 Fortitude, 25 Strength  
+    -   Prerequisites: 25 Strength, 55 Fortitude  
         
     -   Tags: \[Strength\] \[Fortitude\] \[Posture Resistance\] \[Scale-down\]
 
 -   **Knuckle Guard** \[Common Talent\] - Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.  
         
-    -   Prerequisites: 55 Fortitude, 25 Strength  
+    -   Prerequisites: 25 Strength, 55 Fortitude  
         
     -   Tags: \[Strength\] \[Fortitude\] \[Posture Resistance\] \[Scale-down\]
 
@@ -2444,7 +2444,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +5 Passive Agility  
         
-    -   Prerequisites: 40 Agility, [Swift Rebound](#swift-rebound), [Evasive Expert](#evasive-expert), [Risky Moves](#risky-moves)  
+    -   Prerequisites: [Swift Rebound](#swift-rebound), [Evasive Expert](#evasive-expert), [Risky Moves](#risky-moves), 40 Agility  
         
     -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Scale-down\]
 
@@ -2457,7 +2457,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +5 Passive Agility  
         
-    -   Prerequisites: 40 Agility, [Swift Rebound](#swift-rebound), [Evasive Expert](#evasive-expert), [Risky Moves](#risky-moves)  
+    -   Prerequisites: [Swift Rebound](#swift-rebound), [Evasive Expert](#evasive-expert), [Risky Moves](#risky-moves), 40 Agility  
         
     -   Tags: \[Agility\] \[+Passive Agility\] \[Dodge\] \[Scale-down\]
 
@@ -4679,11 +4679,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 65 Frostdraw  
         
-    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Icebringer's Vestments](<Icebringer's_Vestments.md>)  
+    -   Mutual Exclusives: [Fists of Fortitude](#fists-of-fortitude)  
         
-    -   Mutual Exclusives: [Fists of Fortitude](#fists-of-fortitude)
-        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with [Fists of Fortitude](#fists-of-fortitude).  
-            
     -   Tags: \[Frostdraw\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
@@ -4694,11 +4691,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 65 Frostdraw  
         
-    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Icebringer's Vestments](<Icebringer's_Vestments.md>)  
+    -   Mutual Exclusives: [Fists of Fortitude](#fists-of-fortitude)  
         
-    -   Mutual Exclusives: [Fists of Fortitude](#fists-of-fortitude)
-        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with [Fists of Fortitude](#fists-of-fortitude).  
-            
     -   Tags: \[Frostdraw\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Glacial Coasting** \[Common Talent\] - Sliding while Orbital Ice is active leaves trails of ice.
@@ -5539,58 +5533,169 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Ice Age
 
--   Bottom Freeze \[Common Talent, Frostdraw\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
+-   **Bottom Freeze** \[Common Talent\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
-    -   Bottom Freeze will end early if damage is taken from any source.
-    -   Prerequisite: 25 Frostdraw, [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra) // [Ice Forge](Frostdraw.md#ice-forge) (Mantra)
+    -   Bottom Freeze will end early if damage is taken from any source.  
+        
+    -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra) // [Ice Forge](Frostdraw.md#ice-forge) (Mantra), 25 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
 
--   Cryonis \[Common Talent, Frostdraw\] - All ice spells casted ontop of ice cost less Ether.
-    -   Ice Mantras cost 20% less ether if casted while standing on ice.
-    -   Prerequisite: 40 Frostdraw
+-   **Bottom Freeze** \[Common Talent\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
+    -   Prevents you from rotating your character and moving around overall.
+    -   Bottom Freeze will end early if damage is taken from any source.  
+        
+    -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra) // [Ice Forge](Frostdraw.md#ice-forge) (Mantra), 25 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
 
--   Frost Buster \[Common Talent, Frostdraw, Heavy Weapon\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
+-   **Cryonis** \[Common Talent\] - All ice spells casted ontop of ice cost less Ether.
+    -   Frostdraw Mantras cost 20% less ether if casted while standing on ice.  
+        
+    -   Prerequisites: 40 Frostdraw  
+        
+    -   Tags: \[Frostdraw\]
+
+-   **Cryonis** \[Common Talent\] - All ice spells casted ontop of ice cost less Ether.
+    -   Frostdraw Mantras cost 20% less ether if casted while standing on ice.  
+        
+    -   Prerequisites: 40 Frostdraw  
+        
+    -   Tags: \[Frostdraw\]
+
+-   **Frost Buster** \[Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
     -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
     -   Despite what the Talent description states, Greathammers do not proc Frost Buster but Greataxes do. Greatcannons do not proc Frost Buster either.
     -   Frost Buster can only proc once per critical.
     -   Also grants the ability to freeze and damage boats with Greatsword and Greataxe criticals.
     -   Frost Buster procs on **any** critical when used on a Greatsword or Greataxe including some strange cases such as critical-replacing Enchantments ([Curse of the Unbidden](Curse_of_the_Unbidden.md), [Nemesis](Nemesis.md), and [Stormbreaker](Stormbreaker.md)) and all fist style criticals on [Markor's Inheritor](<Markor's_Inheritor.md>).
-    -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.
-    -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw
+    -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.  
+        
+    -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Heavy Weapon\] \[Greataxe\] \[Greatsword\]
 
--   Frozen Anchor \[Common Talent, Frostdraw, Weapon\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
-    -   Functions similarly to Meteor Impact, applying on any Mantra that would proc it.
+-   **Frost Buster** \[Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
+    -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
+    -   Despite what the Talent description states, Greathammers do not proc Frost Buster but Greataxes do. Greatcannons do not proc Frost Buster either.
+    -   Frost Buster can only proc once per critical.
+    -   Also grants the ability to freeze and damage boats with Greatsword and Greataxe criticals.
+    -   Frost Buster procs on **any** critical when used on a Greatsword or Greataxe including some strange cases such as critical-replacing Enchantments ([Curse of the Unbidden](Curse_of_the_Unbidden.md), [Nemesis](Nemesis.md), and [Stormbreaker](Stormbreaker.md)) and all fist style criticals on [Markor's Inheritor](<Markor's_Inheritor.md>).
+    -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.  
+        
+    -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Heavy Weapon\] \[Greataxe\] \[Greatsword\]
+
+-   **Frozen Anchor** \[Common Talent\] - Apply [bottom freeze](Status_Effects.md#bottom-freeze) and [chill](Status_Effects.md#chill) to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
+    -   Functions similarly to [Meteor Impact](#meteor-impact), applying on any Mantra that counts as an uppercut or flourish.
     -   Bottom Freeze will be removed if the target takes damage from any source. This makes this Talent extremely ineffective on multihit criticals.
     -   The Chill applied through this Talent has a 12 second duration, making it a strong option for hybrid builds that have limited opportunities to proc Chill.
-    -   Deals (0) Frostdraw damage as hitregistry for Chill. This allows you to proc certain Talents like Flashboil without any other source of Frostdraw damage.
-    -   Currently bugged and applies through block/parry/dodge.
-    -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
+    -   Deals (0) Frostdraw damage as hitregistry for Chill. This allows you to proc certain Talents like [Flashboil](#flashboil) without any other source of Frostdraw damage.
+    -   Currently bugged and applies through block/parry/dodge.  
+        
+    -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light // 100 Medium // 100 Heavy)  
+        
+    -   Tags: \[Frostdraw\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Flourish\]
 
--   Frostbite \[Common Talent, Frostdraw\] - Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md) when they are chilled.
+-   **Frozen Anchor** \[Common Talent\] - Apply [bottom freeze](Status_Effects.md#bottom-freeze) and [chill](Status_Effects.md#chill) to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
+    -   Functions similarly to [Meteor Impact](#meteor-impact), applying on any Mantra that counts as an uppercut or flourish.
+    -   Bottom Freeze will be removed if the target takes damage from any source. This makes this Talent extremely ineffective on multihit criticals.
+    -   The Chill applied through this Talent has a 12 second duration, making it a strong option for hybrid builds that have limited opportunities to proc Chill.
+    -   Deals (0) Frostdraw damage as hitregistry for Chill. This allows you to proc certain Talents like [Flashboil](#flashboil) without any other source of Frostdraw damage.
+    -   Currently bugged and applies through block/parry/dodge.  
+        
+    -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light // 100 Medium // 100 Heavy)  
+        
+    -   Tags: \[Frostdraw\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Flourish\]
+
+-   **Frostbite** \[Common Talent\] - Enemies can no longer heal when under the effect of your [chill](Status_Effects.md#chill). PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
     -   This effect is briefly applied after applying a Crystal.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.
-    -   Prerequisite: 25 Frostdraw
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.  
+        
+    -   Prerequisites: 25 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Anti-Sustain\]
 
--   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw\] - Ice Daggers now freeze opponents.
-    -   With crystal path, instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage.
-    -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra), 60 Frostdraw.
+-   **Frostbite** \[Common Talent\] - Enemies can no longer heal when under the effect of your [chill](Status_Effects.md#chill). PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
+    -   This effect is briefly applied after applying a Crystal.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.  
+        
+    -   Prerequisites: 25 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Anti-Sustain\]
 
--   _Saint Jay_ \[Rare Talent, Frostdraw\] - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
+-   _Frozen Pin-Cushion_ \[Rare Talent\] - [Ice Daggers](Frostdraw.md#ice-daggers) now freeze opponents.
+    -   With crystal path, instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage.  
+        
+    -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra), 60 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
+
+-   **Frozen Pin-Cushion** \[Rare Talent\] - [Ice Daggers](Frostdraw.md#ice-daggers) now freeze opponents.
+    -   With crystal path, instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage.  
+        
+    -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra), 60 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\]
+
+-   _Saint Jay_ \[Rare Talent\] - When a [Chilled](Status_Effects.md#chill) enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw Mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   The "on ice" effect of Saint Jay is bugged and does not work.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.
-    -   Prerequisite: Frostbite
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.  
+        
+    -   Prerequisites: [Frostbite](#frostbite)  
+        
+    -   Tags: \[Frostdraw\] \[Sustain\]
 
--   Stasis Strike \[Common Talent, Frostdraw, Weapon\] - Your crystal explosions deal more damage whenever your opponent is also bottom frozen.
+-   **Saint Jay** \[Rare Talent\] - When a [Chilled](Status_Effects.md#chill) enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
+    -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
+    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
+    -   If using Glass Path: Crystallization then every hit with a Frostdraw Mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
+    -   The "on ice" effect of Saint Jay is bugged and does not work.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.  
+        
+    -   Prerequisites: [Frostbite](#frostbite)  
+        
+    -   Tags: \[Frostdraw\] \[Sustain\]
+
+-   **Stasis Strike** \[Common Talent\] - Your crystal explosions deal more damage whenever your opponent is also [bottom frozen](Status_Effects.md#bottom-freeze).
     -   Your Crystal detonations deal 67% more damage against targets who are bottom frozen.
-    -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
+    -   Most abilities that apply Bottom Freeze instantly detonate crystals instead with this path. Because kf this, it is recommended to use [Frozen Anchor](#frozen-anchor) to proc this Talent more consistently.  
+        
+    -   Prerequisites: [Glass Path, Crystallization](#glass-path-crystallization), 90 Frostdraw, 90 Weapon (90 Light // 90 Medium // 90 Heavy)  
+        
+    -   Tags: \[Frostdraw\] \[Weapon\] \[Damage Buff\]
 
--   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw\] - Your Chill can proc through block, with blocked Chilling procs lasting 80% of the duration.
+-   **Stasis Strike** \[Common Talent\] - Your crystal explosions deal more damage whenever your opponent is also [bottom frozen](Status_Effects.md#bottom-freeze).
+    -   Your Crystal detonations deal 67% more damage against targets who are bottom frozen.
+    -   Most abilities that apply Bottom Freeze instantly detonate crystals instead with this path. Because kf this, it is recommended to use [Frozen Anchor](#frozen-anchor) to proc this Talent more consistently.  
+        
+    -   Prerequisites: [Glass Path, Crystallization](#glass-path-crystallization), 90 Frostdraw, 90 Weapon (90 Light // 90 Medium // 90 Heavy)  
+        
+    -   Tags: \[Frostdraw\] \[Weapon\] \[Damage Buff\]
+
+-   _**Unyielding Frost**_ \[Advanced Talent\] - Your [Chill](Status_Effects.md#chill) can proc through block, with blocked Chilling procs lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
-    -   Does not proc Frozen Legs.
-    -   Prerequisite: 100 Frostdraw
-    -   Mutual Exclusive: Glass Path: Crystallization
+    -   Does not proc [Frozen Legs](#frozen-legs).  
+        
+    -   Prerequisites: 100 Frostdraw  
+        
+    -   Mutual Exclusives: [Glass Path: Crystallization](#glass-path-crystallization)  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\] \[Scale-down\]
+
+-   **Unyielding Frost** \[Advanced Talent\] - Your [Chill](Status_Effects.md#chill) can proc through block, with blocked Chilling procs lasting 80% of the duration.
+    -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
+    -   Does not proc [Frozen Legs](#frozen-legs).  
+        
+    -   Prerequisites: 100 Frostdraw  
+        
+    -   Mutual Exclusives: [Glass Path: Crystallization](#glass-path-crystallization)  
+        
+    -   Tags: \[Frostdraw\] \[Debuff\] \[Scale-down\]
 
 ### Ignition Delver
 
@@ -5934,7 +6039,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Despite the description stating "allies", this can be used on non-allies and even humanoid NPCs.
     -   Can be used on people who are [Sleeping](Status_Effects.md#sleeping) from Cap Artist or [Paralytic Dust](Paralytic_Dust.md).
     -   Prerequisites: 40 Fortitude // 40 Charisma, 50 Thundercall
-        -   The [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Outfit has this Talent
 
 ### Lancer
 
@@ -6344,7 +6448,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
     -   Prerequisites: Any [Fist style](Fists.md) or Kick style equipped, 20 Fortitude, 20 Light Weapon
     -   Mutual Exclusive: Orbital Ice
-        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
 -   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
@@ -7495,7 +7598,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Elemental Mentalist \[Common Talent, Intelligence, Charisma\] - Empower your [Overcharm](Status_Effects.md#overcharm), allowing you and your allies to bring forth your high stat attunement's elemental effect into your light attacks when overcharmed.
     -   While you or your allies are Overcharmed by you, your light attacks will apply the status effect of _your_ highest invested Attunement.
-    -   Prerequisites: [Charismatic Cast](#charismatic-cast) 40 Intelligence, 80 Charisma
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 40 Intelligence, 80 Charisma
 
 -   Manipulator \[Common Talent, Charisma\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   10 second cooldown.
@@ -8123,7 +8226,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   20 second cooldown.
 
 -   True Seraph Slash: [True Seraph Spear](True_Seraph_Spear.md) - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability. Having [Starkindred](Oath%253A_Starkindred.md) Wings out or [Angel's Guise](#angels-guise) adds 1 bolt to your enhanced crit.
-    -   This deals 0.75x your weapons scaled damage per hit (4, 5 with the synergy), dealt as typeless damage.
+    -   This deals 0.75x your weapons scaled damage per hit (4 at base), dealt as typeless damage.
+    -   If you have [Angel's Guise](#angels-guise) **or** your Starkindred Wings out, add one hit to the True Seraph Slash critical. If you have **both** active, add two hits and summon an allied [Sworn Angel](Sworn_Angel.md) instead.
+        -   The Angel will aggro onto targets and attack them, almost always using its own Angel Spear Smite ability first. It will remain summoned until killed or its aggro runs out.
+        -   The Angel can be killed, potentially dropping a [Sworn Angel Mask](Sworn_Angel_Mask.md) on death.
 
 -   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
     -   Deals 5 true damage per slow effect removed.
@@ -8614,19 +8720,19 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Common Talent\] \[Equipment\] \[Guardbreak\]
 
--   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
-    -   Adds a +20% damage modifier to your [Strength Mantras](Attunement-less.md#strength-mantras), should they guardbreak while you have a [Wrath Gem](Wrath_Gem.md) equipped onto them.
-    -   Applies a 50% slow for 5.5 seconds on proc.
-    -   10 second cooldown.  
+-   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a [strength mantra](Attunement-less.md#strength-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, slowing them down.
+    -   Aapplies a 50% slow for 5.5 seconds on proc.
+    -   10 second cooldown.
+    -   If you have the full Reinforced War Set, this will deal an additional 15 true damage on proc.  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Slow\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Debuff\] \[Guardbreak\] \[Slow\]
 
--   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
-    -   Adds a +20% damage modifier to your [Strength Mantras](Attunement-less.md#strength-mantras), should they guardbreak while you have a [Wrath Gem](Wrath_Gem.md) equipped onto them.
-    -   Applies a 50% slow for 5.5 seconds on proc.
-    -   10 second cooldown.  
+-   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a [strength mantra](Attunement-less.md#strength-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, slowing them down.
+    -   Aapplies a 50% slow for 5.5 seconds on proc.
+    -   10 second cooldown.
+    -   If you have the full Reinforced War Set, this will deal an additional 15 true damage on proc.  
         
-    -   Tags: \[Common Talent\] \[Equipment\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Slow\]
+    -   Tags: \[Common Talent\] \[Equipment\] \[Debuff\] \[Guardbreak\] \[Slow\]
 
 -   **Featherfall**: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates up to 255 fall damage before going on a 2 minute cooldown.
@@ -9193,9 +9299,10 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   In PvE, Etherguard additionally grants elemental damage reduction.
     -   Bluestone Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
 
--   Lasting Trauma: Reinforced War Set - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+-   Lasting Trauma: Reinforced War Set - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it. This also buffs [Fatal Strike](#fatal-strike), causing it to deal 15 true damage on proc.
     -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 19 seconds.
     -   Wrath gems have a 10 second cooldown, meaning you can potentially disable your opponent's ability to use their critical indefinitely.
+    -   Deal 15 extra true damage whenever you guardbreak with a [Strength Mantra](Attunement-less.md#strength-mantras) that has a Wrath Gem on it.
     -   Reinforced War Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
 
 -   Momentum: Blademaster Set - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.

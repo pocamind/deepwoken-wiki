@@ -1,9 +1,11 @@
 ---
 title: Rimil
-revid: 226353
+revid: 226459
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
+categories: [Canor NPCs, Cut Content, NPCs, The Ministry, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Rimil
@@ -17,19 +19,15 @@ categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located 
 
 Variants: [Emel](Emel.md) · [Imel](Imel.md)
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
-
 ## Description
 
-Rimil was a [Canor](Canor.md) NPC. They are a member of [the Ministry](The_Ministry.md) but have been moved to another unknown post[\[1\]](#cite-note-1).
+Rimil was a [Canor](Canor.md) NPC who was a member of [The Ministry](The_Ministry.md).
 
-They used to give you a mission to kill an enemy in [the Starswept Valley](The_Starswept_Valley.md); you must grip a player in the Starswept Valley and return to them to obtain reputation and rewards. If you complete it you used to gain reputation with the Ministry and a payment for your deeds.
+They used to give you a mission requiring the player to kill another player in [The Starswept Valley](The_Starswept_Valley.md). Returning to Rimil with the mission completed granted positive [Reputation](Reputation.md) with the Ministry and a payment for your deeds.
 
 ## Location
 
-Rimil used to be found leaning against a large log very close to the main village on [Meteor Isle](Meteor_Isle.md).
+Rimil was found leaning against a large log very close to the main village on [Meteor Isle](Meteor_Isle.md).
 
 ## Dialogue
 
@@ -109,10 +107,5 @@ Rimil used to be found leaning against a large log very close to the main villag
 
 ## Trivia
 
--   Rimil's racial variant appears to be River.
-
--   As of 13/08/2026 (UTC) Rimil no longer exists
-
-1.  [↑](#cite-ref-1)
-    
-    Citation for rimil moving post
+-   Rimil's racial variant appeared to be River.
+-   On the [August 12th, 2026](Version_History/2026.md#august-12th-2026) update, Emel was removed.

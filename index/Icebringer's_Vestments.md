@@ -1,9 +1,9 @@
 ---
 title: "Icebringer's Vestments"
-revid: 223316
+revid: 226475
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits, Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
+categories: [Unique Outfits, Outfits, World Event, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Icebringer's Vestments
@@ -20,7 +20,7 @@ categories: [Unique Outfits, Outfits, World Event, Outfits with Talents, "Outfit
 | durability | 2600 |
 | resistances | +25% Physical Armor , +30% Elemental Armor , +25% Ice Armor |
 | buffs | +75% Ether Regen |
-| talents | Refreeze, Orbital Ice |
+| talents | Refreeze |
 | obtainment | Carnival of HeartsVow of Iron:, Saint Jay Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
@@ -40,11 +40,10 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Ice resistance [ResistanceFrostdraw](Frostdraw.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Refreeze](Talents.md#refreeze) and [Orbital Ice](Talents.md#orbital-ice) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md) and 30% Elemental [ResistanceFrostdraw](Frostdraw.md). Adding Orbital Ice from the Outfit Talent brings the Physical resistance ResistancePhysical up to 36.25%.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md) and 30% Elemental [ResistanceFrostdraw](Frostdraw.md).
 
-The [Refreeze](Talents.md#refreeze) Talent lowers your [Orbital Ice](Talents.md#orbital-ice) cooldown by 20 seconds when you land any ability that would proc [Bottom Freeze](Talents.md#bottom-freeze). The [Orbital Ice](Talents.md#orbital-ice) Talent forms a ring of ice around your character if you parry while standing on ice, granting 15% physical damage resistance.
+The [Refreeze](Talents.md#refreeze) Talent lowers your [Orbital Ice](Talents.md#orbital-ice) cooldown by 20 seconds when you land any ability that would proc [Bottom Freeze](Talents.md#bottom-freeze).
 
 ## Trivia
 
--   This Outfit's Orbital Ice Talent will work even if you have the "[Fists of Fortitude](Talents.md#fists-of-fortitude)" Talent despite these Talents normally being mutually exclusive with eachother.
-    -   Stacking this Outfit's resistances along with with Orbital Ice and Fists of Fortitude brings your total resistances to 45.8% Physical, 55.38% Frostdraw, and 40.5% Elemental resistance.
+-   This Outfit originally had the [Orbital Ice](Talents.md#orbital-ice) Talent, allowing you to use Orbital Ice with [Fists of Fortitude](Talents.md#fists-of-fortitude), despite these Talents normally being mutually exclusive with eachother.

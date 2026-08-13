@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 226321
+revid: 226453
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -48,11 +48,13 @@ _Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---o
 
 ## Progression
 
-As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 2 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progged will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted. An alternative method of progression is by completing [The Diluvian Mechanism](The_Diluvian_Mechanism.md), Beating the the [Gaunt Man](The_Gaunt_Man.md)'s [experiment](The_Vat.md), or beating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) with no [Light Hook](Light_Hook.md) all either solo or with a party composed solely with Contractors.
+As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 2 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progressed will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
 
--   Obtained upon unlocking contractor - Hidden Tendril and Lord's Slice
--   1st Grip - Equalizer
--   2nd Grip - String Trick and Judgement
+On the other hand, players who do not wish to engage in PvP combat can progress the Oath by conquering [The Diluvian Mechanism](The_Diluvian_Mechanism.md), completing the [Gaunt Man](The_Gaunt_Man.md)'s [experiment](The_Vat.md), or defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) with no [Light Hook](Light_Hook.md). All challenges must be done either solo or with a party solely composed of other Contractors to progress.
+
+-   Base Unlock: Hidden Tendril and Lord's Slice
+-   First Unlock: Equalizer
+-   Second Unlock: String Trick and Judgement
 
 Alternatively you may spend 10 Knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
 

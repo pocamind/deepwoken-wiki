@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 226306
+revid: 226513
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -808,7 +808,7 @@ Your dashes are enhanced by the winds or thunder, increasing their distance trav
 
 Deal 10% less damage and have your damage type on basic attacks transfer to Thundercall damage. Applied through being hit by 5 hits from any [Thundercall](Thundercall.md) Mantra with the [Resolve Crusher](Talents.md#resolve-crusher) Talent. Signified by a swirling lightning effect on the afflicted's torso.
 
-This effect is enhanced if the applicator has the [Second Interrogation](Talents.md#second-interrogation) Talent, the reducing damage and posture damage dealt by the afflicted by 50% instead.
+This effect is enhanced if the applicator has the [Second Interrogation](Talents.md#second-interrogation) Talent, reducing damage and posture damage dealt by the afflicted by 50% instead.
 
 ### Static Linked
 

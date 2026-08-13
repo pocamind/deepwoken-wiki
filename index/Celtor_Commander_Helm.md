@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 226381
+revid: 226448
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment with Tal
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| styles | Bastion, Beacon, Grand Marshal (Default, Unmasked), Sable (Default, Unmasked), Stygian (Default, Unmasked), Tideknight (Default, Unmasked) |
+| styles | Bastion, Beacon, Grand Marshal (Default, Unmasked), Highborn (Default, Unmasked), Sable (Default, Unmasked), Stygian (Default, Unmasked), Tideknight (Default, Unmasked) |
 | innate stats | +5 Health , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Grasp on Reality |
 | set | Celtor Commander Helm, Celtor Commander Plate, Celtorian Sabatons |

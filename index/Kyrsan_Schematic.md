@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Schematic
-revid: 200211
+revid: 226443
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
 | stack | x6 |
 | type | Ingredient |
 | rarity | Common |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | pass down | No |
 | desc | It's hard to make out, but the language eclipses you, yet it seems to resemble some sort of timekeeping device... It appears as though the schematic is detailing the proper finetuning of a power source to fit the time piece. |
@@ -28,6 +28,7 @@ This content is not accessible outside of this gamemode.
 
 The **Kyrsan Schematic** is a direct drop from [Kyrsgardes](Kyrsgarde.md).
 
-## Uses
+## Crafting
 
--   Used to craft the [Vortex Echo](Vortex_Echo.md) relic fist weapon.
+-   [Weapons](Weapons.md):
+    -   [Vortex Echo](Vortex_Echo.md): 1x Kyrsan Schematic + 1x [Temporal Crux](Temporal_Crux.md) + 1x [Weathered Timepiece](Weathered_Timepiece.md)

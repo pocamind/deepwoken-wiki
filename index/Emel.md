@@ -1,9 +1,11 @@
 ---
 title: Emel
-revid: 226278
+revid: 226458
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
+categories: [Adret NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, The Ministry, Individuals with unspecified pronouns]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Emel
@@ -12,20 +14,20 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located 
 |---|---|
 | name | Emel |
 | aspect | Adret |
-| location | N/A |
+| location | Summer Isle |
 | affiliation | The Ministry |
 
 Variants: [Imel](Imel.md) · [Rimil](Rimil.md)
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
-
 ## Description
 
-Emel was a [Adret](Adret.md) NPC who is a member of [the Ministry](The_Ministry.md). They used to be found leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
+Emel was an [Adret](Adret.md) NPC who was a member of [The Ministry](The_Ministry.md).
 
-They used to give you a mission to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md); you must grip a player in the Songseeker Wilds and return to them to obtain reputation and rewards. If you completed it you used to gain reputation with the Ministry and a payment for your deeds.
+They used to give you a mission requiring the player to kill another player in the [Songseeker Wilds](Songseeker_Wilds.md). Returning to Emel with the mission completed granted positive [Reputation](Reputation.md) with the Ministry and a payment for your deeds.
+
+## Location
+
+Emel was found on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
 
 ## Dialogue
 
@@ -105,8 +107,6 @@ They used to give you a mission to kill an enemy in the [Songseeker Wilds](Songs
 
 ## Trivia
 
--   Emel's racial variant appears to be Boulder.
-
--   Due to the similarity in name and [Aspect](Aspects.md) variant, Emel may be a sibling of [Imel](Imel.md).
-
--   Due to the update as of 13/08/2026 (UTC) he has been removed.
+-   Emel's racial variant was Boulder.
+-   Due to the similarity in name and [Aspect](Aspects.md) variant, Emel may have been a sibling of [Imel](Imel.md).
+-   On the [August 12th, 2026](Version_History/2026.md#august-12th-2026) update, Emel was removed.

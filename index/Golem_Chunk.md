@@ -1,6 +1,6 @@
 ---
 title: Golem Chunk
-revid: 226419
+revid: 226488
 source: https://deepwoken.fandom.com/wiki/Golem_Chunk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items, Drops, Ingredients]
@@ -30,3 +30,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The Golem Chunk is a direct drop from [Rock Golem](Rock_Golem.md) and [Golem Prime](Golem_Prime.md).
+
+## Crafting
+
+-   [Enchant Stone](Enchant_Stone.md):
+    -   [Stone](Stone.md) [Enchant Stone](Enchant_Stone.md): 1x Golem Chunk + 1x any [Enchant Stone](Enchant_Stone.md)

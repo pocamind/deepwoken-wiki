@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 226253
+revid: 226465
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -377,6 +377,7 @@ Not all unblockable attacks have this indicator.
 -   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
 -   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
 -   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
+-   [Eclipse Kick](Shadowcast.md#eclipse-kick) (Purple)
 -   [Iron Slam](Ironsing.md#iron-slam) at level 5 (Grey)
 -   [Kanabo](Kanabo.md) running critical (White)
 -   [Bloodfouler](Bloodfouler.md) critical (White)
@@ -433,27 +434,35 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Player Attacks**
 
--   Corrupted [Chorus Divide](Chorus_Divide.md)
+-   [Deepspindle](Deepspindle.md) standing critical (Multihits)
+-   [Emotion Wave](Thundercall.md#emotion-wave)
 -   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
+-   [Greatcannons](Greatcannons.md) default critical (Shockwave)
+-   [Kyrsieger](Kyrsieger.md) critical
 -   [Kyrswynter](Kyrswynter.md) running critical
--   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
+-   [Paralytic Dust](Paralytic_Dust.md)
 -   [Relic Axe](Relic_Axe.md) critical
 -   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
+-   [Smouldering Hallow](Smouldering_Hallow.md) critical
 -   [Soul Beam](Oath%253A_Oathless.md#soul-beam)
 
 **Monster Attacks**
 
--   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
--   [Deep Owl](Deep_Owl.md): Overhead Grab
--   [Deep Widow](Deep_Widow.md): Venomous Bite
--   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
--   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
--   [Rock Golem](Rock_Golem.md): Uppercut
+-   [Bone Keeper](Bone_Keeper.md): Crushing Grab
+-   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab
+-   [Gigamed](Gigamed.md): Electric Stun Pulse
+-   [Hive Construct](Hive_Construct.md): Swing
+-   [King Gigamed](King_Gigamed.md): Greater Stun Pulse, Static Discharge
+-   [Prime Megalodaunt](Prime_Megalodaunt.md): Kick, Tacet Hug
+-   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
+-   [Thresher](Thresher.md) (all variants): Burrow
 
 **Boss Attacks**
 
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Wrathful Stomp
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md): Powerful Blood Appendage
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Stonelife Jab
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Thunder Volley, Worldpiercing Deluge, Wrathful Stomp
 
  |
 | 
@@ -477,50 +486,41 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 **Player Attacks**
 
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
--   [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn)
--   [Deepspindle](Deepspindle.md) Standing Critical multihits
--   [Kyrsieger](Kyrsieger.md) Critical
--   Default Greatcannon Critical (shockwave)
--   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Critical
--   [Smouldering Hallow](Smouldering_Hallow.md) Critical
+-   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
--   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
--   [Stoneheart](Stoneheart.md) Critical
--   [Soulwrought Longsword](Crazy_Slots.md#weapons) Special ability
--   [Emotion Wave](Thundercall.md#emotion-wave)
--   [Veinbreaker](Bloodrend.md#veinbreaker)
+-   [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn)
+-   [Stoneheart](Stoneheart.md) critical
+-   [Soulwrought Longsword](Crazy_Slots.md#weapons) ability
+-   [Veinbreaker](Bloodrend.md#veinbreaker) charged
 
 **Monster Attacks**
 
--   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug, Tacet Drop Kick
--   [Bonekeeper](Bone_Keeper.md): Crushing Grab
+-   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (all variants): Tacet Drop Kick, Tacet Hug
 -   [Bounder](Bounder.md): Charge
--   [Deep Widow](Deep_Widow.md): Deep Webbing
--   [Gigamed](Gigamed.md): Electric Stun Pulse
+-   [Crustaceous Rex](Crustaceous_Rex.md): Ground Smash
+-   [Deep Owl](Deep_Owl.md): Overhead Grab
+-   [Deep Widow](Deep_Widow.md): Deep Webbing, Venomous Bite
+-   [Fury Nautilodaunt](Fury_Nautilodaunt.md) (all variants): Electro Stomp
 -   [Golem Prime](Golem_Prime.md): Laser Barrage
--   [Hive Construct](Hive_Construct.md) (all variants): Swing
--   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
--   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
--   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
--   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite, Tacet Hug
+-   [Lionfish](Lionfish.md) (all variants): Cero, Execution
+-   [Megalodaunt](Megalodaunt.md) (all variants): Bite, Kick
+-   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Dunk, Lumbering Thrust
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
--   [Fury Nautilodaunt](Fury_Nautilodaunt.md) (all variants): Electro Stomp
--   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
+-   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
+-   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser, Uppercut
 -   [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>): Severing Flourish
--   [Thresher](Thresher.md) (all variants): Burrow
 
 **Boss Attacks**
 
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md): Powerful Blood Appendage
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
 -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): A Toll of the Bell
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Crossrend Cryocleave, Snowgrave, Splintering Thrust
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash, Commander's Whirlthrow
--   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
--   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Severing Flourish, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab, Kick, Rock Throw
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Commander's Whirlthrow, M1's (second phase), Splitting Ascension, Sovereign Drive
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Bone Stream
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Eight Heavens, Severing Flourish, Serpent-Slaying Sweep,
 
  |
 | 
@@ -545,7 +545,6 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 **Monster Attacks**
 
 -   [King Thresher](King_Thresher.md): Body Slam
--   [Nautilodaunt](Nautilodaunt.md) (all variants): Drop-Kick
 
 **Boss Attacks**
 
@@ -572,11 +571,12 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 
 **Player Attacks**
 
--   [Light's Final Toll](<Light's_Final_Toll.md>) (all variants) Stage IV critical
--   [Marrowmade Boots](Marrowmade_Boots.md): Special ability
+-   [Light's Final Toll](<Light's_Final_Toll.md>) (all variants) stage IV critical
+-   [Marrowmade Boots](Marrowmade_Boots.md) special ability
 
 **Monster Attacks**
 
+-   [Nautilodaunt](Nautilodaunt.md) (all variants): Drop-Kick
 -   [Nautilodaunt Officiate](Nautilodaunt_Officiate.md): Combo Slam
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Quad Slash
 
@@ -586,8 +586,8 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Blizzard's Sanction, Pylons of Frost
 -   [Parliament](Parliament.md): Curb Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
--   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Graceful Slicer, Mortal Draw: Sakura Dance
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Eight Heavens, Graceful Slicer
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md):, Commander's Rage, Worldshattering Smackdown
 
  |
 | 
@@ -637,7 +637,7 @@ Attacks with this indicator can be jumped over.
 -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Arachnid Leap
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
--   [Titus Fulminus Destellus:](Titus_Fulminus_Destellus.md) Wrathful Stomp, World Piercing Deluge
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Skycrash, Vent
 -   [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>): Blinkstrike
 
  |

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 225821
+revid: 226472
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -338,6 +338,7 @@ Blunt ResistanceBlunt
 -   Lands 15% faster while wielding [Jus Karita](Jus_Karita.md).
 -   Requirements are increased if you have an Attunement.
 -   Can still be used after removing [Tacet](Murmur%253A_Tacet.md).
+-   22 second cooldown.
 
  |
 | 

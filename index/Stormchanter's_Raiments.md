@@ -1,9 +1,9 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 223329
+revid: 226480
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
+categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Stormchanter's Raiments
@@ -20,7 +20,7 @@ categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-ex
 | durability | 2600 |
 | resistances | +25% Physical Armor , +30% Elemental Armor , +25% Lightning Armor |
 | buffs | +75% Ether Regen |
-| talents | Circuit Breaker, Kickstart |
+| talents | Circuit Breaker |
 | obtainment | Carnival of HeartsVow of Iron:, Flashing Thunder Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
@@ -38,13 +38,8 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Kickstart](Talents.md#kickstart) and [Circuit](Talents.md#circuit) Talents.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Circuit Breaker](Talents.md#circuit-breaker) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
-The [Circuit Breaker](Talents.md#circuit-breaker) Talent removes the self damage from [Electrify](Talents.md#electrify). The [Kickstart](Talents.md#kickstart) Talent revives and heals Unconscious players and humanoid NPCs at the cost of putting yourself in a lengthy animation.
-
-## Trivia
-
--   When paired with the [Deepscorn Casque](Deepscorn_Casque.md), [Electrify](Talents.md#electrify) will heal you on cast instead.
--   If you have the regular Kickstart Talent and this Outfit, the Kickstart tools will stack. This provides no benefits.
+The [Circuit Breaker](Talents.md#circuit-breaker) Talent removes the self damage from [Electrify](Talents.md#electrify). Pairing this with he [Deepscorn Casque](Deepscorn_Casque.md) will cause you to heal 12 health when using Electrify instead.

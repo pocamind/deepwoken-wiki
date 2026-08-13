@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Eyeglasses
-revid: 226365
+revid: 226452
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| styles | Black, Red, White |
+| styles | Black, Cerulean, Emerald, Indigo, Silver, Red, White |
 | innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | set | Tophat, Aristocrat Coat, Aristocrat Eyeglasses |
