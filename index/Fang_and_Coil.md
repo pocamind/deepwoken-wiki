@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 214802
+revid: 226528
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]

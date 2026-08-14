@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226516
+revid: 226546
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -2656,7 +2656,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   Can be blocked, preventing damage and Charm proc.
     -   Typeless self damage does not proc Chaotic Charm, but something like [Flame Within](#flame-within) will.  
         
-    -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 55 Charisma  
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\] \[Investment Scaling\] \[Scale-down\]
 
@@ -2669,7 +2669,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   Can be blocked, preventing damage and Charm proc.
     -   Typeless self damage does not proc Chaotic Charm, but something like [Flame Within](#flame-within) will.  
         
-    -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 55 Charisma  
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\] \[Investment Scaling\] \[Scale-down\]
 
@@ -2677,7 +2677,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Lasting Charisma increases the duration of **[Charismatic Cast](#charismatic-cast)'s** Charm from 10s to 20s.
     -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.166s for every point of Charisma you have under 55, capping at a minimum of 15.83 seconds of Charm with 30 Charisma.  
         
-    -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 55 Charisma  
         
     -   Tags: \[Charisma\] \[Charm\] \[Scale-down\]
 
@@ -2685,7 +2685,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Lasting Charisma increases the duration of **[Charismatic Cast](#charismatic-cast)'s** Charm from 10s to 20s.
     -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.166s for every point of Charisma you have under 55, capping at a minimum of 15.83 seconds of Charm with 30 Charisma.  
         
-    -   Prerequisites: 55 Charisma, [Charismatic Cast](#charismatic-cast)  
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 55 Charisma  
         
     -   Tags: \[Charisma\] \[Charm\] \[Scale-down\]
 
@@ -2697,7 +2697,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   This damage buff is only applied if **your** Charm is applied to the target. Due to how Charm works, it is highly recommended that you have a high Charm duration from [Lasting Charisma](#lasting-charisma) if you wish for this Talent to function in large-scale ganks.
     -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.  
         
-    -   Prerequisites: 25 Charisma, [Charismatic Cast](#charismatic-cast)  
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 25 Charisma  
         
     -   Mutual Exclusives: [Narcissist](#narcissist)  
         
@@ -2711,7 +2711,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   This damage buff is only applied if **your** Charm is applied to the target. Due to how Charm works, it is highly recommended that you have a high Charm duration from [Lasting Charisma](#lasting-charisma) if you wish for this Talent to function in large-scale ganks.
     -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.  
         
-    -   Prerequisites: 25 Charisma, [Charismatic Cast](#charismatic-cast)  
+    -   Prerequisites: [Charismatic Cast](#charismatic-cast), 25 Charisma  
         
     -   Mutual Exclusives: [Narcissist](#narcissist)  
         
@@ -2722,7 +2722,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.  
         
-    -   Prerequisites: 55 Charisma, [Chaotic Charm](#chaotic-charm), [Charismatic Cast](#charismatic-cast), [Lasting Charisma](#lasting-charisma), [Tough Love](#tough-love)  
+    -   Prerequisites: [Chaotic Charm](#chaotic-charm), [Charismatic Cast](#charismatic-cast), [Lasting Charisma](#lasting-charisma), [Tough Love](#tough-love), 55 Charisma  
         
     -   Mutual Exclusives: [Bulldozer](#bulldozer)  
         
@@ -2733,7 +2733,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.  
         
-    -   Prerequisites: 55 Charisma, [Chaotic Charm](#chaotic-charm), [Charismatic Cast](#charismatic-cast), [Lasting Charisma](#lasting-charisma), [Tough Love](#tough-love)  
+    -   Prerequisites: [Chaotic Charm](#chaotic-charm), [Charismatic Cast](#charismatic-cast), [Lasting Charisma](#lasting-charisma), [Tough Love](#tough-love), 55 Charisma  
         
     -   Mutual Exclusives: [Bulldozer](#bulldozer)  
         
@@ -2835,7 +2835,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Getting hit or blocking an attack will cancel the effect entirely.
     -   Note: Despite this Talent requiring 40 Fortitude, the [Reinforce](Attunement-less.md#reinforce) Mantra requires 50.  
         
-    -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Shadowcast, 40 Fortitude  
+    -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Fortitude, 40 Shadowcast  
         
     -   Tags: \[Fortitude\] \[Shadowcast\] \[Debuff\]
 
@@ -2845,7 +2845,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Getting hit or blocking an attack will cancel the effect entirely.
     -   Note: Despite this Talent requiring 40 Fortitude, the [Reinforce](Attunement-less.md#reinforce) Mantra requires 50.  
         
-    -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Shadowcast, 40 Fortitude  
+    -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Fortitude, 40 Shadowcast  
         
     -   Tags: \[Fortitude\] \[Shadowcast\] \[Debuff\]
 
@@ -7598,6 +7598,16 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Elemental Mentalist \[Common Talent, Intelligence, Charisma\] - Empower your [Overcharm](Status_Effects.md#overcharm), allowing you and your allies to bring forth your high stat attunement's elemental effect into your light attacks when overcharmed.
     -   While you or your allies are Overcharmed by you, your light attacks will apply the status effect of _your_ highest invested Attunement.
+    -   Procs on criticals with the M1 tag.
+    -   Applies the following effects:
+        -   **[Flamecharm](Flamecharm.md)**: [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
+        -   **[Frostdraw](Frostdraw.md)**: [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
+        -   **[Thundercall](Thundercall.md)**: [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
+        -   **[Galebreathe](Galebreathe.md)**: [After Cut](#after-cut) and briefly apply [Winded](Status_Effects.md#winded)
+        -   **[Shadowcast](Shadowcast.md)**: [Blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+        -   **[Ironsing](Ironsing.md)**: [1 Metal Rod](Status_Effects.md#1-metal-rod)
+        -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning)
+        -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
     -   Prerequisites: [Charismatic Cast](#charismatic-cast), 40 Intelligence, 80 Charisma
 
 -   Manipulator \[Common Talent, Charisma\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
