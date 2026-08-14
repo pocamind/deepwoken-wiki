@@ -1,6 +1,6 @@
 ---
 title: Wool Beret
-revid: 226573
+revid: 226576
 source: https://deepwoken.fandom.com/wiki/Wool_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Stub pages without reason, StubPages, Equipment, Head, Hats]
@@ -18,7 +18,7 @@ notices:
 | requirements | LVL 4 |
 | weight | 1 |
 | styles | Dark (Classic, Felt Classic, Felt Tilted, Tilted), Light (Classic, Felt Classic, Felt Tilted, Tilted), Mauve (Classic, Felt Classic, Felt Tilted, Tilted) |
-| innate stats | +2 Rare Pips |
+| innate stats | +3 Health , +10 Ether , +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

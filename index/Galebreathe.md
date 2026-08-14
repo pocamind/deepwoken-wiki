@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 226484
+revid: 226589
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -112,7 +112,7 @@ _Shoots out an air blast._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -192,7 +192,7 @@ _Slicing blades of wind. If casted while slide-jumping, perform a spinning slice
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -233,7 +233,7 @@ _A strike from the heavens._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+75 Ether [IconEther](Ether.md)
 
  | 
 
@@ -272,7 +272,7 @@ _A rush of piercing wind._
  |
 | 
 
-55 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -312,7 +312,7 @@ _Form a punch of wind in your fist and release it._
  |
 | 
 
-55 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -352,7 +352,7 @@ _Toss a wind landmine._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+85 Ether [IconEther](Ether.md)
 
  | 
 
@@ -393,7 +393,7 @@ _A rushing current of wind._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -469,7 +469,7 @@ _A lifting torrent of wind._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -547,7 +547,7 @@ _Grab your opponent and toss them with the power of gale. Pressing F will toss y
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+85 Ether [IconEther](Ether.md)
 
  | 
 
@@ -588,7 +588,7 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+75 Ether [IconEther](Ether.md)
 
  | 
 
@@ -630,7 +630,7 @@ _A quick swirl of sharp winds._
  |
 | 
 
-55 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -671,7 +671,7 @@ _A powerful wind blast._
  |
 | 
 
-55 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -714,7 +714,7 @@ _A rapid delivery of consecutive attacks._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+85 Ether [IconEther](Ether.md)
 
  | 
 
@@ -825,7 +825,7 @@ _A rush of wind_
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 

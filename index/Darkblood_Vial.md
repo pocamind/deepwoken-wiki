@@ -1,6 +1,6 @@
 ---
 title: Darkblood Vial
-revid: 226420
+revid: 226597
 source: https://deepwoken.fandom.com/wiki/Darkblood_Vial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items, Drops, Ingredients]
@@ -33,5 +33,7 @@ Darkblood Vial is a drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.m
 
 ## Crafting
 
+-   [Equipment](Equipment.md):
+    -   [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md): 1x Darkblood Vial + 1x [Crimson Terrapod Shell](Crimson_Terrapod_Shell.md) + [Terraplate Pauldrons](Terraplate_Pauldrons.md)
 -   [Ingredients](Ingredients.md)
     -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Darkblood Vial + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Parasol Membrane](Parasol_Membrane.md)

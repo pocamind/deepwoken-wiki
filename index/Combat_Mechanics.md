@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 226465
+revid: 226588
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -486,6 +486,7 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 **Player Attacks**
 
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
+-   [Dissonant Chimecaller](Dissonant_Chimecaller.md) critical
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
 -   [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn)

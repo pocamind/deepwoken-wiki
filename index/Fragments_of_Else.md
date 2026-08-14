@@ -1,6 +1,6 @@
 ---
 title: Fragments of Else
-revid: 221692
+revid: 226580
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Else
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations]
@@ -28,7 +28,7 @@ Woven memories split and fray before you. The sharp edge of a paradox has severe
 
 Fragments of Else acts as the counterpart to [Fragments of Self](Fragments_of_Self.md). Players are sent to it whenever they die in [The Depths](<The_Depths_(Vow_of_Iron).md>), choose to wipe their [Vow of Iron](Vow_of_Iron.md) character in the main menu, or selecting Obliteration in [Trial of One](Trial_of_One.md).
 
-## Contents=
+## Contents
 
 ### Glimmers of Return
 

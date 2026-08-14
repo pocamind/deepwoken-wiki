@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226571
+revid: 226584
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4527,13 +4527,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Fortitude\] \[Damage Resistance\] \[Scale-down\]
 
--   _**Scalrosis**_ \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
+-   _**Sclerosteosis**_ \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
     
     -   Prerequisites: 100 Fortitude  
         
     -   Tags: \[Fortitude\] \[Damage Resistance\]
 
--   **Scalrosis** \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
+-   **Sclerosteosis** \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
     
     -   Prerequisites: 100 Fortitude  
         

@@ -1,6 +1,6 @@
 ---
 title: The Golden Rat
-revid: 206547
+revid: 226581
 source: https://deepwoken.fandom.com/wiki/The_Golden_Rat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, The Golden Rats]

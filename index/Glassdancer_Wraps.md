@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 221278
+revid: 226575
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -17,12 +17,18 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | weight | 2 |
 | innate stats | +2 Health , +3 Posture , +1 Rare Pip |
 | innate talent | Lightweight |
+| set | Glassdancer Wraps, Glassdancer Shinwraps |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest |
 | description | ... |
+
+Glassdancer Set
+
+Variants: [Shinwraps](Glassdancer_Shinwraps.md)
 
 ## Description
 

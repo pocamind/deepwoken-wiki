@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 226572
+revid: 226577
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -41,35 +41,47 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 
 ## Dialogue
 
-**No Chainwarden:**
-
 **Base Dialogue:**
+
+**Neutral Reputation:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Neutral Reputation with The Central Auhtority</td>
-  <td>Negative Reputation</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hm? I'm busy. Go bother one of the guards.</td>
-  <td>Lowlife Scum like you belong in the gallows. The guard will see to it - let justice be done today.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
-  <td colspan="2">[End Dialogue], player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>
 
+**Negative Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Lowlife scum like you belong in the gallows. The guards will see to it - let justice be done today.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player is jailed and sent to <b>execution</b></td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
 **Obtaining Chainwarden:**
 
-If the player meets the requirement to obtain [Chainwarden](Oath%253A_Chainwarden.md).
-
 **Quest Start:**
+
+This dialogue is unlocked if the player meets the requirements to unlock [Chainwarden](Oath%253A_Chainwarden.md).
 
 <table>
 <tbody>
@@ -97,7 +109,9 @@ If the player meets the requirement to obtain [Chainwarden](Oath%253A_Chainwarde
 </tbody>
 </table>
 
-**Quest Ongoing:**
+**Quest In-Progress:**
+
+This dialogue is unlocked if the player meets the requirements to unlock [Chainwarden](Oath%253A_Chainwarden.md).
 
 <table>
 <tbody>
@@ -113,11 +127,9 @@ If the player meets the requirement to obtain [Chainwarden](Oath%253A_Chainwarde
 </tbody>
 </table>
 
-**Has Chainwarden:**
+**Quest End:**
 
-If the player has [Chainwarden](Oath%253A_Chainwarden.md).
-
-**In-Progress:**
+This dialogue is unlocked if the player meets the requirements to unlock [Chainwarden](Oath%253A_Chainwarden.md).
 
 <table>
 <tbody>
@@ -139,7 +151,11 @@ If the player has [Chainwarden](Oath%253A_Chainwarden.md).
 </tbody>
 </table>
 
+**Chainwarden Unlocked:**
+
 **Maxed Out:**
+
+This dialogue is unlocked once the player has fully progressed [Chainwarden](Oath%253A_Chainwarden.md).
 
 <table>
 <tbody>
@@ -147,8 +163,8 @@ If the player has [Chainwarden](Oath%253A_Chainwarden.md).
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td>First Encounter</td>
-  <td>Subsequent Encounters</td>
+  <td>[First Encounter]</td>
+  <td>[Subsequent Encounters]</td>
 </tr>
 <tr>
   <td>Well done, Chainwarden. One more step towards peace.</td>
@@ -162,14 +178,16 @@ If the player has [Chainwarden](Oath%253A_Chainwarden.md).
 
 **Oathbreaking Chainwarden:**
 
+This dialogue is unlocked upon Oathbreaking [Chainwarden](Oath%253A_Chainwarden.md).
+
 <table>
 <tbody>
 <tr>
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Initial dialogue in Temple of Hearts</td>
-  <td>Subsequent Encounters with Morredh</td>
+  <td>[Initial dialogue in the Temple of Hearts]</td>
+  <td>[Subsequent Encounters with Morredh]</td>
 </tr>
 <tr>
   <td>Another deserter? You're pathetic.</td>

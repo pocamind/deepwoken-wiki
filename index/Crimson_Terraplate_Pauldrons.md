@@ -1,6 +1,6 @@
 ---
 title: Crimson Terraplate Pauldrons
-revid: 220905
+revid: 226596
 source: https://deepwoken.fandom.com/wiki/Crimson_Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equi
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |
-| obtainment | Crafting : 1 Curse of the Bloodthirsty Enchant Stone + 1 Crimson Terrapod Shell + Terraplate Pauldrons |
+| obtainment | Crafting : 1 Curse of the Bloodthirsty Enchant Stone + 1 Crimson Terrapod Shell + Terraplate PauldronsCrafting : 1 Darkblood Vial + 1 Crimson Terrapod Shell + Terraplate Pauldrons |
 | description | For much of modern zoology, Crimson Terrapods were thought only to be a myth, only known to exist among a small cohort of naturalist Divers. This ambiguity ended when Authority scouts arrived in newly emerged Erisia, where a particularly audacious Warden managed not only to find and slay one, but craft its shell into an armor much like this one. Its even rumored that after wearing it for long enough, he began to take on many of the Terrapods more aggressive mannerisms. |
 
 ## Description

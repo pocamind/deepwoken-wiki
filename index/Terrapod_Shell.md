@@ -1,6 +1,6 @@
 ---
 title: Terrapod Shell
-revid: 213339
+revid: 226591
 source: https://deepwoken.fandom.com/wiki/Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -19,7 +19,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A shell fragment of a Terrapod. |
-| obtainment | Sold in Traan Zakshun's black market for 1 Direct drop:, Terrapod, Crimson Terrapod |
+| obtainment | Sold in Traan Zakshun's black market for 1 , JeremiahDirect drop:, Terrapod, Crimson Terrapod |
 
 ## Description
 
