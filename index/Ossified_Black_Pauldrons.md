@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 223462
+revid: 226563
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,7 +40,7 @@ Variants: [Helm](Ossified_Black_Helm.md)
 
 Ossified Black Pauldrons are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. This Talent cannot reduce a damage value below 0.
+The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. This Talent cannot reduce a damage value below 1.
 
 ## Set Bonus
 
