@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 213941
+revid: 226567
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -477,7 +477,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <td>Legion's Forsaken
   <ul>
     <li>Slay 1*</li>
-  </ul><p><small>*You have to actually kill him by using an attack that automatically executes.</small></p></td>
+  </ul></td>
   <td>+5% damage and +2.5% resistance</td>
 </tr>
 </tbody>

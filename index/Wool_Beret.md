@@ -1,6 +1,6 @@
 ---
 title: Wool Beret
-revid: 226437
+revid: 226573
 source: https://deepwoken.fandom.com/wiki/Wool_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Stub pages without reason, StubPages, Equipment, Head, Hats]
@@ -13,18 +13,19 @@ notices:
 | Wool Beret | |
 |---|---|
 | type | Head |
-| rarity | ? |
-| requirements | ? |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | LVL 4 |
 | weight | 1 |
-| styles | ? |
-| innate stats | ? |
-| innate talent | ? |
+| styles | Dark (Classic, Felt Classic, Felt Tilted, Tilted), Light (Classic, Felt Classic, Felt Tilted, Tilted), Mauve (Classic, Felt Classic, Felt Tilted, Tilted) |
+| innate stats | +2 Rare Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | ? |
+| enchantable | Yes |
 | pass down | Yes |
-| obtainment | ? |
-| description | ? |
+| obtainment | Carnival of Hearts |
+| description | A classic wool beret. How snazzy! |
 
 ## Description
 

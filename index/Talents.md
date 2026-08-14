@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226546
+revid: 226571
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5447,9 +5447,9 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +5 Health, +2 Posture  
         
-    -   Prerequisites: 100 Fortitude, 100 Willpower, [Perseverance](#perseverance)  
+    -   Prerequisites: [Perseverance](#perseverance), 100 Fortitude, 100 Willpower  
         
-    -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\]
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\] \[Scale-down\]
 
 -   **Brick Wall** \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious](Status_Effects.md#unconscious). Also reduces the duration of [Knockdown](Status_Effects.md#knockdown).
     -   The [Knockdown](Status_Effects.md#knockdown) duration reduction scales on your combined investment into the Willpower and Fortitude attributes, being fully negated if you have 100 points invested into both.
@@ -5461,9 +5461,9 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +5 Health, +2 Posture  
         
-    -   Prerequisites: 100 Fortitude, 100 Willpower, [Perseverance](#perseverance)  
+    -   Prerequisites: [Perseverance](#perseverance), 100 Fortitude, 100 Willpower  
         
-    -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\]
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\] \[Scale-down\]
 
 -   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious](Status_Effects.md#unconscious). 60s CD.
     -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.  
@@ -5491,8 +5491,6 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 20 Fortitude, 100 Willpower  
         
-    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>)  
-        
     -   Tags: \[Fortitude\] \[Willpower\] \[+Posture\] \[Scale-down\]
 
 -   **Not a Scratch** \[Advanced Talent\] - You don't show any signs of damage.
@@ -5506,8 +5504,6 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Grants +2 Posture  
         
     -   Prerequisites: 20 Fortitude, 100 Willpower  
-        
-    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>)  
         
     -   Tags: \[Fortitude\] \[Willpower\] \[+Posture\] \[Scale-down\]
 

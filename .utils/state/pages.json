@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 226546
+    "lastrevid": 226571
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -4457,7 +4457,7 @@
   },
   "13645": {
     "title": "Vice Warden Morredh",
-    "lastrevid": 224991
+    "lastrevid": 226572
   },
   "13655": {
     "title": "Baby Spider",
@@ -5229,11 +5229,11 @@
   },
   "15745": {
     "title": "Trickster's Habit",
-    "lastrevid": 223333
+    "lastrevid": 226570
   },
   "15747": {
     "title": "Jester's Garb",
-    "lastrevid": 223325
+    "lastrevid": 226568
   },
   "15752": {
     "title": "Caeranthil",
@@ -5953,7 +5953,7 @@
   },
   "17991": {
     "title": "Bestiary",
-    "lastrevid": 213941
+    "lastrevid": 226567
   },
   "18003": {
     "title": "Hollow Angel Mask",
@@ -6073,7 +6073,7 @@
   },
   "18199": {
     "title": "Blue Gem",
-    "lastrevid": 223187
+    "lastrevid": 226566
   },
   "18200": {
     "title": "Wayward Gem",
@@ -8953,7 +8953,7 @@
   },
   "23306": {
     "title": "Ossified Black Pauldrons",
-    "lastrevid": 226563
+    "lastrevid": 226565
   },
   "23307": {
     "title": "Ember Scorch Earrings",
@@ -9729,10 +9729,14 @@
   },
   "26327": {
     "title": "Wool Beret",
-    "lastrevid": 226437
+    "lastrevid": 226573
   },
   "26328": {
     "title": "Jade Vigil",
     "lastrevid": 226469
+  },
+  "26334": {
+    "title": "Glassdancer Shinwraps",
+    "lastrevid": 226574
   }
 }

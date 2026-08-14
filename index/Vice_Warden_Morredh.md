@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 224991
+revid: 226572
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -56,10 +56,11 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 </tr>
 <tr>
   <td>Hm? I'm busy. Go bother one of the guards.</td>
-  <td>Hm? I don't have time for you, lowlife. There are bigger fish to fry.</td>
+  <td>Lowlife Scum like you belong in the gallows. The guard will see to it - let justice be done today.</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
+  <td colspan="2">[End Dialogue], player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>
