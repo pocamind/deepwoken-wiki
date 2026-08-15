@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 216571
+revid: 226773
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -56,7 +56,7 @@ You can restore your sanity in the Depths by going to [Castle Light](Castle_Ligh
 
 Deepbounds gain a Talent tool called Call of the Deep, that is used to teleport the player to the [First Layer](First_Layer.md) or [Castle Light](Castle_Light.md). On use, your character will kneel with the ground turning into a black whirlpool. After 5 seconds, the player will be dragged down into the whirlpool, teleporting to the respective location.
 
-When used in the overworld, the player will delve into the [First Layer](First_Layer.md) without [drowning](Death.md). When used in the [First Layer](First_Layer.md), the player will teleport directly to [Castle Light](Castle_Light.md) with a 20 minute cooldown.
+When used in the overworld, the player will delve into the [First Layer](First_Layer.md) without [drowning](Death.md). When used in the [First Layer](First_Layer.md), the player will teleport directly to [Castle Light](Castle_Light.md) with a 1 minute cooldown.
 
 ## Pros and Cons
 

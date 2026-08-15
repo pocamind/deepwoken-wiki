@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 225142
+revid: 226713
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -228,6 +228,10 @@ Parry
 -   **Thunderstruck Fury** - All of the Nautilodaunt Officiate's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through [Hyperarmor](Status_Effects.md#hyperarmor).
     -   This passive makes the Nautilodaunt Officiate _significantly_ more dangerous than its default counterpart, as you cannot hyperarmor your way through its attacks.
 -   Hardened Guard - The Nautilodaunt Officiate has significantly more posture than its counterparts.
+
+## Tips
+
+**DO NOT VENT**. This will usually result in the Nautilodaunt Officiate using Electro Stomp which is essentially a guaranteed hit due to vent endlag. Additionally, try to focus more on attacking than parry trading. It may sound counter intuitive, but once you get about 2-3 parries on the Nautilodaunt Officiate, fishing for more leaves you vulnerable to feints or other attacks whereas attacking will usually connect as long as you fully commit.
 
 ## Trivia
 

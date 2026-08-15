@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 226644
+revid: 226646
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -16,7 +16,11 @@ categories: [Utilities]
 
 ― Ciea
 
-Cauldrons are a form of utility that allow players to mix [ingredients](Ingredients.md) to create [potions](Alchemy.md) with varying effects. They can be found in a total of eleven static locations, and one can be summoned at will by players with the [Summon Cauldron](Attunement-less.md#summon-cauldron) mantra. In order to brew potions in them you must click it with the ingredient you want to use in your hand, and only press E to mix it once you are happy with the ingredients.
+## Description
+
+Cauldrons are a utility station that allow players to mix [ingredients](Ingredients.md) to create [potions](Alchemy.md) with varying effects. They can be found sparsely throughout Lumen and one can be summoned at will by players with the [Summon Cauldron](Attunement-less.md#summon-cauldron) Mantra.
+
+To brew potions in the Cauldron, select the ingredient you wish to add and press M1 on the Cauldron. After an ingredient has been added, additional ingredients can be added by pressing M1 on the Cauldron. Once you are satisfied with the ingredients, press E to mix the contents and brew the potion.
 
 ## Locations
 
@@ -61,24 +65,12 @@ The cauldron in the [Voidheart](Voidheart.md) is located near the [Antiquarian](
 
 The cauldron in the [Castle Light](Castle_Light.md) is located in the library behind the central pillar.
 
-## Usage
-
-Any player can use a cauldron provided they have ingredients to add.
-
--   To add an ingredient, the player should equip one and click on the cauldron while standing near it.
-    -   The ingredient will appear above the cauldron and fall into it, changing the color of the liquid.
--   Once the player is satisfied with their ingredients, they should press E to mix.
--   This will deposit a potion into the player's inventory.
-    -   The potion will have a name, colour and properties relative to the ingredients used. See [alchemy](Alchemy.md).
-
 ## Trivia
 
 -   The colour of the liquid in the cauldron is originally green, but changes based on the ingredients you add.
--   The cauldrons could be considered unusually large, given that the player's head barely peeks over the top if they are standing on the floor.
 -   The Summon Cauldron mantra requires 20 Intelligence to appear.
     -   Players with Attunements may struggle to get this due to the size of their card pool.
 -   Summoned cauldrons use a ritual cast system.
 -   Summoned cauldrons will disappear if the player walks a certain distance away from them, but otherwise have no known duration limit.
 -   Summoned cauldrons can be used as parkour tools, similar to Guild Base doors.
--   Although the attribute flasks crafted from lotuses resemble potions, they are not made using cauldrons and thus are not connected to alchemy.
-    -   The same applies to [attunement potions](Attunement_Potions.md).
+-   Although the [Attunement Potions](Attunement_Potions.md) obtained from [Attunement Trainers](Attunement_Trainers.md) look very similar to potions brewed in a cauldron, they are not made using cauldrons and thus are not connected to alchemy.

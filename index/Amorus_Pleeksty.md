@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 213689
+revid: 226750
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Individuals with He/him pronouns, Black Divers, Characters that are Deepwoken]

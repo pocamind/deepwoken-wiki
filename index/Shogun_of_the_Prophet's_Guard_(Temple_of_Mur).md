@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 225079
+revid: 226683
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -147,7 +147,9 @@ Duck
 
 (★★☆)
 
- | The Shogun highlights Magenta, indicating the attack must be jumped over, performing a brisk stomp, before then quickly following it up with two strikingly fast slashes that can be parried, before spinning around into a **White**\-highlighted leg slash that must be jumped over.
+ | The Shogun highlights Magenta, indicating the attack must be jumped over, performing a brisk stomp, before then quickly following it up with two strikingly fast slashes that can be parried, before spinning around into a **White**\-highlighted leg slash that must be jumped over.  
+
+Consider dodging one of the slashes after the first jump to better prepare yourself for the timing of the second jump only attack.
 
 _Uses Telegraph_
 

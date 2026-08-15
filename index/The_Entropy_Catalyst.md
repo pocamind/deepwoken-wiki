@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 226079
+revid: 226649
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Locations, Locations in the Eastern Luminant, Voidzones]

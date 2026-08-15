@@ -1,6 +1,6 @@
 ---
 title: The Vents
-revid: 223774
+revid: 226748
 source: https://deepwoken.fandom.com/wiki/The_Vents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Stub pages without reason, StubPages, Locations]

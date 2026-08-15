@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 224600
+revid: 226654
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echo Unlockables]
@@ -17,7 +17,7 @@ categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, "Weapons with
 | scaling | MED: 3 |
 | posture damage | 5 |
 | range | 9 Lunge |
-| swing speed | 0.9x |
+| swing speed | 0.90x |
 | attack duration | 0.7s |
 | penetration | 10% |
 | m.equip | Yes |

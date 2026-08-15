@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 223344
+revid: 226674
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Scarves, Equipment of The Knives of Eylis]

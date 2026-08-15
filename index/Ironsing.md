@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 225898
+revid: 226655
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -135,7 +135,7 @@ _A flurry of metal spikes._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -177,7 +177,7 @@ _A barrage of metal rods._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 
@@ -220,7 +220,7 @@ _A powerful kick laced with metal._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 
@@ -303,7 +303,7 @@ _Create a firing line of metal to light up your target._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -344,7 +344,7 @@ _Conjure metal from within, impaling surrounding entities._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -383,7 +383,7 @@ _Create a metal clone and appear behind your target._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -421,7 +421,7 @@ _Unleash a rain of metal rods down below._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 
@@ -464,7 +464,7 @@ _Conjure metal swords and rush forward with them._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -503,7 +503,7 @@ _Crush your opponents bones with an iron infused grab._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -544,7 +544,7 @@ _Conjure a giant rod of metal and slam it down._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -582,7 +582,7 @@ _Summon a blade of metal to swing alongside you._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 
@@ -624,7 +624,7 @@ _A deadly rush of several metallic rods._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 
@@ -663,7 +663,7 @@ _Create a lance, impale your opponent, and send them flying._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -734,7 +734,7 @@ _Summon a large metal pillar._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -776,7 +776,7 @@ _Create a metal ball and rush forward._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -850,7 +850,7 @@ _Manifest chains to brutally pull enemies towards you._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt
+Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 

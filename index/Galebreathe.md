@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 226589
+revid: 226762
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]

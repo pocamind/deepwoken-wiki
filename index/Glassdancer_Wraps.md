@@ -1,9 +1,9 @@
 ---
 title: Glassdancer Wraps
-revid: 226575
+revid: 226667
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Glassdancer Wraps
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | selling price | 25 |
 | requirements | LVL 8 |
 | weight | 2 |
+| styles | Fistwrap, Forearm |
 | innate stats | +2 Health , +3 Posture , +1 Rare Pip |
 | innate talent | Lightweight |
 | set | Glassdancer Wraps, Glassdancer Shinwraps |

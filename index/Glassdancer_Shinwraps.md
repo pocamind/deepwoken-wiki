@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Shinwraps
-revid: 226574
+revid: 226664
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Shinwraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Equipment, Legs, Boots, Fishing Loot, Echo Unlockables]
