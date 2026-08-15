@@ -1,6 +1,6 @@
 ---
 title: Golem Chunk
-revid: 226488
+revid: 226780
 source: https://deepwoken.fandom.com/wiki/Golem_Chunk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items, Drops, Ingredients]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Golem Chunk is a direct drop from [Rock Golem](Rock_Golem.md) and [Golem Prime](Golem_Prime.md).
+The Golem Chunk is a direct drop from [Stonespark](Stonespark.md), [Rock Golem](Rock_Golem.md), and [Golem Prime](Golem_Prime.md).
 
 ## Crafting
 
