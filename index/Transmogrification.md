@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 224628
+revid: 226805
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment, Outfits]
@@ -63,8 +63,12 @@ A Power 1 freshie wearing a Fleet Warden Cape smelted onto a Tundra Scarf but ca
 -   Rings are **not** able to be smelted.
 -   Smelted items can be passed down.
 -   You can smelt pieces of equipment that have already been smelted.
-    -   For example, if you smelt the first item **A1** and the second item **B2** (A takes the appearance of B) and then smelt another item **C1** first with item **A1**, it'll carry over **B'**s appearance (TL;DR: Smelt A and B to make equipment AB, AB looks like B, smelt C and AB to make equipment CAB, CAB still looks like B).
-        -   If you smelt **C** as the 2nd item instead, you'll keep **AB**’s stats and change the appearance to **C**. (i.e., Smelt A and B to make equipment AB, AB looks like B, smelt AB and C, AB now looks like C).
+    -   For example, smelt **A1** with **B2**. The resulting equipment (**AB**) keeps **A1**’s stats but takes **B2**’s appearance.
+        -   You can then smelt **AB** with another item, **C1**:
+        -   If **AB is the 2nd item**, the result (**CAB**) keeps **AB**’s appearance, meaning it still looks like **B**.
+        -   **A + B → AB** → looks like **B**
+        -   **C + AB → CAB** → still looks like **B** If **C is th****e 2nd item**, the result keeps **AB**’s stats but takes **C**’s appearance.
+        -   **A + B → AB** → looks like **B** **AB + C → AB** → now looks like **C**
 
 ### To smelt items
 

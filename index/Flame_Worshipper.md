@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 217851
+revid: 226801
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -653,3 +653,4 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 ## Tips
 
 -   As the final count of Flamecharm and Medium Weapons in this memento, are 100 and 80 points respectively, it is highly recommended to grab [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) in [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>); especially since it's buffed by the innate talent of [Simmerbloom Diadem](Simmerbloom_Diadem.md).
+-   When fighting the [Shogun](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) with the Pleeksty's inferno equipped, he will roll much more often due to each M1 applying burn on hit. Take this in mind when dealing with certain attacks such as the Crush & Rend, as if you hit him after parrying the first attack, once you parry the second one he will roll and dodge your m1 if used right after the second parry, meaning you must adjust the timing of your attacks for a successful connection.

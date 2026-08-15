@@ -1,6 +1,6 @@
 ---
 title: Golem Chunk
-revid: 226780
+revid: 226784
 source: https://deepwoken.fandom.com/wiki/Golem_Chunk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items, Drops, Ingredients]
@@ -21,7 +21,7 @@ notices:
 | droppable | No |
 | pass down | No |
 | desc | A ruined piece of a Stone Golem. |
-| obtainment | Direct drop:, Golem Prime, Rock Golem |
+| obtainment | Direct drop:, Golem Prime, Rock Golem, Stonespark |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Golem Chunk is a direct drop from [Stonespark](Stonespark.md), [Rock Golem](Rock_Golem.md), and [Golem Prime](Golem_Prime.md).
+The Golem Chunk is a direct drop from [Stonesparks](Stonespark.md), [Rock Golems](Rock_Golem.md), and [Golem Primes](Golem_Prime.md).
 
 ## Crafting
 

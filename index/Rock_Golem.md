@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 226427
+revid: 226786
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,8 +12,8 @@ categories: [Monsters]
 |---|---|
 | health | 1500, 550 (Trial of One), 3750 (Corrupted) |
 | attacks | Rapid Spin, Laser, Uppercut, Ground Slam, Stomp, Scream, Finisher: Crushing Stomp |
-| drops | Dying Embers, High Tier Mantra Modifiers, Great Maul, Golem Chunk |
-| locations | Burning Stone Gardens, Upper Erisia |
+| drops | Dying Embers, High Tier Mantra Modifiers, Treasures, Great Maul, Golem Chunk |
+| locations | Burning Stone Gardens, The Garden Reservoir, Upper Erisia |
 | challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
 
 Variants: [Golem Prime](Golem_Prime.md) · [Golem Magma](Golem_Magma.md)

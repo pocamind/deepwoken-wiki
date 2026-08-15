@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 225899
+revid: 226804
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -335,7 +335,9 @@ Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 -   Shares a cooldown with [Shadow Meteor](#shadow-meteor).
 -   If attacked while casting, the Shadow Seekers will dissipate.
 -   You cannot use any Mantras for a long duration after casting this Mantra. This will end early if all of your Shadow Seekers hit your target.
--   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 10 Shadow Seekers halves the base damage for each Seeker.
+-   At level 1, having 10 Shadow Seekers will do 100 damage, while having 25 (modifier limit) will do 125 damage.
+-   Taking damage right after casting Shadow Seekers will turn them invisible for the duration of the mantra. This bug becomes increasingly inconsistent when adding size modifiers to the mantra.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 223175
+revid: 226794
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

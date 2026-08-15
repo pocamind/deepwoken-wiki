@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226614
+revid: 226783
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1429,6 +1429,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
+    -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
     -   Your eyes and hair turn red with your eyes gaining a red trail when activated as well. This is [dyable](Dye_Packet.md). (Currently bugged, as hair color does not change)  
@@ -1439,6 +1440,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
+    -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
     -   Your eyes and hair turn red with your eyes gaining a red trail when activated as well. This is [dyable](Dye_Packet.md). (Currently bugged, as hair color does not change)  
@@ -6114,13 +6116,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   8 second cooldown.
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
--   Cyclone Blade \[Common Talent, Agility, Galebreathe\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
+-   Cyclone Blade \[Common Talent, Agility, Galebreathe\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +15% damage as bleed and have +10% chip damage. (+2 Passive Agility)
     -   Does not have a cooldown, lasts for 3s.
     -   Also procs from Phantom Step dashes.
     -   Despite the Talent description stating "Light attack", it also grants its buffs to weapon criticals.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
--   Pressure Break \[Common Talent, Strength // Agility, Galebreathe\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+2 Passive Agility)
+-   Pressure Break \[Common Talent, Strength // Agility, Galebreathe\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +15% and flinging the enemy backwards. (+2 Passive Agility)
     -   Prerequisites: Air Pressure, 30 Strength // 30 Agility, 65 Galebreathe
 
 -   Wind Step \[Common Talent, Galebreathe\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
@@ -6246,7 +6248,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 10 Willpower, Breathing Exercise
     -   The [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Enforcer Boots](Enforcer_Boots.md) equipment have this Talent.
 
--   Disbelief \[Common Talent, Willpower\] - Reduces the duration of illusions cast on you by 30%. Halves the duration of the [y](Status_Effects.md#ncl) status on you. (+5 Sanity)
+-   Disbelief \[Common Talent, Willpower\] - Reduces the duration of illusions cast on you by 30%. Halves the duration of the [Charmed](Status_Effects.md#charm) status on you. (+5 Sanity)
     -   [Visionshaper](Oath%253A_Visionshaper.md) clones that are targeting you have their duration reduced by 30%.
     -   Halves the duration of the Charmed status effect.
         -   Tough Love: 2s -> 1s
