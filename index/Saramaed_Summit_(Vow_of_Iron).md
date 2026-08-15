@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit (Vow of Iron)
-revid: 221492
+revid: 226620
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Voidzones]
@@ -40,7 +40,7 @@ Located in the southern point of the Saramaed Summit is a small hill, with dange
 
 The static spawn for 1 [Golem Magma](Golem_Magma.md) and 2 [Mechalodaunts](Mechalodaunt.md) is located here. The Mechalodaunts will always win against the golem as they outnumber and overpower it easily.
 
-This is also the location you may find the [Prototype Railblade](Prototype_Railblade.md), which lies in the southwest corner.
+This is also the location you may find the [Prototype Railblade](Prototype_Railblade.md), which lies in the southwest corner (-6613 494 3576).
 
 Map location
 
@@ -52,4 +52,4 @@ Map location
 
 ### Ignition Union Camps
 
-Near the center of Saramaed Summit you can find camps of [the Ignition Union](The_Ignition_Union.md).
+Near the center of Saramaed Summit you can find camps of [the Ignition Union](The_Ignition_Union.md). This is also where you will find the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) on a small rock inside a lava lake (-6944 416 3552).

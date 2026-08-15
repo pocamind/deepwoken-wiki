@@ -1,12 +1,9 @@
 ---
 title: The Sable Estate
-revid: 220146
+revid: 226635
 source: https://deepwoken.fandom.com/wiki/The_Sable_Estate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations, Territory of Etrean Royalists]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Vow of Iron Exclusive, Locations, Territory of Etrean Royalists]
 ---
 
 # The Sable Estate
@@ -20,3 +17,28 @@ LocationL The Sable Estate LocationR
 TERRITORY OF Etrean Royalists
 
 Nestled in the safety of mountains, the serene sanctuary of the mighty clan Ganba stands resiliant.
+
+  
+
+## Overview
+
+The Sable Estate is an Etrean Royalists stronghold located east of [Saramaed Crossing](Saramaed_Crossing.md).
+
+## Points of Interest
+
+You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Estate [Boundary](Boundary.md) is also located here near the exterior wall of a building
+
+## Contents
+
+-   1 Power 5 [Job Board](Job_Boards.md)
+-   [Etris Flask](Etris_Flask.md)
+
+## NPCs
+
+-   [Chest Master Tabbytha](Chest_Master.md)
+-   [Royalist Guard](Royalist_Guard.md)
+-   [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md)
+
+## Potential Enemies
+
+[Royalist Guard](Royalist_Guard.md)

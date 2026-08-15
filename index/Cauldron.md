@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 208860
+revid: 226644
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -16,7 +16,7 @@ categories: [Utilities]
 
 ― Ciea
 
-Cauldrons are a form of utility that allow players to mix [ingredients](Ingredients.md) to create [potions](Alchemy.md) with varying effects. They can be found in a total of eleven static locations, and one can be summoned at will by players with the [Summon Cauldron](Attunement-less.md#summon-cauldron) mantra.
+Cauldrons are a form of utility that allow players to mix [ingredients](Ingredients.md) to create [potions](Alchemy.md) with varying effects. They can be found in a total of eleven static locations, and one can be summoned at will by players with the [Summon Cauldron](Attunement-less.md#summon-cauldron) mantra. In order to brew potions in them you must click it with the ingredient you want to use in your hand, and only press E to mix it once you are happy with the ingredients.
 
 ## Locations
 

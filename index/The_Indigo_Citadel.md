@@ -1,12 +1,9 @@
 ---
 title: The Indigo Citadel
-revid: 220150
+revid: 226629
 source: https://deepwoken.fandom.com/wiki/The_Indigo_Citadel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations, Territory of Etrean Royalists]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Vow of Iron Exclusive, Locations, Territory of Etrean Royalists]
 ---
 
 # The Indigo Citadel
@@ -29,6 +26,26 @@ The Indigo Citadel is an [Etrean Royalists](Etrean_Royalists.md) stronghold foun
 
 Home of Clan Kobura, and found in the northern parts of [Minityrsa](Minityrsa.md).
 
+## Points of Interest
+
+You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Estate Blue [Boundary](Boundary.md) is located here close to the exterior wall of a building.
+
+## Contents
+
+-   2 Power 10 [Job Boards](Job_Boards.md)
+-   1 Power 5 [Job Board](Job_Boards.md)
+-   [Etris Flask](Etris_Flask.md)
+
+## NPCs
+
+-   [Royalist Guard](Royalist_Guard.md)
+-   [Chest Master Catthew](Chest_Master.md)
+-   [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md)
+
+## Potential Enemies
+
+-   [Royalist Guard](Royalist_Guard.md)
+
 ## Trivia
 
--   A ruined version of the Indigo Citadel can be found in Pathfinders, the bridge destroyed and the citadel itself mostly buried in snow.
+-   A ruined version of the Indigo Citadel can be found in the Pathfinder game mode where the bridge was destroyed and the citadel itself mostly buried in snow.

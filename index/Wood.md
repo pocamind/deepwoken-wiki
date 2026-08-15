@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 200731
+revid: 226615
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -80,12 +80,6 @@ The wood at the [Isle of Vigils](Isle_of_Vigils.md) is located outside of the In
 **Greathive Aratel:**
 
 The wood at [Greathive Aratel](Greathive_Aratel.md) is located on a bench in the Canopy Plaza's balcony.
-
--   Costs 5.
-
-**Miner's Landing:**
-
-The wood at [Miner's Landing](<Miner's_Landing.md>) is located on top of a barrel next to the Antiquarian.
 
 -   Costs 5.
 

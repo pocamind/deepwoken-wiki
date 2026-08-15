@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226584
+revid: 226614
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3213,21 +3213,23 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     
     -   Prerequisites: 20 Shadowcast  
         
+    -   Tags: \[Shadowcast\] \[Tempo\]
 
 -   **Dark God** \[Common Talent\] - If a Shadowcast mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] would drain your opponent's Ether to 0, drain from their [Tempo](Combat_Mechanics.md#tempo) instead and increase your Tempo. Shadowcast mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will now raise your tempo if your ether is full.
     
     -   Prerequisites: 20 Shadowcast  
         
+    -   Tags: \[Shadowcast\] \[Tempo\]
 
 -   **Dark Replenishment** \[Common Talent\] - Knocking out an enemy in combat restores a portion of your ether.
     
-    -   Prerequisites: 50 Shadowcast, 25 Intelligence, [Dark God](#dark-god)  
+    -   Prerequisites: [Dark God](#dark-god), 25 Intelligence, 50 Shadowcast  
         
     -   Tags: \[Intelligence\] \[Shadowcast\]
 
 -   **Dark Replenishment** \[Common Talent\] - Knocking out an enemy in combat restores a portion of your ether.
     
-    -   Prerequisites: 50 Shadowcast, 25 Intelligence, [Dark God](#dark-god)  
+    -   Prerequisites: [Dark God](#dark-god), 25 Intelligence, 50 Shadowcast  
         
     -   Tags: \[Intelligence\] \[Shadowcast\]
 
@@ -3235,7 +3237,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Deals 5 Shadowcast damage on proc.
     -   Does not steal or halt any Ether regen.  
         
-    -   Prerequisites: 45 Shadowcast, [Dark God](#dark-god)  
+    -   Prerequisites: [Dark God](#dark-god), 45 Shadowcast  
         
     -   Tags: \[Shadowcast\] \[Flourish\]
 
@@ -3243,7 +3245,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Deals 5 Shadowcast damage on proc.
     -   Does not steal or halt any Ether regen.  
         
-    -   Prerequisites: 45 Shadowcast, [Dark God](#dark-god)  
+    -   Prerequisites: [Dark God](#dark-god), 45 Shadowcast  
         
     -   Tags: \[Shadowcast\] \[Flourish\]
 
@@ -3281,28 +3283,28 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use Mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
-    -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.  
+    -   This ability lasts for 1.8 seconds and goes on a 20 second cooldown when it activates.  
         
-    -   Prerequisites: 60 Shadowcast, [Dark Hours](#dark-hours)  
+    -   Prerequisites: [Dark Hours](#dark-hours), 60 Shadowcast  
         
-    -   Tags: \[Shadowcast\]
+    -   Tags: \[Shadowcast\] \[Dodge\]
 
 -   **Dark Rift** \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled early if you attack.
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use Mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
-    -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.  
+    -   This ability lasts for 1.8 seconds and goes on a 20 second cooldown when it activates.  
         
-    -   Prerequisites: 60 Shadowcast, [Dark Hours](#dark-hours)  
+    -   Prerequisites: [Dark Hours](#dark-hours), 60 Shadowcast  
         
-    -   Tags: \[Shadowcast\]
+    -   Tags: \[Shadowcast\] \[Dodge\]
 
 -   **Night Terror** \[Common Talent\] - Your light attacks now proc [Fear the Dark](#fear-the-dark).
     -   Despite its description, this Talent applies the [Fear the Dark](Status_Effects.md#fear-the-dark) status for 1 second with no cooldown (they are not required to run away from you).
     -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker](Oath%253A_Dawnwalker.md)'s [Absolute Radiance](#absolute-radiance).
     -   Also procs on weapon criticals.  
         
-    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy), [Fear the Dark](#fear-the-dark)  
+    -   Prerequisites: [Fear the Dark](#fear-the-dark), 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy)  
         
     -   Tags: \[Shadowcast\] \[Weapon\] \[Debuff\]
 
@@ -3311,7 +3313,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker](Oath%253A_Dawnwalker.md)'s [Absolute Radiance](#absolute-radiance).
     -   Also procs on weapon criticals.  
         
-    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy), [Fear the Dark](#fear-the-dark)  
+    -   Prerequisites: [Fear the Dark](#fear-the-dark), 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy)  
         
     -   Tags: \[Shadowcast\] \[Weapon\] \[Debuff\]
 
@@ -3331,7 +3333,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Has a 4 second cooldown.
     -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.  
         
-    -   Prerequisites: 55 Shadowcast, [Dark God](#dark-god)  
+    -   Prerequisites: [Dark God](#dark-god), 55 Shadowcast  
         
     -   Tags: \[Shadowcast\]
 
@@ -3339,7 +3341,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Has a 4 second cooldown.
     -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.  
         
-    -   Prerequisites: 55 Shadowcast, [Dark God](#dark-god)  
+    -   Prerequisites: [Dark God](#dark-god), 55 Shadowcast  
         
     -   Tags: \[Shadowcast\]
 
@@ -3798,14 +3800,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Concussive Flash** \[Common Talent\] - Your blinding light now concusses foes.
     -   People blinded by [Flame Blind](Flamecharm.md#flame-blind) are [Dazed](Status_Effects.md#dazed) for 2 seconds.  
         
-    -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 30 Flamecharm, 25 Strength  
+    -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 25 Strength, 30 Flamecharm  
         
     -   Tags: \[Strength\] \[Flamecharm\] \[Debuff\]
 
 -   **Concussive Flash** \[Common Talent\] - Your blinding light now concusses foes.
     -   People blinded by [Flame Blind](Flamecharm.md#flame-blind) are [Dazed](Status_Effects.md#dazed) for 2 seconds.  
         
-    -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 30 Flamecharm, 25 Strength  
+    -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 25 Strength, 30 Flamecharm  
         
     -   Tags: \[Strength\] \[Flamecharm\] \[Debuff\]
 
@@ -3815,7 +3817,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Procs on: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Fear the Dark](Status_Effects.md#fear-the-dark) (from the [Fear the Dark](#fear-the-dark) and [Night Terror](#night-terror) Talents), [Winded](Status_Effects.md#winded), [Fatigued Swings](Status_Effects.md#mocking-favor) (from [Mocking Favor](#mocking-favor)), and [Suffocation](Status_Effects.md#suffocation).
         -   Also procs if the aforementioned status effects are self-applied, like using [Flame Within](#flame-within) or [Agitating Spark](#agitating-spark) to self apply Burn.  
             
-    -   Prerequisites: 20 Willpower, 15 Strength  
+    -   Prerequisites: 15 Strength, 20 Willpower  
         
     -   Tags: \[Strength\] \[Willpower\] \[Damage Buff\]
 
@@ -3823,7 +3825,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Procs on: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Fear the Dark](Status_Effects.md#fear-the-dark) (from the [Fear the Dark](#fear-the-dark) and [Night Terror](#night-terror) Talents), [Winded](Status_Effects.md#winded), [Fatigued Swings](Status_Effects.md#mocking-favor) (from [Mocking Favor](#mocking-favor)), and [Suffocation](Status_Effects.md#suffocation).
         -   Also procs if the aforementioned status effects are self-applied, like using [Flame Within](#flame-within) or [Agitating Spark](#agitating-spark) to self apply Burn.  
             
-    -   Prerequisites: 20 Willpower, 15 Strength  
+    -   Prerequisites: 15 Strength, 20 Willpower  
         
     -   Tags: \[Strength\] \[Willpower\] \[Damage Buff\]
 
@@ -3856,7 +3858,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   The Taunt damage buff is also applied to the attack that guard broke.
     -   This Talent will still function as normal if you no longer have the Taunt Mantra.  
         
-    -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+    -   Prerequisites: [Taunt](Attunement-less.md#taunt) (Mantra), 85 Charisma  
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Scale-down\]
 
@@ -3867,7 +3869,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   The Taunt damage buff is also applied to the attack that guard broke.
     -   This Talent will still function as normal if you no longer have the Taunt Mantra.  
         
-    -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+    -   Prerequisites: [Taunt](Attunement-less.md#taunt) (Mantra), 85 Charisma  
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Scale-down\]
 
@@ -3893,15 +3895,15 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Damage Resistance\] \[Support\]
 
--   **Off Your Game** \[Common Talent\] - You now slow Taunted enemies when you hit them.
+-   **Off Your Game** \[Common Talent\] - You now slow [Taunted](Status_Effects.md#taunt) enemies when you hit them.
     
-    -   Prerequisites: 90 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+    -   Prerequisites: [Taunt](Attunement-less.md#taunt) (Mantra), 90 Charisma  
         
     -   Tags: \[Charisma\] \[Debuff\] \[Slow\]
 
--   **Off Your Game** \[Common Talent\] - You now slow Taunted enemies when you hit them.
+-   **Off Your Game** \[Common Talent\] - You now slow [Taunted](Status_Effects.md#taunt) enemies when you hit them.
     
-    -   Prerequisites: 90 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)  
+    -   Prerequisites: [Taunt](Attunement-less.md#taunt) (Mantra), 90 Charisma  
         
     -   Tags: \[Charisma\] \[Debuff\] \[Slow\]
 
@@ -3980,18 +3982,18 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 ### Ether Endeavors
 
 -   **Keen Recovery** \[Common Talent\] - Landing a basic attack after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will restore the feinted mantra's \[_[sic](https://en.wikipedia.org/wiki/sic)_\] ether cost.
-    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.  
+    -   The amount of Ether restored scales on your Intelligence investment, being above the Mantra's cost if you have over 55 Intelligence.  
         
     -   Prerequisites: 55 Intelligence  
         
-    -   Tags: \[Intelligence\] \[Scale-down\]
+    -   Tags: \[Intelligence\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Keen Recovery** \[Common Talent\] - Landing a basic attack after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will restore the feinted mantra's \[_[sic](https://en.wikipedia.org/wiki/sic)_\] ether cost.
-    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.  
+    -   The amount of Ether restored scales on your Intelligence investment, being above the Mantra's cost if you have over 55 Intelligence.  
         
     -   Prerequisites: 55 Intelligence  
         
-    -   Tags: \[Intelligence\] \[Scale-down\]
+    -   Tags: \[Intelligence\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Behind You** \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will apply an ether slash, dealing extra damage based on how much ether you have left.
     -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 30 damage when at full Ether. This has no cooldown.
@@ -4012,14 +4014,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Unwavering Focus** \[Common Talent\] - When your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are parried, receive less posture (scales with intelligence).
     -   Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.  
         
-    -   Prerequisites: 60 Intelligence, 10 Strength  
+    -   Prerequisites: 10 Strength, 60 Intelligence  
         
     -   Tags: \[Strength\] \[Intelligence\] \[Investment Scaling\] \[Posture Resistance\] \[Scale-down\]
 
 -   **Unwavering Focus** \[Common Talent\] - When your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are parried, receive less posture (scales with intelligence).
     -   Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.  
         
-    -   Prerequisites: 60 Intelligence, 10 Strength  
+    -   Prerequisites: 10 Strength, 60 Intelligence  
         
     -   Tags: \[Strength\] \[Intelligence\] \[Investment Scaling\] \[Posture Resistance\] \[Scale-down\]
 
@@ -4028,14 +4030,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Reverse Leech** \[Common Talent\] - Anytime you proc [Behind You](#behind-you), steal ether from your opponent too.
     -   [Behind You](#behind-you) is procced by landing a basic attack behind your enemy after feinting a Mantra.  
         
-    -   Prerequisites: 60 Shadowcast, [Behind You](#behind-you)  
+    -   Prerequisites: [Behind You](#behind-you), 60 Shadowcast  
         
     -   Tags: \[Agility\] \[Intelligence\] \[Shadowcast\]
 
 -   **Reverse Leech** \[Common Talent\] - Anytime you proc [Behind You](#behind-you), steal ether from your opponent too.
     -   [Behind You](#behind-you) is procced by landing a basic attack behind your enemy after feinting a Mantra.  
         
-    -   Prerequisites: 60 Shadowcast, [Behind You](#behind-you)  
+    -   Prerequisites: [Behind You](#behind-you), 60 Shadowcast  
         
     -   Tags: \[Agility\] \[Intelligence\] \[Shadowcast\]
 
@@ -5214,7 +5216,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
         -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
         -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
-        -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   If the user has multiple attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
     -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.  
         
@@ -5231,7 +5233,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
         -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
         -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
-        -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   If the user has multiple attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
     -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.  
         
@@ -7593,17 +7595,20 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Toxic Personality
 
 -   Elemental Mentalist \[Common Talent, Intelligence, Charisma\] - Empower your [Overcharm](Status_Effects.md#overcharm), allowing you and your allies to bring forth your high stat attunement's elemental effect into your light attacks when overcharmed.
-    -   While you or your allies are Overcharmed by you, your light attacks will apply the status effect of _your_ highest invested Attunement.
+    -   When you Overcharm yourself, your light attacks apply the status effect of your highest invested Attunement for the duration of the Overcharm. While your allies are Overcharmed by you, their light attacks apply the status effect of _their_ highest invested attunements.
     -   Procs on criticals with the M1 tag.
+    -   Overcharm can be applied through the following Talents: [Narcissist](#narcissist) (self only), [Rule Through Fear](#rule-through-fear) (self and allies), and [Propagandist](#propagandist) (allies only).
+    -   This deals 0.1 elemental damage on proc as hitregistry for the status effects. This triggers your opponent's [Everchanging Aegis](#everchanging-aegis).
     -   Applies the following effects:
         -   **[Flamecharm](Flamecharm.md)**: [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
         -   **[Frostdraw](Frostdraw.md)**: [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
         -   **[Thundercall](Thundercall.md)**: [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
-        -   **[Galebreathe](Galebreathe.md)**: [After Cut](#after-cut) and briefly apply [Winded](Status_Effects.md#winded)
+        -   **[Galebreathe](Galebreathe.md)**: Extremely brief [Winded](Status_Effects.md#winded)
         -   **[Shadowcast](Shadowcast.md)**: [Blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
-        -   **[Ironsing](Ironsing.md)**: [1 Metal Rod](Status_Effects.md#1-metal-rod)
+        -   **[Ironsing](Ironsing.md)**: 1 [Metal Rod](Status_Effects.md#metal-rod)
         -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning)
-        -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   If the Overcharmed person has multiple Attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw.
+        -   If the Overcharmed person does not have an Attunement, this Talent **will not work**.
     -   Prerequisites: [Charismatic Cast](#charismatic-cast), 40 Intelligence, 80 Charisma
 
 -   Manipulator \[Common Talent, Charisma\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
