@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 226577
+revid: 226892
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -77,7 +77,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 
 **Unlockable Dialogue:**
 
-**Obtaining Chainwarden:**
+{{#tag:tabber|Obtaining Chainwarden=
 
 **Quest Start:**
 
@@ -151,7 +151,7 @@ This dialogue is unlocked if the player meets the requirements to unlock [Chainw
 </tbody>
 </table>
 
-**Chainwarden Unlocked:**
+|-|Chainwarden Unlocked=
 
 **Maxed Out:**
 
@@ -195,6 +195,22 @@ This dialogue is unlocked upon Oathbreaking [Chainwarden](Oath%253A_Chainwarden.
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Negative Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>You're a disgrace to your Oath, Chainwarden. None stand above the law - not even you.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>

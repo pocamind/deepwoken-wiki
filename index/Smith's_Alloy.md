@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 224403
+revid: 226917
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -31,11 +31,13 @@ This content is not accessible outside of this gamemode.
 
 ## Farming
 
-Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), [the Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
+Currently known to drop from a wide variety of sources. Refer to the obtainment section in the infobox.
 
-They can also be found less consistently from completing [Voidwalker](Voidwalker.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
+If you are in dire need of many **Smith's Alloys**, the best and safest way to farm them is by killing [The Ferryman](The_Ferryman.md), as he is a fairly weak boss that can be defeated in just a few minutes. Once beaten, you can leave the instanced server and can quickly fight him again.
 
-If you are in dire need of many **Smith's Alloys**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md).
+If you are more confident in your PvE skills, you may farm [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) for multiple alloys per run per relic chest. This will take around 20-25 minutes solo, due to having to clear out guards and position prisoners for emergency-healing; so it is advisable to have allies clear out enemies in one section, while you clear out another, to get to the boss-fight quicker, and increase relic-yield (how the relics are distributed amongst players is at the party's discretion).
+
+Another method to farm them quickly is by doing [Diluvian Mechanism](The_Diluvian_Mechanism.md) runs. After completing waves 25 and 50, many relic chests will spawn, which each have a chance to hold one or multiple **Smith's Alloys**. With the proper build and careful planning, you can easily solo Diluvian up to wave 25s in only a few minutes. Going to wave 50 will get you even more **Smith's Alloys**, but more preparation and time is needed.
 
 ## Usage
 

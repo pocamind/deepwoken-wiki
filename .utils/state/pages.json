@@ -209,7 +209,7 @@
   },
   "1066": {
     "title": "Thundercall",
-    "lastrevid": 225902
+    "lastrevid": 226895
   },
   "1071": {
     "title": "Artifacts",
@@ -461,7 +461,7 @@
   },
   "1500": {
     "title": "Duke Ishamon Erisia",
-    "lastrevid": 226885
+    "lastrevid": 226907
   },
   "1502": {
     "title": "Ministry Necromancer",
@@ -933,7 +933,7 @@
   },
   "2680": {
     "title": "Prophet's Cloak",
-    "lastrevid": 223297
+    "lastrevid": 226908
   },
   "2683": {
     "title": "Black Diver",
@@ -3329,7 +3329,7 @@
   },
   "8492": {
     "title": "Cathedral of the Interstice",
-    "lastrevid": 226121
+    "lastrevid": 226893
   },
   "8519": {
     "title": "Eager Tradesman",
@@ -3393,7 +3393,7 @@
   },
   "8840": {
     "title": "Smith's Alloy",
-    "lastrevid": 224403
+    "lastrevid": 226917
   },
   "8872": {
     "title": "Eres",
@@ -3429,7 +3429,7 @@
   },
   "8974": {
     "title": "The Military District",
-    "lastrevid": 213423
+    "lastrevid": 226894
   },
   "8981": {
     "title": "Delicate Flower",
@@ -4209,7 +4209,7 @@
   },
   "12756": {
     "title": "Armorer's Needle",
-    "lastrevid": 223123
+    "lastrevid": 226918
   },
   "12782": {
     "title": "Bluecap",
@@ -4457,7 +4457,7 @@
   },
   "13645": {
     "title": "Vice Warden Morredh",
-    "lastrevid": 226577
+    "lastrevid": 226892
   },
   "13655": {
     "title": "Baby Spider",
@@ -5973,7 +5973,7 @@
   },
   "18062": {
     "title": "Elder Primadon, The Titan Warlord",
-    "lastrevid": 225110
+    "lastrevid": 226906
   },
   "18068": {
     "title": "Titanslayer's Adornment",
@@ -9741,6 +9741,10 @@
   },
   "26380": {
     "title": "Ring of a Forgotten King",
-    "lastrevid": 226863
+    "lastrevid": 226904
+  },
+  "26390": {
+    "title": "A ring lost to time",
+    "lastrevid": 226903
   }
 }

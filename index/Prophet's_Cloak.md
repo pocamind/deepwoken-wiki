@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 223297
+revid: 226908
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Ministry]

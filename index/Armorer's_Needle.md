@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 223123
+revid: 226918
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -43,9 +43,11 @@ It can also be crafted into a [Gilded Needle](Gilded_Needle.md) with 3 **Armorer
 
 Currently known to drop from a wide variety of sources. Refer to the obtainment section in the infobox.
 
-If you are in dire need of many **Armorer's Needles**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md). If you are quick or have a group to help, you can kill 2-3 Parasols across different servers before they escape. Once you have done that, you can head to Ferryman and farm him until the next Parasol event.
+If you are in dire need of many **Armorer's Needles**, the best and safest way to farm them is by killing the [The Ferryman](The_Ferryman.md), as he is a fairly weak boss that can be defeated in just a few minutes. Once beaten, you can leave the instanced server and can quickly fight him again.
 
-If you are more confident in your PvE skills, you may farm [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) for 2-4 needles per run per relic chest. This will take around 20-25 minutes solo, due to having to clear out guards and position prisoners for emergency-healing; so it is advisable to have allies clear out enemies in one section, while you clear out another, to get to the boss-fight quicker, and increase relic-yield (how the relics are distributed amongst players is at the party's discretion).
+If you are more confident in your PvE skills, you may farm [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) for multiple needles per run per relic chest. This will take around 20-25 minutes solo, due to having to clear out guards and position prisoners for emergency-healing; so it is advisable to have allies clear out enemies in one section, while you clear out another, to get to the boss-fight quicker, and increase relic-yield (how the relics are distributed amongst players is at the party's discretion).
+
+Another method to farm them quickly is by doing [Diluvian Mechanism](The_Diluvian_Mechanism.md) runs. After completing waves 25 and 50, many relic chests will spawn, which each have a chance to hold one or multiple **Armorer's Needles**. With the proper build and careful planning, you can easily solo Diluvian up to wave 25s in only a few minutes. Going to wave 50 will get you even more **Armorer's Needles**, but more preparation and time is needed.
 
 ## Usage
 
@@ -53,7 +55,7 @@ Use text: "_With a deft hand, you transmute the property of \[lost property\] in
 
 Upon usage, a window will appear showing the equipment your character is currently wearing. When selecting an equipment piece to modify, you will be given a list of the item's current pips.
 
-When changing a pip, they will turn into any of the relevant, available pip for that piece following this table. It is important to remember that equipment with **3** or more pips **CANNOT** have all their pips be the same type.
+When changing a pip, they will turn into any of the relevant and available pips for that piece, following this table. It is important to remember that equipment with **3** or more pips **CANNOT** have all their pips be the same type.
 
 <table><caption>Pips Info</caption>
 <tbody>
