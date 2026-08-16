@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 226113
+revid: 226851
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -1600,7 +1600,7 @@ _+1 Posture_
  | Set: Gladiator  
 Head: [Gladiator Helm](Gladiator_Helm.md)  
 Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
-| File:Glassdancer Wraps.png | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
+|  | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
 _+3 Posture_
 
 +1 Rare Pip  
@@ -3247,7 +3247,7 @@ Amber, Black, Lavender & White |
 **Requires Power 5**
 
  | N/A |
-| File:Whaler Scarf.png | [Whaler Scarf](Whaler_Scarf.md)  
+|  | [Whaler Scarf](Whaler_Scarf.md)  
 (**Styles**) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
@@ -3318,7 +3318,7 @@ Variants/Set
 
  |
 | --- | --- | --- | --- |
-| File:Aristocrat Eyeglasses.png | [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)  
+|  | [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)  
 (**Styles**)  
 (**Set**) | +1 Rare Pip | Styles:  
 Black, Red & White

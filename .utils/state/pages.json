@@ -2121,7 +2121,7 @@
   },
   "5126": {
     "title": "Equipment",
-    "lastrevid": 226113
+    "lastrevid": 226851
   },
   "5135": {
     "title": "Discussion Moderators",
@@ -3345,7 +3345,7 @@
   },
   "8628": {
     "title": "Jeremiah",
-    "lastrevid": 226849
+    "lastrevid": 226855
   },
   "8632": {
     "title": "Flameguard Boots",
@@ -4045,7 +4045,7 @@
   },
   "11666": {
     "title": "Loot Bag Gacha",
-    "lastrevid": 224849
+    "lastrevid": 226875
   },
   "11667": {
     "title": "Lucien",
@@ -7069,7 +7069,7 @@
   },
   "20426": {
     "title": "Vow of Iron",
-    "lastrevid": 226760
+    "lastrevid": 226852
   },
   "20431": {
     "title": "Mementos",
@@ -8717,7 +8717,7 @@
   },
   "23080": {
     "title": "Marrowmade Boots",
-    "lastrevid": 222091
+    "lastrevid": 226860
   },
   "23082": {
     "title": "Ms Stick",
@@ -8849,7 +8849,7 @@
   },
   "23186": {
     "title": "Gale Enhanced Beads",
-    "lastrevid": 226845
+    "lastrevid": 226876
   },
   "23187": {
     "title": "Gale Enhanced Cowl",
@@ -9037,7 +9037,7 @@
   },
   "23539": {
     "title": "Mystery Boxes",
-    "lastrevid": 226814
+    "lastrevid": 226858
   },
   "23568": {
     "title": "Inn",
@@ -9721,7 +9721,7 @@
   },
   "26302": {
     "title": "Steelscale Dusters",
-    "lastrevid": 226817
+    "lastrevid": 226853
   },
   "26314": {
     "title": "Darkblood Vial",
@@ -9738,5 +9738,9 @@
   "26334": {
     "title": "Glassdancer Shinwraps",
     "lastrevid": 226664
+  },
+  "26380": {
+    "title": "Ring of a Forgotten King",
+    "lastrevid": 226863
   }
 }

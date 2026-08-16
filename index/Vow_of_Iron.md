@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 226760
+revid: 226852
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -110,7 +110,7 @@ Certain items can be found laying on the ground in a given spot and can be picke
 -   [Iron Requiem](Iron_Requiem.md): Above the blacksmith in [Summer Isle](Summer_Isle.md)
 -   [Kanabo](Kanabo.md): By the back room of [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md)
 -   [Night Star](Night_Star.md): Located left of [Marauder's Entrance](<Marauder's_Entrance.md>), near an ignition union camp
--   [Petra's Anchor](<Petra's_Anchor.md>): Located on an item bordering summer isle
+-   [Petra's Anchor](<Petra's_Anchor.md>): Located on the southwest island bordering summer isle
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>): Sitting on a rock in the middle of a lava pool at [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>)
 -   [Prototype Railblade](Prototype_Railblade.md): Near a [Magma Golem](Golem_Magma.md) at [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>)
 -   [Transfusion Ring](Transfusion_Ring.md): Located just past the "South" icon on the map compass

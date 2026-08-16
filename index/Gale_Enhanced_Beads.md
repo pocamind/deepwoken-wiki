@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Beads
-revid: 226845
+revid: 226876
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, Torso, Equipment with Talents, Equipment with Exclusive Talents]
@@ -20,10 +20,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, 
 | innate talent | Focused Strikes |
 | set | Gale Enhanced Cowl, Gale Enhanced Beads |
 | set talent | N/A |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Monastery Beads + 1 Gale Essence + 1 Windswept Enchant Stone at Lost Forge |
 | description | ... |
 
