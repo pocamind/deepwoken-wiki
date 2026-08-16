@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 211598
+revid: 226882
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -24,7 +24,7 @@ Chance of obtaining aspect: **N/A** / **1%** Vow of Iron
 
 ## Description
 
-Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Constellia.md). Now, the only ones seen by the humans of Lumen are the [Spellhardt family](Spellhardt_family.md), residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
+Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Constellia.md). Now, the only ones seen by the humans of Lumen are the [Spellhardt family](Spellhardt_family.md), residing in [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
 
 ## Traits
 

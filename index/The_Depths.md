@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 215708
+revid: 226881
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, The Depths]
@@ -52,7 +52,7 @@ A list of Whirlpool locations can be found at [Whirlpools](Whirlpools.md).
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [the Second Layer](Second_Layer.md), aka the Eternal Gale. There is also a Third Layer, aka the Vents, a lava covered hellscape where [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) resides, although this content has not been added to the game yet.
+The Depths have an unspecified amount of layers[\[1\]](#cite-note-1), though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [the Second Layer](Second_Layer.md), aka the Eternal Gale. There is also a Third Layer, aka the Vents, a lava covered hellscape where [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) resides, although this content has not been added to the game yet.
 
 Please visit their respective pages below by clicking on them for more information:
 
@@ -61,3 +61,7 @@ Please visit their respective pages below by clicking on them for more informati
 **\- [Second Layer (The Eternal Gale)](Second_Layer.md)** for information on the layer you are sent to after falling into the void or diving deeper via the interaction with [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), including info on [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
 The layers are non-linear, which is a example of why you can go from The Surface to The Vents and not from New Kyrsa.
+
+1.  [↑](#cite-ref-1)
+    
+    Toons stating there _might_ aswell be infinite layers to the Depths.

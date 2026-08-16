@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 226800
+revid: 226885
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Bosses, Humanoid Bosses, Voiced Characters, Members of the Erisia family]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["Duke of Sin" quest](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Likewise with all Bosses, defeating him will uncap your [Weapon](Attributes.md#weapon-attributes) and [Attunement Attributes](Attributes.md#attunement-attributes) given you have them at their capped maximum.
+**Duke Ishamon Erisia** is a [Boss](Bosses.md) the Hyo fights during ["Duke of Sin" quest](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Likewise with all Bosses, defeating him will uncap your [Weapon](Attributes.md#weapon-attributes) and [Attunement Attributes](Attributes.md#attunement-attributes) given you have them at their capped maximum.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
