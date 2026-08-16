@@ -3,7 +3,7 @@ title: Coldpoint
 revid: 220777
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Legendary Weapons, Light Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Rapiers, Legendary Weapons, Light Weapons]
 ---
 
 # Coldpoint

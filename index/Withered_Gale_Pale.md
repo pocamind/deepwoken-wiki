@@ -3,7 +3,7 @@ title: Withered Gale Pale
 revid: 224296
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Legendary Weapons, Reforged Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Greathammers, Heavy Weapons, "Attunement-based Weapons", Legendary Weapons, Reforged Weapons]
 ---
 
 # Withered Gale Pale

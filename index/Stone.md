@@ -30,4 +30,4 @@ Stone adds a flat 0.25 true damage to your weapon attack guardbreaks for every 1
 
 ## Trivia
 
--   Despite being directly mentioned in the crafting recipe, the Golem Chunk item does not exist ingame, making crafting a Stone [Enchant Stone](Enchant_Stone.md) with that recipe impossible.
+-   Despite being directly mentioned in the crafting recipe, the [Golem Chunk](Golem_Chunk.md) item does not exist ingame, making crafting a Stone [Enchant Stone](Enchant_Stone.md) with that recipe impossible.

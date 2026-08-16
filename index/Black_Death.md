@@ -3,7 +3,7 @@ title: Black Death
 revid: 222855
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Reforged Weapons, Spears, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons", Legendary Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Ministry]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Reforged Weapons, Spears, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Ministry]
 ---
 
 # Black Death

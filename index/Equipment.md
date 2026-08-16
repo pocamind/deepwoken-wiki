@@ -3,7 +3,7 @@ title: Equipment
 revid: 226113
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
+categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments. Please help us improve the page through editing, or wait for an updated version of the page to release."
   - "This page is currently being worked on. This page is currently in-progress, as a lot of the equipment texture changes and new styles have yet to be docummented by the wiki. Please be patient as this page undergoes changes."
@@ -1600,7 +1600,7 @@ _+1 Posture_
  | Set: Gladiator  
 Head: [Gladiator Helm](Gladiator_Helm.md)  
 Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
-|  | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
+| File:Glassdancer Wraps.png | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
 _+3 Posture_
 
 +1 Rare Pip  
@@ -3006,7 +3006,7 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 
  | Styles:  
 Emerald, Rose, Scarlet, Shade, Silver & Onyx |
-|  | [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
+| File:Gale Enhanced Beads.png | [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
 (**Set**)  
 (**Legendary**) | _+3% Elemental Armor_
 
@@ -3247,7 +3247,7 @@ Amber, Black, Lavender & White |
 **Requires Power 5**
 
  | N/A |
-|  | [Whaler Scarf](Whaler_Scarf.md)  
+| File:Whaler Scarf.png | [Whaler Scarf](Whaler_Scarf.md)  
 (**Styles**) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
@@ -3318,7 +3318,7 @@ Variants/Set
 
  |
 | --- | --- | --- | --- |
-|  | [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)  
+| File:Aristocrat Eyeglasses.png | [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)  
 (**Styles**)  
 (**Set**) | +1 Rare Pip | Styles:  
 Black, Red & White

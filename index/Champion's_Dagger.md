@@ -3,7 +3,7 @@ title: "Champion's Dagger"
 revid: 224532
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents, Weapons of The Golden Rats]
+categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons of The Golden Rats]
 ---
 
 # Champion's Dagger

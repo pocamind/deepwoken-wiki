@@ -1,6 +1,6 @@
 ---
 title: Wool Beret
-revid: 226788
+revid: 226850
 source: https://deepwoken.fandom.com/wiki/Wool_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Stub pages without reason, StubPages, Equipment, Head, Hats]
@@ -24,7 +24,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Carnival of Hearts, Sold in Traan Zakshun's regular shop for 55 |
+| obtainment | Carnival of Hearts, Dread Serpent, Sold in Traan Zakshun's regular shop for 55 |
 | description | A classic wool beret. How snazzy! |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 226804
+revid: 226813
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -254,7 +254,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   The chains slow your opponent on hit.
 -   Duration of the chain effect can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Projectile range can be increased with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers).
--   Can be upgraded with the _Blighted Song_ Talent, applying the [Blight](Status_Effects.md#blight) status effect on hit, disabling your own and your opponent's ability to cast Mantras while Shadow Chains is active. While this effect is active, you gain damage reduction to Mantras.
+-   Can be upgraded with the _Blighted Song_ Talent, applying the [Blight](Status_Effects.md#blight) status effect on hit, disabling your own and your opponent's ability to cast Mantras while Shadow Chains is active. While this effect is active, you gain a 20% damage reduction to attacks from players who aren't affected by Blighted Song.
 
  |
 | 

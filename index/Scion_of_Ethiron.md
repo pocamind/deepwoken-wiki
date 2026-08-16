@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 225152
+revid: 226822
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -206,7 +206,7 @@ Dodge
 **Debris**  
 (★☆☆)
 
- | The Scion summons 1 Kyrsgarde Sniper on each of the vurrently available Shrines, these have greatly reduced health and stats and are unable to move.
+ | The Scion summons 1 Kyrsgarde Sniper on each of the currently available Shrines, these have greatly reduced health and stats and are unable to move.
 
 -   These only serve to heal you in the fight via killing them.  
       

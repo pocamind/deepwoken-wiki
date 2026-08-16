@@ -3,7 +3,7 @@ title: Iron Birch
 revid: 224596
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents, Weapons of The Hive]
+categories: [Weapons, Weapons with Talents, Greataxes, Heavy Weapons, Weapons of The Hive]
 ---
 
 # Iron Birch

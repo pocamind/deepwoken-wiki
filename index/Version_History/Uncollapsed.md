@@ -29,6 +29,200 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 
   
 
+## **August 13th, 2026; pv\_AUG\_13\_04:19a**
+
+**Content & Systems**  
+💡 New Cestus: Steelscale Dusters  
+💡 New Equipment: Wool Beret  
+💡 New Fortitude Talent: Sclerosteosis  
+💡 New Charisma/Intelligence Talent: Elemental Mentalist  
+💡 New Canorian Axe / Alloyed Canorian Axe weapon talent: Camaraderie  
+💡 Added a spectate UI to Chime 2s and 3s  
+💡 The glossary now shows a count next to each category of how many glossary terms in that category you've found  
+💡 New Crafting material: Darkblood Vial  
+💡 Added icons for Needle Barrage, Metal Rampart  
+🔧 Redesigned icons for Fire Gun, Summon Cauldron  
+🔧 Remodelled Falchion  
+🔧 Brushed up Sear Enchant's VFX  
+🔧 Brushed up Vampirism Enchant's VFX  
+🔧 Revamped the Alloyed texture  
+  
+**Matchmaking Changes**  
+💡 Added a hidden account-wide score for PvP engagement, 'Chaos'. If you engage more in PvP this score will go up, and it'll decay over time spent ingame. In no-stakes gamemodes like Battle Royale you won't gain chaos from participation  
+💡 Chaos is used in matchmaking to group players with a similar level of PvP engagement together. This means as a PvE player you'll encounter less PvP players, and as a PvP player you'll encounter more. We don't want to kill the player encounters and interactions that are so integral to the game, so changes to matchmaking like this are a harmless way of improving player experience  
+💡 The scoring system for servers in the server list now utilises your Chaos score  
+  
+**Reticle Targeting Improvements**  
+💡 Added support for lock-on moves targeting specific parts of an enemy. This also means that trying to land lock-on targeted moves on larger targets isn't made impossible by the centre of their character being off-screen  
+⚖️ Invisibility now shields you from lock-on targeting. However, All-seeing Eye counteracts this immunity  
+🔧 Lock-on targeting now has a fallback where if no other targets are found it'll target whichever enemy is directly beneath your mouse (if visible)  
+  
+**Ingame Map Upgrades**  
+📰 Upgraded our ingame map rendering tools behind the scenes to make it much easier for us to update it when we change/add areas  
+💡 Added an ingame map for Battle Royale. The void circle has an overlay on the ingame map to help you track it  
+💡 Updated the Eastern Luminant ingame map  
+💡 Updated the Scyphozia ingame map. Now has much higher resolution like the Etrean and Eastern maps  
+  
+**Equipment Changes**  
+💡 New style for Celtor Commander Helm, Plate, and Celtorian Sabatons: 'Highborn'  
+💡 New Aristocrat Eyeglasses styles: Silver, Emerald, Indigo, and Cerulean  
+💡 New Aspirant Mask style: Quartz  
+🔧 Dyeing the Celtor Commander Helm, Plate, and Celtorian Sabatons using the 'Grand Marshal' style no longer changes the colour of the gilded trim  
+🔀 An injustice is undone: the Magenta Pathfinder Elite is finally integrated into the Pathfinder Elite equipment as a style  
+  
+**NPC & Progression Tweaks**  
+💡 Layer 2 Floor 1's puzzle route to Floor 2 now activates all obelisks required to fight Ethiron and skips the Misérables requirement to activate the purge shrine in Layer 2 Floor 2  
+⏫ Starkindred no longer requires player kills to obtain  
+⏫ Contractor can now be progressed by completing any of the following with only Contractors present: the Diluvian Mechanism, the Gaunt Man's trial, Chaser (no lighthook)  
+💡 Having negative Authority reputation while talking to Vice Warden Morredh will now result in him delivering you to justice. This includes Chainwardens - none are above the law  
+💡 Updated Jeremiah's loot pool to give him some more useful items  
+💡 Updated some of the loot bag gacha NPCs to contain more useful/rare items in their pool  
+💣 Realising that they can just post bounties on the boards literally everywhere, the ministry bounty NPC's (Emel, Imel, Rimil) have been reprimanded for leaning against walls and making edgy remarks to strangers all day, and have been reassigned to alternative posts  
+💣 Cestis no longer has a repeatable bounty quest attached. This quest was very outdated and resulted in a lot of messy edgecases where it could fail unexpectedly. The Tacet reward from Cestis is now based solely on your bounty board bounties  
+  
+**Truestun Balancing**  
+⚖️ Damage reduction against stunned enemies (e.g Eclipse Kick) now applies for ragdolled enemies too  
+⏬ Paralytic Dust now counts towards Eclipse Kick's stun damage reduction for 1 second after wake up  
+⏬ Instead of acting as truestun, Jailer now prevents your opponents from rolling/jumping and stops them in their tracks  
+  
+**PEN & True Damage Balancing**  
+⚖️ Removed Ether Overdrive's 20 attunement requirement, however its uncap for PEN now only works on Mantras and not light attacks  
+⏬ Million Ton Piercer now only uncaps light attack and critical attack PEN  
+⏬ Piercing Blow now only gives 50% extra PEN on guardbreak, with this further being reduced if you're below the 100 STR requirement  
+⏬ Berserk no longer gives the user automatic true damage, and instead gives extra PEN based on how much health you have. This PEN does not go above the PEN cap unless you have Million Ton Piercer. Critical attacks also stay at 10% bonus PEN and light attacks still have 100% PEN against PvE. Your armor is also no longer set to 0 meaning it no longer procs Lightweight and talents related to that  
+⚖️ Million Ton Piercer and Ether Overdrive are no longer mutually exclusive  
+  
+**Ironsing Balancing**  
+⚖️ Metal Kick now has much more consistent windup timing. The hyperarmor now only activates on the downwards portion of the move  
+⚖️ Instead of Jailer rods over the 5 minimum increasing the stun duration by 0.1s per rod, additional rods now get converted into damage on Pull  
+⏫ Most Ironsing mantras no longer deal physical, slash or blunt damage and instead only deal Metal damage  
+⏫ Jailer now gains additional duration with your Ironsing investment  
+⏬ Metal Thief now scales with your Ironsing investment  
+⏬ Metal Thief's armor restoration is based on your armor max durability, not your opponent's  
+⏬ Firing Line Blast Spark windup increased 0.45s -> 0.525s  
+⏬ Iron Requiem critical endlag increased by 0.1s  
+  
+**Galebreathe Balancing**  
+⏫ Phantom Step's Specter bar drains 33% slower  
+⏬ Inhale now has a 7 second cooldown on use which gets removed when landing a light attack  
+⏬ Aftercut's damage buff has been reduced by 50%  
+⏬ Pressure Break's bonus damage reduced from 25% to 15%  
+⏬ Astral Wind posture damage decreased from 12.5 → 8.5  
+⏬ Gale Punch posture damage reduced by 25%  
+⏬ Wind Gun damage reduced by 15%  
+⏬ Astral Wind windup increased from 0.45s to 0.47s  
+⏬ Multiple Galebreathe mantras Ether Cost increased  
+  
+**True Tranquility**  
+⏫ Tranquil Circle now nullifies damage from bells and disables bells from being used for _everyone_ in its radius  
+⏫ Tranquil Circle now counters Blood Scourge/Preservation on knocked opponents, stops targets from getting revived with Resurrection, disables Run it Back, kicks opponents out of Portals and Smokescreen, negates Payback's counter/healing, negates Sacred Field's bonus defenses and disables opponents from entering Dimensional Travel and Teleportation for _everyone_ inside the Tranquil Circle radius  
+  
+**Balancing & Tweaks**  
+💡 Added bonus synergy for True Seraph Slash  
+🔧 Fire Palm's F during windup effect has been converted into its Round Spark variant  
+🔧 Meteor Impact is now obtainable again via having learned Rising Frost or Rising Wind  
+🔧 Being knocked unconscious now forcibly unequips your weapon. You can no longer draw your weapon while unconscious. This is to prevent a range of issues with physics ownership and buggy interactions  
+🔧 You can no longer draw your weapon while being carried  
+⏫ Call of the Deep cooldown massively reduced (20 minutes -> 1 minute)  
+⏫ True Seraph Spear's angel crit base damage increased by 50%  
+⏫ Kyrsan Chill duration increased from 30 to 45 seconds  
+⏫ Buffed Jade Vigil's Weave's ether regen, wind armor & elemental armor slightly  
+⏫ Blood Stakes PvE damage increased  
+⏫ Scarlet Cannon now takes you twice as high  
+⏫ Buffed Alloyed Falchion's Base damage 16 -> 18  
+⏫ Buffed Falchion critical's range slightly  
+⚖️ Guilds and player names are now hidden in BR to reduce teaming  
+⚖️ Belief now has PvE scaling  
+⏬ Shard Bow's damage now scales with how long it's been out, should stop instances of people being able to use shard bow up close and it being unreactable while doing a bar of damage to you  
+⏬ Reduced Eclipse Kick damage by ~20%  
+⏬ Bloodrend attacks from Visionshaper clones now cause 70% less blood loss and build 70% less Blood Poison  
+⏬ Fatal Strike's extra guardbreak damage will now only deal damage if you have the set bonus  
+⏬ Reduced Stronger Under Pressure's duration scaling  
+⏬ Tacet Drop Kick cooldown increased from 8s to 22s  
+⏬ Vein Tendrils' first hit no longer stuns nor deals damage, posture reduced from 12 to 4 on the first hit  
+⏬ Bloodedge's posture damage scaling from levels reduced by half, base reduced from 7 to 6, and now has .1 seconds of endlag  
+⏬ Razor Blitz' windup increased from 0.476s to 0.55s  
+⏬ Crimson Surge's damage scaling from levels reduced by 33%  
+⏬ Bloodfouler's running crit is now jumpable  
+⏬ Reduced Bloodedge's active hitbox by 25%  
+⏬ Broodalloy critical attack can no longer backstab opponents  
+⏬ Keen Recovery's bonus now scales on your intelligence instead of being a flat 2x buff after 55 intelligence  
+⏬ Overflow's bonus tempo multiplier reduced from 100% to 50%  
+⏬ Crystal Impale takes an extra 0.25s to get into the air  
+⏬ Visionshaper swap now has a 0.5 windup, indicating when the swap will happen through an effect  
+⏬ Ceaseless Slash posture damage heavily reduced  
+🔧 Tweaked Necrotic Membrane's crafting recipe  
+🔧 Reduced Berserk's hit attack sound volume  
+🩹 Fixed Second Nature not letting you use Ardour Scream if you didn't have 100% ether  
+🩹 Fixed movestacking mantras with a gale dash not removing its dodge frames  
+🩹 Fixed Stronger Under Pressure not having a cooldown and going through dodge  
+🩹 Fixed some edgecases where Rising Thunder could hit through dodge  
+🩹 Fixed some mantras being considered to have whiffed (e.g. for Eureka proc) when they hadn't  
+🩹 Fixed Mirror Illusion not going on proper CD when blocked & spawning clones through block  
+🩹 Fixed Air Pressure not going on cooldown whenever you dodge an attack and proc it  
+🩹 Fixed Eclipse Kick's damage not being reduced on frozen targets  
+🩹 Fixed getting parried while using the Iron Requiem crit instantly sending out a bullet instead of cancelling  
+🩹 Fixed Neural Pathway multiplying spark's cooldown being shorter than intended  
+🩹 Fixed Ice Daggers failing randomly  
+🩹 Fixed Shadow Seekers failing randomly  
+🩹 Fixed Shadow Gun's Blast Spark variant having 3x the ether cost when it's supposed to be reduced to 2x  
+  
+**Bugfixes & Optimization**  
+⚙️ Greatly optimized how the game loads at server start  
+🩹 Greatly improved how npc's are loaded/unloaded based on your progress. This fixes some npc's requiring you to rejoin to see  
+🩹 Fixed many different checks for the material you're standing on failing. This also broke a few checks for whether you're airborne. This could cause Dimensional Travel to not activate, Barrier to not activate, Bottom Freeze/Saint Jay to not proc, etc.  
+🩹 Fixed Karliah Mines objective not clearing if you tell her to study  
+🩹 Fixed sheathing/unsheathing your weapon showing through invisibility  
+🩹 Fixed the beams on Thunder Wisp not being hidden when you go invisible  
+🩹 Fixed Shocking Finish talent not working with Lightning Beam  
+🩹 Fixed Lightning Beam hitbox desync  
+🩹 Fixed not being able to talk to the Nestmind  
+🩹 Fixed missing rumble SFX  
+🩹 Fixed colliding with Illusion Clones when wielding certain weapons  
+🩹 Fixed Iron Requiem crit not cancelling correctly  
+🩹 Fixed Crimson Terraplate Pauldrons having a black box particle when dyed dark  
+🩹 Fixed weird model alignment for the Summer Gunslingers, meaning they should no longer spawn facing random directions  
+🩹 Fixed Bloodfouler's running animation being outdated  
+🩹 Fixed Fang and Coil's sprint animation being played at hyperspeed  
+🩹 Fixed Curse of the Unbidden's crafting recipe  
+🩹 Fixed Stone Enchant's crafting recipe (Golem Chunk is real now)  
+🩹 Fixed Overcharm's status VFX  
+🩹 Fixed smartbone flaring on the Pathfinder Elite 'Black' variant  
+🩹 Patched some server sniping exploits
+
+### _**Patch 3.2.18a; pv\_AUG\_13\_05:18a**_
+
+**Matchmaking Changes**  
+🔧 Greatly increased the amount that server ping influences quick join matchmaking  
+🔧 Reduced the impact of 'Player Tier' (i.e. how much of the game you've got through account-wide) on quick join matchmaking  
+  
+**Server List Changes**  
+🔧 Outdated servers are no longer hidden from the server list. This was a major factor behind the server list looking empty after updates  
+🔧 Servers scheduled to be shutdown now get removed from the server list. This works a lot better than the above approach and prevents you joining a server about to close  
+🔧 The Matchmaking Region setting is now used to sort servers in your selected region higher. This is based on an approximation like other server region features due to Roblox limitations  
+🔧 Regions are now sorted into continents in the server list region filter  
+🔧 Servers with your guild in them are now sorted much higher in the server list  
+🩹 Fixed the region counts being inaccurate  
+🩹 Fixed Guild icons being colorless on the server list  
+  
+**Hotchanges**  
+💡 Added a 'social reel' on the main menu that shows all your friends ingame and their locations  
+💡 New equipment: Glassdancer Shinwraps  
+💡 Glassdancer Wraps now have 2 styles: Forearm (Default), and Fistwrap  
+🩹 Fixed the ugly visual of servers flickering when refreshing the server list  
+🩹 Fixed Pathfinder Arch-Sorcerer power requirement being 30 instead of 10  
+🩹 Fixed Vice Warden Morredh's dialogue being broken  
+🩹 Fixed the Battle Royale map circles being tiny
+
+### _**Patch 3.2.18a; pv\_AUG\_14\_03:08a**_
+
+**Main Menu Improvements**  
+💡 The social reel in the main menu now shows when your friends not ingame last logged on and where  
+🩹 Fixed some issues with main menu infinite loading  
+🩹 Fixed an issue with the main menu where initial players in the server would load sequentially instead of in parallel  
+🔧 You can now click online friends to invite them to Deep  
+🔧 High chaos servers are marked dark red in the server list to help find PvP servers
+
 ## **July 26th, 2026; pv\_JUL\_27\_01:33a**
 
 **Job Improvements & Quality of Life**  
@@ -204,7 +398,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🔧 Tweaked Crimson Rain's windup and Bloodcurdle's target sound effects  
 🔧 Characters you're in combat with now have Roblox's animation throttling disabled, preventing you from having to fight characters with reduced frame rates who attack like a slideshow
 
-### _**Patch 3.2.18a; pv\_JUL\_29\_01:27a**_
+### _**Patch 3.2.17b; pv\_JUL\_29\_01:27a**_
 
 **Hotchanges**  
 💡 Remodelled and retextured the Star Duster, with some major optimisations on the mesh itself. Now supports cloth physics, too!  

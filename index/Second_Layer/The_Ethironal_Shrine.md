@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 226317
+revid: 226816
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -149,19 +149,6 @@ These optional quests are not essential to the main objective of clearing the se
 3.  After collecting **4** galewaxes, you may return up to the bridges at the start with a ladder near the Frontier Furnace.
 4.  Instead of going down the path, turn to the right of the main path (left when you are coming up), and go down the path.
 5.  Light the Candles with Galewax and you'll be greeted to the Galewax secret.
-
-### [Deepshore Fossil](../Deepshore_Fossil.md) (UNOBTAINABLE/REMOVED)
-
--   **THIS IS A ONE TIME QUEST PER CHARACTER.** You are not required to do all of these in one run, they may be split and done at your own pace.
-
-1.  Gain the Three Diver Journals, **You must have interacted with these, looting the books off a player or being dropped the books does not count.**
-    1.  The **First** diver journal is in the [Nest Corridor](../Nest_Corridor.md), in a small cavern above a ledge lays a Divers corpse.
-    2.  The **Second** diver journal is located within the snow near a union hook leading to the Pilgrim's Respite, guarded by carbuncles on a rock.
-    3.  The **Third** diver journal is located near the exit of the Sanctuary Gatehouse, instead of going down the path, drop down and go left, a diver corpse should be waiting for you.
-2.  Gain the two Talents "**Ethirons Gaze**" and "**Union Hook**".
-3.  Do the Galewax Secret.
-4.  Beat [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md) atleast once.
-5.  Then, talk to [Klaris](../Klaris_Llfiend,_Mother_of_Lights.md) in order to receive your reward.
 
 ### [Heretic's Sutra](../Quests.md#heretics-sutra)
 

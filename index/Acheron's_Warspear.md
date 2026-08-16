@@ -3,7 +3,7 @@ title: "Acheron's Warspear"
 revid: 221269
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
+categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
 ---
 
 # Acheron's Warspear

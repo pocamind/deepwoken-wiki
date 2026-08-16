@@ -3,7 +3,7 @@ title: "Saint Jay's Hammer"
 revid: 221423
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
+categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greathammers, Heavy Weapons, Weapons with Unique Criticals]
 ---
 
 # Saint Jay's Hammer

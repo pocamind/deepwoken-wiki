@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 225772
+revid: 226838
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -19,6 +19,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits 
 | droppable | No |
 | durability | 2500 |
 | resistances | +25% Physical Armor +25% Elemental Armor , +10% Fire Armor |
+| buffs | +10% Ether Regen |
 | talents | Demon Step |
 | obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '25 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
 | selling_price | 10 |
@@ -36,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Demon Step](Talents.md#demon-step) Talent.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +10% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Demon Step](Talents.md#demon-step) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 32.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

@@ -3,7 +3,7 @@ title: "Worshipper's Shield"
 revid: 221473
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Talents]
+categories: [Weapons, Weapons with Talents, Shields, Offhand, The Covenant of Flame]
 ---
 
 # Worshipper's Shield

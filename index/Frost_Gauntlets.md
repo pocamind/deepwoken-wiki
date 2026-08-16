@@ -3,7 +3,7 @@ title: Frost Gauntlets
 revid: 224570
 source: https://deepwoken.fandom.com/wiki/Frost_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with Talents]
+categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Vow of Iron Exclusive, Weapons, Weapons with Talents, Fists, Light Weapons]
 ---
 
 # Frost Gauntlets

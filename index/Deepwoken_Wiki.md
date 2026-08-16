@@ -34,7 +34,7 @@ Subscribe
 
 ](https://www.youtube.com/@DeepwokenWiki)
 
-This wiki hosts **2,478 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
+This wiki hosts **2,485 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
 
 Navigation
 
@@ -124,7 +124,23 @@ Navigation
 
 Blog Posts
 
-YurinaRage YurinaRage • 12 days ago
+YurinaRage YurinaRage • 5 days ago
+
+2
+
+## Sara Mead
+
+Not to be confused with Sara 2 or Sara Mead Hollow or Sara Mead II or Sara Mead III or Sara Mead IV or Sara Mead V or Double 2 Headed Sara Mead or the Single Double Sara Mead or the Single Double Sara Mead she may have reigned during the 32nd century BC. The length of her reign is unknown. If you are looking for the, please visit this article.
+
+  
+
+**Sara Mead** **Sumith** was a mining engineer and founder of Ignition Mining Co. She is regarded as the "mother…
+
+  
+
+Read Full Post
+
+YurinaRage YurinaRage • 18 days ago
 
 6
 
@@ -148,41 +164,9 @@ Read Full Post
 
 Adel34222 • 29 April
 
-4
+5
 
 ## hello
-
-Read Full Post
-
-Labvideo1 • 10 April
-
-11
-
-## Calling all pathfinders, The Central Authority needs YOU!
-
-  
-
-  
-
-  
-
-  
-
--   1 The CAUSE
--   2 Benefits
--   3 Cons
--   4 Just one of Chud Steel’s legendary catchphrases
--   5 SO BECOME AN ENSIGN TODAY
-
-  
-
-_**LISTEN UP PATHFINDER! You NEED to join The Central Authority TODAY not tomorrow or next week, TODAY. YOU will be signing up for POWER, ORDER, and DISCIPLINE. You SHALL follow ORDERS, you don’t just get STRENGTH, you get PURPOSE. The Central Authority isn’t chaos, it’s CONTROL. You represent something EVEN BIGGER than yourself. You get STRUCTURE. Cre…**_
-
-  
-  
-  
-  
-  
 
 Read Full Post
 

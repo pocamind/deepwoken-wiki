@@ -3,7 +3,7 @@ title: Icepick
 revid: 225479
 source: https://deepwoken.fandom.com/wiki/Icepick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Weapons with Talents, Light Weapons]
+categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
 ---
 
 # Icepick

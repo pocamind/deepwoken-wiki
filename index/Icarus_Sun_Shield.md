@@ -3,7 +3,7 @@ title: Icarus Sun Shield
 revid: 220795
 source: https://deepwoken.fandom.com/wiki/Icarus_Sun_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offhand, Weapons with Talents]
+categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Shields, The Hundred Legions, Offhand]
 ---
 
 # Icarus Sun Shield

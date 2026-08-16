@@ -3,7 +3,7 @@ title: Morning Star
 revid: 221382
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
+categories: [Weapons, Weapons with Talents, Clubs, Medium Weapons]
 ---
 
 # Morning Star

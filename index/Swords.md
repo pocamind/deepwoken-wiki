@@ -448,7 +448,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
-  <td>16</td>
+  <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
   <td>-</td>
@@ -456,7 +456,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>7.5</td>
   <td>1.06x</td>
   <td>-</td>
-  <td>24.4</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>

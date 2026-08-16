@@ -3,7 +3,7 @@ title: Rangescraper
 revid: 224522
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons, Light Weapons, Legendary Weapons, Weapons with Talents]
+categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons, Light Weapons, Legendary Weapons]
 ---
 
 # Rangescraper

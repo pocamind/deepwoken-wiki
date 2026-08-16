@@ -3,7 +3,7 @@ title: "Rosen's Peacemaker"
 revid: 223017
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rifles, Medium Weapons, Weapons with Talents, Weapons of The Summer Company]
+categories: [Weapons, Weapons with Talents, Rifles, Medium Weapons, Weapons of The Summer Company]
 ---
 
 # Rosen's Peacemaker

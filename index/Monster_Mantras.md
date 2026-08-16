@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 219666
+revid: 226821
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -227,7 +227,7 @@ _..._
 
  | 
 
-Ice ResistanceSlash
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 

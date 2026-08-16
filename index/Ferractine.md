@@ -3,7 +3,7 @@ title: Ferractine
 revid: 225468
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
+categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Swords, "Attunement-based Weapons", Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Ferractine

@@ -1,6 +1,6 @@
 ---
 title: Mystery Boxes
-revid: 217527
+revid: 226814
 source: https://deepwoken.fandom.com/wiki/Mystery_Boxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -46,7 +46,7 @@ Obtainable Items
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
+  <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a>, <a href="Icebringer's_Vestments.md">Icebringer's Vestments</a></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>

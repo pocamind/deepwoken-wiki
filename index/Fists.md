@@ -386,6 +386,19 @@ This attack has a **5 second cooldown**.
   <td>31.4</td>
 </tr>
 <tr>
+  <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>LHT: 10</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>-</td>
+  <td>24.5</td>
+</tr>
+<tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
   <td>65 LHT</td>
   <td>15.5</td>

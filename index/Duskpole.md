@@ -3,7 +3,7 @@ title: Duskpole
 revid: 225464
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
+categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
 ---
 
 # Duskpole

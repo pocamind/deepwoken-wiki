@@ -3156,7 +3156,7 @@ _Shoots out an air blast._
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+65 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3236,7 +3236,7 @@ _Slicing blades of wind. If casted while slide-jumping, perform a spinning slice
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+65 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3277,7 +3277,7 @@ _A strike from the heavens._
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+75 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3316,7 +3316,7 @@ _A rush of piercing wind._
  |
 | 
 
-55 Ether [IconEther](../Ether.md)
+65 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3356,7 +3356,7 @@ _Form a punch of wind in your fist and release it._
  |
 | 
 
-55 Ether [IconEther](../Ether.md)
+80 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3396,7 +3396,7 @@ _Toss a wind landmine._
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+85 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3437,7 +3437,7 @@ _A rushing current of wind._
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+70 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3513,7 +3513,7 @@ _A lifting torrent of wind._
  |
 | 
 
-50 Ether [IconEther](../Ether.md)
+70 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3591,7 +3591,7 @@ _Grab your opponent and toss them with the power of gale. Pressing F will toss y
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+85 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3632,7 +3632,7 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+75 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3674,7 +3674,7 @@ _A quick swirl of sharp winds._
  |
 | 
 
-55 Ether [IconEther](../Ether.md)
+65 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3715,7 +3715,7 @@ _A powerful wind blast._
  |
 | 
 
-55 Ether [IconEther](../Ether.md)
+70 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3758,7 +3758,7 @@ _A rapid delivery of consecutive attacks._
  |
 | 
 
-60 Ether [IconEther](../Ether.md)
+85 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -3774,8 +3774,8 @@ Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
 **Effect:** _Cast several fast, wind-enhanced slashes that form a star._
 
 -   Has a base damage of 4.25/5.35/6.45/7.55/8.65 per level, per hit (5) with 2.75 Galebreathe scaling.
--   Deals 2.5 posture damage per hit (5).
--   Has a windup of 0.45 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
+-   Deals 1.7 posture damage per hit (5) for a total of 8.5 Posture.
+-   Has a windup of 0.47 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
 -   At level 3+, the last hit of Astral Wind sends the opponent upwards.
 -   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
@@ -3869,7 +3869,7 @@ _A rush of wind_
  |
 | 
 
-50 Ether [IconEther](../Ether.md)
+60 Ether [IconEther](../Ether.md)
 
  | 
 
@@ -4169,7 +4169,7 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   The chains slow your opponent on hit.
 -   Duration of the chain effect can be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
 -   Projectile range can be increased with [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers).
--   Can be upgraded with the _Blighted Song_ Talent, applying the [Blight](../Status_Effects.md#blight) status effect on hit, disabling your own and your opponent's ability to cast Mantras while Shadow Chains is active. While this effect is active, you gain damage reduction to Mantras.
+-   Can be upgraded with the _Blighted Song_ Talent, applying the [Blight](../Status_Effects.md#blight) status effect on hit, disabling your own and your opponent's ability to cast Mantras while Shadow Chains is active. While this effect is active, you gain a 20% damage reduction to attacks from players who aren't affected by Blighted Song.
 
  |
 | 
@@ -4250,7 +4250,9 @@ Shadow [ResistanceShadowcast](../Shadowcast.md) + Slash ResistanceSlash
 -   Shares a cooldown with [Shadow Meteor](#shadow-meteor).
 -   If attacked while casting, the Shadow Seekers will dissipate.
 -   You cannot use any Mantras for a long duration after casting this Mantra. This will end early if all of your Shadow Seekers hit your target.
--   [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
+-   [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 10 Shadow Seekers halves the base damage for each Seeker.
+-   At level 1, having 10 Shadow Seekers will do 100 damage, while having 25 (modifier limit) will do 125 damage.
+-   Taking damage right after casting Shadow Seekers will turn them invisible for the duration of the mantra. This bug becomes increasingly inconsistent when adding size modifiers to the mantra.
 
  |
 | 
@@ -4924,7 +4926,7 @@ _A flurry of metal spikes._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -4966,7 +4968,7 @@ _A barrage of metal rods._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](../Ironsing.md)
 
  | 
 
@@ -5009,7 +5011,7 @@ _A powerful kick laced with metal._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](../Ironsing.md)
 
  | 
 
@@ -5092,7 +5094,7 @@ _Create a firing line of metal to light up your target._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5133,7 +5135,7 @@ _Conjure metal from within, impaling surrounding entities._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5172,7 +5174,7 @@ _Create a metal clone and appear behind your target._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5210,7 +5212,7 @@ _Unleash a rain of metal rods down below._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](../Ironsing.md)
 
  | 
 
@@ -5253,7 +5255,7 @@ _Conjure metal swords and rush forward with them._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5292,7 +5294,7 @@ _Crush your opponents bones with an iron infused grab._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5333,7 +5335,7 @@ _Conjure a giant rod of metal and slam it down._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5371,7 +5373,7 @@ _Summon a blade of metal to swing alongside you._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](../Ironsing.md)
 
  | 
 
@@ -5413,7 +5415,7 @@ _A deadly rush of several metallic rods._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash
+Metal [ResistanceIronsing](../Ironsing.md)
 
  | 
 
@@ -5452,7 +5454,7 @@ _Create a lance, impale your opponent, and send them flying._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5523,7 +5525,7 @@ _Summon a large metal pillar._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Blunt ResistanceBlunt + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5565,7 +5567,7 @@ _Create a metal ball and rush forward._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
@@ -5639,7 +5641,7 @@ _Manifest chains to brutally pull enemies towards you._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md) + Blunt ResistanceBlunt
+Metal [ResistanceIronsing](../Ironsing.md)
 
  | 
 
@@ -7096,6 +7098,7 @@ Blunt ResistanceBlunt
 -   Lands 15% faster while wielding [Jus Karita](../Jus_Karita.md).
 -   Requirements are increased if you have an Attunement.
 -   Can still be used after removing [Tacet](../Murmur%253A_Tacet.md).
+-   22 second cooldown.
 
  |
 | 
@@ -8973,7 +8976,7 @@ _..._
 
  | 
 
-Ice ResistanceSlash
+Ice [ResistanceFrostdraw](../Frostdraw.md)
 
  | 
 

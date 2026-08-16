@@ -616,6 +616,19 @@ All weapons within the game have the chance of being found with or without diffe
   <td>31.4</td>
 </tr>
 <tr>
+  <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>LHT: 10</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>-</td>
+  <td>24.5</td>
+</tr>
+<tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
   <td>65 LHT</td>
   <td>15.5</td>
@@ -1471,7 +1484,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
-  <td>16</td>
+  <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
   <td>-</td>
@@ -1479,7 +1492,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>1.06x</td>
   <td>-</td>
-  <td>24.4</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -4926,6 +4939,19 @@ All weapons within the game have the chance of being found with or without diffe
   <td>31.4</td>
 </tr>
 <tr>
+  <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>LHT: 10</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>-</td>
+  <td>24.5</td>
+</tr>
+<tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
   <td>65 LHT</td>
   <td>15.5</td>
@@ -5966,6 +5992,19 @@ Cestus
   <td>31.4</td>
 </tr>
 <tr>
+  <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>LHT: 10</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>-</td>
+  <td>24.5</td>
+</tr>
+<tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
   <td>65 LHT</td>
   <td>15.5</td>
@@ -6875,7 +6914,7 @@ Pistols
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
-  <td>16</td>
+  <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
   <td>-</td>
@@ -6883,7 +6922,7 @@ Pistols
   <td>7.5</td>
   <td>1.06x</td>
   <td>-</td>
-  <td>24.4</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -8365,7 +8404,7 @@ Swords
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
-  <td>16</td>
+  <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
   <td>-</td>
@@ -8373,7 +8412,7 @@ Swords
   <td>7.5</td>
   <td>1.06x</td>
   <td>-</td>
-  <td>24.4</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -13761,6 +13800,19 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>31.4</td>
 </tr>
 <tr>
+  <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>LHT: 10</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>-</td>
+  <td>24.5</td>
+</tr>
+<tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
   <td>65 LHT</td>
   <td>15.5</td>
@@ -14829,6 +14881,19 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>31.4</td>
 </tr>
 <tr>
+  <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>LHT: 10</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>-</td>
+  <td>24.5</td>
+</tr>
+<tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
   <td>65 LHT</td>
   <td>15.5</td>
@@ -15709,7 +15774,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
-  <td>16</td>
+  <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
   <td>-</td>
@@ -15717,7 +15782,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>7.5</td>
   <td>1.06x</td>
   <td>-</td>
-  <td>24.4</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -17328,7 +17393,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
-  <td>16</td>
+  <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
   <td>-</td>
@@ -17336,7 +17401,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7.5</td>
   <td>1.06x</td>
   <td>-</td>
-  <td>24.4</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -22482,6 +22547,19 @@ Every player-obtainable weapon, excluding offhands.
   <td>31.4</td>
 </tr>
 <tr>
+  <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>LHT: 10</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>-</td>
+  <td>24.5</td>
+</tr>
+<tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
   <td>65 LHT</td>
   <td>15.5</td>
@@ -23337,7 +23415,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
-  <td>16</td>
+  <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
   <td>-</td>
@@ -23345,7 +23423,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>1.06x</td>
   <td>-</td>
-  <td>24.4</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>

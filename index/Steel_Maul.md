@@ -3,7 +3,7 @@ title: Steel Maul
 revid: 221452
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
+categories: [Weapons, Weapons with Talents, Greathammers, Alloyable Weapons, Heavy Weapons]
 ---
 
 # Steel Maul
