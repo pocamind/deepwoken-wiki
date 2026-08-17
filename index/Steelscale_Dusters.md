@@ -1,9 +1,9 @@
 ---
 title: Steelscale Dusters
-revid: 226853
+revid: 226923
 source: https://deepwoken.fandom.com/wiki/Steelscale_Dusters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
+categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Weapons with Talents, Fists, Light Weapons]
 ---
 
 # Steelscale Dusters
@@ -20,6 +20,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | swing speed | 1.12x |
 | attack duration | 0.5s |
 | penetration | 20% |
+| talent | Swiftscales - Fang and Coil's base critical gains a small buff to its speed, range and endlag. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -35,7 +36,11 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 
 ## Description
 
-**Steelscale Dusters** are a Fist Weapon.
+Steelscale Dusters are a Fist Weapon.
+
+## Talents
+
+Equipping the Steelscale Dusters grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

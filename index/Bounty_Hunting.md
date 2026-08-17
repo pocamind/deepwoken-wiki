@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 219182
+revid: 226935
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -49,6 +49,7 @@ If you are being hunted instead and manage to kill off your hunter, YOU will get
 ## Tips and Advice
 
 -   By having neutral or above [reputation](Reputation.md) with Etrea [Etreaiconfaction](Etrea.md), The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Hive [Hiveiconfaction](The_Hive.md), the Summer Company [Summericonfaction](The_Summer_Company.md), the Ignition Union, The Divers [Diversiconfaction](The_Divers.md), and The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md), you will entirely remove yourself from bounty boards. _**If you're looking to get rid of [Voidwalkers](Voidwalker.md), this is the way.**_
+-   If you are getting voidwalked and wish to avoid the fight, if you haven't been combat tagged you could try to glide away if you are high up, or just log, but if they combat tag you, FIGHT BACK, NEVER RUN as running only exposes yourself and they can catch up relatively easy
 -   Taking as many bounties as possible is recommended as it gives you easy access to where people in your server are; especially useful if others plan on hunting you.
 -   If hunting as a team, make sure the bounty holder contributes enough damage and performs a **MANUAL** execution or uses [Blood Scourge](Blood_Scourge.md) on the target for the bounty to be counted as complete.
 -   If you are struggling to find targets, you may have better luck by using the server browser to locate populated servers with more targets.

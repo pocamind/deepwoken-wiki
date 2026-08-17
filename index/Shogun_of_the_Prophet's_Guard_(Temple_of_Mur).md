@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 226848
+revid: 226936
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -126,7 +126,7 @@ Dodge
 
  | The Shogun performs a simple slash with his blade. Visually distinct from **High Cleave** by the Yellow highlight, indicating that you must either crouch, uppercut or block the attack.
 
-Consider blocking this attack **ONLY** if you've reached 27 posture as this keeps the timing simple and reliable. The extra 2 posture can be obtained through equipment.
+Consider blocking this attack **ONLY** if you've reached 26 posture as this keeps the timing simple and reliable. The extra 1 posture can be obtained through equipment.
 
 _Uses Telegraph_
 
@@ -198,7 +198,7 @@ Dodge
 (★★★)
 
  | The Shogun lets out a distinct roar, indicating a devastating combo. He will perform two slashes without a highlight, followed by two devastating slashes with Red highlights, and he finally ends with four slower slashes with Green highlights. Once this attack is used it goes on cooldown for roughly 30 seconds and can be reused again.  
-To deal with it, you should parry once, then roll cancel into another roll cancel in quick succession, and then parry 4 times. Additionally, if you can manage the first 4 slashes, you can simply s hold and walk out of his range, though beware it is deceptively large especially during the parry only attacks so walking the extra mile is recommended.  
+To deal with it, you should parry twice, then roll cancel into another roll cancel in quick succession, and then parry 4 times; parry parry, roll cancel roll cancel, parry parry parry parry. Additionally, if you can manage the first 4 slashes, you can simply s hold and walk out of his range, though beware it is deceptively large especially during the parry only attacks so walking the extra mile is recommended.  
   
 A safer way of dealing with this attack is to bait it out by barely staying in the shoguns range and waiting for him to use the move so that you can easily avoid it.
 

@@ -1,6 +1,6 @@
 ---
 title: "Alsin's Landing"
-revid: 218303
+revid: 226931
 source: https://deepwoken.fandom.com/wiki/Alsin's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant]
