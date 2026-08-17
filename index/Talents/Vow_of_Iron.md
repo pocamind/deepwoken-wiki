@@ -1,6 +1,6 @@
 ---
 title: Talents/Vow of Iron
-revid: 226959
+revid: 226975
 source: https://deepwoken.fandom.com/wiki/Talents/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -30,27 +30,18 @@ Variants: [Talents](../Talents.md)
         -   Specific Terms; given if applicable:
             -   Categories: \[Anti-Sustain\], \[Assassination\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[Tempo\], \[Temporary Health\]
             -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
-            -   \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], or \[Weapon category\] if applicable
+            -   \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], or \[Weapon category\], \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] if applicable
             -   \[Investment Scaling\] (Talents that scale above their base values when you have more than the required amount of attribute investment), \[Scale-down\] (Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements), \[Hard Requirements\] (Talents that do not function _unless_ you meet their requirements) - \[Investment Scaling\] is not mutually exclusive with either of the other two.
-            -   Miscellaneous: \[M1 Tag\] (Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag), \[Tool\] (Talents that provide a Talent tool)
+            -   Miscellaneous: \[M1 Tag\] (Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag), \[Tool\] (Talents that provide a Talent tool), \[Gamemode\] (for Talents that only properly function in the opposite Gamemode, despite being obtainable in this one), \[Boss Reward\] (Talents that are given to you immediately after defeating a [boss](../Bosses.md))
         -   Notes:
             -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
         
-
--   Talent requirements display additional and alternative requirements of the Talents.
-    -   Additional requirements on Talents are separated with commas.
-        -   _(i.e Suffocating Impact requires 15 Strength and 35 Galebreathe, written as "15 Strength, 35 Galebreathe")_
-    -   Alternative requirements on Talents are displayed as "OR" or "//".
-        -   "//" is used if there is an alternative individual requirement.
-            -   _(i.e Hell's Partisan requires 35 Flamecharm and \[the Fire Forge Mantra or the Warding Radiance Talent\], written as "35 Flamecharm, [Fire Forge](../Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](../Talents.md#warding-radiance))_
-        -   "OR" is used if there is an alternative group of requirements.
-            -   _(i.e Murmur: Tacet can be obtained by doing its [obtainment quest](../Cestis.md) OR by obtaining [Oath: Soulbreaker](../Oath%253A_Soulbreaker.md))_
 
 [See all Talents here](#memento-exclusive-talents).
 
 ### Notice
 
-Talents in the [Vow of Iron](../Vow_of_Iron.md) gamemode function very differently from how they work in the [Pathfinder](../Pathfinder.md) one. When referring to the Pathfinder gamemode, please read the **Overview, Mechanics**, and **Card Terminology** sections on the main [Talents](../Talents.md) page.
+Talents in the [Vow of Iron](../Vow_of_Iron.md) gamemode function very differently from how they work in the [Pathfinder](../Pathfinder.md) one. When referring to the Pathfinder gamemode, please read the **Overview**, **Mechanics**, and **Card Terminology** sections on the main [Talents](../Talents.md) page.
 
 ### Card Terminology
 
@@ -89,29 +80,409 @@ These Talents can only be taken by certain Mementos.
 
 ### [Berserker](../Berserker.md) [Memento](../Mementos.md)
 
-#### Berserker
+#### Starting Talents
 
--   Residual Fury \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
-    
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from the Power 10 shop
+These Talents are given to the Player upon creating their character.
 
--   Righteous Rage \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - In Berserk State You deal increased damage the lower your health is.
+-   **Until it is Done** \[Memento Talent\] -
     
-    -   [Temporary Health](../Status_Effects.md#temporary-health) does not count against this effect.
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)
+    -   Your [Berserk](#berserk) has an indefinite duration, lasting until the user manually turns it off.  
+        
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
+    
 
--   Rip and Tear \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - Regain health upon defeating an enemy.
-    
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<../Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+-   **Until it is Done** \[Memento Talent\] -
+    -   Your [Berserk](#berserk) has an indefinite duration, lasting until the user manually turns it off.  
+        
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
 
--   Ruinous Recovery \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
-    
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from the starting shop
+-   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](../Status_Effects.md#berserk-state).
+    -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](../Talents.md#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
+    -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
+    -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
+    -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
+    -   Your eyes and hair turn red with your eyes gaining a red trail when activated as well. This is [dyable](../Dye_Packet.md). (Currently bugged, as hair color does not change)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[PEN\] \[Scale-down\] \[Tool\]
 
--   Until It Is Done \[Memento Talent\] - Your [Berserk State](../Status_Effects.md#berserk-state) lasts until you willingly end it.
+-   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](../Status_Effects.md#berserk-state).
+    -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](../Talents.md#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
+    -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
+    -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
+    -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
+    -   Your eyes and hair turn red with your eyes gaining a red trail when activated as well. This is [dyable](../Dye_Packet.md). (Currently bugged, as hair color does not change)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[PEN\] \[Scale-down\] \[Tool\]
+
+#### Shop Talents
+
+These Talents are purchased from the [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md) for [Notes](../Notes.md).
+
+-   **Brassneck** \[Common Talent\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds.
+    -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Resistance\]
+
+-   **Brassneck** \[Common Talent\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds.
+    -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Resistance\]
+
+-   **Enhanced Flow** \[Common Talent\] **100** \- Refine your [Rush Hour](#rush-hour), allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+    -   When you land basic attacks during Rush Hour, gain [Temporary Health](../Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
+        -   This cannot give more than 50 Temporary Health in one instance.
+    -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
+    -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Resistance\] \[Sustain\]
+
+-   **Enhanced Flow** \[Common Talent\] **100** \- Refine your [Rush Hour](#rush-hour), allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+    -   When you land basic attacks during Rush Hour, gain [Temporary Health](../Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
+        -   This cannot give more than 50 Temporary Health in one instance.
+    -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
+    -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Resistance\] \[Sustain\]
+
+-   **Exposed Durability** \[Common Talent\] **100** \- Deal 10% more damage to opponents with no armor durability left.
+    -   Also affects players who are wearing the [Stranded](../Stranded.md) outfit.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Buff\]
+
+-   **Exposed Durability** \[Common Talent\] **100** \- Deal 10% more damage to opponents with no armor durability left.
+    -   Also affects players who are wearing the [Stranded](../Stranded.md) outfit.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Buff\]
+
+-   **Perseverance** \[Common Talent\] **100** \- Reduces the duration you're [Ragdolled](../Status_Effects.md#ragdoll) and [Unconscious](../Status_Effects.md#unconscious) for by 25%.
+    -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
+        
+    -   Grants +5 Sanity  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Sanity\]
+
+-   **Perseverance** \[Common Talent\] **100** \- Reduces the duration you're [Ragdolled](../Status_Effects.md#ragdoll) and [Unconscious](../Status_Effects.md#unconscious) for by 25%.
+    -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
+        
+    -   Grants +5 Sanity  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Sanity\]
+
+-   **Unwavering Resolve** \[Common Talent\] **100** \- Getting parried punishes your posture 33% less.
+    -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.  
+        
+    -   Grants +2 Posture  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Posture\] \[Posture Resistance\] \[Scale-down\]
+
+-   **Unwavering Resolve** \[Common Talent\] **100** \- Getting parried punishes your posture 33% less.
+    -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.  
+        
+    -   Grants +2 Posture  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Posture\] \[Posture Resistance\] \[Scale-down\]
+
+-   **Ruinous Recovery** \[Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
     
-    -   Your Berserk now has an infinite duration, only turning off when you use the Talent tool again.
-    -   Prerequisite: [Berserker](../Berserker.md) Memento
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Guardbreak\]
+
+-   **Ruinous Recovery** \[Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
+    
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Guardbreak\]
+
+-   _Bulldozer_ \[Rare Talent\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
+    -   This has a 50% chance to break destructible objects when you flourish people into them.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Flourish\] \[Guardbreak\]
+
+-   **Bulldozer** \[Rare Talent\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
+    -   This has a 50% chance to break destructible objects when you flourish people into them.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Flourish\] \[Guardbreak\]
+
+-   _Rush Hour_ \[Rare Talent\] **250** \- Stab yourself to become stronger, faster, and deal increased blood bar damage.
+    -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
+    -   Drains 4.5 HP per second and 2% Blood per second.
+    -   Grants a 15% damage buff, affected by the damage modifier cap.
+    -   Increases blood bar damage by +35% (additive).
+    -   Grants a 30% active speed boost. This counts for Talent procs.
+    -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
+    -   If you have the [Enhanced Flow](#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](../Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Buff\] \[Speed Boost\] \[Tool\]
+
+-   **Rush Hour** \[Rare Talent\] **250** \- Stab yourself to become stronger, faster, and deal increased blood bar damage.
+    -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
+    -   Drains 4.5 HP per second and 2% Blood per second.
+    -   Grants a 15% damage buff, affected by the damage modifier cap.
+    -   Increases blood bar damage by +35% (additive).
+    -   Grants a 30% active speed boost. This counts for Talent procs.
+    -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
+    -   If you have the [Enhanced Flow](#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](../Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Buff\] \[Speed Boost\] \[Tool\]
+
+-   **Absolute Force** \[Faction Talent\] **100** \- Evolve the technique of your [Oppressive Force](../Talents.md#oppressive-force), letting both hits of your flourish deal 50% more posture damage.
+    -   Because this Memento does not get [Oppressive Force](../Talents.md#oppressive-force), this Talent only serves to increase your base flourish's posture damage by 50%.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Flourish\] \[Posture Damage Buff\]
+
+-   **Absolute Force** \[Faction Talent\] **100** \- Evolve the technique of your [Oppressive Force](../Talents.md#oppressive-force), letting both hits of your flourish deal 50% more posture damage.
+    -   Because this Memento does not get [Oppressive Force](../Talents.md#oppressive-force), this Talent only serves to increase your base flourish's posture damage by 50%.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Flourish\] \[Posture Damage Buff\]
+
+-   **Bear Trap** \[Common Talent\] **100** \- Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.
+    -   The status effect is represented by blood pouring from the legs.
+    -   Makes the opponent unable to jump for 4 seconds.
+    -   Upon being applied to an opponent, they gain 6s worth of bear trap immunity.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Passive Ability\] \[Critical Attack\] \[Debuff\] \[Slow\]
+
+-   **Bear Trap** \[Common Talent\] **100** \- Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.
+    -   The status effect is represented by blood pouring from the legs.
+    -   Makes the opponent unable to jump for 4 seconds.
+    -   Upon being applied to an opponent, they gain 6s worth of bear trap immunity.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Passive Ability\] \[Critical Attack\] \[Debuff\] \[Slow\]
+
+-   **Residual Fury** \[Memento Talent\] **200** \- In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
+    
+    -   This effect is retained after [Berserk](#berserk) is turned off.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
+    
+
+-   **Residual Fury** \[Memento Talent\] **200** \- \[In Berserk State\] Landing your critical grants +50% PEN on Basic Attacks for 8s.
+    -   This effect is retained after [Berserk](#berserk) is turned off.  
+        
+    -   The In Berserk State condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
+
+-   _Exoskeleton_ \[Rare Talent\] **250** \- You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude.
+    -   Exoskeleton has 443 durability at power 10, scaling up to 600 durability at power 20.
+    -   [Vesperian](../Vesperian.md)'s [Chitin](#chitin) damage reduction stacks multiplicatively with Exoskeleton.
+    -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
+    -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
+    -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
+    -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](../Attunement-less.md#reinforce), which will reduce the Natural Armor loss.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Resistance\]
+
+-   **Exoskeleton** \[Rare Talent\] **250** \- You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude.
+    -   Exoskeleton has 443 durability at power 10, scaling up to 600 durability at power 20.
+    -   [Vesperian](../Vesperian.md)'s [Chitin](#chitin) damage reduction stacks multiplicatively with Exoskeleton.
+    -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
+    -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
+    -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
+    -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](../Attunement-less.md#reinforce), which will reduce the Natural Armor loss.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Resistance\]
+
+-   _**Million Ton Piercer**_ \[Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+    -   This removes the 50% Weapon PEN cap.  
+        
+    -   Grants +5% PEN  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+PEN\] \[PEN\] \[Scale-down\]
+
+-   **Million Ton Piercer** \[Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+    -   This removes the 50% Weapon PEN cap.  
+        
+    -   Grants +5% PEN  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+PEN\] \[PEN\] \[Scale-down\]
+
+-   _**Piercing Blow**_ \[Advanced Talent\] **350** \- Attacks that break an opponent's block ignore their Armor resistances.
+    -   Your attacks that guardbreak gain +50% PEN.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Guardbreak\] \[PEN\]
+
+-   **Piercing Blow** \[Advanced Talent\] **350** \- Attacks that break an opponent's block ignore their Armor resistances.
+    -   Your attacks that guardbreak gain +50% PEN.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Guardbreak\] \[PEN\]
+
+-   **Vengeful Pursuit** \[Oath Talent\] **200** \- Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
+    -   Base damage depends on your weapon type. Has 3 Strength and 3 Weapon scaling.
+    -   8 second cooldown.
+    -   This move is considered as an M1 for Talents and Enchant procs, although it procs certain critical Talents (like [Bear Trap](#bear-trap))  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 15, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[M1 Tag\]
+
+-   **Vengeful Pursuit** \[Oath Talent\] **200** \- Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
+    -   Base damage depends on your weapon type. Has 3 Strength and 3 Weapon scaling.
+    -   8 second cooldown.
+    -   This move is considered as an M1 for Talents and Enchant procs, although it procs certain critical Talents (like [Bear Trap](#bear-trap))  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 15, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[M1 Tag\]
+
+-   _Defiance_ \[Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+    -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
+    -   Currently, the only things Defiance cuts in half are:
+        -   Flamecharm's [Burn](../Status_Effects.md#burn) damage
+        -   Frostdraw's [Chill](../Status_Effects.md#chill) and [Crystal](../Status_Effects.md#crystals) stack duration
+        -   Galebreathe's [Winded](../Status_Effects.md#winded) and [Suffocation](../Status_Effects.md#suffocation) duration
+        -   Thundercall's [Surge Rods](../Status_Effects.md#surge-rods)
+        -   Shadowcast's [Sightless Still](../Status_Effects.md#obscured) duration
+        -   [Blood Poisoning](../Status_Effects.md#blood-poisoning) gain
+        -   [Wither](../Status_Effects.md#wither) gain
+        -   [Ring of Pestilence](../Ring_of_Pestilence.md) duration
+        -   The potency of [potions](../Alchemy.md)
+        -   Time [Unconscious](../Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
+            
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 15, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Scale-down\]
+
+-   **Defiance** \[Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+    -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
+    -   Currently, the only things Defiance cuts in half are:
+        -   Flamecharm's [Burn](../Status_Effects.md#burn) damage
+        -   Frostdraw's [Chill](../Status_Effects.md#chill) and [Crystal](../Status_Effects.md#crystals) stack duration
+        -   Galebreathe's [Winded](../Status_Effects.md#winded) and [Suffocation](../Status_Effects.md#suffocation) duration
+        -   Thundercall's [Surge Rods](../Status_Effects.md#surge-rods)
+        -   Shadowcast's [Sightless Still](../Status_Effects.md#obscured) duration
+        -   [Blood Poisoning](../Status_Effects.md#blood-poisoning) gain
+        -   [Wither](../Status_Effects.md#wither) gain
+        -   [Ring of Pestilence](../Ring_of_Pestilence.md) duration
+        -   The potency of [potions](../Alchemy.md)
+        -   Time [Unconscious](../Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
+            
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 15, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Scale-down\]
+
+#### Boss Unlocks
+
+These Talents are instantly provided to the Player when they defeat the respective [boss](../Bosses.md).
+
+-   **Rip and Tear** \[Memento Talent\] - Regain health upon defeating an enemy.
+    
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard.md>)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Sustain\]
+
+-   **Rip and Tear** \[Memento Talent\] - Regain health upon defeating an enemy.
+    
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard.md>)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Sustain\]
+
+-   **Padded Armor** \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage.
+    
+    -   Grants +3% Blunt Armor  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Dravik, The Rat King](../Dravik,_The_Rat_King.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Blunt Armor\] \[Boss Reward\] \[Damage Resistance\]
+
+-   **Padded Armor** \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage.
+    
+    -   Grants +3% Blunt Armor  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Dravik, The Rat King](../Dravik,_The_Rat_King.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Blunt Armor\] \[Boss Reward\] \[Damage Resistance\]
+
+-   **Steel Scales** \[Common Talent\] - You take an additional 5% less damage when your armor is broken.
+    
+    -   Grants +3% Slash Armor  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Dravik, The Rat King](../Dravik,_The_Rat_King.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Slash Armor\] \[Boss Reward\] \[Damage Resistance\]
+
+-   **Steel Scales** \[Common Talent\] - You take an additional 5% less damage when your armor is broken.
+    
+    -   Grants +3% Slash Armor  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Dravik, The Rat King](../Dravik,_The_Rat_King.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[+Slash Armor\] \[Boss Reward\] \[Damage Resistance\]
+
+-   **Righteous Rage** \[Memento Talent\] - In Berserk State You deal increased damage the lower your health is.
+    
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
+
+-   **Righteous Rage** \[Memento Talent\] - \[In Berserk State\] You deal increased damage the lower your health is.
+    
+    -   The In Berserk State condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)  
+        
+    -   Tags: \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
 
 ### [Breaker](../Breaker.md) [Memento](../Mementos.md)
 
@@ -570,11 +941,6 @@ These Talents can only be taken by certain Mementos.
 
 ### [Strange Merchant](../Strange_Merchant.md) [Memento](../Mementos.md)
 
-#### Ether Conduit
-
--   Ether Blade \[Common Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Prerequisites: [Strange Merchant](../Strange_Merchant.md) Memento, purchased from the starting shop
-
 #### Merchant
 
 -   Deal Maker \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.
@@ -595,7 +961,7 @@ These Talents can only be taken by certain Mementos.
 
 #### Strange Merchant
 
--   Magic Coffin \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with.
+-   Magic Coffin \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
     
     -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
     -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
@@ -606,7 +972,7 @@ These Talents can only be taken by certain Mementos.
     -   You can use any weapon or equipment item without meeting their **attribute** requirements.
     -   Prerequisite: [Strange Merchant](../Strange_Merchant.md) Memento
 
-### Toxic Personality
+#### Toxic Personality
 
 -   Compelling Offer \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or critical will mysteriously begin attacking everyone but you. \[[Madness](../Status_Effects.md#madness)\] Your [taunt](../Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     

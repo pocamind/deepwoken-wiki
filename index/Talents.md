@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226957
+revid: 226973
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -2701,7 +2701,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Charismatic Cast](#charismatic-cast), 25 Charisma  
         
-    -   Mutual Exclusives: [Narcissist](#narcissist)  
+    -   Mutual Exclusives: [Elemental Mentalist](#elemental-mentalist) and [Narcissist](#narcissist)  
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Damage Resistance\] \[Debuff\]
 
@@ -2715,7 +2715,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Charismatic Cast](#charismatic-cast), 25 Charisma  
         
-    -   Mutual Exclusives: [Narcissist](#narcissist)  
+    -   Mutual Exclusives: [Elemental Mentalist](#elemental-mentalist) and [Narcissist](#narcissist)  
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Damage Resistance\] \[Debuff\]
 
@@ -7611,6 +7611,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning)
         -   If the Overcharmed person has multiple Attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw.
         -   If the Overcharmed person does not have an Attunement, this Talent **will not work**.
+    -   Mutual Exclusives: [Tough Love](#tough-love)
     -   Prerequisites: [Charismatic Cast](#charismatic-cast), 40 Intelligence, 80 Charisma
 
 -   Manipulator \[Common Talent, Charisma\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.

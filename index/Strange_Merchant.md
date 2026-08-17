@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 219505
+revid: 226970
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -167,7 +167,7 @@ N/A
 
 ### Starting Deck
 
--   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[\[\[Status Effects#Madness|Madness\]\]\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
+-   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     
     -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
@@ -177,8 +177,6 @@ N/A
 -   Cornered Fool \[Common Talent\] **100** \- Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
     -   Despite what the description states, this applies Taunt for 6 seconds.
     -   The Taunt damage buff is also applied to the attack that guard broke.
-
--   Ether Blade \[Common Talent\] **100** \- You gain Ether when you parry Mantras.
 
 -   Off Your Game \[Common Talent\] **100** \- You now slow Taunted enemies when you hit them.
 
