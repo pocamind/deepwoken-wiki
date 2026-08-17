@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226783
+revid: 226957
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5748,7 +5748,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Innate
 
-Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of Iron](Vow_of_Iron.md) gamemode, you will additionally gain the [Vow of Iron exclusive Aspect Talents](#innate-vow-of-iron) from your respective Aspect.
+Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of Iron](Vow_of_Iron.md) gamemode, you will additionally gain the [Vow of Iron exclusive Aspect Talents](Talents/Vow_of_Iron.md#innate) from your respective Aspect.
 
 -   _Ad Astra_ \[Race Talent, [Lightborn](Lightborn.md) Exclusive\] - Return Home
     -   Grants a Talent tool that teleports you to [The Floating Keep](The_Floating_Keep.md) on use.
@@ -8232,6 +8232,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This cannot proc [Dazing Finisher](#dazing-finisher) and [Unnecessary Theatrics](#unnecessary-theatrics).
     -   Notably, [Finisher's Ring](<Finisher's_Ring.md>) works with this, granting your Master's Flourish 40% more PEN.
     -   Your Master's Flourish size is increased. This is the equivalent of +2 [Cloudstones](Mantra_Modifiers.md#regular-modifiers).
+
+-   Swiftscales: [Steelscale Dusters](Steelscale_Dusters.md) - [Fang and Coil](Fang_and_Coil.md)'s base critical gains a small buff to its speed, range and endlag.
+    -   The increased range is telegraphed with a green version of the Fang and Coil critical vfx.
 
 -   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
