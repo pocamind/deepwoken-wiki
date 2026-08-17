@@ -1,6 +1,6 @@
 ---
 title: Stone
-revid: 220563
+revid: 227030
 source: https://deepwoken.fandom.com/wiki/Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -30,4 +30,4 @@ Stone adds a flat 0.25 true damage to your weapon attack guardbreaks for every 1
 
 ## Trivia
 
--   Despite being directly mentioned in the crafting recipe, the [Golem Chunk](Golem_Chunk.md) item does not exist ingame, making crafting a Stone [Enchant Stone](Enchant_Stone.md) with that recipe impossible.
+-   Despite being directly mentioned in the crafting recipe since 06/01/2026, the [Golem Chunk](Golem_Chunk.md) item did not exist until 08/14/2026, making crafting a Stone [Enchant Stone](Enchant_Stone.md) with that recipe impossible before.

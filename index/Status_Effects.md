@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 226513
+revid: 226998
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -265,9 +265,9 @@ Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](I
 
 -   Normally: Press X to pull your opponent towards yourself. Pull effectiveness scales on the amount of rods applied.
 -   [Rending Needle: Augmenter](Talents.md#rending-needle-augmenter): After applying 5 rods, Pulling your opponent will instead equip the [Metal Greatsword](Metal_Greatsword.md) for 10 seconds, overriding your previous weapon.
--   [Rending Needle: Conductor](Talents.md#rending-needle-conductor): When 5 rods are applied, create a Conductor Rod. If your opponent casts a Mantra while having a Conductor Rod, they'll lose 5% of their armor and will have the elemental effect of the Mantra reversed back upon them, causing the Conductor Rod to fall off. If the Mantra is an Attunement-less, Oath, Ironsing, or Bloodrend Mantra, they will not be afflicted with any status effect, preventing the Rod from falling off; they will still take armor damage however. Pressing X will preform base Ironsing Pull, but Conductor Rods cannot be Pulled.
--   [Rending Needle: Impaler](Talents.md#rending-needle-impaler): After applying 5 rods, Pulling your opponent will instead deal damage. The damage dealt scales on the amount of rods applied.
--   [Rending Needle: Jailer](Talents.md#rending-needle-jailer): After applying 5 rods, Pulling your opponent will instead restrain them in place, and granting them 30% damage resistance. The Restrain effect will end early upon taking damage. Jailer's duration scales on the amount of rods applied.
+-   [Rending Needle: Conductor](Talents.md#rending-needle-conductor): When 5 rods are applied, automatically create a Conductor Rod. If your opponent casts a Mantra while having a Conductor Rod, they'll lose 5% of their armor and will have the elemental effect of the Mantra reversed back upon them, causing the Conductor Rod to fall off. If the Mantra is an Attunement-less, Oath, Ironsing, or Bloodrend Mantra, they will not be afflicted with any status effect, preventing the Rod from falling off; they will still take armor damage however. Pressing X will preform base Ironsing Pull, but Conductor Rods cannot be Pulled.
+-   [Rending Needle: Impaler](Talents.md#rending-needle-impaler): After applying 5 rods, Pulling your opponent will instead deal damage. The damage dealt scales on the amount of rods applied and your Ironsing investment.
+-   [Rending Needle: Jailer](Talents.md#rending-needle-jailer): After applying 5 rods, Pulling your opponent will instead briefly stun them, and disable their ability to sprint or dodge for a duration, scaling on your Ironsing investment. Every rod above 5 adds 3 damage to your Pull, for 15 damage at 10 rods.
 
 ### Blood Poisoning
 
@@ -491,6 +491,10 @@ After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.
 ### Vital Wound
 
 Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be reduced by 30% for the next 30 seconds. This cannot be reapplied to the same target once active.
+
+### Shattered Spine
+
+Upon being hit by the [Crescent Cleaver](Crescent_Cleaver.md)'s critical, you become unable to sprint for 8 seconds. 10 second cooldown.
 
 ### Expeditious Combo
 

@@ -1,6 +1,6 @@
 ---
 title: Ethereal Osseous Plate
-revid: 218784
+revid: 227026
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Craftable, Ingredients, Items]
@@ -19,7 +19,7 @@ categories: [Craftable, Ingredients, Items]
 | droppable | No |
 | pass down | No |
 | desc | A combination of different hardened bone, resisting even the toughest of forces. |
-| obtainment | Crafting:, 1 Dread Serpent's Tooth + 1 Ethereal Bone Dust + 1 Giant Femur at the Lost Forge |
+| obtainment | Sold in Traan Zakshun's black market for 20 Crafting:, 1 Dread Serpent's Tooth + 1 Ethereal Bone Dust + 1 Giant Femur at the Lost Forge |
 
 ## Description
 

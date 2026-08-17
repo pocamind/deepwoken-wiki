@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 226787
+revid: 227012
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -411,19 +411,18 @@ Sold Items
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>
+    <li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>
   <ul>
     <li><a href="Enchant_Stone.md"><b>Enchant Stones</b></a> &amp; <a href="Enchant_Grease.md"><b>Enchant Grease</b></a>: <a href="Allure.md">Allure</a>, <a href="Bluster.md">Bluster</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>, <a href="Drowned.md">Drowned</a>, <a href="Stench.md">Stench</a>, <a href="Stone.md">Stone</a>, <a href="Vampirism.md">Vampirism</a></li>
   </ul></li>
     <li><b>For 6 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><b>For 7 </b>: <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a></li>
+    <li><b>For 7 </b>: <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a></li>
     <li><b>For 8 </b>: <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a></li>
     <li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 15 </b>: <a href="Parasol_Membrane.md">Parasol Membrane</a></li>
     <li><b>For 20 </b>: <a href="Ethereal_Osseous_Plate.md">Ethereal Osseous Plate</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a></li>
     <li><b>For 30 </b>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a></li>
-    <li><b>For 38 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a></li>
-    <li><b>For 50 </b>: <a href="Charged_Parasol_Part.md">Charged Parasol Part</a></li>
+    <li><b>For 38 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a>, <a href="Charged_Parasol_Part.md">Charged Parasol Part</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -452,11 +451,8 @@ Sold Items
     <li><b>For 2 </b>: <a href="Aazel's_Horns.md">Aazel's Horns</a>, <a href="Brilliant_Cape.md">Brilliant Cape</a></li>
     <li><b>For 5 </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
     <li><b>For 20 </b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
-    <li><b>For 25 </b>:
-  <ul>
-    <li><b>Torso</b>: <a href="Jadeite_Megalodaunt.md">Jadeite Megalodaunt</a></li>
-    <li><b>Ears</b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
-  </ul></li>
+    <li><b>For 25 </b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
+    <li><b>For 30 </b>: <a href="Jadeite_Megalodaunt.md">Jadeite Megalodaunt</a></li>
     <li><b>For 175 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
   </ul></td>
 </tr>

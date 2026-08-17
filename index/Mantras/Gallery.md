@@ -2328,6 +2328,7 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Deals 30/31.5/33/34.5/36 base damage per level with 2.75 Thundercall scaling.
 -   Deals 7/8.5/10/11.5/13 posture damage per level.
 -   10 second cooldown.
+-   Has 0.43 seconds of wind-up.
 -   Can break objects.
 -   Can grant an optional effect with the [Shocking Finish](../Talents.md#shocking-finish) Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
 -   Shares a cooldown with [Ice Beam](../Frostdraw.md#ice-beam).

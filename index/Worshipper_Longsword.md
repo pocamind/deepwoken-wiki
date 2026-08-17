@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 226489
+revid: 227002
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Medium Weapons, The Covenant of Flame]

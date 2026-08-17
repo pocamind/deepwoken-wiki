@@ -620,7 +620,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>55 LHT</td>
   <td>14</td>
   <td>LHT: 10</td>
-  <td>25%</td>
+  <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6</td>
@@ -3048,7 +3048,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>40.2</td>
 </tr>
 <tr>
-  <td><b><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>70 HVY<br>
   30 MND</td>
   <td>20</td>
@@ -4943,7 +4943,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>55 LHT</td>
   <td>14</td>
   <td>LHT: 10</td>
-  <td>25%</td>
+  <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6</td>
@@ -5996,7 +5996,7 @@ Cestus
   <td>55 LHT</td>
   <td>14</td>
   <td>LHT: 10</td>
-  <td>25%</td>
+  <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6</td>
@@ -10090,7 +10090,7 @@ Bows
   <td>40.2</td>
 </tr>
 <tr>
-  <td><b><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>70 HVY<br>
   30 MND</td>
   <td>20</td>
@@ -11211,7 +11211,7 @@ Bows
   <td>40.2</td>
 </tr>
 <tr>
-  <td><b><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>70 HVY<br>
   30 MND</td>
   <td>20</td>
@@ -13804,7 +13804,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>55 LHT</td>
   <td>14</td>
   <td>LHT: 10</td>
-  <td>25%</td>
+  <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6</td>
@@ -14885,7 +14885,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>55 LHT</td>
   <td>14</td>
   <td>LHT: 10</td>
-  <td>25%</td>
+  <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6</td>
@@ -19001,7 +19001,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>40.2</td>
 </tr>
 <tr>
-  <td><b><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>70 HVY<br>
   30 MND</td>
   <td>20</td>
@@ -20146,7 +20146,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>40.2</td>
 </tr>
 <tr>
-  <td><b><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>70 HVY<br>
   30 MND</td>
   <td>20</td>
@@ -22551,7 +22551,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>55 LHT</td>
   <td>14</td>
   <td>LHT: 10</td>
-  <td>25%</td>
+  <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6</td>
@@ -24979,7 +24979,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>40.2</td>
 </tr>
 <tr>
-  <td><b><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>70 HVY<br>
   30 MND</td>
   <td>20</td>

@@ -1,6 +1,6 @@
 ---
 title: Jadeite Megalodaunt
-revid: 225254
+revid: 227016
 source: https://deepwoken.fandom.com/wiki/Jadeite_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Equipment with Talents, Equipment with Exclusive 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's black market for 25 |
+| obtainment | Sold in Traan Zakshun's black market for 30 |
 | description | An effigy of a stylized Megalodaunt, cherished for its ability to boost morale and scare off bad juju. |
 
 ## Description

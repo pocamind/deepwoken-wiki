@@ -1,11 +1,11 @@
 ---
 title: A ring lost to time
-revid: 226933
+revid: 227009
 source: https://deepwoken.fandom.com/wiki/A_ring_lost_to_time
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Equipment, Rings]
+categories: [Cut Content, Equipment, Rings]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # A ring lost to time
@@ -22,14 +22,16 @@ notices:
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Reveal ownership of the Ring of a Forgotten King when it was still obtainable. |
+| obtainment | Own the Ring of a Forgotten King before it withered away. (Currently unobtainable) |
 | description | With the secret revealed, it withered away in the hands of those who once wore it. |
 
 ## Description
 
-a ring lost to time is an [Equipment](Equipment.md) item under the "Rings" category. It was obtainable through owning the [Ring of a Forgotten King](Ring_of_a_Forgotten_King.md) on 16.08.2026 after the secret of the ring existing was leaked to the public by other players.
+a ring lost to time was an [Equipment](Equipment.md) item under the "Rings" category.
+
+Before being permanently deleted and removed from all players inventories, the ring was obtained by revealing ownership of the [Ring of a Forgotten King](Ring_of_a_Forgotten_King.md).
 
 ## Trivia
 
--   All players that owned the Ring of a Forgotten King prior to it being withered received this item.
--   It is the only item ingame to have its name written fully in lowercase.
+-   On July 16th, 2026, all players that owned the Ring of a Forgotten King received this item.
+-   The ring is the only item to have it's name written fully in lowercase.

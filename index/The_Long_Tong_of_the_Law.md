@@ -1,14 +1,14 @@
 ---
-title: The Long Tong of The Law
-revid: 221742
-source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
+title: The Long Tong of the Law
+revid: 226981
+source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_the_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Spears, "Core-Attribute based weapons"]
 ---
 
-# The Long Tong of The Law
+# The Long Tong of the Law
 
-| The Long Tong of The Law | |
+| The Long Tong of the Law | |
 |---|---|
 | type | Greatsword |
 | requirements | 70 HVY, 30 MND |
@@ -38,7 +38,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 
 ## Description
 
-The Long Tong of The Law is a Greatsword obtained from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest, despite being labeled as a greatsword and being a heavy weapon, it has the animations of a spear.
+The Long Tong of the Law is a Greatsword obtained from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest, despite being labeled as a greatsword and being a heavy weapon, it has the animations of a spear.
 
 The Long Tong of The Law can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 35% chance to drain to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc. This stacks additively with [Gluttony](Gluttony.md).
 
@@ -46,7 +46,7 @@ The Long Tong of The Law can be upgraded with the [Chef's Toque](<Chef's_Toque.m
 
 After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground, applying Knockdown. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgeable.
 
-This critical is shared with the [Crescent Cleaver](Crescent_Cleaver.md) and **The Long Tong of The Law**.
+This critical is shared with the [Crescent Cleaver](Crescent_Cleaver.md) and [Kyrscleave](Kyrscleave.md).
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 

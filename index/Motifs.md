@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 216808
+revid: 226985
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -50,7 +50,7 @@ Full list of Motif-able weapons
 | [Cavalry Saber](Cavalry_Saber.md) / [Alloyed Cavalry Saber](Cavalry_Saber.md) / [Officer Saber](Officer_Saber.md) / [Alloyed Officer Saber](Officer_Saber.md) | [Officer Saber](Officer_Saber.md) | Swords |
 | [Shotel](Shotel.md) / [Alloyed Shotel](Shotel.md) | [Shotel](Shotel.md) | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | [Trident Spear](Trident_Spear.md) / [Alloyed Trident Spear](Trident_Spear.md) / [Golden Swordfish](Golden_Swordfish.md) | [Trident Spear](Trident_Spear.md) | Spears |
-| [Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / [Alloyed Crescent Cleaver](Crescent_Cleaver.md) / [The Long Tong of The Law](The_Long_Tong_of_The_Law.md) | [Crescent Cleaver](Crescent_Cleaver.md) | Greatswords |
+| [Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / [Alloyed Crescent Cleaver](Crescent_Cleaver.md) / [The Long Tong of the Law](The_Long_Tong_of_the_Law.md) | [Crescent Cleaver](Crescent_Cleaver.md) | Greatswords |
 | [Kanabo](Kanabo.md) | [Kanabo](Kanabo.md) | Greathammers |
 | [Halberd](Halberd.md) / [Alloyed Halberd](Halberd.md) | [Halberd](Halberd.md) | Greataxes, Spears |
 | Any weapon in the respective weapon class with a default critical attack  
@@ -78,7 +78,7 @@ Unique critical Motifs have an additional 0.15s windup before the attack is used
 
 As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some Motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
 
-For example, if you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Mind and Heavy Weapons scaling with 12 Heavy Weapons scaling from [Soulwrought Greatsword](Crazy_Slots.md#weapons), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md), that can be equipped onto other weapon types, will still scale with their original attribute regardless of what weapon type they are equipped on.
+For example, if you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of the Law](The_Long_Tong_of_the_Law.md), it'd replace the critical's innate Mind and Heavy Weapons scaling with 12 Heavy Weapons scaling from [Soulwrought Greatsword](Crazy_Slots.md#weapons), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md), that can be equipped onto other weapon types, will still scale with their original attribute regardless of what weapon type they are equipped on.
 
 ## Trivia
 

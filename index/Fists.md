@@ -390,7 +390,7 @@ This attack has a **5 second cooldown**.
   <td>55 LHT</td>
   <td>14</td>
   <td>LHT: 10</td>
-  <td>25%</td>
+  <td>20%</td>
   <td>-</td>
   <td>4.5</td>
   <td>6</td>

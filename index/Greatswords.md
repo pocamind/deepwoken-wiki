@@ -245,7 +245,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>40.2</td>
 </tr>
 <tr>
-  <td><b><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>70 HVY<br>
   30 MND</td>
   <td>20</td>

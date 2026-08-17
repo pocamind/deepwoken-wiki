@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 226655
+revid: 227027
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1071,9 +1071,19 @@ Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending N
 |  | Rending Needle: Conductor  
 (75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Ironsing, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer |
 |  | Rending Needle: Impaler  
-(75 Ironsing) | If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer |
+(75 Ironsing) | If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. | Increases the amount of Rods you can apply from 5 to 10. The damage scales on your Ironsing investment.
+
+  
+Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer
+
+ |
 |  | Rending Needle: Jailer  
-(75 Ironsing) | If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Impaler |
+(75 Ironsing) | If an enemy has 5 or more rods, your Ironsing Pull will restrain them for 1s instead of pulling them. | Your Ironsing Pull applies a brief stun and applies a debuff that prevents sprinting or dodging, for a duration that scales on your Ironsing investment. For every rod over 5, deal 3 damage on Pull, up to 15 at 10 Rods. Increases the amount of Rods you can apply from 5 to 10.
+
+  
+Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Impaler
+
+ |
 
 **Scrapsinger:**
 

@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 223659
+revid: 226992
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -51,6 +51,5 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Ta
 
 ## Trivia
 
--   A part of the chef weapon set, along with [The Pastry Paster](The_Pastry_Paster.md) and [The Long Tong of The Law](The_Long_Tong_of_The_Law.md).
+-   A part of the chef weapon set, along with [The Pastry Paster](The_Pastry_Paster.md) and [The Long Tong of the Law](The_Long_Tong_of_the_Law.md).
 -   The description reads _"That isn't smoke. It's steam."_ which is in reference to [a scene](https://www.youtube.com/watch?v=4jXEuIHY9ic) from the twenty first episode of the seventh seasons of American animated sitcom, _[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)_.
--   This is the third fastest weapon in the game after the [Soulwrought Dagger](Crazy_Slots.md#weapons) and [Soulwrought Gun](Crazy_Slots.md#weapons), with 1.26x swing speed which is slightly higher than the usual norm for daggers.

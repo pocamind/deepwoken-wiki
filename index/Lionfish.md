@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 225130
+revid: 227029
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -120,7 +120,7 @@ A Lionfish executes the player via:
 
 ## Tips & Tricks
 
-ing the formula for fighting this mob may allow you to solo it at a low level, it's not suggested for those who suffer from any lag related issues as this will easily lead to the game not registering a roll in time and wiping you to a single Cero.
+While finding the formula for fighting this mob may allow you to solo it at a low level, it's not suggested for those who suffer from any lag related issues as this will easily lead to the game not registering a roll in time and wiping you to a single Cero.
 
 -   When fighting the Lionfish above the Depths, it will only use one attack, that being the triple chomp combo. The cue for it coming out is usually the Lionfish swimming towards you after swimming away for a little bit though it'll only initiate this attack if it makes enough distance from you.
 -   If the Lionfish is submerged, you can still land some hits, though you need to be cautious for when it comes up so that you aren't in a swing animation while it's biting.

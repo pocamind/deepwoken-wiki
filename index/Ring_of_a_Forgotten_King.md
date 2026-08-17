@@ -1,11 +1,11 @@
 ---
 title: Ring of a Forgotten King
-revid: 226904
+revid: 227006
 source: https://deepwoken.fandom.com/wiki/Ring_of_a_Forgotten_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Equipment, Rings]
+categories: [Cut Content, Equipment, Rings, Named Items]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Ring of a Forgotten King
@@ -27,10 +27,10 @@ notices:
 
 ## Description
 
-The **Ring of a Forgotten King** is an [Equipment](Equipment.md) item under the "Rings" category.
+The **Ring of a Forgotten King** was an [Equipment](Equipment.md) item under the "Rings" category.
 
-If a player reveals ownership of the ring, it will wither into [a ring lost to time](A_ring_lost_to_time.md).
+All players that revealed their ownership of the ring caused it to wither into [a ring lost to time](A_ring_lost_to_time.md).
 
 ## Trivia
 
--   The ring's texture is from [Rock Golems](Rock_Golem.md).
+-   The ring's texture came from [Rock Golems](Rock_Golem.md).
