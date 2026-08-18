@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 217830
+revid: 227123
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -156,3 +156,4 @@ Below is a list of NPCs and their uses (that are known) that you can find thorou
 -   [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) used to be located here, but the tunnels located on the left when entering the underground portion were removed, removing the shrine as well. It is now located at [Meteor Isle](Meteor_Isle.md), neighboring Fort Merit to the east.
 -   Due to a bug, the [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) that are meant to spawn in the cells of Fort Merit no longer reliably spawn. If you want to get a Fort Merit chest from the [Etrean Guardmaster](Etrean_Guardmaster.md) you will have to get a [Shipping Schedule](Shipping_Schedule.md).
 -   According to [Joshua (in Vow of Iron)](<Joshua_(Vow_of_Iron).md>), it used to be called Fortress Cascabel.
+-   One of the training dummies at fort merit may be factioned under monsters causing humanoids to attack it but not [Monsters](Monsters.md)

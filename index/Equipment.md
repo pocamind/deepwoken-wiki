@@ -1,9 +1,9 @@
 ---
 title: Equipment
-revid: 226851
+revid: 227115
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
+categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments. Please help us improve the page through editing, or wait for an updated version of the page to release."
   - "This page is currently being worked on. This page is currently in-progress, as a lot of the equipment texture changes and new styles have yet to be docummented by the wiki. Please be patient as this page undergoes changes."
@@ -1619,7 +1619,7 @@ _+Talent: [**Heavy Haul**](Talents.md#heavy-haul)_
 **Requires Power 10**
 
  | Styles:  
-Bulwark & Juggernaught
+Bulwark & Juggernaut
 
   
 Set: Grand Authority  
@@ -3006,18 +3006,21 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 
  | Styles:  
 Emerald, Rose, Scarlet, Shade, Silver & Onyx |
-| File:Gale Enhanced Beads.png | [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
+|  | [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
+(**Styles**)  
 (**Set**)  
-(**Legendary**) | _+3% Elemental Armor_
+(**Legendary**) | _+3% Elemental Armor'_
 
 +1 Legendary Pip  
 _+Talent: [**Focused Strikes**](Talents.md#focused-strikes)_  
 **Requires Power 5**
 
- | Variants:  
-[Gale Enhanced](#gale-enhanced-beads) & [Monastery](#monsastery-beads)
+ | Styles:  
+Polished & Wood
 
   
+Variants:  
+[Gale Enhanced](#gale-enhanced-beads) & [Monastery](#monastery-beads)  
 Set: Gale Monastery  
 Head: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)
 
@@ -3321,7 +3324,7 @@ Variants/Set
 |  | [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)  
 (**Styles**)  
 (**Set**) | +1 Rare Pip | Styles:  
-Black, Red & White
+Black, Cerulean, Emerald, Indigo, Silver, Red & White
 
   
 Set: Aristocrat  
@@ -3353,7 +3356,7 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 |  | [Aspirant Mask](Aspirant_Mask.md)  
 (**Styles**) | +1 Uncommon Pip  
 +1 Rare Pip | Styles:  
-Carmine, Emerald, Gold & Saphire |
+Carmine, Emerald, Gold, Quartz & Saphire |
 |  | [Authority Prototype Mask](Authority_Prototype_Mask.md) | +1 Common Pip | Variants:  
 [Prototype](#authority-prototype-mask) & [Voltspark](#authority-voltspark-mask) |
 |  | [Authority Voltspark Mask](Authority_Voltspark_Mask.md) | _+3% Lightning Armor_

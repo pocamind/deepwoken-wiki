@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 226755
+revid: 227088
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Mechanics]
@@ -10,11 +10,11 @@ categories: [Bosses, Mechanics]
 
 _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For non-monster enemies, see [Enemies](Enemies.md)._
 
-## Bosses
+## Overview
 
 **Bosses** in _Deepwoken_ are powerful [Enemies](Enemies.md) and [Monsters](Monsters.md) that possess heavy backstories and unique abilities. They award Resonance [Progress](Resonance.md), [Knowledge](Knowledge.md), and unique [weapons](Weapons.md) such as the [Purple Cloud](Purple_Cloud.md), [Dissonant Chimecaller](Dissonant_Chimecaller.md), and the [Frostthorn](Frostthorn.md).
 
-### Vow of Iron
+## Bosses
 
 The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is whether or not they can be used to obtain [Chain of Perfection](Echoes.md). However, every Boss has most, if not all of the secondary criteria below.
 

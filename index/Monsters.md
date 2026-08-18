@@ -1,9 +1,11 @@
 ---
 title: Monsters
-revid: 225356
+revid: 227086
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Mechanics]
+categories: [Stub pages with reason, StubPages, Monsters, Mechanics]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments. Please help us improve the page through editing, or wait for an updated version of the page to release."
 ---
 
 # Monsters

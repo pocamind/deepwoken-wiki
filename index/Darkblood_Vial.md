@@ -1,11 +1,9 @@
 ---
 title: Darkblood Vial
-revid: 226597
+revid: 227072
 source: https://deepwoken.fandom.com/wiki/Darkblood_Vial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items, Drops, Ingredients]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Darkblood Vial

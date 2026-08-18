@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 209284
+revid: 227116
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken, Vows, The Depths]
@@ -82,7 +82,7 @@ Death Causes listed by the game:
 -   Your own Foolishness (Failing to pass the Charisma check on [Akira](Akira.md))
 -   An insidious parasite sewn by the Gale (Dying to parasites in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md))
 -   The Eternal Gale (Death via bone attacks from the [Scion of Ethiron](Scion_of_Ethiron.md))
--   Space-time Collapse (Dying to the white orbs that spawn at the end of a [New Kyrsa](Second_Layer/New_Kyrsa.md) run, or failing to make it back to the [Light Hook](Light_Hook.md) in time)
+-   Space-time Collapse (Dying to the white orbs that spawn at the end of a [New Kyrsa](Second_Layer/New_Kyrsa.md) run, failing to make it back to the [Light Hook](Light_Hook.md) in time, or dying to the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>))
 -   Your disrespect, punished by the Tempest Eye (Spitting on [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) in his fight)
 -   Your master (Command: Explode from [Vow of Mastery](Vow_of_Mastery.md))
 -   The Office Creature (trying to enter [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) while not being a Tester/Moderator/Administrator/Developer)

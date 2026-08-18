@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 226852
+revid: 227126
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -116,6 +116,7 @@ Certain items can be found laying on the ground in a given spot and can be picke
 -   [Transfusion Ring](Transfusion_Ring.md): Located just past the "South" icon on the map compass
 -   [Void Ring](Void_Ring.md): On an island behind [Etris](<Etris_(Vow_of_Iron).md>)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): Near the exit/entrance of the Miners Cave [Boundary](Boundary.md)
+-   [Whaling Knife](Whaling_Knife.md): Inside a red tent in a camp east of the Aratel Temple [Boundary](Boundary.md)
 
 ### Lumen and The Depths
 

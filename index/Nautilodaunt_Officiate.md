@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 226793
+revid: 227087
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | health | 400 |
 | attacks | Punch, Kick, Flip Kick, High Flip Kick, Electro Stomp, Furious Stomp, Combo Slam, Feint, Vent |
-| drops | Odd Tentacle, Pathfinder Elite (Very Rare), Stormseye, Nautilodaunt Beak, Justicar's Armor, Cala-Mariner, Martial Artist, Astruline, Pathfinder's Backpack |
+| drops | Odd Tentacle, Pathfinder Elite (Very Rare), Stormseye, Nautilodaunt Beak, Justicar's Armor, Cala-Mariner, Martial Artist, Astruline |
 | locations | The Depths |
 
 Variants: [Nautilodaunt](Nautilodaunt.md) · [Fury Nautilodaunt](Fury_Nautilodaunt.md)

@@ -1,11 +1,9 @@
 ---
 title: Golem Chunk
-revid: 226784
+revid: 227071
 source: https://deepwoken.fandom.com/wiki/Golem_Chunk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items, Drops, Ingredients]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Golem Chunk
