@@ -1,6 +1,6 @@
 ---
 title: Steelscale Dusters
-revid: 226947
+revid: 227138
 source: https://deepwoken.fandom.com/wiki/Steelscale_Dusters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Weapons with Talents, Fists, Light Weapons]
@@ -31,7 +31,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Interluminary Parasol, Fishing, War Mode, The Doom of Caeranthil |
+| obtainment | Maestro Evengarde Rest, Interluminary Parasol, Fishing, War Mode, Cinders of Etris, The Doom of Caeranthil |
 | description | Lightweight knuckle dusters forged by the smiths of the Blade Temple. Those who earn their place as a Jade Vigil are granted the right to don their beads and clad their fists in steel. |
 
 ## Description

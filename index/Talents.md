@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227127
+revid: 227128
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4534,9 +4534,10 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Fortitude\] \[Damage Resistance\] \[Scale-down\]
 
 -   _**Sclerosteosis**_ \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
-    -   You need to lose 10% of your health from a singular instance of damage, post mitigation, to proc this effect.
-    -   Self damage can proc this Talent, though it is generally not recommended to intentionally take self damage to proc this effect.
+    -   You need to lose 10% of your health from a singular instance of damage, post mitigation, to proc this effect. Because of this, using the [Viscosity](Viscosity.md) Enchantment will result in this Talent never proccing.
     -   The damage resistance can only proc when taking damage from weapon attacks or Mantras.
+    -   This Talent is significantly less effective against multi-hits, as the damage from each hit likely won't deal 10% of your maximum health, and the damage resistance will only affect the first instance of damage anyways.
+    -   While removing other sources of damage resistance _would_ increase the likelihood of this effect proccing, it is not guaranteed nor recommended, as most attacks don't deal enough damage to pass the 10% maximum health threshold to begin with. In a similar vain, although self damage can be used to proc this Talent, it is not recommended to intentionally take self damage to trigger this effect.
     -   Briefly applies a [Reinforce](Attunement-less.md#reinforce)\-like visual effect on resist proc.  
         
     -   Prerequisites: 100 Fortitude  
@@ -4544,9 +4545,10 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Fortitude\] \[Damage Resistance\]
 
 -   **Sclerosteosis** \[Advanced Talent\] - Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. \[5 sec CD\]
-    -   You need to lose 10% of your health from a singular instance of damage, post mitigation, to proc this effect.
-    -   Self damage can proc this Talent, though it is generally not recommended to intentionally take self damage to proc this effect.
+    -   You need to lose 10% of your health from a singular instance of damage, post mitigation, to proc this effect. Because of this, using the [Viscosity](Viscosity.md) Enchantment will result in this Talent never proccing.
     -   The damage resistance can only proc when taking damage from weapon attacks or Mantras.
+    -   This Talent is significantly less effective against multi-hits, as the damage from each hit likely won't deal 10% of your maximum health, and the damage resistance will only affect the first instance of damage anyways.
+    -   While removing other sources of damage resistance _would_ increase the likelihood of this effect proccing, it is not guaranteed nor recommended, as most attacks don't deal enough damage to pass the 10% maximum health threshold to begin with. In a similar vain, although self damage can be used to proc this Talent, it is not recommended to intentionally take self damage to trigger this effect.
     -   Briefly applies a [Reinforce](Attunement-less.md#reinforce)\-like visual effect on resist proc.  
         
     -   Prerequisites: 100 Fortitude  

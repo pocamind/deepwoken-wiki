@@ -1,6 +1,6 @@
 ---
 title: Tied Tie
-revid: 224626
+revid: 227136
 source: https://deepwoken.fandom.com/wiki/Tied_Tie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Torso, Ties]
@@ -17,10 +17,10 @@ notices:
 | selling price | Unsellable |
 | weight | 1 |
 | innate stats | +5 Health , +1 Uncommon Pip |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
 | obtainment | (Unobtainable) |
 | description | Go play celeste |
 

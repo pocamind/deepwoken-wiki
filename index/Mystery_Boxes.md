@@ -1,6 +1,6 @@
 ---
 title: Mystery Boxes
-revid: 226879
+revid: 227135
 source: https://deepwoken.fandom.com/wiki/Mystery_Boxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -66,7 +66,7 @@ Obtainable Items
     <li><a href="Equipment.md#arms"><b>Arms</b></a>: <a href="Heretic's_Moonseye_Gauntlets.md">Heretic's Moonseye Gauntlets</a>, <a href="Konga's_Parka.md">Konga's Parka</a>, <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Blackalloy_Pauldrons.md">Blackalloy Pauldrons</a>, <a href="Delver's_Duster.md">Delver's Duster</a></li>
     <li><a href="Equipment.md#torso"><b>Torso</b></a>: <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>, <a href="Radial_Pendant.md">Radial Pendant</a>, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a>, <a href="Trueblood_Pendant.md">Trueblood Pendant</a></li>
     <li><a href="Equipment.md#legs"><b>Legs</b></a>: <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a>, <a href="Reinforced_Enforcer_Boots.md">Reinforced Enforcer Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Caster_Fur_Boots.md">Caster Fur Boots</a>, <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a>, <a href="Gale_Boots.md">Gale Boots</a>, <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a></li>
-    <li><a href="Equipment.md#face"><b>Face</b></a>: <a href="Armored_Sensor_Mask.md">Armored Sensor Mask</a></li>
+    <li><a href="Equipment.md#face"><b>Face</b></a>: <a href="Armored_Sensor_Mask.md">Armored Sensor Mask</a>, <a href="Oni_Mask.md">Oni Mask</a>, <a href="Bloodcurdle_Mask.md">Bloodcurdle Mask</a></li>
     <li><a href="Equipment.md#ears"><b>Ears</b></a>: <a href="Ruby_Scorch_Earrings.md">Ruby Scorch Earrings</a>, <a href="Warrior's_Pendant_Earrings.md">Warrior's Pendant Earrings</a>, <a href="Expert_Practitioner's_Earrings.md">Expert Practitioner's Earrings</a>, <a href="Gale_Master's_Earrings.md">Gale Master's Earrings</a>, <a href="Vapordrop_Earrings.md">Vapordrop Earrings</a>, <a href="Flare_Drop_Earrings.md">Flare Drop Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>: TBA</li>
   </ul></td>
