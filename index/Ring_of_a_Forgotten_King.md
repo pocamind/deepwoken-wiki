@@ -1,6 +1,6 @@
 ---
 title: Ring of a Forgotten King
-revid: 227006
+revid: 227059
 source: https://deepwoken.fandom.com/wiki/Ring_of_a_Forgotten_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Equipment, Rings, Named Items]

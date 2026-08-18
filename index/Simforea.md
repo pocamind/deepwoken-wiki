@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 226560
+revid: 227049
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -24,7 +24,7 @@ Simforea is an island in the [Voidsea](Voidsea.md). It is a [Driftland](https://
 
 In the [Old World](https://deepwoken.fandom.com/wiki/Glossary#The_Old_World),[\[1\]](#cite-note-1) Simforea was the site of experimentation that resulted in the creation of a [soul-based concoction](Remnants_of_Soul.md). Simforea eventually fell to ruin, taking its founder and the [Anansi](Anansi.md) with it in the [Voidsea](Voidsea.md).[\[2\]](#cite-note-2) [Knell](Knell,_The_Lunatic_Resonator.md) was the only survivor, left alone with his ever deteriorating sanity.
 
-Simforea eventually got close to the Eastern Luminant, piquing the interest of [The Central Authority](The_Central_Authority.md)'s [Peipre](Peipre.md), as well as [The Ministry](The_Ministry.md).
+Simforea eventually got close to the Eastern Luminant, piquing the interest of [The Central Authority](The_Central_Authority.md)'s [Peipre](Peipre.md),[\[3\]](#cite-note-3) as well as [The Ministry](The_Ministry.md).
 
 ## Location
 
@@ -41,3 +41,4 @@ Rough location of simforea, marked off the map
 
 1.  [↑](#cite-ref-1) [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>)
 2.  [↑](#cite-ref-2) [Remnants of Soul](Remnants_of_Soul.md)
+3.  [↑](#cite-ref-3) NPC dialogue: [Peipre](Peipre.md)

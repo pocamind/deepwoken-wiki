@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 223120
+revid: 227044
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -39,11 +39,11 @@ The Shattered Katana is an endgame [Medium](Weapons.md#medium-weapons) Katana.
 
 The [Paired Soul](Talents.md#paired-soul) Talent from the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits increases Shattered Katana's damage by 5%.
 
-## Critical
+## Critical Attack
 
-While one handed it uses the default [Katana](Katana.md) crit but gains a unique crit while two handed. This has 1.1x scaled damage multiplier with innate **bleed**.
+While one handed it uses the default [Katana](Katana.md) critical but gains a unique critical while two handed. This has 1.1x scaled damage multiplier with innate **bleed**.
 
-For the two-handed crit, the user does a quick vertical and horizontal slash, which is followed with two additional delayed slashes. The first two cuts have a 0.3x scaled damage multiplier each, while the delayed slashes have a 0.75x scaled damage multiplier each, with innate [Bleed](Status_Effects.md#bleed). This critical deals 1.5 posture damage on the first hit, ending the critical early if blocked, and 3 posture damage on all subsequent hits. The delayed slashes also ignore hitstun, meaning if you get hit stunned after the first hit landed, the delayed slashes would still trigger anyways.
+For the two-handed critical, the user does a quick vertical and horizontal slash, which is followed with two additional delayed slashes. The first two cuts have a 0.3x scaled damage multiplier each, while the delayed slashes have a 0.75x scaled damage multiplier each, with innate [Bleed](Status_Effects.md#bleed). This critical deals 1.5 posture damage on the first hit, ending the critical early if blocked, and 3 posture damage on all subsequent hits. The delayed slashes also ignore hitstun, meaning if you get hit stunned after the first hit landed, the delayed slashes would still trigger anyways.
 
 The critical has a cooldown of **6 seconds**.
 

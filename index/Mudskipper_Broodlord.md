@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 225138
+revid: 227053
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -160,7 +160,7 @@ Dodge
 
 ## Trivia
 
--   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on May 3rd, 2024.
+-   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on May 3rd, 2024. Note: they can still spawn in Etrea but only in sea events like mudskipper hive
 -   They're based on the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from _The Last of Us_ series.
     -   Prior to the October 11th 2024 update, Mudskipper Broodlords could see through walls, as well as behind themselves. Clickers are known for their hearing.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.

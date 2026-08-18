@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 226996
+revid: 227041
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1667,14 +1667,16 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Bloodhound
 
--   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning.
-    
+-   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are marked with [Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark) for 5s.
+    -   While affected by Bloodwarden's Mark, your character is highlighted red and you take 20% more [Blood Poisoning](Status_Effects.md#blood-poisoning).  
+        
     -   Prerequisites: 30 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Debuff\]
 
--   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning.
-    
+-   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are marked with [Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark) for 5s.
+    -   While affected by Bloodwarden's Mark, your character is highlighted red and you take 20% more [Blood Poisoning](Status_Effects.md#blood-poisoning).  
+        
     -   Prerequisites: 30 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Debuff\]
@@ -1759,13 +1761,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[+Health\] \[Hard Requirements\]
 
--   **Crimson Fountain** \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] cast within blood pools have a reduced cost.
+-   **Crimson Fountain** \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] cast within blood pools have a reduced blood cost.
     
     -   Prerequisites: 35 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\]
 
--   **Crimson Fountain** \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] cast within blood pools have a reduced cost.
+-   **Crimson Fountain** \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] cast within blood pools have a reduced blood cost.
     
     -   Prerequisites: 35 Bloodrend  
         
@@ -5469,14 +5471,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\] \[Scale-down\]
 
--   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious](Status_Effects.md#unconscious). 60s CD.
+-   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while [Unconscious](Status_Effects.md#unconscious). 60s CD.
     -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.  
         
     -   Prerequisites: 85 Fortitude  
         
     -   Tags: \[Fortitude\]
 
--   **Mythic Stability** \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious](Status_Effects.md#unconscious). 60s CD.
+-   **Mythic Stability** \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while [Unconscious](Status_Effects.md#unconscious). 60s CD.
     -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.  
         
     -   Prerequisites: 85 Fortitude  
@@ -6892,7 +6894,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 10.5 seconds at 35 Charisma.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
 
--   Sharing is Caring \[Common Talent, Charisma, Bloodrend\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
+-   Sharing is Caring \[Common Talent, Charisma, Bloodrend\] - [Charmed](Status_Effects.md#charm) on opponents also slightly increases your blood drain against them.
     -   Prerequisites: 50 Bloodrend, 30 Charisma, Charismatic Cast
 
 ### Scholar of the Cloud
@@ -7681,7 +7683,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Twinblade
 
 -   _Face Cutter_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - Your Spine Cutter now deals an additional hit. (+2 Passive Agility)
-    -   Grants an additional hit to your Spine Cutter that deals 50% of your weapon's scaled damage.
+    -   Grants an additional hit to your Spine Cutter that deals 25% of your weapon's scaled damage.
     -   Similarly to Spine Cutter, the damage this deals cannot be buffed, and the attack has no PEN.
     -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 226837
+revid: 227037
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -842,7 +842,7 @@ These are Talents found in "_Bloodrender_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Bloodrender  
-(1 Bloodrend) | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. | Blood poisoning is a translucent red visual effect on your blood bar. |
+(1 Bloodrend) | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. | Blood poisoning is a translucent red visual effect on your blood bar. See [Trivia](#trivia) for more info. |
 |  | Adept Bloodrender  
 (20 Bloodrend) | You can now obtain 1-star Bloodrender mantras. |  |
 |  | Expert Bloodrender  
@@ -850,17 +850,15 @@ These are Talents found in "_Bloodrender_" Category.
 |  | Master Bloodrender  
 (50 Bloodrend) | You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. | +5 Health |
 |  | Crimson Fountain  
-(40 Bloodrend) | Blockbreaking or flourishing an enemy now spills a pool below them. |  |
+(40 Bloodrend) | Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras cast within blood pools have a reduced blood coost. |  |
 |  | First Blood  
-(10 Bloodrend) | Your first blood mantra you use in combat has no blood cost. |  |
+(10 Bloodrend) | Your first blood mantra you use in combat has no blood cost and deals additional blood drain. |  |
 |  | Hemorrhaging Blow  
 (95 Bloodrend, Master Bloodrender) | Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds. | The damage to healing conversion is 1:1. This applies to **all** (non passive) healing and affects healing outside of combat. |
 |  | Rush Hour  
 (50 Bloodrend) | Stab yourself to become stronger, faster, and deal increased blood bar damage. | Gives you a tool that passively drains your blood and health for these buffs. While buffed, you regenerate blood by landing m1s and gain a damage and speed boost. Rush Hour can be deactivated at any time by using the tool again. |
 |  | Sanguine Siphon  
 (40 Bloodrend) | Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra. | The damage buff is 20%, and the buff lasts 15 seconds or until you use a Bloodrend mantra. |
-|  | Sheltering Grasp  
-(30 Bloodrend) | Blood mantras cast within blood pools have a reduced blood cost. | Reduces the blood cost by around 50%. |
 
 **Bloodhound:**
 
@@ -869,7 +867,7 @@ These are Talents found in "_Bloodhound_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Bloodwarden's Sense  
-(30 Bloodrend) | Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning. |  |
+(30 Bloodrend) | Enemies you attack with a mantra above 60% Blood Poisoning are marked with [Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark) for 5s. | Affected targets are highlighted red and take 20% more Blood Poisoning. |
 |  | Smell of Blood  
 (65 Bloodrend) | When people touch a blood pool, briefly see their blood (or blood hemorrhage amount for PvE) and blood poison. This effect also occurs whenever you blockbreak your opponent. | Their blood current blood or blood hemorrhage amount will be displayed as a percentage in Red next to their character. Similarly, their current blood poisoning amount will be displayed as a percentage in Pink next to their character. |
 
@@ -899,7 +897,7 @@ Donation Drive's cooldown scales on your Charisma investment, having an 8 second
 
  |
 |  | Sharing is Caring  
-(50 Bloodrend, 30 Charisma, Charismatic Cast) | Your 'Charm' on opponents also slightly increases your blood drain against them. |  |
+(50 Bloodrend, 30 Charisma, Charismatic Cast) | [Charmed](Status_Effects.md#charm) on opponents also slightly increases your blood drain against them. |  |
 
 **Septicemia:**
 
@@ -947,8 +945,6 @@ These are Talents found in "_Quack Doctor_" Category.
 (20 Bloodrend) | You receive extra blood from knocking an enemy. |  |
 |  | Blood Transfusion  
 (60 Bloodrend) | Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD) | This works on all negative status effects, including elemental ones. |
-|  | Just a Taste  
-(20 Bloodrend) | First Bloodrend mantra you hit in combat has increased blood drain. |  |
 |  | Open Wound  
 (40 Bloodrend) | Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras. |  |
 

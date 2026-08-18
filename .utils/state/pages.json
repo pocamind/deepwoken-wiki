@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 226996
+    "lastrevid": 227041
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -693,7 +693,7 @@
   },
   "2263": {
     "title": "Status Effects",
-    "lastrevid": 226998
+    "lastrevid": 227035
   },
   "2302": {
     "title": "Suri",
@@ -749,7 +749,7 @@
   },
   "2444": {
     "title": "Shattered Katana",
-    "lastrevid": 223120
+    "lastrevid": 227044
   },
   "2446": {
     "title": "Crypt Blade",
@@ -1177,7 +1177,7 @@
   },
   "3222": {
     "title": "Etrean Wilds",
-    "lastrevid": 226149
+    "lastrevid": 227045
   },
   "3223": {
     "title": "Etris Docks",
@@ -3329,7 +3329,7 @@
   },
   "8492": {
     "title": "Cathedral of the Interstice",
-    "lastrevid": 226893
+    "lastrevid": 227046
   },
   "8519": {
     "title": "Eager Tradesman",
@@ -4101,7 +4101,7 @@
   },
   "11843": {
     "title": "Mudskipper Broodlord",
-    "lastrevid": 225138
+    "lastrevid": 227053
   },
   "11851": {
     "title": "Grand Pathfinder's Backpack",
@@ -4557,7 +4557,7 @@
   },
   "13883": {
     "title": "Quartztone Pickaxe",
-    "lastrevid": 221405
+    "lastrevid": 227043
   },
   "13903": {
     "title": "Oath: Bladeharper",
@@ -4985,7 +4985,7 @@
   },
   "14827": {
     "title": "Bloodrend",
-    "lastrevid": 226837
+    "lastrevid": 227037
   },
   "14831": {
     "title": "Heartstar",
@@ -5065,7 +5065,7 @@
   },
   "15251": {
     "title": "Iron Requiem",
-    "lastrevid": 216726
+    "lastrevid": 227062
   },
   "15253": {
     "title": "Citadel Frames",
@@ -8805,7 +8805,7 @@
   },
   "23155": {
     "title": "Necrotic Membrane",
-    "lastrevid": 226398
+    "lastrevid": 227042
   },
   "23156": {
     "title": "Necrotic Demon Horns",
@@ -9153,7 +9153,7 @@
   },
   "24237": {
     "title": "Simforea",
-    "lastrevid": 226560
+    "lastrevid": 227049
   },
   "24238": {
     "title": "Alsin's Landing",
@@ -9321,7 +9321,7 @@
   },
   "24433": {
     "title": "Ten",
-    "lastrevid": 223928
+    "lastrevid": 227047
   },
   "24453": {
     "title": "Siirka Point",
@@ -9729,7 +9729,7 @@
   },
   "26327": {
     "title": "Wool Beret",
-    "lastrevid": 226850
+    "lastrevid": 227052
   },
   "26328": {
     "title": "Jade Vigil",
@@ -9741,10 +9741,18 @@
   },
   "26380": {
     "title": "Ring of a Forgotten King",
-    "lastrevid": 227006
+    "lastrevid": 227059
   },
   "26390": {
     "title": "A ring lost to time",
-    "lastrevid": 227009
+    "lastrevid": 227060
+  },
+  "26398": {
+    "title": "Winona Munet",
+    "lastrevid": 227050
+  },
+  "26399": {
+    "title": "Wakeguard",
+    "lastrevid": 227066
   }
 }

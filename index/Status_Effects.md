@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 226998
+revid: 227035
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -153,7 +153,7 @@ Signified by a white bar on your health bar, gain a Temporary Health bar which d
 
 ### Enhanced Perception
 
-A red highlight applied onto enemies, allowing you to see them through walls. Applied through [Voidwalker](Voidwalker.md) bounties, [Chrysid's](Chrysid.md) Mothwing Dust, Bloodrend's [Bloodwarden's Sense](Talents.md#bloodwardens-sense), and the Heart Reverb Talent's [Rhythm](Murmur%253A_Rhythm.md) upgrade from [Soulbreaker](Oath%253A_Soulbreaker.md).
+A red highlight applied onto enemies, allowing you to see them through walls. Applied through [Voidwalker](Voidwalker.md) bounties, [Chrysid's](Chrysid.md) Mothwing Dust, and the Heart Reverb Talent's [Rhythm](Murmur%253A_Rhythm.md) upgrade from [Soulbreaker](Oath%253A_Soulbreaker.md).
 
 ### Insanity
 
@@ -855,6 +855,10 @@ Take 4.5 damage and lose 2% of your maximum blood per second, but gain a 15% dam
 ### Torture Mastery
 
 All chip damage dealt to an opponent affected by Torture Mastery will be transferred into healing for yourself. The conversion rate is 1:1 with damage dealt to healing gained. To proc this effect, you must land a critical attack while having the [Torture Mastery](Talents.md#torture-mastery) Talent. Torture Mastery lasts 15 seconds, doubled to 30 if you have [Rush Hour](#rush-hour) active on Talent proc. This effect is signified by a crimson chain linking yourself and affected opponents.
+
+### Bloodwarden's Mark
+
+Applied through the [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent, take 20% more [Blood Poisoning](#blood-poisoning) and become highlighted with the [Enhanced Perception](#enhanced-perception) effect for 5 seconds.
 
 ## Deep Gem Applied
 

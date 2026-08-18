@@ -1,6 +1,6 @@
 ---
 title: A ring lost to time
-revid: 227009
+revid: 227060
 source: https://deepwoken.fandom.com/wiki/A_ring_lost_to_time
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Equipment, Rings]
@@ -22,7 +22,7 @@ notices:
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Own the Ring of a Forgotten King before it withered away. (Currently unobtainable) |
+| obtainment | Own a Ring of a Forgotten King |
 | description | With the secret revealed, it withered away in the hands of those who once wore it. |
 
 ## Description
@@ -35,3 +35,4 @@ Before being permanently deleted and removed from all players inventories, the r
 
 -   On July 16th, 2026, all players that owned the Ring of a Forgotten King received this item.
 -   The ring is the only item to have it's name written fully in lowercase.
+-   The ring can be sold despite giving 0 notes.
