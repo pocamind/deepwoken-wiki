@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 225667
+revid: 227141
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -534,7 +534,7 @@ Dialogue: | Books: | Glossary Entries: [Lighthouses](#lighthouses)
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the [Suncross](#the-suncross).
 
-Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Roa](Roa.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Lullaby Isles](#the-lullaby-isles), [The Old Dead](#the-old-dead), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Hiri](Hiri.md), [Jeremiah](Jeremiah.md) when giving a [Moonseye Tome](Moonseye_Tome.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Roa](Roa.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Lullaby Isles](#the-lullaby-isles), [The Old Dead](#the-old-dead), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 -   Evidence seems to support the theory that the Moonseye is a mass of souls.
 -   If the Moonseye is a mass of souls, it may well be that it holds the souls of the [Old Dead](#the-old-dead).
