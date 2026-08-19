@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 226906
+revid: 227164
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -325,7 +325,7 @@ Elder Primadon drops 9 Chests, All of them can contain Relics and other high val
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Star_Boots.md">Star Boots</a> (Very Rare)</li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Thrall_of_Enmity.md">Thrall of Enmity</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
