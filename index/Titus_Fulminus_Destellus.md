@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 226766
+revid: 227157
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -233,6 +233,32 @@ Dodge
  |
 | 
 
+**Warp Kick**  
+(★★☆)
+
+ | In a flash, Titus warps to a random opponent and kicking them away.
+
+-   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
+-   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
+-   This move is technically dodgeable, however, it is only possible at the very last moments of the attack. It's advised to block the attack instead dealing 10.46 posture.
+
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#block)
+
+Block
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ | 
+
+ |
+|  | Attacks unlocked in phase 2 |  |
+| 
+
 **Wrathful Stomp**  
 (★☆☆)
 
@@ -257,32 +283,6 @@ Dodge
  | 
 
  |
-| 
-
-**Warp Kick**  
-(★★☆)
-
- | In a flash, Titus warps to a random opponent and kicking them away.
-
--   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
--   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
--   This move is technically dodgeable, however, it is only possible at the very last moments of the attack. It's advised to block the attack instead dealing 10.46 posture.
-
-_Uses Telegraph_
-
-[BlockTelegraph](Combat_Mechanics.md#block)
-
-Block
-
--   ⚠︎ Unparryable
--   ⛊ Blockable
--   § Dodgeable
--   ⤻ Ragdoll
-
- | 
-
- |
-| **Attacks unlocked on Phase 2** |
 | 
 
 **Thunder Volley**[\[1\]](#cite-note-volley-1)  

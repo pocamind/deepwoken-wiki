@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 225585
+revid: 227150
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -178,7 +178,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 **Combat Mantra**
 
-_Dash forward in a blink, knocking down enemies in your path._
+_Leap towards your enemies and stomp, knocking up enemies caught._
 
  | 
 
@@ -186,7 +186,7 @@ _Dash forward in a blink, knocking down enemies in your path._
 
   
 **Combat Mantra**  
-_Dash forward in a blink, knocking down enemies in your path._
+_Leap towards your enemies and stomp, knocking up enemies caught._
 
  |
 | 
@@ -258,7 +258,7 @@ TBA
 
 **Combat Mantra**
 
-_Perform a kick, then warp to your enemies for a second followup kick._
+_Perform a kick, then warp to your enemies for a second follow-up kick._
 
  | 
 
@@ -266,7 +266,7 @@ _Perform a kick, then warp to your enemies for a second followup kick._
 
   
 **Combat Mantra**  
-_Perform a kick, then warp to your enemies for a second followup kick._
+_Perform a kick, then warp to your enemies for a second follow-up kick._
 
  |
 | 

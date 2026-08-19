@@ -1789,7 +1789,7 @@
   },
   "4774": {
     "title": "The Frontier Furnace",
-    "lastrevid": 218364
+    "lastrevid": 227151
   },
   "4776": {
     "title": "Royal Pathfinder",
@@ -5969,7 +5969,7 @@
   },
   "18031": {
     "title": "Oath: Blightsurger",
-    "lastrevid": 225585
+    "lastrevid": 227150
   },
   "18062": {
     "title": "Elder Primadon, The Titan Warlord",
@@ -6405,7 +6405,7 @@
   },
   "18609": {
     "title": "Titus Fulminus Destellus",
-    "lastrevid": 226766
+    "lastrevid": 227157
   },
   "18610": {
     "title": "Wrath Gem",
@@ -9754,5 +9754,9 @@
   "26399": {
     "title": "Wakeguard",
     "lastrevid": 227070
+  },
+  "26413": {
+    "title": "Konga lineage",
+    "lastrevid": 227155
   }
 }
