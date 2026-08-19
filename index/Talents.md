@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227128
+revid: 227186
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4118,7 +4118,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
             
     -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
         
-    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Charn\] \[Debuff\] \[Support\] \[Tool\]
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Charm\] \[Debuff\] \[Support\] \[Tool\]
 
 -   **Hair Spray** \[Oath Talent\] - Apply your Hair Products.
     -   Gives the Hair Spray Talent tool that applies the spray that was selected in the [Hair Products](#hair-products)' popup menu.
@@ -4139,7 +4139,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
             
     -   Prerequisites: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)  
         
-    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Charn\] \[Debuff\] \[Support\] \[Tool\]
+    -   Tags: \[[Fadetrimmer](Oath%253A_Fadetrimmer.md)\] \[Charm\] \[Debuff\] \[Support\] \[Tool\]
 
 ### Falling Star Guard
 
@@ -4255,6 +4255,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   This does not increase the distance traveled by [Dancing Steps](#dancing-steps).
     -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.  
         
+    -   Prerequisites: [Dancing Steps](#dancing-steps), 80 Flamecharm, [Power](Power.md) 13  
+        
     -   Tags: \[Flamecharm\] \[Mobility\] \[Speed Boost\]
 
 -   **Graceful Steps** \[Rare Talent\] - Your dancing steps now gives a faster speed boost.
@@ -4262,6 +4264,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   The speed boost has a very short duration; having a fast swingspeed weapon and Mantra feinting is recommended to capitalize off this Talent's effect.
     -   This does not increase the distance traveled by [Dancing Steps](#dancing-steps).
     -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.  
+        
+    -   Prerequisites: [Dancing Steps](#dancing-steps), 80 Flamecharm, [Power](Power.md) 13  
         
     -   Tags: \[Flamecharm\] \[Mobility\] \[Speed Boost\]
 
@@ -4298,7 +4302,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +1 Passive Agility  
         
-    -   Prerequisites: 40 Flamecharm, 5 Fortitude  
+    -   Prerequisites: 5 Fortitude, 40 Flamecharm  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Bloodforged Crown](Bloodforged_Crown.md), [The No-Life King's Crown](<The_No-Life_King's_Crown.md>), and [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)  
         
@@ -4311,7 +4315,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +1 Passive Agility  
         
-    -   Prerequisites: 40 Flamecharm, 5 Fortitude  
+    -   Prerequisites: 5 Fortitude, 40 Flamecharm  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Bloodforged Crown](Bloodforged_Crown.md), [The No-Life King's Crown](<The_No-Life_King's_Crown.md>), and [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)  
         
@@ -4344,7 +4348,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +1 Passive Agility  
         
-    -   Prerequisites: 25 Agility, 40 Flamecharm, [Warding Radiance](#warding-radiance)  
+    -   Prerequisites: [Warding Radiance](#warding-radiance), 25 Agility, 40 Flamecharm  
         
     -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\]
 
@@ -4353,7 +4357,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +1 Passive Agility  
         
-    -   Prerequisites: 25 Agility, 40 Flamecharm, [Warding Radiance](#warding-radiance)  
+    -   Prerequisites: [Warding Radiance](#warding-radiance), 25 Agility, 40 Flamecharm  
         
     -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\]
 
@@ -4366,7 +4370,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +4 Sanity  
         
-    -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance)  
+    -   Prerequisites: [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance), 35 Flamecharm  
         
     -   Tags: \[Flamecharm\] \[+Sanity\]
 
@@ -4379,7 +4383,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +4 Sanity  
         
-    -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance)  
+    -   Prerequisites: [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance), 35 Flamecharm  
         
     -   Tags: \[Flamecharm\] \[+Sanity\]
 
@@ -4450,7 +4454,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Increases [Graceful Flame](Flamecharm.md#graceful-flame)'s "[Undying Flame](#undying-flame)" Talent passive healing by 20%.  
         
-    -   Prerequisites: 70 Flamecharm, 40 Willpower  
+    -   Prerequisites: 40 Willpower, 70 Flamecharm  
         
     -   Mutual Exclusives: [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
         
@@ -4463,7 +4467,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Increases [Graceful Flame](Flamecharm.md#graceful-flame)'s "[Undying Flame](#undying-flame)" Talent passive healing by 20%.  
         
-    -   Prerequisites: 70 Flamecharm, 40 Willpower  
+    -   Prerequisites: 40 Willpower, 70 Flamecharm  
         
     -   Mutual Exclusives: [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
         
@@ -4574,14 +4578,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Glacial Mobility** \[Common Talent\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.  
         
-    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility  
+    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Agility, 20 Frostdraw  
         
     -   Tags: \[Agility\] \[Frostdraw\]
 
 -   **Glacial Mobility** \[Common Talent\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.  
         
-    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility  
+    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Agility, 20 Frostdraw  
         
     -   Tags: \[Agility\] \[Frostdraw\]
 
@@ -4936,8 +4940,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 ### Glassdancer
 
 -   **Glass Path: Crystallization** \[Common Talent\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
-    -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking an opponent who has crystals makes them explode.
-    -   3 base Frostdraw damage per crystal with 5 Frostdraw scaling. The formula to calculate crystal damage is: (3 + (1 + 5/1000 × Frostdraw investment)) × crystal amount
+    -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 6 ice crystals or guard breaking an opponent who has crystals makes them explode.
+    -   3 base Frostdraw damage per crystal with 5 Frostdraw scaling. The formula to calculate crystal damage is: (3 + (1 + 0.005 × Frostdraw investment)) × crystal amount
     -   Has a PvE damage multiplier of 4.45x.
     -   1s cooldown on explosion proc.
     -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
@@ -4952,8 +4956,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Frostdraw\] \[Attunement Path\] \[Debuff\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Glass Path: Crystallization** \[Common Talent\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
-    -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking an opponent who has crystals makes them explode.
-    -   3 base Frostdraw damage per crystal with 5 Frostdraw scaling. The formula to calculate crystal damage is: (3 + (1 + 5/1000 × Frostdraw investment)) × crystal amount
+    -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 6 ice crystals or guard breaking an opponent who has crystals makes them explode.
+    -   3 base Frostdraw damage per crystal with 5 Frostdraw scaling. The formula to calculate crystal damage is: (3 + (1 + 0.005 × Frostdraw investment)) × crystal amount
     -   Has a PvE damage multiplier of 4.45x.
     -   1s cooldown on explosion proc.
     -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
@@ -5091,7 +5095,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
     -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
-    -   Prerequisites: 20 Weapon (20 Light // 20 Medium // 20 Heavy) // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
+    -   Prerequisites: 20 Fortitude // 20 Weapon (20 Light // 20 Medium // 20 Heavy), completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
         
     -   Tags: \[Fortitude\] \[Weapon\] \[Quest Talent\]
 
@@ -5101,7 +5105,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
     -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
-    -   Prerequisites: 20 Weapon (20 Light // 20 Medium // 20 Heavy) // 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
+    -   Prerequisites: 20 Fortitude // 20 Weapon (20 Light // 20 Medium // 20 Heavy), completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
         
     -   Tags: \[Fortitude\] \[Weapon\] \[Quest Talent\]
 
@@ -5259,7 +5263,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).  
         
-    -   Prerequisites: 90 Light Weapon, 60 Intelligence, [True Ether Bullets](#true-ether-bullets), Using a [Pistol](Pistols.md)  
+    -   Prerequisites: [True Ether Bullets](#true-ether-bullets), 60 Intelligence, 90 Light Weapon, Using a [Pistol](Pistols.md)  
         
     -   Tags: \[Intelligence\] \[Light Weapon\] \[Dual Pistols\] \[Investment Scaling\] \[Pistol\]
 
@@ -5267,7 +5271,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).  
         
-    -   Prerequisites: 90 Light Weapon, 60 Intelligence, [True Ether Bullets](#true-ether-bullets), Using a [Pistol](Pistols.md)  
+    -   Prerequisites: [True Ether Bullets](#true-ether-bullets), 60 Intelligence, 90 Light Weapon, Using a [Pistol](Pistols.md)  
         
     -   Tags: \[Intelligence\] \[Light Weapon\] \[Dual Pistols\] \[Investment Scaling\] \[Pistol\]
 
@@ -5408,7 +5412,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
         -   Has a cooldown of 19.71 seconds at 80 Willpower, a maximum cooldown of 21.86 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.  
             
-    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).  
+    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md)  
         
     -   Tags: \[Willpower\] \[Investment Scaling\] \[Sanity\] \[Scale-down\] \[Tool\]
 
@@ -5421,7 +5425,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
         -   Has a cooldown of 19.71 seconds at 80 Willpower, a maximum cooldown of 21.86 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.  
             
-    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).  
+    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md)  
         
     -   Tags: \[Willpower\] \[Investment Scaling\] \[Sanity\] \[Scale-down\] \[Tool\]
 
@@ -5530,7 +5534,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +5 Sanity  
         
-    -   Prerequisites: 40 Willpower, [Glare](Attunement-less.md#glare) (Mantra)  
+    -   Prerequisites: [Glare](Attunement-less.md#glare) (Mantra), 40 Willpower  
         
     -   Tags: \[Willpower\] \[+Sanity\]
 
@@ -5539,7 +5543,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Grants +5 Sanity  
         
-    -   Prerequisites: 40 Willpower, [Glare](Attunement-less.md#glare) (Mantra)  
+    -   Prerequisites: [Glare](Attunement-less.md#glare) (Mantra), 40 Willpower  
         
     -   Tags: \[Willpower\] \[+Sanity\]
 

@@ -1,6 +1,6 @@
 ---
 title: Parasol Planter
-revid: 223320
+revid: 227165
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,7 +34,8 @@ This hat can be found in chests from the [Interluminary Parasol](Interluminary_P
 Grants the user the [Grotesque Resilience](Talents.md#grotesque-resilience) Unique Equipment Talent, which reduces damage taken from "Damage Over Time" effects.
 
 -   Grotesque Resilience works on:
-    -   Burn - 50% damage reduction, Bleed - 25% damage reduction
+    -   Bleed - 25% damage reduction
+    -   Burn - 50% damage reduction
         -   If you are using Flame Within, the DoT damage reduction is reduced to 25%.
 -   Notably, it does not work on all Damage over Time effects.
     -   It does **not** work on: Damaging [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Viscosity](Viscosity.md), [Deferred](Deferred.md), [Reveal](Oath%253A_Bladeharper.md#reveal), or [Rush Hour](Talents.md#rush-hour).

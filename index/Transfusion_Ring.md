@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 225987
+revid: 227170
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -34,4 +34,4 @@ Ring location in the [Vow of Iron](Vow_of_Iron.md) map:
 ## Trivia
 
 -   This ring intermittently emits gold-colored particles.
--   This ring does not affect any healing outside of green healing. Campfire regeneration, natural regeneration, NLK, health packs, etc. Are completely unaffected.
+-   This ring does not affect any healing outside of green healing, meaning passive forms of regeneration such as campfires, natural regeneration, Curse of the No-Life King Enchant and health packs are unaffected.

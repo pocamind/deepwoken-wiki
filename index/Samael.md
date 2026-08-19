@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 215489
+revid: 227171
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
@@ -185,22 +185,28 @@ Samael is located in a hidden area underneath the [Derelict Highchurch](Derelict
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2">So, is it done? Has Iblis been brought to justice?</td>
+  <td colspan="4">So, is it done? Has Iblis been brought to justice?</td>
 </tr>
 <tr>
-  <td>Player has killed Iblis</td>
-  <td>Player has not killed Iblis</td>
+  <td colspan="2">Player has killed Iblis</td>
+  <td colspan="2">Player has not killed Iblis</td>
 </tr>
 <tr>
-  <td>Iblis is slain.</td>
-  <td>I have not yet succeeded.</td>
+  <td colspan="2">Iblis is slain.</td>
+  <td colspan="2">I have not yet succeeded.</td>
+</tr>
+<tr>
+  <td>Player has 40 or more Strength</td>
+  <td>Player has less than 40 Strength</td>
+  <td colspan="2">Hm. Lost your way? You may find him by the Star Tree that dwells within Starswept Valley. Ensure that he is brought to justice.</td>
 </tr>
 <tr>
   <td>So, it was providence after all that brought you before us. Perhaps you are worthy to join our order. Would that interest you?</td>
-  <td>Hm. Lost your way? You may find him by the Star Tree that dwells within Starswept Valley. Ensure that he is brought to justice.</td>
+  <td>Truly, you have done a great deed. Should the strength you once held return to you, I would be happy to offer a place amongst our order. I am afraid that you would not be compatible in this state...</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>It would be my honour.</td>
