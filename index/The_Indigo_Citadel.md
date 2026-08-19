@@ -1,6 +1,6 @@
 ---
 title: The Indigo Citadel
-revid: 226629
+revid: 227162
 source: https://deepwoken.fandom.com/wiki/The_Indigo_Citadel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Territory of Etrean Royalists]
@@ -33,7 +33,7 @@ You can purchase an additional [Etris Flask](Etris_Flask.md) at this location fo
 ## Contents
 
 -   2 Power 10 [Job Boards](Job_Boards.md)
--   1 Power 5 [Job Board](Job_Boards.md)
+-   1 Power 15 [Job Board](Job_Boards.md)
 -   [Etris Flask](Etris_Flask.md)
 
 ## NPCs
