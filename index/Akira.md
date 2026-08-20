@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 226487
+revid: 227205
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Black Divers]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Akira is an [Etrean](Etrean.md) NPC.
+Akira is an [Etrean](Etrean.md).
 
 Akira is one of the strongest Black Divers in modern history, on the same tier as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).[\[1\]](#cite-note-1)
 
