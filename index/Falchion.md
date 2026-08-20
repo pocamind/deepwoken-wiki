@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 226542
+revid: 227203
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -42,7 +42,7 @@ The Alloyed Falchion has better stats than the [Warden Ceremonial Sword](Warden_
 
 ## Critical
 
-After a short windup, perform a horizontal slash at your opponent's legs. This critical deals **1.25x scaled damage** and 10 posture damage. This critical also has **90% chip** damage. Applies [Daze](Status_Effects.md#daze) on successful hit.
+After a short windup, perform a horizontal slash at your opponent's legs. This critical deals **1.55x scaled damage** and 10 posture damage. This critical also has **90% chip** damage. Applies [Daze](Status_Effects.md#daze) on successful hit.
 
 This critical has a **5 second cooldown**.
 
