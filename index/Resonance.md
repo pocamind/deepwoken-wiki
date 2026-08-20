@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 220023
+revid: 227195
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -245,7 +245,7 @@ Once you select your card, using C will activate your **Resonance**.
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.\[citation needed\]
 -   Resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance.
 -   Arch\_Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect Resonance progression.
--   It has been reported that the Boss Path can switch to the Depths Path suddenly for unknown reasons, likely due to a bug.
+-   It has been reported that the Boss Path can switch to any of the other paths suddenly for unknown reasons, likely due to a bug.
 -   Bosses are the most efficient way to gain Resonance progression.
 -   Being a Deepbound and having the Depths Path is usually enough to get your Resonance just by reaching Power 20.
 -   Within the [Second Layer of the Depths](Second_Layer.md) exists a set of three Resonance doors under [Firfire](Firfire.md), which have a unique orange-coloration; the significance of this is unknown, but it is theorized that they were created by the _[unique Flamecharmer](Aska.md) behind the doors, who awaits the arrival of their [lord](Amorus_Pleeksty.md)._

@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 217854
+revid: 227197
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -532,6 +532,10 @@ TBA [IconEther](Ether.md)
 ### True Heart of Enmity
 
 -   Not My Tempo \[Memento Talent\] - Dancer's Beat grants Hyperarmor.
+
+## Tips
+
+-   It is recommended to grab the [Rifle Spear](Rifle_Spear.md), located at the Legion Camp [Boundary](Boundary.md) as it is a high damaging spear that can be equipped at any power.
 
 ## Trivia
 

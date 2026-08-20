@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Visor"
-revid: 226118
+revid: 227189
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Visor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Central Authority]
@@ -29,10 +29,12 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 
 The Inquisitor's Visor is an [Equipment](Equipment.md) item under the "Face" category.
 
-The [Blind Spot](Talents.md#blind-spot) Talent applies [Blinded](Status_Effects.md#blinded) for 5 seconds to opponents when you land a critical attack or the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This has a 15 second cooldown. The [Blinded](Talents.md#blinded) Talent applies the [Blinded](Status_Effects.md#blinded) effect to the wearer, heavily reducing their vision. This, or the [Blind](Boons_and_Flaws.md#flaws) Flaw, is a requirement to obtain the [Blindseer](Oath%253A_Blindseer.md) Oath.
+The [Blind Spot](Talents.md#blind-spot) Talent applies [Blinded](Status_Effects.md#blinded) for 5 seconds to opponents when you land a critical attack or the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This has a 15 second cooldown.
+
+The [Blinded](Talents.md#blinded) Talent applies the [Blinded](Status_Effects.md#blinded) effect to the wearer, heavily reducing their vision. This, or the [Blind](Boons_and_Flaws.md#flaws) Flaw, is a requirement to obtain the [Blindseer](Oath%253A_Blindseer.md) Oath.
 
 ## Trivia
 
 -   Worn by [High Inquisitor Merey](High_Inquisitor_Merey.md) and [High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md). The [Etrean Apostle](Etrean_Apostle.md) wears a vantablack version of the visor, despite being affiliated with the Authority's enemy.
--   This was the only Equipment that had negative health as a stat.
--   This equipment used to give -5 Health IconHealth. This gave it the opposite innate stats of the [Citadel Frames](Citadel_Frames.md), which grants +5 Health IconHealth and -1 Posture [IconPosture](Combat_Mechanics.md#posture) instead.
+-   This equipment used to give -5 Health IconHealth.
+    -   This was the only Equipment that had negative health as a stat.
