@@ -1,11 +1,9 @@
 ---
 title: Glassdancer Shinwraps
-revid: 226664
+revid: 227210
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Shinwraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Equipment, Legs, Boots, Fishing Loot, Echo Unlockables]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Equipment, Legs, Boots, Fishing Loot, Echo Unlockables]
 ---
 
 # Glassdancer Shinwraps
@@ -25,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest |
+| obtainment | Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Minityrsa |
 | description | ... |
 
 Glassdancer Set
