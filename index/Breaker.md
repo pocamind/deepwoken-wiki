@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 217955
+revid: 227233
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -35,56 +35,248 @@ This content is not accessible outside of this gamemode.
 
 **Breaker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You get access to both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) fighting styles.
 
-The Breaker is a hulking brute, empowering themselves throughout the fight, leaving Mantras like Strong Left and Rapid Punches extremely devastating.
+The Breaker is a hulking brute, empowering themselves throughout the fight, leaving Mantras like [Strong Left](Attunement-less.md#strong-left) and [Rapid Punches](Attunement-less.md#rapid-punches) extremely devastating.
 
 ## Starting Abilities
 
--   Calamity Punch \[Memento Talent\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Calamity Punch</b><abbr></abbr></center><div>TalentIconFist</div><center><small>[Memento Talent]</small><small></small><br>
+  <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Breaker</strong>] [Damage Buff]</small></center><center>Every successful <a href="Attunement-less.md#strong-left">Strong Left</a> builds up stacks to perform a larger scale punch.</center><br>
+  </td>
+  <td><p><br>
+  </p>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
--   _Legion Kata_ \[Quest Talent\] - Gain the ability to use the Legion's martial arts.
-    -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
+-   **Calamity Punch** \[Memento Talent\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
+    
+    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Damage Buff\]
 
--   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
-    -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
+<table>
+<tbody>
+<tr>
+  <td><center><b>Legion Kata</b></center><div>TalentIconFist</div><center><small>[Quest Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] [<a href="Fists.md#styles">Fist Style</a>] [Fist]</small></center><center>Gain the ability to use the Legion's martial arts.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Allows you to use <a href="Legion_Kata.md">Legion Kata</a>, a <a href="Fists.md">fist style</a>.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
--   Against All Odds \[Common Talent\] - For each combat tag you have on your character, increase your damage by 2% (max of 14%).
-    -   Works in PvE combat, with each mob counting as an individual combat tag.
+-   **Legion Kata** \[Quest Talent\] - Gain the ability to use the Legion's martial arts.
+    
+    -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).  
+        
+    -   Tags: \[**Breaker**\] \[[Fist Style](Fists.md#styles)\] \[Fist\]
 
--   Emergency Reserves \[Common Talent\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
-    -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Way of Navae</b></center><div>TalentIconFist</div><center><small>[Quest Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] [<a href="Fists.md#styles">Fist Style</a>] [Fist]</small></center><center>Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Allows you to use the <a href="Way_of_Navae.md">Way of Navae</a> <a href="Fists.md">fist style</a>.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
--   Unswayed \[Common Talent\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
-    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
-    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
-        -   Sing can still apply Charm/Overcharm to the user.
+-   **Way of Navae** \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+    
+    -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).  
+        
+    -   Tags: \[**Breaker**\] \[[Fist Style](Fists.md#styles)\] \[Fist\]
 
--   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Against All Odds</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] [Combat Tag] [Damage Buff]</small></center><center>For each combat tag you have on your character, increase your damage by 2% (max of 14%).</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Works in PvE combat, with each mob counting as an individual combat tag.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Against All Odds** \[Common Talent\] - For each combat tag you have on your character, increase your damage by 2% (max of 14%).
+    
+    -   Works in PvE combat, with each mob counting as an individual combat tag.  
+        
+    -   Tags: \[**Breaker**\] \[Combat Tag\] \[Damage Buff\]
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Emergency Reserves</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] [Tempo]</small></center><center>When you get hit below 20% health, gain 20% tempo immediately.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Grants 20% of your maximum <a href="Combat_Mechanics.md#tempo">Tempo</a> on proc.</li>
+    <li>3 minute cooldown.</li>
+    <li>While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Emergency Reserves** \[Common Talent\] - When you get hit below 20% health, gain 20% tempo immediately.
+    
+    -   Grants 20% of your maximum [Tempo](Combat_Mechanics.md#tempo) on proc.
+    -   3 minute cooldown.
+    -   While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.  
+        
+    -   Tags: \[**Breaker**\] \[Tempo\]
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Unswayed</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] [+Sanity]</small></center><center>The effects of <a href="Attunement-less.md#taunt">Taunt</a> and <a href="Talents/Vow_of_Iron.md#encore">Encore</a> no longer work on you.</center><br>
+  <center><small>+20 Sanity</small></center><br>
+  </td>
+  <td>
+  <ul>
+    <li>The <a href="Attunement-less.md#taunt">Taunt</a> Mantra, and the "<a href="Talents/Vow_of_Iron.md#cornered-fool">Cornered Fool</a>" Talent can no longer inflict "<a href="Status_Effects.md#taunt">Taunt</a>" on the user.</li>
+    <li>The <a href="Attunement-less.md#sing">Sing</a> Mantra can no longer use the Talent "<a href="Talents/Vow_of_Iron.md#encore">Encore</a>" on the user, nullifying the stun effect.
+  <ul>
+    <li>Sing can still apply <kbd><abbr><a href="Status_Effects.md#charm">Charm</a></abbr></kbd> or <a href="Status_Effects.md#overcharm">Overcharm</a> to the user.</li>
+  </ul></li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Unswayed** \[Common Talent\] - The effects of [Taunt](Attunement-less.md#taunt) and [Encore](Talents/Vow_of_Iron.md#encore) no longer work on you.
+    
+    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](Talents/Vow_of_Iron.md#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
+    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "[Encore](Talents/Vow_of_Iron.md#encore)" on the user, nullifying the stun effect.
+        -   Sing can still apply [Charm](Status_Effects.md#charm) or [Overcharm](Status_Effects.md#overcharm) to the user.  
+            
+    -   Grants +20 Sanity  
+        
+    -   Tags: \[**Breaker**\] \[+Sanity\]
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Carnivore</b></center><div>TalentIconTeeth</div><center><small>[Rare Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] [Food]</small></center><center>In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>You now vomit upon consuming Plant-type <a href="Food.md">food</a> items. You can still consume Generic of Meat-type food items.</li>
+    <li>Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)</li>
+    <li>Does not work on certain mobs, such as <a href="Enforcer.md">Servants of Enmity</a>, or player-summoned <a href="Thundercall.md#lightning-clones">Lightning Clones</a>.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Carnivore** \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+    
+    -   You now vomit upon consuming Plant-type [food](Food.md) items. You can still consume Generic of Meat-type food items.
     -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
-    -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, providing a free talent hand on rejoin/next power.
-    -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
-    -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
+    -   Does not work on certain mobs, such as [Servants of Enmity](Enforcer.md), or player-summoned [Lightning Clones](Thundercall.md#lightning-clones).  
+        
+    -   Tags: \[**Breaker**\] \[Food\]
 
--   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Defiance</b></center><div>TalentIconClimb</div><center><small>[Rare Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] <abbr>[Scale-down]</abbr></small></center><center>Negative status effects are half as effective when you are below 35% HP.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.</li>
+    <li>Currently, the only things Defiance cuts in half are:
+  <ul>
+    <li>Flamecharm's <a href="Status_Effects.md#burn"><font>Burn</font></a> damage</li>
+    <li>Frostdraw's <a href="Status_Effects.md#chill">Chill</a> and <a href="Status_Effects.md#crystals">Cryst</a> stack duration</li>
+    <li>Galebreathe's <a href="Status_Effects.md#winded">Winded</a> and <a href="Status_Effects.md#suffocation">Suffocation</a> duration</li>
+    <li>Thundercall's <a href="Status_Effects.md#surge-rods">Surge Rod</a> duration</li>
+    <li>Shadowcast's duration</li>
+    <li><a href="Status_Effects.md#blood-poisoning">Blood Poisoning</a> gain</li>
+    <li><a href="Status_Effects.md#wither"><font>Wither</font></a> gain</li>
+    <li><a href="Ring_of_Pestilence.md">Ring of Pestilence</a> duration</li>
+    <li>The potency of <a href="Alchemy.md">potions</a></li>
+    <li>Time <a href="Status_Effects.md#unconscious"><font>Unconscious</font></a> (cut by 50% multiplicatively after other modifiers)</li>
+  </ul></li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Defiance** \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
+    
     -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
-    -   Prerequisite: 70 Willpower
     -   Currently, the only things Defiance cuts in half are:
-        -   Flamecharm's burn damage
-        -   Frostdraw's chill duration
-        -   Galebreathe's winded duration
-        -   Galebreathe's suffocation duration
-        -   Frostdraw's crystal stacks
-        -   Thundercall's surge stacks
-        -   Shadowcast's Sightless Still duration
-        -   Blood Poisoning
-        -   Wither gain
-        -   Ring of Pestillence duration
-        -   The potency of potions
-        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
+        -   Flamecharm's [Burn](Status_Effects.md#burn) damage
+        -   Frostdraw's [Chill](Status_Effects.md#chill) and [Cryst](Status_Effects.md#crystals) stack duration
+        -   Galebreathe's [Winded](Status_Effects.md#winded) and [Suffocation](Status_Effects.md#suffocation) duration
+        -   Thundercall's [Surge Rod](Status_Effects.md#surge-rods) duration
+        -   Shadowcast's duration
+        -   [Blood Poisoning](Status_Effects.md#blood-poisoning) gain
+        -   [Wither](Status_Effects.md#wither) gain
+        -   [Ring of Pestilence](Ring_of_Pestilence.md) duration
+        -   The potency of [potions](Alchemy.md)
+        -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
+            
+    -   Tags: \[**Breaker**\] \[Scale-down\]
 
--   _Piercing Will_ \[Rare Talent\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Piercing Will</b></center><div>TalentIconHandshake</div><center><small>[Rare Talent]</small><small></small><br>
+  <small>[<strong>Breaker</strong>] [Insanity] [PEN]</small></center><center>When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Grants a 10% PEN bonus at full insanity despite what the description states.</li>
+    <li>The bonus PEN is applied starting from 35% Sanity.</li>
+    <li>Scales on your current sanity percentage.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Piercing Will** \[Rare Talent\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
+    
     -   Grants a 10% PEN bonus at full insanity despite what the description states.
     -   The bonus PEN is applied starting from 35% Sanity.
-    -   Scales on your current sanity percentage.
+    -   Scales on your current sanity percentage.  
+        
+    -   Tags: \[**Breaker**\] \[Insanity\] \[PEN\]
 
   
 
@@ -152,11 +344,10 @@ N/A
 
 **Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
--   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling.
+-   Has a base damage of 15/22.5/30/37.5/45[/52.5](Caster_Fur_Pauldrons.md) per level with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5.
--   Deals 22/24/26/28/30 posture damage per level.
+-   Deals 22/24/26/28/30[/32](Caster_Fur_Pauldrons.md) posture damage per level.
 -   Has a wind-up of 0.55s, and an endlag of 0.25s (0.35s if whiffed).
--   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
 
  |
 
@@ -164,13 +355,62 @@ N/A
 
 ### Starting Deck
 
--   Braced Collapse \[Common Talent\] **100** \- After being block broken, the next attack to hit you deals reduced damage.
-    -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.
+<table>
+<tbody>
+<tr>
+  <td><center><b>Braced Collapse</b></center><div>TalentIconFist</div><center><small>[Common Talent]</small><small><br>
+  <b>100</b></small><br>
+  <small>[<strong>Breaker</strong>] [Damage Resistance] [Guardbreak]</small></center><center>After being block broken, the next attack to hit you deals reduced damage.</center><br>
+  </td>
+  <td>
+  <ul>
+    <li>After being block broken, reduce the next instance of damage by 20%. This has no cooldown.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
--   Steady Footing \[Common Talent\] **100** \- You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
-    -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
+-   **Braced Collapse** \[Common Talent\] **100** \- After being block broken, the next attack to hit you deals reduced damage.
+    
+    -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.  
+        
+    -   Tags: \[**Breaker**\] \[Damage Resistance\] \[Guardbreak\]
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Steady Footing</b></center><div>TalentIconBoots</div><center><small>[Common Talent]</small><small><br>
+  <b>100</b></small><br>
+  <small>[<strong>Breaker</strong>] [+Carry Load] [+Passive Agility]</small></center><center>You're much more resistant to being pushed around.</center><br>
+  <center><small>+5 Carry Load, +2 Passive Agility</small></center><br>
+  </td>
+  <td>
+  <ul>
+    <li>Reduces knockback to the user by 20%. (stacks with other sources of Knockback Resistance, including <a href="Equipment.md">Anchor</a> Pips)
+  <ul>
+    <li>This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be <b>not recommended</b> outside PvE.</li>
+  </ul></li>
+    <li>Removes ice's bonus slide distance, but <b>does not</b> affect the lowered friction when moving on ice.</li>
+  </ul>
+  <ul>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+-   **Steady Footing** \[Common Talent\] **100** \- You're much more resistant to being pushed around.
+    
+    -   Reduces knockback to the user by 20%. (stacks with other sources of Knockback Resistance, including [Anchor](Equipment.md) Pips)
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
-    -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
+    -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.  
+        
+    -   Grants +5 Carry Load, +2 Passive Agility  
+        
+    -   Tags: \[**Breaker**\] \[+Carry Load\] \[+Passive Agility\]
+
+  
 
 -   Threefold Impact \[Memento Talent\] **200** \- Every stack built with [Strong Left](Attunement-less.md#strong-left) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
     

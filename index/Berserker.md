@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 226971
+revid: 227231
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -34,7 +34,7 @@ This content is not accessible outside of this gamemode.
 <tbody>
 <tr>
   <td><center><b>Until it is Done</b><abbr></abbr></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small></small><br>
-  <small>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive] [<strong>Berserker</strong>]</small></center><center></center><br>
+  <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Berserker</strong>]</small></center><center>Your <kbd><abbr><a href="Status_Effects.md#berserk-state">Berserk State</a></abbr></kbd> lasts until you willingly end it.</center><br>
   </td>
   <td>
   <ul>
@@ -46,11 +46,11 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Until it is Done** \[Memento Talent\] -
+-   **Until it is Done** \[Memento Talent\] - Your [Berserk State](Status_Effects.md#berserk-state) lasts until you willingly end it.
     
     -   Your [Berserk](Talents/Vow_of_Iron.md#berserk) has an indefinite duration, lasting until the user manually turns it off.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] \[**Berserker**\]
+    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\]
 
 <table>
 <tbody>
@@ -218,9 +218,9 @@ This content is not accessible outside of this gamemode.
 <table>
 <tbody>
 <tr>
-  <td><center><b>Ruinous Recovery</b></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small><br>
+  <td><center><b>Ruinous Recovery</b><abbr></abbr></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small><br>
   <b>200</b></small><br>
-  <small>[<strong>Berserker</strong>] [Guardbreak]</small></center><center>Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.</center><br>
+  <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Berserker</strong>] [Guardbreak]</small></center><center>Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.</center><br>
   </td>
   <td><p><br>
   </p>
@@ -232,7 +232,7 @@ This content is not accessible outside of this gamemode.
 
 -   **Ruinous Recovery** \[Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
     
-    -   Tags: \[**Berserker**\] \[Guardbreak\]
+    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Guardbreak\]
 
 <table>
 <tbody>
@@ -587,7 +587,7 @@ N/A
 <tr>
   <td><center><b>Residual Fury</b><abbr></abbr></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small><br>
   <b>200</b></small><br>
-  <small>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive] [<strong>Berserker</strong>] [Critical Attack] [PEN]</small></center><center><abbr>In Berserk State</abbr><br>
+  <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Berserker</strong>] [Critical Attack] [PEN]</small></center><center><abbr>In Berserk State</abbr><br>
   Landing your critical grants +50% PEN on Basic Attacks for 8s.</center><br>
   </td>
   <td>
@@ -606,7 +606,7 @@ N/A
         
     -   The In Berserk State condition must be met in order for this Talent to apply.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] \[**Berserker**\] \[Critical Attack\] \[PEN\]
+    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Critical Attack\] \[PEN\]
 
 <table>
 <tbody>
@@ -930,7 +930,7 @@ Slash ResistanceSlash
     <li>Flamecharm's <a href="Status_Effects.md#burn"><font>Burn</font></a> damage</li>
     <li>Frostdraw's <a href="Status_Effects.md#chill">Chill</a> and <a href="Status_Effects.md#crystals">Crystal</a> stack duration</li>
     <li>Galebreathe's <a href="Status_Effects.md#winded">Winded</a> and <a href="Status_Effects.md#suffocation">Suffocation</a> duration</li>
-    <li>Thundercall's <a href="Status_Effects.md#surge-rods">Surge Rods</a></li>
+    <li>Thundercall's <a href="Status_Effects.md#surge-rods">Surge Rod</a> duration</li>
     <li>Shadowcast's <a href="Status_Effects.md#obscured">Sightless Still</a> duration</li>
     <li><a href="Status_Effects.md#blood-poisoning">Blood Poisoning</a> gain</li>
     <li><a href="Status_Effects.md#wither"><font>Wither</font></a> gain</li>
@@ -952,7 +952,7 @@ Slash ResistanceSlash
         -   Flamecharm's [Burn](Status_Effects.md#burn) damage
         -   Frostdraw's [Chill](Status_Effects.md#chill) and [Crystal](Status_Effects.md#crystals) stack duration
         -   Galebreathe's [Winded](Status_Effects.md#winded) and [Suffocation](Status_Effects.md#suffocation) duration
-        -   Thundercall's [Surge Rods](Status_Effects.md#surge-rods)
+        -   Thundercall's [Surge Rod](Status_Effects.md#surge-rods) duration
         -   Shadowcast's [Sightless Still](Status_Effects.md#obscured) duration
         -   [Blood Poisoning](Status_Effects.md#blood-poisoning) gain
         -   [Wither](Status_Effects.md#wither) gain
@@ -1072,8 +1072,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 -   The final hit applies [True Daze](Status_Effects.md#true-daze).
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
--   Contrary to what's shown in the gif, the wind-up before the first hit does **not** have hyperarmor.
--   The great axe, Iron Birch, has a talent named expeditious combo regarding this mantra where it will come out faster after an uppercut.
+-   Equipping the [Iron Birch](Iron_Birch.md) gives you the [Expeditious Combo](Talents/Vow_of_Iron.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing a basic attack uppercut.
 
  |
 
@@ -1084,8 +1083,8 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 <table>
 <tbody>
 <tr>
-  <td><center><b>Rip and Tear</b></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small></small><br>
-  <small>[<strong>Berserker</strong>] [Sustain]</small></center><center>Regain health upon defeating an enemy.</center><br>
+  <td><center><b>Rip and Tear</b><abbr></abbr></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small></small><br>
+  <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Berserker</strong>] [Sustain]</small></center><center>Regain health upon defeating an enemy.</center><br>
   </td>
   <td><p><br>
   </p>
@@ -1097,7 +1096,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 
 -   **Rip and Tear** \[Memento Talent\] - Regain health upon defeating an enemy.
     
-    -   Tags: \[**Berserker**\] \[Sustain\]
+    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Sustain\]
 
 ### Dravik, The Rat King
 
@@ -1148,8 +1147,8 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 <table>
 <tbody>
 <tr>
-  <td><center><b>Righteous Rage</b></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small></small><br>
-  <small>[<strong>Berserker</strong>] [Boss Reward] [Damage Buff]</small></center><center><link><abbr>In Berserk State</abbr><br>
+  <td><center><b>Righteous Rage</b><abbr></abbr></center><div>TalentIconTeeth</div><center><small>[Memento Talent]</small><small></small><br>
+  <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Berserker</strong>] [Boss Reward] [Damage Buff]</small></center><center><link><abbr>In Berserk State</abbr><br>
   You deal increased damage the lower your health is.</center><br>
   </td>
   <td><p><br>
@@ -1164,4 +1163,4 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
     
     -   The In Berserk State condition must be met in order for this Talent to apply.  
         
-    -   Tags: \[**Berserker**\] \[Boss Reward\] \[Damage Buff\]
+    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Boss Reward\] \[Damage Buff\]

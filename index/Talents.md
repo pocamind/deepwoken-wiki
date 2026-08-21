@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227193
+revid: 227234
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -806,9 +806,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by killing others.
     -   You now vomit when consuming plant-based [Food](Food.md) items. Generic and Meat-type foods are still consumable.
     -   Gain hunger and thirst upon executing an monster, NPC, or player. The nourishment gained scales on the strength of the target.
-    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
-        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
-            
+    -   Does not work on certain mobs, such as [Servants of Enmity](Enforcer.md), or player-summoned [Lightning Clones](Thundercall.md#lightning-clones).  
+        
     -   Prerequisites: 5 Strength, 5 Willpower  
         
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw  
@@ -818,9 +817,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   **Carnivore** \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by killing others.
     -   You now vomit when consuming plant-based [Food](Food.md) items. Generic and Meat-type foods are still consumable.
     -   Gain hunger and thirst upon executing an monster, NPC, or player. The nourishment gained scales on the strength of the target.
-    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
-        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
-            
+    -   Does not work on certain mobs, such as [Servants of Enmity](Enforcer.md), or player-summoned [Lightning Clones](Thundercall.md#lightning-clones).  
+        
     -   Prerequisites: 5 Strength, 5 Willpower  
         
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw  
@@ -829,10 +827,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Grand Feast** \[Common Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing.
     -   The healing is negated while in PVP combat.
-    -   On proc, gain 40% maximum [Tempo](Combat_Mechanics.md#tempo), 55% maximum [Ether](Ether.md), 3% maximum blood, and 5% maximum health.
-    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
-        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
-            
+    -   On [Carnivore](#carnivore) proc, replenish 40% of your maximum [Tempo](Combat_Mechanics.md#tempo), 55% of your maximum [Ether](Ether.md), 3% of your maximum blood, and 5% of your maximum health.  
+        
     -   Grants +1 Passive Agility  
         
     -   Prerequisites: [Carnivore](#carnivore)  
@@ -841,10 +837,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Grand Feast** \[Common Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing.
     -   The healing is negated while in PVP combat.
-    -   On proc, gain 40% maximum [Tempo](Combat_Mechanics.md#tempo), 55% maximum [Ether](Ether.md), 3% maximum blood, and 5% maximum health.
-    -   Does not work on certain mobs, such as "[Enmity Enforcers](Enforcer.md)", or the "[Lightning Clones](Thundercall.md#lightning-clones)" player Mantra.
-        -   It works on [Ferryman](The_Ferryman.md)'s lightning clones however.  
-            
+    -   On [Carnivore](#carnivore) proc, replenish 40% of your maximum [Tempo](Combat_Mechanics.md#tempo), 55% of your maximum [Ether](Ether.md), 3% of your maximum blood, and 5% of your maximum health.  
+        
     -   Grants +1 Passive Agility  
         
     -   Prerequisites: [Carnivore](#carnivore)  

@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 227062
+revid: 227220
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -54,4 +54,4 @@ Both criticals have a cooldown of **7 seconds**.
 -   The Ironsing icon is engraved on both sides of the gun.
 -   The [Sleight of Hand](Talents.md#sleight-of-hand) Talent procs on dual guns, reloading one bullet on flourish, despite stating it's single gun only. Because of this, you can use Iron Requiem's running critical on dual guns.
 -   Along with the [Soulwrought Gun](Crazy_Slots.md#weapons) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three pistols in the game to play a unique sound effect on M1/crit.
--   This Weapon is likely a [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure) Reference. The gun being either a reference to [Hol Horse's](https://jojo.fandom.com/wiki/Hol_Horse) [Emperor](https://jojo.fandom.com/wiki/Emperor) Or [Guido Mista's](https://jojo.fandom.com/wiki/Guido_Mista) Revolver
+-   This Weapon is likely a [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure) Reference. The gun most likely being a reference to [Hol Horse's](https://jojo.fandom.com/wiki/Hol_Horse) [Emperor](https://jojo.fandom.com/wiki/Emperor). This is also shown in this Weapon's Name "Iron _**Requiem**_" likely coming from [Gold Experience _**Requiem**_](https://jojo.fandom.com/wiki/Gold_Experience_Requiem) or [Silver Chariot _**Requiem**_](https://jojo.fandom.com/wiki/Chariot_Requiem)

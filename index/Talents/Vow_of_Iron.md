@@ -1,6 +1,6 @@
 ---
 title: Talents/Vow of Iron
-revid: 226975
+revid: 227230
 source: https://deepwoken.fandom.com/wiki/Talents/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -20,8 +20,8 @@ Variants: [Talents](../Talents.md)
 
 -   FIND A SPECIFIC TALENT: Input the Talent name to find the specific Talent and its requirements.
     -   _(i.e "Orbital lce" to find the description, requirements, and effect for Orbital lce)_
--   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
-    -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
+-   FIND A GROUP OF TALENTS: Input a Memento name to find Talents pertaining to that Memento. Talents that can be obtained by any Memento are separated by Talent category instead.
+    -   _(i.e "Drifter" to find Talents that are found from the Drifter Memento, or "Innate" to find the Aspect Talents)_
 -   Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Berserker\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
     -   -   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
         -   General:
@@ -84,17 +84,17 @@ These Talents can only be taken by certain Mementos.
 
 These Talents are given to the Player upon creating their character.
 
--   **Until it is Done** \[Memento Talent\] -
+-   **Until it is Done** \[Memento Talent\] - Your [Berserk State](../Status_Effects.md#berserk-state) lasts until you willingly end it.
     
     -   Your [Berserk](#berserk) has an indefinite duration, lasting until the user manually turns it off.  
         
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\]
     
 
--   **Until it is Done** \[Memento Talent\] -
+-   **Until it is Done** \[Memento Talent\] - Your [Berserk State](../Status_Effects.md#berserk-state) lasts until you willingly end it.
     -   Your [Berserk](#berserk) has an indefinite duration, lasting until the user manually turns it off.  
         
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\]
 
 -   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](../Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](../Talents.md#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
@@ -206,13 +206,14 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
     
     -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
-    -   Tags: \[[Berserker](../Berserker.md)\] \[Guardbreak\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Guardbreak\]
+    
 
 -   **Ruinous Recovery** \[Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
     
     -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
-    -   Tags: \[[Berserker](../Berserker.md)\] \[Guardbreak\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Guardbreak\]
 
 -   _Bulldozer_ \[Rare Talent\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
     -   This has a 50% chance to break destructible objects when you flourish people into them.  
@@ -296,7 +297,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
     
 
 -   **Residual Fury** \[Memento Talent\] **200** \- \[In Berserk State\] Landing your critical grants +50% PEN on Basic Attacks for 8s.
@@ -306,7 +307,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
 
 -   _Exoskeleton_ \[Rare Talent\] **250** \- You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
     -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude.
@@ -392,7 +393,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         -   Flamecharm's [Burn](../Status_Effects.md#burn) damage
         -   Frostdraw's [Chill](../Status_Effects.md#chill) and [Crystal](../Status_Effects.md#crystals) stack duration
         -   Galebreathe's [Winded](../Status_Effects.md#winded) and [Suffocation](../Status_Effects.md#suffocation) duration
-        -   Thundercall's [Surge Rods](../Status_Effects.md#surge-rods)
+        -   Thundercall's [Surge Rod](../Status_Effects.md#surge-rods) duration
         -   Shadowcast's [Sightless Still](../Status_Effects.md#obscured) duration
         -   [Blood Poisoning](../Status_Effects.md#blood-poisoning) gain
         -   [Wither](../Status_Effects.md#wither) gain
@@ -410,7 +411,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         -   Flamecharm's [Burn](../Status_Effects.md#burn) damage
         -   Frostdraw's [Chill](../Status_Effects.md#chill) and [Crystal](../Status_Effects.md#crystals) stack duration
         -   Galebreathe's [Winded](../Status_Effects.md#winded) and [Suffocation](../Status_Effects.md#suffocation) duration
-        -   Thundercall's [Surge Rods](../Status_Effects.md#surge-rods)
+        -   Thundercall's [Surge Rod](../Status_Effects.md#surge-rods) duration
         -   Shadowcast's [Sightless Still](../Status_Effects.md#obscured) duration
         -   [Blood Poisoning](../Status_Effects.md#blood-poisoning) gain
         -   [Wither](../Status_Effects.md#wither) gain
@@ -430,13 +431,14 @@ These Talents are instantly provided to the Player when they defeat the respecti
     
     -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard.md>)  
         
-    -   Tags: \[[Berserker](../Berserker.md)\] \[Sustain\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Sustain\]
+    
 
 -   **Rip and Tear** \[Memento Talent\] - Regain health upon defeating an enemy.
     
     -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard.md>)  
         
-    -   Tags: \[[Berserker](../Berserker.md)\] \[Sustain\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Sustain\]
 
 -   **Padded Armor** \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage.
     
@@ -474,7 +476,8 @@ These Talents are instantly provided to the Player when they defeat the respecti
     
     -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)  
         
-    -   Tags: \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
+    
 
 -   **Righteous Rage** \[Memento Talent\] - \[In Berserk State\] You deal increased damage the lower your health is.
     
@@ -482,7 +485,7 @@ These Talents are instantly provided to the Player when they defeat the respecti
         
     -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)  
         
-    -   Tags: \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
+    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] Exclusive\] \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
 
 ### [Breaker](../Breaker.md) [Memento](../Mementos.md)
 

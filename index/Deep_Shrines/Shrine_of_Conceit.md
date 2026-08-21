@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Conceit
-revid: 224718
+revid: 227236
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Conceit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 Shrine of Conceit location on the map
 
-**If your looking for another shrine, return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
+**If you're looking for another shrine, return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
 ## Description
 

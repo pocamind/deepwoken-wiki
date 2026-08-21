@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 226472
+revid: 227229
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -657,7 +657,7 @@ Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16[/17/18/19](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
+-   Has a base damage of 12/13/14/15/16[/17/18/19](<Inquisitor's_Thorn.md>) per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
@@ -705,8 +705,8 @@ Blunt ResistanceBlunt
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
--   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
--   The second hit has a base damage of 19.13/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
+-   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<Inquisitor's_Thorn.md>) per level with no investment scaling.
+-   The second hit has a base damage of 19.13/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<Inquisitor's_Thorn.md>) per level with no investment scaling.
 -   Feinting after the first attack will instantly use the second.
 -   Upgraded with Agility and not Strength.
 
@@ -747,7 +747,7 @@ N/A
 
 -   Range significantly decreases as the user loses health.
 -   Canceled by attacking.
--   Upgrading makes the dash longer.
+-   Upgrading the level makes the dash longer.
 -   Can be modified with Crystal/Perfect Lenses to make it slightly longer.
 -   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
 -   This Mantra was formerly named 'Dash'.
@@ -787,8 +787,8 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
--   Grants a speed boost for 10/12/14/16/18[/20/22/24](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
--   Has a cooldown of 60/55/50/45/40[/35/30/25](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
+-   Grants a speed boost for 10/12/14/16/18[/20/22/24](<Inquisitor's_Thorn.md>) seconds per level.
+-   Has a cooldown of 60/55/50/45/40[/35/30/25](<Inquisitor's_Thorn.md>) seconds per level.
 -   Counts as a [Speed Boost](Status_Effects.md#speed-boost), meaning it can proc all speed boost reliant Talents.
 -   Can be upgraded with the [Action Surge](Talents.md#action-surge) Talent, increasing the swing speed of all weapons by 0.04 while Adrenaline Surge is active.
 
@@ -1457,6 +1457,7 @@ Typeless
 -   Upgrading the Mantra increases teleportation range.
 -   Deals typeless damage, bypassing armor resistances.
 -   Teleports the user to the enemy the cursor is pointed at.
+-   The base damage is **doubled** when wielded with the [Silver Dagger](Silver_Dagger.md).
 -   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
@@ -1960,8 +1961,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 -   The final hit applies [True Daze](Status_Effects.md#true-daze).
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
--   Equipping the [Iron Birch](Iron_Birch.md) gives you the [Expeditious Combo](Talents.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing an uppercut.
--   Uppercuts.
+-   Equipping the [Iron Birch](Iron_Birch.md) gives you the [Expeditious Combo](Talents.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing a basic attack uppercut.
 
  |
 | 

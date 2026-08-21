@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 221789
+revid: 227235
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, Mechanics, Circle of Honour]
