@@ -1,6 +1,6 @@
 ---
 title: A ring lost to time
-revid: 227060
+revid: 227278
 source: https://deepwoken.fandom.com/wiki/A_ring_lost_to_time
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Equipment, Rings]

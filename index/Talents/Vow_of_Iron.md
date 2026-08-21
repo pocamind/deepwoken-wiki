@@ -1,6 +1,6 @@
 ---
 title: Talents/Vow of Iron
-revid: 227257
+revid: 227269
 source: https://deepwoken.fandom.com/wiki/Talents/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -25,16 +25,25 @@ Variants: [Talents](../Talents.md)
 -   Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Berserker\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
     -   -   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
         -   General:
-            -   \[Rarity Talent\] - see [below](#card-terminology).
+            -   \[Rarity Talent • Talent Category\] - see [below](#card-terminology).
             -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
         -   Specific Terms; given if applicable:
-            -   Categories: \[Anti-Sustain\], \[Assassination\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[Tempo\], \[Temporary Health\]
+            -   Categories: \[Anti-Sustain\], \[[Ardour](../Murmur%253A_Ardour.md)\], \[Assassination\], \[Attunement Path\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](../Murmur%253A_Rhythm.md)\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](../Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\]
             -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
-            -   \[Aspect name\], \[Oath name\], \[Origin name\], \[Memento name\], or \[Weapon category\], \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] if applicable
-            -   \[Investment Scaling\] (Talents that scale above their base values when you have more than the required amount of attribute investment), \[Scale-down\] (Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements), \[Hard Requirements\] (Talents that do not function _unless_ you meet their requirements) - \[Investment Scaling\] is not mutually exclusive with either of the other two.
-            -   Miscellaneous: \[M1 Tag\] (Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag), \[Tool\] (Talents that provide a Talent tool), \[Gamemode\] (for Talents that only properly function in the opposite Gamemode, despite being obtainable in this one), \[Boss Reward\] (Talents that are given to you immediately after defeating a [boss](../Bosses.md))
+            -   \[Aspect name\], \[Oath name\], \[Memento name\], \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\], \[Origin name\], or \[Weapon category\] if applicable, with hyperlinks.
+        -   (Relatively) Unintuitive Terms:
+            -   \[Combat Tag\]) - Talents that do not work unless the player is in combat and/or Talents that scale on the quantity of [Combat Tags](../Combat_Tag.md) that the player has.
+            -   \[M1 Tag\] - Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag.
+            -   \[[Spec](../Developer_Specs.md)\] - Deepwoken Developer or Moderator exclusive Talents.
+            -   \[Tool\] - Talents that provide a Talent tool. Use the tool to activate the Talent's effects.
+            -   \[Vaulted\] - Talents that have been removed from the Talent pool to await balance changes.
+            -   \[Investment Scaling\] - Talents that scale above their base values when you have more than the required amount of attribute investment.
+            -   \[Scale-down\] - Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements. Mutually exclusive with \[Hard Requirements\].
+            -   \[Hard Requirements\] - Talents that do not function _unless_ you meet their requirements. Mutually exclusive with \[Scale-down\].
+            -   \[Incompatible Gamemode\] - Despite being obtainable in Vow of Iron, TalEnts with this tag do not function in this gamemode for one reason or another.
         -   Notes:
             -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
+            -   The \[Attunement Path\] tag is only given to the parent Talent in the path (e.g. [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)).
         
 
 [See all Talents here](#memento-exclusive-talents).
@@ -1736,7 +1745,7 @@ Talents granted from your [Aspect](../Aspects.md). These Talents are listed in t
 
 These Talents will automatically be given to you upon equipping specific [weapons](../Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order.
 
-Memento-tagged weapon Talents are only usable on the listed Mementos, largely due to stat and the "allowed weapon types" restrictions. Some Talents listed may not be usable on any Memento, but are technically obtainable in the gamemode. These Talents are given the \[Gamemode\] tag.
+Memento-tagged weapon Talents are only usable on the listed Mementos, largely due to stat and the "allowed weapon types" restrictions. Some Talents listed may not be usable on any Memento, but are technically obtainable in the gamemode. These Talents are given the \[Incompatible Gamemode\] tag.
 
 -   Assassin's Strike: [Silver Dagger](../Silver_Dagger.md) - Your [Rapid Slashes](../Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
