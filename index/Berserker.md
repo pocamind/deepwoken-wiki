@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 227231
+revid: 227255
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

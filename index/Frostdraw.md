@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 226201
+revid: 227260
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -600,14 +600,14 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 **Ice Flock** (★★☆)
 
-_Send forth a flock of ice_
+_Send forth a flock of ice._
 
  | 
 
 ## Ice Flock (★★☆)
 
   
-_Send forth a flock of ice_
+_Send forth a flock of ice._
 
  |
 | 
@@ -639,14 +639,14 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 **Ice Lance** (★★☆)
 
-_Form an ice spear and lunges forward._
+_Form an ice spear and lunge forward._
 
  | 
 
 ## Ice Lance (★★☆)
 
   
-_Form an ice spear and lunges forward._
+_Form an ice spear and lunge forward._
 
  |
 | 
