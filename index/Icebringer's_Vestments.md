@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 226475
+revid: 227323
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, World Event, Outfits with Talents, Outfits with Exclusive Talents]
@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Ice resistance [ResistanceFrostdraw](Frostdraw.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Refreeze](Talents.md#refreeze) and [Orbital Ice](Talents.md#orbital-ice) Talents.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Ice resistance [ResistanceFrostdraw](Frostdraw.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Refreeze](Talents.md#refreeze) talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md) and 30% Elemental [ResistanceFrostdraw](Frostdraw.md).
 

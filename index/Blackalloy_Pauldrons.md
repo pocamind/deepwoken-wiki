@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 221895
+revid: 227306
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths, Sea Events, Minityrsa |
+| obtainment | The Depths, Sea Events, Minityrsa, sold in Naan Zakshun's black market for 1000 |
 | description | ... |
 
 Variants: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)

@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 227283
+revid: 227322
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -37,7 +37,8 @@ As the disciple of Faust, the Saint Jay makes liberal use of Chill and Freeze. T
 
 ## Starting Abilities
 
--   Cool Head \[Common Talent\] - If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown
+-   Cool Head \[Common Talent\] - If set on fire while on ice, immediately put it out and gain the [Cool Head](Status_Effects.md#cool-head) status for 30s. During Cool Head, you cannot be lit on fire.
+    -   15s cooldown, starting when the effect ends.
     -   While the effect is active, the user breathes cold air.
 
 -   Jay's Judgement Gavel \[Memento Talent\] - Breaking a frozen enemy free with your Critical saps their lifeforce.
@@ -48,7 +49,11 @@ As the disciple of Faust, the Saint Jay makes liberal use of Chill and Freeze. T
 
 ### Starting Deck
 
--   Saint Jay \[Rare Talent\] **250** \- When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
+-   Saint Jay \[Rare Talent\] **250** \- When a [Chilled](Status_Effects.md#chill) enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 10% as well.
+    -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
+    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, [Conditioned Runner](Talents/Vow_of_Iron.md#conditioned-runner), or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
+    -   The "on ice" effect of Saint Jay is bugged and does not work.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.
 
 -   Preceding Chill \[Rare Talent\] **250** \- Enemies hit during the last moments of your ice beam are frozen.
 
@@ -309,8 +314,11 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
 ### Power 10
 
 -   Cold Front \[Common Talent\] **100** \- Your Vent is imbued with glacial frost.
+    -   Your Vent applies Chill on hit and creates a large ice patch when used.
+    -   Your Vent gains a damage buff equal to +(Frostdraw investment × 0.5)% and has its damage type changed to Frostdraw damage.
 
--   Frostbite \[Common Talent\] **100** \- Enemies can no longer heal when under the effect of your chill
+-   Frostbite \[Common Talent\] **100** \- Enemies can no longer heal when **[Chilled](Status_Effects.md#chilled)** by you. PvE enemies also net you 5% more **[Heal Boost](Status_Effects.md#heal-boost)** when **[Chilled](Status_Effects.md#chilled)**.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.
 
 -   Frozen Anchor \[Common Talent\] **100** \- Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
 
@@ -320,14 +328,26 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
 
 ### Power 15
 
--   Orbital Ice \[Common Talent\] **100** \- When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
-    -   Durability of Orbital Ice is equal to "Frostdraw investment +10".
-    -   Cooldown of 90 seconds.
+-   **Orbital Ice** \[Common Talent •\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
+    -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
+    -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
+    -   Lasts 50 seconds if it is not broken.
+    -   If you have the [Refreeze](Talents.md#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](Talents.md#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
+        
+    -   Tags: \[**Saint Jay**\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
--   Shield Breaker \[Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)
+-   **Orbital Ice** \[Common Talent •\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
+    -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
+    -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
+    -   Lasts 50 seconds if it is not broken.
+    -   If you have the [Refreeze](Talents.md#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](Talents.md#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
+        
+    -   Tags: \[**Saint Jay**\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
+
+-   Shield Breaker \[Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields. (+1 Posture)
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
--   _**Unyielding Frost**_ \[Advanced Talent\] **350** \- Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
+-   _**Unyielding Frost**_ \[Advanced Talent\] **350** \- Your **[Chilled](Status_Effects.md#chilled)** can proc through block, with blocked **[Chilled](Status_Effects.md#chilled)** procs lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
     -   Does not proc Frozen Legs.
 
@@ -458,28 +478,54 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 ### Power 20
 
--   Glacial Coasting \[Common Talent\] **100** \- Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
+-   **Glacial Coasting** \[Common Talent •\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
+    -   Creates ice patches as you slide, improving your slide speed.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Tags: \[**Saint Jay**\] \[+Passive Agility\] \[Mobility\]
 
--   _Frozen Legs_ \[Rare Talent\] **250** \- Your slow effect prevents your opponents from rolling.
-    -   Does not work with Crystallization.
+-   **Glacial Coasting** \[Common Talent •\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
+    -   Creates ice patches as you slide, improving your slide speed.  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Tags: \[**Saint Jay**\] \[+Passive Agility\] \[Mobility\]
+
+-   _Frozen Legs_ \[Rare Talent\] **250** \- **[Chilled](Status_Effects.md#chilled)** applied by Mantras prevents your opponent from rolling.
     -   Lasts the first 0.75 seconds after chill/freeze procs.
-    -   Only procs off mantras.
 
--   _Defiance_ \[Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
-    -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
+-   _Defiance_ \[Rare Talent • Champion\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+    -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Currently, the only things Defiance cuts in half are:
-        -   Flamecharm's burn damage
-        -   Frostdraw's chill duration
-        -   Galebreathe's winded duration
-        -   Galebreathe's suffocation duration
-        -   Frostdraw's crystal stacks
-        -   Thundercall's surge stacks
-        -   Shadowcast's Sightless Still duration
-        -   Blood Poisoning
-        -   Wither gain
-        -   Ring of Pestilence duration
-        -   The potency of potions
-        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
+        -   Flamecharm's [Burn](Status_Effects.md#burn) damage
+        -   Frostdraw's [Chill](Status_Effects.md#chill) and [Crystal](Status_Effects.md#crystals) stack duration
+        -   Galebreathe's [Winded](Status_Effects.md#winded) and [Suffocation](Status_Effects.md#suffocation) duration
+        -   Thundercall's [Surge Rod](Status_Effects.md#surge-rods) duration
+        -   Shadowcast's [Sightless Still](Status_Effects.md#obscured) duration
+        -   [Blood Poisoning](Status_Effects.md#blood-poisoning) gain
+        -   [Wither](Status_Effects.md#wither) gain
+        -   [Ring of Pestilence](Ring_of_Pestilence.md) duration
+        -   The potency of [potions](Alchemy.md)
+        -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
+            
+    -   Tags: \[**Saint Jay**\] \[Scale-down\]
+
+-   **Defiance** \[Rare Talent • Champion\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+    -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
+    -   Currently, the only things Defiance cuts in half are:
+        -   Flamecharm's [Burn](Status_Effects.md#burn) damage
+        -   Frostdraw's [Chill](Status_Effects.md#chill) and [Crystal](Status_Effects.md#crystals) stack duration
+        -   Galebreathe's [Winded](Status_Effects.md#winded) and [Suffocation](Status_Effects.md#suffocation) duration
+        -   Thundercall's [Surge Rod](Status_Effects.md#surge-rods) duration
+        -   Shadowcast's [Sightless Still](Status_Effects.md#obscured) duration
+        -   [Blood Poisoning](Status_Effects.md#blood-poisoning) gain
+        -   [Wither](Status_Effects.md#wither) gain
+        -   [Ring of Pestilence](Ring_of_Pestilence.md) duration
+        -   The potency of [potions](Alchemy.md)
+        -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
+            
+    -   Tags: \[**Saint Jay**\] \[Scale-down\]
 
   
 
@@ -609,21 +655,22 @@ Slash ResistanceSlash
 ### Shogun of the Prophet's Guard
 
 -   Cryonis \[Common Talent\] - All ice spells casted ontop of ice cost less Ether.
-    -   Ice Mantras cost 40% less ether if casted while standing on ice.
+    -   Ice Mantras cost 20% less ether if casted while standing on ice.
 
--   Punishing Blow \[Rare Talent\] - Heavy Weapons Daze opponents for 1s when you interrupt their Basic Attack with your own.
+-   Punishing Blow \[Rare Talent\] - Heavy Weapons Daze opponents for 1s and **[Stagger](Status_Effects.md#stagger)** PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.
     -   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
     -   Also procs if you land a critical with the M1 tag during their M1 animation.
+    -   The Stagger status effect makes your opponent take 33% more posture damage.
 
 ### Dravik, The Rat King
 
--   Destructive Recovery \[Rare Talent\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture, +2 Carry Load)
+-   Destructive Recovery \[Rare Talent\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture)
 
--   Unstoppable Force \[Rare Talent\] - Greathammer You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)
+-   Unstoppable Force \[Rare Talent\] - Greathammer You take 15% less posture damage when parried. (+1 Posture)
 
 ### True Heart of Enmity
 
--   Fragile Freeze \[Common Talent\] - Your Basic Attacks and Criticals now apply **[Frozen](Status_Effects.md#frozen)** to **[Chilled](Status_Effects.md#chill)** opponents on guardbreak.
+-   Fragile Freeze \[Common Talent\] - Your Basic Attacks and Criticals now apply **[Frozen](Status_Effects.md#frozen)** to **[Chilled](Status_Effects.md#chilled)** opponents on guardbreak.
     -   Guardbreaking a chilled opponent with a weapon attack will encase them in [ice](Status_Effects.md#frozen), removing their ability to move, parry, block, or dodge for a short amount of time.
     -   Taking damage by any source (including damage over time effects) will end the freeze early
     -   You can spam F, Q, or Space to get out of Freeze faster.

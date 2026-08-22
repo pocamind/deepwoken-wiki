@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 226821
+revid: 227310
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -14,7 +14,7 @@ Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining 
 
 ## Obtainment
 
-Talk to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at the end of the maze in Layer 2: Floor 2, after which he appears and stays at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher_Talon.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Giant Femur](Giant_Femur.md), [Broken Gatling Gun](Broken_Gatling_Gun.md), [Terrapod Shell](Terrapod_Shell.md) and the [Nautilodaunt Beak](Nautilodaunt_Beak.md).
+Talk to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at the end of the maze in Layer 2: Floor 2, after which he appears and stays at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher_Talon.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Giant Femur](Giant_Femur.md), [Broken Gatling Gun](Broken_Gatling_Gun.md), [Terrapod Shell](Terrapod_Shell.md), [Nautilodaunt Beak](Nautilodaunt_Beak.md) and [Charged Parasol Part](Charged_Parasol_Part.md).
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/pEgA0zXlJsk)._
 
@@ -169,6 +169,7 @@ Blunt ResistanceBlunt
 -   [Ragdolls](Status_Effects.md#ragdoll) the opponent and flings them on hit.
 -   Has 9.18x PvE scaling.
 -   The damage of this Mantra can be improved by equipping the [Bone Ring](Bone_Ring.md), granting it 30 additional damage.
+-   The range can be compared to a little less than twice the distance between [Das](Das.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) in the [Temple Sparring Hall](Temple_Sparring_Hall.md)
 
  |
 | 
@@ -274,7 +275,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 **Effect:** _Pull out a Gatling gun, mowing down the enemies in your way. This mantra is based on the [Mechalodaunt](Mechalodaunt.md)'s '**Bullet Fury'** attack._
 
 -   The bullets do not stun, dealing minuscule damage with a short range of fire.
--   Inflicts [Burn](Status_Effects.md#burn) and sets the user [on fire](Status_Effects.md#burn).
+-   Inflicts **[Burn](Status_Effects.md#burn)** and sets the user [on fire](Status_Effects.md#burn).
 -   Will proc eruptions instead of applying burn if the user has [Eruption Path: Lava Serpent](Talents.md#eruption-path-lava-serpent).
 
  |

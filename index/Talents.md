@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227286
+revid: 227325
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -2745,7 +2745,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Damage Resistance\] \[Debuff\]
 
--   **Dazing Finisher** \[Common Talent\] - Flourishing enemies that are **[Charmed](Status_Effects.md#charm)** by you cause them to not be knocked back and **[Dazed](Status_Effects.md#daze)** instead.
+-   _**Dazing Finisher**_ \[Advanced Talent\] - Flourishing enemies that are **[Charmed](Status_Effects.md#charm)** by you cause them to not be knocked back and **[Dazed](Status_Effects.md#daze)** instead.
     -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.  
@@ -2756,7 +2756,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Debuff\] \[Flourish\] \[Scale-down\]
 
--   **Dazing Finisher** \[Common Talent\] - Flourishing enemies that are **[Charmed](Status_Effects.md#charm)** by you cause them to not be knocked back and **[Dazed](Status_Effects.md#daze)** instead.
+-   **Dazing Finisher** \[Advanced Talent\] - Flourishing enemies that are **[Charmed](Status_Effects.md#charm)** by you cause them to not be knocked back and **[Dazed](Status_Effects.md#daze)** instead.
     -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.  
@@ -4718,7 +4718,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
     -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
-    -   Lasts 50 seconds if it is not broken
+    -   Lasts 50 seconds if it is not broken.
     -   If you have the [Refreeze](#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
         
     -   Prerequisites: 65 Frostdraw  
@@ -4730,7 +4730,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Orbital Ice** \[Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
     -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
-    -   Lasts 50 seconds if it is not broken
+    -   Lasts 50 seconds if it is not broken.
     -   If you have the [Refreeze](#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
         
     -   Prerequisites: 65 Frostdraw  
@@ -8359,6 +8359,16 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   [Angels](Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         
     -   Tags: \[Common Talent • \] \[Equipment\]
+
+-   **Art of the Deal**: [Aristocrat Coat](Aristocrat_Coat.md) - Your rapport with merchants gives you lower prices!
+    -   Reduces the purchase price of items by 10%.  
+        
+    -   Tags: \[Common Talent • Merchant\] \[Equipment\]
+
+-   **Art of the Deal**: [Aristocrat Coat](Aristocrat_Coat.md) - Your rapport with merchants gives you lower prices!
+    -   Reduces the purchase price of items by 10%.  
+        
+    -   Tags: \[Common Talent • Merchant\] \[Equipment\]
 
 -   **Bane**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
     
