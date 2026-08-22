@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 217852
+revid: 227283
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -623,10 +623,10 @@ Slash ResistanceSlash
 
 ### True Heart of Enmity
 
--   Fragile Freeze \[Common Talent\] - Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
+-   Fragile Freeze \[Common Talent\] - Your Basic Attacks and Criticals now apply **[Frozen](Status_Effects.md#frozen)** to **[Chilled](Status_Effects.md#chill)** opponents on guardbreak.
     -   Guardbreaking a chilled opponent with a weapon attack will encase them in [ice](Status_Effects.md#frozen), removing their ability to move, parry, block, or dodge for a short amount of time.
     -   Taking damage by any source (including damage over time effects) will end the freeze early
-    -   You can spam F to get out of Freeze faster.
+    -   You can spam F, Q, or Space to get out of Freeze faster.
 
 -   Crippling Darkness \[Outfit Talent\] - Your non-Basic Attacks have 20% PEN.
     -   Grants +20% PEN to anything that is not a weapon attack.

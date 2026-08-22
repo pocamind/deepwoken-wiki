@@ -1,11 +1,9 @@
 ---
 title: Deepshore Fossil
-revid: 212198
+revid: 227298
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Items, Floor 1, Layer 2]
-notices:
-  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
+categories: [Vow of Iron Exclusive, Items]
 ---
 
 # Deepshore Fossil
@@ -20,15 +18,21 @@ notices:
 | droppable | No |
 | pass down | No |
 | desc | A biomechanical organism originating from a deeper layer. Far from its ideal habitat, it can produce a single Enchant Stone before it expires. |
-| obtainment | Quest, Sold in Traan Zakshun's Black Market for 100 |
+| obtainment | Sold in Naan Zakshun's Black Market for 10,000 |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Deepshore Fossil was an item that is obtained from [Layer 2](Second_Layer.md). It is a biomechanical organism used to create any non-exclusive [Enchant Stone](Enchant_Stone.md) of your choice. It will be consumed on usage.
+The Deepshore Fossil is a biomechanical organism used to create any non-exclusive [Enchant Stone](Enchant_Stone.md) of your choice. It will be consumed on usage.
 
 ## Obtainment
 
-### Quest
+Sold by [Naan Zakshun](Naan_Zakshun.md) in her black market for 10,000.
+
+### Quest (Cut Content)
 
 [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at [Castle Light](Castle_Light.md) in the First Layer of the Depths would give you the Fossil upon telling her information about the Second Layer. This quest was not repeatable.
 
@@ -47,11 +51,6 @@ You would be able to tell her this once you meet the following requirements:
 
 You do not need to accomplish all of these requirements in the same run or even in the same order, nor do you need to complete the current run to get the requirement (save for the Chaser clear).
 
-### Other
-
-It could be sold by [Traan Zakshun](Traan_Zakshun.md) in his black market for 100.
-
 ## Trivia
 
--   It cannot be dropped manually or on death. It also cannot be banked.
 -   Has an identical model to [Kyrsan Medallions](Kyrsan_Medallions.md) and the key opening the way to the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md), as well as the core of the [Stormseye](Stormseye.md).

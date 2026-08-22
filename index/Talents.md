@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227270
+revid: 227286
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -178,7 +178,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   **Unswayed** \[Common Talent\] - The effects of Taunt and Encore no longer work on you.
     -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
     -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
-        -   Sing can still apply [Charm](Status_Effects.md#charmed) or [Overcharm](Status_Effects.md#overcharm) to the user.  
+        -   Sing can still apply **[Charm](Status_Effects.md#charmed)** or [Overcharm](Status_Effects.md#overcharm) to the user.  
             
     -   Grants +20 Sanity  
         
@@ -189,7 +189,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   **Unswayed** \[Common Talent\] - The effects of Taunt and Encore no longer work on you.
     -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
     -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
-        -   Sing can still apply [Charm](Status_Effects.md#charmed) or [Overcharm](Status_Effects.md#overcharm) to the user.  
+        -   Sing can still apply **[Charm](Status_Effects.md#charmed)** or [Overcharm](Status_Effects.md#overcharm) to the user.  
             
     -   Grants +20 Sanity  
         
@@ -461,7 +461,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Agility\] \[Galebreathe\] \[+Passive Agility\] \[Mobility\]
 
--   **Gale Trap** \[Common Talent\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
+-   **Gale Trap** \[Common Talent\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you **[Gale Reflection](Status_Effects.md#gale-reflection)** instead.
     -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) Mantra instead.**
     -   Marks players knocked by you for 6s with "Gale Trap".
     -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
@@ -472,7 +472,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Galebreathe\] \[Speed Boost\]
 
--   **Gale Trap** \[Common Talent\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
+-   **Gale Trap** \[Common Talent\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you **[Gale Reflection](Status_Effects.md#gale-reflection)** instead.
     -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) Mantra instead.**
     -   Marks players knocked by you for 6s with "Gale Trap".
     -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
@@ -483,7 +483,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Galebreathe\] \[Speed Boost\]
 
--   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocation) for a short duration.
+-   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies **[Winded](Status_Effects.md#winded)** and **[Suffocating](Status_Effects.md#suffocation)** for a short duration.
     
     -   Grants +2 Passive Agility  
         
@@ -491,7 +491,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\] \[Flourish\]
 
--   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocation) for a short duration.
+-   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies **[Winded](Status_Effects.md#winded)** and **[Suffocating](Status_Effects.md#suffocation)** for a short duration.
     
     -   Grants +2 Passive Agility  
         
@@ -499,7 +499,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\] \[Flourish\]
 
--   _Stifled Jump_ \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated.
+-   _Stifled Jump_ \[Rare Talent\] - **[Suffocating](Status_Effects.md#suffocation)** now applies **[Dazed](Status_Effects.md#dazed)** if enemies jump. Suffocated PvE enemies now also get **[Sluggish](Status_Effects.md#sluggish)** when they are suffocated.
     -   The Daze effect lasts for 1 second.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
         
@@ -509,7 +509,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\]
 
--   **Stifled Jump** \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated.
+-   **Stifled Jump** \[Rare Talent\] - **[Suffocating](Status_Effects.md#suffocation)** now applies **[Dazed](Status_Effects.md#dazed)** if enemies jump. Suffocated PvE enemies now also get **[Sluggish](Status_Effects.md#sluggish)** when they are suffocated.
     -   The Daze effect lasts for 1 second.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
         
@@ -795,7 +795,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Annihilator
 
--   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to [Vent](Combat_Mechanics.md#tempo) for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to [Vent](Combat_Mechanics.md#tempo) for 8s, with this duration scaling with Strength. PvE enemies instead get **[Collapsed](Status_Effects.md#collapsed)**.
     -   The Vent negation duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
         -   Collapsed Lung will have a 7 second duration at 75 Strength.
     -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets deal to you by 40%.  
@@ -804,7 +804,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Strength\] \[Guardbreak\] \[Scale-down\] \[Vent\]
 
--   **Collapsed Lung** \[Advanced Talent\] - Block breaking an opponent closes off their ability to [Vent](Combat_Mechanics.md#tempo) for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
+-   **Collapsed Lung** \[Advanced Talent\] - Block breaking an opponent closes off their ability to [Vent](Combat_Mechanics.md#tempo) for 8s, with this duration scaling with Strength. PvE enemies instead get **[Collapsed](Status_Effects.md#collapsed)**.
     -   The Vent negation duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
         -   Collapsed Lung will have a 7 second duration at 75 Strength.
     -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets deal to you by 40%.  
@@ -1050,7 +1050,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Agility\] \[Anti-Sustain\] \[Assassination\] \[Debuff\]
 
 -   **Lights Out** \[Common Talent\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.
-    -   Targets being carried will have the [Blinded](Status_Effects.md#blinded) visual effect, significantly hindering their vision.  
+    -   Targets being carried will have the **[Blinded](Status_Effects.md#blinded)** visual effect, significantly hindering their vision.  
         
     -   Grants +1 Passive Agility  
         
@@ -1059,7 +1059,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Agility\] \[+Passive Agility\] \[Assassination\] \[Debuff\] \[PEN\]
 
 -   **Lights Out** \[Common Talent\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.
-    -   Targets being carried will have the [Blinded](Status_Effects.md#blinded) visual effect, significantly hindering their vision.  
+    -   Targets being carried will have the **[Blinded](Status_Effects.md#blinded)** visual effect, significantly hindering their vision.  
         
     -   Grants +1 Passive Agility  
         
@@ -1279,7 +1279,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Fortitude\] \[+Posture\] \[Mobility\]
 
--   **Perseverance** \[Common Talent\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%.
+-   **Perseverance** \[Common Talent\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and **[Unconscious](Status_Effects.md#unconscious)** for by 25%.
     -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
         
     -   Grants +5 Sanity  
@@ -1290,7 +1290,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Fortitude\] \[Willpower\] \[+Sanity\]
 
--   **Perseverance** \[Common Talent\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%.
+-   **Perseverance** \[Common Talent\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and **[Unconscious](Status_Effects.md#unconscious)** for by 25%.
     -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
         
     -   Grants +5 Sanity  
@@ -1451,7 +1451,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Berserker
 
--   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
+-   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter **[Berserk State](Status_Effects.md#berserk-state)**.
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
     -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
@@ -1462,7 +1462,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Strength\] \[PEN\] \[Scale-down\] \[Tool\]
 
--   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
+-   **Berserk** \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter **[Berserk State](Status_Effects.md#berserk-state)**.
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
     -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
@@ -1691,28 +1691,28 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Bloodhound
 
--   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are marked with [Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark) for 5s.
+-   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are marked with **[Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark)** for 5s.
     -   While affected by Bloodwarden's Mark, your character is highlighted red and you take 20% more [Blood Poisoning](Status_Effects.md#blood-poisoning).  
         
     -   Prerequisites: 30 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Debuff\]
 
--   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are marked with [Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark) for 5s.
+-   **Bloodwarden's Sense** \[Common Talent\] - Enemies you attack with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] above 60% Blood Poisoning are marked with **[Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark)** for 5s.
     -   While affected by Bloodwarden's Mark, your character is highlighted red and you take 20% more [Blood Poisoning](Status_Effects.md#blood-poisoning).  
         
     -   Prerequisites: 30 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Debuff\]
 
--   _Smell of Blood_ \[Rare Talent\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with [Bloodscent](Status_Effects.md#bloodscent) for 6s.
+-   _Smell of Blood_ \[Rare Talent\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with **[Bloodscent](Status_Effects.md#bloodscent)** for 6s.
     -   Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.  
         
     -   Prerequisites: 65 Bloodrend  
         
     -   Tags: \[Bloodrend\]
 
--   **Smell of Blood** \[Rare Talent\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with [Bloodscent](Status_Effects.md#bloodscent) for 6s.
+-   **Smell of Blood** \[Rare Talent\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with **[Bloodscent](Status_Effects.md#bloodscent)** for 6s.
     -   Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.  
         
     -   Prerequisites: 65 Bloodrend  
@@ -2271,7 +2271,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\] \[Posture Damage\] \[Slow\]
 
--   **Brazen Blow** \[Common Talent\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary [Hyperarmor](Status_Effects.md#hyperarmor).
+-   **Brazen Blow** \[Common Talent\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary **[Hyperarmor](Status_Effects.md#hyperarmor)**.
     -   The hyperarmor lasts 1 second. 20 second cooldown.
     -   Only procs on weapon attacks.
     -   Does not proc on uppercut.  
@@ -2280,7 +2280,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Heavy Weapon\] \[Greataxe\]
 
--   **Brazen Blow** \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary [Hyperarmor](Status_Effects.md#hyperarmor).
+-   **Brazen Blow** \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary **[Hyperarmor](Status_Effects.md#hyperarmor)**.
     -   The hyperarmor lasts 1 second. 20 second cooldown.
     -   Only procs on weapon attacks.
     -   Does not proc on uppercut.  
@@ -2291,7 +2291,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Heavy Weapon\] \[Greataxe\]
 
--   _Heavy Fatigue_ \[Rare Talent\] - Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies [Sluggish](Status_Effects.md#sluggish) to PvE enemies for a few seconds.
+-   _Heavy Fatigue_ \[Rare Talent\] - Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Reduces opponents roll distance by 25% for 2.5s.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Does not proc on uppercut.  
@@ -2300,7 +2300,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\]
 
--   **Heavy Fatigue** \[Rare Talent\] - Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies [Sluggish](Status_Effects.md#sluggish) to PvE enemies for a few seconds.
+-   **Heavy Fatigue** \[Rare Talent\] - Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Reduces opponents roll distance by 25% for 2.5s.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Does not proc on uppercut.  
@@ -2381,14 +2381,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Fortitude\] \[Debuff\] \[M1 Tag\] \[Scale-down\] \[Slow\]
 
--   **Knuckle Guard** \[Common Talent\] - Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
+-   **Knuckle Guard** \[Common Talent\] - Hitting **[Dazed](Status_Effects.md#daze)** enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.  
         
     -   Prerequisites: 25 Strength, 55 Fortitude  
         
     -   Tags: \[Strength\] \[Fortitude\] \[Posture Resistance\] \[Scale-down\]
 
--   **Knuckle Guard** \[Common Talent\] - Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
+-   **Knuckle Guard** \[Common Talent\] - Hitting **[Dazed](Status_Effects.md#daze)** enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.  
         
     -   Prerequisites: 25 Strength, 55 Fortitude  
@@ -2657,7 +2657,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Charm Caster
 
--   **Charismatic Cast** \[Common Talent\] - Landing a hit with a Mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+-   **Charismatic Cast** \[Common Talent\] - Landing a hit with a Mantra on an enemy applies **[Charmed](Status_Effects.md#charm)**. Allies recover from being knocked twice as quickly when **[Charmed](Status_Effects.md#charm)** by you.
     -   This charm lasts 10s.
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have [Lasting Charisma](#lasting-charisma) if you wish to get use out of Charismatic Cast during ganks and other team fights.  
@@ -2666,7 +2666,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Resistance\] \[Debuff\] \[Support\]
 
--   **Charismatic Cast** \[Common Talent\] - Landing a hit with a Mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+-   **Charismatic Cast** \[Common Talent\] - Landing a hit with a Mantra on an enemy applies **[Charmed](Status_Effects.md#charm)**. Allies recover from being knocked twice as quickly when **[Charmed](Status_Effects.md#charm)** by you.
     -   This charm lasts 10s.
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have [Lasting Charisma](#lasting-charisma) if you wish to get use out of Charismatic Cast during ganks and other team fights.  
@@ -2717,7 +2717,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Scale-down\]
 
--   **Tough Love** \[Common Talent\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same [Aspect](Aspects.md) or [Oath](Oaths.md) as you applies [Charmed](Status_Effects.md#charm) briefly.
+-   **Tough Love** \[Common Talent\] - Deal 10% more damage to enemies **[Charmed](Status_Effects.md#charm)** by you. Mantras deal +5% instead. Being hit by someone the same [Aspect](Aspects.md) or [Oath](Oaths.md) as you applies **[Charmed](Status_Effects.md#charm)** briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** sources of Charm, not exclusively Tough Love.
@@ -2731,7 +2731,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Damage Resistance\] \[Debuff\]
 
--   **Tough Love** \[Common Talent\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same [Aspect](Aspects.md) or [Oath](Oaths.md) as you applies [Charmed](Status_Effects.md#charm) briefly.
+-   **Tough Love** \[Common Talent\] - Deal 10% more damage to enemies **[Charmed](Status_Effects.md#charm)** by you. Mantras deal +5% instead. Being hit by someone the same [Aspect](Aspects.md) or [Oath](Oaths.md) as you applies **[Charmed](Status_Effects.md#charm)** briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** sources of Charm, not exclusively Tough Love.
@@ -2745,7 +2745,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Damage Resistance\] \[Debuff\]
 
--   **Dazing Finisher** \[Common Talent\] - Flourishing enemies that are [Charmed](Status_Effects.md#charm) by you cause them to not be knocked back and [Dazed](Status_Effects.md#daze) instead.
+-   **Dazing Finisher** \[Common Talent\] - Flourishing enemies that are **[Charmed](Status_Effects.md#charm)** by you cause them to not be knocked back and **[Dazed](Status_Effects.md#daze)** instead.
     -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.  
@@ -2756,7 +2756,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Debuff\] \[Flourish\] \[Scale-down\]
 
--   **Dazing Finisher** \[Common Talent\] - Flourishing enemies that are [Charmed](Status_Effects.md#charm) by you cause them to not be knocked back and [Dazed](Status_Effects.md#daze) instead.
+-   **Dazing Finisher** \[Common Talent\] - Flourishing enemies that are **[Charmed](Status_Effects.md#charm)** by you cause them to not be knocked back and **[Dazed](Status_Effects.md#daze)** instead.
     -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.  
@@ -3111,7 +3111,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\]
 
--   **Fragile Freeze** \[Common Talent\] - Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
+-   **Fragile Freeze** \[Common Talent\] - Your Basic Attacks and Criticals now apply **[Frozen](Status_Effects.md#frozen)** to **[Chilled](Status_Effects.md#chill)** opponents on guardbreak.
     -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
     -   Taking damage by any source (including damage over time effects) will end the freeze early.
     -   You can spam F, Space, or Q to get out of Freeze faster.  
@@ -3120,7 +3120,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Debuff\] \[Guardbreak\]
 
--   **Fragile Freeze** \[Common Talent\] - Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
+-   **Fragile Freeze** \[Common Talent\] - Your Basic Attacks and Criticals now apply **[Frozen](Status_Effects.md#frozen)** to **[Chilled](Status_Effects.md#chill)** opponents on guardbreak.
     -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
     -   Taking damage by any source (including damage over time effects) will end the freeze early.
     -   You can spam F, Space, or Q to get out of Freeze faster.  
@@ -3277,14 +3277,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Shadowcast\] \[Flourish\]
 
--   **Dark Waltz** \[Common Talent\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies.
+-   **Dark Waltz** \[Common Talent\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply **[Ether Sunder](Status_Effects.md#ether-sunder)** to PvE enemies.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.  
         
     -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light // 90 Medium // 90 Heavy)  
         
     -   Tags: \[Shadowcast\] \[Weapon\] \[Guardbreak\] \[Tempo\]
 
--   **Dark Waltz** \[Common Talent\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies.
+-   **Dark Waltz** \[Common Talent\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply **[Ether Sunder](Status_Effects.md#ether-sunder)** to PvE enemies.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.  
         
     -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light // 90 Medium // 90 Heavy)  
@@ -3345,13 +3345,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Shadowcast\] \[Weapon\] \[Debuff\]
 
--   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [Dazed](Status_Effects.md#daze) for 0.7s.
+-   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are **[Dazed](Status_Effects.md#daze)** for 0.7s.
     
     -   Prerequisites: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)  
         
     -   Tags: \[Shadowcast\] \[Debuff\]
 
--   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are [Dazed](Status_Effects.md#daze) for 0.7s.
+-   **Overwhelming Drain** \[Common Talent\] - If multiple enemies are hit by your [Shadow Eruption](Shadowcast.md#shadow-eruption), they are **[Dazed](Status_Effects.md#daze)** for 0.7s.
     
     -   Prerequisites: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)  
         
@@ -3657,14 +3657,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Duelist
 
--   _Concussion_ \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
+-   _Concussion_ \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get **[Stagger](Status_Effects.md#stagger)** for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
         
     -   Prerequisites: 20 Strength, 15 Fortitude  
         
     -   Tags: \[Strength\] \[Fortitude\] \[Debuff\] \[Flourish\]
 
--   **Concussion** \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
+-   **Concussion** \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get **[Stagger](Status_Effects.md#stagger)** for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
         
     -   Prerequisites: 20 Strength, 15 Fortitude  
@@ -3785,7 +3785,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Strength\] \[Medium Weapon\] \[+Passive Agility\] \[Posture Resistance\]
 
--   _Strong Stern_ \[Rare Talent\] - The duration you are [Dazed](Status_Effects.md#daze) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well.
+-   _Strong Stern_ \[Rare Talent\] - The duration you are **[Dazed](Status_Effects.md#daze)** from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well.
     
     -   Grants +5 Carry Load  
         
@@ -3795,7 +3795,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Strength\] \[Fortitude\] \[+Carry Load\]
 
--   **Strong Stern** \[Rare Talent\] - The duration you are [Dazed](Status_Effects.md#daze) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well.
+-   **Strong Stern** \[Rare Talent\] - The duration you are **[Dazed](Status_Effects.md#daze)** from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well.
     
     -   Grants +5 Carry Load  
         
@@ -3879,7 +3879,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Empath
 
--   **Cornered Fool** \[Common Talent\] - Blockbreaking a [Charmed](Status_Effects.md#charm) opponent procs [Taunt](Status_Effects.md#taunt) for 5s, making them take and deal more damage.
+-   **Cornered Fool** \[Common Talent\] - Blockbreaking a **[Charmed](Status_Effects.md#charm)** opponent procs [Taunt](Status_Effects.md#taunt) for 5s, making them take and deal more damage.
     -   15 second cooldown.
     -   Despite what the description states, this applies [Taunt](Status_Effects.md#taunt) for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
@@ -3890,7 +3890,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Charisma\] \[Charm\] \[Damage Buff\] \[Debuff\] \[Guardbreak\] \[Scale-down\]
 
--   **Cornered Fool** \[Common Talent\] - Blockbreaking a [Charmed](Status_Effects.md#charm) opponent procs [Taunt](Status_Effects.md#taunt) for 5s, making them take and deal more damage.
+-   **Cornered Fool** \[Common Talent\] - Blockbreaking a **[Charmed](Status_Effects.md#charm)** opponent procs [Taunt](Status_Effects.md#taunt) for 5s, making them take and deal more damage.
     -   15 second cooldown.
     -   Despite what the description states, this applies [Taunt](Status_Effects.md#taunt) for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
@@ -3967,7 +3967,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Intelligence\]
 
--   _Eureka_ \[Rare Talent\] - Gain a stack of [Inspiration](Status_Effects.md#inspired) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspired).
+-   _Eureka_ \[Rare Talent\] - Gain a stack of **[Inspiration](Status_Effects.md#inspired)** every time you land or parry a Mantra. Whiffing a Mantra removes a stack of **[Inspiration](Status_Effects.md#inspired)**.
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
@@ -3981,7 +3981,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Intelligence\] \[Damage Buff\]
 
--   **Eureka** \[Rare Talent\] - Gain a stack of [Inspiration](Status_Effects.md#inspired) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspired).
+-   **Eureka** \[Rare Talent\] - Gain a stack of **[Inspiration](Status_Effects.md#inspired)** every time you land or parry a Mantra. Whiffing a Mantra removes a stack of **[Inspiration](Status_Effects.md#inspired)**.
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
@@ -4207,14 +4207,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Fish
 
--   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water.
+-   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when **[Unconscious](Status_Effects.md#unconscious)** in water. Gain additional healing from knocking others **[Unconscious](Status_Effects.md#unconscious)** in water.
     -   The old [Scuba Drowner](Cut_Content.md#scuba-drowner) Talent was merged into this Talent.  
         
     -   Prerequisites: None  
         
     -   Tags: \[Sustain\]
 
--   **Fishman** \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water.
+-   **Fishman** \[Rare Talent\] - When your Blood is over 50%, you won't drown when **[Unconscious](Status_Effects.md#unconscious)** in water. Gain additional healing from knocking others **[Unconscious](Status_Effects.md#unconscious)** in water.
     -   The old [Scuba Drowner](Cut_Content.md#scuba-drowner) Talent was merged into this Talent.  
         
     -   Prerequisites: None  
@@ -4759,7 +4759,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Frozen Warrior
 
--   _Frozen Legs_ \[Rare Talent\] - [Chilled](Status_Effects.md#chill) applied from Mantras prevents your opponents from rolling.
+-   _Frozen Legs_ \[Rare Talent\] - **[Chilled](Status_Effects.md#chill)** applied from Mantras prevents your opponents from rolling.
     -   Does not work with Crystallization.
     -   Lasts the first 0.75 seconds after chill/freeze procs.  
         
@@ -4767,7 +4767,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Debuff\]
 
--   **Frozen Legs** \[Rare Talent\] - [Chilled](Status_Effects.md#chill) applied from Mantras prevents your opponents from rolling.
+-   **Frozen Legs** \[Rare Talent\] - **[Chilled](Status_Effects.md#chill)** applied from Mantras prevents your opponents from rolling.
     -   Does not work with Crystallization.
     -   Lasts the first 0.75 seconds after chill/freeze procs.  
         
@@ -5301,7 +5301,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Hammer Rage
 
--   **Brain Rattler** \[Common Talent\] - Clubs Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and blurs their vision.
+-   **Brain Rattler** \[Common Talent\] - Clubs Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies **[Stagger](Status_Effects.md#stagger)** to PvE enemies and blurs their vision.
     -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
     -   Applies a visual obscuration effect and blood loss on guardbreak. In PvE this also applies Staggered.
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
@@ -5310,7 +5310,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Medium Weapon\] \[Club\] \[Debuff\] \[Guardbreak\]
 
--   **Brain Rattler** \[Common Talent\] - \[Clubs\] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and blurs their vision.
+-   **Brain Rattler** \[Common Talent\] - \[Clubs\] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies **[Stagger](Status_Effects.md#stagger)** to PvE enemies and blurs their vision.
     -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
     -   Applies a visual obscuration effect and blood loss on guardbreak. In PvE this also applies Staggered.
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
@@ -5321,13 +5321,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Medium Weapon\] \[Club\] \[Debuff\] \[Guardbreak\]
 
--   **Dispatch** \[Common Talent\] - Clubs Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#daze) targets deal 20% less posture. This can stack.
+-   **Dispatch** \[Common Talent\] - Clubs Bear Trapped targets deal 20% less posture. **[Dazed](Status_Effects.md#daze)** targets deal 20% less posture. This can stack.
     
     -   Prerequisites: [Bear Trap](#bear-trap), 55 Medium Weapon, [Club](Clubs.md) equipped  
         
     -   Tags: \[Strength\] \[Agility\] \[Medium Weapon\] \[Club\] \[Debuff\]
 
--   **Dispatch** \[Common Talent\] - \[Clubs\] Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#daze) targets deal 20% less posture. This can stack.
+-   **Dispatch** \[Common Talent\] - \[Clubs\] Bear Trapped targets deal 20% less posture. **[Dazed](Status_Effects.md#daze)** targets deal 20% less posture. This can stack.
     
     -   The Clubs condition must be met in order for this Talent to apply.  
         
@@ -5367,7 +5367,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Heretic
 
--   _All the Dead Gods_ \[Rare Talent\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s.
+-   _All the Dead Gods_ \[Rare Talent\] - Your Basic Attacks now apply anti-heal and 5% **[Heal Boost](Status_Effects.md#heal-boost)** against PvE for 8s.
     -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
     -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
         -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
@@ -5383,7 +5383,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Sustain\] \[Scale-down\]
 
--   **All the Dead Gods** \[Rare Talent\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s.
+-   **All the Dead Gods** \[Rare Talent\] - Your Basic Attacks now apply anti-heal and 5% **[Heal Boost](Status_Effects.md#heal-boost)** against PvE for 8s.
     -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
     -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
         -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
@@ -5399,7 +5399,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Sustain\] \[Scale-down\]
 
--   _**All Above, Gods Below**_ \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well.
+-   _**All Above, Gods Below**_ \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 15% as well.
     -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
     -   All Above, Gods Below's duration scales on your combined Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your Anti-Heal. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to the Anti-Heal's duration), down to a minimum of 50% of your Anti-Heal's duration at 150 combined invest.
@@ -5413,7 +5413,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Scale-down\] \[Sustain\]
 
--   **All Above, Gods Below** \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well.
+-   **All Above, Gods Below** \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 15% as well.
     -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
     -   All Above, Gods Below's duration scales on your combined Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your Anti-Heal. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to the Anti-Heal's duration), down to a minimum of 50% of your Anti-Heal's duration at 150 combined invest.
@@ -5453,7 +5453,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Willpower\] \[Investment Scaling\] \[Sanity\] \[Scale-down\] \[Tool\]
 
--   _Sin Stacker_ \[Rare Talent\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead.
+-   _Sin Stacker_ \[Rare Talent\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 10% instead.
     -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
     -   By proccing additional instances of Anti-Heal on an Anti-Healed target, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second, per Anti-Heal stack applied.
         -   Using [All the Dead Gods](#all-the-dead-gods) as an example: At 1 Anti-Heal stack, your All the Dead aGods Anti-Heal lasts 8 seconds. Applying another stack of Anti-Heal will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
@@ -5466,7 +5466,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\]
 
--   **Sin Stacker** \[Rare Talent\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead.
+-   **Sin Stacker** \[Rare Talent\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 10% instead.
     -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
     -   By proccing additional instances of Anti-Heal on an Anti-Healed target, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second, per Anti-Heal stack applied.
         -   Using [All the Dead Gods](#all-the-dead-gods) as an example: At 1 Anti-Heal stack, your All the Dead aGods Anti-Heal lasts 8 seconds. Applying another stack of Anti-Heal will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
@@ -5481,7 +5481,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Human Architecture
 
--   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious](Status_Effects.md#unconscious). Also reduces the duration of [Knockdown](Status_Effects.md#knockdown).
+-   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely **[Unconscious](Status_Effects.md#unconscious)**. Also reduces the duration of [Knockdown](Status_Effects.md#knockdown).
     -   The [Knockdown](Status_Effects.md#knockdown) duration reduction scales on your combined investment into the Willpower and Fortitude attributes, being fully negated if you have 100 points invested into both.
     -   Gain total immunity to [ragdoll](Status_Effects.md#ragdoll), only being pushed back instead from moves that would normally ragdoll.
     -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
@@ -5495,7 +5495,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\] \[Scale-down\]
 
--   **Brick Wall** \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious](Status_Effects.md#unconscious). Also reduces the duration of [Knockdown](Status_Effects.md#knockdown).
+-   **Brick Wall** \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely **[Unconscious](Status_Effects.md#unconscious)**. Also reduces the duration of [Knockdown](Status_Effects.md#knockdown).
     -   The [Knockdown](Status_Effects.md#knockdown) duration reduction scales on your combined investment into the Willpower and Fortitude attributes, being fully negated if you have 100 points invested into both.
     -   Gain total immunity to [ragdoll](Status_Effects.md#ragdoll), only being pushed back instead from moves that would normally ragdoll.
     -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
@@ -5509,14 +5509,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Fortitude\] \[Willpower\] \[+Health\] \[+Posture\] \[Scale-down\]
 
--   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while [Unconscious](Status_Effects.md#unconscious). 60s CD.
+-   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while **[Unconscious](Status_Effects.md#unconscious)**. 60s CD.
     -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.  
         
     -   Prerequisites: 85 Fortitude  
         
     -   Tags: \[Fortitude\]
 
--   **Mythic Stability** \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while [Unconscious](Status_Effects.md#unconscious). 60s CD.
+-   **Mythic Stability** \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while **[Unconscious](Status_Effects.md#unconscious)**. 60s CD.
     -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.  
         
     -   Prerequisites: 85 Fortitude  
@@ -5649,7 +5649,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Flourish\]
 
--   **Frostbite** \[Common Talent\] - Enemies can no longer heal when under the effect of your [chill](Status_Effects.md#chill). PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
+-   **Frostbite** \[Common Talent\] - Enemies can no longer heal when **[Chilled](Status_Effects.md#chill)** by you. PvE enemies also net you 5% more **[Heal Boost](Status_Effects.md#heal-boost)** when **[Chilled](Status_Effects.md#chill)**.
     -   This effect is briefly applied after applying a Crystal.
     -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.  
         
@@ -5657,7 +5657,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Anti-Sustain\]
 
--   **Frostbite** \[Common Talent\] - Enemies can no longer heal when under the effect of your [chill](Status_Effects.md#chill). PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
+-   **Frostbite** \[Common Talent\] - Enemies can no longer heal when **[Chilled](Status_Effects.md#chill)** by you. PvE enemies also net you 5% more **[Heal Boost](Status_Effects.md#heal-boost)** when **[Chilled](Status_Effects.md#chill)**.
     -   This effect is briefly applied after applying a Crystal.
     -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.  
         
@@ -5665,21 +5665,21 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Anti-Sustain\]
 
--   _Frozen Pin-Cushion_ \[Rare Talent\] - [Ice Daggers](Frostdraw.md#ice-daggers) now freeze opponents.
+-   _Frozen Pin-Cushion_ \[Rare Talent\] - Your [Ice Daggers](Frostdraw.md#ice-daggers) now apply **[Frozen](Status_Effects.md#frozen)**.
     -   With crystal path, instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage.  
         
     -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra), 60 Frostdraw  
         
     -   Tags: \[Frostdraw\] \[Debuff\]
 
--   **Frozen Pin-Cushion** \[Rare Talent\] - [Ice Daggers](Frostdraw.md#ice-daggers) now freeze opponents.
+-   **Frozen Pin-Cushion** \[Rare Talent\] - Your [Ice Daggers](Frostdraw.md#ice-daggers) now apply **[Frozen](Status_Effects.md#frozen)**.
     -   With crystal path, instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage.  
         
     -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra), 60 Frostdraw  
         
     -   Tags: \[Frostdraw\] \[Debuff\]
 
--   _Saint Jay_ \[Rare Talent\] - When a [Chilled](Status_Effects.md#chill) enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
+-   _Saint Jay_ \[Rare Talent\] - When a [Chilled](Status_Effects.md#chill) enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 10% as well.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw Mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
@@ -5690,7 +5690,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Sustain\]
 
--   **Saint Jay** \[Rare Talent\] - When a [Chilled](Status_Effects.md#chill) enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
+-   **Saint Jay** \[Rare Talent\] - When a [Chilled](Status_Effects.md#chill) enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 10% as well.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw Mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
@@ -5717,7 +5717,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Weapon\] \[Damage Buff\]
 
--   _**Unyielding Frost**_ \[Advanced Talent\] - Your [Chill](Status_Effects.md#chill) can proc through block, with blocked Chilling procs lasting 80% of the duration.
+-   _**Unyielding Frost**_ \[Advanced Talent\] - Your **[Chilled](Status_Effects.md#chill)** can proc through block, with blocked **[Chilled](Status_Effects.md#chill)** procs lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
     -   Does not proc [Frozen Legs](#frozen-legs).  
         
@@ -5727,7 +5727,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Frostdraw\] \[Debuff\] \[Scale-down\]
 
--   **Unyielding Frost** \[Advanced Talent\] - Your [Chill](Status_Effects.md#chill) can proc through block, with blocked Chilling procs lasting 80% of the duration.
+-   **Unyielding Frost** \[Advanced Talent\] - Your **[Chilled](Status_Effects.md#chill)** can proc through block, with blocked **[Chilled](Status_Effects.md#chill)** procs lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
     -   Does not proc [Frozen Legs](#frozen-legs).  
         
@@ -5754,7 +5754,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Immolator
 
--   Agitating Spark \[Common Talent, Flamecharm\] - Applying [Burning](Status_Effects.md#burn) to enemies spreads it to anyone nearby. Including yourself.
+-   Agitating Spark \[Common Talent, Flamecharm\] - Applying **[Burning](Status_Effects.md#burn)** to enemies spreads it to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
     -   Agitating Spark bypasses block and parry.
     -   Procs on self damage.
@@ -5966,12 +5966,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Has limited PvE usage because most non-humanoid monsters cannot block.
     -   Prerequisite: 45 Ironsing
 
--   Laced Traps \[Common Talent, Ironsing\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' cannot jump and are slowed for a small duration, while also applying [Sluggish](Status_Effects.md#sluggish) to PvE enemies for a few seconds.
+-   Laced Traps \[Common Talent, Ironsing\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' cannot jump and are slowed for a small duration, while also applying **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: [Caltrops](Ironsing.md#caltrops) (Mantra), 45 Ironsing
 
--   Metal Shackles \[Common Talent, Strength, Ironsing\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be [Sluggish](Status_Effects.md#sluggish) for 12 seconds.
+-   Metal Shackles \[Common Talent, Strength, Ironsing\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be **[Sluggish](Status_Effects.md#sluggish)** for 12 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 40 Ironsing, 15 Strength
 
@@ -6003,7 +6003,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or Basic Attacks now steals and grants additional momentum. (+5 Passive Agility)
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - When damage below 50% health, don an aura of [Decisive Winds](Status_Effects.md#decisive-winds) for 10s. (+5 Ether)
+-   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - When damage below 50% health, don an aura of **[Decisive Winds](Status_Effects.md#decisive-winds)** for 10s. (+5 Ether)
     -   Decisive Winds grants a 25% speed boost as long as you are within 20 studs the target who initiated this effect.
     -   30 second cooldown.
     -   Procs through block/parry/dodge, despite the description stating otherwise. But it does not proc on self damage.
@@ -6024,7 +6024,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Jumpstarter
 
--   Electrify \[Common Talent, Thundercall\] - Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
+-   Electrify \[Common Talent, Thundercall\] - Shock yourself and apply **[Amped](Status_Effects.md#amped)** for 15s. Can be used while **[Carried](Status_Effects.md#carried)** to escape.
     -   Grants a Talent tool.
     -   Electrify has a 1 minute cooldown.
     -   Amped grants your weapon attacks a 10% damage buff and allows them to apply [Shock](Status_Effects.md#shock) or [Surge Rods](Status_Effects.md#overloaded) on hit.
@@ -6189,7 +6189,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Limitbreaker
 
--   Comeback Kid \[Common Talent\] - When waking up from being [Unconscious](Status_Effects.md#unconscious) you are unable to be knocked down for 5 seconds.
+-   Comeback Kid \[Common Talent\] - When waking up from being **[Unconscious](Status_Effects.md#unconscious)** you are unable to be knocked down for 5 seconds.
     -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damaged but wont be knocked even at 0%.
     -   2 minute cooldown.
     -   Prerequisite: [Power](Power.md) 8
@@ -6251,11 +6251,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Marksman
 
--   _Leg Shot_ \[Rare Talent, Medium Weapon\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies [Sluggish](Status_Effects.md#sluggish), and also disables any speed boosts they get for the next 10 seconds.
+-   _Leg Shot_ \[Rare Talent, Medium Weapon\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 80 Medium Weapon, Rifle Equipped
 
--   Stock Bash \[Common Talent, Medium Weapon, Strength\] - Rifles Your running attacks now apply a brief amount of daze and [Stagger](Status_Effects.md#stagger) PvE enemies.
+-   Stock Bash \[Common Talent, Medium Weapon, Strength\] - Rifles Your running attacks now apply a brief amount of daze and **[Stagger](Status_Effects.md#stagger)** PvE enemies.
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   Applies daze for one second.
     -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
@@ -6270,7 +6270,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Meditative Trance
 
--   _Impervious Slumber_ \[Rare Talent, Fortitude\] - Getting hit while [Unconscious](Status_Effects.md#unconscious) no longer resets your time [Unconscious](Status_Effects.md#unconscious).
+-   _Impervious Slumber_ \[Rare Talent, Fortitude\] - Getting hit while **[Unconscious](Status_Effects.md#unconscious)** no longer resets your time **[Unconscious](Status_Effects.md#unconscious)**.
     -   Prerequisite: 35 Fortitude
 
 ### Mental Fortress
@@ -6288,7 +6288,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 10 Willpower, Breathing Exercise
     -   The [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Enforcer Boots](Enforcer_Boots.md) equipment have this Talent.
 
--   Disbelief \[Common Talent, Willpower\] - Reduces the duration of illusions cast on you by 30%. Halves the duration of the [Charmed](Status_Effects.md#charm) status on you. (+5 Sanity)
+-   Disbelief \[Common Talent, Willpower\] - Reduces the duration of illusions cast on you by 30%. Halves the duration of the **[Charmed](Status_Effects.md#charm)** status on you. (+5 Sanity)
     -   [Visionshaper](Oath%253A_Visionshaper.md) clones that are targeting you have their duration reduced by 30%.
     -   Halves the duration of the Charmed status effect.
         -   Tough Love: 2s -> 1s
@@ -6326,7 +6326,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Metamancer
 
--   _Chain of Perfection_ \[Echo Talent, Quest Talent\] - You gain stacks of [Perfection](Status_Effects.md#perfection) on hitting mobs with Weapon Attacks or Mantras. Mantras are only worth half a stack.
+-   _Chain of Perfection_ \[Echo Talent, Quest Talent\] - You gain stacks of **[Perfection](Status_Effects.md#perfection)** on hitting mobs with Weapon Attacks or Mantras. Mantras are only worth half a stack.
     -   Gain a 5% damage buff against PVE enemies for every stack of Perfection above 5, capping at +100% damage at 25 stacks.
     -   Upon taking damage from any non-self damage source, you will lose all stacks of Perfection. Fall damage also removes all stacks.
     -   Perfection acts as a final damage multiplier that bypasses the damage modifier caps.
@@ -6392,7 +6392,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 15 Strength
     -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this Talent.
 
--   Martyr \[Common Talent\] - When you're knocked [Unconscious](Status_Effects.md#unconscious), enemies gain less health and posture, and allies around you are granted [Martyrdom](Status_Effects.md#martyrdom) for 20s.
+-   Martyr \[Common Talent\] - When you're knocked **[Unconscious](Status_Effects.md#unconscious)**, enemies gain less health and posture, and allies around you are granted **[Martyrdom](Status_Effects.md#martyrdom)** for 20s.
     -   Martyrdom grants +20% damage and damage reduction for 20 seconds.
     -   Martyrdom cannot be given to the player who knocked you, even if they are your ally. Additionally, Martyr does not consider yourself an ally, meaning the buffs won't be applied to yourself.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
@@ -6405,7 +6405,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
     -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
 
--   Polite Awakening \[Common Talent\] - Upon recovering from being [Unconscious](Status_Effects.md#unconscious), your health is restored up to a minimum of 15% of your max health. (+1 Passive Agility)
+-   Polite Awakening \[Common Talent\] - Upon recovering from being **[Unconscious](Status_Effects.md#unconscious)**, your health is restored up to a minimum of 15% of your max health. (+1 Passive Agility)
     -   Prerequisite: None
     -   The [Legion Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
 
@@ -6573,7 +6573,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Lock n Load \[Common Talent, Light Weapon\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Pistol
 
--   Rapid Fire \[Common Talent, Light Weapon\] - 1H Guns When you land a critical shot, gain [Rapid Fire](Status_Effects.md#rapid-fire) for 2s. 12s Cooldown.
+-   Rapid Fire \[Common Talent, Light Weapon\] - 1H Guns When you land a critical shot, gain **[Rapid Fire](Status_Effects.md#rapid-fire)** for 2s. 12s Cooldown.
     -   The Rapid Fire status effect entirely removes your Pistol critical cooldown for its duration, allowing you to spam it.
     -   Procs on dodge, block, and hit.
     -   Prerequisites: 50 Light Weapon, using a Pistol
@@ -6585,7 +6585,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Sleight of Hands \[Common Talent, Light Weapon\] - 1H Guns When you flourish an opponent you instantly load a bullet.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
--   Ultrakill \[Common Talent, Light Weapon\] - 1H Guns When under the effects of [Rapid Fire](Status_Effects.md#rapid-fire) you reload 2X as fast.
+-   Ultrakill \[Common Talent, Light Weapon\] - 1H Guns When under the effects of **[Rapid Fire](Status_Effects.md#rapid-fire)** you reload 2X as fast.
     -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Pistol
 
 ### Politician
@@ -6932,7 +6932,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 10.5 seconds at 35 Charisma.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
 
--   Sharing is Caring \[Common Talent, Charisma, Bloodrend\] - [Charmed](Status_Effects.md#charm) on opponents also slightly increases your blood drain against them.
+-   Sharing is Caring \[Common Talent, Charisma, Bloodrend\] - **[Charmed](Status_Effects.md#charm)** on opponents also slightly increases your blood drain against them.
     -   Prerequisites: 50 Bloodrend, 30 Charisma, Charismatic Cast
 
 ### Scholar of the Cloud
@@ -6945,13 +6945,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Scoundrel
 
--   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies [Sluggish](Status_Effects.md#sluggish). (+1 Passive Agility)
+-   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](Status_Effects.md#sluggish)**. (+1 Passive Agility)
     -   8 second cooldown.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   The Sluggish status effect grants 15% damage reduction against the target, lasting for the duration of the slow that procced it.
     -   Prerequisites: Any [Fist style](Fists.md) or Kick style equipped, 25 Agility
 
--   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and also applies [Dazed](Status_Effects.md#dazed) briefly. We're even now, right?
+-   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies **[Stagger](Status_Effects.md#stagger)** to PvE enemies and also applies **[Dazed](Status_Effects.md#dazed)** briefly. We're even now, right?
     -   30 second cooldown.
     -   Procs through Block/Parry/Dodge, and applies to all uppercut Mantras (ex: Rising Flame).
     -   The Stagger status effect makes your opponent take 33% more posture damage.
@@ -7015,7 +7015,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Tainted Ground \[Common Talent, Bloodrend\] - Enemies who stand in blood pools do not decay blood poison and gain 15% more blood poisoning.
     -   Prerequisite: 30 Bloodrend
 
--   Vasculitis \[Common Talent, Intelligence, Bloodrend\] - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you [Gem Enhancement](Status_Effects.md#gem-enhancement) against PvE temporarily.
+-   Vasculitis \[Common Talent, Intelligence, Bloodrend\] - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you **[Gem Enhancement](Status_Effects.md#gem-enhancement)** against PvE temporarily.
     -   On proc, your opponent will be unable to use their [Deep Gems](Deep_Gems.md) for 8 seconds.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Prerequisite: 40 Bloodrend, 35 Intelligence
@@ -7059,7 +7059,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Can teleport users to the roof of the depths, and wipe them due to fall damage.
     -   Prerequisites: 75 Shadowcast, Dark God
 
--   Sightless Still \[Common Talent, Shadowcast\] - The more a person is affected by your Shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision even more and applies [Ether Sunder](Status_Effects.md#ether-sunder) to PvE
+-   Sightless Still \[Common Talent, Shadowcast\] - The more a person is affected by your Shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision even more and applies **[Ether Sunder](Status_Effects.md#ether-sunder)** to PvE
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
     -   Prerequisite: 30 Shadowcast
     -   This Talent was merged with the old Black Out Talent.
@@ -7109,7 +7109,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Bleed](Status_Effects.md#bleed) damage can proc this effect.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
--   _**A World Without Song**_ \[Advanced Talent, Galebreathe\] - Every 3 hits with a Wind Mantra now procs [Suffocating](Status_Effects.md#suffocation).
+-   _**A World Without Song**_ \[Advanced Talent, Galebreathe\] - Every 3 hits with a Wind Mantra now procs **[Suffocating](Status_Effects.md#suffocation)**.
     -   Requires 4 hits to proc if you have less than 75 Galebreathe.
     -   Requires 5 hits to proc if you have less than 40 Galebreathe.
     -   Suffocation prevents the victim from casting Mantras and deals a small amount of damage over time.
@@ -7130,7 +7130,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Parrying and getting hit by mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now give you stacks of [Dread](Status_Effects.md#dread). Each stack lasts for 15 seconds.
+-   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Parrying and getting hit by mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now give you stacks of **[Dread](Status_Effects.md#dread)**. Each stack lasts for 15 seconds.
     -   Stacks of dread are represented as a halo that grows from your chest. Each stack makes the halo larger and adds 5% Mantra resistance. Stacks up to 5 times for 25% Mantra resistance.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
@@ -7181,7 +7181,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Selects a random weapon on your hotbar to equip.
     -   Works on offhand weapons.
     -   This Talent passively allows Silenthearts to manually swap equipment and weapons while in danger as well.
-    -   Notably, the [Curse of the No Life King](Curse_of_the_No_Life_King.md) and [Curse of Void](Curse_of_Void.md) curse effects of having a [Cursed](Status_Effects.md#cursed) (stained) healthbar have their durations extended for 60 seconds upon taking damage. This means you cannot avoid being sent to [the Depths](The_Depths.md) by swapping swapping to a non-cursed weapon just before being knocked Unconscious.
+    -   Notably, the [Curse of the No Life King](Curse_of_the_No_Life_King.md) and [Curse of Void](Curse_of_Void.md) curse effects of having a **[Cursed](Status_Effects.md#cursed)** (stained) healthbar have their durations extended for 60 seconds upon taking damage. This means you cannot avoid being sent to [the Depths](The_Depths.md) by swapping swapping to a non-cursed weapon just before being knocked Unconscious.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
@@ -7260,7 +7260,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Any Talent or Mantra that **applies** suffocation will have the status effect replaced with a Haunted Phantom.
     -   Prerequisites: Haunted Gale, 50 Galebreathe
 
--   Apparitions \[Common Talent, Galebreathe\] - Your Haunted Phantoms become Apparitions that apply [Winded](Status_Effects.md#winded) on hit. Apparitions cannot be parried if you are in [Phantom Step](Status_Effects.md#phantom-step).
+-   Apparitions \[Common Talent, Galebreathe\] - Your Haunted Phantoms become Apparitions that apply **[Winded](Status_Effects.md#winded)** on hit. Apparitions cannot be parried if you are in **[Phantom Step](Status_Effects.md#phantom-step)**.
     -   Apparitions can be parried in "Phantom step" (Possibly a bug)
     -   Landing an ability that would normally apply [Suffocation](Status_Effects.md#suffocation) or landing a Galebreathe Mantra during [Haunted Gale](Status_Effects.md#haunted) creates an Apparition.
     -   Apparitions have the same stats as Haunted Gale's Ghosts, with 15 base damage and 5 Galebreathe scaling. Though, their model is very different and Apparitions can proc Specter Talents.
@@ -7308,7 +7308,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The links are non-refreshable, meaning you'll need to wait until after the duration ends to reapply the status effect.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
--   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made [Unconscious](Status_Effects.md#unconscious) with an active thether allows you to steal health from a tethered target and not be made [Unconscious](Status_Effects.md#unconscious).
+-   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made **[Unconscious](Status_Effects.md#unconscious)** with an active thether allows you to steal health from a tethered target and not be made **[Unconscious](Status_Effects.md#unconscious)**.
     -   Whenever you would get knocked but have a tether active, steal HP from the latest static linked target to survive the hit.
     -   Deals 30 true damage to the Jumper Cables victim, and heals you for 30 health.
     -   Nullifies the damage that the hit would have done.
@@ -7392,7 +7392,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The user of the Dustlunge talent can assassinate while in combat, unlike the Unseen Threat talent.
     -   Prerequisites: All Assassin Talents, 90 Agility
 
--   None Left Behind \[Common Talent, Agility\] - You can now shadestep to pick up [Unconscious](Status_Effects.md#unconscious) humanoids far away from you. (+1 Passive Agility)
+-   None Left Behind \[Common Talent, Agility\] - You can now shadestep to pick up **[Unconscious](Status_Effects.md#unconscious)** humanoids far away from you. (+1 Passive Agility)
     -   15 second cooldown.
     -   Utilizing the 'Carry' (V) action on a knocked entity who's in close/medium range teleports you to them.
     -   Can be used to go through walls if you can aim at the knocked entity through it.
@@ -7412,11 +7412,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 50 Intelligence
     -   The [Veteran Adventurer](Veteran_Adventurer.md) Outfit has this Talent.
 
--   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be [Dazed](Status_Effects.md#daze).
+-   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be **[Dazed](Status_Effects.md#daze)**.
     -   Applies daze for 1 second.
     -   Prerequisite: 20 Intelligence
 
--   _Punishing Blow_ \[Rare Talent, Heavy Weapon\] - Heavy Weapons Daze opponents for 1s and [Stagger](Status_Effects.md#stagger) PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.
+-   _Punishing Blow_ \[Rare Talent, Heavy Weapon\] - Heavy Weapons Daze opponents for 1s and **[Stagger](Status_Effects.md#stagger)** PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.
     -   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
     -   Also procs if you land a critical with the M1 tag during their M1 animation.
     -   The Stagger status effect makes your opponent take 33% more posture damage.
@@ -7696,7 +7696,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.
     -   Prerequisite: 65 Agility
 
--   _**Crippling Comeuppance**_ \[Advanced Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD and applies [Sluggish](Status_Effects.md#sluggish) to PvE enemies for 15s. (+1 Passive Agility)
+-   _**Crippling Comeuppance**_ \[Advanced Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD and applies **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for 15s. (+1 Passive Agility)
     -   30 second cooldown.
     -   For every point of Agility below 100, Crippling Comeuppance's duration is reduced by 0.1 seconds, having a minimum duration of 12.5 seconds at 75 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 100 Agility
@@ -7896,7 +7896,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 70 Agility, [Adrenaline Surge](Attunement-less.md#adrenaline-surge) (Mantra)
         -   The [Vigil Sentinel](Vigil_Sentinel.md) Outfit has this Talent
 
--   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent and procs [Sluggish](Status_Effects.md#sluggish) on PvE. (+1 Passive Agility)
+-   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent and procs **[Sluggish](Status_Effects.md#sluggish)** on PvE. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
     -   Makes the opponent unable to jump for 4 seconds.
     -   Upon being applied to an opponent, they Bear Trap immunity for 6 seconds.
@@ -8003,7 +8003,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Warrior
 
--   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying [Ether Sunder](Status_Effects.md#ether-sunder)to PvE opponents. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying **[Ether Sunder](Status_Effects.md#ether-sunder)**to PvE opponents. (+1 Posture)
     -   On hit, apply a 13 second Resonance cooldown.
     -   This cannot proc if their Resonance is already on cooldown.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
@@ -8171,7 +8171,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   For the [Rangescraper](Rangescraper.md)'s other Talent, view [Continuation](#continuation).
 
 -   Finishing Slay: [Messer](Messer.md) & [Alloyed Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
-    -   Consumes all of your [Perfection](Status_Effects.md#perfection) stacks for a secondary instance of damage on your critical.
+    -   Consumes all of your **[Perfection](Status_Effects.md#perfection)** stacks for a secondary instance of damage on your critical.
     -   This deals 7 **typeless** damage per Perfection stack. Deals 166 **typeless** damage per Chain of Perfection stack in PvE.
     -   The first 5 hits that normally do not grant Perfection stacks will contribute to this, allowing you to deal 150 typeless PvP damage or 3.5k typeless PvE damage at maximum chain stacks.
     -   The damage this deals can be increased with damage modifiers, though it is not considered weapon damage so it is fairly difficult to buff.
@@ -8386,13 +8386,13 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Common Talent • \] \[Outfit\]
 
--   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
+-   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply **[Blinded](Status_Effects.md#blinded)** for 5 seconds.
     -   15 second cooldown.
     -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).  
         
     -   Tags: \[Common Talent • \] \[Equipment\] \[Critical Attack\] \[Debuff\]
 
--   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - \[Land Critical Attack or Hidden Blade\] Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
+-   **Blind Spot**: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - \[Land Critical Attack or Hidden Blade\] Apply **[Blinded](Status_Effects.md#blinded)** for 5 seconds.
     -   15 second cooldown.
     -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).  
         
@@ -8401,14 +8401,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Tags: \[Common Talent • \] \[Equipment\] \[Critical Attack\] \[Debuff\]
 
 -   **Blinded**: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
-    -   Applies the [Blinded](Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
+    -   Applies the **[Blinded](Status_Effects.md#blinded)** effect to your character, making everything darker and creating fog at long distances.
     -   The [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
     -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.  
         
     -   Tags: \[Common Talent • \] \[Equipment\] \[Debuff\]
 
 -   **Blinded**: [Blindfold](Blindfold.md) & [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
-    -   Applies the [Blinded](Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
+    -   Applies the **[Blinded](Status_Effects.md#blinded)** effect to your character, making everything darker and creating fog at long distances.
     -   The [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
     -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.  
         
@@ -8694,14 +8694,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Tags: \[Common Talent • \] \[Equipment\] \[Damage Resistance\]
 
--   **Elegy of Light**: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The [Unspoken Vow](Glossary.md#vows) of [the Waking God](Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](Deep_Gems.md) for 3 minutes and provides [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
+-   **Elegy of Light**: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The [Unspoken Vow](Glossary.md#vows) of [the Waking God](Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](Deep_Gems.md) for 3 minutes and provides **[Gem Enhancement](Status_Effects.md#gem-enhancement)**. Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.  
         
     -   Tags: \[Common Talent • \] \[Equipment\]
 
--   **Elegy of Light**: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The [Unspoken Vow](Glossary.md#vows) of [the Waking God](Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](Deep_Gems.md) for 3 minutes and provides [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
+-   **Elegy of Light**: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The [Unspoken Vow](Glossary.md#vows) of [the Waking God](Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](Deep_Gems.md) for 3 minutes and provides **[Gem Enhancement](Status_Effects.md#gem-enhancement)**. Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.  

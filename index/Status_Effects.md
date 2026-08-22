@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 227200
+revid: 227288
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,23 +16,23 @@ Displayed on your health bar, these display the vitality of your character, tell
 
 ### Healthy
 
-Your health state is normal. Perishing will send you to your spawn location and change your health state to [Injured](#injured).
+Your health state is normal. Perishing will send you to your spawn location and change your health state to **[Injured](#injured)**.
 
 ### Injured
 
-You have perished. Perishing again will send you to [the Depths](The_Depths.md). This effect can be cleared, returning you to [Healthy](#healthy) by escaping [the Depths](The_Depths.md) or [Powering](Power.md) up.
+You have perished. Perishing again will send you to [the Depths](The_Depths.md). This effect can be cleared, returning you to **[Healthy](#healthy)** by escaping [the Depths](The_Depths.md) or [Powering](Power.md) up.
 
 ### Drowned
 
-You are in [the Depths](The_Depths.md). Perishing will send you to the [Fragments of Self](Fragments_of_Self.md) in [Pathfinder](Pathfinder.md) or [Fragments of Else](Fragments_of_Else.md) in [Vow of Iron](Vow_of_Iron.md). [Escape](Cathedral_of_the_Interstice.md) the [Depths](The_Depths.md) to clear this effect, restoring you back to [Healthy](#healthy) when you arrive back on the Surface.
+You are in [the Depths](The_Depths.md). Perishing will send you to the [Fragments of Self](Fragments_of_Self.md) in [Pathfinder](Pathfinder.md) or [Fragments of Else](Fragments_of_Else.md) in [Vow of Iron](Vow_of_Iron.md). [Escape](Cathedral_of_the_Interstice.md) the [Depths](The_Depths.md) to clear this effect, restoring you back to **[Healthy](#healthy)** when you arrive back on the Surface.
 
 ### Void
 
-You are in a [Voidzone](Voidzones.md) or in the range of a [Void Spire](Void_Spire.md) while being Power 15 or higher. While you have the Void health state, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of you were [Injured](#injured) or not. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. Leave the Void one to clear this state.
+You are in a [Voidzone](Voidzones.md) or in the range of a [Void Spire](Void_Spire.md) while being Power 15 or higher. While you have the Void health state, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of you were **[Injured](#injured)** or not. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. Leave the Void one to clear this state.
 
 ### Cursed
 
-You currently have a [Curse of the No Life King](Curse_of_the_No_Life_King.md) or [Curse of Void](Curse_of_Void.md) enchanted weapon equipped. Similar to [Injured](#injured), perishing will send you to [the Depths](The_Depths.md). This effect can be removed by changing your weapon or enchantment, returning you to your previous state. However, this effect will persist for 60 seconds after you take damage, effectively preventing you from swapping to a different weapon near the end of a fight to prevent your trip to [the Depths](The_Depths.md).
+You currently have a [Curse of the No Life King](Curse_of_the_No_Life_King.md) or [Curse of Void](Curse_of_Void.md) enchanted weapon equipped. Similar to **[Injured](#injured)**, perishing will send you to [the Depths](The_Depths.md). This effect can be removed by changing your weapon or enchantment, returning you to your previous state. However, this effect will persist for 60 seconds after you take damage, effectively preventing you from swapping to a different weapon near the end of a fight to prevent your trip to [the Depths](The_Depths.md).
 
 ## General
 
@@ -241,7 +241,7 @@ Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mant
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, [Hailbreaker](Hailbreaker.md) Critical, And [Winter Rifle's](Winter_Rifle.md) Running attack. Signified by being encased in a block of ice. Mash F, Q, or Space to escape faster, or [Vent](Combat_Mechanics.md#tempo) to escape instantly.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, [Hailbreaker](Hailbreaker.md) Critical, And [Winter Rifle's](Winter_Rifle.md) Running attack. Being attacked by a non-[Frostdraw](Frostdraw.md) attack will shatter the ice instantly. Mash F, Q, or Space to escape faster, or [Vent](Combat_Mechanics.md#tempo) to escape instantly. Mashing multiple of these inputs at the same time will help you escape faster. Signified by being encased in a block of ice.
 
 ### Crystal
 
@@ -273,7 +273,7 @@ Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](I
 
 Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra, and through certain Bloodrend [Talents](Talents.md). Signified by a translucent dark red effect on your blood bar. Effect varies depending on the percentage of your blood bar is Poisoned.
 
--   At 20% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them. In PvE this also gives you [Gem Enhancement](#gem-enhancement) for a short duration.
+-   At 20% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them. In PvE this also gives you **[Gem Enhancement](#gem-enhancement)** for a short duration.
 -   At 25% Blood Poisoning, [Hemolysis](Talents.md#hemolysis) Talent is activatable, granting you a 20% critical damage bonus when hitting someone at or above 25% BP.
 -   At 40% Blood Poisoning, Enemies receive 25% less healing.
 -   At 50% Blood Poisoning, Enemies have their damage reduced by 12.5%.

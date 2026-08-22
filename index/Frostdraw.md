@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 227260
+revid: 227285
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1253,11 +1253,11 @@ These Talents are found in the _Frostdrawer_ category.
 |  | Frostdrawer  
 (1 Frostdraw) | Grants you the ability to command Ice as a Frostdrawer. |  |
 |  | Adept Frostdrawer  
-(20 Frostdraw) | You can now obtain 1-Star Frostdraw Mantras. |  |
+(20 Frostdraw) | You can now obtain 1-Star Frostdraw Mantras. | This Talent will be removed if you do not meet its requirements. |
 |  | Expert Frostdrawer  
-(30 Frostdraw) | You can now obtain 2-Star Frostdraw Mantras. |  |
+(30 Frostdraw) | You can now obtain 2-Star Frostdraw Mantras. | This Talent will be removed if you do not meet its requirements. |
 |  | Master Frostdrawer  
-(50 Frostdraw) | You can now obtain 3-Star Frostdraw Mantras. (+5 Health) |  |
+(50 Frostdraw) | You can now obtain 3-Star Frostdraw Mantras. | This Talent will be removed if you do not meet its requirements. +5 Health. |
 |  | Cold Front  
 (25 Frostdraw) | Your Vent is imbued with glacial frost. | Venting creates an ice patch on the floor and applies Chill to any enemy hit by it. |
 
@@ -1274,8 +1274,8 @@ These Talents are found in the _Cryomancer_ category.
 |  | Cool Head  
 (30 Frostdraw) | If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown |  |
 |  | Fragile Freeze  
-(60 Frostdraw) | Your Light Attack's and Critical will now freeze chilled opponents on guardbreak. | Guardbreaking a chilled opponent with a weapon attack will [encase them in ice](Status_Effects.md#frozen), removing their ability to move, parry, block, or dodge for a short amount of time.  
-You can spam F to get out of Freeze faster.
+(60 Frostdraw) | Your Basic Attacks and Criticals now apply **[Frozen](Status_Effects.md#frozen)** to **[Chilled](Status_Effects.md#chill)** opponents on guardbreak. | Guardbreaking a chilled opponent with a weapon attack will [encase them in ice](Status_Effects.md#frozen), removing their ability to move, parry, block, or dodge for a short amount of time.  
+You can spam F, Q, and Space to get out of Freeze faster.
 
  |
 |  | Spike Traps  
@@ -1297,10 +1297,10 @@ These Talents are found in the _Frostthorn_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Glacial Coasting  
-(50 Frostdraw, 25 Agility, Orbital Ice) | Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility) |  |
+(50 Frostdraw, 25 Agility, Orbital Ice) | Sliding while Orbital Ice is active leaves trails of ice. | +1 Passive Agility |
 |  | Orbital Ice  
-(65 Frostdraw) | When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage, scaling with Frostdraw. (+2 Passive Agility) | Parrying while standing on ice creates a ring that absorbs 15% of the physical damage you take.  
-90 Second Cooldown. |
+(65 Frostdraw) | When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage, scaling with Frostdraw. | +2 Passive Agility  
+Parrying while standing on ice creates a ring that absorbs 15% of the physical damage you take. 90 Second Cooldown. |
 
 **Frostforger:**
 
@@ -1318,7 +1318,7 @@ These Talents are found in the _Frozen Warrior_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Frozen Legs  
-(60 Frostdraw) | [Chilled](Status_Effects.md#chill) applied by your Mantras prevents your opponents from rolling. | Lasts for the first 0.75s of Chill duration. Does **not** work with Crystallization Path. |
+(60 Frostdraw) | **[Chilled](Status_Effects.md#chill)** applied by your Mantras prevents your opponents from rolling. | Lasts for the first 0.75s of Chill duration. Does **not** work with Crystallization Path. |
 
 **Glassdancer:**
 
@@ -1345,23 +1345,23 @@ These Talents are found in the _Ice Age_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Bottom Freeze  
-(25 Frostdraw, Ice Forge Mantra) | Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground. | Prevents them from rotating their character and moving around overall. |
+(25 Frostdraw, Ice Forge or Ice Daggers Mantra) | Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground. | Prevents them from rotating their character and moving around overall. |
 |  | Cryonis  
 (40 Frostdraw) | All ice spells casted on top of ice cost less Ether. | Frostdraw Mantras cost 40% less ether if casted while standing on ice. |
 |  | Frostbite  
-(25 Frostdraw) | Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled. |  |
+(25 Frostdraw) | Enemies can no longer heal when **[Chilled](Status_Effects.md#chill)** by you. PvE enemies also net you 5% more **[Heal Boost](Status_Effects.md#heal-boost)** when **[Chilled](Status_Effects.md#chill)**. |  |
 |  | Frost Buster  
 (45 Frostdraw, 15 Heavy Weapon) | Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve. | Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats. |
 |  | Frozen Anchor  
 (100 Frostdraw, 100 Weapon) | Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD | Successfully flourishing, uppercutting or critting an opponent freezes them, preventing them from rotating their character and moving overall. |
 |  | Frozen Pin-Cushion  
-(60 Frostdraw, Ice Daggers) | Hitting an opponent with your Ice Daggers causes them to freeze. | Hitting an opponent with Ice Daggers will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time. |
+(60 Frostdraw, Ice Daggers) | Your Ice Daggers now apply **[Frozen](Status_Effects.md#frozen)**. | Hitting an opponent with Ice Daggers will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time. |
 |  | Saint Jay  
-(25 Frostdraw, Frostbite) | When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
+(25 Frostdraw, Frostbite) | When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 10% as well. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
 |  | Stasis Strike  
 (90 Frostdraw, 90 Weapon, Glass Path: Crystallization) | Your crystal explosions deal more damage whenever your opponent is also bottom frozen. | Your crystal detonations deal 67% more damage against targets who are bottom frozen. |
 |  | Unyielding Frost  
-(100 Frostdraw) | Your Chill can proc through block, with blocked Chilling procs lasting 80% of the duration. | If you have less than 100 Frostdraw, your chill duration (when applied through block) will be reduced further to only 25% of its original duration. |
+(100 Frostdraw) | Your **[Chilled](Status_Effects.md#chill)** can proc through block, with blocked **[Chilled](Status_Effects.md#chill)** procs lasting 80% of the duration. | If you have less than 100 Frostdraw, your chill duration (when applied through block) will be reduced further to only 25% of its original duration. |
 
 ## Trivia
 
