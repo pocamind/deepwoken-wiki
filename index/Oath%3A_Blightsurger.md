@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 227168
+revid: 227337
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -66,16 +66,16 @@ To progress Blightsurger, the player will need to activate **Sovereign State** m
 
 Recommended method is to hit training dummies. Attack until your **Blight meter** is full, then drop a note to be in combat. After that, activate Sovereign Mode and allow it to drain for 1 sec, then turn it off. It is not required to stay in the transformation the whole time or to attack in it.
 
-(**THESE ARE ALL ESTIMATES AND NEEDS MORE TESTING**)
+  
 
--   15 ~ 100% Activations - Sovereign Drive
--   15 ~ 100% Activations - Blighted Touch
--   15 ~ 100% Activations - Skycrash/Blight Pierce
--   15 ~ 100% Activations - Warp Kick
--   15 ~ 100% Activations - Anchor Shock
--   15 ~ 100% Activations - Blight Lash
+-   10 ~ 100% Activations - Sovereign Drive
+-   10 ~ 100% Activations - Blighted Touch
+-   10 ~ 100% Activations - Skycrash/Blight Pierce
+-   10 ~ 100% Activations - Warp Kick
+-   10 ~ 100% Activations - Anchor Shock
+-   10 ~ 100% Activations - Blight Lash
 
-Rounded up in total would be 90 ~ 100 **Sovereign Mode** activations.
+Rounded up in total would be 60 ~ 100 **Sovereign Mode** activations.
 
 You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat you down.
 

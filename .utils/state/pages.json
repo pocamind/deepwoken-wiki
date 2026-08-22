@@ -3177,7 +3177,7 @@
   },
   "8135": {
     "title": "Oath: Blindseer",
-    "lastrevid": 226345
+    "lastrevid": 227339
   },
   "8136": {
     "title": "Oath: Visionshaper",
@@ -3981,7 +3981,7 @@
   },
   "11455": {
     "title": "Whirlpools",
-    "lastrevid": 216499
+    "lastrevid": 227344
   },
   "11474": {
     "title": "Nimea",
@@ -4297,7 +4297,7 @@
   },
   "13186": {
     "title": "Deepspindle",
-    "lastrevid": 224543
+    "lastrevid": 227331
   },
   "13187": {
     "title": "Wormwarder Lantern",
@@ -5969,7 +5969,7 @@
   },
   "18031": {
     "title": "Oath: Blightsurger",
-    "lastrevid": 227168
+    "lastrevid": 227337
   },
   "18062": {
     "title": "Elder Primadon, The Titan Warlord",
@@ -7601,7 +7601,7 @@
   },
   "21385": {
     "title": "Shogun of the Prophet's Guard",
-    "lastrevid": 225078
+    "lastrevid": 227332
   },
   "21388": {
     "title": "Corrupted Isshin's Ring",
@@ -8177,7 +8177,7 @@
   },
   "21816": {
     "title": "Jungle Jim",
-    "lastrevid": 226011
+    "lastrevid": 227345
   },
   "21817": {
     "title": "Hidden Knife Armor",
@@ -9758,5 +9758,9 @@
   "26413": {
     "title": "Konga lineage",
     "lastrevid": 227155
+  },
+  "26424": {
+    "title": "Palace Tachi",
+    "lastrevid": 227362
   }
 }

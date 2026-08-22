@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 216499
+revid: 227344
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,7 +30,7 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 
 -   Next to [Duke's Manor](<Duke_Erisia's_Manor.md>).
 -   In between [Minityrsa](Minityrsa.md) and the [Beloved Zofia](Beloved_Zofia.md).
--   Next to the isle of vigils
+-   Next to the isle of vigils decently close to [Vigil Isaac](Vigil_Isaac.md).
 
 ### Eastern Luminant
 
@@ -45,3 +45,4 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 
 -   Some [Monsters](Monsters.md) can get dragged into Whirlpools.
 -   Driving [Boats](Ships_&_Sailing.md) into a whirlpool will result in the boat sinking and being destroyed.
+-   Evil freshies would have glacial arc setups over a whirlpool and call upon a Justicar to get them depth sent.

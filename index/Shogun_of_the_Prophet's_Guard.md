@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 225078
+revid: 227332
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies]
@@ -24,9 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Shoguns of the Prophet's Guard are a group of [bosses](Bosses.md) scattered around the [Etrean Luminant](Luminants.md), commonly appearing in the five citadels. They appear more in [Etris](Etris.md), as [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>) contracted them as his defense, hence the name "Prophet's Guard". These bosses are optional, as they aren't required to be beaten to challenge any bosses.
+The Shoguns of the Prophet's Guard are a group of [mini bosses](Bosses.md) scattered around the [Etrean Luminant](Luminants.md), they most notably appear in the [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md) and in the church near the [Red Lotus Keep](Red_Lotus_Keep.md). There are 4 static spawns for them in [Etris](Etris.md), as well as a [job](Job_Boards.md) for them in the same location.
 
-They are the guards who stormed the royal palace with Zi'eer to steal the throne of [Etrea](Etrea.md). They became monstrosities through the power granted by Zi'eer—no longer human, but something closer to his true form.
+They are the guards who stormed the royal palace with Zi'eer to steal the throne of [Etrea](Etrea.md). They became monstrosities through the power granted by Zi'eer.
 
 Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>), an [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) combined with an [Iron Cestus](Iron_Cestus.md), and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
 

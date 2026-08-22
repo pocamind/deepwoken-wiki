@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 226011
+revid: 227345
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Individuals with unspecified pronouns]
@@ -12,7 +12,7 @@ notices:
 
 | Jungle Jim | |
 |---|---|
-| health | ~5000 |
+| health | 1500 |
 | drops | Withered Gale Pale |
 | weapon | Gale Pale |
 | moves | Revenge, Judgement, Twincleave, Twister Kicks, Gale Lunge |

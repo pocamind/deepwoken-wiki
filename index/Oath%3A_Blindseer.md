@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 226345
+revid: 227339
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -139,7 +139,9 @@ Oath [ResistanceOath](Oaths.md)
 **Effect:** _User fires a high pressure beam from their eyes at the cost of their Sanity._
 
 -   The entire beam deals around 150 damage. The damage and posture damage is front loaded towards the start of the attack, with subsequent hits dealing less damage.
--   This mantra can make you go insane if you use it too much.
+-   Has a base duration of 2 seconds.
+-   Has a windup of 1.1 seconds.
+-   This Mantra can make you go insane if you use it too much.
 -   Sightless Beam can be canceled midway by pressing F.
 -   Steals eyesight proccing the blind effect if enough hits land.
 -   Has a **high** windup.
@@ -219,7 +221,7 @@ Obtained with the Oath
 
 -   Has a 60 second cooldown.
 -   Allies include Guildmates, Roblox friends, and those with whom you share a Vow of Mastery or Vow of Allegiance with.
--   Casting Mindsoothe on an ally who is acted by [Charm](Status_Effects.md#charm), [Taunt](Status_Effects.md#taunt), or [Dazed](Status_Effects.md#dazed) will clear the effect from them. Additionally, casting Mindsoothe on an ally who is being targetted by a [Visionshaper](Oath%253A_Visionshaper.md) clone will cause the clone to despawn.
+-   Casting Mindsoothe on an ally who is acted by **[Charm](Status_Effects.md#charm)**, [Taunt](Status_Effects.md#taunt), or **[Dazed](Status_Effects.md#dazed)** will clear the effect from them. Additionally, casting Mindsoothe on an ally who is being targetted by a [Visionshaper](Oath%253A_Visionshaper.md) clone will cause the clone to despawn.
 -   The sanity cost is only deducted on a successful heal.
 -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
 -   Doesn't work on NPCs.
