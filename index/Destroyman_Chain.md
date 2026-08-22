@@ -1,6 +1,6 @@
 ---
 title: Destroyman Chain
-revid: 220949
+revid: 227326
 source: https://deepwoken.fandom.com/wiki/Destroyman_Chain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Necklaces]
@@ -20,7 +20,7 @@ notices:
 | innate stats | +3.1% Physical Armor , +1 Legendary Pip , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Deep League International Greatwar |

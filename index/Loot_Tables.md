@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 223114
+revid: 227327
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -664,7 +664,7 @@ All bosses have differing loot tables found here
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Gumshoe_Hat.md">Gumshoe Hat</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Gumshoe_Hat.md">Gumshoe Hat</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Wool_Beret.md">Wool Beret</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a></li>

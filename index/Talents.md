@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227325
+revid: 227329
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -724,6 +724,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Amoran Seeker
 
 -   **Flame Within** \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
+    -   Costs 25 Ether to activate.
     -   Unlike normal [burn](Status_Effects.md#burn), Flame Within's burn is not cleared by rolling or sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Flame Within has an 8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
@@ -739,6 +740,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Flamecharm\] \[Damage Buff\] \[Tool\]
 
 -   **Flame Within** \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
+    -   Costs 25 Ether to activate.
     -   Unlike normal [burn](Status_Effects.md#burn), Flame Within's burn is not cleared by rolling or sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Flame Within has an 8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as [Speed Demon](#speed-demon)).
@@ -7899,7 +7901,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent and procs **[Sluggish](Status_Effects.md#sluggish)** on PvE. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
     -   Makes the opponent unable to jump for 4 seconds.
-    -   Upon being applied to an opponent, they Bear Trap immunity for 6 seconds.
+    -   Upon being applied to an opponent, they gain Bear Trap immunity for 6 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 20 Strength, 20 Agility
 

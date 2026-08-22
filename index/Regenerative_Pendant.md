@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 223459
+revid: 227330
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -44,6 +44,8 @@ The Regenerative Pendant is an [Equipment](Equipment.md) item under the "Torso" 
 The Regenerative Pendant is similar to the [Trueblood Pendant](Trueblood_Pendant.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
 
 The [Blood Pact](Talents.md#blood-pact) Talent gives you [Temporary Health](Status_Effects.md#temporary-health) upon executing or knocking an enemy. Rather than being a separate effect, this adds 50 Temporary Health to any healthpack you obtain, meaning it will only work in scenarios where you would actually gain a healthpack.
+
+You will get the Temporary Health even in PVP combat tag.
 
 ## Set Talent
 
