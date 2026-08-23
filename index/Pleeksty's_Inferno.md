@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 227212
+revid: 227485
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
@@ -67,7 +67,7 @@ In Vow of Iron, the Pleeksty's Inferno can be found stuck in a rock at Saramaed 
 
 The Pleeksty's Inferno has two different critical attacks.
 
-For the **standing** critical, the user plunges the macuahuitl into the ground, creating three small eruptions and performing an upward slash afterwards, knocking the target away with ragdoll. Each hit applies Burn. The plunge has three consecutive hits, each dealing **0.4x scaled damage**, followed by the upward slash dealing **1.4x scaled damage**. Your character's rotation speed is slowed during this attack.
+For the **standing** critical, the user plunges the macuahuitl into the ground, creating three small eruptions and performing an upward slash afterwards, knocking the target away with ragdoll. Each hit applies Burn. The plunge has three consecutive hits, each dealing **0.4x scaled damage**, followed by a **guardbreaking** upward slash dealing **1.4x scaled damage**. Your character's rotation speed is slowed during this attack.
 
 For the **running** critical, the user reels the macuahuitl back before unleashing a diagonal slash, creating a projectile of flame that ragdolls and burns the target. The projectile is directional and will fly in the direction of your characters momentum. The projectile deals **1.5x scaled damage**.
 

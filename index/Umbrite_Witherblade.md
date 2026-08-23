@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 223937
+revid: 227484
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Legendary Weapons, Relic Weapon]
@@ -54,9 +54,9 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target, applying [bleed](Status_Effects.md#bleed). The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
 
-The first hit has 0.2s of Hyperarmor and deals **0.35x** scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
+The first hit has 0.2s of Hyperarmor and deals **0.35x** scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% innate chip.
 
-The second slash deals **0.45x** scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage with no chip and knocks the opponent away. The second slash will also **autogrip** any knocked player or those hit and knocked by it.
+The second slash deals **0.45x** scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage and knocks the opponent away. The second slash will also **autogrip** any knocked player or those hit and knocked by it.
 
 The cooldown for this critical is **8** seconds.
 
