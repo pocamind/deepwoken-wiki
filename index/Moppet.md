@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 227389
+revid: 227495
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -64,4 +64,4 @@ The critical has a cooldown of **3 seconds**.
         -   The _innate_ effects of [Might](Might_Gem.md) and [Wrath Gems](Wrath_Gem.md) do not apply to Moppet's critical.
         -   All other [Deep Gems](Deep_Gems.md) work, but they aren't as notable or have no unique properties with this weapon.
 -   [Visionshaper](Oath%253A_Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
--   This weapon's critical originally had the M1 tag. On its release, using this with [Spine Cutter](Talents.md#spine-cutter) alloyed you to bypass the health gate limitation and one shot players.
+-   This weapon's critical originally had the M1 tag. On its release, using this with [Spine Cutter](Talents.md#spine-cutter) allowed you to bypass the health gate limitation and one shot players.

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 227087
+revid: 227491
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -151,7 +151,7 @@ Dodge
 
  | Starts out similarly to **Electro Stomp**, but the animation is much slower, and the geysers are instead colored red.
 
--   This attack can be avoided by rolling to the side as it cannot change directions when using this attack.
+-   This attack can be avoided by rolling or simply walking to the side as it cannot change directions when using this attack.
 
 _Uses Telegraph_
 
@@ -231,7 +231,7 @@ Parry
 
 ## Tips
 
-**DO NOT VENT**. This will usually result in the Nautilodaunt Officiate using Electro Stomp which is essentially a guaranteed hit due to vent endlag. Additionally, try to focus more on attacking than parry trading. It may sound counter intuitive, but once you get about 2-3 parries on the Nautilodaunt Officiate, fishing for more leaves you vulnerable to feints or other attacks whereas attacking will usually connect as long as you fully commit.
+-   **DO NOT VENT**. This will usually result in the Nautilodaunt Officiate using Electro Stomp which is essentially a guaranteed hit due to vent endlag. Additionally, try to focus more on attacking than parry trading. It may sound counter intuitive, but once you get about 2-3 parries on the Nautilodaunt Officiate, fishing for more leaves you vulnerable to feints or other attacks whereas attacking will usually connect as long as you fully commit.
 
 ## Trivia
 

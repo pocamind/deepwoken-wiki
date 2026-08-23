@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 225093
+revid: 227493
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -66,4 +66,4 @@ Their arsenal only consists of a [Silver Dagger](Silver_Dagger.md):
 ## Trivia
 
 -   Despite stealing your money, they still half grip the player, but backing off before the animation finishes.
--   They can also mug NPCs like the [Authority Officer](Authority_Officer.md), even though a player mugging the Officers will reveal they are clearly underpaid.
+-   They can also mug NPCs like the [Authority Officer](Authority_Officer.md).
