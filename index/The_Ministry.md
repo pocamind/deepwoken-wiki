@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 208449
+revid: 227455
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Ministry]
@@ -11,7 +11,7 @@ categories: [Factions, The Ministry]
 | The Ministry | |
 |---|---|
 | territory | Outpost Antumbra,, The Understrand |
-| goals | The sinking of the Overworld into the depths, Silence the The Children of Navae |
+| goals | The sinking of the Overworld into The Depths, Silence the The Children of Navae |
 
 “ GODSEEKERS, PROPHETS IN BLACK, OFFERING THIS CITY OF STONE AS IF IT WERE FESTERING MEAT. A PALTRY OFFERING, BUT MORE THAN YOUR KIND USUALLY AMOUNT TO. ”
 

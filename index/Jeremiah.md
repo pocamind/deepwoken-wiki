@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 226855
+revid: 227466
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -44,7 +44,7 @@ Potential Rewards
   <td>
   <ul>
     <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li>Monster Ingredients: <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a>, <a href="Thresher_Talon.md">Thresher Talon</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a></li>
+    <li>Monster Ingredients: <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a>, <a href="Thresher_Talon.md">Thresher Talon</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Exotic_Hide.md">Exotic Hide</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -141,3 +141,4 @@ Potential Rewards
 ## Trivia
 
 -   Jeremiah is able to give the player all of the Attribute rings besides the [Rosen's Ring](<Rosen's_Ring.md>).
+-   Jeremiah does not have any special interactions when given Unique Gems, such as the [Aegis Gem](Aegis_Gem.md), [Wrath Gem](Wrath_Gem.md), or [Might Gem](Might_Gem.md), making it more worthwhile to give him regular [Deep Gems](Deep_Gems.md) instead.

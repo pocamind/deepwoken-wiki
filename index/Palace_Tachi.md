@@ -1,6 +1,6 @@
 ---
 title: Palace Tachi
-revid: 227444
+revid: 227475
 source: https://deepwoken.fandom.com/wiki/Palace_Tachi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons of The Ministry, Weapons of Etrea]
@@ -31,14 +31,14 @@ categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), The Ferryman, The Understrand |
 | description | The dark tachi of a Threadcutter. Weighted by its alloys, the center of mass runs further along the length of the blade, making for slow but devastating cutting power. |
 
 ## Description
 
-The Palace Tachi is a katana [weapon](Weapons.md) in the Medium Weapons category. These are used by [the Lord Regent](The_Lord_Regent.md)'s [Threadcutters](Threadcutter.md).[\[1\]](#cite-note-1) Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
+The Palace Tachi is a katana [weapon](Weapons.md) in the Medium Weapons category. These are used by [the Lord Regent](The_Lord_Regent.md)'s Threadcutters. Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
 
 When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s and critical attacks will be suspended until it is sheathed, at which point all of that damage is inflicted at once. This damage cannot exceed 70% of a player's maximum health. See [Stored Damage Mechanic](Stored_Damage_Mechanic.md) for more info.
 
@@ -57,9 +57,3 @@ The critical has a cooldown of **7 seconds**.
 ## Trivia
 
 -   It is one of five weapons that comes with a scabbard shown on your character, the others being the [Katana](Katana.md)/[Alloyed Katana](Katana.md), [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md).
-
-  
-
-## Navigation
-
-1.  [↑](#cite-ref-1)

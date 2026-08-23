@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 216788
+revid: 227476
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -56,7 +56,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <font>Palace Tachi</font></li>
     <li><b>Alloyed Weapons</b>:</li>
     <li><b>Generic Weapons</b>:
   <ol>
