@@ -42,7 +42,7 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 **Payback** has four different variants.
 
 1.  **Instant**; Instantly reflects any damage and [Status Effects](Status_Effects.md) taken within ~2.5 seconds to the user's opponents.
-    -   This can grant conditional effects from Talents that the user does not have, such as granting them the [Emperor Flame](Talents.md#emperor-flame) effect. This also has some weird oddities, like reflecting the [Unconscious](Status_Effects.md#unconscious) status effect, instantly knocking the person hit Unconscious, if you counter a hit that would've done the same to you.
+    -   This can grant conditional effects from Talents that the user does not have, such as granting them the [Emperor Flame](Talents.md#emperor-flame) effect. This also has some weird oddities, like reflecting the **[Unconscious](Status_Effects.md#unconscious)** status effect, instantly knocking the person hit Unconscious, if you counter a hit that would've done the same to you.
 2.  **Sniper**; Multiplies and reflects all damage taken within ~1.25 seconds, firing a beam in front of the user to deal the damage. This deals all of the damage instantly.
 3.  **Delayed**; Multiplies and reflects all damage taken within ~1.5 seconds, firing a beam in front of the user to deal the damage. This deals the damage at the end of the Resonance's duration. This also reflects [Status Effects](Status_Effects.md), like the Instant version.
 4.  **Continuous**; Multiplies and reflects all damage taken within ~1.5 seconds, firing a beam in front of the user to deal the damage. This beam hits multiple times, with the damage being spread out between all hits.

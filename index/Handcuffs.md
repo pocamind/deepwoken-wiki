@@ -84,7 +84,7 @@ With the [Untrained Fist](Untrained_Fist.md) style, the user runs forward and sw
 
 This attack has a **1.5x** scaled damage multiplier, though in practice it will only deal **0.75x** of your weapons scaled damage, due to Untrained Fist having halved weapon damage. This deals **12** posture damage if blocked, regardless of your weapon's Posture Damage stat.
 
-This critical has a windup of **0.6s**, providing [Hyperarmor](Status_Effects.md#hyperarmor) for the final **0.2s** before the attack lands. Additionally, this has **0.45s** of endlag.
+This critical has a windup of **0.6s**, providing **[Hyperarmor](Status_Effects.md#hyperarmor)** for the final **0.2s** before the attack lands. Additionally, this has **0.45s** of endlag.
 
 This critical has a **5 second** cooldown.
 

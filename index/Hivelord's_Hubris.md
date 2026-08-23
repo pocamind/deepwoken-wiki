@@ -44,7 +44,7 @@ It drops from all [Golem Constructs](Hive_Construct.md).
 
 ## Critical
 
-Hivelord's Hubris uses the default Greathammer critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
+Hivelord's Hubris uses the default Greathammer critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants **[Hyperarmor](Status_Effects.md#hyperarmor)** for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies **[Knockdown](Status_Effects.md#knockdown)** and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

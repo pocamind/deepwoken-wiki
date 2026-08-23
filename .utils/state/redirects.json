@@ -2008,6 +2008,9 @@
   "Gargoyles": {
     "to": "Brainsucker"
   },
+  "Gathering Storm (mechanic)": {
+    "to": "Stored Damage Mechanic"
+  },
   "Gaudily-dressed Soldier": {
     "to": "Chud Steel"
   },
@@ -3260,6 +3263,9 @@
     "to": "Status Effects",
     "fragment": "Moonseye Mark"
   },
+  "Moppet (mechanic)": {
+    "to": "Stored Damage Mechanic"
+  },
   "Mordred Hirculi": {
     "to": "High Inquisitor Mordred Hirculi"
   },
@@ -3634,6 +3640,9 @@
   },
   "Portal": {
     "to": "Portals"
+  },
+  "Poser's Ring (mechanic)": {
+    "to": "Stored Damage Mechanic"
   },
   "Posture": {
     "to": "Combat Mechanics",

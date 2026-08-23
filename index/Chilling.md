@@ -26,7 +26,7 @@ Chilling's colors change depending on your [Frostdraw](Frostdraw.md) color, turn
 
 After landing enough M1s, Chilling applies [Chill](Status_Effects.md#chill) and [Bottom Freeze](Status_Effects.md#bottom-freeze) to your opponent. Once this happens, Chilling will go on a 5 second cooldown, preventing stack gain without disabling the damage Chilling does. If you have Crystallization Path, this enchantment will apply 1 Crystal on each M1 instead.
 
-If the enemy is a PvE enemy, additionally apply [Sluggish](Status_Effects.md#sluggish) upon reaching the hit count, reducing the damage they deal for the duration of the slow.
+If the enemy is a PvE enemy, additionally apply **[Sluggish](Status_Effects.md#sluggish)** upon reaching the hit count, reducing the damage they deal for the duration of the slow.
 
 Additionally, your M1s gain a secondary damage instance that deals 4% of your weapon's scaled damage as Frostdraw damage. This secondary damage increase is increased to 10% of your weapon's scaled damage for the hit that reaches Chilling's hit count requirement.
 

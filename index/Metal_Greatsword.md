@@ -54,7 +54,7 @@ Additionally, your [Metal Armament](Ironsing.md#metal-armament) damage is increa
 
 While inside [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range, your critical attack will be replaced with the Mantra, teleporting behind your target while leaving behind a metal clone before immediately stabbing the target. This attack has innate [Bleed](Status_Effects.md#bleed), and counts as a weapon attack, **not** a Mantra. Attempting to use this critical while it's on cooldown will cause you to lose Ether.
 
-If you aren't within Metal Fakeout's targeting range, your critical attack will be the default [Greatsword](Greatswords.md) critical, an overhead swing. It has a scaled damage multiplier of **1x**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
+If you aren't within Metal Fakeout's targeting range, your critical attack will be the default [Greatsword](Greatswords.md) critical, an overhead swing. It has a scaled damage multiplier of **1x**. Grants **[Hyperarmor](Status_Effects.md#hyperarmor)** for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies **[Knockdown](Status_Effects.md#knockdown)** and will insta-guardbreak opponents who attempt to block it.
 
 Both criticals have a cooldown of **8 seconds**.
 

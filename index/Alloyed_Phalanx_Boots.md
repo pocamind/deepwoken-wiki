@@ -40,4 +40,4 @@ Variants: [Plate](Alloyed_Phalanx_Plate.md)
 
 Alloyed Phalanx Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of any [Knockdown](Status_Effects.md#knockdown) applied to you by 75%.
+The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of any **[Knockdown](Status_Effects.md#knockdown)** applied to you by 75%.

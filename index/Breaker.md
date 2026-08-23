@@ -42,7 +42,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Calamity Punch</b><abbr></abbr></center><div>TalentIconFist</div><center><small>[Memento Talent]</small><small></small><br>
+  <td><center><b>Calamity Punch</b><abbr></abbr></center><div>TalentIconFist</div><center><font><i>Breaker</i></font><br>
+  <small>[Memento Talent]</small><small></small><br>
   <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Breaker</strong>] [Damage Buff]</small></center><center>Every successful <a href="Attunement-less.md#strong-left">Strong Left</a> builds up stacks to perform a larger scale punch.</center><br>
   </td>
   <td><p><br>
@@ -53,14 +54,15 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Calamity Punch** \[Memento Talent\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
+-   **Calamity Punch** \[Memento Talent • Breaker\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
     
     -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Damage Buff\]
 
 <table>
 <tbody>
 <tr>
-  <td><center><b>Legion Kata</b></center><div>TalentIconFist</div><center><small>[Quest Talent]</small><small></small><br>
+  <td><center><b>Legion Kata</b></center><div>TalentIconFist</div><center><font><i>Gale Kata</i></font><br>
+  <small>[Quest Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [<a href="Fists.md#styles">Fist Style</a>] [Fist]</small></center><center>Gain the ability to use the Legion's martial arts.</center><br>
   </td>
   <td>
@@ -73,7 +75,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Legion Kata** \[Quest Talent\] - Gain the ability to use the Legion's martial arts.
+-   **Legion Kata** \[Quest Talent • Gale Kata\] - Gain the ability to use the Legion's martial arts.
     
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).  
         
@@ -82,7 +84,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Way of Navae</b></center><div>TalentIconFist</div><center><small>[Quest Talent]</small><small></small><br>
+  <td><center><b>Way of Navae</b></center><div>TalentIconFist</div><center><font><i>Navaen Nomad</i></font><br>
+  <small>[Quest Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [<a href="Fists.md#styles">Fist Style</a>] [Fist]</small></center><center>Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.</center><br>
   </td>
   <td>
@@ -95,7 +98,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Way of Navae** \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   **Way of Navae** \[Quest Talent • Navaen Nomad\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).  
         
@@ -104,7 +107,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Against All Odds</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><small></small><br>
+  <td><center><b>Against All Odds</b></center><div>TalentIconEye</div><center><font><i>Absolute Focus</i></font><br>
+  <small>[Common Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [Combat Tag] [Damage Buff]</small></center><center>For each combat tag you have on your character, increase your damage by 2% (max of 14%).</center><br>
   </td>
   <td>
@@ -117,7 +121,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Against All Odds** \[Common Talent\] - For each combat tag you have on your character, increase your damage by 2% (max of 14%).
+-   **Against All Odds** \[Common Talent • Absolute Focus\] - For each combat tag you have on your character, increase your damage by 2% (max of 14%).
     
     -   Works in PvE combat, with each mob counting as an individual combat tag.  
         
@@ -126,7 +130,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Emergency Reserves</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><small></small><br>
+  <td><center><b>Emergency Reserves</b></center><div>TalentIconEye</div><center><font><i>Absolute Focus</i></font><br>
+  <small>[Common Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [Tempo]</small></center><center>When you get hit below 20% health, gain 20% tempo immediately.</center><br>
   </td>
   <td>
@@ -141,7 +146,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Emergency Reserves** \[Common Talent\] - When you get hit below 20% health, gain 20% tempo immediately.
+-   **Emergency Reserves** \[Common Talent • Absolute Focus\] - When you get hit below 20% health, gain 20% tempo immediately.
     
     -   Grants 20% of your maximum [Tempo](Combat_Mechanics.md#tempo) on proc.
     -   3 minute cooldown.
@@ -152,7 +157,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Unswayed</b></center><div>TalentIconEye</div><center><small>[Common Talent]</small><small></small><br>
+  <td><center><b>Unswayed</b></center><div>TalentIconEye</div><center><font><i>Absolute Focus</i></font><br>
+  <small>[Common Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [+Sanity]</small></center><center>The effects of <a href="Attunement-less.md#taunt">Taunt</a> and <a href="Talents/Vow_of_Iron.md#encore">Encore</a> no longer work on you.</center><br>
   <center><small>+20 Sanity</small></center><br>
   </td>
@@ -161,7 +167,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     <li>The <a href="Attunement-less.md#taunt">Taunt</a> Mantra, and the "<a href="Talents/Vow_of_Iron.md#cornered-fool">Cornered Fool</a>" Talent can no longer inflict "<a href="Status_Effects.md#taunt">Taunt</a>" on the user.</li>
     <li>The <a href="Attunement-less.md#sing">Sing</a> Mantra can no longer use the Talent "<a href="Talents/Vow_of_Iron.md#encore">Encore</a>" on the user, nullifying the stun effect.
   <ul>
-    <li>Sing can still apply <kbd><abbr><a href="Status_Effects.md#charm">Charm</a></abbr></kbd> or <a href="Status_Effects.md#overcharm">Overcharm</a> to the user.</li>
+    <li>Sing can still apply <b><kbd><abbr><a href="Status_Effects.md#charm">Charm</a></abbr></kbd></b> or <a href="Status_Effects.md#overcharm">Overcharm</a> to the user.</li>
   </ul></li>
   </ul>
   <ul>
@@ -170,11 +176,11 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Unswayed** \[Common Talent\] - The effects of [Taunt](Attunement-less.md#taunt) and [Encore](Talents/Vow_of_Iron.md#encore) no longer work on you.
+-   **Unswayed** \[Common Talent • Absolute Focus\] - The effects of [Taunt](Attunement-less.md#taunt) and [Encore](Talents/Vow_of_Iron.md#encore) no longer work on you.
     
     -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](Talents/Vow_of_Iron.md#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
     -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "[Encore](Talents/Vow_of_Iron.md#encore)" on the user, nullifying the stun effect.
-        -   Sing can still apply [Charm](Status_Effects.md#charm) or [Overcharm](Status_Effects.md#overcharm) to the user.  
+        -   Sing can still apply **[Charm](Status_Effects.md#charm)** or [Overcharm](Status_Effects.md#overcharm) to the user.  
             
     -   Grants +20 Sanity  
         
@@ -183,7 +189,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Carnivore</b></center><div>TalentIconTeeth</div><center><small>[Rare Talent]</small><small></small><br>
+  <td><center><b>Carnivore</b></center><div>TalentIconTeeth</div><center><font><i>Apex Predator</i></font><br>
+  <small>[Rare Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [Food]</small></center><center>In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.</center><br>
   </td>
   <td>
@@ -198,7 +205,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Carnivore** \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+-   **Carnivore** \[Rare Talent • Apex Predator\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
     
     -   You now vomit upon consuming Plant-type [food](Food.md) items. You can still consume Generic of Meat-type food items.
     -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
@@ -209,7 +216,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Defiance</b></center><div>TalentIconClimb</div><center><small>[Rare Talent]</small><small></small><br>
+  <td><center><b>Defiance</b></center><div>TalentIconClimb</div><center><font><i>Champion</i></font><br>
+  <small>[Rare Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] <abbr>[Scale-down]</abbr></small></center><center>Negative status effects are half as effective when you are below 35% HP.</center><br>
   </td>
   <td>
@@ -235,7 +243,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Defiance** \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
+-   **Defiance** \[Rare Talent • Champion\] - Negative status effects are half as effective when you are below 35% HP.
     
     -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Currently, the only things Defiance cuts in half are:
@@ -255,7 +263,8 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 <table>
 <tbody>
 <tr>
-  <td><center><b>Piercing Will</b></center><div>TalentIconHandshake</div><center><small>[Rare Talent]</small><small></small><br>
+  <td><center><b>Piercing Will</b></center><div>TalentIconHandshake</div><center><font><i>Mindbreaker</i></font><br>
+  <small>[Rare Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [Sanity] [PEN]</small></center><center>When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.</center><br>
   </td>
   <td>
@@ -270,7 +279,7 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Piercing Will** \[Rare Talent\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
+-   **Piercing Will** \[Rare Talent • Mindbreaker\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
     
     -   Grants a 10% PEN bonus at full insanity despite what the description states.
     -   The bonus PEN is applied starting from 35% Sanity.
@@ -358,7 +367,8 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Braced Collapse</b></center><div>TalentIconFist</div><center><small>[Common Talent]</small><small><br>
+  <td><center><b>Braced Collapse</b></center><div>TalentIconFist</div><center><font><i>Bastion</i></font><br>
+  <small>[Common Talent]</small><small><br>
   <b>100</b></small><br>
   <small>[<strong>Breaker</strong>] [Damage Resistance] [Guardbreak]</small></center><center>After being block broken, the next attack to hit you deals reduced damage.</center><br>
   </td>
@@ -372,7 +382,7 @@ N/A
 </tbody>
 </table>
 
--   **Braced Collapse** \[Common Talent\] **100** \- After being block broken, the next attack to hit you deals reduced damage.
+-   **Braced Collapse** \[Common Talent • Bastion\] **100** \- After being block broken, the next attack to hit you deals reduced damage.
     
     -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.  
         
@@ -381,7 +391,8 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Steady Footing</b></center><div>TalentIconBoots</div><center><small>[Common Talent]</small><small><br>
+  <td><center><b>Steady Footing</b></center><div>TalentIconBoots</div><center><font><i>Acrobat</i></font><br>
+  <small>[Common Talent]</small><small><br>
   <b>100</b></small><br>
   <small>[<strong>Breaker</strong>] [+Carry Load] [+Passive Agility]</small></center><center>You're much more resistant to being pushed around.</center><br>
   <center><small>+5 Carry Load, +2 Passive Agility</small></center><br>
@@ -400,7 +411,7 @@ N/A
 </tbody>
 </table>
 
--   **Steady Footing** \[Common Talent\] **100** \- You're much more resistant to being pushed around.
+-   **Steady Footing** \[Common Talent • Acrobat\] **100** \- You're much more resistant to being pushed around.
     
     -   Reduces knockback to the user by 20%. (stacks with other sources of Knockback Resistance, including [Anchor](Equipment.md) Pips)
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
@@ -413,7 +424,8 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Threefold Impact</b><abbr></abbr></center><div>TalentIconFist</div><center><small>[Memento Talent]</small><small><br>
+  <td><center><b>Threefold Impact</b><abbr></abbr></center><div>TalentIconFist</div><center><font><i>Breaker</i></font><br>
+  <small>[Memento Talent]</small><small><br>
   <b>200</b></small><br>
   <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Breaker</strong>] [Damage Buff] [Guardbreak]</small></center><center>Every stack built with <a href="Attunement-less.md#strong-left">Strong Left</a> provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage &amp; guardbreaks.</center><br>
   </td>
@@ -432,7 +444,7 @@ N/A
 </tbody>
 </table>
 
--   **Threefold Impact** \[Memento Talent\] **200** \- Every stack built with [Strong Left](Attunement-less.md#strong-left) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
+-   **Threefold Impact** \[Memento Talent • Breaker\] **200** \- Every stack built with [Strong Left](Attunement-less.md#strong-left) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
     
     -   Grants buffs to your Strong Left based on how many Calamity Punch stacks you have.
         -   With one stack, your Strong Left cooldown will be reduced by ?s.
@@ -444,9 +456,10 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Concussion</b></center><div>TalentIconSkeleton</div><center><small>[Rare Talent]</small><small><br>
+  <td><center><b>Concussion</b></center><div>TalentIconSkeleton</div><center><font><i>Duelist</i></font><br>
+  <small>[Rare Talent]</small><small><br>
   <b>250</b></small><br>
-  <small>[<strong>Breaker</strong>] [Debuff] [Flourish]</small></center><center>Enemies you flourish into walls have their vision altered for a short duration and are <a href="Status_Effects.md#daze">dazed</a> longer than usual. Flourished PvE enemies get <kbd><abbr><a href="Status_Effects.md#stagger">Stagger</a></abbr></kbd> for a few seconds.</center><br>
+  <small>[<strong>Breaker</strong>] [Debuff] [Flourish]</small></center><center>Enemies you flourish into walls have their vision altered for a short duration and are <a href="Status_Effects.md#daze">dazed</a> longer than usual. Flourished PvE enemies get <b><kbd><abbr><a href="Status_Effects.md#stagger">Stagger</a></abbr></kbd></b> for a few seconds.</center><br>
   </td>
   <td>
   <ul>
@@ -458,7 +471,7 @@ N/A
 </tbody>
 </table>
 
--   **Concussion** \[Rare Talent\] **250** \- Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
+-   **Concussion** \[Rare Talent • Duelist\] **250** \- Enemies you flourish into walls have their vision altered for a short duration and are [dazed](Status_Effects.md#daze) longer than usual. Flourished PvE enemies get **[Stagger](Status_Effects.md#stagger)** for a few seconds.
     
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
         
@@ -541,7 +554,8 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Grand Feast</b></center><div>TalentIconTeeth</div><center><small>[Common Talent]</small><small><br>
+  <td><center><b>Grand Feast</b></center><div>TalentIconTeeth</div><center><font><i>Apex Predator</i></font><br>
+  <small>[Common Talent]</small><small><br>
   <b>100</b></small><br>
   <small>[<strong>Breaker</strong>] [+Passive Agility] [Sustain] [Tempo]</small></center><center>Regain tempo, ether, blood and health when gaining hunger from killing.</center><br>
   <center><small>+1 Passive Agility</small></center><br>
@@ -557,7 +571,7 @@ N/A
 </tbody>
 </table>
 
--   **Grand Feast** \[Common Talent\] **100** \- Regain tempo, ether, blood and health when gaining hunger from killing.
+-   **Grand Feast** \[Common Talent • Apex Predator\] **100** \- Regain tempo, ether, blood and health when gaining hunger from killing.
     
     -   The healing is negated in PVP combat.
     -   On [Carnivore](Talents/Vow_of_Iron.md#carnivore) proc, replenish 40% of your maximum [Tempo](Combat_Mechanics.md#tempo), 55% of your maximum [Ether](Ether.md), 3% of your maximum blood, and 5% of your maximum health.  
@@ -569,7 +583,8 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Sunken Predator</b></center><div>TalentIconTeeth</div><center><small>[Common Talent]</small><small><br>
+  <td><center><b>Sunken Predator</b></center><div>TalentIconTeeth</div><center><font><i>Apex Predator</i></font><br>
+  <small>[Common Talent]</small><small><br>
   <b>100</b></small><br>
   <small>[<strong>Breaker</strong>] [+Passive Agility] [Debuff] [Slow]</small></center><center>Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.</center><br>
   <center><small>+1 Passive Agility</small></center><br>
@@ -585,7 +600,7 @@ N/A
 </tbody>
 </table>
 
--   **Sunken Predator** \[Common Talent\] **100** \- Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
+-   **Sunken Predator** \[Common Talent • Apex Predator\] **100** \- Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
     
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit, and for less time as well.  
@@ -597,7 +612,8 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Breakthrough</b><abbr></abbr></center><div>TalentIconFist</div><center><small>[Memento Talent]</small><small><br>
+  <td><center><b>Breakthrough</b><abbr></abbr></center><div>TalentIconFist</div><center><font><i>Breaker</i></font><br>
+  <small>[Memento Talent]</small><small><br>
   <b>200</b></small><br>
   <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Breaker</strong>] [Posture Damage Buff]</small></center><center>Posture damage on light attacks are increased by 10%.</center><br>
   </td>
@@ -609,14 +625,15 @@ N/A
 </tbody>
 </table>
 
--   **Breakthrough** \[Memento Talent\] **200** \- Posture damage on light attacks are increased by 10%.
+-   **Breakthrough** \[Memento Talent • Breaker\] **200** \- Posture damage on light attacks are increased by 10%.
     
     -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
 <tr>
-  <td><center><b>Champion's Regalia</b></center><div>TalentIconFist</div><center><small>[Rare Talent]</small><small><br>
+  <td><center><b>Champion's Regalia</b></center><div>TalentIconFist</div><center><font><i>Champion</i></font><br>
+  <small>[Rare Talent]</small><small><br>
   <b>250</b></small><br>
   <small>[<strong>Breaker</strong>] [Flourish] [Posture Damage Buff]</small></center><center>Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds.</center><br>
   </td>
@@ -631,7 +648,7 @@ N/A
 </tbody>
 </table>
 
--   **Champion's Regalia** \[Rare Talent\] **250** \- Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds.
+-   **Champion's Regalia** \[Rare Talent • Champion\] **250** \- Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds.
     
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.  
@@ -641,9 +658,10 @@ N/A
 <table>
 <tbody>
 <tr>
-  <td><center><b>Collapsed Lung</b></center><div>TalentIconFist</div><center><small>[Advanced Talent]</small><small><br>
+  <td><center><b>Collapsed Lung</b></center><div>TalentIconFist</div><center><font><i>Annihilator</i></font><br>
+  <small>[Advanced Talent]</small><small><br>
   <b>350</b></small><br>
-  <small>[<strong>Breaker</strong>] [Guardbreak] <abbr>[Scale-down]</abbr> [Vent]</small></center><center>Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get <kbd><abbr><a href="Status_Effects.md#collapsed">Collapsed</a></abbr></kbd>.</center><br>
+  <small>[<strong>Breaker</strong>] [Guardbreak] <abbr>[Scale-down]</abbr> [Vent]</small></center><center>Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get <b><kbd><abbr><a href="Status_Effects.md#collapsed">Collapsed</a></abbr></kbd></b>.</center><br>
   </td>
   <td>
   <ul>
@@ -656,7 +674,7 @@ N/A
 </tbody>
 </table>
 
--   **Collapsed Lung** \[Advanced Talent\] **350** \- Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
+-   **Collapsed Lung** \[Advanced Talent • Annihilator\] **350** \- Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get **[Collapsed](Status_Effects.md#collapsed)**.
     
     -   Duration scales with investment up to its requirement; This effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
     -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets do to you by 40%.  
@@ -784,7 +802,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Brassneck</b></center><div>TalentIconBoots</div><center><small>[Common Talent]</small><small><br>
+  <td><center><b>Brassneck</b></center><div>TalentIconBoots</div><center><font><i>Miscellaneous</i></font><br>
+  <small>[Common Talent]</small><small><br>
   <b>100</b></small><br>
   <small>[<strong>Breaker</strong>] [Damage Resistance]</small></center><center>Knocking an enemy grants you 20% damage resistance for 15 seconds.</center><br>
   </td>
@@ -798,7 +817,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Brassneck** \[Common Talent\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds.
+-   **Brassneck** \[Common Talent • Miscellaneous\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds.
     
     -   This also works on non-humanoid monsters, granting you the damage resistance buff on kill.  
         
@@ -807,7 +826,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Knuckle Guard</b></center><div>TalentIconBoots</div><center><small>[Common Talent]</small><small><br>
+  <td><center><b>Knuckle Guard</b></center><div>TalentIconBoots</div><center><font><i>Bulwark</i></font><br>
+  <small>[Common Talent]</small><small><br>
   <b>100</b></small><br>
   <small>[<strong>Breaker</strong>] [Posture Resistance] <abbr>[Scale-down]</abbr></small></center><center>Hitting <a href="Status_Effects.md#daze">Dazed</a> enemies grants you 10% posture resistance for 15s.</center><br>
   </td>
@@ -821,7 +841,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Knuckle Guard** \[Common Talent\] **100** \- Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
+-   **Knuckle Guard** \[Common Talent • Bulwark\] **100** \- Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
     
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below a combined 80.  
         
@@ -830,7 +850,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Fists of Fortitude</b></center><div>TalentIconFist</div><center><small>[Rare Talent]</small><small><br>
+  <td><center><b>Fists of Fortitude</b></center><div>TalentIconFist</div><center><font><i>Navaen Nomad</i></font><br>
+  <small>[Rare Talent]</small><small><br>
   <b>250</b></small><br>
   <small>[<strong>Breaker</strong>] [Damage Resistance] [Fist] [M1 Tag]</small></center><center><abbr>Fists</abbr><br>
   Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD</center><br>
@@ -846,7 +867,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Fists of Fortitude** \[Rare Talent\] **250** \- \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD
+-   **Fists of Fortitude** \[Rare Talent • Navaen Nomad\] **250** \- \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD
     
     -   Lasts 10 seconds then goes on cooldown once the buff ends.
     -   Only procs on M1s and criticals with the M1 tag.  
@@ -933,7 +954,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Shield Breaker</b></center><div>TalentIconFist</div><center><small>[Common Talent]</small><small><br>
+  <td><center><b>Shield Breaker</b></center><div>TalentIconFist</div><center><font><i>Rampaging Brute</i></font><br>
+  <small>[Common Talent]</small><small><br>
   <b>100</b></small><br>
   <small>[<strong>Breaker</strong>] [+Posture]</small></center><center>Blunt damage now fully ignores the posture bonus from shields.</center><br>
   <center><small>+1 Posture</small></center><br>
@@ -948,7 +970,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Shield Breaker** \[Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields.
+-   **Shield Breaker** \[Common Talent • Rampaging Brute\] **100** \- Blunt damage now fully ignores the posture bonus from shields.
     
     -   Affects all sources of Blunt damage.  
         
@@ -959,7 +981,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Relentless Barrage</b><abbr></abbr></center><div>TalentIconFist</div><center><small>[Memento Talent]</small><small><br>
+  <td><center><b>Relentless Barrage</b><abbr></abbr></center><div>TalentIconFist</div><center><font><i>Breaker</i></font><br>
+  <small>[Memento Talent]</small><small><br>
   <b>200</b></small><br>
   <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Breaker</strong>] [Posture Damage Buff]</small></center><center>Every swing from <a href="Attunement-less.md#rapid-punches">Rapid Punches</a> deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.</center><br>
   </td>
@@ -974,7 +997,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Relentless Barrage** \[Memento Talent\] **200** \- Every swing from [Rapid Punches](Attunement-less.md#rapid-punches) deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.
+-   **Relentless Barrage** \[Memento Talent • Breaker\] **200** \- Every swing from [Rapid Punches](Attunement-less.md#rapid-punches) deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.
     
     -   Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked.
     -   At max [Calamity Punch](Talents/Vow_of_Iron.md#calamity-punch) stacks, gain hyperarmor during Rapid Punches.  
@@ -984,10 +1007,11 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Dirty Boxing</b></center><div>TalentIconFist</div><center><small>[Rare Talent]</small><small><br>
+  <td><center><b>Dirty Boxing</b></center><div>TalentIconFist</div><center><font><i>Scoundrel</i></font><br>
+  <small>[Rare Talent]</small><small><br>
   <b>250</b></small><br>
   <small>[<strong>Breaker</strong>] [+Passive Agility] [Debuff] [Fist]</small></center><center><link><abbr>Fist</abbr><br>
-  Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies <kbd><abbr><a href="Status_Effects.md#sluggish">Sluggish</a></abbr></kbd> .</center><br>
+  Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies <b><kbd><abbr><a href="Status_Effects.md#sluggish">Sluggish</a></abbr></kbd></b> .</center><br>
   <center><small>+1 Passive Agility</small></center><br>
   </td>
   <td>
@@ -1002,7 +1026,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Dirty Boxing** \[Rare Talent\] **250** \- \[Fist\] Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies [Sluggish](Status_Effects.md#sluggish).
+-   **Dirty Boxing** \[Rare Talent • Scoundrel\] **250** \- \[Fist\] Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](Status_Effects.md#sluggish)**.
     
     -   8 second cooldown.
     -   The "bleed" does not work.
@@ -1017,7 +1041,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Strong Stern</b></center><div>TalentIconSkeleton</div><center><small>[Rare Talent]</small><small><br>
+  <td><center><b>Strong Stern</b></center><div>TalentIconSkeleton</div><center><font><i>Duelist</i></font><br>
+  <small>[Rare Talent]</small><small><br>
   <b>250</b></small><br>
   <small>[<strong>Breaker</strong>] [+Carry Load]</small></center><center>The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE as well.</center><br>
   <center><small>+5 Carry Load</small></center><br>
@@ -1030,7 +1055,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Strong Stern** \[Rare Talent\] **250** \- The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE as well.
+-   **Strong Stern** \[Rare Talent • Duelist\] **250** \- The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE as well.
     
     -   Grants +5 Carry Load  
         
@@ -1117,7 +1142,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Bulldozer</b></center><div>TalentIconFist</div><center><small>[Rare Talent]</small><small><br>
+  <td><center><b>Bulldozer</b></center><div>TalentIconFist</div><center><font><i>Raging Bull</i></font><br>
+  <small>[Rare Talent]</small><small><br>
   <b>250</b></small><br>
   <small>[<strong>Breaker</strong>] [Flourish] [Guardbreak]</small></center><center>Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.</center><br>
   </td>
@@ -1131,7 +1157,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Bulldozer** \[Rare Talent\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
+-   **Bulldozer** \[Rare Talent • Raging Bull\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
     
     -   This has a 50% chance to break destructible objects when you flourish people into them.  
         
@@ -1140,7 +1166,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Going Nowhere</b></center><div>TalentIconTeeth</div><center><small>[Rare Talent]</small><small><br>
+  <td><center><b>Going Nowhere</b></center><div>TalentIconTeeth</div><center><font><i>Persuer</i></font><br>
+  <small>[Rare Talent]</small><small><br>
   <b>250</b></small><br>
   <small>[<strong>Breaker</strong>] [+Passive Agility] [Debuff]</small></center><center>When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.</center><br>
   <center><small>+6 Passive Agility</small></center><br>
@@ -1153,7 +1180,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Going Nowhere** \[Rare Talent\] **250** \- When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.
+-   **Going Nowhere** \[Rare Talent • Persuer\] **250** \- When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.
     
     -   Grants +6 Passive Agility  
         
@@ -1162,7 +1189,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Million Ton Piercer</b></center><div>TalentIconFist</div><center><small>[Advanced Talent]</small><small><br>
+  <td><center><b>Million Ton Piercer</b></center><div>TalentIconFist</div><center><font><i>Rampaging Brute</i></font><br>
+  <small>[Advanced Talent]</small><small><br>
   <b>350</b></small><br>
   <small>[<strong>Breaker</strong>] [+PEN] [PEN]</small></center><center>Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.</center><br>
   <center><small>+5% PEN</small></center><br>
@@ -1177,7 +1205,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Million Ton Piercer** \[Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+-   **Million Ton Piercer** \[Advanced Talent • Rampaging Brute\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     
     -   Removes the 50% Melee PEN cap.  
         
@@ -1192,7 +1220,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Dormant Strength</b><abbr></abbr></center><div>TalentIconFist</div><center><small>[Memento Talent]</small><small></small><br>
+  <td><center><b>Dormant Strength</b><abbr></abbr></center><div>TalentIconFist</div><center><font><i>Breaker</i></font><br>
+  <small>[Memento Talent]</small><small></small><br>
   <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Breaker</strong>] [Boss Reward] [Damage Buff] [Posture Damage Buff]</small></center><center>At max <a href="Talents/Vow_of_Iron.md#calamity-punch">Calamity Punch</a> stacks increased posture damage &amp; physical damage.</center><br>
   </td>
   <td>
@@ -1205,7 +1234,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Dormant Strength** \[Memento Talent\] - At max [Calamity Punch](Talents/Vow_of_Iron.md#calamity-punch) stacks increased posture damage & physical damage.
+-   **Dormant Strength** \[Memento Talent • Breaker\] - At max [Calamity Punch](Talents/Vow_of_Iron.md#calamity-punch) stacks increased posture damage & physical damage.
     
     -   Increases your [Strong Left](Attunement-less.md#strong-left)'s damage and posture damage if you are at max [Calamity Punch](Talents/Vow_of_Iron.md#calamity-punch) stacks.  
         
@@ -1216,7 +1245,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Murmur: Ardour</b></center><div>TalentIconSword</div><center><small>[Common Talent]</small><small></small><br>
+  <td><center><b>Murmur: Ardour</b></center><div>TalentIconSword</div><center><font><i>Murmur</i></font><br>
+  <small>[Common Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [<a href="Murmur%253A_Ardour.md">Ardour</a>] [Boss Reward] [Damage Buff] [Guardbreak] [M1 Tag] [Murmur] [Posture Damage Buff]</small></center><center>An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press <kbd><abbr>H</abbr></kbd>.</center><br>
   </td>
   <td>
@@ -1233,7 +1263,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Murmur: Ardour** \[Common Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
+-   **Murmur: Ardour** \[Common Talent • Murmur\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
     
     -   While active your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
@@ -1246,7 +1276,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Shattering Left</b><abbr></abbr></center><div>TalentIconFist</div><center><small>[Memento Talent]</small><small></small><br>
+  <td><center><b>Shattering Left</b><abbr></abbr></center><div>TalentIconFist</div><center><font><i>Breaker</i></font><br>
+  <small>[Memento Talent]</small><small></small><br>
   <small><abbr>[<a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> Exclusive]</abbr> [<strong>Breaker</strong>] [Guardbreak]</small></center><center>Your <a href="Attunement-less.md#strong-left">Strong Left</a> and <a href="Wind-Up.md">Wind-up</a> punches will always guard break mobs.</center><br>
   </td>
   <td>
@@ -1259,7 +1290,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Shattering Left** \[Memento Talent\] - Your [Strong Left](Attunement-less.md#strong-left) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
+-   **Shattering Left** \[Memento Talent • Breaker\] - Your [Strong Left](Attunement-less.md#strong-left) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
     
     -   Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.  
         
@@ -1270,7 +1301,8 @@ Blunt ResistanceBlunt
 <table>
 <tbody>
 <tr>
-  <td><center><b>Exoskeleton</b></center><div>TalentIconSkeleton</div><center><small>[Rare Talent]</small><small></small><br>
+  <td><center><b>Exoskeleton</b></center><div>TalentIconSkeleton</div><center><font><i>Freak of Nature</i></font><br>
+  <small>[Rare Talent]</small><small></small><br>
   <small>[<strong>Breaker</strong>] [Boss Reward] [Damage Resistance]</small></center><center>You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.</center><br>
   </td>
   <td>
@@ -1290,7 +1322,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Exoskeleton** \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
+-   **Exoskeleton** \[Rare Talent • Freak of Nature\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
     
     -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.

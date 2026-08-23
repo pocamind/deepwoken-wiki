@@ -867,7 +867,7 @@ These are Talents found in "_Bloodhound_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Bloodwarden's Sense  
-(30 Bloodrend) | Enemies you attack with a mantra above 60% Blood Poisoning are marked with [Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark) for 5s. | Affected targets are highlighted red and take 20% more Blood Poisoning. |
+(30 Bloodrend) | Enemies you attack with a mantra above 60% Blood Poisoning are marked with **[Bloodwarden's Mark](Status_Effects.md#bloodwardens-mark)** for 5s. | Affected targets are highlighted red and take 20% more Blood Poisoning. |
 |  | Smell of Blood  
 (65 Bloodrend) | When people touch a blood pool, briefly see their blood (or blood hemorrhage amount for PvE) and blood poison. This effect also occurs whenever you blockbreak your opponent. | Their blood current blood or blood hemorrhage amount will be displayed as a percentage in Red next to their character. Similarly, their current blood poisoning amount will be displayed as a percentage in Pink next to their character. |
 
@@ -897,7 +897,7 @@ Donation Drive's cooldown scales on your Charisma investment, having an 8 second
 
  |
 |  | Sharing is Caring  
-(50 Bloodrend, 30 Charisma, Charismatic Cast) | [Charmed](Status_Effects.md#charm) on opponents also slightly increases your blood drain against them. |  |
+(50 Bloodrend, 30 Charisma, Charismatic Cast) | **[Charmed](Status_Effects.md#charm)** on opponents also slightly increases your blood drain against them. |  |
 
 **Septicemia:**
 

@@ -14,7 +14,7 @@ Greatswords are large sword weapons, possessing a large grip for the wielder to 
 
 Like [Greathammers](Greathammers.md) and [Greataxes](Greataxes.md), Greatswords receive a -15% damage penalty to their aerial attacks. Additionally, like all other Heavy Weapon categories, _most_ Greatswords are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
 
-After parrying an attack, your next light attack will gain [Hyperarmor](Status_Effects.md#hyperarmor).
+After parrying an attack, your next light attack will gain **[Hyperarmor](Status_Effects.md#hyperarmor)**.
 
 ## Default Animations
 
@@ -22,7 +22,7 @@ The Greatswords weapon class comes with a set of default weapon animations.
 
 ## Default Critical
 
-Greatswords uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
+Greatswords uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants **[Hyperarmor](Status_Effects.md#hyperarmor)** for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies **[Knockdown](Status_Effects.md#knockdown)** and will insta-guardbreak opponents who attempt to block it.
 
 ## Weapons
 

@@ -180,7 +180,7 @@ N/A
 
 -   Off Your Game \[Common Talent\] **100** \- You now slow Taunted enemies when you hit them.
 
--   Tough Love \[Common Talent\] **100** \- Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you apply [Charmed](Status_Effects.md#charm) briefly.
+-   Tough Love \[Common Talent\] **100** \- Deal 10% more damage to enemies **[Charmed](Status_Effects.md#charm)** by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you apply **[Charmed](Status_Effects.md#charm)** briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
@@ -378,7 +378,7 @@ Oath [ResistanceOath](Oaths.md)
 
 ### Power 10
 
--   Charismatic Cast \[Common Talent\] **100** \- Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+-   Charismatic Cast \[Common Talent\] **100** \- Landing a hit with a mantra on an enemy applies **[Charmed](Status_Effects.md#charm)**. Allies recover from being knocked twice as quickly when **[Charmed](Status_Effects.md#charm)** by you.
     -   This charm lasts 10s (5s against Disbelief Talent).
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen.

@@ -1578,6 +1578,19 @@ All weapons within the game have the chance of being found with or without diffe
   <td>32</td>
 </tr>
 <tr>
+  <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
+  <td>80 MED<br>
+  LVL 10</td>
+  <td>22.5</td>
+  <td>MED: 6.5</td>
+  <td>5%</td>
+  <td>5%</td>
+  <td>5.5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>33.5</td>
+</tr>
+<tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
   <td>80 MED<br>
   40 INT<br>
@@ -7008,6 +7021,19 @@ Pistols
   <td>32</td>
 </tr>
 <tr>
+  <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
+  <td>80 MED<br>
+  LVL 10</td>
+  <td>22.5</td>
+  <td>MED: 6.5</td>
+  <td>5%</td>
+  <td>5%</td>
+  <td>5.5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>33.5</td>
+</tr>
+<tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
   <td>80 MED<br>
   40 INT<br>
@@ -8496,6 +8522,19 @@ Swords
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+</tr>
+<tr>
+  <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
+  <td>80 MED<br>
+  LVL 10</td>
+  <td>22.5</td>
+  <td>MED: 6.5</td>
+  <td>5%</td>
+  <td>5%</td>
+  <td>5.5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>33.5</td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -15868,6 +15907,19 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>32</td>
 </tr>
 <tr>
+  <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
+  <td>80 MED<br>
+  LVL 10</td>
+  <td>22.5</td>
+  <td>MED: 6.5</td>
+  <td>5%</td>
+  <td>5%</td>
+  <td>5.5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>33.5</td>
+</tr>
+<tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
   <td>80 MED<br>
   40 INT<br>
@@ -17485,6 +17537,19 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+</tr>
+<tr>
+  <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
+  <td>80 MED<br>
+  LVL 10</td>
+  <td>22.5</td>
+  <td>MED: 6.5</td>
+  <td>5%</td>
+  <td>5%</td>
+  <td>5.5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>33.5</td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -23507,6 +23572,19 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+</tr>
+<tr>
+  <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
+  <td>80 MED<br>
+  LVL 10</td>
+  <td>22.5</td>
+  <td>MED: 6.5</td>
+  <td>5%</td>
+  <td>5%</td>
+  <td>5.5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>33.5</td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>

@@ -50,7 +50,7 @@ At 0 stacks, the sword glows and emits particle effects, and does nothing.
 
 At 1-2 stacks, the user rises up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) for a brief moment, then unleashes a chop that reels the affected opponent to the user and detonates the mark. Parriable and does high posture damage. Blockbreaks at 2 stacks. Landing this usually confirms your next Aerial Attack or quick Mantra.
 
-At 3 stacks, the user teleports to the opponent and performs a downslash, unleashing multiple hits after a considerable delay. The user will gain [True Hyperarmor](Status_Effects.md#true-hyperarmor) for the entire duration. Parriable and does high posture damage.
+At 3 stacks, the user teleports to the opponent and performs a downslash, unleashing multiple hits after a considerable delay. The user will gain **[True Hyperarmor](Status_Effects.md#true-hyperarmor)** for the entire duration. Parriable and does high posture damage.
 
 All criticals have a cooldown of **5 seconds**.
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodstarved Hunter
-revid: 227078
+revid: 227371
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Ministry Enemies]
@@ -12,7 +12,7 @@ notices:
 
 | Bloodstarved Hunter | |
 |---|---|
-| health | ? |
+| health | 2500 |
 | drops | The Death Knell |
 | weapon | The Death Knell |
 | moves | Revenge, Judgement |
@@ -91,6 +91,16 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
     <li>💀 Autogrip</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <td><b>Twincleave</b></td>
+  <td><i>User unleashes 2 slashes, the first moving them forward, the second launching them backwards</i><div>
+  <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+  </ul></div></td>
+  <td></td>
 </tr>
 </tbody>
 </table>

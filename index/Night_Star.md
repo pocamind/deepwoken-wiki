@@ -51,11 +51,11 @@ The **Night Star** is a blunt [Club](Clubs.md) type medium weapon.
 
 Equipping the Night Star grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Night Night**](Talents.md#night-night) applies [Blindness](Status_Effects.md#blinded) to your opponent for 15 seconds after you land an uppercut.
+[**Night Night**](Talents.md#night-night) applies **[Blindness](Status_Effects.md#blinded)** to your opponent for 15 seconds after you land an uppercut.
 
 ## Critical
 
-Night Star uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
+Night Star uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it **[dazes](Status_Effects.md#daze)** opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Obtainment
 

@@ -313,7 +313,7 @@
   },
   "1208": {
     "title": "Galebreathe",
-    "lastrevid": 226762
+    "lastrevid": 227422
   },
   "1216": {
     "title": "The Ferryman",
@@ -389,7 +389,7 @@
   },
   "1348": {
     "title": "Repeater",
-    "lastrevid": 224257
+    "lastrevid": 227408
   },
   "1355": {
     "title": "Reputation",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 227329
+    "lastrevid": 227450
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -749,7 +749,7 @@
   },
   "2444": {
     "title": "Shattered Katana",
-    "lastrevid": 227044
+    "lastrevid": 227380
   },
   "2446": {
     "title": "Crypt Blade",
@@ -789,7 +789,7 @@
   },
   "2541": {
     "title": "Katana",
-    "lastrevid": 223130
+    "lastrevid": 227379
   },
   "2556": {
     "title": "Stiletto",
@@ -3757,7 +3757,7 @@
   },
   "10123": {
     "title": "Stoneheart",
-    "lastrevid": 221455
+    "lastrevid": 227434
   },
   "10211": {
     "title": "Ethirifle",
@@ -3961,7 +3961,7 @@
   },
   "11152": {
     "title": "Purple Cloud",
-    "lastrevid": 226259
+    "lastrevid": 227382
   },
   "11282": {
     "title": "Pale Briar",
@@ -7061,7 +7061,7 @@
   },
   "20406": {
     "title": "Moppet",
-    "lastrevid": 226136
+    "lastrevid": 227389
   },
   "20425": {
     "title": "Tolkat",
@@ -7621,7 +7621,7 @@
   },
   "21397": {
     "title": "Bloodstarved Hunter",
-    "lastrevid": 227078
+    "lastrevid": 227371
   },
   "21398": {
     "title": "Vapordrop Earrings",
@@ -8077,7 +8077,7 @@
   },
   "21656": {
     "title": "Flashing Thunder",
-    "lastrevid": 217962
+    "lastrevid": 227390
   },
   "21657": {
     "title": "Iron Vessel",
@@ -9712,8 +9712,8 @@
     "lastrevid": 225931
   },
   "26280": {
-    "title": "Poser's Ring (mechanic)",
-    "lastrevid": 226205
+    "title": "Stored Damage Mechanic",
+    "lastrevid": 227373
   },
   "26299": {
     "title": "Golem Chunk",
@@ -9761,6 +9761,10 @@
   },
   "26424": {
     "title": "Palace Tachi",
-    "lastrevid": 227362
+    "lastrevid": 227444
+  },
+  "26435": {
+    "title": "Threadcutter",
+    "lastrevid": 227443
   }
 }

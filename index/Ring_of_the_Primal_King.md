@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 The Ring of the Primal King is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Rings" category.
 
-It applies [Daze](Status_Effects.md#daze) to your opponent when you hit them with any attack that deals knockback. Additionally, all Roar/Yell attacks deal damage to dazed targets.
+It applies **[Daze](Status_Effects.md#daze)** to your opponent when you hit them with any attack that deals knockback. Additionally, all Roar/Yell attacks deal damage to dazed targets.
 
 "Roar/Yell" attacks include:
 

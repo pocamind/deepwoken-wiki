@@ -81,7 +81,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 ### Talents
 
--   **Dread Fighter** - Parrying and getting hit by mantras now give you stacks of [Dread](Status_Effects.md#dread). Each stack lasts for 15 seconds.
+-   **Dread Fighter** - Parrying and getting hit by mantras now give you stacks of **[Dread](Status_Effects.md#dread)**. Each stack lasts for 15 seconds.
     -   Dread stacks grant 5% Mantra resistance per stack, stacking up to 25% with 5 stacks.
     -   Stacks of dread are represented as a halo that grows from your chest. Each stack makes the halo larger and raises your mantra resistance.
 

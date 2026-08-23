@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 226136
+revid: 227389
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -45,7 +45,7 @@ The user impales the doll with the needle. If the Moppet has stored damage on an
 
 The damage this critical deals cannot be directly increased; you must increase the damage of your M1s to increase the damage output of the critical. "On-critical" Talents proc on Moppet's critical, but as you cannot directly increase the critical's damage, your options will be limited.
 
-This critical cannot be parried, blocked, or dodged, but it can be avoided via gaining iframes (e.g. [Venting](Combat_Mechanics.md#tempo)). You cannot deal more than 70% of a player's maximum health with one usage of your critical. See [Poser's Ring (mechanic)](<Poser's_Ring_(mechanic).md>) for more info.
+This critical cannot be parried, blocked, or dodged, but it can be avoided via gaining iframes (e.g. [Venting](Combat_Mechanics.md#tempo)). You cannot deal more than 70% of a player's maximum health with one usage of your critical. See [Stored Damage Mechanic](Stored_Damage_Mechanic.md) for more info.
 
 The critical has a cooldown of **3 seconds**.
 
@@ -54,7 +54,7 @@ The critical has a cooldown of **3 seconds**.
 -   This weapon is based on the concept of voodoo dolls, effigies, that ironically have no link to neither Voodoo nor Vodou, which are frequently depicted in media as dolls made to resemble individuals by those seeking to do them harm. These are then used as a medium to harm the individual by inflicting damage onto the doll.
 -   Their name may derive from poppets, a more obscure make of doll that is frequently depicted being used for the same purposes as voodoo dolls in media, and is speculated to be the reason for the existence of the false concept of voodoo dolls.
 -   Despite having a sewing needle as an offhand, the player can still equip offhand weapons.
--   Replacing Moppet's critical attack with a [Talent](Talents.md)\-given critical attack causes it to lose the [stored damage mechanic](<Poser's_Ring_(mechanic).md>). Using an [Enchantment](Enchantments.md) that replaces your critical attack will retain the stored damage mechanic, despite not having a way to deal the stored damage.
+-   Replacing Moppet's critical attack with a [Talent](Talents.md)\-given critical attack causes it to lose the [stored damage mechanic](Stored_Damage_Mechanic.md). Using an [Enchantment](Enchantments.md) that replaces your critical attack will retain the stored damage mechanic, despite not having a way to deal the stored damage.
 -   Because this critical is guaranteed to land, this weapon is exceptional at proccing "on critical attack" effects.
     -   Notably, Moppet is likely the best user of the [Finishing Touch](Talents.md#finishing-touch) Talent due to how common it is to kill a player _with_ its critical attack, as this Talent does not proc if the target is already Unconscious.
     -   For usage with [Critical Engine](Talents.md#critical-engine):

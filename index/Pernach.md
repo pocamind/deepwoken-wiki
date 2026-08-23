@@ -42,7 +42,7 @@ The **Pernach** is a medium blunt [weapon](Weapons.md) in the [Club](Clubs.md) c
 
 ## Critical
 
-Pernach uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
+Pernach uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it **[dazes](Status_Effects.md#daze)** opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Trivia
 

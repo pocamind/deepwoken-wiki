@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 217962
+revid: 227390
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -57,6 +57,7 @@ It starts with a unique Talent, [Gathering Storm](Talents.md#gathering-storm), w
     -   Weapon damage is stored in lightning orbs above your character's head. Sheathing your weapon will consume all of the orbs and deal the stored damage all at once.
     -   New orbs will be created once you reach certain thresholds of stored damage. You cannot have more than 8 orbs at once, but your stored damage will still be accumulated past this point.
     -   This is essentially the [Poser's Ring](<Poser's_Ring.md>) effect but with a visual aspect.
+    -   See [Stored Damage Mechanic](Stored_Damage_Mechanic.md) for more info.
 
 -   Gathering Electricity \[Common Talent\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
     -   Clears all Static Blade stacks on proc.

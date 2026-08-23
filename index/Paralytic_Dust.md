@@ -31,7 +31,7 @@ Pressing C will activate the **Paralytic Dust** Resonance, throwing out a dust c
 
 The sleeping status effect in the [First Layer](First_Layer.md) grants full damage immunity. It however, will still be removed by taking any instance damage.
 
-If Paralytic Dust is Corrupted, it will apply [blindness](Status_Effects.md#blinded) for 5 seconds.
+If Paralytic Dust is Corrupted, it will apply **[blindness](Status_Effects.md#blinded)** for 5 seconds.
 
 #### _**Variants**_
 

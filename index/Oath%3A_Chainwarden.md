@@ -266,7 +266,7 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
     -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
         -   You can [wallbang](Status_Effects.md#true-daze) off the environment, jumping above targets while using the mantra can [wallbang](Status_Effects.md#true-daze) off the ground.
     -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
-    -   Has [Hyperarmor](Status_Effects.md#hyperarmor) on its second chained hit.
+    -   Has **[Hyperarmor](Status_Effects.md#hyperarmor)** on its second chained hit.
 -   Has a cooldown of 15 seconds.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to disable the enchained variant of the Mantra.
 

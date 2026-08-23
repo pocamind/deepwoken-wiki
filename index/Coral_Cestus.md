@@ -59,7 +59,7 @@ This Talent is exclusive to the alloyed variant of the weapon.
 
 ## Critical
 
-The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short [Knockdown](Status_Effects.md#knockdown). It has a 1.3x scaled damage multiplier. This critical will automatically execute targets who get knocked [Unconscious](Status_Effects.md#unconscious) by the critical, or targets who are already Unconscious when it lands.
+The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short **[Knockdown](Status_Effects.md#knockdown)**. It has a 1.3x scaled damage multiplier. This critical will automatically execute targets who get knocked **[Unconscious](Status_Effects.md#unconscious)** by the critical, or targets who are already Unconscious when it lands.
 
 The Broodalloy Cestus displays a telegraph alongside a sound effect.
 

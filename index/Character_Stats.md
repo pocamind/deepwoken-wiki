@@ -15,7 +15,7 @@ _Each player gets 330 total investment points per character, from Level 1-20, in
 ### Health
 
 -   The player's max Health Points. Starting value is 220 (+4 at Power 1).
-    -   Current HP is tracked on the health bar in %, from 100 to 0. When it reaches 0%, caused by taking damage, the player becomes [Unconscious](Status_Effects.md#unconscious).
+    -   Current HP is tracked on the health bar in %, from 100 to 0. When it reaches 0%, caused by taking damage, the player becomes **[Unconscious](Status_Effects.md#unconscious)**.
 -   How to increase: [Power](Power.md) (+4 Per power), [Equipment](Equipment.md), [Fortitude](Attributes.md#ftd) (+0.5 Per investment (this is halved to +0.25 per investment past 50 Fortitude)), [Talents](Talents.md), [Oaths](Oaths.md), [Vitality](Traits.md#vitality) (+10 per point; max +60 at 6 Vitality)
 
 ### Posture

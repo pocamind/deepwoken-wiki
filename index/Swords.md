@@ -542,6 +542,19 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>32</td>
 </tr>
 <tr>
+  <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
+  <td>80 MED<br>
+  LVL 10</td>
+  <td>22.5</td>
+  <td>MED: 6.5</td>
+  <td>5%</td>
+  <td>5%</td>
+  <td>5.5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>33.5</td>
+</tr>
+<tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
   <td>80 MED<br>
   40 INT<br>

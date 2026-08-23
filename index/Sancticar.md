@@ -48,6 +48,6 @@ Equipping the Sancticar grants its unique [weapon Talent](Talents.md#weapon-tale
 
 ## Critical
 
-Sancticar uses the default Staff critical, a pole vault before slamming the staff onto the target, knocking them away and applying [Knockdown](Status_Effects.md#knockdown). It has a scaled damage multiplier of **0.4x** on the pole vault and **2.2x** on the slam, and has a cooldown of **6 seconds**. This critical can break destructible terrain.
+Sancticar uses the default Staff critical, a pole vault before slamming the staff onto the target, knocking them away and applying **[Knockdown](Status_Effects.md#knockdown)**. It has a scaled damage multiplier of **0.4x** on the pole vault and **2.2x** on the slam, and has a cooldown of **6 seconds**. This critical can break destructible terrain.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.

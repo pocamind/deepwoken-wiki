@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 224257
+revid: 227408
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Company]
@@ -48,7 +48,7 @@ Repeater uses the default Pistol critical, an empowered shot. It has a scaled da
 
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
 -   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main-hand is not enchanted, it will not have any effect.
--   Was shot dead by agamatsu cuz had 15 scaling at some point, however it does not any longer cuz aga hates pve.
+-   This weapon used to have a very high scaling of 15.
 -   This weapon was once called the Revolver, but was changed because it didn't look anything like a revolver.[\[1\]](#cite-note-1)
     -   The gun's model is more accurate to a modified [Lancaster pistol](https://en.wikipedia.org/wiki/Lancaster_pistol).
         -   Notably, Lancaster pistols possess four barrels, while the Repeater only has two. This is due to it being directly copied from a piece of concept art for a hypothetical sequel to the videogame _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_, drawn by Cal Santiago. Due to the concept art showing only the sideviews, it gave the appearance that the gun only had two barrels, despite having four.[\[2\]](#cite-note-2)

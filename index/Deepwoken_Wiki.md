@@ -34,7 +34,7 @@ Subscribe
 
 ](https://www.youtube.com/@DeepwokenWiki)
 
-This wiki hosts **2,487 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
+This wiki hosts **2,491 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
 
 Navigation
 
@@ -124,9 +124,9 @@ Navigation
 
 Blog Posts
 
-YurinaRage YurinaRage • 6 days ago
+YurinaRage YurinaRage • 11 days ago
 
-2
+3
 
 ## Sara Mead
 
@@ -140,9 +140,9 @@ Not to be confused with Sara 2 or Sara Mead Hollow or Sara Mead II or Sara Mead 
 
 Read Full Post
 
-YurinaRage YurinaRage • 20 days ago
+YurinaRage YurinaRage • 25 days ago
 
-6
+7
 
 ## Deen Wolken
 

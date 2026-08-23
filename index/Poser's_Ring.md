@@ -27,7 +27,7 @@ categories: [Equipment, Rings]
 
 The Poser's Ring is an [Equipment](Equipment.md) item under the "Rings" category. It can be obtained by completing [Zana's](Zana.md) quest.
 
-While using a [Katana](Katana.md), [Alloyed Katana](Katana.md), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly. See [Poser's Ring (mechanic)](<Poser's_Ring_(mechanic).md>) for more info.
+While using a [Katana](Katana.md), [Alloyed Katana](Katana.md), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly. See [Poser's Ring (mechanic)](Stored_Damage_Mechanic.md) for more info.
 
 ## Trivia
 

@@ -22,7 +22,7 @@ Allure is a debuffing equipment [enchantment](Enchantments.md) that [charms](Sta
 
 ## Effect
 
-Upon being hit by a humanoid's M1 attack, Allure has a 50% chance to proc. On proc, your opponent will be [charmed](Status_Effects.md#charm) for 10 seconds.
+Upon being hit by a humanoid's M1 attack, Allure has a 50% chance to proc. On proc, your opponent will be **[charmed](Status_Effects.md#charm)** for 10 seconds.
 
 ### Notes
 

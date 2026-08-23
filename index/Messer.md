@@ -48,7 +48,7 @@ The Messer can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requ
 
 Equipping the Messer grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-On critical, consume all of your [Chain of Perfection](Talents.md#chain-of-perfection) stacks to proc [**Finishing Slay**](Talents.md#finishing-slay), adding a secondary damage instance to your attack. This secondary damage instance deals 7 damage per [Perfection](Status_Effects.md#perfection) stack you had (166 damage per stack in PvE).
+On critical, consume all of your [Chain of Perfection](Talents.md#chain-of-perfection) stacks to proc [**Finishing Slay**](Talents.md#finishing-slay), adding a secondary damage instance to your attack. This secondary damage instance deals 7 damage per **[Perfection](Status_Effects.md#perfection)** stack you had (166 damage per stack in PvE).
 
 The first 5 hits that normally do not grant Perfection stacks contributes to this damage bonus, stacking up to 150 PvP damage or 3.5k PvE damage at max stacks.
 

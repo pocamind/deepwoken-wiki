@@ -14,7 +14,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 
 Like [Greathammers](Greathammers.md) and [Greatswords](Greatswords.md), Greataxes receive a -15% damage penalty to their aerial attacks. Additionally, like all other Heavy Weapon categories, _most_ Greataxes are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
 
-After parrying an attack, your next light attack will gain [Hyperarmor](Status_Effects.md#hyperarmor).
+After parrying an attack, your next light attack will gain **[Hyperarmor](Status_Effects.md#hyperarmor)**.
 
 ## Default Animations
 
@@ -22,7 +22,7 @@ The Greataxes weapon class comes with a set of default weapon animations.
 
 ## Default Critical
 
-Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
+Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants **[Hyperarmor](Status_Effects.md#hyperarmor)** for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies **[Knockdown](Status_Effects.md#knockdown)** and will insta-guardbreak opponents who attempt to block it.
 
 ## Weapons
 

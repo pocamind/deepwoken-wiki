@@ -20,7 +20,7 @@ The Clubs weapon class comes with a set of default weapon animations.
 
 ## Default Critical
 
-Clubs uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
+Clubs uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it **[dazes](Status_Effects.md#daze)** opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Weapons
 

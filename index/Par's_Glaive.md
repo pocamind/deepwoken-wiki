@@ -40,4 +40,4 @@ The Par's Glaive is a glaive greataxe weapon. In **Pathfinder**, this item is a 
 
 ## Critical
 
-Par's Glaive uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
+Par's Glaive uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants **[Hyperarmor](Status_Effects.md#hyperarmor)** for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies **[Knockdown](Status_Effects.md#knockdown)** and will insta-guardbreak opponents who attempt to block it.

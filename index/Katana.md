@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 223130
+revid: 227379
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyable Weapons, Medium Weapons, Weapons of Etrea]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | attack duration | 0.6s |
 | penetration | 10% |
 | chip damage | 10% |
+| special effect | This weapon gains a 25% / 5% damage buff from the Paired Soul Talent and benefits from the Poser's Ring. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -53,7 +54,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana critical when 2 handing.
 -   With [Paired Soul](Talents.md#paired-soul) and high investment, the non-Alloyed Katana can deal more damage than its Alloyed Counterpart.
--   It is one of four weapons that comes with a scabbard shown on your character, the others being the [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md).
+-   It is one of five weapons that comes with a scabbard shown on your character, the others being the [Shattered Katana](Shattered_Katana.md), [Palace Tachi](Palace_Tachi.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md).
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.
     -   His katana simply floats behind him. This is canon.
 -   On April 28, 2022, game developer ragoozer proposed an animation rework for Swords using the Katana as an example in the Official Deepwoken Discord server. Ultimately, this did not go through as a result of a community poll.

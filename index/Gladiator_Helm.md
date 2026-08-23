@@ -34,7 +34,7 @@ Variants: [Pauldrons](Gladiator_Pauldrons.md)
 
 The Gladiator Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-It also grants the [Concussive Force](Talents.md#concussive-force) Talent, extending the [Unconscious](Status_Effects.md#unconscious) duration on enemies by 50% (10s to 15s).
+It also grants the [Concussive Force](Talents.md#concussive-force) Talent, extending the **[Unconscious](Status_Effects.md#unconscious)** duration on enemies by 50% (10s to 15s).
 
 ## Trivia
 

@@ -1577,14 +1577,14 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 
 **Ice Flock** (★★☆)
 
-_Send forth a flock of ice_
+_Send forth a flock of ice._
 
  | 
 
 ## Ice Flock (★★☆)
 
   
-_Send forth a flock of ice_
+_Send forth a flock of ice._
 
  |
 | 
@@ -1616,14 +1616,14 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 
 **Ice Lance** (★★☆)
 
-_Form an ice spear and lunges forward._
+_Form an ice spear and lunge forward._
 
  | 
 
 ## Ice Lance (★★☆)
 
   
-_Form an ice spear and lunges forward._
+_Form an ice spear and lunge forward._
 
  |
 | 
@@ -7418,7 +7418,7 @@ Slash ResistanceSlash + [Bleed](../Status_Effects.md#bleed)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16[/17/18/19](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with innate [bleed](../Status_Effects.md#bleed) and 1.65 Agility scaling.
+-   Has a base damage of 12/13/14/15/16[/17/18/19](<../Inquisitor's_Thorn.md>) per level with innate [bleed](../Status_Effects.md#bleed) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
@@ -7466,8 +7466,8 @@ Blunt ResistanceBlunt
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
--   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
--   The second hit has a base damage of 19.13/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
+-   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<../Inquisitor's_Thorn.md>) per level with no investment scaling.
+-   The second hit has a base damage of 19.13/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<../Inquisitor's_Thorn.md>) per level with no investment scaling.
 -   Feinting after the first attack will instantly use the second.
 -   Upgraded with Agility and not Strength.
 
@@ -7508,7 +7508,7 @@ N/A
 
 -   Range significantly decreases as the user loses health.
 -   Canceled by attacking.
--   Upgrading makes the dash longer.
+-   Upgrading the level makes the dash longer.
 -   Can be modified with Crystal/Perfect Lenses to make it slightly longer.
 -   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
 -   This Mantra was formerly named 'Dash'.
@@ -7548,8 +7548,8 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
--   Grants a speed boost for 10/12/14/16/18[/20/22/24](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
--   Has a cooldown of 60/55/50/45/40[/35/30/25](<../Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
+-   Grants a speed boost for 10/12/14/16/18[/20/22/24](<../Inquisitor's_Thorn.md>) seconds per level.
+-   Has a cooldown of 60/55/50/45/40[/35/30/25](<../Inquisitor's_Thorn.md>) seconds per level.
 -   Counts as a [Speed Boost](../Status_Effects.md#speed-boost), meaning it can proc all speed boost reliant Talents.
 -   Can be upgraded with the [Action Surge](../Talents.md#action-surge) Talent, increasing the swing speed of all weapons by 0.04 while Adrenaline Surge is active.
 
@@ -8218,6 +8218,7 @@ Typeless
 -   Upgrading the Mantra increases teleportation range.
 -   Deals typeless damage, bypassing armor resistances.
 -   Teleports the user to the enemy the cursor is pointed at.
+-   The base damage is **doubled** when wielded with the [Silver Dagger](../Silver_Dagger.md).
 -   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).
 
  |
@@ -8718,11 +8719,10 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 -   The kicks deal 15/16/17/18/19[/20/21/22/23/24](../Wyrmtooth.md) base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
 -   Deals 20/22/24/26/GB posture damage per level on the first hit. The second hit always deals 4 posture damage.
     -   Initial hit instantly guard breaks at level 5.
--   The final hit applies [True Daze](../Status_Effects.md#true-daze).
+-   The final hit applies **[True Daze](../Status_Effects.md#true-daze)**.
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
--   Equipping the [Iron Birch](../Iron_Birch.md) gives you the [Expeditious Combo](../Talents.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing an uppercut.
--   Uppercuts.
+-   Equipping the [Iron Birch](../Iron_Birch.md) gives you the [Expeditious Combo](../Talents.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing a basic attack uppercut.
 
  |
 | 
@@ -8919,6 +8919,7 @@ Blunt ResistanceBlunt
 -   [Ragdolls](../Status_Effects.md#ragdoll) the opponent and flings them on hit.
 -   Has 9.18x PvE scaling.
 -   The damage of this Mantra can be improved by equipping the [Bone Ring](../Bone_Ring.md), granting it 30 additional damage.
+-   The range can be compared to a little less than twice the distance between [Das](../Das.md) and [Maestro Evengarde Rest](../Maestro_Evengarde_Rest.md) in the [Temple Sparring Hall](../Temple_Sparring_Hall.md)
 
  |
 | 
@@ -9024,7 +9025,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 **Effect:** _Pull out a Gatling gun, mowing down the enemies in your way. This mantra is based on the [Mechalodaunt](../Mechalodaunt.md)'s '**Bullet Fury'** attack._
 
 -   The bullets do not stun, dealing minuscule damage with a short range of fire.
--   Inflicts [Burn](../Status_Effects.md#burn) and sets the user [on fire](../Status_Effects.md#burn).
+-   Inflicts **[Burn](../Status_Effects.md#burn)** and sets the user [on fire](../Status_Effects.md#burn).
 -   Will proc eruptions instead of applying burn if the user has [Eruption Path: Lava Serpent](../Talents.md#eruption-path-lava-serpent).
 
  |

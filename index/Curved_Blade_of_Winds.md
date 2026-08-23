@@ -48,7 +48,7 @@ This weapon comes with a passive ability:
 
 ## Critical
 
-The Curved Blade of Winds has two critical attacks, with it reflecting on the user's weapon stance. Both criticals apply [Suffocation](Status_Effects.md#suffocation) or spawn Apparitions when landed.
+The Curved Blade of Winds has two critical attacks, with it reflecting on the user's weapon stance. Both criticals apply **[Suffocation](Status_Effects.md#suffocation)** or spawn Apparitions when landed.
 
 For the One-Handed (Dual Wielded) Critical, the user propels in a whirlwind of air, gravitating towards their cursor. This has a scaled damage modifier of 0.25x per hit. Deals 2.5 posture damage per hit if blocked.
 

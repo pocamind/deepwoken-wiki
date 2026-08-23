@@ -20,7 +20,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of the player's health. Players start with 220 Health (224 at Power 1); things like <a href="Attributes.md#ftd">Fortitude</a> (0.5 Health per invest from 0-50 invest, and 0.25 per for 50+ invest), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md#vitality">Vitality</a> (10 Health per Vitality), and <a href="Power.md">Power</a> (4 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked <kbd><abbr><a href="Status_Effects.md#unconscious"><font>Unconscious</font></a></abbr></kbd> and is at the mercy of anyone around them.
+  <td>A visual representation of the player's health. Players start with 220 Health (224 at Power 1); things like <a href="Attributes.md#ftd">Fortitude</a> (0.5 Health per invest from 0-50 invest, and 0.25 per for 50+ invest), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md#vitality">Vitality</a> (10 Health per Vitality), and <a href="Power.md">Power</a> (4 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked <b><kbd><abbr><a href="Status_Effects.md#unconscious"><font>Unconscious</font></a></abbr></kbd></b> and is at the mercy of anyone around them.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
     <li>Natural health regeneration is disabled if their hunger bar is below 12.5%.</li>

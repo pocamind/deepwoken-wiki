@@ -117,7 +117,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
         -   While critical attacks do proc Acceleration Points, they will not benefit from any additional momentum gain to the user. (Other than the pre-existing 50%)
     -   The slow effect has a cooldown of 2.5 seconds, however the self momentum gain has none.
 
--   **Decisive Winds** - When damage below 50% health, don an aura of [Decisive Winds](Status_Effects.md#decisive-winds) for 10s. (+5 Ether)
+-   **Decisive Winds** - When damage below 50% health, don an aura of **[Decisive Winds](Status_Effects.md#decisive-winds)** for 10s. (+5 Ether)
     -   Decisive Winds grants a 25% speed boost as long as you are within 20 studs the target who initiated this effect.
     -   Does not proc on self damage.
     -   30 second cooldown.

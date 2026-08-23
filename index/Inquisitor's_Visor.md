@@ -29,9 +29,9 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 
 The Inquisitor's Visor is an [Equipment](Equipment.md) item under the "Face" category.
 
-The [Blind Spot](Talents.md#blind-spot) Talent applies [Blinded](Status_Effects.md#blinded) for 5 seconds to opponents when you land a critical attack or the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This has a 15 second cooldown.
+The [Blind Spot](Talents.md#blind-spot) Talent applies **[Blinded](Status_Effects.md#blinded)** for 5 seconds to opponents when you land a critical attack or the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This has a 15 second cooldown.
 
-The [Blinded](Talents.md#blinded) Talent applies the [Blinded](Status_Effects.md#blinded) effect to the wearer, heavily reducing their vision. This, or the [Blind](Boons_and_Flaws.md#flaws) Flaw, is a requirement to obtain the [Blindseer](Oath%253A_Blindseer.md) Oath.
+The [Blinded](Talents.md#blinded) Talent applies the **[Blinded](Status_Effects.md#blinded)** effect to the wearer, heavily reducing their vision. This, or the [Blind](Boons_and_Flaws.md#flaws) Flaw, is a requirement to obtain the [Blindseer](Oath%253A_Blindseer.md) Oath.
 
 ## Trivia
 

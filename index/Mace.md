@@ -41,7 +41,7 @@ The **Mace** is a medium weapon that does blunt damage, it is sold at the Weapon
 
 ## Critical
 
-Mace uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
+Mace uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it **[dazes](Status_Effects.md#daze)** opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Trivia
 

@@ -188,7 +188,7 @@ _Chill for foes. Applies Bottom Freeze once enough stacks have been applied._
 
 M1s apply a second instance of Frostdraw damage that deals 4% of the scaled damage of attack that procced it. Additionally, apply [Crystals](Status_Effects.md#crystals) on M1 if you have the Crystallization path.  
 After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply [Bottom Freeze](Status_Effects.md#bottom-freeze) and [Chill](Status_Effects.md#chill) for 2 seconds. This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.  
-If the target is a PvE enemy, additionally apply [Sluggish](Status_Effects.md#sluggish), reducing their damage to you for the duration of the slow.
+If the target is a PvE enemy, additionally apply **[Sluggish](Status_Effects.md#sluggish)**, reducing their damage to you for the duration of the slow.
 
 Chilling's damage does not benefit from damage modifiers. Chilling stacks can also be gained from critical attacks if they have the M1 tag.
 
@@ -481,7 +481,7 @@ Grim [Enchant Stone](Enchant_Stone.md):
 
 [Enchant Harrowing](Harrowing.md)
 
-_Obscures your opponent's health, posture, and armor bars. Also causes PvE to get [Confusion](Status_Effects.md#confusion) on successful hits._
+_Obscures your opponent's health, posture, and armor bars. Also causes PvE to get **[Confusion](Status_Effects.md#confusion)** on successful hits._
 
  | 
 
@@ -489,7 +489,7 @@ _Obscures your opponent's health, posture, and armor bars. Also causes PvE to ge
 
 Inflicts [Harrowing](Status_Effects.md#harrowing) on M1, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, hiding how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.
 
-In PvE, your M1s apply [Confusion](Status_Effects.md#confusion), making your opponent have a 5% chance to hit themselves instead whenever they attack you, applying a brief stun to the enemy and dealing their damage back to themselves in full.
+In PvE, your M1s apply **[Confusion](Status_Effects.md#confusion)**, making your opponent have a 5% chance to hit themselves instead whenever they attack you, applying a brief stun to the enemy and dealing their damage back to themselves in full.
 
 These effects last for 12 seconds and are refreshed upon landing another hit.
 
@@ -1269,7 +1269,7 @@ _After landing enough stacks, proc winded on your opponent. The duration scales 
 
 **Effect:**
 
-After landing (LHT: 3, MED: 2, HVY: 1) M1s, apply [Winded](Status_Effects.md#winded) to your opponent, reducing their swingspeed by 10% while active. The duration of this Winded effect scales on your weapon stat investment.  
+After landing (LHT: 3, MED: 2, HVY: 1) M1s, apply **[Winded](Status_Effects.md#winded)** to your opponent, reducing their swingspeed by 10% while active. The duration of this Winded effect scales on your weapon stat investment.  
 This Enchant has a 5 second cooldown regardless of weapon investment, making it very weak on low invest.
 
 Windswept has a minimum of 0.5s duration and a maximum of 8 seconds, gaining 0.08s duration per weapon stat investment.  
@@ -1460,7 +1460,7 @@ _Grants passive regen and damages the sanity of your foes, but succumb to the in
 
 While held, gain increased passive health regen that scales on your weapon investment. This healing will lose effectiveness based on how much maximum health you have. Landing weapon attacks deals 2% of your opponent's maximum [Sanity](Insanity.md) as Sanity damage.
 
-Your health state will be changed to [Cursed](Status_Effects.md#cursed) while equipped, visually staining your health at and making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of the health state by 60 seconds, remaining [Cursed](Status_Effects.md#cursed) for a duration even if you swap weapons.
+Your health state will be changed to **[Cursed](Status_Effects.md#cursed)** while equipped, visually staining your health at and making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of the health state by 60 seconds, remaining **[Cursed](Status_Effects.md#cursed)** for a duration even if you swap weapons.
 
 While your weapon is unsheathed in [the Depths](The_Depths.md), lose 2 [Sanity](Insanity.md) per second. Additionally, reaching 0 [Sanity](Insanity.md) while having a Curse of the No Life King weapon equipped will result in your head rupturing (instant death).
 
@@ -1557,7 +1557,7 @@ On weapon attack, apply the [Curse of Void](Status_Effects.md#curse-of-void) sta
 
 For the duration of the status effect, the target is under a 40% Anti-Heal effect. Additionally, if they die while affected by Void, they will drown and be sent to [The Depths](The_Depths.md).
 
-Your health state will be changed to [Cursed](Status_Effects.md#cursed) while equipped, visually staining your health at and making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of the health state by 60 seconds, remaining [Cursed](Status_Effects.md#cursed) for a duration even if you swap weapons.
+Your health state will be changed to **[Cursed](Status_Effects.md#cursed)** while equipped, visually staining your health at and making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of the health state by 60 seconds, remaining **[Cursed](Status_Effects.md#cursed)** for a duration even if you swap weapons.
 
 In PvE, your weapon attacks apply [Ether Sunder](Status_Effects.md#ether-sunder) for 10 seconds, granting 30% elemental damage reduction against their attacks.
 
@@ -1586,7 +1586,7 @@ _Once enough stacks have been applied, the Fire of Life geminates. The explosion
 
 **Effect:**
 
-After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying [Flames of Life](Status_Effects.md#flames-of-life) and [Temporary Health](Status_Effects.md#temporary-health) to them and other nearby targets.
+After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying **[Flames of Life](Status_Effects.md#flames-of-life)** and [Temporary Health](Status_Effects.md#temporary-health) to them and other nearby targets.
 
 The damage of explosion and amount of Temporary Health given are randomized.  
 **Damage:** 5.5-33 typeless damage. This cannot be buffed, and the explosions cannot execute.  

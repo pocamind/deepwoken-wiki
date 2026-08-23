@@ -93,19 +93,19 @@ These Talents can only be taken by certain Mementos.
 
 These Talents are given to the Player upon creating their character.
 
--   **Until it is Done** \[Memento Talent • Berserker\] - Your [Berserk State](../Status_Effects.md#berserk-state) lasts until you willingly end it.
+-   **Until it is Done** \[Memento Talent • Berserker\] - Your **[Berserk State](../Status_Effects.md#berserk-state)** lasts until you willingly end it.
     
     -   Your [Berserk](#berserk) has an indefinite duration, lasting until the user manually turns it off.  
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
     
 
--   **Until it is Done** \[Memento Talent • Berserker\] - Your [Berserk State](../Status_Effects.md#berserk-state) lasts until you willingly end it.
+-   **Until it is Done** \[Memento Talent • Berserker\] - Your **[Berserk State](../Status_Effects.md#berserk-state)** lasts until you willingly end it.
     -   Your [Berserk](#berserk) has an indefinite duration, lasting until the user manually turns it off.  
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
 
--   **Berserk** \[Common Talent • Berserker\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](../Status_Effects.md#berserk-state).
+-   **Berserk** \[Common Talent • Berserker\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter **[Berserk State](../Status_Effects.md#berserk-state)**.
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](../Talents.md#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
     -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
@@ -114,7 +114,7 @@ These Talents are given to the Player upon creating their character.
         
     -   Tags: \[[Berserker](../Berserker.md)\] \[PEN\] \[Scale-down\] \[Tool\]
 
--   **Berserk** \[Common Talent • Berserker\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](../Status_Effects.md#berserk-state).
+-   **Berserk** \[Common Talent • Berserker\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter **[Berserk State](../Status_Effects.md#berserk-state)**.
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](../Talents.md#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
     -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
@@ -175,7 +175,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Tags: \[[Berserker](../Berserker.md)\] \[Damage Buff\]
 
--   **Perseverance** \[Common Talent • Bastion\] **100** \- Reduces the duration you're [Ragdolled](../Status_Effects.md#ragdoll) and [Unconscious](../Status_Effects.md#unconscious) for by 25%.
+-   **Perseverance** \[Common Talent • Bastion\] **100** \- Reduces the duration you're **[Ragdolled](../Status_Effects.md#ragdoll)** and **[Unconscious](../Status_Effects.md#unconscious)** for by 25%.
     -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
         
     -   Grants +5 Sanity  
@@ -184,7 +184,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Tags: \[[Berserker](../Berserker.md)\] \[+Sanity\]
 
--   **Perseverance** \[Common Talent • Bastion\] **100** \- Reduces the duration you're [Ragdolled](../Status_Effects.md#ragdoll) and [Unconscious](../Status_Effects.md#unconscious) for by 25%.
+-   **Perseverance** \[Common Talent • Bastion\] **100** \- Reduces the duration you're **[Ragdolled](../Status_Effects.md#ragdoll)** and **[Unconscious](../Status_Effects.md#unconscious)** for by 25%.
     -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
         
     -   Grants +5 Sanity  
@@ -578,7 +578,7 @@ These Talents are given to the Player upon creating their character.
 -   **Unswayed** \[Common Talent • Absolute Focus\] - The effects of [Taunt](../Attunement-less.md#taunt) and [Encore](#encore) no longer work on you.
     -   The [Taunt](../Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](../Status_Effects.md#taunt)" on the user.
     -   The [Sing](../Attunement-less.md#sing) Mantra can no longer use the Talent "[Encore](#encore)" on the user, nullifying the stun effect.
-        -   Sing can still apply [Charm](../Status_Effects.md#charm) or [Overcharm](../Status_Effects.md#overcharm) to the user.  
+        -   Sing can still apply **[Charm](../Status_Effects.md#charm)** or [Overcharm](../Status_Effects.md#overcharm) to the user.  
             
     -   Grants +20 Sanity  
         
@@ -589,7 +589,7 @@ These Talents are given to the Player upon creating their character.
 -   **Unswayed** \[Common Talent • Absolute Focus\] - The effects of [Taunt](../Attunement-less.md#taunt) and [Encore](#encore) no longer work on you.
     -   The [Taunt](../Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](#cornered-fool)" Talent can no longer inflict "[Taunt](../Status_Effects.md#taunt)" on the user.
     -   The [Sing](../Attunement-less.md#sing) Mantra can no longer use the Talent "[Encore](#encore)" on the user, nullifying the stun effect.
-        -   Sing can still apply [Charm](../Status_Effects.md#charm) or [Overcharm](../Status_Effects.md#overcharm) to the user.  
+        -   Sing can still apply **[Charm](../Status_Effects.md#charm)** or [Overcharm](../Status_Effects.md#overcharm) to the user.  
             
     -   Grants +20 Sanity  
         
@@ -731,14 +731,14 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Damage Buff\] \[Guardbreak\]
 
--   _Concussion_ \[Rare Talent • Duelist\] **250** \- Enemies you flourish into walls have their vision altered for a short duration and are [dazed](../Status_Effects.md#daze) longer than usual. Flourished PvE enemies get [Stagger](../Status_Effects.md#stagger) for a few seconds.
+-   _Concussion_ \[Rare Talent • Duelist\] **250** \- Enemies you flourish into walls have their vision altered for a short duration and are [dazed](../Status_Effects.md#daze) longer than usual. Flourished PvE enemies get **[Stagger](../Status_Effects.md#stagger)** for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
         
     -   Prerequisites: [Breaker](../Breaker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
     -   Tags: \[[Breaker](../Breaker.md)\] \[Debuff\] \[Flourish\]
 
--   **Concussion** \[Rare Talent • Duelist\] **250** \- Enemies you flourish into walls have their vision altered for a short duration and are [dazed](../Status_Effects.md#daze) longer than usual. Flourished PvE enemies get [Stagger](../Status_Effects.md#stagger) for a few seconds.
+-   **Concussion** \[Rare Talent • Duelist\] **250** \- Enemies you flourish into walls have their vision altered for a short duration and are [dazed](../Status_Effects.md#daze) longer than usual. Flourished PvE enemies get **[Stagger](../Status_Effects.md#stagger)** for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
         
     -   Prerequisites: [Breaker](../Breaker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
@@ -814,7 +814,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Tags: \[[Breaker](../Breaker.md)\] \[Flourish\] \[Posture Damage Buff\]
 
--   _**Collapsed Lung**_ \[Advanced Talent • Annihilatoe\] **350** \- Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](../Status_Effects.md#collapsed).
+-   _**Collapsed Lung**_ \[Advanced Talent • Annihilatoe\] **350** \- Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get **[Collapsed](../Status_Effects.md#collapsed)**.
     -   Duration scales with investment up to its requirement; This effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
     -   The [Collapsed](../Status_Effects.md#collapsed) status effect decreases the posture damage affected targets do to you by 40%.  
         
@@ -822,7 +822,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Tags: \[[Breaker](../Breaker.md)\] \[Guardbreak\] \[Scale-down\] \[Vent\]
 
--   **Collapsed Lung** \[Advanced Talent • Annihilatoe\] **350** \- Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](../Status_Effects.md#collapsed).
+-   **Collapsed Lung** \[Advanced Talent • Annihilatoe\] **350** \- Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get **[Collapsed](../Status_Effects.md#collapsed)**.
     -   Duration scales with investment up to its requirement; This effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
     -   The [Collapsed](../Status_Effects.md#collapsed) status effect decreases the posture damage affected targets do to you by 40%.  
         
@@ -912,7 +912,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Posture Damage Buff\]
 
--   _Dirty Boxing_ \[Rare Talent • Scoundrel\] **250** \- Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies [Sluggish](../Status_Effects.md#sluggish).
+-   _Dirty Boxing_ \[Rare Talent • Scoundrel\] **250** \- Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](../Status_Effects.md#sluggish)**.
     -   8 second cooldown.
     -   The "bleed" does not work.
     -   The Sluggish status effect grants 15% damage resistance against the target, lasting for the duration of the slow that applied it.  
@@ -923,7 +923,7 @@ These Talents are purchased from the [Reclaimer of the Recollection](../Reclaime
         
     -   Tags: \[[Breaker](../Breaker.md)\] \[+Passive Agility\] \[Debuff\] \[Fist\]
 
--   **Dirty Boxing** \[Rare Talent • Scoundrel\] **250** \- \[Fist\] Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies [Sluggish](../Status_Effects.md#sluggish).
+-   **Dirty Boxing** \[Rare Talent • Scoundrel\] **250** \- \[Fist\] Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](../Status_Effects.md#sluggish)**.
     -   8 second cooldown.
     -   The "bleed" does not work.
     -   The Sluggish status effect grants 15% damage resistance against the target, lasting for the duration of the slow that applied it.  
@@ -1839,7 +1839,7 @@ Memento-tagged weapon Talents are only usable on the listed Mementos, largely du
     -   This does not benefit from posture damage modifiers. Additionally, your weapon's damage and weight stat have no impact on this Talent's effects.
 
 -   Finishing Slay: [Messer](../Messer.md) & [Alloyed Messer](../Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
-    -   Consumes all of your [Perfection](../Status_Effects.md#perfection) stacks for a secondary instance of damage on your critical.
+    -   Consumes all of your **[Perfection](../Status_Effects.md#perfection)** stacks for a secondary instance of damage on your critical.
     -   Because you otherwise cannot gain the [Chain of Perfection](../Talents.md#chain-of-perfection) Talent in Vow of Iron, this requires you to use the [Evengardes Keepsake](../Evengardes_Keepsake.md).
     -   This deals 7 **typeless** damage per Perfection stack. Deals 166 **typeless** damage per Chain of Perfection stack in PvE.
     -   The first 5 hits that normally do not grant Perfection stacks will contribute to this, allowing you to deal 150 typeless PvP damage or 3.5k typeless PvE damage at maximum chain stacks.
@@ -2066,13 +2066,13 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Most monsters in [The Depths](<../The_Depths_(Vow_of_Iron).md>) will be neutral you while you have this equipment on.
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[Common Talent • Equipment\] \[Equipment\]
 
--   **Blind Spot**: [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply [Blinded](../Status_Effects.md#blinded) for 5 seconds.
+-   **Blind Spot**: [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply **[Blinded](../Status_Effects.md#blinded)** for 5 seconds.
     -   15 second cooldown.
     -   Can be procced by [Mantle of Enmity](../Mantle_of_Enmity.md).  
         
     -   Tags: \[Common Talent • Equipment\] \[Equipment\] \[Critical Attack\] \[Debuff\]
 
--   **Blind Spot**: [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - \[Land Critical Attack or Hidden Blade\] Apply [Blinded](../Status_Effects.md#blinded) for 5 seconds.
+-   **Blind Spot**: [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - \[Land Critical Attack or Hidden Blade\] Apply **[Blinded](../Status_Effects.md#blinded)** for 5 seconds.
     -   15 second cooldown.
     -   Can be procced by [Mantle of Enmity](../Mantle_of_Enmity.md).  
         
@@ -2081,14 +2081,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Tags: \[Common Talent • Equipment\] \[Equipment\] \[Critical Attack\] \[Debuff\]
 
 -   **Blinded**: [Blindfold](../Blindfold.md) & [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
-    -   Applies the [Blinded](../Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
+    -   Applies the **[Blinded](../Status_Effects.md#blinded)** effect to your character, making everything darker and creating fog at long distances.
     -   The [Blindseer](../Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
     -   Grants immunity to the [Flame Blind](../Flamecharm.md#flame-blind) and [Gaze](../Attunement-less.md#gaze) Mantras.  
         
     -   Tags: \[Common Talent • Equipment\] \[Equipment\] \[Debuff\]
 
 -   **Blinded**: [Blindfold](../Blindfold.md) & [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
-    -   Applies the [Blinded](../Status_Effects.md#blinded) effect to your character, making everything darker and creating fog at long distances.
+    -   Applies the **[Blinded](../Status_Effects.md#blinded)** effect to your character, making everything darker and creating fog at long distances.
     -   The [Blindseer](../Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
     -   Grants immunity to the [Flame Blind](../Flamecharm.md#flame-blind) and [Gaze](../Attunement-less.md#gaze) Mantras.  
         
@@ -2262,14 +2262,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Tags: \[Common Talent • \] \[Equipment\] \[Damage Resistance\]
 
--   **Elegy of Light**: [Lightkeeper's Medallion](<../Lightkeeper's_Medallion.md>) - The [Unspoken Vow](../Glossary.md#vows) of [the Waking God](../Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](../Deep_Gems.md) for 3 minutes and provides [Gem Enhancement](../Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
+-   **Elegy of Light**: [Lightkeeper's Medallion](<../Lightkeeper's_Medallion.md>) - The [Unspoken Vow](../Glossary.md#vows) of [the Waking God](../Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](../Deep_Gems.md) for 3 minutes and provides **[Gem Enhancement](../Status_Effects.md#gem-enhancement)**. Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.  
         
     -   Tags: \[Common Talent • \] \[Equipment\]
 
--   **Elegy of Light**: [Lightkeeper's Medallion](<../Lightkeeper's_Medallion.md>) - The [Unspoken Vow](../Glossary.md#vows) of [the Waking God](../Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](../Deep_Gems.md) for 3 minutes and provides [Gem Enhancement](../Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
+-   **Elegy of Light**: [Lightkeeper's Medallion](<../Lightkeeper's_Medallion.md>) - The [Unspoken Vow](../Glossary.md#vows) of [the Waking God](../Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](../Deep_Gems.md) for 3 minutes and provides **[Gem Enhancement](../Status_Effects.md#gem-enhancement)**. Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.  

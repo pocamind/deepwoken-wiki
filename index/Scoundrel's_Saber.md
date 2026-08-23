@@ -44,7 +44,7 @@ Obtainable in Vow of Iron in depth chests and through the [Strange Merchant](Str
 
 Equipping the Scoundrel's Saber grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Scammer**](Talents.md#scammer) procs if your opponent attempts to parry the fake blow of your Critical attack, applying a stronger [Daze](Status_Effects.md#daze) effect when the real strike connects.
+[**Scammer**](Talents.md#scammer) procs if your opponent attempts to parry the fake blow of your Critical attack, applying a stronger **[Daze](Status_Effects.md#daze)** effect when the real strike connects.
 
 ## Critical
 

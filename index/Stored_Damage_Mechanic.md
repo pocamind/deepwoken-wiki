@@ -1,17 +1,15 @@
 ---
-title: "Poser's Ring (mechanic)"
-revid: 226205
-source: https://deepwoken.fandom.com/wiki/Poser's_Ring_(mechanic)
+title: Stored Damage Mechanic
+revid: 227373
+source: https://deepwoken.fandom.com/wiki/Stored_Damage_Mechanic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
 ---
 
-# Poser's Ring (mechanic)
+# Stored Damage Mechanic
 
-| Poser's Ring (mechanic) | |
+| Stored Damage Mechanic | |
 |---|---|
-
-This page details the mechanics behind the [Poser's Ring](<Poser's_Ring.md>) and other abilities that have the same effect. Please refer to [Poser's Ring](<Poser's_Ring.md>) if you intended to view that page instead.
 
 “ Damage done with a Katana isn't received until the user sheathes their weapon. ”
 
@@ -32,9 +30,9 @@ The term "**Suspended Hit**" refers to the release of the stored damage; [Poser'
 -   The Suspended Hit effectively has infinite range, and triggers "on hit" effects.
 -   You cannot exceed 70% of a player's maximum health with the Suspended Hit. By using [Wither](Status_Effects.md#wither) application or any damage source, you can reduce your opponent's health below the 70% threshold.
 -   Effects that trigger based on scaled damage (e.g. [Bleed](Status_Effects.md#bleed)) will function like normal on weapons with this mechanic. These effects will be triggered when you land your basic attacks, and **not** when you trigger the Suspended Hit.
--   All abilities with the Poser's Ring mechanic share stacks, meaning you can deal damage on a [Poser's Ring](<Poser's_Ring.md>) [Katana](Katana.md), then swap to the [Moppet](Moppet.md) and critical attack to release the stored damage.
--   The Poser's Ring mechanic applies an 8% damage buff to the Suspended Hit in PvE. This is believed to be attributed to the general 8% PvE damage buff.
--   The stored damage is amassed on the target, and is not recorded per player. The damage credit goes to the player who triggers the Suspended Hit first. For example: If two people are fighting an enemy with Poser's Ring mechanic weapons, and person B sheathes ([Poser's Ring](<Poser's_Ring.md>)), then all of the stored damage applied by both players will be dealt at once. This credits the damage to Player B, regardless of how much Player A contributed.
+-   All abilities with the Stored Damage mechanic share stacks, meaning you can deal damage on a [Poser's Ring](<Poser's_Ring.md>) [Katana](Katana.md), then swap to the [Moppet](Moppet.md) and critical attack to release the stored damage.
+-   The Stored Damage mechanic applies an 8% damage buff to the Suspended Hit in PvE. This is believed to be attributed to the general 8% PvE damage buff.
+-   The stored damage is amassed on the target, and is not recorded per player. The damage credit goes to the player who triggers the Suspended Hit first. For example: If two people are fighting an enemy with Stored Damage mechanic weapons, and person B sheathes ([Poser's Ring](<Poser's_Ring.md>)), then all of the stored damage applied by both players will be dealt at once. This credits the damage to Player B, regardless of how much Player A contributed.
 -   The stored damage on each target you've damaged will be dealt simultaneously on Suspended Hit; hitting enemy A, then enemy B, and then proccing the Suspended Hit will cause both of them to take their respective stored damage.
 -   Chip damage and the damage from damage-dealing enchantments are not stored, and deal their damage normally.
 -   Player clones do not store their damage, and will instead deal their damage normally. In the case of [Moppet](Moppet.md), they also cannot use its critical attack.
@@ -53,7 +51,7 @@ Example scenarios:
 
 ## Individual Abilities
 
-The differences and individual mechanics of each ability that uses the Poser's Ring mechanic.
+The differences and individual mechanics of each ability that uses the Stored Damage mechanic.
 
 ### [Gathering Storm](Talents/Vow_of_Iron.md#gathering-storm)
 
@@ -65,7 +63,7 @@ Unlike the others, this effect has a visual component; as you store damage, ligh
 
 ### [Moppet](Moppet.md)
 
-Exclusive to the [Moppet](Moppet.md), a [Hallowtide](Hallowtide.md) dagger weapon, your damage of your M1s is stored, with the Suspended Hit being triggered by performing a critical attack. Moppet will lose the Poser's Ring mechanic if you replace its critical attack with a [Talent](Talents.md)\-given critical attack; enchant-given criticals will retain the Poser's mechanic, despite not having a way to deal the stored damage.
+Exclusive to the [Moppet](Moppet.md), a [Hallowtide](Hallowtide.md) dagger weapon, your damage of your M1s is stored, with the Suspended Hit being triggered by performing a critical attack. Moppet will lose the Stored Damage mechanic if you replace its critical attack with a [Talent](Talents.md)\-given critical attack; enchant-given criticals will retain the Stored Damage mechanic, despite not having a way to deal the stored damage.
 
 For every stored attack the Moppet gains increased PEN. This can scale up to 100% PEN after enough hits.
 
@@ -73,7 +71,7 @@ Because Moppet's Suspended Hit is on a critical attack, Moppet is a great cataly
 
 ### [Poser's Ring](<Poser's_Ring.md>)
 
-Exclusive to the [Poser's Ring](<Poser's_Ring.md>) equipment, the weapon damage of the [Katana](Katana.md), [Alloyed Katana](Katana.md), and [Shattered Katana](Shattered_Katana.md) weapons is stored, and is triggered when sheathing (unequipping) the weapon.
+Exclusive to the [Poser's Ring](<Poser's_Ring.md>) equipment, the weapon damage of the [Katana](Katana.md), [Alloyed Katana](Katana.md), [Palace Tachi](Palace_Tachi.md), and [Shattered Katana](Shattered_Katana.md) weapons is stored, and is triggered when sheathing (unequipping) the weapon.
 
 This plays an animation and applies an extended true stun to the target. During this stun, the user and the target gain damage immunity to outside damage.
 

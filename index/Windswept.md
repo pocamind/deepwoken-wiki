@@ -18,11 +18,11 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Windswept is a debuffing [enchantment](Enchantments.md) that applies [winded](Status_Effects.md#winded) to your opponent.
+Windswept is a debuffing [enchantment](Enchantments.md) that applies **[winded](Status_Effects.md#winded)** to your opponent.
 
 ## Effect
 
-After landing enough M1s, Windswept applies [winded](Status_Effects.md#winded) to your opponent. The duration of this winded effect scales on your Weapon attribute investment. This enchantment has a 5 second cooldown regardless of investment, making it very weak on low investment.
+After landing enough M1s, Windswept applies **[winded](Status_Effects.md#winded)** to your opponent. The duration of this winded effect scales on your Weapon attribute investment. This enchantment has a 5 second cooldown regardless of investment, making it very weak on low investment.
 
 The hit count required to proc this enchantment varies based on your weapon type, requiring 3 hits for Light Weapons, 2 hits for Medium Weapons, and 1 hit for Heavy Weapons. These stacks do not decay over time.
 

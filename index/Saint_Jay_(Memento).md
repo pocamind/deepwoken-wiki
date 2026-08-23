@@ -328,7 +328,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
 
 ### Power 15
 
--   **Orbital Ice** \[Common Talent •\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
+-   **Orbital Ice** \[Common Talent • \] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
     -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
     -   Lasts 50 seconds if it is not broken.
@@ -478,7 +478,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 ### Power 20
 
--   **Glacial Coasting** \[Common Talent •\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
+-   **Glacial Coasting** \[Common Talent • \] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
     -   Creates ice patches as you slide, improving your slide speed.  
         
     -   Grants +1 Passive Agility  

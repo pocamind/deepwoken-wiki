@@ -18,7 +18,7 @@ categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that pr
 
 ## Description
 
-Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive debuffing [enchantment](Enchantments.md) that obscures your opponent's UI or causes [Confusion](Status_Effects.md#confusion) in PvE.
+Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive debuffing [enchantment](Enchantments.md) that obscures your opponent's UI or causes **[Confusion](Status_Effects.md#confusion)** in PvE.
 
 ## Effect
 

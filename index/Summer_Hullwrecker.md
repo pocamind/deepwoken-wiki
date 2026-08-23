@@ -48,4 +48,4 @@ Equipping the Summer Hullwrecker grants its unique [weapon Talent](Talents.md#we
 
 ## Critical
 
-Summer Hullwrecker uses the default Greatcannon critical, firing the cannon and dealing damage in a large unparryable shockwave in front of the user before firing a projectile. The shockwave applies daze and has a scaled damage multiplier of **0.75x**. The projectile is mouse aim-able and explodes on contact, applying [Burn](Status_Effects.md#burn) with a scaled damage multiplier of **1x**. This critical has a cooldown of **7 seconds**. The projectile's damage will lessen the farther the projectile travels.
+Summer Hullwrecker uses the default Greatcannon critical, firing the cannon and dealing damage in a large unparryable shockwave in front of the user before firing a projectile. The shockwave applies daze and has a scaled damage multiplier of **0.75x**. The projectile is mouse aim-able and explodes on contact, applying **[Burn](Status_Effects.md#burn)** with a scaled damage multiplier of **1x**. This critical has a cooldown of **7 seconds**. The projectile's damage will lessen the farther the projectile travels.

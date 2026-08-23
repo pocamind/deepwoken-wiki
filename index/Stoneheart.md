@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 221455
+revid: 227434
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -38,7 +38,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 
 ## Description
 
-The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Stoneheart is a Heavy Greathammer that is obtained by a direct drop from [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Critical
 

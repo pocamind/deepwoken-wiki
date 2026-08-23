@@ -64,8 +64,8 @@ This Oath grants 1 Combat Mantra Slot, 2 Wildcard Mantra Slots, and +5% PEN. As 
     -   Applies the spray that was selected in the Hair Products' popup menu.
     -   The sprays have no endlag, allowing you to use weapon attacks during their animations. This is very strong for burn synergies with the Flammable spray.
     -   All three hair products have a 10 second cooldown.
-        -   Flammable [ignites](Status_Effects.md#burn) the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). Parryable and blockable.
-        -   Charming [Charms](Status_Effects.md#charm) the opponent for 15 seconds. Parryable and blockable.
+        -   Flammable **[ignites](Status_Effects.md#burn)** the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). Parryable and blockable.
+        -   Charming **[Charms](Status_Effects.md#charm)** the opponent for 15 seconds. Parryable and blockable.
         -   Revitalizing heals a flat 10% HP of the target. 10s cd. Can heal non-allies and even mobs. Unparryable and unblockable.
 
 ### Mantras

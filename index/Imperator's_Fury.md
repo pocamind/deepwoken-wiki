@@ -34,7 +34,7 @@ This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md
 
 ## Trivia
 
--   This has 6.48x PvE scaling (226.8 PvE damage without [Perfection](Status_Effects.md#perfection) stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent.
+-   This has 6.48x PvE scaling (226.8 PvE damage without **[Perfection](Status_Effects.md#perfection)** stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent.
 -   The damage Brute Strength deals cannot be increased with damage modifiers.
     -   [Cold Front](Talents.md#cold-front) and [Dark Pearls](Dark_Pearls.md) still apply however.
 -   Affected by general PEN, such as [Strength](Attributes.md#str) investment, [Prophet's Cloak](<Prophet's_Cloak.md>), or having an [Oath](Oaths.md).

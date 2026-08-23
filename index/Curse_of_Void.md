@@ -26,11 +26,11 @@ Curse of Void applies the [Void](Status_Effects.md#void) status effect for 30 se
 
 Additionally, if a player dies while under the effect of the Void status effect, they will be sent to [the Depths](The_Depths.md) regardless of how many lives they have.
 
-In PvE, your weapon attacks apply [Ether Sunder](Status_Effects.md#ether-sunder) for 10 seconds, granting 30% elemental damage reduction against their attacks.
+In PvE, your weapon attacks apply **[Ether Sunder](Status_Effects.md#ether-sunder)** for 10 seconds, granting 30% elemental damage reduction against their attacks.
 
 ### Curse
 
-Your [Health State](Status_Effects.md#health-states) is set to [Cursed](Status_Effects.md#cursed) while a Curse of Void enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
+Your [Health State](Status_Effects.md#health-states) is set to **[Cursed](Status_Effects.md#cursed)** while a Curse of Void enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
 
 ### Notes
 

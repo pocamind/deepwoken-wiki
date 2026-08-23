@@ -19,7 +19,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-Konga the 2nd was a member of the Konga lineage and a user of its Slider Style. Konga eventually developed the [Karita Plating](Karita_Plating.md), a set of leg plating that is, somehow, increase the speed of the wearer to assist in using the Style.[\[1\]](#cite-note-k-1)
+Konga the 2nd was a member of the [Konga lineage](Konga_lineage.md) and a user of its Slider Style. Konga eventually developed the [Karita Plating](Karita_Plating.md), a set of leg plating that is, somehow, increase the speed of the wearer to assist in using the Style.[\[1\]](#cite-note-k-1)
 
 The Plating was later passed to a [fellow member of the Konga lineage](Konga_The_Third.md).
 

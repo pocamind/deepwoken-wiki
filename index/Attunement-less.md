@@ -1958,7 +1958,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 -   The kicks deal 15/16/17/18/19[/20/21/22/23/24](Wyrmtooth.md) base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
 -   Deals 20/22/24/26/GB posture damage per level on the first hit. The second hit always deals 4 posture damage.
     -   Initial hit instantly guard breaks at level 5.
--   The final hit applies [True Daze](Status_Effects.md#true-daze).
+-   The final hit applies **[True Daze](Status_Effects.md#true-daze)**.
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
 -   Equipping the [Iron Birch](Iron_Birch.md) gives you the [Expeditious Combo](Talents.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing a basic attack uppercut.

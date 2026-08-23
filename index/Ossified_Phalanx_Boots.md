@@ -34,7 +34,7 @@ This content is not accessible outside of this gamemode.
 
 Alloyed Phalanx Boots are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "**Legs**" category.
 
-The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of any [Knockdown](Status_Effects.md#knockdown) applied to you by 75%.
+The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of any **[Knockdown](Status_Effects.md#knockdown)** applied to you by 75%.
 
 ## References
 

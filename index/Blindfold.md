@@ -29,7 +29,7 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 
 The Blindfold is an [Equipment](Equipment.md) item under the "Face" category.
 
-The [Blinded](Talents.md#blinded) Talent applies the [Blinded](Status_Effects.md#blinded) effect to the wearer, heavily reducing their vision. This, or the [Blind](Boons_and_Flaws.md#flaws) Flaw, is a requirement to obtain the [Blindseer](Oath%253A_Blindseer.md) Oath.
+The [Blinded](Talents.md#blinded) Talent applies the **[Blinded](Status_Effects.md#blinded)** effect to the wearer, heavily reducing their vision. This, or the [Blind](Boons_and_Flaws.md#flaws) Flaw, is a requirement to obtain the [Blindseer](Oath%253A_Blindseer.md) Oath.
 
 ## Trivia
 
