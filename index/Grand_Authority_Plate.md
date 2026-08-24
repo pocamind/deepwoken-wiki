@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 223940
+revid: 227548
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment of The Central Authority]
@@ -37,4 +37,4 @@ Variants: [Sallet](Grand_Authority_Sallet.md) · [Sabatons](Grand_Authority_Saba
 
 The Grand Authority Plate is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Heavy Haul](Talents.md#heavy-haul) Talent slows down enemies when they carry your knocked body.
+The [Heavy Haul](Talents.md#heavy-haul) Talent slows down enemies when they carry your [Unconscious](Status_Effects.md#unconscious) body, and reduces the posture damage large PvE enemies deal to you.

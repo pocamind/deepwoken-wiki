@@ -1,6 +1,6 @@
 ---
 title: Palace Tachi
-revid: 227504
+revid: 227533
 source: https://deepwoken.fandom.com/wiki/Palace_Tachi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons of The Ministry, Weapons of Etrea]
@@ -27,7 +27,7 @@ categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | rarity | Mythical |
-| selling price | N/A |
+| selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
@@ -40,7 +40,7 @@ Notice: This weapon cannot be enchanted in some older servers due to a bug. Join
 
 ## Description
 
-The Palace Tachi is a katana [weapon](Weapons.md) in the Medium Weapons category. These are used by [the Lord Regent](The_Lord_Regent.md)'s Threadcutters. Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
+The Palace Tachi is a katana [weapon](Weapons.md) in the Medium Weapons category. These are used by [the Lord Regent](The_Lord_Regent.md)'s [Threadcutters](Threadcutter.md). Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
 
 When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s and critical attacks will be suspended until it is sheathed, at which point all of that damage is inflicted at once. This damage cannot exceed 70% of a player's maximum health. See [Stored Damage Mechanic](Stored_Damage_Mechanic.md) for more info.
 

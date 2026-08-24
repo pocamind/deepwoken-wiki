@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 227521
+revid: 227546
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
@@ -14,7 +14,7 @@ categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns
 | drops | Dissonant Chimecaller, Bellmarrow Reave, Dormant Splinter, Moonseye Tome, Idol of Yun'Shul |
 | aspect | Anansi |
 | pronouns | He/him[1] |
-| locations | SimforeaThe Cradle of Symphonies |
+| locations | Simforea, The Cradle of Symphonies |
 | challenges | -- Knell, The Lost Anansi --, Encore! - Slay 2.Reward: +3% DMG; +1.5% RES, Hells Bells - Slay 5.Reward: +3% DMG; +1.5% RES, For Whom The Bell Tolls - Slay 15.Reward: +3% DMG; +1.5% RES |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -389,7 +389,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 ## Trivia
 
 -   This boss was made by Nuttoons.
--   The frenzied sounds produced by Knell are voiced by iiPessimystic.
+-   The frenzied sounds produced by Knell are voiced by iiPessimystic.[\[8\]](#cite-note-8)
 -   Knell's name comes from the noun used to describe the sound of a bell, especially when rung solemnly for a death or funeral.
 -   Knell is the only entity whose title in the [Bestiary](Bestiary.md) differs from their usual name.
 -   Knell's final Bestiary name is a possible reference to the song "For Whom The Bell Tolls" by Metallica, as they also had a previous Metallica based event featuring their 72 seasons album release, [here](https://youtube.com/watch?v=B_HSa1dEL9s&is=cIXw9OtuDMw_GHOO).
@@ -411,3 +411,4 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 5.  [↑](#cite-ref-capeline-5-0) [Ringing Scholar's Capeline](<Ringing_Scholar's_Capeline.md>)
 6.  [↑](#cite-ref-tie-6-0) [Ringing Scholar's Necktie](<Ringing_Scholar's_Necktie.md>)
 7.  ↑ [7.0](#cite-ref-reave-7-0) [7.1](#cite-ref-reave-7-1) [Bellmarrow Reave](Bellmarrow_Reave.md) description
+8.  [↑](#cite-ref-8)

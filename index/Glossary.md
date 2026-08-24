@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 227141
+revid: 227535
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -355,6 +355,14 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if the player has a [Soulthorn](S
 
 ## Magic
 
+### Attunement
+
+-   Attunements are passages of the Song that have become so firmly woven into its tapestry as to be spread naturally without the need of an Oath.
+-   Many will learn the attunement they are exposed to the most in a manner not unlike picking up a language. As such, many adopt the attunements and styles of those who raised them.
+-   While attunements can take years to acquire through osmosis, some methods exist to rapidly attune to one. A common practice is for one particularly adept with an attunement to imprint themselves on objects that evoke the concepts behind the attunement, and to then produce a suspended concoction for the student to ingest. While a convenient shortcut, the side effects can be unpleasant.
+
+Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm)
+
 ### Bloodrend
 
 -   The ability to manipulate flesh and blood through the [Song](#the-song).
@@ -365,7 +373,7 @@ Dialogue: [Vyrelda](Vyrelda,_Master_of_Blood.md) | Books: | Glossary Entries:
 ### Flamecharm
 
 -   The ability to conjure flames and heat through the [Song](#the-song).
--   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus [Pleeksty](#amorus-pleeksty), who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded in histories prior to [Pleeksty's](#amorus-pleeksty) discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
+-   As an [attunement](#attunement), [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus [Pleeksty](#amorus-pleeksty), who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded in histories prior to [Pleeksty's](#amorus-pleeksty) discovery of the [attunement](#attunement), and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
 
 Dialogue: [Amashi](Amashi,_Master_of_Flame.md), [Ploom](Ploom.md), [Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
@@ -654,6 +662,13 @@ Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 -   No one who has perished in the [Depths](#depths) has ever returned.
 
 Dialogue: | Books: [Coldheart's Journal](<Coldheart's_Journal.md>) | Glossary Entries: [The Depths](#the-depths), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Tides](#the-tides)
+
+### Immortality
+
+-   Denied a true afterlife, the [Depths](#depths) claims us all eventually. But there are those who for one reason or another do not succumb to it, and not simply due to their willpower.
+-   Becoming a [Deepwoken](#deepwoken) is known to grant immortality, though this comes at a cost.
+
+Dialogue: | Books: | Glossary Entries: [Deepwoken](#deepwoken)
 
 ### The Tides
 

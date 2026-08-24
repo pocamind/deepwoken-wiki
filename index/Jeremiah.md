@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 227492
+revid: 227532
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -56,6 +56,13 @@ Potential Rewards
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Master_Thief_Earrings.md">Master Thief Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Akira's_Ring.md">Akira's Ring</a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Maestro's_Ring.md">Maestro's Ring</a>, <a href="Prophet's_Ring.md">Prophet's Ring</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><a href="Weapons.md">Weapons</a></td>
+  <td>
+  <ul>
+    <li>Light Weapons: <a href="Coral_Cestus.md">Coral Cestus</a></li>
   </ul></td>
 </tr>
 </tbody>
@@ -141,4 +148,4 @@ Potential Rewards
 ## Trivia
 
 -   Jeremiah is able to give the player all of the Attribute rings besides the [Rosen's Ring](<Rosen's_Ring.md>).
--   Jeremiah does not have any special interactions when given Unique Gems, such as the [Aegis Gem](Aegis_Gem.md), [Wrath Gem](Wrath_Gem.md), or [Might Gem](Might_Gem.md), making it more worthwhile to give him regular [Deep Gems](Deep_Gems.md) instead.
+-   Jeremiah does not have any special interactions when given Unique Gems, such as the [Aegis Gem](Aegis_Gem.md), [Wrath Gem](Wrath_Gem.md), or [Might Gem](Might_Gem.md), making it more worthw hile to give him regular [Deep Gems](Deep_Gems.md) instead.
