@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227500
+revid: 227526
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5779,13 +5779,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 ### Inferno
 
 -   Corpse Explosion \[Common Talent, Flamecharm\] - Bodies that you burn to death immediately explode, dealing massive damage. Your fires will incinerate unconscious targets much faster.
-    -   -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
+    -   The amount of time it takes to incinerate unconscious targets is halved, from 7 to 3.5 seconds.
+        -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
     -   The explosion does not work; you'll burn them to death without an explosion.
     -   Prerequisites: 60 Flamecharm, Agitating Spark
 
 -   Pleeksty's Faith \[Common Talent, Willpower, Charisma, Flamecharm\] - When on fire, automatically quench flames at the cost of some ether.
     -   Costs 20 Ether.
-    -   Does not proc on self-applied flames.
+    -   Does not proc on self-inflicted flames.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
 
@@ -6695,7 +6696,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 70 Strength
 
 -   _**Piercing Blow**_ \[Advanced Talent, Strength\] - Attacks that break an opponent's block ignore their Armor resistances.
-    -   If you do not have 100 Strength, this Talent will instead **halve** your opponent's armor resistances **multiplicatively, before PEN** on proc.
+    -   Grants +50% PEN to attacks that guardbreak.
+    -   The effect of this Talent scales down if you have less than 100 Strength.
     -   Prerequisite: 100 Strength
 
 ### Rampaging Brute
