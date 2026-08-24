@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 220024
+revid: 227506
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -17,6 +17,8 @@ categories: [Resonances]
 “ Slip into an alternate dimension that exists alongside our own. ”
 
 ― Dimensional Travel description
+
+_Note: Dimensional Travel is currently bugged in the first layer of the depths. it will automatically teleport you out of The Interstice after usage._
 
 ### Description
 

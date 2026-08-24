@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227453
+revid: 227500
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -9074,11 +9074,11 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   **Justicar's Gift**: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
     
-    -   Tags: \[Common Talent • \] \[[Justicar](<Justicar_(Origin).md>)\] \[Outfit\] \[Support\]
+    -   Tags: \[Common Talent • \] \[\[\[Justicar (Origin)|Justicar\]\]\] \[Outfit\] \[Support\]
 
 -   **Justicar's Gift**: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
     
-    -   Tags: \[Common Talent • \] \[[Justicar](<Justicar_(Origin).md>)\] \[Outfit\] \[Support\]
+    -   Tags: \[Common Talent • \] \[\[\[Justicar (Origin)|Justicar\]\]\] \[Outfit\] \[Support\]
 
 -   **Knack**: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
     -   Increases the boat repair speed.  
@@ -9176,7 +9176,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) & [Royal Etrean Guard](Royal_Etrean_Guard.md) - Wielding a katana with this outfit grants extra damage.
     -   Increases _[Katana](Katana.md)_ damage by 25%.
-    -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
+    -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), [Palace Tachi](Palace_Tachi.md)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 
 -   Praise The Sun: [Revitalizing Pendant](Revitalizing_Pendant.md) & [Radial Pendant](Radial_Pendant.md) - When standing in sunlight increase your natural health regen and reduce how long antiheal effects last on you.

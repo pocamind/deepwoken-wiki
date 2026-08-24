@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 222075
+revid: 227519
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -34,7 +34,7 @@ When worn, A mushroom hat is put on top on your head, it changes your head color
 -   You cannot obtain the special variants through the 23 Medal Shop.
 -   This was released during [Hallowtide](Hallowtide.md) 2023 as a head equipment
 -   This item costs 100 Joy in the Hallowtide Shop, but can be alternatively obtained through the Trial of Gourdskipper, which is much more preferable option.
--   The Costumes are based on the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from Rogue Lineage.
+-   The Costumes are based on the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from Rogue Lineage, and the Metalshroom variant is likely based on the [Metascroom](https://rogue-lineage.fandom.com/wiki/Metascroom) race from the same game.
 -   The Glowshroom & Metalshroom variants are slightly more rarer than the normal Mushroom variant. Zapshroom seems to be the rarest variant, with the Charmshroom being the 2nd rarest.
 -   This [Equipment](Equipment.md) item is dyeable, but the white spots and skin will be unaffected.
 -   This item is undroppable.

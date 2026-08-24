@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 226197
+revid: 227503
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -27,7 +27,7 @@ categories: [Equipment, Rings]
 
 The Poser's Ring is an [Equipment](Equipment.md) item under the "Rings" category. It can be obtained by completing [Zana's](Zana.md) quest.
 
-While using a [Katana](Katana.md), [Alloyed Katana](Katana.md), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly. See [Poser's Ring (mechanic)](Stored_Damage_Mechanic.md) for more info.
+While using a [Katana](Katana.md), [Alloyed Katana](Katana.md), [Palace Tachi](Palace_Tachi.md), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly. See [Poser's Ring (mechanic)](Stored_Damage_Mechanic.md) for more info.
 
 ## Trivia
 

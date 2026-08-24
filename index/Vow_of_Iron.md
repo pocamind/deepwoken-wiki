@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 227192
+revid: 227512
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -133,3 +133,24 @@ Certain items can be found laying on the ground in a given spot and can be picke
     
     -   Boundaries save between characters made on that same slot.
     -   Entering a Boundary will heal you to full and will automatically cash in any chests you are carrying.
+
+## Tips
+
+Learning to properly play through Vow of Iron will require a lot of patience, as boss attack patterns are tricky to deal with at first. It is recommended to play extremely safe for your first couple of playthroughs, and picking a high health memento to learn the bosses, like Saint's Jay or Breaker, is recommended so that you don't die too fast.
+
+### Recommended progression
+
+-   Power 1-5: Jobs at [Meteor Isle](Meteor_Isle.md), or if you're more experienced, defeat the Shogun and use the 2,000 to power up.
+-   Power 5-10: Jobs at the [Red Lotus Keep](Red_Lotus_Keep.md), which you can pick up from the red job board and then glide down to the jobsites, or, if you have a weapon that deals blunt damage, the Legion Camp boundary is a great way to power up as each of the 3 [Moss Knights](Moss_Knight.md) gives 500 and they individually respawn every 2 minutes.
+-   Power 10-15: Jobs at the [Red Lotus Keep](Red_Lotus_Keep.md), which you pick up from the blue job board and then glide to the jobsites.
+-   Power 15-20: Jobs at the [The Indigo Citadel](The_Indigo_Citadel.md), where you **only** pick the war of attrition job as Shogun Specialist and The Etrean Apostle too much time and are very risky compared to the Shogun.
+
+### Other tips
+
+-   After defeating the Shogun, you can gain elevation and glide east from the Temple of Mur to the Viridian Sanctuary Ruins where you can buy the [Etris Flask](Etris_Flask.md)[\[1\]](#cite-note-1). After that, you can glide all the way down to the legion Camp Boundary to to get back to the cerebral spire[\[2\]](#cite-note-2).
+-   If you have the slots available, consider keeping 1 slot as a Power 20 to do the War of Attrition quests and then once you get all 3 in a single lootbag, you can hide it somewhere so that on a different slot, if you rejoin the same sever, you can access the high value loot bags at an early level.
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

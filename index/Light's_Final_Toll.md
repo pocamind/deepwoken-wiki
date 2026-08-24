@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 225930
+revid: 227499
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -51,12 +51,9 @@ All criticals have a cooldown of **5 seconds**.
 
 ## Trivia
 
--   This used to be the only weapon to scale from an attribute (Willpower) rather than weapon or an attunement.
-    -   When the March 23rd, 2024 update came, the weapon requirements were updated to make it share a req. (65 WLL → 60 WLL, 35 LHT)
+-   This used to be the only weapon to solely scale from an attribute (Willpower), rather than weapon or an attunement. It has since been changed to require and scale on Light Weapon (and Willpower) investment.
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   The fourth critical previously had a blue eye, having the same functionality of being undodgeable and unblockable.
--   Before October 20th, 2023, the weapon used the base critical for the active fist style.
--   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).
 -   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Light's Final Toll.
 -   When [Jus Karita](Jus_Karita.md) is equipped on the Light's Final Toll, the first critical will default to the "Way of Navae" critical, being the lantern strike.

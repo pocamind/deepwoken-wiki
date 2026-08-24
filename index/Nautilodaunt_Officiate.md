@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 227491
+revid: 227516
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -177,6 +177,7 @@ Avoid
 -   The two punches before the slam come out relatively fast, but do not do too much damage, most of the damage comes from the following slam.
 -   It can move while using this move, often causing it to miss the slam entirely as it keeps walking past you.
 -   It will gain its green indicator on the last attack of the sequence.
+-   You can jump to avoid the final slam which allows you to get a free aerial attack in.
 
 _Uses Telegraph_
 
@@ -231,7 +232,8 @@ Parry
 
 ## Tips
 
--   **DO NOT VENT**. This will usually result in the Nautilodaunt Officiate using Electro Stomp which is essentially a guaranteed hit due to vent endlag. Additionally, try to focus more on attacking than parry trading. It may sound counter intuitive, but once you get about 2-3 parries on the Nautilodaunt Officiate, fishing for more leaves you vulnerable to feints or other attacks whereas attacking will usually connect as long as you fully commit.
+-   Stay close to the Nautilodaunt Officiate, and **DO NOT VENT**. Venting will usually result in the Nautilodaunt Officiate using Electro Stomp which is essentially a guaranteed hit due to vent endlag.
+-   Try to "statcheck" and focus more on attacking than parry trading. It may sound counter intuitive, but once you get about 2-3 trades on the Nautilodaunt Officiate, fishing for more leaves you vulnerable to feints or other attacks whereas attacking will usually connect as long as you fully commit.
 
 ## Trivia
 

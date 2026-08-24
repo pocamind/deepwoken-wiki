@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 210113
+revid: 227501
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -56,6 +56,7 @@ When obtained, Portals will spend its points on the following stats:
 -   This Resonance can be a great tool to ambush other players.
 -   Similar to _Valorant_ character **Yoru's** ultimate ability, Dimensional Travel, not to be confused with the Legendary Bell, "Dimensional Travel" (hence its nickname: **"Yoru").**
 -   Trying to use this bell while carrying a player (without it being corrupted) will drop the player.
+-   Although the resonance points can be used to hide footprints, it's useless if you have low graphics mode on, which hides your character's footprints.
 -   The Eternal Gale's slowness effect in [Layer 2](Second_Layer.md) can be negated by using the **Portal**, but the wind **may sometimes push you off**, so be cautious when using it.
 -   If you somehow take damage/get assassinated during, it forces you out of the portal.
 -   This Resonance can be used to clip through walls[\[1\]](#cite-note-1), and by extention, exit the boundaries of [Guild Bases](Guild_Bases.md).[\[2\]](#cite-note-2)
