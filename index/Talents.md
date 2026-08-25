@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227583
+revid: 227587
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -8509,12 +8509,12 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   **Brunt**: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
         
-    -   Tags: \[Common Talent • \] \[Outfit\] \[Posture Resistance\]
+    -   Tags: \[Common Talent • Miscellaneous\] \[Outfit\] \[Posture Resistance\]
 
 -   **Brunt**: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
         
-    -   Tags: \[Common Talent • \] \[Outfit\] \[Posture Resistance\]
+    -   Tags: \[Common Talent • Miscellaneous\] \[Outfit\] \[Posture Resistance\]
 
 -   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     -   Deals 35 Blunt damage with 20 Posture damage.

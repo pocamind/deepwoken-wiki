@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 227535
+revid: 227589
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -61,12 +61,12 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### Deepwoken
 
--   Those that have merged with a small fragment of a [Drowned God](#the-drowned-gods), ageless immortals that understand the [Song](#the-song) in ways others cannot.
+-   Those that have merged with a small fragment of a [Drowned God](#the-drowned-gods), ageless [immortals](#immortality) that understand the [Song](#the-song) in ways others cannot.
 -   Where Deepwoken tread, carnage follows. Theirs is not an enviable existence, for everything crumbles beneath them. Only they persist.
 -   Amorus [Pleeksty](#amorus-pleeksty) is a known Deepwoken, having taken on a flower of [Korilfiend](#korilfiend-the-infernos-provenance).
 -   Many believe that the First Prophet of the Ministry may be a Deepwoken.
 
-Dialogue: [Jeremiah](Jeremiah.md) when giving a [Deepwoken Hood](Deepwoken_Hood.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty)
+Dialogue: [Jeremiah](Jeremiah.md) when giving a [Deepwoken Hood](Deepwoken_Hood.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Immortality](#immortality)
 
 ### The Drowned Gods
 
@@ -322,7 +322,7 @@ Dialogue: | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glossary Entries:
 
 ### Amorus Pleeksty
 
--   Known as the Pioneer of [Flamecharming](#flamecharm), Pleeksty developed the art of controlling flames through the [Song](#the-song) into an artform. Since then, [Flamecharm](#flamecharm) has become one of the primary attunements in use.
+-   Known as the Pioneer of [Flamecharming](#flamecharm), Pleeksty developed the art of controlling flames through the [Song](#the-song) into an artform. Since then, [Flamecharm](#flamecharm) has become one of the primary [attunement](#attunement)s in use.
 -   Pleeksty is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance), becoming a [Deepwoken](#deepwoken).
 
 Dialogue: [Aska](Aska.md), [Laplace](Laplace.md) if the player has a [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) equipped, [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
@@ -357,11 +357,11 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if the player has a [Soulthorn](S
 
 ### Attunement
 
--   Attunements are passages of the Song that have become so firmly woven into its tapestry as to be spread naturally without the need of an Oath.
+-   [Attunement](#attunement)s are passages of the [Song](#the-song) that have become so firmly woven into its tapestry as to be spread naturally without the need of an [Oath](#oaths).
 -   Many will learn the attunement they are exposed to the most in a manner not unlike picking up a language. As such, many adopt the attunements and styles of those who raised them.
 -   While attunements can take years to acquire through osmosis, some methods exist to rapidly attune to one. A common practice is for one particularly adept with an attunement to imprint themselves on objects that evoke the concepts behind the attunement, and to then produce a suspended concoction for the student to ingest. While a convenient shortcut, the side effects can be unpleasant.
 
-Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm)
+Dialogue: | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Attunement](#attunement), [Flamecharm](#flamecharm)
 
 ### Bloodrend
 
@@ -741,7 +741,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if the player has a [Kyrsieger](K
 -   In spite of mankind's attempts to apply structure, logic, and order to the Depths, Layers are not strictly ordered in the manner they are described. One may conceivably travel to the [Third Layer](#the-vents-the-third-layer) without ever passing through the First or [Second Layers](#the-eternal-gale-the-second-layer). This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the [Drowning](#the-drowning).
 
-Dialogue: [Akira](Akira.md), [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), [Kaide](Kaide,_the_Drowned_Light.md), [Karliah](Karliah.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Lament of Cirryn](Lament_of_Cirryn.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowning](#the-drowning), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Drowned Gods](#the-drowned-gods), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
+Dialogue: [Akira](Akira.md), [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), [Kaide](Kaide,_the_Drowned_Light.md), [Karliah](Karliah.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Lament of Cirryn](Lament_of_Cirryn.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Immortality](#immortality), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowning](#the-drowning), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Drowned Gods](#the-drowned-gods), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
 
 ### Driftlands
 
