@@ -1,6 +1,6 @@
 ---
 title: Talents/Vow of Iron
-revid: 227269
+revid: 227576
 source: https://deepwoken.fandom.com/wiki/Talents/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1745,7 +1745,7 @@ Talents granted from your [Aspect](../Aspects.md). These Talents are listed in t
 
 These Talents will automatically be given to you upon equipping specific [weapons](../Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order.
 
-Memento-tagged weapon Talents are only usable on the listed Mementos, largely due to stat and the "allowed weapon types" restrictions. Some Talents listed may not be usable on any Memento, but are technically obtainable in the gamemode. These Talents are given the \[Incompatible Gamemode\] tag.
+Some Talents listed may not be usable on any Memento, but are technically obtainable in the gamemode. These Talents are given the \[Incompatible Gamemode\] tag.
 
 -   Assassin's Strike: [Silver Dagger](../Silver_Dagger.md) - Your [Rapid Slashes](../Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
@@ -1778,7 +1778,12 @@ Memento-tagged weapon Talents are only usable on the listed Mementos, largely du
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
     -   Adds a new sound effect to Prominence Draw.
 
--   Bulwark Breaker: [Steel Maul](../Steel_Maul.md) & [Saint Jay's Hammer](<../Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](../Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
+-   Both Ends: All [Staves](../Staves.md) - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
+    -   This attack comes out much faster, but only deals 45% of your weapon damage.
+    -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](../Enchantments.md) effects.
+    -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](../Talents.md#counter-spin).
+
+-   Bulwark Breaker: [Steel Maul](../Steel_Maul.md), [Alloyed Steel Maul](../Steel_Maul.md) & [Saint Jay's Hammer](<../Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](../Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
     
     -   The final hit of your Pressure Blast gains 3x posture damage, going from 12 to 36 posture damage.
         -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
@@ -2296,14 +2301,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   **Enforcer's Technique**: [Hardened Enforcer Boots](../Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](../Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
     
-    -   Does not work on [Execution](../Talents.md#execution)'s offhand shots.  
-        
     -   Tags: \[Common Talent • \] \[Equipment\] \[Damage Buff\] \[Flourish\]
 
 -   **Enforcer's Technique**: [Hardened Enforcer Boots](../Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](../Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
     
-    -   Does not work on [Execution](../Talents.md#execution)'s offhand shots.  
-        
     -   Tags: \[Common Talent • \] \[Equipment\] \[Damage Buff\] \[Flourish\]
 
 -   **Ether Adeptness**: [Ether Empowered Earrings](../Ether_Empowered_Earrings.md) & [Caster Earrings](../Caster_Earrings.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra chip.
@@ -2828,12 +2829,18 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Some Mantras, like [Mecha Gatling](../Monster_Mantras.md#mecha-gatling), can build up stacks for this.
     -   If you have the wind shield active and a Talent that allows you to parry unparryable monster attacks, such as Force Your Way or Diver's Resilience, you will autoparry them.
 
+-   Wind Step: [Gale Boots](../Gale_Boots.md) - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
+    -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
+    -   While in combat, this ability cost Ether to use.
+    -   Jump while sliding down a slope to perform a gale leap that propels you forwards.
+
 -   Withering Soul: [Darkened Bastion](../Darkened_Bastion.md) - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](../Deepspindle.md) or [Umbrite Witherblade](../Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
 
 -   Wind Dancer: [Windrunner Robes](../Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
     -   Grants a 10% speed boost for 12 seconds.
     -   10 second cooldown.
+    -   Note: This Talent is obtainable from non-Equipment sources in [Pathfinder](../Pathfinder.md).
 
 -   Winter's Protection: [Winter Corps Parka](../Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Increases the time it takes for the [Second Layer](../Second_Layer.md)'s parasites to kill you.

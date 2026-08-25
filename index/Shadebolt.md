@@ -1,6 +1,6 @@
 ---
 title: Shadebolt
-revid: 221747
+revid: 227555
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
@@ -31,7 +31,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Doom of Caeranthil, Interluminary Parasol, The Diluvian Mechanism, The Understrand, Chaser, Scholar of the Crimson Contract, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale |
+| obtainment | The Doom of Caeranthil, Interluminary Parasol, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Diluvian Mechanism, The Understrand, Chaser, Scholar of the Crimson Contract, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale |
 | description | Bow of an ancient deep dwelling Ganymede Nomad. Through taboo rites, Umbrite was bent to their will, shaped into tools that seemed almost alive. Some named the figure Shaman, others never learned a name at all. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Reinforced Authority Plate
-revid: 222454
+revid: 227549
 source: https://deepwoken.fandom.com/wiki/Reinforced_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents, Equipment of The Central Authority]
@@ -34,7 +34,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Reinforced Authority Plate is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Clutch](Talents.md#clutch) Talent grants 4% posture damage resistance for every combat tag you have. The [Heavy Haul](Talents.md#heavy-haul) Talent slows down enemies when they carry your knocked body.
+The [Clutch](Talents.md#clutch) Talent grants 4% posture damage resistance for every combat tag you have. The [Heavy Haul](Talents.md#heavy-haul) Talent slows down enemies when they carry your [Unconscious](Status_Effects.md#unconscious) body, and reduces the posture damage taken from large PvE enemies.
 
 ## Trivia
 

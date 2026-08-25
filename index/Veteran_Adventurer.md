@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 223282
+revid: 227557
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Expert Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -41,7 +41,7 @@ This Outfit has 1500 durability and grants +15% Physical resistance ResistancePh
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical ResistancePhysical, 19.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 19.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 15% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Foolish Outburst](Talents.md#foolish-outburst) Talent absorbs the [Tempo](Combat_Mechanics.md#tempo) cost of a [Vent](Combat_Mechanics.md#tempo) should the wearer block or parry it.
+The [Foolish Outburst](Talents.md#foolish-outburst) Talent absorbs the [Tempo](Combat_Mechanics.md#tempo) cost of a [Vent](Combat_Mechanics.md#tempo) should the wearer block or parry it. This absorbs 20% of a Vent's Tempo cost at ≤20 Intelligence, scaling up to 40% at ≥50 Intelligence.
 
 ## Trivia
 

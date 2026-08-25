@@ -1,6 +1,6 @@
 ---
 title: Blue Gem
-revid: 226566
+revid: 227565
 source: https://deepwoken.fandom.com/wiki/Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -19,7 +19,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It oozes Ether.Reduces the total Ether cost of a Mantra by 25%. |
-| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, Dread Serpent, Lodestar Bounty job, First Layer, Sea Events, Fishing, Cinders of Etris, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, Dread Serpent, Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Cinders of Etris, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
 
 ## Description
 

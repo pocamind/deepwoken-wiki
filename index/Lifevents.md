@@ -1,6 +1,6 @@
 ---
 title: Lifevents
-revid: 221902
+revid: 227582
 source: https://deepwoken.fandom.com/wiki/Lifevents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -21,6 +21,8 @@ Lifevents, commonly referred to as Jump Pads, are stationary structures that are
 A lifevent can be used simply by walking or jumping on top of one. If the user is lifted through this, they will not take any fall damage.
 
 While falling, a user can land below a jump pad and gain an upward boost.
+
+You cannot use Lifevents in combat
 
 ## Trivia
 

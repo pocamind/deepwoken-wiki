@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Codex"
-revid: 226630
+revid: 227553
 source: https://deepwoken.fandom.com/wiki/Shiva's_Codex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -11,7 +11,7 @@ categories: [Items, Ingredients]
 | Shiva's Codex | |
 |---|---|
 | value | N/A |
-| stack | x? |
+| stack | x20 |
 | type | Ingredient |
 | rarity | Unique |
 | usage | Crafting material |
@@ -19,7 +19,7 @@ categories: [Items, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | A manuscript scant in information on methods to further reinforce armor with Ether. Only a select few pages are legible. |
-| obtainment | Battle Royale (5 Points/Victory), War Mode (rare drop), Weird Trader, Sold in Traan Zakshun's black market for 7 |
+| obtainment | Battle Royale (5 Points/Victory), War Mode (rare drop), Weird Trader, Sold in Traan Zakshun's black market for 7 , Jeremiah |
 
 ## Description
 

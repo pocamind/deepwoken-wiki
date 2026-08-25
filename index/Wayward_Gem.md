@@ -1,6 +1,6 @@
 ---
 title: Wayward Gem
-revid: 220490
+revid: 227567
 source: https://deepwoken.fandom.com/wiki/Wayward_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -19,7 +19,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It's phasing in and out of existence...On hit, activate Wayward Warp and teleport to your opponent after a 1s delay. (8s CD) |
-| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, Lodestar Bounty job, First Layer, Sea Events, Fishing, Cinders of Etris, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Cinders of Etris, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
 
 ## Description
 

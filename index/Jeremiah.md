@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 227532
+revid: 227551
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -148,4 +148,4 @@ Potential Rewards
 ## Trivia
 
 -   Jeremiah is able to give the player all of the Attribute rings besides the [Rosen's Ring](<Rosen's_Ring.md>).
--   Jeremiah does not have any special interactions when given Unique Gems, such as the [Aegis Gem](Aegis_Gem.md), [Wrath Gem](Wrath_Gem.md), or [Might Gem](Might_Gem.md), making it more worthw hile to give him regular [Deep Gems](Deep_Gems.md) instead.
+-   Jeremiah does not have any special interactions when given Unique Gems, making it more worthwhile to give him regular [Deep Gems](Deep_Gems.md) instead. This includes the [Aegis Gem](Aegis_Gem.md), [Wrath Gem](Wrath_Gem.md), [Might Gem](Might_Gem.md), [Nocturnal Gem](Nocturnal_Gem.md), or [Warped Blue Gem](Warped_Blue_Gem.md)
