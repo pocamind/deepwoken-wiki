@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 222719
+revid: 227598
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Weapons with Talents, Greatswords, Heavy Weapons, Weapons of The Central Authority]
@@ -53,7 +53,7 @@ Equipping the Inquisitor's Greatsword grants its unique [weapon Talent](Talents.
 -   [Curse of the Unbidden](Curse_of_the_Unbidden.md) has its posture restoration increased by **10%**, restoring 40% of your posture on successful counter instead of the usual 30%.
 -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
 -   As mentioned previously, [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer) **do not** have any affect with this Talent.
--   [**Sovereign's Counter**](Talents.md#sovereigns-counter) received a buff on 15/5/26, and hasn't been retested yet, so the values shown above are slightly inaccurate.
+-   [**Sovereign's Counter**](Talents.md#sovereigns-counter) received a buff on 15/5/26, but the buff had not changed anything and seemed to have never been pushed to the game.
 
 ## Critical
 

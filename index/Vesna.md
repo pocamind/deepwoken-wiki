@@ -1,6 +1,6 @@
 ---
 title: Vesna
-revid: 224989
+revid: 227599
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, Vendors, NPCs, Humanoids with Unobtainable Outfits]
@@ -65,7 +65,7 @@ Vesna's Wares
 <tr>
   <td colspan="2">very good...... now you can be fancy... elegant gothic, like me......</td>
   <td colspan="2">Could you remove some of my dyes?</td>
-  <td colspan="2">?..... <i>*Their mask, doused heavily in eye shadow and mascara, glimmers in the light reflected from their conspicuously luminous crown. They hang onto your every word, swaying like a leaf in Ardfall - as though the slightest gust of wind could blow them away.*</i></td>
+  <td colspan="2">?..... <i>*Their mask, doused heavily in eye shadow and mascara, glimmers in the light reflected from their conspicuously luminous crown. They hang onto your every word, swaying like a leaf in <a href="Glossary.md#span">Ardfall</a> - as though the slightest gust of wind could blow them away.*</i></td>
 </tr>
 <tr>
   <td colspan="2">Your fashion sense is...</td>
