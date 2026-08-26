@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 225122
+revid: 227660
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -203,3 +203,4 @@ Exhaustive Loot Table
 ## Trivia
 
 -   Ragoozer accidentally leaked the existence of the parasol shortly after the release of Verse 2. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.
+-   Before being moved to a instanced server it used to be able to summon only [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Nautilodaunt](Nautilodaunt.md) and the [Void Thresher](Thresher.md) akin to [Parasol's Blight](<Parasol's_Blight.md>) with the exception of the [Prime Megalodaunt](Prime_Megalodaunt.md).

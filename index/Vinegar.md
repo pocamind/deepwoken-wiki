@@ -1,11 +1,9 @@
 ---
 title: Vinegar
-revid: 227646
+revid: 227653
 source: https://deepwoken.fandom.com/wiki/Vinegar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pathfinder Exclusive, Items]
 ---
 
 # Vinegar
@@ -17,8 +15,8 @@ notices:
 | stack | x99 |
 | type | Treasure |
 | rarity | Common |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | Double-fermented! Woohoo! |
 
@@ -26,8 +24,10 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-  
-
 ## Description
 
-Vinegar is an item that can only be bought from [Greathive Aratel](Greathive_Aratel.md).
+Vinegar is an item that can only be bought from [Greathive Aratel](Greathive_Aratel.md) for 5.
+
+## Trivia
+
+-   Shares the same model as the [Etris Flask](Etris_Flask.md).

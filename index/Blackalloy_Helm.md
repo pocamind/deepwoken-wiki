@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 227307
+revid: 227682
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,10 +40,10 @@ Variants: [Pauldrons](Blackalloy_Pauldrons.md)
 
 The Blackalloy Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
+The [Sloped Plate](Talents/Vow_of_Iron.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
 
 ## Set Bonus
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
+Set Talent [Captain's Call](Talents/Vow_of_Iron.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].

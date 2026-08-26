@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 223693
+revid: 227654
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Divers]
@@ -43,10 +43,6 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 ## Description
 
 The **Hailbreaker** is a [Greatsword](Greatswords.md) that scales with Frostdraw; it's a dark carbon fiber patterned blade with sharp edges and a slightly lighter-colored trim along the blade's length. The hilt has a futuristic appearance, incorporating glowing cyan accents, which enhance its high-tech aesthetic. It is only obtainable from [Coldheart Fortinbras](Coldheart_Fortinbras.md).
-
-This weapon comes with the following passive:
-
--   **Ingenious Invention** - The Hailbreaker's blade changes after a critical attack is used, signifying its advancement to the next stage There are three stages in total, with the final stage being enhanced.
 
 ## Critical
 
