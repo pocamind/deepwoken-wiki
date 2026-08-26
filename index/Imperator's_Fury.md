@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 225778
+revid: 227763
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
@@ -38,8 +38,7 @@ This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md
 -   The damage Brute Strength deals cannot be increased with damage modifiers.
     -   [Cold Front](Talents.md#cold-front) and [Dark Pearls](Dark_Pearls.md) still apply however.
 -   Affected by general PEN, such as [Strength](Attributes.md#str) investment, [Prophet's Cloak](<Prophet's_Cloak.md>), or having an [Oath](Oaths.md).
--   This item's previously used the Warmaster's Medallion model before receiving its own unique model.
+-   This item's previously used the [Warmaster's Medallion](<Warmaster's_Medallion.md>) model before receiving its own unique model.
 -   This ability is used by [Titus](Titus_Fulminus_Destellus.md).
--   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after items.
--   Despite being a "Common" rarity item, it is estimated to have about a 0.1% droprate and still costs Knowledge to unbank.
+-   Despite being a "Common" rarity item, it still costs Knowledge to unbank.
 -   Due to a bug or oversight, Imperator's Fury was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relics.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.
