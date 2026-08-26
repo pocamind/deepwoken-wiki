@@ -1,6 +1,6 @@
 ---
 title: Burning Stone Gardens
-revid: 194790
+revid: 227638
 source: https://deepwoken.fandom.com/wiki/Burning_Stone_Gardens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]

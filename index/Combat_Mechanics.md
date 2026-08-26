@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 226588
+revid: 227632
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -518,6 +518,7 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
 -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): A Toll of the Bell
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Crossrend Cryocleave, Snowgrave, Splintering Thrust
+-   [Parliament](Parliament.md): Overhead Grab, Shade Cloak, Strong Swipe
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab, Kick, Rock Throw
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Commander's Whirlthrow, M1's (second phase), Splitting Ascension, Sovereign Drive
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bone Stream

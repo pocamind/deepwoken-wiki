@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 227589
+revid: 227601
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -637,7 +637,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries:
 -   The period of history following the [Canticlysm](#the-canticlysm) in which technology and knowledge rapidly dwindled, ushering in a dark period of history in which little is recorded.
 -   Pushed to the very peaks of the world, mankind died in its droves to famine, conflict, and the horrors of the [Depths](#depths) that emerged with the [Tides](#the-tides).
 
-Dialogue: | Books: [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [The Aftertide / New World](#the-aftertide--new-world)
+Dialogue: | Books: [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [Span](#span), [The Aftertide / New World](#the-aftertide--new-world)
 
 ## Phenomena
 
@@ -681,7 +681,7 @@ Dialogue: | Books: | Glossary Entries: [Deepwoken](#deepwoken)
 -   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#depths) below.
 
-Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raphael](Raphael.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Aftertide / New World](#the-aftertide--new-world), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
+Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raphael](Raphael.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Span](#span), [The Aftertide / New World](#the-aftertide--new-world), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
 
 ## Places
 
@@ -805,7 +805,7 @@ Dialogue: [Hiri](Hiri.md), [Marro](Marro.md), [Nimea](Nimea.md), [Ottilde](Ottil
 -   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast clouds of [Voidfog](#the-voidfog).
 
-Dialogue: [Adrofalis](Adrofalis.md), [Armourer Kev](Armourer_Kev.md), [Chef Buongustino](Chef_Buongustino.md), [Chud Steel](Chud_Steel.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Ignacio](Ignacio.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Merryweather](Merryweather.md), [Mote](Mote.md), [The Dreadstar](The_Dreadstar.md), [Tillian](Tillian.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
+Dialogue: [Adrofalis](Adrofalis.md), [Armourer Kev](Armourer_Kev.md), [Chef Buongustino](Chef_Buongustino.md), [Chud Steel](Chud_Steel.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Ignacio](Ignacio.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Merryweather](Merryweather.md), [Mote](Mote.md), [The Dreadstar](The_Dreadstar.md), [Tillian](Tillian.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [Span](#span), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
 
 ### The Luminants
 
@@ -919,6 +919,15 @@ Dialogue: [Cestis](Cestis.md), [Chud Steel](Chud_Steel.md) | Books: | Glossary E
 -   ['Aecta'](#the-moonlit-dialect) (plural 'Aecti') refers to a Chrysid who lives natively within the [Lullaby Isles](#the-lullaby-isles).
 
 Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) players' name with the surname "Aecta" or "Aecti" | Books: [Ossuary Maintenance](Ossuary_Maintenance.md), [Strange Missives](Strange_Missives.md) | Glossary Entries:
+
+-   A unit of timekeeping used ubiquitously in Lumen. It is equivalent to 45 or 46 days, depending on the span in question.
+-   [Hearthspan](#hearthspan), [Seedspan](#seedspan), [Bloomfall](#bloomfall), [Scythespan](#scythespan), and [Saltspan](#saltspan) each have 46 days, while [Rootwatch](#rootwatch), [Ardfall](#ardfall), and [Rimefall](#rimefall) have 45.
+-   Scholarly consensus holds that the spans we know originated from a timekeeping system known as [Aftertally](#aftertally), thought to have been devised during the [Shallows](#shallows). Many believe that [Aftertally](#aftertally) itself was a revision of [Old World calendars](#old-world-calendars) to better match the fundamentally different cycles of nature and life in [Lumen](#lumen) after the [Tides](#tides).
+-   The [Citadel](#citadel) Reckoning - the most commonly used system of timekeeping in [Lumen](#lumen), - also uses spans as a unit of time.
+-   A single year in [Lumen](#lumen) lasts 8 spans, tallying up to a total of 365 days.
+-   Found by coasts, the succulent Spanphire plant, when harvested, is thought to only regrow once a full span has passed. Folk superstition maintains that it should not be harvested on any day but the first of a span. Presumably, this is to not mislead others.
+
+Dialogue: [Vesna](Vesna.md) | Books: | Glossary Entries: [Span](#span)
 
 ### Talent
 

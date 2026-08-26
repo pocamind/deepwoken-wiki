@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 227310
+revid: 227643
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -162,7 +162,7 @@ Blunt ResistanceBlunt
 
 **Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper](Bone_Keeper.md)'s '**Femur Throw'** attack._
 
--   Deals about 100 damage.
+-   Has a base of about 100 damage.
     -   Landing direct hits with this Mantra deals less damage than landing the AoE.
 -   Applies HEAVY posture damage, almost always guardbreaking.
 -   Grants hyperarmor during startup.

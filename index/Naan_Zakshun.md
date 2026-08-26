@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 223679
+revid: 227635
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, NPCs located in the First Layer, Circle of Honour members]
@@ -202,6 +202,7 @@ Naan's item descriptions will change randomly each time they hit their hourly ro
 -   _Wowie... You gonna buy it?_
 -   _Yikes, I'm not sure if you can afford the majesty that is this item._
 -   _You got any Ongos? My grandson keeps badgering me for them._
+-   _You got some flint?_
 -   _You know any good smiths? I need my Pernarch polished, this thing is actually disgustingly dirty right now and I'm leaning on it all day every day, send help._
 -   _You seen Hotdog anywhere?_
 -   _Y'know, there was a study within Markor about how our minds form Vows, I'm not one of these smart guys but it sounds like if you will something it comes true right? Sooooo I should be able to like VOW to have YOU buy THIS THING then huh? You don't want me to cast my evil VOW on you HUH? BUYYYY ITTTT!!!!!!!!!!!_
@@ -315,7 +316,7 @@ Naan's item descriptions will change randomly each time they sell goods from the
 -   _Oh, the sticker price is actually a bit cheaper than it's supposed to be, whatever~ call it a flash sale!_
 -   _Oh, this one's almost certainly cursed. Like, no joke._
 -   _One of the items of all time._
--   _Only look if you wanna buy, Okay?_
+-   _Only look if you wanna buy, okay?_
 -   _THAT'S IT. FOR THE LAST TIME. IT DOESN'T COME IN PURPLE!_
 -   _The grandson keeps talking about us doing mystery boxes..._
 -   _This is one of my favourites!_

@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 226917
+revid: 227609
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | A cruder form of the famed Pluripotent Alloy, this fusion of rare metals is still renowned for its ability to draw out hidden strength in weapons. |
-| obtainment | Duke Ishamon Erisia, The Ferryman, Primadon's Gem Chest, Elder Primadon, The Titan Warlord, Fishing, Cinders of Etris, The Diluvian Mechanism, Heart of Enmity, War Mode, The Doom of Caeranthil, Bounties, Saramaed Hollow, Titus Fulminus Destellus, Hollow Forge, Lysander Spellhardt, Deep Widow, Diver Expedition Sea Event, Carnival of Hearts, Weird Trader, Sold in Traan Zakshun's black market for 3 |
+| obtainment | Duke Ishamon Erisia, The Ferryman, Primadon, Elder Primadon, The Titan Warlord, Fishing, Cinders of Etris, The Diluvian Mechanism, Heart of Enmity, War Mode, The Doom of Caeranthil, Bounties, Saramaed Hollow, Titus Fulminus Destellus, Jeremiah, Hollow Forge, Lysander Spellhardt, Deep Widow, Diver Expedition Sea Event, Carnival of Hearts, Weird Trader, Sold in Traan Zakshun's black market for 3 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

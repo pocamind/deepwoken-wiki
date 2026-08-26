@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 219095
+revid: 227608
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -167,7 +167,7 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
 -   To begin this quest, you must have at least ally [Reputation](Reputation.md) with Etrea. This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) random event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If already above neutral reputation, you can simply buy wood from the [Blacksmith](Blacksmith.md) and hand it to the [Korin](Korin.md) for a fast way to get reputation.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to [Kennith](Kennith.md). Kennith is an Etrean Guard and is located next to a bridge near the [Etris Palace](Etris_Palace.md).
 -   [Kennith](Kennith.md) will ask you to talk to the locals of Etris about [The Lord Regent](The_Lord_Regent.md)'s reputation as a ruler.
--   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) in the library.
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) in the library. (Note you have to talk to him twice)
 -   After speaking with [Bookkeeper Andros](Bookkeeper_Andros.md), head to the Etris Docks and take a right, staying close to the wall. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) as opposed to the one at the death scene of [Kennith](Kennith.md) you must sneak up on them or they will aggro on you)
 -   Make sure you talk to the [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) to tell them that the the Lord Regent is expecting you, making them docile unless provoked.
 -   Heading upstairs, speak with the Lord Regent, making sure not to stay too close to his throne. He will hire you into doing his bidding of obtaining the artifact known as the "Forge of Sin" in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) in [Upper Erisia](Upper_Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.

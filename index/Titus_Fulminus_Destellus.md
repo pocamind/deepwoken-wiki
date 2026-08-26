@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 227157
+revid: 227603
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -352,7 +352,7 @@ Avoid
 
 ## Tips and Strategies
 
--   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before even having a chance to deal enough damage to receive a healing orb. They also do not respawn, so this is a one-time opportunity.
+-   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before even having a chance to deal enough damage to receive a health pack. They also do not respawn, so this is a one-time opportunity.
 -   **Second Phase Transition Healing**: During the brief dialogue sequence as Titus transitions into his second phase, there is a small window that can be used to place a campfire down and recover health.
 -   **Vampirism Enchantment**: An enchanted weapon with **Vampirism** is highly effective in this fight. This is because it grants temporary health rather than an outright heal, which allows the effects of **Blightsurge Wither** to be bypassed.
 -   **Evading Chorus Divide**: Titus' **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.

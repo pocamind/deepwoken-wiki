@@ -1,6 +1,6 @@
 ---
 title: Vinegar
-revid: 227534
+revid: 227646
 source: https://deepwoken.fandom.com/wiki/Vinegar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Items]

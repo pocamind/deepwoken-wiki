@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 225108
+revid: 227618
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | Deep Widow | |
 |---|---|
-| health | 630015750 (Corrupted) |
+| health | 630018,800 (Corrupted) |
 | attacks | Deep Webbing, Venomous Bite, Swipe, Impale, Articulated Thrash |
 | drops | Arachnid's Weave, Aratel Island Chest, Smith's Alloy |
 | locations | Starswept Valley, The Depths |

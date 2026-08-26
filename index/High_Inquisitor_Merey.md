@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 224796
+revid: 227640
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -350,41 +350,190 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td colspan="324">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
+  <td colspan="324"><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
 </tr>
 <tr>
-  <td colspan="12">Sentinel Agustus requested me to pass you a message, ma'am.</td>
+  <td colspan="324">Sentinel Agustus requested me to pass you a message, ma'am.</td>
 </tr>
 <tr>
-  <td colspan="12">*The High Inquisitor's typically inscrutable demeanour betrays a tinge of disappointment.*Is that so,[Last Name]?Most curious.Let me guess...He requests to participate in the next interrogation of General Titus Fulminus Destellus. Did i guess correctly?</td>
+  <td colspan="324">*The High Inquisitor's typically inscrutable demeanour betrays a tinge of disappointment.*Is that so, [Last Name]? Most curious. Let me guess... He requests to participate in the next interrogation of General Titus Fulminus Destellus. Did I guess correctly?</td>
 </tr>
 <tr>
-  <td colspan="12">...Uncannily so, ma'am. How did you know?</td>
+  <td colspan="324">...Uncannily so, ma'am. How did you know?</td>
 </tr>
 <tr>
-  <td colspan="12">*The High Inquisitor demonstratively brushes off her shoulder. *All in a day's work, [Last name]. Gathering intel is what an Inquisitor does. *She laughs. Just for a split second, it's like she's another person entirely, before she returns to her stern self. * Of course, I jest. You are not the first Inquisitor he's sent my way with this request.</td>
+  <td colspan="324">*The High Inquisitor demonstratively brushes off her shoulder. *All in a day's work, [Last name]. Gathering intel is what an Inquisitor does. *She laughs. Just for a split second, it's like she's another person entirely, before she returns to her stern self. * Of course, I jest. You are not the first Inquisitor he's sent my way with this request.</td>
 </tr>
 <tr>
-  <td colspan="12">If I may ask - who is this 'General Destellus'?</td>
+  <td colspan="324">If I may ask - who is this 'General Destellus'?</td>
 </tr>
 <tr>
-  <td colspan="12">*She leans back against the wall.*I suppose you're due for an intel briefing, [Last name]. General Titus Fulminus Destellus of the Hundred Legion, commander of the 49th Legion, is currently a prisoner in the Merit Detainment Core. Everything about his case seems unusual. Every circumstance surrounding his capture just raises more questions... Tell you what let's make this a deduction exercise. Where should I start?</td>
+  <td colspan="324">*She leans back against the wall.*I suppose you're due for an intel briefing, [Last name]. General Titus Fulminus Destellus of the Hundred Legion, commander of the 49th Legion, is currently a prisoner in the Merit Detainment Core. Everything about his case seems unusual. Every circumstance surrounding his capture just raises more questions... Tell you what let's make this a deduction exercise. Where should I start?</td>
 </tr>
 <tr>
-  <td colspan="4">What were the circumstances of his capture?</td>
-  <td colspan="4">I assume he was interogated - what did that yield</td>
-  <td colspan="4">He seems valuable - have the Hundred Legions asked for his return?</td>
+  <td colspan="108">What were the circumstances of his capture?</td>
+  <td colspan="108">I assume he was interogated - what did that yield</td>
+  <td colspan="108">He seems valuable - have the Hundred Legions asked for his return?</td>
 </tr>
 <tr>
-  <td colspan="4">*The High Inquisitor thinks for a moment. * He was captured by a detachment led by Sentinel Augustus in Aratel. They were en route to a separate mission when they encountered General Destellus, with a small detachment of Legion Shock Troopers. The man is known for emerging victorious even against overwhelming odds. yet he was captured in a stray skirmish by a relatively small number of our own soldiers. What next?</td>
-  <td colspan="4">*Disappointment flashes across Merey's face as she frowns. *Not much, unfortunately. He's rather physically and mentally resilient. Conditions were further complicated by the subject's natural resistance to our traditional methods of a electrical shocks to the cerebrum - something to do with the martial techniques he has mastered. In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods.</td>
-  <td colspan="4">*The High Inquisitor thumbs her chin contemplatively. *They have not. The Legions inquired on whether Destellus is alive and in our custody, but did not attempt to negotiate a prisoner exchange. Although, recent events suggest they may be engaging in acts of subterfuge concerning the prisoner. A recent commotion in the Detainment Core was linked to Legion espionage. The circumstances are still under investigation.</td>
+  <td colspan="108">*The High Inquisitor thinks for a moment. * He was captured by a detachment led by Sentinel Augustus in Aratel. They were en route to a separate mission when they encountered General Destellus, with a small detachment of Legion Shock Troopers. The man is known for emerging victorious even against overwhelming odds. yet he was captured in a stray skirmish by a relatively small number of our own soldiers. What next?</td>
+  <td colspan="108">*Disappointment flashes across Merey's face as she frowns. *Not much, unfortunately. He's rather physically and mentally resilient. Conditions were further complicated by the subject's natural resistance to our traditional methods of a electrical shocks to the cerebrum - something to do with the martial techniques he has mastered. In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods.</td>
+  <td colspan="108">*The High Inquisitor thumbs her chin contemplatively. *They have not. The Legions inquired on whether Destellus is alive and in our custody, but did not attempt to negotiate a prisoner exchange. Although, recent events suggest they may be engaging in acts of subterfuge concerning the prisoner. A recent commotion in the Detainment Core was linked to Legion espionage. The circumstances are still under investigation.</td>
 </tr>
 <tr>
-  <td colspan="12">WIP</td>
+  <td colspan="36">I assume he was interogated - what did that yield?</td>
+  <td colspan="36">He seems valuable - have the Hundred Legions asked for his return?</td>
+  <td colspan="36">I think I'm ready to form a conclusion, ma'am.</td>
+  <td colspan="108">And what of his soldiers? Were they interrogated?</td>
+  <td colspan="108">What was the commotion?</td>
+</tr>
+<tr>
+  <td colspan="72">[See first instance]</td>
+  <td colspan="36"><i>*You can tell the High Inquisitor is watching you intently from under her visor.*</i> Is that so? Very well. Let's see how much you've learned so far as an Inquisitor. So, [Last Name], tell me -what conclusion can you make regarding the General Destellus affair, given the information you learned?</td>
+  <td colspan="108"><i>*The High Inquisitor turns her head to the side.*</i> They were resilient, too. Only, too resilient. More intense interrogation methods only resulted in their bodies giving out. They perished before we yielded any useful information out of them. Unfortunately, only General Fulminus remains in our possession now. Besides all that, his own interrogations get... complicated... by Sentinel Augustus.</td>
+  <td colspan="108"><i>*Merey furrows her brow slightly*</i> A suspected agent of the Hundred Legions infiltrated Fort Merit and the Detainment Core in stealth. They dispatched a number of guards, disabled most of our defense systems, and freed all of the prisoners and General Destellus from their cells. Nobody's sure what happened next, but reports indicate combat, and that the prisoner and the infiltrator fought each other for an unknown reason.</td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12">I think he was simply caught out of strategic position on the field.</td>
+  <td colspan="12">I think he may have been sabotaged.</td>
+  <td colspan="12">I think he may have let himself get captured on purpose.</td>
+  <td colspan="108">Complicated how?</td>
+  <td colspan="108">They *fought*?</td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12"><i>*The High Inquisitor's lips curl into an icy smirk.*</i> Those are your conclusions? Not quite what I would have made of the pieces. But let's follow that chain of thought. Sure, he was encountered by chance, and outnumbered. His troops weren't in the best shape. But General Destellus had decimated greater, stronger Shock Corps units singlehandedly in the past. Even with Sentinel Augustus at the helm, it should have been a much costlier encounter. Yet, it wasn't. Why do you think that is?</td>
+  <td colspan="12"><i>*The High Inquisitor leans forward a little, her interest clearly piqued.*</i> Now that's an interesting theory. Let's follow that chain of thought, shall we, [Last Name]? Destellus was caught out of position, had few soldiers and supplies, and was outmaneuvered. If the circumstances of the encounter were sabotage, it was certainly not our work. Who else might seek the downfall of General Destellus in Aratel?</td>
+  <td colspan="12"><i>*Perhaps for the first time, you see Merey show you a genuine smile.*</i> You've sharp mind, [Last Name]. It certainly seems like a distinct possibility, doesn't it? The Hundred Legions let their strongest commander surrender, knowing we wouldn't just execute a high value captive like him. They'd have known his resistance to interrogation techniques would yield us no results. Their agent then infiltrates the Detainment Core, frees Titus, and lets him wreak havoc, destabilizing us... But!</td>
+  <td colspan="108"><i>*Her face betrays a mixture of amusement and vexation.*</i> ...The Sentinel claims that 'shocking the prisoner harder' will yield results, andhe insists on fighting Destellus, prattling on about a 'rematch'. It's entertaining, in its own way. But General Destellus is too valuable to lose in a botched interrogation. It also puzzles me as to why he would want a 'rematch' if he already bested him in combat. What next?</td>
+  <td colspan="108"><i>*She nods, a glint of light catching her visor.*</i> We do not know the details. But the infiltrator ultimately escaped, leaving Destellus behind. Infact, the General was recaptured quite easily, offering practically no resistance. Following these events, the Detainment Core was left heavily damaged, necessitating intense repair works. Interrogating the prisoner further shed no additional light on this matter. What next?</td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="6">Perhaps our troops were just fortunate. Luck is an unpredictable combination of coincidences.</td>
+  <td colspan="6">Perhaps General Destellus is losing his edge. I heard he's getting old.</td>
+  <td colspan="4">Perhaps it was Greathive Aratel?</td>
+  <td colspan="4">Perhaps it was the Etreans?</td>
+  <td colspan="4">Perhaps it was... the Hundred Legions themselves?</td>
+  <td colspan="12">But?..</td>
+  <td colspan="216">I think I'm ready to form a conclusion, ma'am.</td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="6"><i>*The High Inquisitor's smirk disappears, turning almost stone-like.*</i> Perhaps, [Last Name]. Perhaps so. And yet, a good Inquisitor must never rely on luck, only on skill. Strokes of fortune will not win us wars. ...Your conclusion only raises more questions about the affair. If the infiltrator freed the General, why did they fight, and why did Destellus not escape? Why are the Legions content in letting one of their finest generals rot in a prison? Such unknown variables vex me.</td>
+  <td colspan="6"><i>*The High Inquisitor laughs, as her icy facade drops again, if for a moment.*</i> You have a brilliant sense of humour on you, [Last Name], did you know that? A weary old man would not have wrought such havoc in the Detainment Core, nor would a weary old man have been capable of obliterating the electrical generator in the prison. General Destellus' might is not a myth of the past. It is a fact of the present. This and the remaining variables must be accounted for.</td>
+  <td colspan="4"><i>*Merey taps her index fin ger on her temple.*</i> Greathive Aratel is an arguably neutral major power in the region - and yet, their unassuming position could permit them to act in subterfuge. Allowing us to capture General Destellus would rob the Legions of one of their strongest commanders in the area, while sending in an agent to provoke him into wreaking havoc on the Detainment Core would cause us quite the headache. Both sides weakened. A genius theory... If not for one thing.</td>
+  <td colspan="4"><i>*She demonstratively places her index fin ger on her temple.*</i> While the Lord Regent's clandestine acts certainly can boast an extensive reach, I find it unlikely that that is the case here. While Etrea can afford to send small groups of scouts to Aratel, I doubt they would have the manpower necessary to carry out something like that in the region. Besides, Etrean interests would be better served by direct espionage against us - they have no quarrel with the Hundred Legions.</td>
+  <td colspan="4"><i>*She smirks warmly.*</i> Mmm. The betrayal of a jealous fellow general, or a disillusioned officer? Or, perhaps a clandestine action intended to get rid of a problematic commander? General Destellus was known for occasional insubordinance. At times, he would disobey direct orders from his superiors, pursuing a course of action that better suited his strategies. High command seemed to turn a blind eye to it, so long as it brought results... But I'm not entirely convinced this is the correct theory.</td>
+  <td colspan="12"><i>*Her smile gains a sharper edge.*</i> Two questions remain unanswered. First- why did General Destellus and the Legion infiltrator fight each other, according to our reports? And second -why did the prisoner not attempt to escape Merit? The chaos of the moment would have afforded him an easy opportunity to break out, and regroup with his allies. Let's put a ribbon on this puzzle then, shall we, [Last Name]? First -why do you think Destellus fought the infiltrator?</td>
+  <td colspan="216">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12">Do you have a theory then, ma'am?</td>
+  <td colspan="4">Which is?..</td>
+  <td colspan="4">Do you have a theory then, ma'am?</td>
+  <td colspan="4">How so, ma'am?</td>
+  <td colspan="6">Maybe the infiltrator was actually an assassin sent to silence the General?</td>
+  <td colspan="6">Maybe there was a disagreement between the two?</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12"><i>*The High Inquisitor's eyes glint like ice beneath her visor.*</i> I think that General Destellus allowed himself to be captured on purpose. Intel shows that a Legion agent infiltrated the Detainment Core, most likely to relay a message to Destellus. Following this, an argument broke out- perhaps due to the message's unfavourable contents. Chaos followed. Given all that, it'd be reasonable to assume that General Destellus stayed in the Detainment Core and fought the infiltrator for the same reason.</td>
+  <td colspan="4">General Destellus did not use the commotion to break free. Not to mention, our agent network within the Greathive indicates no such plan was ever drawn up or enacted, at least to our knowledge. Furthermore, our investigation of the Detainment Core incident definitively points toward the infiltrator being a member of the Legions. <i>*She sighs.*</i> A vexing puzzle, is it not, [Last Name]? Just when you think you have all of its pieces figured out, you realise that one doesn't fit with the rest.</td>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="4">Too many uncertain variables remain. Take the infiltrator, for example- perhaps they were an assassin sent to prevent Destellus from spilling Legion secrets. And yet, the infiltrator freed him- and, he still lives. Even knowing this- why did Destellus not escape? He offered practically no resistance to being taken back into custody after the incident. So many inconsistencies ... And yet, I cannot help but think that this chain of thought is not that far from the truth.</td>
+  <td colspan="6"><i>*The High Inquisitor chuckles.*</i> Getting colder, [Last Name]. Despite a fight taking place, the infiltrator did not kill the prisoner. We could assume that perhaps Destellus simply won the fight, certainly. But then, he would have still known his life was in danger, even if that were the case. Ergo, my second question naturally arises. Why do you think General Destellus did not flee the Detainment Core and Fort Merit, despite having the perfect opportunity to do so?</td>
+  <td colspan="6"><i>*The High Inquisitor's expression grows sharp as a blade.*</i> Let's presume the infiltrator was an ally. Perhaps they broke into the Detainment Core seeking to liberate General Destellus. Once the prisoner was free, an argument broke out over something - bad enough to send the General into a rage. The infiltrator flees. But, something still binds Destellus to the prison. My second question, then - why did the prisoner stay in the prison.</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12">Could you elaborate as to why, ma'am?</td>
+  <td colspan="4">Do you have a theory then, ma'am?</td>
+  <td colspan="4"></td>
+  <td colspan="4">Do you have a theory then, ma'am?</td>
+  <td colspan="2">Perhaps he felt safer in the dungeon? It would be harder to kill him there.</td>
+  <td colspan="2">Perhaps he reasoned he could not break past our defences?</td>
+  <td colspan="2">Perhaps he was bound by some sort of commitment?</td>
+  <td colspan="3">Perhaps he reasoned he could not break past our defences?</td>
+  <td colspan="3">Perhaps the infiltrator instructed him to stay?</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12">I have reason to suspect that the infiltrator instructed General Destellus to remain in the Detainment Core. Given the Legions' recent intensification of logistical and military movements, my theory is that he was planted here as a sort of sleeper agent, waiting to play his part in a greater operation. Perhaps a planned strike from within, and without. If I were to hazard a guess- perhaps the Legions plan to siege Fort Merit, and simultaneously free Destellus, so that he could strike from the inside.</td>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="4"></td>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="2"><i>*Merey laughs.*</i> How amusing! And yet, not entirely unreasonable [Last Name]. Indeed, after the incident with the infiltrator, Warden Jericho ordered significant improvements to the security of Fort Merit. A subsequent attempt at sneaking into the Detainment Core would prove only harder. But a man like General Destellus need not fear assassins, I think. A fighter like him would have no trouble disposing of would-be assailants without the chains that currently bind him.</td>
+  <td colspan="2"><i>*Merey chuckles.*</i> Colder yet! Though I'm sure Sentinel Augustus would enthusiastically agree with you, I'm not so convinced myself. Despite being best known for his might, General Destellus is cunning like the proverbial fox. With our defences in disarray, he could have made a swift, stealthy escape. And yet... He did not.</td>
+  <td colspan="2"><i>*Mereys visor forebodingly reflects a glint of light.*</i> Warmer, [Last Name]. This thought strikes closer to the potential truth. Except, this is where our chain frays. Such an end to the sequence which you've suggested so far would raise a dozen more questions. A dozen more variables. Is he bound by honour? By fear? By a promise? An order?.. We cannot know. But, altering one link in your suggested chain may restore us to the right track.</td>
+  <td colspan="3"><i>*Merey chuckles.*</i> Colder yet! Though I'm sure Sentinel Augustus would enthusiastically agree with you, I'm not so convinced myself. Despite being best known for his might, General Destellus is cunning like the proverbial fox. With our defences in disarray, he could have made a swift, stealthy escape. And yet... He did not.</td>
+  <td colspan="3"><i>*The sly smile on Mereys face is now sharp enough to cut with.*</i> An unfavourable instruction from the Legions' leadership, delivered to an impetuous commander. A reliable infiltrator, caught in his tempestuous way. Wholesale destruction. Wild chaos. I couldn't have planned it better myself. It seems you're quite the Inquisitor after all, [Last Name]. You and I are of similar mind in regards to this puzzle. And so, the crux of it all, then...</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12">That sounds like... a worrisome prospect, to say the least.</td>
+  <td colspan="12"></td>
+  <td colspan="9">I suspect you have your own theory then, ma'am?</td>
+  <td colspan="3">...Why was General Destellus ordered to stay in the Detainment Core?</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12"><i>*She returns to her usual demeanour - cold, steely, and inscrutable.*</i> You're right to say so, [Last Name]. The Inquisition closely monitors the situation, and keeps Warden Jericho informed of all new information we receive. But that is also exactly why we need agents like yourself out on the field... To be the faithful eyes and ears of the Authority. To act as its relentless, haunting shadow. To slice apart with measured blade the chains which seek to bind us.</td>
+  <td colspan="12"></td>
+  <td colspan="9">[See "Do you have a theory then, ma'am?"]</td>
+  <td colspan="3"><i>*She nods.*</i> This is the Inquisition's foremost concern at the moment, in regards to the Hundred Legions. Following our previous chain of thought, it seems obvious, does it not? The prisoner acts as a sleeper agent, waiting to play his part in something greater. I cannot say for sure whether his recent rampage was their planned outcome- but it certainly played to the Legions' favour. But what is their plan, exactly?</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12">May I ask you something else, ma'am?</td>
+  <td colspan="21"></td>
+  <td colspan="3">Has the Inquisition made any progress on answering this question?</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12"><i>*She nods, patiently*</i> Of course. What else would you like to know?</td>
+  <td colspan="21"></td>
+  <td colspan="3">Yes and no, [Last Name]. We suspect the Legions are planning a major operation in the near future. Logistical and military movements observed by our agents all indicate as much. But it remains uncertain to us what that operation is. With what we saw during the Detainment Core incident, if I were to hazard a guess - perhaps the intention is to strike from within, and without. If they siege Fort Merit and simultaneously manage to free Destellus, he could strike from the inside.</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="3">Could you tell me a bit about yourself, ma'am?</td>
+  <td colspan="3">What can you tell me about Warden Jericho?</td>
+  <td colspan="3">If I may speak freely, ma'am... You don't seem to have the highest opinion of Sentinel Augustus?..</td>
+  <td colspan="3">I think that's all for now, ma'am. Thank you.</td>
+  <td colspan="21"></td>
+  <td colspan="3">If that's the case - why keep General Destellus in the Detainment Core?</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="72"></td>
+  <td colspan="12">[See First Encounter]</td>
+  <td colspan="21"></td>
+  <td colspan="3"><i>*Mereys sharp features soften as she sighs.*</i> The uncomfortable truth of the matter is that, as far as our interests go, it serves us better to keep Destellus off the field. Eventhough he's incredibly powerful on his own, he's a far lesser threat without a legion of warriors at his command. So long as we keep a keen eye trained on Legion manoeuvres, we can keep the General imprisoned-giving ourselves much needed strategic breathing room on the field.</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="105"></td>
+  <td colspan="3">May I ask you something else, ma'am?</td>
+  <td colspan="216"></td>
+</tr>
+<tr>
+  <td colspan="105"></td>
+  <td colspan="3">[See first instance]</td>
+  <td colspan="216"></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 227164
+revid: 227631
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -276,6 +276,8 @@ _**Autogrips**_ |
 Elder Primadon has 99% cannon resistance, according to a tester. So cannon cheesing him is out of the question.
 
 Unlike [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), Elder primadon can feint his attacks.
+
+Elder Primadon also has 'Thorn Guard', meaning that he's immune to providence thorns and he also seems to be immune to astrals meteor.
 
 ## Strategy
 

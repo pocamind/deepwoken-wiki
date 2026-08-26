@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 221506
+revid: 227624
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | Crustaceous Rex | |
 |---|---|
-| health | 25006250 (Corrupted) |
+| health | 22005500 (Corrupted) |
 | attacks | Bubble Beam, Crab Crab[1], Ground Smash, Hack & Slash, Rising Smash |
 | drops | Crustacean Meat |
 | locations | First Layer, The Diluvian Mechanism |
