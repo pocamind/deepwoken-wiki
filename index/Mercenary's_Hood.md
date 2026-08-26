@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Hood"
-revid: 222117
+revid: 227733
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,4 +32,4 @@ This content is not accessible outside of this gamemode.
 
 Hoods are an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Mercenary Blade](Talents.md#mercenary-blade) Talent grants an additional +1 damage to your attacks for every +10% stealth you have. This is applied to all sources of damage.
+The [Mercenary Blade](Talents/Vow_of_Iron.md#mercenary-blade) Talent grants an additional +1 damage to your attacks for every +10% stealth you have. This is applied to all sources of damage.

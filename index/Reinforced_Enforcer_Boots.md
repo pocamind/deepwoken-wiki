@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Boots
-revid: 222457
+revid: 227740
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -42,10 +42,10 @@ Enforcer Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 They are chunky plated boots used to protect the wearer's legs in combat.
 
-The [Enforcer's Technique](Talents.md#enforcers-technique) Talent increases your flourish damage by 35%.
+The [Enforcer's Technique](Talents/Vow_of_Iron.md#enforcers-technique) Talent increases your flourish damage by 35%.
 
 ## Set Bonus
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
+Set Talent: [Enforcer's Pull](Talents/Vow_of_Iron.md#enforcers-pull) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.

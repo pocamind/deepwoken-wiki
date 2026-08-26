@@ -1,6 +1,6 @@
 ---
 title: Radial Pendant
-revid: 222411
+revid: 227737
 source: https://deepwoken.fandom.com/wiki/Radial_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,7 +34,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Radial Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Praise The Sun](Talents.md#praise-the-sun) Talent grants increased health regeneration and hastens the decay of Anti-Heal status effects if you are under direct sunlight.
+The [Praise The Sun](Talents/Vow_of_Iron.md#praise-the-sun) Talent grants increased health regeneration and hastens the decay of Anti-Heal status effects if you are under direct sunlight.
 
 ## Trivia
 

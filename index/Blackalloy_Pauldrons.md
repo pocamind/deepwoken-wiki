@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 227306
+revid: 227693
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,10 +40,10 @@ Variants: [Helm](Blackalloy_Helm.md)
 
 The Blackalloy Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. This Talent cannot reduce a damage value below 0.
+The [Laminated Armor](Talents/Vow_of_Iron.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. This Talent cannot reduce a damage value below 0.
 
 ## Set Bonus
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
+Set Talent [Captain's Call](Talents/Vow_of_Iron.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].

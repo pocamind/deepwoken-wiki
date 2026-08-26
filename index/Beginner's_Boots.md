@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 227680
+revid: 227699
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -39,10 +39,10 @@ Variants: [Brace](<Beginner's_Brace.md>)
 
 The Beginner's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Safety First](Talents.md#safety-first) Talent grants 25% damage reduction for 30 seconds at the start of any fight.
+The [Safety First](Talents/Vow_of_Iron.md#safety-first) Talent grants 25% damage reduction for 30 seconds at the start of any fight.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Training Wheels](Talents.md#training-wheels) - Increase the amount of parry frames you have by 20%.
+Set Talent: [Training Wheels](Talents/Vow_of_Iron.md#training-wheels) - Increase the amount of parry frames you have by 20%.

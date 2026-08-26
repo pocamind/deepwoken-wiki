@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 227255
+revid: 227691
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -47,7 +47,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Until it is Done** \[Memento Talent • Berserker\] - Your **[Berserk State](Status_Effects.md#berserk-state)** lasts until you willingly end it.
+-   **Until it is Done** \[Berserker • Memento Talent\] - Your **[Berserk State](Status_Effects.md#berserk-state)** lasts until you willingly end it.
     
     -   Your [Berserk](Talents/Vow_of_Iron.md#berserk) has an indefinite duration, lasting until the user manually turns it off.  
         
@@ -74,7 +74,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Berserk** \[Common Talent • Berserker\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter **[Berserk State](Status_Effects.md#berserk-state)**.
+-   **Berserk** \[Berserker • Common Talent\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter **[Berserk State](Status_Effects.md#berserk-state)**.
     
     -   While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have [Million Ton Piercer](Talents.md#million-ton-piercer). Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is **true damage** for the duration of the effect.
     -   In PvE, your M1s always gain +100% PEN, regardless of your health value.
@@ -106,7 +106,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Brassneck** \[Common Talent • Miscellaneous\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds.
+-   **Brassneck** \[Miscellaneous • Common Talent\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds.
     
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.  
         
@@ -135,7 +135,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Enhanced Flow** \[Common Talent • Sanguine Wager\] **100** \- Refine your [Rush Hour](Talents/Vow_of_Iron.md#rush-hour), allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+-   **Enhanced Flow** \[Sanguine Wager • Common Talent\] **100** \- Refine your [Rush Hour](Talents/Vow_of_Iron.md#rush-hour), allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
     
     -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
         -   This cannot give more than 50 Temporary Health in one instance.
@@ -162,7 +162,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Exposed Durability** \[Common Talent • Adaptive Arsenal\] **100** \- Deal 10% more damage to opponents with no armor durability left.
+-   **Exposed Durability** \[Adaptive Arsenal • Common Talent\] **100** \- Deal 10% more damage to opponents with no armor durability left.
     
     -   Also affects players who are wearing the [Stranded](Stranded.md) outfit.  
         
@@ -187,7 +187,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Perseverance** \[Common Talent • Bastion\] **100** \- Reduces the duration you're **[Ragdolled](Status_Effects.md#ragdoll)** and **[Unconscious](Status_Effects.md#unconscious)** for by 25%.
+-   **Perseverance** \[Bastion • Common Talent\] **100** \- Reduces the duration you're **[Ragdolled](Status_Effects.md#ragdoll)** and **[Unconscious](Status_Effects.md#unconscious)** for by 25%.
     
     -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](Talents/Vow_of_Iron.md#defiance))  
         
@@ -214,7 +214,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Unwavering Resolve** \[Common Talent • Rampaging Brute\] **100** \- Getting parried punishes your posture 33% less.
+-   **Unwavering Resolve** \[Rampaging Brute • Common Talent\] **100** \- Getting parried punishes your posture 33% less.
     
     -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.  
         
@@ -238,7 +238,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Ruinous Recovery** \[Memento Talent • Berserker\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
+-   **Ruinous Recovery** \[Berserker • Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
     
     -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Guardbreak\]
 
@@ -260,7 +260,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Bulldozer** \[Rare Talent • Raging Bull\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
+-   **Bulldozer** \[Raging Bull • Rare Talent\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
     
     -   This has a 50% chance to break destructible objects when you flourish people into them.  
         
@@ -290,7 +290,7 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Rush Hour** \[Rare Talent • Bloodrender\] **250** \- Stab yourself to become stronger, faster, and deal increased blood bar damage.
+-   **Rush Hour** \[Bloodrender • Rare Talent\] **250** \- Stab yourself to become stronger, faster, and deal increased blood bar damage.
     
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
     -   Drains 4.5 HP per second and 2% Blood per second.
@@ -557,7 +557,7 @@ N/A
 </tbody>
 </table>
 
--   **Absolute Force** \[Faction Talent • Operator's Technique\] **100** \- Evolve the technique of your [Oppressive Force](Talents.md#oppressive-force), letting both hits of your flourish deal 50% more posture damage.
+-   **Absolute Force** \[Operator's Technique • Faction Talent\] **100** \- Evolve the technique of your [Oppressive Force](Talents.md#oppressive-force), letting both hits of your flourish deal 50% more posture damage.
     
     -   Because this Memento does not get [Oppressive Force](Talents.md#oppressive-force), this Talent only serves to increase your base flourish's posture damage by 50%.  
         
@@ -584,7 +584,7 @@ N/A
 </tbody>
 </table>
 
--   **Bear Trap** \[Common Talent • Vigil Swordsman\] **100** \- Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.
+-   **Bear Trap** \[Vigil Swordsman • Common Talent\] **100** \- Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.
     
     -   The status effect is represented by blood pouring from the legs.
     -   Makes the opponent unable to jump for 4 seconds.
@@ -613,7 +613,7 @@ N/A
 </tbody>
 </table>
 
--   **Residual Fury** \[Memento Talent • Berserker\] **200** \- \[In Berserk State\] Landing your critical grants +50% PEN on Basic Attacks for 8s.
+-   **Residual Fury** \[Berserker • Memento Talent\] **200** \- \[In Berserk State\] Landing your critical grants +50% PEN on Basic Attacks for 8s.
     
     -   This effect is retained after [Berserk](Talents/Vow_of_Iron.md#berserk) is turned off.  
         
@@ -646,7 +646,7 @@ N/A
 </tbody>
 </table>
 
--   **Exoskeleton** \[Rare Talent • Freak of Nature\] **250** \- You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
+-   **Exoskeleton** \[Freak of Nature • Rare Talent\] **250** \- You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
     
     -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude.
     -   Exoskeleton has 443 durability at power 10, scaling up to 600 durability at power 20.
@@ -678,7 +678,7 @@ N/A
 </tbody>
 </table>
 
--   **Million Ton Piercer** \[Advanced Talent • Rampaging Brute\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+-   **Million Ton Piercer** \[Rampaging Brute • Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     
     -   This removes the 50% Weapon PEN cap.  
         
@@ -704,7 +704,7 @@ N/A
 </tbody>
 </table>
 
--   **Piercing Blow** \[Advanced Talent • Raging Bull\] **350** \- Attacks that break an opponent's block ignore their Armor resistances.
+-   **Piercing Blow** \[Raging Bull • Advanced Talent\] **350** \- Attacks that break an opponent's block ignore their Armor resistances.
     
     -   Your attacks that guardbreak gain +50% PEN.  
         
@@ -924,7 +924,7 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Vengeful Pursuit** \[Oath Talent • Silentheart\] **200** \- Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
+-   **Vengeful Pursuit** \[Silentheart • Oath Talent\] **200** \- Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
     
     -   Base damage depends on your weapon type. Has 3 Strength and 3 Weapon scaling.
     -   8 second cooldown.
@@ -963,7 +963,7 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Defiance** \[Rare Talent • Champion\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+-   **Defiance** \[Champion • Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
     
     -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Currently, the only things Defiance cuts in half are:
@@ -1113,7 +1113,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 </tbody>
 </table>
 
--   **Rip and Tear** \[Memento Talent • Berserker\] - Regain health upon defeating an enemy.
+-   **Rip and Tear** \[Berserker • Memento Talent\] - Regain health upon defeating an enemy.
     
     -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Sustain\]
 
@@ -1135,7 +1135,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 </tbody>
 </table>
 
--   **Padded Armor** \[Common Talent • Natural Armor\] - While your armor is broken (or if you have no armor), you take 5% less damage.
+-   **Padded Armor** \[Natural Armor • Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage.
     
     -   Grants +3% Blunt Armor  
         
@@ -1157,7 +1157,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 </tbody>
 </table>
 
--   **Steel Scales** \[Common Talent • Natural Armor\] - You take an additional 5% less damage when your armor is broken.
+-   **Steel Scales** \[Natural Armor • Common Talent\] - You take an additional 5% less damage when your armor is broken.
     
     -   Grants +3% Slash Armor  
         
@@ -1181,7 +1181,7 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 </tbody>
 </table>
 
--   **Righteous Rage** \[Memento Talent • Berserker\] - \[In Berserk State\] You deal increased damage the lower your health is.
+-   **Righteous Rage** \[Berserker • Memento Talent\] - \[In Berserk State\] You deal increased damage the lower your health is.
     
     -   The In Berserk State condition must be met in order for this Talent to apply.  
         

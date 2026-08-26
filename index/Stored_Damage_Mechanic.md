@@ -1,6 +1,6 @@
 ---
 title: Stored Damage Mechanic
-revid: 227373
+revid: 227688
 source: https://deepwoken.fandom.com/wiki/Stored_Damage_Mechanic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

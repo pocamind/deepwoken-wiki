@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 227322
+revid: 227692
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -328,7 +328,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
 
 ### Power 15
 
--   **Orbital Ice** \[Common Talent • \] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
+-   **Orbital Ice** \[• Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
     -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
     -   Lasts 50 seconds if it is not broken.
@@ -336,7 +336,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
         
     -   Tags: \[**Saint Jay**\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
--   **Orbital Ice** \[Common Talent •\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
+-   **Orbital Ice** \[• Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
     -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
     -   Lasts 50 seconds if it is not broken.
@@ -478,14 +478,14 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 ### Power 20
 
--   **Glacial Coasting** \[Common Talent • \] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
+-   **Glacial Coasting** \[• Common Talent\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
     -   Creates ice patches as you slide, improving your slide speed.  
         
     -   Grants +1 Passive Agility  
         
     -   Tags: \[**Saint Jay**\] \[+Passive Agility\] \[Mobility\]
 
--   **Glacial Coasting** \[Common Talent •\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
+-   **Glacial Coasting** \[• Common Talent\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
     -   Creates ice patches as you slide, improving your slide speed.  
         
     -   Grants +1 Passive Agility  
@@ -495,7 +495,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   _Frozen Legs_ \[Rare Talent\] **250** \- **[Chilled](Status_Effects.md#chilled)** applied by Mantras prevents your opponent from rolling.
     -   Lasts the first 0.75 seconds after chill/freeze procs.
 
--   _Defiance_ \[Rare Talent • Champion\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+-   _Defiance_ \[Champion • Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
     -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Currently, the only things Defiance cuts in half are:
         -   Flamecharm's [Burn](Status_Effects.md#burn) damage
@@ -511,7 +511,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
             
     -   Tags: \[**Saint Jay**\] \[Scale-down\]
 
--   **Defiance** \[Rare Talent • Champion\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+-   **Defiance** \[Champion • Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
     -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Currently, the only things Defiance cuts in half are:
         -   Flamecharm's [Burn](Status_Effects.md#burn) damage

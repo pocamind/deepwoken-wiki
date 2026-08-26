@@ -1,6 +1,6 @@
 ---
 title: Cultist Cowl
-revid: 218656
+revid: 227713
 source: https://deepwoken.fandom.com/wiki/Cultist_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Cultist Cowl is an Equipment item in the "Head" category.
 
-The [Experienced Healer](Talents.md#experienced-healer) Talent grants an additional +5 flat healing whenever you heal yourself.
+The [Experienced Healer](Talents/Vow_of_Iron.md#experienced-healer) Talent grants an additional +5 flat healing whenever you heal yourself.

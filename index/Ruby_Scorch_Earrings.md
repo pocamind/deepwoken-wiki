@@ -1,6 +1,6 @@
 ---
 title: Ruby Scorch Earrings
-revid: 225687
+revid: 227744
 source: https://deepwoken.fandom.com/wiki/Ruby_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Ruby Scorch Earrings are [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Smouldering Touch](Talents.md#smouldering-touch) Talent applies [burn](Status_Effects.md#burn) to your opponent when you guardbreak them.
+The [Smouldering Touch](Talents/Vow_of_Iron.md#smouldering-touch) Talent applies [burn](Status_Effects.md#burn) to your opponent when you guardbreak them.

@@ -1,6 +1,6 @@
 ---
 title: "Lifeweaver's Hat"
-revid: 222067
+revid: 227732
 source: https://deepwoken.fandom.com/wiki/Lifeweaver's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Lifeweaver's Hat is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Natural Healing](Talents.md#natural-healing) Talent heals you by 2% of your maximum health whenever you eat a plant-based [food](Food.md) item. [Iron Gut](Talents.md#iron-gut) lowers the chance of you vomiting upon consuming food.
+The [Natural Healing](Talents/Vow_of_Iron.md#natural-healing) Talent heals you by 2% of your maximum health whenever you eat a plant-based [food](Food.md) item. [Iron Gut](Talents/Vow_of_Iron.md#iron-gut) lowers the chance of you vomiting upon consuming food.

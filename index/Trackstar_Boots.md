@@ -1,6 +1,6 @@
 ---
 title: Trackstar Boots
-revid: 222736
+revid: 227754
 source: https://deepwoken.fandom.com/wiki/Trackstar_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -38,10 +38,10 @@ Variants: [Pauldrons](Trackstar_Pauldrons.md)
 
 The Trackstar Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
 
-The [Haste](Talents.md#haste) Talent provides a +3 studs per second increase to your movement speed at all times.
+The [Haste](Talents/Vow_of_Iron.md#haste) Talent provides a +3 studs per second increase to your movement speed at all times.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Rush](Talents.md#rush) - Massively reduce your dodge cooldown.
+Set Talent: [Rush](Talents/Vow_of_Iron.md#rush) - Massively reduce your dodge cooldown.

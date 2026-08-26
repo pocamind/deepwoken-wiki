@@ -1,6 +1,6 @@
 ---
 title: Extra Thick Overcoat
-revid: 221238
+revid: 227718
 source: https://deepwoken.fandom.com/wiki/Extra_Thick_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Extra Thick Overcoatis an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Weather Resistant](Talents.md#weather-resistant) Talent grants 30% damage reduction if the current weather is less than ideal.
+The [Weather Resistant](Talents/Vow_of_Iron.md#weather-resistant) Talent grants 30% damage reduction if the current weather is less than ideal.

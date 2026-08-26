@@ -1,6 +1,6 @@
 ---
 title: Corrupted Pathfinder Elite
-revid: 221624
+revid: 227749
 source: https://deepwoken.fandom.com/wiki/Corrupted_Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -34,6 +34,10 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Pathfinder Elite is an animated [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Shadow Travel](Talents.md#shadow-travel) Talent allows you to teleport to your cursor's location at the cost of health and Ether.
+The [Shadow Travel](Talents/Vow_of_Iron.md#shadow-travel) Talent allows you to teleport to your cursor's location at the cost of health and Ether.
 
-The [Omen](Talents.md#omen) Talent allows you to use Shadow Travel with no windup, however your Shadow Travel will always drain your health regardless of the teleport distance.
+The [Omen](Talents/Vow_of_Iron.md#omen) Talent allows you to use Shadow Travel with no windup, however your Shadow Travel will always drain your health regardless of the teleport distance.
+
+## Trivia
+
+-   Strangely, the Omen Talent has the Oath/Memento Talent rarity ingame. With the only other exceptions being [Heretic's Sacrifice](Talents/Vow_of_Iron.md#heretics-sacrifice), [Heart Reservoir](Talents/Vow_of_Iron.md#heart-reservoir), and [Pyreborne](Talents/Vow_of_Iron.md#pyreborne), all other equipment-exclusive Talents are of the Common rarity.

@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Garb"
-revid: 221605
+revid: 227705
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -40,10 +40,10 @@ Variants: [Boots](<Bounty_Hunter's_Boots.md>)
 
 The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Piercing Shot](Talents.md#piercing-shot) Talent grants a Talent tool that enhances your next critical attack made with any Rifle or [Pistol](Pistols.md) weapon. Enhanced critical attacks have 100% chip damage and apply the [Pierced Armor](Status_Effects.md#pierced-armor) status effect for a few seconds, increasing incoming PEN. The [Kick Off](Talents.md#kick-off) Talent grants various bonuses to climbing and parkour.
+The [Piercing Shot](Talents/Vow_of_Iron.md#piercing-shot) Talent grants a Talent tool that enhances your next critical attack made with any Rifle or [Pistol](Pistols.md) weapon. Enhanced critical attacks have 100% chip damage and apply the [Pierced Armor](Status_Effects.md#pierced-armor) status effect for a few seconds, increasing incoming PEN. The [Kick Off](Talents/Vow_of_Iron.md#kick-off) Talent grants various bonuses to climbing and parkour.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Explosive Rounds](Talents.md#explosive-rounds) - Every bullet that lands now detonates on your opponent.
+Set Talent: [Explosive Rounds](Talents/Vow_of_Iron.md#explosive-rounds) - Every bullet that lands now detonates on your opponent.

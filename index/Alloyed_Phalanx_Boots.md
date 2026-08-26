@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Boots
-revid: 227667
+revid: 227695
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
@@ -40,4 +40,4 @@ Variants: [Plate](Alloyed_Phalanx_Plate.md)
 
 Alloyed Phalanx Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of any **[Knockdown](Status_Effects.md#knockdown)** applied to you by 75%.
+The [Alloyed Soles](Talents/Vow_of_Iron.md#alloyed-soles) Talent reduces the duration of any **[Knockdown](Status_Effects.md#knockdown)** applied to you by 75%.

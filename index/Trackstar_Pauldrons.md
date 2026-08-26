@@ -1,6 +1,6 @@
 ---
 title: Trackstar Pauldrons
-revid: 222735
+revid: 227755
 source: https://deepwoken.fandom.com/wiki/Trackstar_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -36,14 +36,14 @@ Variants: [Boots](Trackstar_Boots.md)
 
 ## Description
 
-The Woodland Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. They are commonly found in chests from [Aratel Island](Aratel_Island.md).
+The Trackstar Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Pace](Talents.md#pace) Talent grants a speed boost upon landing attacks. Additionally, you gain damage reduction based on the collective potency of all speed boosts you have.
+The [Pace](Talents/Vow_of_Iron.md#pace) Talent grants a speed boost upon landing attacks. Additionally, you gain damage reduction based on the collective potency of all speed boosts you have.
 
-The [Polite Awakening](Talents.md#polite-awakening) Talent recovers 15% of your max health after getting up from being downed, but this will not proc if you were at or over 20% of your maximum health before getting back up.
+The [Polite Awakening](Talents/Vow_of_Iron.md#polite-awakening) Talent recovers 15% of your max health after getting up from being downed, but this will not proc if you were at or over 20% of your maximum health before getting back up.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Rush](Talents.md#rush) - Massively reduce your dodge cooldown.
+Set Talent: [Rush](Talents/Vow_of_Iron.md#rush) - Massively reduce your dodge cooldown.

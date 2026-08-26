@@ -1,6 +1,6 @@
 ---
 title: Vapordrop Earrings
-revid: 222748
+revid: 227758
 source: https://deepwoken.fandom.com/wiki/Vapordrop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,6 +32,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Vapor Drop Earrings are [Equipment](Equipment.md) items under the "Ears" category.
+Vapordrop Earrings are [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Drop Dead](Talents.md#drop-dead) Talent grants damage reduction while [crouching](Combat_Mechanics.md).
+The [Drop Dead](Talents/Vow_of_Iron.md#drop-dead) Talent grants damage reduction while [crouching](Combat_Mechanics.md).

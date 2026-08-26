@@ -1,6 +1,6 @@
 ---
 title: "Depths Wanderer's Boots"
-revid: 221906
+revid: 227714
 source: https://deepwoken.fandom.com/wiki/Depths_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,4 +32,4 @@ This content is not accessible outside of this gamemode.
 
 The Depths Wanderer's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Iron Stance](Talents.md#iron-stance) Talent grants one instance of ragdoll immunity with a 20 second cooldown.
+The [Iron Stance](Talents/Vow_of_Iron.md#iron-stance) Talent grants one instance of ragdoll immunity with a 20 second cooldown.

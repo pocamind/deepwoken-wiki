@@ -1,6 +1,6 @@
 ---
 title: Hardened Crystal Earrings
-revid: 221939
+revid: 227726
 source: https://deepwoken.fandom.com/wiki/Hardened_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 **Crystal Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Instant Nucleation](Talents.md#instant-nucleation) Talent grants damage reduction for a few seconds after being guardbroken.
+The [Instant Nucleation](Talents/Vow_of_Iron.md#instant-nucleation) Talent grants damage reduction for a few seconds after being guardbroken.

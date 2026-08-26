@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Beads
-revid: 221938
+revid: 227723
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents]
@@ -36,7 +36,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Hallowed Monastery Beads are an [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Focused Strikes](Talents.md#focused-strikes) Talent increases the posture damage of your critical attacks by 15%.
+The [Focused Strikes](Talents/Vow_of_Iron.md#focused-strikes) Talent increases the posture damage of your critical attacks by 15%.
 
 ## Trivia
 

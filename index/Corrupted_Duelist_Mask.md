@@ -1,6 +1,6 @@
 ---
 title: Corrupted Duelist Mask
-revid: 221621
+revid: 227709
 source: https://deepwoken.fandom.com/wiki/Corrupted_Duelist_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Duelist's Mask is an [Equipment](Equipment.md) item under the "Face" category. It is an ovular mask that is a light purple with one big circle that has a black outline in the middle of the mask. In the middle column is a black line connecting the circle to the middle of the bottom of the mask.
 
-The [Fictitious Force](Talents.md#fictitious-force)Talent halves the potency of all Speed Boosts in exchange for granting additional **true damage** to your attacks. The potency of this true damage scales on how fast you are.
+The [Fictitious Force](Talents/Vow_of_Iron.md#fictitious-force) Talent halves the potency of all Speed Boosts in exchange for granting additional **true damage** to your attacks. The potency of this true damage scales on how fast you are.

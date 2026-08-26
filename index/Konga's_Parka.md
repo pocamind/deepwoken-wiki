@@ -1,6 +1,6 @@
 ---
 title: "Konga's Parka"
-revid: 222017
+revid: 227731
 source: https://deepwoken.fandom.com/wiki/Konga's_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -32,4 +32,4 @@ This content is not accessible outside of this gamemode.
 
 The Konga's Parka is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Slick](Talents.md#slick) Talent allows you to slide faster and further. This effect stacks with the [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>). The [Steady Footing](Talents.md#steady-footing) Talent reduces knockback taken and negates the additional slide distance effect from standing on ice.
+The [Slick](Talents/Vow_of_Iron.md#slick) Talent allows you to slide faster and further. This effect stacks with the [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>). The [Steady Footing](Talents/Vow_of_Iron.md#steady-footing) Talent reduces knockback taken and negates the additional slide distance effect from standing on ice.

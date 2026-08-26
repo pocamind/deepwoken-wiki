@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Cowl
-revid: 221572
+revid: 227724
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -37,7 +37,7 @@ This content is not accessible outside of this gamemode.
 
 The Hallowed Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown upon landing an M1. The [Footwork Mastery](Talents.md#footwork-mastery) Talent grants a speed boost for 15 seconds upon landing a critical attack. Footwork Mastery has a 45 second cooldown.
+The [Blade Dancer](Talents/Vow_of_Iron.md#blade-dancer) Talent removes your roll cooldown upon landing an M1. The [Footwork Mastery](Talents/Vow_of_Iron.md#footwork-mastery) Talent grants a speed boost for 15 seconds upon landing a critical attack. Footwork Mastery has a 45 second cooldown.
 
 ## Trivia
 

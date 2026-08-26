@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Boots
-revid: 220861
+revid: 227707
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,10 +40,10 @@ Variants: [Pauldrons](Caster_Fur_Pauldrons.md)
 
 The Caster Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category.
 
-The [Ether Efficiency](Talents.md#ether-efficiency) Talent reduces the final Ether cost of all Mantras you cast by 30.
+The [Ether Efficiency](Talents/Vow_of_Iron.md#ether-efficiency) Talent reduces the final Ether cost of all Mantras you cast by 30.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Overdrive](Talents.md#overdrive) - Go beyond your limits. All mantras you cast deal twice as much damage for 10 seconds \[3 minute CD\].
+Set Talent: [Overdrive](Talents/Vow_of_Iron.md#overdrive) - Go beyond your limits. All mantras you cast deal twice as much damage for 10 seconds \[3 minute CD\].

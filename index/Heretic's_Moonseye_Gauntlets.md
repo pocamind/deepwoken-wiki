@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Moonseye Gauntlets"
-revid: 221997
+revid: 227747
 source: https://deepwoken.fandom.com/wiki/Heretic's_Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, Equipment with Talents, Equipment with Exclusive Talents]
@@ -36,4 +36,8 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category. It is a pair of two metal gauntlets bearing many symbols of [The Moonseye](Moonseye.md) on it. It exposes a part of the fist and does not fully cover the arms equipment area, only covering the hands.
 
-The [Heretic's Sacrifice](Talents.md#heretics-sacrifice) Talent grants a Talent tool, that sacrifices a large amount of [Sanity](Insanity.md) to heal 20 health.
+The [Heretic's Sacrifice](Talents/Vow_of_Iron.md#heretics-sacrifice) Talent grants a Talent tool, that sacrifices a large amount of [Sanity](Insanity.md) to heal 20 health.
+
+## Trivia
+
+-   Strangely, the Heretic's Sacrifice Talent has the Quest Talent rarity ingame. With the only other exceptions being [Omen](Talents/Vow_of_Iron.md#omen), [Heart Reservoir](Talents/Vow_of_Iron.md#heart-reservoir), and [Pyreborne](Talents/Vow_of_Iron.md#pyreborne), all other equipment-exclusive Talents are of the Common rarity.

@@ -1,6 +1,6 @@
 ---
 title: Reforged Gauntlets
-revid: 222446
+revid: 227738
 source: https://deepwoken.fandom.com/wiki/Reforged_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, The Ignition Union, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Reforged Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Force Your Way](Talents.md#force-your-way) Talent allows you to parry unparryable attacks from giant monsters at the cost of your armor durability. The [Steel Grip](Talents.md#steel-grip) Talent allows you to negate a guardbreak with a 90 second cooldown. Upon triggering, your posture will be set to 80%.
+The [Force Your Way](Talents/Vow_of_Iron.md#force-your-way) Talent allows you to parry unparryable attacks from giant monsters at the cost of your armor durability. The [Steel Grip](Talents/Vow_of_Iron.md#steel-grip) Talent allows you to negate a guardbreak with a 90 second cooldown. Upon triggering, your posture will be set to 80%.

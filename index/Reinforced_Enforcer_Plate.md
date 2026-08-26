@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Plate
-revid: 222461
+revid: 227741
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,13 +40,13 @@ Variants: [Boots](Reinforced_Enforcer_Boots.md)
 
 The Enforcer Plate is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Enforcer's Strength](Talents.md#enforcers-strength) Talent reduces the amount of posture opponents restore by parrying your attacks by 20%.
+The [Enforcer's Strength](Talents/Vow_of_Iron.md#enforcers-strength) Talent reduces the amount of posture opponents restore by parrying your attacks by 20%.
 
 ## Set Bonus
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
+Set Talent: [Enforcer's Pull](Talents/Vow_of_Iron.md#enforcers-pull) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
 
 ## Trivia
 

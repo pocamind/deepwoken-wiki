@@ -1,6 +1,6 @@
 ---
 title: "Gale Master's Earrings"
-revid: 221933
+revid: 227722
 source: https://deepwoken.fandom.com/wiki/Gale_Master's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,4 +34,4 @@ This content is not accessible outside of this gamemode.
 
 **Gale Master's Earrings** are an [Equipment](Equipment.md) item under the "Ears" category.
 
-[Way of the Wind](Talents.md#way-of-the-wind) increases the speed of your Mantra casts while airborne. You need to have been in the air for more than 0.5 seconds for this effect to activate. This has a wind pulse fx on proc.
+[Way of the Wind](Talents/Vow_of_Iron.md#way-of-the-wind) increases the speed of your Mantra casts while airborne. You need to have been in the air for more than 0.5 seconds for this effect to activate. This has a wind pulse fx on proc.

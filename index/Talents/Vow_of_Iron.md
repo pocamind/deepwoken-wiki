@@ -1,6 +1,6 @@
 ---
 title: Talents/Vow of Iron
-revid: 227663
+revid: 227687
 source: https://deepwoken.fandom.com/wiki/Talents/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics, Outfits, Skills, Talents]

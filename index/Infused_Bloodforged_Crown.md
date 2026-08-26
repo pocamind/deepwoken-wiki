@@ -1,6 +1,6 @@
 ---
 title: Infused Bloodforged Crown
-revid: 221974
+revid: 227730
 source: https://deepwoken.fandom.com/wiki/Infused_Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Ornaments, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -34,11 +34,11 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The **Infused Bloodforged Crown** is a [Vow of Iron](Vow_of_Iron.md) exclusive [Equipment](Equipment.md) item under the "Head" category.
 
-The [No Limits](Talents.md#no-limits) Talent removes the healing cap from [Bloodless Gems](Bloodless_Gem.md). The [Cauterized Wounds](Talents.md#cauterized-wounds) Talent reduces blood bar damage taken from taking damage. It does not affect blood _drain_ effects such as [Bloodrend](Bloodrend.md).
+The [No Limits](Talents/Vow_of_Iron.md#no-limits) Talent removes the healing cap from [Bloodless Gems](Bloodless_Gem.md). The [Cauterized Wounds](Talents/Vow_of_Iron.md#cauterized-wounds) Talent reduces blood bar damage taken from taking damage. It does not affect blood _drain_ effects such as [Bloodrend](Bloodrend.md).
 
 When equipped, even while its visibility is toggled off, it will play an animation of a red swirling particle around the wearer's head.
 
 ## Trivia
 
 -   Goes great with [Curse of the No Life King](Curse_of_the_No_Life_King.md) builds, due to the fact that the innate Talent decreases blood loss, one of No Life King's greatest weaknesses.
-    -   Be aware that NLK has heavily reduced effectiveness from both [Cauterized Wounds](Talents.md#cauterized-wounds) and [Alloyblood](Talents.md#alloyblood).
+    -   Be aware that NLK has heavily reduced effectiveness from both [Cauterized Wounds](Talents/Vow_of_Iron.md#cauterized-wounds) and [Alloyblood](Talents/Vow_of_Iron.md#alloyblood).

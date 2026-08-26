@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Boots"
-revid: 225670
+revid: 227704
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -39,10 +39,10 @@ Variants: [Garb](<Bounty_Hunter's_Garb.md>)
 
 Mercenary Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Endurance Runner](Talents.md#endurance-runner) Talent lessens the movement speed penalty from being at low health. The [Gunslinger's Fury](Talents.md#gunslingers-fury) Talent grants a new aerial critical attack if you are wielding a Rifle or Pistol with an offhand Pistol equipped. This critical performs the [Soulwrought Gun](Crazy_Slots.md#weapons) special attack.
+The [Endurance Runner](Talents/Vow_of_Iron.md#endurance-runner) Talent lessens the movement speed penalty from being at low health. The [Gunslinger's Fury](Talents/Vow_of_Iron.md#gunslingers-fury) Talent grants a new aerial critical attack if you are wielding a Rifle or Pistol with an offhand Pistol equipped. This critical performs the [Soulwrought Gun](Crazy_Slots.md#weapons) special attack.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Explosive Rounds](Talents.md#explosive-rounds) - Every bullet that lands now detonates on your opponent.
+Set Talent: [Explosive Rounds](Talents/Vow_of_Iron.md#explosive-rounds) - Every bullet that lands now detonates on your opponent.

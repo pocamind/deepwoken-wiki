@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Cowl
-revid: 220735
+revid: 227702
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
@@ -38,13 +38,13 @@ Variants: [Mask](Bloodcurdle_Mask.md)
 
 The Bloodcurdle Cowl is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Blood Siphon](Talents.md#blood-siphon) Talent grants 10% lifesteal to your critical attacks.
+The [Blood Siphon](Talents/Vow_of_Iron.md#blood-siphon) Talent grants 10% lifesteal to your critical attacks.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) everytime you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).
+Set Talent: [Bloodless Overdrive](Talents/Vow_of_Iron.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) everytime you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).
 
 ## Trivia
 

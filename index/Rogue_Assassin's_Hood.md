@@ -1,6 +1,6 @@
 ---
 title: "Rogue Assassin's Hood"
-revid: 222499
+revid: 227742
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Hoods, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -34,6 +34,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Rogue Assassin's Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Deep Wound](Talents.md#deep-wound) Talent applies an [Anti-Heal](Status_Effects.md#deep-wound) effect for 20 seconds and grants a speed boost for 6 seconds when assassinating a target. Additionally, it allows your Assassination damage to scale with your level in PvE.
+The [Deep Wound](Talents/Vow_of_Iron.md#deep-wound) Talent applies an [Anti-Heal](Status_Effects.md#deep-wound) effect for 20 seconds and grants a speed boost for 6 seconds when assassinating a target. Additionally, it allows your Assassination damage to scale with your level in PvE.
 
-The [Poisoned Knife](Talents.md#poisoned-knife) Talent increases the duration of Deep Wound's anti-heal to 60 seconds.
+The [Poisoned Knife](Talents/Vow_of_Iron.md#poisoned-knife) Talent increases the duration of Deep Wound's anti-heal to 60 seconds.

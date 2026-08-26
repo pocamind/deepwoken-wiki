@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Operative Cloak"
-revid: 222398
+revid: 227735
 source: https://deepwoken.fandom.com/wiki/Prophet's_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -34,6 +34,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Prophet's Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Tempo Sap](Talents.md#tempo-sap) Talent grants a Talent tool that enhances the M1 attacks of your Dagger weapons. Tempo Sap enhanced M1s steal your opponent's Tempo on hit. Tempo Sap lasts 20 seconds with a 1 minute cooldown.
+The [Tempo Sap](Talents/Vow_of_Iron.md#tempo-sap) Talent grants a Talent tool that enhances the M1 attacks of your Dagger weapons. Tempo Sap enhanced M1s steal your opponent's Tempo on hit. Tempo Sap lasts 20 seconds with a 1 minute cooldown.
 
-The [Eureka](Talents.md#eureka) Talent grants +10% Mantra damage to your next Mantra cast when you gain 3 stacks of Inspiration. Inspiration stacks are gained from parrying and landing Mantras. Autoparry frames and multihits do not grant additional stacks of Inspiration.
+The [Eureka](Talents/Vow_of_Iron.md#eureka) Talent grants +10% Mantra damage to your next Mantra cast when you gain 3 stacks of [Inspiration](Status_Effects.md#inspiration). Inspiration stacks are gained from parrying and landing Mantras. Autoparry frames and multihits do not grant additional stacks of Inspiration.

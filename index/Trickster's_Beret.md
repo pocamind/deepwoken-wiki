@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Beret"
-revid: 222738
+revid: 227753
 source: https://deepwoken.fandom.com/wiki/Trickster's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -34,6 +34,6 @@ This content is not accessible outside of this gamemode.
 
 The Trickster's Beret is a Unique [Equipment](Equipment.md) Item found under the "Head" category.
 
-The [Jester's Ruse](Talents.md#jesters-ruse) Talent has a 10% chance to nullify incoming **and** outgoing damage on hit.
+The [Jester's Ruse](Talents/Vow_of_Iron.md#jesters-ruse) Talent has a 10% chance to nullify incoming **and** outgoing damage on hit.
 
-The [Cap Artist](Talents.md#cap-artist) Talent allows you to press Comma while crouching to ragdoll your character and put yourself into a sleep-like state where you cannot move or use any abilities. Pressing Comma again will deactivate this ability. Cap Artist's hotkey can be changed in settings.
+The [Cap Artist](Talents/Vow_of_Iron.md#cap-artist) Talent allows you to press Comma while crouching to ragdoll your character and put yourself into a sleep-like state where you cannot move or use any abilities. Pressing Comma again will deactivate this ability. Cap Artist's hotkey can be changed in settings.

@@ -1,6 +1,6 @@
 ---
 title: Trueblood Pendant
-revid: 222742
+revid: 227757
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,10 +40,10 @@ Variants: [Earrings](Trueblood_Earrings.md)
 
 The Trueblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Blood Pact](Talents.md#blood-pact) Talent grants 50 [Temporary Health](Status_Effects.md#temporary-health) whenever you knock or kill an enemy.
+The [Blood Pact](Talents/Vow_of_Iron.md#blood-pact) Talent grants 50 [Temporary Health](Status_Effects.md#temporary-health) whenever you knock or kill an enemy.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Critical Heal](Talents.md#critical-heal) - Every time you heal, you have a 5% chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
+Set Talent: [Critical Heal](Talents/Vow_of_Iron.md#critical-heal) - Every time you heal, you have a 5% chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]

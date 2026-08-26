@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Vessel's Boots"
-revid: 221625
+revid: 227712
 source: https://deepwoken.fandom.com/wiki/Corrupted_Vessel's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]
@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 The Corrupted Vessel's Boots are an equipment item exclusive to [Vow of Iron](Vow_of_Iron.md).
 
-The [Vessel's Gamble](Talents.md#vessels-gamble) Talent makes the wearer take 3 times damage from any attack that guardbreaks them. This Talent is actively detrimental, but is offset by the equipment giving you a flat 20 additional posture.
+The [Vessel's Gamble](Talents/Vow_of_Iron.md#vessels-gamble) Talent makes the wearer take 3 times damage from any attack that guardbreaks them. This Talent is actively detrimental, but is offset by the equipment giving you a flat 20 additional posture.
 
 ## Trivia
 
