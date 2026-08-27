@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 224088
+revid: 227769
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -135,7 +135,7 @@ Do not use these items on an already enchanted item. Both items have to be obtai
 | 
 
  | 5 | Clear a [World Event](World_Events.md).  
-Defeat [Interluminary Parasol](Interluminary_Parasol.md) OR [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR complete the [Carnival of Hearts](Carnival_of_Hearts.md). |
+Defeat [Interluminary Parasol](Interluminary_Parasol.md) OR complete the [Carnival of Hearts](Carnival_of_Hearts.md). |
 | 
 
  | 5 | Use a [Pluripotent Alloy](Pluripotent_Alloy.md) to alloy a weapon.  

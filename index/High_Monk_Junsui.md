@@ -230,7 +230,7 @@ High Monk Junsui is located inside of [The Golden Rat](The_Golden_Rat.md), stand
 
 -   Junsui is a Japanese name meaning "pure".
     -   It was partially chosen due to resembling the name "Jinshi", a character in _The Apothecary Diaries_, a historical drama novel, manga and anime series set in a fictionalized version of Tang Dynasty China.
--   Junsui has a unique Iron Memento on his braided sash.
+-   Junsui has a unique [Iron Memento](Iron_Memento.md) on his braided sash.
     -   This same unique Iron Memento can also be found in Nagatony's Picture Booth.
 
 ## References

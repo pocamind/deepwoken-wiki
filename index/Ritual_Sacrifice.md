@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 227018
+revid: 227837
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Named Items, Legendary Weapons]
@@ -51,11 +51,12 @@ Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weap
 [**Sacrificial Boon**](Talents.md#sacrificial-boon) grants a random buff upon using the Talent tool at the cost of 5. This Talent has a 0.5 second cooldown. The buffs are as follows:
 
 -   20% damage buff. This buff is also applied to Mantras
--   [Hyperarmor](Status_Effects.md#hyperarmor) for 10 seconds. This will be lost upon casting any Mantra
+-   [Hyperarmor](Status_Effects.md#hyperarmor) for 10 seconds. Like all other forms of Hyperarmor, this effect ends early if you cast a Mantra.
 -   Instantly heal 50 health
--   Thirst restoration
--   Stomach restoration
+-   Stomach and Thirst restoration
 -   [Speed Boost](Status_Effects.md#speed-boost) for 10 seconds
+
+Additionally, executing a player will grant 50 Knowledge. This is not mentioned in the Talent's description.
 
 [**Pierce Through**](Talents.md#pierce-through) augments the first hit of your **default spear** critical. Your critical attack will no longer cancel if the first hit is parried, without giving autoparry frames. The second hit of your spear critical will almost always land because of this.
 

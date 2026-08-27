@@ -1,6 +1,6 @@
 ---
 title: Captain Rendez
-revid: 224686
+revid: 227814
 source: https://deepwoken.fandom.com/wiki/Captain_Rendez
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | name | Rendez |
 | aspect | Felinor |
-| location | Outpost Wrath |
+| location | Outpost Worth |
 | affiliation | The Central Authority |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -38,7 +38,7 @@ These missions are timed objectives that vary in difficulty depending on the obj
 
 ## Location
 
-Captain Rendez is located at [Outpost Wrath](Outpost_Wrath.md), stationed near [Summer Isle](Summer_Isle.md).
+Captain Rendez is located at [Outpost Worth](Outpost_Worth.md), stationed near [Summer Isle](Summer_Isle.md).
 
 ## Dialogue
 

@@ -85,7 +85,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
-  <div><small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
+  <div><br>
+  <small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
   <td>35 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -99,7 +100,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
-  <div><small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
+  <div><br>
+  <small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
   <td>35 MED</td>
   <td>25</td>
   <td>MED: 7</td>
@@ -148,7 +150,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
-  <div><small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
   <td>50 MED</td>
   <td>19</td>
   <td>MED: 6</td>
@@ -240,7 +243,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
-  <div><small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
+  <div><br>
+  <small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 6.5</td>
@@ -313,7 +317,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
-  <div><small><a href="#trident-spear">Trident Spear</a></small></div></td>
+  <div><br>
+  <small><a href="#trident-spear">Trident Spear</a></small></div></td>
   <td>85 MED</td>
   <td>19</td>
   <td>MED: 7</td>

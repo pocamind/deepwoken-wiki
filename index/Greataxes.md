@@ -56,7 +56,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
-  <div><small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
   <td>25 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>22</td>
@@ -71,7 +72,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
-  <div><small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
   <td>35 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -86,7 +88,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
-  <div><small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
   <td>35 HVY</td>
   <td>24</td>
   <td>HVY: 7</td>
@@ -208,7 +211,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
-  <div><small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
+  <div><br>
+  <small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 9</td>
@@ -222,7 +226,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
-  <div><small><a href="#halberd">Halberd</a></small></div></td>
+  <div><br>
+  <small><a href="#halberd">Halberd</a></small></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 8</td>
@@ -236,7 +241,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
-  <div><small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
+  <div><br>
+  <small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
   <td>75 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>

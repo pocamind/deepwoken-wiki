@@ -69,7 +69,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
-  <div><small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
   <td>10 MED</td>
   <td>20</td>
   <td>MED: 5</td>
@@ -83,7 +84,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
-  <div><small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
   <td>20 MED</td>
   <td>16</td>
   <td>MED: 6</td>
@@ -110,7 +112,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
-  <div><small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
   <td>25 MED</td>
   <td>18</td>
   <td>MED: 6</td>
@@ -137,7 +140,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
-  <div><small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
   <td>30 MED</td>
   <td>22</td>
   <td>MED: 4.5</td>
@@ -151,7 +155,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
-  <div><small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
   <td>40 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -178,7 +183,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
-  <div><small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
   <td>40 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>21</td>
@@ -247,7 +253,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
-  <div><small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
   <td>45 MED</td>
   <td>22</td>
   <td>MED: 5</td>
@@ -404,7 +411,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
-  <div><small><a href="#messer">Messer</a></small></div></td>
+  <div><br>
+  <small><a href="#messer">Messer</a></small></div></td>
   <td>75 MED</td>
   <td>21</td>
   <td>MED: 6</td>
@@ -418,7 +426,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
-  <div><small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
+  <div><br>
+  <small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
   <td>75 MED</td>
   <td>22.5</td>
   <td>MED: 5.5</td>
@@ -432,7 +441,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
-  <div><small><a href="#officer-saber">Officer Saber</a></small></div></td>
+  <div><br>
+  <small><a href="#officer-saber">Officer Saber</a></small></div></td>
   <td>75 MED</td>
   <td>23</td>
   <td>MED: 4.8</td>
@@ -446,7 +456,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
-  <div><small><a href="#falchion">Falchion</a></small></div></td>
+  <div><br>
+  <small><a href="#falchion">Falchion</a></small></div></td>
   <td>75 MED</td>
   <td>18</td>
   <td>MED: 7</td>
@@ -460,7 +471,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
-  <div><small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
+  <div><br>
+  <small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7.5</td>
@@ -474,7 +486,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
-  <div><small><a href="#shotel">Shotel</a></small></div></td>
+  <div><br>
+  <small><a href="#shotel">Shotel</a></small></div></td>
   <td>75 MED</td>
   <td>22</td>
   <td>MED: 6</td>
@@ -488,7 +501,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
-  <div><small><a href="#katana">Katana</a></small></div></td>
+  <div><br>
+  <small><a href="#katana">Katana</a></small></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7</td>
@@ -552,6 +566,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>5.5</td>
   <td>8</td>
   <td>0.93x</td>
+  <td>-</td>
   <td>33.5</td>
 </tr>
 <tr>
@@ -733,19 +748,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
-</tr>
-<tr>
-  <td><b><a href="Phantomcleave.md">Phantomcleave</a><abbr></abbr></b></td>
-  <td>75 MED</td>
-  <td>20</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
-  <td>8</td>
-  <td>1x</td>
-  <td>-</td>
-  <td>30.5</td>
 </tr>
 </tbody>
 </table>

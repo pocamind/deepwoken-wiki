@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 225603
+revid: 227832
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,7 +34,7 @@ The Bladeharper Oath is a result of the player conducting a **Reflection Ritual*
 3.  Defeat Mind's Reflection (a 1:1 copy of yourself, which has your currently equipped weapon, Talents and Mantras) to obtain the Oath.
     1.  It will use all Mantras you have, not just the ones you have equipped, and also Bladeharper Mantras that you haven't unlocked (e.g. On the first statue, the mirror can use Palm Strike and at the last statue the mirror can use Decimate). It's best to get rid of unwanted Mantras via [Deep Shrines](Deep_Shrines.md) if you're not ready.
     2.  It seems to not have the same Mantra modifiers that you may have. For example: Frostdraw's Warden Blades can become bigger using stratus stones but the mirror will have the original size and possibly the original level (not tested).
-    3.  The mirror starts out with 1 life in the first encounter, increasing by 1 for each encounter (1 + 2 + 3). When the mirror loses a life and still has lives, it vents then teleports back within the center of the Blade Within to return to neutral. This makes 6 in total to obtain and fully progress the oath. **NOTE:** Losing to your Bladeharper mirror _**DOES**_ result in losing a life.
+    3.  The mirror has 3 lives. When the mirror loses remaining lives, it vents then teleports back within the center of the Blade Within to return to neutral.**NOTE:** Losing to your Bladeharper mirror _**DOES**_ result in losing a life.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/2MkMAHH03x4)._
 
@@ -44,9 +44,9 @@ _Bladeharper **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oat
 
 The Oath can be progressed through interaction with the different other [Sky Statues](Sky_Statue.md) and defeating Mind's Reflection again with each, up to three times, granting the player up to 2 Mantras and corresponding Talents.
 
--   Obtaining the Oath grants the Talent Lithe Step and Mantra Palm Strike.
+-   Obtaining the Oath grants the Lithe Step Talent and Palm Strike Mantra.
 -   The second Sky Statue grants the Talents Soaring Storm and Untouchable.
--   The final Sky statue will grants Reveal, Float Like A Butterfly, and Decimate.
+-   The final Sky statue grants the Float Like A Butterfly Talent, Decimate Mantra, and Reveal ability.
 
 ## Effects
 

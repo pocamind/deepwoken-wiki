@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 223286
+revid: 227779
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, The Divers]
@@ -24,6 +24,8 @@ categories: [Master Outfits, Outfits, The Divers]
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
+
+_This is the Black Diver Outfit. To see the NPC under the same name, check [Black Diver (NPC)](<Black_Diver_(NPC).md>)._
 
 **Black Diver** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 

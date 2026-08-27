@@ -345,7 +345,7 @@
   },
   "1242": {
     "title": "Oaths",
-    "lastrevid": 226752
+    "lastrevid": 227835
   },
   "1264": {
     "title": "The Temple of the Forgotten Flame",
@@ -433,7 +433,7 @@
   },
   "1433": {
     "title": "Vow of Mastery",
-    "lastrevid": 204258
+    "lastrevid": 227842
   },
   "1441": {
     "title": "Sky Statue",
@@ -525,7 +525,7 @@
   },
   "1665": {
     "title": "Ores",
-    "lastrevid": 211222
+    "lastrevid": 227831
   },
   "1667": {
     "title": "Rat's Den",
@@ -549,7 +549,7 @@
   },
   "1742": {
     "title": "Nautilodaunt",
-    "lastrevid": 225390
+    "lastrevid": 227818
   },
   "1743": {
     "title": "Brainsucker",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 227666
+    "lastrevid": 227844
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -937,7 +937,7 @@
   },
   "2683": {
     "title": "Black Diver",
-    "lastrevid": 223286
+    "lastrevid": 227779
   },
   "2684": {
     "title": "Ferryman's Coat",
@@ -1361,7 +1361,7 @@
   },
   "3491": {
     "title": "Officer Saber",
-    "lastrevid": 222942
+    "lastrevid": 227770
   },
   "3507": {
     "title": "Horseshoe Crab",
@@ -2265,7 +2265,7 @@
   },
   "5577": {
     "title": "First Layer",
-    "lastrevid": 226226
+    "lastrevid": 227800
   },
   "5623": {
     "title": "Traits",
@@ -2289,7 +2289,7 @@
   },
   "5671": {
     "title": "Echoes",
-    "lastrevid": 224088
+    "lastrevid": 227769
   },
   "5672": {
     "title": "Chime of Dwelling",
@@ -2577,7 +2577,7 @@
   },
   "6245": {
     "title": "Black Diver (NPC)",
-    "lastrevid": 225018
+    "lastrevid": 227778
   },
   "6246": {
     "title": "Diver Journeyman Robes",
@@ -4561,7 +4561,7 @@
   },
   "13903": {
     "title": "Oath: Bladeharper",
-    "lastrevid": 225603
+    "lastrevid": 227832
   },
   "13940": {
     "title": "Cerulean",
@@ -5901,7 +5901,7 @@
   },
   "17876": {
     "title": "Operation 'Puppet Master' Report",
-    "lastrevid": 215478
+    "lastrevid": 227840
   },
   "17877": {
     "title": "Ossuary Maintenance",
@@ -6065,7 +6065,7 @@
   },
   "18181": {
     "title": "Doom of Caeranthil's Scale",
-    "lastrevid": 216694
+    "lastrevid": 227829
   },
   "18198": {
     "title": "Bloodless Gem",
@@ -6433,11 +6433,11 @@
   },
   "18640": {
     "title": "Enmity's Armor Piece",
-    "lastrevid": 217800
+    "lastrevid": 227827
   },
   "18641": {
     "title": "Titus' Armor Piece",
-    "lastrevid": 217909
+    "lastrevid": 227828
   },
   "18642": {
     "title": "Merit Detainment Core",
@@ -6577,7 +6577,7 @@
   },
   "18854": {
     "title": "Champion's Alloy",
-    "lastrevid": 226423
+    "lastrevid": 227830
   },
   "18930": {
     "title": "The Blade Within",
@@ -7345,7 +7345,7 @@
   },
   "20960": {
     "title": "Ritual Sacrifice",
-    "lastrevid": 227018
+    "lastrevid": 227837
   },
   "20967": {
     "title": "??? (Blindseer Glyphs)",
@@ -7801,7 +7801,7 @@
   },
   "21493": {
     "title": "Trickster's Beret",
-    "lastrevid": 227753
+    "lastrevid": 227822
   },
   "21494": {
     "title": "Hardened Crystal Earrings",
@@ -8329,11 +8329,11 @@
   },
   "22088": {
     "title": "Blackalloy Pauldrons",
-    "lastrevid": 227693
+    "lastrevid": 227821
   },
   "22089": {
     "title": "Blackalloy Helm",
-    "lastrevid": 227694
+    "lastrevid": 227819
   },
   "22090": {
     "title": "Prophet's Operative Cloak",
@@ -8781,7 +8781,7 @@
   },
   "23135": {
     "title": "Withered Death Knell",
-    "lastrevid": 226252
+    "lastrevid": 227824
   },
   "23137": {
     "title": "Withered Phantomcleave",
@@ -8953,7 +8953,7 @@
   },
   "23306": {
     "title": "Ossified Black Pauldrons",
-    "lastrevid": 227670
+    "lastrevid": 227826
   },
   "23307": {
     "title": "Ember Scorch Earrings",
@@ -9009,7 +9009,7 @@
   },
   "23401": {
     "title": "Ossified Black Helm",
-    "lastrevid": 227671
+    "lastrevid": 227825
   },
   "23414": {
     "title": "Vaporfrost Earrings",
@@ -9653,15 +9653,15 @@
   },
   "26120": {
     "title": "Captain Rendez",
-    "lastrevid": 224686
+    "lastrevid": 227814
   },
   "26121": {
     "title": "Captain Massi",
     "lastrevid": 225461
   },
   "26122": {
-    "title": "Outpost Wrath",
-    "lastrevid": 223768
+    "title": "Outpost Worth",
+    "lastrevid": 227815
   },
   "26123": {
     "title": "Outpost Dignity",
@@ -9774,5 +9774,9 @@
   "26450": {
     "title": "Vinegar",
     "lastrevid": 227653
+  },
+  "26459": {
+    "title": "Iron Memento",
+    "lastrevid": 227774
   }
 }

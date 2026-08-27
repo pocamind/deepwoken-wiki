@@ -1944,11 +1944,11 @@ These Talents are instantly provided to the Player when they defeat the respecti
     -   Summoning an adult Phoenix, then commanding it to take air will allow you to select a spot where it should Divebomb on the next usage of the Talent.
     -   Prerequisite: [Solborn](../Solborn.md) Memento
 
--   Heliodar Wings \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - Take flight \[\].
+-   Heliodar Wings \[Memento Talent, [Vow of Iron](../Vow_of_Iron.md) Exclusive\] - Take flight \[H\].
     
     -   Gives a Talent tool that allows you to fly. This flight will passively drain your Heartfire Gauge. Using the wings with an empty Heartfire Gauge will set you on fire.
     -   Attempting to use this during the [Rat King](../Dravik,_The_Rat_King.md) fight will cause him to use the Sparkle Blitz move.
-    -   While flying, hold to ascend, to descend, and to speed up.
+    -   While flying, hold Space to ascend, Ctrl to descend, and Q to speed up.
     -   Prerequisites: [Solborn](../Solborn.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<../Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 #### Immolator

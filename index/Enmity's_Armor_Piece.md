@@ -1,6 +1,6 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 217800
+revid: 227827
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -26,12 +26,12 @@ categories: [Items, Drops, Ingredients]
 ## Crafting
 
 -   [Equipment](Equipment.md)
-    -   [Reinforced War Plate](Reinforced_War_Plate.md): 1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 Enmity's Armor Piece + 3 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md)
-    -   [Specialist Plate](Specialist_Plate.md): 1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 Enmity's Armor Piece + 3 [Storm Enchant Stones](Enchant_Stone.md) at [Merit Detainment Core](Merit_Detainment_Core.md)
-    -   [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md): [Enforcer Plate](Enforcer_Plate.md) + 1 Enmity's Armor Piece + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md)
-    -   [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md): [Enforcer Boots](Enforcer_Boots.md) + 1 Enmity's Armor Piece + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md)
+    -   [Reinforced War Plate](Reinforced_War_Plate.md): 1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 Enmity's Armor Piece + 3 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md) [CraftingEmpty](Merit_Detainment_Core.md).
+    -   [Specialist Plate](Specialist_Plate.md): 1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 Enmity's Armor Piece + 3 [Storm Enchant Stones](Enchant_Stone.md) at [Merit Detainment Core](Merit_Detainment_Core.md) [CraftingEmpty](Merit_Detainment_Core.md).
+    -   [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md): [Enforcer Plate](Enforcer_Plate.md) + 1 Enmity's Armor Piece + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md) [CraftingEmpty](Lost_Forge_of_Leiuna.md).
+    -   [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md): [Enforcer Boots](Enforcer_Boots.md) + 1 Enmity's Armor Piece + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md) [CraftingEmpty](Lost_Forge_of_Leiuna.md).
 -   [Ingredients](Ingredients.md)
-    -   [Champion's Alloy](<Champion's_Alloy.md>): 1 Enmity's Armor Piece + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) at [The Cold Forge](The_Cold_Forge.md)
+    -   [Champion's Alloy](<Champion's_Alloy.md>): 1 Enmity's Armor Piece + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) at [Lost Forge](Lost_Forge_of_Leiuna.md) [CraftingEmpty](Lost_Forge_of_Leiuna.md).
 
 ## Trivia
 

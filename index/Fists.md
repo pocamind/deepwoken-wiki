@@ -356,7 +356,8 @@ This attack has a **5 second cooldown**.
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
-  <div><small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <div><br>
+  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -501,7 +502,8 @@ This attack has a **5 second cooldown**.
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
-  <div><small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <div><br>
+  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>
@@ -526,20 +528,6 @@ This attack has a **5 second cooldown**.
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
-</tr>
-<tr>
-  <td><b><a href="The_Death_Knell.md">The Death Knell</a><abbr></abbr></b></td>
-  <td>25 LHT</td>
-  <td>12</td>
-  <td>LHT: 4<br>
-  WLL: 11</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>5</td>
-  <td>6.5</td>
-  <td>1.1x</td>
-  <td>-</td>
-  <td>25.5</td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>

@@ -27,7 +27,7 @@ Who heard the solemn call. ”
 
 The Circle of Honour is an organization whose main goal is to defeat [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) of [the Ministry](The_Ministry.md). To this end, [The Inheritor](The_Inheritor.md) goes through [Mementos](Mementos.md): Memories of the fallen Circle of Honour members to face him in the past and find a way to defeat him in the present.
 
-Those who are members of the Circle must have taken the [Vow of Iron](Vow_of_Iron.md). Certain members of the Circle wear an Iron Memento, an iron tag.
+Those who are members of the Circle must have taken the [Vow of Iron](Vow_of_Iron.md). Certain members of the Circle wear an [Iron Memento](Iron_Memento.md), an iron tag.
 
 The Circle was allied with the [Etrean Royalists](Etrean_Royalists.md) during the [Etrean Civil War](Etrean_Civil_War.md), due to both sharing the cause of wanting to take down Zi'eer. However, the Circle has no concrete political affiliation. Their members come from a variety of factions, many of which are at odds with one another.
 

@@ -214,7 +214,7 @@ There are currently three Talents related to fishing, each automatically obtaine
 </tbody>
 </table>
 
--   **Proficient Baiting** \[Quest Talent • Angler\] - Casting your line excites ocea life, reducing the chances of fishing up trash.
+-   **Proficient Baiting** \[Angler • Quest Talent\] - Casting your line excites ocea life, reducing the chances of fishing up trash.
     
     -   Drastically increases the chances of catching fish instead of junk items.
     -   This inadvertently reduces the chances of fishing up chests however, due to fish being more common.  
@@ -241,7 +241,7 @@ There are currently three Talents related to fishing, each automatically obtaine
 </tbody>
 </table>
 
--   **Hook, Line, and Sinker** \[Quest Talent • Angler\] - Once something's caught your line, it's much harder for it to get loose.
+-   **Hook, Line, and Sinker** \[Angler • Quest Talent\] - Once something's caught your line, it's much harder for it to get loose.
     
     -   Increases the amount of time provided to complete the fishing minigame.  
         
@@ -267,7 +267,7 @@ There are currently three Talents related to fishing, each automatically obtaine
 </tbody>
 </table>
 
--   **Fisher's Lure** \[Quest Talent • Angler\] - Fish are drawn to your line more quickly.
+-   **Fisher's Lure** \[Angler • Quest Talent\] - Fish are drawn to your line more quickly.
     
     -   Reduces the amount of time it takes to get a bite.  
         

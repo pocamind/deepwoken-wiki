@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227666
+revid: 227844
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5746,133 +5746,395 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Ignition Card_ \[Origin Talent\] - A card representing your membership in the Ignition Union. Entitles you to speedier experience gain from Dungeons and Jobs, though the fees will slightly reduce your experience gain outside of these.
     -   Gain increased EXP gain from [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md), but reduced EXP gain from any other content.
-    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin
+    -   Allows you to passively restore Sanity at [the Chariot's Spire](<The_Chariot's_Spire.md>).  
+        
+    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin  
+        
+    -   Tags: \[[Ignition Delver](Ignition_Delver.md)\]
+
+-   **Ignition Card** \[Origin Talent\] - A card representing your membership in the Ignition Union. Entitles you to speedier experience gain from Dungeons and Jobs, though the fees will slightly reduce your experience gain outside of these.
+    -   Gain increased EXP gain from [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md), but reduced EXP gain from any other content.
+    -   Allows you to passively restore Sanity at [the Chariot's Spire](<The_Chariot's_Spire.md>).  
+        
+    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin  
+        
+    -   Tags: \[[Ignition Delver](Ignition_Delver.md)\]
 
 -   _Union Pager_ \[Origin Talent\] - Check up on job listings remotely.
     -   Grants a Talent tool that acts as a remote-access [Job Board](Job_Boards.md), allowing you to pick up jobs from any location.
-    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin
+    -   Does not work on console.  
+        
+    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin  
+        
+    -   Tags: \[[Ignition Delver](Ignition_Delver.md)\] \[Tool\]
+
+-   **Union Pager** \[Origin Talent\] - Check up on job listings remotely.
+    -   Grants a Talent tool that acts as a remote-access [Job Board](Job_Boards.md), allowing you to pick up jobs from any location.
+    -   Does not work on console.  
+        
+    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin  
+        
+    -   Tags: \[[Ignition Delver](Ignition_Delver.md)\] \[Tool\]
 
 ### Ignition Union
 
 -   _Union Hook_ \[Quest Talent\] - You can now make use of the Ignition [Union hooks](Union_Hooks.md) to ascend or descend.
-    -   Prerequsites: Save [Epsi](Epsi.md) in the entrance of Firfire then speak to [Alpha](Alpha.md) OR [Ignition Delver](Ignition_Delver.md) Origin
+    -   Press E at the bottom of a [Union Hook](Union_Hooks.md) to quickly ascend, or at the top to safely descend.  
+        
+    -   Prerequisites: Save [Epsi](Epsi.md) in the entrance of Firfire then speak to [Alpha](Alpha.md) OR [Ignition Delver](Ignition_Delver.md) Origin  
+        
+    -   Tags: \[[Ignition Delver](Ignition_Delver.md)\]
+
+-   **Union Hook** \[Quest Talent\] - You can now make use of the Ignition [Union hooks](Union_Hooks.md) to ascend or descend.
+    -   Press E at the bottom of a [Union Hook](Union_Hooks.md) to quickly ascend, or at the top to safely descend.  
+        
+    -   Prerequisites: Save [Epsi](Epsi.md) in the entrance of Firfire then speak to [Alpha](Alpha.md) OR [Ignition Delver](Ignition_Delver.md) Origin  
+        
+    -   Tags: \[[Ignition Delver](Ignition_Delver.md)\]
 
 ### Immolator
 
--   Agitating Spark \[Common Talent, Flamecharm\] - Applying **[Burning](Status_Effects.md#burn)** to enemies spreads it to anyone nearby. Including yourself.
+-   **Agitating Spark** \[Common Talent\] - Applying **[Burning](Status_Effects.md#burning)** to enemies spreads it to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
     -   Agitating Spark bypasses block and parry.
     -   Procs on self damage.
     -   Has a 1 second cooldown.
-    -   Can spread to allies. The Controlled Combustion Talent will prevent Agitating Spark spreading burn to yourself and your allies.
-    -   Prerequisite: 40 Flamecharm
+    -   Can spread to allies. The [Controlled Combustion](#controlled-combustion) Talent will prevent Agitating Spark spreading burn to yourself and your allies.  
+        
+    -   Prerequisites: 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
 
--   Immolation \[Common Talent, Flamecharm\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
-    -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
+-   **Agitating Spark** \[Common Talent\] - Applying **[Burning](Status_Effects.md#burning)** to enemies spreads it to anyone nearby. Including yourself.
+    -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
+    -   Agitating Spark bypasses block and parry.
+    -   Procs on self damage.
+    -   Has a 1 second cooldown.
+    -   Can spread to allies. The [Controlled Combustion](#controlled-combustion) Talent will prevent Agitating Spark spreading burn to yourself and your allies.  
+        
+    -   Prerequisites: 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
+
+-   **Immolation** \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
+    -   "Self-Inflicted flames" include Flame Within, [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow) or [Metal Eruption](Ironsing.md#metal-eruption)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
-    -   Prerequisites: Agitating Spark, 40 Flamecharm
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.  
+            
+    -   Grants +8 Sanity  
+        
+    -   Prerequisites: [Agitating Spark](#agitating-spark), 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[+Sanity\] \[Damage Resistance\]
 
--   _**Phoenix Flames**_ \[Advanced Talent, Flamecharm\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-    -   Healing scales on your Flamecharm investment; heals 25% health at 0 Flamecharm and scales up to 50% health at 75 Flamecharm, gaining 0.33% healing per point in Flamecharm.
-    -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
-    -   Prerequisites: Immolation, Agitating Spark
+-   **Immolation** \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
+    -   "Self-Inflicted flames" include Flame Within, [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
+    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.  
+            
+    -   Grants +8 Sanity  
+        
+    -   Prerequisites: [Agitating Spark](#agitating-spark), 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[+Sanity\] \[Damage Resistance\]
+
+-   _**Phoenix Flames**_ \[Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
+    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, becore capping at 50% health at 75 investment.
+    -   If you used [Flame Within](#flame-within) while [Unconscious](Status_Effects.md#unconscious) to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
+    -   Synergizes with [Corpse Explosion](#corpse-explosion), as that halves the time taken to incinerate burning targets, including yourself.  
+        
+    -   Prerequisites: [Agitating Spark](#agitating-spark), [Immolation](#immolation)  
+        
+    -   Tags: \[Flamecharm\] \[Investment Scaling\] \[Sustain\]
+
+-   **Phoenix Flames** \[Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
+    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, becore capping at 50% health at 75 investment.
+    -   If you used [Flame Within](#flame-within) while [Unconscious](Status_Effects.md#unconscious) to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
+    -   Synergizes with [Corpse Explosion](#corpse-explosion), as that halves the time taken to incinerate burning targets, including yourself.  
+        
+    -   Prerequisites: [Agitating Spark](#agitating-spark), [Immolation](#immolation)  
+        
+    -   Tags: \[Flamecharm\] \[Investment Scaling\] \[Sustain\]
 
 ### Inferno
 
--   Corpse Explosion \[Common Talent, Flamecharm\] - Bodies that you burn to death immediately explode, dealing massive damage. Your fires will incinerate unconscious targets much faster.
+-   **Corpse Explosion** \[Common Talent\] - Bodies that you burn to death immediately explode, dealing massive damage. Your fires will incinerate unconscious targets much faster.
     -   The amount of time it takes to incinerate unconscious targets is halved, from 7 to 3.5 seconds.
         -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
-    -   The explosion does not work; you'll burn them to death without an explosion.
-    -   Prerequisites: 60 Flamecharm, Agitating Spark
+    -   The explosion does not work; you'll burn them to death without an explosion.  
+        
+    -   Prerequisites: [Agitating Spark](#agitating-spark), 60 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
 
--   Pleeksty's Faith \[Common Talent, Willpower, Charisma, Flamecharm\] - When on fire, automatically quench flames at the cost of some ether.
+-   **Corpse Explosion** \[Common Talent\] - Bodies that you burn to death immediately explode, dealing massive damage. Your fires will incinerate unconscious targets much faster.
+    -   The amount of time it takes to incinerate unconscious targets is halved, from 7 to 3.5 seconds.
+        -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
+    -   The explosion does not work; you'll burn them to death without an explosion.  
+        
+    -   Prerequisites: [Agitating Spark](#agitating-spark), 60 Flamecharm  
+        
+    -   Tags: \[Flamecharm\]
+
+-   **Pleeksty's Faith** \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
     -   Costs 20 Ether.
     -   Does not proc on self-inflicted flames.
-    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
-    -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
+    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.  
+        
+    -   Prerequisites: 15 Willpower, 15 Charisma, 25 Flamecharm  
+        
+    -   Tags: \[Willpower\] \[Charisma\] \[Flamecharm\]
+
+-   **Pleeksty's Faith** \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
+    -   Costs 20 Ether.
+    -   Does not proc on self-inflicted flames.
+    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.  
+        
+    -   Prerequisites: 15 Willpower, 15 Charisma, 25 Flamecharm  
+        
+    -   Tags: \[Willpower\] \[Charisma\] \[Flamecharm\]
 
 ### Innate
 
-Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of Iron](Vow_of_Iron.md) gamemode, you will additionally gain the [Vow of Iron exclusive Aspect Talents](Talents/Vow_of_Iron.md#innate) from your respective Aspect.
+Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of Iron](Vow_of_Iron.md) gamemode, you will additionally gain the [Vow of Iron exclusive Aspect Talents](Talents/Vow_of_Iron.md#innate) from your respective Aspect. These are ordered based on the alphabetical order of the Aspect names.
 
--   _Ad Astra_ \[Race Talent, [Lightborn](Lightborn.md) Exclusive\] - Return Home
+-   _Maudet_: [Adret](Adret.md) - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
+    -   Passively obtain the benefits of the [Autodidact](Boons_and_Flaws.md#autodidact) Boon, gaining 3 Free Training Attribute points to spend every level. This effect stacks with the Boon in question.
+    -   Increases [reputation](Reputation.md) gain with factions and your starting reputation with all factions.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Adret](Adret.md)\] \[Aspect\]
+
+-   **Maudet**: [Adret](Adret.md) - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
+    -   Passively obtain the benefits of the [Autodidact](Boons_and_Flaws.md#autodidact) Boon, gaining 3 Free Training Attribute points to spend every level. This effect stacks with the Boon in question.
+    -   Increases [reputation](Reputation.md) gain with factions and your starting reputation with all factions.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Adret](Adret.md)\] \[Aspect\]
+
+-   _Loyalty_: [Canor](Canor.md) - Your bond with your allies is strong enough to reduce damage between you.
+    -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the [Give and Take](#give-and-take) Talent, totaling to 48% damage reduction.
+    -   This does not apply to self damage.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Canor](Canor.md)\] \[Aspect\] \[Damage Resistance\] \[Support\]
+
+-   **Loyalty**: [Canor](Canor.md) - Your bond with your allies is strong enough to reduce damage between you.
+    -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the [Give and Take](#give-and-take) Talent, totaling to 48% damage reduction.
+    -   This does not apply to self damage.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Canor](Canor.md)\] \[Aspect\] \[Damage Resistance\] \[Support\]
+
+-   _Mark of Jurik_: [Capra](Capra.md) • Hallowtide/Jurik - Mark of [Jurik, the Moonseye](Glossary.md#jurik-the-moonseye). A beacon of calm, those in your presence are resistant to insanity.
+    -   Gain a tool that grants sanity regeneration to nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen.
+    -   4 minute cooldown.
+    -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
+    -   Also buffs non allies. Does not require you to be resting at a campfire.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Capra](Capra.md)\] \[Hallowtide Variant\] \[Jurik Variant\] \[Aspect\] \[Food\] \[Sanity\] \[Support\] \[Sustain\] \[Tool\]
+
+-   **Mark of Jurik**: [Capra](Capra.md) • Hallowtide/Jurik - Mark of [Jurik, the Moonseye](Glossary.md#jurik-the-moonseye). A beacon of calm, those in your presence are resistant to insanity.
+    -   Gain a tool that grants sanity regeneration to nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen.
+    -   4 minute cooldown.
+    -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
+    -   Also buffs non allies. Does not require you to be resting at a campfire.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Capra](Capra.md)\] \[Hallowtide Variant\] \[Jurik Variant\] \[Aspect\] \[Food\] \[Sanity\] \[Support\] \[Sustain\] \[Tool\]
+
+-   _Mark of Ku_: [Capra](Capra.md) • Ku - Mark of [Ku, the Mother](Glossary.md#ku-the-mother). Improves the rest of those in your presence.
+    -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and gives them slight sanity regen.
+    -   3 minute 30 second cooldown.
+    -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
+    -   Also buffs non allies. Can only be used while you are resting on a campfire.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Capra](Capra.md)\] \[Ku Variant\] \[Aspect\] \[Food\] \[Sanity\] \[Support\] \[Sustain\] \[Tool\]
+
+-   **Mark of Ku**: [Capra](Capra.md) • Ku - Mark of [Ku, the Mother](Glossary.md#ku-the-mother). Improves the rest of those in your presence.
+    -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and gives them slight sanity regen.
+    -   3 minute 30 second cooldown.
+    -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
+    -   Also buffs non allies. Can only be used while you are resting on a campfire.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Capra](Capra.md)\] \[Ku Variant\] \[Aspect\] \[Food\] \[Sanity\] \[Support\] \[Sustain\] \[Tool\]
+
+-   _Mark of Nemit_: [Capra](Capra.md) • Nemit - Mark of [Nemit, the First Beast](Glossary.md#nemit-the-first-beast). Food consumed in your presence is more nourishing.
+    -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and gives them slight sanity regen.
+    -   3 minute 30 second cooldown.
+    -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
+    -   Also buffs non allies. Can only be used while you are resting on a campfire.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Capra](Capra.md)\] \[Nemit Variant\] \[Aspect\] \[Food\] \[Sanity\] \[Support\] \[Sustain\] \[Tool\]
+
+-   **Mark of Nemit**: [Capra](Capra.md) • Nemit - Mark of [Nemit, the First Beast](Glossary.md#nemit-the-first-beast). Food consumed in your presence is more nourishing.
+    -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and gives them slight sanity regen.
+    -   3 minute 30 second cooldown.
+    -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
+    -   Also buffs non allies. Can only be used while you are resting on a campfire.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Capra](Capra.md)\] \[Nemit Variant\] \[Aspect\] \[Food\] \[Sanity\] \[Support\] \[Sustain\] \[Tool\]
+
+-   _Seaborne_: [Celtor](Celtor.md) - You have a keen understanding of ships and their maintenance.
+    -   [Ships](Ships_&_Sailing.md) cost 20% less Notes to construct and repair, turn 20% faster, and have 10% more health.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Celtor](Celtor.md)\] \[Aspect\] \[Mobility\]
+
+-   **Seaborne**: [Celtor](Celtor.md) - You have a keen understanding of ships and their maintenance.
+    -   [Ships](Ships_&_Sailing.md) cost 20% less Notes to construct and repair, turn 20% faster, and have 10% more health.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Celtor](Celtor.md)\] \[Aspect\] \[Mobility\]
+
+-   _Mothwing Dust_: [Chrysid](Chrysid.md) - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
+    -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
+    -   The angle at which you can be backstabbed is reduced heavily.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Chrysid](Chrysid.md)\] \[Aspect\] \[Debuff\]
+
+-   **Mothwing Dust**: [Chrysid](Chrysid.md) - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
+    -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
+    -   The angle at which you can be backstabbed is reduced heavily.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Chrysid](Chrysid.md)\] \[Aspect\] \[Debuff\]
+
+-   _Teachings of the Edenkite_: [Drakkard](Drakkard.md) - Find your centre.
+    -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.
+    -   Very heavily reduces your hunger and thirst consumption while you passively gain General EXP, Attribute EXP, and regenerate health at a mediocre rate, which is slightly reduced when in combat.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Pathfinder](Pathfinder.md) Exclusive\] \[[Drakkard](Drakkard.md)\] \[Aspect\] \[[Spec](Developer_Specs.md)\] \[Sustain\] \[Tool\]
+
+-   **Teachings of the Edenkite**: [Drakkard](Drakkard.md) - Find your centre.
+    -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.
+    -   Very heavily reduces your hunger and thirst consumption while you passively gain General EXP, Attribute EXP, and regenerate health at a mediocre rate, which is slightly reduced when in combat.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Pathfinder](Pathfinder.md) Exclusive\] \[[Drakkard](Drakkard.md)\] \[Aspect\] \[[Spec](Developer_Specs.md)\] \[Sustain\] \[Tool\]
+
+-   _Molt_: [Etrean](Etrean.md) - Ailments and blessings alike fade away more quickly.
+    -   [Chilled](Status_Effects.md#chilled), [Potion](Alchemy.md) effects, and [Suffocation](Status_Effects.md#suffocation) have a shorter duration.
+    -   This does not work on any other status effects.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Etrean](Etrean.md)\] \[Aspect\]
+
+-   **Molt**: [Etrean](Etrean.md) - Ailments and blessings alike fade away more quickly.
+    -   [Chilled](Status_Effects.md#chilled), [Potion](Alchemy.md) effects, and [Suffocation](Status_Effects.md#suffocation) have a shorter duration.
+    -   This does not work on any other status effects.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Etrean](Etrean.md)\] \[Aspect\]
+
+-   _Nightchild_: [Felinor](Felinor.md) - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
+    -   Start with 20% more [stealth](Stealth.md) and gain a 1.2x stealth gain multiplier.
+        -   This Stealth gain multiplier **does not** apply to Stealth gained from Crouching, [Lowstride](#lowstride), [Tacet](Murmur%253A_Tacet.md), [Tacet Minimization](#tacet-minimization), or the 20% Stealth from Felinor itself.
+        -   This Stealth multiplier affects the [Obvious](Boons_and_Flaws.md#obvious) Flaw's -20% Stealth and [Sly](Boons_and_Flaws.md#unlockable-boons) Boon's +15% Stealth, with the former reducing your starting Stealth by -24.
+    -   Gain bonus climb height when climbing on all kind of [surfaces](Terrains.md), not only wooden ones.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Felinor](Felinor.md)\] \[Aspect\] \[Mobility\]
+
+-   **Nightchild**: [Felinor](Felinor.md) - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
+    -   Start with 20% more [stealth](Stealth.md) and gain a 1.2x stealth gain multiplier.
+        -   This Stealth gain multiplier **does not** apply to Stealth gained from Crouching, [Lowstride](#lowstride), [Tacet](Murmur%253A_Tacet.md), [Tacet Minimization](#tacet-minimization), or the 20% Stealth from Felinor itself.
+        -   This Stealth multiplier affects the [Obvious](Boons_and_Flaws.md#obvious) Flaw's -20% Stealth and [Sly](Boons_and_Flaws.md#unlockable-boons) Boon's +15% Stealth, with the former reducing your starting Stealth by -24.
+    -   Gain bonus climb height when climbing on all kind of [surfaces](Terrains.md), not only wooden ones.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Felinor](Felinor.md)\] \[Aspect\] \[Mobility\]
+
+-   _Deepfolk_: [Ganymede](Ganymede.md) - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.
+    -   Grants a 1.2x Sanity gain multiplier, affecting all sources of maximum Sanity increases.
+    -   [Deep Shrine](Deep_Shrines.md) deals cost 1 less Knowledge (minimum 1).  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Ganymede](Ganymede.md)\] \[Aspect\] \[Sanity\]
+
+-   **Deepfolk**: [Ganymede](Ganymede.md) - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.
+    -   Grants a 1.2x Sanity gain multiplier, affecting all sources of maximum Sanity increases.
+    -   [Deep Shrine](Deep_Shrines.md) deals cost 1 less Knowledge (minimum 1).  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Ganymede](Ganymede.md)\] \[Aspect\] \[Sanity\]
+
+-   _Navae's Guidance_: [Gremor](Gremor.md) - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
+    -   Receive a compass, displayed at the top of your screen, which points East.
+    -   Right clicking on the map will place a waypoint both in the physical world and on the map itself. If you already have a waypoint placed, right clicking on the map will change its location instead of placing a new one.
+    -   Reduces the passive hunger loss.
+    -   If you have the [Blind](Boons_and_Flaws.md#flaws) Flaw, gain an area of vision around your character.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Gremor](Gremor.md)\] \[Aspect\] \[Food\]
+
+-   **Navae's Guidance**: [Gremor](Gremor.md) - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
+    -   Receive a compass, displayed at the top of your screen, which points East.
+    -   Right clicking on the map will place a waypoint both in the physical world and on the map itself. If you already have a waypoint placed, right clicking on the map will change its location instead of placing a new one.
+    -   Reduces the passive hunger loss.
+    -   If you have the [Blind](Boons_and_Flaws.md#flaws) Flaw, gain an area of vision around your character.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Gremor](Gremor.md)\] \[Aspect\] \[Food\]
+
+-   _Versatile_: [Khan](Khan.md) - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
+    -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) item requirements, but does not work for [Power](Power.md) requirements on items.
+    -   Also reduces the attribute requirement for [alloying](Pluripotent_Alloy.md) items.
+    -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart](Oath%253A_Silentheart.md)'s Weapon stat requirement reduction.
+    -   The base damage reduction from not meeting your Weapon's requirements accounts for Versatile, being more lenient to Khans, and not applying if you are within 3 investment points of your weapon's normal requirements.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Khan](Khan.md)\] \[Aspect\]
+
+-   **Versatile**: [Khan](Khan.md) - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
+    -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) item requirements, but does not work for [Power](Power.md) requirements on items.
+    -   Also reduces the attribute requirement for [alloying](Pluripotent_Alloy.md) items.
+    -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart](Oath%253A_Silentheart.md)'s Weapon stat requirement reduction.
+    -   The base damage reduction from not meeting your Weapon's requirements accounts for Versatile, being more lenient to Khans, and not applying if you are within 3 investment points of your weapon's normal requirements.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Khan](Khan.md)\] \[Aspect\]
+
+-   _Echolocator_: [Kiron](Kiron.md) - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
+    -   Visually pings the current location of nearby players who unsheathe their weapons (even through [Tacet](Murmur%253A_Tacet.md) and [Lowstride](#lowstride)) and event spawns. This ignores walls and other obstructions.
+    -   There is a slightly delayed second ping after the initial one. Using this, you are able to gauge the speed at which the pinged players are moving.
+    -   The range at which something can be pinged is very large.
+    -   Slightly increases the visibility in dark areas.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Kiron](Kiron.md)\] \[Aspect\]
+
+-   **Echolocator**: [Kiron](Kiron.md) - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
+    -   Visually pings the current location of nearby players who unsheathe their weapons (even through [Tacet](Murmur%253A_Tacet.md) and [Lowstride](#lowstride)) and event spawns. This ignores walls and other obstructions.
+    -   There is a slightly delayed second ping after the initial one. Using this, you are able to gauge the speed at which the pinged players are moving.
+    -   The range at which something can be pinged is very large.
+    -   Slightly increases the visibility in dark areas.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Kiron](Kiron.md)\] \[Aspect\]
+
+-   _Ad Astra_: [Lightborn](Lightborn.md) - Return Home
     -   Grants a Talent tool that teleports you to [The Floating Keep](The_Floating_Keep.md) on use.
-    -   Using it while inside of the Floating Keep will take you back to where you initially used it.
+    -   Using it while inside of the Floating Keep will take you back to where you initially used it.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Lightborn](Lightborn.md)\] \[Aspect\] \[[Spec](Developer_Specs.md)\] \[Tool\]
 
--   _Chitin_ \[Race Talent, [Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
+-   **Ad Astra**: [Lightborn](Lightborn.md) - Return Home
+    -   Grants a Talent tool that teleports you to [The Floating Keep](The_Floating_Keep.md) on use.
+    -   Using it while inside of the Floating Keep will take you back to where you initially used it.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Lightborn](Lightborn.md)\] \[Aspect\] \[[Spec](Developer_Specs.md)\] \[Tool\]
+
+-   _Feathered Glider_: [Tiran](Tiran.md) - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
+    -   Tiran gains a _Feathered Glider_, a more altitide-efficient [glider](Gliders.md) with infinite durability. The altitude efficiency can be further improved with the [Aerogliding](#aerogliding) Talent.
+    -   The glider changes color depending on the Aspect variant, and can be [dyed](Dye_Packet.md).
+    -   When using the Glider hotkey, the basic and Sharkscale [Gliders](Gliders.md) will usually take priority over the Feathered Glider. You must use all of the durability in your other Gliders if you want to deploy the Feathered Glider with the hotkey.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Tiran](Tiran.md)\] \[Aspect\] \[Damage Resistance\] \[Mobility\] \[Tool\]
+
+-   **Feathered Glider**: [Tiran](Tiran.md) - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
+    -   Tiran gains a _Feathered Glider_, a more altitide-efficient [glider](Gliders.md) with infinite durability. The altitude efficiency can be further improved with the [Aerogliding](#aerogliding) Talent.
+    -   The glider changes color depending on the Aspect variant, and can be [dyed](Dye_Packet.md).
+    -   When using the Glider hotkey, the basic and Sharkscale [Gliders](Gliders.md) will usually take priority over the Feathered Glider. You must use all of the durability in your other Gliders if you want to deploy the Feathered Glider with the hotkey.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Tiran](Tiran.md)\] \[Aspect\] \[Damage Resistance\] \[Mobility\] \[Tool\]
+
+-   _Chitin_: [Vesperian](Vesperian.md) - You have a layer of Natural Armor that replenishes when you rest.
     -   Grants 5% damage reduction in the form of Natural Armor.
     -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
     -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent, granting 14.5% damage reduction assuming you have at least 40 Fortitude.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
-    -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
-    -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
-    -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
-    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
+    -   See [Exoskeleton](#exoskeleton) for more info on Natural Armor.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Vesperian](Vesperian.md)\] \[Aspect\] \[Damage Resistance\]
 
--   _Deepfolk_ \[Race Talent, [Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.
-    -   1.2x Sanity gain multiplier. You require 1 less Knowledge when making deals with [Deep Shrines](Deep_Shrines.md) (Knowledge cost can't go below 1).
-
--   _Feathered Glider_ \[Race Talent, [Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
-    -   Tirans gain Feathered Glider, a [Glider](Gliders.md) with infinite durability. The glider changes color depending on the Aspect variant, and can be [dyed](Dye_Packet.md).
-    -   When using the Glider hotkey, regular and Sharkscale [Gliders](Gliders.md) will take priority over the Feathered Glider. You must use all of the durability in your other Gliders if you want to deploy the Feathered Glider with the hotkey.
-
--   _Echolocator_ \[Race Talent, [Kiron](Kiron.md) Exclusive\] - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
-    -   Pings the location of nearby players who unsheathe their weapons (even through [Tacet](Murmur%253A_Tacet.md) and Lowstride) and event spawns.
-
--   _Loyalty_ \[Race Talent, [Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
-    -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the Give and Take Talent, totaling to 48% damage reduction.
-    -   This does not apply to self damage.
-
--   _Mark of Jurik_ \[Race Talent, Jurik and Hallowtide [Capra](Capra.md) Variants Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
-    -   Gain a tool that lowers the sanity drain of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.
-        -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
-        -   Also buffs non allies. Does not require you to be resting at a campfire.
-
--   _Mark of Ku_ \[Race Talent, Ku [Capra](Capra.md) Variant Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
-    -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their sanity and their food & thirst replenishment from consuming food. 3m 30s CD.
-        -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
-        -   Also buffs non allies. Can only be used while you are resting on a campfire.
-
--   _Mark of Nemit_ \[Race Talent, Nemit [Capra](Capra.md) Variant Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
-    -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD.
-        -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
-        -   Also buffs non allies. Can only be used while you are resting on a campfire.
-
--   _Maudet_ \[Race Talent, [Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
-    -   Passively obtain the benefits of the [Autodidact](Boons_and_Flaws.md#autodidact) Boon, gaining 3 Free Training Attribute points to spend every level. This effect stacks with the Boon in question.
-    -   Increases [reputation](Reputation.md) gain with factions.
-
--   _Molt_ \[Race Talent, [Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
-    -   Status effects, good or bad, have a shorter duration.
-    -   Only works on Chilled, Potions, and Suffocation.
-
--   _Mothwing Dust_ \[Race Talent, [Chrysid](Chrysid.md) Exclusive\] - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
-    -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
-    -   The angle at which you can be backstabbed is reduced heavily.
-
--   _Navae's Guidance_ \[Race Talent, [Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
-    -   Receive a compass, displayed at the top of your screen, which points East.
-    -   Right clicking on the map will place a waypoint both in the physical world and on the map itself. If you already have a waymarker placed, right clicking on the map will change its location instead of placing a new one.
-    -   Lower the passive hunger decay.
-    -   If you have the [Blind](Boons_and_Flaws.md#flaws) flaw, gain an area of vision around your character.
-
--   _Nightchild_ \[Race Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
-    -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier.
-        -   This Stealth gain multiplier **does not** apply to Stealth gained from Crouching, [Lowstride](#lowstride), [Tacet](Murmur%253A_Tacet.md), or [Tacet Minimization](#tacet-minimization).
-        -   This Stealth multiplier affects the [Obvious](Boons_and_Flaws.md#obvious) Flaw, reducing your Stealth by 24%. With the innate Stealth Felinor has, this will result in a net -4% Stealth on spawn.
-    -   Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
-
--   _Seaborne_ \[Race Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
-    -   Ships cost 20% less Notes, turn 20% faster, and have 10% more health.
-
--   _Teachings of the Edenkite_ \[Race Talent, [Drakkard](Drakkard.md), [Pathfinder](Pathfinder.md) Exclusive\] - Find your centre.
-    -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
-
--   _Versatile_ \[Race Talent, [Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
-    -   This does not work on [Power](Power.md) requirements.
-    -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) requirements.
-    -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
+-   **Chitin**: [Vesperian](Vesperian.md) - You have a layer of Natural Armor that replenishes when you rest.
+    -   Grants 5% damage reduction in the form of Natural Armor.
+    -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
+    -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent, granting 14.5% damage reduction assuming you have at least 40 Fortitude.
+    -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
+    -   See [Exoskeleton](#exoskeleton) for more info on Natural Armor.  
+        
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Vesperian](Vesperian.md)\] \[Aspect\] \[Damage Resistance\]
 
 ### Intellisense
 
@@ -6429,7 +6691,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### [Murmur](Murmur.md)
 
--   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press.
+-   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
     -   While active your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
         -   If you have [Soulbreaker](Oath%253A_Soulbreaker.md), your weapon will passively emit purple lightning while its unsheathed.
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
@@ -6455,7 +6717,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   **[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press while crouched.
+-   **[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
     -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
     -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
     -   Being in Tacet grants 400 Stealth, making you effectively invisible to PvE enemies; sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
@@ -8061,8 +8323,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
--   Ancient Metalwork: [Dissonant Chimecaller](Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](Ironsing.md) Rods and disrupt the [resonances](Resonance.md) of others, disabling them for 25 seconds.
-    -   Landing a weapon critical puts your opponent's [Resonance](Resonance.md) on a 25 second cooldown. This does not require Ironsing Rods to proc.
+-   Ancient Metalwork: [Dissonant Chimecaller](Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](Ironsing.md) Rods and disrupt the [resonances](Resonance.md) of others, disabling them for 15 seconds.
+    -   Landing a weapon critical puts your opponent's [Resonance](Resonance.md) on a 15 second cooldown. This does not require Ironsing Rods to proc.
 
 -   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
@@ -8103,6 +8365,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Both Ends: All [Staves](Staves.md) - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
     -   This attack comes out much faster, but only deals 45% of your weapon damage.
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
+    -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](#counter-spin).
 
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
@@ -9165,7 +9428,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         -   As mentioned above, since Immolation _always_ applies [burn](Status_Effects.md#burn), and this doesnt, you can create an Eruption and apply burn simultaneously on eligible Mantras.
 
 -   Osseous Surge: [Marrowmade Boots](Marrowmade_Boots.md) - Flourishing an enemy enhances your boots for 10 seconds, allowing you to spawn a wave of bones in the way you're facing. Right click to activate this.
-    -   Pressing within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
+    -   Pressing M2 within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
     -   Deals 30 damage and can be jumped over or parried. This attack is unblockable and undodgeable, having the [Green Telegraph](Combat_Mechanics.md#green).
     -   The damage this ability deals can be enhanced by wearing the [Bone Ring](Bone_Ring.md), increasing its damage to 45.
 

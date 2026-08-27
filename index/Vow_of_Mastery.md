@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 204258
+revid: 227842
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -27,7 +27,7 @@ To become a master, you must ask a player:
 
 Additionally, you can also use the Vow of Mastery tool and click on "Offer a Vow of Mastery".
 
-The player must respond positively ("yes" "sure" "alright" etc.) After responding so, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation of shaking hands will play and the player will become your Subject. You can now use commands on them, by typing them into chat or use the Vow of Mastery tool. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
+The player must respond positively ("yes" "sure" "alright" etc.) or use "Head nod" emote, (making vow of mastery useful even for peoples without chat). After responding so, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation of shaking hands will play and the player will become your Subject. You can now use commands on them, by typing them into chat or use the Vow of Mastery tool. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
 
 Subjects cannot undo the vow without making a wish at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) or wiping, and can only have one master, making the decision relatively permanent.
 

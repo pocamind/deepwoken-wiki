@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 226423
+revid: 227830
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -18,7 +18,7 @@ categories: [Items, Craftable, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | Merged and melded inseparably, the cold forge has turned your trophies into an alloy fit for a champion. |
-| obtainment | Crafting: 1x Enmity's Armor Piece, 1x Titus' Armor Piece, 1x Doom of Caeranthil's Scale at the Lost Forge of Leiuna, Sold in Traan Zakshun's black market for 38 , Weird Trader |
+| obtainment | Crafting: 1x Enmity's Armor Piece, 1x Titus' Armor Piece, 1x Doom of Caeranthil's Scale at Lost Forge , Sold in Traan Zakshun's black market for 38 , Weird Trader |
 
 ## Description
 
@@ -29,7 +29,7 @@ categories: [Items, Craftable, Ingredients]
 ### Crafting
 
 -   [Equipment](Equipment.md)
-    -   [Champion's Cape](<Champion's_Cape.md>): 1x [Titus's Cape](<Titus's_Cape.md>) + 1x Champion's Alloy at [Merit Detainment Core](Merit_Detainment_Core.md).
+    -   [Champion's Cape](<Champion's_Cape.md>): 1x [Titus's Cape](<Titus's_Cape.md>) + 1x Champion's Alloy at [Merit Detainment Core](Merit_Detainment_Core.md) [CraftingEmpty](Merit_Detainment_Core.md).
 
 ## Trivia
 

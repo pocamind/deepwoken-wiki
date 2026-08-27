@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 225390
+revid: 227818
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -194,6 +194,7 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 -   Despite being nearly impossible to see the Nautilodaunts armor can be broken
 -   It is internally referred to as ".squidward."[\[1\]](#cite-note-1)
 -   May spawn Frostdraw attuned
+-   Shares a similar ai to [Bone Keepers](Bone_Keeper.md) as if it is hit by other mobs from the depths it will become aggressive to them.
 
 ## References
 

@@ -75,7 +75,8 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
-  <div><small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <div><br>
+  <small><a href="#rangescraper">Rangescraper</a></small></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -102,7 +103,8 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
-  <div><small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
+  <div><br>
+  <small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -142,7 +144,8 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
-  <div><small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
+  <div><br>
+  <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
   <td>16</td>
   <td>LHT: 5</td>
@@ -183,7 +186,8 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
-  <div><small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
+  <div><br>
+  <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
   <td>15.5</td>
   <td>LHT: 8</td>
@@ -310,7 +314,8 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
-  <div><small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
+  <div><br>
+  <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 8</td>
@@ -324,7 +329,8 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
-  <div><small><a href="#tanto">Tanto</a></small></div></td>
+  <div><br>
+  <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
   <td>16</td>
   <td>LHT: 8</td>

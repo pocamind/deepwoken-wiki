@@ -4794,6 +4794,7 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
 -   The damage buff can be increased with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
 -   It has a base duration of 12 seconds that can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
+-   Attack speed can be increased via [Drift Shards](../Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](../Mantra_Modifiers.md#regular-modifiers) but that increases the amount of self-damage taken.
 -   The [Spine Cutter](../Talents.md#spine-cutter) Talent cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](../Mantra_Modifiers.md#sparks) to perform a bigger shockwave that deals more damage.
 -   Can be upgraded with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
@@ -8912,7 +8913,7 @@ Blunt ResistanceBlunt
 
 **Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper](../Bone_Keeper.md)'s '**Femur Throw'** attack._
 
--   Deals about 100 damage.
+-   Has a base of about 100 damage.
     -   Landing direct hits with this Mantra deals less damage than landing the AoE.
 -   Applies HEAVY posture damage, almost always guardbreaking.
 -   Grants hyperarmor during startup.
