@@ -1,6 +1,6 @@
 ---
 title: Palace Tachi
-revid: 227533
+revid: 227867
 source: https://deepwoken.fandom.com/wiki/Palace_Tachi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons of The Ministry, Weapons of Etrea]
@@ -36,8 +36,6 @@ categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique
 | obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), The Ferryman, The Understrand |
 | description | The dark tachi of a Threadcutter. Weighted by its alloys, the center of mass runs further along the length of the blade, making for slow but devastating cutting power. |
 
-Notice: This weapon cannot be enchanted in some older servers due to a bug. Joining these servers will void your enchantment.
-
 ## Description
 
 The Palace Tachi is a katana [weapon](Weapons.md) in the Medium Weapons category. These are used by [the Lord Regent](The_Lord_Regent.md)'s [Threadcutters](Threadcutter.md). Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
@@ -59,3 +57,4 @@ The critical has a cooldown of **7 seconds**.
 ## Trivia
 
 -   It is one of five weapons that comes with a scabbard shown on your character, the others being the [Katana](Katana.md)/[Alloyed Katana](Katana.md), [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md).
+-   The symbols found of the tachi's sheath are the same as the ones found above the guard of the weapons used by the [Shoguns](<Shogun_of_the_Prophet's_Guard.md>).

@@ -1,6 +1,6 @@
 ---
 title: Rangescraper
-revid: 227017
+revid: 227854
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons, Light Weapons, Legendary Weapons, Named Items]
@@ -32,7 +32,7 @@ categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Heart of Enmity |
+| obtainment | Heart of Enmity (extremely rare) |
 | description | An unusual dagger owned by a once famous outlaw. The only details they gave on how their dagger worked was it "kinda was phasing in and out of reality". They also have claimed that it was created in the void sea, but is unsure who or what made it. |
 
 Variants: [Gilded Knife](Gilded_Knife.md)

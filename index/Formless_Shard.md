@@ -1,6 +1,6 @@
 ---
 title: Formless Shard
-revid: 224569
+revid: 227856
 source: https://deepwoken.fandom.com/wiki/Formless_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, Light Weapons]

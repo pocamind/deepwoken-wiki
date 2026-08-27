@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 227019
+revid: 227853
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Named Weapons, Named Items, Heavy Weapons, Legendary Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Named Weapons, Named It
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Elder Primadon |
+| obtainment | Elder Primadon (extremely rare) |
 | description | An heirloom of the Canor Borderwatchers, this bloodsoaked zweihander has been passed down by its leaders for generations. At times, you swear you can feel a heartbeat resounding from within. |
 
 Variants: [Zweihander](Zweihander.md)

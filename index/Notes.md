@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 216648
+revid: 227860
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -20,6 +20,8 @@ categories: [Mechanics, Currency]
 ## Functions
 
 Notes are the main currency used within the Lumen and can be used for a variety of things, such as [modifying](Mantra_Modifiers.md) and leveling [Mantras](Mantras.md), making [Outfits](Outfits.md), purchasing [Bank](Item_Bank.md) slots, upgrading [Guild Bases](Guild_Bases.md), buying items and paying [bribes](Reputation.md).
+
+Every star on an equipment or weapon will increase the sell value of an item by 5/20/50.
 
 ### Dropping
 

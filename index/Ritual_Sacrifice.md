@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 227837
+revid: 227852
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Named Items, Legendary Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hell Mode |
+| obtainment | Hell Mode (extremely rare) |
 | description | Is sacrifice not the most potent of all rituals? |
 
 Variants: [Ritual Spear](Ritual_Spear.md)

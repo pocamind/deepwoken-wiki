@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 216570
+revid: 227846
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -30,7 +30,7 @@ To obtain the Voidwalker [Origin](Origins.md), the player must do all of the fol
 
 1.  Have 5 player executions on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of an execution, which equates to 10 victories).
 2.  Talk to [Eiris](Eiris.md) on the [Knives of Eylis vs Etrea sea event](Random_Encounters.md#fights-between-factions).
-3.  Enter a [Subtle Knife of Eylis'](Subtle_Knife_of_Eylis.md) [Time-Slowing Bubble](Subtle_Knife_of_Eylis.md#moveset) and teleport to the [Voidheart](Voidheart.md).
+3.  Entering a [Subtle Knife of Eylis'](Subtle_Knife_of_Eylis.md) [Time-Slowing Bubble](Subtle_Knife_of_Eylis.md#moveset) will teleport you to the [Voidheart](Voidheart.md).
 4.  Talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) and obtain the Origin, after which the player is teleported back to their last location (Similar to the Voideye).
 
 ## Spawn

@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 210843
+revid: 227851
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -38,7 +38,7 @@ Upon slaying the required mobs, Hell Mode will reward all participants that were
 
 If the 20 minute duration reaches its end before the kill requirement, the event will forcefully end and no rewards will be granted. The event may also end early if the original players who ring the Hell Bell all die or leave the server.
 
-Upon reaching 100 or more kills, players that rung the bell will always receive a [Diver's Light Plate](<Diver's_Light_Plate.md>) in their inventory and a large chest containing high tier loot including [Relics](Relics.md), [Enchant Stones](Enchant_Stone.md) and [Enchant Greases](Enchant_Grease.md), Mid/Endgame [Equipment](Equipment.md) and [Weapons](Weapons.md) with a guaranteed two star quality, [Deep Gems](Deep_Gems.md), and the exclusive [Ritual Sacrifice](Ritual_Sacrifice.md) weapon.
+Upon reaching 100 or more kills, players that rung the bell will always receive a [Diver's Light Plate](<Diver's_Light_Plate.md>) in their inventory and a large chest containing high tier loot including [Relics](Relics.md), [Enchant Stones](Enchant_Stone.md) and [Enchant Greases](Enchant_Grease.md), Mid/Endgame [Equipment](Equipment.md) and [Weapons](Weapons.md) with a guaranteed two star quality, [Deep Gems](Deep_Gems.md), and, **extremely** rarely, the exclusive [Ritual Sacrifice](Ritual_Sacrifice.md) weapon.
 
 ## Tips
 
