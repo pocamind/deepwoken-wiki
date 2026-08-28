@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 227617
+revid: 227872
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Weapons with Unique Criticals, Alloyable Weapons, Fists, Light Weapons]
@@ -47,7 +47,7 @@ Equipping the Coral Cestus grants its unique [weapon Talent](Talents.md#weapon-t
 
 **Coral Cestus:**
 
-[**Mudskipper Gripper**](Talents.md#mudskipper-gripper) spawns two [Mudskippers](Mudskipper.md) upon executing a target with the Coral Cestus critical. These Mudskipper can be [Bloatskippers](Mudskipper.md#bloatskipper) or [Miniskippers](Mudskipper.md), chosen at random.
+[**Mudskipper Gripper**](Talents.md#mudskipper-gripper) spawns four [Mudskippers](Mudskipper.md) upon executing a target with the Coral Cestus critical. These Mudskipper can be [Bloatskippers](Mudskipper.md#bloatskipper) or [Miniskippers](Mudskipper.md), chosen at random.
 
 This Talent is exclusive to the unalloyed version of the weapon.
 
@@ -76,4 +76,5 @@ Coral Cestus' critical has a cooldown of **6 seconds**. Broodalloy Cestus' criti
 -   Currently the only Cestus that can be alloyed.
 -   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodalloy Cestus.
 -   The Talent Mudskipper Gripper could be a reference to _Deepwoken_ content creator [Skipper Gripper](https://www.youtube.com/@SkiperGripper).
--   The Talent Mudskipper Gripper cannot proc from [Lightning Clones](Thundercall.md).
+-   The Talent Mudskipper Gripper cannot proc from [Lightning Clones](Thundercall.md) but can from enemy [visionshaper clones](Oath%253A_Visionshaper.md).
+-   The summoned [Mudskippers](Mudskipper.md) do despawn after about a minute and has a ?% to proc.

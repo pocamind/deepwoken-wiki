@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 227818
+revid: 227881
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -107,10 +107,9 @@ Parry
 **Grand Stomp**  
 (★★★)
 
- | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line.
+ | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line launching those hit upwards.
 
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
--   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
 
 _Uses Telegraph_
 
@@ -121,6 +120,7 @@ Dodge
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   § Dodgeable
+-   💀 Autogrip
 
  |
 | 
@@ -141,7 +141,7 @@ Dodge
 **Vent**  
 (★☆☆)
 
- | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt will near-completely negate the damage of said Mantra. This can happen even during other moves.
+ | If hit by any move that utilizes the Song (such as a Mantras and certain Resonances), the Nautilodaunt will near-completely negate the damage of said Mantra. This can happen even during other moves.
 
 -   «» Misc.
 -   ☕︎ Harmless

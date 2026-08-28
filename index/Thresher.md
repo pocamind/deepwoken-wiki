@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 227619
+revid: 227873
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | Thresher | |
 |---|---|
-| health | 1100, 2800(Corrupted), 500(Trial of One), 1000(Void) |
+| health | 1100, 2800(Corrupted), 500(Trial of One), 1000(Void), 2500(Corrupted)(Void) |
 | attacks | Talon Swipes, Rending Maul, Tail Sweep, Burrow |
 | drops | (Common), Thresher Spine, Umbral Obsidian, (Rare), Mantra Modifiers, Thresher Talon, Serrated Warspear (Corrupted and Void only) |
 | challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
