@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 227858
+revid: 227887
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Cestis is a [Ganymede](Ganymede.md) NPC presumably working for [the Ministry](The_Ministry.md). His main purpose is to grant the player the [Tacet](Murmur%253A_Tacet.md) [Murmur](Murmur.md) after [Bounty Hunting](Bounty_Hunting.md) 5 times successfully.
+Cestis is a [Ganymede](Ganymede.md) NPC presumably working for [the Ministry](The_Ministry.md). His main purpose is to grant the player the [Tacet](Murmur%253A_Tacet.md) [Murmur](Murmur.md) after [Bounty Hunting](Bounty_Hunting.md) 5 times successfully. Cestis still grants the Tacet Murmur, but he can no longer give Bounties, as this feature has been removed.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 226941
+revid: 227896
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -157,7 +157,8 @@ Marae
 ## Trivia
 
 -   [Jeremiah](Jeremiah.md), located in the [City of the Drowned](The_City_of_the_Drowned.md) in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Treasures.md).
--   For a short period of time, a named ring was added to one of the Loot Bag Gacha NPCs Erisae, unfortunately it was removed in under a day, the ring was called [Ring of a Forgotten King](Ring_of_a_Forgotten_King.md).
+-   For a short period of time, a named ring was added to one of the Loot Bag Gacha NPCs Erisae, it was removed in under a day, the ring was called [Ring of a Forgotten King](Ring_of_a_Forgotten_King.md).
 -   Often seen as a rip-off, as the price of 500 Notes may be rather steep considering the usually lackluster loot that can more easily be obtained by grinding.
+-   The Loot Bag Gacha NPCs went from holding sacks with both hands, to carrying them over their shoulder, to not holding sacks at all.
 -   Each of the Loot Bag Gacha NPC's names end with "-ae".
 -   There was a Loot Bag Gacha NPC named [Malisae](Loot_Bag_Gacha.md#malisae) in [Miner's Landing](<Miner's_Landing.md>), before she was repurposed to become [Deepdelver Tau](Deepdelver_Tau.md), an NPC that is primarily used to enter the [Saramaed Hollow](Saramaed_Hollow.md) [Dungeon](Dungeons.md), on the [September 6th, 2024](Version_History/2024.md#september-6th-2024) update.

@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 227558
+revid: 227891
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
@@ -142,6 +142,7 @@ Parry
  | Knell lets out a scream, making bells continuously rain on the player.
 
 -   Each hit deals low posture damage.
+-   He usually follows up immediately after with either Great Bell Fall or Bell Fall.
 
 _Uses Telegraph_
 

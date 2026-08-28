@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 226765
+revid: 227901
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -19,13 +19,13 @@ categories: [Oaths, The Ministry]
 
 ## Description
 
-**[Oath](Oaths.md): Contractor** is one of the 17 obtainable Oaths in _Deepwoken._ This Oath offers varying combat abilities ranging from gap closers, counters and ranged grabs allowing for a versatile and offensive playstyle. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Contractor** is one of the 17 obtainable Oaths in _Deepwoken._ This Oath offers varying combat abilities larping from gap closers, counters and ranged grabs allowing for a versatile and offensive playstyle. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their oaths to others. These heathens are to be dealt with promptly. ”
 
 ― [Zi'eer](The_Lord_Regent.md)
 
-The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent.md). You Vow yourself with the malevolent Regent of Etrea, and to [The Ministry](The_Ministry.md) by extension, as a Contractor in order to assist Zi'eer in his plan to eventually sink Etrea into [The Depths](The_Depths.md), causing another Great Drowning in the process. You become a puppet to The Ministry, literally and figuratively.
+The Oath allows you to manipulate the bdsm ropes of [Zi'eer](The_Lord_Regent.md). You Vow yourself with the malevolent Regent of Etrea, and to [The Ministry](The_Ministry.md) by extension, as a Contractor in order to assist Zi'eer in his plan to eventually sink Etrea into [The Depths](The_Depths.md), causing another Great Drowning in the process. You become a puppet to The Ministry, literally and figuratively.
 
 ## Obtainment
 
@@ -232,6 +232,7 @@ Killing 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
 -   **Instantly executes** if it brings the target's HP to 0 or is used on a knocked target.
 -   Can be [vented](Combat_Mechanics.md#tempo) out of, and can also be parried as soon as you hear the 'snap' sound.
 -   Goes on a short cooldown if feinted.
+-   When modified with a Reversal Spark, the mantra will execute faster.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 225132
+revid: 227898
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,7 +28,7 @@ Variants: [Gallery](Megalodaunt/Gallery.md)
 
 ## Description
 
-The Megalodaunt (also referred to as Sharko) is a giant humanoid shark [monster](Monsters.md) most commonly found in [Erisia](Erisia.md), in burning boats on [The Aratel Sea](The_Aratel_Sea.md), and in [The Depths](The_Depths.md).
+The Megalodaunt (also referred to as Sharko, or le money sharko) is a giant humanoid shark [monster](Monsters.md) most commonly found in [Erisia](Erisia.md), in burning boats on [The Aratel Sea](The_Aratel_Sea.md), and in [The Depths](The_Depths.md).
 
 “ While not appearing to be reasonably intelligent creatures, they have a strong sense of social hierarchy, and their place in their 'society,' if it could be called that. ”
 

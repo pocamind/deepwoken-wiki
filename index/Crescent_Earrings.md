@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 223052
+revid: 227903
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,14 +21,16 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Duke Erisia, Chime of Conflict, The Ferryman, Dread Serpent, The Diluvian Mechanism, Hell Mode, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Pure Astruline turn-in chest, Moon's Eyrie |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Duke Ishamon Erisia, Chime of Conflict, The Ferryman, Dread Serpent, The Diluvian Mechanism, Hell Mode, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Pure Astruline turn-in chest, Moon's Eyrie |
 | description | ... |
 
 _This page is about the [Earring](Equipment.md#ears) previously named "Moonlit Earrings". For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 
-**Crescent Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. You can most commonly find them from [Hell Mode](Hell_Mode.md), and [The Ferryman](The_Ferryman.md) during [Summer](Seasons.md#summer).
+**Crescent Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+
+You can most commonly find them from [Hell Mode](Hell_Mode.md), and [The Ferryman](The_Ferryman.md) during [Summer](Seasons.md#summer).
 
 ## Trivia
 
