@@ -1,6 +1,6 @@
 ---
 title: Wool Beret
-revid: 227052
+revid: 227969
 source: https://deepwoken.fandom.com/wiki/Wool_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Stub pages without reason, StubPages, Equipment, Head, Hats]
@@ -24,7 +24,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Carnival of Hearts, Dread Serpent, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Sold in Traan Zakshun's regular shop for 55 |
+| obtainment | Carnival of Hearts, Dread Serpent, Voidsea Event Chests, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Sold in Traan Zakshun's regular shop for 55 |
 | description | A classic wool beret. How snazzy! |
 
 ## Description

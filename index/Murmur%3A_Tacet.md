@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Tacet"
-revid: 227911
+revid: 227975
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -40,7 +40,7 @@ Murmur: Tacet can be obtained in three ways.
 
 #### Method One - Born Assassin
 
-By completing 5 Bounty Hunting Contracts from any [Bounty Board](Bounty_Hunting.md), [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method. (Bounty Assists do not count)
+By completing 5 Bounty Hunting Contracts from any [Bounty Board](Bounty_Hunting.md), [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. (Bounty Assists do not count)
 
 A screenshot of the Quiet Stranger NPC, found by Restative.
 

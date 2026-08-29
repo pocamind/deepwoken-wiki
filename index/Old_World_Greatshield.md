@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 224615
+revid: 227991
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -24,6 +24,8 @@ categories: [Weapons, Shields, Offhand]
 | pass down | Yes |
 | obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Chime of Conflict, Crypt of the Unbroken, Faction Ambushes (The Ministry), Fishing, Saramaed Hollow, Bounty Chests, Pure Astruline Chest |
 | description | A shield designed intricately, most likely from a pre-Canticlym era. Its intricate design suggests previous use in royalty, although it cannot be said for sure. |
+
+Variants: [Tenacity](Tenacity.md)
 
 ## Description
 

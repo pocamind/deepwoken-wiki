@@ -1,6 +1,6 @@
 ---
 title: Etrean Sashimono
-revid: 225908
+revid: 227972
 source: https://deepwoken.fandom.com/wiki/Etrean_Sashimono
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Equipment with Exclusive Talents, Equipment with Talents, Equipment of Etrea]

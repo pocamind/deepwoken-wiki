@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 227831
+revid: 228002
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -217,6 +217,7 @@ A dark blue neon ore found in the [First Layer](First_Layer.md) of The Depths. L
 -   x3 Umbrite - x1 Pure Umbrite [CraftingEmpty](Crafting_Recipes.md)
 -   [Delver Boots](Delver_Boots.md) - x2 Umbrite + x2 [Galewax](Galewax.md) + x1 [Leather Boots](Leather_Boots.md), at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
 -   [Umbrite Witherblade](Umbrite_Witherblade.md) - x3 Umbrite or x1 Pure Umbrite + x1 [Dormant Splinter](Dormant_Splinter.md) + x1 [Razor Cutlass](Razor_Cutlass.md), at the [Cold Forge](The_Cold_Forge.md) [CraftingColdForge](The_Cold_Forge.md)
+-   [Necrotic Membrane](Necrotic_Membrane.md) - 1x Parasol Membrane + 1x Trickster Dust + 1x Pure Umbrite or Darkblood Vial, at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md)
 
 Old Models
 

@@ -1,6 +1,6 @@
 ---
 title: Guard Turrets
-revid: 227947
+revid: 228004
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -23,11 +23,13 @@ Although they are hostile to a target of their [faction](Factions_&_Groups.md), 
 ## Locations
 
 -   [Etrean Luminant](Luminants.md)
-    -   [Etris](Etris.md)
+    -   [Etris](Etris.md) - Archer Tower
+    -   [Isle of Vigils](Isle_of_Vigils.md) - Archer Towers
 -   [Eastern Luminant](Luminants.md)
-    -   [Miner's Landing](<Miner's_Landing.md>)
-    -   [Fort Merit](Fort_Merit.md)
-    -   [Summer Isle](Summer_Isle.md)
+    -   [Miner's Landing](<Miner's_Landing.md>) - Tesla Coil
+    -   [Fort Merit](Fort_Merit.md) - Minigun, Mortars
+    -   [Summer Isle](Summer_Isle.md) - Minigun
 -   [The Depths](The_Depths.md)
-    -   [Castle Light](Castle_Light.md)
-    -   [City of Celtor](City_of_Celtor.md)
+    -   [Castle Light](Castle_Light.md) - Light Orb
+    -   [The Chariot's Spire](<The_Chariot's_Spire.md>) - Tesla Coil
+    -   [District of Commerce](District_of_Commerce.md) - Watcher Bloom

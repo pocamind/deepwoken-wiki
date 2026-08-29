@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 224160
+revid: 227967
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -37,8 +37,8 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td><b>Autodidact</b><br>
   </td>
   <td>You get a free attribute to invest at every level.</td>
-  <td>Gain 3 free investment points every Power up, consuming an investment each use.</td>
-  <td>Uses general experience upon use, possibly taking you into exp debt. Cannot be used to bypass the 330 investment point limit. Stacks with the <a href="Adret.md">Adret</a> aspect Talent, Maudet, giving you 6 free points on every Power up.</td>
+  <td>Gain 3 Free Training points every Power up, consuming an investment each use.</td>
+  <td>Uses general experience upon use, possibly taking you into exp debt. Cannot be used to bypass the 330 investment point limit.</td>
   <td>1 Boon Point</td>
 </tr>
 <tr>
@@ -301,31 +301,193 @@ These Flaws are granted via specific means instead of being chosen during charac
 ## Breakdown of Boons
 
 -   Your Boon choice is fairly consequential, as they cannot be changed after leaving Character Creation. Though, with that being said, Boon choice is ultimately up to personal preference, with most of them granting minor benefits.
--   Some boons are more worth taking than others:
-    -   **Autodidact** is useful to help level up certain stat quicker or level up stats that are annoying to do manually. If you die, you can also Power up to restore your lives. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Unfortunately, this Boon becomes useless once you reach Power 20. This Boon stacks with the [Adret](Adret.md) Aspect Talent, Maudet, granting 6 free training points on every level up.
-    -   **Gourmet** is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. Additionally, Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic. It is recommended that you additionally take the [Tavernkeep](Talents.md#tavernkeep) Talents with this Boon to maximize the satiation and effects from eating certain foods.
-    -   **Maverick**'s exp boost is a nice bonus but is fairly unnoticeable, and is negated by playing with some friends. Unfortunately, it becomes useless once you are fully invested.
-    -   **Packmule** is very useful for builds that need to carry around a lot of loot, such as bank slots or PvE builds. While nice to have, it's not as impactful as many other Boons unless you're going for one of the aforementioned builds.
-    -   **Scrapper** gives you more control over your build by granting additional [Aces](Aces.md). This Boon is less necessary for players that have a good way to generate [Knowledge](Knowledge.md), such as a stash of [Moonseye Tomes](Moonseye_Tome.md). If you happen to obtain the [Ace of Spades](Regalia.md#ace-of-spades) Regalia, this Boon will become obsolete.
-    -   **Sly** is largely seen as a waste of a Boon, as all it does is reduce the amount of reputation lost when doing things that might upset factions. It however may be useful for people who gank, especially in [the Depths](The_Depths.md) and around [Castle Light](Castle_Light.md), and for builds that want a very high [Stealth](Stealth.md) stat (e.g. for [Tacet](Murmur%253A_Tacet.md)). The [Stealth](Stealth.md) from this Boon is affected by Stealth multipliers, such as [Felinor](Felinor.md) and crouching/[Lowstride](Talents.md#lowstride).
-    -   **Steadfast** grants a pretty big boost to your overall armor durability by reducing armor damage taken. This Boon is generally seen as a must-take on almost all builds due to its universal bonus that affects all types of combat. All other forms of armor durability reduction stack multiplicatively with this Boon, meaning there are diminishing returns if you plan to use more sources of this effect.
-    -   **Survivalist**'s immunity to [Acid Rain](Environmental_Hazards.md) might seem limited in usage since Acid Rain only happens naturally at [Upper Erisia](Upper_Erisia.md), but it can prove invaluable for spending time there. Acid Rain can also be triggered through the [Rain](<Rain_(enchantment).md>) enchantment if you also have a [Stench](Stench.md) enchantment equipped, making Survivalist a must have if you plan on using this enchantment combo. Survivalist also avoids the dangerous event of your [glider](Gliders.md) breaking when gliding into Acid Rain. In addition, it decreases the rate at which parasites in the [Second Layer](Second_Layer.md) kill you.
+
+Some boons are more worth taking than others:
+
+### Autodidact
+
+**Autodidact** grants 3 Free Training points on every level up, allowing the uset to increase their stats further, at the cost of General Experience.
+
+-   Notes:
+    -   Autodidact is very useful to help level up slow-leveling stats faster, such as [Attunements](Attunements.md) when you don't have any related Mantras or certain core attributes.
+    -   The Free points can be saved until manually used and will build up over time if not used. Additionally, the [Adret](Adret.md) Talent, [Maudet](Talents.md#maudet), grants the same effect as this Boon, and they stack for 6 Free Trainings on every level up.
+    -   If you die, you can use the saved up points to attempt to Power up and restore your lives.
+    -   A common side effect of using free investment points is that you may end up in EXP Debt, where you will need to gain more experience before you're allowed to Power up or manually invest attribute points to make up for spending General Experience that you did not have. You can get out of EXP debt by gaining general experience.
+    -   Unfortunately, this Boon becomes useless once you reach Power 20.
+
+### Gourmet
+
+**Gourmet** increases the stomach and hydration gained by consuming food by 50%, and increases the "duration" of [Food Buffs](Status_Effects.md#food-buff) by the same amount.
+
+-   Notes:
+    -   Gourmet is a well-rounded boon that even stacks with its Talent variant, totaling to +80% stomach and hydration gain from eating food.
+    -   With this Boon, you'll spend less time and Notes making or aquiring food overall, which is great for extended adventures with limited supplies.
+    -   Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic.
+        -   However, the "duration" of food buffs is tied to how much of the stomach bar they replace, which is dictated by the food item in particular. Consuming more items that provide the same buff will fill your stomach bar more with said buff, meaning that this Boon can be largely ignored, as simply consuming more of the same food will provide the same benefit of making your food buffs last longer.
+        -   This Boon is exceptionally useful for hard to get or expensive food items such as the [boss](Bosses.md) foods.
+    -   If you want to spec into it fully, it is recommended that you additionally take the [Tavernkeep](Talents.md#tavernkeep) Talents with this Boon to maximize the satiation gain and buff duration from eating certain foods.
+
+### Maverick
+
+**Maverick** increases Experience gained by an unknown amount. This only applies when you are solo.
+
+-   Notes:
+    -   The exp boost is a nice bonus, but is fairly unnoticeable, and is negated by playing with some friends.
+    -   This synergizes quite well with the [Lone Warrior](Lone_Warrior.md) Origin, due to the [Mark of the Lohe Warrior](Talents.md#mark-of-the-lohe-warrior) Talent that provides a similar effect.
+    -   Unfortunately, this Boon becomes useless once you are fully invested.
+
+### Packmule
+
+**Packmule** increases the user's [Carry Load](Carry_Load.md) [IconCarryLoad](Carry_Load.md) by 50, item stack limits by 25% (rounded up) and quantity of food items the player can carry by 5.
+
+-   Notes:
+    -   This Boon is very useful for builds that need to carry around a lot of loot, especially weapons. Builds/build archetypes that may want this Boon include: bank slots and PvE builds, though it may still be chosen on any build due to the quality of life increase.
+    -   While nice to have, Packmule is not as impactful as many other Boons unless you're going for one of the aforementioned builds.
+    -   The increased food carry limit stacks with the [Cook's Kit](Talents.md#cooks-kit), Talent, allowing you to carry up to 20 of the same food item if you have both.
+        -   Note: There is a very old bug that allows you to carry up to 20 of any '_interaction-based, purchasable_ food item without having either Packmule or Cook's Kit. To perform this, simply purchase 20 of the item at once while having none in your inventory. This does not work with food vendors.
+
+### Scrapper
+
+**Scrapper** grants 2 [Aces](Aces.md) for every other [Whisper Draw](Whisper_Draw.md) level up (levels 4, 8, 10, 14, 16, and 20), for +6 Aces in total.
+
+-   Notes:
+    -   This Boon gives you more control over your build, by giving you more opportunities to Burn, Freeze, and Fortell cards.
+    -   This Boon is less necessary for players that have a good way to generate [Knowledge](Knowledge.md), such as a stash of [Moonseye Tomes](Moonseye_Tome.md).
+    -   If you happen to obtain the [Ace of Spades](Regalia.md#ace-of-spades) Regalia, this Boon will become entirely obsolete, as said Regalia grants +20 Aces on spawn.
+
+### Sly
+
+**Sly** decreases [reputation](Reputation.md) lost when committing crimes and provides +15% [Stealth](Stealth.md). This Boon is unlocked by [paying off](Reputation.md#bribes) negative reputation for the first time (e.g. **Enemy** -> **Neutral** [Etrea](Etrea.md) reputation).
+
+-   Notes:
+    -   This Boon is largely seen as a waste of a Boon, as all it does is reduce the amount of reputation lost when doing things that might upset factions.
+    -   Sly may be useful for people who gank, especially in [the Depths](The_Depths.md) and around [Castle Light](Castle_Light.md), and for builds that want a very high [Stealth](Stealth.md) stat (e.g. for [Tacet](Murmur%253A_Tacet.md)).
+    -   The [Stealth](Stealth.md) from this Boon is affected by Stealth multipliers, such as [Felinor](Felinor.md) and crouching/[Lowstride](Talents.md#lowstride), but it does not contribute to [Fatal Stealth](Talents.md#fatal-stealth)'s damage bonus.
+
+### Steadfast
+
+**Steadfast** grants 25% 'damage' reduction to armor durability loss. This combines multiplicatively with other sources of this effect.
+
+-   Notes:
+    -   This Boon grants a pretty big boost to your overall armor durability by reducing armor damage taken, and is generally seen as a must-take on almost all builds due to this universal bonus that affects all types of combat.
+    -   All other forms of armor durability reduction stack multiplicatively with this Boon, meaning there are diminishing returns if you plan to use more sources of this effect.
+
+### Survivalist
+
+**Survivalist** grants resistances against [Environmental Hazards](Environmental_Hazards.md), such as the [Second Layer](Second_Layer.md)'s Parasites and Acid Rain.
+
+-   Notes:
+    -   This grants full immunity to [Acid Rain](Environmental_Hazards.md), negating the damage taken and armor durability loss, as well as preventing your [glider](Gliders.md) from breaking when gliding through this [environmental hazard](Environmental_Hazards.md).
+        -   Though situational, this also affects the Acid Rain produced by the [Rain](<Rain_(enchantment).md>) + [Stench](Stench.md) equipment enchantment combo, making it a must-take if you wish to utilize this, as the user is not normally immune to their own Acid Rain.
+    -   This Boon also slows the rate at which the parasites in the [Second Layer](Second_Layer.md) kill you.
+    -   The benefits of this Boon are largely situational, but entirely invaluable if or when you find yourself in a situation in which it may prove itself useful.
+    -   The "[Survivalist](Talents.md#survivalist)" Equipment Talent provides much of the same benefits as this Boon, though the Talent is attributed to largely mediocre equipment options, making the Boon overall the better choice.
 
 ## Breakdown of Flaws
 
--   Your Flaw choice during Character Creation is largely inconsequential (barring Blind), as you can exchange any non-Special Flaw for a random Base Flaw at the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md). Simple and Vegetarian cannot be obtained through this. Note: You need to be Power 17+ or have used the Shrine of Blasphemy Power Up deal prior to unlock Flaw conversion.
--   Some Flaws are more worth taking than others:
-    -   **Blind** gives you the **[Blinded](Status_Effects.md#blinded)** effect constantly, heavily limiting your field-of-vision. If you can live through it long enough to obtain [Blindseer](Oath%253A_Blindseer.md), you can negate the Flaw's downside entirely. This Flaw also provides protection from [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Blind also grants your character milky-white eyes. [Gremors](Gremor.md) notably have a small vision radius while blinded, and lighting sources can also be used (such as the [Pathfinder Lantern](Pathfinder_Lantern.md)) to slightly mitigate the downsides of this Flaw.
-    -   **Deficient** is a downside for all builds that intend to use Mantras, and is generally not worth taking. However, if you decide to go for [Silentheart](Oath%253A_Silentheart.md), the effect is minor, though still a downside, as Ether can still be useful on this Oath.
-    -   **Fugitive** can be worked around by taking quests on [Job Boards](Job_Boards.md) designated by Factions to farm Reputation. Despite still being able to have above neutral reputation for every faction (excluding the Etrean Royalists), Fugitive sets your base reputation lower than it usually would be. This means if you want to obtain Blightsurger which requires high ally reputation with The Hundred Legions and your origin is Deepbound for example (initially starts with low reputation with the Hundred Legions) then you will not be able to meet the requirement for obtaining Blightsurger. If you care about having good reputations with most or all Factions, this Flaw can be a serious time sink, and may not be worth taking for players dislike this aspect of the Flaw. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions. As this Flaw grants two Boon Points, it cannot be chosen alongside another Flaw, while still allowing you to choose two Boons, making Simple very appealing to a lot of players. Simple also grants two Boon Points, making it a great alternative for those who do not wish to use Fugitive. Rolling Fugitive off your character using the Shrine of Blasphemy will bump up your reputation with all the factions.
-    -   **Glutton** forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall. This Flaw is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as it entirely disables passive stomach/thirst drain.
-    -   **Haemophilia** is basically a free Flaw in most 1v1 situations, as the increased blood loss won't have an impact when you'll be knocked before your blood runs out, but in ganks you can die to blood before health runs out after some time. This Flaw (luckily) doesn't affect **blood drain** effects, such as utilizing or being hit by [Bloodrend](Bloodrend.md) Mantras, the blood cost from the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) downside, [blood loss potions](Alchemy.md), or whiffing with or being hit by the [Curse of the Bloodthirsty](Curse_of_the_Bloodthirsty.md) enchantment, as blood drain effects are unaffected by blood loss modifiers.
-    -   **Manic** is usually a free Boon Point; the increased Sanity loss is minimal, Sanity damage comes from few sources, and scratching can be completely avoided with some Talents. Additionally, having low Sanity can even benefit some builds.
-    -   **Obvious** grants -20% [stealth](Stealth.md) on spawn, increasing the radius at which enemies will detect you. Because of this, this Flaw will largely only affect PvE with one exception being [Tacet](Murmur%253A_Tacet.md)'s range, as that is affected by your Stealth stat. This Flaw can be dangerous in areas like [the Depths](The_Depths.md). The Stealth from this Flaw is affected by Stealth multipliers, such as [Felinor](Felinor.md) and crouching/[Lowstride](Talents.md#lowstride). The [Felinor](Felinor.md) aspect's innate 20% Stealth and 1.2x Stealth multipliers makes it so an Obvious Felinor starts with -4% Stealth; counteracted by a mere 2 [Agility](Attributes.md#agl) investment. This Flaw should not be taken on any [Inquisition Division](Authority_Ensign.md#inquisition-division) [Authority Ensign](Authority_Ensign.md) builds that wish to utilize the [Fatal Stealth](Talents.md#fatal-stealth) Talent, as the negative Stealth from this Flaw contributes to that Talent, applying a damage deficit to your backstabs. This Flaw's downside can be mitigated through [Agility](Attributes.md#agl) investment, [Equipment](Equipment.md) and [Outfits](Outfits.md), etc. see [Stealth](Stealth.md) for a list of all Stealth gain sources.
-    -   **Simple**'s EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. The exp gain downside of this Flaw is negated when fully progressed. The reduced [Knowledge](Knowledge.md) gain from this Flaw can hurt, but there are some workarounds; if you gain Knowledge in increments of 1 or 2 (most Knowledge gain sources fall under this range), the Flaw will not hurt you as it rounds. Alternatively, gaining Knowledge in increments of any even number that is not divisible by 4 will cause your Knowledge gain to round up. The [Insightful](Regalia.md#insightful) Regalia somewhat overpowers the decreased Knowledge gain downside of this Flaw, allowing you to gain slightly more Knowledge than you would previously. As this Flaw grants two Boon Points, it cannot be chosen alongside another Flaw, while still allowing you to choose two Boons, making Simple very appealing to a lot of players. Fugitive also grants two Boon Points, making it a great alternative for those who do not wish to use Simple.
-    -   **Squeamish** will cause you to lose stomach upon manually executing enemies. As [food](Food.md) buffs are tied to your stomach bar, you'll also lose those more quickly than other character might. Other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food. This Flaw can be effectively negated if you obtain the [Carnivore](Talents.md#carnivore) Talent, as this will cause you to instead gain stomach and hydration after killing foes. Any form of automatic execution (e.g. [Blood Scourge](Blood_Scourge.md), blood loss, drowning, or [burning](Status_Effects.md#burn)) will not trigger this Flaw.
-    -   **Vegetarian**'s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items and the [Guild Base Mess Hall](Guild_Bases.md) sells a Vegetarian option. Vegetarian only grants a ~50% chance to vomit when eating meat-based foods, so they are still viable options in a pinch. Picking this Flaw will make it impossible to obtain the [Carnivore](Talents.md#carnivore) Talent, which some players may find useful. [Bloodrend](Bloodrend.md)'s _Carnivorous_ [Cantrip](Elemental_Cantrips.md) does not negate this Flaw's effects; you still have a chance to vomit when consuming raw meat.
+-   Your Flaw choice during Character Creation is largely inconsequential (barring Blind), as you can exchange any non-Special Flaw for a random Base Flaw at the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md). Note: You need to be Power 17+ or have used the Shrine of Blasphemy Power Up deal prior to unlock Flaw conversion.
 -   Ideally, all Special Flaws should be removed from your character as soon as possible, as they only apply negative effects with no silver lining.
+
+Some Flaws are more worth-taking than others:
+
+### Blind
+
+**Blind** gives you the **[Blinded](Status_Effects.md#blinded)** effect constantly, heavily limiting your field-of-vision. This Flaw is unlocked by obtaining [Blindseer](Oath%253A_Blindseer.md) for the first time. This Flaw grants 1 Boon Point when chosen, and **cannot** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   If you can live through it long enough to obtain the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md), you can negate the Flaw's downside entirely.
+    -   As its (only) upside, this Flaw provides protection against [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Also, effects that would normally Blind the player (the [Blinded](Talents.md#blinded), [Blind Spot](Talents.md#blind-spot), and [Deep Wound](Talents.md#deep-wound) Talents as well as the [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam) Mantra) have no effect on the player, because well... they're already blind.
+    -   Cosmetically, Blind gives your character milky-white eyes, though a similar effect can be produced with [Dye Packets](Dye_Packet.md).
+    -   [Gremors](Gremor.md) notably have a small vision radius while blinded, and lighting sources can also be used (such as the [Pathfinder Lantern](Pathfinder_Lantern.md)) to slightly mitigate the downsides of this Flaw. Though these apply to any source of the [Blinded](Status_Effects.md#blinded) effect, not just this Flaw.
+
+### Deficient
+
+**Deficient** reduces the rate at which your [Ether](Ether.md) regenerates. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   This Flaw is a downside for all builds that intend to use Mantras, and is generally not worth taking.
+    -   If you decide to go for the [Silentheart](Oath%253A_Silentheart.md) Oath, the downsides of the Flaw will be almost entirely negated. Though, a Silentheart can still find some usage for their Ether with certain Talents such as [Ardour Scream](Talents.md#ardour-scream) and [Demon Step](Talents.md#demon-step).
+
+### Fugitive
+
+**Fugitive** reduces your starting [Reputation](Reputation.md) with all factions. This Flaw is unlocked by gaining negative reputation for any faction you initially had positive reputation for. This Flaw grants 2 Boon Points when chosen, and **cannot** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   Fugitive can be worked around by investing time to increase your Reputation with the factions that you now have negative reputation for. For applicable factions, this is most efficiently done through taking quests on [Job Boards](Job_Boards.md).
+    -   Because the maximum amount of reputation you can gain for each faction is limited by your starting repuation with them, this Flaw may lock you out of faction-based content, such as [Oath: Blightsurger](Oath%253A_Blightsurger.md). Your chosen [Aspect](Aspects.md) and [Origin](Origins.md), as well as the [Celebrity](Talents.md#celebrity) Talent, can be helpful to reduce the prevalence of this downside, should it apply at all.
+    -   Outside of the time sink allocated to increasing your reputation with all factions back to positive, the biggest downside to this flaw is being aggrod by the [Guard Turrets](Guard_Turrets.md) at faction-owned locations. In particular, [the City of the Drowned](The_City_of_the_Drowned.md)'s turrets, owned by [Lost Celtor](Lost_Celtor.md), are exceptionally dangerous, as they decrease the player's [Sanity](Insanity.md) on hit, which will often leave the player at high-tiers of [Insanity](Insanity.md) by the time they enter their [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+    -   This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions.
+    -   As this Flaw grants two Boon Points, it cannot be chosen alongside another Flaw in [Character Creation](Character_Creation.md), while still allowing you to choose two Boons. This makes Fugitive very appealing to some players, and a great alternative to Simple, which also grants 2 Boon Points.
+    -   Exchanging Fugitive for a different Flaw using the Shrine of Blasphemy will subsequently increase your reputation with all the factions, making up for the lost reputation.
+
+### Glutton
+
+**Glutton** increases the rate at which your Hunger meter decays. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   This Flaw forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall.
+    -   This Flaw is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as the Regalia entirely disables passive stomach/thirst drain.
+    -   Hunger loss from non-passive sources (e.g. Squemish or the [Gluttony](Gluttony.md) enchantment) are not affected by this Flaw.
+    -   [Gremor](Gremor.md)'s [Navae's Guidance](Talents.md#navaes-guidance) Talent and the [Full Food Buff](Status_Effects.md#full-food-buff) decrease the rate at which your hunger decays, counteracting the downside of this Flaw.
+
+### Haemophilia
+
+**Haemophilia** increases **blood loss** taken from taking damage. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   Haemophilia is basically a free Flaw in most 1v1 situations, as the increased blood loss won't have an impact when you'll be knocked Unconscious before your blood runs out, but in ganks you can die to blood before health runs out after some time.
+    -   This Flaw (luckily) doesn't affect **blood drain** effects, such as utilizing or being hit by [Bloodrend](Bloodrend.md) Mantras, the blood cost from the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) downside, [blood loss potions](Alchemy.md), whiffing with or being hit by the [Curse of the Bloodthirsty](Curse_of_the_Bloodthirsty.md) enchantment, etc. as blood drain effects are unaffected by blood loss modifiers.
+
+### Manic
+
+**Manic** increases the [Sanity](Insanity.md) lost when you lose sanity from being attacked. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   Manic is usually a free Boon Point; the increased Sanity loss is minimal and Sanity damage comes from few sources, though you may be in a pickle if you encounter an opponent who is built around reducing their enemy's Sanity.
+    -   Having low Sanity can benefit some builds via Talent effects such as [Piercing Will](Talents.md#piercing-will) and [Lose Your Mind](Talents.md#lose-your-mind).
+
+### Obvious
+
+**Obvious** grants -20% [stealth](Stealth.md) on spawn, increasing the radius at which enemies will detect you. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   This Flaw will largely only affects PvE, being potentially dangerous in [the Depths](The_Depths.md).
+    -   If your build utilizes either of the following, then this Flaw will be actively detrimental to your build, and is highly recommended against:
+        -   [Murmur: Tacet](Murmur%253A_Tacet.md) - The range of the stealth bubble scales inversely on the user's Stealth stat, with smaller range being better.
+        -   The [Fatal Stealth](Talents.md#fatal-stealth) Talent - Fatal Stealth provides a damage increase to your attacks that hit your opponent's back, with the damage buff scaling on Stealth gained from [Equipment](Equipment.md) and [Outfit](Outfits.md) sources. For some reason, the Obvious Flaw acts against this Talent's favor, reducing the overall damage buff gained. This can go into the negatives, with you dealing less damage on backhit than anywhere else.
+    -   The negative Stealth from this Flaw is affected by Stealth multipliers, such as [Felinor](Felinor.md) and crouching/[Lowstride](Talents.md#lowstride).
+        -   The [Felinor](Felinor.md) aspect's innate 20% Stealth and 1.2x Stealth multipliers makes it so an Obvious Felinor starts with -4% Stealth; counteracted by a mere 2 [Agility](Attributes.md#agl) investment.
+    -   This Flaw's downside can be mitigated through [Agility](Attributes.md#agl) investment, [Equipment](Equipment.md), [Outfits](Outfits.md), etc. see [Stealth](Stealth.md) for a list of all Stealth gain sources.
+
+### Simple
+
+**Simple** reduces EXP gained from all sources, and reduces [Knowledge](Knowledge.md) gain by 25%, rounded up. This Flaw grants 2 Boon Points when chosen, and **cannot** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   The EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up and this part of the Flaw is fully negated when fully progressed.
+    -   The reduced [Knowledge](Knowledge.md) gain from this Flaw can hurt, but there are some workarounds; if you gain Knowledge in increments of 1 or 2 (most Knowledge gain sources fall under this range), the Flaw will not hurt you as it rounds. Alternatively, gaining Knowledge in increments of any even number that is not divisible by 4 will cause your Knowledge gain to round up.
+    -   The [Insightful](Regalia.md#insightful) Regalia somewhat overpowers the decreased Knowledge gain downside of this Flaw, allowing you to gain slightly more Knowledge than you would previously.
+    -   As this Flaw grants two Boon Points, it cannot be chosen alongside another Flaw in [Character Creation](Character_Creation.md), while still allowing you to choose two Boons. This makes Simple very appealing to some players, and a great alternative to Fugitive, which also grants 2 Boon Points.
+
+### Squeamish
+
+**Squeamish** will cause you to lose stomach upon manually executing enemies. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   As [food](Food.md) buffs are tied to your stomach bar, you may lose those more quickly than other character might.
+    -   Be sure to carry an ample supply of food.
+    -   This Flaw can be effectively negated if you obtain the [Carnivore](Talents.md#carnivore) Talent, as this will cause you to instead gain stomach and hydration after killing foes.
+    -   Any form of automatic execution (e.g. [Blood Scourge](Blood_Scourge.md), blood loss, drowning, or [burning](Status_Effects.md#burn)) will not trigger this Flaw.
+
+### Vegetarian
+
+**Vegetarian** grants an ~50% chance to vomit upon consuming Meat-based [Food](Food.md) items, draining your stomach bar by a very large amount. This Flaw grants 1 Boon Point when chosen, and **cannot** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+
+-   Notes:
+    -   The inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items and the [Guild Base Mess Hall](Guild_Bases.md) sells a Vegetarian option.
+    -   Vegetarian only grants a chance to vomit when eating meat-based foods, so they are still viable options in a pinch.
+    -   Picking this Flaw will make it impossible to obtain the [Carnivore](Talents.md#carnivore) Talent, which some players may find useful.
+    -   [Bloodrend](Bloodrend.md)'s _Carnivorous_ [Cantrip](Elemental_Cantrips.md), which allows a Bloodrender to consume raw meat without vomiting, does not negate this Flaw's effects; you still have a chance to vomit when consuming raw meat.
 
 ## Trivia
 

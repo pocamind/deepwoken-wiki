@@ -1,9 +1,9 @@
 ---
 title: Warmonger
-revid: 227855
+revid: 227996
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Greathammers, Named Weapons, Named Items, Heavy Weapons, Legendary Weapons]
+categories: [Weapons, Weapons with Talents, Greathammers, Named Weapons, Heavy Weapons, Legendary Weapons]
 ---
 
 # Warmonger
@@ -42,7 +42,7 @@ Variants: [Steel Maul](Steel_Maul.md) · [Saint Jay's Hammer](<Saint_Jay's_Hamme
 
 The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul](Steel_Maul.md) with higher requirements. This weapon bears a brown appearance with a stone texture and a red swing trail, distinguishing it from base Steel Maul.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Warmonger. Warmonger **cannot** be enchanted.
+Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate Warmonger. Warmonger **cannot** be enchanted.
 
 ## Talents
 
@@ -64,4 +64,4 @@ Warmonger uses the default Greathammer critical, an overhead swing. It has a sca
 
 ## Trivia
 
--   It is unclear if the description suggests the weapon is sentient or simply that the previous wielder was of low intelligence.
+-   It is unclear if the description suggests the weapon is sentient or simply that the previous wielder was of low intelligence or extremely bloodthirsty.

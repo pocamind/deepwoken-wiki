@@ -525,7 +525,7 @@
   },
   "1665": {
     "title": "Ores",
-    "lastrevid": 227831
+    "lastrevid": 228002
   },
   "1667": {
     "title": "Rat's Den",
@@ -693,7 +693,7 @@
   },
   "2263": {
     "title": "Status Effects",
-    "lastrevid": 227906
+    "lastrevid": 227953
   },
   "2302": {
     "title": "Suri",
@@ -729,7 +729,7 @@
   },
   "2422": {
     "title": "Boons and Flaws",
-    "lastrevid": 224160
+    "lastrevid": 227967
   },
   "2438": {
     "title": "Authority Peacekeeper",
@@ -2357,7 +2357,7 @@
   },
   "5770": {
     "title": "Old World Greatshield",
-    "lastrevid": 224615
+    "lastrevid": 227991
   },
   "5774": {
     "title": "Voidzones",
@@ -2645,7 +2645,7 @@
   },
   "6434": {
     "title": "Royal Etrean Guard",
-    "lastrevid": 227494
+    "lastrevid": 227973
   },
   "6436": {
     "title": "Justicar (Origin)",
@@ -2989,7 +2989,7 @@
   },
   "7736": {
     "title": "Imperial Pauldrons",
-    "lastrevid": 221973
+    "lastrevid": 227968
   },
   "7737": {
     "title": "Leather Pauldrons",
@@ -3333,7 +3333,7 @@
   },
   "8519": {
     "title": "Eager Tradesman",
-    "lastrevid": 223236
+    "lastrevid": 228003
   },
   "8520": {
     "title": "Scholar",
@@ -4633,7 +4633,7 @@
   },
   "14071": {
     "title": "Murmur: Tacet",
-    "lastrevid": 227911
+    "lastrevid": 227975
   },
   "14072": {
     "title": "Murmur: Rhythm",
@@ -6249,7 +6249,7 @@
   },
   "18323": {
     "title": "Warmonger",
-    "lastrevid": 227855
+    "lastrevid": 227996
   },
   "18328": {
     "title": "Raw Heavy Meat",
@@ -6317,7 +6317,7 @@
   },
   "18374": {
     "title": "Bloodbane",
-    "lastrevid": 227853
+    "lastrevid": 227990
   },
   "18411": {
     "title": "Authority Guard (disambiguation)",
@@ -7345,7 +7345,7 @@
   },
   "20960": {
     "title": "Ritual Sacrifice",
-    "lastrevid": 227852
+    "lastrevid": 227994
   },
   "20967": {
     "title": "??? (Blindseer Glyphs)",
@@ -9117,7 +9117,7 @@
   },
   "23969": {
     "title": "Captain Greene",
-    "lastrevid": 217615
+    "lastrevid": 228000
   },
   "23996": {
     "title": "Maestro",
@@ -9525,7 +9525,7 @@
   },
   "25064": {
     "title": "Etrean Sashimono",
-    "lastrevid": 225908
+    "lastrevid": 227972
   },
   "25066": {
     "title": "The Foreman",
@@ -9649,7 +9649,7 @@
   },
   "26118": {
     "title": "Rangescraper",
-    "lastrevid": 227854
+    "lastrevid": 227993
   },
   "26120": {
     "title": "Captain Rendez",
@@ -9729,7 +9729,7 @@
   },
   "26327": {
     "title": "Wool Beret",
-    "lastrevid": 227052
+    "lastrevid": 227969
   },
   "26328": {
     "title": "Jade Vigil",
@@ -9765,7 +9765,7 @@
   },
   "26441": {
     "title": "Guard Turrets",
-    "lastrevid": 227947
+    "lastrevid": 228004
   },
   "26449": {
     "title": "Threadcutter",
@@ -9782,5 +9782,13 @@
   "26472": {
     "title": "Version History/Editing",
     "lastrevid": 227923
+  },
+  "26482": {
+    "title": "Festival of Lights",
+    "lastrevid": 227982
+  },
+  "26484": {
+    "title": "Tenacity",
+    "lastrevid": 227999
   }
 }
