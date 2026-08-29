@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 227901
+revid: 227905
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -30,33 +30,32 @@ The Oath allows you to manipulate the bdsm ropes of [Zi'eer](The_Lord_Regent.md)
 ## Obtainment
 
 1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation by using the Factions tab in your inventory. Only neutral reputation is required to obtain the oath.
-    -   You can either get this through [Emel](Emel.md), [Imel](Imel.md), and [Rimil's](Rimil.md) bounties if you choose, but you can also help the [Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry Scout](Ministry_Scout.md), waiting for the nomads to kill the other, and then assassinate them. This is far less efficient than doing bounties, only giving around half the reputation each completion.
+    -   You can either get this through helping out [the Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry Scout](Ministry_Scout.md), waiting for the nomads to kill the other.
         -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
-        -   The Bounty version of [The Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
-    -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)) This method can get you reputation much faster than most methods.
         -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your reputation with ministry as neutral as possible.
+    -   You can also get this by trading [Knowledge](Knowledge.md) with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)) This method can get you reputation much faster than most methods.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke.
-3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of** **Mastery (Attributes option) and Order** work, including those in [The Depths](First_Layer.md).
+3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of** **Mastery (Attributes option) and Order** work, including those in [The Depths](The_Depths.md).
 4.  Unlock your [Resonance](Resonance.md).
 5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
-6.  IMPORTANT NOTICE: It has been confirmed by Aswqe that you need EVERY SINGLE prerequisite before talking to Regent. For example, forgetting to obtain sufficient reputation with The Ministry and going to speak with the Lord Regent will SOFTLOCK you out of obtaining the oath; you can't forget a requirement and go back to get it - MAKE SURE TO SPEAK WITH THE LORD REGENT AFTER OBTAINING EVERY SINGLE PREREQUISITE.
+6.  _IMPORTANT NOTICE_: It has been confirmed by Aswqe that you need EVERY SINGLE prerequisite before talking to Regent. For example, forgetting to obtain sufficient reputation with The Ministry and going to speak with the Lord Regent will SOFTLOCK you out of obtaining the oath; you can't forget a requirement and go back to get it - MAKE SURE TO SPEAK WITH THE LORD REGENT AFTER OBTAINING EVERY SINGLE PREREQUISITE.
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you." then, finish the dialogue and you will obtain the Oath **(Choosing the "Yes, I did." dialogue will kill you, but not softlock you.)**
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 
-_Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as Lord Regent will instantly kill you if you enter his room._
+_Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as [Lord Regent](The_Lord_Regent.md) will instantly kill you if you enter his room._
 
 ## Progression
 
-As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 2 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progressed will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
+As tasked by [the Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 2 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progressed will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
 
-On the other hand, players who do not wish to engage in PvP combat can progress the Oath by conquering [The Diluvian Mechanism](The_Diluvian_Mechanism.md), completing the [Gaunt Man](The_Gaunt_Man.md)'s [experiment](The_Vat.md), or defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) with no [Light Hook](Light_Hook.md). All challenges must be done either solo or with a party solely composed of other Contractors to progress.
+On the other hand, for players who prefer to avoid PvP combat you can progress the Oath by conquering [the Diluvian Mechanism](The_Diluvian_Mechanism.md), completing the [Gaunt Man](The_Gaunt_Man.md)’s [experiment](The_Vat.md), or defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) without a [Light Hook](Light_Hook.md). To progress, all challenges must be completed either solo or with a party consisting exclusively of other Contractors.
 
 -   Base Unlock: Hidden Tendril and Lord's Slice
 -   First Unlock: Equalizer
 -   Second Unlock: String Trick and Judgement
 
-Alternatively you may spend 10 Knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
+Alternatively, you may spend 10 [Knowledge](Knowledge.md) to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
 
 ## Effects
 

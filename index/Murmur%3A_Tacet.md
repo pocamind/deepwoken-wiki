@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Tacet"
-revid: 223854
+revid: 227911
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -36,23 +36,19 @@ Tacet has two different detection radius, one for PVE and PVP:
 
 ### Obtainment
 
-Murmur: Tacet can be obtained in four ways, only one of which does not require any Charisma.
+Murmur: Tacet can be obtained in three ways.
 
-#### Method One - Fetch Quest
-
-Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests, he will give you a random player in the server's current location and name asking you to kill them. Asking for a bounty from him requires 10 Charisma. You need 5 Kills to Obtain Tacet. (Must have the "hunted" reputation with Etrea)
-
-#### Method Two - Born Assassin
+#### Method One - Born Assassin
 
 By completing 5 Bounty Hunting Contracts from any [Bounty Board](Bounty_Hunting.md), [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method. (Bounty Assists do not count)
 
 A screenshot of the Quiet Stranger NPC, found by Restative.
 
-#### Method Three - The Quiet Stranger NPC
+#### Method Two - The Quiet Stranger NPC
 
 Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The [Quiet Stranger](Quiet_Stranger.md) NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
 
-#### Method Four - Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+#### Method Three - Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 The [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) will grant you Tacet instantly upon obtainment. However, you cannot use the Oath's variant of Tacet to obtain [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
 

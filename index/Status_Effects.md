@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 227288
+revid: 227906
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ You are in [the Depths](The_Depths.md). Perishing will send you to the [Fragment
 
 ### Void
 
-You are in a [Voidzone](Voidzones.md) or in the range of a [Void Spire](Void_Spire.md) while being Power 15 or higher. While you have the Void health state, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of you were **[Injured](#injured)** or not. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. Leave the Void one to clear this state.
+You are in a [Voidzone](Voidzones.md) or in the range of a [Void Spire](Void_Spire.md) while being Power 15 or higher. While you have the Void health state, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of you were **[Injured](#injured)** or not. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. Leave the Void zone to clear this state.
 
 ### Cursed
 

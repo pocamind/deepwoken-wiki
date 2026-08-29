@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 227053
+revid: 227909
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -138,7 +138,7 @@ Dodge
 ### Passives
 
 -   **Broodlord Rot** - When the Mudskipper Broodlord lands an attack on a target, **80% anti-heal is applied** for a few seconds. It also applies Bear Trap.
-    -   Natural health regeneration is unaffected. Artificial health regeneration is, however.
+    -   Natural health regeneration is unaffected. Offensive health regeneration is, however.
     -   In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
         -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is increased up to 100%[\[1\]](#cite-note-1), excluding health packs received from killing monsters.
 -   **Sturdy** - When the Mudskipper Broodlord's natural armor is broken, it remains stunned for 50% less time than other monsters.

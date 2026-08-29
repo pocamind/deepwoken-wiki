@@ -5095,6 +5095,9 @@
   "Tundra": {
     "to": "Tundra Spellhardt"
   },
+  "Turrets": {
+    "to": "Guard Turrets"
+  },
   "Twincleave": {
     "to": "Attunement-less",
     "fragment": "Twincleave"

@@ -1,9 +1,9 @@
 ---
 title: Imperium Kata
-revid: 225917
+revid: 227936
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
+categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons, The Hundred Legions]
 ---
 
 # Imperium Kata

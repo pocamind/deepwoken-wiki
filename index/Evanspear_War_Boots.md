@@ -1,9 +1,9 @@
 ---
 title: Evanspear War Boots
-revid: 221920
+revid: 227940
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots, Equipment of The Hundred Legions]
 ---
 
 # Evanspear War Boots

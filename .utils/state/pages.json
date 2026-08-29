@@ -381,7 +381,7 @@
   },
   "1338": {
     "title": "Shadowcast",
-    "lastrevid": 227490
+    "lastrevid": 227907
   },
   "1347": {
     "title": "Flintlock",
@@ -497,7 +497,7 @@
   },
   "1605": {
     "title": "Greathive Aratel",
-    "lastrevid": 215512
+    "lastrevid": 227924
   },
   "1615": {
     "title": "Tomb of the Nameless Warrior",
@@ -693,7 +693,7 @@
   },
   "2263": {
     "title": "Status Effects",
-    "lastrevid": 227288
+    "lastrevid": 227906
   },
   "2302": {
     "title": "Suri",
@@ -1481,7 +1481,7 @@
   },
   "3873": {
     "title": "Cestis",
-    "lastrevid": 227887
+    "lastrevid": 227918
   },
   "3881": {
     "title": "Dark Feather",
@@ -1561,7 +1561,7 @@
   },
   "4284": {
     "title": "Evanspear Greataxe",
-    "lastrevid": 224559
+    "lastrevid": 227937
   },
   "4290": {
     "title": "Hive Guard",
@@ -3205,7 +3205,7 @@
   },
   "8142": {
     "title": "Oath: Contractor",
-    "lastrevid": 227901
+    "lastrevid": 227905
   },
   "8148": {
     "title": "Delver's Duster",
@@ -4001,7 +4001,7 @@
   },
   "11491": {
     "title": "Imperial Staff",
-    "lastrevid": 224593
+    "lastrevid": 227934
   },
   "11516": {
     "title": "The Vigils",
@@ -4101,7 +4101,7 @@
   },
   "11843": {
     "title": "Mudskipper Broodlord",
-    "lastrevid": 227053
+    "lastrevid": 227909
   },
   "11851": {
     "title": "Grand Pathfinder's Backpack",
@@ -4633,7 +4633,7 @@
   },
   "14071": {
     "title": "Murmur: Tacet",
-    "lastrevid": 223854
+    "lastrevid": 227911
   },
   "14072": {
     "title": "Murmur: Rhythm",
@@ -5789,7 +5789,7 @@
   },
   "17743": {
     "title": "Worldpiercer Gauntlets",
-    "lastrevid": 222909
+    "lastrevid": 227935
   },
   "17750": {
     "title": "Lifevents",
@@ -6345,7 +6345,7 @@
   },
   "18489": {
     "title": "Journal of Warden Jericho",
-    "lastrevid": 224820
+    "lastrevid": 227930
   },
   "18543": {
     "title": "Mantle of Enmity/Gallery",
@@ -6373,7 +6373,7 @@
   },
   "18597": {
     "title": "Imperium Kata",
-    "lastrevid": 225917
+    "lastrevid": 227936
   },
   "18601": {
     "title": "Hector",
@@ -6433,7 +6433,7 @@
   },
   "18640": {
     "title": "Enmity's Armor Piece",
-    "lastrevid": 227827
+    "lastrevid": 227929
   },
   "18641": {
     "title": "Titus' Armor Piece",
@@ -6501,15 +6501,15 @@
   },
   "18693": {
     "title": "Evanspear War Helmet",
-    "lastrevid": 221922
+    "lastrevid": 227938
   },
   "18694": {
     "title": "Evanspear War Plate",
-    "lastrevid": 221921
+    "lastrevid": 227939
   },
   "18695": {
     "title": "Evanspear War Boots",
-    "lastrevid": 221920
+    "lastrevid": 227940
   },
   "18709": {
     "title": "Specialist Plate",
@@ -8289,7 +8289,7 @@
   },
   "22003": {
     "title": "Spear Dancer",
-    "lastrevid": 227197
+    "lastrevid": 227926
   },
   "22079": {
     "title": "Lifeweaver's Hat",
@@ -8593,7 +8593,7 @@
   },
   "22722": {
     "title": "Version History/2026",
-    "lastrevid": 226610
+    "lastrevid": 227922
   },
   "22730": {
     "title": "Suri's brother",
@@ -9764,8 +9764,8 @@
     "lastrevid": 227876
   },
   "26441": {
-    "title": "Turrets",
-    "lastrevid": 227502
+    "title": "Guard Turrets",
+    "lastrevid": 227947
   },
   "26449": {
     "title": "Threadcutter",
@@ -9778,5 +9778,9 @@
   "26459": {
     "title": "Iron Memento",
     "lastrevid": 227774
+  },
+  "26472": {
+    "title": "Version History/Editing",
+    "lastrevid": 227923
   }
 }

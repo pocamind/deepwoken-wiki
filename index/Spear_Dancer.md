@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 227197
+revid: 227926
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -498,7 +498,7 @@ _A javelin that opens into 30 barbs. Strike the afflicted to deal massive damage
  |
 | 
 
-TBA [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 

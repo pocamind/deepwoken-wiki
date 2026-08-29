@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 215512
+revid: 227924
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Hive]
@@ -171,3 +171,4 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in Aratel meaning they couldn't be made use of, without travelling to either [Fort Merit](Fort_Merit.md) or [Miner's Landing](<Miner's_Landing.md>), for over two years.
 -   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.
 -   Back in [Verse 1](Verse_1.md), there was only three Teleporters instead of five.
+-   The description of this area was previously, "The stirring of life of all kinds fills the air as you enter the shade of the canopy."

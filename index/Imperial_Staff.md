@@ -1,9 +1,9 @@
 ---
 title: Imperial Staff
-revid: 224593
+revid: 227934
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
+categories: [Weapons, Weapons with Talents, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, The Hundred Legions]
 ---
 
 # Imperial Staff

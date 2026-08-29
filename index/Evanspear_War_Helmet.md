@@ -1,9 +1,9 @@
 ---
 title: Evanspear War Helmet
-revid: 221922
+revid: 227938
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Equipment of The Hundred Legions]
 ---
 
 # Evanspear War Helmet

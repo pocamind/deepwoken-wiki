@@ -4453,7 +4453,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](../S
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Has a base damage of 65/77.5/90/102.5/115 per level with 2.75 Shadowcast scaling.
+-   Has a base damage of -52/62/72/82/92 per level with 2.75 Shadowcast scaling.
 -   Drains 33.25/38.98/44.7/50.425/56.15 Ether per level with 2.75 Shadowcast scaling.
 -   Has a 1 second windup with True Hyperarmor and a 12 second cooldown.
 -   Eclipse Kick ragdolls targets who dodge it.
@@ -4466,7 +4466,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](../S
 -   Unaffected by damage modifiers with the exception of inhale while using the [Eyes of Ethiron](../Eyes_of_Ethiron.md) weapon.
 -   Eclipse Kick is unaffected by [Insignia Gem](../Insignia_Gem.md).
 -   If a [Multiplying Spark](../Mantra_Modifiers.md#sparks) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage and Ether drain than the unmodified variant.
-    -   The first kick has a base damage of 5/6/7/8/9 per level. The second kick has a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
+    -   The first kick has a base damage of 5/6/7/8/9 per level. The second kick has a base damage of 52/62/72/82/92 per level (might be inaccurate, needs testing). Both hits have 2.75 Shadowcast scaling.
     -   The first kick drains 24.94/29.23/33.53/37.82/42.11 Ether per level. The second kick drains 26.58/31.18/35.76/40.34/56.15 Ether per level. Both hits have 2.75 Shadowcast scaling.
 
  |
