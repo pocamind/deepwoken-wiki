@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 222968
+revid: 228011
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Summer Company]
@@ -50,6 +50,8 @@ For the **standing critical**, the user aims at the target and fires a constant 
 For the **aerial critical**, the user performs a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a [burn](Status_Effects.md#burn)\-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
 
 Both critical attacks share a cooldown of **10 seconds**.
+
+(The Critical does not have m1 tag)
 
 ## Trivia
 

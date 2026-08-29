@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 225752
+revid: 228012
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -201,7 +201,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   The Beloved Zofia references Celica's [weapon of the same name](https://fireemblem.fandom.com/wiki/Beloved_Zofia) in _Fire Emblem Echoes: Shadows of Valentia_.
     -   Both [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) and [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) reference obtainable classes in different _Fire Emblem_ games.
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
-    -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
+    -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti) and [its critical hit animation](https://youtu.be/XBRlNFxUu2M?si=2NYvYsyVZIHbb5MN&t=15).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Regek.md) and complete the Soulblooms quest.
 -   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any Oath, having a whopping 12 (Including the [Oath](Oaths.md) itself).
 
