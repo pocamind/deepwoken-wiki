@@ -1,6 +1,6 @@
 ---
 title: Trueblood Pendant
-revid: 227757
+revid: 228063
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | Blood Pact |
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Sold in Naan Zakshuns's black market for 1,000 |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshuns's black market for 1,000 |
 | description | ... |
 
 Variants: [Regenerative Pendant](Regenerative_Pendant.md)

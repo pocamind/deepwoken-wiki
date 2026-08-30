@@ -1,6 +1,6 @@
 ---
 title: Candle
-revid: 227261
+revid: 228118
 source: https://deepwoken.fandom.com/wiki/Candle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -19,7 +19,7 @@ categories: [Items, Tools]
 | desc | Candle, Great for setting the mood, not so much for keeping warm.Umbral Candle, Extinct Deactivated Salute. |
 | obtainment | Candle:, Crafting: 1 Fiber + 1 BeeswaxUmbral Candle:, Crafting: 1 Candle + 1 Umbral Obsidian, Sold in Traan Zakshun's black market for 1 |
 
-The **Candle** is an tool item that can be placed and then lit using [Flint](Flint.md), exactly like [Campfires](Campfire_Pit.md). Candles will melt as they burn, signifying their remaining lifespan.
+The **Candle** is a tool item that can be placed and then lit using [Flint](Flint.md), exactly like [Campfires](Campfire_Pit.md). Candles will melt as they burn, signifying their remaining lifespan.
 
 Regular candles are crafted with 1 [Fiber](Fiber.md) and 1 [Beeswax](Beeswax.md) and will yield only one singular candle per craft.
 

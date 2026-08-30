@@ -1,6 +1,6 @@
 ---
 title: Outpost Worth
-revid: 227815
+revid: 228048
 source: https://deepwoken.fandom.com/wiki/Outpost_Worth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant, Territory of The Central Authority]

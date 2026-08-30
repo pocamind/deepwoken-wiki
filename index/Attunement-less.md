@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 227229
+revid: 228131
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -866,6 +866,7 @@ Blunt ResistanceBlunt
 -   Deals 0 posture damage.
 -   0.65s wind-up.
 -   10s cooldown.
+-   In shiftlock it will head directly forward but can be manually aimed.
 -   When close enough to the enemy, the orbs will autotrack.
     -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase how far you can be for it to autotrack.
 

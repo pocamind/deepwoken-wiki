@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 227845
+revid: 228130
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5140,6 +5140,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Execution_ \[Rare Talent\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.
+        -   The flourish aspect of the talent does not work with dual guns however.
     -   The extra damage is true damage.
     -   Does not work with [Unnecessary Theatrics](#unnecessary-theatrics) and [Dazing Finisher](#dazing-finisher).  
         
@@ -5151,6 +5152,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   **Execution** \[Rare Talent\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.
+        -   The flourish aspect of the talent does not work with dual guns however.
     -   The extra damage is true damage.
     -   Does not work with [Unnecessary Theatrics](#unnecessary-theatrics) and [Dazing Finisher](#dazing-finisher).  
         

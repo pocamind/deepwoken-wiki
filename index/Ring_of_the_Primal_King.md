@@ -1,6 +1,6 @@
 ---
 title: Ring of the Primal King
-revid: 222485
+revid: 228116
 source: https://deepwoken.fandom.com/wiki/Ring_of_the_Primal_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -19,7 +19,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Primadon, Titan of the East |
+| obtainment | Completing the Simian Terror Memory Task |
 | description | All attacks that apply knockback automatically apply daze. All Roar/Yell moves cause damage to dazed targets. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

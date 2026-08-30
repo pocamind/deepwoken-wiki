@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Pauldrons
-revid: 227708
+revid: 228097
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 2,300 |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 2,300 |
 | description | ... |
 
 Variants: [Fur Pauldrons](Fur_Pauldrons.md)

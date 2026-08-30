@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 227699
+revid: 228102
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses,
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Bluster Rapids |
+| obtainment | Any chest in Vow of Iron |
 | description | They've just been broken in. |
 
 Variants: [Novice Boots](Novice_Boots.md)

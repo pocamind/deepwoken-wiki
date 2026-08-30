@@ -1,6 +1,6 @@
 ---
 title: Super Simple Pauldrons
-revid: 227752
+revid: 228064
 source: https://deepwoken.fandom.com/wiki/Super_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Arms, Paul
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Any chest in Vow of Iron |
 | description | Either they're of low complexity or someone needs a punch. |
 
 Variants: [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md)

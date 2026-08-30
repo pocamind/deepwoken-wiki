@@ -1,6 +1,6 @@
 ---
 title: "Potion Master's Hat"
-revid: 227734
+revid: 228087
 source: https://deepwoken.fandom.com/wiki/Potion_Master's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talent
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 3,000 , Mystery Boxes |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 3,000 , Mystery Boxes |
 | description | ... |
 
 Variants: [Alchemist's Hat](<Alchemist's_Hat.md>)

@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Brace"
-revid: 227700
+revid: 228094
 source: https://deepwoken.fandom.com/wiki/Beginner's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set 
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Bluster Rapids |
+| obtainment | Any chest in Vow of Iron |
 | description | ... |
 
 Variants: [Novice Brace](Novice_Brace.md)

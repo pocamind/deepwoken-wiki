@@ -1,6 +1,6 @@
 ---
 title: Evengardes Keepsake
-revid: 222222
+revid: 228086
 source: https://deepwoken.fandom.com/wiki/Evengardes_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Depths, Minityrsa |
+| obtainment | Any chest in Vow of Iron, The Depths |
 | description | Gain 'chain of perfection' [sic] |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

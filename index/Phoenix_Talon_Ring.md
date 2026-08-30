@@ -1,6 +1,6 @@
 ---
 title: Phoenix Talon Ring
-revid: 222250
+revid: 228089
 source: https://deepwoken.fandom.com/wiki/Phoenix_Talon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The Depths |
+| obtainment | Any chest in Vow of Iron, The Depths |
 | description | Gain 15 temporary HP when you land an aerial attack on an attacking opponent. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

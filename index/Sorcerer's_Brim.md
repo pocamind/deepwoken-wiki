@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Brim"
-revid: 227750
+revid: 228077
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Hats, Equipment, Head, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Vow of Iron Exclusive, Hats, Equipment, Head, Equipment with Set Bo
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Mystery Boxes |
+| obtainment | Any chest in Vow of Iron, Mystery Boxes |
 | description | A finely crafted hat worn by master wizards of the Northen Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle. |
 
 Variants: [Ether Refined Brim](Ether_Refined_Brim.md)

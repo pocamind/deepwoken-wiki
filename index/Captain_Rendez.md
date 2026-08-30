@@ -1,6 +1,6 @@
 ---
 title: Captain Rendez
-revid: 227814
+revid: 228052
 source: https://deepwoken.fandom.com/wiki/Captain_Rendez
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]

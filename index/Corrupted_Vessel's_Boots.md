@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Vessel's Boots"
-revid: 227712
+revid: 228112
 source: https://deepwoken.fandom.com/wiki/Corrupted_Vessel's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment, E
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Depths chests |
+| obtainment | The Depths (Vow of Iron) |
 | description | You feel false-strengths fill your body and mind. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

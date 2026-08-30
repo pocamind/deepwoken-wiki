@@ -1,6 +1,6 @@
 ---
 title: Blessed Nomad Pendant
-revid: 227701
+revid: 228122
 source: https://deepwoken.fandom.com/wiki/Blessed_Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Children of Navae]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The Depths chests |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 3,000 , The Depths |
 | description | ... |
 
 Variants: [Nomad Pendant](Nomad_Pendant.md)

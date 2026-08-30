@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Pendant Earrings"
-revid: 227761
+revid: 228065
 source: https://deepwoken.fandom.com/wiki/Warrior's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings, Equipment with Ta
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Mystery Boxes |
+| obtainment | Any chest in Vow of Iron, Mystery Boxes |
 | description | Donning these fills you with strength and fury. |
 
 Variants: [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>)

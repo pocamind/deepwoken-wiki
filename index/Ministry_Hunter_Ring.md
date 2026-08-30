@@ -1,6 +1,6 @@
 ---
 title: Ministry Hunter Ring
-revid: 222259
+revid: 228109
 source: https://deepwoken.fandom.com/wiki/Ministry_Hunter_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The Depths |
+| obtainment | Any chest in Vow of Iron, The Depths |
 | description | Backstabs now deal 10% more damage. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

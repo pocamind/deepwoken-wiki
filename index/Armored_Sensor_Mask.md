@@ -1,6 +1,6 @@
 ---
 title: Armored Sensor Mask
-revid: 227697
+revid: 228107
 source: https://deepwoken.fandom.com/wiki/Armored_Sensor_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talen
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Exchanging treasure sacks with a Chest Master, Mystery Boxes, Sold in Naan Zakshun's black market for 3,000 |
+| obtainment | Any chest in Vow of Iron, Mystery Boxes, Sold in Naan Zakshun's black market for 3,000 |
 | description | Despite its humble appearance this mask represents the current pinnacle of Markorian technology. |
 
 Variants: [Iron Mask](Iron_Mask.md)

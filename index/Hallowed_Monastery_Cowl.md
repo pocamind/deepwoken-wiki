@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Cowl
-revid: 227724
+revid: 228079
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Head, Cowl
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths (Vow of Iron) |
+| obtainment | Any chest in Vow of Iron, The Depths (Vow of Iron) |
 | description | ... |
 
 Variants: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)

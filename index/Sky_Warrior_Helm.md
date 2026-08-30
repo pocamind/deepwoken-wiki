@@ -1,6 +1,6 @@
 ---
 title: Sky Warrior Helm
-revid: 227745
+revid: 228072
 source: https://deepwoken.fandom.com/wiki/Sky_Warrior_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Head, Helm
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 2,300 |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 2,300 |
 | description | ... |
 
 Variants: [Feathertop Helm](Feathertop_Helm.md)

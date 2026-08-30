@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Garb"
-revid: 227705
+revid: 228096
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs, Equipment with Set B
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Any chest in Vow of Iron |
 | description | ... |
 
 Variants: [Mercenary's Garb](<Mercenary's_Garb.md>)

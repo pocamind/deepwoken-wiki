@@ -1,6 +1,6 @@
 ---
 title: Oni Mask
-revid: 222306
+revid: 228093
 source: https://deepwoken.fandom.com/wiki/Oni_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talen
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The Depths (Vow of Iron) |
+| obtainment | Any chest in Vow of Iron, The Depths (Vow of Iron) |
 | description | The demonic visage fills you with a mix of dread and glee. |
 
 Variants: [Demon Mask](Demon_Mask.md)

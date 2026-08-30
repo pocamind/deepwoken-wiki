@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Boots
-revid: 227695
+revid: 228095
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talen
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Exchanging treasure sacks with a Chest Master |
+| obtainment | Any chest in Vow of Iron |
 | description | ... |
 
 Variants: [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md)

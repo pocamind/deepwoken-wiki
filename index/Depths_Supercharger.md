@@ -1,6 +1,6 @@
 ---
 title: Depths Supercharger
-revid: 222232
+revid: 228117
 source: https://deepwoken.fandom.com/wiki/Depths_Supercharger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The Ferryman, The Depths (Vow of Iron) |
+| obtainment | Completing Memory of the dancer Memory Task, The Depths (Vow of Iron) |
 | description | Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

@@ -1,6 +1,6 @@
 ---
 title: Azure Duelist Ring
-revid: 222206
+revid: 228103
 source: https://deepwoken.fandom.com/wiki/Azure_Duelist_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The Depths, Minityrsa, Sea Events, Sold in Naan Zakshun's black market for 1,000 |
+| obtainment | Any chest in Vow of Iron, The Depths, Sold in Naan Zakshun's black market for 1,000 |
 | description | Mantras cast immediately after you parry an attack do 20% more damage. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

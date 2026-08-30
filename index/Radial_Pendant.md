@@ -1,6 +1,6 @@
 ---
 title: Radial Pendant
-revid: 227737
+revid: 228090
 source: https://deepwoken.fandom.com/wiki/Radial_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Torso, Nec
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Depths, Mystery Boxes |
+| obtainment | Any chest in Vow of Iron, Depths, Mystery Boxes |
 | description | ... |
 
 Variants: [Revitalizing Pendant](Revitalizing_Pendant.md)

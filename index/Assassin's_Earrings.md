@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Earrings"
-revid: 227698
+revid: 228106
 source: https://deepwoken.fandom.com/wiki/Assassin's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The Depths (Vow of Iron) |
+| obtainment | Any chest in Vow of Iron, The Depths (Vow of Iron) |
 | description | ... |
 
 Variants: [Ossified Blood Earrings](Ossified_Blood_Earrings.md)

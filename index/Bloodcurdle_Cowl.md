@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Cowl
-revid: 227702
+revid: 228123
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses,
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 1,000 |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
 
 Variants: [Necrotic Cowl](Necrotic_Cowl.md)

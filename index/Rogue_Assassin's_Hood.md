@@ -1,6 +1,6 @@
 ---
 title: "Rogue Assassin's Hood"
-revid: 227742
+revid: 228082
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Hoods, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Hoods, Head, Equipment with Talen
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 1,000 |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
 
 Variants: [Assassin's Hood](<Assassin's_Hood.md>)

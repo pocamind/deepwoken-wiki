@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 227819
+revid: 228104
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths, Power 15 Jobs, sold in Naan Zakshun's black market for 1000 |
+| obtainment | Any chest in Vow of Iron, The Depths, sold in Naan Zakshun's black market for 1000 |
 | description | An imposing helmet made from blackened steel. |
 
 Variants: [Ossified Black Helm](Ossified_Black_Helm.md)

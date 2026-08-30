@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 224966
+revid: 228039
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Humanoid Bosses, Bosses, Voiced Characters]
@@ -244,7 +244,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <font>Palace tachi</font></li>
     <li><b>Alloyed Weapons</b>: N/A</li>
     <li><b>Generic Weapons</b>:
   <ol>

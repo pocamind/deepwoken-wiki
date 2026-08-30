@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 226570
+revid: 228059
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -26,7 +26,7 @@ categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Trickster's Habit** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
+**Trickster's Habit** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

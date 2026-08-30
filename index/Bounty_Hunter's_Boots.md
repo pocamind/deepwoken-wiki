@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Boots"
-revid: 227704
+revid: 228101
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 3,000 , Depths chests, Mystery Boxes |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 3,000 , The Depths (Vow of Iron), Mystery Boxes |
 | description | ... |
 
 Variants: [Mercenary's Boots](<Mercenary's_Boots.md>)

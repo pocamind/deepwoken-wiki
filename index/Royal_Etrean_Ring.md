@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Ring
-revid: 222500
+revid: 228111
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Any chest in Vow of Iron |
 | description | One handing a sword while wearing this ring turns your Critical Attack into the Twincleave mantra. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

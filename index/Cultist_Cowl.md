@@ -1,6 +1,6 @@
 ---
 title: Cultist Cowl
-revid: 227713
+revid: 228091
 source: https://deepwoken.fandom.com/wiki/Cultist_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talen
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths, Sold in Naan Zakshun's black market for 3,000 |
+| obtainment | Any chest in Vow of Iron, The Depths, Sold in Naan Zakshun's black market for 3,000 |
 | description | ... |
 
 Variants: [Dark Cowl](Dark_Cowl.md)

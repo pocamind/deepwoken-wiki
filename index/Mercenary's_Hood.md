@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Hood"
-revid: 227733
+revid: 228099
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talen
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths |
+| obtainment | Any chest in Vow of Iron, The Depths |
 | description | A sleek hood. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

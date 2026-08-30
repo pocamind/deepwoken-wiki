@@ -1,6 +1,6 @@
 ---
 title: Glumfig
-revid: 203667
+revid: 228041
 source: https://deepwoken.fandom.com/wiki/Glumfig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Alchemy]
@@ -29,7 +29,7 @@ categories: [Consumables, Alchemy]
 
 ## Description
 
-A small fruit that originated from the Western Luminant. This fruit is exclusively sold by [Traan Zakshun](Traan_Zakshun.md) for 2 in his black market or 2,500 in his regular shop rotation.
+A small fruit that originated from the Western Luminant. This fruit is exclusively sold by [Traan Zakshun](Traan_Zakshun.md) for 5 in his black market or 2,500 in his regular shop rotation.
 
 ## Trivia
 

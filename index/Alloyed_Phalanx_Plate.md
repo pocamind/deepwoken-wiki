@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Plate
-revid: 227696
+revid: 228108
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents, Equipment of The Hundred Legions]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Tale
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Any chest in Vow of Iron |
 | description | ... |
 
 Variants: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)

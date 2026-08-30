@@ -1,6 +1,6 @@
 ---
 title: Guard Turrets
-revid: 228004
+revid: 228057
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -32,4 +32,4 @@ Although they are hostile to a target of their [faction](Factions_&_Groups.md), 
 -   [The Depths](The_Depths.md)
     -   [Castle Light](Castle_Light.md) - Light Orb
     -   [The Chariot's Spire](<The_Chariot's_Spire.md>) - Tesla Coil
-    -   [District of Commerce](District_of_Commerce.md) - Watcher Bloom
+    -   [District of Commerce](District_of_Commerce.md) - Watcher Eye

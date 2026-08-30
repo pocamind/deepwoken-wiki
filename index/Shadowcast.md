@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 227907
+revid: 228044
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -544,7 +544,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](Shad
     -   This is dealt as a separate instance of damage, meaning people with [Risky Moves](Talents.md#risky-moves), [Ghost](Talents.md#ghost), or [Dark Rift](Talents.md#dark-rift) can dodge it getting hit by the ragdoll.
 -   If Eclipse Kick gets parried, the user will be forced into a [Knockdown](Status_Effects.md#knockdown) state, giving their opponent an opportunity to attack. This also applies if the spark variant of the Mantra is parried.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   The axe kick does [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does not proc.
+-   The axe kick does proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does not proc.
 -   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.
 -   Can also break certain tiles and fell trees.
 -   Unaffected by damage modifiers with the exception of inhale while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.

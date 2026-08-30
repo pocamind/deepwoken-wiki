@@ -1,6 +1,6 @@
 ---
 title: Vapordrop Earrings
-revid: 227758
+revid: 228069
 source: https://deepwoken.fandom.com/wiki/Vapordrop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Nautilodaunt Officiate, Chests |
+| obtainment | Any chest in Vow of Iron |
 | description | ... |
 
 Variants: [Vaporfrost Earrings](Vaporfrost_Earrings.md)
