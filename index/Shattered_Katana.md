@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 227380
+revid: 228145
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Maestro Evengarde Rest, Aelita, The Ferryman (Winter), Fishing, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Chaser, Scholar of the Crimson Contract, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode, Primadon, Titan of the EastVow of Iron:, Flashing Thunder Memento |
+| obtainment | Chests from:, Maestro Evengarde Rest, Elder Primadon, Primadon, Titan of the EastVow of Iron:, Flashing Thunder Memento |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description

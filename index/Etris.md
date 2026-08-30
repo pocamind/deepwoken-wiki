@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 227608
+revid: 228136
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -164,7 +164,7 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
 
 ### The Duke of Sin
 
--   To begin this quest, you must have at least ally [Reputation](Reputation.md) with Etrea. This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) random event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If already above neutral reputation, you can simply buy wood from the [Blacksmith](Blacksmith.md) and hand it to the [Korin](Korin.md) for a fast way to get reputation.
+-   To begin this quest, you must be slightly below ally [Reputation](Reputation.md) with Etrea. This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) random event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If already above neutral reputation, you can simply buy wood from the [Blacksmith](Blacksmith.md) and hand it to the [Korin](Korin.md) for a fast way to get reputation.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to [Kennith](Kennith.md). Kennith is an Etrean Guard and is located next to a bridge near the [Etris Palace](Etris_Palace.md).
 -   [Kennith](Kennith.md) will ask you to talk to the locals of Etris about [The Lord Regent](The_Lord_Regent.md)'s reputation as a ruler.
 -   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) in the library. (Note you have to talk to him twice)

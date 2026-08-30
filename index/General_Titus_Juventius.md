@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 227083
+revid: 228135
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies]
@@ -12,8 +12,8 @@ categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies
 |---|---|
 | health | 92000 ( 9200 to defeat ) |
 | attacks | Worldpiercing Deluge, Commander's Rage, Splitting Ascension, Sovereign Drive, Wrathful Stomp, Warp Kick, Blighted Sparks |
-| drops | Icarus Sun Shield, ??? |
-| locations | The Polymarch, The Valley of Heroes, Monkey's Paw |
+| drops | Icarus Sun Shield |
+| locations | The Polymarch |
 | affiliation | The Hundred Legions |
 
 Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
@@ -36,8 +36,8 @@ A young, Silverback Khan with great stature, he's around twice the height of the
 
 1.  Talk to the [Reclaimer](Reclaimer_of_the_Recollection.md) at [The Cerebral Spire](The_Cerebral_Spire.md), take the mission/task option and interact if it says, "memory of a commander".
 2.  Walk up to the five teleporters up the stairs and (from left to right) take the fourth teleporter to arrive at [The Polymarch](The_Polymarch.md).
-3.  Recommended but not mandatory: Kill the Red Legion members to avoid getting attacked during the fight of the minions
-4.  Interact with the big sigil at the center of the ship and wait till Titus lands on it, interact again and start fighting him.
+3.  Recommended but not mandatory: Kill the [Legion Soldiers](<Legion_Soldier_(The_Polymarch).md>) to avoid getting attacked during the fight of the minions
+4.  Interact with the [Site of a Bygone Memory](Site_of_a_Bygone_Memory.md) at the center of the ship and wait till Titus lands on it and start fighting him.
 
 ## Moveset
 

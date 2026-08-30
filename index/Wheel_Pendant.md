@@ -1,6 +1,6 @@
 ---
 title: Wheel Pendant
-revid: 223099
+revid: 228144
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Hell Mode, Ministry Scout, Dread Serpent, Saramaed Hollow, Bounties, Lodestar Bounty job, Chaser, Scholar of the Crimson Contract, Deep Widow |
+| obtainment | Chests from:, Lodestar Bounty, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon |
 | description | ... |
 
 ## Description
