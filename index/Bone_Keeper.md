@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 227134
+revid: 228159
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -101,6 +101,7 @@ Avoid
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
 -   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 -   💀 Autogrip
 
  |  |

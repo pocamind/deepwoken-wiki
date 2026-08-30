@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 226741
+revid: 228155
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -49,11 +49,15 @@ The **Railblade** is a [Greatsword](Weapons.md) obtained exclusively from the [S
 
 ## Critical
 
-For the **grounded** critical, the user braces themselves in a wind-up stance emitting the critical particles, applying knockdown, followed by exhausting the Railblade to unleash a flaming blow. Only the secondary hit will apply Burn, and; the first will only knockdown. Cancellable in the initial windup, however becomes uncancellable as the attack itself unfolds.
+The Railblade has two different critical attacks.
 
-For the **airborne** critical, the user hovers and raises their weapon overhead before unleashing a diagonal downwards slash, dealing high damage, short knockdown, and applying Burn.
+For the **standard** critical, the user rushes forward and strikes the target with their shoulder, applying Knockdown. If this is landed, the attack will follow up with the Railblade to release a flaming blow, burning those within its radius. Cancellable in the initial windup, however becomes uncancellable as the attack itself unfolds.
 
-The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents, including different paths & Talents such as Azure Flames. The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
+For the **aerial** critical, the user leaps into the air, raising the blade overhead before unleashing a heat-imbued downwards slash, applying Knockdown and Burn.
+
+The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents, including different paths & Talents such as Azure Flames.
+
+The cooldown for both criticals is **9 seconds**.
 
 These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. Spine Cutter does not proc however.
 

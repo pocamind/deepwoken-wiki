@@ -1,6 +1,6 @@
 ---
 title: Tenacity
-revid: 228033
+revid: 228160
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Shields, Offhand, Named Weapons, Named Items]
@@ -43,3 +43,7 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 Equipping the Tenacity grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**Aegis**](Talents.md#aegis) removes **all** posture damage taken.
+
+## Trivia
+
+-   The first person to get the Tenacity shield received the custom title "Vider, The First Wielder of the Iron Citadel".
