@@ -1,6 +1,6 @@
 ---
 title: Strange Tomes
-revid: 220540
+revid: 228149
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Quest Item]
@@ -29,8 +29,9 @@ The tomes can be obtained from the following, and can be done in any order:
 
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement, within the pillar corridor leading to the [Trial of One](Trial_of_One.md).
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
-3.  As a drop from [The Understrand](The_Understrand.md) after defeating the [Ministry Agent](Ministry_Agent.md).
+3.  As a drop from [The Understrand](The_Understrand.md) after defeating the [Ministry Agent](Ministry_Agent.md) or different enemies that may spawn depending on your Ministry reputation, those being [Mudskipper Broodlord](Mudskipper_Broodlord.md) or [Black Diver](<Black_Diver_(NPC).md>).
 
 ## Trivia
 
 -   These items aren't bankable/droppable
+    -   They disappear on death, however you can still use them to obtain the Bloodfouler if you've had them in your inventory prior to dying

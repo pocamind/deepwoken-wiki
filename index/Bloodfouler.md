@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 226305
+revid: 228150
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, Heavy Weapons, Weapons of The Ministry]
@@ -44,7 +44,7 @@ The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](
 
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement.
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
-3.  As a drop from [The Understrand](The_Understrand.md) after defeating the [Ministry Agent](Ministry_Agent.md).
+3.  As a drop from [The Understrand](The_Understrand.md) after defeating the [Ministry Agent](Ministry_Agent.md) or different enemies that may spawn depending on your Ministry reputation, those being [Mudskipper Broodlord](Mudskipper_Broodlord.md) or [Black Diver](<Black_Diver_(NPC).md>).
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 
