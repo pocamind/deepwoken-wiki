@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 227996
+revid: 228174
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greathammers, Named Weapons, Heavy Weapons, Legendary Weapons]
@@ -64,4 +64,5 @@ Warmonger uses the default Greathammer critical, an overhead swing. It has a sca
 
 ## Trivia
 
+-   The first person to get the Warmonger received the custom title "Lord Mussdawk, The First Warmonger".
 -   It is unclear if the description suggests the weapon is sentient or simply that the previous wielder was of low intelligence or extremely bloodthirsty.

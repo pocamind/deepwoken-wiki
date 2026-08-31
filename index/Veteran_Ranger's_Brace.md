@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Brace"
-revid: 227760
+revid: 228168
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set 
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Any chest in Vow of Iron |
 | description | It's covered in sewn pockets and hidden compartments, filled with cooking and medical supplies. |
 
 Variants: [Ranger's Brace](<Ranger's_Brace.md>)

@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 221423
+revid: 228172
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greathammers, Heavy Weapons, Weapons with Unique Criticals]
@@ -31,7 +31,7 @@ categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greathammers,
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Saint Jay Memento, Found at The Valley of Heroes |
+| obtainment | Saint Jay Memento |
 
 Variants: [Steel Maul](Steel_Maul.md) · [Warmonger](Warmonger.md)
 

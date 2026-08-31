@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 227953
+revid: 228163
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -76,7 +76,7 @@ Mobility buffs are very similar to [speed boosts](#speed-boost), being a movemen
 
 ### Ragdoll
 
-While ragdolled, you gain slight damage reduction at the cost of your character going limp and being able to perform most actions. This status effect can be ended early, in most cases, by pressing Feint (M2), though some sources of ragdoll cannot be ended early. Ragdoll is applied through various sources and is signified by your character going limp.
+While ragdolled, you gain slight damage reduction at the cost of your character going limp and being unable to perform most actions. This status effect can be ended early, in most cases, by pressing Feint (M2), though some sources of ragdoll cannot be ended early. Ragdoll is applied through various sources and is signified by your character going limp.
 
 ### Knockdown
 
