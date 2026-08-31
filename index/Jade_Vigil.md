@@ -1,6 +1,6 @@
 ---
 title: Jade Vigil
-revid: 226806
+revid: 228186
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]

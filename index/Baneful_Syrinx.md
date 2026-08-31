@@ -1,6 +1,6 @@
 ---
 title: Baneful Syrinx
-revid: 200227
+revid: 228183
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items, Effigies]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Baneful Syrinx** is a consumable [Relic](Relics.md) with **10 uses**. Baneful Syrinx's usage is teleporting you to various locations within [Scyphozia](First_Layer.md). Short cooldown upon usage.
+The **Baneful Syrinx** is a consumable [Relic](Relics.md) with **10 uses**. Baneful Syrinx's usage is teleporting you to various locations within [Scyphozia](First_Layer.md). Short cooldown upon usage. It gains back 1 useage on gripping a player pwr 10+ in depths.
 
 Upon usage, the user will be slowed and is prompted to select one of three locations:
 
