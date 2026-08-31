@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 220413
+revid: 228200
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | A tangled fragment of a greater spiral. Though the gale within feels steady and even, you know that if a million voices were to howl all at once, the sounds of the two may collide and overlap, until only noise remains. |
-| obtainment | Kyrsgarde Champion, Weird Trader, Sold in Traan Zakshun's black market for 20 |
+| obtainment | Kyrsgarde Champion, Weird Trader, Sold in Traan Zakshun's black market for 15 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

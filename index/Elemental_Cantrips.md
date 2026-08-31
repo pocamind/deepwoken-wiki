@@ -1,6 +1,6 @@
 ---
 title: Elemental Cantrips
-revid: 219709
+revid: 228201
 source: https://deepwoken.fandom.com/wiki/Elemental_Cantrips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Attunement]
@@ -32,7 +32,7 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 
 ### [Flamecharm](Flamecharm.md) / [Thundercall](Thundercall.md)
 
-**Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md).
+**Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key.
 
 ### [Frostdraw](Frostdraw.md)
 

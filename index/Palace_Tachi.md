@@ -1,6 +1,6 @@
 ---
 title: Palace Tachi
-revid: 227876
+revid: 228204
 source: https://deepwoken.fandom.com/wiki/Palace_Tachi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons of The Ministry, Weapons of Etrea]
@@ -50,7 +50,7 @@ Equipping the Palace Tachi grants its unique [weapon Talent](Talents.md#weapon-t
 
 ## Critical
 
-The user readies the tachi before dashing forward and slashing horizontally, knocking opponents back. The slash deals 1.1x scaled damage. Guardbreaks if blocked.
+The user readies the tachi before dashing forward and slashing horizontally, knocking opponents back. The slash deals **1.1x scaled damage**. Guardbreaks if blocked.
 
 The critical has a cooldown of **7 seconds**.
 

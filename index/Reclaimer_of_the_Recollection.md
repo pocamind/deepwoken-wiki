@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 226578
+revid: 228190
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits, Individuals with unspecified pronouns]
@@ -13,7 +13,7 @@ notices:
 
 | Reclaimer of the Recollection | |
 |---|---|
-| name | Rakaan[1] |
+| name | Rakann[1] |
 | alias | Reclaimer of the Recollection |
 | aspect | Gremor |
 | location | The Cerebral Spire, Fragments of Else, Cerebral Requiem |

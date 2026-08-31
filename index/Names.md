@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 227895
+revid: 228222
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]

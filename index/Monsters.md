@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 227086
+revid: 228197
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters, Mechanics]
