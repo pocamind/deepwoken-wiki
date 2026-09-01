@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 227632
+revid: 228263
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -462,7 +462,7 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md): Powerful Blood Appendage
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Stonelife Jab
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Thunder Volley, Worldpiercing Deluge, Wrathful Stomp
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Thunder Volley, Wrathful Stomp
 
  |
 | 
@@ -520,7 +520,7 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Crossrend Cryocleave, Snowgrave, Splintering Thrust
 -   [Parliament](Parliament.md): Overhead Grab, Shade Cloak, Strong Swipe
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab, Kick, Rock Throw
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Commander's Whirlthrow, M1's (second phase), Splitting Ascension, Sovereign Drive
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Commander's Whirlthrow, Basic swings(second phase), Splitting Ascension, Sovereign Drive, Skycrash
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bone Stream
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Eight Heavens, Severing Flourish, Serpent-Slaying Sweep,
 
@@ -562,7 +562,7 @@ Parry
  |  | 
 
   
-Attacks with this indicator must be parried. They will guardbreak if blocked.
+Attacks with this indicator must be parried. Are unavoidable otherwise depending on the attack.
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
@@ -612,6 +612,7 @@ Most attacks with this indicator deal high posture damage.
 -   [Parliament](Parliament.md): Owl Dash
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Low Cleave
 -   [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>): Blinkstrike
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Wind slicer
 
  |
 | 
@@ -639,7 +640,7 @@ Attacks with this indicator can be jumped over.
 -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Arachnid Leap
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Skycrash, Vent
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Vent
 -   [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>): Blinkstrike
 
  |

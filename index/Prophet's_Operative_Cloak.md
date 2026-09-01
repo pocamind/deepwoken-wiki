@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Operative Cloak"
-revid: 227735
+revid: 228262
 source: https://deepwoken.fandom.com/wiki/Prophet's_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks, Equipment with Tale
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Any chest in Vow of Iron |
 | description | ... |
 
 Variants: [Ministry Operative Cloak](Ministry_Operative_Cloak.md)

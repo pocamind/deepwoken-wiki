@@ -1,6 +1,6 @@
 ---
 title: "Dread Serpent's Mane"
-revid: 219432
+revid: 228231
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Mane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Drops]

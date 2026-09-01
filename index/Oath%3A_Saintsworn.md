@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 224614
+revid: 228232
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -132,33 +132,32 @@ These Talents have modified effects based on your current Saint Stance. Due to t
     -   The level change for attuned Mantras is not displayed on their tooltips.
     -   Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talents of your currently equipped Saint Stance. This however does not work with all attuned Talents.
         -   **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[Dancing Steps](Talents.md#dancing-steps)** & **[Graceful Steps](Talents.md#graceful-steps)**: Your attuned mantras will gain a lunge during their windup, closing distance.
-            -   **[Hungry Flames](Talents.md#hungry-flames)**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.
+            -   **[Dancing Steps](Talents.md#dancing-steps)** & **[Graceful Steps](Talents.md#graceful-steps)**: Your attuned mantras will gain a lunge during their windup, closing distance. This has a cooldown of 5 seconds, which can be reduced to 1 second through the [Cindergarb](Cindergarb.md) Outfit.
+            -   **[Hungry Flames](Talents.md#hungry-flames)**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether, with a 15 second cooldown. However, this talent will no longer proc when using Flamecharm Mantras outside of the **Flamecharm** Saint Stance.
             -   **[Immolation](Talents.md#immolation)**: Your attuned Mantras will cost 70% less Ether if you're burning.
-            -   **[Scorched Peak](Talents.md#scorched-peak)**: Guard breaking your opponent with any attuned Mantra will cause them to be struck by lightning. This can also be caused if you guard break them while they are burning, but that is not exclusive to this Saint Stance.
-            -   **[The Final Act](Talents.md#the-final-act)**: Landing an attuned Mantra after a flourish will cause an explosion.
+            -   **[Scorched Peak](Talents.md#scorched-peak)**: Guard breaking your opponent with any attuned Mantra will cause them to be struck by lightning, dealing 10 Thundercall damage. This can also be caused if you guard break them while they are burning, but that is not exclusive to this Saint Stance.
+            -   **[The Final Act](Talents.md#the-final-act)**: Landing an attuned Mantra after a flourish will cause an explosion that deals 5 Flamecharm damage.
             -   **[Warding Radiance](Talents.md#warding-radiance)**: Your attuned Mantras will build up halo stacks.
         -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Status_Effects.md#suffocate). The hit count requirement will be increased if you have less than 75 Galebreathe.
+            -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Status_Effects.md#suffocation). The hit count requirement will be increased if you have less than 75 Galebreathe.
             -   **[Haunted Gale](Talents.md#haunted-gale)**: Every third attuned Mantra you land will grant the [Haunted](Status_Effects.md#haunted) status effect, spawning a Haunted Gale Ghost or Specter Apparition any time you land a Mantra for the next 8 seconds. The duration of this status effect can be increased to 11 seconds by using the [Gale Wisp](Galebreathe.md#gale-wisp).
             -   **[Inhale](Talents.md#inhale)**: You can inhale non-Galebreathe Mantras.
-            -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: Conjure a storm strike on your opponent by landing any attuned mantras.
-            -   **[Possession](Talents.md#possession)**: After an apparition hits an enemy, receive 15% posture damage on all attuned mantras for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
-            -   **[Storm Link](Talents.md#storm-link)**: While you have a Static Link on someone, your mantras that hit them are imbued with flashes of Lightning.
+            -   **[Possession](Talents.md#possession)**: After an Apparition hits an enemy, receive 7.5% posture damage on all attuned mantras for 6 seconds. If the Apparition hits while you have [Phantom Step](Talents.md#phantom-step) activated, receive a 7.5% chip damage buff as well for the same duration.
+            -   **[Storm Link](Talents.md#storm-link)**: While you have a [Static Link](Talents.md#static-link) on someone, your Mantras that hit them will deal 10% of their scaled damage as a secondary damage instance of Thundercall damage.
         -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[Pressure Detonation](Talents.md#pressure-detonation)**: Block breaking with any attuned mantra will suffocate your opponent and steal their tempo.
+            -   **[Pressure Detonation](Talents.md#pressure-detonation)**: Block breaking with any attuned Mantra will [Suffocate](Status_Effects.md#suffocate) your opponent and steal their [Tempo](Combat_Mechanics.md#tempo).
         -   **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **[Cryonis](Talents.md#cryonis)**: Your attuned Mantras will have a reduced Ether cost while standing on ice.
-            -   **[Bottom Freeze](Talents.md#bottom-freeze):** Hitting your enemies with any attuned mantra projectiles while they are on ice freezes them to the ground.
-            -   **[Frozen Legs](Talents.md#frozen-legs):** Hitting anyone with a slow effect attuned mantra prevents them from rolling.
+            -   **[Bottom Freeze](Talents.md#bottom-freeze):** Hitting your enemies with any attuned Mantra projectiles while they are on ice freezes them to the ground.
+            -   **[Frozen Legs](Talents.md#frozen-legs):** Applying [Chilled](Status_Effects.md#chilled) with any attuned Mantra prevents them from rolling briefly.
         -   **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[Link Conduction](Talents.md#link-conduction)**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
+            -   **[Link Conduction](Talents.md#link-conduction)**: Your attuned Mantras will gain Ether cost reduction while you have a [Static Link](Talents.md#static-link) active.
             -   **[Jolting Current](Talents.md#jolting-current)**: Your attuned Mantras will strike nearby opponents with lightning while in water.
             -   **[Voltaic Conductor](Talents.md#voltaic-conductor)**: Your attuned Mantras will do 30% more chip damage to opponents affected by Conductor Rods.
-            -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: Conjure a storm strike on your opponent by landing any attuned mantras.
-        -   **Ether Proselyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
-            -   **[Winter's Protection](Talents.md#winters-protection)**: Effect _with Ether Proselyte_ is currently unknown.
-            -   [**Unyielding Inferno**](Talents.md#unyielding-inferno): Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance
+        -   **Ether Proselyte: Miscellaneous**:
+            -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: While in the Galebreathe or Thundercall Saint Stances, the damage all attuned Mantras deal will contribute to the Storm Strike procs.
+            -   **[Winter's Protection](Talents.md#winters-protection)**: The damage buff your Frostdraw Mantras gain when it's snowing, Thundercall Mantras gain when it's raining, and [Stratoshock](Talents.md#stratoshock) are disabled against enemies with this Talent, regardless of your current Saint Stance.
+            -   [**Unyielding Inferno**](Talents.md#unyielding-inferno): Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
     -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
 #### Other Talents

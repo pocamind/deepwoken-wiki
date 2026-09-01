@@ -1,6 +1,6 @@
 ---
 title: Guard Turrets
-revid: 228199
+revid: 228230
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ The arrow projectiles deal 10 true damage per hit, attacking in two-shot bursts.
 
 ### Light Orb
 
-Located at [Castle Light](Castle_Light.md) [Diversiconfaction](The_Divers.md), the light orbs are, as the name suggests, floating balls of light. They lock-on to a target, and fire after a short delay. These turrets are **very** close together, allowing them to all simultaneously attack the player.
+Located at [Castle Light](Castle_Light.md) [Diversiconfaction](The_Divers.md) and the entrance of Castle Light in the [Light's Causeway](<Light's_Causeway.md>) [Diversiconfaction](The_Divers.md), the light orbs are, as the name suggests, floating orbs of light. They lock-on to a target, and fire after a short delay. These turrets are **very** close together and havy high range, allowing them to all simultaneously attack the same enemy.
 
 These deal a high amount of true damage per hit, with a fast fire rate. Their attacks are not projectiles, meaning you cannot dodge them by simply moving out of the way.
 
@@ -41,7 +41,7 @@ These turrets (naturally) have a very fast fire rate, but only deal 8 damage per
 
 Located at [Fort Merit](Fort_Merit.md) [Authorityiconfaction](The_Central_Authority.md), the mortars are cannons that fire directly upwards, with the explosive payload being rained down on their targets. Unlike other turret types, the mortars do not need their own line of sight on the player, and will attack as long as any nearby NPC is aggrod onto the player.
 
-Briefly after the turrets fire, two explosive projectiles will be spawned in the sky above the player. Iit is recommended to remain mobile or look upwards to react to the explosives.
+Briefly after the turrets fire, two explosive projectiles will be spawned in the sky above the player. It is recommended to remain mobile or look upwards to react to the explosives.
 
 These turrets deal 40 damage per hit with a fairly slow fire rate.
 

@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 227690
+revid: 228236
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -665,7 +665,7 @@ N/A
   </td>
   <td>
   <ul>
-    <li>Duration scales with investment up to its requirement; This effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.</li>
+    <li>The anti-Vent effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.</li>
     <li>The <a href="Status_Effects.md#collapsed">Collapsed</a> status effect decreases the posture damage affected targets do to you by 40%.</li>
   </ul>
   <ul>
@@ -676,7 +676,7 @@ N/A
 
 -   **Collapsed Lung** \[Annihilator • Advanced Talent\] **350** \- Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get **[Collapsed](Status_Effects.md#collapsed)**.
     
-    -   Duration scales with investment up to its requirement; This effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
+    -   The anti-Vent effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
     -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets do to you by 40%.  
         
     -   Tags: \[**Breaker**\] \[Guardbreak\] \[Scale-down\] \[Vent\]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228130
+revid: 228257
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -732,7 +732,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   It grants a general damage buff, and as such it'll affect all sources of damage that can be modified.
     -   Flame Within can be enabled while knocked [Unconscious](Status_Effects.md#unconscious). This is meant to synergize with [Phoenix Flames](#phoenix-flames). Though, doing so will halve the strength of [Phoenix Flames](#phoenix-flames).
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md)'s [Already Dead](#already-dead) Talent, Flamecharm resistance, and general resistances.
-    -   The burn damage can be reduced with Flamecharm resistance, [Immolation](#immolation), [Flame Wisp](Flamecharm.md#flame-wisp), [Parasol Planter](Parasol_Planter.md)'s [Grotesque Resilience](#grotesque-resilience) (25% damage reduction), [Flame Worshipper Armor](Flame_Worshipper_Armor.md)'s [Intrepid Flame](#intrepid-flame), [Worshipper's Shield](<Worshipper's_Shield.md>)'s [Worshipper Tolerance](#worshipper-tolerance), and sources of general damage reduction. It is recommended to have low Flamecharm investment on Flame Within builds go minimize the damage taken.
+    -   The burn damage can be reduced with Flamecharm resistance, [Immolation](#immolation), [Flame Wisp](Flamecharm.md#flame-wisp), [Parasol Planter](Parasol_Planter.md)'s [Grotesque Resilience](#grotesque-resilience) (25% damage reduction), [Flame Worshipper Armor](Flame_Worshipper_Armor.md)'s [Intrepid Flame](#intrepid-flame), [Worshipper's Shield](<Worshipper's_Shield.md>)'s [Worshipper Tolerance](#worshipper-tolerance), and sources of general damage reduction. It is recommended to have low Flamecharm investment on Flame Within builds to minimize the damage taken.
     -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct debuff for Flame within.
     -   The old [Last Laugh Talent](Cut_Content.md#last-laugh-talent) was merged into Flame Within.  
         
@@ -748,7 +748,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   It grants a general damage buff, and as such it'll affect all sources of damage that can be modified.
     -   Flame Within can be enabled while knocked [Unconscious](Status_Effects.md#unconscious). This is meant to synergize with [Phoenix Flames](#phoenix-flames). Though, doing so will halve the strength of [Phoenix Flames](#phoenix-flames).
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md)'s [Already Dead](#already-dead) Talent, Flamecharm resistance, and general resistances.
-    -   The burn damage can be reduced with Flamecharm resistance, [Immolation](#immolation), [Flame Wisp](Flamecharm.md#flame-wisp), [Parasol Planter](Parasol_Planter.md)'s [Grotesque Resilience](#grotesque-resilience) (25% damage reduction), [Flame Worshipper Armor](Flame_Worshipper_Armor.md)'s [Intrepid Flame](#intrepid-flame), [Worshipper's Shield](<Worshipper's_Shield.md>)'s [Worshipper Tolerance](#worshipper-tolerance), and sources of general damage reduction. It is recommended to have low Flamecharm investment on Flame Within builds go minimize the damage taken.
+    -   The burn damage can be reduced with Flamecharm resistance, [Immolation](#immolation), [Flame Wisp](Flamecharm.md#flame-wisp), [Parasol Planter](Parasol_Planter.md)'s [Grotesque Resilience](#grotesque-resilience) (25% damage reduction), [Flame Worshipper Armor](Flame_Worshipper_Armor.md)'s [Intrepid Flame](#intrepid-flame), [Worshipper's Shield](<Worshipper's_Shield.md>)'s [Worshipper Tolerance](#worshipper-tolerance), and sources of general damage reduction. It is recommended to have low Flamecharm investment on Flame Within builds to minimize the damage taken.
     -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct debuff for Flame within.
     -   The old [Last Laugh Talent](Cut_Content.md#last-laugh-talent) was merged into Flame Within.  
         
@@ -2959,16 +2959,16 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Pressure Detonation** \[Common Talent\] - Block breaking an opponent with a Shadow mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] generates a small vacuum that [suffocates](Status_Effects.md#suffocation) those hit and steals their [Tempo](Combat_Mechanics.md#tempo).
     -   If the user has the [Apparitions](#apparitions) Talent, this can proc Apparitions by inflicting suffocation.  
         
-    -   Prerequisites: 40 Shadowcast, 60 Galebreathe  
+    -   Prerequisites: 60 Galebreathe, 40 Shadowcast  
         
-    -   Tags: \[Galebreathe\] \[Shadowcast\] \[Debuff\] \[Guardbreak\] \[Multi-Attunement\] \[Tempo\]
+    -   Tags: \[Galebreathe\] \[Shadowcast\] \[Debuff\] \[Ether Proselyte\] \[Guardbreak\] \[Multi-Attunement\] \[Tempo\]
 
 -   **Pressure Detonation** \[Common Talent\] - Block breaking an opponent with a Shadow mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] generates a small vacuum that [suffocates](Status_Effects.md#suffocation) those hit and steals their [Tempo](Combat_Mechanics.md#tempo).
     -   If the user has the [Apparitions](#apparitions) Talent, this can proc Apparitions by inflicting suffocation.  
         
-    -   Prerequisites: 40 Shadowcast, 60 Galebreathe  
+    -   Prerequisites: 60 Galebreathe, 40 Shadowcast  
         
-    -   Tags: \[Galebreathe\] \[Shadowcast\] \[Debuff\] \[Guardbreak\] \[Multi-Attunement\] \[Tempo\]
+    -   Tags: \[Galebreathe\] \[Shadowcast\] \[Debuff\] \[Ether Proselyte\] \[Guardbreak\] \[Multi-Attunement\] \[Tempo\]
 
 ### Critical Specialist
 
@@ -4266,7 +4266,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8  
         
-    -   Tags: \[Flamecharm\] \[Mobility\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\] \[Mobility\]
 
 -   **Dancing Steps** \[Common Talent\] - Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now move you in the direction you're facing.
     -   Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted.
@@ -4276,7 +4276,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8  
         
-    -   Tags: \[Flamecharm\] \[Mobility\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\] \[Mobility\]
 
 -   _Graceful Steps_ \[Rare Talent\] - Your dancing steps now gives a faster speed boost.
     -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
@@ -4286,7 +4286,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Dancing Steps](#dancing-steps), 80 Flamecharm, [Power](Power.md) 13  
         
-    -   Tags: \[Flamecharm\] \[Speed Boost\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\] \[Speed Boost\]
 
 -   **Graceful Steps** \[Rare Talent\] - Your dancing steps now gives a faster speed boost.
     -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
@@ -4296,7 +4296,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Dancing Steps](#dancing-steps), 80 Flamecharm, [Power](Power.md) 13  
         
-    -   Tags: \[Flamecharm\] \[Speed Boost\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\] \[Speed Boost\]
 
 -   _The Final Act_ \[Rare Talent\] - Landing a fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] immediately after flourishing an opponent will cause them to explode.
     -   Does not have a cooldown.
@@ -4308,7 +4308,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Mutual Exclusives: [Eruption Path: Lava Serpent](#eruption-path-lava-serpent)  
         
-    -   Tags: \[Flamecharm\] \[Flourish\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\] \[Flourish\]
 
 -   **The Final Act** \[Rare Talent\] - Landing a fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] immediately after flourishing an opponent will cause them to explode.
     -   Does not have a cooldown.
@@ -4320,7 +4320,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Mutual Exclusives: [Eruption Path: Lava Serpent](#eruption-path-lava-serpent)  
         
-    -   Tags: \[Flamecharm\] \[Flourish\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\] \[Flourish\]
 
 ### Flame Warden
 
@@ -4359,7 +4359,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 20 Agility, 30 Flamecharm  
         
-    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\] \[Mobility\] \[Slide\]
+    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\] \[Ether Proselyte\] \[Mobility\] \[Slide\]
 
 -   **Warding Radiance** \[Rare Talent\] - Every fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
     -   Allows you to proc [Hell's Partisan](#hells-partisan) on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
@@ -4370,9 +4370,9 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 20 Agility, 30 Flamecharm  
         
-    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\] \[Mobility\] \[Slide\]
+    -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\] \[Ether Proselyte\] \[Mobility\] \[Slide\]
 
--   **Flamewalker** \[Common Talent\] -
+-   **Flamewalker** \[Common Talent\] - When [Warding Radiance](Status_Effects.md#warding-radiance) is active you leave trails of flame when you slide.
     -   When targets come into contact with the flame trail, they are set on fire. If you have Eruption Path, this will cause an Eruption instead.  
         
     -   Grants +1 Passive Agility  
@@ -4381,7 +4381,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Tags: \[Agility\] \[Flamecharm\] \[+Passive Agility\] \[Slide\]
 
--   **Flamewalker** \[Common Talent\] -
+-   **Flamewalker** \[Common Talent\] - When [Warding Radiance](Status_Effects.md#warding-radiance) is active you leave trails of flame when you slide.
     -   When targets come into contact with the flame trail, they are set on fire. If you have Eruption Path, this will cause an Eruption instead.  
         
     -   Grants +1 Passive Agility  
@@ -4508,7 +4508,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 35 Flamecharm  
         
-    -   Tags: \[Flamecharm\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\]
 
 -   **Unyielding Inferno** \[Common Talent\] - Your flames burn just as strong even in the fiercest of storms.
     -   Negates the innate 10% damage debuff Flamecharm Mantras, [First Light](First_Light.md)'s critical, and Twisted Puppets' Puppets receive during the [rain](Environmental_Hazards.md).
@@ -4516,7 +4516,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 35 Flamecharm  
         
-    -   Tags: \[Flamecharm\]
+    -   Tags: \[Flamecharm\] \[Ether Proselyte\]
 
 ### Flashfreeze
 
@@ -4770,7 +4770,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 60 Frostdraw  
         
-    -   Tags: \[Frostdraw\] \[Debuff\]
+    -   Tags: \[Frostdraw\] \[Debuff\] \[Ether Proselyte\]
 
 -   **Frozen Legs** \[Rare Talent\] - **[Chilled](Status_Effects.md#chill)** applied from Mantras prevents your opponents from rolling.
     -   Does not work with Crystallization.
@@ -4778,7 +4778,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 60 Frostdraw  
         
-    -   Tags: \[Frostdraw\] \[Debuff\]
+    -   Tags: \[Frostdraw\] \[Debuff\] \[Ether Proselyte\]
 
 ### Gale Kata
 
@@ -4930,7 +4930,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 60 Galebreathe  
         
-    -   Tags: \[Galebreathe\] \[Damage Buff\] \[Speed Boost\]
+    -   Tags: \[Galebreathe\] \[Damage Buff\] \[Ether Proselyte\] \[Speed Boost\]
 
 -   **Inhale** \[Common Talent\] - [Canceling](Combat_Mechanics.md#combat-basics) a Wind Mantra stores it for 5 seconds, empowering the next Wind Mantra cast in that time. \[7 sec CD, gets removed upon landing a light attack\]
     -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale Mantra a 10% damage buff.
@@ -4942,7 +4942,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 60 Galebreathe  
         
-    -   Tags: \[Galebreathe\] \[Damage Buff\] \[Speed Boost\]
+    -   Tags: \[Galebreathe\] \[Damage Buff\] \[Ether Proselyte\] \[Speed Boost\]
 
 ### Genius Intellect
 
@@ -5586,7 +5586,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra) // [Ice Forge](Frostdraw.md#ice-forge) (Mantra), 25 Frostdraw  
         
-    -   Tags: \[Frostdraw\] \[Debuff\]
+    -   Tags: \[Frostdraw\] \[Debuff\] \[Ether Proselyte\]
 
 -   **Bottom Freeze** \[Common Talent\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
@@ -5594,21 +5594,21 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra) // [Ice Forge](Frostdraw.md#ice-forge) (Mantra), 25 Frostdraw  
         
-    -   Tags: \[Frostdraw\] \[Debuff\]
+    -   Tags: \[Frostdraw\] \[Debuff\] \[Ether Proselyte\]
 
 -   **Cryonis** \[Common Talent\] - All ice spells casted ontop of ice cost less Ether.
     -   Frostdraw Mantras cost 20% less ether if casted while standing on ice.  
         
     -   Prerequisites: 40 Frostdraw  
         
-    -   Tags: \[Frostdraw\]
+    -   Tags: \[Frostdraw\] \[Ether Proselyte\]
 
 -   **Cryonis** \[Common Talent\] - All ice spells casted ontop of ice cost less Ether.
     -   Frostdraw Mantras cost 20% less ether if casted while standing on ice.  
         
     -   Prerequisites: 40 Frostdraw  
         
-    -   Tags: \[Frostdraw\]
+    -   Tags: \[Frostdraw\] \[Ether Proselyte\]
 
 -   **Frost Buster** \[Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
     -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
@@ -5819,7 +5819,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Flamecharm\]
 
 -   **Immolation** \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
-    -   "Self-Inflicted flames" include Flame Within, [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
+    -   "Self-Inflicted flames" include [Flame Within](#flame-within), [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
         -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.  
             
@@ -5827,10 +5827,10 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Agitating Spark](#agitating-spark), 40 Flamecharm  
         
-    -   Tags: \[Flamecharm\] \[+Sanity\] \[Damage Resistance\]
+    -   Tags: \[Flamecharm\] \[+Sanity\] \[Damage Resistance\] \[Ether Proselyte\]
 
 -   **Immolation** \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
-    -   "Self-Inflicted flames" include Flame Within, [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
+    -   "Self-Inflicted flames" include [Flame Within](#flame-within), [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
         -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.  
             
@@ -5838,7 +5838,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Agitating Spark](#agitating-spark), 40 Flamecharm  
         
-    -   Tags: \[Flamecharm\] \[+Sanity\] \[Damage Resistance\]
+    -   Tags: \[Flamecharm\] \[+Sanity\] \[Damage Resistance\] \[Ether Proselyte\]
 
 -   _**Phoenix Flames**_ \[Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
     -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, becore capping at 50% health at 75 investment.
@@ -6140,12 +6140,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Intellisense
 
--   Critical Engine \[Common Talent, Intelligence, Weapon\] - You gain the ability to use [Deep Gems](Deep_Gems.md) on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+-   **Critical Engine** \[Common Talent\] - You gain the ability to use [Deep Gems](Deep_Gems.md) on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equip the Deep Gem by holding the item and clicking, similar to how you would equip a Deep Gem to a Mantra.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Attempting to equip another Deep Gem to your critical attack will cause the old one to be overridden by the new one.
     -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
     -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
+    -   The **[Brain Food Buff](Status_Effects.md#brain-food-buff)** applies to all of the below effects.
     -   [Aegis Gem](Aegis_Gem.md) grants you 10% damage reduction for 10 seconds on hit.
     -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
         -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for a 60% (55% in [Chime of Conflict](Chime_of_Conflict.md)) reduction in critical cooldown overall.
@@ -6153,110 +6154,359 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is 1:1 with scaled damage dealt; it cannot be increased nor decreased through modifiers or resistances. This effect does not have PvE scaling.
     -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
     -   [Kyrsan Gem](Kyrsan_Gem.md) applies a stacking slow on hit.
-    -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%.
+    -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%. Additionally, this can be used to proc the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md)'s equipment Talents.
         -   The posture damage bonus can be increased with the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) Talent, scaling on how many Might Gems you have equipped on your Mantras.
     -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit if you are wearing the [Bluestone Set](Bluestone_Pauldrons.md).
     -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
     -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on hit.
-    -   [Wrath Gem](Wrath_Gem.md) applies the [Wrath](Status_Effects.md#wrath) status effect for 9 seconds, increasing your critical damage by 7.5% per player combat tag you have. This damage bonus does not apply to the hit that procced Wrath Gem and is affected by the damage modifier cap. Additionally, this can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
-    -   [Nocturnal Gem](Nocturnal_Gem.md) will deal an additional 10 slash damage after a 1 second delay.
-    -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light // 30 Medium // 30 Heavy)
+    -   [Wrath Gem](Wrath_Gem.md) applies the [Wrath](Status_Effects.md#wrath) status effect for 9 seconds, increasing your critical damage by 7.5% per player combat tag you have. This damage bonus does not apply to the hit that procced Wrath Gem and is affected by the damage modifier cap. Additionally, this can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md)'s equipment Talents.
+    -   [Nocturnal Gem](Nocturnal_Gem.md) will deal an additional 10 slash damage after a 1 second delay.  
+        
+    -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light // 30 Medium // 30 Heavy)  
+        
+    -   Tags: \[Intelligence\] \[Weapon\] \[Critical Attack\]
+
+-   **Critical Engine** \[Common Talent\] - You gain the ability to use [Deep Gems](Deep_Gems.md) on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+    -   Equip the Deep Gem by holding the item and clicking, similar to how you would equip a Deep Gem to a Mantra.
+    -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
+    -   Attempting to equip another Deep Gem to your critical attack will cause the old one to be overridden by the new one.
+    -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
+    -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
+    -   The **[Brain Food Buff](Status_Effects.md#brain-food-buff)** applies to all of the below effects.
+    -   [Aegis Gem](Aegis_Gem.md) grants you 10% damage reduction for 10 seconds on hit.
+    -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
+        -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for a 60% (55% in [Chime of Conflict](Chime_of_Conflict.md)) reduction in critical cooldown overall.
+    -   [Bloodless Gem](Bloodless_Gem.md) Reduces your critical damage by 20%, but grants healing equal to 30% of the damage dealt.
+    -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is 1:1 with scaled damage dealt; it cannot be increased nor decreased through modifiers or resistances. This effect does not have PvE scaling.
+    -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
+    -   [Kyrsan Gem](Kyrsan_Gem.md) applies a stacking slow on hit.
+    -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%. Additionally, this can be used to proc the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md)'s equipment Talents.
+        -   The posture damage bonus can be increased with the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) Talent, scaling on how many Might Gems you have equipped on your Mantras.
+    -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit if you are wearing the [Bluestone Set](Bluestone_Pauldrons.md).
+    -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
+    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on hit.
+    -   [Wrath Gem](Wrath_Gem.md) applies the [Wrath](Status_Effects.md#wrath) status effect for 9 seconds, increasing your critical damage by 7.5% per player combat tag you have. This damage bonus does not apply to the hit that procced Wrath Gem and is affected by the damage modifier cap. Additionally, this can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md)'s equipment Talents.
+    -   [Nocturnal Gem](Nocturnal_Gem.md) will deal an additional 10 slash damage after a 1 second delay.  
+        
+    -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light // 30 Medium // 30 Heavy)  
+        
+    -   Tags: \[Intelligence\] \[Weapon\] \[Critical Attack\]
 
 ### Inquisitive Lethality
 
--   **Backstabber** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 20 damage. \[15 second CD\] (+1 Passive Agility)
+-   **Backstabber** \[Faction Talent\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\]
+    -   While standing behind an enemy, raise your weapon upwards in reverse grip. On M1, strike downwards with a 10% swing speed buff and stab the target, then leap off of them.
+    -   This deals 20 damage, not 15.
+    -   There is a per-target cooldown of 3 seconds on top of the 15s cooldown.
     -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
     -   This Talent does not have a range limit.
-    -   Applies daze and ragdolls.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, 30 Agility
+    -   Applies [daze](Status_Effects.md#daze) and [ragdolls](Status_Effects.md#ragdoll).  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 30 Agility, [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Agility\] \[+Passive Agility\] \[Backhit\] \[M1 Tag\]
 
--   **Executioner's Frenzy** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a light attack while your opponent's posture is paused reduces their assassination cooldown by 5 seconds.
-    -   The [Paused Posture](Status_Effects.md#paused-posture) status effect comes from Stature Break and Maiming Claws.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
+-   **Backstabber** \[Faction Talent\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\]
+    -   While standing behind an enemy, raise your weapon upwards in reverse grip. On M1, strike downwards with a 10% swing speed buff and stab the target, then leap off of them.
+    -   This deals 20 damage, not 15.
+    -   There is a per-target cooldown of 3 seconds on top of the 15s cooldown.
+    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
+    -   This Talent does not have a range limit.
+    -   Applies [daze](Status_Effects.md#daze) and [ragdolls](Status_Effects.md#ragdoll).  
+        
+    -   Grants +1 Passive Agility  
+        
+    -   Prerequisites: 30 Agility, [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Agility\] \[+Passive Agility\] \[Backhit\] \[M1 Tag\]
 
--   **Fatal Stealth** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
-    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back. This affects all damage sources that can receive damage modifiers.
-    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
-        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your backhit damage by 4%.
-        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, Crouching, Lowstride, Murmur: Tacet, and Tacet Minimization.
+-   **Executioner's Frenzy** \[Faction Talent\] - Landing a light attack while your opponent's posture is paused reduces their assassination cooldown by 5 seconds.
+    -   The [Paused Posture](Status_Effects.md#paused-posture) status effect comes from [Stature Break](#stature-break) and [Maiming Claws](#maiming-claws).  
+        
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Assassination\] \[Backhit\]
+
+-   **Executioner's Frenzy** \[Faction Talent\] - Landing a light attack while your opponent's posture is paused reduces their assassination cooldown by 5 seconds.
+    -   The [Paused Posture](Status_Effects.md#paused-posture) status effect comes from [Stature Break](#stature-break) and [Maiming Claws](#maiming-claws).  
+        
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Assassination\] \[Backhit\]
+
+-   **Fatal Stealth** \[Faction Talent\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back as a damage modifier. This affects all damage sources that can receive damage modifiers.
+    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources **do not** count towards this Talent. Stealth multipliers ([Felinor](Felinor.md), Crouching, [Lowstride](#lowstride)) also do not apply.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, **reducing** your backhit damage by 4%.
+        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, the [Sly](Boons_and_Flaws.md#unlockable-boons) Boon, Crouching, [Lowstride](#lowstride), [Murmur: Tacet](#murmur-tacet), and [Tacet Minimization](#tacet-minimization).
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
-        -   Notably the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
+        -   Notably the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).  
+            
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Backhit\] \[Damage Buff\]
 
--   **Flanking Maneuvers** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
+-   **Fatal Stealth** \[Faction Talent\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back as a damage modifier. This affects all damage sources that can receive damage modifiers.
+    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources **do not** count towards this Talent. Stealth multipliers ([Felinor](Felinor.md), Crouching, [Lowstride](#lowstride)) also do not apply.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, **reducing** your backhit damage by 4%.
+        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, the [Sly](Boons_and_Flaws.md#unlockable-boons) Boon, Crouching, [Lowstride](#lowstride), [Murmur: Tacet](#murmur-tacet), and [Tacet Minimization](#tacet-minimization).
+    -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
+    -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
+        -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
+        -   Notably the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).  
+            
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Backhit\] \[Damage Buff\]
 
--   **Stature Break** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
+-   **Flanking Maneuvers** \[Faction Talent\] - Enemies you assassinate take more PEN from your squadmates in your party.
+    
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Assassination\] \[PEN\] \[Support\]
+
+-   **Flanking Maneuvers** \[Faction Talent\] - Enemies you assassinate take more PEN from your squadmates in your party.
+    
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Assassination\] \[PEN\] \[Support\]
+
+-   **Stature Break** \[Faction Talent\] - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
-    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
+    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.  
+        
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Backhit\] \[Debuff\]
 
--   **Tacet Minimization** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
-    -   Decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
-    -   Requires maximum Ether to use, even though it does not consume Ether.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, [Murmur: Tacet](Murmur%253A_Tacet.md)
-        -   Tacet gained by obtaining [Soulbreaker](Oath%253A_Soulbreaker.md) does not count for this Talent's obtainment.
+-   **Stature Break** \[Faction Talent\] - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
+    -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
+    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.  
+        
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Backhit\] \[Debuff\]
+
+-   **Tacet Minimization** \[Faction Talent\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Grants a tool that decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
+    -   Requires maximum Ether to use, even though it does not consume Ether.  
+        
+    -   Prerequisites: [Murmur: Tacet](#murmur-tacet), [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+        -   Tacet gained by obtaining [Soulbreaker](Oath%253A_Soulbreaker.md) does not count for this Talent's obtainment.  
+            
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[[Tacet](Murmur%253A_Tacet.md)\] \[Tool\]
+
+-   **Tacet Minimization** \[Faction Talent\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Grants a tool that decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
+    -   Requires maximum Ether to use, even though it does not consume Ether.  
+        
+    -   Prerequisites: [Murmur: Tacet](#murmur-tacet), [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+        -   Tacet gained by obtaining [Soulbreaker](Oath%253A_Soulbreaker.md) does not count for this Talent's obtainment.  
+            
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[[Tacet](Murmur%253A_Tacet.md)\] \[Tool\]
 
 ### Ironsinger
 
--   Ironsinger \[Mantra Level Talent, Ironsing\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
+-   **Ironsinger** \[Mantra Level Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
     -   Ironsing Mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, with the strength of the pull depending on the amount of Metal Rods present.
-    -   You cannot apply more than 5 Metal Rods to one target, unless you have one of the Rending Needle Talents.
-    -   Rod pull's keybind can be configured in settings.
-    -   Obtained at 1 Ironsing
+    -   You cannot apply more than 5 Metal Rods to one target, unless you have the [Rending Needle: Impaler](#rending-needle-impaler) or [Rending Needle: Jailer](#rending-needle-jailer) Talents.
+    -   Rod pull's keybind can be configured in settings.  
+        
+    -   Prerequisites: Obtained at 1 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[Debuff\]
 
--   Adept Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 1-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 20 Ironsing
+-   **Ironsinger** \[Mantra Level Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
+    -   Ironsing Mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, with the strength of the pull depending on the amount of Metal Rods present.
+    -   You cannot apply more than 5 Metal Rods to one target, unless you have the [Rending Needle: Impaler](#rending-needle-impaler) or [Rending Needle: Jailer](#rending-needle-jailer) Talents.
+    -   Rod pull's keybind can be configured in settings.  
+        
+    -   Prerequisites: Obtained at 1 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[Debuff\]
 
--   Expert Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 2-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 30 Ironsing
+-   **Adept Ironsinger** \[Mantra Level Talent\] - You can now obtain 1-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[Hard Requirements\]
 
--   Master Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 3-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. (+5 Health)
-    -   This Talent will be removed from you if you no longer meet its requirements.
-    -   Obtained at 50 Ironsing
+-   **Adept Ironsinger** \[Mantra Level Talent\] - You can now obtain 1-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 20 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[Hard Requirements\]
 
--   _**Alloyblood**_ \[Advanced Talent, Ironsing\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
+-   **Expert Ironsinger** \[Mantra Level Talent\] - You can now obtain 2-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[Hard Requirements\]
+
+-   **Expert Ironsinger** \[Mantra Level Talent\] - You can now obtain 2-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Prerequisites: Obtained at 30 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[Hard Requirements\]
+
+-   **Master Ironsinger** \[Mantra Level Talent\] - You can now obtain 3-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[+Health\] \[Hard Requirements\]
+
+-   **Master Ironsinger** \[Mantra Level Talent\] - You can now obtain 3-star Ironsinger mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This Talent will be removed from you if you no longer meet its requirements.  
+        
+    -   Grants +5 Health  
+        
+    -   Prerequisites: Obtained at 50 Ironsing  
+        
+    -   Tags: \[Common Talent\] \[Ironsing\] \[+Health\] \[Hard Requirements\]
+
+-   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
     -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
     -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchantment.
-    -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
+    -   Blood loss reduction stacks multiplicatively with [Cauterized Wounds](#cauterized-wounds).
     -   Alloyblood's effects linearly scale with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
-    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack. Additionally, it changes your [Bloodrend](Bloodrend.md) Mantras to the same grey.
-    -   Prerequisite: 100 Ironsing
+    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack. Additionally, it changes your [Bloodrend](Bloodrend.md) Mantras to a blue-ish grey.  
+        
+    -   Prerequisites: 100 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Damage Resistance\] \[Scale-down\]
 
--   Heavy Shoulders \[Common Talent, Ironsing\] - If your opponent has 3 or more rods, their dodges are slower.
-    -   Reduces roll distance by 10%.
-    -   Prerequisite: 55 Ironsing
+-   **Alloyblood** \[Advanced Talent\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
+    -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
+    -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchantment.
+    -   Blood loss reduction stacks multiplicatively with [Cauterized Wounds](#cauterized-wounds).
+    -   Alloyblood's effects linearly scale with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
+    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack. Additionally, it changes your [Bloodrend](Bloodrend.md) Mantras to a blue-ish grey.  
+        
+    -   Prerequisites: 100 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Damage Resistance\] \[Scale-down\]
 
--   Ironclad Punishment \[Common Talent, Ironsing\] - Your Ironsing mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] deal more posture damage to enemies the more armor durability they have.
-    -   Gain +0.15% posture damage on Ironsing Mantras for every 1% armor durability your opponent has, capping at +15% if your opponent is at maximum armor.
-    -   Has limited PvE usage because most non-humanoid monsters cannot block.
-    -   Prerequisite: 45 Ironsing
+-   **Heavy Shoulders** \[Common Talent\] - If your opponent has 3 or more rods, their dodges are slower.
+    -   Reduces roll distance by 10%.  
+        
+    -   Prerequisites: 55 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Debuff\] \[Slow\]
 
--   Laced Traps \[Common Talent, Ironsing\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' cannot jump and are slowed for a small duration, while also applying **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
+-   **Heavy Shoulders** \[Common Talent\] - If your opponent has 3 or more rods, their dodges are slower.
+    -   Reduces roll distance by 10%.  
+        
+    -   Prerequisites: 55 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Debuff\] \[Slow\]
+
+-   **Ironclad Punishment** \[Common Talent\] - Your Ironsing mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] deal more posture damage to enemies the more armor durability they have.
+    -   Gain +0.15% posture damage on Ironsing Mantras for every 1% armor durability your opponent currently has, capping at +15% if your opponent is at maximum armor.
+    -   Has limited PvE usage because most non-humanoid monsters cannot block.  
+        
+    -   Prerequisites: 45 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Posture Damage Buff\]
+
+-   **Ironclad Punishment** \[Common Talent\] - Your Ironsing mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] deal more posture damage to enemies the more armor durability they have.
+    -   Gain +0.15% posture damage on Ironsing Mantras for every 1% armor durability your opponent currently has, capping at +15% if your opponent is at maximum armor.
+    -   Has limited PvE usage because most non-humanoid monsters cannot block.  
+        
+    -   Prerequisites: 45 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Posture Damage Buff\]
+
+-   **Laced Traps** \[Common Talent\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' cannot jump and are slowed for a small duration, while also applying **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.
-    -   The Sluggish status effect applies a -15% damage debuff to affected targets.
-    -   Prerequisites: [Caltrops](Ironsing.md#caltrops) (Mantra), 45 Ironsing
+    -   Your Caltrops gain a purple VFX after obtaining this Talent.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
+        
+    -   Prerequisites: [Caltrops](Ironsing.md#caltrops) (Mantra), 45 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Debuff\]
 
--   Metal Shackles \[Common Talent, Strength, Ironsing\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be **[Sluggish](Status_Effects.md#sluggish)** for 12 seconds.
-    -   The Sluggish status effect applies a -15% damage debuff to affected targets.
-    -   Prerequisites: 40 Ironsing, 15 Strength
+-   **Laced Traps** \[Common Talent\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' cannot jump and are slowed for a small duration, while also applying **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
+    -   Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.
+    -   Your Caltrops gain a purple VFX after obtaining this Talent.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
+        
+    -   Prerequisites: [Caltrops](Ironsing.md#caltrops) (Mantra), 45 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Debuff\]
 
--   Oh The Irony \[Common Talent, Charisma, Ironsing\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
-    -   Prerequisites: 60 Ironsing, 40 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
+-   **Metal Shackles** \[Common Talent\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be **[Sluggish](Status_Effects.md#sluggish)** for 12 seconds.
+    -   Metal shackles will visually appear on the targets legs on proc.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
+        
+    -   Prerequisites: 15 Strength, 40 Ironsing  
+        
+    -   Tags: \[Strength\] \[Ironsing\] \[Debuff\] \[Guardbreak\]
 
--   Piercing Metal \[Common Talent, Ironsing\] - Deal additional armor damage to enemies per metal rod affecting them.
-    -   Each rod increases armor damage dealt through weapon attacks and Mantras by 5%.
-    -   This stacks additively, up to 25% more armor damage without any Rending Needle Talent or 50% more armor damage with Jailer or Impaler.
-    -   Works amazingly in PVE.
-    -   Does not affect armor drain effects such as [Metal](Metal.md).
-    -   Prerequisites: 60 Ironsing, [Power](Power.md) 13
+-   **Metal Shackles** \[Common Talent\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be **[Sluggish](Status_Effects.md#sluggish)** for 12 seconds.
+    -   Metal shackles will visually appear on the targets legs on proc.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
+        
+    -   Prerequisites: 15 Strength, 40 Ironsing  
+        
+    -   Tags: \[Strength\] \[Ironsing\] \[Debuff\] \[Guardbreak\]
 
--   Thornmail \[Common Talent, Ironsing\] - Getting flourished applies a metal rod on your attacker.
-    -   Prerequisite: 45 Ironsing
+-   **Oh The Irony** \[Common Talent\] - Opponents affected by '[Taunt](Status_Effects.md#taunt)' receive double iron rods for the duration.
+    -   Affects all sources of rod application.
+    -   Any source of the Taunt status effect will work, not exclusively the Mantra itself.  
+        
+    -   Prerequisites: [Taunt](Attunement-less.md#taunt) (Mantra), 40 Charisma, 60 Ironsing  
+        
+    -   Tags: \[Charisma\] \[Ironsing\] \[Debuff\]
+
+-   **Oh The Irony** \[Common Talent\] - Opponents affected by '[Taunt](Status_Effects.md#taunt)' receive double iron rods for the duration.
+    -   Affects all sources of rod application.
+    -   Any source of the Taunt status effect will work, not exclusively the Mantra itself.  
+        
+    -   Prerequisites: [Taunt](Attunement-less.md#taunt) (Mantra), 40 Charisma, 60 Ironsing  
+        
+    -   Tags: \[Charisma\] \[Ironsing\] \[Debuff\]
+
+-   **Piercing Metal** \[Common Talent\] - Deal additional armor damage to enemies per metal rod affecting them.
+    -   Increases armor damage dealt by 5% per rod applied, up to 25% at 5 rods or 50% at 10.
+    -   Works amazingly in PVE, since staggering mobs is tied to breaking their armor.
+    -   Does not affect armor drain effects such as [Metal](Metal.md).  
+        
+    -   Prerequisites: 60 Ironsing, [Power](Power.md) 13  
+        
+    -   Tags: \[Ironsing\]
+
+-   **Piercing Metal** \[Common Talent\] - Deal additional armor damage to enemies per metal rod affecting them.
+    -   Increases armor damage dealt by 5% per rod applied, up to 25% at 5 rods or 50% at 10.
+    -   Works amazingly in PVE, since staggering mobs is tied to breaking their armor.
+    -   Does not affect armor drain effects such as [Metal](Metal.md).  
+        
+    -   Prerequisites: 60 Ironsing, [Power](Power.md) 13  
+        
+    -   Tags: \[Ironsing\]
+
+-   **Thornmail** \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
+    
+    -   Prerequisites: 45 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Debuff\] \[Flourish\]
+
+-   **Thornmail** \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
+    
+    -   Prerequisites: 45 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Debuff\] \[Flourish\]
 
 ### Javelin Lord
 
