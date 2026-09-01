@@ -4460,7 +4460,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](../S
     -   This is dealt as a separate instance of damage, meaning people with [Risky Moves](../Talents.md#risky-moves), [Ghost](../Talents.md#ghost), or [Dark Rift](../Talents.md#dark-rift) can dodge it getting hit by the ragdoll.
 -   If Eclipse Kick gets parried, the user will be forced into a [Knockdown](../Status_Effects.md#knockdown) state, giving their opponent an opportunity to attack. This also applies if the spark variant of the Mantra is parried.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   The axe kick does [Deep Gems](../Deep_Gems.md), the Multiplying Spark's high kick does not proc.
+-   The axe kick does proc [Deep Gems](../Deep_Gems.md), the Multiplying Spark's high kick does not proc.
 -   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.
 -   Can also break certain tiles and fell trees.
 -   Unaffected by damage modifiers with the exception of inhale while using the [Eyes of Ethiron](../Eyes_of_Ethiron.md) weapon.
@@ -7628,6 +7628,7 @@ Blunt ResistanceBlunt
 -   Deals 0 posture damage.
 -   0.65s wind-up.
 -   10s cooldown.
+-   In shiftlock it will head directly forward but can be manually aimed.
 -   When close enough to the enemy, the orbs will autotrack.
     -   [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) increase how far you can be for it to autotrack.
 

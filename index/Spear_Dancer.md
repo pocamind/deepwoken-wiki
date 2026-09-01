@@ -535,7 +535,7 @@ _A javelin that opens into 30 barbs. Strike the afflicted to deal massive damage
 
 ## Tips
 
--   It is recommended to grab the [Rifle Spear](Rifle_Spear.md), located at the Legion Camp [Boundary](Boundary.md) as it is a high damaging spear that can be equipped at any power.
+-   It is recommended to grab the [Rifle Spear](Rifle_Spear.md), located at the Legion Camp [Boundary](<Boundary_(Vow_of_Iron).md>) as it is a high damaging spear that can be equipped at any power.
 
 ## Trivia
 

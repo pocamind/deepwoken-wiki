@@ -28,7 +28,7 @@ The Cerebral Spire serves as the central sanctuary where [the Inheritor](The_Inh
 
 ## Contents
 
--   [Boundary](Boundary.md): Rifts allowing the player to teleport to and from the Cerebral Spire across the Luminant.
+-   [Boundary](<Boundary_(Vow_of_Iron).md>): Rifts allowing the player to teleport to and from the Cerebral Spire across the Luminant.
 -   [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md): A [Gremor](Gremor.md) who grants guidance on progression and the story within the mementos in Vow of Iron.
 -   [Azurath](Azurath.md): The acting [Antiquarian](Antiquarian.md) within the spire.
 

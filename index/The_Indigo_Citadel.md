@@ -28,7 +28,7 @@ Home of Clan Kobura, and found in the northern parts of [Minityrsa](Minityrsa.md
 
 ## Points of Interest
 
-You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Estate Blue [Boundary](Boundary.md) is located here close to the exterior wall of a building.
+You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Estate Blue [Boundary](<Boundary_(Vow_of_Iron).md>) is located here close to the exterior wall of a building.
 
 ## Contents
 

@@ -25,7 +25,7 @@ A mighty flagship of the Hundred Legions cuts across the tides - a harbringer of
 ## Points of Interest
 
 -   [General Titus Juventius](General_Titus_Juventius.md)
--   Legion Ship [Boundary](Boundary.md)
+-   Legion Ship [Boundary](<Boundary_(Vow_of_Iron).md>)
 
 ## Contents
 
@@ -34,4 +34,4 @@ This ship is the area where General Titus Juventius and his Legion resides. Titu
 ## Trivia
 
 -   If you plan on fighting General Titus Juventius, consider placing a boat on either side of the ship, as if you were to fall off of it, there is no easy way to get back on, leaving you vulnerable to most of Titus' attacks.
--   In order to avoid reentering the Legion Ship [Boundary](Boundary.md), you can jump off of the wall to the left of the ladder and then stand on a ledge opposite the boundary. Ensure you are not too close to the boundary otherwise you will just jump right back in.
+-   In order to avoid reentering the Legion Ship [Boundary](<Boundary_(Vow_of_Iron).md>), you can jump off of the wall to the left of the ladder and then stand on a ledge opposite the boundary. Ensure you are not too close to the boundary otherwise you will just jump right back in.

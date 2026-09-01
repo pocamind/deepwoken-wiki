@@ -37,7 +37,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 1.  Recommended but not necessary: Defeat the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) to uncap your Power past 5 and obtain your Memento-specific talents and mantras.
 2.  Make your way to the Waterlocks in-between the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md) and enter a small passage, leading to [The Golden Rat](The_Golden_Rat.md).
 3.  Descend down into [The Golden Rat](The_Golden_Rat.md) and hug the right wall until you find a large boundary in the floor that teleports you to the boss arena.
-4.  Recommended but not necessary: Keep hugging the right wall until you encounter a boundary in a doorway. This unlocks the Golden Rat Den [boundary](Boundary.md), letting you teleport back whenever you need to retry the fight.
+4.  Recommended but not necessary: Keep hugging the right wall until you encounter a boundary in a doorway. This unlocks the Golden Rat Den [boundary](<Boundary_(Vow_of_Iron).md>), letting you teleport back whenever you need to retry the fight.
 5.  Upon loading in and going through his intro, the fight begins.
 
 ## Moveset

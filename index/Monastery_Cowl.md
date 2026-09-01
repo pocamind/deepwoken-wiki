@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 222169
+revid: 228270
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -33,7 +33,9 @@ Variants: [Champion Robes](Monastery_Champion_Robes.md) · [Beads](Monastery_Bea
 
 ## Description
 
-The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Cinders of Etris](Cinders_of_Etris.md) event.
+The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category.
+
+It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Cinders of Etris](Cinders_of_Etris.md) event.
 
 The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown upon landing an M1.
 

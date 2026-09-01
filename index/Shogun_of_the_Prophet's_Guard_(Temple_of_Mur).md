@@ -34,7 +34,7 @@ The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), form
 ### Starting Fight with Shogun
 
 1.  Recommended but not mandatory: Reach Power 5.
-2.  Make your way to the [Deep Thresher Nest](Deep_Thresher_Nest.md), below the trenches close to where the [Deep Widow](Deep_Widow.md) is and instead of going towards the Widow, go the other direction and enter the [Boundary](Boundary.md).
+2.  Make your way to the [Deep Thresher Nest](Deep_Thresher_Nest.md), below the trenches close to where the [Deep Widow](Deep_Widow.md) is and instead of going towards the Widow, go the other direction and enter the [Boundary](<Boundary_(Vow_of_Iron).md>).
 3.  Upon loading into the instanced area, walk up to the standing Shogun and he will start fighting you.
 
 His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>), an [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) combined with an [Iron Cestus](Iron_Cestus.md), and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
@@ -215,7 +215,7 @@ Baiting out Eight Heavens
 
 ## Tips
 
--   It is recommended to enter the [Temple of Mur](Temple_of_Mur.md) [Boundary](Boundary.md) to unlock it for future runs as it allows you to very quickly retry the boss if you fail.
+-   It is recommended to enter the [Temple of Mur](Temple_of_Mur.md) [Boundary](<Boundary_(Vow_of_Iron).md>) to unlock it for future runs as it allows you to very quickly retry the boss if you fail.
 -   The Shogun has no set attack pattern, and will chain moves together seemingly at random. It will not however use the same attack twice in a row.
 -   You can tell whenever he is are attacking or not by the sudden snaps in stance; use this to your advantage to deal or avoid incoming damage.
 -   Attempting to kite The Shogun and kill them with ranged attacks will prove tedious; he will will parry any attack attempted from a distance unless they are in the middle of an attack animation.

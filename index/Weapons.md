@@ -12815,7 +12815,16 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>4.5</td>
 </tr>
 <tr>
-  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b></td>
+  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
+  <div><br>
+  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <td>30 FTD</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><b><a href="Tenacity.md">Tenacity</a></b><br>
+  <div><br>
+  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
 </tr>
@@ -13014,7 +13023,16 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>4.5</td>
 </tr>
 <tr>
-  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b></td>
+  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
+  <div><br>
+  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <td>30 FTD</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><b><a href="Tenacity.md">Tenacity</a></b><br>
+  <div><br>
+  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
 </tr>
@@ -21687,7 +21705,16 @@ Shields are defensive tools that when wielded in your offhand, apply their postu
   <td>4.5</td>
 </tr>
 <tr>
-  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b></td>
+  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
+  <div><br>
+  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <td>30 FTD</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><b><a href="Tenacity.md">Tenacity</a></b><br>
+  <div><br>
+  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
 </tr>
@@ -21898,7 +21925,16 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>4.5</td>
 </tr>
 <tr>
-  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b></td>
+  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
+  <div><br>
+  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <td>30 FTD</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><b><a href="Tenacity.md">Tenacity</a></b><br>
+  <div><br>
+  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
 </tr>

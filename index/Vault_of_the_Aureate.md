@@ -22,7 +22,7 @@ What's the golden rule?
 
 ## Description
 
-The **Vault of The Aureate** is a location in [Vow of Iron](Vow_of_Iron.md) which you can access through a [Boundary](Boundary.md) found in the back of [The Golden Rat](The_Golden_Rat.md). The Vault is a large hollowed out arena which serves as the fighting grounds for [Dravik, The Rat King](Dravik,_The_Rat_King.md), the mighty leader of the Golden Rats.
+The **Vault of The Aureate** is a location in [Vow of Iron](Vow_of_Iron.md) which you can access through a [Boundary](<Boundary_(Vow_of_Iron).md>) found in the back of [The Golden Rat](The_Golden_Rat.md). The Vault is a large hollowed out arena which serves as the fighting grounds for [Dravik, The Rat King](Dravik,_The_Rat_King.md), the mighty leader of the Golden Rats.
 
 ## Trivia
 

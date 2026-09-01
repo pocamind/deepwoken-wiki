@@ -18,7 +18,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-Wolves are fanged creatures hunted by [The Children of Navae](The_Children_of_Navae.md) during the trials of the Festival of Lights. During these trials, blindfolded Navaens are tasked to hunt a wolf, but are disqualified should the wolf land a blow on the aspiring Navaen.[\[1\]](#cite-note-star-1)
+Wolves are fanged creatures hunted by [The Children of Navae](The_Children_of_Navae.md) during the trials of the [Festival of Lights](Festival_of_Lights.md). During these trials, blindfolded Navaens are tasked to hunt a wolf, but are disqualified should the wolf land a blow on the aspiring Navaen.[\[1\]](#cite-note-star-1)
 
 ## References
 

@@ -45,7 +45,16 @@ Shields have their own Talents in the [Shieldmaster](Talents.md#shieldmaster) Ta
   <td>4.5</td>
 </tr>
 <tr>
-  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b></td>
+  <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
+  <div><br>
+  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <td>30 FTD</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><b><a href="Tenacity.md">Tenacity</a></b><br>
+  <div><br>
+  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
 </tr>

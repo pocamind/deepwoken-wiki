@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 221308
+revid: 228271
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, Bounties, Chime of Conflict, The Diluvian MechanismFound From:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Ishamon Erisia, Deep Widow, Bounties, Chime of Conflict, The Diluvian MechanismFound From:, Artifact Turn-ins |
 | description | The imposing helm of a guardian. |
 
 Guardian Set
@@ -31,4 +31,6 @@ Variants: [Pauldrons](Guardian_Pauldrons.md)
 
 ## Description
 
-The Guardian Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Guardian Set.
+The Guardian Helmet is an [Equipment](Equipment.md) item under the "Head" category.
+
+It is a part of the Guardian Set.

@@ -87,7 +87,7 @@ Neutral-Bad Reputation:
 
 [Mag](Mag.md): A Gremor inside the bowels of the Summer Castle who can turn ores into bullet casings, he is implied to be an Ironsinger due to to being the only member who deals with metals.
 
-[Thula](Thula.md): A Celtor dragoon who is stationed at [Songseeker Wilds](Songseeker_Wilds.md) with her group, investigating the nearby mines for entrances into the [Boundary](The_Boundary.md).
+[Thula](Thula.md): A Celtor dragoon who is stationed at [Songseeker Wilds](Songseeker_Wilds.md) with her group, investigating the nearby mines for entrances into the [Boundary](Lore.md#the-boundary).
 
 [Ignacio](Ignacio.md): A Canor dragoon who is stationed at Songseeker Wilds with his group, investigating the nearby mines for entrances into the Boundary.
 

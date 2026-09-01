@@ -26,7 +26,7 @@ The Sable Estate is an Etrean Royalists stronghold located east of [Saramaed Cro
 
 ## Points of Interest
 
-You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Estate [Boundary](Boundary.md) is also located here near the exterior wall of a building
+You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Estate [Boundary](<Boundary_(Vow_of_Iron).md>) is also located here near the exterior wall of a building
 
 ## Contents
 

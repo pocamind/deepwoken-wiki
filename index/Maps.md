@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 225302
+revid: 228283
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,9 +12,9 @@ categories: [Mechanics]
 
 Deepwoken has ingame maps that you will automatically receive for free across all slots. These point out your current location, the location of allies, and most landmarks in the current map, as well as NPCs like Antiquarians or Smiths in your area. The map also shows cardinal directions.
 
-Some locations (e.g. [Beloved Zofia](Beloved_Zofia.md), [Boatman's Watch](<Boatman's_Watch.md>), [Moons Eyrie](<Moon's_Eyrie.md>)) are in the [Voidsea](Voidsea.md) and thus not mapped at all.
+Some locations (e.g. [Beloved Zofia](Beloved_Zofia.md), [Boatman's Watch](<Boatman's_Watch.md>), [Moon's Eyrie](<Moon's_Eyrie.md>)) are in the [Voidsea](Voidsea.md) and thus not mapped at all.
 
-The [Iron Vow](Vow_of_Iron.md) gamemode has a separate [map](Boundary.md).
+The [Iron Vow](Vow_of_Iron.md) gamemode has a separate [map](<Boundary_(Vow_of_Iron).md>).
 
 [The Depths](The_Depths.md) has quite a few outright hidden locations until you visit them, those being [The Chariot's Spire](<The_Chariot's_Spire.md>), [Castle Light](Castle_Light.md), and [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 

@@ -26,7 +26,7 @@ The Red Lotus Keep is an Etrean Royalists stronghold located near the [Derelict 
 
 ## Points of Interest
 
-You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Scarlet Citadel [Boundary](Boundary.md) is also located here near the exterior wall of a building.
+You can purchase an additional [Etris Flask](Etris_Flask.md) at this location for 250. The Scarlet Citadel [Boundary](<Boundary_(Vow_of_Iron).md>) is also located here near the exterior wall of a building.
 
 ## Contents
 

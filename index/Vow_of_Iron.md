@@ -113,12 +113,12 @@ Certain items can be found laying on the ground in a given spot and can be picke
 -   [Petra's Anchor](<Petra's_Anchor.md>): Located on the southwest island bordering summer isle
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>): Sitting on a rock in the middle of a lava pool at [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>)
 -   [Prototype Railblade](Prototype_Railblade.md): Near a [Magma Golem](Golem_Magma.md) at [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>)
--   [Rifle Spear](Rifle_Spear.md): On a raised platform on the south east corner of the Legion Camp [Boundary](Boundary.md)
--   [Stormseye](Stormseye.md): Near the Summer Abandoned Castle [Boundary](Boundary.md) in a box near the east corner. -4460 97 650
+-   [Rifle Spear](Rifle_Spear.md): On a raised platform on the south east corner of the Legion Camp [Boundary](<Boundary_(Vow_of_Iron).md>)
+-   [Stormseye](Stormseye.md): Near the Summer Abandoned Castle [Boundary](<Boundary_(Vow_of_Iron).md>) in a box near the east corner. -4460 97 650
 -   [Transfusion Ring](Transfusion_Ring.md): Located just past the "South" icon on the map compass
 -   [Void Ring](Void_Ring.md): On an island behind [Etris](<Etris_(Vow_of_Iron).md>)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): Near the exit/entrance of the Miners Cave [Boundary](Boundary.md)
--   [Whaling Knife](Whaling_Knife.md): Inside a red tent in a camp east of the Aratel Temple [Boundary](Boundary.md)
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): Near the exit/entrance of the Miners Cave [Boundary](<Boundary_(Vow_of_Iron).md>)
+-   [Whaling Knife](Whaling_Knife.md): Inside a red tent in a camp east of the Aratel Temple [Boundary](<Boundary_(Vow_of_Iron).md>)
 
 ### Lumen and The Depths
 
@@ -129,7 +129,7 @@ Certain items can be found laying on the ground in a given spot and can be picke
 -   The Depths have also changed. You can see the VOI Depths [here](<The_Depths_(Vow_of_Iron).md>).
 -   Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
     -   At times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, only Caeranthil appears instead.
--   [Boundaries](Boundary.md) can be found in set, static locations. Boundaries act as a fast travel point to enter and leave [The Cerebral Spire](The_Cerebral_Spire.md). The locations of these Boundaries can be found on the [Boundary](Boundary.md) page.
+-   [Boundaries](<Boundary_(Vow_of_Iron).md>) can be found in set, static locations. Boundaries act as a fast travel point to enter and leave [The Cerebral Spire](The_Cerebral_Spire.md). The locations of these Boundaries can be found on the [Boundary](<Boundary_(Vow_of_Iron).md>) page.
     
     -   Boundaries save between characters made on that same slot.
     -   Entering a Boundary will heal you to full and will automatically cash in any chests you are carrying.

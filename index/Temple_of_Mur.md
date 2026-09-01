@@ -19,7 +19,7 @@ The Temple of Mur is a location in the exclusive [Vow of Iron](Vow_of_Iron.md) g
 
 ## Contents
 
-Inside the temple, there is a wide room with two ways to go, forward or left. Going forward, you will encounter a staircase with barrels and crates scattered around. Going up the small set of stairs will lead you to the [Boundary](Boundary.md)\-like teleport to the Shogun himself.
+Inside the temple, there is a wide room with two ways to go, forward or left. Going forward, you will encounter a staircase with barrels and crates scattered around. Going up the small set of stairs will lead you to the [Boundary](<Boundary_(Vow_of_Iron).md>)\-like teleport to the Shogun himself.
 
 Going left, it will take you down a short hallway with stone statues on either side of you, with a lantern to light your path. When you reach the end, you will encounter a longer staircase. Going down the staircase, you will encounter the Cell Room with rubble about the room, which holds a [Mystery Box](Mystery_Boxes.md) you can interact with.
 

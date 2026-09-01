@@ -731,8 +731,11 @@
     "to": "Training Gear",
     "fragment": "Attribute Training Gears"
   },
-  "Boundaries": {
-    "to": "Boundary"
+  "Boundary": {
+    "to": "Boundary (Vow of Iron)"
+  },
+  "Boundary Portals": {
+    "to": "Boundary (Vow of Iron)"
   },
   "Bounder Nest": {
     "to": "Nest Corridor"
@@ -4774,6 +4777,10 @@
   "The Better Part Of Valour": {
     "to": "Deepwoken OST",
     "fragment": "The Better Part Of Valour"
+  },
+  "The Boundary": {
+    "to": "Lore",
+    "fragment": "The Boundary"
   },
   "The Captain": {
     "to": "Cap'n Orlandeau"

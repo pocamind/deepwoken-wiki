@@ -1,6 +1,6 @@
 ---
 title: Cave Master (Vow of Iron)
-revid: 224691
+revid: 228281
 source: https://deepwoken.fandom.com/wiki/Cave_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -29,7 +29,7 @@ The Cave Master is a [Canor](Canor.md) NPC. He sells basic tier one and two [Man
 
 ## Location
 
-The Cave Master is located in the inside of cave near the Blade Temple [Boundary](Boundary.md), located at the [Isle of Vigils](Isle_of_Vigils.md).
+The Cave Master is located in the inside of cave near the Blade Temple [Boundary](<Boundary_(Vow_of_Iron).md>), located at the [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Shop
 

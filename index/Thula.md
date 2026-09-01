@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 Thula is a [Celtor](Celtor.md) NPC. She is a dragoon of [The Summer Company](The_Summer_Company.md).
 
-Thula is presently in charge of a detachment of dragoons assigned to the [Songseeker Wilds](Songseeker_Wilds.md) to survey its mines and potential relation to [the Boundary](The_Boundary.md).
+Thula is presently in charge of a detachment of dragoons assigned to the [Songseeker Wilds](Songseeker_Wilds.md) to survey its mines and potential relation to [the Boundary](Lore.md#the-boundary).
 
 ## Location
 
