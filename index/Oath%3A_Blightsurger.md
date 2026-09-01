@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 227337
+revid: 228268
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -75,7 +75,7 @@ Recommended method is to hit training dummies. Attack until your **Blight meter*
 -   10 ~ 100% Activations - Anchor Shock
 -   10 ~ 100% Activations - Blight Lash
 
-Rounded up in total would be 60 ~ 100 **Sovereign Mode** activations.
+Rounded up in total would be 60 ~ 100% **Sovereign Mode** activations.
 
 You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat you down.
 
