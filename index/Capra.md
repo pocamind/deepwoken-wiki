@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 221059
+revid: 228285
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -191,7 +191,7 @@ These are no longer in the game as of January 22nd, 2023.
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
 -   Capra look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capra had their appearance reworked on 1/22/2023.
--   As of the 2/20202 patch, each Capra variant's mark grants the buffs that the other two have, but with less effectiveness. Additionally, each Capra mark was given the hp regen buff.
+-   As of the 2/2022 patch, each Capra variant's mark grants the buffs that the other two have, but with less effectiveness. Additionally, each Capra mark was given the hp regen buff.
 
 ## References
 

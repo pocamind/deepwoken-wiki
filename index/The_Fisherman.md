@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 225092
+revid: 228284
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -17,9 +17,7 @@ categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Ench
 
 ## Description
 
-The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the [Chainwarden](Oath%253A_Chainwarden.md) Oath, implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess abnormally high Health and do a decent amount of damage.
-
-It MAY scale off the level of person that took the quest. This is currently unknown.
+The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). They use the [Thundercall](Thundercall.md) attunement and the [Chainwarden](Oath%253A_Chainwarden.md) Oath, implying that they have ties to [The Central Authority](The_Central_Authority.md). The Fisherman can be spawned via [Jobs](Job_Boards.md) from either [The Divers](The_Divers.md) or [The Ignition Union](The_Ignition_Union.md), and you are able to find their job on the [Union Pager](Ignition_Delver.md).
 
 The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fisher Plate](Grand_Fisher_Plate.md), and is guaranteed to drop both on death. They use a [Halberd](Halberd.md) with a guaranteed random enchantment.
 
@@ -172,7 +170,7 @@ The Fisherman executes its opponents after knocking them:
 -   [Gigameds](Gigamed.md) can help with restoring health, especially around Light's Causeway, but if they stun you mid-fight, it can prove a problem.
 -   The Fisherman is a [Chainwarden](Oath%253A_Chainwarden.md), making running away _really_ hard, especially in tandem with Lightning Stream. If you engage with them, don't run if you're not confident in your ability to escape.
     -   If trying to run, keep in mind The Fisherman is bound by the movement limitations of any other humanoid mob.
--   The Fisherman does have high posture, but it's fairly low compared to their health pool, and seems to be similar to the posture of the [Immortal Guardian](Immortal_Guardian.md). Take advantage of this via using Mantras and weapons with high posture damage.
+-   The Fisherman does have high posture, but it's fairly low compared to their health pool.
 
 ## Trivia
 
