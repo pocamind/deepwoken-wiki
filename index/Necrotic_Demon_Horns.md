@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 222281
+revid: 228359
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,10 +17,10 @@ categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipmen
 | weight | 1 |
 | innate stats | +1 Posture , +8% Fire Armor , +1 Rare Pip |
 | innate talent | Mindspark |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting:, 1 Aazel's Horns + 1 Necrotic Membrane at the Lost Forge of Leiuna |
 | description | An otherworldly set of faux horns. Faint scratches on the back spell 'Aazel', though the writing is weathered almost beyond recognition. Whoever wore these must have long since drowned. Strangely, they're warm to the touch... |
 

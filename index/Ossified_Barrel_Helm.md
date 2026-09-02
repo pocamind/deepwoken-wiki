@@ -1,6 +1,6 @@
 ---
 title: Ossified Barrel Helm
-revid: 226927
+revid: 228361
 source: https://deepwoken.fandom.com/wiki/Ossified_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Equipment, Helmets, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -16,10 +16,10 @@ categories: [Pathfinder Exclusive, Head, Equipment, Helmets, Craftable, Equipmen
 | weight | 1 |
 | innate stats | +5 Health , +1 Uncommon Pip |
 | innate talent | Tenacity |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Barrel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate at the Lost Forge of Leiuna |
 | description | A sturdy helmet shaped like a barrel. |
 

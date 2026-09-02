@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 221930
+revid: 228364
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -19,10 +19,10 @@ categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment 
 | innate talent | Blade DancerFootwork Mastery |
 | set | Gale Enhanced Cowl, Gale Enhanced Beads |
 | set talent | N/A |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Monastery Cowl + 1 Gale Essence + 1 Bluster Enchant Stone at Lost Forge |
 | description | ... |
 

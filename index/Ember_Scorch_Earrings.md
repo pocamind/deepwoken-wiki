@@ -1,6 +1,6 @@
 ---
 title: Ember Scorch Earrings
-revid: 221913
+revid: 228362
 source: https://deepwoken.fandom.com/wiki/Ember_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,10 +17,10 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | weight | 0.1 |
 | innate stats | +1 Common Pip , +1 Rare Pip |
 | innate talent | Smoldering Touch |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafted w/ 1 Ruby Pendant Earrings + 5 Dying Embers + 1 Blazing Enchant Stone at Lost Forge of Leiuna |
 | description | Wearing these makes you feel a fire in your heart with every swing. |
 

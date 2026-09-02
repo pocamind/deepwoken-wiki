@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 227891
+revid: 228368
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
@@ -11,7 +11,7 @@ categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns
 | Knell, The Lunatic Resonator | |
 |---|---|
 | health | 30000 |
-| drops | Dissonant Chimecaller, Bellmarrow Reave, Dormant Splinter, Moonseye Tome, Idol of Yun'Shul |
+| drops | Dissonant Chimecaller, Bellmarrow Reave, Dormant Splinter, Moonseye Tome, Idol of Yun'Shul, See loot table |
 | aspect | Anansi |
 | pronouns | He/him[1] |
 | locations | Simforea, The Cradle of Symphonies |

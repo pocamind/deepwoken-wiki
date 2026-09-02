@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 226582
+revid: 228370
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
 | health | 18,000 |
 | attacks | Enmity's Call, Homerun Bat[1], Sadistic Fury, Reposition, Sadistic Edge, Spread, Obsidian Wings, The Brutalizer, Condemnation's Fall, Everlasting Agony, Event Horizon |
 | drops | See loot table |
-| locations | Cathedral of the Interstice |
+| locations | Cathedral of the Interstice, Cathedral's Spire |
 
 Variants: [Heart of Enmity](Heart_of_Enmity.md)
 

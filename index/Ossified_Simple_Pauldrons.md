@@ -1,6 +1,6 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 222334
+revid: 228360
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,10 +17,10 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipm
 | weight | 2 |
 | innate stats | +2 Health , +1 Posture , +1 Uncommon Pip |
 | innate talent | Simple Buff |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Only on craft[1] |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting 1 Simple Pauldrons + 1 Ethereal Osseous Plate +1 Shiva's Codex in the Lost Forge of Leiuna |
 | description | Either they're of low complexity or someone's in need of a punch. |
 

@@ -2009,7 +2009,7 @@
   },
   "4889": {
     "title": "Origins",
-    "lastrevid": 213186
+    "lastrevid": 228372
   },
   "4891": {
     "title": "Barber",
@@ -4157,7 +4157,7 @@
   },
   "12216": {
     "title": "Lone Warrior",
-    "lastrevid": 218751
+    "lastrevid": 228371
   },
   "12217": {
     "title": "Castaway",
@@ -4457,7 +4457,7 @@
   },
   "13655": {
     "title": "Baby Spider",
-    "lastrevid": 228267
+    "lastrevid": 228357
   },
   "13698": {
     "title": "Emar Vend",
@@ -6769,7 +6769,7 @@
   },
   "19812": {
     "title": "Handcuffs",
-    "lastrevid": 228353
+    "lastrevid": 228354
   },
   "19838": {
     "title": "Captain Trist",
@@ -7941,7 +7941,7 @@
   },
   "21567": {
     "title": "True Heart of Enmity",
-    "lastrevid": 226582
+    "lastrevid": 228370
   },
   "21569": {
     "title": "Red Lotus Keep",
@@ -8681,7 +8681,7 @@
   },
   "23043": {
     "title": "Legion Soldier (The Polymarch)",
-    "lastrevid": 225059
+    "lastrevid": 228365
   },
   "23049": {
     "title": "Rotten Lot",
@@ -8805,7 +8805,7 @@
   },
   "23156": {
     "title": "Necrotic Demon Horns",
-    "lastrevid": 222281
+    "lastrevid": 228359
   },
   "23157": {
     "title": "Shiva's Pendant Earrings",
@@ -8849,7 +8849,7 @@
   },
   "23187": {
     "title": "Gale Enhanced Cowl",
-    "lastrevid": 221930
+    "lastrevid": 228364
   },
   "23217": {
     "title": "Revitalizing Pendant",
@@ -8861,7 +8861,7 @@
   },
   "23222": {
     "title": "Hardened Enforcer Plate",
-    "lastrevid": 227890
+    "lastrevid": 228363
   },
   "23225": {
     "title": "Suffocated (enchantment)",
@@ -8953,7 +8953,7 @@
   },
   "23307": {
     "title": "Ember Scorch Earrings",
-    "lastrevid": 221913
+    "lastrevid": 228362
   },
   "23321": {
     "title": "Ether Refined Mantle",
@@ -8965,11 +8965,11 @@
   },
   "23323": {
     "title": "Ossified Simple Pauldrons",
-    "lastrevid": 222334
+    "lastrevid": 228360
   },
   "23332": {
     "title": "Ossified Barrel Helm",
-    "lastrevid": 226927
+    "lastrevid": 228361
   },
   "23337": {
     "title": "Ossified Phalanx Boots",
@@ -9157,7 +9157,7 @@
   },
   "24239": {
     "title": "Knell, The Lunatic Resonator",
-    "lastrevid": 227891
+    "lastrevid": 228368
   },
   "24240": {
     "title": "Arkasid",
@@ -9357,7 +9357,7 @@
   },
   "24569": {
     "title": "Authority Cager",
-    "lastrevid": 225006
+    "lastrevid": 228355
   },
   "24573": {
     "title": "Topol",
@@ -9782,5 +9782,9 @@
   "26484": {
     "title": "Tenacity",
     "lastrevid": 228173
+  },
+  "26515": {
+    "title": "Cathedral's Spire",
+    "lastrevid": 228367
   }
 }

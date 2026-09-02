@@ -1,6 +1,6 @@
 ---
 title: Authority Cager
-revid: 225006
+revid: 228355
 source: https://deepwoken.fandom.com/wiki/Authority_Cager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
