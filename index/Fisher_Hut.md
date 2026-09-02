@@ -1,9 +1,11 @@
 ---
 title: Fisher Hut
-revid: 165154
+revid: 228303
 source: https://deepwoken.fandom.com/wiki/Fisher_Hut
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Fishing, Locations in the Etrean Luminant]
+categories: [Articles with conjectural titles, Locations, Locations in the Etrean Luminant]
+notices:
+  - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
 
 # Fisher Hut

@@ -1,6 +1,6 @@
 ---
 title: The Polymarch
-revid: 227518
+revid: 228337
 source: https://deepwoken.fandom.com/wiki/The_Polymarch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations]

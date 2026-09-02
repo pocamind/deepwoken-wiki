@@ -1,6 +1,6 @@
 ---
 title: Temple of Mur
-revid: 201461
+revid: 228336
 source: https://deepwoken.fandom.com/wiki/Temple_of_Mur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations in the Eastern Luminant, Locations]

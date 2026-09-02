@@ -1,6 +1,6 @@
 ---
 title: Vault of the Aureate
-revid: 204564
+revid: 228331
 source: https://deepwoken.fandom.com/wiki/Vault_of_the_Aureate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Dungeons]

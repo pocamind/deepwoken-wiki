@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 223458
+revid: 228319
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -77,3 +77,4 @@ The following sources of healing **can** proc Critical Heal:
     -   [Bloodless Gems](Bloodless_Gem.md)
     -   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
     -   [Corrupted Payback](Payback.md) healing
+    -   [Fondant Splitter](Fondant_Splitter.md) Critical

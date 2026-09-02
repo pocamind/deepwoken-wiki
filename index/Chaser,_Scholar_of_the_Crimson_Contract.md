@@ -1,9 +1,9 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 226753
+revid: 228296
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies]
+categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies, Humanoid Bosses]
 ---
 
 # Chaser, Scholar of the Crimson Contract

@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 225723
+revid: 228341
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -340,7 +340,7 @@ Radiant Teachings
   <td colspan="6">Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
 </tr>
 <tr>
-  <td colspan="3"><i>*Her eyes light up briefly*</i> Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
+  <td colspan="3"><i>*Her eyes light up briefly.*</i> Well I'll be.. That's quite the find. I had thought we had found the lot of them, but if the City has yet more of them... I'd be more than happy to buy them off you.</td>
   <td colspan="3">[Opens <a href="#shop"><u>Shop UI</u></a>]</td>
   <td colspan="6"><i>*Her nose wrinkles in a look of disgust.*</i> I can only assume you found Dr. Carrion. Pay him no mind, he's absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
 </tr>

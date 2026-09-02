@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 228161
+revid: 228289
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons with Unique Animations, Weapons of The Ministry]
@@ -65,6 +65,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   The emblem of [The Ministry](The_Ministry.md) is set below the crossguard of the spear.
 -   Two weeks after the Red Death was released, it was given a visual rework alongside its running critical.
 -   When wearing on your character's back, it will clip through the floor.
+-   It does not change appearance with Alloyblood.
 
 ## References
 

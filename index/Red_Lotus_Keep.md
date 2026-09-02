@@ -1,6 +1,6 @@
 ---
 title: Red Lotus Keep
-revid: 226633
+revid: 228340
 source: https://deepwoken.fandom.com/wiki/Red_Lotus_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Territory of Etrean Royalists]

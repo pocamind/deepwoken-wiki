@@ -1,6 +1,6 @@
 ---
 title: The Cerebral Spire
-revid: 219694
+revid: 228329
 source: https://deepwoken.fandom.com/wiki/The_Cerebral_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations]

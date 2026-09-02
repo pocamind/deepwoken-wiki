@@ -1,9 +1,9 @@
 ---
 title: Ancient Dagger Remains
-revid: 188308
+revid: 228304
 source: https://deepwoken.fandom.com/wiki/Ancient_Dagger_Remains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Quest Item, Ingredients]
+categories: [Pathfinder Exclusive, Items, Quest Item, Ingredients]
 ---
 
 # Ancient Dagger Remains
@@ -19,11 +19,15 @@ categories: [Items, Quest Item, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | Old rusty remains of a spiral dagger, despite being caked in dried blood it smells strangely floral. |
-| obtainment | Talk to Seroth in a cave just above the Docks in Isle of Vigils |
+| obtainment | Speak with Seroth |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Ancient Dagger Remains** is an item obtained from [Seroth](Seroth.md), one of the Royal Etrean Guards. This item is used to craft the [Sanguine Transfuser](Sanguine_Transfuser.md).
+The **Ancient Dagger Remains** are an item obtained from [Seroth](Seroth.md), one of the Royal Etrean Guards. This item is used to craft the [Sanguine Transfuser](Sanguine_Transfuser.md).
 
 ### Crafting
 

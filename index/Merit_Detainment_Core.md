@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 223686
+revid: 228323
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -197,3 +197,4 @@ When deactivating any of the systems with the corresponding keys, the messages f
 -   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore and song books.
 -   Fishing in dungeon gives you normal Eastern loot.
 -   The merit detainment core (and the Central Authority as a whole) may be somewhat inspired by the Star Wars franchise, given the similarity with the helmets, and the cell control room.
+-   Tacet works on the canons

@@ -1,8 +1,9 @@
 ---
 title: Guard Turrets
-revid: 228230
+revid: 228348
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Guard Turrets

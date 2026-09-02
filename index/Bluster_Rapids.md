@@ -1,9 +1,9 @@
 ---
 title: Bluster Rapids
-revid: 196282
+revid: 228293
 source: https://deepwoken.fandom.com/wiki/Bluster_Rapids
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -17,3 +17,9 @@ This content is not accessible outside of this gamemode.
 LocationL Bluster Rapids LocationR
 
 The winds pick up - and so too do the rapids of this treacherous gorge.
+
+  
+
+## Description
+
+The Bluster Rapids is a location in _Deepwoken_. It can be found on [Aratel Island](Aratel_Island.md). It is the [Vow of Iron](Vow_of_Iron.md) version of [Bluster Rift](Bluster_Rift.md). The rivers that flow here will pull you downstream, making it quite difficult to traverse.

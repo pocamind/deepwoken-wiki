@@ -1,6 +1,6 @@
 ---
 title: Trueblood Earrings
-revid: 228067
+revid: 228320
 source: https://deepwoken.fandom.com/wiki/Trueblood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -46,4 +46,25 @@ The [Blood Convergence](Talents/Vow_of_Iron.md#blood-convergence) Talent increas
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Critical Heal](Talents/Vow_of_Iron.md#critical-heal) - Every time you heal, you have a 5% chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
+Set Talent: [Critical Heal](Talents.md#critical-heal) - Everytime you heal, you have a chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
+
+The heal chance is weighted, having a higher chance the more healing you receive.
+
+The following sources of healing **cannot** proc Critical Heal:
+
+-   Any source of 'passive' healing, being passive health regeneration and things which boosts it (unexhaustive list below)
+    -   [Curse of the No Life King](Curse_of_the_No_Life_King.md)
+    -   [Chorus of Souls](Talents.md#chorus-of-souls)
+    -   [Campfire Pits](Campfire_Pit.md)
+    -   Health Regeneration [potions](Alchemy.md)
+
+The following sources of healing **can** proc Critical Heal:
+
+-   Any source of 'non-passive' healing, being anything **not** related to passive health regeneration (unexhaustive list below)
+    -   Health received on mob kill
+    -   Instant Health [potions](Alchemy.md)
+    -   [Multiplicity](Multiplicity.md) Enchantment
+    -   [Phoenix Impact](Talents.md#phoenix-impact)
+    -   [Bloodless Gems](Bloodless_Gem.md)
+    -   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
+    -   [Fondant Splitter](Fondant_Splitter.md) Critical

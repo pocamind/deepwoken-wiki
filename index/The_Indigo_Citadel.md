@@ -1,6 +1,6 @@
 ---
 title: The Indigo Citadel
-revid: 227162
+revid: 228332
 source: https://deepwoken.fandom.com/wiki/The_Indigo_Citadel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Territory of Etrean Royalists]
