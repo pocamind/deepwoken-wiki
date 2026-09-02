@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 228044
+revid: 228381
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -735,7 +735,7 @@ _Submerge into your shadow. Click to launch an attack at any point while submerg
 
  | 
 
-Shadow [ResistanceShadowcast](Shadowcast.md)
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 
  | 
 

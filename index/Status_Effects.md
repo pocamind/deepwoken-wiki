@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 228163
+revid: 228382
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -584,7 +584,7 @@ Applied through using the Soul Rip Talent tool from the [Familiar Heretic's Armo
 
 #### Broken Leg
 
-When the [Soul Rip](#soul-rip) status effect ends, your leg will break. This removes your ability to sprint for 30 seconds. The Broken Leg status effect has no visual indicator.
+When the [Soul Rip](#soul-rip) status effect ends, your leg will break. This removes your ability to sprint for 30 seconds. The Broken Leg status effect has no visual indicator but has a [sound effect](https://www.youtube.com/watch?v=VEjTx8a6Cr0) when it procs.
 
 ### Hyperbody
 
