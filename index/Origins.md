@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 228372
+revid: 228375
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -70,9 +70,9 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
 
 -   [Lone Warrior](Lone_Warrior.md): An origin much like Castaway, but with the twist that they spawn directly in the [Trial of One](Trial_of_One.md).
     -   While other origins, excluding Deepbounds, may partake in the Trial of One, only Lone Warriors gain these boons.
-        -   If Lone Warriors complete the Trial of One, they will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent, which increases experience gain while solo, and grants a 5% damage boost per combat tag if your opponent has equal to or less [Combat Tags](Combat_Tag.md) than you. This Talent deactivates when any of your allies is in your server.
-    -   Lone Warriors do not get access to the [Justicar Whistle](Castaway.md#justicar-whistle).
+        -   If Lone Warriors complete the Trial of One, they will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent, which increases experience gain while solo, and grants a 5% damage boost if your opponent has equal to or less [Combat Tags](Combat_Tag.md) than you.
     -   Lone Warriors spawn directly and only in the [Trial of One](Trial_of_One.md), which itself is in [Minityrsa](Minityrsa.md).
+    -   Lone Warriors also gain the [Justicar Whistle](Castaway.md#justicar-whistle), which they can use as long as they are below Power 16.
 
 -   [Deepbound](Deepbound.md): An origin centered around the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
     -   Deepbounds get an experience boost while farming in the depths, while farming outside of it will net them reduced experience points.
@@ -80,13 +80,14 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
         -   Also, while anyone can enter Castle Light, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter Castle Light due to the yellow barrier in front of it. But a Deepbound can still enter Castle Light even if they die to enter the depths.
     -   Deepbounds gain a Talent Tool called [Call of the Deep](Deepbound.md#call-of-the-deep): Using it in the depths will teleport them to Castle Light, while using it in the overworld will bring them to the depths.
     -   Deepbounds can spawn in either [Castle Light](Castle_Light.md) or near [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and they are affiliated with [The Divers](The_Divers.md).
+    -   Deepbounds also gain the [Justicar Whistle](Castaway.md#justicar-whistle), which they can use as long as they are below Power 16.
 
 -   [Voidwalker](Voidwalker.md): An origin centered around PvP, incentivizing fighting and killing other players. It is the Justicar origin's counterpart.
     -   While anyone may partake in [Bounty Hunting](Bounty_Hunting.md), only voidwalkers gain these boons.
         -   Completing bounties will net voidwalkers more experience points, alongside Full Training points, based on the amount of bounty stars, with the drawback of gaining less experience points from [events](Random_Encounters.md).
         -   Voidwalkers gain Talent Tools that makes this process much faster.
     -   Voidwalkers gain the Talent tools: [Voideye](Voidwalker.md#voideye) and [Grasp of Eylis](Voidwalker.md#grasp-of-eylis).
-        -   Voideye allow voidwalkers to teleport to [Voidheart](Voidheart.md). Inside the Voidheart are various amenities, including a Bounty Hunting board that has all of the bounties of every faction, including [The Knives of Eylis'](The_Knives_of_Eylis.md).
+        -   Voideye allow voidwalkers to teleport to [Voidheart](Voidheart.md). Inside the Voidheart are various amenities, including a Bounty Hunting board that has all of the bounties of every faction, including [The Knives of Eylis](The_Knives_of_Eylis.md)'.
             -   Since you only gain a bounty on your head on certain factions if you have bad reputation with them, Voidheart is extremely useful in saving the Voidwalker's time from going to every faction location to take their bounties. This is much like the Ignition Delvers and their Union Pager.
             -   Note: If you want to avoid Voidwalker's bounty hunting, visit the [Tips and advice of the Bounty Hunting page](Bounty_Hunting.md#tips-and-advice).
         -   Grasp of Eylis can only be used in Voidheart, and it allows voidwalkers to instantly teleport to any of their bounty hunting target, either steathily or aggressively.
