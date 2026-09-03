@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 225679
+revid: 228460
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Knights]

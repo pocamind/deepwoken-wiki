@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Brim"
-revid: 222757
+revid: 228522
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 | obtainment | The Doom of Caeranthil |
 | description | A finely crafted hat worn by master wizards of the Northern Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle. |
 
-Warlock's Set
+Warlock Set
 
 Variants: [Mantle](<Warlock's_Mantle.md>)
 

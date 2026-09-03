@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 223024
+revid: 228546
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment of The Hundred Legions]
@@ -25,6 +25,10 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | pass down | Yes |
 | obtainment | Chests from:, Duke Ishamon Erisia, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Miner's Landing, Faction Ambushes (The Ignition Union), Primadon, Titan of the East, Heart of Enmity, Interluminary Parasol, Chaser, Scholar of the Crimson Contract, Pure Erisore turn-ins, Deep Widow |
 | description | ... |
+
+Legion Phalanx Set
+
+Variants: [Helmet](Phalanx_Helmet.md) · [Heavy Boots](Phalanx_Heavy_Boots.md)
 
 Variants: [Alloyed Phalanx Plate](Alloyed_Phalanx_Plate.md)
 

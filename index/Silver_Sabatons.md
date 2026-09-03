@@ -1,6 +1,6 @@
 ---
 title: Silver Sabatons
-revid: 223020
+revid: 228503
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -27,9 +27,9 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Duke Ishamon Erisia, Chime of Conflict |
 | description | ... |
 
-Silver Set
+Silver Knight Set
 
-Variants: [Knight's Helm](<Silver_Knight's_Helm.md>) · [Pauldrons](Silver_Pauldrons.md)
+Variants: [Helm](<Silver_Knight's_Helm.md>) · [Pauldrons](Silver_Pauldrons.md)
 
 ## Description
 

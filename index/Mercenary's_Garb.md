@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 225341
+revid: 228549
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Garbs, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -17,7 +17,7 @@ categories: [Equipment, Arms, Garbs, Equipment with Talents, "Equipment with Non
 | weight | 2 |
 | innate stats | +6% Stealth , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Kick Off |
-| set | Mercenary's Garb, Mercenary's Boots |
+| set | Mercenary's Hood, Mercenary's Garb, Mercenary's Boots |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,9 +28,9 @@ categories: [Equipment, Arms, Garbs, Equipment with Talents, "Equipment with Non
 
 Variants: [Gallery](<Mercenary's_Garb/Gallery.md>)
 
-Mercenary's Set
+Mercenary Set
 
-Variants: [Boots](<Mercenary's_Boots.md>)
+Variants: [Hood](<Mercenary's_Hood.md>) · [Boots](<Mercenary's_Boots.md>)
 
 ## Description
 

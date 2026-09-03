@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 227601
+revid: 228455
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -715,12 +715,12 @@ Dialogue: [Chud Steel](Chud_Steel.md), [Kelsius](Kelsius.md), [Sentinel Augustus
 -   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
 -   The City of Celtor was dragged down from the [Surface](#the-surface) to the [Depths](#depths) in an event known as the [Submergence of Celtor](#the-submergence-of-celtor) in 904 CE.
 
-Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1) | Glossary Entries: [Castle Light](#castle-light), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
+Dialogue: [Celtorian Guard](Celtorian_Guard.md), [Tideknight](Tideknight.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1) | Glossary Entries: [Castle Light](#castle-light), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
 
 -   The City Guard speak of a deal, presumably a [Vow,](#vows) that they struck in order to keep the City safe.
 -   The guards are prevented from dispatching the monstrosities that stalk the city by the deal they struck.
 
-Dialogue: [Celtorian Guard](Celtorian_Guard.md)
+Dialogue: [Celtorian Guard](Celtorian_Guard.md), [Tideknight](Tideknight.md)
 
 ### Constellia, the Guiding Star
 

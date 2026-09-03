@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 221820
+revid: 228476
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents]
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | pass down | Yes |
 | obtainment | Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | Any man worth his salt or indeed worth the salt of a hundred other men would have a coat like this, you're sure. |
+
+Aristocrat Set
+
+Variants: [Tophat](Tophat.md) · [Eyeglasses](Aristocrat_Eyeglasses.md)
 
 ## Description
 

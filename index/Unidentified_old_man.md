@@ -1,6 +1,6 @@
 ---
 title: Unidentified old man
-revid: 195809
+revid: 228450
 source: https://deepwoken.fandom.com/wiki/Unidentified_old_man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles", Stub pages without reason, StubPages]
@@ -10,5 +10,8 @@ notices:
 ---
 
 # Unidentified old man
+
+| Unidentified old man | |
+|---|---|
 
 

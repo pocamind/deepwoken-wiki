@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Hood"
-revid: 228099
+revid: 228497
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,6 +17,8 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talen
 | weight | 1 |
 | innate stats | +10% Stealth +1 Posture |
 | innate talent | Mercenary Blade |
+| set | Mercenary's Hood, Mercenary's Garb, Mercenary's Boots |
+| set talent | N/A |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |
@@ -27,6 +29,10 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talen
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Mercenary Set
+
+Variants: [Garb](<Mercenary's_Garb.md>) · [Boots](<Mercenary's_Boots.md>)
 
 ## Description
 

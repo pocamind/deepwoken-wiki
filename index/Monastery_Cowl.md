@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 228270
+revid: 228509
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -27,9 +27,9 @@ categories: [Equipment with Styles, Equipment, Head, Cowls, Equipment with Talen
 | obtainment | Chests from:, Maestro Evengarde Rest, Cinders of Etris, Fishing |
 | description | ... |
 
-Monastery Set
+Monastery Champion Set
 
-Variants: [Champion Robes](Monastery_Champion_Robes.md) · [Beads](Monastery_Beads.md)
+Variants: [Robes](Monastery_Champion_Robes.md) · [Beads](Monastery_Beads.md)
 
 ## Description
 

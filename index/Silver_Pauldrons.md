@@ -1,6 +1,6 @@
 ---
 title: Silver Pauldrons
-revid: 222568
+revid: 228502
 source: https://deepwoken.fandom.com/wiki/Silver_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -27,9 +27,9 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | obtainment | Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs |
 | description | ... |
 
-Silver Set
+Silver Knight Set
 
-Variants: [Knight's Helm](<Silver_Knight's_Helm.md>) · [Sabatons](Silver_Sabatons.md)
+Variants: [Helm](<Silver_Knight's_Helm.md>) · [Sabatons](Silver_Sabatons.md)
 
 ## Description
 

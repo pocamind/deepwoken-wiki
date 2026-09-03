@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 223086
+revid: 228482
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Gloves]
@@ -27,14 +27,14 @@ categories: [Equipment with Styles, Equipment, Arms, Gloves]
 | obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Duke Ishamon Erisia, Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Scholar of the Crimson Contract, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity |
 | description | ... |
 
-Smith's Set
+Blacksmith Set
 
 Variants: [Bandana](<Smith's_Bandana.md>) · [Goggles](<Smith's_Goggles.md>)
 
 ## Description
 
-The Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Smith Set.
+The Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Blacksmith Set.
 
 ## Trivia
 
--   Worn by all [Blacksmith](Blacksmith.md) NPCs, alongside the rest of the Smith set, though the Blacksmith's variant uses the Closed style on one arm and the Default style on the other.
+-   Worn by all [Blacksmith](Blacksmith.md) NPCs, alongside the rest of the Blacksmith set, though the Blacksmith's variant uses the Closed style on one arm and the Default style on the other.

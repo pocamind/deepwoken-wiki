@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 227846
+revid: 228439
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -79,6 +79,7 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 -   To further push the above point, experience gained from non-bounty sources is reduced.
 -   You have Enemy starting reputation with almost half of all factions in the game.
 -   Almost everyone playing any other origin hates you, Especially Justicars, who directly progress from killing you.
+-   Depending on the target’s Origin, they can call for an Justicar assistance, potentially bringing a higher-level Justicar into the fight to defend them.
 
 ## Reputation
 

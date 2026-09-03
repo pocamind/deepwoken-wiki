@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 227115
+revid: 228447
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -1917,10 +1917,10 @@ Head: [Ossified Black Helm](Ossified_Black_Helm.md)
 Arms: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
 
  |
-|  | [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md) | _+2 Health_  
+|  | [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md) | _+3 Health_  
 _+1 Posture_
 
-+1 Uncommon Pip  
++1 Rare Pip  
 _+Talent: [**Simple Buff**](Talents.md#simple-buff)_
 
  | Variants:  

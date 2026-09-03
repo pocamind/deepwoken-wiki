@@ -1,6 +1,6 @@
 ---
 title: "Blademaster's Robe"
-revid: 222813
+revid: 228466
 source: https://deepwoken.fandom.com/wiki/Blademaster's_Robe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment of Etrea]
@@ -30,6 +30,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Equip
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Blademaster Set
+
+Variants: [Geta](Geta.md)
 
 ## Description
 

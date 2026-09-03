@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 222758
+revid: 228520
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, "Eq
 | obtainment | The Doom of CaeranthilVow of Iron:, Strange Merchant Memento |
 | description | A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle. |
 
-Warlock's Set
+Warlock Set
 
 Variants: [Brim](<Warlock's_Brim.md>)
 

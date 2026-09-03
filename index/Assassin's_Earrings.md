@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Earrings"
-revid: 228106
+revid: 228498
 source: https://deepwoken.fandom.com/wiki/Assassin's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,6 +17,8 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | weight | 0.1 |
 | innate stats | +3% Stealth +2 Rare Pips |
 | innate talent | Sharpened Dagger |
+| set | Assassin's Hood, Assassin's Cloak, Assassin's Earrings |
+| set talent | N/A |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
@@ -29,6 +31,10 @@ Variants: [Ossified Blood Earrings](Ossified_Blood_Earrings.md)
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Assassin Set
+
+Variants: [Hood](<Assassin's_Hood.md>) · [Cloak](<Assassin's_Cloak.md>)
 
 ## Description
 

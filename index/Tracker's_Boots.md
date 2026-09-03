@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Boots"
-revid: 223009
+revid: 228499
 source: https://deepwoken.fandom.com/wiki/Tracker's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Heart of Enmity, War Mode |
 | description | ... |
 
-Tracker's Set
+Tracker Set
 
 Variants: [Brace](<Tracker's_Brace.md>)
 

@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 222639
+revid: 228516
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, The Divers]
@@ -28,7 +28,7 @@ categories: [Equipment, Legs, Boots, The Divers]
 
 Variants: [Gallery](<Abyss_Wanderer's_Boots/Gallery.md>)
 
-Abyss Wanderer's Set
+Abyss Wanderer Set
 
 Variants: [Plate](<Abyss_Wanderer's_Plate.md>)
 

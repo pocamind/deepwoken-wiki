@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 223033
+revid: 228500
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Braces]
 | obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), War Mode, Dread Serpent |
 | description | ... |
 
-Tracker's Set
+Tracker Set
 
 Variants: [Boots](<Tracker's_Boots.md>)
 

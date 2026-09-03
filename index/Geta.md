@@ -1,6 +1,6 @@
 ---
 title: Geta
-revid: 223602
+revid: 228467
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment of Etrea]
@@ -30,6 +30,10 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equip
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Blademaster Set
+
+Variants: [Blademaster's Robe](<Blademaster's_Robe.md>)
 
 ## Description
 

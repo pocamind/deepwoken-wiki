@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 225338
+revid: 228495
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -17,7 +17,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | weight | 1 |
 | innate stats | +2 Health +2 Rare Pips , +1 Legendary Pip |
 | innate talent | Endurance Runner |
-| set | Mercenary's Garb, Mercenary's Boots |
+| set | Mercenary's Hood, Mercenary's Garb, Mercenary's Boots |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,9 +26,9 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | obtainment | Miner's Landing, Faction Ambushes (The Ignition Union), Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Faction Ambushes (The Ministry), Chaser, Scholar of the Crimson Contract, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
 | description | ... |
 
-Mercenary's Set
+Mercenary Set
 
-Variants: [Garb](<Mercenary's_Garb.md>)
+Variants: [Hood](<Mercenary's_Hood.md>) · [Garb](<Mercenary's_Garb.md>)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Monastery Champion Robes
-revid: 222162
+revid: 228511
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equ
 | obtainment | Chests from:, Maestro Evengarde Rest, Cinders of Etris, The Diluvian Mechanism, Fishing |
 | description | ... |
 
-Monastery Set
+Monastery Champion Set
 
 Variants: [Cowl](Monastery_Cowl.md) · [Beads](Monastery_Beads.md)
 

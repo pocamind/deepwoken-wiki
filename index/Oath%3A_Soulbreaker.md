@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 225589
+revid: 228437
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -39,7 +39,7 @@ There are two methods from here:
 ### Method One
 
 -   Have high ally reputation with [Etrea](Etrea.md).
--   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (must have a high ally reputation first)
+-   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (must have a high ally reputation first and [Murmur](Murmur.md))
 -   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour (1 > 1) (3 > 1 > 1 > 2 > 1 > 1).
 -   Have a [Resonance](Resonance.md).
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.

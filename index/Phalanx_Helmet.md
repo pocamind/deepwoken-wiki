@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 223037
+revid: 228547
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -25,6 +25,10 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | pass down | Yes |
 | obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Chime of Conflict, Saramaed Hollow, Deep Widow |
 | description | ... |
+
+Legion Phalanx Set
+
+Variants: [Plate](Legion_Phalanx_Plate.md) · [Heavy Boots](Phalanx_Heavy_Boots.md)
 
 ## Description
 

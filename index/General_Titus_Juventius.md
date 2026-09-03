@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 228403
+revid: 228544
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies, Humanoid Bosses]

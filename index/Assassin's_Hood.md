@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 227675
+revid: 228493
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -17,7 +17,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talen
 | styles | Crimson, Gold, Mist, Pale |
 | innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Deep Wound |
-| set | Assassin's Hood, Assassin's Cloak |
+| set | Assassin's Hood, Assassin's Cloak, Earrings |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,9 +26,11 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talen
 | obtainment | Cloaked Assassin (Direct drop)Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Aelita, The Ferryman (Winter), Carnival of Hearts |
 | description | ... |
 
-Assassin's Set
+Variants: [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>)
 
-Variants: [Cloak](<Assassin's_Cloak.md>)
+Assassin Set
+
+Variants: [Cloak](<Assassin's_Cloak.md>) · [Earrings](<Assassin's_Earrings.md>)
 
 ## Description
 

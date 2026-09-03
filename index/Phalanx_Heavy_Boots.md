@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 223035
+revid: 228527
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -25,6 +25,10 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Duke Ishamon Erisia, The Doom of Caeranthil, Dread Serpent, War Mode, Erisore turn ins, Saramaed Hollow |
 | description | ... |
+
+Legion Phalanx Set
+
+Variants: [Helmet](Phalanx_Helmet.md) · [Plate](Legion_Phalanx_Plate.md)
 
 ## Description
 

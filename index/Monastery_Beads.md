@@ -1,6 +1,6 @@
 ---
 title: Monastery Beads
-revid: 222166
+revid: 228513
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces]
@@ -27,9 +27,9 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces]
 | obtainment | Chests from:, Maestro Evengarde Rest, Cinders of Etris, The Diluvian Mechanism, Fishing |
 | description | ... |
 
-Monastery Set
+Monastery Champion Set
 
-Variants: [Cowl](Monastery_Cowl.md) · [Champion Robes](Monastery_Champion_Robes.md)
+Variants: [Cowl](Monastery_Cowl.md) · [Robes](Monastery_Champion_Robes.md)
 
 ## Description
 

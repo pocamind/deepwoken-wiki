@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Eyeglasses
-revid: 226452
+revid: 228474
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses]
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Face, Glasses]
 | pass down | Yes |
 | obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Lodestar Bounty job, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Heart of Enmity, Dread Serpent, Interluminary Parasol, Saramaed Hollow, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | ... |
+
+Aristocrat Set
+
+Variants: [Tophat](Tophat.md) · [Coat](Aristocrat_Coat.md)
 
 ## Description
 

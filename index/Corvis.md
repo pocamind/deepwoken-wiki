@@ -1,6 +1,6 @@
 ---
 title: Corvis
-revid: 224711
+revid: 228479
 source: https://deepwoken.fandom.com/wiki/Corvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Cut Content, NPCs, Individuals with unspecified pronouns]

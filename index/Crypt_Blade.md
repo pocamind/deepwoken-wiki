@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 223122
+revid: 228438
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -68,3 +68,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 -   During the original addition of this weapon before it's temporary removal, the scaling used to be unreasonably high at 20 SHW scaling and also had 0.7 swing speed (In Legacy swingspeed, translated to current swingspeed it would be around 0.93), without endlag.
 -   Despite being named **Crypt** Blade, it cannot be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). The "Crypt" is likely metaphorical, representing how it's made from corpses.
 -   The first person to wield a Crypt Blade was the user Flashbacking during closed access.
+-   The Standing Crit Cannot Proc Wayward Gem

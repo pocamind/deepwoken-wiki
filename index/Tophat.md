@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 222728
+revid: 228478
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -26,6 +26,10 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | pass down | Yes |
 | obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail |
 | description | While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class. |
+
+Aristocrat Set
+
+Variants: [Coat](Aristocrat_Coat.md) · [Eyeglasses](Aristocrat_Eyeglasses.md)
 
 ## Description
 
