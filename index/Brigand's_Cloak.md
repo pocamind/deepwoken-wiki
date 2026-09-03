@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 227528
+revid: 228383
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merchant Ships, Knives of Eylis vs Etrea Sea Event, Duke Erisia, Primadon, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Dread Serpent |
+| obtainment | Merchant Ships, Knives of Eylis vs Etrea Sea Event, Duke Ishamon Erisia, Primadon, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Dread Serpent |
 | description | ... |
 
 Brigand's Set

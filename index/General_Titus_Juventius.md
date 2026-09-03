@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 228328
+revid: 228402
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies, Humanoid Bosses]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies
 | General Titus Juventius | |
 |---|---|
 | health | 92000 (9200 to defeat ) |
-| attacks | Worldpiercing Deluge, Commander's Rage, Splitting Ascension, Sovereign Drive, Wrathful Stomp, Warp Kick, Blighted Sparks |
+| attacks | Worldpiercing Deluge, Commander's Rage, Splitting Ascension, Sovereign Drive, Wrathful Stomp, Warp Kick, Thunder Volley |
 | drops | Icarus Sun Shield |
 | locations | The Polymarch |
 | affiliation | The Hundred Legions |
@@ -50,13 +50,15 @@ A young, Silverback [Khan](Khan.md) with great stature, he's around twice the he
  | Titus firmly swings his fists at his opponent with hyperarmor.
 
 -   These moves are typically slow and can often lead to the player missing a parry.
--   Because he has the effect of Commander's Rage and throughout the entire second phase, this attack becomes Unparryable being telegraphed.
+-   Because he has the effect of Commander's Rage, this attack becomes Unparryable, being telegraphed.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Vent  
@@ -84,9 +86,9 @@ A young, Silverback [Khan](Khan.md) with great stature, he's around twice the he
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
-Dodge
+Jump
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -99,12 +101,39 @@ Dodge
  |
 | 
 
+**Commander's Rage**  
+(★★☆)
+
+ | Titus unleashes an echoing roar that temporarily amplifies his attacks.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#parry)
+
+Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+
+ | 
+
+ |
+| 
+
 **Commander's Whirlthrow**  
 (★★★)
 
  | Titus firmly grabs his opponent, spins around, and sends them flying.
 
 -   Almost always leads to Warp Kick if Titus lands this move.
+-   If landed the throw creates a large AOE. This can launch both you and the target in the same direction.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -164,6 +193,7 @@ Dodge
 -   This move may be used twice or more.
 -   When amplified by Commander's Rage or in second phase, Titus will use Skycrash again if he does not hit anyone initially
 -   This move will briefly stun him if he bashes into a surface.
+-   Only becomes jump-avoidable at the end of the attack before the crash.
 
 _Uses Telegraph_
 
@@ -187,6 +217,7 @@ Dodge
 
  | In a flash, Titus warps to a random opponent and kicking them away.
 
+-   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
 -   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
 -   This move is technically dodgeable, however, it is only possible at the very last moments of the attack. It's advised to block the attack instead dealing 10.46 posture.
 
@@ -212,14 +243,13 @@ Block
  | Titus slowly winds up before releasing a stomp that sends opponents into the air.
 
 -   This move can be easily avoided by jumping.
--   Titus will only use this move in his second phase.
 -   sends those hit very high up.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#dodge)
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
 
-Dodge
+High posture
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -237,7 +267,7 @@ Dodge
 
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
--   This move is easy to avoid if you run back or dash back.
+-   This move is easy to avoid if you run back, dash back or go behind Titus.
 
 _Uses Telegraph_
 
