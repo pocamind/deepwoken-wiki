@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 228402
+revid: 228403
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies, Humanoid Bosses]
@@ -191,7 +191,7 @@ Dodge
  | Titus leaps towards their opponent, stomping and knocking them away when hit.
 
 -   This move may be used twice or more.
--   When amplified by Commander's Rage or in second phase, Titus will use Skycrash again if he does not hit anyone initially
+-   When amplified by Commander's Rage, Titus will use Skycrash again if he does not hit anyone initially.
 -   This move will briefly stun him if he bashes into a surface.
 -   Only becomes jump-avoidable at the end of the attack before the crash.
 

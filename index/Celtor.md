@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 219503
+revid: 228429
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,7 +10,7 @@ categories: [Aspects]
 
 | Celtor | |
 |---|---|
-| obtained_by | 15% Roll Chance |
+| obtained_by | 14.5% Roll Chance (Pathfinder)14.17% Roll Chance (Vow Of Iron) |
 | appearance | Pale-Dark Brown Green Skin, Green Eyes, Green or Black Hair |
 | traits | Seaborne, +3 Charisma, +2 Intelligence |
 
@@ -18,7 +18,9 @@ _Silver-tongued traders whose
 pride often gets the better of them.  
 Renowned as ship-builders and seafarers alike._
 
-Chance of obtaining aspect: **15%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **14.5%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **14.17%**
 
 ## Description
 

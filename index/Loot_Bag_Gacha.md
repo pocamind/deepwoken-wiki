@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 227896
+revid: 228426
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -60,12 +60,20 @@ Kujae
 -   [Fleet Warden Cape](Fleet_Warden_Cape.md)
 -   [Forge Greathammer](Forge_Greathammer.md)
 -   [Headband](Headband.md)
+-   [Iron Cestus](Iron_Cestus.md)
 -   [Novice Boots](Novice_Boots.md)
 -   [Practicioner's Earrings](<Practicioner's_Earrings.md>)
 -   [Rebel's Bandana](<Rebel's_Bandana.md>)
+-   [Ritual Spear](Ritual_Spear.md)
+-   [Rockmaller](Rockmaller.md)
+-   [Rosen's Roscoe](<Rosen's_Roscoe.md>)
+-   [Sailor's Fleece](<Sailor's_Fleece.md>)
 -   [Sapphire](Treasures.md)
 -   [Serpent's Edge](<Serpent's_Edge.md>)
+-   [Smith's Gloves](<Smith's_Gloves.md>)
 -   [Summer Hullwrecker](Summer_Hullwrecker.md)
+-   [Summer Nauticals](Summer_Nauticals.md)
+-   [The Barrel](The_Barrel.md)
 -   [Tophat](Tophat.md)
 -   [Trident Spear](Trident_Spear.md)
 

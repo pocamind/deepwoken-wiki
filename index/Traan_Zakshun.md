@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 227012
+revid: 228423
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -306,7 +306,9 @@ Sold Items
 
 ## Black Market
 
-Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from their black market stock. For reference to calculate when the black market is available, every five days, the black market will be available at both 00:00 UTC and at 20:00 UTC on the same day. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
+Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from their black market stock. Since a day has 24 instead of 20 hours, the time the Black Market appears gets offset and could be either at 00:00 UTC, 04:00 UTC, 08:00 UTC, 12:00 UTC, 16:00 UTC, 20:00 UTC on a day. For reference every five days, the black market will be available at both 00:00 UTC and at 20:00 UTC on the same day, then the next day at 16:00 UTC, then the next day at 12:00 UTC and so on.
+
+These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
 
 ### Shop UI
 

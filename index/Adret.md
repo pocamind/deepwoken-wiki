@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 214264
+revid: 228428
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,14 +10,16 @@ categories: [Aspects]
 
 | Adret | |
 |---|---|
-| obtained_by | 15% Roll Chance |
+| obtained_by | 14.5% Roll Chance (Pathfinder)14.17% Roll Chance (Vow Of Iron) |
 | appearance | Cyan to dark blue humanoids with orange eyes and yellow/red/black tattoos on their faces. |
 | traits | Maudet, +3 Charisma, +2 Willpower |
 
 _Tattooed when they come of age, their tattoo represents the path of life they seek.  
 Well-regarded as bureaucrats and keepers of coin._
 
-Chance of obtaining aspect: **15%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **14.5%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **14.17%**
 
 ## Description
 

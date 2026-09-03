@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 227884
+revid: 228430
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,18 +10,20 @@ categories: [Aspects]
 
 | Etrean | |
 |---|---|
-| obtained_by | 15% Roll Chance |
-| appearance | Pale Skin, Slit Eyes, White, Light Blue, or Black Hair |
+| obtained_by | 14.5% Roll Chance (Pathfinder)14.17% Roll Chance (Vow Of Iron) |
+| appearance | Pale Skin, Verticle Pupils, White, Light Blue, or Black Hair |
 | traits | Molt, Poison Resistance, +3 Intelligence, +2 Agility, Increased Rep with Etrea |
 
 _Defined by their snake-like features and cunning.  
 Isolationists who tend to their own interests._
 
-Chance of obtaining aspect: **15%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **14.5%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **14.17%**
 
 ## Description
 
-Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common [aspect](Aspects.md), and can be found most commonly at [Etris](Etris.md). Etreans get an Agility and Intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and areas.
+Etreans are described as snake-like people, who commonly have pale skin, and verticle pupils. They are the most common [aspect](Aspects.md), and can be found most commonly at [Etris](Etris.md). Etreans get an Agility and Intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and areas.
 
 Being Etrean also spawns you with bonus [Etrean](Etrea.md) reputation, enough to put you at neutral if you are using [Voidwalker](Voidwalker.md), or friend if you are using any other origin. [Ensigns](Authority_Ensign.md), however, still spawn with hunted reputation.
 
