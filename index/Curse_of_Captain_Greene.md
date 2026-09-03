@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 225903
+revid: 228433
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -30,7 +30,7 @@ Upon landing a weapon attack, your opponent will lose 50.
 
 If you are below 7,500, your weapon's base damage will be reduced by 0.001% for every Note you have below this threshold instead. This caps at -7.5% base damage at 0. Because this decreases your base damage, damage multipliers will be less effective.
 
-Upon taking damage from a player, lose 100.
+Upon taking damage from a player, lose Notes equal to the amount of damage taken, post-resistances.
 
 ### Notes
 
@@ -42,3 +42,4 @@ Upon taking damage from a player, lose 100.
 ## Trivia
 
 -   This enchantment was originally a Developer Spec before it was made publicly accessible during the [February 16th, 2026](Version_History/2026.md#february-16th-2026), as a part of Operation: Deep Healing.
+    -   While it was a spec, this Enchantment additionally allowed you to _gain_ 50 Notes when landing weapon attacks, with its description at the time stating that [Captain Greene](Captain_Greene.md) could "generate" Notes in much of the same fashion.
