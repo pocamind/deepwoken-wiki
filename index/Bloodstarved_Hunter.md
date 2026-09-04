@@ -1,6 +1,6 @@
 ---
 title: Bloodstarved Hunter
-revid: 227371
+revid: 228656
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Ministry Enemies]
@@ -15,7 +15,7 @@ notices:
 | health | 2500 |
 | drops | The Death Knell |
 | weapon | The Death Knell |
-| moves | Revenge, Judgement |
+| moves | Critical, Revenge, Judgement, Twincleave, Exhaustion Strike, Table Flip |
 | affiliation | The Ministry |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -93,7 +93,7 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <td><b>Twincleave</b></td>
+  <td><b>Twincleave</b><p><b>(☆☆☆)</b></p></td>
   <td><i>User unleashes 2 slashes, the first moving them forward, the second launching them backwards</i><div>
   <ul>
     <li>𓆩✧𓆪 Parryable</li>
@@ -101,6 +101,26 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
     <li>§ Dodgeable</li>
   </ul></div></td>
   <td></td>
+</tr>
+<tr>
+  <td><b>Exhaustion Strike</b><p><b>(☆☆☆)</b></p></td>
+  <td><i>User pulls their arm back and then transfers their posture damage to their opponent.</i><div>
+  <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+  </ul></div></td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <td><b>Table Flip</b><p><b>(☆☆☆)</b></p></td>
+  <td><i>User throws a piece of the ground that goes straight in the direction their character is looking at.</i><div>
+  <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+  </ul></div></td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
