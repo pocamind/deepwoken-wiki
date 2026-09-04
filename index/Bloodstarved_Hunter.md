@@ -1,6 +1,6 @@
 ---
 title: Bloodstarved Hunter
-revid: 228656
+revid: 228657
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Ministry Enemies]
@@ -124,3 +124,9 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
 </tr>
 </tbody>
 </table>
+
+## Passives
+
+-   Ghost: Becomes briefly invisible after dodging an attack
+
+-   Backstab Immunity: The bloodstarved hunter cannot be backstabbed
