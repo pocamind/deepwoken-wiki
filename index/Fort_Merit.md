@@ -49,7 +49,7 @@ A small basement that houses a prison containing enemies of the Authority.
 
 -   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
 -   [Brutus](Brutus.md), a centurion from [The Hundred Legions](The_Hundred_Legions.md) is imprisoned in a larger cell, who can unbound [Fortitude](Attributes.md#ftd) and unlock [Oath: Blightsurger](Oath%253A_Blightsurger.md).
--   [Vice Warden Morredh](Vice_Warden_Morredh.md) and an [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in the office.
+-   [Vice Warden Morredh](Vice_Warden_Morredh.md) and an [Authority Commander](<Authority_Commander_(NPC).md>) can be found in the office.
 -   [Private Kernel](Private_Kernel.md), son of [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) who briefs the Merit Detainment Core. He can be seen right next to the door that leads to the Detainment Core.
 
 ### Blacksmith

@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 225682
+revid: 228564
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -123,6 +123,7 @@ Dodge
 -   Moonscorched Blades do a decent amount of damage, but mostly serve as a distraction. Pay attention to the Moon Knight itself even if you take a few hits.
 -   Moonscorched Blades cannot pierce through terrain, meaning it does nothing in the "arena" of Moon's Eyrie.
 -   The Moon Knight spawn in the catacombs requires moving within a certain area near the entrance going until the front of the arena in order to actually trigger the spawn, simply waiting for the respawn timer won't respawn the Moon Knight leading to the misconceptions around the respawn time.
+-   It is very highly recommended to bring ample [food](Food.md) for long farming sessions at the [Moon's Eyrie](<Moon's_Eyrie.md>). Bringing [Campfire Pits](Campfire_Pit.md) can help as well, but healing is reduced and the campfires automatically extinguish due to being in a [Voidzone](Voidzones.md).
 
 ## Trivia
 

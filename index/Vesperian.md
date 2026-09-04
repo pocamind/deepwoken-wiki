@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 218732
+revid: 228598
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,14 +10,16 @@ categories: [Aspects]
 
 | Vesperian | |
 |---|---|
-| obtained_by | 6% Roll Chance |
+| obtained_by | 5.45% Roll Chance (Pathfinder)2.36% Roll Chance (Vow Of Iron) |
 | appearance | Brown, Green or Murky Green Skin, White mask with different colored markings, Skin colored hair, Monster:, Design Color #7f0000, Eye Color #820000, Hair Color #191919, Mask Color #1e1919, Sclera Color #1d1503, Skin Color #191919 |
 | traits | Chitin, +3 Fortitude, +2 Willpower |
 
 _Never seen without their mask.  
 Poorly understood, but begrudgingly appreciated due to their natural Talents._
 
-Chance of obtaining aspect: **6%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **5.45%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **2.36%**
 
 ## Description
 

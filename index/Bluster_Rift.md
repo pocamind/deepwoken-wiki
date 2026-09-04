@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 228292
+revid: 228614
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant]

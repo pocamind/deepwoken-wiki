@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 223165
+revid: 228596
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,7 +10,7 @@ categories: [Aspects]
 
 | Gremor | |
 |---|---|
-| obtained_by | 11% Roll Chance |
+| obtained_by | 10.9% Roll Chance (Pathfinder)4.72% Roll Chance (Vow Of Iron) |
 | appearance | Green, Brown, Blue, Dark-Brown or Reddish-Brown Skin, Purple, Red, Blue and Orange eyes, Green or Brown, Blue and Black Hair, Horns |
 | traits | Navae's Guidance, +2 Strength, +3 Fortitude |
 
@@ -18,7 +18,9 @@ categories: [Aspects]
 peaceful life as nomads before the tides came.  
 Tolerant of extremes that many others would avoid._"
 
-Chance of obtaining aspect: **11%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **10.9%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **4.72%**
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 184059
+revid: 228576
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]

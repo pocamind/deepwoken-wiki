@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 211596
+revid: 228585
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,13 +10,13 @@ categories: [Aspects]
 
 | Khan | |
 |---|---|
-| obtained_by | 7.5% Roll Chance |
+| obtained_by | 7.27% Roll Chance (Pathfinder and Vow Of Iron) |
 | appearance | Pale Skin, Golden/White/Black Hair and Facial Hair, Silver/Golden Crown with Different Designs, Red/Blue/Yellow/Purple Eyes |
 | traits | Versatile , +3 Strength, +2 Agility, Increased reputation with The Hundred Legions |
 
 _Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over._
 
-Chance of obtaining aspect: **7.5%**
+Chance of obtaining aspect in both _Pathfinder_ and _Vow Of Iron_ game modes: **7.27%**
 
 ## Description
 

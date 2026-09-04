@@ -180,7 +180,7 @@ Colossus
 Colossus  
 4-CO2-1 | 25STR  
 40HVY  
-[Greatsword](Greatswords.md) | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
+Greatsword | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
 |  | Unstoppable Force  
 Colossus  
 4-CO2-3 | 25STR  
@@ -1058,21 +1058,21 @@ Empath
 |  | Bruiser  
 Bruiser  
 4-BR2-1 | 30HVY  
-[Greataxe](Greataxes.md) | \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts. |
+Greataxe | \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts. |
 |  | Brazen Blow  
 Bruiser  
 4-BR2-2 | 30HVY  
 [Impairing Blow](#426hvy)  
-[Greataxe](Greataxes.md) | Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown) |
+Greataxe | Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown) |
 |  | Heavy Fatigue  
 Bruiser  
 4-BR2-3 | 40HVY  
 [Impairing Blow](#426hvy)  
-[Greataxe](Greataxes.md) | \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. |
+Greataxe | \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. |
 |  | Rending Impact  
 Bruiser  
 4-BR2-4 | 40HVY  
-[Greataxe](Greataxes.md) | \[Greataxes\] Block breaking an enemy applies knockdown. |
+Greataxe | \[Greataxes\] Block breaking an enemy applies knockdown. |
 
 ## Body and Mind Hybrids 3.1.1
 
@@ -1092,7 +1092,7 @@ Colossus
 Colossus  
 4-CO2-1 | 40HVY  
 25STR  
-[Greatsword](Greatswords.md) | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
+Greatsword | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
 |  | Unstoppable Force  
 Colossus  
 4-CO2-3 | 40HVY  

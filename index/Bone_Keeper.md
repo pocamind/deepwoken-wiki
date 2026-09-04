@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 228159
+revid: 228562
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -37,7 +37,7 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 **Crushing Grab**  
 (★★★)
 
- | The Bone Keeper holds its right arm high up before swinging forwards with it, and if it manages to grab a target, it will hold it up before crushing it in its hand, dealing devastating damage.
+ | The Bone Keeper holds its right arm high up before swinging forwards with it, and if it manages to grab a target, it will hold it up before crushing it in its hand, dealing an insane amount of damage.
 
 -   This attack seems to lack much range, meaning it can be avoided by simply stepping back before it tries to grab you.
 

@@ -4651,7 +4651,7 @@ _Submerge into your shadow. Click to launch an attack at any point while submerg
 
  | 
 
-Shadow [ResistanceShadowcast](../Shadowcast.md)
+Shadow [ResistanceShadowcast](../Shadowcast.md) + Slash ResistanceSlash
 
  | 
 
@@ -8039,7 +8039,7 @@ N/A
 -   Inflicts Charm on nearby entities for 10 seconds.
 -   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
 -   Can be modified with cloud and stratus stones to increase range, but increase the cooldown. (1 Cloudstone = +2s CD, 1 Stratus stone = +3s CD)
--   Shares a cooldown with [Glare](../Attunement-less.md#glare).
+-   12 Second cooldown, shares a cooldown with [Glare](../Attunement-less.md#glare).
 -   Can be upgraded with the [Encore](../Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the [Propagandist](../Talents.md#propagandist) Talent, granting your allies [Overcharm](../Status_Effects.md) for 15 seconds.
 

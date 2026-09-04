@@ -373,7 +373,7 @@ Not all unblockable attacks have this indicator.
 
 **Player Attacks**
 
--   Default [Greatsword](Greatswords.md) and Club criticals (White)
+-   Default Greatsword and Club criticals (White)
 -   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
 -   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
 -   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)

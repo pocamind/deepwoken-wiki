@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 228539
+revid: 228567
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Humanoid Bosses, Bosses, Voiced Characters]
@@ -92,7 +92,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 -   Targets the area relative to your player and it's movement, however, if the player is moving, he will only attempt to strike in-front of the player, and as such this move is avoidable by going to the sides or backwards.
 -   Becomes much faster in his second phase.
--   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
+-   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons may not be able to stun him often enough to prevent damage.
 -   Grants auto-parry frames during this attack in both phases. Parrying a single instance of a Lightning Strike will automatically parry the following pulses, ONLY if each pulse hits you. If a pulse misses, you will have to parry again to restart the auto-parry frames. If you are in a bad spot or do not want to rush, this can be helpful for avoiding damage.
 -   Due to the attack being faster in the second phase, a much "longer" attack opportunity will be given afterward.
 
@@ -208,6 +208,8 @@ As with all the other boss-fights within Deepwoken, the Ferryman is more of a kn
 The best way to damage the Ferryman is utilising the attack opportunities from parrying or avoiding his moves. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and must instead wait for Your Turn to attack him.
 
 The Ferryman also has a fair amount of auto-parry frames during his two main methods of attack, Lightning Assault and Lightning Strike. Taking advantage of them will reduce the strain on yourself over attempting to individually parry each attack.
+
+If you are in a bad spot when The Ferryman casts Lightning Strikes, do not attempt to engage him. This attack is completely harmless if you keep your distance and walk backwards.
 
 ## Rewards
 

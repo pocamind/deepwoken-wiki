@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 211715
+revid: 228599
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,13 +10,15 @@ categories: [Aspects]
 
 | Chrysid | |
 |---|---|
-| obtained_by | 4% Roll Chance |
+| obtained_by | 3.64% Roll Chance (Pathfinder) 1.57 Roll Chance (Vow Of Iron) |
 | appearance | Pale, Vibrant Skin, Moth Antennae, Colored Compound Eyes, Shoulder Ruff |
 | traits | Mothwing Dust, +3 Charisma, +2 Agility |
 
 _Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book._
 
-Chance of rolling: **4%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **3.64%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **1.57%**
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 211600
+revid: 228587
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,14 +10,16 @@ categories: [Aspects]
 
 | Tiran | |
 |---|---|
-| obtained_by | 2% Roll Chance |
+| obtained_by | 1.82% Roll Chance (Pathfinder)6.3% Roll Chance (Vow Of Iron) |
 | appearance | Blue/Red/Black/Blond Hair, Brown/Pale/Dark blue Skin, Red/Orange/Yellow Eyes, Feathers on head |
 | traits | Feathered Glider, +3 Agility, +2 Willpower |
 
 _Solitary folk seldom seen below the clouds.  
 Sharp and independent, though strongly protective of those who earn their respect._
 
-Chance of obtaining aspect: **2%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **1.82%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **6.3%**
 
 ## Description
 

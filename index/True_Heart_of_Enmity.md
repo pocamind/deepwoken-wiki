@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 228531
+revid: 228652
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -240,7 +240,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 ## Loot Table/Rewards
 
-After True Heart of Enmity is defeated, everyone who participated gets items transferred onto their inventory, containing the following loot:
+After True Heart of Enmity is defeated, all items transferred into your inventory, containing the following loot:
+
+### 
+
+Exhaustive Loot Table
 
 <table>
 <tbody>

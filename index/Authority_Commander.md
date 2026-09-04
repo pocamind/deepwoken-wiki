@@ -25,7 +25,7 @@ categories: [Master Outfits, Outfits, Outfits of The Central Authority, Outfits 
 | selling_price | 10 |
 | weight | 1 |
 
-_Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
+_Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(NPC).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
 
   
 **Authority Commander** is a Unique [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
@@ -52,6 +52,6 @@ When paired with the [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), th
 
 -   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
 -   This is a good Outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
--   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>) NPCs.
+-   This outfit is worn by the [Authority Commander](<Authority_Commander_(NPC).md>) NPCs.
 -   Prior to the release of Duskguard, it was a Master Outfit that could be crafted by any play of any Origin. The schematic was not Soulbound and could be banked/traded.
     -   This is the only Outfit to undergo such a change.

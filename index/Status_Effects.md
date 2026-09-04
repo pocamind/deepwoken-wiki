@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 228382
+revid: 228632
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -934,7 +934,7 @@ Not to be confused with [PvE exclusive](#pve-exclusive) status effects, these, a
 
 ### Time Stasis
 
-Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can be removed by hitting and breaking the center of the time bubble or by walking out of its range.
+Applied by standing in the time stasis bubble made by the [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can be removed by hitting and breaking the center of the time bubble or by walking out of its range.
 
 ### Venom
 

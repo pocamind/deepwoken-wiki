@@ -1,6 +1,6 @@
 ---
 title: Hidden Knife Armor
-revid: 223315
+revid: 228644
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Vow of Iron Exclusive, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -41,11 +41,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Bane](Talents/Vow_of_Iron.md#bane) Talent.
 
-The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, grants a speed boost and allows you to teleport to your opponent in radius of 25 studs when using M1s, for 20 seconds. This has a cooldown of 100 seconds.
+The [Bane](Talents/Vow_of_Iron.md#bane) Talent grants a Talent tool that upon activation, grants a speed boost and allows you to teleport to your opponent in radius of 25 studs when using M1s, for 20 seconds. This has a cooldown of 100 seconds.
 
 ## Trivia
 
 -   This outfit is a much darker version of [Kaide](Kaide,_the_Drowned_Light.md)'s outfit.
--   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the Feburary 25th, 2026 update.
+-   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the [Feburary 25th, 2026](Version_History/2026.md#feburary-25th-2026) update.

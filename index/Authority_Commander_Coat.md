@@ -31,5 +31,5 @@ The Authority Commander Coat is an animated [Equipment](Equipment.md) item under
 
 ## Trivia
 
--   Despite being called the Authority Commander Coat, [Authority Commanders](<Authority_Commander_(Enemy).md>) don't wear it.
+-   Despite being called the Authority Commander Coat, [Authority Commanders](<Authority_Commander_(NPC).md>) don't wear it.
 -   Together with the [Adjudicator's Coat](<Adjudicator's_Coat.md>), It used to be unsellable but this was later changed due to it clogging players' inventories.

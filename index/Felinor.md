@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 211590
+revid: 228597
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,14 +10,16 @@ categories: [Aspects]
 
 | Felinor | |
 |---|---|
-| obtained_by | 7.5% Roll Chance |
+| obtained_by | 7.27% Roll Chance (Pathfinder)3.15% Roll Chance (Vow Of Iron) |
 | appearance | Cat Ears, Pale-Grey / Black / Beige / Light Skin, Golden / Grey / Red/ Green Eyes, Pale-Grey / Black / White / Beige Hair |
 | traits | Nightchild, +3 Agility, +2 Charisma |
 
 _Akin to their feline features, the Felinor are carefree and whimsical.  
 Seen to be thieves and outlaws, but merely seek a life of freedom._
 
-Chance of obtaining aspect: 7.5**%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **7.27%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **3.15%**
 
 ## Description
 

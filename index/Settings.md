@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 226120
+revid: 228559
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -305,9 +305,9 @@ There are 11 interface related settings.
     -   These markers are displaysd on the [Map](Maps.md), regardless if setting is on or off.
     -   [Guild Base](Guild_Bases.md) NPCs/Mantra Lectern do not have the Point of Interest displays.
 -   **3D Icon Behavior Always/Hover/Off** - "Sets 3D icon behavior."
-    -   Always: Displays the 3D models of applicable items inside of the inventory and hotbar, instead of their item name.
-    -   Hover: When hovering your mouse over items in your hotbar or inventory, the 3D model of applicable items will be displayed instead of the item's name.
-    -   Off (default): Items in your inventory and hotbar will always display their name instead of their 3D models.
+    -   Always: Displays the 3D models of applicable items inside of the inventory and hotbar, with the item name being overlayed on top.
+    -   Hover: When hovering your mouse over items in your hotbar or inventory, the 3D model of applicable items will be displayed, with the item name being overlayed on top.
+    -   Off (default): Items in your inventory and hotbar will always display the base background instead of their 3D models.
 -   **Show Buff Pips On/Off** - "Shows buff pips on equipment without needing to hover over them."
     -   Displays all pip icons on equipment in the inventory, showing their rarity and pip type.
 -   **Show Player List On/Off** - "Toggles the visibility of the player list."
@@ -339,7 +339,7 @@ There are 5 graphics related settings.
 -   **Dynamic FoV On/Off** - "Dynamically adjusts your FoV based on your speed."
     -   When On: As the player speeds up and moves faster, the FoV will be increased, zooming out the camera.
 -   **Camera Smoothing On/Off** - "Smooths out camera and focuses on torso movement."
-    -   When On: The camera will slightly adjust to the positioning of the player's torso, instead of remaining at one spot.
+    -   When On: The camera will slightly adjust to the positioning of the player's torso, instead of remaining at one spot. Most noticeably, the camera will adjust as you perform attacks and parkour maneuvers.
 
 ## Combat
 
@@ -358,7 +358,7 @@ There are 8 combat related settings.
 -   **Disable Enemy Vanity On/Off** - "Hides enemy equipment."
 -   **Hide Spell Shouts On/Off** - "Disables spell shout visibility."
     -   When On: The text from the [Spell Shout](Talents.md#spell-shout) Talent will be hidden.
-    -   This does not affect [Unnecessary Theatrics](Talents.md#unnecessary-theatrics) or [Heretic's Sutra](Talents.md#heretics-sutra).
+    -   This does not affect [Not a Scratch](Talents.md#not-a-scratch), [Unnecessary Theatrics](Talents.md#unnecessary-theatrics), [Heretic's Sutra](Talents.md#heretics-sutra), or any other ability/effect that creates an automated message.
 -   **Simple Telegraphs On/Off** - "Telegraphs only show an outline over the character and don't emit any particles."
     -   When On: [Attack telegraphs](Combat_Mechanics.md#telegraphs) will be displayed solely as a colored outline on the character, rather than displaying the glyph.
 

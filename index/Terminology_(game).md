@@ -879,7 +879,7 @@ _noun_
 
 _noun_
 
-1.  Abbreviation for [Greatsword](Greatswords.md).
+1.  Abbreviation for Greatsword.
 
 ### HB
 

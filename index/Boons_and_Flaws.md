@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 227967
+revid: 228601
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -414,7 +414,7 @@ Some Flaws are more worth-taking than others:
 
 -   Notes:
     -   Fugitive can be worked around by investing time to increase your Reputation with the factions that you now have negative reputation for. For applicable factions, this is most efficiently done through taking quests on [Job Boards](Job_Boards.md).
-    -   Because the maximum amount of reputation you can gain for each faction is limited by your starting repuation with them, this Flaw may lock you out of faction-based content, such as [Oath: Blightsurger](Oath%253A_Blightsurger.md). Your chosen [Aspect](Aspects.md) and [Origin](Origins.md), as well as the [Celebrity](Talents.md#celebrity) Talent, can be helpful to reduce the prevalence of this downside, should it apply at all.
+    -   Because the maximum amount of reputation you can gain for each faction is limited by your starting repuation with them (meaning you cannot obtain Hero status with a faction), **this Flaw may lock you out of faction-based content, such as [Oath: Blightsurger](Oath%253A_Blightsurger.md).** Your chosen [Aspect](Aspects.md) and [Origin](Origins.md), as well as the [Celebrity](Talents.md#celebrity) Talent, can be helpful to reduce the prevalence of this downside, should it apply at all.
     -   Outside of the time sink allocated to increasing your reputation with all factions back to positive, the biggest downside to this flaw is being aggrod by the [Guard Turrets](Guard_Turrets.md) at faction-owned locations. In particular, [the City of the Drowned](The_City_of_the_Drowned.md)'s turrets, owned by [Lost Celtor](Lost_Celtor.md), are exceptionally dangerous, as they decrease the player's [Sanity](Insanity.md) on hit, which will often leave the player at high-tiers of [Insanity](Insanity.md) by the time they enter their [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
     -   This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions.
     -   As this Flaw grants two Boon Points, it cannot be chosen alongside another Flaw in [Character Creation](Character_Creation.md), while still allowing you to choose two Boons. This makes Fugitive very appealing to some players, and a great alternative to Simple, which also grants 2 Boon Points.
@@ -494,9 +494,7 @@ Some Flaws are more worth-taking than others:
 -   Prior to the official release of the game, Blind was a selectable Flaw for 1 point. This was removed during testing for unknown reasons, although was it was brought back during the [August 16th, 2022](Version_History/2022-2021.md#august-16th-2022) update, being unlocked after gaining [Blindseer](Oath%253A_Blindseer.md).
 -   Deepbound used to be a Flaw, but it was changed to be an unlockable [origin](Origins.md).
 -   The Restless Flaw was originally obtainable when [Oathbreaking](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) [Oathless](Oath%253A_Oathless.md) and using [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), however this Flaw is currently unobtainable.
+    -   The icon for the Restless Flaw is a [Troll Face](https://en.wikipedia.org/wiki/Troll_Face) of [Haske Vantage](Developer_Specs.md#arch-mage-haske-vantage), developer Arch\_Mage's [Primal Vesperian](Primal_Vesperian.md).
 -   The [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) used to grant a random base Flaw on use, this was removed during the [September 6th, 2025](Version_History/2025.md#september-6th-2025) update.
 -   There used to be more Boons and Flaws. The currently known ones are Adept (likely the original version of the Talent) and Seasick.
--   The icon for the Restless Flaw is a [Troll Face](https://en.wikipedia.org/wiki/Troll_Face) of [Haske Vantage](Developer_Specs.md#arch-mage-haske-vantage), developer Arch\_Mage's [Primal Vesperian](Primal_Vesperian.md).
 -   While not confirmed, Wishbound's passive insanity gain shares some similarities with the Latin concept/word, lunaticus. Within it's Latin origins, the word refers to diseases caused by the moon, such as madness or epilepsy.
-
-Having the _Blind_ Flaw at night. (No, this isn't just a black image. Look carefully.)

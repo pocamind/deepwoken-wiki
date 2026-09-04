@@ -9233,7 +9233,7 @@ Spears
 </tbody>
 </table>
 
-[Staves](Staves.md)
+Staves
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -10747,7 +10747,7 @@ Bows
 </tbody>
 </table>
 
-[Greataxes](Greataxes.md)
+Greataxes
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11064,7 +11064,7 @@ Bows
 </tbody>
 </table>
 
-[Greatswords](Greatswords.md)
+Greatswords
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -12996,7 +12996,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
 </tbody>
 </table>
 
-[Shields](Shields.md)
+Shields
 
 <table><caption><a href="Shields.md"><div>Shields</div></a></caption>
 <tbody>

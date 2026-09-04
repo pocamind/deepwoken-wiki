@@ -460,8 +460,8 @@
   "Authority": {
     "to": "The Central Authority"
   },
-  "Authority Commander (NPC)": {
-    "to": "Authority Commander (Enemy)"
+  "Authority Commander (Enemy)": {
+    "to": "Authority Commander (NPC)"
   },
   "Authority Commander Outfit": {
     "to": "Authority Commander"
@@ -856,18 +856,6 @@
   },
   "Catalog items": {
     "to": "Deepwoken UGC"
-  },
-  "Category:Greataxes": {
-    "to": "Greataxes"
-  },
-  "Category:Greatswords": {
-    "to": "Greatswords"
-  },
-  "Category:Shields": {
-    "to": "Shields"
-  },
-  "Category:Staves": {
-    "to": "Staves"
   },
   "Catthew": {
     "to": "Chest Master"
@@ -2136,7 +2124,7 @@
     "fragment": "Grasp of Eylis"
   },
   "Greataxe": {
-    "to": "Category:Greataxes"
+    "to": "Greataxes"
   },
   "Greatcannon": {
     "to": "Greatcannons"
@@ -2148,7 +2136,7 @@
     "to": "Greathammers"
   },
   "Greatsword": {
-    "to": "Category:Greatswords"
+    "to": "Greatswords"
   },
   "Green Candy": {
     "to": "Candy"
@@ -4275,7 +4263,7 @@
     "to": "Hallowtide Mask Ingredients"
   },
   "Shield": {
-    "to": "Category:Shields"
+    "to": "Shields"
   },
   "Ships": {
     "to": "Ships & Sailing"
@@ -4566,7 +4554,7 @@
     "to": "Nautilodaunt"
   },
   "Staff": {
-    "to": "Category:Staves"
+    "to": "Staves"
   },
   "Staffs": {
     "to": "Staves"

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 226744
+revid: 228637
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, World of Deepwoken, OutdatedPages, SpoilerPages]
@@ -771,11 +771,11 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - M
     -   This Contractor wasn't [Zi'eer](The_Lord_Regent.md).[\[6\]](#cite-note-arch-6)
 -   They are lead by prophets. There is no limit to how many there can be,[\[1\]](#cite-note-rag-1) but as of Year 1363 there are nine. They are ranked by strength.[\[1\]](#cite-note-rag-1)
 -   The leader of the Ministry is the First Prophet. Currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
--   [The Ministry](The_Ministry.md) has some sort of hostility against the [Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
+-   [The Ministry](The_Ministry.md) has some sort of hostility against [The Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
     -   Possibly due to their connection with and worship of [Navae](#navae), and ministry connections and obsession with drowned gods like [Yun'shul](#yunshul-keeper-of-hearts) and the great drowning.
 -   Essentially enemies with every major faction in the game until proven otherwise.
 -   [Minityrsa](Minityrsa.md) was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[9\]](#cite-note-gran-9)
--   The Ministry Scouts all use [Krulian Knives](Krulian_Knife.md), which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
+-   The Ministry Scouts all use the [Krulian Knife](Krulian_Knife.md), which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the [Tacet](Murmur%253A_Tacet.md) quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
@@ -798,7 +798,7 @@ A Dark Mage, located in Minityrsa.
 -   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
 -   They possess a special Oath that lets them slow time around them (Source: Arch\_Mage).
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) are hired by [The Central Authority](The_Central_Authority.md) to cause havoc on Etrean ships in the East.[\[6\]](#cite-note-arch-6)
-    -   The Knives of Eylis also kidnaps and take [Children of Navae](The_Children_of_Navae.md) hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
+    -   The Knives of Eylis also kidnaps and take [The Children of Navae](The_Children_of_Navae.md) hostages either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of [Megalodaunt](Megalodaunt.md) traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname.
 
@@ -862,7 +862,7 @@ An ignition union guard, located at miners landing.
 -   The forces of the Central Authority seem use all the 4 main attunements, although there are some more rare than others.
     -   [Flamecharm](Flamecharm.md) is used by soldiers, guards, lieutenants and commanders alike.
     -   [Thundercall](Thundercall.md) is very often used by those who are high in the ranks of a division ; Inquisitors use Thundercall for their torture methods, the Shock Corps have special talents that use Thundercall, and Seneschals are given the [Rite of Authority](Rite_of_Authority.md), a sword that's capable of channelling electricity through it's blade very efficiently.
-    -   [Frostdraw](Frostdraw.md) is used by [Lieutenants](Authority_Lieutenant.md) and [Chainwardens](Authority_Chainwarden.md) of the Authority, and it's likely often used by those in the command division.
+    -   [Frostdraw](Frostdraw.md) is used by [Authority Lieutenants](Authority_Lieutenant.md) and [Authority Chainwardens](Authority_Chainwarden.md), and it's likely often used by those in the command division.
     -   There's an instance of a [Vice-Warden](Vice-Warden.md) wielding [Galebreathe](Galebreathe.md).
 
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind, each of whom has a designated handler.
@@ -913,7 +913,7 @@ A hivekin wielding a ritual spear with heroism.
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is [Karliah](Karliah.md), in [Etris](Etris.md), who could easily go insane and kill someone close to her.
 -   (The Authority) The Divers are outsourced by [The Central Authority](The_Central_Authority.md) (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers have a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
--   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with [Diver Apprentices](Apprentice_Diver.md) making up the lower ranks, and also having [Diver Journeymans](Journeyman_Diver_Guard.md) as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than [Black Divers](Black_Divers_division.md). Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on.
+-   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with [Apprentice Divers](Apprentice_Diver.md) making up the lower ranks, and also having [Journeyman Diver Guards](Journeyman_Diver_Guard.md) as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than [Black Divers](Black_Divers_division.md). Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on.
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in the Markor Citadel, located in the Central Luminant.
@@ -1023,7 +1023,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   An organization that preserves what's left before The Tides came, practically Historians. They are not to be confused by The Pathfinders.
 -   The Old Stewards created The Old Texts.
 -   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
--   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, [decapitated one of the Elder Edenkite](#edenkite) and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.
+-   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, [Edenkite](Edenkite.md) and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.
 -   [Adrofalis](Adrofalis.md), trainer of the [Saltchemist](Oath%253A_Saltchemist.md) Oath, is a member of the Old Stewards.
 
 ### The Pathfinders
@@ -1039,7 +1039,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
     -   (Neero) A Pathfinder's goal is to explore "Driftlands", Islands that drifted from the [Voidsea](Voidsea.md), time to time.
 -   The Pathfinders are similar to The Old Stewards, though not exactly the same. Pathfinders as a whole are more of a profession, unlike the Old Stewards that consists mostly of Historians.[\[6\]](#cite-note-arch-6)
 -   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
--   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
+-   (Neero) [Erisia](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
 -   Many Pathfinders worship Celestials, namely [Alsin](Alsin.md).
 
@@ -1052,7 +1052,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Lore Sources:** _Ploom, [Worshipper's Shield](<Worshipper's_Shield.md>), [Flamecharmer Worshipper Outfit](Flame_Worshipper_Armor.md), ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards)._
 
 -   A group of Flamecharmers who follow the teachings of the Black Diver and Deepwoken, Amorus Pleeksty.
--   One of the few faiths from the [Canticlysm](The_Canticlysm.md) that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
+-   One of the few faiths from [The Canticlysm](The_Canticlysm.md) that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
 -   Most of them reside in the West Luminant, but some of them travel to all of Lumen spreading the teachings of Amorus Pleeksty.
 -   Many members of the Covenant of Flame represent Amorus Pleeksty as a "God", but Pleeksty only sees them as a fan club.[\[1\]](#cite-note-rag-1)
 -   The relations between Pleeksty and the Covenant of Flame are unknown, but it is known that Pleeksty taught many people the concepts of Flamecharm in the Canticlysm, making these people to spread his teachings and creating the Covenant of Flame.
@@ -1131,7 +1131,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 
 -   A recently arrived aspect of spiritually adept individuals that make up the bulk of the Authority's High Command. They arrived roughly around 1400 years ago.
 -   Their tattoos represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
--   According to an [NPC](Ishan.md) in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "Old World". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
+-   According to [Ishan](Ishan.md), an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "Old World". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
 -   The Adret aspect come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
 -   They are **NOT** fish.[\[6\]](#cite-note-arch-6)
 -   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, and once shared a close bond with Canor, the dog aspect.

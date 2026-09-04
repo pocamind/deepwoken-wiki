@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 216794
+revid: 228641
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -87,7 +87,7 @@ Against NPCs, Stealth affects the range where they can detect you. The higher yo
 Against players, Stealth outside of Tacet is suboptimal if your opponent has a functional monitor. However, there are two Talents that allow Stealth to provide benefits in PvP;
 
 -   [Fatal Stealth](Talents.md#fatal-stealth) from the [Authority Ensign](Authority_Ensign.md) Origin grants a 0.2% damage buff for every 1% Stealth gained from **equipment** or **outfit** sources. This buff only applies to attacks that hit your opponent's back, however. Due to equipment limitations, this damage buff (currently) caps out at +16% damage.
--   [Merc Blade](Talents.md#merc-blade) from the [Mercenary's Hood](<Mercenary's_Hood.md>) equipment grants +1 flat damage on all attacks for every 10% Stealth you have. It is unknown if Stealth gained from unconventional sources (crouching, Lowstride, Tacet, or Tacet Minimization) affect this Talent. This item, and its Talent, are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
+-   [Mercenary Blade](Talents/Vow_of_Iron.md#mercenary-blade) from the [Mercenary's Hood](<Mercenary's_Hood.md>) equipment grants +1 flat damage on all attacks for every 10% Stealth you have. It is unknown if Stealth gained from unconventional sources (crouching, Lowstride, Tacet, or Tacet Minimization) affect this Talent. This item, and its Talent, are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ### Crouching
 

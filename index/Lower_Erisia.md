@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 213838
+revid: 228589
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -70,7 +70,7 @@ Events that spawn in Lower Erisia that involve combat. For more info, see [Rando
 -   Mudskipper Emergence
 -   Erisia Merchant
 -   Etrean Footsoldiers vs The Central Authority
--   Etrean Sailors vs The Central Authority (Limited to Pathfinder's Respite)
+-   Etrean Soldiers vs The Central Authority (Limited to Pathfinder's Respite)
 -   The Hundredth Legion vs The Central Authority (Limited to Pathfinder's Respite)
 -   Thief Ambush
 

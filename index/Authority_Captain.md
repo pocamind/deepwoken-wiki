@@ -133,4 +133,4 @@ An Authority Captain executes it's opponent after knocking them:
 -   This is the only Authority Soldier with a completely unobscured faces.
 -   The Authority Captain has no chance of winning if it fights against the Hive Construct.
     -   Very rarely they can manage to beat a Hive Construct.
--   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(Enemy).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct](Hive_Construct.md)...)
+-   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(NPC).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct](Hive_Construct.md)...)

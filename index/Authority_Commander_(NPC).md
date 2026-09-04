@@ -1,12 +1,12 @@
 ---
-title: Authority Commander (Enemy)
-revid: 225010
-source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
+title: Authority Commander (NPC)
+revid: 228607
+source: https://deepwoken.fandom.com/wiki/Authority_Commander_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
 ---
 
-# Authority Commander (Enemy)
+# Authority Commander (NPC)
 
 | Authority Commander | |
 |---|---|

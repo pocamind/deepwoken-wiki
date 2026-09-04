@@ -1,6 +1,6 @@
 ---
 title: Orion
-revid: 224892
+revid: 228565
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Individuals with unspecified pronouns]

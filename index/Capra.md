@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 228285
+revid: 228595
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,14 +10,16 @@ categories: [Aspects]
 
 | Capra | |
 |---|---|
-| obtained_by | 2% Roll Chance |
+| obtained_by | 1.82% Roll Chance (Pathfinder)6.3% Roll Chance (Vow Of Iron) |
 | appearance | Green, Blue or Reddish Skin., Yellow or Red goat eyes., Light yellow or grey sclera., Medium jungle green hair. |
 | traits | Mark of Jurik, Mark of Ku, or Mark of Nemit., +3 Intelligence, +2 Willpower |
 
 _Keepers of old knowledge,  
 they wander the lands offering their experience to those in need of it._
 
-Chance of obtaining aspect: **2%**
+Chance of obtaining aspect in _Pathfinder_ game mode: **1.82%**
+
+Chance of obtaining aspect in _Vow Of Iron_ game mode: **6.3%**
 
 ## Description
 
