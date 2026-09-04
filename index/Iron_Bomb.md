@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 208598
+revid: 228658
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -84,6 +84,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 -   [The Viper's Jaw](<The_Viper's_Jaw.md>) is home to many materials needed to create bombs, having a rich balance of coal and iron.
     -   An alternative to [The Viper's Jaw](<The_Viper's_Jaw.md>) is the [Widow's Hollow](<Widow's_Hollow.md>), above the Starswept sands.
 -   If you manage to get your hands on [Pumpkin Pitch](Pumpkin_Pitch.md), you can use this as a feint for your bombs, keeping your opponent busy and unsure whether you're throwing a fake or real bomb.
+-   Since the bomb can be used during combat, you can throw it at players to pressure them from a distance and ragdoll them on impact.
 
 ## Trivia
 

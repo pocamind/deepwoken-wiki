@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 221849
+revid: 228675
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons of The Summer Company]
@@ -39,11 +39,11 @@ The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medall
 
 The Stormseye comes with 2 passive abilities:
 
--   **Medallion Shockwave** - Every third flourish creates an explosion that knocks people away and applies [Shock](Status_Effects.md#shock). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
+Weapon passives will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
--   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
-    -   Due to how weapon passives work, this is one of few passives that can be transferred to another weapon equipped by abnormal means.
-        -   This includes all Soulwrought weapons from the [Crazy Slots](Crazy_Slots.md) Resonance, the Sovereign Bangle from [Blightsurger](Oath%253A_Blightsurger.md), and the Saintsblade from [Saintsworn](Oath%253A_Saintsworn.md).
+-   **Medallion Shockwave** - Every 2nd flourish creates an explosion that knocks people away and applies [Shock](Status_Effects.md#shock). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
+
+-   **Rosen's Fakeout** - At close range, landing aerial M1s teleport you behind the enemy.
     -   This passive has a similar behavior with the Static Fakeout Talent, in terms of visual effects.
 
 This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, proccing Surge stacks, Static Blade, and the Stratoshock buffs.

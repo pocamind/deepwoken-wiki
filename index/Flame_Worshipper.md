@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 227196
+revid: 228663
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -125,7 +125,7 @@ N/A
 -   Inflicts Burn.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
--   Pressing F during the mantra's windup will release a wider but shorter flame.
+-   Can be modified with a Round Spark to release a wider but shorter flame.
 
  |
 

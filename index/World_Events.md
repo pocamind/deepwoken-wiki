@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 225163
+revid: 228664
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Bosses]
@@ -21,7 +21,7 @@ World events are focused on uniting the players towards accomplishing a single g
     -   "Partake in a deadly series of games hosted by Aelita and Tillian!"
 
 -   **Interluminary Interloper**
-    -   Defeat the [**Interluminary Parasol**](Interluminary_Parasol.md) within the Eastern Luminant before it may spreads the plagues of The Depths.
+    -   Defeat the **[Interluminary Parasol](Interluminary_Parasol.md)** within the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
     -   "Defeat the Interluminary Parasol before it can complete its harvest!"
 
 -   **Battle Royale**

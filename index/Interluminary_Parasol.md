@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 227660
+revid: 228667
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Interluminary Parasol is a large, brainy organism covered by a bioluminescent, umbrella-shaped bell with light blue ribs, hence its name. Four appendages stick out of the brain-like structure, ending with sharp, armored needles.
+The **Interluminary Parasol** is a [World Boss](Bosses.md#world-bosses) fought within the [instanced Dungeon](Dungeons.md) of the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md), accessed via the Interluminary Interloper [World Event](World_Events.md). It is a large, brainy organism covered by a bioluminescent, umbrella-shaped bell with light blue ribs, hence its name. Four appendages stick out of the brain-like structure, ending with sharp, armored needles.
 
 According to the item description of its exclusive drop, the Parasol emerges from [The Depths](The_Depths.md), its sole purpose being to spread [The Depths](The_Depths.md)' influence by bringing its mobs up to the surface, disrupting the ecosystems on the surface.
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 220068
+revid: 228661
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Materials]
@@ -483,6 +483,7 @@ Spring Spark
  | 
 
 -   Flame Repulsion
+-   Fire Palm
 -   Flame Ballista
 -   Ice Carve
 -   Ice Laser
@@ -1330,6 +1331,21 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier causes the projectiles from the "Fire Gun" mantra to split into two.
+
+ |
+| 
+
+[Fire Palm](Flamecharm.md#fire-palm)
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Fire Palm" mantra to cast a shorter but wider burst of flames.
 
  |
 | 

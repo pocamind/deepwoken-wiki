@@ -723,6 +723,9 @@
   "Book": {
     "to": "Books"
   },
+  "Boss": {
+    "to": "Bosses"
+  },
   "Bottom Freeze": {
     "to": "Status Effects",
     "fragment": "Bottom Freeze"
@@ -2521,6 +2524,12 @@
   "Inspired": {
     "to": "Regalia",
     "fragment": "Inspired"
+  },
+  "Instanced": {
+    "to": "Dungeons"
+  },
+  "Instanced server": {
+    "to": "Dungeons"
   },
   "Instructor": {
     "to": "Blade Instructor"
@@ -5480,6 +5489,9 @@
   "World Boss": {
     "to": "Bosses",
     "fragment": "World Bosses"
+  },
+  "World Event": {
+    "to": "World Events"
   },
   "World Serpent": {
     "to": "The Doom of Caeranthil"

@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 228538
+revid: 228669
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disaster, Monsters, Bosses, Events]
@@ -22,7 +22,7 @@ categories: [Disaster, Monsters, Bosses, Events]
 
 ## Description
 
-The Doom of Caeranthil is a disaster event [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every 2 hours
+The Doom of Caeranthil is a disaster [World Event](World_Events.md) [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every 2 hours.
 
 -   05:00 | 07:00 | 09:00
 -   11:00 | 13:00 | 15:00
