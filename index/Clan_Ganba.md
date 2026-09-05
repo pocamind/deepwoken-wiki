@@ -1,9 +1,9 @@
 ---
 title: Clan Ganba
-revid: 206313
+revid: 228723
 source: https://deepwoken.fandom.com/wiki/Clan_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: ["Game-adjacent articles"]
 ---
 
 # Clan Ganba
@@ -12,24 +12,24 @@ categories: [Vow of Iron Exclusive]
 |---|---|
 | leader | Zaru Ganba |
 | territory | The Sable Estate |
-| goals | Preserve the history of Etrea, Go west and attempt to join with The Hundred Legions |
-| founded | 1219 CE[1][2] |
-| dissolved | 1233 CE |
+| goals | Preserve the history of Etrea, Go west and attempt to join with The Hundred Legions[1] |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 
-Clan Ganba is one of the four clans that make up the [Etrean Royalists](Etrean_Royalists.md). Under the leadership of their [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), the clan is known for its more survival oriented approach to the war. They are distinguished by their characteristic yellow armor. Following the dissolution of the [Etrean Royalists](Etrean_Royalists.md) Clan Ganba chose a path of seeking [The Hundred Legions](The_Hundred_Legions.md) rather than remaining in [Etrea](Etrea.md) to fight a direct war.
+Clan Ganba is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md), alongside [Clan Mofisu](Clan_Mofisu.md), [Clan Anako](Clan_Anako.md), and [Clan Kobura](Clan_Kobura.md). Led by [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), the clan is distinguished by its characteristic black and gold standard.[\[2\]](#cite-note-junsui-2)
 
-## Notable Members
+Clan Ganba formerly held a prestigious position among the [Etrean Royalists](Etrean_Royalists.md), serving the [Lord Guardian](Lord_Guardian.md) [Ji'ang](<Ji'ang.md>) until his death during the [Lord Regent](The_Lord_Regent.md)'s coup.[\[3\]](#cite-note-high-monk-junsui-3)
 
--   [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md)
--   [Kazue](Kazue.md)
+With the Royalists' dissolution, Clan Ganba ultimately pursued a different course, choosing to seek [The Hundred Legions](The_Hundred_Legions.md) in the west rather than continue fighting the [Regent](The_Lord_Regent.md) within [Etrea](Etrea.md).[\[1\]](#cite-note-zaru-1)
 
 ## References
 
-1.  [↑](#cite-ref-junsui-1-0) [High Monk Junsui](High_Monk_Junsui.md)
-2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE. As the Civil War began 14 years before the events of the gamemode, it can be assumed to have taken place in 1219 CE.
+1.  ↑ [1.0](#cite-ref-zaru-1-0) [1.1](#cite-ref-zaru-1-1) NPC dialogue: [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md)  
+    _As I said - I shall head westward. I seek parley with foreign forces. Perhaps the Hundred Legions - although, I doubt they will respond to my offer._
+2.  [↑](#cite-ref-junsui-2-0) [High Monk Junsui](High_Monk_Junsui.md)
+3.  [↑](#cite-ref-high-monk-junsui-3-0) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
+    _The Ganba clan once occupied a place of prestige among the Etrean Royal Guards, serving the Lord Guardian honourably until his last moments._

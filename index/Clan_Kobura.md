@@ -1,9 +1,9 @@
 ---
 title: Clan Kobura
-revid: 206316
+revid: 228726
 source: https://deepwoken.fandom.com/wiki/Clan_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: ["Game-adjacent articles"]
 ---
 
 # Clan Kobura
@@ -12,23 +12,24 @@ categories: [Vow of Iron Exclusive]
 |---|---|
 | leader | Shisui Kobura |
 | territory | The Indigo Citadel |
-| goals | Liberate Etrea, Preserve the history of Etrea, Defeat The Lord Regent, Join forces with the Central Authority |
-| founded | 1219 CE[1][2] |
-| dissolved | 1233 CE |
+| goals | Liberate Etrea, Join forces with the Central Authority[1] |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 
-Clan Kobura is one of the four clans that constitute the [Etrean Royalists](Etrean_Royalists.md). Led by their [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), the clan is distinguished by its characteristic blue armor. Following the dissolution of the Old Guard, Clan Kobura proposed the radical path: seeking an alliance with the [Central Authority](The_Central_Authority.md) or failing that, even defecting to the [Lord Regent's](The_Lord_Regent.md) side.
+Clan Kobura is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md), alongside [Clan Ganba](Clan_Ganba.md), [Clan Mofisu](Clan_Mofisu.md), and [Clan Anako](Clan_Anako.md). Led by [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), the clan is distinguished by its characteristic indigo and silver standard.[\[2\]](#cite-note-junsui-2)
 
-## Notable Members
+Clan Kobura is regarded as an independent and ambitious clan, with its members often prioritizing their own interests over those of the wider [Etrean Royalists](Etrean_Royalists.md).[\[2\]](#cite-note-junsui-2)
 
--   [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md)
+Following the dissolution of the [Etrean Royalists](Etrean_Royalists.md), Clan Kobura proposed a radical path: seeking an alliance with the [Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-shisui-1) Should this fail, Shisui was willing to consider having the clan defect to the [Lord Regent](The_Lord_Regent.md)'s side.[\[3\]](#cite-note-sachan-shisui-3)
 
 ## References
 
-1.  [↑](#cite-ref-junsui-1-0) [High Monk Junsui](High_Monk_Junsui.md)
-2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE. As the Civil War began 14 years before the events of the gamemode, it can be assumed to have taken place in 1219 CE.
+1.  ↑ [1.0](#cite-ref-shisui-1-0) [1.1](#cite-ref-shisui-1-1) NPC dialogue: [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md)  
+    _I recognised that we need allies - powerful allies, - and offered to parley with the Central Authority on our behalf._
+2.  ↑ [2.0](#cite-ref-junsui-2-0) [2.1](#cite-ref-junsui-2-1) [High Monk Junsui](High_Monk_Junsui.md)
+3.  [↑](#cite-ref-sachan-shisui-3-0) NPC dialogue: [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md)  
+    _Or, perhaps, we will even make peace with the Lord Regent, and rejoin the fold of the Kingdom._

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228690
+revid: 228728
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4605,14 +4605,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 ### Frost Forger
 
 -   **Glacial Mobility** \[Common Talent\] - Cast while slide-jumping to perform a running attack with your ice sabers.
-    -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.  
+    -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description (can also be activated while currently sliding without needing to jump at all, seems to be a bit buggy).  
         
     -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Agility, 20 Frostdraw  
         
     -   Tags: \[Agility\] \[Frostdraw\]
 
 -   **Glacial Mobility** \[Common Talent\] - Cast while slide-jumping to perform a running attack with your ice sabers.
-    -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.  
+    -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description (can also be activated while currently sliding without needing to jump at all, seems to be a bit buggy).  
         
     -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Agility, 20 Frostdraw  
         

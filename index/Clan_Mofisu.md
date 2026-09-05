@@ -1,9 +1,9 @@
 ---
 title: Clan Mofisu
-revid: 206315
+revid: 228722
 source: https://deepwoken.fandom.com/wiki/Clan_Mofisu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: ["Game-adjacent articles"]
 ---
 
 # Clan Mofisu
@@ -12,24 +12,20 @@ categories: [Vow of Iron Exclusive]
 |---|---|
 | leader | Choji Mofisu |
 | territory | Viridian Sanctuary Ruins |
-| goals | Liberate Etrea, Preserve the history of Etrea, Defeat The Lord Regent, Retake the Temple of Mur and the Viridian Sanctuary Ruins |
-| founded | 1219 CE[1][2] |
-| dissolved | 1233 CE |
+| goals | Liberate Etrea, Retake the Temple of Mur and the Viridian Sanctuary Ruins |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 
-Clan Mofisu is one of the four clans that make up the [Etrean Royalists](Etrean_Royalists.md). Led by their [Sachan Choji Mofisu](Sachan_Choji_Mofisu.md), the clan is distinguished by its characteristic green armor. They are perhaps the worst off of the Royalist clans, having been driven from their [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md) then going into exile following the attack by the Lord Regent's Shoguns. Following the dissolution of the Old Guard, Clan Mofisu remained adamant about returning to liberate [Etrea](Etrea.md).
+Clan Mofisu is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md), alongside [Clan Ganba](Clan_Ganba.md), [Clan Anako](Clan_Anako.md), and [Clan Kobura](Clan_Kobura.md). Led by [Sachan Choji Mofisu](Sachan_Choji_Mofisu.md), the clan is distinguished by its characteristic green and silver standard.[\[1\]](#cite-note-junsui-1)
 
-## Notable Members
+The clan is deeply devoted to the faith of [Mur](Mur_Of_Light.md) and willing to sacrifice themselves to protect it.[\[1\]](#cite-note-junsui-1)
 
--   [Sachan Choji Mofisu](Sachan_Choji_Mofisu.md)
--   [Seon](Seon.md)
+Following the dissolution of the [Etrean Royalists](Etrean_Royalists.md), Clan Mofisu chose to remain to fight against the [Lord Regent](The_Lord_Regent.md), and reclaim the [Temple of Mur](Temple_of_Mur.md) and their [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md), hoping to establish them as strongholds for the remaining resistance.[\[1\]](#cite-note-junsui-1)
 
 ## References
 
-1.  [↑](#cite-ref-junsui-1-0) [High Monk Junsui](High_Monk_Junsui.md)
-2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE. As the Civil War began 14 years before the events of the gamemode, it can be assumed to have taken place in 1219 CE.
+1.  ↑ [1.0](#cite-ref-junsui-1-0) [1.1](#cite-ref-junsui-1-1) [1.2](#cite-ref-junsui-1-2) [High Monk Junsui](High_Monk_Junsui.md)

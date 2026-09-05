@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 226143
+revid: 228706
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -77,7 +77,7 @@ As you are affiliated with and work under [The Central Authority](The_Central_Au
         -   You cannot obtain [Stratos' Cloak](<Stratos'_Cloak.md>).
         -   You cannot obtain [Windwaker](Stratos.md#windwaker-quest).
         -   You cannot obtain [Fang and Coil](Fang_and_Coil.md), unless you spawn with it from the [Character Creation](Character_Creation.md) screen.
--   For [The Children of Navae](The_Children_of_Navae.md): You **cannot** raise your Reputation, and you start out as **Hunted**.
+-   For [The Children of Navae](The_Children_of_Navae.md): You **cannot** raise your Reputation, and you start out as **Hated**.
     -   There is currently no effects or downsides gained from being hunted by them, not even [Faction Ambushes](Faction_Ambushes.md).
 -   For [The Hundred Legions](The_Hundred_Legions.md): Your reputation has a **cap** of high 'Ally', and **cannot** be raised further.
     -   You are unable to get [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character, unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent due to their requirements being higher than the high 'Ally' cap.

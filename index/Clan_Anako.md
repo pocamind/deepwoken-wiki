@@ -1,9 +1,9 @@
 ---
 title: Clan Anako
-revid: 228704
+revid: 228725
 source: https://deepwoken.fandom.com/wiki/Clan_Anako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: ["Game-adjacent articles"]
 ---
 
 # Clan Anako
@@ -12,18 +12,24 @@ categories: [Vow of Iron Exclusive]
 |---|---|
 | leader | Yi Anako |
 | territory | Red Lotus Keep |
-| goals | Liberate Etrea, Preserve the history of Etrea, Defeat The Lord Regent, Retake the Temple of Mur and the Viridian Sanctuary Ruins |
+| goals | Liberate Etrea, Retake the Temple of Mur and the Viridian Sanctuary Ruins |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 
-Clan Anako is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md), alongside [Clan Ganba](Clan_Ganba.md), [Clan Mofisu](Clan_Mofisu.md), and [Clan Kobura](Clan_Kobura.md). Led by [Sachan Yi Anako](Sachan_Yi_Anako.md), the clan is renowned for its martial prowess and historically supplied many of [Etrea](Etrea.md)'s finest and most legendary warriors.[\[1\]](#cite-note-junsui-1)
+Clan Anako is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md), alongside [Clan Ganba](Clan_Ganba.md), [Clan Mofisu](Clan_Mofisu.md), and [Clan Kobura](Clan_Kobura.md). Led by [Sachan Yi Anako](Sachan_Yi_Anako.md), the clan is distinguished by its characteristic red, and silver standard.[\[1\]](#cite-note-junsui-1)
 
-Following the [Etrean Civil War](Etrean_Civil_War.md) and the rise of the [Lord Regent](The_Lord_Regent.md), Clan Anako joined the another Clans in opposing his rule and fighting to restore Etrea to its former order. The clan is distinguished by its red, and silver standard. Despite their military strength, Clan Anako's dominance has caused friction with the other royalist clans, who often view their prowess as competition.[\[1\]](#cite-note-junsui-1)
+Clan Anako is renowned for its martial prowess and historically supplied many of [Etrea](Etrea.md)'s finest and most legendary warriors. Despite their military strength, Clan Anako's dominance has caused friction with the other royalist clans, who view their prowess as competition.[\[2\]](#cite-note-high-monk-junsui-2)
+
+Following the dissolution of the [Etrean Royalists](Etrean_Royalists.md), Clan Anako chose to remain committed to the fight against the [Lord Regent](The_Lord_Regent.md), and reclaim the [Temple of Mur](Temple_of_Mur.md) and [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md) alongside [Clan Mofisu](Clan_Mofisu.md).[\[3\]](#cite-note-ganba-3)
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-junsui-1-0) [1.1](#cite-ref-junsui-1-1) [High Monk Junsui](High_Monk_Junsui.md)
+1.  [↑](#cite-ref-junsui-1-0) [High Monk Junsui](High_Monk_Junsui.md)
+2.  [↑](#cite-ref-high-monk-junsui-2-0) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
+    _Clan Anako take great pride in their martial prowess, and they used to supply a great deal of some of Etrea's finest and most legendary warriors. In spite of this... They are not necessarily well-liked by the other clans. The others see their military dominance as competition._
+3.  [↑](#cite-ref-ganba-3-0) NPC dialogue: [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md)  
+    _Sachan Mofisu was adamant about recapturing the Monastery of Mur and his destroyed keep, and Sachan Anako sided with him._

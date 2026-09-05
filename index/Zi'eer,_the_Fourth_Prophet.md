@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 228543
+revid: 228727
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits, Prophets of The Ministry, Humanoid Bosses]
@@ -42,7 +42,7 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 
 1.  Defeat the [True Heart of Enmity](True_Heart_of_Enmity.md), which then spawns you at the Etris Palace. Destroy the statue before you to break the barrier (If outside the barrier after defeating the True Heart of Enmity, instead defeat the Shogun standing outside the Etris Palace) around the palace.
 2.  _(Recommended)_ Leave the Etris Palace and get to Power 20.
-3.  Approach Zi'eer at his usual location, where he sits upon The Coral Throne. Get caught by his strings, and you will be teleported to the fight after brief dialogue. _**Do not talk to Zi'eer without breaking the barrier, as the fight will not begin, and you will die and be sent to The Depths.**_ _**If you're below Power 10 when you get teleported, you will instead be kicked with the message "Nice try man", and be in The Depths upon rejoining. \[citation needed\]**_
+3.  Approach Zi'eer at his usual location, where he sits upon The Coral Throne. Get caught by his strings, and you will be teleported to the fight after brief dialogue. _**Do not talk to Zi'eer without breaking the barrier, as the fight will not begin, and you will die and be sent to The Depths.**_ _**If you're below Power 10 when you get teleported, you will instead be kicked with the message "Nice try man"**_[\[1\]](#cite-note-1)_**, and be in The Depths upon rejoining.**_
 
 ## Moveset
 
@@ -388,7 +388,7 @@ Jump
 -   Defeating Zi'eer gives the player a badge, granting a free character slot.
     -   This badge was not dropped alongside Vow of Iron, and was instead added on December 18th, 2025.
     -   Zi'eer is the first and only boss to grant players a badge for defeating them.
--   The boss fight was designed by developer par.[\[1\]](#cite-note-1)
+-   The boss fight was designed by developer par.[\[2\]](#cite-note-2)
 -   Zi'eer has unique dialogue with the Inheritor within the Etris Palace dependent on how many times they've talked to them. This can be achieved by leaving The Throne of Lies while not combat tagged (such as in the cutscene), leaving the game while loading, or simply being unable to connect to the Instanced fight.
     -   This seems to indicate that, at some point during development, fighting Zi'eer did not wipe the player's slot, whether or not you lost or won. It remains unclear why this was scrapped, though the dialogue remains in-game regardless.
 -   Zi'eer is the only boss fight in the Vow of Iron storyline that doesn't allow you to revive, unlike the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md) & [True Heart of Enmity](True_Heart_of_Enmity.md).
@@ -396,3 +396,4 @@ Jump
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)
