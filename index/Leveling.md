@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 170409
+revid: 228703
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -26,23 +26,23 @@ Keep in mind that you can get said Free Points even without [Autodidact](Boons_a
 
 ## Talent Hands & Whisper Draws & Mantras
 
-Every level up you get you will be awarded either 3 Talents or 2 Talents and 1 Whisper Draw. **The current levels for getting Mantras are 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19 and 20, resulting in a total of 12 Mantras**. You can also obtain more Mantras through the escaping the [Depths](First_Layer.md), [Kelsius' Quest](Kelsius.md), [Deep Shrines](Deep_Shrines.md), and for the more experienced players; [Monster Mantras](Monster_Mantras.md).
+Every level up you get you will be awarded either 3 Talents or 2 Talents and 1 Whisper Draw. **The current levels for getting Mantras are 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19 and 20, resulting in a total of 12 Mantras**. You can also obtain more Mantras through the free Whisper Draw (escape [the Depths](The_Depths.md), complete [Kelsius](Kelsius.md)' Quest, or kill a [World Boss](Bosses.md#world-bosses)), which can only be obtained once per character. Other methods include: deals with certain [Deep Shrines](Deep_Shrines.md), the seasonal [Pumpkin Pitch](Pumpkin_Pitch.md), completing [Mime](Mime.md)'s quest for [Disguise](Attunement-less.md#disguise), and for the more experienced players; [Monster Mantras](Monster_Mantras.md).
 
 -   You can obtain up to a **maximum of 76 Talents**. See where all of these come from in the [Talents](Talents.md) page.
 -   Talents can be turned into Mantras through the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md) and vice-versa through the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md).
 
-Keep in mind that there exists a **limit to the amount of mantras of the same type you are allowed to have equipped**. This limit however can still be increased via [Oaths](Oaths.md) and [Neuroplasticity](Talents.md#genius-intellect).
+Keep in mind that there exists a **limit to the amount of mantras of the same type you are allowed to have equipped**. This limit however can still be increased via [Oaths](Oaths.md) and Talents like [Neuroplasticity](Talents.md#neuroplasticity).
 
 ## Notes/Trivia
 
--   Each Power increases your maximum health by 4, having 204 HP at Power 1 and scaling up to 280 at Power 20.
+-   Each Power increases your maximum health by 4, having 214 HP at Power 1 and scaling up to 290 at Power 20.
 -   If drowning at Power 4 and below, you may reach the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) located at the center of [The City of the Drowned](The_City_of_the_Drowned.md) and be able to return to the overworld without any challenge.
 -   If drowning at Power 5 and above, if you reach the Cathedral of the Interstice, you may partake in a trial (defeat an enemy which more often than not, does suit your level of strength) in order to return to the overworld.
 -   At Power 5, your character is eligible to create Guilds.
--   At power 10, your character is eligible to wash their face at [Lightkeeper Temple](Lightkeeper_Temple.md), granting access to [The Lordsgrove](The_Lordsgrove.md) if you have not done this previously.
--   Once at power 15, if entering The Depths by your own accord, you can speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at Castle Light and descend to the [Eternal Gale](Second_Layer.md). (You must enter through a whirlpool, otherwise you won't get past the life barrier.)
--   Each Power increase cleans your Health Bar if it is stained. This does not work while in The Depths but can still save you from certain death by healing you.
--   The number of times you have been sent to the depths increases a counter named Times Drowned in the summary which adds up the number of Drowns to your Power when calculating which trial you must face.[\[1\]](#cite-note-1)
+-   At Power 10, your character is eligible to wash their face at [Lightkeeper Temple](Lightkeeper_Temple.md), granting access to [The Lordsgrove](The_Lordsgrove.md) if you have not done this previously.
+-   Once at Power 10 or with an [Oath](Oaths.md), if entering The Depths by your own accord, you can speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at Castle Light and descend to the [Eternal Gale](Second_Layer.md). (You must enter through a whirlpool or while being a [Deepbound](Deepbound.md), otherwise you won't get past the life barrier.)
+-   Each time you Power-up, your [Health State](Status_Effects.md#health-state) is reset to **[Healthy](Status_Effects.md#healthy)** from **[Injured](Status_Effects.md#injured)**. This does not work on the **[Drowned](Status_Effects.md#drowned)** Health State from being in The Depths, the **[Void](Status_Effects.md#void)** Health State from being in a [Voidzone](Voidzones.md), or the **[Cursed](Status_Effects.md#cursed)** Health State from using certain [Curse Enchantments](Enchantments.md#curses), but the healing gained on Power-up can still save you from certain death in a pinch.
+-   The number of times you have been sent to the depths increases a counter named Times Drowned in the summary which adds up the number of Drowns to your Power when calculating which [trial](Cathedral_of_the_Interstice.md#difficulty-calculation) you must face.[\[1\]](#cite-note-1)
 
 ## References
 

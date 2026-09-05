@@ -2951,9 +2951,6 @@
   "Lost Forge": {
     "to": "Lost Forge of Leiuna"
   },
-  "Lotus": {
-    "to": "Primordial Lotuses"
-  },
   "Lotuses": {
     "to": "Primordial Lotuses"
   },
@@ -3818,6 +3815,9 @@
   },
   "Rain": {
     "to": "Environmental Hazards"
+  },
+  "Rakann": {
+    "to": "Reclaimer of the Recollection"
   },
   "Rally": {
     "to": "Attunement-less",

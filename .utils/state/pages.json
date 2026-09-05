@@ -113,7 +113,7 @@
   },
   "927": {
     "title": "Alchemy",
-    "lastrevid": 225646
+    "lastrevid": 228687
   },
   "943": {
     "title": "Attunements",
@@ -141,11 +141,11 @@
   },
   "996": {
     "title": "Crafting Recipes",
-    "lastrevid": 225647
+    "lastrevid": 228686
   },
   "997": {
     "title": "Leveling",
-    "lastrevid": 170409
+    "lastrevid": 228703
   },
   "1002": {
     "title": "Guilds",
@@ -209,7 +209,7 @@
   },
   "1066": {
     "title": "Thundercall",
-    "lastrevid": 226895
+    "lastrevid": 228683
   },
   "1071": {
     "title": "Artifacts",
@@ -589,7 +589,7 @@
   },
   "1835": {
     "title": "Songseeker Wilds",
-    "lastrevid": 228633
+    "lastrevid": 228678
   },
   "1850": {
     "title": "Crustaceous Rex",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 228257
+    "lastrevid": 228690
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -1481,7 +1481,7 @@
   },
   "3873": {
     "title": "Cestis",
-    "lastrevid": 228272
+    "lastrevid": 228680
   },
   "3881": {
     "title": "Dark Feather",
@@ -2057,7 +2057,7 @@
   },
   "4964": {
     "title": "Servers",
-    "lastrevid": 225649
+    "lastrevid": 228682
   },
   "4979": {
     "title": "Guard's Kabuto",
@@ -2425,7 +2425,7 @@
   },
   "5892": {
     "title": "Chaser, Scholar of the Crimson Contract",
-    "lastrevid": 228545
+    "lastrevid": 228679
   },
   "5894": {
     "title": "The Hidden Grove",
@@ -3209,7 +3209,7 @@
   },
   "8150": {
     "title": "Pristine Lotus",
-    "lastrevid": 213269
+    "lastrevid": 228691
   },
   "8174": {
     "title": "Beatra",
@@ -3849,7 +3849,7 @@
   },
   "10657": {
     "title": "Banker",
-    "lastrevid": 225443
+    "lastrevid": 228696
   },
   "10741": {
     "title": "Calypso",
@@ -3873,7 +3873,7 @@
   },
   "10818": {
     "title": "Deep Thresher Nest",
-    "lastrevid": 213424
+    "lastrevid": 228692
   },
   "10823": {
     "title": "Immortal Helm",
@@ -4193,7 +4193,7 @@
   },
   "12694": {
     "title": "Weird Trader",
-    "lastrevid": 218334
+    "lastrevid": 228689
   },
   "12696": {
     "title": "Soothsayer",
@@ -5773,7 +5773,7 @@
   },
   "17715": {
     "title": "Traan Zakshun",
-    "lastrevid": 228673
+    "lastrevid": 228700
   },
   "17726": {
     "title": "Deepwoken: Original Soundtrack (Vol. I)",
@@ -6901,7 +6901,7 @@
   },
   "20125": {
     "title": "Dark Pearls",
-    "lastrevid": 227194
+    "lastrevid": 228699
   },
   "20133": {
     "title": "Suncross",
@@ -7457,7 +7457,7 @@
   },
   "21143": {
     "title": "Curse of Captain Greene",
-    "lastrevid": 228433
+    "lastrevid": 228702
   },
   "21144": {
     "title": "JOE's",
@@ -7605,7 +7605,7 @@
   },
   "21389": {
     "title": "Bloodcurdle Mask",
-    "lastrevid": 228124
+    "lastrevid": 228676
   },
   "21392": {
     "title": "Night Star",
@@ -8929,7 +8929,7 @@
   },
   "23298": {
     "title": "Clan Anako",
-    "lastrevid": 206314
+    "lastrevid": 228704
   },
   "23299": {
     "title": "Clan Kobura",
@@ -9786,5 +9786,9 @@
   "26515": {
     "title": "Cathedral's Spire",
     "lastrevid": 228367
+  },
+  "26542": {
+    "title": "Lance's mother",
+    "lastrevid": 228698
   }
 }

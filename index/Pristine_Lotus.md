@@ -1,6 +1,6 @@
 ---
 title: Pristine Lotus
-revid: 213269
+revid: 228691
 source: https://deepwoken.fandom.com/wiki/Pristine_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -28,5 +28,5 @@ Pristine Lotuses are items that can be found scattered around the [Entropy Catal
 ## Tips/Trivia
 
 -   Deaths to bloodloss are counted, neither players need to be combat tagged and allies do count.
--   This was introduced on the 10th of July 2023 update, as an alternative to the usual Linkstrider obtainment of knocking and carrying 4 [Oath](Oaths.md) users to the catalyst and sacrificing them, sending them to [The Depths](The_Depths.md) due to it being a [Voidzone](Voidzones.md).
+-   This was introduced on the [July 10th, 2023](Version_History/2023.md#july-10th-2023) update as an alternative to the usual Linkstrider obtainment of knocking and carrying 4 [Oath](Oaths.md) users to the catalyst and sacrificing them, sending them to [The Depths](The_Depths.md) due to it being a [Voidzone](Voidzones.md).
     -   This was often very difficult to do solo, not only would you usually have to carry someone a very long distance to get to the catalyst, but many people knocked would simply combat log, as just dying was preferable than being sacrificed and sent to The Depths.

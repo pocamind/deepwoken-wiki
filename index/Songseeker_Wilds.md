@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 228633
+revid: 228678
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -61,6 +61,11 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 -   Outside of the temple, a strange Capra named [Yamaketzal](Yamaketzal.md) who can grant
 -   Following the left side of the path leads to a [Guild Banner](Guild_Banners.md) across from a broken bridge thats connects to the [Derelict Highchurch](Derelict_Highchurch.md).
 
+#### Summer Company Camp
+
+-   Outside of the mineshaft, there will be a few [Summer Company Gunslingers](Summer_Company_Gunslinger.md) guarding a group of Dragoons exploring the surveying the area.
+-   These dragoons are [Ignacio](Ignacio.md) and [Thula](Thula.md), who are looking into the mineshaft as a way to enter [The Boundary](Lore.md#the-boundary).
+
 ## NPCs
 
 ### Generic NPCs
@@ -70,9 +75,12 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 ### Unique NPCs
 
 -   [Amashi](Amashi,_Master_of_Flame.md)
+-   [Amethyst](<Amethyst_(NPC).md>)
 -   [Beatra](Beatra.md)
+-   [Clint](Clint.md)
 -   [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
 -   [Ezra](Ezra.md)
+-   [Ignacio](Ignacio.md)
 -   [Jeandae](Loot_Bag_Gacha.md#jeandae)
 -   [Lake](Lake.md)
 -   [Lucien](Lucien.md)
@@ -80,6 +88,7 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 -   [Mime](Mime.md)
 -   [Samael](Samael.md)
 -   [Sky Statue](Sky_Statue.md)
+-   [Thula](Thula.md)
 -   [Yamaketzal](Yamaketzal.md)
 
 ## Loot Table

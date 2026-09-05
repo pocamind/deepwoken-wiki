@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 228272
+revid: 228680
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
@@ -30,7 +30,27 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 
 ## Dialogue
 
-**First Encounter:**
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I could sense you from a mile away... Your soul is open. Exposed. Tread carefully, yes?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+**Obtaining Tacet:**
+
+This dialogue is unlocked once the player has completed at least five [Bounties](Bounty_Hunting.md).
 
 <table>
 <tbody>
@@ -38,7 +58,10 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Oh ho ho... Another goody two shoes? You'd best get running, little one. Before you get hurt.</td>
+  <td colspan="12">Ooh, scary! I felt your presence far before you walked over... Do you not know how to use Tacet or do you purposefully let your prey feel the eyes on their back?</td>
+</tr>
+<tr>
+  <td colspan="12">[Suppress your presence and learn Tacet]</td>
 </tr>
 <tr>
   <td colspan="12">[End Dialogue]</td>
@@ -46,7 +69,9 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 </tbody>
 </table>
 
-**Completed 5 Bounties:**
+**Tacet Obtained:**
+
+This dialogue is unlocked if the player already has [Tacet](Murmur%253A_Tacet.md).
 
 <table>
 <tbody>
@@ -54,7 +79,7 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Oooo scary.. I felt your malicious presence far before you walked over... Do you not know how to use <font>Tacet</font> or do you purposefully let your prey feel the eyes on their back?</td>
+  <td colspan="12">So quietly you tread... As if you were never there.</td>
 </tr>
 <tr>
   <td colspan="12">[End Dialogue]</td>

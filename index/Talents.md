@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228257
+revid: 228690
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -7900,7 +7900,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The [Herbalist's Hat](<Herbalist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) equipment have this Talent.
 
 -   Termite \[Common Talent, Unlockable Talent, Fortitude, Willpower\] - You can eat things most would consider inedible. (+3 Health)
-    -   Allows user to eat [Sticks](Stick.md), [Bamboo](Bamboo_Bundle.md), [Beeswax](Beeswax.md), [Coral](Alestrian_Coral.md), [Spider Eggs](Spider_Egg.md), all [Lotuses](Primordial_Lotuses.md), and every [Ore](Ores.md).
+    -   Allows user to eat [Sticks](Stick.md), [Bamboo](Bamboo_Bundle.md), [Beeswax](Beeswax.md), [Coral](Alestrian_Coral.md), [Spider Eggs](Spider_Egg.md), [Pristine Lotus](Pristine_Lotus.md), and every [Ore](Ores.md).
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
 

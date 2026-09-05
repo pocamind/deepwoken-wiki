@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 225443
+revid: 228696
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs]
@@ -70,7 +70,8 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Tools (Repair Hammer, Glider, Etc.)
 -   Campfires (Store wood instead)
 -   [Hallowtide Mask](Hallowtide_Mask.md)
--   [Attunement Potions](Attunement_Potions.md) / [Lotuses](Primordial_Lotuses.md)
+-   [Attunement Potions](Attunement_Potions.md)
+-   [Pristine Lotus](Pristine_Lotus.md)
 -   [Poser's Ring](<Poser's_Ring.md>)
 -   [Manor Key](Manor_Key.md)
 -   [Orlandeau's Emerald](<Orlandeau's_Emerald.md>)
@@ -133,6 +134,24 @@ This dialogue will appear if the player is holding an [Artifact](Artifacts.md) w
 </tr>
 <tr>
   <td>[End Dialogue], player gains loot and Notes</td>
+</tr>
+</tbody>
+</table>
+
+**Danger:**
+
+This dialogue will appear if the player is in danger or combat tagged.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Err... We can take a look once the danger is gone.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

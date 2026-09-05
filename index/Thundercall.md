@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 226895
+revid: 228683
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1044,7 +1044,7 @@ These Talents are found in the _Shock Therapy_ category.
 |  | Grounding Bolt  
 (90 Thundercall, 90 Weapon) | Anytime you summon a lightning strike on your oppponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning. | Makes the opponent unable to jump for 10 seconds, refreshing its duration if procced while active. Grounding Bolt's lightning strikes deal 15 Thundercall damage with no cooldown, applying upon landing _any_ uppercut ability, including uppercut-tagged Mantras.  
   
-Eligible lighting strikes include: Storm Strikes from [Volt Draft](Talents.md#volt-draft) and [Shock Trooper Specialist](Talents.md#shock-trooper-specialist), [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, [Scorched Peak](Talents.md#scorched-peak), and [Fulgurite Formation](Talents.md#fulgurite-formation).
+Eligible lightning strikes include: Storm Strikes from [Volt Draft](Talents.md#volt-draft) and [Shock Trooper Specialist](Talents.md#shock-trooper-specialist), [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, [Scorched Peak](Talents.md#scorched-peak), and [Fulgurite Formation](Talents.md#fulgurite-formation).
 
  |
 

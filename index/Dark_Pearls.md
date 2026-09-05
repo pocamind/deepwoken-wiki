@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 227194
+revid: 228699
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's black market for 25 |
+| obtainment | Sold in Traan Zakshun's black market for 30 |
 | description | A daring statement to the upper class, these earrings contain pearls taken from the clutches of enormous, vicious clams native to the southern seas before the Submergence. Their rarity has only deepened with time; not only were they perilously difficult to obtain, but the very creatures that produced them are now all but extinct. |
 
 ## Description

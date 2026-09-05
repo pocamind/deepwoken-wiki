@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 228545
+revid: 228679
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies, Humanoid Bosses]
@@ -349,30 +349,36 @@ Exhaustive Loot Table
   <td colspan="12">Oh, a human? Far from home aren't we?</td>
 </tr>
 <tr>
-  <td colspan="6">What happened here?</td>
-  <td colspan="6">[Attack mid-dialogue]</td>
+  <td colspan="8">What happened here?</td>
+  <td colspan="4">[Attack mid-dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">Oh, here? Well, first I disposed of my mutinous squad, now I'm searching for <font>the City</font>.</td>
-  <td colspan="6">Aha, the first strike? Not one to mince words are we?</td>
+  <td colspan="8">Oh, here? Well, first I disposed of my mutinous squad, now I'm searching for <font>the City</font>.</td>
+  <td colspan="4">Aha, the first strike? Not one to mince words are we?</td>
 </tr>
 <tr>
-  <td colspan="3">They mutinied?</td>
-  <td colspan="3">The City?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td colspan="4">They mutinied?</td>
+  <td colspan="4">The City?</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="3">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td>
-  <td colspan="3">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a><font>, the Sleeping City</font>. There lies the so-called bedchambers of <font>the <a href="Glossary.md#the-drowned-gods">Drowned God</a> Ethiron</font>. Together perhaps we could -<br>
+  <td colspan="4">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td>
+  <td colspan="4">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a><font>, the Sleeping City</font>. There lies the so-called bedchambers of <font>the <a href="Glossary.md#the-drowned-gods">Drowned God</a> Ethiron</font>. Together perhaps we could -<br>
   <font>[Chaser Attacks]</font></td>
 </tr>
 <tr>
-  <td colspan="3">The City?</td>
-  <td colspan="3">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
+  <td colspan="4">The City?</td>
+  <td colspan="2">[Base Dialogue]</td>
+  <td colspan="2">[Player is a <a href="Oath%253A_Contractor.md">Contractor</a>]</td>
 </tr>
 <tr>
-  <td colspan="3">[See first instance]</td>
-  <td colspan="3">[End Dialogue]</td>
+  <td colspan="4"></td>
+  <td colspan="2">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
+  <td colspan="2">Ha! Does Zi'eer teach his puppets nothing? A mere plaything of that wretch isnt worthy to share in this triumph.</td>
+</tr>
+<tr>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

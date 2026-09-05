@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 225649
+revid: 228682
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,19 +20,30 @@ Private Servers will only have both their text and border in a orange color, as 
 
 ## Server Regions
 
-There are approximately 23 possible regions:
+There are approximately 33 possible regions:
 
 -   NSW, AU (Australia)
--   Hesse, DE (Germany)
+-   Buenos Aires F.D, AR (Argentina)
+-   São Paulo, BR (Brazil)
+-   Santiago Metropo, CL (Chile)
 -   Paris, FR (France)
+-   Hesse, DE (Germany)
+-   Attica, GR (Greece)
+-   Maharashtra, IN (India)
+-   Jakarta, ID (Indonesia)
+-   Leinster, IE (Ireland)
 -   Tokyo, JP (Japan)
+-   Kuala Lumpur, MY (Malaysia)
+-   Querétaro, MX (Mexico)
 -   North Holland, NL (Netherlands)
+-   Lima Province, PE (Peru)
 -   Mazovia, PL (Poland)
 -   Singapore, SG (Singapore)
+-   Cape Town, ZA (South Africa)
+-   Western Cape, ZA (South Africa)
+-   Zurich, CH (Switzerland)
+-   Istanbul, TR (Turkey)
 -   England, UK (United Kingdom)
--   Maharashtra, IN (India)
--   Leinster, IE (Ireland)
--   São Paulo, BR (Brazil)
 
 In addition, the USA has its own subregions:
 
