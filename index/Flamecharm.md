@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 228662
+revid: 228741
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -16,7 +16,7 @@ Flamecharm Icon
 
 ## Description
 
-**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether.. These abilities are primarily focused on DOT and AoE effects, while still providing a notable amount of utility and mobility.
+**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether. These abilities are primarily focused on DOT and AoE effects, while still providing a notable amount of utility and mobility.
 
 This Attunement is ideal for new players, due to its innate ability to grip knocked humanoid NPCs with its DOT burn effect, alongside its superior utility in comparison with other Attunements, making progression and exploration much easier.
 

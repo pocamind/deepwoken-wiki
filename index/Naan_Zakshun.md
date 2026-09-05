@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 227635
+revid: 228745
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, NPCs located in the First Layer, Circle of Honour members]
@@ -445,6 +445,7 @@ Sold Items
 
 ## Trivia
 
+-   She is famous depths ganker In the past
 -   As with [her grandson](Traan_Zakshun.md), Naan Zakshun's name is a pun/wordplay: her first name sounds similar to "nan", a slang word for one's grandmother, playing on the fact that she is Traan's grandmother.
     -   Despite being written with two of the letter "a", she indicates her name is pronounced as "nan".
 -   Naan's shop dialogues contain references to other media:

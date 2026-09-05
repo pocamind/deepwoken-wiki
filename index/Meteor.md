@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 187400
+revid: 228744
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 Meteor Fortuna
 
-These purple meteors are found in random locations around the map, although generally spread out. They're meant for people with the [Linkstrider](Oath%253A_Linkstrider.md) Oath; A Linkstrider can teleport to any meteor that they've interacted with, but they must be sitting at a campfire. The first usage always costs one [Stardust](Stardust.md)
+These purple meteors are found in random locations around the map, although generally spread out. They're meant for people with the [Linkstrider](Oath%253A_Linkstrider.md) Oath; A Linkstrider can teleport to any meteor that they've interacted with, but they must be sitting at a campfire. The first usage no longer costs one [Stardust](Stardust.md)
 
 Interacting with a meteor without the Linkstrider Oath, will give you the message: "_I feel connected to this somehow... but There's something I'm not grasping..._"
 
@@ -22,7 +22,7 @@ Only Linkstriders are currently known to be able to utilize these meteors, altho
 
 Upon interacting with a meteor, it will give you a message: "_Deep within your soul, '\[Name\]' calls out to you. Call it's name upon the flame, and embrace Entropy._" Each meteor has a different name.
 
-You can teleport to each meteor by calling out its name whilst sitting at a campfire, "campfires" such as [Graceful Flame](Flamecharm.md#graceful-flame-) do not count (guild base campfires do work however).
+You can teleport to each meteor by calling out its name whilst sitting at a campfire, \[~"campfires" such as [Graceful Flame](Flamecharm.md#graceful-flame-) do not count (guild base campfires do work however)~\] you can teleport from every "campfire" after 5/10/26.
 
 You can also rest at a meteor site as if it were a campfire (Note: you cannot cook food on meteors)
 

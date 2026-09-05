@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 228731
+revid: 228740
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -14,21 +14,21 @@ Players can be family members with each other with the [character creation](Char
 
 Having certain traits can make you someone else's relative. The chance to be relative to someone else is RNG, but it has requirements.
 
-_**Please Note, After July 25/2025 (The Titus Update) it is considerably Harder to meet the requirements to be family,**_
+_**Please Note, After July 25/2025 (The Titus Update) it is considerably harder to meet the requirements to be family,**_
 
 -   Cousin - Same variant of the same aspect, most common relative.
 -   Sibling - Same variant of the same aspect, same last names, born on a different date.
 -   Twin - Same last names, same racial variant, same age.
 -   Juvenile - Same variant of the same aspect, must be 20 years younger than your relative.
 -   Elder - Same variant of the same aspect, must be 20 years older than your relative.
--   Niebling - Same variant of the same aspect, same last names, must be exactly 20 years younger than your relative.
+-   Nibling - Same variant of the same aspect, same last names, must be exactly 20 years younger than your relative.
 -   Pibling - Same variant of the same aspect, same last names. must be exactly 20 years older than your relative.
 
 ## Trivia
 
 -   Being a twin may not be age reliant, twins have been found who have different ages likely due to scales of inactivity and time of being online among twins.
--   Pibling and nibling are probably equivalent to sibling chance, but with the 20 year age difference (while juvenile and elder are cousins equivalent.)
+-   Pibling and Nibling are probably equivalent to sibling chance, but with the 20 year age difference (while Juvenile and Elder are cousins equivalent.)
 -   It is possible that Ganymedes and Vesperians can be cousins, due to Ganymedes being evolved Vesperians in the lore
--   The reason why you no longer see more family members is due to it being made, "rarer" by the titus update.
+-   The reason why it is less likely to see more family members is due to it being made "rarer" by the aforementioned Titus Update, seen in the image below.
     
-    Update text
+    July 25/2025 (Titus Update) update log
