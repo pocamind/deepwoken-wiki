@@ -1,6 +1,6 @@
 ---
 title: Megurger
-revid: 225650
+revid: 228732
 source: https://deepwoken.fandom.com/wiki/Megurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -41,3 +41,5 @@ Additionally, it grants the Power buff, affecting 12% of the Stomach bar. The bu
 -   This item is subject to a bug where if you don't have any of the item in your inventory, when buying from food vendors the purchase prompt slider will max out at 20 and you're able to purchase 20 of the item at once, bypassing its original stack limit of 10. This bug doesn't happen if you have at least 1 of the item in your inventory, in which the slider will properly max out at 9.
     -   Note that this doesn't apply to [The Meat Lord](The_Meat_Lord.md) as purchasing from his shop doesn't bring up a slider prompt.
 -   It can be found on the plates of [Karliah](Karliah.md) and [Kennith](Kennith.md) in the Main Menu.
+
+-   The Megurger is a reference to the [Burger](https://en.wikipedia.org/wiki/Hamburger) from [real life](https://www.roblox.com/games/4111023553/Deepwoken).

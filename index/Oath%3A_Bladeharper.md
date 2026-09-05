@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 228184
+revid: 228729
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -255,6 +255,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   The mirror's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   When [Poser's Ring](<Poser's_Ring.md>) is used, the clone will behave as if it doesn't have the ring.
     -   This is because the mirror is unable to sheathe/unsheathe its weapon, and if Poser's Ring did work, the mirror would be incapable of dealing damage through light attacks and criticals.
+-   The Tooltip for Reveal is "Death before dishonor."
 
 ## Navigation
 
