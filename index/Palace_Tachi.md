@@ -1,6 +1,6 @@
 ---
 title: Palace Tachi
-revid: 228204
+revid: 228762
 source: https://deepwoken.fandom.com/wiki/Palace_Tachi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons of The Ministry, Weapons of Etrea]
@@ -58,3 +58,4 @@ The critical has a cooldown of **7 seconds**.
 
 -   It is one of five weapons that comes with a scabbard shown on your character, the others being the [Katana](Katana.md)/[Alloyed Katana](Katana.md), [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md).
 -   The insignias found on the scabbard are the same as the ones found above the guard of the weapons used by the [Shoguns](<Shogun_of_the_Prophet's_Guard.md>).
+-   This weapon one of the two slowest swords in the game, being tied with the [Messer](Messer.md) with both of their swing speeds being 0.93x.

@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 221381
+revid: 228761
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Alloyable Weapons, Medium Weapons]
@@ -65,3 +65,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   For PvE, it is recommended to use the [Saber Motif](Motifs.md), as you'll get an additional 300 damage from Finishing Slay.
     -   Additionally, it is not recommended to use Alloyed Messer over the base variant for PvE, as Finishing Slay does not change when alloyed, and the damage increase from going for the alloyed variant is not that large. Saving points and investing them elsewhere is much more effective than going for the alloy upgrade.
 -   Finishing Slay can be buffed through damage modifiers, but it is not counted as weapon damage, so things like [Astral](Astral.md) or [Manipulator](Talents.md#manipulator) will **not** affect it.
+-   This weapon one of the two slowest swords in the game, being tied with the [Palace Tachi](Palace_Tachi.md) with both of their swing speeds being 0.93x.

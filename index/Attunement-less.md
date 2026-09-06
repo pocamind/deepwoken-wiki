@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 228376
+revid: 228760
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -851,7 +851,7 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
 
  | 
 
-Blunt ResistanceBlunt
+Typeless
 
  | 
 
