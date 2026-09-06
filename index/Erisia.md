@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 184043
+revid: 228749
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -34,7 +34,7 @@ It is divided into two sections, being [Upper Erisia](Upper_Erisia.md) and [Lowe
 -   The combat music for this area is [Cry 'Havoc!'](Deepwoken_OST.md#cry-havoc) by Naktigonis
 -   Erisia is frequently referred to as "Bandit Island" by players.
 -   As a whole, Erisia is the second largest landmass in Deepwoken, only behind [Aratel Island](Aratel_Island.md).
--   Erisia is a common [ganking](Glossary.md) spot due to contractor bounties/boosting.
+-   Erisia is a common [ganking](Glossary.md) spot due to being one of the only places in the Etrean luminant that consistently has players.
 -   It's better to do the [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP for later levels.
     -   However, Upper Erisia is perfect for Strength/Weapon EXP due to the [Megalodaunt](Megalodaunt.md) nest in Upper Erisia and the [Rock Golems](Rock_Golem.md) in the [Burning Stone Gardens](Burning_Stone_Gardens.md).
 
