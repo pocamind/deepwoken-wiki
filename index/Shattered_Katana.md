@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 228145
+revid: 228759
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Maestro Evengarde Rest, Elder Primadon, Primadon, Titan of the EastVow of Iron:, Flashing Thunder Memento |
+| obtainment | Chests from:, Maestro Evengarde Rest, Cinders of Etris, Elder Primadon, Primadon, Titan of the EastVow of Iron:, Flashing Thunder Memento |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description

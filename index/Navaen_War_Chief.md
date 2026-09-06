@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 223296
+revid: 228758
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, The Children of Navae, Outfits with Talents, Outfits with Exclusive Talents]
@@ -41,7 +41,7 @@ This Outfit has 3000 durability and grants +30% Physical resistance ResistancePh
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 37% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 33.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Chief's Will](Talents.md#chiefs-will) Talent grants a 10% penetration buff on the [Fist](Fists.md) M1s and Criticals with the M1 tag while using the [Way of Navae](Way_of_Navae.md) Fist Style. This doss not bypass the PEN cap.
+The [Chief's Will](Talents.md#chiefs-will) Talent grants a 10% penetration buff on the [Fist](Fists.md) M1s and Criticals with the M1 tag while using the [Way of Navae](Way_of_Navae.md) Fist Style. This does not bypass the PEN cap.
 
 ## Trivia
 
