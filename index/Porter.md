@@ -1,9 +1,9 @@
 ---
 title: Porter
-revid: 224902
+revid: 228753
 source: https://deepwoken.fandom.com/wiki/Porter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
+categories: [Khan NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns, The Summer Company]
 ---
 
 # Porter
