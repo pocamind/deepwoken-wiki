@@ -1,6 +1,6 @@
 ---
 title: Sachan Choji Mofisu
-revid: 213886
+revid: 228786
 source: https://deepwoken.fandom.com/wiki/Sachan_Choji_Mofisu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Sachans]
@@ -25,6 +25,10 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Sachan Choji Mofisu, also known as Choji Mofisu, is the leader of [Clan Mofisu](Clan_Mofisu.md) and one of the four sachans of the [Etrean Royalists](Etrean_Royalists.md). A devout follower of [Mur Of Light](Mur_Of_Light.md) alongside his Clan.
+
+## Trivia
+
+-   When the camera is clipped inside their katana, the blade is a green color reflecting their clan's color scheme.
 
 ## References
 

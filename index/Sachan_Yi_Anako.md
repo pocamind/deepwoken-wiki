@@ -1,6 +1,6 @@
 ---
 title: Sachan Yi Anako
-revid: 213885
+revid: 228784
 source: https://deepwoken.fandom.com/wiki/Sachan_Yi_Anako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, Stub pages without reason, StubPages, Sachans]
@@ -25,6 +25,10 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Sachan Yi Anako, is the leader of [Clan Anako](Clan_Anako.md) and one of the four sachans of the [Etrean Royalists](Etrean_Royalists.md). Yi is known for her short temper and unfiltered honesty, qualities that often make negotiations more difficult.
+
+## Trivia
+
+-   When the camera is clipped inside their katana, the blade is a red color reflecting their clan's color scheme.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Sachan Shisui Kobura
-revid: 211001
+revid: 228785
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Sachans, Humanoids with Unobtainable Outfits]
@@ -105,3 +105,4 @@ Sachan Shisui Kobura is located at [The Indigo Citadel](The_Indigo_Citadel.md), 
 ## Trivia
 
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/8457576608/Hokkaido-Ronin) • [Pants](https://www.roblox.com/catalog/8457577787/Hokkaido-Ronin)
+-   When the camera is clipped inside her katana, the blade is black. This is far different from the other Sachan's as each Sachan has a katana that bears their reflecting clan's color scheme.
