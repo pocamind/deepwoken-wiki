@@ -197,7 +197,7 @@
   },
   "1054": {
     "title": "Flamecharm",
-    "lastrevid": 228741
+    "lastrevid": 228766
   },
   "1062": {
     "title": "Spark Gland",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 228728
+    "lastrevid": 228781
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -629,7 +629,7 @@
   },
   "1966": {
     "title": "The Lord Regent",
-    "lastrevid": 226754
+    "lastrevid": 228767
   },
   "1967": {
     "title": "Bandit",
@@ -981,7 +981,7 @@
   },
   "2751": {
     "title": "Dimensional Travel",
-    "lastrevid": 227506
+    "lastrevid": 228765
   },
   "2752": {
     "title": "Sacred Field",
@@ -6401,7 +6401,7 @@
   },
   "18609": {
     "title": "Titus Fulminus Destellus",
-    "lastrevid": 228298
+    "lastrevid": 228770
   },
   "18610": {
     "title": "Wrath Gem",
@@ -7341,7 +7341,7 @@
   },
   "20960": {
     "title": "Ritual Sacrifice",
-    "lastrevid": 227994
+    "lastrevid": 228778
   },
   "20967": {
     "title": "??? (Blindseer Glyphs)",
@@ -9781,7 +9781,7 @@
   },
   "26484": {
     "title": "Tenacity",
-    "lastrevid": 228173
+    "lastrevid": 228776
   },
   "26515": {
     "title": "Cathedral's Spire",
@@ -9790,5 +9790,9 @@
   "26542": {
     "title": "Lance's mother",
     "lastrevid": 228698
+  },
+  "26547": {
+    "title": "Hall of Memory",
+    "lastrevid": 228779
   }
 }

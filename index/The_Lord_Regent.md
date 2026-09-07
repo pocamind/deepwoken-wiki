@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 226754
+revid: 228767
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits, Prophets of The Ministry]
@@ -462,8 +462,9 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
 -   Zi'eer (Lord Regent) hair ID: 6536289312; and the link: [https://www.roblox.com/catalog/6536308118/Long-White-Hair](https://www.roblox.com/catalog/6536308118/Long-White-Hair) (colored differently ingame)
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) / [Pants](https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider)
 -   The Lord Regent is supposed to be voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz). However, despite having fully recorded voice lines for his dialogue, they for some reason were not implemented.
+-   The Term "Regent" means "a person who rules a country as a temporary substitute when the real king or queen cannot.[\[6\]](#cite-note-6)" This is likely a play on how he Killed [Lord Guardian Ji'ang](<Ji'ang.md>) and "inherited" the throne
 
-## References
+## [References](Lore.md)
 
 1.  ↑ [1.0](#cite-ref-oc-1-0) [1.1](#cite-ref-oc-1-1) [1.2](#cite-ref-oc-1-2) [Talent](Talents.md): [Contractor](Talents.md#contractor) - Oath: Contractor
 2.  [↑](#cite-ref-2) NPC dialogue: [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md)  
@@ -472,4 +473,6 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
     _I suppose we became too much of a threat to the Lord Regent. The Old Guard used the Monastery of [Mur](Glossary.md#mur-of-light) as a sort of clandestine base of operations, after the Calamity's forces began tracking our every move._
 4.  [↑](#cite-ref-4) NPC dialogue: [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)  
     _The Vigils are loyal to me - we have already rooted out any would-be traitors. Anyone who is not one of us may be an agent of the Calamity. But nobody has come to our island since the start of the Civil War, spare for other Ironsworn, and you. Zi'eer's forces lurk at our doorstep like starving wolves, howling for blood and carnage._
-5.  ↑ [5.0](#cite-ref-opr-5-0) [5.1](#cite-ref-opr-5-1) [Book](Books.md): [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)
+5.  ↑ [5.0](#cite-ref-opr-5-0) [5.1](#cite-ref-opr-5-1) [Book](Books.md): [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)  
+    
+6.  [↑](#cite-ref-6) Wikipedia Contributors. (2019, November 26). _Regent_. Wikimedia Foundation. Wikipedia.

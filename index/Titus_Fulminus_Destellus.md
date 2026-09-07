@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 228298
+revid: 228770
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits, Humanoid Bosses]
@@ -291,6 +291,7 @@ Dodge
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
 -   This move is easy to avoid if you run back or dash back.
+-   Acts as an uppercut, will hold titus in the air if [Payback](Payback.md) is used on this.
 
 _Uses Telegraph_
 
@@ -336,10 +337,12 @@ Avoid
 
 -   **Enough with Restraint** - Upon reaching 50% of his health, Titus will initiate a cutscene, healing to 60% in the process and advancing to the next phase. For a brief moment, the Detainment Core will shake, causing debris to collapse from the ceiling. He will also be in Sovereign state for the rest of the fight.
     -   The fact that he heals his health to 60% upon advancing to the next phase can be problematic when using [Poser's Ring](<Poser's_Ring.md>) or [Moppet](Moppet.md) since he'll, unlike other boses, heal up to 60% instead of having a small remainder of health upon other miscalculations of how much damage you've done.
--   **Weakling Beater** - Titus will deal extra damage to NPCs in the Detainment Core.
+-   **The Weak Must Fall** - Titus's PvE damage is greatly amplified.
+    -   Can deal thousands of PvE damage in a singular move being able to take down any guard easily.
 -   **Commander's Respite** - Titus will begin regenerating health when not actively engaged in combat.
 -   **Thorn Guard** - Titus is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
 -   **Unharvestable** - Healing from [Bloodless Gems](Bloodless_Gem.md) are less effective.
+-   **Strong footing** - Titus cannot be uppercuted via normal means.
 
 ### Talents
 
@@ -348,7 +351,7 @@ Avoid
 
 ### Finishers
 
--   Despite lacking a proper execution animation, Titus will use Commander's Whirlthrow to quickly execute knocked opponents.
+-   Lacking a proper execution animation, Titus will use Commander's Whirlthrow to quickly execute knocked opponents.
 
 ## Tips and Strategies
 

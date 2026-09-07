@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228728
+revid: 228781
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3726,7 +3726,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second attack that deals your weapon's raw damage.
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
-    -   Deals half of your weapon's scaled damage, withe no PEN.
+    -   Deals half of your weapon's scaled damage, with no PEN.
+    -   One second window to proc it after a roll cancel
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
     -   Cannot be parried.
     -   Players with [Turtle Shell](#turtle-shell) or [Arc Module: Guard](#arc-module-guard) active are immune to Spine Cutter.  
@@ -3735,11 +3736,12 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 20 Strength, 25 Agility  
         
-    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[M1 Tag\]
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[Backhit\] \[M1 Tag\]
 
 -   **Spine Cutter** \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second attack that deals your weapon's raw damage.
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
-    -   Deals half of your weapon's scaled damage, withe no PEN.
+    -   Deals half of your weapon's scaled damage, with no PEN.
+    -   One second window to proc it after a roll cancel
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
     -   Cannot be parried.
     -   Players with [Turtle Shell](#turtle-shell) or [Arc Module: Guard](#arc-module-guard) active are immune to Spine Cutter.  
@@ -3748,7 +3750,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 20 Strength, 25 Agility  
         
-    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[M1 Tag\]
+    -   Tags: \[Strength\] \[Agility\] \[+Passive Agility\] \[Backhit\] \[M1 Tag\]
 
 -   **Steady Nerves** \[Common Talent\] - You dance from toe to toe - successful dodges restore posture.
     -   Restores 2 flat posture on a successful dodge.  
@@ -4029,20 +4031,30 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Intelligence\] \[Investment Scaling\] \[Scale-down\]
 
 -   **Behind You** \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will apply an ether slash, dealing extra damage based on how much ether you have left.
-    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 30 damage when at full Ether. This has no cooldown.
-    -   You can proc Behind you and [Spine Cutter](#spine-cutter) at the same time, but the proc window is very tight.  
+    -   This deals a separate instance of physical damage which is parriable, scaling on your current Ether%, dealing 30 damage when at full Ether.
+    -   Deals 15 damage at full Ether when shrined down no matter the investment.
+    -   Behind you has no cooldown.
+    -   Can proc through rolling players as long as you hit their back.
+    -   You can proc Behind you and [Spine Cutter](#spine-cutter) at the same time, but the proc window is very tight. The order of Behind you and [Spine Cutter](#spine-cutter) depends on which one was used first.
+    -   Can proc from criticals with the M1 tag.
+    -   This has a 3 second proc window after feinting a mantra.  
         
     -   Prerequisites: [Keen Recovery](#keen-recovery), 40 Agility, 70 Intelligence  
         
-    -   Tags: \[Agility\] \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Agility\] \[Backhit\] \[Scale-down\] \[M1 Tag\]
 
 -   **Behind You** \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will apply an ether slash, dealing extra damage based on how much ether you have left.
-    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 30 damage when at full Ether. This has no cooldown.
-    -   You can proc Behind you and [Spine Cutter](#spine-cutter) at the same time, but the proc window is very tight.  
+    -   This deals a separate instance of physical damage which is parriable, scaling on your current Ether%, dealing 30 damage when at full Ether.
+    -   Deals 15 damage at full Ether when shrined down no matter the investment.
+    -   Behind you has no cooldown.
+    -   Can proc through rolling players as long as you hit their back.
+    -   You can proc Behind you and [Spine Cutter](#spine-cutter) at the same time, but the proc window is very tight. The order of Behind you and [Spine Cutter](#spine-cutter) depends on which one was used first.
+    -   Can proc from criticals with the M1 tag.
+    -   This has a 3 second proc window after feinting a mantra.  
         
     -   Prerequisites: [Keen Recovery](#keen-recovery), 40 Agility, 70 Intelligence  
         
-    -   Tags: \[Agility\] \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Agility\] \[Backhit\] \[Scale-down\] \[M1 Tag\]
 
 -   **Unwavering Focus** \[Common Talent\] - When your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are parried, receive less posture (scales with intelligence).
     -   Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.  

@@ -1,6 +1,6 @@
 ---
 title: Tenacity
-revid: 228173
+revid: 228776
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Shields, Offhand, Named Weapons, Named Items]
@@ -47,3 +47,4 @@ Equipping the Tenacity grants its unique [weapon Talent](Talents.md#weapon-talen
 ## Trivia
 
 -   The first person to get the Tenacity shield received the custom title "Vider, The First Wielder of the Iron Citadel".
+-   Attacks like Champions Whirlthrow which grab/stun you and guardbreak/block bypass will not damage you on first hit. It will bypass the block and still grab/stun you continuing the attack as normal.
