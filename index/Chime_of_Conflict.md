@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 224154
+revid: 228795
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Game Modes]
@@ -105,7 +105,6 @@ Ranked **(Top 251-1000)**
 
 -   The music for the queue area is [The Games Of War](Deepwoken_OST.md#the-games-of-war) by Naktigonis.
 -   The "Godseeker" title refers to those who [seek out the Drowned Gods](Mendacia.md#dialogue)
-    -   This is, in-itself, a reference to the [Hollow Knight games](https://en.wikipedia.org/wiki/Hollow_Knight)
 -   The lowest Elo possible is 500.
 -   You get a ranking once you are in the top 2500.
 -   Originally, Chime of Conflict featured a skull system. Every player would have 3 skulls that reset back daily. Upon losing a match, you'd lose a skull, and upon winning a match, you'd gain a skull back. Losing all three would send players to the Depths. However, following popular demand and outcry from players and public figures such as the Youtuber Eclipse, the skull system was ultimately removed.

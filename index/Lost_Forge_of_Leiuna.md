@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 218498
+revid: 228797
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, World Event]
@@ -20,7 +20,7 @@ Leiuna's pride, and the birthplace of the Imperators' armaments. Seeking ever-gr
 
 ## Description
 
-The Lost Forge of Leiuna is a large volcanic island that was once a town of smiths. It is home to the Lost Forge, a special crafting station used to recreate powerful [Equipment](Equipment.md) and weapons similar to ones in [Vow of Iron](Vow_of_Iron.md). It seems that its destruction was caused by the blacksmiths becoming too greedy from their machinations with the Lost Forge
+The Lost Forge of Leiuna is a large volcanic island that was once a town of smiths. It is home to the Lost Forge, a special crafting station used to recreate powerful [Equipment](Equipment.md) and weapons similar to ones in [Vow of Iron](Vow_of_Iron.md). It seems that its destruction was caused by the blacksmiths becoming too greedy from their machinations with the Lost Forge.
 
 ## The Lost Forge
 

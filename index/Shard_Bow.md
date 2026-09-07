@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 228756
+revid: 228796
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -55,3 +55,4 @@ When obtained, Shard Bow will spend its points on the following stats:
 -   Shard bow's string stretches when pulled back, unlike real world bows, in which the string does not stretch, but rather the legs bend.
 -   Shard bow appears to be a 'Bare bow' which is an unmodified version of a recurve bow.
 -   Due to a bug, the Corrupted variant used to have Flamecharm scaling, increasing its base damage from 70 to up to 105.
+-   The Corrupted version of Shard Bow is arguably a nerf since you now deal Flamecharm damage on the bell instead of typeless making it be resisted by Flamecharm which in turn makes you deal less damage than you normally would if it wasn't corrupted, not to mention the added downside of a Corrupted bell.

@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 227612
+revid: 228802
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -34,7 +34,7 @@ Using the Idol of Yun'Shul to escape [The Depths](The_Depths.md) can only be don
 ## Trivia
 
 -   You can hold more than one of this item.
--   Upon usage for Resonance rerolling, you'll obtain the Tarnished flaw.
+-   ~Upon usage for Resonance rerolling, you'll obtain the Tarnished flaw~. This is bugged and currently doesn't work.
     -   You cannot use an Idol of Yun'Shul to reroll your Resonance until you untarnish yourself.
 -   Can't be used in Combat. Dialogue appears saying "The Idol won't respond to a panicked heart."
 -   Attempting to use it in [Fragments of Self](Fragments_of_Self.md) will display a message saying "The Idol cannot respond to a shattered soul"

@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 228430
+revid: 228794
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -39,8 +39,14 @@ Being Etrean also spawns you with bonus [Etrean](Etrea.md) reputation, enough to
   <td><figure><figcaption></figcaption></figure></td>
   <td><b>Molt</b><p><i>"Ailments and blessings alike fade away more quickly."</i></p>
   <ul>
-    <li>The duration of Status Effects, good or bad, is reduced by 15%, however this only applies to <a href="Status_Effects.md#chill">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, and <a href="Alchemy.md">Potions</a></li>
+    <li>The duration of Status Effects, good or bad, is reduced by 15%, however this only applies to <a href="Status_Effects.md#chill">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a> and <a href="Status_Effects.md#burning">Burning</a> negative effects.</li>
+    <li>Only affect any effects applied to you, and does not change by any way effects you give to others.</li>
     <li>Take less damage in acid rain.</li>
+    <li>Your potions has lower duration when used on yourself. As well as any <a href="Alchemy.md">Potions</a> duration on you.</li>
+    <li>burn, including self burn has lower duration (flame within duration 25 &gt; 21,25s)</li>
+    <li>In some cases it can decrease duration of maestro's blade status effect (buff to m1s on using galebreathe inhale),</li>
+    <li>slightly reduces inhale mantra buff duration.</li>
+    <li>this is the only aspect in game wich debuffs you</li>
   </ul></td>
 </tr>
 <tr>
@@ -122,3 +128,5 @@ The color of the scales are based on your skin color, though they can be [Dyed](
 -   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md#survivalist) Boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean aspect name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)
+-   Potions duration decrease only works on yourself. Drinking potion near allies with talent " Placebo Effect " won't decrease duration for your allies. Applying effects to enemies or allies by any way also won't get decreased duration.
+-   It is the only aspect wich debuffs you. This duration debuff may be very notable in real fight (both sides, buffs and debuffs), even if it seems small on paper. Recommended to go attunement-less, or ironsing or bloodrend build for this race, as they do not have any effects wich gets debuffs. Also flamecharm can be also a good option if you aren't going to go around flame within.
