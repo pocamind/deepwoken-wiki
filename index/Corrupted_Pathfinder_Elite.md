@@ -1,6 +1,6 @@
 ---
 title: Corrupted Pathfinder Elite
-revid: 227749
+revid: 228812
 source: https://deepwoken.fandom.com/wiki/Corrupted_Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment, E
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths |
+| obtainment | The Depths, Dravik, The Rat King |
 | description | ... |
 
 Variants: [Pathfinder Elite](Pathfinder_Elite.md)
