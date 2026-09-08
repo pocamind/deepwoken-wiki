@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 225795
+revid: 228840
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Legendary Weapons, Reforged Weapons]
@@ -14,7 +14,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Katan
 | damage type | Slash |
 | requirements | 100 MED |
 | damage | 17.5 |
-| scaling | MED: 6 |
+| scaling | MED: 7 |
 | posture damage | 5 |
 | range | 8 Sweep |
 | swing speed | 1x |

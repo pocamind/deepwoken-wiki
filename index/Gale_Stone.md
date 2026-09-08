@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 208428
+revid: 228859
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -26,7 +26,7 @@ Gale Stones can be acquired by slaying [Enemies](Enemies.md) that use [Galebreat
 
 ## Obtainment Tips
 
--   Killing [Legion Soldiers](Legion_Soldier.md) and [Etrean Soldiers](Etrean_Soldier.md) can drop Gale Stones, and you will not lose reputation among killing them in events at [Erisia](Erisia.md).
+-   Killing [Legion Soldiers](Legion_Soldier.md) and [Etrean Soldiers](Etrean_Soldier.md) can drop Gale Stones, and you will not lose reputation among killing them in **jobs** from [Job Boards](Job_Boards.md).
 -   The [Etrean Guardsmen](Etrean_Guardsmen.md) and [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) at [Etris](Etris.md) drop Gale Stones at an extremely slim chance, and will also lower your reputation with Etrea.
 -   Killing regular and Enhanced [Mudskippers](Mudskipper.md) has a chance to rarely drop Gale Stones.
 -   Killing [Songseeker Galebreather](Songseeker_Galebreather.md) can also drop Gale Stones.

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 228632
+revid: 228860
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -125,7 +125,7 @@ This effect can be applied by being hit by a weapon, monster attack, or Mantra t
 
 ### Wither
 
-Temporarily reduces your maximum health. This effect can be removed by being out of combat, [Resting](#resting), and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#emperor-flame), [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, both of [Kindred Edict](Kindred_Edict.md)'s Critical Attacks when using the [Starkindred](Oath%253A_Starkindred.md) Oath, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect, and [Black Death's](Black_Death.md) unique weapon Talent _Corporeal Dissolution_. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, [Sanguine Transfuser](Sanguine_Transfuser.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Temporarily reduces your maximum health. Wither will also remove regular health if it reaches it. This effect can be removed by being out of combat, [Resting](#resting), and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#emperor-flame), [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, both of [Kindred Edict](Kindred_Edict.md)'s Critical Attacks when using the [Starkindred](Oath%253A_Starkindred.md) Oath, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect, and [Black Death's](Black_Death.md) unique weapon Talent _Corporeal Dissolution_. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, [Sanguine Transfuser](Sanguine_Transfuser.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ### Anti-Heal
 

@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 221383
+revid: 228835
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with multiple Criticals]
@@ -12,14 +12,14 @@ categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunem
 |---|---|
 | type | Greatsword |
 | damage type | Slash |
-| requirements | Rending Needle: Augmenter |
+| requirements | Needleblade |
 | damage | 45 |
 | scaling | N/A |
 | posture damage | 8 |
 | range | 12.5 Sweep |
 | swing speed | 0.8x |
 | attack duration | 1s |
-| endlag | 0.2s |
+| endlag | 0.1s |
 | penetration | 25% |
 | chip damage | 20% |
 | talent | Forced Fulfilment - Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them. |
@@ -33,14 +33,14 @@ categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunem
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Rending Needle: Augmenter |
+| obtainment | Needleblade |
 | description | A sword you summoned using your opponent's metal rods. |
 
 ## Description
 
-The Metal Greatsword is a Heavy Greatsword exclusive to the [Rending Needle: Augmenter](Talents.md#rending-needle-augmenter) Talent. After applying 5 Iron Rods and then pulling them with X, Metal Greatsword will be equipped for 10 seconds, overriding your previous weapon.
+The Metal Greatsword is a Heavy Greatsword exclusive to the [Needleblade](Talents.md#needleblade) Talent. After applying 5 Iron Rods and then pulling them with X, Metal Greatsword will be equipped for 10 seconds, overriding your previous weapon.
 
-[Rending Needle: Augmenter](Talents.md#rending-needle-augmenter) requires 90 Ironsing and 90 Weapon (90 LHT // 90 MED // 90 HVY) to obtain. Additionally, it is mutually exclusive with [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
+[Needleblade](Talents.md#needleblade) requires 90 Ironsing and 90 Weapon (90 LHT // 90 MED // 90 HVY) to obtain. Additionally, it is mutually exclusive with [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
 
 ## Talents
 

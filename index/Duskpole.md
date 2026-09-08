@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 225464
+revid: 228826
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -14,7 +14,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | damage type | Blunt |
 | requirements | 40 MED |
 | damage | 17 |
-| scaling | MED: 5 |
+| scaling | MED: 7, WLL: 1 |
 | posture damage | 6 |
 | range | 7 Sweep |
 | swing speed | 1x |

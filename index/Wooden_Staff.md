@@ -1,9 +1,9 @@
 ---
 title: Wooden Staff
-revid: 225577
+revid: 228824
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
 ---
 
 # Wooden Staff
@@ -17,10 +17,9 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | scaling | MED: 5 |
 | posture damage | 6 |
 | range | 6 Sweep |
-| swing speed | 0.86x |
-| attack duration | 0.8s |
+| swing speed | 1.01x |
+| attack duration | 0.6s |
 | penetration | 15% |
-| talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Wooden Staff |
@@ -39,12 +38,6 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 ## Description
 
 The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category.
-
-## Talents
-
-Equipping the Wooden Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
-
-[**Both Ends**](Talents.md#both-ends) allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Critical
 

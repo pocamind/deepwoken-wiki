@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228781
+revid: 228851
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -7252,13 +7252,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Rending Needle
 
--   _Rending Needle: Augmenter_ \[Rare Talent, Ironsing, Weapon\] - If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your [Metal Armament](Ironsing.md#metal-armament) stronger while the weapon is equipped.
+-   _Needleblade_ \[Rare Talent, Ironsing, Weapon\] - If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your [Metal Armament](Ironsing.md#metal-armament) stronger while the weapon is equipped.
     -   Equips the [Metal Greatsword](Metal_Greatsword.md) weapon on proc.
     -   Having Metal Greatsword equipped increases your Metal Armament damage by 50%.
     -   Metal Greatsword lasts a maximum of 30 seconds before reverting to your original weapon.
     -   Maximum amount of Iron Rods you can apply to a single target is 5.
     -   Prerequisites: 90 Ironsing, 90 Weapon (90 Medium // 90 Light // 90 Heavy)
-    -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer, Gilded Path: Scrapsinger
+    -   Mutual Exclusive: Gilded Path: Scrapsinger
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\], they're dealt with their element back in return.
     -   Works as default path with exception of applying a Conductor rod after 5 normal metal rods are applied.
@@ -7274,7 +7274,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
     -   Conductor's rod on proc doesn't apply pull immunity.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer
+    -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
 -   Conductor's Cable \[Common Talent, Ironsing\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Steals 10% of your enemy's maximum armor durability on proc.
@@ -7289,7 +7289,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Innately has 0% PEN.
     -   Has 6.5x PvE multiplier.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer
+    -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them for 1s instead of pulling them.
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10. You can no longer use your Pull on targets who have less than 5 rods.
@@ -7297,7 +7297,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Jailer's duration scales on your Ironsing investment, but is not affected by the quantity of rods applied.
     -   For every rod over 5, add 3 damage to Jailer's Pull for 15 damage at 10 rods.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Conductor
+    -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Conductor
 
 ### Saboteur
 
@@ -7495,7 +7495,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Gilded Path: Scrapsinger \[Common Talent, Ironsing\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
     -   Your Ironsing Mantras/abilities, Ironsing legendary weapons, and Metal Rods are now yellow.
     -   Prerequisite: 35 Ironsing
-    -   Mutual Exclusive: Rending Needle: Augmenter
+    -   Mutual Exclusive: [Needleblade](#needleblade)
 
 -   Artisan's Blade \[Common Talent, Ironsing\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
     -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 × (1 + 0.005 × Ironsing investment). They deal 4.5 posture damage each if blocked. Their damage cannot be modified.
@@ -8363,6 +8363,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Vanguard Arts
 
+-   Both Ends \[Common Talent, Medium Weapon\] - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
+    -   This attack comes out much faster, and deals 135% of your weapon damage.
+    -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
+    -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
+    -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](#counter-spin).
+    -   Prerequisites: 30 Medium Weapon, Staff equipped
+
 -   Counter Spin \[Common Talent, Medium Weapon\] - After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust the back-end of your Staff forwards, dealing 45% of your weapon's damage on hit.
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
@@ -8625,12 +8632,6 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
     -   This Talent was formerly called "Bloodthirsty".
     -   For the [Bloodbane](Bloodbane.md)'s other Talent, view [Devastating Recovery](#devastating-recovery).
-
--   Both Ends: All [Staves](Staves.md) - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
-    -   This attack comes out much faster, but only deals 45% of your weapon damage.
-    -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
-    -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
-    -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](#counter-spin).
 
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
     

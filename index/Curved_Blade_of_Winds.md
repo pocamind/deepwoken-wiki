@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 225835
+revid: 228823
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -17,7 +17,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | damage | 17.5 |
 | scaling | MED: 5, WND: 5 |
 | posture damage | 5 |
-| range | 8 Sweep |
+| range | 7.5 Sweep |
 | swing speed | 1.04x (two-handed), 1.02x (one-handed) |
 | attack duration | 0.6s |
 | penetration | 15% |

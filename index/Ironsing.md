@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 227027
+revid: 228853
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1060,28 +1060,28 @@ These are Talents found in "_Rending Needle_" Category. (You can only have one o
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Rending Needle: Augmenter  
+|  | Needleblade  
 (90 Ironsing, 90 Weapon) | If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped. | Your weapon will be replaced with the [Metal Greatsword](Metal_Greatsword.md) for a few seconds. While active, your [Metal Armament](#metal-armament) damage is increased by 50%.
   
-Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer, Gilded Path: Scrapsinger
+Gilded Path: Scrapsinger
 
  |
 |  | Conductor's Cable  
 (75 Ironsing) | Applying Conductor rods on opponents steals 10% of their current armor durability to you. |  |
 |  | Rending Needle: Conductor  
-(75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Ironsing, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer |
+(75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Ironsing, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer |
 |  | Rending Needle: Impaler  
 (75 Ironsing) | If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. | Increases the amount of Rods you can apply from 5 to 10. The damage scales on your Ironsing investment.
 
   
-Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer
+Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 
  |
 |  | Rending Needle: Jailer  
 (75 Ironsing) | If an enemy has 5 or more rods, your Ironsing Pull will restrain them for 1s instead of pulling them. | Your Ironsing Pull applies a brief stun and applies a debuff that prevents sprinting or dodging, for a duration that scales on your Ironsing investment. For every rod over 5, deal 3 damage on Pull, up to 15 at 10 Rods. Increases the amount of Rods you can apply from 5 to 10.
 
   
-Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Impaler
+Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler
 
  |
 
@@ -1092,7 +1092,11 @@ These are Talents found in "_Scrapsinger_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Gilded Path: Scrapsinger  
-(35 Ironsing) | Flourishing an enemy consumes any rods they have and siphons their armor to you per rod. | When flourishing an enemy, you consume any rod on they have and steal their armor. Also turns your Ironsing mantras gold / yellow. |
+(35 Ironsing) | Flourishing an enemy consumes any rods they have and siphons their armor to you per rod. | When flourishing an enemy, you consume any rod on they have and steal their armor. Also turns your Ironsing mantras gold / yellow.
+  
+Mutual Exclusive: Needleblade
+
+ |
 |  | Artisan's Blade  
 (Gilded Path: Scrapsinger, 45 Ironsing) | Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack. | Activating Scrapsinger summons a metal blade for each 2 rod consumed that will fire at the target when landing an ironsing or a metal infused attack. |
 |  | Masterwork  

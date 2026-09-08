@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 221424
+revid: 228830
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -14,7 +14,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | damage type | Blunt |
 | requirements | 50 MED, Origin: Justicar |
 | damage | 19.5 |
-| scaling | MED: 6.5 |
+| scaling | MED: 8 |
 | posture damage | 6 |
 | range | 8 Sweep |
 | swing speed | 0.92x |
