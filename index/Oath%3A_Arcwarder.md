@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 216318
+revid: 228821
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -147,7 +147,7 @@ Aerial: + Oath [ResistanceOath](Oaths.md)
 
  | 
 
-TBA
+Defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)/[Scion of Ethiron](Scion_of_Ethiron.md) four times(total)
 
  |
 | 
