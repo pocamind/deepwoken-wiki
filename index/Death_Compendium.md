@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 227116
+revid: 228811
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken, Vows, The Depths]
@@ -49,7 +49,6 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
     -   **Note:** You will not be auto-banned for being AA-gunned, but a log of it will be made. If you die too many times via being AA-gunned, you _will_ be at a higher risk for being banned. Have a clipping software open at all times in case this happens.
 -   Mistake the parasite eggs growing on your body for clumps of snow in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). (You will die a few minutes after 5 parasites have accumulated)
 -   Be erased from existence by [New Kyrsa](Second_Layer/New_Kyrsa.md)'s space-time collapse, either by the unstable orbs or from not getting back to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)' [Light Hook](Light_Hook.md) in time.
--   Find a way to escape the reset timer before it hits zero seconds, _without_ using a combat tag.
 -   Being blown into the side of a bridge by the wind in the Eternal Gale while knocked.
 -   Getting knocked by a player, then getting flung into a different universe due to a bug, then dying to fall damage.
 -   Falling into the void in the [First Layer](First_Layer.md) without meeting the layer descent health requirement.

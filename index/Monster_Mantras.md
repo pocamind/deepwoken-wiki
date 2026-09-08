@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 227643
+revid: 228809
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -498,9 +498,15 @@ N/A
 
 **Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](Enforcer.md)'s '**Space Pull'** attack._
 
--   Missing still takes Ether and does not put this mantra on cooldown.
--   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) all-but removes the windup of the pull after landing a flourish.
--   Can be modified with Crystal and Perfect lens to slighty increase range.
+-   Deals 0.1 damage and can be affected by damage modifiers.
+    -   This allows the mantra to proc Deep Gems & Talents.
+-   Has a default windup of 0.8s.
+-   Enforcer Pull has a 10 second cooldown.
+-   Whiffing the mantra will take ether and put it on a 1.5 second cooldown.
+-   Enforcer Pull's default range is 50 studs, with it increasing by 1 for each range modification.
+    -   This means at 4 Perfect & 4 Crystal lenses, you can achieve a range of 70 studs (+20 range).
+-   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) reduces the windup to 0.5s and increases the range by 60 (to 110, max of 130) studs for 5s after landing a **default** flourish.
+    -   This effect cannot be procced while Enforcer Pull is on cooldown, and only activates with **default** flourishes. "Flourish" talents or effects do not count.
 
  |
 

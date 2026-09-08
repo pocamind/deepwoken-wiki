@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 228526
+revid: 228810
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Humanoids with Unobtainable Outfits, Enemies, Humanoid Bosses]
@@ -12,7 +12,6 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, 
 |---|---|
 | health | 6000 |
 | drops | 3 Knowledge, 2,500 Notes, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
-| weapon | The King's Greataxe |
 | moves | Axe Swings, Critical, Feint, Golden Tornado, Gilded Rushdown, Aureate Flourish, Gilded Left, Glowing Slashes, Ruler's Rush, Three Swing Cleave, Pasmarkintini, Sparkle Blitz, Rodent Pounce, Rites of the Rat, King's Might: Glistening Crush |
 | affiliation | The Golden Rats |
 

@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 228794
+revid: 228804
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -12,7 +12,7 @@ categories: [Aspects]
 |---|---|
 | obtained_by | 14.5% Roll Chance (Pathfinder)14.17% Roll Chance (Vow Of Iron) |
 | appearance | Pale Skin, Verticle Pupils, White, Light Blue, or Black Hair |
-| traits | Molt, Poison Resistance, +3 Intelligence, +2 Agility, Increased Rep with Etrea |
+| traits | Molt, +3 Intelligence, +2 Agility, Increased Rep with Etrea |
 
 _Defined by their snake-like features and cunning.  
 Isolationists who tend to their own interests._
@@ -39,14 +39,11 @@ Being Etrean also spawns you with bonus [Etrean](Etrea.md) reputation, enough to
   <td><figure><figcaption></figcaption></figure></td>
   <td><b>Molt</b><p><i>"Ailments and blessings alike fade away more quickly."</i></p>
   <ul>
-    <li>The duration of Status Effects, good or bad, is reduced by 15%, however this only applies to <a href="Status_Effects.md#chill">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a> and <a href="Status_Effects.md#burning">Burning</a> negative effects.</li>
-    <li>Only affect any effects applied to you, and does not change by any way effects you give to others.</li>
+    <li>The duration of Status Effects, good or bad, is reduced by 15%, however this only applies to <a href="Status_Effects.md#chill">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, and <a href="Status_Effects.md#burning">Burning</a> negative effects.</li>
+    <li>Outgoing status effects are unaffected by Molt.</li>
     <li>Take less damage in acid rain.</li>
-    <li>Your potions has lower duration when used on yourself. As well as any <a href="Alchemy.md">Potions</a> duration on you.</li>
-    <li>burn, including self burn has lower duration (flame within duration 25 &gt; 21,25s)</li>
-    <li>In some cases it can decrease duration of maestro's blade status effect (buff to m1s on using galebreathe inhale),</li>
-    <li>slightly reduces inhale mantra buff duration.</li>
-    <li>this is the only aspect in game wich debuffs you</li>
+    <li>The Burn duration decrease also applies to self burn, which may be a detriment to the player.</li>
+    <li>Slightly reduces the duration of <a href="Talents.md#inhale">Inhale</a>'s effects.</li>
   </ul></td>
 </tr>
 <tr>
@@ -126,7 +123,7 @@ The color of the scales are based on your skin color, though they can be [Dyed](
 -   It was stated pre-release that Etreans were Xenophobic and would discriminate against players based on their aspect. This was _mostly_ removed (or perhaps never existed at all) some time before the game came out, however the community's perception of Etreans has not changed.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
 -   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md#survivalist) Boon is still a viable option.
--   During 4/1/2022 April fools update (Mudwoken), Etrean aspect name was changed to 'Moltskipper'.
+-   During the [Mudwoken](Version_History/2022-2021.md#april-1st-2022), 2022 April fools update, the Etrean aspect's name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)
--   Potions duration decrease only works on yourself. Drinking potion near allies with talent " Placebo Effect " won't decrease duration for your allies. Applying effects to enemies or allies by any way also won't get decreased duration.
--   It is the only aspect wich debuffs you. This duration debuff may be very notable in real fight (both sides, buffs and debuffs), even if it seems small on paper. Recommended to go attunement-less, or ironsing or bloodrend build for this race, as they do not have any effects wich gets debuffs. Also flamecharm can be also a good option if you aren't going to go around flame within.
+-   Potion effects you apply to your allies via [Placebo Effect](Talents.md#placebo-effect) retain their original duration.
+-   Etrean is the only debuff to actively debuff/hinder the player. It is recommended to use Attunements that Molt has no effect on, as to not decrease the duration of your self-applied status effects.
