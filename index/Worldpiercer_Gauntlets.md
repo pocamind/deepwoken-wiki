@@ -1,9 +1,9 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 227935
+revid: 228903
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, Weapons of The Hundred Legions, The Hundred Legions]
+categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Weapons with Talents, Fists, Light Weapons, Weapons of The Hundred Legions, The Hundred Legions]
 ---
 
 # Worldpiercer Gauntlets
@@ -20,6 +20,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | swing speed | 1.08x |
 | attack duration | 0.5s |
 | penetration | 15% |
+| talent | Concussive Strike - Anytime you ragdoll your opponent, disable your opponents ability to cancel that ragdol for half a second. Deal 5 extra blunt damage when this occurs. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -36,6 +37,12 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 ## Description
 
 The Worldpiercer Gauntlets are a Fist Weapon obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). They appear as bronze gauntlets with glowing roman numerals carved into them.
+
+## Talent
+
+Equipping the Worldpiercer Gauntlets grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Concussive Strike**](Talents.md#concussive-strike) prevents your opponent from ragdoll canceling for 0.5s whenever you [Ragdoll](Status_Effects.md#ragdoll) them. When this happens, deal an additional 5 ResistanceBlunt Blunt damage on top.
 
 ## Critical
 

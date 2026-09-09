@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 225020
+revid: 228916
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -132,6 +132,11 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 ## Passives
 
 -   **Perpetual Speed Boost** - The Blacksteel Pirate Captain moves incredibly fast at all times. Running is not an option.
+-   **Displacement -** being hit has a chance to gain hyperamor for a short duration.
+
+## Talents
+
+-   [**Frenzied Slash**](Talents.md#frenzied-slash) adds any damage taken during their critical attack's wind-up directly to the damage their critical attack deals.
 
 ## Tips
 

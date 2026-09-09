@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 228006
+revid: 228912
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,7 +40,7 @@ Variants: [Helm](Ossified_Black_Helm.md)
 
 Ossified Black Pauldrons are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. This Talent cannot reduce a damage value below 1.
+The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers but before resistances. This Talent cannot reduce a damage value below 1.
 
 ## Set Bonus
 
@@ -48,7 +48,13 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
 
-The Set Talent does not work in [Chime of Conflict](Chime_of_Conflict.md) as when you call upon your [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) the message "Your pirate allies dont respond. they've fallen alseep..." appears.
+The Set Talent cannot be used in [Chime of Conflict](Chime_of_Conflict.md). Attempting to summon the [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) will instead display the message: "Your pirate allies dont respond. they've fallen alseep..."
+
+If the summoned [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) do not find an enemy to fight, they will despawn after 30 seconds.
+
+The [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) may spawn above ceilings while inside [Dungeons](Dungeons.md) or the [Voidheart](Voidheart.md).
+
+The summoned pirates count as allies and can benefit from [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
 
   
 

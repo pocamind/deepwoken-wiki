@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 213396
+revid: 228870
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -27,3 +27,4 @@ The Varicosa District is a section of The City of the Drowned distinguished by b
 ## Trivia
 
 -   Due to the [Varicosan Finery](Varicosan_Finery.md) Outfit and the location flavour text, it can be assumed that this was the home to the upper class of Celtor.
+-   The name 'Varicosa' may be derived from [varicose veins](https://en.wikipedia.org/wiki/Varicose_veins) (don't click if you're queasy,) which is a medical condition in which superficial veins become enlarged and twisted. This probably has some symbolic value.

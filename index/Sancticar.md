@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 228830
+revid: 228904
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -20,7 +20,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | swing speed | 0.92x |
 | attack duration | 0.7s |
 | penetration | 15% |
-| talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
+| talent | Eyes On Me - Landing a Both End's staff strike will cause all damage your opponent does to be reduced by 20% for the next 20 seconds to any target besides you. |
 | stances | 2 Handed, 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
@@ -44,7 +44,7 @@ Location
 
 Equipping the Sancticar grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Both Ends**](Talents.md#both-ends) allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+[**Eyes On Me**](Talents.md#eyes-on-me) reduces your opponent's damage to targets who **aren't you** by 20%, for 20 seconds, when you land a [Both Ends](Talents.md#both-ends) Staff Strike.
 
 ## Critical
 

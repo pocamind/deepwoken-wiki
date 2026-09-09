@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 223354
+revid: 228873
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -146,7 +146,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 
 Upon reactivating your Resonance while your Crazy Slots weapon is active, perform a special attack. The special attack varies depending on your currently equipped Soulwrought weapon. Using this ends your resonance early, returning you back to your original weapon.
 
-The special abilities deal physical damage and do not have any scaling.
+The special abilities deal physical damage (except for the spear) and do not have any scaling.
 
 ### Soulwrought Dagger
 
@@ -163,22 +163,21 @@ The user flips upside down and rapidly shoots at the target six times, finishing
 
 ### Soulwrought Longsword
 
-The user strikes forward with their elbow, followed by a [red telegraph](Combat_Mechanics.md#red) leading into three Soulwrought slashes, the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+The user strikes forward with their elbow. If it lands, it is followed by a [red telegraph](Combat_Mechanics.md#red), then leads into three Soulwrought slashes, with the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
 
 -   Deals 37.5 damage per hit.
 
 ### Soulwrought Spear
 
-The user rises into the air and fires three Soulwrought spears. Also used by [Sworn Angels](Sworn_Angel.md), shooting up to a total of five spears.
+The user rises into the air and fires three Soulwrought spears. A faster version is used by [Sworn Angels](Sworn_Angel.md), where they shoot a total of 5 spears.
 
 -   Deals 42 **typeless damage** per hit.
 
 ### Soulwrought Greataxe
 
-The user rises into the air and plummet towards their cursor.
+The user rises into the air and plummets towards their cursor.
 
 -   Deals 75 damage.
--   Large hitbox is behind the user; will not deal damage if you land on or in front of the target
 
 ### Soulwrought Greatsword
 

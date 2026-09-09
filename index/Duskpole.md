@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 228826
+revid: 228905
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -20,7 +20,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | swing speed | 1x |
 | attack duration | 0.6s |
 | penetration | 5% |
-| talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
+| talent | Overwhelming Stability - Landing a Both Ends staff strike will now instantly proc insanity debuffs onto your opponent. The damage from insanity procs is further increased the greater the distance there is between you and your opponents [5 sec CD] |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Wooden Staff |
@@ -44,7 +44,7 @@ The Duskpole is a [Staff](Weapons.md) weapon in the Medium category.
 
 Equipping the Duskpole grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Both Ends**](Talents.md#both-ends) allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+[**Overwhelming Stability**](Talents.md#overwhelming-stability) applies the effects of [Insanity](Insanity.md) to your opponent when you land a [Both Ends](Talents.md#both-ends) staff strike. This has a 5 second cooldown. Additionally, the damage these Insanity effects deal scales on the distance between you and your opponent.
 
 ## Critical
 

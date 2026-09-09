@@ -1,9 +1,9 @@
 ---
 title: The Barrel
-revid: 227211
+revid: 228900
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapons of The Summer Company]
+categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapons of The Summer Company]
 ---
 
 # The Barrel
@@ -22,6 +22,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatca
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 15% |
+| talent | The Big One - Your critical attack's projectile size and explosion size is doubled. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -40,6 +41,12 @@ _Not to be confused with [Barrels](Barrel.md)._
 ## Description
 
 A cannon salvaged from a royal Etrean galleon by the Summer Company and molded into a more handheld design, The Barrel is a very large [Greatcannon](Weapons.md#greatacannons) held with both hands.
+
+## Talent
+
+Equipping the The Barrel grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**The Big One**](Talents.md#the-big-one) doubles the size of your critical attacks projectile, and subsequent explosion.
 
 ## Critical
 

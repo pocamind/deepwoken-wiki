@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 228012
+revid: 228917
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -70,6 +70,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 ## Effects
 
 -   Ability to wield weapons with 25 investment points lower than its weapon stat requirement (this will not work on core attribute requirements).
+    -   You are also able to upgrade weapons using a [Pluripotent Alloy](Pluripotent_Alloy.md) with 25 investment points lower than its weapon stat requirement.
 -   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
 -   Attunements are unable to be obtained.
 -   "Elemental" weapons **cannot** be equipped.

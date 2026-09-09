@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 228865
+revid: 228867
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -39,12 +39,12 @@ Being Etrean also spawns you with bonus [Etrean](Etrea.md) reputation, enough to
   <td><figure><figcaption></figcaption></figure></td>
   <td><b>Molt</b><p><i>"Ailments and blessings alike fade away more quickly."</i></p>
   <ul>
-    <li>The duration of Status Effects applied to you, good or bad, is reduced by 15%, however this only applies to <a href="Status_Effects.md#chill">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, and <a href="Status_Effects.md#burning">Burning</a> negative effects.</li>
-    <li>Potions are also get 15% duration reduction, no matter good or bad effects it has</li>
-    <li>Outgoing status effects are unaffected by Molt.</li>
-    <li>Take less damage in acid rain.</li>
-    <li>The Burn duration decrease also applies to self burn, which may be a detriment to the player.</li>
-    <li>Slightly reduces the duration of <a href="Talents.md#inhale">Inhale</a>'s effects.</li>
+    <li>The duration of specific Status Effects applied to you are reduced by 15%.
+  <ul>
+    <li>This applies to: <a href="Status_Effects.md#chilled">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, <a href="Status_Effects.md#burning">Burning</a> (including self-applied burn), <a href="Talents.md#inhale">Inhale</a>'s effects, and <a href="Alchemy.md">Potions</a>.</li>
+  </ul></li>
+    <li>Outgoing status effects are unaffected by Molt. This includes the <a href="Alchemy.md">potion</a> effects you give to allies with the <a href="Talents.md#placebo-effect">Placebo Effect</a> Talent.</li>
+    <li>You also take less damage in acid rain.</li>
   </ul></td>
 </tr>
 <tr>
@@ -126,5 +126,4 @@ The color of the scales are based on your skin color, though they can be [Dyed](
 -   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md#survivalist) Boon is still a viable option.
 -   During the [Mudwoken](Version_History/2022-2021.md#april-1st-2022), 2022 April fools update, the Etrean aspect's name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)
--   Potion effects you apply to your allies via [Placebo Effect](Talents.md#placebo-effect) retain their original duration.
 -   Etrean is the only aspect to actively debuff/hinder the player. It is recommended to use Attunements that Molt has no effect on, as to not decrease the duration of your self-applied status effects.

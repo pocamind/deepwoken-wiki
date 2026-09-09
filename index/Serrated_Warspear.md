@@ -1,9 +1,9 @@
 ---
 title: Serrated Warspear
-revid: 221434
+revid: 228888
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
+categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
 ---
 
 # Serrated Warspear
@@ -39,6 +39,12 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 ## Description
 
 The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](King_Thresher.md), corrupted [Threshers](Thresher.md) and [Void Threshers](Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob(Or a [Traan Zakshun](Traan_Zakshun.md) stock item).
+
+## Talent
+
+Equipping the Serrated Warspear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Hunter's Chase**](Talents.md#hunters-chase) heavily buffs your [Running Attacks](Combat_Mechanics.md#running-attacks), increasing their **base damage** by 15%, allowing them to proc the [Bear Trap](Talents.md#bear-trap) Talent, and doubling the maximum range on [Chase Attacks](Combat_Mechanics.md#chase-attacks).
 
 ## Critical
 

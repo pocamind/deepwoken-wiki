@@ -1,9 +1,9 @@
 ---
 title: Rockmaller
-revid: 226790
+revid: 228895
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
+categories: [Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
 ---
 
 # Rockmaller
@@ -20,6 +20,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | swing speed | 0.82x |
 | attack duration | 0.9s |
 | endlag | 0.1s |
+| talent | Return to the Stone Ages - Using the Table Flip mantra now turns the projectile into a larger boulder. Landing your Critical Attack enhances this further, giving you an even bigger and stronger boulder. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -40,6 +41,12 @@ The Rockmaller is a mid-late game Greathammer with a unique critical, found in M
 It can be found by completing the [Security Detail job](Job_Boards.md) at [Summer Isle](Summer_Isle.md) and finding it in the chest that spawns upon completion.
 
 An easy way to obtain this weapon would be to farm the [Summer Goons](Summer_Goon.md).
+
+## Talent
+
+Equipping the Rockmaller grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Return to the Stone Ages**](Talents.md#return-to-the-stone-ages) enhances your [Table Flip](Attunement-less.md#table-flip), changing its model into a boulder and improving its damage and hitbox. Using Table Flip after a successful critical attack improves its damage and hitbox further.
 
 ## Critical
 

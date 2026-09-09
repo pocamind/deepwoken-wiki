@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 228104
+revid: 228908
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -46,4 +46,16 @@ The [Sloped Plate](Talents/Vow_of_Iron.md#sloped-plate) Talent reduces the amoun
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent [Captain's Call](Talents/Vow_of_Iron.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
+Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
+
+The Set Talent cannot be used in [Chime of Conflict](Chime_of_Conflict.md). Attempting to summon the [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) will instead display the message: "Your pirate allies dont respond. they've fallen alseep..."
+
+If the summoned [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) do not find an enemy to fight, they will despawn after 30 seconds.
+
+The [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) may spawn above ceilings while inside of [Dungeons](Dungeons.md) or the [Vault of the Aureate](Vault_of_the_Aureate.md).
+
+The summoned pirates count as allies and can benefit from [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
+
+## Trivia
+
+-   The [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) are capable of defeating the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>).

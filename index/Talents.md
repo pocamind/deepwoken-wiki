@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228851
+revid: 228923
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -682,27 +682,23 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
 
--   _**Conditioned Runner**_ \[Advanced Talent\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.
-    -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
-    -   The increased health regeneration is equal to +(Agility × 2)% health regen, having no bonus at 0 Agility, and scaling up to +200% at 100 Agility.
-    -   Passive health regen is reduced in PvP combat, reducing the effectiveness of this Talent. Additionally, this Talent is fully disabled in the [Chime of Conflict](Chime_of_Conflict.md).  
+-   _**Conditioned Runner**_ \[Advanced Talent\] - You take 5-15% less damage. The damage reduction amount scales with your agility stat and how long you have been running for.
+    -   This effect only applies while sprinting.  
         
     -   Grants +1 Passive Agility  
         
     -   Prerequisites: [Endurance Runner](#endurance-runner), [Scaredy Cat](#scaredy-cat), 25 Agility  
         
-    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Investment Scaling\] \[Scale-down\] \[Sustain\]
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
--   **Conditioned Runner** \[Advanced Talent\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.
-    -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
-    -   The increased health regeneration is equal to +(Agility × 2)% health regen, having no bonus at 0 Agility, and scaling up to +200% at 100 Agility.
-    -   Passive health regen is reduced in PvP combat, reducing the effectiveness of this Talent. Additionally, this Talent is fully disabled in the [Chime of Conflict](Chime_of_Conflict.md).  
+-   **Conditioned Runner** \[Advanced Talent\] - You take 5-15% less damage. The damage reduction amount scales with your agility stat and how long you have been running for.
+    -   This effect only applies while sprinting.  
         
     -   Grants +1 Passive Agility  
         
     -   Prerequisites: [Endurance Runner](#endurance-runner), [Scaredy Cat](#scaredy-cat), 25 Agility  
         
-    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Investment Scaling\] \[Scale-down\] \[Sustain\]
+    -   Tags: \[Fortitude\] \[Agility\] \[+Passive Agility\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
 ### All-Knowing
 
@@ -1407,6 +1403,68 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
         
     -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Damage Resistance\]
+
+### Big Bertha
+
+-   **Heavy Cannonball** \[Common Talent\] - Greatcannon Double the cooldown of your critical attack but increase the cannonball damage by 50%.
+    -   Specifically buffs the damage of the _projectile_ on the Greatcannon criticals.
+    -   This equates to an ~29% net damage increase on the default Greatcannon critical, and an ~33% net damage increase on [Smouldering Hallow](Smouldering_Hallow.md)'s critical, assuming all hits land on the aforementioned critical attacks.
+    -   This does not work on Edenbrand Helic, as it does not fire a projectile.
+    -   [Critical Engine](#critical-engine) with [Blessed Gem](Blessed_Gem.md) can be used to revert your critical's cooldown back to the original value. Alternatively, the [Summer Hullwrecker](Summer_Hullwrecker.md)'s [Max Ammo](#max-ammo) Talent can be used to fully reset your critical cooldown when the cannonball lands.  
+        
+    -   Prerequisites: 60 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Damage Buff\] \[Greatcannon\]
+
+-   **Heavy Cannonball** \[Common Talent\] - \[Greatcannon\] Double the cooldown of your critical attack but increase the cannonball damage by 50%.
+    -   Specifically buffs the damage of the _projectile_ on the Greatcannon criticals.
+    -   This equates to an ~29% net damage increase on the default Greatcannon critical, and an ~33% net damage increase on [Smouldering Hallow](Smouldering_Hallow.md)'s critical, assuming all hits land on the aforementioned critical attacks.
+    -   This does not work on Edenbrand Helic, as it does not fire a projectile.
+    -   [Critical Engine](#critical-engine) with [Blessed Gem](Blessed_Gem.md) can be used to revert your critical's cooldown back to the original value. Alternatively, the [Summer Hullwrecker](Summer_Hullwrecker.md)'s [Max Ammo](#max-ammo) Talent can be used to fully reset your critical cooldown when the cannonball lands.  
+        
+    -   The Greatcannon condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: 60 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Damage Buff\] \[Greatcannon\]
+
+-   _Mortar Mystery_ \[Rare Talent\] - Greatcannon Landing a greatcannon critical attack summons mysterious cannonballs from above that target your opponent.
+    -   3 mortar projectiles are spawned per critical attack damage instance landed, for each entity hit.
+        -   For example, if you hit the initial attack and projectile on the Default Greatcannon critical on two enemies, it would summon 12 mortar projectiles in total.
+        -   This Talent is especially potent on the [Smouldering Hallow](Smouldering_Hallow.md).
+    -   Each mortar projectile does 30 damage on hit.  
+        
+    -   Prerequisites: 100 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Greatcannon\]
+
+-   **Mortar Mystery** \[Rare Talent\] - \[Greatcannon\] Landing a greatcannon critical attack summons mysterious cannonballs from above that target your opponent.
+    -   3 mortar projectiles are spawned per critical attack damage instance landed, for each entity hit.
+        -   For example, if you hit the initial attack and projectile on the Default Greatcannon critical on two enemies, it would summon 12 mortar projectiles in total.
+        -   This Talent is especially potent on the [Smouldering Hallow](Smouldering_Hallow.md).
+    -   Each mortar projectile does 30 damage on hit.  
+        
+    -   The Greatcannon condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: 100 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Greatcannon\]
+
+-   **Sticky Flames** \[Common Talent\] - Greatcannon Your base greatcannon critical attack's cannon ball leave 3 seconds of sticky flames on successful hits.
+    -   The base [Burn](Status_Effects.md#burn) on the default Greatcannon critical is improved to [Sticky Burn](Status_Effects.md#sticky-burn), meaning it cannot be removed for 3 seconds upon application.  
+        
+    -   Prerequisites: 80 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Debuff\] \[Greatcannon\]
+
+-   **Sticky Flames** \[Common Talent\] - \[Greatcannon\] Your base greatcannon critical attack's cannon ball leave 3 seconds of sticky flames on successful hits.
+    -   The base [Burn](Status_Effects.md#burn) on the default Greatcannon critical is improved to [Sticky Burn](Status_Effects.md#sticky-burn), meaning it cannot be removed for 3 seconds upon application.  
+        
+    -   The Greatcannon condition must be met in order for this Talent to apply.  
+        
+    -   Prerequisites: 80 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Debuff\] \[Greatcannon\]
 
 ### Blindseer
 
@@ -8376,6 +8434,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This has a 1 second cooldown. This cooldown is shared with [Both Ends](#both-ends).
     -   Prerequisites: [Staff](Staves.md) equipped, 35 Medium Weapon
 
+-   Pressure Strike \[Common Talent, Medium Weapon\] - Staffs Reduce [Both Ends](#both-ends)' staff strike base damage by 50%, but double its posture damage. Guardbreaking an opponent with a Both Ends staff strike adds an extra 20 damage to the attack.
+    -   Prerequisites: [Staff](Staves.md) equipped, 90 Medium Weapon
+
 ### Vanguard Techniques
 
 -   **Karita Combo** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Remove the endlag from your next running attack. \[5 second CD\] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. \[10 second CD\]
@@ -8597,6 +8658,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Ancient Metalwork: [Dissonant Chimecaller](Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](Ironsing.md) Rods and disrupt the [resonances](Resonance.md) of others, disabling them for 15 seconds.
     -   Landing a weapon critical puts your opponent's [Resonance](Resonance.md) on a 15 second cooldown. This does not require Ironsing Rods to proc.
 
+-   Assassin's Instincts: [Central Dirk](Central_Dirk.md) - Your [air counters](Combat_Mechanics.md#air-counter) now deal 5% of your targets max health.
+
 -   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
 -   Battle Frenzy: [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.
@@ -8633,6 +8696,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This Talent was formerly called "Bloodthirsty".
     -   For the [Bloodbane](Bloodbane.md)'s other Talent, view [Devastating Recovery](#devastating-recovery).
 
+-   Blunt Force Trauma: [Pernach](Pernach.md) - All mantras that deal blunt damage gain 15% extra PEN. The mantras deal additional PEN if the opponent has more than 30% physical armor, scaling on how much more they have.
+
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
     
     -   The final hit of your Pressure Blast gains 3x posture damage, going from 12 to 36 posture damage.
@@ -8645,6 +8710,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Clutch Recovery: [Canor Fang](Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
+
+-   Concussive Strike: [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) - Anytime you ragdoll your opponent, disable your opponents ability to cancel that ragdol for half a second. Deal 5 extra blunt damage when this occurs.
 
 -   Continuation: [Rangescraper](Rangescraper.md) - Everytime you swing your weapon, fire a series of slashes forward after that act as another light attack when landing.
     -   Light attacks fire projectiles that have the M1 tag.
@@ -8675,10 +8742,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Ebb and Flow: [Wyrmtooth](Wyrmtooth.md) - Landing a [medium mantra](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] increases your next [heavy mantra](Attunement-less.md#heavy-weapon-mantras)'s \[_[sic](https://en.wikipedia.org/wiki/sic)_\] level by 1 and vice versa. This is stackable and can be increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is defended against.
     -   This effect **only** applies when alternating weapon Mantras. For example, if you land one heavy Mantra and then follow up with two medium Mantras, the second medium Mantra will **not** receive the buff; your stacks won't be lost, the effect just won't be applied.
     -   This can bypass the level 5 cap, and is stackable, capping at at +5 levels.
-    -   If one of your Medium or Heavy Mantras get parried, dodged, or blocked, all stacks will be lost.
+    -   Instead if stacks being lost if one of your Mantras are defended against, all stacks are lost if you take damage or block an attack.
     -   Multi-hits do not grant multiple stacks.
     -   For example, if you have a level 5 [Pressure Blast](Attunement-less.md#pressure-blast), landing [Master's Flourish](Attunement-less.md#masters-flourish) before casting Pressure Blast will increase Pressure Blast's level by +1, to 6, and vice versa. You will then need to follow up with a Mantra of the opposing type to stack the buff further.
     -   This does **not** apply to [Punishment](Attunement-less.md#punishment), presumably for balancing reasons.
+
+-   Embedded Nails: [Toothed Club](Toothed_Club.md) - When your Critical Attack gets dodged, embed nails onto their shoes for 8 seconds. This makes your opponent clumsy, ragdolling them if they use their second dodge.
 
 -   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\], giving Agility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.
@@ -8699,6 +8768,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Extension: [Rangescraper](Rangescraper.md) - For every hit you land with Rangescraper, extend the weapons range by 1 for 8 seconds. This effect stacks.
     -   For the [Rangescraper](Rangescraper.md)'s other Talent, view [Continuation](#continuation).
 
+-   Eyes On Me: [Sancticar](Sancticar.md) - Landing a [Both End's](#both-ends) staff strike will cause all damage your opponent does to be reduced by 20% for the next 20 seconds to any target besides you.
+    -   For clarification: Affected targets deal 20% less damage to anyone who **is not you** for 20 seconds.
+
 -   Finishing Slay: [Messer](Messer.md) & [Alloyed Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your **[Perfection](Status_Effects.md#perfection)** stacks for a secondary instance of damage on your critical.
     -   This deals 7 **typeless** damage per Perfection stack. Deals 166 **typeless** damage per Chain of Perfection stack in PvE.
@@ -8718,11 +8790,20 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     
     -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting 15% damage reduction at the cost of reducing your movement speed by 36%.
 
+-   Frenzied Slash: [Darksteel Greatsword](Darksteel_Greatsword.md) & Darksky Greatsword - Any damage you take during your Critical Attack's windup gets added to the damage of the Critical Attack.
+
+-   Hunter's Chase: [Serrated Warspear](Serrated_Warspear.md) - Double the range you are able to chase down enemies with a running attack. Your Running attacks now also proc [Bear Trap](#bear-trap) and deals 15% more base damage.
+
 -   Max Ammo: [Summer Hullwrecker](Summer_Hullwrecker.md) - Landing the cannonball of your critical attack removes your critical attack's cooldown.
     -   As long as the cannonball lands on the target, this critical can be reused infinitely.
 
 -   Mudskipper Gripper: [Coral Cestus](Coral_Cestus.md) - When executing an opponent with your critical attack, summon [mudskippers](Mudskipper.md) to aid you in battle.
     -   Summons two [Mudskippers](Mudskipper.md). These Mudskippers can be either [Miniskippers](Mudskipper.md) or [Bloatskippers](Mudskipper.md#bloatskipper).
+
+-   Overwhelming Stability: [Duskpole](Duskpole.md) - Landing a [Both Ends](#both-ends) staff strike will now instantly proc insanity debuffs onto your opponent. The damage from insanity procs is further increased the greater the distance there is between you and your opponents \[5 sec CD\]
+
+-   Pastry Platter: The Pastry Pastry - Guardbreaking your opponent with a critical attack gives you a random non-boss food buff for 30 seconds.
+    -   This cannot give the [Brain](Status_Effects.md#brain), [Scale](Status_Effects.md#scale), [Strength](Status_Effects.md#strength), or [Throat](Status_Effects.md#throat) food buffs.
 
 -   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
 
@@ -8743,6 +8824,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Rat's Spirit: [Champion's Dagger](<Champion's_Dagger.md>) - Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people.
     -   Being combat tagged by 2 or more players will cause your critical attack to deal an additional 10 true damage per hit. This stacks based on how many combat tags you have, dealing a minimum of +20 true damage per hit.
+
+-   Return to the Stone Ages: [Rockmaller](Rockmaller.md) - Using the [Table Flip](Attunement-less.md#table-flip) mantra now turns the projectile into a larger boulder. Landing your Critical Attack enhances this further, giving you an even bigger and stronger boulder.
 
 -   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.
     -   Reduces the cooldown of Tactical Reload by 45 seconds; from 90 seconds to 45.
@@ -8809,6 +8892,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
     -   The teleport has a range limit.
     -   20 second cooldown.
+
+-   The Big One: [The Barrel](The_Barrel.md) - Your critical attack's projectile size and explosion size is doubled.
 
 -   Threadripper: [Palace Tachi](Palace_Tachi.md) - When used by a [Contractor](Oath%253A_Contractor.md), your Critical is empowered to eviscreate your opponents.
     -   If the player is a [Contractor](Oath%253A_Contractor.md), the Palace Tachi critical attack will automatically execute [Unconscious](Status_Effects.md#unconscious) targets, or targets who are knocked Unconscious by the critical attack.

@@ -1,9 +1,9 @@
 ---
 title: Toothed Club
-revid: 221517
+revid: 228898
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, Medium Weapons]
+categories: [Weapons, Weapons with Talents, Clubs, Medium Weapons]
 ---
 
 # Toothed Club
@@ -21,6 +21,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | attack duration | 0.6s |
 | penetration | 10% |
 | chip damage | 5% |
+| talent | Embedded Nails - When your Critical Attack gets dodged, embed nails onto their shoes for 8 seconds. This makes your opponent clumsy, ragdolling them if they use their second dodge. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Mace |
@@ -39,6 +40,12 @@ categories: [Weapons, Clubs, Medium Weapons]
 ## Description
 
 The **Toothed Club** is a medium blunt club type weapon. It is not recommended to use this weapon over the [Mace](Mace.md) due to it's low damage output and higher requirement.
+
+## Talent
+
+Equipping the Toothed Club grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Embedded Nails**](Talents.md#embedded-nails) applies the [Clumsy](Status_Effects.md#clumsy) status effect for 8 seconds whenever your opponent dodges your Critical Attack. If your opponent uses their second dodge after a dodge cancel while Clumsy, they will be [Ragdolled](Status_Effects.md#ragdoll) instead.
 
 ## Critical
 

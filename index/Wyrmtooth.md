@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 226526
+revid: 228924
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
@@ -51,7 +51,7 @@ This can bypass the level 5 cap, and is stackable, capping at at +5 levels. If o
 
 For example, if you have a level 5 [Pressure Blast](Attunement-less.md#pressure-blast), landing [Master's Flourish](Attunement-less.md#masters-flourish) before casting Pressure Blast will increase Pressure Blast's level by +1, to 6, and vice versa. You will then need to follow up with a Mantra of the opposing type to stack the buff further and apply its bonuses.
 
-This does **not** apply to [Punishment](Attunement-less.md#punishment), presumably for balancing reasons.
+If you take damage or block an attack, all stacks will be lost. This does **not** apply to [Punishment](Attunement-less.md#punishment), presumably for balancing reasons.
 
 ## Critical
 

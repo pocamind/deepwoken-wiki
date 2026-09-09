@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 224590
+revid: 228918
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -35,7 +35,7 @@ Pluripotent Alloys can also be found in chests in the [Saramaed Hollow](Saramaed
 
 ### Alloying a Weapon
 
-Using a Pluripotent Alloy while wielding an Alloyable weapon will consume the Alloy to transform the weapon into an endgame variant of itself with higher stats and requirements. To perform this, you must be at least [Power](Power.md) 10 and you need to meet the weapon requirement of the respective weapon's alloyed variant, which is usually 75 investment. Alloyed weapons will retain the enchant and the quality stars of the original weapon.
+Using a Pluripotent Alloy while wielding an Alloyable weapon will consume the Alloy to transform the weapon into an endgame variant of itself with higher stats and requirements. To perform this, you must be at least [Power](Power.md) 10 and you need to meet the weapon requirement of the respective weapon's alloyed variant, which is usually 75 investment. [Silenthearts](Oath%253A_Silentheart.md) are able to alloy weapons with 25 investment points lower than the weapon stat requirement. Alloyed weapons will retain the enchant and the quality stars of the original weapon.
 
 The list of alloyable weapons can be found here.
 

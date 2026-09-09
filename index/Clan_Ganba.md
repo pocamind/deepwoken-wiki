@@ -1,6 +1,6 @@
 ---
 title: Clan Ganba
-revid: 228723
+revid: 228871
 source: https://deepwoken.fandom.com/wiki/Clan_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Game-adjacent articles"]
@@ -22,7 +22,7 @@ Thus, this article focuses on that.
 
 Clan Ganba is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md), alongside [Clan Mofisu](Clan_Mofisu.md), [Clan Anako](Clan_Anako.md), and [Clan Kobura](Clan_Kobura.md). Led by [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), the clan is distinguished by its characteristic black and gold standard.[\[2\]](#cite-note-junsui-2)
 
-Clan Ganba formerly held a prestigious position among the [Etrean Royalists](Etrean_Royalists.md), serving the [Lord Guardian](Lord_Guardian.md) [Ji'ang](<Ji'ang.md>) until his death during the [Lord Regent](The_Lord_Regent.md)'s coup.[\[3\]](#cite-note-high-monk-junsui-3)
+Clan Ganba formerly held a prestigious position among the [Etrean Royalists](Etrean_Royalists.md), serving the [Lord Guardian](Lord_Guardian.md) [Ji'ang](<Ji'ang.md>) until his death during the [Lord Regent](The_Lord_Regent.md)'s coup.[\[3\]](#cite-note-high-monk-junsui-3) They also partake in espionage.[\[4\]](#cite-note-ganba-4)
 
 With the Royalists' dissolution, Clan Ganba ultimately pursued a different course, choosing to seek [The Hundred Legions](The_Hundred_Legions.md) in the west rather than continue fighting the [Regent](The_Lord_Regent.md) within [Etrea](Etrea.md).[\[1\]](#cite-note-zaru-1)
 
@@ -33,3 +33,4 @@ With the Royalists' dissolution, Clan Ganba ultimately pursued a different cours
 2.  [↑](#cite-ref-junsui-2-0) [High Monk Junsui](High_Monk_Junsui.md)
 3.  [↑](#cite-ref-high-monk-junsui-3-0) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
     _The Ganba clan once occupied a place of prestige among the Etrean Royal Guards, serving the Lord Guardian honourably until his last moments._
+4.  [↑](#cite-ref-ganba-4-0) [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md)

@@ -1,9 +1,9 @@
 ---
 title: Darksteel Greatsword
-revid: 225403
+revid: 228920
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]
+categories: [Pages using duplicate arguments in template calls, Pathfinder Exclusive, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]
 ---
 
 # Darksteel Greatsword
@@ -22,6 +22,7 @@ categories: [Pathfinder Exclusive, Weapons, Greatswords, Weapons with Unique Cri
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | chip damage | 10% |
+| talent | Frenzied Slash - Any damage you take during your Critical Attack's windup now gets added to the damage of the Critical Attack. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -45,16 +46,22 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 The Darksteel Greatsword is a midgame Greatsword used by [The Ignition Union](The_Ignition_Union.md) and [Blacksteel Pirates](Blacksteel_Pirate.md). This weapon is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a damascus steel-type texture with a purple hue.
 
+## Talent
+
+Equipping the Darksteel Greatsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Frenzied Slash**](Talents.md#frenzied-slash) adds any damage you take during your critical attack's wind-up directly to the damage your critical attack deals.
+
 ## Critical
 
 The user shortly winds up before unleashing an upward slash, knocking down and pushing those hit by it. The critical has True Hyperarmor for the full duration, making it unable to be cancelled through Venting or being Shocked. Alternatively, it can be used as a "pseudo-vent" due to its properties.
 
-This attack has a scaled damage multiplier of 1.15x.
+This attack has a scaled damage multiplier of 1.15x. Due to the [**Frenzied Slash**](Talents.md#frenzied-slash) Talent, any damage you take during the windup will be added directly to the damage of the critical as well.
 
 The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
 -   This weapon is greatly inspired by _Dark Souls III_; it closely resembles the [Darksword](https://darksouls.wiki.fextralife.com/Darksword), and its critical attack is most likely inspired by that of the [Black Knight Greatsword](https://darksouls.wiki.fextralife.com/Black+Knight+Greatsword) and the Darksword's stomp ability.
--   One of the most popular and iconic weapons, even added in the Roblox game _Allusions_ (though only the older version where the critical would have been the normal Greatsword critical).
+-   One of the most popular and iconic weapons, even added in the Roblox games _Item Asylum_ and _Allusions_ (though only the older version where the critical would have been the normal Greatsword critical in _Allusions_).
 -   Often referred to as "DSGS" by the community.

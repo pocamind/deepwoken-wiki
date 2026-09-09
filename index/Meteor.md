@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 228744
+revid: 228928
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ Only Linkstriders are currently known to be able to utilize these meteors, altho
 
 Upon interacting with a meteor, it will give you a message: "_Deep within your soul, '\[Name\]' calls out to you. Call it's name upon the flame, and embrace Entropy._" Each meteor has a different name.
 
-You can teleport to each meteor by calling out its name whilst sitting at a campfire, \[~"campfires" such as [Graceful Flame](Flamecharm.md#graceful-flame-) do not count (guild base campfires do work however)~\] you can teleport from every "campfire" after 5/10/26.
+You can teleport to each meteor by calling out its name whilst sitting down at any campfire source.
 
 You can also rest at a meteor site as if it were a campfire (Note: you cannot cook food on meteors)
 

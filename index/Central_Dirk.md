@@ -1,9 +1,9 @@
 ---
 title: Central Dirk
-revid: 223612
+revid: 228896
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
+categories: [Authority Faction Item, Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
 ---
 
 # Central Dirk
@@ -21,6 +21,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 | swing speed | 1.2x |
 | attack duration | 0.5s |
 | penetration | 5% |
+| talent | Assassin's Instinct - Your air counters now deal 5% of your targets max health. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Stiletto |
@@ -39,6 +40,12 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 ## Description
 
 Central Dirk is a Light weapon under the Dagger category. You can easily obtain it by making a new [Authority Ensign](Authority_Ensign.md) slot, and then buying it from the armory and banking it.
+
+## Talent
+
+Equipping the Central Dirk grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Assassin's Instinct**](Talents.md#assassins-instinct) makes your [Air Counters](Combat_Mechanics.md#air-counter) deal 5% of your opponent's **maximum** health on hit.
 
 ## Critical
 
