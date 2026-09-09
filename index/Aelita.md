@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 225505
+revid: 229031
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -81,7 +81,7 @@ She is the twin sister of [Tillian](Tillian.md). The two go by the name of the S
 
 -   When talking to Aelita, the song [Catwhisker](Deepwoken_OST.md#catwhisker) by Naktigonis starts playing.
 -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when Arch\_Mage announced that Krulians do not take [Oaths](Oaths.md), as well as the theory overall lacking any real evidence for it.\[citation needed\]
--   Aelita is stated to be probably bisexual.[\[1\]](#cite-note-1) by developer Arch\_Mage.
+-   Aelita is stated to be probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality).[\[1\]](#cite-note-1) by developer Arch\_Mage.
 -   Although Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the Oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
 -   Aelita only says "See? That was fun right? You can have a lot more fun if you come back during the winter." to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of Blizzard Knights will spawn.

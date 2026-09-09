@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228993
+revid: 229039
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -8421,14 +8421,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Vanguard Arts
 
--   Both Ends \[Common Talent, Medium Weapon\] - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
+-   Both Ends \[Common Talent, Medium Weapon\] - Staffs Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
     -   This attack comes out much faster, and deals 135% of your weapon damage.
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
     -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](#counter-spin).
     -   Prerequisites: [Staff](Staves.md) equipped, 30 Medium Weapon
+        -   The [Imperial Staff](Imperial_Staff.md) also provides this Talent.
 
--   Counter Spin \[Common Talent, Medium Weapon\] - After blocking an attack, press M2 to counter with your staff.
+-   Counter Spin \[Common Talent, Medium Weapon\] - Staffs After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust the back-end of your Staff forwards, dealing 45% of your weapon's damage on hit.
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
     -   This has a 1 second cooldown. This cooldown is shared with [Both Ends](#both-ends).
@@ -8908,8 +8909,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
     -   Deals 5 true damage per slow effect removed.
 
--   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery by 30% for 30 seconds.
-    -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their **passive** posture recovery by 30% for 30 seconds.
+-   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 20 seconds. This starts at 100% with it scaling down based on the duration of the effect left.
+    -   This only applies to their passive posture regeneration.
     -   This has no cooldown, but cannot be reapplied to the same target once active.
 
 -   Worshipper's Tolerance: [Worshipper's Shield](<Worshipper's_Shield.md>) - Reduce the burn damage you take by 15%. While on fire, parrying an opponent's attack now sets them on fire \[45 second CD\].

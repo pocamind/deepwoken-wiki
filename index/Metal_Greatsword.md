@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 228835
+revid: 229014
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with multiple Criticals]
@@ -18,7 +18,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunem
 | posture damage | 8 |
 | range | 12.5 Sweep |
 | swing speed | 0.8x |
-| attack duration | 1s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 25% |
 | chip damage | 20% |

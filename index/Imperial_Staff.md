@@ -1,9 +1,9 @@
 ---
 title: Imperial Staff
-revid: 228827
+revid: 229038
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, The Hundred Legions]
+categories: [Weapons, Weapons with Talents, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, The Hundred Legions]
 ---
 
 # Imperial Staff
@@ -20,6 +20,7 @@ categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons",
 | swing speed | 0.91x |
 | attack duration | 0.7s |
 | penetration | 12% |
+| talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -36,6 +37,12 @@ categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons",
 ## Description
 
 The Imperial Staff is a Legendary [Staff](Staves.md) [weapon](Weapons.md) that scales with and requires [Strength](Attributes.md#str) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
+
+## Talents
+
+Equipping the Imperial Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Both Ends**](Talents.md#both-ends) allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster and deals 135% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Critical
 

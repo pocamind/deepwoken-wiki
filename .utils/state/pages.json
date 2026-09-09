@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 228993
+    "lastrevid": 229039
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -693,7 +693,7 @@
   },
   "2263": {
     "title": "Status Effects",
-    "lastrevid": 228860
+    "lastrevid": 229036
   },
   "2302": {
     "title": "Suri",
@@ -953,7 +953,7 @@
   },
   "2690": {
     "title": "Aelita",
-    "lastrevid": 225505
+    "lastrevid": 229031
   },
   "2693": {
     "title": "Character Creation",
@@ -1529,7 +1529,7 @@
   },
   "4142": {
     "title": "Acheron's Warspear",
-    "lastrevid": 228291
+    "lastrevid": 229033
   },
   "4151": {
     "title": "Etrea",
@@ -3997,7 +3997,7 @@
   },
   "11491": {
     "title": "Imperial Staff",
-    "lastrevid": 228827
+    "lastrevid": 229038
   },
   "11516": {
     "title": "The Vigils",
@@ -6601,7 +6601,7 @@
   },
   "19385": {
     "title": "Settings",
-    "lastrevid": 229012
+    "lastrevid": 229029
   },
   "19412": {
     "title": "Prisoner",
@@ -6853,7 +6853,7 @@
   },
   "20026": {
     "title": "Metal Greatsword",
-    "lastrevid": 228835
+    "lastrevid": 229014
   },
   "20030": {
     "title": "Moon Brow Rings",
@@ -9802,5 +9802,9 @@
   "26553": {
     "title": "Bejeweled Clip",
     "lastrevid": 228952
+  },
+  "26587": {
+    "title": "Amedan Temple",
+    "lastrevid": 229035
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 229012
+revid: 229029
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -287,9 +287,11 @@ There are 14 interface related settings.
 
 -   **Cinematic Mode On/Off** - "Hides the UI for screenshots and videos."
     -   Does not hide player list or [Teleportation](Teleportation.md) markers.
+    
 -   **Hide Names On/Off** - "Hides character names."
     -   Hides the names of other players in-game from your PoV.
     -   Does not hide your own or others in the player list or top info bar.
+    
 -   **Deadzone (Triggers) Slider 0-1** - "Determines the minimum distance the triggers must be pressed to register input."
     -   This setting only appears on Console.
     -   The default value for this setting is 0.1.
@@ -298,30 +300,39 @@ There are 14 interface related settings.
     -   The default value for this setting is 0.2.
 -   **Cooldown Bars On/Off** - "Enables cooldown indicator bars."
     -   Cooldown Bars will appear whenever an effect is procced, indicating when it is able to proc again.
+    
 -   **Stat Bar Behavior Always/Hover** - "Sets when your stat bars shows their percentages."
     -   Always: Percentages on Posture, Health, Armor, Natural Armor, Ether, Tempo, Heartfire, and Specter bars will be displayed in text at all times.
     -   Hover (default): The percentages on the above will only be displayed when hovering over the bar with your mouse.
     -   Does not work on Blood, Food, and Hunger.
     -   Note: Being hit by a [Harrowing](Harrowing.md) Enchanted weapon will hide the percentages for the duration of the effect. If this setting is set to "Always", then the percentages will not come back until you die, leave the game, or re-toggle the setting.
+    
 -   **Crafting Slots On/Off** - "Displays 3 slots for Crafting above your Backpack."
     -   Drag items and materials into the 3 slots to craft from your inventory without Journal recipes.
     -   Some crafting recipes (namely [Enchant Stones](Enchant_Stone.md) and [Grease](Enchant_Grease.md) do not work with the crafting slots, and need to be crafted in your journal.
+    
 -   **Points of Interest On/Off** - "Enables markers in towns for points of interest."
     -   When On: Displays markers for [Antiquarians](Antiquarian.md) (including the [Antiques Smuggler](Antiques_Smuggler.md)), [Attunement Trainers](Attunement_Trainers.md), [Bankers](Banker.md), [Blacksmiths](Blacksmith.md), [Combat Training](Training_Mode.md) entrance NPC, [Dungeon](Dungeons.md) entrances, [Food](Food.md) vendors, [Gear Cabinets](Training_Gear.md), Guildhall NPCs, [Inn](Inn.md) Keepers, [Job Boards](Job_Boards.md), [Mantra Lecterns](Mantra_Lectern.md), and [Shipwrights](Shipwright.md) in the physical world. These can be seen through walls.
-    -   These markers are displaysd on the [Map](Maps.md), regardless if setting is on or off.
-    -   [Guild Base](Guild_Bases.md) NPCs/Mantra Lectern do not have the Point of Interest displays.
+    -   These markers are displayed on the [Map](Maps.md), regardless if the setting is on or off.
+    -   These markers are not displayed in [Guild Bases](Guild_Bases.md), regardless if the setting is on or off.
+    
 -   **3D Icon Behavior Always/Hover/Off** - "Sets 3D icon behavior."
     -   Always: Displays the 3D models of applicable items inside of the inventory and hotbar, with the item name being overlayed on top.
     -   Hover: When hovering your mouse over items in your hotbar or inventory, the 3D model of applicable items will be displayed, with the item name being overlayed on top.
     -   Off (default): Items in your inventory and hotbar will always display the base background instead of their 3D models.
+    
 -   **Show Buff Pips On/Off** - "Shows buff pips on equipment without needing to hover over them."
     -   Displays all pip icons on equipment in the inventory, showing their rarity and pip type.
+    
 -   **Show Player List On/Off** - "Toggles the visibility of the player list."
+    
 -   **Leave Game Prompt On/Off** - "Enables the confirmation prompt for returning to Main Menu."
     -   When On (default): Pressing the "Return to Main Menu" button will show a confirmation prompt, and will only send the player to the menu when they confirm it.
     -   When Off: Pressing the "Return to Main Menu" button will instantly send the player to the main menu.
+    
 -   **Streamer Mode On/Off** - "Makes it harder for players to find your server."
     -   When On: Server name, server region, exact server time, and the guilds of players in the playerlist are hidden. Additionally, hovering over player names on the server list will not display their usernames.
+    
 
 ## Audio
 
@@ -339,13 +350,17 @@ There are 6 audio related settings.
 There are 5 graphics related settings.
 
 -   **Low Graphics Mode On/Off** - "Lowers particle counts and reduces the fidelity on various other visuals."
+    
 -   **Cloth Physics On/Off** - "Enables physically simulated animations for equipment."
     -   When On (default): Eligible equipment items will gain physics, and will move as the player does.
+    
 -   **Field of View Slider 50-85** - "Adjusts the default camera FoV."
 -   **Dynamic FoV On/Off** - "Dynamically adjusts your FoV based on your speed."
     -   When On: As the player speeds up and moves faster, the FoV will be increased, zooming out the camera.
+    
 -   **Camera Smoothing On/Off** - "Smooths out camera and focuses on torso movement."
     -   When On: The camera will slightly adjust to the positioning of the player's torso, instead of remaining at one spot. Most noticeably, the camera will adjust as you perform attacks and parkour maneuvers.
+    
 
 ## Combat
 
@@ -362,11 +377,13 @@ There are 8 combat related settings.
 -   **Preload Animations On/Off** - "Most player and mob animations will be loaded as soon as you enter the game."
     -   This may increase load times.
 -   **Disable Enemy Vanity On/Off** - "Hides enemy equipment."
+    
 -   **Hide Spell Shouts On/Off** - "Disables spell shout visibility."
     -   When On: The text from the [Spell Shout](Talents.md#spell-shout) Talent will be hidden.
     -   This does not affect [Not a Scratch](Talents.md#not-a-scratch), [Unnecessary Theatrics](Talents.md#unnecessary-theatrics), [Heretic's Sutra](Talents.md#heretics-sutra), or any other ability/effect that creates an automated message.
 -   **Simple Telegraphs On/Off** - "Telegraphs only show an outline over the character and don't emit any particles."
     -   When On: [Attack telegraphs](Combat_Mechanics.md#telegraphs) will be displayed solely as a colored outline on the character, rather than displaying the glyph.
+    
 
 ## Network
 
@@ -380,9 +397,13 @@ There are 2 network related settings.
 There are 3 accessibility related settings.
 
 -   **Photosensitive Mode On/Off** - "Reduces the intensity of certain visual effects."
+    -   The blinding effect from [Flame Blind](Flamecharm.md#flame-blind) becomes black.
+    -   The center of the [Dread Breath](Monster_Mantras.md#dread-breath) changes from white to black.
+    
 -   **Unlocked Sprinting On/Off** - "While sprinting in Camera Lock, face your movement direction."
     -   When On: While shift-lock is active, your character will face their movement direction while sprinting. This can make certain parkour actions, like wall-jumping, significantly more difficult.
     -   When Off: While shift-lock is active, your character will face forwards while sprinting. This allows you to strafe in any direction, including backwards.
+    
 -   **Sprint Input Behavior Hold/Toggle** - "Change whether you have to hold the sprint input, or whether you toggle it with each input."
 
 ## Trivia
