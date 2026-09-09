@@ -3,7 +3,7 @@ title: Bloodbane
 revid: 227990
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Greatswords, Named Weapons, Heavy Weapons, Legendary Weapons]
+categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Greatswords, Heavy Weapons, Legendary Weapons]
 ---
 
 # Bloodbane
@@ -42,7 +42,7 @@ Variants: [Zweihander](Zweihander.md)
 
 The **Bloodbane** is a Heavy Greatsword, an enhanced variant of the [Zweihander](Zweihander.md) with higher requirements. This weapon bears a red appearance, has blood particles emanating from it, and has a red swing trail, drastically differing its appearance from the base Zweihander.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate Bloodbane. Bloodbane **cannot** be enchanted.
+Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equipped or in your inventory causes it to **permanently deteriorate into a [Zweihander](Zweihander.md)**. This will also apply when unlocking your [Resonance](Resonance.md). In the [Chime of Conflict](Chime_of_Conflict.md), the Bloodbane will be **temporarily** degraded into the aforementioned weapon. Bloodbane **cannot** be enchanted.
 
 ## Talents
 

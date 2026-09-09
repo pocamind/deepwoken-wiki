@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 223263
+revid: 229007
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits of The Summer Company]
@@ -41,7 +41,7 @@ This Outfit has 1500 durability, grants +10% Physical resistance ResistancePhysi
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash ResistanceSlash, 10% Blunt ResistanceBlunt, 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Armor Piercing](Talents.md#armor-piercing) Talent causes your Pistol and Rifle 'blast' shots and bullets to ignore 15% of an opponent's blunt armor. This is applied multiplicatively before PEN is applied, making this worse than a flat increase to your overall PEN.
+The [Armor Piercing](Talents.md#armor-piercing) Talent causes your Pistol and Rifle 'blast' shots and bullets to ignore 10% of an opponent's blunt armor. This is applied multiplicatively before PEN is applied, making this worse than a flat increase to your overall PEN.
 
 ## Trivia
 

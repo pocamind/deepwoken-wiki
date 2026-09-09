@@ -435,7 +435,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -443,7 +443,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>

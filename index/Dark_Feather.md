@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 228949
+revid: 228974
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,6 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 30 |
 | weight | None |
+| stack | x10 |
 | type | Monster Material |
 | rarity | Common |
 | bankable | Yes |
@@ -23,6 +24,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 100 |
 | weight | None |
+| stack | x10 |
 | type | Monster Material |
 | rarity | Rare |
 | bankable | No |
@@ -63,7 +65,7 @@ It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oat
 
 ## Drops
 
-The Void Feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md). Void feathers have a inventory limit of 10
+The Void Feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md).
 
 Cannot be deposited nor can it be dropped by players, even on death.
 

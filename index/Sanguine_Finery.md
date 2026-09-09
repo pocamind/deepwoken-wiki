@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 226476
+revid: 228956
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -20,7 +20,7 @@ categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 2600 |
 | resistances | +25% Physical Armor , +30% Elemental Armor , +25% Blood Armor |
 | buffs | +75% Ether Regen |
-| talents | Focused Hematoma |
+| talents | Focused Hematoma, Sheltering Grasp |
 | obtainment | Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
@@ -38,11 +38,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) Talent.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Sheltering Grasp](Cut_Content.md#sheltering-grasp) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 30% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Focused Hematoma](Talents.md#focused-hematoma) Talent increases the amount of [Temporary Health](Status_Effects.md#temporary-health) you receive by 15%.
+The [Focused Hematoma](Talents.md#focused-hematoma) Talent increases the amount of [Temporary Health](Status_Effects.md#temporary-health) you receive by 15%. The [Sheltering Grasp](Cut_Content.md#sheltering-grasp) Talent does nothing, as it was merged into [Crimson Fountain](Talents.md#crimson-fountain), and the Outfit this Talent grants was never switched over.
 
 ## Trivia
 

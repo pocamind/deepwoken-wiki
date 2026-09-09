@@ -57,6 +57,6 @@ The critical has a cooldown of **7 seconds**.
 -   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had an absurd and impossible requirement of 200 Light Weapons, rendering it unusable for normal players.
     -   Both bows featured the same model & appearance. The string and arrow are also visible in its held state, which can only be viewed when using Basic Attacks.
     -   The name "Aranea" is a reference to the genus Araneus, a group of orb-weaving spiders. This explains why the bow has a web motif.
--   Attempting to equip this weapon on [Chainwarden](Oath%253A_Chainwarden.md) will display a message stating: "The guiding light of Navae eludes you, your vow to bind others shackle you from wielding it."
+-   Attempting to equip this weapon on [Chainwarden](Oath%253A_Chainwarden.md) will display a message stating: "The guiding light of [Navae](Navae.md) eludes you, your vow to bind others shackle you from wielding it."
 -   The description on the Guiding Star claims that previous users of the weapon had 'talked', and were guided through their trail, with the bow, hinting at it potentially having some power with soul 'magic'.
 -   The Guiding Star was the first Bow weapon added to _[Deepwoken](<Deepwoken_(game).md>)_.

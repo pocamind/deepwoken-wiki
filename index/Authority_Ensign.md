@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 228951
+revid: 228975
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -679,17 +679,12 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 ## Trivia
 
 -   The usage of ranks is incorrect, as a Lance Corporal is actually ranked below a Corporal.
--   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped. This is likely due to past Authority treachery[\[1\]](#cite-note-1) and the Authority's refusal to pick a side in the Ignition-Summer conflict causing the Company to view them less favorably, even if they are willing to accept their finances.
+-   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union used to have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped. This is likely due to past Authority treachery[\[1\]](#cite-note-1) and the Authority's refusal to pick a side in the Ignition-Summer conflict causing the Company to view them less favorably, even if they are willing to accept their finances.
 -   Funnily enough, the Shock Corps Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
 -   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.
 -   There are three oaths that Ensigns struggle with/impossible to get, Those being: [Soulbreaker](Oath%253A_Soulbreaker.md), [Contractor](Oath%253A_Contractor.md) and [Blightsurger](Oath%253A_Blightsurger.md)
-    -   ~Contractor is straight up impossible as you cannot raise your Etrea reputation and cannot start the duke questline, Therefore You cannot obtain contractor~
-    -   ~Soulbreaker is only obtainable through the second method of using a [Sinner's Ash](<Sinner's_Ash.md>) right before being teleported out of the duke's manor, Which you'll need a friend to open it for you (assuming they are not an Ensign), But since it will be two people, duke will have more hp and shield hp~
-    -   Both of these are now possible with the origin through desertion
     -   For Blightsurger, You need slightly higher than ally rep with [The Hundred Legions](The_Hundred_Legions.md) but your rep as an Ensign is capped at ally, So you will need to be a [Khan](Khan.md) and Have the Celebrity Talent (40 Charisma), Making it frustrating for people who don't have the Khan Aspect or who don't want to invest in Charisma
 
 ## References
 
 1.  [↑](#cite-ref-1) [Rifle Spear](Rifle_Spear.md) description
-
-Contractor on Authority Ensign

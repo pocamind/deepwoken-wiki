@@ -3,7 +3,7 @@ title: Rangescraper
 revid: 227993
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Named Weapons, Light Weapons, Legendary Weapons]
+categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Legendary Weapons]
 ---
 
 # Rangescraper
@@ -41,7 +41,7 @@ Variants: [Gilded Knife](Gilded_Knife.md)
 
 The **Rangescraper** is a Light Dagger, an enhanced variant of the [Gilded Knife](Gilded_Knife.md) with higher requirements. This weapon bears a dark purple appearance, with a knuckle guard found similarly on trench knives.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate Rangescraper. Rangescraper **cannot** be enchanted.
+Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equipped or in your inventory causes it to **permanently deteriorate into a [Gilded Knife](Gilded_Knife.md)**. This will also apply when unlocking your [Resonance](Resonance.md). In the [Chime of Conflict](Chime_of_Conflict.md), the Rangescraper will be **temporarily** degraded into the aforementioned weapon. Rangescraper **cannot** be enchanted.
 
 ## Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 228222
+revid: 229006
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -10,7 +10,7 @@ categories: [Character, Creation, Mechanics]
 
 ## Description
 
-Your Name is one of the many ways to choose how you appear in-game to yourself and others.
+Your **Name** is one of the many ways to choose how you appear in-game to yourself and others.
 
 -   A Randomized name will be assigned to you at the beginning of character creation, though this may be changed at any time during the process or later at a [Barber](Barber.md) for 100 notes.
 
@@ -19,41 +19,69 @@ Your Name is one of the many ways to choose how you appear in-game to yourself a
 -   First names may be chosen from 3 pools of Masculine, Feminine and Neutral choices.
 -   Last names are exclusive to each [Aspect](Aspects.md).
 
-## Flairs
+## Name Accents
 
-Flairs are cosmetic name colours obtained by surpassing the most difficult challenges in-game, including PvP and PvE accomplishments. They will change the colour of your name on the character list (Top-Right corner in-game) depending on which flair(s) you have obtained. If you have obtained more than one flair, the one with the lowest priority will display on the character list.
+**Name Accents**, also known as **flairs**, are cosmetic name colors awarded for completing in-game badges and achievements, inclduing most difficult PvP and PvE challenges. Accents are ranked across six difficulty tiers, from lowest to highest: Easy, Medium, Hard, Expert, Master, and Grandmaster. Currently, 6 Name Accents exist, with more being worked on[\[1\]](#cite-note-1).
+
+To change an active Name Accent, click your name on the character selection screen located in the top-right corner of the screen. The accents available for selection depend on which flairs the player has unlocked. If a player holds more than one flair, the accent with the lowest priority is displayed by default on the character list.
 
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Flair</th>
-  <th>Priority</th>
+  <th>Accent</th>
+  <th>Preview</th>
+  <th>Difficulty</th>
   <th>Requirements</th>
+  <th>Associated Badge</th>
+</tr>
+<tr>
+  <td>No Accent</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>N/A</td>
+  <td>Default Accent.</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td>Bronze</td>
-  <td>5</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>TBD</td>
   <td>Currently holding between the 1000th-251st rank within the Chime of Conflict.</td>
-</tr>
-<tr>
-  <td>Emerald</td>
-  <td>4</td>
-  <td>Obtain the badge "W-Rank", obtainable through getting S-Rank (all echo quests) with all echo modifiers enabled.</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td>Silver</td>
-  <td>3</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>TBD</td>
   <td>Currently holding between the 250th-51st rank within the Chime of Conflict.</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td>Gold</td>
-  <td>2</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>TBD</td>
   <td>Currently holding between the 50th-11th rank within the Chime of Conflict.</td>
+  <td>N/A</td>
 </tr>
 <tr>
-  <td>Ruby</td>
-  <td>1</td>
+  <td>Sovereign of Conflict</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>TBD</td>
   <td>Currently holding between the 10th-1st rank within the Chime of Conflict.</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td>W Rank Legacy</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Master</td>
+  <td>Achieve a W Rank Legacy with your character.</td>
+  <td>W Rank</td>
+</tr>
+<tr>
+  <td>Memory Surpassed</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Master</td>
+  <td>Defeat the Lord Regent in the Vow of Iron.</td>
+  <td>Memory Surpassed</td>
 </tr>
 </tbody>
 </table>
@@ -1905,7 +1933,7 @@ Kyrsan names are the custom names that are given by [Erosius Amaltus Urivortus A
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The name Dante is a reference to Vergil's brother and the main character of Devil May Cry.
 -   The names "Usopp", "Luffy" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
-    -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Usopp and Kaido were added initially.[\[1\]](#cite-note-1) Alvida and Luffy were added much later.
+    -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Usopp and Kaido were added initially.[\[2\]](#cite-note-2) Alvida and Luffy were added much later.
 -   The names "Solaire", "Ornstein", "Smough", "Seath", "Patches", "Artorias", "Gwyn", "Wolnir", "Aldrich", "Oceiros", "Lorian", "Lothric", "Midir", "Halflight", and "Gael", are references to various characters from the _Dark Souls_ series.
     -   Initially, the name "Ornstein" was _**incorrectly**_ spelled as "Orstein."
     -   The names Shabriri, Vyke, Maliketh, Godrick, and Godfrey are references to _Elden Ring_, a spiritual successor to _Dark Souls_.
@@ -1952,7 +1980,7 @@ Kyrsan names are the custom names that are given by [Erosius Amaltus Urivortus A
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in. John Doe is a placeholder name when the true name of a person is unknown or purposefully hidden.
--   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[2\]](#cite-note-2)
+-   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[3\]](#cite-note-3)
 -   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe. It may also be referencing Albion, one the Fallen of Albaz's dragon forms, a character from Yu-Gi-Oh!
 -   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
 -   The name Corvo could be a reference to Corvo Attano, the protagonist of Dishonored.
@@ -1971,5 +1999,6 @@ Kyrsan names are the custom names that are given by [Erosius Amaltus Urivortus A
 
 ## References
 
-1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2) [https://en.wikipedia.org/wiki/Yakub\_(Nation\_of\_Islam)](<https://en.wikipedia.org/wiki/Yakub_(Nation_of_Islam)>)
+1.  [↑](#cite-ref-1) [According to Developer Arch\_Mage in Deepwoken Discord Server, the system is still being developed and tiers are subject to change.](https://discord.com/channels/920707638034067486/1476803801196269713/1546945187786526842)
+2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3) [https://en.wikipedia.org/wiki/Yakub\_(Nation\_of\_Islam)](<https://en.wikipedia.org/wiki/Yakub_(Nation_of_Islam)>)

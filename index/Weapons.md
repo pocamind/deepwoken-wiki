@@ -1240,7 +1240,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -1609,7 +1609,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>17</td>
   <td>MED: 7<br>
   INT: 3.5</td>
-  <td>-</td>
+  <td>10%</td>
   <td>30%</td>
   <td>5</td>
   <td>8</td>
@@ -1663,14 +1663,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
   <td>17.5</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>10%</td>
   <td>10%</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -2044,7 +2044,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -2052,8 +2052,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -2245,7 +2245,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>6</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.01x</td>
   <td>-</td>
   <td>22</td>
 </tr>
@@ -2253,14 +2253,15 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
   <td>40 MED</td>
   <td>17</td>
-  <td>MED: 5</td>
+  <td>MED: 7<br>
+  WLL: 1</td>
   <td>5%</td>
   <td>-</td>
   <td>6</td>
   <td>7</td>
   <td>1x</td>
   <td>-</td>
-  <td>23.4</td>
+  <td>27.2</td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -2282,14 +2283,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td>50 MED<br>
   <a href="Justicar_(Origin).md">Justicar</a> Origin</td>
   <td>19.5</td>
-  <td>MED: 6.5</td>
+  <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
   <td>6</td>
   <td>8</td>
   <td>0.92x</td>
   <td>-</td>
-  <td>29</td>
+  <td>31.2</td>
 </tr>
 <tr>
   <td colspan="11">Rifles</td>
@@ -3262,7 +3263,7 @@ All weapons within the game have the chance of being found with or without diffe
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -3270,7 +3271,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -3791,7 +3792,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -3799,8 +3800,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -4013,7 +4014,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -4270,7 +4271,7 @@ All weapons within the game have the chance of being found with or without diffe
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -4278,7 +4279,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -6691,7 +6692,7 @@ Pistols
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -7060,7 +7061,7 @@ Pistols
   <td>17</td>
   <td>MED: 7<br>
   INT: 3.5</td>
-  <td>-</td>
+  <td>10%</td>
   <td>30%</td>
   <td>5</td>
   <td>8</td>
@@ -7114,14 +7115,14 @@ Pistols
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
   <td>17.5</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>10%</td>
   <td>10%</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -7495,7 +7496,7 @@ Pistols
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -7503,8 +7504,8 @@ Pistols
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -7696,7 +7697,7 @@ Pistols
   <td>-</td>
   <td>6</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.01x</td>
   <td>-</td>
   <td>22</td>
 </tr>
@@ -7704,14 +7705,15 @@ Pistols
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
   <td>40 MED</td>
   <td>17</td>
-  <td>MED: 5</td>
+  <td>MED: 7<br>
+  WLL: 1</td>
   <td>5%</td>
   <td>-</td>
   <td>6</td>
   <td>7</td>
   <td>1x</td>
   <td>-</td>
-  <td>23.4</td>
+  <td>27.2</td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -7733,14 +7735,14 @@ Pistols
   <td>50 MED<br>
   <a href="Justicar_(Origin).md">Justicar</a> Origin</td>
   <td>19.5</td>
-  <td>MED: 6.5</td>
+  <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
   <td>6</td>
   <td>8</td>
   <td>0.92x</td>
   <td>-</td>
-  <td>29</td>
+  <td>31.2</td>
 </tr>
 <tr>
   <td colspan="11">Rifles</td>
@@ -8203,7 +8205,7 @@ Swords
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -8572,7 +8574,7 @@ Swords
   <td>17</td>
   <td>MED: 7<br>
   INT: 3.5</td>
-  <td>-</td>
+  <td>10%</td>
   <td>30%</td>
   <td>5</td>
   <td>8</td>
@@ -8626,14 +8628,14 @@ Swords
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
   <td>17.5</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>10%</td>
   <td>10%</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -9041,7 +9043,7 @@ Spears
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -9049,8 +9051,8 @@ Spears
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -9259,7 +9261,7 @@ Staves
   <td>-</td>
   <td>6</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.01x</td>
   <td>-</td>
   <td>22</td>
 </tr>
@@ -9267,14 +9269,15 @@ Staves
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
   <td>40 MED</td>
   <td>17</td>
-  <td>MED: 5</td>
+  <td>MED: 7<br>
+  WLL: 1</td>
   <td>5%</td>
   <td>-</td>
   <td>6</td>
   <td>7</td>
   <td>1x</td>
   <td>-</td>
-  <td>23.4</td>
+  <td>27.2</td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -9296,14 +9299,14 @@ Staves
   <td>50 MED<br>
   <a href="Justicar_(Origin).md">Justicar</a> Origin</td>
   <td>19.5</td>
-  <td>MED: 6.5</td>
+  <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
   <td>6</td>
   <td>8</td>
   <td>0.92x</td>
   <td>-</td>
-  <td>29</td>
+  <td>31.2</td>
 </tr>
 </tbody>
 </table>
@@ -10347,7 +10350,7 @@ Bows
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -10355,7 +10358,7 @@ Bows
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -11475,7 +11478,7 @@ Greatswords
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -11483,7 +11486,7 @@ Greatswords
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -12102,7 +12105,7 @@ Elemental
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -12110,8 +12113,8 @@ Elemental
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -12324,7 +12327,7 @@ Elemental
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -12581,7 +12584,7 @@ Elemental
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -12589,7 +12592,7 @@ Elemental
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -15623,7 +15626,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -15992,7 +15995,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>17</td>
   <td>MED: 7<br>
   INT: 3.5</td>
-  <td>-</td>
+  <td>10%</td>
   <td>30%</td>
   <td>5</td>
   <td>8</td>
@@ -16046,14 +16049,14 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
   <td>17.5</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>10%</td>
   <td>10%</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -16313,7 +16316,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -16321,8 +16324,8 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -16533,7 +16536,7 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>-</td>
   <td>6</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.01x</td>
   <td>-</td>
   <td>22</td>
 </tr>
@@ -16541,14 +16544,15 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
   <td>40 MED</td>
   <td>17</td>
-  <td>MED: 5</td>
+  <td>MED: 7<br>
+  WLL: 1</td>
   <td>5%</td>
   <td>-</td>
   <td>6</td>
   <td>7</td>
   <td>1x</td>
   <td>-</td>
-  <td>23.4</td>
+  <td>27.2</td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -16570,14 +16574,14 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>50 MED<br>
   <a href="Justicar_(Origin).md">Justicar</a> Origin</td>
   <td>19.5</td>
-  <td>MED: 6.5</td>
+  <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
   <td>6</td>
   <td>8</td>
   <td>0.92x</td>
   <td>-</td>
-  <td>29</td>
+  <td>31.2</td>
 </tr>
 </tbody>
 </table>
@@ -17264,7 +17268,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -17633,7 +17637,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>17</td>
   <td>MED: 7<br>
   INT: 3.5</td>
-  <td>-</td>
+  <td>10%</td>
   <td>30%</td>
   <td>5</td>
   <td>8</td>
@@ -17687,14 +17691,14 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
   <td>17.5</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>10%</td>
   <td>10%</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -18068,7 +18072,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -18076,8 +18080,8 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -18269,7 +18273,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>6</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.01x</td>
   <td>-</td>
   <td>22</td>
 </tr>
@@ -18277,14 +18281,15 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
   <td>40 MED</td>
   <td>17</td>
-  <td>MED: 5</td>
+  <td>MED: 7<br>
+  WLL: 1</td>
   <td>5%</td>
   <td>-</td>
   <td>6</td>
   <td>7</td>
   <td>1x</td>
   <td>-</td>
-  <td>23.4</td>
+  <td>27.2</td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -18306,14 +18311,14 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>50 MED<br>
   <a href="Justicar_(Origin).md">Justicar</a> Origin</td>
   <td>19.5</td>
-  <td>MED: 6.5</td>
+  <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
   <td>6</td>
   <td>8</td>
   <td>0.92x</td>
   <td>-</td>
-  <td>29</td>
+  <td>31.2</td>
 </tr>
 <tr>
   <td colspan="11">Rifles</td>
@@ -19330,7 +19335,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -19338,7 +19343,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -20482,7 +20487,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -20490,7 +20495,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -21077,7 +21082,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -21085,8 +21090,8 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -21299,7 +21304,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -21556,7 +21561,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -21564,7 +21569,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -23340,7 +23345,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -23709,7 +23714,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>17</td>
   <td>MED: 7<br>
   INT: 3.5</td>
-  <td>-</td>
+  <td>10%</td>
   <td>30%</td>
   <td>5</td>
   <td>8</td>
@@ -23763,14 +23768,14 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
   <td>17.5</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>10%</td>
   <td>10%</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -24144,7 +24149,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -24152,8 +24157,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -24345,7 +24350,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>6</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.01x</td>
   <td>-</td>
   <td>22</td>
 </tr>
@@ -24353,14 +24358,15 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
   <td>40 MED</td>
   <td>17</td>
-  <td>MED: 5</td>
+  <td>MED: 7<br>
+  WLL: 1</td>
   <td>5%</td>
   <td>-</td>
   <td>6</td>
   <td>7</td>
   <td>1x</td>
   <td>-</td>
-  <td>23.4</td>
+  <td>27.2</td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -24382,14 +24388,14 @@ Every player-obtainable weapon, excluding offhands.
   <td>50 MED<br>
   <a href="Justicar_(Origin).md">Justicar</a> Origin</td>
   <td>19.5</td>
-  <td>MED: 6.5</td>
+  <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
   <td>6</td>
   <td>8</td>
   <td>0.92x</td>
   <td>-</td>
-  <td>29</td>
+  <td>31.2</td>
 </tr>
 <tr>
   <td colspan="11">Rifles</td>
@@ -25362,7 +25368,7 @@ Every player-obtainable weapon, excluding offhands.
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -25370,7 +25376,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>
@@ -25891,7 +25897,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -25899,8 +25905,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -26113,7 +26119,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -26370,7 +26376,7 @@ Every player-obtainable weapon, excluding offhands.
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#rending-needle-augmenter">Rending Needle: Augmenter</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a></td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -26378,7 +26384,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.1s</td>
   <td>45</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 228455
+revid: 228996
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -123,7 +123,7 @@ Dialogue: [The Gaunt Man](The_Gaunt_Man.md)
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan) dwell in small villages sheltered from the gale.
 
-Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan), [Raeva](#raeva)
+Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>) | Glossary Entries: [Ameda](#ameda), [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan), [Raeva](#raeva), [The Amedan Temple](#the-amedan-temple)
 
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the [Second Layer](#the-eternal-gale-the-second-layer) are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan--kyrsgarde).
 -   [Kaide](#kaide-the-drowned-light) suggested that the [Second Layer](#the-eternal-gale-the-second-layer) may once have been the [Kyrsan](#kyrsan--kyrsgarde) world before it was consumed by the [Depths](#depths).
@@ -498,7 +498,7 @@ Dialogue: [Nostor](Nostor,_Master_of_Shadow.md) | Books: | Glossary Entries:
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilisation. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Leaf Spellhardt](Leaf_Spellhardt.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md), [The Dreadstar](The_Dreadstar.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Bloodrend](#bloodrend), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Frostdraw](#frostdraw), [Galebreathe](#galebreathe), [Ironsing](#ironsing), [Lightkeep](#lightkeep), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Mantra](#mantra), [Oaths](#oaths), [Radiant Tones](#radiant-tones), [Shadowcast](#shadowcast), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Thundercall](#thundercall), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Leaf Spellhardt](Leaf_Spellhardt.md), [Naerotiv](Naerotiv.md) when wearing an [Amedan Pendant](Amedan_Pendant.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md), [The Dreadstar](The_Dreadstar.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Bloodrend](#bloodrend), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Frostdraw](#frostdraw), [Galebreathe](#galebreathe), [Ironsing](#ironsing), [Lightkeep](#lightkeep), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Mantra](#mantra), [Oaths](#oaths), [Radiant Tones](#radiant-tones), [Shadowcast](#shadowcast), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Thundercall](#thundercall), [Vows](#vows)
 
 ### Thundercall
 
@@ -528,6 +528,14 @@ Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Klar
 Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
 ## Objects of Interest
+
+### Ameda
+
+-   The [Kyrsan](#kyrsan) [Suncross](#suncross), once the bringer of life to their world.
+-   Naerotiv described a pilgrimage made by [Kyrsan](#kyrsan)s to an [Amedan Temple](#amedan-temple).
+-   Naerotiv suggested that some Kyrsans worshipped Ameda as their god.
+
+Dialogue: [Naerotiv](Naerotiv.md) while wearing an [Amedan Pendant](Amedan_Pendant.md) | Books: | Glossary Entries: [The Amedan Temple](#the-amedan-temple)
 
 ### Dawnfocal
 
@@ -569,7 +577,7 @@ Dialogue: [Samael](Samael.md)
 -   It's orbit is roughly equidistant between the [Surface](#the-surface) and the [Heavens](#the-heavens), though it oscillates on its lateral axis yearly, pitching towards the [Surface](#the-surface) in summer, and the [Heavens](#the-heavens) in winter. As a matter of course, the climate is typically colder and more changeable in Northern [Lumen](#lumen), and a more consistently warm temperature in Southern [Lumen](#lumen).
 -   The [Moonseye](#the-moonseye) can be seen as the Suncross's counterpart.
 
-Dialogue: [Azurath](Azurath.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
+Dialogue: [Azurath](Azurath.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [Ameda](#ameda), [The Amedan Temple](#the-amedan-temple), [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
 
 -   Some [Starkindred](#the-starkindred-faith) believe the Suncross to be a [Celestial](#the-celestials), though others disagree. To all of the faith, however, it is sacred.
 
@@ -684,6 +692,13 @@ Dialogue: | Books: | Glossary Entries: [Deepwoken](#deepwoken)
 Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raphael](Raphael.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Span](#span), [The Aftertide / New World](#the-aftertide--new-world), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
 
 ## Places
+
+### The Amedan Temple
+
+-   A temple in the ruins of Old Kyrsa, dedicated to the [Kyrsan](#kyrsan) [Suncross](#suncross), [Ameda](#ameda).
+-   According to Naerotiv, a vision is granted to those who lay their hands upon the shrine. It is said to be different for everyone who visits.
+
+Dialogue: [Naerotiv](Naerotiv.md) when wearing an [Amedan Pendant](Amedan_Pendant.md) | Books: | Glossary Entries: [Ameda](#ameda)
 
 ### The Boundary
 

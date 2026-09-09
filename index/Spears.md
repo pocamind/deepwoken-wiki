@@ -168,7 +168,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>50 MED<br>
   75 ICE</td>
   <td>17</td>
-  <td>ICE: 3<br>
+  <td>ICE: 4<br>
   MED: 5</td>
   <td>20%</td>
   <td>5%</td>
@@ -176,8 +176,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>9</td>
   <td>0.97x</td>
   <td>-</td>
-  <td>27.2<br>
-  (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td>28.5<br>
+  (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>

@@ -3,7 +3,7 @@ title: Tenacity
 revid: 228799
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Shields, Offhand, Named Weapons, Named Items]
+categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields, Offhand]
 ---
 
 # Tenacity
@@ -36,7 +36,7 @@ Variants: [Old World Greatshield](Old_World_Greatshield.md)
 
 The **Max Posture Bonus** stat can be increased with **Weight Quality Stars**.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate Tenacity. Tenacity **cannot** be enchanted.
+Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equipped or in your inventory causes it to **permanently deteriorate into an [Old World Greatshield](Old_World_Greatshield.md)**. This will also apply when unlocking your [Resonance](Resonance.md). In the [Chime of Conflict](Chime_of_Conflict.md), the Tenacity will be **temporarily** degraded into the aforementioned weapon.
 
 ## Talents
 

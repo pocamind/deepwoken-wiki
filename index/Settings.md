@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 228559
+revid: 229012
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -283,13 +283,19 @@ These Keybinds will only appear if you have the respective ability.
 
 ## Interface
 
-There are 11 interface related settings.
+There are 14 interface related settings.
 
 -   **Cinematic Mode On/Off** - "Hides the UI for screenshots and videos."
     -   Does not hide player list or [Teleportation](Teleportation.md) markers.
 -   **Hide Names On/Off** - "Hides character names."
     -   Hides the names of other players in-game from your PoV.
     -   Does not hide your own or others in the player list or top info bar.
+-   **Deadzone (Triggers) Slider 0-1** - "Determines the minimum distance the triggers must be pressed to register input."
+    -   This setting only appears on Console.
+    -   The default value for this setting is 0.1.
+-   **Deadzone (Analog Sticks) Slider 0-1** - "Determines the minimum distance the analog sticks must be moved to register input."
+    -   This setting only appears on Console. This is largely used to combat stick drift.
+    -   The default value for this setting is 0.2.
 -   **Cooldown Bars On/Off** - "Enables cooldown indicator bars."
     -   Cooldown Bars will appear whenever an effect is procced, indicating when it is able to proc again.
 -   **Stat Bar Behavior Always/Hover** - "Sets when your stat bars shows their percentages."

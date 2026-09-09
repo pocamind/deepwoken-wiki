@@ -1,6 +1,6 @@
 ---
 title: The Barrel
-revid: 228900
+revid: 229011
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapons of The Summer Company]

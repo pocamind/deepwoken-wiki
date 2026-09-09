@@ -54,7 +54,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>6</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.01x</td>
   <td>-</td>
   <td>22</td>
 </tr>
@@ -62,14 +62,15 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
   <td>40 MED</td>
   <td>17</td>
-  <td>MED: 5</td>
+  <td>MED: 7<br>
+  WLL: 1</td>
   <td>5%</td>
   <td>-</td>
   <td>6</td>
   <td>7</td>
   <td>1x</td>
   <td>-</td>
-  <td>23.4</td>
+  <td>27.2</td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -91,14 +92,14 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>50 MED<br>
   <a href="Justicar_(Origin).md">Justicar</a> Origin</td>
   <td>19.5</td>
-  <td>MED: 6.5</td>
+  <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
   <td>6</td>
   <td>8</td>
   <td>0.92x</td>
   <td>-</td>
-  <td>29</td>
+  <td>31.2</td>
 </tr>
 </tbody>
 </table>

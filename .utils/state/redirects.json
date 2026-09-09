@@ -3314,6 +3314,10 @@
   "NPCs": {
     "to": "Category:NPCs"
   },
+  "Name Accents": {
+    "to": "Names",
+    "fragment": "Name Accents"
+  },
   "Nascence": {
     "to": "Deepwoken OST",
     "fragment": "Nascence"

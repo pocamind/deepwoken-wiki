@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228941
+revid: 228993
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -8790,7 +8790,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     
     -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting 15% damage reduction at the cost of reducing your movement speed by 36%.
 
--   Frenzied Slash: [Darksteel Greatsword](Darksteel_Greatsword.md) & Darksky Greatsword - Any damage you take during your Critical Attack's windup gets added to the damage of the Critical Attack.
+-   Frenzied Slash: [Darksteel Greatsword](Darksteel_Greatsword.md) & [Darkalloy Greatsword](Darksteel_Greatsword.md) - Any damage you take during your Critical Attack's windup gets added to the damage of the Critical Attack.
 
 -   Hunter's Chase: [Serrated Warspear](Serrated_Warspear.md) - Double the range you are able to chase down enemies with a running attack. Your Running attacks now also proc [Bear Trap](#bear-trap) and deals 15% more base damage.
 
@@ -8800,9 +8800,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Mudskipper Gripper: [Coral Cestus](Coral_Cestus.md) - When executing an opponent with your critical attack, summon [mudskippers](Mudskipper.md) to aid you in battle.
     -   Summons two [Mudskippers](Mudskipper.md). These Mudskippers can be either [Miniskippers](Mudskipper.md) or [Bloatskippers](Mudskipper.md#bloatskipper).
 
--   Overwhelming Stability: [Duskpole](Duskpole.md) - Landing a [Both Ends](#both-ends) staff strike will now instantly proc insanity debuffs onto your opponent. The damage from insanity procs is further increased the greater the distance there is between you and your opponents \[5 sec CD\]
+-   Overwhelming Stability: [Duskpole](Duskpole.md) - Landing a [Both Ends](#both-ends) staff strike will now instantly proc insanity debuffs onto your opponent. The damage from insanity procs is further increased the greater the difference there is between you and your opponents \[5 sec CD\]
 
--   Pastry Platter: The Pastry Pastry - Guardbreaking your opponent with a critical attack gives you a random non-boss food buff for 30 seconds.
+-   Pastry Platter: [The Pastry Paster](The_Pastry_Paster.md) - Guardbreaking your opponent with a critical attack gives you a random non-boss food buff for 30 seconds.
     -   This cannot give the [Brain](Status_Effects.md#brain), [Scale](Status_Effects.md#scale), [Strength](Status_Effects.md#strength), or [Throat](Status_Effects.md#throat) food buffs.
 
 -   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
@@ -8879,6 +8879,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Increases shaky block duration by 0.004s per point in Thundercall. At 100 Thundercall, shaky block lasts 1 second against players with 1x or slower swing speed weapons.
 
 -   Subzero: [Winter Rifle](Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
+    -   Applies [Bottom Freeze](Status_Effects.md#bottom-freeze) on proc.
 
 -   Sweeping Edge: [Vigil Longsword](Vigil_Longsword.md) & [Alloyed Vigil Longsword](Vigil_Longsword.md) - Your [Master's Flourish](Attunement-less.md#masters-flourish) is larger and can now proc flourish talents.
     -   This cannot proc [Dazing Finisher](#dazing-finisher) and [Unnecessary Theatrics](#unnecessary-theatrics).

@@ -1,16 +1,16 @@
 ---
 title: Isle of Vigils
-revid: 225651
+revid: 228983
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
+categories: [Locations, Locations in the Etrean Luminant, Territory of The Vigil of Winds]
 ---
 
 # Isle of Vigils
 
 LocationL Isle of Vigils LocationR
 
-TERRITORY OF Etrea
+TERRITORY OF The Vigil of Winds
 
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 
@@ -84,7 +84,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   She will ask you to chop wood for her so that they have a sustainable supply of lumber for the Winter.
 -   Accepting her quest gives you a Lumber Axe for free.
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
--   Acts similar to Korin in Etris; 6 Wood for 5, plus Etrea [reputation](Reputation.md) and some EXP.
+-   Acts similar to [Korin](Korin.md) in Etris; 6 Wood for 5, plus Etrea [reputation](Reputation.md) and some EXP.
 -   This quest is repeatable.
 
 ### Treefelling Blow Talent Quest

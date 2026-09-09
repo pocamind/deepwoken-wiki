@@ -1,9 +1,9 @@
 ---
 title: Temple Sparring Hall
-revid: 213414
+revid: 228987
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant, Territory of Etrea, Lawless Territory]
+categories: [Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant, Territory of The Vigil of Winds, Lawless Territory]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -12,13 +12,12 @@ notices:
 
 LocationL Temple Sparring Hall LocationR
 
-LAWLESS TERRITORY OF Etrea
+LAWLESS TERRITORY OF The Vigil of Winds
 
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 
   
 
-  
 **Temple Sparring Hall** is a location in _Deepwoken_. It is a landmark of the [Temple of the Blade](Temple_of_the_Blade.md).
 
 ## Overview

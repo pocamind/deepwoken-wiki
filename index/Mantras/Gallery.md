@@ -422,8 +422,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a cooldown of 19.5 seconds.
 -   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack after a 1 second windup.
 -   Parrying or getting hit during the attack windup will cancel the explosion.
--   Upgrading the Mantra will increase the placement range.
--   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
+-   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the placement range, upgrading the mantra doesn't increase its range but increases the effectiveness of these modifiers.
 -   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away. Additionally, its secondary casting time changes to 0.85 seconds.
 
  |
@@ -7613,7 +7612,7 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
 
  | 
 
-Blunt ResistanceBlunt
+Typeless
 
  | 
 
@@ -9250,9 +9249,15 @@ N/A
 
 **Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](../Enforcer.md)'s '**Space Pull'** attack._
 
--   Missing still takes Ether and does not put this mantra on cooldown.
--   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](../Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](../Reinforced_Enforcer_Boots.md) all-but removes the windup of the pull after landing a flourish.
--   Can be modified with Crystal and Perfect lens to slighty increase range.
+-   Deals 0.1 damage and can be affected by damage modifiers.
+    -   This allows the mantra to proc Deep Gems & Talents.
+-   Has a default windup of 0.8s.
+-   Enforcer Pull has a 10 second cooldown.
+-   Whiffing the mantra will take ether and put it on a 1.5 second cooldown.
+-   Enforcer Pull's default range is 50 studs, with it increasing by 1 for each range modification.
+    -   This means at 4 Perfect & 4 Crystal lenses, you can achieve a range of 70 studs (+20 range).
+-   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](../Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](../Reinforced_Enforcer_Boots.md) reduces the windup to 0.5s and increases the range by 60 (to 110, max of 130) studs for 5s after landing a **default** flourish.
+    -   This effect cannot be procced while Enforcer Pull is on cooldown, and only activates with **default** flourishes. "Flourish" talents or effects do not count.
 
  |
 

@@ -208,7 +208,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>15%</td>
   <td>5%</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
@@ -577,7 +577,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>17</td>
   <td>MED: 7<br>
   INT: 3.5</td>
-  <td>-</td>
+  <td>10%</td>
   <td>30%</td>
   <td>5</td>
   <td>8</td>
@@ -631,14 +631,14 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
   <td>17.5</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>10%</td>
   <td>10%</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>

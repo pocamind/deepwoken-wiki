@@ -1,16 +1,16 @@
 ---
 title: Temple Approach
-revid: 195012
+revid: 228984
 source: https://deepwoken.fandom.com/wiki/Temple_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
+categories: [Locations, Locations in the Etrean Luminant, Territory of The Vigil of Winds]
 ---
 
 # Temple Approach
 
 LocationL Temple Approach LocationR
 
-TERRITORY OF Etrea
+TERRITORY OF The Vigil of Winds
 
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 

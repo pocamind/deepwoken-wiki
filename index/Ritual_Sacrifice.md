@@ -3,7 +3,7 @@ title: Ritual Sacrifice
 revid: 228783
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Legendary Weapons]
+categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Legendary Weapons]
 ---
 
 # Ritual Sacrifice
@@ -42,7 +42,7 @@ Variants: [Ritual Spear](Ritual_Spear.md)
 
 The **Ritual Sacrifice** is a Medium Spear, an enhanced version of the [Ritual Spear](Ritual_Spear.md). This weapon bears a blue appearance with a light blue shimmer emanating from the spear's tip and a blue swing trail, distinguishing it from base Ritual Spear.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate Ritual Sacrifice. Ritual Sacrifice **cannot** be enchanted.
+Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equipped or in your inventory causes it to **permanently deteriorate into a [Ritual Spear](Ritual_Spear.md)**. This will also apply when unlocking your [Resonance](Resonance.md). In the [Chime of Conflict](Chime_of_Conflict.md), the Ritual Sacrifice will be **temporarily** degraded into the aforementioned weapon. Ritual Sacrifice **cannot** be enchanted.
 
 ## Talents
 

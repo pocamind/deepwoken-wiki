@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 228909
+revid: 229002
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,15 +40,13 @@ Variants: [Helm](Blackalloy_Helm.md)
 
 The Blackalloy Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Laminated Armor](Talents/Vow_of_Iron.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. and applied after resistances. This Talent cannot reduce a damage value below 0.
+The [Laminated Armor](Talents/Vow_of_Iron.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers, but before resistances. This Talent cannot reduce a damage value below 0.
 
 ## Set Bonus
 
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
-
-The Set Talent cannot be used in [Chime of Conflict](Chime_of_Conflict.md). Attempting to summon the [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) will instead display the message: "Your pirate allies dont respond. they've fallen alseep..."
 
 If the summoned [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) do not find an enemy to fight, they will despawn after 30 seconds.
 

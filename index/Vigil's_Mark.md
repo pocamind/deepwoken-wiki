@@ -1,16 +1,16 @@
 ---
 title: "Vigil's Mark"
-revid: 213413
+revid: 228985
 source: https://deepwoken.fandom.com/wiki/Vigil's_Mark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea, Lawless Territory]
+categories: [Locations, Locations in the Etrean Luminant, Territory of The Vigil of Winds, Lawless Territory]
 ---
 
 # Vigil's Mark
 
 LocationL Vigil's Mark LocationR
 
-LAWLESS TERRITORY OF Etrea
+LAWLESS TERRITORY OF The Vigil of Winds
 
 A common spot for vigils-to-be to test both mettle and metal.
 
