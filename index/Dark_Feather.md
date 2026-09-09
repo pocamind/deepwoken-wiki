@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 192689
+revid: 228949
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -63,7 +63,7 @@ It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oat
 
 ## Drops
 
-The Void Feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md).
+The Void Feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md). Void feathers have a inventory limit of 10
 
 Cannot be deposited nor can it be dropped by players, even on death.
 
@@ -78,6 +78,7 @@ The Void Feather is used in these recipes:
 -   [Darkened Bastion](Darkened_Bastion.md)
 -   [Shadow's Flight](<Shadow's_Flight.md>)
 -   [Inquisition Light](Inquisition_Light.md)
+-   [Grim](Grim.md) [Enchant Stone](Enchant_Stone.md)
 -   Dark Feathers, which gives 3 of them per Void Feather.
 
   

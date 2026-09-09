@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 227769
+revid: 228943
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -118,7 +118,8 @@ Catching anything with a [Fishing Rod](Fishing_Rod.md) counts.
 E.g. rerolling [Resonance](Resonance.md). Also the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this Triumph. |
 | 
 
- | 5 | Unbound an [Attribute](Attributes.md). |
+ | 5 | Unbound an [Attribute](Attributes.md).  
+Attunement & Weapon Unbounds count for this task, as long you have the "Unbound" Talent you do not need to be above 75 investment. |
 | 
 
  | 5 | Obtain an [Oath](Oaths.md). |
@@ -163,7 +164,8 @@ Most alloyed weapons have a 75 weapon requirement. |
  | 10 | Defeat the [Scion of Ethiron](Scion_of_Ethiron.md). |
 | 
 
- | 10 | Complete [Hell Mode](Hell_Mode.md). |
+ | 10 | Complete [Hell Mode](Hell_Mode.md).  
+You need to kill at least one Hell Mode spawned mob after ringing the bell for this to count. |
 | 
 
  | 10 | Complete [Layer 2](Second_Layer.md) floor 1 without a [Light Hook](Light_Hook.md).  

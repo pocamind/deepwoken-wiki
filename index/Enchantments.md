@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 226759
+revid: 228940
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -1586,11 +1586,13 @@ _Once enough stacks have been applied, the Fire of Life geminates. The explosion
 
 **Effect:**
 
-After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying **[Flames of Life](Status_Effects.md#flames-of-life)** and [Temporary Health](Status_Effects.md#temporary-health) to them and other nearby targets.
+After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying **[Flames of Life](Status_Effects.md#flames-of-life)**, [Temporary Health](Status_Effects.md#temporary-health), and [Wither](Status_Effects.md#wither) to them and other nearby targets.
 
 The damage of explosion and amount of Temporary Health given are randomized.  
-**Damage:** 5.5-33 typeless damage. This cannot be buffed, and the explosions cannot execute.  
-**Temporary Health:** 0-50.
+**Damage:** 5.5-50\* typeless damage. This cannot be buffed, and the explosions cannot execute.  
+**Temporary Health:** 10-75\*.  
+**Wither:** 0-35\*.  
+\*Needs testing
 
 The explosion has 7.56x PvE scaling, the green fire has 6.66x PvE scaling; multiply PvP damage dealt by this amount to get PvE damage. Temporary Health given does not scale in PvE.
 

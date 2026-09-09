@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 228923
+revid: 228941
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -8426,7 +8426,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
     -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](#counter-spin).
-    -   Prerequisites: 30 Medium Weapon, Staff equipped
+    -   Prerequisites: [Staff](Staves.md) equipped, 30 Medium Weapon
 
 -   Counter Spin \[Common Talent, Medium Weapon\] - After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust the back-end of your Staff forwards, dealing 45% of your weapon's damage on hit.
@@ -8435,7 +8435,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: [Staff](Staves.md) equipped, 35 Medium Weapon
 
 -   Pressure Strike \[Common Talent, Medium Weapon\] - Staffs Reduce [Both Ends](#both-ends)' staff strike base damage by 50%, but double its posture damage. Guardbreaking an opponent with a Both Ends staff strike adds an extra 20 damage to the attack.
-    -   Prerequisites: [Staff](Staves.md) equipped, 90 Medium Weapon
+    -   Prerequisites: [Staff](Staves.md) equipped, [Both Ends](#both-ends), 90 Medium Weapon
 
 ### Vanguard Techniques
 
