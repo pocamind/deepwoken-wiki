@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 228680
+revid: 229113
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
@@ -38,7 +38,7 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>I could sense you from a mile away... Your soul is open. Exposed. Tread carefully, yes?</td>
+  <td>Oh ho ho... Another goody two shoes? You'd best get running little one. Before you get hurt</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -80,6 +80,24 @@ This dialogue is unlocked if the player already has [Tacet](Murmur%253A_Tacet.md
 </tr>
 <tr>
   <td colspan="12">So quietly you tread... As if you were never there.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Another Murmur:**
+
+This dialogue is unlocked if the player already has a murmur that isnt tacet
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">I could sense you from a mile away... Your soul is open. Exposed. Tread carefully, yes?</td>
 </tr>
 <tr>
   <td colspan="12">[End Dialogue]</td>

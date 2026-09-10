@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Puppet Master' Report"
-revid: 227840
+revid: 229114
 source: https://deepwoken.fandom.com/wiki/Operation_'Puppet_Master'_Report
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -74,5 +74,5 @@ Operation 'Puppet Master' Report
 
 ## Trivia
 
--   This book can obtained in the [Vow of Iron](Vow_of_Iron.md) gamemode, even though the operation takes place after the events of Vow of Iron.
--   When [banked](Item_Bank.md) it says "AuthorityReport".
+-   This book can be obtained in the [Vow of Iron](Vow_of_Iron.md) gamemode, even though the operation takes place after the events of Vow of Iron.
+-   When [banked](Item_Bank.md) it is known as "AuthorityReport".

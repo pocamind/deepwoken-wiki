@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 211019
+revid: 229118
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
@@ -30,7 +30,7 @@ To obtain the Ignition Delver Origin, the player must do one of the following:
 
 OR
 
--   Complete the [Summer Goons](Orion.md) quest and return to Orion.
+-   Complete the [Summer Goons](Orion.md) quest and return to Orion.(This method is bugged at the moment)
 
 ## Spawn
 
