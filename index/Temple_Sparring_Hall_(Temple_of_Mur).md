@@ -1,9 +1,9 @@
 ---
 title: Temple Sparring Hall (Temple of Mur)
-revid: 213456
+revid: 229043
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Dungeons, Territory of Etrea, Lawless Territory]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Territory of The Vigil of Winds, Lawless Territory, Dungeons]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 
 LocationL Temple Sparring Hall LocationR
 
-LAWLESS TERRITORY OF Etrea
+LAWLESS TERRITORY OF The Vigil of Winds
 
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 

@@ -1,9 +1,9 @@
 ---
 title: Temple Sparring Hall (Chime)
-revid: 188770
+revid: 229041
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Chime)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, Chime of Conflict Arenas]
+categories: [Pathfinder Exclusive, Locations, Territory of The Vigil of Winds, Lawless Territory, Chime of Conflict Arenas]
 ---
 
 # Temple Sparring Hall (Chime)
@@ -13,6 +13,8 @@ This page describes content that is exclusive to the **Pathfinder** gamemode.
 This content is not accessible outside of this gamemode.
 
 LocationL Temple Sparring Hall LocationR
+
+LAWLESS TERRITORY OF The Vigil of Winds
 
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 

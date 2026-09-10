@@ -37,7 +37,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Alloy
 
 ## Description
 
-The Vigil Longsword is a [Medium](Weapons.md#medium-weapons) longsword, used by [the Vigils](The_Vigils.md) of [Etrea](Etrea.md). With typical Medium Weapon range, along with being balanced across all attributes, the Vigil Longsword becomes a very effective mid-tier weapon.
+The Vigil Longsword is a [Medium](Weapons.md#medium-weapons) longsword, used by [the Vigils](The_Vigils_of_Winds.md) of [Etrea](Etrea.md). With typical Medium Weapon range, along with being balanced across all attributes, the Vigil Longsword becomes a very effective mid-tier weapon.
 
 With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longswords are equal to, if not better than the [Shattered Katana](Shattered_Katana.md) making it an easy endgame weapon to acquire if you have a [Pluripotent Alloy](Pluripotent_Alloy.md). Alloying a Vigil Longsword improves its stats and gives the blade a slight purple hue.
 

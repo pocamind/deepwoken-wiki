@@ -842,7 +842,7 @@
     "to": "Elemental Cantrips"
   },
   "Captain Greene (enchantment)": {
-    "to": "Curse of Captain Greene"
+    "to": "Curse of the Covetous"
   },
   "Captain Orlandeau": {
     "to": "Cap'n Orlandeau"
@@ -1146,6 +1146,9 @@
   },
   "Cultist Necromancer": {
     "to": "Ministry Necromancer"
+  },
+  "Curse of Captain Greene": {
+    "to": "Curse of the Covetous"
   },
   "Curse of Rhaemen's Ember": {
     "to": "Curse of Ysley's Ember"
@@ -4917,6 +4920,9 @@
   },
   "The Trial": {
     "to": "First Layer"
+  },
+  "The Vigils": {
+    "to": "The Vigils of Winds"
   },
   "The Void Sea": {
     "to": "Voidsea"

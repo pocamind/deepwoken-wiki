@@ -1,6 +1,6 @@
 ---
 title: Tenacity
-revid: 228799
+revid: 229063
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields, Offhand]
@@ -13,7 +13,7 @@ categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields,
 | type | Shield |
 | requirements | 30 Fortitude |
 | max posture | 5 |
-| talent | Aegis - You can never be guardbroken. |
+| talent | Aegis of Tenacity - You can never be guardbroken. |
 | special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%. |
 | m.equip | No |
 | m.extract | No |
@@ -42,7 +42,7 @@ Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equi
 
 Equipping the Tenacity grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Aegis**](Talents.md#aegis) removes **all** posture damage taken.
+[**Aegis of Tenacity**](Talents.md#aegis-of-tenacity) removes **all** posture damage taken.
 
 ## Trivia
 

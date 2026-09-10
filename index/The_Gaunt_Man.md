@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 224967
+revid: 229080
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, Pathfinder Exclusive, NPCs, Vendors]
@@ -205,7 +205,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td>Rain Enchant [25 <a href="Rain_Spire.md"><font><u>Rain Spires</u></font></a>, 10 <a href="Crowns.md"><font><u>Crowns</u></font></a>]</td>
   <td>Parasol's Blight [<a href="Parasol_Part.md"><font><u>Parasol Part</u></font></a>]</td>
   <td>Aegis Gem [<a href="Doom_of_Caeranthil's_Scale.md"><font><u>Doom of Caeranthil's Scale</u></font></a>]</td>
-  <td>Curse of Captain Greene Enchant [<a href="Exotic_Hide.md"><font><u>Exotic Hide</u></font></a>]</td>
+  <td>Curse of the Covetous Enchant [<a href="Exotic_Hide.md"><font><u>Exotic Hide</u></font></a>]</td>
   <td>Kyrsan Necklace [<a href="Charged_Bonecharm.md"><font><u>Charged Bonecharm</u></font></a>]</td>
   <td>Lets try that experiment again.</td>
   <td>Who - or what - are you, exactly?</td>
@@ -215,7 +215,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td>Purchases <a href="Rain_(enchantment).md"><font><u>Rain</u></font></a> Enchant Grease</td>
   <td>Purchases <a href="Parasol's_Blight.md"><font><u>Parasol's Blight</u></font></a> Enchant Stone</td>
   <td>Purchases <a href="Aegis_Gem.md"><font><u>Aegis Gem</u></font></a></td>
-  <td>Purchases <a href="Curse_of_Captain_Greene.md"><font><u>Curse of Captain Greene</u></font></a> Enchant Stone</td>
+  <td>Purchases <a href="Curse_of_the_Covetous.md"><font><u>Curse of the Covetous</u></font></a> Enchant Stone</td>
   <td>Purchases <a href="Charged_Bonecharm.md"><font><u>Charged Bonecharm<u></u></u></font></a><u><u></u></u></td>
   <td>[Enter Dungeon]</td>
   <td>Mm. Let me try a metaphor. If you are a stalk of wheat, then I am a loaf of bread. This is a fitting analogy.</td>
@@ -239,7 +239,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 
 ## Trivia
 
--   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](<Rain_(enchantment).md>) Enchant, [Curse of Captain Greene](Curse_of_Captain_Greene.md) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
+-   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](<Rain_(enchantment).md>) Enchant, [Curse of the Covetous](Curse_of_the_Covetous.md) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
     -   This also applies to the [Nightbringer](Nightbringer.md) Enchant, even though he doesn't sell you this item.
 -   Providence Thorns does not work in the Gaunt Man's Trial.
 -   Though it appears that the Gaunt Man is offering you the [Kyrsan Necklace](Kyrsan_Necklace.md) for the [Charged Bonecharm](Charged_Bonecharm.md), it is actually the opposite.

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 229006
+revid: 229086
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -56,17 +56,24 @@ To change an active Name Accent, click your name on the character selection scre
   <td>N/A</td>
 </tr>
 <tr>
-  <td>Gold</td>
+  <td>Grandmaster</td>
   <td><figure><figcaption></figcaption></figure></td>
   <td>TBD</td>
   <td>Currently holding between the 50th-11th rank within the Chime of Conflict.</td>
   <td>N/A</td>
 </tr>
 <tr>
+  <td>Godseeker</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>TBD</td>
+  <td>Currently holding between the 10th-2nd rank within the Chime of Conflict.</td>
+  <td>N/A</td>
+</tr>
+<tr>
   <td>Sovereign of Conflict</td>
   <td><figure><figcaption></figcaption></figure></td>
   <td>TBD</td>
-  <td>Currently holding between the 10th-1st rank within the Chime of Conflict.</td>
+  <td>Currently holding the 1st rank within the Chime of Conflict.</td>
   <td>N/A</td>
 </tr>
 <tr>

@@ -22,7 +22,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-Nocturne was the predecessor of [Alkhurst Legato](Maestro_Alkhurst_Legato.md) as [Maestro](Maestro.md) of [the Vigils](The_Vigils.md). They trained both the future Maestro and [High Monk Junsui](High_Monk_Junsui.md).[\[1\]](#cite-note-leg-1)
+Nocturne was the predecessor of [Alkhurst Legato](Maestro_Alkhurst_Legato.md) as [Maestro](Maestro.md) of [the Vigils](The_Vigils_of_Winds.md). They trained both the future Maestro and [High Monk Junsui](High_Monk_Junsui.md).[\[1\]](#cite-note-leg-1)
 
 ## Trivia
 

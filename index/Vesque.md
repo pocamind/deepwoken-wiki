@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Vesque is an [Etrean](Etrean.md) NPC. They teach the [Fang and Coil](Fang_and_Coil.md) fighting style. They appear to be a [Vigil](The_Vigils.md) belonging to a special division that practices hand-to-hand combat.
+Vesque is an [Etrean](Etrean.md) NPC. They teach the [Fang and Coil](Fang_and_Coil.md) fighting style. They appear to be a [Vigil](The_Vigils_of_Winds.md) belonging to a special division that practices hand-to-hand combat.
 
 ## Location
 

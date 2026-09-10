@@ -1,9 +1,9 @@
 ---
 title: Temple Sparring Hall (Dungeon)
-revid: 217471
+revid: 229042
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Dungeon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant, Territory of The Vigil of Winds, Lawless Territory, Dungeons]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 
 LocationL Temple Sparring Hall LocationR
 
-LAWLESS TERRITORY OF Etrea
+LAWLESS TERRITORY OF The Vigil of Winds
 
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 

@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 229029
+revid: 229047
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -405,6 +405,12 @@ There are 3 accessibility related settings.
     -   When Off: While shift-lock is active, your character will face forwards while sprinting. This allows you to strafe in any direction, including backwards.
     
 -   **Sprint Input Behavior Hold/Toggle** - "Change whether you have to hold the sprint input, or whether you toggle it with each input."
+
+## Staff
+
+There is 1 staff related setting.
+
+-   **Bounty Board Targetting On/Off** - "Allow other players to take on bounties targeting you. Will take immediate effect upon rejoining the game."
 
 ## Trivia
 

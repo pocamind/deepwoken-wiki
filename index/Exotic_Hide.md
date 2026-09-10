@@ -1,6 +1,6 @@
 ---
 title: Exotic Hide
-revid: 227472
+revid: 229079
 source: https://deepwoken.fandom.com/wiki/Exotic_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -21,4 +21,4 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **Exotic Hide** is an [Ingredient](Ingredients.md) that drops guaranteed from the extremely rare [Exotic Megalodaunt](Exotic_Megalodaunt.md), the [Weird Trader](Weird_Trader.md), or [Jeremiah](Jeremiah.md)'s [Deep Gems](Deep_Gems.md) exchange. It can be traded with the Gaunt man to receive a [Curse of Captain Greene](Curse_of_Captain_Greene.md) enchant stone.
+The **Exotic Hide** is an [Ingredient](Ingredients.md) that drops guaranteed from the extremely rare [Exotic Megalodaunt](Exotic_Megalodaunt.md), the [Weird Trader](Weird_Trader.md), or [Jeremiah](Jeremiah.md)'s [Deep Gems](Deep_Gems.md) exchange. It can be traded with [The Gaunt Man](The_Gaunt_Man.md) to receive a [Curse of the Covetous](Curse_of_the_Covetous.md) enchant stone.

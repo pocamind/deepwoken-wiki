@@ -1,28 +1,28 @@
 ---
-title: Curse of Captain Greene
-revid: 228702
-source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
+title: Curse of the Covetous
+revid: 229072
+source: https://deepwoken.fandom.com/wiki/Curse_of_the_Covetous
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
 ---
 
-# Curse of Captain Greene
+# Curse of the Covetous
 
-| Curse of Captain Greene | |
+| Curse of the Covetous | |
 |---|---|
 | bankable | Yes |
 | droppable | No |
 | pass down | Yes |
-| desc | Known throughout the Summer Company, many heard of the famous treasurer Captrain Greene [sic]. You inherit his strange ability of gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed... |
-| obtainment | Curse of Captain Greene Enchant Stone:, Trading an Exotic Hide to The Gaunt Man |
+| desc | Embodying the avarice of the wealthy, a Vow innate to this enchantment grants strength according to the amount of material wealth its user is able to put on the line, but will cause said wealth to spill from your pockets should you be injured. Should you run low on money, the Vow will even begin to draw from the material value of your own body, reducing your strength. |
+| obtainment | Curse of the Covetous Enchant Stone:, Trading an Exotic Hide to The Gaunt Man |
 
 ## Description
 
-Curse of Captain Greene is a damage buffing [enchantment](Enchantments.md) that increases your weapon's damage based on how many [Notes](Notes.md) you have.
+Curse of the Covetous is a damage buffing [enchantment](Enchantments.md) that increases your weapon's damage based on how many [Notes](Notes.md) you have.
 
 ## Effect
 
-Curse of Captain Greene increases your weapon's **base** damage by 0.001% for every [Note](Notes.md) you have above 7,500. This caps at +7.5% base damage at 15,000. Because this increases your base damage, it is **not** affected by the damage multiplier caps and instead increases the effectiveness of them.
+Curse of the Covetous increases your weapon's **base** damage by 0.001% for every [Note](Notes.md) you have above 7,500. This caps at +7.5% base damage at 15,000. Because this increases your base damage, it is **not** affected by the damage multiplier caps and instead increases the effectiveness of them.
 
 Upon landing a weapon attack, your opponent will lose 50.
 
@@ -42,4 +42,4 @@ Upon taking damage from a player, lose Notes equal to the amount of damage taken
 ## Trivia
 
 -   This enchantment was originally a Developer Spec before it was made publicly accessible during the [February 16th, 2026](Version_History/2026.md#february-16th-2026), as a part of Operation: Deep Healing.
-    -   While it was a spec, this Enchantment additionally allowed you to _gain_ 50 Notes when landing weapon attacks, with its description at the time stating that [Captain Greene](Captain_Greene.md) could "summon" Notes in much of the same fashion. This feat has since been retconned, as the Enchantment's description was changed.
+    -   While it was a spec, this Enchantment additionally allowed you to _gain_ 50 Notes when landing weapon attacks.

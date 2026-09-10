@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 228917
+revid: 229066
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -73,7 +73,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   You are also able to upgrade weapons using a [Pluripotent Alloy](Pluripotent_Alloy.md) with 25 investment points lower than its weapon stat requirement.
 -   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
 -   Attunements are unable to be obtained.
--   "Elemental" weapons **cannot** be equipped.
+-   "Elemental" weapons and the [Fondant Splitter](Fondant_Splitter.md) **cannot** be equipped.
 -   All Silentheart abilities gain a secondary damage instance in PvE that deals 133% of the original attack's damage. This benefits from [Chain of Perfection](Talents.md#chain-of-perfection) twice.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.

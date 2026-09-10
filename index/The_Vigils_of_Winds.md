@@ -1,16 +1,16 @@
 ---
-title: The Vigils
-revid: 216558
-source: https://deepwoken.fandom.com/wiki/The_Vigils
+title: The Vigils of Winds
+revid: 229044
+source: https://deepwoken.fandom.com/wiki/The_Vigils_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Factions, Etrea]
 notices:
   - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
-# The Vigils
+# The Vigils of Winds
 
-| The Vigils | |
+| The Vigils of Winds | |
 |---|---|
 | territory | Isle of Vigils |
 | goals | Defend and liberate The Kingdom of Etrea |

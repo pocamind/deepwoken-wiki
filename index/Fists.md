@@ -24,7 +24,7 @@ The following is a brief overview of the styles and their Master Armors. For mor
 
 **Fang and Coil:**
 
-[Fang and Coil](Fang_and_Coil.md); a serpentine Fist Style that has been adopted by a select few of [the Vigils](The_Vigils.md). Its critical is a leg sweep that ragdolls.
+[Fang and Coil](Fang_and_Coil.md); a serpentine Fist Style that has been adopted by a select few of [the Vigils](The_Vigils_of_Winds.md). Its critical is a leg sweep that ragdolls.
 
 Using the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit will grant this style an additional unique critical, as long as you are using a weapon that does not already have a unique critical.
 

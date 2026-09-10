@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229039
+revid: 229064
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -8655,6 +8655,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ## Weapon Talents
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
+
+-   Aegis of Tenacity: [Tenacity](Tenacity.md) - You can never be guardbroken.
+    -   This Talent **entirely** removes posture damage taken and negates instant guardbreaks.
 
 -   Ancient Metalwork: [Dissonant Chimecaller](Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](Ironsing.md) Rods and disrupt the [resonances](Resonance.md) of others, disabling them for 15 seconds.
     -   Landing a weapon critical puts your opponent's [Resonance](Resonance.md) on a 15 second cooldown. This does not require Ironsing Rods to proc.

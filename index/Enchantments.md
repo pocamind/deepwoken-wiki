@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 228940
+revid: 229075
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -1300,37 +1300,6 @@ Windswept Enchant Stone can as a chest drop from [Titus Fulminus Destellus](Titu
 | --- | --- |
 | 
 
-**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**
-
-[View main page](Curse_of_Captain_Greene.md)
-
-[Enchant Curse of Captain Greene](Curse_of_Captain_Greene.md)
-
-_Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability of gaining damage the more rich you are. However since you aren't Captrain \[_[sic](https://en.wikipedia.org/wiki/sic)_\] Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
-
- | 
-
-**Effect:**
-
-Your weapon's base damage is tied to your current [Notes](Notes.md).
-
-Your weapon's base damage is reduced by 7.5%. For every Note you have, your weapon's base damage will be increased by 0.001%, capping at +7.5% base damage with 15k Notes.
-
-Upon taking damage from a player, lose 100 Notes. Upon landing a weapon attack, your opponent will lose 50 Notes. Both of these effects are signified by a coin splash sound effect.
-
-**This enchantment will do nothing if you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character.**
-
-**Obtainment:**
-
-Curse of Captain Greene is obtained exclusively from its [Enchant Stone](Enchant_Stone.md).
-
-Curse of Captain Greene Enchant Stone can be obtained by trading 1 [Exotic Hide](Exotic_Hide.md) to [The Gaunt Man](The_Gaunt_Man.md).
-
-  
-
- |
-| 
-
 **[Curse of Repulsion](Curse_of_Repulsion.md)**
 
 [View main page](Curse_of_Repulsion.md)
@@ -1440,6 +1409,37 @@ Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md)
         
+
+  
+
+ |
+| 
+
+**[Curse of the Covetous](Curse_of_the_Covetous.md)**
+
+[View main page](Curse_of_the_Covetous.md)
+
+[Enchant Curse of Captain Greene](Curse_of_the_Covetous.md)
+
+_Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability of gaining damage the more rich you are. However since you aren't Captrain \[_[sic](https://en.wikipedia.org/wiki/sic)_\] Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
+
+ | 
+
+**Effect:**
+
+Your weapon's base damage is tied to your current [Notes](Notes.md).
+
+Your weapon's base damage is reduced by 7.5%. For every Note you have, your weapon's base damage will be increased by 0.001%, capping at +7.5% base damage with 15k Notes.
+
+Upon taking damage from a player, lose 100 Notes. Upon landing a weapon attack, your opponent will lose 50 Notes. Both of these effects are signified by a coin splash sound effect.
+
+**This enchantment will do nothing if you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character.**
+
+**Obtainment:**
+
+Curse of the Covetous is obtained exclusively from its [Enchant Stone](Enchant_Stone.md).
+
+Curse of the Covetous Enchant Stone can be obtained by trading 1 [Exotic Hide](Exotic_Hide.md) to [The Gaunt Man](The_Gaunt_Man.md).
 
   
 
@@ -2307,7 +2307,8 @@ Unobtainable
 -   **[July 15th, 2025](Version_History/2025.md#july-15th-2025)** - The weapon enchant Void was renamed to [Curse of Void](Curse_of_Void.md).
 -   **[July 25th, 2025](Version_History/2025.md#july-25th-2025)** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
 -   **[August 4th, 2025](Version_History/2025.md#august-4th-2025)** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
--   **[Febuary 16th, 2026](Version_History/2026.md#febuary-16th-2026)** - The [Kyrsan Chill](Kyrsan_Chill.md) weapon enchant was added, [Curse of Captain Greene](Curse_of_Captain_Greene.md) and [Suffocated](<Suffocated_(enchantment).md>) weapon enchants were made publically obtainable.
+-   **[Febuary 16th, 2026](Version_History/2026.md#febuary-16th-2026)** - The [Kyrsan Chill](Kyrsan_Chill.md) weapon enchant was added, [Curse of Captain Greene](Curse_of_the_Covetous.md) and [Suffocated](<Suffocated_(enchantment).md>) weapon enchants were made publically obtainable.
+-   **[September 9th, 2026](Version_History/2026.md#september-9th-2026)** - The **Curse of Captain Greene** was renamed to [Curse of the Covetous](Curse_of_the_Covetous.md)
 
 ## References
 

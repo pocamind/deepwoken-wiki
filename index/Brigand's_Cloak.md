@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 228486
+revid: 229050
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks]
@@ -38,3 +38,4 @@ The Brigand's Cloak is an [Equipment](Equipment.md) item under the "Arms" catego
 ## Trivia
 
 -   Worn by [Kennith](Kennith.md).
+-   For quick searching, they drop often from [Knives of Eyelis vs Etrea](Random_Encounters.md) [Sea Events](Random_Encounters.md#sea-events)

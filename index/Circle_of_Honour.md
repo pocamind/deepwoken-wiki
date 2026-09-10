@@ -37,7 +37,7 @@ All of the deceased Mementos were said to be capable of defeating [Zi'eer](The_L
 
 [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md) - The second known surviving member of the Circle of Honour besides [Warden Jericho](Warden_Jericho.md). He serves as the tutorial, progression and conclusion NPC in the [Vow of Iron](Vow_of_Iron.md). He puts [the Inheritor](The_Inheritor.md) in [the Recollection](The_Recollection.md) and helps them go through the [Mementos](Mementos.md) with the ultimate goal of defeating [Zi'eer](The_Lord_Regent.md).
 
-[Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) - The Maestro of [the Vigils](The_Vigils.md) during the [Etrean Civil War](Etrean_Civil_War.md) and a wielder of the [Warmaster Oath](Oaths.md). He was a predecessor of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), who seems to have the same views as Alkhurst, although, it is unknown whether Evengarde is allied with the Circle as well.
+[Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) - The Maestro of [the Vigils](The_Vigils_of_Winds.md) during the [Etrean Civil War](Etrean_Civil_War.md) and a wielder of the [Warmaster Oath](Oaths.md). He was a predecessor of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), who seems to have the same views as Alkhurst, although, it is unknown whether Evengarde is allied with the Circle as well.
 
 [High Monk Junsui](High_Monk_Junsui.md) - The High Monk of the [Temple of Mur](Temple_of_Mur.md). Reveals information on the [Etrean Royalists](Etrean_Royalists.md), their leaders and the [Etrean Civil War](Etrean_Civil_War.md). He seems to know a lot about [the Lord Regent](The_Lord_Regent.md)'s power.
 

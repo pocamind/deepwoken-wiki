@@ -1,9 +1,9 @@
 ---
 title: Fondant Splitter
-revid: 225385
+revid: 229082
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Legendary Weapons, Relics, Relic Weapon]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Legendary Weapons, Relics, Relic Weapon]
 ---
 
 # Fondant Splitter
@@ -13,6 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | type | Sword |
 | damage type | Slash |
 | requirements | 65 MED, LVL 10 |
+| oath | Silentheart |
 | damage | 15 |
 | scaling | MED: 8 |
 | posture damage | 5 |
@@ -66,7 +67,8 @@ This critical has a cooldown of **20 seconds**.
 -   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[1\]](#cite-note-1)
 -   The weapon originally was enchantable and required 5 MED and LVL 3 on release, but was changed to its current state on [December 24th, 2024](Version_History/2024.md#december-24th-2024).
 -   The weapon's crit was exclusive to the 'Calabash' spec weapon before release.
+-   Attempting to equip the Fondant Splitter on a [Silentheart](Oath%253A_Silentheart.md) will prompt the message: "To consume Attuned confectionary is beyond the scope of your Vows..."
 
-### References
+## References
 
 1.  [↑](#cite-ref-1)
