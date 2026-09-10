@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 229047
+revid: 229107
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -391,6 +391,7 @@ There are 2 network related settings.
 
 -   **Preferred Region Any/West NA/East NA/Europe/Asia/Oceania/South America** - "Which region you'd like to be matchmaked into for different gamemodes. Not guaranteed.
 -   **Ping Compensation On/Off** - "Delays incoming damage slightly to help you react."
+    -   This delays damage taken to accommodate for ping, effectively increasing your reaction window for defensive measures.
 
 ## Accessibility
 

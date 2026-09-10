@@ -1,6 +1,6 @@
 ---
 title: Tenacity
-revid: 229063
+revid: 229109
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields, Offhand]
@@ -13,7 +13,7 @@ categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields,
 | type | Shield |
 | requirements | 30 Fortitude |
 | max posture | 5 |
-| talent | Aegis of Tenacity - You can never be guardbroken. |
+| talent | Aegis of Tenacity - You gain resistance to Guardbreaks, but your posture isn't reset when broken. Reduce all posture damage you take by 75%. |
 | special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%. |
 | m.equip | No |
 | m.extract | No |
@@ -26,7 +26,7 @@ categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields,
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Doom of Caeranthil (extremely rare) |
-| description | A shield lost to time, once said to be owned by Captain Greene himself. Greene's idea was to try and forge a shield so durable, even Rosen's guns could not pierce. Unfortunately Greene was never able to test out the shield against Rosen's mightiest weaponary [sic]. Seeing no further use for it, he tossed it away despite it being perhaps one of the most resilient shields ever crafted. |
+| description | Hewn from the Doom's own scale, this shield was produced under commission by the Summer Company, its schematics devised by the intrepid Cpt. Greene. By utilising the creature's own hide, it was theorised that it might bear some resistance to its scorching breath. When put to the test, it succeeded with flying colours, shielding the Pathfinder who bore it from the beast's relentless onslaught. Alas, bad they followed Greene's suggestion and payed double the price to strap another on the wielder's back, it may have protected its wielder from both rows of teeth. |
 
 Variants: [Old World Greatshield](Old_World_Greatshield.md)
 
@@ -42,9 +42,8 @@ Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equi
 
 Equipping the Tenacity grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Aegis of Tenacity**](Talents.md#aegis-of-tenacity) removes **all** posture damage taken.
+[**Aegis of Tenacity**](Talents.md#aegis-of-tenacity) grants 75% posture damage reduction, and damage reduction to guardbreaks. However, upon being guardbroken, the user's posture will **not** be reset.
 
 ## Trivia
 
 -   The first person to get the Tenacity shield received the custom title "Vider, The First Wielder of the Iron Citadel".
--   Attacks like Champions Whirlthrow which grab/stun you and guardbreak/block bypass will not damage you on first hit. It will bypass the block and still grab/stun you continuing the attack as normal.

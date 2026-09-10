@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 229075
+revid: 229103
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -1421,7 +1421,7 @@ Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
 
 [Enchant Curse of Captain Greene](Curse_of_the_Covetous.md)
 
-_Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability of gaining damage the more rich you are. However since you aren't Captrain \[_[sic](https://en.wikipedia.org/wiki/sic)_\] Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
+_Embodying the avarice of the wealthy, a Vow innate to this enchantment grants strength according to the amount of material wealth its user is able to put on the line, but will cause said wealth to spill from your pockets should you be injured. Should you run low on money, the Vow will even begin to draw from the material value of your own body, reducing your strength._
 
  | 
 

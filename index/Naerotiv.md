@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 224878
+revid: 229090
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -37,6 +37,10 @@ Once the Scion was awoken, it released a sound, a Tone of Song, which deafened e
 Naerotiv urges the Pathfinder to set his kind free by completing the ritual and sealing the [Scion of Ethiron](Scion_of_Ethiron.md) away for good. If not, the Gale present in the [Second Layer](Second_Layer.md) would seep through and eventually engulf the Surface as well.
 
 ## Dialogue
+
+**Base Dialogue:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -140,6 +144,89 @@ Naerotiv urges the Pathfinder to set his kind free by completing the ritual and 
 </tr>
 <tr>
   <td colspan="4">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is wearing an [Amedan Pendant](Amedan_Pendant.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Aelahi, frinwalter. It is good to see you once more.</td>
+</tr>
+<tr>
+  <td colspan="2">I found a similar pendant to the one you're wearing - is there some significance to it?</td>
+</tr>
+<tr>
+  <td colspan="2">They are worn by pilgrims to the <a href="Glossary.md#amedan-temple">Amedan Temple</a>. Some discard them afterwards for others to take up, though for those who gained something from their visit it can serve as a reminder.</td>
+</tr>
+<tr>
+  <td colspan="2">Gained something?</td>
+</tr>
+<tr>
+  <td colspan="2">A vision is granted to those who lay their hands upon the shrine. What you may see is different for everyone who visits. Many years ago, when I was but a youth, I made pilgrimage in the hopes that the vision might alleviate the weight of some questions I'd been unable to answer.</td>
+</tr>
+<tr>
+  <td colspan="2">If it's not too personal - what were your questions?</td>
+</tr>
+<tr>
+  <td colspan="2">It is no worry, it bothers me no longer. No matter how I tried, I could not command the <a href="Glossary.md#song">Song</a> in the ways of my Kin. Or indeed, command it at all.</td>
+</tr>
+<tr>
+  <td colspan="2">Did the visions help?</td>
+</tr>
+<tr>
+  <td colspan="2">I believe so, yes. Through them I felt a strange sense of comfort. That it did not matter that I could not command it. That I did not <i>need</i> to.</td>
+</tr>
+<tr>
+  <td colspan="2">What did you see?</td>
+</tr>
+<tr>
+  <td colspan="2">Vastness, frintwalter. An open space before me, somehow impossibly dark - yet everywhere I looked, colour, light. Mists of purple and gold drawn over countless pinprick openings in the veil, a transcendent light beyond shining through. It is an image that serves as its own reminder.</td>
+</tr>
+<tr>
+  <td>Any clue what it means?</td>
+  <td>What did others see?</td>
+</tr>
+<tr>
+  <td>It carried meaning for me, though a broader meaning is... perhaps somewhat more of a theological dispute. To some, <a href="Glossary.md#ameda">Ameda</a> is God. I do not feel that way.</td>
+  <td>Similar, yet distinct all the same. For me, it was an emptiness, and a feeling that I was somehow hurtling through it. Some say they saw a void as I did, but that there were objects suspended in that space. Spheres, rings, countless shapes. In the past, there have been some rather outlandish claims. It's hard to say which were fabrications or not.</td>
+</tr>
+<tr>
+  <td>What is Ameda to you?</td>
+  <td>Any clue what it means?</td>
+</tr>
+<tr>
+  <td>To me, <a href="Glossary.md#ameda">Ameda</a> is a traveller in kind. I believe the visions depict a journey. That each pilgrim who visits the shrine sees a small part of it.</td>
+  <td>[See first instance]</td>
+</tr>
+<tr>
+  <td>Did the others agree with you?</td>
+</tr>
+<tr>
+  <td>From what I could tell, my vision was somewhat more vivid than other pilgrims I encountered. They spoke of a cloudiness, a numbness. To me, the sense of movement could not be denied. Though, as a small piece of a larger puzzle, I am sure that there is much I am missing.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

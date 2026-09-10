@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 226020
+revid: 229096
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -24,7 +24,7 @@ categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments,
 
 | Captain Solaire | |
 |---|---|
-| health | ??? |
+| health | 10,000 |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Sovereign's Punishment |
 | moves | Assault, Critical Attack, Lightning Beam, Lightning Clones, Grand Javelin, Lightning Stream, Electro Carve, Lightning Blade, storm blades, Emotion Wave |

@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 228008
+revid: 229102
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -35,9 +35,8 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 -   The monsters summoned will not attack you, even if you attack them first.
 -   There is no cooldown on the monsters spawning. You can proc this effect multiple times at once.
 -   The PvE targets can be allied or player summons, though the proc chance is still very low in PvE. Additionally, you can proc this enchantment on a PvE target while in a PvP combat tag.
-    -   Notably, summons from [Lightning Clones](Thundercall.md#lightning-clones), [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me), [The Weaving Web](The_Weaving_Web.md)'s critical attack, and ironically **Parasol's Blight** can be hit by the caster.
+    -   Notably, summons from [Lightning Clones](Thundercall.md#lightning-clones), [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me), [The Weaving Web](The_Weaving_Web.md)'s critical attack, and ironically **Parasol's Blight** can be hit by the caster in attempt to summon a monster.
 -   [Lightning Clones](Thundercall.md) are exempt from needing to be hit with a basic attack as [mantras](Mantras.md) or [venting](Combat_Mechanics.md) will have the same chance to summon a mob
 -   The enemies do not need to be killed through manually.
 -   You cannot apply the Parasol's Blight status effect to already Unconscious opponents.
 -   The monsters summoned count as 'summons' for the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), healing you when they deal damage.
--   [Bonekeepers](Bone_Keeper.md) summoned from parasols blight are passive to other [monsters](Monsters.md) summoned but if they accidentally hit each other, they will become aggressive to each other.
