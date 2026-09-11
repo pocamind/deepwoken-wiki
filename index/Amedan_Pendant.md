@@ -1,6 +1,6 @@
 ---
 title: Amedan Pendant
-revid: 221110
+revid: 229157
 source: https://deepwoken.fandom.com/wiki/Amedan_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]
@@ -30,3 +30,7 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The Amedan Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+
+## Trivia
+
+-   Wearing this pendant while speaking to [Naerotiv](Naerotiv.md) will unlock unique dialogue about [Ameda](Ameda.md) and the [Amedan Temple](Amedan_Temple.md).

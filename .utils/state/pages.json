@@ -245,7 +245,7 @@
   },
   "1101": {
     "title": "Mantra Modifiers",
-    "lastrevid": 228661
+    "lastrevid": 229166
   },
   "1102": {
     "title": "Treasures",
@@ -2117,7 +2117,7 @@
   },
   "5126": {
     "title": "Equipment",
-    "lastrevid": 228447
+    "lastrevid": 229163
   },
   "5135": {
     "title": "Discussion Moderators",
@@ -4001,7 +4001,7 @@
   },
   "11516": {
     "title": "The Vigils of Winds",
-    "lastrevid": 229044
+    "lastrevid": 229164
   },
   "11544": {
     "title": "Swords",
@@ -7457,7 +7457,7 @@
   },
   "21143": {
     "title": "Curse of the Covetous",
-    "lastrevid": 229072
+    "lastrevid": 229153
   },
   "21144": {
     "title": "JOE's",
@@ -8769,7 +8769,7 @@
   },
   "23119": {
     "title": "Trickster Dust",
-    "lastrevid": 229077
+    "lastrevid": 229160
   },
   "23133": {
     "title": "Dread Serpent's Mane",
@@ -9473,7 +9473,7 @@
   },
   "24877": {
     "title": "Amedan Pendant",
-    "lastrevid": 221110
+    "lastrevid": 229157
   },
   "24898": {
     "title": "Diver's Journal: Journeyman Skeli",
@@ -9781,7 +9781,7 @@
   },
   "26484": {
     "title": "Tenacity",
-    "lastrevid": 229109
+    "lastrevid": 229154
   },
   "26515": {
     "title": "Cathedral's Spire",
@@ -9801,10 +9801,14 @@
   },
   "26553": {
     "title": "Bejeweled Clip",
-    "lastrevid": 229141
+    "lastrevid": 229162
   },
   "26587": {
     "title": "Amedan Temple",
     "lastrevid": 229035
+  },
+  "26607": {
+    "title": "Ameda",
+    "lastrevid": 229159
   }
 }

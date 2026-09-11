@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 228447
+revid: 229163
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -3366,6 +3366,9 @@ _+Talent: [**Volt Reflex**](Talents.md#volt-reflex)_
 
  | Variants:  
 [Prototype](#authority-prototype-mask) & [Voltspark](#authority-voltspark-mask) |
+|  | [Bejeweled Clip](Bejeweled_Clip.md)  
+(**Styles**) | _+1 Health_ | Styles:  
+Amethyst, Default, Emerald, Onyx, Ruby, Sapphire, Topaz, |
 |  | [Blindfold](Blindfold.md)  
 (**Styles**) | +1 Common Pip
 

@@ -1,6 +1,6 @@
 ---
 title: Bejeweled Clip
-revid: 229141
+revid: 229162
 source: https://deepwoken.fandom.com/wiki/Bejeweled_Clip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face]
@@ -16,7 +16,7 @@ categories: [Equipment with Styles, Equipment, Face]
 | requirements | N/A |
 | weight | 0.5 |
 | styles | Amethyst, Default, Emerald, Onyx, Ruby, Sapphire, Topaz |
-| innate stats | +1.2 Health |
+| innate stats | +1 Health |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

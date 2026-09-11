@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 229077
+revid: 229160
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -39,3 +39,7 @@ The Trickster Dust can be used at the [Lost Forge](Lost_Forge_of_Leiuna.md) foun
     -   [Transfusion Ring](Transfusion_Ring.md): [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Trickster Dust + 1x [Necrotic Membrane](Necrotic_Membrane.md)
 -   [Ingredients](Ingredients.md)
     -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Trickster Dust + 1x [Parasol Membrane](Parasol_Membrane.md) + 1x [Darkblood Vial](Darkblood_Vial.md)
+
+## Trivia
+
+-   It's previous description read: "The traces of powerful Visionshaper magic and trickery. It almost looks as if it rejects sources of ether around it, almost inverting it."

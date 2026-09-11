@@ -1,6 +1,6 @@
 ---
 title: Curse of the Covetous
-revid: 229072
+revid: 229153
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Covetous
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -43,3 +43,9 @@ Upon taking damage from a player, lose Notes equal to the amount of damage taken
 
 -   This enchantment was originally a Developer Spec before it was made publicly accessible during the [February 16th, 2026](Version_History/2026.md#february-16th-2026), as a part of Operation: Deep Healing.
     -   While it was a spec, this Enchantment additionally allowed you to _gain_ 50 Notes when landing weapon attacks.
+-   This enchantment was previously named "Curse of Captain Greene."
+    -   Due to heavy community backlash on the lore implications, traces of [Captain Greene](Captain_Greene.md) on the enchantment and the [Tenacity](Tenacity.md) were discarded.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

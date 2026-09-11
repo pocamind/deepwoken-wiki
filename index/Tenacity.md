@@ -1,6 +1,6 @@
 ---
 title: Tenacity
-revid: 229109
+revid: 229154
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields, Offhand]
@@ -47,3 +47,9 @@ Equipping the Tenacity grants its unique [weapon Talent](Talents.md#weapon-talen
 ## Trivia
 
 -   The first person to get the Tenacity shield received the custom title "Vider, The First Wielder of the Iron Citadel".
+-   The previous description read: "A shield lost to time, once said to be owned by [Captain Greene](Captain_Greene.md) himself. Greene's idea was to try and forge a shield so durable, even [Rosen](Gunsmith_Rosen.md)'s guns could not pierce. Unfortunately Greene was never able to test out the shield against Rosen's mightiest weaponary \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. Seeing no further use for it, he tossed it away despite it being perhaps one of the most resilient shields ever crafted."
+    -   Due to heavy community backlash on the lore implications of the description, it was changed in the following update [September 8, 2026](Version_History/2026.md#september-8-2026).[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

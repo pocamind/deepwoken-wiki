@@ -1,6 +1,6 @@
 ---
 title: The Vigils of Winds
-revid: 229044
+revid: 229164
 source: https://deepwoken.fandom.com/wiki/The_Vigils_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Factions, Etrea]
@@ -13,7 +13,6 @@ notices:
 | The Vigils of Winds | |
 |---|---|
 | territory | Isle of Vigils |
-| goals | Defend and liberate The Kingdom of Etrea |
 
 “ A solemn sanctuary carved in stone, where warriors hone the dancing steps of war. ”
 
@@ -21,7 +20,7 @@ notices:
 
 ## Description
 
-**The Vigils** are a taciturn society of swordsmen in service to the Kingdom of [Etrea](Etrea.md), an offshoot colony that trains members of the Etrean military in the way of the sword. They are led by the current Maestro [Evengarde Rest](Evengarde_Rest.md), with [Stratos](Stratos.md) as the second-in-command. Residing on the aptly-named [Isle of Vigils](Isle_of_Vigils.md), they train youths to fight and serve Etrea. All Vigils wield the [Galebreathe](Galebreathe.md) attunement, paired with Etrean [specialty weapons](Katana.md).
+The Vigils are a taciturn society of swordsmen in service to the Kingdom of [Etrea](Etrea.md), an offshoot colony that trains members of the Etrean military in the way of the sword. They are led by the current Maestro [Evengarde Rest](Evengarde_Rest.md), with [Stratos](Stratos.md) as the second-in-command. Residing on the aptly-named [Isle of Vigils](Isle_of_Vigils.md), they train youths to fight and serve Etrea. All Vigils wield the [Galebreathe](Galebreathe.md) attunement, paired with Etrean [specialty weapons](Katana.md).
 
 Not much is confirmed about their ranking system since most Vigils maintain a position of silence towards outsiders, but the descriptions of various pieces of equipment reveal some details about how they function. Their leader is known as a "Maestro", and they operate an autobiographical recordkeeping branch known as the Scholars of the Cloud. What is notable, however, is their impartiality regarding races; much unlike [The Central Authority](The_Central_Authority.md) and Etrea itself, Vigil guardsmen are of varied backgrounds and their histories often have no bearing on their treatment. Vigils are very closely-knit, showing a level of distrust to anyone other than themselves—even if the person is highly regarded by Etrea. It is only when an individual performs massive favours, such as [saving one of their lives](Isle_of_Vigils.md#lost-sibling), that Vigils become more hospitable to them.
 
