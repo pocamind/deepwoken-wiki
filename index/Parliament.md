@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 228542
+revid: 229174
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -184,3 +184,13 @@ Flock of Feathers
 
 -   Shadowmeld Shade - All of the Parliament's attacks steal Ether on hit.
 -   Thorn Guard - The Parliament is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>). The visual effects will appear, but will deal no damage.
+
+#### Tips
+
+-   Is highly recommended to not use mantras during the fight due to parliament constantly using its flock of feathers attack unless they are static such as warden blades, electro carve, frozen servants, etc
+-   Is also highly recommended to use [bloodless](Bloodless_Gem.md) [gems](Bloodless_Gem.md) if you are going on a mage build
+-   Not be greedy hit only the times needed never try to get an extra hit because you will get heavily punished for that
+
+#### Trivia
+
+Parliament is well know for voiding out of the map if [pathfinder](Pathfinder.md) and in [voi](Vow_of_Iron.md)

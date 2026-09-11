@@ -1,6 +1,6 @@
 ---
 title: The Vigils of Winds
-revid: 229164
+revid: 229168
 source: https://deepwoken.fandom.com/wiki/The_Vigils_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Factions, Etrea]
@@ -13,6 +13,7 @@ notices:
 | The Vigils of Winds | |
 |---|---|
 | territory | Isle of Vigils |
+| reorganized | Between 1233 CE[1] and 1271 CE[2][3], reintegrated into Etrea |
 
 “ A solemn sanctuary carved in stone, where warriors hone the dancing steps of war. ”
 
@@ -38,3 +39,10 @@ After befriending Evengarde, he reveals his knowledge about the true nature of E
 ## Trivia
 
 -   Maestro is an Italian word, meaning "master" or "teacher". The term is most often used to refer to orchestral conductors, though it can also be used to address teachers of music.
+
+## References
+
+1.  [↑](#cite-ref-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.
+2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 1 will be assumed to occur during the year 1271 CE, due to being the in-game year when the game released.
+3.  [↑](#cite-ref-legato-3-0) NPC dialogue: [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)  
+    _Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eers \[_[sic](https://en.wikipedia.org/wiki/sic)_\] forces for good._

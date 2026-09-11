@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 228060
+revid: 229177
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -72,7 +72,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   **String Trick** - Pulls together any two opponents you've attached Hidden Tendril to.
     -   Deals 4.8 Oath DMG twice.
     -   Cannot be used on non-humanoids.
--   Obtained after gripping 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
+-   Obtained after completing the chosen progression method for the 2nd time.
 
 ### Mantras
 
@@ -175,7 +175,7 @@ Oath [ResistanceOath](Oaths.md)
 
  | 
 
-Killing 1 player with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
+Completing the chosen progression method for the first time
 
  |
 | 
@@ -217,7 +217,7 @@ Oath [ResistanceOath](Oaths.md)
 
  | 
 
-Killing 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
+Completing the chosen progression method for the 2nd time
 
  |
 | 
@@ -231,7 +231,9 @@ Killing 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
 -   **Instantly executes** if it brings the target's HP to 0 or is used on a knocked target.
 -   Can be [vented](Combat_Mechanics.md#tempo) out of, and can also be parried as soon as you hear the 'snap' sound.
 -   Goes on a short cooldown if feinted.
--   When modified with a Reversal Spark, the mantra will execute faster.
+-   When used on large [Monsters](Monsters.md), the target will be restrained in the air for a few seconds, preventing them, and the user, from taking any actions for the duration of the stun.
+    -   The intended use case for this is allowing your allies to dish in damage while the enemy is stunned.
+    -   Using a [Reversal Spark](Mantra_Modifiers.md#sparks) on your Judgement will disable this effect, reverting to Judegement's base duration.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 226642
+revid: 229171
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
@@ -173,7 +173,7 @@ Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_
 
 #### Meteor Isle Meteor _(Vaulted)_
 
-A meteor will hit [Meteor Isle](Meteor_Isle.md), spawning [Mudskipper Knights](Mudskipper_Knight.md) in waves. Killing all of them will despawn the meteor and award XP and a golden chest at the center of the meteor.
+A meteor will hit [Meteor Isle](Meteor_Isle.md), spawning [Mudskipper Knights](Mudskipper_Knight.md) in waves. Killing all of them will despawn the meteor and award XP and a golden chest at the center of the meteor.Not in the game right now due to some performance issues
 
 #### Alpha Megalodaunt vs Desert Knight
 
