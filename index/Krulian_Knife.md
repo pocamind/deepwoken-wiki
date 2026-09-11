@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 224229
+revid: 229150
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals]
@@ -10,7 +10,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Daggers, Weap
 
 | Krulian Knife | |
 |---|---|
-| type | Dagger |
+| type | Yuşa çıldırtan |
 | damage type | Slash |
 | requirements | 75 LHT |
 | damage | 12.5 |
@@ -25,8 +25,6 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Daggers, Weap
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Krulian Knife |
-| m.compatible | Daggers |
-| stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 100 |
 | weight | 2 |

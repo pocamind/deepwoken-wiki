@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 228783
+revid: 229142
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Legendary Weapons]
@@ -48,7 +48,7 @@ Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equi
 
 Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Sacrificial Boon**](Talents.md#sacrificial-boon) grants a random buff upon using the Talent tool at the cost of 5. This Talent has a 0.5 second cooldown. The buffs are as follows:
+[**Sacrificial Boon**](Talents.md#sacrificial-boon) grants a random buff upon using the Talent tool at the cost of 10 Knowledge. This Talent has a 5 second cooldown. The buffs are as follows:
 
 -   20% damage buff. This buff is also applied to Mantras
 -   [Hyperarmor](Status_Effects.md#hyperarmor) for 10 seconds. Like all other forms of Hyperarmor, this effect ends early if you cast a Mantra.

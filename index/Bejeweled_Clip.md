@@ -1,6 +1,6 @@
 ---
 title: Bejeweled Clip
-revid: 229062
+revid: 229141
 source: https://deepwoken.fandom.com/wiki/Bejeweled_Clip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's regular stock for 35 , Deep Crucible, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis) |
+| obtainment | Sold in Traan Zakshun's regular stock for 35 , Deep Crucible, Cinders of Etris, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis) |
 | description | A small clip set with a faceted gemstone, its cut a style fashionable in Celtor around 700 CE. |
 
 ## Description

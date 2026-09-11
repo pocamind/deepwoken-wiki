@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 227779
+revid: 229149
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, The Divers]
@@ -20,7 +20,7 @@ categories: [Master Outfits, Outfits, The Divers]
 | durability | 2600 |
 | resistances | +30% Physical Armor , +30% Elemental Armor , +20% Lightning Armor , +20% Shadow Armor |
 | buffs | +50% Ether Regen +16 Sanity |
-| obtainment | Chests from:, Fishing, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke ErisiaOther:, Sold by Glaive Spellhardt, Nautilodaunt (direct drop), Fury Nautilodaunt (direct drop) |
+| obtainment | Chests from:, Fishing, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon ErisiaOther:, Sold by Glaive Spellhardt, Nautilodaunt (direct drop), Fury Nautilodaunt (direct drop) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
