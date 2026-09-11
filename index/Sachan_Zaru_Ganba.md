@@ -1,6 +1,6 @@
 ---
 title: Sachan Zaru Ganba
-revid: 228791
+revid: 229140
 source: https://deepwoken.fandom.com/wiki/Sachan_Zaru_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Sachans, Humanoids with Unobtainable Outfits]
@@ -184,3 +184,4 @@ This dialogue is unlocked if the player has spoken to [Maestro Alkhurst Legato](
 ## Trivia
 
 -   When the camera is clipped inside his katana, the blade is a yellow color reflecting his clan's color scheme.
+-   Sachan Zaru Ganba's hair ID is 14720386664, and the mustache being 12852555547

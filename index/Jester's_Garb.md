@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 228964
+revid: 229137
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
@@ -57,8 +57,8 @@ List of buffs being:
 
 List of afflictions being:
 
--   Suffocation applied to self for a few seconds. \[Zip it, focus on the fight!\]
--   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s. Indicated by black cross marks coming off your body. \[Down on your luck, huh.\]
+-   Suffocation applied to self for a few seconds. \[Down on your luck, huh.\]
+-   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s. Indicated by black cross marks coming off your body. \[Zip it, focus on the fight!\]
 -   Lowers your Swingspeed. Indicated by black cross marks coming off of your body. \[Hah! How embarrassing!\]
 
 ## Trivia

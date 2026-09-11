@@ -1,9 +1,9 @@
 ---
 title: "Rat's Den"
-revid: 213946
+revid: 229133
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of The Golden Rats, Lawless Territory]
 ---
 
 # Rat's Den

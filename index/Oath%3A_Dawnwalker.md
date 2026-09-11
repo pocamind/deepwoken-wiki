@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 229091
+revid: 229122
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -230,7 +230,7 @@ Costs 15 Kyrsan Medallions
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities, or Queen Dizzy's theme from Guilty Gear Strive.
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tones.
 -   Originally, Blinding Dawn had this description: "Dance uncontrollably. No one can withstand the sheer groove of your spin routine."
--   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any Oath, at 237 or 192 points depending on if [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) is used. For all intents and purposes, this information should not affect your average progression as it is a functionally costless Oath.
+-   This Oath has a requirement of Power 10, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any Oath, at 165 or 120 points depending on if [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) is used. For all intents and purposes, this information should not affect your average progression as it is a functionally costless Oath.
 -   Dawnwalker was originally supposed to have a Talent that made the user immune to all fall damage, this was, however, scrapped.
 -   Dawnwalker originally also had a mode bar which, when active, would give the user instant tp dashes, this was also scrapped.
 -   Dawnwalker is the only Oath besides [Fadetrimmer](Oath%253A_Fadetrimmer.md) that can be fully obtained and progressed without leaving the Depths.

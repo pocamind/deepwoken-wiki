@@ -1,6 +1,6 @@
 ---
 title: Sachan Choji Mofisu
-revid: 228816
+revid: 229136
 source: https://deepwoken.fandom.com/wiki/Sachan_Choji_Mofisu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Sachans]
@@ -30,6 +30,7 @@ Sachan Choji Mofisu, also known as Choji Mofisu, is the leader of [Clan Mofisu](
 
 -   When the camera is clipped inside their katana, the blade is a green color reflecting their clan's color scheme.
 -   One of the only Sachan's to not wear a laurel crown in any kind of fashion, instead he wears extra-long [Monastery Beads](Monastery_Beads.md).
+-   Sachan Choji Mofisu's hair ID is 9057554547
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Memory Shard
-revid: 186480
+revid: 229128
 source: https://deepwoken.fandom.com/wiki/Memory_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Relics, Vow of Iron Exclusive]
@@ -25,7 +25,7 @@ notices:
 
 ## Usage
 
-When you would get knocked in a Memory Boss fight, you would be given 25% [Wither](Status_Effects.md#wither) and a full heal up to 75% and the Memory Boss would fully heal as well, along with setting your [Etris Flasks](Etris_Flask.md) to 1 and doubling its healing percentage.
+When you would get knocked in a Memory Boss fight, you would be given 25% [Wither](Status_Effects.md#wither) and a full heal up to 75% and the Memory Boss would fully heal as well, along with setting your [Etris Flasks](Etris_Flask.md) to 1 and doubling its healing percentage. Additionally, this doubles your damage output, meaning If you are confident enough in a boss, you can purposefully get knocked to the boss to proc your memory shard, giving you 2x more damage for the rest of the fight.
 
 ## Trivia
 

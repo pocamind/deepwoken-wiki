@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 227345
+revid: 229130
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Individuals with unspecified pronouns]
@@ -30,7 +30,7 @@ Jungle Jim is a [Vesperian](Vesperian.md), and wears a [Prophet's Cloak](<Prophe
 
 ## Moveset
 
-Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess a [Bell](Resonance.md). However, they don't seem to use it.
+Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess a [Resonance](Resonance.md). However, they don't seem to use it.
 
 | Name/Danger | Description |
 | --- | --- |

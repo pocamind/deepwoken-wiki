@@ -1,6 +1,6 @@
 ---
 title: The Throne of Lies
-revid: 229120
+revid: 229127
 source: https://deepwoken.fandom.com/wiki/The_Throne_of_Lies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Dungeons]
