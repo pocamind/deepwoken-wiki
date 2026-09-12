@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229189
+revid: 229213
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -10002,7 +10002,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   Offensive Recovery: Ascended Outlaw Set - If all your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will restore your posture.
     -   This functions somewhat similarly to Arcwarder Mantras while in Arc suit.
-    -   Ascended Outlaw Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md)
+    -   Ascended Outlaw Set: Any combination of 3 of the following items - [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Breeches](Ascended_Outlaw_Breeches.md), [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
 -   Second Nature: Broodplate Set - [Ardour Scream](#ardour-scream) no longer consumes ether and now instead adds 10 seconds to its cooldown.
     -   This set also grants the [Ardour Scream](#ardour-scream) Talent. See above.
@@ -10017,8 +10017,9 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   The storm strikes proc Grounding Bolt.
     -   Specialist Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)
 
--   Sorcerer's Supply: Ether Refined Set / Sorcerer Set - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 30.
+-   Sorcerer's Supply: Ether Refined Set / Sorcerer Set - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
     
+    -   Increases your Tempo by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).
     -   Ether Refined Set: [Ether Refined Brim](Ether_Refined_Brim.md), [Ether Refined Mantle](Ether_Refined_Mantle.md)
     -   Sorcerer Set: [Sorcerer's Brim](<Sorcerer's_Brim.md>), [Sorcerer's Mantle](<Sorcerer's_Mantle.md>)
 
@@ -10038,18 +10039,13 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md), though many of 
 
 ## Trivia
 
--   Despite both [Boulder Climb](Cut_Content.md#boulder-climb) and [Maestro's Blade](Cut_Content.md#maestros-blade) being merged with **Kick Off** and **Inhale** respectively, their descriptions were not updated to indicate this fact.
--   A Fold can be used if you are not satisfied with your current hand of cards, giving you an additional hand of cards on your next power increase.
--   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
--   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
+-   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play [ULTRAKILL](https://en.wikipedia.org/wiki/ULTRAKILL).
     -   Ironically, it then proceeds to write the name of the game incorrectly, as ULTRAKILL is meant to be written in all capitals.
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
 -   The Pocket Sand Talent, especially its description, is a reference to Rogue Lineage. Paying [Tal](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the Talent in this game, and speaking to them afterwards yields the same dialogue as found in the Talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest Talent.
--   You can test if Speed Demon is working by hitting an artificial mob like a [Rock Golem](Rock_Golem.md) or [Stone Knight](Stone_Knight.md). You will hear three cutting sound effects as the bleed damage procs. Bleed procs are harder to identify against humanoid mobs, as they are visual.
--   Lava serpent's and Azure flame's can both be used simultaneously.
 -   The Strength stat unbounded Talent (Strength Unbounded) used to be under the "One Eyed King" Talent category, which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
--   The total amount of Talent Cards at Power 20 without Roll 2's or Mantra Quests is 47.
+-   The total amount of Talent Cards at Power 20 without Roll 2's or Quests is 47.
 -   The term "Talents" may be a reference to _the Wheel of Time_'s Talents that are associated with its magic system.
 -   The Talent, Mythic Stability, has the same name as the passive, Mythic Stability, owned by the Sigil Knight Commander in Rogue Lineage. They both have the same effects.
 -   The Talent "Action Surge" is a reference to Dungeons and Dragons, specifically a reference about the Fighter Class and their feat ability "Action Surge" letting them act more times on a single turn, similar as how this talent lets you attack faster.

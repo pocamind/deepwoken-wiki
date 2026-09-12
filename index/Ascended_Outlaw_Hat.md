@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 223605
+revid: 229205
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -41,10 +41,11 @@ The [Mass Effect](Talents.md#mass-effect) Talent increases the strength of your 
 
 Increases the effectiveness of your Might Gems by 2.25% additively per Might Gem equipped. This can increase the posture damage effect from your Might Gems from +10% to a maximum of +39.25% on the right setup.
 
+Currently, as you can equip [Deep Gems](Deep_Gems.md) onto unequipped Mantras, you can push this bonus well beyond the above value. The posture damage modifier hard cap can be reached at 40 equipped Might Gems (38 if you have the [Brain Food Buff](Status_Effects.md#brain-food-buff)).
+
 ## Set Talent
 
-When wearing the full equipment set (excluding the [Mask](Ascended_Outlaw_Mask.md)), you will gain the Set Talent.  
-This requires the **Hat**, [Robes](Ascended_Outlaw_Robes.md), and [Breeches](Ascended_Outlaw_Breeches.md) of the set; the [Mask](Ascended_Outlaw_Mask.md) does not contribute to, nor is required for the Set Talent.
+When wearing any combination of 3 items from the equipment set, you will gain the Set Talent.
 
 Set Talent: [Offensive Recovery](Talents.md#offensive-recovery) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 

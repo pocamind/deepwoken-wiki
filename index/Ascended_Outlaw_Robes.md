@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 223383
+revid: 229206
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -39,8 +39,7 @@ The [Ether Pinpoint](Talents.md#ether-pinpoint) Talent allows your Mantras with 
 
 ## Set Talent
 
-When wearing the full equipment set (excluding the [Mask](Ascended_Outlaw_Mask.md)), you will gain the Set Talent.  
-This requires the [Hat](Ascended_Outlaw_Hat.md), **Robes**, and [Breeches](Ascended_Outlaw_Breeches.md) of the set; the [Mask](Ascended_Outlaw_Mask.md) does not contribute to, nor is required for the Set Talent.
+When wearing any combination of 3 items from the equipment set, you will gain the Set Talent.
 
 Set Talent: [Offensive Recovery](Talents.md#offensive-recovery) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 

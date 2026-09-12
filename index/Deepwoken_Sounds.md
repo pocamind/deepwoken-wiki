@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 214915
+revid: 229204
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -705,14 +705,14 @@ _For the Deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
-|  | 2.0s | [Grim](Enchantments.md) (Proc) \[1\] (Unofficial Edit) |
-|  | 2.4s | [Grim](Enchantments.md) (Proc) \[2\] |
-|  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
+|  | 2.2s | [Entanglement](Entanglement.md) (Proc) |
+|  | 2.0s | [Grim](Grim.md) (Proc) \[1\] (Unofficial Edit) |
+|  | 2.4s | [Grim](Grim.md) (Proc) \[2\] |
+|  | 1.2s | [Nemesis](Nemesis.md) (Proc) |
 |  | 15.2s | [Enchant Curses](Enchantments.md) Loop |
-|  | 2.5s | [Providence Thorns](Enchantments.md) Proc \[1\] |
-|  | 2.8s | [Providence Thorns](Enchantments.md) Proc \[2\] |
-|  | 2.9s | [Tears of the the Edenkite](Enchantments.md) Impact |
+|  | 2.5s | [Providence Thorns](<Providence's_Thorns.md>) Proc \[1\] |
+|  | 2.8s | [Providence Thorns](<Providence's_Thorns.md>) Proc \[2\] |
+|  | 2.9s | [Tears of the Edenkite](Tears_of_the_Edenkite.md) Impact |
 
 ### **[Resonances](Resonance.md)**
 
