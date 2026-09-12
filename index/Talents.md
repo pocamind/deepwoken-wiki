@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229143
+revid: 229189
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1409,7 +1409,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   **Heavy Cannonball** \[Common Talent\] - Greatcannon Double the cooldown of your critical attack but increase the cannonball damage by 50%.
     -   Specifically buffs the damage of the _projectile_ on the Greatcannon criticals.
     -   This equates to an ~29% net damage increase on the default Greatcannon critical, and an ~33% net damage increase on [Smouldering Hallow](Smouldering_Hallow.md)'s critical, assuming all hits land on the aforementioned critical attacks.
-    -   This does not work on Edenbrand Helic, as it does not fire a projectile.
+    -   This does not work on the [Edenbrand Hellcoil](Edenbrand_Hellcoil.md), as it does not fire a projectile.
     -   [Critical Engine](#critical-engine) with [Blessed Gem](Blessed_Gem.md) can be used to revert your critical's cooldown back to the original value. Alternatively, the [Summer Hullwrecker](Summer_Hullwrecker.md)'s [Max Ammo](#max-ammo) Talent can be used to fully reset your critical cooldown when the cannonball lands.  
         
     -   Prerequisites: 60 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
@@ -1419,7 +1419,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   **Heavy Cannonball** \[Common Talent\] - \[Greatcannon\] Double the cooldown of your critical attack but increase the cannonball damage by 50%.
     -   Specifically buffs the damage of the _projectile_ on the Greatcannon criticals.
     -   This equates to an ~29% net damage increase on the default Greatcannon critical, and an ~33% net damage increase on [Smouldering Hallow](Smouldering_Hallow.md)'s critical, assuming all hits land on the aforementioned critical attacks.
-    -   This does not work on Edenbrand Helic, as it does not fire a projectile.
+    -   This does not work on the [Edenbrand Hellcoil](Edenbrand_Hellcoil.md), as it does not fire a projectile.
     -   [Critical Engine](#critical-engine) with [Blessed Gem](Blessed_Gem.md) can be used to revert your critical's cooldown back to the original value. Alternatively, the [Summer Hullwrecker](Summer_Hullwrecker.md)'s [Max Ammo](#max-ammo) Talent can be used to fully reset your critical cooldown when the cannonball lands.  
         
     -   The Greatcannon condition must be met in order for this Talent to apply.  

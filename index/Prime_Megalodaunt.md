@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 229175
+revid: 229187
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -226,14 +226,10 @@ Dodge
 
 ## Tips
 
-This variant will test your reaction and knowledge skills to the fullest, it is vital to know when to switch from playing aggressive to playing passive, and viceversa.
-
-Using [bloodless gems](Bloodless_Gem.md) is highly recommended to heal due to the megalodaunt hight damage
-
-Mostly weapons with special hits like the [pale briar](Pale_Briar.md) or certain mantras like warden blades
+-   As a general rule, do not overcommit to attacks. Focus on maintaining defense and punishing its attacks rather than forcing openings. Stay mobile and use mantras.
+-   Using [Bloodless Gems](Bloodless_Gem.md) is highly recommended to due to the Prime Megalodaunt's high damage output.
+-   Use weapons with multihits attacks like the [Pale Briar](Pale_Briar.md) or mantras like [Warden's Blades](Frostdraw.md#wardens-blades).
 
 ## Trivia
 
 -   First featured in Agamatsu's "Depths Games" event.
--   Also referred to as "Divine megalodaunt" or "Divine sharko"
--   Also referred as "elder sharko"

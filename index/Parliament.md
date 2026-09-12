@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 229174
+revid: 229188
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -185,12 +185,12 @@ Flock of Feathers
 -   Shadowmeld Shade - All of the Parliament's attacks steal Ether on hit.
 -   Thorn Guard - The Parliament is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>). The visual effects will appear, but will deal no damage.
 
-#### Tips
+## Tips
 
--   Is highly recommended to not use mantras during the fight due to parliament constantly using its flock of feathers attack unless they are static such as warden blades, electro carve, frozen servants, etc
--   Is also highly recommended to use [bloodless](Bloodless_Gem.md) [gems](Bloodless_Gem.md) if you are going on a mage build
--   Not be greedy hit only the times needed never try to get an extra hit because you will get heavily punished for that
+-   As a general rule, do not overcommit to attacks. Focus on maintaining defense and punishing its attacks rather than forcing openings. Stay mobile and use mantras.
+-   It is highly recommended to not use mantras during the fight due to Parliament constantly using its "Flock of Feathers" attack. unless they are multihits such as [Warden's Blades](Frostdraw.md#wardens-blades), [Electro Carve](Thundercall.md#electro-carve), [Frozen Servants](Frostdraw.md#frozen-servants), etc.
+-   Is also recommended to use [Bloodless Gems](Bloodless_Gem.md) if you are going to use mainly mantra's for damage.
 
-#### Trivia
+## Trivia
 
-Parliament is well know for voiding out of the map if [pathfinder](Pathfinder.md) and in [voi](Vow_of_Iron.md)
+-   Parliament is known for clipping though the wall when they use the _Owl Dash_ attack, leading to them Voiding out of the map.

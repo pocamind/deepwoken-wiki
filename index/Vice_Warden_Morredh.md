@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 226892
+revid: 229203
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -33,7 +33,7 @@ _Not to be confused with [Vice-Warden](Vice-Warden.md)._
 
 Vice Warden Morredh is a [Canor](Canor.md) NPC. He is the crux of the [Chainwarden](Oath%253A_Chainwarden.md) obtainment process.
 
-Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](Adret.md) in [The Central Authority](The_Central_Authority.md), earning him the position of Vice Warden, though he aspires to someday become more than just a _Vice_ Warden and replace [Warden Jericho](Warden_Jericho.md) as the one in charge of the eastern world.
+Having given years of service to [The Central Authority](The_Central_Authority.md), earning him the position of Vice Warden, though he aspires to someday become more than just a _Vice_ Warden and replace [Warden Jericho](Warden_Jericho.md) as the Warden of The East.
 
 ## Location
 

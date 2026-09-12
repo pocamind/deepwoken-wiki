@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 229170
+revid: 229181
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
@@ -40,7 +40,7 @@ This Outfit has 1200 durability, grants +20% Physical resistance ResistancePhysi
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt ResistanceBlunt and 20% Slash ResistanceSlash.
 
-The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), [Purple Cloud](Purple_Cloud.md) and Palace Tachi by 5%.
+The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), [Purple Cloud](Purple_Cloud.md) and [Palace Tachi](Palace_Tachi.md) by 5%.
 
 ## Trivia
 

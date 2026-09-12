@@ -161,7 +161,7 @@
   },
   "1028": {
     "title": "Isle of Vigils",
-    "lastrevid": 229172
+    "lastrevid": 229182
   },
   "1032": {
     "title": "Ingredients",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 229143
+    "lastrevid": 229189
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -845,7 +845,7 @@
   },
   "2599": {
     "title": "Vigil Initiate",
-    "lastrevid": 229170
+    "lastrevid": 229181
   },
   "2601": {
     "title": "Navaen Nomad Robes",
@@ -2117,7 +2117,7 @@
   },
   "5126": {
     "title": "Equipment",
-    "lastrevid": 229163
+    "lastrevid": 229202
   },
   "5135": {
     "title": "Discussion Moderators",
@@ -3261,7 +3261,7 @@
   },
   "8200": {
     "title": "Pendant Earrings",
-    "lastrevid": 225866
+    "lastrevid": 229179
   },
   "8214": {
     "title": "A Conscious Intersection",
@@ -4389,7 +4389,7 @@
   },
   "13473": {
     "title": "Nightmare Thresher",
-    "lastrevid": 225144
+    "lastrevid": 229199
   },
   "13475": {
     "title": "Crimson Megalodaunt",
@@ -4453,7 +4453,7 @@
   },
   "13645": {
     "title": "Vice Warden Morredh",
-    "lastrevid": 226892
+    "lastrevid": 229203
   },
   "13655": {
     "title": "Baby Spider",
@@ -6001,7 +6001,7 @@
   },
   "18096": {
     "title": "Prime Megalodaunt",
-    "lastrevid": 229175
+    "lastrevid": 229187
   },
   "18111": {
     "title": "Exotic Megalodaunt",
@@ -6037,7 +6037,7 @@
   },
   "18175": {
     "title": "Parliament",
-    "lastrevid": 229174
+    "lastrevid": 229188
   },
   "18176": {
     "title": "The Vat",
@@ -9149,7 +9149,7 @@
   },
   "24237": {
     "title": "Simforea",
-    "lastrevid": 227049
+    "lastrevid": 229180
   },
   "24238": {
     "title": "Alsin's Landing",
@@ -9801,7 +9801,7 @@
   },
   "26553": {
     "title": "Bejeweled Clip",
-    "lastrevid": 229162
+    "lastrevid": 229178
   },
   "26587": {
     "title": "Amedan Temple",
@@ -9810,5 +9810,9 @@
   "26607": {
     "title": "Ameda",
     "lastrevid": 229159
+  },
+  "26615": {
+    "title": "Mod Cape",
+    "lastrevid": 229201
   }
 }

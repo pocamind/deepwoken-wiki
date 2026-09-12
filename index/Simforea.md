@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 227049
+revid: 229180
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -29,6 +29,8 @@ Simforea eventually got close to the Eastern Luminant, piquing the interest of [
 ## Location
 
 Simforea can be reached through heading north from meteor isle, where you should be able to see a large island in the distance.
+
+It's located at -15500, 6500
 
 Rough location of simforea, marked off the map
 

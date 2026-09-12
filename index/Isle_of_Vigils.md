@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 229172
+revid: 229182
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of The Vigil of Winds]
@@ -36,12 +36,10 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 -   Players can find [Friid](Friid,_Master_of_Gale.md), a Celtor [spelltrainer](Attunement_Trainers.md) who can upgrade your [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 -   Players can find a permanent [campfire](Campfire_Pit.md) here.
 -   Player can buy [Pathfinder Cloak](Pathfinder_Cloak.md) outfit inside the tent.
--   Players can buy mantra modifiers from the [cave master](Cave_Master.md)
 
 ### Inn
 
 -   Players can spend 5 to change their spawn location.
--   There is a destructible wall near where inside it resides de [cave master](Cave_Master.md)
 
 ### Mantra Shop
 

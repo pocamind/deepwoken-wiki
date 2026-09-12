@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 229163
+revid: 229202
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -3299,6 +3299,9 @@ Frontier & Furnace |
 +1 Uncommon Pip
 
  | N/A |
+|  | [Mod Cape](Mod_Cape.md)  
+(**Unobtainable**) | N/A | Styles:  
+Fur, Leather, Fleece & Unblemished |
 
 **Face:**
 
