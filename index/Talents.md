@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229213
+revid: 229219
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -6696,24 +6696,27 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Lava Serpent
 
 -   Eruption Path: Lava Serpent \[Common Talent, Flamecharm\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet.
-    -   Instead of setting your target on fire, create an eruption on hit with a 3 second cooldown. Eruption damage scales with your Flamecharm investment.
-    -   Despite what the Talent description says, you can still apply burn with Eruption Path.
-        -   Burn can still be applied via: Agitating Spark, Flame Within (Self), Flash Point, Immolation, and hitting flammable terrain with Flamecharm or Thundercall Mantras.
-        -   Because of there being so few sources of burn application with Eruption path, using Talents that require burn, especially Emperor Flame, with this path is not recommended. Those Talents all still function normally though of course.
+    -   Instead of setting your target on fire, create an eruption after a 1.25 second delay, with a 3 second cooldown. Eruption damage scales with your Flamecharm investment.
         -   Eruptions have 15 base damage with 5 Flamecharm Scaling. Formula to calculate damage here: "15 \* (1 + 0.005 \* Flamecharm Investment)"
+    -   Using the [Deepfire Ring](Deepfire_Ring.md) reduces the eruption delay by 20%; from 1.25s to 1s.
+    -   The [Azure Flames](#azure-flames) Talent changes the eruption color to blue, while increasing their size and posture damage. The lava from [The Floor is Lava](#the-floor-is-lava) is unaffected by the color change.
+    -   Despite what the Talent description says, you can still apply burn with Eruption Path.
+        -   Burn can still be applied via: [Agitating Spark](#agitating-spark) (though burn needs to be present beforehand), [Flame Within](#flame-within) (Self), [Flash Point](#flash-point), [Immolation](#immolation), and hitting flammable terrain with Flamecharm or Thundercall Mantras. All other sources of burn application will create an eruption instead.
+        -   Because of there being so few sources of burn application with Eruption path, using Talents that require burn, especially [Emperor Flame](#emperor-flame), with this path is not recommended. Though, they'll function normally if you do happen to proc them.
     -   Prerequisite: 40 Flamecharm
-    -   Mutual Exclusive: Flashboil, The Final Act, Wraith Path: Twisted Puppets
+    -   Mutual Exclusives: [Flashboil](#flashboil), [The Final Act](#the-final-act), [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)
 
 -   Empowered Eruption \[Common Talent, Flamecharm\] - Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.
-    -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
+    -   Prerequisites: [Eruption Path: Lava Serpent](#eruption-path-lava-serpent), 50 Flamecharm
 
 -   Flash Point \[Common Talent, Flamecharm\] - Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.
-    -   Prerequisites: Eruption Path: Lava Serpent, 55 Flamecharm
+    -   Empowered eryotions have +50% range and damage.
+    -   Prerequisites: [Eruption Path: Lava Serpent](#eruption-path-lava-serpent), 55 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
     -   Has slight Flamecharm scaling for its damage.
     -   Duration of the lava pools scales on your Flamecharm investment.
-    -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
+    -   Prerequisites: [Eruption Path: Lava Serpent](#eruption-path-lava-serpent), 100 Flamecharm
 
 ### Leader
 

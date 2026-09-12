@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 227529
+revid: 229225
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -85,8 +85,8 @@ _A snow covered island where the [Trial of One](Trial_of_One.md) is located, con
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Hero_Blades.md"><font>Hero Blades</font></a> (Winter Exclusive, Valley of Heroes)</li>
     <li><b>Light Weapons</b>: <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a> <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
-    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li>
+    <li><b>Medium Weapons</b>: <a href="Duskpole.md">Duskpole</a>, <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></li>
     <li><b>Offhand Weapons</b>:</li>
   </ul></td>
 </tr>
@@ -96,9 +96,9 @@ _A snow covered island where the [Trial of One](Trial_of_One.md) is located, con
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Legion_Boots.md">Legion Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Legion_Boots.md">Legion Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Plain_Cape.md">Plain Cape</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
   </ul></td>
@@ -181,8 +181,8 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <td>
   <ul>
     <li><b>Legendary Weapons</b>:</li>
-    <li><b>Light Weapons</b>: <a href="Canor_Fang.md">Canor Fang</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a></li>
-    <li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b>Light Weapons</b>: <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a></li>
+    <li><b>Medium Weapons</b>: <a href="Duskpole.md">Duskpole</a>, <a href="Katana.md">Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
     <li><b>Heavy Weapons</b>: <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a></li>
     <li><b>Offhand Weapons</b>:</li>
   </ul></td>
@@ -323,7 +323,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
     <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
     <li><b>Legendary Weapons</b>: <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Iron_Requiem.md"><font>Iron Requiem</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></li>
     <li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
-    <li><b>Medium Weapons</b>: <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Trident_Spear.md">Trident Spear</a></li>
+    <li><b>Medium Weapons</b>: <a href="Duskpole.md">Duskpole</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Trident_Spear.md">Trident Spear</a></li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></li>
     <li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a></li>
   </ul></td>
@@ -498,7 +498,7 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li>
-    <li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Scalesplitter.md">Scalesplitter</a></li>
+    <li><b>Medium Weapons</b>: <a href="Duskpole.md">Duskpole</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Scalesplitter.md">Scalesplitter</a></li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Enforcer's_Blade.md">Enforcer's Blade</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Pale_Morning.md">Pale Morning</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a></li>
@@ -709,7 +709,7 @@ All bosses have differing loot tables found here
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Needle's_Eye.md">Needle's Eye</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
-    <li><b>Medium Weapons</b>: <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Scalesplitter.md">Scalesplitter</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
+    <li><b>Medium Weapons</b>: <a href="Duskpole.md">Duskpole</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scalesplitter.md">Scalesplitter</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
     <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Stoneheart.md">Stoneheart</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Worshipper's_Shield.md">Worshipper's Shield</a></li>

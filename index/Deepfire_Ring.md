@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 223139
+revid: 229221
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -28,7 +28,7 @@ categories: [Equipment, Rings]
 
 The tick rate of [Burn](Status_Effects.md#burn) is increased by 25%, from 2.4 ticks per second to 3 per second, but the base damage per tick is reduced from 3.33 per tick to 3.21 per tick, and the duration of [Burn](Status_Effects.md#burn) is reduced by ~17.5%.
 
-If using Eruption Path: Lava Serpent, the ring will instead reduce the delay for explosions to occur.
+If using [Eruption Path: Lava Serpent](Talents.md#eruption-path-lava-serpent), the ring will reduce the delay for explosions to occur by 20%; from 1.25s to 1s. Any burn you apply will still benefit from the DPS increase.
 
 ## Notes
 
@@ -38,4 +38,4 @@ If using Eruption Path: Lava Serpent, the ring will instead reduce the delay for
     -   [Azure Flames](Talents.md#azure-flames) [Burn](Status_Effects.md#azure-burning)'s DPS increases from **9** to **10.8** at 0 Flamecharm, and **13.5** to **16.25** at 100 Flamecharm.
     -   [Twisted Puppets](Talents.md#twisted-puppets)' [Puppet Burn](Status_Effects.md#puppet-burn) DPS increases from **1** to **1.2** at 0 Flamecharm, and **1.5** to **1.8** at 100 Flamecharm.
     -   [Twisted Puppets'](Talents.md#twisted-puppets)' [Shadow Burn](Status_Effects.md#shadow-burn) DPS increases from **2** to **2.4** at 0 Flamecharm, and **3** to **3.6** at 100 Flamecharm.
--   Both of Twisted Puppets' burn types heavily benefit from this Ring, as the Ether drain is _per tick_ and is unaffected by Deepfire Ring's damage debuff.
+-   Both of Twisted Puppets' burn types heavily benefit from this Ring, as their Ether drain effect is triggered _per tick_, and is unaffected by Deepfire Ring's damage debuff.

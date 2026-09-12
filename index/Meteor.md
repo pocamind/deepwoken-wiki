@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 228928
+revid: 229216
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

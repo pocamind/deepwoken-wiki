@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 208648
+revid: 229218
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -778,7 +778,7 @@ _noun_
 
 -   **Fort**: Fortitude
 -   **AGI**: Agility (instead of **AGL**)
--   **Will/WIL**: Willpower (instead of **WLL**)
+-   **Will/WIL/WP**: Willpower (instead of **WLL**)
 -   **CHR**: Charisma (instead of **CHA**)
 -   **FLM**: Flamecharm (instead of **FIR**)
 -   **THN/THD**: Thundercall (instead of **LTN**)
