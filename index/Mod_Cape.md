@@ -1,6 +1,6 @@
 ---
 title: Mod Cape
-revid: 229201
+revid: 229228
 source: https://deepwoken.fandom.com/wiki/Mod_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Hats]
@@ -17,7 +17,7 @@ notices:
 | selling price | Unsellable |
 | weight | 0.5 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | (Unobtainable) |

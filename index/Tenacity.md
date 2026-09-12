@@ -1,6 +1,6 @@
 ---
 title: Tenacity
-revid: 229154
+revid: 229229
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields, Offhand]
@@ -26,7 +26,7 @@ categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields,
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Doom of Caeranthil (extremely rare) |
-| description | Hewn from the Doom's own scale, this shield was produced under commission by the Summer Company, its schematics devised by the intrepid Cpt. Greene. By utilising the creature's own hide, it was theorised that it might bear some resistance to its scorching breath. When put to the test, it succeeded with flying colours, shielding the Pathfinder who bore it from the beast's relentless onslaught. Alas, bad they followed Greene's suggestion and payed double the price to strap another on the wielder's back, it may have protected its wielder from both rows of teeth. |
+| description | Hewn from the Doom's own scale, this shield was produced under commission by the Summer Company, its schematics devised by the intrepid Cpt. Greene. By utilising the creature's own hide, it was theorised that it might bear some resistance to its scorching breath. When put to the test, it succeeded with flying colours, shielding the Pathfinder who bore it from the beast's relentless onslaught. Alas, had they followed Greene's suggestion and payed double the price to strap another on the wielder's back, it may have protected its wielder from both rows of teeth. |
 
 Variants: [Old World Greatshield](Old_World_Greatshield.md)
 
