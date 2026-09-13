@@ -1,6 +1,6 @@
 ---
 title: Hemobloom
-revid: 217915
+revid: 229299
 source: https://deepwoken.fandom.com/wiki/Hemobloom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -14,6 +14,7 @@ categories: [Items, Ingredients, Harvestables]
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 229266
+revid: 229317
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -32,34 +32,39 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
 ## Loot Table
 
+This info has been transcluded from [a different page](Loot_Tables.md#crypt-of-the-unbroken). Visit the transcluded page to edit this info.
+
 <table>
 <tbody>
 <tr>
   <td><a href="Outfits.md">Outfit Schematics</a></td>
   <td>
   <ul>
-    <li><b>Expert Outfit</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
-    <li><b>Master Outfit</b>: <a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
+    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
+    <li><b>Master</b>: <a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
+    <li><b>Enemy drops</b>: <a href="Immortal_Helm.md">Immortal Helm</a>, <a href="Megalodaunt_Coat.md">Megalodaunt Coat</a>, <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Megalodaunt_Hide.md">Megalodaunt Hide</a>, <a href="Mantra_Modifiers.md">T1 and T2 Mantra Modifiers</a>, <a href="Ores.md#umbrite">Umbrite</a></li>
+    <li><b><a href="Relics.md">Relics</a></b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Palace_Tachi.md"><font>Palace Tachi</font></a></li>
-    <li><b>Alloyed Weapons</b>:</li>
+    <li><b>Unenchantable Weapons</b>:
+  <ol>
+    <li><b>Heavy Weapons</b>: <a href="Gran_Sudaruska.md">Gran Sudaruska</a></li>
+  </ol></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Canor_Fang.md">Canor Fang</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a></li>
-    <li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Crescendo.md">Crescendo</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li>
+    <li><b>Medium Weapons</b>: <a href="Palace_Tachi.md">Palace Tachi</a>, <a href="Crescendo.md">Crescendo</a>, <a href="Katana.md">Katana</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a>, <a href="Canorian_Axe.md">Canorian Axe</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a></li>
   </ul></td>
@@ -68,17 +73,19 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Royal_Duelist.md">Royal Duelist</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Duelist_Mask.md">Duelist Mask</a></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+    <li><b><a href="Equipment.md#head">Head Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a>, <a href="Royal_Duelist.md">Royal Duelist</a></li>
+    <li><b><a href="Equipment.md#legs">Legs Equipment</a></b>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
+    <li><b><a href="Equipment.md#face">Face Equipment</a></b>: <a href="Duelist_Mask.md">Duelist Mask</a></li>
+    <li><b><a href="Equipment.md#ears">Ears Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings Equipment</a></b>:</li>
   </ul></td>
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Maps
 

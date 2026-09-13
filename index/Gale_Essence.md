@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 228200
+revid: 229306
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -13,7 +13,8 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 | value | N/A |
 | weight | 0 |
 | stack | x10 |
-| type | Relic |
+| type | Ingredient |
+| rarity | Relic |
 | usage | Crafting |
 | bankable | Yes |
 | droppable | No |

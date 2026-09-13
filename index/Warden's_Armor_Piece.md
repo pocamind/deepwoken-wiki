@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 213141
+revid: 229303
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -14,10 +14,12 @@ categories: [Items, Drops, Ingredients]
 | weight | None |
 | stack | x5 |
 | type | Ingredient |
+| rarity | Unique |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | Forged with steel from the furnaces of Markor. |
+| obtainment | Titus Fulminus Destellus (boss chest), Authority Chainwarden (direct drop) |
 
 ## Description
 
@@ -36,4 +38,4 @@ categories: [Items, Drops, Ingredients]
 ## Trivia
 
 -   This item and the [Titus' Armor Piece](<Titus'_Armor_Piece.md>) have the third highest sell value out of all other items in the game, being 6,000.
-    -   With [Snake Oil](Talents.md#silvertongue), you can sell this for 8,400.
+    -   With [Snake Oil](Talents.md#snake-oil), you can sell this for 8,400.

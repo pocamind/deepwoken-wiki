@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 229250
+revid: 229315
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -123,15 +123,15 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
   <td>
   <ul>
     <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
-    <li><b>Master</b>: <a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
+    <li><b>Master</b>: <a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><b>Drops</b>: <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Mantra_Modifiers.md">T1 and T2 Mantra Modifiers</a>, <a href="Immortal_Helm.md">Immortal Helm</a>, <a href="Ores.md#umbrite">Umbrite</a>, <a href="Megalodaunt_Hide.md">Megalodaunt Hide</a>, <a href="Megalodaunt_Coat.md">Megalodaunt Coat</a>, <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
+    <li><b>Enemy drops</b>: <a href="Immortal_Helm.md">Immortal Helm</a>, <a href="Megalodaunt_Coat.md">Megalodaunt Coat</a>, <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Megalodaunt_Hide.md">Megalodaunt Hide</a>, <a href="Mantra_Modifiers.md">T1 and T2 Mantra Modifiers</a>, <a href="Ores.md#umbrite">Umbrite</a></li>
+    <li><b><a href="Relics.md">Relics</a></b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -140,13 +140,13 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
   <ul>
     <li><b>Unenchantable Weapons</b>:
   <ol>
-    <li><b>Heavy Weapons</b>: <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></li>
+    <li><b>Heavy Weapons</b>: <a href="Gran_Sudaruska.md">Gran Sudaruska</a></li>
   </ol></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Canor_Fang.md">Canor Fang</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a></li>
-    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>, <a href="Katana.md">Katana</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li>
+    <li><b>Medium Weapons</b>: <a href="Palace_Tachi.md">Palace Tachi</a>, <a href="Crescendo.md">Crescendo</a>, <a href="Katana.md">Katana</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a>, <a href="Canorian_Axe.md">Canorian Axe</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a></li>
   </ul></td>
@@ -155,17 +155,19 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Royal_Duelist.md">Royal Duelist</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Duelist_Mask.md">Duelist Mask</a></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+    <li><b><a href="Equipment.md#head">Head Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a>, <a href="Royal_Duelist.md">Royal Duelist</a></li>
+    <li><b><a href="Equipment.md#legs">Legs Equipment</a></b>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
+    <li><b><a href="Equipment.md#face">Face Equipment</a></b>: <a href="Duelist_Mask.md">Duelist Mask</a></li>
+    <li><b><a href="Equipment.md#ears">Ears Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings Equipment</a></b>:</li>
   </ul></td>
 </tr>
 </tbody>
 </table>
+
+  
 
 ## [Songseeker Wilds](Songseeker_Wilds.md) Loot Table
 

@@ -1,6 +1,6 @@
 ---
 title: Glumfig
-revid: 228041
+revid: 229305
 source: https://deepwoken.fandom.com/wiki/Glumfig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Alchemy]
@@ -14,6 +14,7 @@ categories: [Consumables, Alchemy]
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
+| rarity | Common |
 | stomach | 20% |
 | water | -20% |
 | bankable | Yes |

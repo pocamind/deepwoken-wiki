@@ -1,6 +1,6 @@
 ---
 title: Candle
-revid: 228170
+revid: 229300
 source: https://deepwoken.fandom.com/wiki/Candle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Tools]
@@ -13,6 +13,7 @@ categories: [Pathfinder Exclusive, Items, Tools]
 | value | 0 |
 | weight | N/A |
 | type | Tool |
+| rarity | Common |
 | bankable | No |
 | droppable | No |
 | pass down | No |

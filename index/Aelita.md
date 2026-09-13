@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 229031
+revid: 229309
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -21,15 +21,17 @@ categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Aelita is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-Winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you. She possesses the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), allowing her to cast illusions and create false versions of herself.
+Aelita is a unique Felinor NPC that appears in the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-Winter season, and during the [Carnival of Hearts](Carnival_of_Hearts.md) World Event.
 
-Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if \[the player\] comes back during the winter." This is a trap, as 5 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
+She is a young and mischevious Panther [Felinor](Felinor.md) with long, symmetrical black hair. Aelita's pupils are colored purple and form an upwards crescent. Her makeup is composed of purple eyeliner that forms a basic gradient on one eye, and a thin, vertical streak on the other, followed by a dark blue eyeshadow. She wears the [Jester's Garb](<Jester's_Garb.md>) outfit.
 
-She is the twin sister of [Tillian](Tillian.md). The two go by the name of the Siblings Arlekino.
+She is the twin sister of [Tillian](Tillian.md). The two go by the name of the Siblings Arlekino. Like her brother, she is a wielder of Illusion Magic, allowing her to disappear in a flash and create clones of herself.
 
 ## Event
 
 **NOTE:** If you are Vow of Iron this event will always spawn Blizzard Knights.
+
+Aelita's event involves forcing the player to perform three tasks for her. Failing to obey her commands will cause her to teleport you into a random place, usually at high elevations.
 
 1.  _"Hey! It's cold up here, don't you agree? All the more reason to warm ourselves up with a game." ... "The game has two rules first being my words are absolute and lastly, ABSOLUTELY NO KILLING." ... "People come up here all the time... I wonder why they're always so disappointed to see me, everyone loves games, right? ... Anyway, I'm Aelita. Let's begin, shall we? "_
 2.  _"Use some of that magic you guys love.", or "Cast a mantra! Any mantra!"_
