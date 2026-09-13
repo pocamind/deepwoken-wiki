@@ -1,9 +1,9 @@
 ---
 title: Enforcer Plate
-revid: 221917
+revid: 229294
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates]
+categories: [Uncommon, Equipment, Arms, Plates]
 ---
 
 # Enforcer Plate
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Direct drop from:, The EnforcerChests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs |
+| obtainment | Direct drop from:, The EnforcerChests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs |
 | description | ... |
 
 Enforcer Set

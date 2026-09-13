@@ -1,9 +1,9 @@
 ---
 title: Amedan Pendant
-revid: 229157
+revid: 229293
 source: https://deepwoken.fandom.com/wiki/Amedan_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]
+categories: [Common, Pathfinder Exclusive, Equipment, Torso, Necklaces]
 ---
 
 # Amedan Pendant
@@ -20,7 +20,7 @@ categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Kyrsgarde (Direct drop) |
+| obtainment | Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Kyrsgarde Crawler (Direct drop) |
 | description | A golden pendant in the likeness of the Kyrsan Suncross, known to them as Ameda. In the ruins of Old Kyrsa, the Amedan Temple is said to still stand, though there are no longer free souls to make pilgrimage to it, or to receive its impression. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
