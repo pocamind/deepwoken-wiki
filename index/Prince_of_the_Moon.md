@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 217939
+revid: 229262
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -35,11 +35,14 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Prince of the Moon** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento is obtained by defeating all three progression bosses while having the [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent, which permanently applies tier three [Insanity](Insanity.md). The Blessing of the Moon Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>). A visual feature this memento bears is that your skin is always pale white, with gray Sclera, white Pupils and black hair.
+**Prince of the Moon** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento is obtained by defeating all three progression bosses while having the [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent, which permanently applies tier three [Insanity](Insanity.md). The Blessing of the Moon Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>) when interacting with the [Shrine of the Moonseye](Shrine_of_the_Moonseye.md).
 
-**If you unequip your [Soulthorn](Soulthorn.md), you will not be able to re-equip it.**
+A visual feature this memento bears are that your skin is always pale white, with gray Sclera, white Pupils and black hair.
 
-**This Memento permanently gives you Tier 1 Insanity.**
+#### NOTES:
+
+-   **If you unequip your [Soulthorn](Soulthorn.md), you will not be able to re-equip it.**
+-   **This Memento permanently gives you Tier 1 Insanity.**
 
 ## Starting Abilities
 

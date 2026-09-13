@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 219389
+revid: 229243
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Jetstriker | |
 |---|---|
 | oath_req | 50 Agility |
-| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +5% PENAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
+| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +5% PENAll Talents Effects, +5 Health, +5 Ether |
 
 _For the version that existed prior to March 29, 2024, see [here](Oath%253A_Jetstriker/Old_Jetstriker.md)._
 

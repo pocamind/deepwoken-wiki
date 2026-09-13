@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 227476
+revid: 229266
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -24,13 +24,10 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
 ## Points of Interest
 
--   On the 1st floor, there is a massive, library-like room with an Alpha Megalodaunt and four [Immortal Guardians](Immortal_Guardian.md) in it.
--   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantras for a hand of whispers.
+-   On the 1st floor, there is a massive, library-like room with an [Alpha Megalodaunt](Alpha_Megalodaunt.md) and four [Immortal Guardians](Immortal_Guardian.md) in it.
+-   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md) can be found. For 5 knowledge, you may exchange one of your mantras for a hand of whispers.
     -   An opening in the wall will lead to the [Glacial Remnant](Glacial_Remnant.md) with the [Frostdraw Obelisk](Frostdraw_Obelisk.md) inside, required for the [Saintsworn](Oath%253A_Saintsworn.md#obtainment) obtainment.
--   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon, but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
-    -   Farming [Immortal Guardians](Immortal_Guardian.md) is also the only way to get the [Immortal Helm](Immortal_Helm.md), which is one of the reasons why people choose to go here.
-
--   Hellfire Lotuses and Skyvalor Lotuses can be found around the Crypt. Crafting 2 Hellfire Lotuses or 2 Skyvalor Lotuses together at a crafting table will yield a Strength attribute flask or a Willpower attribute flask respectively.
+    -   Farming [Immortal Guardians](Immortal_Guardian.md) is also the only way to get the [Immortal Helm](Immortal_Helm.md).
 -   There are 3 black flowers with the roman numeral 1 on top of the Crypt. They serve as a tribute to a player who passed away.
 
 ## Loot Table
@@ -56,7 +53,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <font>Palace Tachi</font></li>
+    <li><b>Legendary Weapons</b>: <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Palace_Tachi.md"><font>Palace Tachi</font></a></li>
     <li><b>Alloyed Weapons</b>:</li>
     <li><b>Generic Weapons</b>:
   <ol>
@@ -83,10 +80,6 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 </tbody>
 </table>
 
-## Gallery
-
-Blocked Crypt of the Unbroken
-
 ## Maps
 
 A map can be found at [Maps#Surface](Maps.md#surface)
@@ -94,24 +87,14 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
--   The majority of images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
--   [Immortal Guardians](Immortal_Guardian.md) use the Divine Axe and Divine Greatsword from the [Crazy Slots](Crazy_Slots.md) resonance, but they can't use the special abilities
+-   In the [Vow of Iron](Vow_of_Iron.md) gamemode, it's called The Crypt of the Forgotten.
 -   Gripping an enemy will aggro a massive amount of the enemies in the dungeon nearby, even on the floor above, so if you can't autogrip or burn them, take enemies outside of the Crypt to grip them safely. (This still tends to aggro [Carbuncles](Carbuncle.md), but they are a minor threat.)
 -   Good place to farm books, the library has tons of bookshelves.
--   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the [Immortal Guardians](Immortal_Guardian.md) out of the dungeon to avoid going to The Depths because it is a Voidzone.
 -   Please note that the crypt entrance can be blocked and it cannot be broken, it will open after the server time has reached 15 minutes.
-    -   If you however want to access the blocked entrance follow these steps:
-        1.  Get two heavy weapons in your hotbar (unequipped)
-        2.  Sprint to the entrance
-        3.  Swap between the two heavy weapons, but don't equip
-        4.  While you sprint and swap weapons, just wait and you should've glitched through the wall
-    -   As of April 19th, the crypt entrance is open in all of Vow of Iron servers.
 -   Tip: With the assassin Talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
-    -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
-    -   Tacet and/or the Mute Regalia are extremely useful for assassination.
--   The Crypt of the Unbroken may be the resting place of [Sudaruska](Gran_Sudaruska.md), as her epithet was "the Unbroken," not to mention the fact that Gran Sudaruska can drop in the Crypt.
--   You should always check your blood and food bars, because NPC's in Crypt of Unbroken will drain your blood very fast.
+    -   If they aggro on you go outside the dungeon and wait for them to de-aggro by running away.
+    -   Tacet is extremely useful for assassination.
+-   The Crypt of the Unbroken may be the resting place of [Sudaruska](Sudaruska.md), as her epithet was "the Unbroken," not to mention the fact that Gran Sudaruska can drop in the Crypt.
 -   [Immortal Guardians](Immortal_Guardian.md) in the upper floor don’t give chests when they are gripped, making farming them less efficient as the ones downstairs as chests give a lot of exp.
 -   [Immortal Guardians](Immortal_Guardian.md) are able to spawn on top of Crypt of the Unbroken, it can happen by de-aggroing the enemy or by natural causes.
--   In the Vow of Iron gamemode, it's called The Crypt of the Forgotten.

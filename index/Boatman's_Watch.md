@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 213392
+revid: 229255
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones, Dungeons]
@@ -33,12 +33,12 @@ Boatman's Watch is a small island located in the [Voidsea](Voidsea.md). The isla
 1.  Enter the arena in the middle of the island.
 2.  Build a [Campfire Pit](Campfire_Pit.md) on each end of the circle in the middle.
 3.  Ignite all four [Campfire Pits](Campfire_Pit.md).
-4.  A Teleportation ring will spawn, and standing in it will teleport you to an instanced server with purple flames on the [campfires](Campfire_Pit.md)
+4.  A Teleportation ring will spawn, and standing in it will teleport you to an instanced server with purple flames on the [Campfires](Campfire_Pit.md).
 5.  Interact with him and the battle will start.
 
 -   Rewards in high-tier EXP and a seasonal reward.
 
-Once spawned, you will not be able to leave Boatman's Watch until you defeat [The](The_Ferryman.md) [Ferryman](The_Ferryman.md) and leave through the portal, die or combat log.
+Once spawned, you will not be able to leave Boatman's Watch until you defeat [The Ferryman](The_Ferryman.md) and leave through the portal, die or combat log.
 
 ## Trivia
 
@@ -50,4 +50,3 @@ Once spawned, you will not be able to leave Boatman's Watch until you defeat [Th
 -   A hidden mine and library can be found in Boatman's Watch through destructible walls.
 -   Although not really trivial, there are two [eggs](Egg.md) in this island, one found on a tree growing on the rocks near the dock and another found in a bigger tree growing in a patch of grass to the right of [Ferryman](The_Ferryman.md)'s location, these two [eggs](Egg.md) can be used to create [Mushroom Omelettes](Mushroom_Omelette.md) with the high abundancy of [Goblettos](Gobletto.md) which can be helpful in the fight against [The Ferryman](The_Ferryman.md).
 -   Within the Ferryman's instance, the tree behind the teleporter will have [sap](Sap.md) that does not deplete after 5-20 collections. This can be a very consistent way of getting [sap](Sap.md), if you ever need it.
--   Despite the fact that [Adrofalis](Adrofalis.md) has not entered [The Ferryman](The_Ferryman.md)'s portal, he can still hear their music and lightning.

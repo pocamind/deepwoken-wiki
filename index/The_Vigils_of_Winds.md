@@ -1,6 +1,6 @@
 ---
 title: The Vigils of Winds
-revid: 229168
+revid: 229251
 source: https://deepwoken.fandom.com/wiki/The_Vigils_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Factions, Etrea]

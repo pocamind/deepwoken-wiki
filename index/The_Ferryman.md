@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 228567
+revid: 229258
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Humanoid Bosses, Bosses, Voiced Characters]
@@ -32,23 +32,24 @@ According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged
 
 1.  Find the [Boatman's Watch](<Boatman's_Watch.md>), and within the middle, find the ritual circle.
 2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable. There is a 15 second cooldown between summons.
-3.  Place a campfire on each circle outside the center, (up to a total of **4** campfires).
-4.  Light 1-4 of the campfires. Campfires already placed can be relit to initiate the ritual.
-5.  A ring akin to [Teleportation Resonance](Teleportation.md) will appear, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
+3.  Place a campfire on each circle outside the center or within the central circle, (up to a total of **4** campfires).
+4.  Light all 4 of the campfires. Campfires already placed can be relit to initiate the ritual.
+5.  A large ring will appear, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
-6.  The Ferryman will spawn in the middle. Talk with him and initiate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.
+6.  The Ferryman will spawn in the middle. Speak with him and agree to his wager, if at any point you wish to back-out before fighting him, you may return to the Main Menu.
 
 ### Summoning The Ferryman in [Vow of Iron](Vow_of_Iron.md)
 
 1.  Talk to the [Reclaimer](Reclaimer_of_the_Recollection.md) at [The Cerebral Spire](The_Cerebral_Spire.md), take the mission/task option and interact if it says "memory of a dancer".
-2.  Walk up to the five teleporters up the stairs and (from left to right) take the first teleporter to arrive at the Boatman's Watch.
-3.  Interact with the white circle at the ritual spot where Ferryman is and he should spawn to start the fight.
+2.  Walk up to the five teleporters up the stairs in [The Cerebral Spire](The_Cerebral_Spire.md) and (from left to right) take the first teleporter to arrive at the Boatman's Watch.
+3.  Interact with the [Strange Symbol](Strange_Symbol.md) where the Ferryman is Located, causing him to spawn. You must then fight a much faster pace fight but a much weaker version of the Ferryman.
+4.  Once defeated you are rewarded with the [Depths Supercharger](Depths_Supercharger.md) if you have the "memory of a dancer" Memory Task.
 
 The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 15+. His speed, damage, health, and Mantra potency will scale greatly depending on how many players are present in the dungeon, and as such it is recommended to fight him alone.
 
-_For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._ Note: Teal means phase 1, Violet means phase 2. If it isn't listed, then it doesn't happen during its respective phase.
-
 ## Moves
+
+_For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._ Note: Teal means phase 1, Violet means phase 2. If it isn't listed, then it doesn't happen during its respective phase.
 
 | Name | Description |
 | --- | --- |

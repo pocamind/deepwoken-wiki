@@ -317,7 +317,7 @@
   },
   "1216": {
     "title": "The Ferryman",
-    "lastrevid": 228567
+    "lastrevid": 229258
   },
   "1217": {
     "title": "Seasons",
@@ -405,7 +405,7 @@
   },
   "1391": {
     "title": "Boatman's Watch",
-    "lastrevid": 213392
+    "lastrevid": 229255
   },
   "1393": {
     "title": "Hobo",
@@ -2281,7 +2281,7 @@
   },
   "5670": {
     "title": "Crypt of the Unbroken",
-    "lastrevid": 227476
+    "lastrevid": 229266
   },
   "5671": {
     "title": "Echoes",
@@ -2849,7 +2849,7 @@
   },
   "7395": {
     "title": "Bloodfeather Mask",
-    "lastrevid": 223042
+    "lastrevid": 229236
   },
   "7396": {
     "title": "Adventurer's Scarf",
@@ -3125,7 +3125,7 @@
   },
   "8050": {
     "title": "Bloodfeather Cowl",
-    "lastrevid": 227893
+    "lastrevid": 229235
   },
   "8052": {
     "title": "Ministry Operative Cloak",
@@ -3185,7 +3185,7 @@
   },
   "8138": {
     "title": "Oath: Jetstriker",
-    "lastrevid": 219389
+    "lastrevid": 229243
   },
   "8139": {
     "title": "Oath: Starkindred",
@@ -3325,7 +3325,7 @@
   },
   "8492": {
     "title": "Cathedral of the Interstice",
-    "lastrevid": 228435
+    "lastrevid": 229271
   },
   "8519": {
     "title": "Eager Tradesman",
@@ -4001,7 +4001,7 @@
   },
   "11516": {
     "title": "The Vigils of Winds",
-    "lastrevid": 229168
+    "lastrevid": 229251
   },
   "11544": {
     "title": "Swords",
@@ -5085,7 +5085,7 @@
   },
   "15393": {
     "title": "Loot Tables",
-    "lastrevid": 229225
+    "lastrevid": 229250
   },
   "15405": {
     "title": "Dormant Splinter",
@@ -5597,7 +5597,7 @@
   },
   "16985": {
     "title": "Lodestar",
-    "lastrevid": 225060
+    "lastrevid": 229242
   },
   "17009": {
     "title": "Prototype Black Diver",
@@ -6401,7 +6401,7 @@
   },
   "18609": {
     "title": "Titus Fulminus Destellus",
-    "lastrevid": 228939
+    "lastrevid": 229244
   },
   "18610": {
     "title": "Wrath Gem",
@@ -8145,7 +8145,7 @@
   },
   "21770": {
     "title": "Prince of the Moon",
-    "lastrevid": 217939
+    "lastrevid": 229262
   },
   "21777": {
     "title": "Ishmael",
@@ -9109,7 +9109,7 @@
   },
   "23945": {
     "title": "The Endless Wave",
-    "lastrevid": 227879
+    "lastrevid": 229269
   },
   "23969": {
     "title": "Captain Greene",
@@ -9785,7 +9785,7 @@
   },
   "26515": {
     "title": "Cathedral's Spire",
-    "lastrevid": 228367
+    "lastrevid": 229275
   },
   "26542": {
     "title": "Lance's mother",
@@ -9814,5 +9814,13 @@
   "26615": {
     "title": "Mod Cape",
     "lastrevid": 229228
+  },
+  "26620": {
+    "title": "Strange Symbol",
+    "lastrevid": 229253
+  },
+  "26622": {
+    "title": "Shrine of the Moonseye",
+    "lastrevid": 229261
   }
 }
