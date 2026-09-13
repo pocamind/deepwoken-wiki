@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 225678
+revid: 229284
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -15,7 +15,7 @@ categories: [Monsters, Knights]
 | drops | Advanced Mantra Modifiers, Dying Embers, Relic Axe |
 | challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
 
-Variants: [Star Knight](Star_Knight.md) · [Moss Knight](Moss_Knight.md)
+Variants: [Star Knight](Star_Knight.md) · [Moon Knight](Moon_Knight.md) · [Moss Knight](Moss_Knight.md)
 
 “ Seeing the state of their cities... Their arrival seems less like divine visitation and more like evacuation. As above, so below. ”
 
@@ -43,11 +43,12 @@ Moss Knights are similar to Desert Knights, spawning in singles in [Bluster Rift
 
  | Swings its sword at the opponent once or twice.
 
--   **Insta-executes the player if health is low.**
+-   Will auto execute if it brings an opponents health to 0.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
 -   § Dodgeable
+-   💀 Autogrip
 
  |  |
 | 

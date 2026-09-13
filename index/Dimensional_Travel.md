@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 228765
+revid: 229278
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -75,21 +75,10 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
     -   If used properly, timing a jump to change the angle of your momentum can allow you to gain great amounts of distance in a desirable direction over a short time. This is frequently used for speedrunning.
 -   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Voidwalker.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your Dimensional Travel distance stat.)
     -   Voidwalker bounties also expire if the targets are separated via The Interstice long enough, rendering this a means of escape for either, albeit inconvenient.
--   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period.
-
-The [Dread Serpent](Dread_Serpent.md) can be encountered via this interaction.
-
-  
-
-  
-
-  
-
-  
-
 -   Gravity inside The Interstice used to be reduced.
 -   There used to be a bug where buildings could be found in The Interstice.
 -   You cannot climb the structures in [The Interstice](The_Interstice.md).
 -   You can fish in the cracks of the floor.
 -   All healing in [The Interstice](The_Interstice.md) is greatly hampered, similarly to [Voidzones](Voidzones.md).
 -   When trying to use Dimensional Travel in [The Interstice](The_Interstice.md), while in the [First Layer](First_Layer.md), if the location viewed is a kill brick, the message "You might suffocate in here" will be displayed.
+-   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period.

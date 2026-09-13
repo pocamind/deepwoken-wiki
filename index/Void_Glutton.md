@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 221368
+revid: 229277
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -13,7 +13,9 @@ categories: [Vow of Iron Exclusive, Mementos]
 | description | Feasting upon the very souls of their victims, their shadow grew. |
 | unlock | Kill 25 players, then defeat Zi'eer, the Fourth Prophet's first phase. |
 | starting health | 255 |
+| starting attributes | 5 Shadowcast, 3 Light Weapon, 5 Fortitude, 2 Intelligence, 2 Willpower, 1 Charisma |
 | final attributes | 100 Shadowcast, 50 Light Weapon, 100 Fortitude, 25 Intelligence, 40 Willpower, 15 Charisma |
+| starting traits | 4 Vitality, 1 Songchant, -2 Dexterity |
 | final traits | 8 Vitality, 3 Songchant, 0 Dexterity |
 | starting armor | Stranded |
 | allowed weapons | Any |

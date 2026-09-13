@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 228460
+revid: 229285
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Knights]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Monsters, Knights]
 | locations | Resonant Dawn Event |
 | challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
 
-Variants: [Stone Knight](Stone_Knight.md) · [Moss Knight](Moss_Knight.md)
+Variants: [Stone Knight](Stone_Knight.md) · [Moon Knight](Moon_Knight.md) · [Moss Knight](Moss_Knight.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -35,11 +35,12 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
  | Swings its sword at the opponent once or twice.
 
--   **Insta-executes the player if health is low.**
+-   Auto executes if it brings an opponents health to 0.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
 -   § Dodgeable
+-   💀 Autogrip
 
  |  |
 | 
@@ -69,6 +70,8 @@ Dodge
 (★★☆)
 
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
+
+-   Deals galebreath damage.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

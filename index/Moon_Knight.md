@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 228564
+revid: 229287
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -41,6 +41,7 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
 -   § Dodgeable
+-   💀 Autogrip
 
  |
 | 

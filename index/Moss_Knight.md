@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 225136
+revid: 229286
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
@@ -17,7 +17,7 @@ notices:
 | drops | ?? |
 | locations | Bluster Rapids, The Starswept Valley |
 
-Variants: [Stone Knight](Stone_Knight.md) · [Star Knight](Star_Knight.md)
+Variants: [Stone Knight](Stone_Knight.md) · [Star Knight](Star_Knight.md) · [Moon Knight](Moon_Knight.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -37,11 +37,12 @@ Moss Knights a type of [Stone Knight](Stone_Knight.md), spawning along [The Star
 
  | Swings its sword at the opponent once or twice.
 
--   **Insta-executes the player if health is low.**
+-   If it were to bring an opponents health to 0 it will automatically kill them.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
 -   § Dodgeable
+-   💀 Autogrip
 
  |  |
 | 
