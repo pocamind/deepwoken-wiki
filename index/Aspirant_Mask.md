@@ -1,9 +1,11 @@
 ---
 title: Aspirant Mask
-revid: 226445
+revid: 229371
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Face, Masks]
+categories: [Equipment with Styles, In progress with loot table reason, InProgressPages, Equipment, Face, Masks]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Aspirant Mask
@@ -22,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Deep Widow, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, The Doom of Caeranthil, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Scholar of the Crimson ContractDirect drop from:, Songseeker Flamecharmer, Songseeker Frostdrawer, Songseeker Galebreather, Songseeker Thundercaller |
+| obtainment | Direct drop from:, Songseeker Flamecharmer, Songseeker Frostdrawer, Songseeker Galebreather, Songseeker Thundercaller |
 | description | The belief system of the Songseekers - mendicant warrior-monks and philosophers who dedicate their lives to achieving martial mastery over the Song, - bears rich cultural traditions. Often, they engage in rituals centered around the pondering of great universal mysteries, or the cleansing of the mind, body, and soul. Similarly, the relentless martial trials which take place in the Songseeker Wilds are yet another ritualistic practice. Steady the mind. Steel the body. Purify the soul. Death is but another part of the great cycle - for we all come from the Song, and to the Song we will return. |
 
 ## Description

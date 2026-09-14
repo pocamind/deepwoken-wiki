@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 229315
+revid: 229363
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -906,35 +906,38 @@ All bosses have differing loot tables found here
   <td>
   <ul>
     <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
-    <li><b>Master</b>: <a href="Windrunner_Robes.md">Windrunner Robes</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
+    <li><b>Master</b>: <a href="Justicar's_Armor.md">Justicar's Armor</a>, <a href="Windrunner_Robes.md">Windrunner Robes</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Blessed_Gem.md">Blessed Gem</a>, <a href="Bloodless_Gem.md">Bloodless Gem</a>, <a href="Blue_Gem.md">Blue Gem</a>, <a href="Insignia_Gem.md">Insignia Gem</a>, <a href="Wayward_Gem.md">Wayward Gem</a>, <a href="Wind_Gem.md">Wind Gem</a> (guaranteed)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md"><font>Enchant Stones</font></a></li>
+    <li><b><a href="Items.md">Items</a></b>: <a href="Blessed_Gem.md">Blessed Gem</a>, <a href="Bloodless_Gem.md">Bloodless Gem</a>, <a href="Blue_Gem.md">Blue Gem</a>, <a href="Insignia_Gem.md">Insignia Gem</a>, <a href="Wayward_Gem.md">Wayward Gem</a>, <a href="Wind_Gem.md">Wind Gem</a> (extremely common)</li>
+    <li><b><a href="Relics.md">Relics</a></b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.</li>
+    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.
+  <ul>
     <li>[Note: You can receive any of the exclusive weapons, they just have a very low drop rate after the first kill]
   <ol>
     <li><a href="Cerulean_Thread.md">Cerulean Thread</a> (Light)</li>
     <li><a href="Purple_Cloud.md">Purple Cloud</a> (Medium)</li>
     <li><a href="Pale_Briar.md">Pale Briar</a> (Heavy)</li>
   </ol></li>
+  </ul></li>
     <li><b>Unenchantable Weapons</b>:
   <ol>
-    <li><b>Heavy Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a></li>
+    <li><b>Heavy Weapons</b>: <a href="Crypt_Blade.md">Crypt Blade</a></li>
   </ol></li>
     <li><b>Generic Weapons</b>:
   <ol>
-    <li><b>Medium Weapons</b>: <a href="Katana.md">Alloyed Katana</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
+    <li><b>Light Weapons</b>: <a href="Steelscale_Dusters.md">Steelscale Dusters</a></li>
+    <li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Katana.md">Alloyed Katana</a></li>
     <li><b>Heavy Weapons</b>: <a href="Kanabo.md">Kanabo</a></li>
     <li><b>Hybrid Weapons</b>: <a href="Wyrmtooth.md">Wyrmtooth</a></li>
   </ol></li>
@@ -945,15 +948,17 @@ All bosses have differing loot tables found here
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Blademaster's_Robe.md"><font>Blademaster's Robe</font></a>, <a href="Monastery_Champion_Robes.md"><font>Monastery Champion Robes</font></a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Geta.md"><font>Geta</font></a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Etrean_Sashimono.md"><font>Etrean Sashimono</font></a>, <a href="Monastery_Beads.md"><font>Monastery Beads</font></a></li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Windmill_Ring.md">Windmill Ring</a></li>
+    <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Monastery_Cowl.md">Monastery Cowl</a></li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Blademaster's_Robe.md">Blademaster's Robe</a>, <a href="Monastery_Champion_Robes.md">Monastery Champion Robes</a></li>
+    <li><b><a href="Equipment.md#legs">Legs Equipment</a></b>: <a href="Geta.md">Geta</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Etrean_Sashimono.md">Etrean Sashimono</a>, <a href="Monastery_Beads.md">Monastery Beads</a></li>
+    <li><b><a href="Equipment.md#rings">Rings Equipment</a></b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Deepfire_Ring.md">Deepfire Ring</a>, <a href="Finisher's_Ring.md">Finisher's Ring</a>, <a href="Maestro's_Ring.md">Maestro's Ring</a>, <a href="Moon_Ring.md">Moon Ring</a>, <a href="Prophet's_Ring.md">Prophet's Ring</a>, <a href="Rosen's_Ring.md">Rosen's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Windmill_Ring.md">Windmill Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a></li>
   </ul></td>
 </tr>
 </tbody>
 </table>
+
+  
 
 ## [Parliament](Parliament.md) Loot Table
 
@@ -971,6 +976,38 @@ All bosses have differing loot tables found here
 
 ## [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) Loot Table
 
+### Personal Chest
+
+<table>
+<tbody>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><b><a href="Items.md">Items</a></b>: <a href="Blessed_Gem.md">Blessed Gem</a>, <a href="Bloodless_Gem.md">Bloodless Gem</a>, <a href="Blue_Gem.md">Blue Gem</a>, <a href="Insignia_Gem.md">Insignia Gem</a>, <a href="Wayward_Gem.md">Wayward Gem</a>, <a href="Wind_Gem.md">Wind Gem</a>, <a href="Gale_Stone.md">Gale Stone</a></li>
+    <li><b><a href="Relics.md">Relics</a></b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Stone.md">Stone Enchant Stone</a>, <a href="Storm.md">Storm Enchant Stone</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Unenchantable Weapons</b>:
+  <ol>
+    <li><b>Medium Weapons</b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Imperial_Staff.md">Imperial Staff</a></li>
+  </ol></li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Heavy Weapons</b>: <a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+### Boss Chest
+
 <table>
 <tbody>
 <tr>
@@ -981,8 +1018,8 @@ All bosses have differing loot tables found here
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a> (guaranteed), <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Warden's Armor Piece</font></a>, <a href="Wrath_Gem.md">Wrath Gem</a> (guaranteed)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md"><font>Bluster Enchant Stone</font></a>, <a href="Curse_of_the_Authoritative.md"><font>Curse of the Authoritative Enchant Stone</font></a>, <a href="Windswept.md"><font>Windswept Enchant Stone</font></a></li>
+    <li><b><a href="Items.md">Items</a></b>: <a href="Titus'_Armor_Piece.md">Titus' Armor Piece</a>, <a href="Warden's_Armor_Piece.md">Warden's Armor Piece</a>, <a href="Might_Gem.md">Might Gem</a> (guaranteed), <a href="Wrath_Gem.md">Wrath Gem</a> (guaranteed)</li>
+    <li><b><a href="Relics.md">Relics</a></b>: Bluster Enchant Stone, Curse of the Authoritative Enchant Stone, Windswept Enchant Stone</li>
   </ul></td>
 </tr>
 <tr>
@@ -991,28 +1028,33 @@ All bosses have differing loot tables found here
   <ul>
     <li><b>Unenchantable Weapons</b>:
   <ol>
-    <li><b>Heavy Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></li>
+    <li><b>Medium Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Edenbrand_Hellcoil.md">Edenbrand Hellcoil</a></li>
   </ol></li>
     <li><b>Generic Weapons</b>:
   <ol>
-    <li><b>Light Weapons</b>: <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a></li>
+    <li><b>Light Weapons</b>: <a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></li>
   </ol></li>
-    <li><b>Offhand Weapons</b>: N/A</li>
+    <li><b>Offhand Weapons</b>:</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a>, <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Breeches</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
+    <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Titus's_Cape.md">Titus's Cape</a>, Evansler War Plate, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
+    <li><b><a href="Equipment.md#legs">Legs Equipment</a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Breeches</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
+    <li><b><a href="Equipment.md#face">Face Equipment</a></b>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
+    <li><b><a href="Equipment.md#ears">Ears Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings Equipment</a></b>:</li>
   </ul></td>
 </tr>
 </tbody>
 </table>
+
+  
 
 ## [Scion of Ethiron](Scion_of_Ethiron.md) Loot Table
 

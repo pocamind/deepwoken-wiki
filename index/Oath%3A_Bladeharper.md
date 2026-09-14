@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 228729
+revid: 229385
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -175,7 +175,7 @@ Obtained with the Oath
 -   Deals 31 damage, per hit (1, 2 if in True Strength).
 -   Hits a second time in True Strength, uppercutting the target. This procs Soaring Storm and all other relevant "on uppercut" effects.
 -   Applies [Dazed](Status_Effects.md#daze) on hit.
--   Has a 15x PvE multiplier.
+-   Has a 10x PvE multiplier.
 
  |
 | 
@@ -216,12 +216,15 @@ Defeat the final Mind Reflection
 -   Strikes again in True Strength (four total hits), then the player will teleport to nearby targets, striking with a flurry of slashes that deal 12 total damage (3 slashes that deal 4 damage each).
 -   The teleports in True Strength have a range limit.
 -   Direct hits will **autogrip** Unconscious targets.
+-   Has a 10x PvE multiplier.
 
  |
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
+
+  
 
 ## Strategy
 

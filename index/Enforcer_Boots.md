@@ -1,6 +1,6 @@
 ---
 title: Enforcer Boots
-revid: 221916
+revid: 229384
 source: https://deepwoken.fandom.com/wiki/Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Enforcer (Direct drop) |
+| obtainment | Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Enforcer (Direct drop) |
 | description | ... |
 
 Enforcer Set

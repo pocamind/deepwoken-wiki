@@ -1,9 +1,11 @@
 ---
 title: "Adjudicator's Coat"
-revid: 221104
+revid: 229364
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, In progress with loot table reason, InProgressPages, Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Adjudicator's Coat
@@ -22,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event |
+| obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event |
 | description | ... |
 
 ## Description

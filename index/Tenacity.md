@@ -1,6 +1,6 @@
 ---
 title: Tenacity
-revid: 229229
+revid: 229391
 source: https://deepwoken.fandom.com/wiki/Tenacity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Shields, Offhand]

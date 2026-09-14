@@ -1,9 +1,11 @@
 ---
 title: "Assassin's Cloak"
-revid: 228490
+revid: 229372
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, In progress with loot table reason, InProgressPages, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Assassin's Cloak
@@ -24,7 +26,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Tale
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aelita, The Ferryman (Winter), Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Primadon, Elder Primadon, Cloaked Assassins, Carnival of Hearts, War Mode |
+| obtainment | Aelita, The Ferryman (Winter), Cloaked Assassins (direct drop), Carnival of Hearts |
 | description | ... |
 
 Assassin Set

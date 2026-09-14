@@ -1,9 +1,11 @@
 ---
 title: Authority Helm
-revid: 223620
+revid: 229374
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Equipment with Styles, Equipment, Head, Helmets, Drops, Equipment of The Central Authority, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Authority Faction Item, Equipment with Styles, In progress with loot table reason, InProgressPages, Equipment, Head, Helmets, Drops, Equipment of The Central Authority, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Authority Helm
@@ -23,7 +25,7 @@ categories: [Authority Faction Item, Equipment with Styles, Equipment, Head, Hel
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, War Mode, Primadon, Titan of the East, Elder Primadon, The Titan WarlordDrops from:, Authority Commanders, Authority Officers, Authority PeacekeepersOther:, Authority Ensign (given on spawn) |
+| obtainment | Drops from:, Authority Commanders, Authority Officers, Authority PeacekeepersOther:, Authority Ensign (given on spawn) |
 | description | The standard-issue helmet of the Central Authority. The bearer's identity is stripped away, leaving only a faceless soldier in service of the world's salvation under the guiding hand of Sovereign Drallis Ehr, Overseer of Epochs. None have ever seen the true face of Lumen's Savior, and so too are his proxy's faces shrouded. Truly, the world is only illuminated by the will and grace of the Sovereign of Ages. Within this dark a blazing light. |
 
 ## Description

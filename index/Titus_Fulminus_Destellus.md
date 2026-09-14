@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 229244
+revid: 229360
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Humanoid Bosses, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -374,17 +374,45 @@ Avoid
 
 Titus drops a variety of unique items that cannot be found elsewhere.
 
-You are guaranteed to get 1 [Wrath Gem](Wrath_Gem.md) and [Might Gem](Might_Gem.md) for every time you defeat Titus Fulminus Destellus.
+You are guaranteed to get 1 [Wrath Gem](Wrath_Gem.md) and [Might Gem](Might_Gem.md) in the Boss Chest for every time you defeat Titus Fulminus Destellus.
 
-In addition to his unique chest (see below for the table), an additional chest is rewarded for each participating player, dropping at their feet. This chest can include:
+In addition to his boss chest (see below for the table), an additional _personal_ chest is rewarded for each participating player, dropping at their feet. You do not need to deal damage to Titus to get this chest. This chest can include:
 
--   [Weapons](Weapons.md): [Imperator's Edge](<Imperator's_Edge.md>), [Imperial Staff](Imperial_Staff.md), [Summer Hullwrecker](Summer_Hullwrecker.md).
--   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Moonseye Tomes](Moonseye_Tome.md), [Smith's Alloys](<Smith's_Alloy.md>), [Idol of Yunshul](<Idol_of_Yun'Shul.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
--   [Items](Items.md): [Deep Gems](Deep_Gems.md), [Gale Stones](Gale_Stone.md).
+This info has been transcluded from [a different page](Loot_Tables.md#titus-fulminus-destellus). Visit the transcluded page to edit this info.
 
-### 
+  
 
-Unique Loot Table
+### Personal Chest
+
+<table>
+<tbody>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><b><a href="Items.md">Items</a></b>: <a href="Blessed_Gem.md">Blessed Gem</a>, <a href="Bloodless_Gem.md">Bloodless Gem</a>, <a href="Blue_Gem.md">Blue Gem</a>, <a href="Insignia_Gem.md">Insignia Gem</a>, <a href="Wayward_Gem.md">Wayward Gem</a>, <a href="Wind_Gem.md">Wind Gem</a>, <a href="Gale_Stone.md">Gale Stone</a></li>
+    <li><b><a href="Relics.md">Relics</a></b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Stone.md">Stone Enchant Stone</a>, <a href="Storm.md">Storm Enchant Stone</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Unenchantable Weapons</b>:
+  <ol>
+    <li><b>Medium Weapons</b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Imperial_Staff.md">Imperial Staff</a></li>
+  </ol></li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Heavy Weapons</b>: <a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+### Boss Chest
 
 <table>
 <tbody>
@@ -396,46 +424,43 @@ Unique Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Warden's Armor Piece</font></a>, <a href="Wrath_Gem.md">Wrath Gem</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
+    <li><b><a href="Items.md">Items</a></b>: <a href="Titus'_Armor_Piece.md">Titus' Armor Piece</a>, <a href="Warden's_Armor_Piece.md">Warden's Armor Piece</a>, <a href="Might_Gem.md">Might Gem</a> (guaranteed), <a href="Wrath_Gem.md">Wrath Gem</a> (guaranteed)</li>
+    <li><b><a href="Relics.md">Relics</a></b>: Bluster Enchant Stone, Curse of the Authoritative Enchant Stone, Windswept Enchant Stone</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Unique Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a>, <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a></li>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
-    <li><b>Legendary Weapons</b>: N/A</li>
-    <li><b>Alloyed Weapons</b>: N/A</li>
+    <li><b>Unenchantable Weapons</b>:
+  <ol>
+    <li><b>Medium Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Edenbrand_Hellcoil.md">Edenbrand Hellcoil</a></li>
+  </ol></li>
     <li><b>Generic Weapons</b>:
   <ol>
-    <li><b>Light Weapons</b>: N/A</li>
-    <li><b>Medium Weapons</b>: N/A</li>
-    <li><b>Heavy Weapons</b>: N/A</li>
+    <li><b>Light Weapons</b>: <a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></li>
   </ol></li>
-    <li><b>Offhand Weapons</b>: N/A</li>
+    <li><b>Offhand Weapons</b>:</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
-  <ol>
-    <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Breeches</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>: N/A</li>
+    <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Titus's_Cape.md">Titus's Cape</a>, Evansler War Plate, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
+    <li><b><a href="Equipment.md#legs">Legs Equipment</a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Breeches</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
+    <li><b><a href="Equipment.md#face">Face Equipment</a></b>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
+    <li><b><a href="Equipment.md#ears">Ears Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings Equipment</a></b>:</li>
   </ul></td>
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Dialogue
 

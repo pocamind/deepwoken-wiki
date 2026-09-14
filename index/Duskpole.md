@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 228992
+revid: 229352
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Hollow, Duke Ishamon Erisia, Sea Events, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Voidwalker Bounties, Minityrsa |
+| obtainment | Chests from:, Saramaed Hollow, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest, Bounties, Minityrsa |
 | description | ... |
 
 ## Description
