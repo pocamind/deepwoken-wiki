@@ -1,6 +1,6 @@
 ---
 title: Etris (Vow of Iron)
-revid: 229336
+revid: 229338
 source: https://deepwoken.fandom.com/wiki/Etris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Territory of Etrea]
@@ -37,13 +37,13 @@ Etris is a much more dastardly location in [Vow of Iron](Vow_of_Iron.md), with i
 
 ## Points of Interest
 
-### Chef Buongustino's Abandoned Kitchen
+### Buongustino's Abandoned Kitchen
 
--   Chef Buongustino's abandoned kitchen since Etris was no place for business at the time.
+-   [Chef Buongustino](Chef_Buongustino.md)'s abandoned kitchen.
 
 ### Guildhall
 
--   Players can still start a Guild when they reach [Power](Power.md) 5 by talking to the [Guild Clerk](Guild_Clerk.md).
+-   Players can still start a Guild by talking to the [Guild Clerk](Guild_Clerk.md) when they reach [Power](Power.md) 5.
 
   
 

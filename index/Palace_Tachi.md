@@ -1,6 +1,6 @@
 ---
 title: Palace Tachi
-revid: 228762
+revid: 229345
 source: https://deepwoken.fandom.com/wiki/Palace_Tachi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons of The Ministry, Weapons of Etrea]
@@ -15,7 +15,7 @@ categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique
 | requirements | 80 MED, LVL 10 |
 | damage | 22.5 |
 | scaling | MED: 6.5 |
-| posture damage | 5 |
+| posture damage | 5.5 |
 | range | 8 Sweep |
 | swing speed | 0.93x |
 | attack duration | 0.7s |

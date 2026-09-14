@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229219
+revid: 229347
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -7314,12 +7314,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Rending Needle
 
 -   _Needleblade_ \[Rare Talent, Ironsing, Weapon\] - If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your [Metal Armament](Ironsing.md#metal-armament) stronger while the weapon is equipped.
-    -   Equips the [Metal Greatsword](Metal_Greatsword.md) weapon on proc.
+    -   Equips the [Metal Greatsword](Metal_Greatsword.md) weapon on proc. Your enchantments and quality stars on your original weapon carry over.
     -   Having Metal Greatsword equipped increases your Metal Armament damage by 50%.
     -   Metal Greatsword lasts a maximum of 30 seconds before reverting to your original weapon.
-    -   Maximum amount of Iron Rods you can apply to a single target is 5.
     -   Prerequisites: 90 Ironsing, 90 Weapon (90 Medium // 90 Light // 90 Heavy)
-    -   Mutual Exclusive: Gilded Path: Scrapsinger
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\], they're dealt with their element back in return.
     -   Works as default path with exception of applying a Conductor rod after 5 normal metal rods are applied.
@@ -7556,7 +7554,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Gilded Path: Scrapsinger \[Common Talent, Ironsing\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
     -   Your Ironsing Mantras/abilities, Ironsing legendary weapons, and Metal Rods are now yellow.
     -   Prerequisite: 35 Ironsing
-    -   Mutual Exclusive: [Needleblade](#needleblade)
 
 -   Artisan's Blade \[Common Talent, Ironsing\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
     -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 × (1 + 0.005 × Ironsing investment). They deal 4.5 posture damage each if blocked. Their damage cannot be modified.
@@ -7565,24 +7562,24 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Parrying Artisan's blade gives brief Auto Parry frames.
     -   Pulling rods normally also procs this Talent.
     -   Artisan Blades have an individual 20 second duration.
-    -   "Metal infused" attacks are [Ignition Deepcrusher](Ignition_Deepcrusher.md) M1s and critical attack, [Iron Requiem](Iron_Requiem.md) unloaded M1s and critical attacks.
-    -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
+    -   "Metal infused attack" refers to any attack that deals Ironsing damage.
+    -   Prerequisites: [Gilded Path: Scrapsinger](#gilded-path-scrapsinger), 45 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing\] - Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
     -   Increases Artisan's Blades damage by 1.5x, additionally Artisan's Blades will apply 1 rod per each hit.
-    -   Prerequisites: Artisan's Blade, 60 Ironsing
+    -   Prerequisites: [Artisan's Blade](#artisans-blade), 60 Ironsing
 
 -   Refine and Reuse \[Common Talent, Ironsing\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
-    -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
+    -   Prerequisites: [Gilded Path: Scrapsinger](#gilded-path-scrapsinger), 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing\] - Your weapon criticals will now activate scrapsinger.
-    -   Prerequisites: Gilded Path: Scrapsinger, 50 Ironsing
+    -   Prerequisites: [Gilded Path: Scrapsinger](#gilded-path-scrapsinger), 50 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
     -   Increases the armor **drain** effect of your rods by 25%, from 2% drain to 2.5%.
     -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
     -   Your Scrapsinger proc vfx is changed after obtaining this Talent.
-    -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
+    -   Prerequisites: [Gilded Path: Scrapsinger](#gilded-path-scrapsinger), [Artisan's Blade](#artisans-blade), [Masterwork](#masterwork), [Refine and Reuse](#refine-and-reuse),[Songs Unforged](#songs-unforged), 70 Ironsing
 
 ### Septicemia
 

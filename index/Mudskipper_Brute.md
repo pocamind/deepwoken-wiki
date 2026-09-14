@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 225139
+revid: 229340
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -116,6 +116,11 @@ Dodge
 
  |
 
+## Passives
+
+-   **Hardened skin** - Has about ~30% physical resistance.
+-   **Adaptation** - The Mudskipper brute can parry attacks from long range inflicting parry stun to whom it parried.
+
 ## Trivia
 
 -   It was added to the game in the weekly update of April 12th, 2024.
@@ -124,5 +129,4 @@ Dodge
     -   The design could also be influenced by the Bloater from the same game.
     -   Prior to the October 11th 2024 update, Mudskipper Brutes could see through walls. Clickers are known for their hearing.
 -   It will be killed instantly when hit directly by a cannonball.
--   It appears that Mudskipper Brutes can parry projectiles. This has no animation or particle effects but still inflicts parry stun if possible.
 -   In the caves of [Saramaed Hollow](Saramaed_Hollow.md), Mudskipper Brutes will start to fight their spawned Mudskippers and vice versa if they get hit by them too many times. Outside of being funny, this allows the player openings to escape without being chased.
