@@ -1,11 +1,9 @@
 ---
 title: Bloodstarved Hunter
-revid: 228748
+revid: 229328
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Ministry Enemies]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Vow of Iron Exclusive, Ministry Enemies]
 ---
 
 # Bloodstarved Hunter
@@ -30,103 +28,103 @@ This content is not accessible outside of this gamemode.
 
 The Bloodstarved Hunter is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md).
 
-The Bloodstarved Hunter is a [Ganymede](Ganymede.md), wearing a [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>), [Hivelord Mask](Hivelord_Mask.md) (dyed black), and the sleeves of a [Diver's Light Plate](<Diver's_Light_Plate.md>).
+The Bloodstarved Hunter is a [Canor](Canor.md), wearing a [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>), [Hivelord Mask](Hivelord_Mask.md) (dyed black), and the sleeves of a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 
 ## Moveset
 
 The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilizes strings similar to contractors.
 
-<table>
-<tbody>
-<tr>
-  <th>Name/Danger</th>
-  <th>Description</th>
-  <td>Media</td>
-</tr>
-<tr>
-  <td><center><b>Assault</b><br>
-  (★☆☆)</center></td>
-  <td>Performs 3 basic attacks before sending the opponent away with a flourish.<div>
-  <ul>
-    <li>𓆩✧𓆪 Parryable</li>
-    <li>⛊ Blockable</li>
-    <li>§ Dodgeable</li>
-  </ul></div></td>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <td><center><b>Critical</b><br>
-  (★★☆)</center></td>
-  <td>Jim uses the Death Knell critical (identical to <a href="Light's_Final_Toll.md">Light's Final Toll</a>).<div>
-  <ul>
-    <li>𓆩✧𓆪 Parryable</li>
-    <li>⛊ Blockable</li>
-    <li>§ Dodgeable</li>
-  </ul></div></td>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <td><center><b>Revenge</b><br>
-  (★☆☆)</center></td>
-  <td>A quick dash signified by a red-line effect.<div>
-  <ul>
-    <li>𓆩✧𓆪 Parryable</li>
-    <li>⛊ Blockable</li>
-    <li>§ Dodgeable</li>
-    <li>⛧ Teleport</li>
-  </ul></div></td>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <td><center><b>Judgement</b><br>
-  (★★☆)</center></td>
-  <td>Summons a black casting circle before enveloping his target in black tendrils and tearing them apart.
-  <ul>
-    <li>The move will instantly execute if it brings HP to 0.</li>
-  </ul><div>
-  <ul>
-    <li>𓆩✧𓆪 Parryable</li>
-    <li>⛊ Blockable</li>
-    <li>§ Dodgeable</li>
-    <li>💀 Autogrip</li>
-  </ul></div></td>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <td><b>Twincleave</b><p><b>(☆☆☆)</b></p></td>
-  <td><i>User unleashes 2 slashes, the first moving them forward, the second launching them backwards</i><div>
-  <ul>
-    <li>𓆩✧𓆪 Parryable</li>
-    <li>⛊ Blockable</li>
-    <li>§ Dodgeable</li>
-  </ul></div></td>
-  <td></td>
-</tr>
-<tr>
-  <td><b>Exhaustion Strike</b><p><b>(☆☆☆)</b></p></td>
-  <td><i>User pulls their arm back and then transfers their posture damage to their opponent.</i><div>
-  <ul>
-    <li>𓆩✧𓆪 Parryable</li>
-    <li>⛊ Blockable</li>
-    <li>§ Dodgeable</li>
-  </ul></div></td>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <td><b>Table Flip</b><p><b>(☆☆☆)</b></p></td>
-  <td><i>User throws a piece of the ground that goes straight in the direction their character is looking at.</i><div>
-  <ul>
-    <li>𓆩✧𓆪 Parryable</li>
-    <li>⛊ Blockable</li>
-    <li>§ Dodgeable</li>
-  </ul></div></td>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Jim uses the Death Knell critical (identical to [Light's Final Toll](<Light's_Final_Toll.md>)).
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Revenge**  
+(★☆☆)
+
+ | A quick dash signified by a red-line effect.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
+ |
+| 
+
+**Judgement**  
+(★★☆)
+
+ | Summons a black casting circle before enveloping his target in black tendrils and tearing them apart.
+
+-   The move will instantly execute if it brings HP to 0.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
+ |
+| 
+
+**Twincleave**  
+(☆☆☆)
+
+ | _User unleashes 2 slashes, the first moving them forward, the second launching them backwards_
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Exhaustion Strike**
+
+**(☆☆☆)**
+
+ | _User pulls their arm back and then transfers their posture damage to their opponent._
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Table Flip**  
+(☆☆☆)
+
+ | _User throws a piece of the ground that goes straight in the direction their character is looking at._
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
 
 ## Passives
 
 -   Ghost: Becomes briefly invisible after dodging an attack.
-
--   Backstab Immunity: The bloodstarved hunter cannot be backstabbed.

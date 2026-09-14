@@ -3,7 +3,7 @@ title: Enforcer Plate
 revid: 229294
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uncommon, Equipment, Arms, Plates]
+categories: [Equipment, Arms, Plates]
 ---
 
 # Enforcer Plate

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 228760
+revid: 229320
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -894,7 +894,7 @@ _Predict an opponent's attack and reflect it._
 
  | 
 
-Enemy's Attack
+Typeless
 
  | 
 
@@ -1441,7 +1441,7 @@ _Rush down your opponent cutting them apart._
 
  | 
 
-Typeless
+Slash ResistanceSlash
 
  | 
 

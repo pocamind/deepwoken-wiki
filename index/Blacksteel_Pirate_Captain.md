@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 228916
+revid: 229324
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -46,6 +46,7 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
  | Enters a stance before rushing forward and performing a quick upward strike.
 
 -   The Blacksteel Pirate Captain gains true hyperarmor during this attack's entire animation.
+-   The blacksteel Pirate captains benefit from the weapons talent.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -70,7 +71,7 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 **Eclipse Kick**  
 (★★★)
 
- | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
+ | The user performs a hyperarmor, slow axe kick causing nearby opponents to be ragdolled and flung back.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

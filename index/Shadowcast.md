@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 229129
+revid: 229318
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -873,7 +873,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   The Blast Spark variant has a base damage of 14/15.65/17.3/18.95/20.6 per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
 -   Drains 3.32/4.16/5/5.84/6.68 Ether per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
 -   The Blast Spark variant drains 6.64/7.48/8.32/9.16/10 Ether per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
--   Deals 8 posture damage per hit (1, 3 if Multiplying Spark). The Blast Spark variant guardbreaks.
+-   Deals 8 posture damage per hit (1, 3 if Multiplying Spark).
 -   Has a 19 second cooldown.
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
 -   The damage buff can be increased with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
