@@ -1,9 +1,11 @@
 ---
 title: Blindfold
-revid: 223108
+revid: 229422
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, In progress with loot table reason, InProgressPages, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Blindfold
@@ -22,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equ
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Pure Ore Turn-ins, Chime of Conflict, Bounties, Fishing, Meteor Isle, Minityrsa, Ancient Rotlands, Faction Ambushes (Bounty Hunter), Fishing, Songseeker Wilds, Zana's quest |
+| obtainment | Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Minityrsa |
 | description | A tightly wound blindfold to hide the horrors of the world from your waking eyes. |
 
 ## Description

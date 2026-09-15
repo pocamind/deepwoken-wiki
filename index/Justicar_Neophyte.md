@@ -1,6 +1,6 @@
 ---
 title: Justicar Neophyte
-revid: 225484
+revid: 229425
 source: https://deepwoken.fandom.com/wiki/Justicar_Neophyte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Pathfinder Exclusive, Outfits, Justicars]
@@ -17,7 +17,7 @@ categories: [Starter Outfits, Pathfinder Exclusive, Outfits, Justicars]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +15% Physical Armor , +5% Blunt Armor , +15% Elemental Armor |
-| obtainment | Justicar Origin (automatically crafted) |
+| obtainment | Justicar Origin (automatically crafted), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | N/A |
 | weight | N/A |
 

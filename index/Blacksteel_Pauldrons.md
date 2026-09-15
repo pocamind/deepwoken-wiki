@@ -1,9 +1,11 @@
 ---
 title: Blacksteel Pauldrons
-revid: 225342
+revid: 229421
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [In progress with loot table reason, InProgressPages, Equipment, Arms, Pauldrons]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Blacksteel Pauldrons
@@ -23,7 +25,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Saramaed Hollow, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Lodestar Bounty job, Deep WidowDrops from:, Blacksteel Pirates and Blacksteel Pirate Captains |
+| obtainment | Chests from:, Duke Ishamon Erisia, Lodestar Bounty jobDrops from:, Blacksteel Pirates and Blacksteel Pirate Captains |
 | description | ... |
 
 Blacksteel Set

@@ -1,9 +1,11 @@
 ---
 title: Flame Worshipper Armor
-revid: 223254
+revid: 229438
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Flame Worshipper Armor
@@ -20,7 +22,7 @@ categories: [Adept Outfits, Outfits, The Covenant of Flame, Outfits with Talents
 | durability | 1000 |
 | resistances | +10% Physical Armor , +5% Elemental Armor , +25% Fire Armor |
 | talents | Intrepid Flame, One With Flame |
-| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Lodestar Bounty job, Miner's Landing, Faction Ambushes (The Ignition Union)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento (automatically crafted) |
+| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Lodestar Bounty jobVow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

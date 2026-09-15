@@ -1,9 +1,11 @@
 ---
 title: Shadow Hunter
-revid: 223261
+revid: 229444
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Shadow Hunter
@@ -19,7 +21,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exc
 | durability | 1500 |
 | resistances | +10% Physical Armor , +5% Elemental Armor , +10% Shadow Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Sold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
+| obtainment | Sold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

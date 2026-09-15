@@ -1,9 +1,11 @@
 ---
 title: Navaen Nomad Robes
-revid: 223258
+revid: 229441
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, The Children of Navae, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, The Children of Navae, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Navaen Nomad Robes
@@ -20,7 +22,7 @@ categories: [Adept Outfits, Outfits, The Children of Navae, Outfits with Talents
 | resistances | +10% Physical Armor , +10% Blunt Armor , +10% Elemental Armor , +15% Ice Armor , +15% Shadow Armor |
 | buffs | +50% Stealth |
 | talents | Fists of Navae |
-| obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Moon's Eyrie, Minityrsa, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Primadon, Titan of the East |
+| obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Moon's Eyrie, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs |
 | selling_price | 10 |
 | weight | 1 |
 

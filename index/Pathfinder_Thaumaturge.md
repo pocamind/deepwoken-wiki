@@ -1,9 +1,11 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 223260
+revid: 229443
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Pathfinder Thaumaturge
@@ -19,7 +21,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exc
 | durability | 1000 |
 | resistances | +10% Physical Armor , +15% Elemental Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie, Primadon, Vow of Iron:, Sold in Naan Zakshun's black market for4,000 |
+| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's EyrieVow of Iron:, Sold in Naan Zakshun's black market for4,000 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

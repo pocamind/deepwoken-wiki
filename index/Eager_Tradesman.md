@@ -1,9 +1,11 @@
 ---
 title: Eager Tradesman
-revid: 228003
+revid: 229423
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Eager Tradesman
@@ -19,7 +21,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclus
 | durability | 1000 |
 | resistances | +10% Physical Armor , +5% Elemental Armor |
 | talents | Knack |
-| obtainment | Sold by:, Traan Zakshun in Lower Erisia for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Moon's Eyrie, Primadon, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
+| obtainment | Sold by:, Traan Zakshun in Lower Erisia for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | 10 |
 | weight | 1 |
 

@@ -1,9 +1,11 @@
 ---
 title: Blacksteel Helm
-revid: 223004
+revid: 229420
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [In progress with loot table reason, InProgressPages, Equipment, Head, Helmets]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Blacksteel Helm
@@ -23,7 +25,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Chime of Conflict, Heart of Enmity, Dread Serpent, Saramaed HollowDrops from:, Blacksteel Pirate |
+| obtainment | Drops from:, Blacksteel Pirate |
 | description | An imposing helmet made from blackened steel. |
 
 Blacksteel Set

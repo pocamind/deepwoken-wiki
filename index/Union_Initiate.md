@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 223233
+revid: 229430
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Pathfinder Exclusive, Outfits, The Ignition Union]
@@ -17,7 +17,7 @@ categories: [Starter Outfits, Pathfinder Exclusive, Outfits, The Ignition Union]
 | durability | 1500 |
 | resistances | +15% Physical Armor , +5% Elemental Armor |
 | buffs | +10 Carry Load |
-| obtainment | Ignition Delver Origin |
+| obtainment | Ignition Delver Origin (automatically crafted), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | N/A |
 | weight | N/A |
 

@@ -1,9 +1,11 @@
 ---
 title: 11th Legion Plate
-revid: 223289
+revid: 229432
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, The Hundred Legions]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, The Hundred Legions]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # 11th Legion Plate
@@ -19,7 +21,7 @@ categories: [Adept Outfits, Outfits, The Hundred Legions]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +10% Physical Armor , +30% Blunt Armor |
-| obtainment | Sold by Traan Zakshun for 200 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie, Primadon |
+| obtainment | Sold by Traan Zakshun for 200 Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

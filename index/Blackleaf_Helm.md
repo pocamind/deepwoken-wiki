@@ -1,9 +1,11 @@
 ---
 title: Blackleaf Helm
-revid: 223005
+revid: 229419
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [In progress with loot table reason, InProgressPages, Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Blackleaf Helm
@@ -21,7 +23,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Heart of Enmity, War Mode, Lodestar Bounty job, Gold Plate Turn-ins |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Lodestar Bounty job, Gold Plate Turn-ins |
 | description | ... |
 
 ## Description

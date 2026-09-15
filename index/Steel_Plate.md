@@ -1,9 +1,11 @@
 ---
 title: Steel Plate
-revid: 223262
+revid: 229445
 source: https://deepwoken.fandom.com/wiki/Steel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Steel Plate
@@ -20,7 +22,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, "Outfits with Non-exc
 | durability | 1000 Durability |
 | resistances | +5% Physical Armor , +20% Slash Armor , +25% Flamecharm Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
+| obtainment | Chests from: |
 | selling_price | 10 |
 | weight | 1 |
 

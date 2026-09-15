@@ -1,9 +1,11 @@
 ---
 title: Merchant Robes
-revid: 224230
+revid: 229426
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Merchant Robes
@@ -19,7 +21,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclus
 | durability | 1200 |
 | resistances | +10% Physical Armor , +5% Elemental Armor |
 | talents | Merchant's Accord |
-| obtainment | Sold from:, Traan Zakshun's regular shop for 200 , Nyanna for 200 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Moon's Eyrie, Lower Erisia |
+| obtainment | Sold from:, Traan Zakshun's regular shop for 200 , Nyanna for 200 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Moon's Eyrie |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

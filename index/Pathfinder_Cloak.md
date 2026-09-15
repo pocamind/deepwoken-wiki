@@ -1,9 +1,11 @@
 ---
 title: Pathfinder Cloak
-revid: 223259
+revid: 229442
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Pathfinder Cloak
@@ -20,7 +22,7 @@ categories: [Adept Outfits, Outfits, Outfits with Talents, Outfits with Exclusiv
 | durability | 1200 |
 | resistances | +18% Physical Armor , +8% Elemental Armor |
 | talents | Survivalist |
-| obtainment | Sold by Nyanna, Sold near FriidChests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Moon's Eyrie, Primadon, Titan of the East |
+| obtainment | Sold by Nyanna, Sold near FriidChests from:, Moon's Eyrie |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

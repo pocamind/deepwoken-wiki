@@ -1,9 +1,11 @@
 ---
 title: Pathfinder Sorcerer
-revid: 223240
+revid: 229427
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Pathfinder Sorcerer
@@ -20,7 +22,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-e
 | durability | 1000 |
 | resistances | +5% Physical Armor , +10% Elemental Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Primadon |
+| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie |
 | selling_price | 10 |
 | weight | 1 |
 

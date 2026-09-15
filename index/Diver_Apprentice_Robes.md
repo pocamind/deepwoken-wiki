@@ -1,9 +1,11 @@
 ---
 title: Diver Apprentice Robes
-revid: 223251
+revid: 229436
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adept Outfits, Outfits, The Divers]
+categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, The Divers]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Diver Apprentice Robes
@@ -20,7 +22,7 @@ categories: [Adept Outfits, Outfits, The Divers]
 | durability | 1000 |
 | resistances | +10% Physical Armor , +15% Elemental Armor |
 | buffs | +20% Ether Regen |
-| obtainment | Deepbound Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Fishing, Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Deepbound Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests from:, Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

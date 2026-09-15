@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 223234
+revid: 229431
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Pathfinder Exclusive, Outfits, The Knives of Eylis]
@@ -19,7 +19,7 @@ categories: [Starter Outfits, Pathfinder Exclusive, Outfits, The Knives of Eylis
 | durability | 1500 |
 | resistances | +15% Physical Armor , +5% Elemental Armor |
 | buffs | +25% Stealth |
-| obtainment | Voidwalker Origin (automatically crafted) |
+| obtainment | Voidwalker Origin (automatically crafted), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
 | selling_price | N/A |
 | weight | N/A |
 | shirt | Shirt • Pants |

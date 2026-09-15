@@ -1,9 +1,11 @@
 ---
 title: Scholar
-revid: 223241
+revid: 229428
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Scholar
@@ -19,7 +21,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, Outfits with Exclus
 | durability | 1000 |
 | resistances | +8% Physical Armor , +10% Elemental Armor |
 | talents | Scholar's Intuition |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie, PrimadonSold by Traan Zakshun and Nyanna for 200 |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's EyrieSold by Traan Zakshun and Nyanna for 200 |
 | selling_price | 10 |
 | weight | 1 |
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229347
+revid: 229448
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -8236,6 +8236,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning)
         -   If the Overcharmed person has multiple Attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw.
         -   If the Overcharmed person does not have an Attunement, this Talent **will not work**.
+        -   If the Overcharmed person would already proc an elemental effect on a basic attack, like the using an elemental weapon like the Ignition Deepcrusher, the elemental effect will proc twice in total.
     -   Mutual Exclusives: [Tough Love](#tough-love)
     -   Prerequisites: [Charismatic Cast](#charismatic-cast), 40 Intelligence, 80 Charisma
 

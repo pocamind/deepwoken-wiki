@@ -1,9 +1,11 @@
 ---
 title: Hired Mercenary
-revid: 223237
+revid: 229424
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Starter Outfits, Outfits]
+categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits]
+notices:
+  - This page is currently being worked on. Drop table information about this item is currently under maintenance. Please be patient.
 ---
 
 # Hired Mercenary
@@ -18,7 +20,7 @@ categories: [Starter Outfits, Outfits]
 | droppable | Yes |
 | durability | 1000 |
 | resistances | +15% Physical Armor , +10% Elemental Armor |
-| obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular stock 80 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Lodestar Bounty job, Primadon (extremely rare)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular stock 80 Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Lodestar Bounty jobVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

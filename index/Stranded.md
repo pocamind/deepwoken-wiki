@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 227028
+revid: 229429
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Outfits]
@@ -14,7 +14,7 @@ categories: [Starter Outfits, Outfits]
 | tier | Starter |
 | bankable | Yes |
 | droppable | Yes |
-| obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted)Vow of Iron:, Breaker Memento, Sightless Memento, Steampunk Soldier Memento, Void Glutton Memento |
+| obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Vow of Iron:, Breaker Memento, Sightless Memento, Steampunk Soldier Memento, Void Glutton Memento |
 | selling_price | N/A |
 | weight | N/A |
 | shirt | Shirt • Pants |
