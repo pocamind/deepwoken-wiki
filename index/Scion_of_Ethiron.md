@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 228858
+revid: 229408
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -294,7 +294,7 @@ This list may be missing items, please help us by filling in the gaps.
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Kyrsmas_Hat.md"><font>Kyrsmas Hat</font></a> (only obtainable during <a href="Kyrsmas.md">Kyrsmas</a>, Deepwoken's Christmas event).</li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Kyrsmas_Hat.md"><font>Kyrsmas Hat</font></a> (exceedingly rare outside of Kyrsmas, Deepwoken's Christmas event.)</li>
     <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
   <ol>
     <li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li>

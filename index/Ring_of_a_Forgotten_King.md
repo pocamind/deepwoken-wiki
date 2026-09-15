@@ -1,6 +1,6 @@
 ---
 title: Ring of a Forgotten King
-revid: 227059
+revid: 229395
 source: https://deepwoken.fandom.com/wiki/Ring_of_a_Forgotten_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Equipment, Rings, Named Items]
@@ -34,3 +34,4 @@ All players that revealed their ownership of the ring caused it to wither into [
 ## Trivia
 
 -   The ring's texture came from [Rock Golems](Rock_Golem.md).
+    -   This was confirmed by Agamatsu to be a development error, as it was intended to have its own texture, but he had forgotten to have one designed.

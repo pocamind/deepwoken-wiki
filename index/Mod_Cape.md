@@ -1,9 +1,9 @@
 ---
 title: Mod Cape
-revid: 229228
+revid: 229405
 source: https://deepwoken.fandom.com/wiki/Mod_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Equipment, Head, Hats]
+categories: [Equipment with Styles, Exclusive, Equipment, Head, Hats]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -16,6 +16,8 @@ notices:
 | rarity | Unique |
 | selling price | Unsellable |
 | weight | 0.5 |
+| styles | Fleece, Fur, Leather, Unblemished |
+| innate stats | None |
 | bankable | Yes |
 | droppable | No |
 | enchantable | No |

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 229202
+revid: 229406
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -3293,15 +3293,22 @@ _+Talent: [**Wormwarder**](Talents.md#wormwarder)_
 
  | Styles:  
 Frontier & Furnace |
+|  | [Destroyman Chain](Destroyman_Chain.md)  
+(**Unobtainable**) | _+3.1% Physical Armor_
+
++1 Rare Pip  
++1 Legendary Pip
+
+ | N/A |
+|  | [Mod Cape](Mod_Cape.md)  
+(**Unobtainable**) | N/A | Styles:  
+Fleece, Fur, Leather & Unblemished |
 |  | [Tied Tie](Tied_Tie.md)  
 (**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
 
  | N/A |
-|  | [Mod Cape](Mod_Cape.md)  
-(**Unobtainable**) | N/A | Styles:  
-Fur, Leather, Fleece & Unblemished |
 
 **Face:**
 

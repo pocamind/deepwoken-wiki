@@ -745,7 +745,7 @@
   },
   "2442": {
     "title": "Curved Blade of Winds",
-    "lastrevid": 228823
+    "lastrevid": 229410
   },
   "2444": {
     "title": "Shattered Katana",
@@ -1285,7 +1285,7 @@
   },
   "3341": {
     "title": "Bosses",
-    "lastrevid": 227088
+    "lastrevid": 229413
   },
   "3343": {
     "title": "Iron Cestus",
@@ -1333,7 +1333,7 @@
   },
   "3461": {
     "title": "Varicosa District",
-    "lastrevid": 228870
+    "lastrevid": 229416
   },
   "3462": {
     "title": "The City of the Drowned",
@@ -2117,7 +2117,7 @@
   },
   "5126": {
     "title": "Equipment",
-    "lastrevid": 229202
+    "lastrevid": 229406
   },
   "5135": {
     "title": "Discussion Moderators",
@@ -2417,7 +2417,7 @@
   },
   "5863": {
     "title": "Scion of Ethiron",
-    "lastrevid": 228858
+    "lastrevid": 229408
   },
   "5877": {
     "title": "Elykris",
@@ -5521,7 +5521,7 @@
   },
   "16843": {
     "title": "Providence's Thorns",
-    "lastrevid": 217989
+    "lastrevid": 229417
   },
   "16844": {
     "title": "Sear",
@@ -8017,7 +8017,7 @@
   },
   "21625": {
     "title": "Zi'eer, the Fourth Prophet",
-    "lastrevid": 228739
+    "lastrevid": 229397
   },
   "21634": {
     "title": "Sachan Shisui Kobura",
@@ -8145,7 +8145,7 @@
   },
   "21770": {
     "title": "Prince of the Moon",
-    "lastrevid": 229276
+    "lastrevid": 229415
   },
   "21777": {
     "title": "Ishmael",
@@ -8529,7 +8529,7 @@
   },
   "22639": {
     "title": "Destroyman Chain",
-    "lastrevid": 227326
+    "lastrevid": 229407
   },
   "22640": {
     "title": "Wolf",
@@ -9109,7 +9109,7 @@
   },
   "23945": {
     "title": "The Endless Wave",
-    "lastrevid": 229269
+    "lastrevid": 229400
   },
   "23969": {
     "title": "Captain Greene",
@@ -9157,7 +9157,7 @@
   },
   "24239": {
     "title": "Knell, The Lunatic Resonator",
-    "lastrevid": 228857
+    "lastrevid": 229393
   },
   "24240": {
     "title": "Arkasid",
@@ -9733,7 +9733,7 @@
   },
   "26380": {
     "title": "Ring of a Forgotten King",
-    "lastrevid": 227059
+    "lastrevid": 229395
   },
   "26390": {
     "title": "A ring lost to time",
@@ -9801,7 +9801,7 @@
   },
   "26553": {
     "title": "Bejeweled Clip",
-    "lastrevid": 229308
+    "lastrevid": 229414
   },
   "26587": {
     "title": "Amedan Temple",
@@ -9813,7 +9813,7 @@
   },
   "26615": {
     "title": "Mod Cape",
-    "lastrevid": 229228
+    "lastrevid": 229405
   },
   "26620": {
     "title": "Strange Symbol",
@@ -9822,5 +9822,9 @@
   "26622": {
     "title": "Shrine of the Moonseye",
     "lastrevid": 229261
+  },
+  "26638": {
+    "title": "Spotlight",
+    "lastrevid": 229402
   }
 }

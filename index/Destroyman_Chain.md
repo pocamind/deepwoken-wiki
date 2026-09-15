@@ -1,6 +1,6 @@
 ---
 title: Destroyman Chain
-revid: 227326
+revid: 229407
 source: https://deepwoken.fandom.com/wiki/Destroyman_Chain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Necklaces]

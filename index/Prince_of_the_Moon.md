@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 229276
+revid: 229415
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -42,7 +42,6 @@ A visual feature this memento bears are that your skin is always pale white, wit
 #### NOTES:
 
 -   **If you unequip your [Soulthorn](Soulthorn.md), you will not be able to re-equip it.**
--   **This Memento permanently gives you Tier 1 Insanity.**
 
 ## Starting Abilities
 

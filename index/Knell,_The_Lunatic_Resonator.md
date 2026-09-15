@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 228857
+revid: 229393
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
@@ -235,6 +235,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 ## Passives
 
 -   **Maniac's Hysteria** - Getting hit by Knell's moves decreases your sanity.
+-   **Thorn Guard** - Knell is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
     
 
 ## Drops
