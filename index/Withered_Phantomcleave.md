@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 228840
+revid: 229453
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Legendary Weapons, Reforged Weapons]

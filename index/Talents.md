@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229448
+revid: 229456
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3393,7 +3393,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Night Terror** \[Common Talent\] - Your light attacks now proc [Fear the Dark](#fear-the-dark).
     -   Despite its description, this Talent applies the [Fear the Dark](Status_Effects.md#fear-the-dark) status for 1 second with no cooldown (they are not required to run away from you).
     -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker](Oath%253A_Dawnwalker.md)'s [Absolute Radiance](#absolute-radiance).
-    -   Also procs on weapon criticals.  
+    -   Also procs on weapon criticals. Doesn't require said critical to have the m1 tag.  
         
     -   Prerequisites: [Fear the Dark](#fear-the-dark), 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy)  
         
@@ -3402,7 +3402,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   **Night Terror** \[Common Talent\] - Your light attacks now proc [Fear the Dark](#fear-the-dark).
     -   Despite its description, this Talent applies the [Fear the Dark](Status_Effects.md#fear-the-dark) status for 1 second with no cooldown (they are not required to run away from you).
     -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker](Oath%253A_Dawnwalker.md)'s [Absolute Radiance](#absolute-radiance).
-    -   Also procs on weapon criticals.  
+    -   Also procs on weapon criticals. Doesn't require said critical to have the m1 tag.  
         
     -   Prerequisites: [Fear the Dark](#fear-the-dark), 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy)  
         

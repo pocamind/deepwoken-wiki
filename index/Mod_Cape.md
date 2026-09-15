@@ -1,9 +1,9 @@
 ---
 title: Mod Cape
-revid: 229405
+revid: 229460
 source: https://deepwoken.fandom.com/wiki/Mod_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Exclusive, Equipment, Head, Hats]
+categories: [Equipment with Styles, Exclusive, Equipment, Torso, Capes]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
