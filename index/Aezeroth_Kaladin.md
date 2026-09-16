@@ -1,6 +1,6 @@
 ---
 title: Aezeroth Kaladin
-revid: 225503
+revid: 229476
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -8,7 +8,7 @@ categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 
 # Aezeroth Kaladin
 
-| Aezeroth Kaladin | |
+| Aesalath Kaladin | |
 |---|---|
 | name | Aesalath Kaladin |
 | species | Kyrsan |
