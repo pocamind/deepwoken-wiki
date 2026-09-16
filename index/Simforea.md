@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 229180
+revid: 229479
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -38,6 +38,7 @@ Rough location of simforea, marked off the map
 
 -   Simforea likely derives from the word sinfonia, the Italian word for symphony.
 -   Many pieces of text on the island are written in [Gatherhand](Gatherhand.md), a writing system used to transcribe the [common](Common.md) language in the world of Deepwoken.
+-   This area has a relatively common chance to drop [Idol of Yun'Shuls](<Idol_of_Yun'Shul.md>) in chests.
 
 ## References
 
