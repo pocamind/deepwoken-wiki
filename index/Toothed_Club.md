@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 228898
+revid: 229482
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Clubs, Medium Weapons]
@@ -45,7 +45,7 @@ The **Toothed Club** is a medium blunt club type weapon. It is not recommended t
 
 Equipping the Toothed Club grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Embedded Nails**](Talents.md#embedded-nails) applies the [Clumsy](Status_Effects.md#clumsy) status effect for 8 seconds whenever your opponent dodges your Critical Attack. If your opponent uses their second dodge after a dodge cancel while Clumsy, they will be [Ragdolled](Status_Effects.md#ragdoll) instead.
+[**Embedded Nails**](Talents.md#embedded-nails) applies the [Clumsy](Status_Effects.md#clumsy) status effect for 8 seconds whenever your opponent dodges your Critical Attack. If your opponent uses a dodge cancel while Clumsy, they will be briefly [Ragdolled](Status_Effects.md#ragdoll) instead.
 
 ## Critical
 

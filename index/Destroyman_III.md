@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 229477
+revid: 229483
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -60,6 +60,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   Every good thing that happens to you in this game is preplanned like a show. There's an audience waiting for your downfall.
 -   Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
 -   Flamecharm? Daring today, aren't we?
+-   Hello again! My name is Destroyman III. Did you know you have rights? The law says you do... What law? Oh, don't worry about it.
 -   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
 -   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret eighth attunement.
 -   HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.

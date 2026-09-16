@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229469
+revid: 229481
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -7029,7 +7029,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey (H).
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
-    -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
+    -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 12.5% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Will also combat tag anybody hit.
     -   Can movestack with M1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-Mantra skills by casting them during the animation.
     -   Waring the [Broodplate Helmet](Broodplate_Helmet.md) makes Ardour Scream apply 100% [Anti-Heal](Status_Effects.md#anti-heal) for its full duration, via the [Broodlord's Scream](#broodlords-scream) Talent.
