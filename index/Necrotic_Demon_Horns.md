@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 228359
+revid: 229467
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -30,7 +30,7 @@ Variants: [Flame Demon Horns](Flame_Demon_Horns.md)
 
 The Necrotic Demon Horns is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category.
 
-The [Mindspark](Talents.md#mindspark) Talent grants +0.0205 flat damage to each burn tick for every 1% Sanity you've lost, capping at +2.05 damage at 0% Sanity.
+The [Mindspark](Talents.md#mindspark) Talent increases [Burn](Status_Effects.md#burn) damage by 0.55% for every 1% [Sanity](Insanity.md) lost, capping at +55% burn damage at 0% Sanity.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229456
+revid: 229469
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -9748,7 +9748,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Mindspark: [Necrotic Demon Horns](Necrotic_Demon_Horns.md) & [Flame Demon Horns](Flame_Demon_Horns.md) - The damage of your flames scale with how insane you are.
     
     -   Your burn damage is increased based on how low your [Sanity](Insanity.md) is.
-    -   Grants +0.0205 flat damage to each burn tick, for every 1% Sanity you've lost, capping at +2.05 damage at 0% Sanity.
+    -   Grants a +0.55% damage buff to your Burn for every 1% Santy lost, capping at +55% damage at 0% Sanity.
 
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) & [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
     -   Grants a random buff or affliction whenever you spit or use an emote.
