@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 226004
+revid: 229495
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -322,7 +322,19 @@ The following quests grant the _Curiosity_ Talent hand on top of their other rew
 
 ### Miscellaneous
 
-The following quests do not grant Bravery, Compassion, nor Curiosity, but often grant more tangible rewards, such as EXP, items, or Talents.
+The following quests do not grant Bravery, Compassion, nor Curiosity, but often grant more tangible rewards, such as EXP and items.
+
+#### Ditch the Rags
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest location</b>: <a href="Etris.md">Etris</a> or <a href="Isle_of_Vigils.md">Isle of Vigils</a><br>
+  </p>
+  <p><b>Guide</b>: This quest is only available if a character is created with the <a href="Castaway.md">Castaway</a> <a href="Origins.md">Origin</a>. To complete this quest, simply craft the <a href="Traveller's_Jacket.md">Traveller's Jacket</a> from any <a href="Blacksmith.md">Blacksmith</a>.</p></div></td>
+</tr>
+</tbody>
+</table>
 
 #### Duke of Sin
 

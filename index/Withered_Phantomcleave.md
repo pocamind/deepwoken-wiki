@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 229453
+revid: 229494
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Legendary Weapons, Reforged Weapons]
@@ -55,3 +55,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   This weapon is very likely a reference to the [Darkdrift](https://darksouls3.wiki.fextralife.com/Darkdrift) from _Dark Souls 3_, with both weapons being a nearly transparent-bladed Katana with a unique trait (or Weapon Art in Darkdrift's case) that bypass block.
 -   Though classified as a Katana, [Poser's Ring](<Poser's_Ring.md>) and [Paired Soul](Talents.md#paired-soul) do not apply any of their effects when using this weapon.
+-   Once the Phantom talent has procced it stays active until the 5 seconds has passed even if you swap your weapon with [Silentheart](Oath%253A_Silentheart.md) or [Crazy slots](Crazy_Slots.md).
