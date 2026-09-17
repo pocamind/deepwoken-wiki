@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229481
+revid: 229484
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -378,9 +378,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Overflowing Dam_ \[Rare Talent\] - Having full [Ether](Ether.md) for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
-        -   For [Warlock's](<Warlock's_Mantle.md>) and [Ether Refined Mantle](Ether_Refined_Mantle.md), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.
-    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.  
-        
+        -   For [Warlock's](<Warlock's_Mantle.md>) and [Ether Refined Mantle](Ether_Refined_Mantle.md), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.  
+            
     -   Prerequisites: 40 Intelligence  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Warlock's Mantle](<Warlock's_Mantle.md>), [Ether Refined Mantle](Ether_Refined_Mantle.md), [Sorcerer's Mantle](<Sorcerer's_Mantle.md>)  
@@ -389,9 +388,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Overflowing Dam** \[Rare Talent\] - Having full [Ether](Ether.md) for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
-        -   For [Warlock's](<Warlock's_Mantle.md>) and [Ether Refined Mantle](Ether_Refined_Mantle.md), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.
-    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.  
-        
+        -   For [Warlock's](<Warlock's_Mantle.md>) and [Ether Refined Mantle](Ether_Refined_Mantle.md), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.  
+            
     -   Prerequisites: 40 Intelligence  
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Warlock's Mantle](<Warlock's_Mantle.md>), [Ether Refined Mantle](Ether_Refined_Mantle.md), [Sorcerer's Mantle](<Sorcerer's_Mantle.md>)  

@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 228922
+revid: 229487
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -44,12 +44,15 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
 -   Autogrips players if they are knocked.
 -   If the player is guardbroken through this attack, they will not be poisoned.
 -   Depending on the variant this attack will **go through dodge** unless you have talents like [Ghost](Talents.md).
--   This attack has 2 variants one is a simple launch of one of its tendrils towards a player the second variant will hold the player in place dealing higher poison and massive damage being able to partially bypass [Payback](Payback.md)
+-   This attack has 2 variants one is a simple launch of one of its tendrils towards a player the second variant will hold the player in place.
+-   Deals typeless damage. The stronger variant has 4 hits dealing a total of ~160 damage. Base variant deals about ~54 typeless.
+-   Can target those within [Murmur: Tacet](Murmur%253A_Tacet.md)
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
 -   § Dodgeable
 -   ✴︎ Pull
+-   💀 Autogrip
 
  |
 | 
@@ -102,6 +105,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
  | The Parasol sends a current of electricity across its tendrils, shocking targets that are within the area of a tendril.
 
 -   This move is only used when it has Parasol Planting.
+-   Deals ~80 [Thundercall](Thundercall.md) damage, applying shock on hit.
 
 _Uses Telegraph_
 
@@ -124,6 +128,7 @@ Jump
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 
@@ -199,6 +204,7 @@ Exhaustive Loot Table
 -   Having a wall to protect you is almost entirely necessary, as it allows you to deal significant damage without getting hit.
 -   The chests may sometimes spawn in a different location than where the boss was defeated.
 -   if not enough players are in range it will often resort to targeting monsters that the Parasol spawned, although this is confirmed to be a bug.
+-   A weapon with an AOE critical attack like the [Pale Briar](Pale_Briar.md) and [Vampirism](Vampirism.md) may prove useful as it can target multiple tendrils giving you more temporary health faster.
 
 ## Trivia
 

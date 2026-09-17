@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 229102
+revid: 229488
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -37,6 +37,6 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 -   The PvE targets can be allied or player summons, though the proc chance is still very low in PvE. Additionally, you can proc this enchantment on a PvE target while in a PvP combat tag.
     -   Notably, summons from [Lightning Clones](Thundercall.md#lightning-clones), [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me), [The Weaving Web](The_Weaving_Web.md)'s critical attack, and ironically **Parasol's Blight** can be hit by the caster in attempt to summon a monster.
 -   [Lightning Clones](Thundercall.md) are exempt from needing to be hit with a basic attack as [mantras](Mantras.md) or [venting](Combat_Mechanics.md) will have the same chance to summon a mob
--   The enemies do not need to be killed through manually.
+-   The enemies do not need to be killed through manually, as auto grips will summon a mob.
 -   You cannot apply the Parasol's Blight status effect to already Unconscious opponents.
 -   The monsters summoned count as 'summons' for the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), healing you when they deal damage.
