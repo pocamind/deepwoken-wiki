@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 225033
+revid: 229498
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths, Central Authority defectors]
@@ -108,6 +108,7 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 ## Trivia
 
 -   When hovering over his [Combat Tag](Combat_Tag.md), his name is displayed as "Kaido Leshi".
+-   Upon execution, Emar Vend will say "They'll destroy everything, you fool!"
 
 ## References
 

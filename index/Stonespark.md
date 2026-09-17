@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 226785
+revid: 229499
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Monsters]
 | health | 1000 |
 | attacks | Punch, Heavy Punch, Finisher: Laser Detonate |
 | drops | Golem Chunk, Treasures |
-| locations | Lower Erisia, Pathfinder's Respite, The Garden Reservoir |
+| locations | Lower Erisia, The Garden Reservoir |
 | challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -78,12 +78,10 @@ Stonesparks are a mob that can be found deployed throughout [Erisia](Erisia.md),
 
 ## Trivia
 
--   You can find a high amount of Stonesparks around the [Pathfinder's Respite](<Pathfinder's_Respite.md>).
 -   When not in combat Stonesparks enter a dormant state by kneeling down and deactivating.
 -   [Marcus](Marcus.md), located in [The Hidden Village](The_Hidden_Village.md), is the only known passive Stonespark.
     -   Marcus was in the game for a significant amount of time before the addition of hostile Stonesparks.
 -   Stonesparks can block and get guard broken.
--   When attempting to save a player being gripped by a Stonespark, the player saved will be stuck in the air unable to move after being saved unless they leave the game. (bug)
 
 ## References
 
