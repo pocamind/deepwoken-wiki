@@ -1,6 +1,6 @@
 ---
 title: Guard Turrets
-revid: 228348
+revid: 229531
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,35 +28,35 @@ The arrow projectiles deal 10 true damage per hit, attacking in two-shot bursts.
 
 ### Light Orb
 
-Located at [Castle Light](Castle_Light.md) [Diversiconfaction](The_Divers.md) and the entrance of Castle Light in the [Light's Causeway](<Light's_Causeway.md>) [Diversiconfaction](The_Divers.md), the light orbs are, as the name suggests, floating orbs of light. They lock-on to a target, and fire after a short delay. These turrets are **very** close together and havy high range, allowing them to all simultaneously attack the same enemy.
+Located at [Castle Light](Castle_Light.md) [Diversiconfaction](The_Divers.md) and the entrance of Castle Light in the [Light's Causeway](<Light's_Causeway.md>) [Diversiconfaction](The_Divers.md), the light orbs are, as the name suggests, floating orbs of light. They lock-on to a target, and fire after a short delay. These turrets are **very** close together and havy high range, allowing them to all simultaneously attack the same enemy. When attacking PvE threats, they will fire through walls. Luckily, the same is not the case for players.
 
-These deal a high amount of true damage per hit, with a fast fire rate. Their attacks are not projectiles, meaning you cannot dodge them by simply moving out of the way.
+These are **exceptionally** lethal, dealing **4%** of a player's **maximum health** as **true damage** per hit, and attack three times per barrage, for up to 12% of your maximum health per barrage. Their attacks are hitscan and not projectiles, meaning you cannot dodge them by simply moving out of the way.
 
 ### Minigun
 
-Located at [Summer Isle](Summer_Isle.md) [Summericonfaction](The_Summer_Company.md) and [Fort Merit](Fort_Merit.md) [Authorityiconfaction](The_Central_Authority.md), the minigun turrets are grey machine guns mounted on a cylindrical base.
+Located at [Summer Isle](Summer_Isle.md) [Summericonfaction](The_Summer_Company.md) and [Fort Merit](Fort_Merit.md) [Authorityiconfaction](The_Central_Authority.md), the minigun turrets are grey machine guns mounted on a cylindrical base. These turrets are hitscan, instantly dealing damage to the player rather than firing a projectile.
 
-These turrets (naturally) have a very fast fire rate, but only deal 8 damage per hit.
+These turrets (naturally) have a very fast fire rate, firing 10 shots per volley, but only deal 8 damage per hit. They deal 1.75 posture damage per hit if blocked.
 
 ### Mortar
 
-Located at [Fort Merit](Fort_Merit.md) [Authorityiconfaction](The_Central_Authority.md), the mortars are cannons that fire directly upwards, with the explosive payload being rained down on their targets. Unlike other turret types, the mortars do not need their own line of sight on the player, and will attack as long as any nearby NPC is aggrod onto the player.
+Located at [Fort Merit](Fort_Merit.md) [Authorityiconfaction](The_Central_Authority.md), the mortars are cannons that fire directly upwards, with the explosive payload being rained down on their targets. Unlike other turret types, the mortars **do not** need their own line of sight on the player, and will attack as long as any nearby NPC is aggrod onto the player. This also allows both of Merit's mortars to attack the player at once, even if they do not have line of sight to the player.
 
-Briefly after the turrets fire, two explosive projectiles will be spawned in the sky above the player. It is recommended to remain mobile or look upwards to react to the explosives.
+Briefly after the mortars fire, an explosive projectile will be spawned in the sky above the player. It is recommended to remain mobile or look upwards to react to the explosives.
 
-These turrets deal 40 damage per hit with a fairly slow fire rate.
+These turrets deal 40 damage per hit with a fairly slow fire rate. The direct projectiles from the mortars **cannot** be blocked, but the explosions can be, dealing 7.5 posture damage per hit. As both mortars are likely to attack you simultaneously, expect to take 80 damage/15 posture damage per volley if you cannot avoid them in time.
 
 ### Tesla Coil
 
 Located at [Miner's Landing](<Miner's_Landing.md>) and [the Chariot's Spire](<The_Chariot's_Spire.md>), these are tall metalic towers with a sphere at the top and two rings below that.
 
-The tesla coil strike outwards with arching jolts of electricity.
+The tesla coil strike outwards with arching jolts of electricity. Their attacks **cannot** be blocked, but can be parried and dodged. They deal typeless damage on hit.
 
 ### Watcher Eye
 
 Located in [the City of the Drowned](The_City_of_the_Drowned.md), these turrets bear a strong resemblance to the head of a [Watcher](Watcher.md).
 
-These turrets deal **[Sanity](Insanity.md)** damage at a fast rate, reducing the player's Sanity on hit. On hit, they also display the [Watcher](Watcher.md) attack visual effects, distorting the player's visuals. These turrets are **very** dangerous, and should be avoided if possible, as the downsides of being in the higher tiers of Insanity are quite severe.
+These turrets deal **[Sanity](Insanity.md)** damage at a fast rate, reducing the player's Sanity on hit. On hit, they also display the [Watcher](Watcher.md) attack visual effects, distorting the player's visuals. Some players may find this nauseating, especially if they are in-range of several of the Watcher Eyes. These turrets are **very** dangerous, and should be avoided if possible, as the downsides of being in the higher tiers of Insanity are quite severe.
 
 ## Locations
 

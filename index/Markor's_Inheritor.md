@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 223634
+revid: 229528
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons]
@@ -28,7 +28,7 @@ categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Critica
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| rarity | Uncommon |
+| rarity | Common |
 | selling price | 14 |
 | weight | 2 |
 | bankable | Yes |
