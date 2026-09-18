@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 227037
+revid: 229510
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ It's extremely effective at long to mid range. To counter this attunement, prior
 
 ## PvE Mechanic(s)
 
-Bloodrenders can leverage the **Hemorrhaging** mechanic, dealing a percentage, scaling on Bloodrend investment and player level, of a PvE enemy's current health in a singular damage instance, once a threshold of blood loss is met. At Power 20 with 100 Bloodrend, this deals 17.5% of the target's current health. This threshold can be built up by using any source of blood loss, not exclusively Bloodrend, and does not explicitly require the player to be a Bloodrender to use. When this procs, the enemy will lose a percentage of the [Blood Poisoning](Status_Effects.md#blood-poisoning) you've applied to them.
+Bloodrenders can leverage the **Hemorrhaging** mechanic, dealing a percentage, scaling on Bloodrend investment and player level, of a PvE enemy's current health in a singular damage instance, once a threshold of blood loss is met. At Power 20 with 100 Bloodrend, this deals 17.5% of the target's current health. This threshold can be built up by using any source of blood loss, not exclusively Bloodrend, and does not explicitly require the player to be a Bloodrender to use. When this procs, the enemy will lose a percentage of the [Blood Poisoning](Status_Effects.md#blood-poisoning) you've applied to them. Do note that blood hemmoraging is affected by damage fall off, proving less useful on enemies like [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md) since techically its hitbox is way higher than where the player would normally stand.
 
 ## Obtainment
 

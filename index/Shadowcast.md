@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 229318
+revid: 229509
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -380,7 +380,7 @@ Blunt ResistanceBlunt (Slam)
 -   [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
 -   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase range.
 -   You cannot cast Mantras while Rising Shadow is active.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow damaging nearby foes.
 
  |
 | 

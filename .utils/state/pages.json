@@ -381,7 +381,7 @@
   },
   "1338": {
     "title": "Shadowcast",
-    "lastrevid": 229318
+    "lastrevid": 229509
   },
   "1347": {
     "title": "Flintlock",
@@ -3197,7 +3197,7 @@
   },
   "8141": {
     "title": "Oath: Dawnwalker",
-    "lastrevid": 229122
+    "lastrevid": 229508
   },
   "8142": {
     "title": "Oath: Contractor",
@@ -4405,7 +4405,7 @@
   },
   "13479": {
     "title": "Star Knight",
-    "lastrevid": 229285
+    "lastrevid": 229507
   },
   "13481": {
     "title": "Fury Nautilodaunt",
@@ -4981,7 +4981,7 @@
   },
   "14827": {
     "title": "Bloodrend",
-    "lastrevid": 227037
+    "lastrevid": 229510
   },
   "14831": {
     "title": "Heartstar",
@@ -9301,7 +9301,7 @@
   },
   "24366": {
     "title": "Karita Plating",
-    "lastrevid": 229504
+    "lastrevid": 229506
   },
   "24379": {
     "title": "Roa",
@@ -9830,5 +9830,9 @@
   "26640": {
     "title": "Reinforced Gauntlets",
     "lastrevid": 229492
+  },
+  "26643": {
+    "title": "Unidentified Hivelord",
+    "lastrevid": 229505
   }
 }
