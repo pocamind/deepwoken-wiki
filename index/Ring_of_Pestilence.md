@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 223146
+revid: 229517
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -24,7 +24,7 @@ categories: [Equipment, Rings]
 | obtainment | Chests from:, Knives of Eylis vs Etrea Sea Event, Faction Ambushes (The Knives of Eylis), Primadon, Titan of the East, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, Maestro Evengarde Rest, War Mode, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Your weapon applies 50% anti-heal for 10s. |
 
-## Description
+## escription
 
 The Ring of Pestilence is an [Equipment](Equipment.md) item under the "Rings" category.
 

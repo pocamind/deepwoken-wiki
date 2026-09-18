@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 217618
+revid: 229512
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Individuals with He/him pronouns, Gunsmiths]
@@ -29,6 +29,10 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 Gunsmith Rosen is the current leader of the arms company known as [The Summer Company](The_Summer_Company.md). He is responsible for reintroducing [guns](Guns.md) across the Luminants. His aspect is also [Vesperian](Vesperian.md). Its unknown if Rosen resides within [Summer Isle](Summer_Isle.md) but it is assumed so due to him signing off the creation of the [Stormseye](Stormseye.md).
 
 [Gunsmith Hierka](Gunsmith_Hierka.md) was Rosen's former protégé who deceived Rosen and hid his ranking as a member of [The Central Authority](The_Central_Authority.md)'s [Bureau of Research](Bureau_of_Research.md) in order to steal the Summer Company's Secrets. This would go on to spark the invention of the [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the Authority.
+
+  
+
+Rosen IS old, atleast 200 years old by the time of pathfinder following the book [our fortress (of smoke and steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>).
 
 While Rosen is known for his mechanical expertise, he has shown himself to still be skilled in designs that revolve around the manipulation of ether.[\[3\]](#cite-note-3)
 
