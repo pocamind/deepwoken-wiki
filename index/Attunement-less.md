@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 229320
+revid: 229546
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1452,11 +1452,10 @@ Slash ResistanceSlash
 
 **Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
--   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base damage per level with 1.65 Light Weapon scaling.
+-   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base (slash) damage per level with 1.65 Light Weapon scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.67 seconds.
 -   Upgrading the Mantra increases teleportation range.
--   Deals typeless damage, bypassing armor resistances.
 -   Teleports the user to the enemy the cursor is pointed at.
 -   The base damage is **doubled** when wielded with the [Silver Dagger](Silver_Dagger.md).
 -   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).

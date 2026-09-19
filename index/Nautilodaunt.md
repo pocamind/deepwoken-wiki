@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 229098
+revid: 229543
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -160,7 +160,7 @@ Dodge
 
 ## **Combat / Tips**
 
-While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, it's unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
+While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, it's unique in the fact that it has a much smarter AI along with the ability to **Block** and **Parry**.
 
 While this mob **cannot** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from its much higher damage. Even with its near immunity to [Mantras](Attunements.md), it can still be posture broken quickly and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
 

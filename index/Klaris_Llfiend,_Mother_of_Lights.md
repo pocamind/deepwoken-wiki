@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 229339
+revid: 229547
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -259,7 +259,7 @@ Radiant Teachings
 <tr>
   <td colspan="4">Kill Chaser</td>
   <td colspan="4">Kill Chaser a second time</td>
-  <td colspan="4">Talked to radio? Opened generator? Walked inside the base? Talked to the guy? Got union hook?</td>
+  <td colspan="4">Opened generator</td>
 </tr>
 <tr>
   <td colspan="4">Chaser betrayed you.</td>
