@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 227937
+revid: 229532
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, The Hundred Legions]
@@ -37,7 +37,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, The Hundred Legions]
 
 ## Description
 
-The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional [**Bleed damage**](Status_Effects.md#bleed).
+The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons capable of dealing additional [**Bleed damage**](Status_Effects.md#bleed).
 
 ## Critical
 

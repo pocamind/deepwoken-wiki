@@ -1,6 +1,6 @@
 ---
 title: Etrean Apostle
-revid: 217824
+revid: 229536
 source: https://deepwoken.fandom.com/wiki/Etrean_Apostle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive]
 
 | Etrean Apostle | |
 |---|---|
-| health | ? |
+| health | 10,000 |
 | weapon | Wraithclaw |
 | moves | Gale Stomp, Cyclone Bomb, Strong Left, Etrean Apostle Servants, Shield of Gale, Judgement, Hollow Wraith, Wind Vortex |
 | affiliation | Etrea |

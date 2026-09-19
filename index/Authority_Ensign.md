@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 228975
+revid: 229535
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -684,6 +684,7 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 -   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.
 -   There are three oaths that Ensigns struggle with/impossible to get, Those being: [Soulbreaker](Oath%253A_Soulbreaker.md), [Contractor](Oath%253A_Contractor.md) and [Blightsurger](Oath%253A_Blightsurger.md)
     -   For Blightsurger, You need slightly higher than ally rep with [The Hundred Legions](The_Hundred_Legions.md) but your rep as an Ensign is capped at ally, So you will need to be a [Khan](Khan.md) and Have the Celebrity Talent (40 Charisma), Making it frustrating for people who don't have the Khan Aspect or who don't want to invest in Charisma
+    -   For Soulbreaker, you can still obtain the oath by using a [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s boss arena, provided you already have a [Murmur](Murmur.md) and meet the stat requirements. Do note that you will need another person to open the dungeon for you, as it is impossible to increase your [Etrea](Etrea.md) reputation to obtain the key.
 
 ## References
 

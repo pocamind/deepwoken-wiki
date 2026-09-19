@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 229369
+revid: 229534
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with loot table reason, InProgressPages, Equipment, Rings]
@@ -34,4 +34,4 @@ This does not reduce the armor damage from any of [Ironsing](Ironsing.md)'s abil
 ## Trivia
 
 -   The armor damage reduction granted by this ring can be stacked with talents like [Armor Conserver](Talents.md#armor-conserver) and [Bulletproof](Talents.md#bulletproof), and the [Steadfast](Boons_and_Flaws.md#steadfast) Boon.
--   The runes on the ring reads gibberish.
+-   Once translated, the runes on the ring read as complete gibberish..

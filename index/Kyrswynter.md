@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 228832
+revid: 229538
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, Kyrs series]
@@ -79,3 +79,4 @@ Both criticals share a cooldown of **9 seconds**.
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), **Kyrswynter**, [Kyrsieger](Kyrsieger.md))
 -   The running crit is almost identical to (and probably inspired by) the Royal Greatsword's "[Wolf's Assault](<https://eldenring.wiki.fextralife.com/Wolf's+Assault>)" Skill in _Elden Ring_.
 -   This weapon bears a striking resemblance to the [Celebrant's Rib-rake](https://eldenring.wiki.fextralife.com/Celebrant%27s+Rib-Rake) spear from _Elden Ring_.
+-   You are able to extend the time to obtain the weapon and escape using the [Purge Shrine](Purge_Shrine.md), however it is recommended to have somebody distract the [champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) if you are not confident in avoiding his attacks.

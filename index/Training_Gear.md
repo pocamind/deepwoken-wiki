@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 213184
+revid: 229533
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -238,7 +238,6 @@ A held hearthgem
 -   All Attributes can be trained by just obtaining general EXP.
 -   You can slowly train your attributes by spamming the corresponding Training Gears, all EXCEPT for the Weapon Manual.
 -   There's a [quest](Quests.md) at the [Isle of Vigils](Isle_of_Vigils.md) sparring room that grants you EXP for letting an NPC have one use of your Weapon Manual.
--   You can train core attributes using [Lotus Flasks](Ingredients.md).
 -   Ferrofluid is a real thing. It is a liquid with magnetic nanoparticles suspended in the fluid.
 -   Whenever the player unlocks a new Attunement, the corresponding training gear will be unlocked in the gear cabinet.
     -   For example, the Ferrofluid will only be purchasable after the player has unlocked Ironsing for the first time on their account.
