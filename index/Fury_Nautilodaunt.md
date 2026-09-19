@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 225113
+revid: 229540
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -98,6 +98,7 @@ Parry
 
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
 -   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
+-   Deals [Thundercall](Thundercall.md) damage, acting like an uppercut if landed.
 
 _Uses Telegraph_
 

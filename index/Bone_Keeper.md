@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 229097
+revid: 229539
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -40,6 +40,7 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
  | The Bone Keeper holds its right arm high up before swinging forwards with it, and if it manages to grab a target, it will hold it up before crushing it in its hand, dealing an insane amount of damage.
 
 -   This attack seems to lack much range, meaning it can be avoided by simply stepping back before it tries to grab you.
+-   Has 2 hits first hit deals ~30 damage(can be resisted) and second hit deals ~98 type-less damage.
 
 _Uses Telegraph_
 
@@ -146,7 +147,7 @@ Jump
 
 ### Passives
 
--   **Monster Resistance** - Physical attacks deal 20% less damage to the Bone Keeper.
+-   **Monster Resistance** - Physical attacks deal 25% less damage to the Bone Keeper.
 
 ## Trivia
 
