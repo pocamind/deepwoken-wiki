@@ -1,6 +1,6 @@
 ---
 title: ??? (Blindseer Glyphs)
-revid: 225267
+revid: 229564
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Blindseer_Glyphs)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -113,37 +113,46 @@ These dialogues are unlocked once the player has met the requirements for Blinds
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin Dialogue</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2">First Encounter</td>
-  <td colspan="2">Subsequent Encounters</td>
+  <td colspan="3">First Encounter</td>
+  <td colspan="3">Subsequent Encounters</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*Strangely luminescent glyphs are arranged before you. Something in your gut lurches staring at them, as if another land was calling your name.*</i></td>
-  <td colspan="2"><i>*You have learnt what there is to learn from these glyphs. Further educations lie in wait in the world around you.*</i></td>
+  <td colspan="3"><i>*Strangely luminescent glyphs are arranged before you. Something in your gut lurches staring at them, as if another land was calling your name.*</i></td>
+  <td colspan="3"><i>*You have learnt what there is to learn from these glyphs. Further educations lie in wait in the world around you.*</i></td>
 </tr>
 <tr>
-  <td colspan="2">[Inspect]</td>
-  <td colspan="2">[End Dialogue]</td>
+  <td colspan="3">[Inspect]</td>
+  <td colspan="2">You remember the Words once spoken. [10 Knowledge]</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td>Blindfold equipped</td>
+  <td>Blind flaw</td>
   <td>No Blindfold equipped</td>
+  <td>Requirements Met</td>
+  <td>Not Enough Knowledge</td>
 </tr>
 <tr>
   <td><i>*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the tenets of an <a href="Glossary.md#oaths">Oath</a> - that we are born with our eyes closed, and we merely choose to open them.*</i></td>
+  <td><i>*With your eyes devoid of their own light, light from the glyphs seems to pierce through them. The light rearranges into a missive now legible. It details the tenets of an <a href="Glossary.md#oaths">Oath</a> - that some are born with their eyes closed, and they merely choose to open them.*</i></td>
   <td><i>*The writing on the rock is inscrutable. Whenever your eyes begin to focus on the glyphs, they seem to switch positions. Somehow, it feels like your <b>vision</b> is failing you.*</i></td>
+  <td><i>*WIP*</i></td>
+  <td><i>*WIP*</i></td>
 </tr>
 <tr>
-  <td>[Take the Oath]</td>
+  <td colspan="2">[Take the Oath]</td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], player instantly full progresses the Blindseer Oath</td>
   <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td><i>*You vow the <a href="Glossary.md#oaths">Oath</a> to yourself, fixing your destiny in place. Power springs forth like the water of a fountain.*</i></td>
+  <td colspan="2"><i>*You vow the <a href="Glossary.md#oaths">Oath</a> to yourself, fixing your destiny in place. Power springs forth like the water of a fountain.*</i></td>
 </tr>
 <tr>
-  <td>[End Dialogue], player obtains <a href="Oath%253A_Blindseer.md">Blindseer</a></td>
+  <td colspan="2">[End Dialogue], player obtains <a href="Oath%253A_Blindseer.md">Blindseer</a></td>
 </tr>
 </tbody>
 </table>
