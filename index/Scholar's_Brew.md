@@ -1,6 +1,6 @@
 ---
 title: "Scholar's Brew"
-revid: 216257
+revid: 229567
 source: https://deepwoken.fandom.com/wiki/Scholar's_Brew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -48,3 +48,4 @@ It has a unique effect where it grants EXP for all [Attunements](Attunements.md)
 ## Trivia
 
 -   The Scholar's Brew requires Mantra Modifiers to craft, **NOT** Attunement-based ingredients such as [Dying Embers](Dying_Embers.md).
+-   The **CRAFTING FOR THIS ITEM IS CURRENTLY BUGGED**, this is known and most likely will not be patched for a long time due to it being low priority.
