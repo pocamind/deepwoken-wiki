@@ -1,6 +1,6 @@
 ---
 title: Astral
-revid: 226085
+revid: 229599
 source: https://deepwoken.fandom.com/wiki/Astral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments]
 | droppable | No |
 | pass down | Yes |
 | desc | Grants +20% weapon damage in PvE. Call down stars alongside your critical attacks, and after parrying thrice. |
-| obtainment | Astral Enchant Stone:, Star Knight (guaranteed, direct drop), Moon Knight (direct drop), Moon's Eyrie, Sold in Traan Zakshun's black market for 10 , Weird Trader |
+| obtainment | Astral Enchant Stone:, Star Knight (guaranteed, direct drop), Moon Knight (direct drop OR chest drop), Moon's Eyrie, Sold in Traan Zakshun's black market for 10 , Weird Trader |
 
 ## Description
 
