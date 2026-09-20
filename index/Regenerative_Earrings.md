@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 228319
+revid: 229552
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -58,7 +58,6 @@ The following sources of healing **cannot** proc Critical Heal:
 -   Any source of 'passive' healing, such as passive health regeneration and things which boosts it (unexhaustive list below)
     -   [Curse of the No Life King](Curse_of_the_No_Life_King.md)
     -   [Chorus of Souls](Talents.md#chorus-of-souls)
-    -   [Conditioned Runner](Talents.md#conditioned-runner)
     -   [Campfire Pits](Campfire_Pit.md)
     -   Health Regeneration [potions](Alchemy.md)
 

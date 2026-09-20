@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 226970
+revid: 229551
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -35,8 +35,6 @@ This content is not accessible outside of this gamemode.
 **Strange Merchant** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento forces your race to be [Levit](Levit.md). This Memento's core ability is the Magic Coffin; a [Mystery Box](Mystery_Boxes.md) that costs Notes to use.
 
 Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits (with a few exceptions).
-
-Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#enrage) talent on [Pathfinder](Pathfinder.md).
 
 ## Starting Abilities
 

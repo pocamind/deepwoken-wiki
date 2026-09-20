@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229484
+revid: 229556
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -9136,7 +9136,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     -   Deals 35 Blunt damage with 20 Posture damage.
-    -   Cannot be buffed through damage modifiers, though [Cold Front](#cold-front)'s 40% Vent damage buff applies to Brute Strenth.
+    -   Cannot be buffed through damage modifiers, though [Cold Front](#cold-front) and [Inky Pearls](#inky-pearls) Vent damage increases apply to Brute Strength.
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         
@@ -9144,7 +9144,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   **Brute Strength**: [Imperator's Fury](<Imperator's_Fury.md>) - Your [vent](Combat_Mechanics.md#tempo) is replaced with a ground slam attack that knocks back enemies.
     -   Deals 35 Blunt damage with 20 Posture damage.
-    -   Cannot be buffed through damage modifiers, though [Cold Front](#cold-front)'s 40% Vent damage buff applies to Brute Strenth.
+    -   Cannot be buffed through damage modifiers, though [Cold Front](#cold-front) and [Inky Pearls](#inky-pearls) Vent damage increases apply to Brute Strength.
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.  
         
@@ -9645,6 +9645,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   **Inky Pearls**: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your [vent](Combat_Mechanics.md#tempo) now steals a small amount of ether.
     -   Turns your Vent black and makes it drain 47.5 Ether on hit.
     -   Increases your Vent's Ether cost on successful hit from 22.5 to 47.5.
+    -   Increases your Vent damage by 0.5% per point of Shadowcast.
     -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's [Shadowcast flames](Status_Effects.md#shadow-burn) and [Sightless Still](#sightless-still).  
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Vent\]
@@ -9652,6 +9653,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   **Inky Pearls**: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your [vent](Combat_Mechanics.md#tempo) now steals a small amount of ether.
     -   Turns your Vent black and makes it drain 47.5 Ether on hit.
     -   Increases your Vent's Ether cost on successful hit from 22.5 to 47.5.
+    -   Increases your Vent damage by 0.5% per point of Shadowcast.
     -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's [Shadowcast flames](Status_Effects.md#shadow-burn) and [Sightless Still](#sightless-still).  
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Vent\]
