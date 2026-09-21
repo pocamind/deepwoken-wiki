@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 228625
+revid: 229602
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -77,17 +77,6 @@ Not only does The Authority have reputation beneficial quests, it also benefits 
 Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) exclusive NPC's such as the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) as usual.
 
 [The Fort Merit rescue quest](Quests.md) automatically lowers your reputation with The Authority upon completion.
-
-## Notable Members
-
--   [Drallis Ehr](Drallis_Ehr.md)
--   [Warden Jericho](Warden_Jericho.md)
--   [Vice Warden Morredh](Vice_Warden_Morredh.md)
--   [Sentinel Augustus](Sentinel_Augustus.md)
--   [High Inquisitor Merey](High_Inquisitor_Merey.md)
--   [Chud Steel](Chud_Steel.md)
--   [Captain Trist](Captain_Trist.md)
--   [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)
 
 ## Trivia
 

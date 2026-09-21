@@ -1,6 +1,6 @@
 ---
 title: L. O. Dise
-revid: 229598
+revid: 229600
 source: https://deepwoken.fandom.com/wiki/L._O._Dise
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Individuals with unspecified pronouns]
@@ -18,7 +18,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-The Painter of the painting (Shield), [Deconstruction of Shrine](Deconstruction_of_Shrine.md).[\[1\]](#cite-note-rs-1)
+Dise is a painter who painted [Deconstruction of Shrine](Deconstruction_of_Shrine.md).[\[1\]](#cite-note-rs-1)
 
 ## References
 
