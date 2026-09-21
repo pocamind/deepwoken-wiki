@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 229082
+revid: 229609
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Legendary Weapons, Relics, Relic Weapon]
