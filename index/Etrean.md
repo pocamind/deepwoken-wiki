@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 228867
+revid: 229613
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -41,7 +41,7 @@ Being Etrean also spawns you with bonus [Etrean](Etrea.md) reputation, enough to
   <ul>
     <li>The duration of specific Status Effects applied to you are reduced by 15%.
   <ul>
-    <li>This applies to: <a href="Status_Effects.md#chilled">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, <a href="Status_Effects.md#burning">Burning</a> (including self-applied burn), <a href="Talents.md#inhale">Inhale</a>'s effects, and <a href="Alchemy.md">Potions</a>.</li>
+    <li>This applies to: <a href="Status_Effects.md#chilled">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, <a href="Status_Effects.md#burning">Burning</a> (including self-applied burn such as agitating spark and flame within), <a href="Talents.md#inhale">Inhale</a>'s effects, and <a href="Alchemy.md">Potions</a>.</li>
   </ul></li>
     <li>Outgoing status effects are unaffected by Molt. This includes the <a href="Alchemy.md">potion</a> effects you give to allies with the <a href="Talents.md#placebo-effect">Placebo Effect</a> Talent.</li>
     <li>You also take less damage in acid rain.</li>

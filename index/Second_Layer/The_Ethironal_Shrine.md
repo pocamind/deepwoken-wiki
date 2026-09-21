@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 226816
+revid: 229612
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -166,7 +166,7 @@ These optional quests are not essential to the main objective of clearing the se
 1.  Get To Firfire as usual.
 2.  Inside an Igloo is the trainer, [Vyrelda](../Vyrelda,_Master_of_Blood.md).
 3.  Talk to her and request for her to teach you.
-4.  Kill Three Ministry Bloodrenders, then come back with three Heartstars.
+4.  Kill Three Ministry Heartspillers, then come back with three Heartstars.
 5.  After obtaining Bloodrend, you may Lighthook out to keep it.
 
 ### [Arcwarder](../Oath%253A_Arcwarder.md) Questline

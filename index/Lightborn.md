@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 226882
+revid: 229610
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -109,3 +109,4 @@ Lightborn has 6 halo colors and 3 three halo position variants.
     -   On the December 13th, 2025 update, the Lightborn aspect has been made obtainable by rerolls only through the [Vow of Iron](Vow_of_Iron.md) gamemode.
 -   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen.
 -   Like all other aspects, the starting points Lightborn has gets converted into freely allocable points after purchasing [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers). However, because Lightborn has _twelve_ starting points instead of the usual five, this increases your maximum investment point limit to 337. Much like [Khan](Khan.md), this allows Lightborn to have entirely aspect-exclusive builds.
+-   "Ad Astra" Is in Latin for "To The Stars"
