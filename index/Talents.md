@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229556
+revid: 229662
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -28,14 +28,15 @@ Variants: [Talents/Vow of Iron](Talents/Vow_of_Iron.md)
     -   -   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
         -   General:
             -   \[Rarity Talent • Talent Category\] - see [below](#card-terminology).
-            -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires.
+            -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires. Attribute categories (\[Mind\], \[Body\], \[Weapon\], and \[Element\]) all have their own tags.
             -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
         -   Specific Terms; given if applicable:
-            -   Categories: \[Anti-Sustain\], \[[Ardour](Murmur%253A_Ardour.md)\], \[Assassination\], \[Attunement Path\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](Murmur%253A_Rhythm.md)\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\]
+            -   Categories: \[Anti-Sustain\], \[[Ardour](Murmur%253A_Ardour.md)\], \[Assassination\], \[Attunement Path\], \[Backhit\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](Murmur%253A_Rhythm.md)\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\], \[True Damage\]
+            -   Weapon Types: \[Dagger\] \[Fist\] \[[Fist Style](Fists.md#styles)\] \[Pistol\] \[Dual Pistols\] \[Single Pistol\] \[Offhand Pistol\] \[Rapier\] \[Bow\] \[Club\] \[Spear\] \[Staff\] \[Greataxe\] \[Greatcannon\] \[Greathammer\] \[Greatsword\]
             -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
             -   \[Aspect name\], \[Oath name\], \[Origin name\], or \[Weapon category\] if applicable, with hyperlinks.
         -   (Relatively) Unintuitive Terms:
-            -   \[Combat Tag\]) - Talents that do not work unless the player is in combat and/or Talents that scale on the quantity of [Combat Tags](Combat_Tag.md) that the player has.
+            -   \[Combat Tag\] - Talents that do not work unless the player is in combat and/or Talents that scale on the quantity of [Combat Tags](Combat_Tag.md) that the player has.
             -   \[M1 Tag\] - Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag.
             -   \[[Spec](Developer_Specs.md)\] - Deepwoken Developer or Moderator exclusive Talents.
             -   \[Tool\] - Talents that provide a Talent tool. Use the tool to activate the Talent's effects.
@@ -48,7 +49,6 @@ Variants: [Talents/Vow of Iron](Talents/Vow_of_Iron.md)
                 (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list \[Strength\] and \[Willpower\] in its tags.
             -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
             -   The \[Attunement Path\] tag is only given to the parent Talent in the path (e.g. [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)).
-            -   \[Offhand Pistol\], \[Dual Pistols\], and \[Single Pistol\] are all separate tags, though any Talent with these tags will also have the generic \[Pistol\] tag.
         
 
 -   Talent requirements display additional and alternative requirements of the Talents.
@@ -6052,15 +6052,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Mothwing Dust_: [Chrysid](Chrysid.md) - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
-    -   The angle at which you can be backstabbed is reduced heavily.  
+    -   The angle at which you can be backhit, triggering "on backhit" effects, is reduced heavily.  
         
-    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Chrysid](Chrysid.md)\] \[Aspect\] \[Debuff\]
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Chrysid](Chrysid.md)\] \[Aspect\] \[Backhit\] \[Debuff\]
 
 -   **Mothwing Dust**: [Chrysid](Chrysid.md) - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
-    -   The angle at which you can be backstabbed is reduced heavily.  
+    -   The angle at which you can be backhit, triggering "on backhit" effects, is reduced heavily.  
         
-    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Chrysid](Chrysid.md)\] \[Aspect\] \[Debuff\]
+    -   Tags: \[Innate • Race Talent\] \[Common Talent\] \[[Chrysid](Chrysid.md)\] \[Aspect\] \[Backhit\] \[Debuff\]
 
 -   _Teachings of the Edenkite_: [Drakkard](Drakkard.md) - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.
@@ -6578,95 +6578,309 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Javelin Lord
 
--   _Grand Skewer_ \[Rare Talent, Thundercall\] - Your Grand Javelin now carries opponents through the air.
+-   _Grand Skewer_ \[Rare Talent\] - Your Grand Javelin now carries opponents through the air.
     -   Press F during Grand Javelin's windup to activate this effect.
-    -   Does not work in [Guild Bases](Guild_Bases.md) or in [Layer 1](First_Layer.md) of The Depths.
-    -   Prerequisites: [Grand Javelin](Thundercall.md#grand-javelin) (Mantra), 60 Thundercall
+    -   Does not work in [Guild Bases](Guild_Bases.md) or in [Layer 1](First_Layer.md) of The Depths.  
+        
+    -   Prerequisites: [Grand Javelin](Thundercall.md#grand-javelin) (Mantra), 60 Thundercall  
+        
+    -   Tags: \[Thundercall\]
+
+-   **Grand Skewer** \[Rare Talent\] - Your Grand Javelin now carries opponents through the air.
+    -   Press F during Grand Javelin's windup to activate this effect.
+    -   Does not work in [Guild Bases](Guild_Bases.md) or in [Layer 1](First_Layer.md) of The Depths.  
+        
+    -   Prerequisites: [Grand Javelin](Thundercall.md#grand-javelin) (Mantra), 60 Thundercall  
+        
+    -   Tags: \[Thundercall\]
 
 ### Jetstriker
 
--   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +5% PEN)
-    -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
+-   **Oath: Jetstriker** \[Oath Talent\] - You [vow](Glossary.md#vows) to flow with [the Song](Glossary.md#the-song) itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master.
+    -   For more information, view [Oath: Jetstriker](Oath%253A_Jetstriker.md).  
+        
+    -   Grants +1 Mobility Mantra Slot, +1 Wildcard Mantra Slot, +5% PEN  
+        
+    -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[Agility\] \[+Mantra Slots\] \[+PEN\]
 
--   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or Basic Attacks now steals and grants additional momentum. (+5 Passive Agility)
-    -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
+-   **Oath: Jetstriker** \[Oath Talent\] - You [vow](Glossary.md#vows) to flow with [the Song](Glossary.md#the-song) itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master.
+    -   For more information, view [Oath: Jetstriker](Oath%253A_Jetstriker.md).  
+        
+    -   Grants +1 Mobility Mantra Slot, +1 Wildcard Mantra Slot, +5% PEN  
+        
+    -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[Agility\] \[+Mantra Slots\] \[+PEN\]
 
--   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - When damage below 50% health, don an aura of **[Decisive Winds](Status_Effects.md#decisive-winds)** for 10s. (+5 Ether)
+-   **Acceleration Points** \[Oath Talent\] - Striking an opponent in the back with mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or Basic Attacks now steals and grants additional momentum.
+    -   Any Mantra equipped in Mobility Slots can activate this effect.  
+        
+    -   Grants +5 Passive Agility  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Passive Agility\] \[Backhit\] \[Debuff\]
+
+-   **Acceleration Points** \[Oath Talent\] - Striking an opponent in the back with mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or Basic Attacks now steals and grants additional momentum.
+    -   Any Mantra equipped in Mobility Slots can activate this effect.  
+        
+    -   Grants +5 Passive Agility  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Passive Agility\] \[Backhit\] \[Debuff\]
+
+-   **Decisive Winds** \[Oath Talent\] - When damage below 50% health, don an aura of **[Decisive Winds](Status_Effects.md#decisive-winds)** for 10s.
     -   Decisive Winds grants a 25% speed boost as long as you are within 20 studs the target who initiated this effect.
     -   30 second cooldown.
     -   Procs through block/parry/dodge, despite the description stating otherwise. But it does not proc on self damage.
-    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).
-    -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).  
+        
+    -   Grants +5 Ether  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Ether\] \[Speed Boost\]
 
--   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
-    -   When proccing on non-humanoid NPCs, sends you to the center of the NPC's hitbox.
-    -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
+-   **Decisive Winds** \[Oath Talent\] - When damage below 50% health, don an aura of **[Decisive Winds](Status_Effects.md#decisive-winds)** for 10s.
+    -   Decisive Winds grants a 25% speed boost as long as you are within 20 studs the target who initiated this effect.
+    -   30 second cooldown.
+    -   Procs through block/parry/dodge, despite the description stating otherwise. But it does not proc on self damage.
+    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).  
+        
+    -   Grants +5 Ether  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Ether\] \[Speed Boost\]
 
--   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+-   **Jetstream Pursuit** \[Oath Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
+    -   When proccing on non-humanoid NPCs, sends you to the center of the NPC's hitbox.  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[Flourish\]
+
+-   **Jetstream Pursuit** \[Oath Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
+    -   When proccing on non-humanoid NPCs, sends you to the center of the NPC's hitbox.  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[Flourish\]
+
+-   **Rush of Ancients** \[Oath Talent\] - Dashing at maximum sprint momentum makes you one with the wind itself.
     -   Extends your dash distance and makes you invisible for a very brief duration when you dash.
-    -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Has an 8 second cooldown while in combat.  
+        
+    -   Grants +4 Passive Agility  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Passive Agility\] \[Dodge\] \[Mobility\]
 
--   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
-    -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.
-    -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
+-   **Rush of Ancients** \[Oath Talent\] - Dashing at maximum sprint momentum makes you one with the wind itself.
+    -   Extends your dash distance and makes you invisible for a very brief duration when you dash.
+    -   Has an 8 second cooldown while in combat.  
+        
+    -   Grants +4 Passive Agility  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Passive Agility\] \[Dodge\] \[Mobility\]
+
+-   **Stratos Step** \[Oath Talent\] - Holding space while climbing will now let your perform Stratos Steps to get even higher.
+    -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.  
+        
+    -   Grants +5 Health, +3 Passive Agility  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Health\] \[+Passive Agility\] \[Mobility\]
+
+-   **Stratos Step** \[Oath Talent\] - Holding space while climbing will now let your perform Stratos Steps to get even higher.
+    -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.  
+        
+    -   Grants +5 Health, +3 Passive Agility  
+        
+    -   Prerequisites: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Jetstriker](Oath%253A_Jetstriker.md)\] \[+Health\] \[+Passive Agility\] \[Mobility\]
 
 ### Jumpstarter
 
--   Electrify \[Common Talent, Thundercall\] - Shock yourself and apply **[Amped](Status_Effects.md#amped)** for 15s. Can be used while **[Carried](Status_Effects.md#carried)** to escape.
-    -   Grants a Talent tool.
+-   **Electrify** \[Common Talent\] - Shock yourself and apply **[Amped](Status_Effects.md#amped)** for 15s. Can be used while **[Carried](Status_Effects.md#carried)** to escape.
+    -   Not to be confused with the unrelated [Electrified](Status_Effects.md#electrified) status effect from the [Authority Interrogator](#authority-interrogator) Talent category.
     -   Electrify has a 1 minute cooldown.
     -   Amped grants your weapon attacks a 10% damage buff and allows them to apply [Shock](Status_Effects.md#shock) or [Surge Rods](Status_Effects.md#overloaded) on hit.
     -   While Amped, you take 10% more damage from all sources.
-    -   Deals Thundercall self damage with hitstun and applies Shock/Surge Rods to yourself on cast, if used without being carried.
-    -   If used while Carried, it deals damage to the player who is carrying you, forcing them to drop you. If used while not being Carried, it deals 5% of your **current** health as Thundercall self damage, and self applies 1 [Surge Rod](Status_Effects.md#overloaded)/[Shock](Status_Effects.md#shock) with hitstun.
-        -   Wearing the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove the self damage and self status application, and wearing the [Deepscorn Casque](Deepscorn_Casque.md) will reduce the self damage. Wearing both will heal you a flat 12 health upon using Electrify.
-    -   Formerly known as Static Withdraw.
-    -   Prerequisites: 25 Thundercall
+    -   If used while Carried, it deals damage to the player who is carrying you, forcing them to drop you.
+    -   If used without being Carried, it deals 5% of your **current** health as Thundercall self damage, with hitstun, and applies Shock/Surge Rods to yourself on cast.
+        -   The [Deepscorn Casque](Deepscorn_Casque.md) or Thundercall/general damage resistance can be used to mitigate the self damage. The [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove the self damage and self Shock-Surge rod altogether. Wearing both the Deepscorn Casque and Stormchanter's Raiments will cause you to heal 12 flat health on cast.
+    -   Formerly known as Static Withdraw.  
+        
+    -   Prerequisites: 25 Thundercall  
+        
+    -   Tags: \[Thundercall\] \[Damage Buff\] \[Debuff\] \[Tool\]
 
--   Amplified Reflexes \[Common Talent, Thundercall\] - Amped now grants enhanced speed and parkour.
-    -   Increases walk speed by 50% and grants a 20% buff to climb height. All other forms of parkour and movement are unaffected by Amplified Reflexes.
-    -   Formerly known as Jumpstart.
-    -   Prerequisites: 35 Thundercall, Electrify
-    -   Mutual Exclusive: Amplified Rage
+-   **Electrify** \[Common Talent\] - Shock yourself and apply **[Amped](Status_Effects.md#amped)** for 15s. Can be used while **[Carried](Status_Effects.md#carried)** to escape.
+    -   Not to be confused with the unrelated [Electrified](Status_Effects.md#electrified) status effect from the [Authority Interrogator](#authority-interrogator) Talent category.
+    -   Electrify has a 1 minute cooldown.
+    -   Amped grants your weapon attacks a 10% damage buff and allows them to apply [Shock](Status_Effects.md#shock) or [Surge Rods](Status_Effects.md#overloaded) on hit.
+    -   While Amped, you take 10% more damage from all sources.
+    -   If used while Carried, it deals damage to the player who is carrying you, forcing them to drop you.
+    -   If used without being Carried, it deals 5% of your **current** health as Thundercall self damage, with hitstun, and applies Shock/Surge Rods to yourself on cast.
+        -   The [Deepscorn Casque](Deepscorn_Casque.md) or Thundercall/general damage resistance can be used to mitigate the self damage. The [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove the self damage and self Shock-Surge rod altogether. Wearing both the Deepscorn Casque and Stormchanter's Raiments will cause you to heal 12 flat health on cast.
+    -   Formerly known as Static Withdraw.  
+        
+    -   Prerequisites: 25 Thundercall  
+        
+    -   Tags: \[Thundercall\] \[Damage Buff\] \[Debuff\] \[Tool\]
 
--   Amplified Rage \[Common Talent, Thundercall\] - Amped now grants you an additional +10% weapon damage. Also self-damage and cooldown by 3x.
-    -   Increases Amped's damage buff from +10% to +20%.
+-   **Amplified Reflexes** \[Common Talent\] - Amped now grants enhanced speed and parkour.
+    -   During the effects of **[Amped](Status_Effects.md#amped)**, this increases walk speed by 50%, grants an incredibly slight sprint speed increase, and grants a 20% buff to climb height. All other forms of parkour and movement are unaffected by Amplified Reflexes.
+    -   Formerly known as Jumpstart.  
+        
+    -   Prerequisites: [Electrify](#electrify), 35 Thundercall  
+        
+    -   Mutual Exclusives: [Amplified Rage](#amplified-rage)  
+        
+    -   Tags: \[Thundercall\] \[Mobility\]
+
+-   **Amplified Reflexes** \[Common Talent\] - Amped now grants enhanced speed and parkour.
+    -   During the effects of **[Amped](Status_Effects.md#amped)**, this increases walk speed by 50%, grants an incredibly slight sprint speed increase, and grants a 20% buff to climb height. All other forms of parkour and movement are unaffected by Amplified Reflexes.
+    -   Formerly known as Jumpstart.  
+        
+    -   Prerequisites: [Electrify](#electrify), 35 Thundercall  
+        
+    -   Mutual Exclusives: [Amplified Rage](#amplified-rage)  
+        
+    -   Tags: \[Thundercall\] \[Mobility\]
+
+-   **Amplified Rage** \[Common Talent\] - Amped now grants you an additional +10% weapon damage. Also self-damage and cooldown by 3x.
+    -   Increases **[Amped](Status_Effects.md#amped)**'s weapon damage buff from +10% to +20%.
     -   The final sentence in this Talent's description is lying; it does not increase Electrify's cooldown, nor its self damage.
-    -   Formerly Known as Raging Static.
-    -   Prerequisites: 35 Thundercall, Electrify
-    -   Mutual Exclusive: Amplified Reflexes
+    -   Formerly Known as Raging Static.  
+        
+    -   Prerequisites: [Electrify](#electrify), 35 Thundercall  
+        
+    -   Mutual Exclusives: [Amplified Reflexes](#amplified-reflexes)  
+        
+    -   Tags: \[Thundercall\] \[Damage Buff\]
+
+-   **Amplified Rage** \[Common Talent\] - Amped now grants you an additional +10% weapon damage. Also self-damage and cooldown by 3x.
+    -   Increases **[Amped](Status_Effects.md#amped)**'s weapon damage buff from +10% to +20%.
+    -   The final sentence in this Talent's description is lying; it does not increase Electrify's cooldown, nor its self damage.
+    -   Formerly Known as Raging Static.  
+        
+    -   Prerequisites: [Electrify](#electrify), 35 Thundercall  
+        
+    -   Mutual Exclusives: [Amplified Reflexes](#amplified-reflexes)  
+        
+    -   Tags: \[Thundercall\] \[Damage Buff\]
 
 ### Justicar
 
--   _Jus Karita_ \[Quest Talent, Light Weapon\] - Adopt the kick-based fighting style of the Justicars.
-    -   Allows you to use the [Jus Karita](Jus_Karita.md) [fist style](Fists.md).
-    -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
+-   _Jus Karita_ \[Quest Talent\] - Adopt the kick-based fighting style of [the Justicars](The_Justicar.md).
+    -   Allows you to use the [Jus Karita](Jus_Karita.md) [fist style](Fists.md).  
+        
+    -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md) OR [Justicar](<Justicar_(Origin).md>) Origin OR chosen in [Character Creation](Character_Creation.md)  
+        
+    -   Tags: \[Light Weapon\] \[Fist\] \[[Fist Style](Fists.md#styles)\]
 
--   Justicar's Prowess \[Common Talent\] - Jus Karita gains +30% posture damage against other fist styles.
-    -   Gain +30% posture damage on weapon attacks against opponents using [Way of Navae](Way_of_Navae.md), [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Untrained Fist](Untrained_Fist.md), or [Legion Kata](Legion_Kata.md).
-    -   Prerequisite: Jus Karita
+-   **Jus Karita** \[Quest Talent\] - Adopt the kick-based fighting style of [the Justicars](The_Justicar.md).
+    -   Allows you to use the [Jus Karita](Jus_Karita.md) [fist style](Fists.md).  
+        
+    -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md) OR [Justicar](<Justicar_(Origin).md>) Origin OR chosen in [Character Creation](Character_Creation.md)  
+        
+    -   Tags: \[Light Weapon\] \[Fist\] \[[Fist Style](Fists.md#styles)\]
 
--   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
+-   **Justicar's Prowess** \[Common Talent\] - [Jus Karita](Jus_Karita.md) gains +30% posture damage against other [fist styles](Fists.md#styles).
+    -   Gain +30% posture damage on weapon attacks against opponents using [Way of Navae](Way_of_Navae.md), [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Untrained Fist](Untrained_Fist.md), or [Legion Kata](Legion_Kata.md).  
+        
+    -   Prerequisites: [Jus Karita](#jus-karita)  
+        
+    -   Tags: \[Fist\] \[Posture Damage Buff\]
+
+-   **Justicar's Prowess** \[Common Talent\] - [Jus Karita](Jus_Karita.md) gains +30% posture damage against other [fist styles](Fists.md#styles).
+    -   Gain +30% posture damage on weapon attacks against opponents using [Way of Navae](Way_of_Navae.md), [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Untrained Fist](Untrained_Fist.md), or [Legion Kata](Legion_Kata.md).  
+        
+    -   Prerequisites: [Jus Karita](#jus-karita)  
+        
+    -   Tags: \[Fist\] \[Posture Damage Buff\]
+
+-   **Justicar's Renewal** \[Common Talent\] - Hitting an opponent with your [Jus Karita](Jus_Karita.md) critical resets the cooldown.
     -   Whenever you land the critical of Jus Karita, you can immediately use it again with no delay.
-        -   This effect can only happen every 10 seconds.
-        -   Despite the card saying "hitting", you do not need to damage someone to reset the cooldown (if it gets blocked, parried or dodged, it also resets it)
-        -   Prerequisite: Jus Karita
+    -   This is hard coded to only work on the default Jus Karita critical and the Vanguard critical from the [Justicar](<Justicar_(Origin).md>) Origin.
+    -   10 second cooldown.
+    -   Despite the description stating "hitting", this effect also procs on block, parry, and dodge.  
+        
+    -   Prerequisites: [Jus Karita](#jus-karita)  
+        
+    -   Tags: \[Critical Attack\] \[Fist\]
 
--   Swiftkick Prodigy \[Common Talent\] - Hitting successive Basic Attacks with Jus Karita will give a temporary speed buff.
-    -   Hitting your opponent with the M1s 3 times will grant you a speed boost.
-    -   Prerequisite: Jus Karita
+-   **Justicar's Renewal** \[Common Talent\] - Hitting an opponent with your [Jus Karita](Jus_Karita.md) critical resets the cooldown.
+    -   Whenever you land the critical of Jus Karita, you can immediately use it again with no delay.
+    -   This is hard coded to only work on the default Jus Karita critical and the Vanguard critical from the [Justicar](<Justicar_(Origin).md>) Origin.
+    -   10 second cooldown.
+    -   Despite the description stating "hitting", this effect also procs on block, parry, and dodge.  
+        
+    -   Prerequisites: [Jus Karita](#jus-karita)  
+        
+    -   Tags: \[Critical Attack\] \[Fist\]
 
--   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost.
-    -   Prerequisites: Jus Karita, Swiftkick Prodigy
+-   **Swiftkick Prodigy** \[Common Talent\] - Hitting successive Basic Attacks with [Jus Karita](Jus_Karita.md) will give a temporary speed boost.
+    -   Hitting your opponent with the M1s 3 times will grant you a speed boost.  
+        
+    -   Prerequisites: [Jus Karita](#jus-karita)  
+        
+    -   Tags: \[Fist\] \[Speed Boost\]
+
+-   **Swiftkick Prodigy** \[Common Talent\] - Hitting successive Basic Attacks with [Jus Karita](Jus_Karita.md) will give a temporary speed boost.
+    -   Hitting your opponent with the M1s 3 times will grant you a speed boost.  
+        
+    -   Prerequisites: [Jus Karita](#jus-karita)  
+        
+    -   Tags: \[Fist\] \[Speed Boost\]
+
+-   **Flying Swiftkick** \[Common Talent\] - Hitting a [Jus Karita](Jus_Karita.md) critical attack while [Swiftkick Prodigy](#swiftkick-prodigy) is active will greatly slow your enemy, and consume your speed boost.
+    
+    -   Prerequisites: [Jus Karita](#jus-karita), [Swiftkick Prodigy](#swiftkick-prodigy)  
+        
+    -   Tags: \[Critical Attack\] \[Debuff\] \[Fist\] \[Slow\]
+
+-   **Flying Swiftkick** \[Common Talent\] - Hitting a [Jus Karita](Jus_Karita.md) critical attack while [Swiftkick Prodigy](#swiftkick-prodigy) is active will greatly slow your enemy, and consume your speed boost.
+    
+    -   Prerequisites: [Jus Karita](#jus-karita), [Swiftkick Prodigy](#swiftkick-prodigy)  
+        
+    -   Tags: \[Critical Attack\] \[Debuff\] \[Fist\] \[Slow\]
 
 ### Kickstarter
 
--   Kickstart \[Common Talent, Fortitude // Charisma, Thundercall\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
-    -   Use kickstart on an Unconscious target to bring them back up and healing them for 10% of their maximum health. On use, this takes 5% of your Ether, draining an additional 20% on successful use.
-    -   Kickstart's animation takes 3 seconds to complete, and you cannot act during this animation.
+-   **Kickstart** \[Common Talent\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
+    -   Use kickstart on an [Unconscious](Status_Effects.md#unconscious) target to bring them back up and heal them for 10% of their maximum health.
+    -   On use, this takes 5% of your Ether, draining an additional 20% on successful use.
+    -   Kickstart's animation takes 3 seconds to complete, during which, you cannot perform any actions.
+    -   Kickstart has a 10 second cooldown.
     -   Despite the description stating "allies", this can be used on non-allies and even humanoid NPCs.
-    -   Can be used on people who are [Sleeping](Status_Effects.md#sleeping) from Cap Artist or [Paralytic Dust](Paralytic_Dust.md).
-    -   Prerequisites: 40 Fortitude // 40 Charisma, 50 Thundercall
+    -   Can be used on people who are [Paralyzed](Status_Effects.md#paralyzed) from [Cap Artist](#cap-artist) or [Paralytic Dust](Paralytic_Dust.md).  
+        
+    -   Prerequisites: 40 Fortitude // 40 Charisma, 50 Thundercall  
+        
+    -   Tags: \[Fortitude\] \[Charisma\] \[Thundercall\] \[Support\] \[Tool\]
+
+-   **Kickstart** \[Common Talent\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
+    -   Use kickstart on an [Unconscious](Status_Effects.md#unconscious) target to bring them back up and heal them for 10% of their maximum health.
+    -   On use, this takes 5% of your Ether, draining an additional 20% on successful use.
+    -   Kickstart's animation takes 3 seconds to complete, during which, you cannot perform any actions.
+    -   Kickstart has a 10 second cooldown.
+    -   Despite the description stating "allies", this can be used on non-allies and even humanoid NPCs.
+    -   Can be used on people who are [Paralyzed](Status_Effects.md#paralyzed) from [Cap Artist](#cap-artist) or [Paralytic Dust](Paralytic_Dust.md).  
+        
+    -   Prerequisites: 40 Fortitude // 40 Charisma, 50 Thundercall  
+        
+    -   Tags: \[Fortitude\] \[Charisma\] \[Thundercall\] \[Support\] \[Tool\]
 
 ### Lancer
 

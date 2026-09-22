@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 228828
+revid: 229657
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -44,7 +44,7 @@ No Stat Requirement
 
 [Bladeharper](Oath%253A_Bladeharper.md)
 
-(75 MED or comb. 90 WEP) + (25 STR or AGL)
+(75 MED or comb. 90 total points into any WEP stat)
 
 [Blightsurger](Oath%253A_Blightsurger.md)
 

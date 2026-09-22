@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 229203
+revid: 229652
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -77,7 +77,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 
 **Unlockable Dialogue:**
 
-{{#tag:tabber|Obtaining Chainwarden=
+**Obtaining Chainwarden:**
 
 **Quest Start:**
 
@@ -151,7 +151,7 @@ This dialogue is unlocked if the player meets the requirements to unlock [Chainw
 </tbody>
 </table>
 
-|-|Chainwarden Unlocked=
+**Chainwarden Unlocked:**
 
 **Maxed Out:**
 

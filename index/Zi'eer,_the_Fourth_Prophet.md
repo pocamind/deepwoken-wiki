@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 229397
+revid: 229651
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits, Prophets of The Ministry, Humanoid Bosses]
@@ -365,7 +365,7 @@ Jump
 | **After breaking the Coral Throne and initiating his second phase** | Heh! How can _anyone_ be this foolish? You wish for me to take you seriously? Hmph_. Fine_. But your fate remains the same. You. Will. Die! |
 | **At ~66% Shield Integrity during Phase 2** | You may try and try, Ironsworn, but your _pathetic_ attacks will _never_ reach me. |
 | **At ~33% Shield Integrity during Phase 2** | Why won't you perish, you stupid _worm_? Why do you persist?! You think you have a fighting chance, **just because you made me rise to my feet?!** |
-| **At 0% Shield Integrity during Phase 2; using 'The Master of the House'** | We are _not_ finished_._ I am the judge, jury, and executioner of your fate. With this now, **is my final act of judgement!** |
+| **At 0% Shield Integrity during Phase 2; using 'The Master of the House'** | We are _not_ finished_._ I am the judge, jury, and executioner of your fate. Witness now, **my final act of judgement!** |
 | **Upon hitting the Inheritor with 'Prepared Equalizer' in either phase** | 
 -   _Pathetic._
 -   Pathetic!

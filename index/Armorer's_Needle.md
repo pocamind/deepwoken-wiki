@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 227613
+revid: 229653
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -43,7 +43,9 @@ It can also be crafted into a [Gilded Needle](Gilded_Needle.md) with 3 **Armorer
 
 Currently known to drop from a wide variety of sources. Refer to the obtainment section in the infobox.
 
-If you are in dire need of many **Armorer's Needles**, the best and safest way to farm them is by killing the [The Ferryman](The_Ferryman.md), as he is a fairly weak boss that can be defeated in just a few minutes. Once beaten, you can leave the instanced server and can quickly fight him again.
+The safest method to obtain **Armorer's Needles** is via [Saramaed Hollow](Saramaed_Hollow.md), as there is practically zero risk with decent yield of both Armorer's Needles and Smith's Alloys which can be crafted into Armorer's Needles. [Ignition Delver](Ignition_Delver.md) with the better crafting yield and the additional [Pluripotent Alloy](Pluripotent_Alloy.md) crafting option from the [Hollow Forge](Hollow_Forge.md) allows this method to have great yield while still being safe.
+
+One of the safest and best methods is by killing the [The Ferryman](The_Ferryman.md), as he is a fairly weak boss that can be defeated in just a few minutes. Once beaten, you can leave the instanced server and can quickly fight him again.
 
 If you are more confident in your PvE skills, you may farm [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) for multiple needles per run per relic chest. This will take around 20-25 minutes solo, due to having to clear out guards and position prisoners for emergency-healing; so it is advisable to have allies clear out enemies in one section, while you clear out another, to get to the boss-fight quicker, and increase relic-yield (how the relics are distributed amongst players is at the party's discretion).
 

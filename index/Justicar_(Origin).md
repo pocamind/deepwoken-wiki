@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 229549
+revid: 229658
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -204,6 +204,8 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire]
 -   **Mark Mastery** - Reduce the amount of extra damage you receive while your ally is marked with the [Justicar's Mark](Status_Effects.md#justicars-mark) from 20% to 5%.
     -   Prerequisite: Justicar's Mark
 -   **Righteous Violence** - Landing a Critical Attack heals your [marked](Status_Effects.md#justicars-mark) ally. Landing a [Jus Karita](Jus_Karita.md) critical or Karita Swap heals your marked ally even more.
+    -   Heals a flat 5% with the jus karita critical attack. (HEAL WITH A DIFFERENT CRITICAL - TO BE TESTED)
+    -   Seemingly has a very small cooldown of ~1.5 seconds.
     -   Prerequisite: Justicar's Mark
 -   **Kindness** - Whenever you heal another player, heal 5 health yourself.
     -   3 second cooldown.
