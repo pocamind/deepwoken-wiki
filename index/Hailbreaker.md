@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 227654
+revid: 229647
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Divers]
@@ -46,7 +46,7 @@ The **Hailbreaker** is a [Greatsword](Greatswords.md) that scales with Frostdraw
 
 ## Critical
 
-The Hailbreaker has three different criticals. When a critical is landed, it will advance to the next stage, changing its appearance. The stages are reset upon being sheathed.
+The Hailbreaker has two different criticals. When a critical is landed, it will advance to the next stage, changing its appearance. The stages are reset upon being sheathed.
 
 For the **Stage I**/**II** critical, the user slowly winds up before performing a heavy ice-infused slash, Three ice blasts will form a triangle around the user after a short delay.
 

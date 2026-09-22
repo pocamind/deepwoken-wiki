@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 224945
+revid: 229645
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Layer 1, Oath Trainer]
@@ -232,3 +232,4 @@ This dialogue is unlocked if the player meets the requirements to obtain [Oath: 
 -   [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   There is an [Enchantment](<Curse_of_Yun'Shul.md>) named after Yun'Shul, the Curse of Yun'Shul.
 -   Oathbreaking while having equipped an weapon that you dont have requirements of will result on that weapon being unequiped and automatically being swapped by a [Sword](<Sword_(weapon).md>) even if you don't have it on your inventory.
+-   The Shrine of Yun'Shul can be found in the official Roblox event "[Hunt: Roblox 20](https://www.roblox.com/games/74205509034203/The-Hunt-Roblox-20%7CThe)" located in the 2021 section of the lobby.
