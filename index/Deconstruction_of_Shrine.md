@@ -1,6 +1,6 @@
 ---
 title: Deconstruction of Shrine
-revid: 229611
+revid: 229629
 source: https://deepwoken.fandom.com/wiki/Deconstruction_of_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Shields, Offhand]
@@ -38,4 +38,4 @@ The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 ## Trivia
 
 -   Deconstruction of Shrine offers the worst stats of any shield, even being outclassed by [Targe](Targe.md), which has a requirement of 10 fortitude compared to Deconstruction of Shrine's 15 while having double the Posture bonus.
--   The image is of a shrine during the low poly era
+-   The shield depicts a shrine rendered in extremely low detail, resembling models that could be seen when using very low graphics settings or certain fast flags.

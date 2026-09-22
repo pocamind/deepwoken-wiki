@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 219244
+revid: 229615
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -53,6 +53,7 @@ Seasonal mob changes also occur. For example, [Blizzard Knights](Stone_Knight.md
 -   [Blizzard Knights](Stone_Knight.md) will spawn if you enter the [Valley of Heroes](The_Valley_of_Heroes.md), triggered at the [Aelita Event](Aelita.md) area.
 -   [Hero Blades](Hero_Blades.md) and Ministry Cloaks may be fished up.
 -   The Trees in the [Burning Stone Gardens](Burning_Stone_Gardens.md) emit a white glow instead of their usual orange.
+-   [Hemoblooms](Hemobloom.md) can be found in [The Valley of Heroes](The_Valley_of_Heroes.md).
 
 ## Notes
 

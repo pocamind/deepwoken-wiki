@@ -1,6 +1,6 @@
 ---
 title: Spotlight
-revid: 229557
+revid: 229619
 source: https://deepwoken.fandom.com/wiki/Spotlight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Upcoming content, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations]
@@ -38,7 +38,7 @@ notices:
 
 ## Description
 
-The **Spotlight** is a weapon that can only be obtained by winning the _Deepwoken Movie Contest_.
+The Spotlight is a weapon that can only be obtained by winning the _Deepwoken Movie Contest_.
 
 ## Critical
 

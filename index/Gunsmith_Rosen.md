@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 229523
+revid: 229625
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Individuals with He/him pronouns, Gunsmiths]

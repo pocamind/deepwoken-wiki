@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 220954
+revid: 229618
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Reputation, Mechanics]
@@ -82,7 +82,7 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 
 -   NPCs tied to the relevant faction will attack on sight, including town guards.
 -   Player will appear on [bounty boards](Bounty_Hunting.md) (starting from [Power](Power.md) 5) and if the player is enemies with any of the factions listed below, they can be hunted down by [Voidwalkers](Voidwalker.md).
-    -   [Etrea](Etrea.md), [The Central Authority](The_Central_Authority.md), [The Hive](The_Hive.md), [The Summer Company](The_Summer_Company.md), [The Ignition Union](The_Ignition_Union.md), [The Divers](The_Divers.md), [The Knives of Eylis](The_Knives_of_Eylis.md)
+    -   [Etrea](Etrea.md), [The Central Authority](The_Central_Authority.md), [The Hive](The_Hive.md), [The Summer Company](The_Summer_Company.md), [The Ignition Union](The_Ignition_Union.md), [The Divers](The_Divers.md), [The Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md)
 -   Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksmiths and Antiquarians.
 
  |

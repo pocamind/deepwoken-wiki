@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 229604
+revid: 229630
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -443,6 +443,7 @@ Sold Items
     <li><b>Heavy Weapons</b>: <a href="Boltcrusher.md">Boltcrusher</a>, <a href="Crypt_Blade.md">Crypt Blade</a></li>
   </ul></li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a></li>
+    <li><b>For 10 </b>: <a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></li>
     <li><b>For 35 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
   </ul></td>
 </tr>
