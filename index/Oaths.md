@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 229657
+revid: 229663
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -131,7 +131,7 @@ comb. 50 WLL, CHA
 ### Upcoming Oaths
 
 -   Warmaster
--   Chef
+-   Chef (coming with the Beyond The Boundary update stated by Agamatsu)
 -   Voidhunter[\[1\]](#cite-note-1)
 
 ## Oath Skipping

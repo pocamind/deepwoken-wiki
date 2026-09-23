@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 216621
+revid: 229665
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,9 +20,7 @@ War Mode is an activity available in the **Eastern Luminant**, pitting players f
 
 ## Activation
 
-War Mode can be initiated at the Warcaller Bell located near [The Entropy Catalyst](The_Entropy_Catalyst.md) (on the side of the water lock). With at least 2 different guilds and at least 10 players, ringing the bell will initiate a small preparation phase before War Mode begins, then last for 20 minutes.
-
-War Mode is a competitive activity in the **Eastern Luminant** where players from different Guilds battle for control of the sea and its riches. It is activated by ringing the Warcaller Bell near [The Entropy Catalyst](The_Entropy_Catalyst.md) (by the water lock). With at least 2 different guilds and 10 players present, a short preparation phase begins before War Mode starts, lasting up to 20 minutes.
+War Mode can be initiated by ringing the Warcaller Bell located at [Siirka Point](Siirka_Point.md) (on the side of the water lock). There must be a minimum of 10 players from at least 2 different guilds in the server. To activate War Mode, 4 players must ring the bell. Once activated, a short preparation phase will begin before War Mode starts, and the event will last for 20 minutes.
 
 ## Effects
 
