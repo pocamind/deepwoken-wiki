@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 224994
+revid: 229689
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, NPCs, The Depths, Voiced Characters]
@@ -37,7 +37,7 @@ _"Isolate or hide away."_
 _"The state or feeling of being actively opposed or hostile to someone or something."_
 
 -   The Voice of Enmity is highly aggressive towards the players. They are highly sadistic and it sees higher level players "fit for crushing". It enjoys the scene of players being attacked by the monsters of the trial, hoping that the players will be killed.
--   When multiple players try to escape The Depths together, it decides that the players deserve true punishment, [coming down personally](Heart_of_Enmity.md) to punish the players for their folly.
+-   When multiple players try to escape The Depths together, it decides that the players deserve true punishment, and manifests as the [Heart of Enmity](Heart_of_Enmity.md) to punish the players for their folly.
 
 ### Voice of Authority
 
@@ -54,7 +54,7 @@ _"The state or situation of being alone."_
 -   The Voice of Solitude is the Voice in charge of operating the [Trial of One](Trial_of_One.md).
 -   The Voice seems eager to draw out the player's true strength by testing them through the trial.
 -   It mentions that the player could possibly be "what we have been searching for". It is unknown what the Voice means by this.
--   This Voice seems at least more benevolent than the others Voices who run the Trials. The Voice rewards the "lone warrior" who pass his trials with a rapid increase of Talents, experience, and unlocking their true potential by allowing the player to face true adversity.
+-   This Voice seems at least more benevolent than the others Voices who run the Trials. The Voice rewards the "Lone Warrior" who pass his trials with a rapid increase of Talents, experience, and unlocking their true potential by allowing the player to face true adversity.
 
 ## Dialogue
 
@@ -117,7 +117,7 @@ _"The state or situation of being alone."_
   <td>[Voice of Enmity] <b>...</b></td>
 </tr>
 <tr>
-  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FUILFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
+  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FULFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
 </tr>
 <tr>
   <td>[Voice of Sequestration] <b>Be seeing you soon, my lovelies...</b></td>
@@ -136,7 +136,7 @@ _"The state or situation of being alone."_
   <td colspan="0">Dialogue begins</td>
 </tr>
 <tr>
-  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FUILFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
+  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FULFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
 </tr>
 <tr>
   <td colspan="0">[End Dialogue], you are sent back to the surface.</td>
@@ -155,7 +155,7 @@ _"The state or situation of being alone."_
   <td>[Voice of Enmity] <b>This... is no triumph Your arrogance only spoils the offering you will make when your soul is claimed by our Master below.</b></td>
 </tr>
 <tr>
-  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FUILFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
+  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FULFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
 </tr>
 <tr>
   <td>[Voice of Odium] <i><b>*Deep sigh*</b></i></td>

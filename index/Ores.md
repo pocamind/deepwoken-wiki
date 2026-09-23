@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 228002
+revid: 229683
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -120,7 +120,15 @@ categories: [Items, Harvestables]
 
 **Ores** are materials found all around the map, usually in caves. They are used for crafting various [Outfits](Outfits.md) and traded for chests. They can be harvested with a [pickaxe](Pickaxe.md) by pressing E on them. They're also dropped from [Mineskippers](Mudskipper.md#mineskipper).
 
-Harvesting any ore (except for Rock and Coal) has a chance to drop a "Pure" version of the ore. Pure ores can be traded with a [Blacksmith](Blacksmith.md) to obtain a chest, or can be crafted into 3 of the ore's base form (by hand); you cannot craft 3 ores into a "Pure" ore. They also typically sell at 3x the amount of the base ore. Trading in 5 Pure ores will grant the [Excavator](Talents.md#excavator) Talent, which increases mining speed and grants an additional chance of obtaining 2 ores from mining a deposit.
+Mining any ore, except Rock and Coal, has a chance to yield a Pure version of that ore.
+
+Pure Ores have several uses:
+
+-   Trade: Take a Pure Ore to a [Blacksmith](Blacksmith.md) to exchange it for a chest and some EXP.
+-   Craft: A Pure Ore can be crafted by hand into 3 of its regular ore. However, 3 regular ores cannot be combined or crafted into a Pure Ore.
+-   Sell: Pure Ores typically sell for 3× the value of their regular counterpart.
+
+Trading in 5 Pure Ores to blacksmiths grants the [Excavator](Talents.md#excavator) Talent, which increases mining speed and gives you an additional chance to obtain 2 ores from a single deposit.
 
 Additionally, ores are used in a quest given by [Adar](Adar,_Master_of_Metal.md) to unlock [Ironsing](Ironsing.md). Ironsing users are able to consume ores to train Ironsing.
 

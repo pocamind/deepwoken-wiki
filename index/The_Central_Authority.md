@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 229669
+revid: 229690
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -30,7 +30,7 @@ The Authority is the main enemy of the Kingdom of [Etrea](Etrea.md), having cons
 
 The military of The Authority consists of both real-world insignia (Private, Corporal, Lance Corporal) and more fantastical titles (Warden, Vice-Warden). The Authority has multiple divisions within their military structure, including the 'Shock Corps', the 'Winter Corps', the '[Inquisition](The_Inquisition.md)', and formerly the 'Expeditionary Corps'. The Authority's military also makes use of conscription.[\[4\]](#cite-note-4)
 
-The most commonly used attunement among Authority NPCs is [Flamecharm](Flamecharm.md). There are multiple instances of [Thundercall](Thundercall.md) also being used, however only a handful of NPCs actually utilize it in-game. However, the Authority features more player accessible content in relation to [Thundercall](Thundercall.md) within the Shock Corps divisional [talents](Talents.md) as well as the [Voltspark Mask](Authority_Voltspark_Mask.md) and [Rite of Authority](Rite_of_Authority.md) weapon. While uncommon, other attunments are used by The Authority. For example: [Frostdraw](Frostdraw.md) is used by [Authority Captains](Authority_Captain.md) and [Captain Marley](Captain_Marley.md), while [Galebreathe](Galebreathe.md) is only ever used by the [Vice-Warden](Vice-Warden.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) and [Sibex](Sibex.md) as seen by their Gale Wisp.
+The most commonly used attunement among Authority NPCs is [Flamecharm](Flamecharm.md). There are multiple instances of [Thundercall](Thundercall.md) also being used, however only a handful of NPCs actually utilize it in-game. However, the Authority features more player accessible content in relation to [Thundercall](Thundercall.md) within the Shock Corps divisional [Talents](Talents.md) as well as the [Authority Voltspark Mask](Authority_Voltspark_Mask.md) and [Rite of Authority](Rite_of_Authority.md) weapon. While uncommon, other attunments are used by The Authority. For example: [Frostdraw](Frostdraw.md) is used by [Authority Captains](Authority_Captain.md) and [Captain Marley](Captain_Marley.md), while [Galebreathe](Galebreathe.md) is only ever used by the [Vice-Warden](Vice-Warden.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) and [Sibex](Sibex.md) as seen by their Gale Wisp.
 
 The Authority works with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 

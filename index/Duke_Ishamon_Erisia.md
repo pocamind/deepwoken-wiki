@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 228540
+revid: 229682
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Bosses, Humanoid Bosses, Voiced Characters, Members of the Erisia family]
@@ -562,6 +562,10 @@ Exhaustive Loot Table
 -   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. This doesn't work with Sing.
 -   If you don't kill all the enemies in the first area, Duke Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
 -   Do NOT count on using Mindless Servants as health packs, due to the fact that the Duke may NOT SUMMON THEM AT ALL in a fight.
+-   Upon Gripping Duke he might give one of these Three Speeches:
+    -   "Vermin! You seek to Let [Celtor](Lost_Celtor.md) Repeat?"
+    -   "No! I won't let this be the end!"
+    -   "Can't you see what I'm doing for humanity!?"
 
 After completing his "Memories of Home" challenge in the [Bestiary](Bestiary.md), extra information is revealed about him: "The Duke is known to have witnessed the Submergence of Celtor, an event that may well have set him down the path he chose."
 
