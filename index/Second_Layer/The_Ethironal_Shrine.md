@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 229612
+revid: 229673
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -42,25 +42,25 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 
 ### Main Questline
 
-1.  Open the starting door via a glowing orb on the cliffs of the outskirts (alternatively use the resonance door).
-2.  Turn on the Generator at the top of the tower near Pilgrim's Respite, this requires you to kill a weakened [Bone Keeper](../Bone_Keeper.md). If you're not able to or scared to fight the [Bone Keeper](../Bone_Keeper.md), there is a way to skip him by dropping down at the end of the bridge, traversing trough the snow until you reach [The Frontier Furnace](../The_Frontier_Furnace.md) to remove Parasites and regenerate. The barrier will despawn after some minutes, though the Bone Keeper won't. You will still be able to activate the generator.
-    1.  **(OPTIONAL)** Gain the Union Hook Talent by traversing the snow in Layer Two until you reach the [Frontier Furnace](../The_Frontier_Furnace.md) and talk to [Alpha](../Alpha.md). You may also talk to [Llevyn](../Llevyn.md) to activate the Deepdrill.
-3.  Retrieve the Blue Spear within the depths of [Firfire Caverns](../Firfire_Caverns.md) (OPTIONAL AFTER THE FIRST RUN), and go to [Firfire](../Firfire.md)
-4.  Talk to Leader Erosius Amaltus Urivortus Alistus Casius Walistoshus, where he will then open the door to the [Nest Corridor](../Nest_Corridor.md). If you have a form of wall-clipping, you may skip talking to him.
+1.  Open the starting door via a glowing orb on the cliffs of the outskirts or unlock a [Resonance Door](../Resonance_Door.md) nearby.
+2.  Traverse through the the area untill you reach a trifurcation with a broken path, follow the rightmost path to a trapped room and follow to a bridge where you will fight a [Bone Keeper](../Bone_Keeper.md). While the [Bone Keeper](../Bone_Keeper.md) is alive, two transluscent blue walls will prevent your progress or return. Upon victory, climb onto the building and activate The Generator. Backtrack onto the trifurcation and immediately take the right path to [Pilgrim's Respite](<../Pilgrim's_Respite.md>) where you can remove Parasites and regenerate.
+    1.  **(OPTIONAL)** Upon activating the generator, you will gain access to the [Frontier Furnace](../The_Frontier_Furnace.md), where you can talk to [Alpha](../Alpha.md) to obtain the [Union Hook](../Talent_Quests.md) quest talent. You may also talk to [Llevyn](../Llevyn.md) to activate the Deepdrill.
+3.  Traverse the path untill you reach the [Firfire Caves](../Firfire_Caverns.md), take two immediate turns right and fall on the collapsing floor, turn 180 degrees and climb into the crack in the wall, follow through the parasite-pool corridor and walk down the stairs where you will find the Blue Lance in a hole with three [Carbuncles](../Carbuncle.md), then backtrack untill you've crossed the parasite corridor again and take the gated path which will lead you back onto the first floor of the cave, proceed through where you initially fell and climb up the snow pit, turn 180 degrees again and follow the path to your right where you will find a large gate, open the gate and climb up to reach the [Firfire](../Firfire.md) Settlement.
+4.  Talk to Leader [Erosius Amaltus Urivortus Alistus Casius Walistoshus](../Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md), where he will then open the door to the [Nest Corridor](../Nest_Corridor.md), which you can find by following straight at where you've previously turned 180 degrees at the snow pit. Beware the Bounders in the [Nest Corridor](../Nest_Corridor.md) and avoid touching the ground to prevent their ragdoll and their pound attacks.
     1.  **(OPTIONAL)** If you have talked to Llevyn, you may take the Deepdrill in order to abandon a run early within the Nest Corridor.
-5.  Traverse through [The Maw of Ethiron](../The_Maw_of_Ethiron.md) and reach [The Cathedral](../Cathedral_of_Ethiron.md) in order to defeat [a traitorous Black Diver](../Chaser,_Scholar_of_the_Crimson_Contract.md).
-6.  From there you may either Leave or [Delve Deeper](New_Kyrsa.md).
+5.  Traverse through [The Maw of Ethiron](../The_Maw_of_Ethiron.md)'s towers while avoiding the falling debris and collapsing bridges and rocks and reach [The Cathedral](../Cathedral_of_Ethiron.md) in order to defeat [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md).
+6.  After defeating [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md), Klaris will create a [Light Hook](../Light_Hook.md) which you can take to return to [First Layer](../First_Layer.md) or follow the hole created by Chaser to enter [New Kyrsa](New_Kyrsa.md).
     1.  Note that delving deeper will **lower your hook time** to 10 minutes if you have more than 10 minutes left on your hook.
 
 ### **Puzzle Route (Skip)**
 
-To do this repeat the same steps as the Main method up to 4
+To do this, reach Firfire, talk to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](../Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) and the other kyrsan at the nearby translucent wall to unlock it, permiting you easy access back ot the start of the Firfire Cave.
 
-1.  Instead of obtaining the blue spear in the firfire caverns keep going and then make a U turn to the left, keep walking forward and eventually after seeing a fence on the wall there will be a floor collapse, you will then go the opposite way you were going until you see openings to the left which you will go to the deepest one, by then you should see pits of parasites hidden by fog, make a right turn and then keep going until you see rocks which allow you to climb over a layer of fog, you will then find the entrance to the puzzle room
-2.  to complete the puzzle you must enter the right symbols in the 4 slots before the spikes reach you **(The spikes wipe you instantly)** the code is fairly simple, from the entrance it goes 2 1 3 4, if you are confused on which side you came from if you follow from the gray door the order will be 4 3 1 2.
-3.  Run from the 2 bounders until you reach a portal
-4.  enter the portal **(Requires defeating chaser once on your character before)**
-5.  Additionally, entering Floor 2 this way will activate all obelisk required to fight Ethiron, and skips the Misérables requirement to activate the purge shrine in Layer 2 Floor 2, and will remove your light hook.
+1.  ~Instead of obtaining the blue spear in the firfire caverns keep going and then make a U turn to the left, keep walking forward and eventually after seeing a fence on the wall there will be a floor collapse, you will then go the opposite way you were going until you see openings to the left which you will go to the deepest one, by then you should see pits of parasites hidden by fog, make a right turn and then keep going until you see rocks which allow you to climb over a layer of fog, you will then find the entrance to the puzzle room~ **(WIP)**
+2.  To complete the puzzle you must enter the right symbols on the floor tiles, the code is **2 - 1 - 3 - 4** ordered by which tiles you come to first. You are supposed to solve this by matching the floor tiles to the symbols drawn on the roof on top of them. **Be extremely careful with the cyan tiles on the wall**, these tiles close in with time and will **one-shot** you, it is reccomended to avoid holding your weapon out while doing this puzzle to avoid your weapon contacting the tile and registrying as your character, killing you instantly.
+3.  Make your way across the porous bridge, **be extremely careful to not fall in these holes**.
+4.  enter the portal, be careful as since you're entering the second layer without Klaris' assitance, you will not have a light hook. **(To enter the portal, you specifically require defeating chaser at least once on your current character)**.
+5.  Additionally, entering Floor 2 this way will activate all obelisks required to fight Ethiron and the bridge from the spawn area to the city as well as skipping the Misérables requirement to activate the purge shrine in Layer 2 Floor 2. **Do note that you are still required to activate the purge shrine.**
 
 ## Hazards
 
