@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229662
+revid: 229681
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -9623,14 +9623,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Guardbreak\]
 
 -   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a [strength mantra](Attunement-less.md#strength-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, slowing them down.
-    -   Aapplies a 50% slow for 5.5 seconds on proc.
+    -   Applies a 50% slow for 5.5 seconds on proc.
     -   10 second cooldown.
     -   If you have the full Reinforced War Set, this will deal an additional 15 true damage on proc.  
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Debuff\] \[Guardbreak\] \[Slow\]
 
 -   **Fatal Strike**: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a [strength mantra](Attunement-less.md#strength-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, slowing them down.
-    -   Aapplies a 50% slow for 5.5 seconds on proc.
+    -   Applies a 50% slow for 5.5 seconds on proc.
     -   10 second cooldown.
     -   If you have the full Reinforced War Set, this will deal an additional 15 true damage on proc.  
         

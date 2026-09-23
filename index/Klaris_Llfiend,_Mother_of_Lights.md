@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 229641
+revid: 229679
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -143,27 +143,13 @@ Radiant Teachings
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Ugh, I don't have time to train you Apprentices. <b>SCRAM!</b></td>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Player is below Power 10 And Deepbound origin:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Ugh, can this wait?I don't have time to train Apprentices.</td>
+  <td colspan="12">Ugh, can this wait? I don't have time to train Apprentices.</td>
 </tr>
 <tr>
   <td colspan="3">Why not?</td>
 </tr>
 <tr>
-  <td colspan="12">*She exhales a weary sigh.*We lost an expedition team heading into the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. I've got my hands full looking for competent <a href="Glossary.md#the-divers">Divers</a> willing to head down there and find out what happend. Get some more experience, and then maybe I can afford the time spent talking to you.</td>
+  <td colspan="12">*She exhales a weary sigh.*We lost an expedition team heading into the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. I've got my hands full looking for competent <a href="Glossary.md#the-divers">Divers</a> willing to head down there and find out what happened. Get some more experience, and then maybe I can afford the time spent talking to you.</td>
 </tr>
 <tr>
   <td colspan="12">[End Dialogue]</td>
@@ -196,94 +182,29 @@ Radiant Teachings
 </tbody>
 </table>
 
-**Player is Power 10 or above And Deepbound origin:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">Hm. You again? You're looking more competent now.</td>
-</tr>
-<tr>
-  <td colspan="6">Why do you need competent people?</td>
-  <td colspan="6">Who are you?</td>
-</tr>
-<tr>
-  <td colspan="6">We lost an expedition team heading into the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. We sent one of our <a href="Glossary.md#black-divers">Black Divers</a>, Chaser, down with about 20 experienced <a href="Glossary.md#the-divers">Divers</a>. Something seems to have gone wrong down there - it's not normal for him to not report back. We had reports from our scouts that powerful reverberations of the <a href="Glossary.md#the-song">Song</a> were coming from a passage within one of the Ethironal Sanctuaries. We think this might have clues to the resting place of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>.</td>
-  <td colspan="6">Skip the honorifics and call me Klaris. I run things around here, and I guess you could say I'm credited with the discovery of the <a href="Glossary.md#radiant-tones">Radiant Tones</a>, among other things.</td>
-</tr>
-<tr>
-  <td colspan="3">So where does that leave me?</td>
-  <td colspan="3">Ethiron?</td>
-  <td colspan="6">Radiant Tones?</td>
-</tr>
-<tr>
-  <td colspan="3">We can't afford to keep sending more <a href="Glossary.md#the-divers">Divers</a> down, we're thin on our numbers as it is. If you and a team are willing to go, I will bless you with a '<a href="Glossary.md#light-hook">Light Hook</a>' so you can make your way down. Also, if you can retrieve any of the <a href="Glossary.md#the-divers">Divers</a> we sent down we would really appreciate it.</td>
-  <td colspan="3">The <a href="Glossary.md#the-drowned-gods">Drowned God</a> of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a>. The one responsible for not only the harsh conditions of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, but also possibly the key we need to further understand the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
-  <td colspan="6">The <a href="Glossary.md#radiant-tones">Radiant Tones</a> are a Verse of the <a href="Glossary.md#the-song">Song</a> that can reproduce Light. According to our research, we believe <a href="Glossary.md#lightkeep">Lightkeepers</a> have used it latently for centuries to Illuminate pathways through the <a href="Glossary.md#the-voidsea">Voidsea</a>, but I found a way to reproduce the Verse and wield it against the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
-</tr>
-<tr>
-  <td colspan="2">Light Hook? What's that?</td>
-  <td>So, why send me down?</td>
-  <td colspan="3">So where does that leave me?</td>
-  <td colspan="6">You talk about the Depths like it's a living creature.</td>
-</tr>
-<tr>
-  <td colspan="2">The <a href="Glossary.md#light-hook">Light Hook</a> is a special technique of the <a href="Glossary.md#radiant-tones">Radiant Tones</a>. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no <a href="Glossary.md#light-hook">Light Hook</a> will save you then.</td>
-  <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the <a href="Glossary.md#scyphozia-the-first-layer">First Layer</a> are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the '<a href="Glossary.md#light-hook">Light Hook</a>' is ready.</td>
-  <td colspan="3">[See first instance]</td>
-  <td colspan="6">The landscape here... It <i>reacts</i>. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.</td>
-</tr>
-<tr>
-  <td colspan="2">I'm ready.</td>
-  <td>Light Hook? What's that?</td>
-  <td colspan="3"></td>
-  <td colspan="3">Why do you need competent people?</td>
-</tr>
-<tr>
-  <td>No Light Hook Active</td>
-  <td>Active Light Hook</td>
-  <td>[See first instance]</td>
-  <td colspan="3"></td>
-  <td colspan="3">[See first instance]</td>
-</tr>
-<tr>
-  <td>Alright. Bring 5 of you tops, we can't get any more down there right now. Stand in the circle with your team, and good luck out there.</td>
-  <td>A <a href="Glossary.md#light-hook">Light Hook</a> is already active. Stand within its circle when you're ready, and you'll be sent in a moment.</td>
-</tr>
-<tr>
-  <td>[End Dialogue], Light Hook is placed</td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-| colspan="12" style="color:#D2042D;" |\[End Dialogue\]
-
-|}
-
 **Starting Dialogues:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td colspan="15">Begin Dialogue</td>
 </tr>
 <tr>
+  <td colspan="3">Player returning to Klaris after reaching power 10+</td>
   <td colspan="3">Player returning to Klaris after a Layer 2 run</td>
   <td colspan="3">Player returning to Klaris after a Layer 2 run with no Light Hook</td>
   <td colspan="3">Player Oathbreaks Dawnwalker</td>
   <td colspan="3">Player is in danger</td>
 </tr>
 <tr>
+  <td colspan="3">Hm. You again? You're looking more competent now.</td>
   <td colspan="3">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a></td>
   <td colspan="3">Wait. You're back? After pulling you out of that pit, I figured you'd be out the door and on to somewhere else. So what brings you back, what did you find down there?</td>
   <td colspan="3">Ah, the flake is back again. What do you want?</td>
   <td colspan="3">Gods Below, dont bring your troubles to me.</td>
 </tr>
 <tr>
+  <td colspan="3">[See First Encounter]</td>
   <td colspan="9">Dialogue continues as normal</td>
   <td colspan="3">[End Dialogue]</td>
 </tr>
