@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 229096
+revid: 229692
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -262,7 +262,7 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 
 **Sovereign's Punishment:**
 
-This variant of Solaire wields a [Sovereign's Punishment](<Sovereign's_Punishment.md>) and wears an [Authority Voltspark Mask](Authority_Voltspark_Mask.md) alongside the [Grand Authority Plate](Grand_Authority_Plate.md) and a [Shade Fleet Warden Cape](Fleet_Warden_Cape.md). They also wear [Authority Commander](Authority_Commander.md). This one uses [Surge Thundercall](Thundercall.md). They are an [Etrean](Etrean.md).
+This variant of Solaire wields a [Sovereign's Punishment](<Sovereign's_Punishment.md>) and wears an [Authority Voltspark Mask](Authority_Voltspark_Mask.md) alongside the [Grand Authority Plate](Grand_Authority_Plate.md) and a [Shade Fleet Warden Cape](Fleet_Warden_Cape.md). They also wear [Authority Captain Uniform](Authority_Captain_Uniform.md). This one uses [Surge Thundercall](Thundercall.md). They are an [Etrean](Etrean.md).
 
 This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 

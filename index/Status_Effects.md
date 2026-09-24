@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 229223
+revid: 229717
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -182,7 +182,7 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
 -   Heal: +30% health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Candy Suncorn](Candy_Suncorn.md), [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md), [Fruit Salad](Fruit_Salad.md), or [Pumpkin Pie](Pumpkin_Pie.md).
 -   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Candy](Candy.md) or [Seafood Boil](Seafood_Boil.md).
 -   Brain: Increases the effectiveness or efficiency of your [Deep Gems](Deep_Gems.md); _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
-    -   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
+    -   [Aegis Gem](Aegis_Gem.md): Duration and cooldown increased from 10s to 15s.
     -   [Blessed Gem](Blessed_Gem.md): Cooldown reduction is increased from -50% to -66%.
     -   [Bloodless Gem](Bloodless_Gem.md): Heal cap increased from 15 to 20.
     -   [Blue Gem](Blue_Gem.md): No noticeable difference.
@@ -191,7 +191,7 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
     -   [Nocturnal Gem](Nocturnal_Gem.md): Damage is increased from 10 to 15.
     -   [Warped Blue Gem](Warped_Blue_Gem.md): No noticeable difference.
     -   [Wayward Gem](Wayward_Gem.md): Cooldown is reduced from 8s to 3s.
-    -   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration increased from 10s to 15s.
+    -   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration and Wind Gem cooldown increased from 10s to 15s.
     -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
 -   Scale: Reduces incoming Penetration by 15%; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
 -   Throat: Increases your [Taunt](Attunement-less.md#taunt) (Mantra)'s duration by 8 seconds and [Vow Command: Fight](#fight) duration by 7.5 seconds; _"An odd meal that soothes your throat!"_ Applied by consuming the [Dread Filet](Dread_Filet.md).
