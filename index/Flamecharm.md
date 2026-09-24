@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 229227
+revid: 229769
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1089,7 +1089,7 @@ N/A
 
 **Effect:** The caster summons a wisp of magma. Ritual Casted.
 
--   Flame Wisp reduces the burn damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
+-   Flame Wisp converts all burn tick damage you apply (whether onto yourself or other player), and converts it into healing for you.
 -   Ignites nearby campfire pits if not currently healing you.
 -   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
 -   With **Eruption Path: Lava Serpent**, you will heal 5 hp from every eruption that hits.

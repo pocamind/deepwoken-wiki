@@ -1,9 +1,9 @@
 ---
 title: Coldpoint
-revid: 229755
+revid: 229757
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Legendary Weapons, Light Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Rapiers, Legendary Weapons, Light Weapons]
 ---
 
 # Coldpoint
@@ -39,7 +39,7 @@ The Coldpoint is a Legendary Rapier; A long icicle kept forever frozen by a Vow,
 
 ## Talents
 
-{{text|wtal
+Equipping the Coldpoint grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**True Shatter**](Talents.md#true-shatter) procs upon landing a weapon critical, clearing all slow debuffs from your opponent, and dealing **5** true damage for every debuff you remove.
 

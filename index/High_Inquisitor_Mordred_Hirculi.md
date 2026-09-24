@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 215059
+revid: 229756
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Inquisitors of The Central Authority, Deceased characters]
@@ -31,7 +31,7 @@ Mordred also possessed unknown ties to the [Circle of Honour](Circle_of_Honour.m
 
 Mordred was an elderly man and eventually died in his sleep. He was succeeded by [High Inquisitor Merey](High_Inquisitor_Merey.md), who had been assigned as his successor prior to his passing, as the two had a good relationship during his career.[\[1\]](#cite-note-merey-1)
 
-He appears aged with grey hair. He wears an [Inquisitor's Visor](<Inquisitor's_Visor.md>), a [Fleet Warden Cape](Fleet_Warden_Cape.md), an [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md).
+He appears aged with grey hair. He wears an [Inquisitor's Visor](<Inquisitor's_Visor.md>), a [Fleet Warden Cape](Fleet_Warden_Cape.md), an [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Tracker's Boots](<Tracker's_Boots.md>). On his right side, he holsters a bell at her hip, signifying his strength to obtain a [Resonance](Resonance.md) and a side [Dawnshot](Dawnshot.md). On his left side he wields the [Big Brother](Big_Brother.md) dagger.
 
 ## Location
 
@@ -74,6 +74,7 @@ High Inquisitor Mordred Hirculi is located inside the war room of the fortress a
 ## Trivia
 
 -   [Mordred](https://en.wikipedia.org/wiki/Mordred) is a figure in Arthurian legend. Details vary greatly, but Mordred is generally characterized in popular culture as a villainous relative of [King Arthur](https://en.wikipedia.org/wiki/King_Arthur)'s who serves as a member of his [Knights of the Round Table](https://en.wikipedia.org/wiki/Knights_of_the_Round_Table), before he eventually betrays and kills Arthur for the throne.
+-   High Inquisitor Mordred Hirculi's hair id is 90166828235677
 
 ## References
 

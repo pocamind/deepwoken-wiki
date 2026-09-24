@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 229151
+revid: 229770
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,9 +8,13 @@ categories: [Mechanics]
 
 # Settings
 
+## Description
+
 By clicking the cogwheel icon on the top left of the screen, you can change your in-game settings.
 
-## Controls
+## Settings
+
+### Controls
 
 **PC:**
 
@@ -100,6 +104,10 @@ These Keybinds will only appear if you have the respective ability.
 -   Ritual Cast 2 - X / Unbound
 -   Ritual Cast 3 - C / Unbound
 -   Ritual Cast 4 - V / Unbound
+
+These keybinds only appear if you have the permissions to access them.
+
+-   Freecam - home / Unbound - Accessible in content creator private [servers](Servers.md).
     
 
 **Console:**
@@ -282,7 +290,7 @@ These Keybinds will only appear if you have the respective ability.
 -   Ritual Cast 4 - ↓ DPAD
     
 
-## Interface
+### Interface
 
 There are 14 interface related settings.
 
@@ -335,7 +343,7 @@ There are 14 interface related settings.
     -   When On: Server name, server region, exact server time, and the guilds of players in the playerlist are hidden. Additionally, hovering over player names on the server list will not display their usernames.
     
 
-## Audio
+### Audio
 
 There are 6 audio related settings.
 
@@ -346,7 +354,7 @@ There are 6 audio related settings.
 -   **Instruments Volume Slider 0-100** - "Adjust the volume of musical instruments heard in the world."
 -   **Voice Volume Slider 0-100** - "Adjust the volume of other players' voices."
 
-## Graphics
+### Graphics
 
 There are 5 graphics related settings.
 
@@ -363,7 +371,7 @@ There are 5 graphics related settings.
     -   When On: The camera will slightly adjust to the positioning of the player's torso, instead of remaining at one spot. Most noticeably, the camera will adjust as you perform attacks and parkour maneuvers.
     
 
-## Combat
+### Combat
 
 There are 8 combat related settings.
 
@@ -386,7 +394,7 @@ There are 8 combat related settings.
     -   When On: [Attack telegraphs](Combat_Mechanics.md#telegraphs) will be displayed solely as a colored outline on the character, rather than displaying the glyph.
     
 
-## Network
+### Network
 
 There are 2 network related settings.
 
@@ -394,7 +402,7 @@ There are 2 network related settings.
 -   **Ping Compensation On/Off** - "Delays incoming damage slightly to help you react."
     -   This delays damage taken to accommodate for ping, effectively increasing your reaction window for defensive measures.
 
-## Accessibility
+### Accessibility
 
 There are 3 accessibility related settings.
 
@@ -408,7 +416,7 @@ There are 3 accessibility related settings.
     
 -   **Sprint Input Behavior Hold/Toggle** - "Change whether you have to hold the sprint input, or whether you toggle it with each input."
 
-## Staff
+### Staff
 
 There is 1 staff related setting.
 
