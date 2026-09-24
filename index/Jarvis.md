@@ -1,9 +1,9 @@
 ---
 title: Jarvis
-revid: 226435
+revid: 229749
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Jarvis
@@ -11,7 +11,6 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easter
 | Jarvis | |
 |---|---|
 | name | Jarvis |
-| aspect | Etrean |
 | location | Summer Isle |
 | affiliation | The Summer Company |
 

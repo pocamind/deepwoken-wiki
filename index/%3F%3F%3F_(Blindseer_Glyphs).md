@@ -1,6 +1,6 @@
 ---
 title: ??? (Blindseer Glyphs)
-revid: 229564
+revid: 229754
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Blindseer_Glyphs)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -139,8 +139,8 @@ These dialogues are unlocked once the player has met the requirements for Blinds
   <td><i>*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the tenets of an <a href="Glossary.md#oaths">Oath</a> - that we are born with our eyes closed, and we merely choose to open them.*</i></td>
   <td><i>*With your eyes devoid of their own light, light from the glyphs seems to pierce through them. The light rearranges into a missive now legible. It details the tenets of an <a href="Glossary.md#oaths">Oath</a> - that some are born with their eyes closed, and they merely choose to open them.*</i></td>
   <td><i>*The writing on the rock is inscrutable. Whenever your eyes begin to focus on the glyphs, they seem to switch positions. Somehow, it feels like your <b>vision</b> is failing you.*</i></td>
-  <td><i>*WIP*</i></td>
-  <td><i>*WIP*</i></td>
+  <td><i>*You find the Words, and they light your way through the dark.*</i></td>
+  <td><i>*Despite your confidence, the Words elude you.*</i></td>
 </tr>
 <tr>
   <td colspan="2">[Take the Oath]</td>
