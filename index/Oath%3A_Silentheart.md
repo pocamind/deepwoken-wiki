@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 229066
+revid: 229771
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Attunement-less, A Sum of 75 Points Invested in Weapon Stats (LHT + MED + HVY ≥ 75), 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
+| oath_req | Attunement-less, A Sum of 75 Points Invested in Weapon Stats (LHT + MED + HVY ≥ 75), 25 Strength, 25 Charisma OR Agility |
 | effects | +2 Posture, +10 Health, +5% PEN |
 
 _For the version that existed prior to the 13th September, 2024, see [here](Oath%253A_Silentheart/Old_Silentheart.md)._
@@ -41,13 +41,11 @@ Meet the following requirements in any order:
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
 -   Have 25 points in Strength
 -   Have 25 points in **either** Charisma or Agility
--   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in the [Second Layer](Second_Layer.md) with a Light Hook.
 -   Encounter a ghost npc on the [Beloved Zofia](Beloved_Zofia.md) and speak to the Dreadstar afterwards, if you are the first player to do so on a server this will spawn the dread star in, if you however are not the first in the server to do so you must slay/survive a ghost encounter to interact with the Dreadstar.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to The Dreadstar
 
 -   Failing to meet any of the first 4 will cause The Dreadstar to say you do not have aptitude.
--   If you haven't died to an attunement player, The Dreadstar will say "You lack focus on your rage".
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
 
@@ -175,7 +173,6 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Heavy: -15 damage, -5 posture damage / Medium: -15 damage, -4 posture damage / Light: -7.5 damage, -1 posture damage.
 -   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
 -   Using any Silentheart ability will remove your active Whistleguard, granted you are wearing a [Whistling Periapt](Whistling_Periapt.md).
--   Dying to an attunement user does not necessarily mean being manually executed by them; dying by any method as long as they are the killer will work.
 -   You will still gain [Whisper Draws](Whisper_Draw.md) when leveling up, and from Special Mantra Hands.
 -   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.
 -   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
@@ -205,6 +202,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti) and [its critical hit animation](https://youtu.be/XBRlNFxUu2M?si=2NYvYsyVZIHbb5MN&t=15).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Regek.md) and complete the Soulblooms quest.
 -   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any Oath, having a whopping 12 (Including the [Oath](Oaths.md) itself).
+-   Formerly, you would have needed to been gripped by an attunement user, but that has been since changed. If you hadn't, The Dreadstar would say "You lack focus on your rage".
 
 ## References
 
