@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 225095
+revid: 229773
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -25,7 +25,7 @@ _Not to be confused with [Vice Warden Morredh](Vice_Warden_Morredh.md)._
 
 The Vice-Warden is a miniboss NPC in the [Merit Detainment Core](Merit_Detainment_Core.md). They wield an enchanted [Curved Blade of Winds](Curved_Blade_of_Winds.md), which can have up to 3 [Enchantments](Enchantments.md) at one time. They have multiple spawn areas, being able to spawn in the main prisoner room by the large gate, overlooking the main prisoner room, overlooking the room between the prisoner room and generator room, in the cell control room, in the laser control room or in the cannon control room.
 
-They can be a [Gremor](Gremor.md) with spiked or long hair, a [Capra](Capra.md) with spiked hair, a [Khan](Khan.md) with spiked hair or a [Celtor](Celtor.md) with short hair and a beard. They wear the [Authority Commander](Authority_Commander.md) outfit, alongside [Warden Pauldrons](Warden_Pauldrons.md) and an [Emerald Fleet Warden Cape](Fleet_Warden_Cape.md). They can also appear feminine in nature with any of these 5 variants. Their appearance varies based on where they spawn.
+They will always spawn in as a [Gremor](Gremor.md) with spiked hair. They wear the [Authority Commander](Authority_Commander.md) outfit, alongside [Warden Pauldrons](Warden_Pauldrons.md) and an [Emerald Fleet Warden Cape](Fleet_Warden_Cape.md). They can also appear feminine in nature with any of these 5 variants. Their appearance varies based on where they spawn.
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 229137
+revid: 229779
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
@@ -48,10 +48,10 @@ The [Not A Scratch](Talents.md#not-a-scratch) disables all visual effects that s
 List of buffs being:
 
 -   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for around three seconds. \[Hey, where’d you go?!\]
--   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx. \[Don't worry - It's on the house!\]
+-   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx.
 -   30% Posture restoration. Indicated by a metal clanging sound effect. \[Quick, they're weak!\]
 -   A free reroll, granting you an additional buff or affliction. \[Bravo, bravo!\]
--   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx.
+-   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx. \[Don't worry - It's on the house!\]
 -   A percentage of the damage you've taken recently will be turned into healing. \[Wanted to give ya a quick breather!\]
 -   Vent cooldown reset, allowing you to Vent again.
 

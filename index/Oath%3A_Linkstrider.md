@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 226019
+revid: 229778
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -78,10 +78,12 @@ This Oath grants 2 Support Mantra slots, 1 Wildcard Mantra slot, and +5% PEN. Ap
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
 -   Obtained with the Oath
 
--   **Symbiotic Link** - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
+-   **Symbiotic Link** - Press X while hovering over an ally to buff them, or while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from an enemy.
     -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
     -   Red Cords (Enemies) gain a minor speed debuff, swing speed debuff, and a 10% damage decrease.
+    -   Only one link of each type can exist simultaneously.
     -   Allows you to passively see the health bar of allies, even when not active.
+    -   Links will also break if you go too faw are from the linked target, with a 3 second grace period before breaking.
 -   Obtained upon killing 1 player with an [Oath](Oaths.md).
 
 ### Mantras

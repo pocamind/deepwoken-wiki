@@ -1,6 +1,6 @@
 ---
 title: Marrowmade Boots
-revid: 226860
+revid: 229782
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
