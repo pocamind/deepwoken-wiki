@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 225489
+revid: 229786
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Kyrs series]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
-| description | An ancient spear of kyrsan craftsmanship, its presence beyond the second layer is a miracle. few have ever been found by humanity. unlike their usual weapons, this spear was forged to control the raw, untamed power of their kin. made from the remains of the primal, cartilage wielding creatures they once shared the world with, this arsenal was an attempt to harness the strength of their wild precursors that had been forsaken in favor of the cold precision of their spears of frost. |
+| description | An ancient spear of Kyrsan craftsmanship, its presence beyond the Second Layer is a miracle. Few have ever been found by humanity. Unlike the Kyrsans' usual weapons, this spear was forged to control the raw, untamed power of their kin. Made from the remains of the primal, cartilage-wielding creatures they once shared the world with, these weapons were an attempt to harness the strength of their wild precursors. With time, arms such as these had been forsaken in favor of the cold precision of the Kyrsan spears of frost. |
 
 ## Description
 
