@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 229182
+revid: 229790
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of The Vigil of Winds]
