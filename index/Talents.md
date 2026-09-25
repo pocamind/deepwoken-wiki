@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229777
+revid: 229793
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4289,7 +4289,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Ether Proselyte \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - All of your Elemental Mantras below Lv. 5 are now 1 level higher. Your Mantras are now converted to the element of your current stance.
     -   Increases the level of all Attuned Mantras by 1 unless they are already level 5.
     -   Allows your Attuned Mantras to proc the Attunement Talents of your current Saint Stance. (E.g. Clutching Shadow in the Flamecharm Stance can proc Scorched Peak, creating a lightning strike if you guard break with this Mantra.)
-        -   Not all Attuned Talents are eligible to proc Ether Proselyte. More info as to what does and doesn't work is on the [Saintsworn](Oath%253A_Saintsworn.md) page.
+        -   Not all Attuned Talents are eligible to proc Ether Proselyte and does not work on Ironsing or Bloodrend Mantras. More info as to what does and doesn't work is on the [Saintsworn](Oath%253A_Saintsworn.md) page.
     -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
 
 -   Hero's Assist \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - Heroes come to your aid based on your current stance.
