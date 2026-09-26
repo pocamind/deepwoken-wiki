@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229793
+revid: 229819
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3134,11 +3134,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Kyrsan Gem](Kyrsan_Gem.md) applies a stacking slow on hit.
     -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%. Additionally, this can be used to proc the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md)'s equipment Talents.
         -   The posture damage bonus can be increased with the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) Talent, scaling on how many Might Gems you have equipped on your Mantras.
+    -   [Nocturnal Gem](Nocturnal_Gem.md) will deal an additional 10 slash damage after a 1 second delay.
     -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit if you are wearing the [Bluestone Set](Bluestone_Pauldrons.md).
     -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
-    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on hit.
-    -   [Wrath Gem](Wrath_Gem.md) applies the [Wrath](Status_Effects.md#wrath) status effect for 9 seconds, increasing your critical damage by 7.5% per player combat tag you have. This damage bonus does not apply to the hit that procced Wrath Gem and is affected by the damage modifier cap. Additionally, this can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md)'s equipment Talents.
-    -   [Nocturnal Gem](Nocturnal_Gem.md) will deal an additional 10 slash damage after a 1 second delay.  
+    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 10 seconds on hit.
+    -   [Wrath Gem](Wrath_Gem.md) applies the [Wrath](Status_Effects.md#wrath) status effect for 9 seconds, increasing your critical damage by 7.5% per player combat tag you have. This damage bonus does not apply to the hit that procced Wrath Gem and is affected by the damage modifier cap. Additionally, this can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md)'s equipment Talents.  
         
     -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light // 30 Medium // 30 Heavy)  
         

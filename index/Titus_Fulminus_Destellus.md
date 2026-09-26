@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 229360
+revid: 229835
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Humanoid Bosses, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -62,7 +62,9 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   ⛊ Blockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Vent  
@@ -196,7 +198,7 @@ Dodge
  | Titus dashes forward in a blink, briefly ragdolling enemies in its path.
 
 -   This move may be used twice or more.
--   will very briefly stun him if he hits a wall.
+-   Will very briefly stun him if he hits a wall.
 
 _Uses Telegraph_
 
@@ -273,7 +275,7 @@ Block
 
 -   This move can be easily avoided by jumping.
 -   Titus will only use this move in his second phase.
--   sends those hit very high up.
+-   Sends those hit very high up.
 
 _Uses Telegraph_
 
