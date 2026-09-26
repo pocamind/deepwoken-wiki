@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 229785
+revid: 229798
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Jarvis is an [Canor](Canor.md) NPC. They are able to smelt two pieces of equipment into one.
+Jarvis is an NPC. They are able to smelt two pieces of equipment into one.
 
 His main use is to [Smelt](Transmogrification.md) two pieces of equipment for 1000 Notes; the first keeping its attributes, the second being its overall appearance.
 

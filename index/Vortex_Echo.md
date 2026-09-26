@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 221527
+revid: 229797
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -64,3 +64,4 @@ Buster Call
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on Vortex Echos cooldown, lowering it down to 26 seconds (outside of [Chime of Conflict](Chime_of_Conflict.md)).
 -   The cooldown reduction also functions on Hive Fountains.
 -   When not in use, the Vortex Echo is holstered on the character's left hip.
+-   The text vfx ring around it translates to: "THE DEEP CALLS TO ALL WHO DARE TO VENTURE BENEATH THE WAVES".

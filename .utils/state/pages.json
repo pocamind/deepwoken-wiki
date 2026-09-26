@@ -1361,7 +1361,7 @@
   },
   "3491": {
     "title": "Officer Saber",
-    "lastrevid": 227770
+    "lastrevid": 229794
   },
   "3507": {
     "title": "Horseshoe Crab",
@@ -2097,7 +2097,7 @@
   },
   "5091": {
     "title": "Hunter's Brace",
-    "lastrevid": 218702
+    "lastrevid": 229806
   },
   "5093": {
     "title": "Mortus",
@@ -3825,7 +3825,7 @@
   },
   "10436": {
     "title": "Jarvis",
-    "lastrevid": 229785
+    "lastrevid": 229798
   },
   "10437": {
     "title": "Mod Suit",
@@ -4161,7 +4161,7 @@
   },
   "12217": {
     "title": "Castaway",
-    "lastrevid": 211013
+    "lastrevid": 229802
   },
   "12246": {
     "title": "Warmaster's Medallion",
@@ -4557,7 +4557,7 @@
   },
   "13903": {
     "title": "Oath: Bladeharper",
-    "lastrevid": 229385
+    "lastrevid": 229795
   },
   "13940": {
     "title": "Cerulean",
@@ -4937,7 +4937,7 @@
   },
   "14665": {
     "title": "Liviu",
-    "lastrevid": 224847
+    "lastrevid": 229810
   },
   "14667": {
     "title": "Charged Ring",
@@ -5325,7 +5325,7 @@
   },
   "15954": {
     "title": "Vortex Echo",
-    "lastrevid": 221527
+    "lastrevid": 229797
   },
   "15955": {
     "title": "Weathered Timepiece",
@@ -5977,7 +5977,7 @@
   },
   "18069": {
     "title": "Steel Plate",
-    "lastrevid": 229445
+    "lastrevid": 229803
   },
   "18071": {
     "title": "Primadon Pelt",
@@ -9842,5 +9842,9 @@
   "26656": {
     "title": "L. O. Dise",
     "lastrevid": 229637
+  },
+  "26663": {
+    "title": "Unnamed Authority Warden",
+    "lastrevid": 229807
   }
 }

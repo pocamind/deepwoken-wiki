@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 227770
+revid: 229794
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyable Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -53,3 +53,4 @@ Your character's rotation speed is slowed during this attack. This critical has 
 -   The Officer Saber used to have no attribute requirements.
 -   This sword shares a similar model and critical as the [Cavalry Saber](Cavalry_Saber.md).
 -   As the name and description implies, these are used by [Authority Officers](Authority_Officer.md).
+    -   Despite being sold in the [Fort Merit](Fort_Merit.md) armory and being associated with the [The Authority](The_Central_Authority.md), players with the [Authority Ensign](Authority_Ensign.md) origin are not able to equip this weapon without meeting the investment point requirements.

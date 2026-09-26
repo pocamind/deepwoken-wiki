@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 211013
+revid: 229802
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Origins]
@@ -36,6 +36,7 @@ Castaways spawn with the [Stranded](Stranded.md) Outfit equipped. The player is 
 
 -   _In-game description_: Request aid from a Justicar.
     -   Using the whistle allows a player using the [Justicar](<Justicar_(Origin).md>) Origin to join you. They are duty bound to helping you and are rewarded when you complete events or defeat [Voidwalkers](Voidwalker.md) with them.
+    -   The whistle cannot be used in [Dungeons](Dungeons.md), [The Depths](The_Depths.md), and in [Private Servers](Servers.md).
     -   Justicars are actively prevented from hurting you with a lengthy stun. They will however lose this restriction if you attack them too much.
     -   Outside of combat, the whistle will open a prompt to confirm usage. While in combat, the prompt is skipped.
 
