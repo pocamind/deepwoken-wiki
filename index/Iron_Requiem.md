@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 227220
+revid: 229813
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
