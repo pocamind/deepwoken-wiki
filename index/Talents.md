@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229819
+revid: 229852
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -767,7 +767,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   3 mortar projectiles are spawned per critical attack damage instance landed, for each entity hit.
         -   For example, if you hit the initial attack and projectile on the Default Greatcannon critical on two enemies, it would summon 12 mortar projectiles in total.
         -   This Talent is especially potent on the [Smouldering Hallow](Smouldering_Hallow.md).
-    -   Each mortar projectile does 30 damage on hit.  
+    -   Each mortar projectile does 30 damage on hit.
+    -   Has a cooldown of 10 seconds.  
         
     -   Prerequisites: 100 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
         

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 227607
+revid: 229848
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -81,7 +81,8 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 H
     -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals 75 (25\*3) Slash damage.
     -   Deals 15 posture damage per hit.
-    -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.
+    -   Despite what is shown in the gif, Death From Above no longer has hyperarmor and cancels if any hits are parried or dodged.
+    -   Grants the user a slight speedboost for the duration of the attack.
 -   Obtained after the third Sinner kill.
 
 -   **Ichor Imbuement** - Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
@@ -197,10 +198,11 @@ Obtained after the second Sinner kill
  |
 | 
 
-**Effect:** _Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits._
+**Effect:** _Sinister Halo has no auto-parry frames, making it excelent for block pressure._
 
 -   Deals 3 damage per hit (14) with 1.65 Strength scaling
 -   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
+    -   Amount of hits is relative to the duration, so the further the mantra travels before reaching it's target, the less hits it will deal.
 -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
 
  |
@@ -238,23 +240,27 @@ Obtained after the third Sinner kill
 
 **Effect:** _Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target)._
 
--   Deals 20 damage per hit (2) with 1.65 Strength scaling.
+-   Deals 20 damage on the first hit and 16.8 on the second, both with 1.65 Strength scaling.
+-   Initial hit uppercuts
+    -   For some odd reason, the second hit does not apply Charm from Charismatic Cast.
     -   Deals 8 posture damage per hit (2).
     -   Initial 0.5 second windup (with wings) and a 20 second cooldown.
+    -   Can be enhanced with Celestial Boots (Currently bugged as of September 27th 2026)
 
  |
 
 ## Notes
 
--   All of Starkindred's Mantras have Strength scaling.
+-   All of Starkindred's Mantras have Strength scaling. (Bugged as of September 27th 2026)
+-   Despite being a Celestial Oath, [Cosmic Connection](Celestial_Boots.md) only works on Celestial Assault. (As of September 27th of 2026, this effect is currently bugged.)
 -   The optimal Oath progression is to kill [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) first, [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) second, and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md) last, due to their spawn locations.
--   The best way to kill the [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and the Sinners is to parry trade until you flourish them, feinting is very effective so be sure to utilise it.
 -   Death from Above cancels Shadow Meteors if it's active.
 -   Death from Above counts as weapon damage for certain effects such as [Whistling Periapt's](Whistling_Periapt.md) Whistleguard.
 
 ## Trivia
 
 -   Back when Talent categories had unique lines, the category line for Starkindred was "I speak for my masters above."
+-   The hair ID selected for your wings is your first Hair ID slot's color.
 -   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain; they also have a long history of bloodshed in the name of their faith.
     -   This "history of bloodshed" is elaborated on by the existence of the [Pale Briar](Pale_Briar.md).
 -   Despite your grip being replaced with imprisoning the person on [Authority Ensign](Authority_Ensign.md), it will still count as a grip for Starkindred's requirements.

@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 208536
+revid: 229843
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -60,3 +60,4 @@ If the player is [Attunement-less](Attunement-less.md), the beams will be an off
 -   [Titus](Titus_Fulminus_Destellus.md) uses an empowered version of this Resonance.
 -   Unfortunately, the beams don't change color if you have a different path for the specific element. This includes [Azure Flames](Talents.md#azure-flames).
 -   If you drink an [Attunement Flask](Attunement_Potions.md) while your build is max power and has no attunement, you are able to get other attunement variants instead of the base Attunement-less variant.
+-   This bell bears a close resemblance to Tsunayoshi Sawada’s signature attack, the X-Burner, from the anime series _Katekyo Hitman Reborn!_

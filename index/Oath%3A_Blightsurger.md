@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 228861
+revid: 229850
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -246,6 +246,7 @@ TBA
 **Effect:** _Rush forwards and knock down your foe._
 
 -   Has a base damage of 18 with with 1.65 Strength scaling.
+-   Has a windup of 0.65s.
 -   Applies [Daze](Status_Effects.md#daze) and [Blightshock](Status_Effects.md#blightshock) on hit.
 -   [Knockdowns](Status_Effects.md#knockdown) on hit.
 
