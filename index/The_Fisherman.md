@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 228284
+revid: 229836
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -169,8 +169,8 @@ The Fisherman executes its opponents after knocking them:
 -   The best and easiest way to beat The Fisherman is to take it to [Light's Causeway](<Light's_Causeway.md>) and parry its attacks until the Castle turret kills it.
 -   [Gigameds](Gigamed.md) can help with restoring health, especially around Light's Causeway, but if they stun you mid-fight, it can prove a problem.
 -   The Fisherman is a [Chainwarden](Oath%253A_Chainwarden.md), making running away _really_ hard, especially in tandem with Lightning Stream. If you engage with them, don't run if you're not confident in your ability to escape.
-    -   If trying to run, keep in mind The Fisherman is bound by the movement limitations of any other humanoid mob.
--   The Fisherman does have high posture, but it's fairly low compared to their health pool.
+    -   If trying to run, it is best to climb up something high as humanoids are very limited in their ability to jump.
+-   The fisherman has about 40 posture.
 
 ## Trivia
 

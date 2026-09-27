@@ -1,6 +1,6 @@
 ---
 title: Marrowmade Boots
-revid: 229820
+revid: 229837
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -30,12 +30,13 @@ The **Marrowmade Boots** are an **unenchantable** [Equipment](Equipment.md) item
 
 The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and flinging effect of the winds of the Second Layer. You are still affected by the harsh winds' movement debuffs.
 
-The [Osseous Surge](Talents.md#osseous-surge) Talent make it so when flourishing an enemy it enhances the boots for 10 seconds. During this time, the wearer can right-click to release a wave of bones forward damaging and ragdolling enemies upward infront of them (The boot's Osseous Surge talent deals 30 PvP damage and 180 PvE Damage). This attack is parryable and jumpable, blockable but deals 30 posture damage and is undodgeable.
+The [Osseous Surge](Talents.md#osseous-surge) Talent make it so when flourishing an enemy it enhances the boots for 10 seconds. During this time, the wearer can right-click to release a wave of bones forward damaging and ragdolling enemies upward infront of them (The boot's Osseous Surge talent has a base damage of 30 PvP damage and 180 PvE Damage). This attack is parryable and jumpable, blockable but deals 30 posture damage and is undodgeable.
 
-The [Osseous Surge](Talents.md#osseous-surge) effect can be proc'ed via the mantras Razor Blitz, Master's Flourish(with vigil longsword), along with Executioner offhand gun shots so it's not exclusive to base flourishes.
+The [Osseous Surge](Talents.md#osseous-surge) Talent is not exclusive to normal flourishes as it can be proc'ed via the mantras Razor Blitz, Master's Flourish(with vigil longsword), along with Executioner offhand gun shots.
 
 ## Trivia
 
 -   These boots have an extremely small chance to be [Enchanted](Enchantments.md) when obtained.
--   The damage increases by 50% going from 30 to 45 with the [Bone Ring](Bone_Ring.md).
+-   The damage increases by 50% going from 30 blunt to 45 blunt with the [Bone Ring](Bone_Ring.md).
+-   The damage dealt can be increased with damage modifiers.
 -   It's previous description read: "Boots crafted from what seems to be the foot and head of the [Bonekeeper](Bone_Keeper.md).
