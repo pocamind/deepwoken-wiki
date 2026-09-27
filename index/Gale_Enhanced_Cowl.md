@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 228364
+revid: 229839
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -40,7 +40,9 @@ The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown up
 
 This is the [Pathfinder](Pathfinder.md) equivalent of the [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md).
 
-  
+## Trivia
+
+-   The Footwork Mastery talent can proc Down Comes The Claw instantly, even if you didn't have a speed boost prior to landing it.
 
 ## Navigation
 

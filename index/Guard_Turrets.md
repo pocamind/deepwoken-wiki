@@ -1,6 +1,6 @@
 ---
 title: Guard Turrets
-revid: 229531
+revid: 229840
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ categories: [Mechanics]
 
 ## Description
 
-Guard Turrets are stationary defensive structures that automatically protect areas controlled by their [faction](Factions_&_Groups.md). Unlike conventional Guards, Guard Turrets cannot be destroyed and instead serve as a permanent defense. Guard Turrets automatically attack enemies belonging to factions hostile to them and will engage targets that enter their range.
+Guard Turrets are stationary defensive structures that automatically protect areas controlled by their [faction](Factions_&_Groups.md). Unlike conventional NPC Guards, Guard Turrets cannot be destroyed and instead serve as a permanent defense. Guard Turrets automatically attack enemies belonging to factions hostile to them and will engage targets that enter their range.
 
 Although they are hostile to a target of their [faction](Factions_&_Groups.md), Guard Turrets generally will not immediately attack players who are not currently [Combat Tagged](Combat_Tag.md). However, remaining within a turret's line of sight for a long enough period can cause the player to be detected and [Combat Tagged](Combat_Tag.md), after which the Guard Turret will open fire.
 
@@ -28,7 +28,7 @@ The arrow projectiles deal 10 true damage per hit, attacking in two-shot bursts.
 
 ### Light Orb
 
-Located at [Castle Light](Castle_Light.md) [Diversiconfaction](The_Divers.md) and the entrance of Castle Light in the [Light's Causeway](<Light's_Causeway.md>) [Diversiconfaction](The_Divers.md), the light orbs are, as the name suggests, floating orbs of light. They lock-on to a target, and fire after a short delay. These turrets are **very** close together and havy high range, allowing them to all simultaneously attack the same enemy. When attacking PvE threats, they will fire through walls. Luckily, the same is not the case for players.
+Located at [Castle Light](Castle_Light.md) [Diversiconfaction](The_Divers.md) and the entrance of Castle Light in the [Light's Causeway](<Light's_Causeway.md>) [Diversiconfaction](The_Divers.md), the light orbs are, as the name suggests, floating orbs of light. They lock-on to a target, and fire after a short delay. These turrets are close in proximity to one another and have a long range, allowing them to attack the same enemy simultaneously. When attacking PvE threats, they will fire through walls. Luckily, the same is not the case for players.
 
 These are **exceptionally** lethal, dealing **4%** of a player's **maximum health** as **true damage** per hit, and attack three times per barrage, for up to 12% of your maximum health per barrage. Their attacks are hitscan and not projectiles, meaning you cannot dodge them by simply moving out of the way.
 
@@ -48,9 +48,9 @@ These turrets deal 40 damage per hit with a fairly slow fire rate. The direct pr
 
 ### Tesla Coil
 
-Located at [Miner's Landing](<Miner's_Landing.md>) and [the Chariot's Spire](<The_Chariot's_Spire.md>), these are tall metalic towers with a sphere at the top and two rings below that.
+Located at [Miner's Landing](<Miner's_Landing.md>) and [the Chariot's Spire](<The_Chariot's_Spire.md>), these are tall metalic towers with a sphere at the top and two rings below that. The tesla coils can only attack one target at a time, with their target priority being based on proximity.
 
-The tesla coil strike outwards with arching jolts of electricity. Their attacks **cannot** be blocked, but can be parried and dodged. They deal typeless damage on hit.
+The tesla coil strike outwards with arching jolts of electricity, dealing 13 Thundercall damage per hit. The tesla coils have ~55% Armor Penetration. Their attacks **cannot** be blocked, but can be parried and dodged.
 
 ### Watcher Eye
 
