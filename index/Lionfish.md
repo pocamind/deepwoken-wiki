@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 227029
+revid: 229853
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -92,6 +92,7 @@ Its main drop is the Lionfish Scale, which is used for crafting armor sets.
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   § Dodgeable
+-   💀 Autogrip
 
  |
 
