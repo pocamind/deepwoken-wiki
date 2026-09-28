@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 228678
+revid: 229876
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -10,7 +10,8 @@ categories: [Locations, Locations in the Eastern Luminant]
 
 LocationL Songseeker Wilds LocationR
 
-  
+In these ancient wilds, where the dedicated faithful seek mastery over the Song, the ever-turning wheel of life blurs the line between predator and prey.
+
   
 
   
@@ -61,10 +62,11 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 -   Outside of the temple, a strange Capra named [Yamaketzal](Yamaketzal.md) who can grant
 -   Following the left side of the path leads to a [Guild Banner](Guild_Banners.md) across from a broken bridge thats connects to the [Derelict Highchurch](Derelict_Highchurch.md).
 
-#### Summer Company Camp
+#### Summer Company Outpost
 
--   Outside of the mineshaft, there will be a few [Summer Company Gunslingers](Summer_Company_Gunslinger.md) guarding a group of Dragoons exploring the surveying the area.
--   These dragoons are [Ignacio](Ignacio.md) and [Thula](Thula.md), who are looking into the mineshaft as a way to enter [The Boundary](Lore.md#the-boundary).
+-   Outside of the mineshaft, there is a outpost armed by [The Summer Company](The_Summer_Company.md). With their purpose of surveying the mineshaft.
+-   There are two Summer Dragoons, [Ignacio](Ignacio.md) and [Thula](Thula.md), who are looking into the mineshaft as a way to enter [The Boundary](Lore.md#the-boundary).
+-   Their expeditions lead into the mineshaft with carts of ores and sets of other materials scattered throughout.
 
 ## NPCs
 

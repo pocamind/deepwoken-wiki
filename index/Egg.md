@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 216574
+revid: 229893
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -14,8 +14,8 @@ categories: [Food, Harvestables, Food Ingredients]
 | stack | x99 |
 | type | Ingredient |
 | food type | Generic |
-| stomach | 2% |
-| water | 2% |
+| stomach | 3% |
+| water | 3% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

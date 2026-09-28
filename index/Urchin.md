@@ -1,6 +1,6 @@
 ---
 title: Urchin
-revid: 226758
+revid: 229892
 source: https://deepwoken.fandom.com/wiki/Urchin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
@@ -13,6 +13,8 @@ categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
 | value | N/A |
 | weight | 1 |
 | type | Ingredient |
+| stomach | 2% |
+| water | 0% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

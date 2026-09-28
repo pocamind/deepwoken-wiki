@@ -1,6 +1,6 @@
 ---
 title: Redd
-revid: 225756
+revid: 229872
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Harvestables, Food Ingredients]
@@ -10,19 +10,27 @@ categories: [Consumables, Harvestables, Food Ingredients]
 
 | Redd | |
 |---|---|
+| value | N/A |
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
-| stomach | 15% |
-| water | 5% |
+| rarity | Common |
+| stomach | 8% |
+| water | 4% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 
 ## Description
 
-A small consumable fruit found in many places across both Luminants. They grow on trees, with around 5-8 Redds per tree.
+**Redd** is a [Food](Food.md) item.
+
+It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
+
+### Effect
+
+When consumed, it replenishes 8% Stomach and 4% Water.
 
 ## Crafting
 
@@ -34,5 +42,5 @@ A small consumable fruit found in many places across both Luminants. They grow o
 
 ## Trivia
 
--   Real life counterpart would be an orange.
+-   It's real life counterpart would be an orange.
 -   If used in [Alchemy](Alchemy.md), the primary effect applied is **Grueling**; Secondary effect is **Strengthening**.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229852
+revid: 229911
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3981,11 +3981,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Increases the effectiveness of the on-parry speed boost from 12.5% to 27.5%, and duration its from 0.5s to 1.5s.
     -   Prerequisite: 20 Agility
 
--   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - Feinting your Basic Attacks gives you a very brief auto-parry window. (+1 Passive Agility)
-    -   The auto-parry window is 0.03s, almost requiring the player themselves to have light speed reflexes...
+-   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - When you parry an attack after feinting an attack, gain a 5s speed boost. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 20 Intelligence
 
--   Speed Emission \[Common Talent, Agility\] - Gain a slight speed boost after landing a vent.
+-   Speed Emission \[Common Talent, Agility\] - Land a Vent Gain a 5s speed boost and apply a 3s slow to your opponent.
+    -   5 second cooldown.
     -   Prerequisite: 25 Agility
 
 ### Oathless
@@ -4068,6 +4068,27 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Harvester_ \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
     -   Prerequisite: Complete [Ciea](Ciea.md)'s Quest 3 times.
+
+### Psychopath
+
+-   Guilt Trip \[Common Talent, Charisma\] - Enhance your charm with the ability to affect one's emotions negatively, doubling the cooldown of their mantra feints.
+    -   Turns your [Charm](Status_Effects.md#charm) blue.
+    -   Also procs on allies.
+    -   Prerequisite: 100 Charisma
+
+-   Rage Bait \[Common Talent, Willpower, Charisma\] - Proccing manipulator now enrages opponents, causing their mantras to deal 10% more damage. Anytime you block their enraged mantras however, laugh in their face causing extreme mental damage, dealing 1% of their max health. \[5 sec CD\]
+    -   Rage Bait's duration is equal to: (Charisma + Willpower) × 0.12. At requirements, this has a 15.6s duration.
+        -   At 90 combined investment (the minimum possible with [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)), this has a 9.6s duration, which is shorter than [Manipulator](#manipulator)'s cooldown and not long enough for you to be able to properly benefit from Rage Bait more than once per proc instance. It is not recommended to use this Talent at minimum investment.
+        -   Has a 22.8s duration at 190 combined investment.
+    -   Goes on cooldown when the Mantra is blocked, not when the Talent initially procs.
+    -   On proc, steam will visually come out of your opponent's head, and a high-pitched angry growl sound effect will play.
+    -   Also procs on allies.
+    -   Prerequisites: [Manipulator](#manipulator), 40 Willpower, 90 Charisma
+
+-   _Depressive State_ \[Rare Talent, Willpower, Charisma\] - Activating [Rage Bait](#rage-bait) while your opponent has the enhanced charm from the [Guilt Trip](#guilt-trip) talent buffs your Rage Bait effect. Decrease your opponents damage multiplier hard cap from 50% to 5% while Rage Bait is active on them.
+    -   Also procs on allies.
+    -   Prerequisites: [Guilt Trip](#guilt-trip), [Rage Bait](#rage-bait), 90 Willpower, 90 Charisma
+        -   Keep in mind that Guilt Trip requires 100 Charisma
 
 ### Public Figure
 

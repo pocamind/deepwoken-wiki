@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 229855
+revid: 229857
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -71,7 +71,6 @@ Being in a Squad allows you to take on the Missions as a group and proc certain 
 As you are affiliated with and work under [The Central Authority](The_Central_Authority.md), certain factions will not take kindly to you. You also cannot raise your [Reputation](Reputation.md) with The [Kingdom of Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md), and your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
 
 -   For The [Kingdom of Etrea](Etrea.md): You **cannot** raise your Reputation, and you start out as **Hunted**.
-    -   Due to Etrea being one of the many factions that gives out [Bounties](Bounty_Hunting.md), you will be at risk of bounty hunters.
     -   You cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline, which means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for his loot.
     -   You cannot gain rewards tied to having good reputation with Etrea, which follows:
         -   You cannot obtain [Stratos' Cloak](<Stratos'_Cloak.md>).
@@ -647,7 +646,6 @@ As a lot of pros and cons have already been previously mentioned under the [Effe
 -   Because your player grip is replaced with [imprisoning](Fort_Merit.md#prison-tower) them, you will need some kind of weapon or mantra that automatically [grips](<Terminology_(game).md#grip>) in order to confirm kills (Auto-grips does NOT exile you).
     -   This makes the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization Talent in the Inquisition Division, a tad harder as you would need to rely on bleeding them out with light attacks if you don't have anything that auto-grips. Having outside help with allies that can grip normally also helps immensely.
 -   As mentioned in the [Reputation Issues](#reputation-issues) section, you cannot obtain stuff like [Blightsurger](Oath%253A_Blightsurger.md), [Contractor](Oath%253A_Contractor.md) and etc. due to the reputation limitations.
-    -   Due to the cap on [Etrea](Etrea.md) reputation you will always be able to be bounty hunted leading to unnecessary fighting and possible deaths. Note that [Voidwalkers](Voidwalker.md) are unable to take your bounty in the Voidheart, however.
 -   Because your guild is "replaced" by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Guild Officer](Guild_Bases.md) tools. Being Exiled will remove this restriction.
     -   If someone from your original guild places down the [Guild Base](Guild_Bases.md) or spawns their [Ship](Ships_&_Sailing.md), you can reset and choose those as your spawn point.
     -   You are still able to access all the NPCs that are located in the guild base.

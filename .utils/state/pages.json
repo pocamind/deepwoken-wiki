@@ -481,7 +481,7 @@
   },
   "1544": {
     "title": "Calabash",
-    "lastrevid": 203666
+    "lastrevid": 229881
   },
   "1573": {
     "title": "Fort Merit",
@@ -589,7 +589,7 @@
   },
   "1835": {
     "title": "Songseeker Wilds",
-    "lastrevid": 228678
+    "lastrevid": 229876
   },
   "1850": {
     "title": "Crustaceous Rex",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 229852
+    "lastrevid": 229911
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -681,7 +681,7 @@
   },
   "2184": {
     "title": "Pomar",
-    "lastrevid": 226016
+    "lastrevid": 229886
   },
   "2241": {
     "title": "Mantra Lectern",
@@ -717,7 +717,7 @@
   },
   "2408": {
     "title": "Redd",
-    "lastrevid": 225756
+    "lastrevid": 229872
   },
   "2409": {
     "title": "Spider Egg",
@@ -1249,7 +1249,7 @@
   },
   "3269": {
     "title": "First Light",
-    "lastrevid": 229321
+    "lastrevid": 229862
   },
   "3276": {
     "title": "Night Axe",
@@ -1613,7 +1613,7 @@
   },
   "4369": {
     "title": "Egg",
-    "lastrevid": 216574
+    "lastrevid": 229893
   },
   "4382": {
     "title": "Rapiers",
@@ -1629,7 +1629,7 @@
   },
   "4398": {
     "title": "Ongo",
-    "lastrevid": 220020
+    "lastrevid": 229894
   },
   "4401": {
     "title": "Bounder",
@@ -2321,7 +2321,7 @@
   },
   "5747": {
     "title": "Hivelord's Hubris",
-    "lastrevid": 229752
+    "lastrevid": 229880
   },
   "5749": {
     "title": "Misérables",
@@ -3189,7 +3189,7 @@
   },
   "8139": {
     "title": "Oath: Starkindred",
-    "lastrevid": 229848
+    "lastrevid": 229907
   },
   "8140": {
     "title": "Oath: Arcwarder",
@@ -3373,19 +3373,19 @@
   },
   "8703": {
     "title": "Gobletto",
-    "lastrevid": 218389
+    "lastrevid": 229874
   },
   "8806": {
     "title": "Dentifilo",
-    "lastrevid": 218342
+    "lastrevid": 229870
   },
   "8812": {
     "title": "Browncap",
-    "lastrevid": 194530
+    "lastrevid": 229869
   },
   "8818": {
     "title": "Plumfruit",
-    "lastrevid": 177676
+    "lastrevid": 229883
   },
   "8840": {
     "title": "Smith's Alloy",
@@ -4601,11 +4601,11 @@
   },
   "14053": {
     "title": "Sap",
-    "lastrevid": 203668
+    "lastrevid": 229873
   },
   "14059": {
     "title": "Urchin",
-    "lastrevid": 226758
+    "lastrevid": 229892
   },
   "14062": {
     "title": "Gathered Wheat",
@@ -4781,7 +4781,7 @@
   },
   "14472": {
     "title": "Chef's Toque",
-    "lastrevid": 226977
+    "lastrevid": 229887
   },
   "14476": {
     "title": "The Flippers of Fate",
@@ -5665,7 +5665,7 @@
   },
   "17213": {
     "title": "Thresher Egg",
-    "lastrevid": 176819
+    "lastrevid": 229882
   },
   "17215": {
     "title": "Beast Whistle",
@@ -6685,7 +6685,7 @@
   },
   "19743": {
     "title": "Verse 3",
-    "lastrevid": 229856
+    "lastrevid": 229859
   },
   "19753": {
     "title": "Port Merit",
@@ -6713,7 +6713,7 @@
   },
   "19763": {
     "title": "Authority Ensign",
-    "lastrevid": 229855
+    "lastrevid": 229857
   },
   "19764": {
     "title": "Destroyman III, Bon Vivant Adventurer",
@@ -8589,7 +8589,7 @@
   },
   "22722": {
     "title": "Version History/2026",
-    "lastrevid": 228868
+    "lastrevid": 229895
   },
   "22730": {
     "title": "Suri's brother",
@@ -9846,5 +9846,9 @@
   "26663": {
     "title": "Unnamed Authority Warden",
     "lastrevid": 229807
+  },
+  "26680": {
+    "title": "Caudal Glade",
+    "lastrevid": 229906
   }
 }

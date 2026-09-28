@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 229848
+revid: 229907
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -157,7 +157,7 @@ Obtained after the first Sinner kill
 
 **Effect:** _The user rises into the air before swooping in._
 
--   Deals 37 damage with 1.65 Strength scaling.
+-   Deals 37 damage with 1.65 Strength scaling with 14,44 PVE scaling.
 -   This attack cannot be parried or blocked, indicated by a sound effect and a red [Telegraph](Combat_Mechanics.md#telegraphed-attacks).
     -   This does not guardbreak, it entirely ignores your block, dealing its full damage and applying shaky block to anyone who attempts to block it.
 -   Applies hard [knockdown](Status_Effects.md#knockdown) on hit.
@@ -200,7 +200,7 @@ Obtained after the second Sinner kill
 
 **Effect:** _Sinister Halo has no auto-parry frames, making it excelent for block pressure._
 
--   Deals 3 damage per hit (14) with 1.65 Strength scaling
+-   Deals 3 damage per hit (14) with 1.65 Strength scaling and 14.44 PVE scaling.
 -   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
     -   Amount of hits is relative to the duration, so the further the mantra travels before reaching it's target, the less hits it will deal.
 -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
@@ -240,7 +240,7 @@ Obtained after the third Sinner kill
 
 **Effect:** _Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target)._
 
--   Deals 20 damage on the first hit and 16.8 on the second, both with 1.65 Strength scaling.
+-   Deals 20 damage on the first hit and 16.8 on the second, both with 1.65 Strength scaling and 14.44 PVE scaling.
 -   Initial hit uppercuts
     -   For some odd reason, the second hit does not apply Charm from Charismatic Cast.
     -   Deals 8 posture damage per hit (2).

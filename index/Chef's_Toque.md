@@ -1,9 +1,9 @@
 ---
 title: "Chef's Toque"
-revid: 226977
+revid: 229887
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Chef's Toque
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Equipment with Talents, "Equipment with Non-exclus
 | selling price | 100 |
 | requirements | None |
 | weight | 1 |
+| styles | Hell's Kitchen, Sous Chef |
 | innate stats | +10 Health , +1 Legendary Pip |
 | innate talent | Umami, Gourmand |
 | bankable | Yes |
@@ -35,4 +36,4 @@ The Chef's Toque is an [Equipment](Equipment.md) item under the "Head" category.
 
 -   This item was added during the "1B Visit Event".
 -   Worn by [Chef Odiolavoro](Chef_Odiolavoro.md).
--   Currently bugged, as it is unable to be Dyed as well and its model size does not scale down when it is dropped.
+-   The "Hell's Kitchen" style is named after the television show of the same name, hosted by Gordon Ramsay.

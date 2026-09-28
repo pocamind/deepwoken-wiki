@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 203666
+revid: 229881
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients, Harvestables, Food Ingredients]
@@ -10,12 +10,14 @@ categories: [Food, Ingredients, Harvestables, Food Ingredients]
 
 | Calabash | |
 |---|---|
+| value | N/A |
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
-| stomach | 15% |
-| water | 20% |
+| rarity | Common |
+| stomach | 10% |
+| water | 16% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -23,15 +25,21 @@ categories: [Food, Ingredients, Harvestables, Food Ingredients]
 
 ## Description
 
-A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md) & [Summer Isle](Summer_Isle.md) growing on bushes in quantities of 3-5 per bush. It's a good idea to bring a few when going on excursions if you don't have a [Canteen](Canteen.md) since it replenishes a good amount of thirst relative to other starting island foods.
+**Calabash** is a [Food](Food.md) item.
+
+It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
+
+### Effect
+
+When consumed, it replenishes 10% Stomach and 16% Water.
 
 ## Crafting
 
 ### Used in
 
--   [Candied Fruit](Candied_Fruit.md) - 2 Calabash and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
--   [Canteen](Canteen.md) - 1 Calabash and 1 [Beeswax](Beeswax.md) at a [Crafting Station](Crafting_Station.md).
--   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire_Pit.md) required.
+-   [Candied Fruit](Candied_Fruit.md) - 2 Calabash and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Canteen](Canteen.md) - 1 Calabash and 1 [Beeswax](Beeswax.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md).
+-   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits) from your inventory.
 
 ## Trivia
 

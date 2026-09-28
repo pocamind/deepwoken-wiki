@@ -1,6 +1,6 @@
 ---
 title: Verse 3
-revid: 229856
+revid: 229859
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Updates]
@@ -20,14 +20,11 @@ Verse 3 is an ongoing series of updates to _Deepwoken_, announced on September 2
 
 The official reveal came with a roadmap of upcoming content. The items on the roadmap are (from left to right):
 
--   A new [Origin](Origins.md) relating to [The Central Authority](The_Central_Authority.md), which would become known as [Authority Ensign](Authority_Ensign.md) (Complete)
 -   New [Origins](Origins.md) for other [Factions](Factions_&_Groups.md)
 -   A rework to [Saramaed Hollow](Saramaed_Hollow.md)
--   The addition of a new gamemode "[Vow of Iron](Vow_of_Iron.md)" that will allow the player to play a hardcore version of the game (Complete)
--   [Hallowtide](Hallowtide.md) 2025 (Complete)
 -   A new addon for [Aspects](Aspects.md) called "Divergences" that will modify how Aspects work
 -   [Ship](Ships_&_Sailing.md) modifications
--   New Locations to explore (Simforea - Complete)
+-   New Locations to explore
 -   And finally, Layer 3, the third layer of [The Depths](The_Depths.md).
 
 ## Hallowtide 2025

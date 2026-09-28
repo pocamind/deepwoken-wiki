@@ -1,6 +1,6 @@
 ---
 title: Ongo
-revid: 220020
+revid: 229894
 source: https://deepwoken.fandom.com/wiki/Ongo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Harvestables, Food Ingredients]
@@ -14,8 +14,8 @@ categories: [Consumables, Harvestables, Food Ingredients]
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
-| stomach | ?% |
-| water | ?% |
+| stomach | 8% |
+| water | 6% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
