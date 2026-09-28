@@ -1,6 +1,6 @@
 ---
 title: Glumfig
-revid: 229305
+revid: 229933
 source: https://deepwoken.fandom.com/wiki/Glumfig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Alchemy]
@@ -21,16 +21,21 @@ categories: [Consumables, Alchemy]
 | droppable | Yes |
 | pass down | No |
 | desc | Heralding from the west. These are sweet, tart and almost a little... melancholy? |
+| obtainment | Sold in Traan Zakshun's black market for 5 , Sold in Traan Zakshun's regular shop for 2,500 |
 
 “ What in Alsin's name is a Glumfig.. ”
 
 ― A Puzzled Bandit
 
-  
-
 ## Description
 
-A small fruit that originated from the Western Luminant. This fruit is exclusively sold by [Traan Zakshun](Traan_Zakshun.md) for 5 in his black market or 2,500 in his regular shop rotation.
+**Glumfig** is a [Food](Food.md) item. It is also purchased from [Traan Zakshun](Traan_Zakshun.md) for 2,500 or 5.
+
+It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
+
+### Effect
+
+When consumed, it replenishes 20% Stomach, but depletes -20% Water.
 
 ## Trivia
 

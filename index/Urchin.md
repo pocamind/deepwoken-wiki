@@ -1,6 +1,6 @@
 ---
 title: Urchin
-revid: 229892
+revid: 229932
 source: https://deepwoken.fandom.com/wiki/Urchin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
@@ -13,6 +13,7 @@ categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
 | value | N/A |
 | weight | 1 |
 | type | Ingredient |
+| food type | Meat |
 | stomach | 2% |
 | water | 0% |
 | bankable | Yes |
@@ -24,18 +25,23 @@ categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
 
 ## Description
 
-Urchin is an [Ingredient](Ingredients.md) useful mostly to [Deepbound](Deepbound.md) players, due to its use in Urchin Stew, which is one of the best [Depths](The_Depths.md) food sources. It is found on various rock faces in [The Depths](The_Depths.md) and from fishing, and is used to make urchin stew. Urchins can be used to make Insanity/Mindbreaking Potions which when consumed or thrown rapidly decrease the sanity of their victims.
+**Urchin** is a [Food](Food.md) item. It is also obtained from exclusively the [First Layer](First_Layer.md).
 
-For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.md).
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
-## Recipes
+### Effect
 
--   [Urchin Stew](Urchin_Stew.md) - 3 Urchins at a Campfire
--   [Seafood Surprise](Seafood_Surprise.md) - 1 Squid, 1 Fish Meat, 1 Urchin/Crustacean Meat
+When consumed, it replenishes 8% Stomach and 3% Water.
 
-For more information, you can read [Food](Food.md).
+## Crafting
+
+### Used in
+
+-   [Urchin Stew](Urchin_Stew.md) - 3 Urchins at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Seafood Surprise](Seafood_Surprise.md) - 1 Squid, 1 Fish Meat, 1 Urchin/Crustacean Meat.
 
 ## Trivia
 
 -   Urchins are the best source of food if you're a [Deepbound](Deepbound.md) and one of the only ways to gain thirst using exclusively Depths materials.
 -   Usually found in bunches of 5+, making it great for large amounts of food in the Depths. However, compared to overworld sources, they are terrible.
+-   Urchins can be used to make Insanity/Mindbreaking Potions which when consumed or thrown rapidly decrease the sanity of their victims.

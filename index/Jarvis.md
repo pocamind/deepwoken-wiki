@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 229849
+revid: 229926
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -111,4 +111,4 @@ This dialogue only appears if the player has ended the dialogue while Jarvis sti
 ## Trivia
 
 -   Another NPC known as the Artisan can be hired in a [Guild Base](Guild_Bases.md). They will function the same way as Jarvis does, albeit they only cost 800 to smelt equipment, therefore being cheaper.
--   To retrieve an item back after changing your mind, end his dialogue and select the option asking to return it.
+-   To retrieve an item back after changing your mind, end their dialogue and select the option asking to return it.

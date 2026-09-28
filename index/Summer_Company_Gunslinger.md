@@ -1,6 +1,6 @@
 ---
 title: Summer Company Gunslinger
-revid: 227626
+revid: 229928
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Gunslinger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Summer Company Enemies]
@@ -79,7 +79,3 @@ A Summer Company Gunslinger's arsenal consists of a [Flintlock](Flintlock.md) pi
 -   § Dodgeable
 
  |
-
-## Trivia
-
--   They are labeled as "Jungle Hashi" within Combat Tags, which is the case for similar humanoid entities like [Pale Ravager](Jungle_Jim.md) and [Etrean Apostle](Etrean_Apostle.md), being labelled as Jungle Jim and Jungle Mertet respectively.

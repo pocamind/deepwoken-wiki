@@ -1,6 +1,6 @@
 ---
 title: Dread Filet
-revid: 219896
+revid: 229944
 source: https://deepwoken.fandom.com/wiki/Dread_Filet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -10,10 +10,12 @@ categories: [Food]
 
 | Dread Filet | |
 |---|---|
+| value | N/A |
 | weight | 2 |
 | stack | x10 |
 | type | Food |
 | food type | Meat |
+| rarity | Common |
 | stomach | 40% |
 | water | 16% |
 | buff | Throat (Increases Taunt and Command: Fight duration) |

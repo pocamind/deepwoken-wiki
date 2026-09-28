@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 229893
+revid: 229934
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -10,10 +10,12 @@ categories: [Food, Harvestables, Food Ingredients]
 
 | Egg | |
 |---|---|
+| value | N/A |
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
 | food type | Generic |
+| rarity | Common |
 | stomach | 3% |
 | water | 3% |
 | bankable | Yes |
@@ -25,18 +27,24 @@ _Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item._
 
 ## Description
 
-Eggs are an ingredient commonly found atop high places. They can be gathered in bunches or 4-6.
+**Egg** is a [Food](Food.md) item.
+
+It is a type of **Generic** food.
+
+### Effect
+
+When consumed, it replenishes 3% Stomach and 3% Water.
 
 ## Crafting
 
 ### Used in
 
--   [Cake](Cake.md) - 1 Egg, 1 [Sap](Sap.md), and 3 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
--   [Cooked Egg](Cooked_Egg.md) - 1 Egg at a [Campfire](Campfire_Pit.md).
--   [Fish Omelette](Fish_Omelette.md) - 2 Eggs and 1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md).
--   [Mushroom Omelette](Mushroom_Omelette.md) - 2 Eggs and 1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md).
--   [Noodles](Noodles.md) - 1 Egg and 2 [Gathered Wheat](Gathered_Wheat.md), no [Campfire](Campfire_Pit.md) required.
--   [Omelette](Omelette.md) - 2 Eggs at a [Campfire](Campfire_Pit.md).
+-   [Cake](Cake.md) - 1 Egg, 1 [Sap](Sap.md), and 3 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Cooked Egg](Cooked_Egg.md) - 1 Egg at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Fish Omelette](Fish_Omelette.md) - 2 Eggs and 1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Mushroom Omelette](Mushroom_Omelette.md) - 2 Eggs and 1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Noodles](Noodles.md) - 1 Egg and 2 [Gathered Wheat](Gathered_Wheat.md) in your inventory.
+-   [Omelette](Omelette.md) - 2 Eggs at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 -   [Pumpkin Pie](Pumpkin_Pie.md) - 2 [Pumpkins](Pumpkin.md), 1 Egg or [Thresher Egg](Thresher_Egg.md), and 1 [Gathered Wheat](Gathered_Wheat.md).
 
 ## Locations

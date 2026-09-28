@@ -1,6 +1,6 @@
 ---
 title: Scallop
-revid: 167555
+revid: 229936
 source: https://deepwoken.fandom.com/wiki/Scallop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy]
@@ -13,6 +13,10 @@ categories: [Ingredients, Harvestables, Alchemy]
 | value | N/A |
 | weight | 1 |
 | type | Ingredient |
+| food type | Meat |
+| rarity | Common |
+| stomach | 8% |
+| water | 0% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -20,19 +24,21 @@ categories: [Ingredients, Harvestables, Alchemy]
 
 ## Description
 
-**Scallop** is an [Ingredient](Ingredients.md) in Deepwoken. It is found in various places scattered around the [Depths](The_Depths.md). It is one of the best food sources for [Deepbound](Deepbound.md) players along with [Urchin](Urchin.md) stew. However, it does not give much thirst.
+**Scallop** is a [Food](Food.md) item.
 
-It can also be used in [Alchemy](Alchemy.md) to make Mindbreaking potions, which give the strongest insanity effect. [Urchins](Urchin.md), [Seaweed Bundles](Seaweed_Bundle.md) and [Chum](Chum.md) can also be used for that purpose.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
-_For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.md)._
+### Effect
 
-## Recipes
+When consumed, it replenishes 8% Stomach and 0% Water.
 
--   Sauteed Scallops - 2 Scallops
+## Crafting
 
-_For more information, read [Food](Food.md)._
+### Used in
+
+-   Sauteed Scallops - 2 Scallops at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 
--   A great alternative to Urchin Stew for those in [The Depths](The_Depths.md). Please note you will need to use the heat stove in [Castle Light](Castle_Light.md) to craft it.
--   Usually found in clusters of 4+ scallops along the floor of [The Depths](The_Depths.md).
+-   A great alternative to Urchin Stew for those in [The Depths](The_Depths.md).
+-   When used in [Alchemy](Alchemy.md), it's primary effect is _Mindbreaking_, which gives the strongest insanity effect.

@@ -1,6 +1,6 @@
 ---
 title: Sweetgourd
-revid: 206438
+revid: 229938
 source: https://deepwoken.fandom.com/wiki/Sweetgourd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Food]
@@ -14,8 +14,9 @@ categories: [Vow of Iron Exclusive, Food]
 | stack | x? |
 | type | Ingredient |
 | food type | Plant |
-| stomach | ?% |
-| water | ?% |
+| rarity | Common |
+| stomach | 14% |
+| water | 24% |
 | bankable | No |
 | droppable | No |
 | pass down | No |
@@ -31,3 +32,7 @@ This content is not accessible outside of this gamemode.
 **Sweetgourd** is a [Food](Food.md) item. It is also purchased from [Naan Zakshun](Naan_Zakshun.md) for 4,000 during her Black Market.
 
 It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
+
+### Effect
+
+When consumed, it replenishes 14% Stomach and 24% Water.

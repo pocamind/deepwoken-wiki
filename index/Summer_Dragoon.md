@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 227137
+revid: 229927
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Summer Company]
@@ -49,6 +49,6 @@ Visually, the bullets that ricochet towards a nearby opponent are signified by a
 
 ## Trivia
 
--   Richocheted bullets can proc enchants (Fixed)
+-   Richocheted bullets can proc enchants
 -   Despite Sunset Ricochet's description, bullets are not required for ricochets.
 -   Dragoons were mounted infantrymen that existed from the 16th-18th centuries, wielding a [similarly named firearm](Dragoon.md).
