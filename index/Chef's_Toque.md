@@ -1,6 +1,6 @@
 ---
 title: "Chef's Toque"
-revid: 229887
+revid: 229915
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229911
+revid: 229925
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3982,9 +3982,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - When you parry an attack after feinting an attack, gain a 5s speed boost. (+1 Passive Agility)
+    -   Grants a 60% speed boost for 5 seconds on proc. This **does not** stack with the innate speed boost from parrying, nor the speed boost from [Fast Blade](#fast-blade).
     -   Prerequisites: 20 Agility, 20 Intelligence
 
 -   Speed Emission \[Common Talent, Agility\] - Land a Vent Gain a 5s speed boost and apply a 3s slow to your opponent.
+    -   Grants a 30% speed boost and applies a 15% slow.
     -   5 second cooldown.
     -   Prerequisite: 25 Agility
 
@@ -4078,7 +4080,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Rage Bait \[Common Talent, Willpower, Charisma\] - Proccing manipulator now enrages opponents, causing their mantras to deal 10% more damage. Anytime you block their enraged mantras however, laugh in their face causing extreme mental damage, dealing 1% of their max health. \[5 sec CD\]
     -   Rage Bait's duration is equal to: (Charisma + Willpower) × 0.12. At requirements, this has a 15.6s duration.
-        -   At 90 combined investment (the minimum possible with [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)), this has a 9.6s duration, which is shorter than [Manipulator](#manipulator)'s cooldown and not long enough for you to be able to properly benefit from Rage Bait more than once per proc instance. It is not recommended to use this Talent at minimum investment.
+        -   At 90 combined investment (the minimum possible with [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)), this has a 9.6s duration, which is shorter than [Manipulator](#manipulator)'s cooldown and is not long enough for you to be able to properly benefit from Rage Bait more than once per proc instance. It is not recommended to use this Talent at minimum investment.
         -   Has a 22.8s duration at 190 combined investment.
     -   Goes on cooldown when the Mantra is blocked, not when the Talent initially procs.
     -   On proc, steam will visually come out of your opponent's head, and a high-pitched angry growl sound effect will play.
