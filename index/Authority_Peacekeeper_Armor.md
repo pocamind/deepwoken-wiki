@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 229433
+revid: 230119
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits of The Central Authority, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -50,4 +50,3 @@ The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md
 
 -   This is the standard uniform of The Authority.
     -   Notably, the [Authority Captain Uniform](Authority_Captain_Uniform.md) is just this but with a red coat over it.
--   One of the best Adept armors in game because of the low cost, excellent durability, and the material requirements.

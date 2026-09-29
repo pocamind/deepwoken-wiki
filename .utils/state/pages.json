@@ -313,7 +313,7 @@
   },
   "1208": {
     "title": "Galebreathe",
-    "lastrevid": 227422
+    "lastrevid": 230143
   },
   "1216": {
     "title": "The Ferryman",
@@ -461,7 +461,7 @@
   },
   "1500": {
     "title": "Duke Ishamon Erisia",
-    "lastrevid": 229682
+    "lastrevid": 230115
   },
   "1502": {
     "title": "Ministry Necromancer",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 230113
+    "lastrevid": 230118
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -769,7 +769,7 @@
   },
   "2513": {
     "title": "Darksteel Greatsword",
-    "lastrevid": 229986
+    "lastrevid": 230141
   },
   "2521": {
     "title": "Forge Greathammer",
@@ -865,7 +865,7 @@
   },
   "2605": {
     "title": "Authority Peacekeeper Armor",
-    "lastrevid": 229433
+    "lastrevid": 230119
   },
   "2606": {
     "title": "Duelist's Attire",
@@ -3745,7 +3745,7 @@
   },
   "10112": {
     "title": "Oath: Saintsworn",
-    "lastrevid": 229792
+    "lastrevid": 230117
   },
   "10116": {
     "title": "Nest Corridor",
@@ -6585,7 +6585,7 @@
   },
   "19273": {
     "title": "Deepdelver Myra",
-    "lastrevid": 224727
+    "lastrevid": 230130
   },
   "19280": {
     "title": "Summer Hullwrecker",
@@ -6713,7 +6713,7 @@
   },
   "19763": {
     "title": "Authority Ensign",
-    "lastrevid": 230110
+    "lastrevid": 230127
   },
   "19764": {
     "title": "Destroyman III, Bon Vivant Adventurer",
@@ -9629,11 +9629,11 @@
   },
   "26096": {
     "title": "Clint",
-    "lastrevid": 224706
+    "lastrevid": 230122
   },
   "26097": {
     "title": "Ignacio",
-    "lastrevid": 224801
+    "lastrevid": 230129
   },
   "26098": {
     "title": "Amethyst (NPC)",
@@ -9769,7 +9769,7 @@
   },
   "26459": {
     "title": "Iron Memento",
-    "lastrevid": 227774
+    "lastrevid": 230123
   },
   "26472": {
     "title": "Version History/Editing",
@@ -9850,5 +9850,9 @@
   "26680": {
     "title": "Caudal Glade",
     "lastrevid": 229906
+  },
+  "26710": {
+    "title": "Aelita Plush",
+    "lastrevid": 230142
   }
 }
