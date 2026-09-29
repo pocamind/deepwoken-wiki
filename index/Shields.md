@@ -33,6 +33,11 @@ Shields have their own Talents in the [Shieldmaster](Talents.md#shieldmaster) Ta
   <td>4</td>
 </tr>
 <tr>
+  <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
+  <td>15 FTD</td>
+  <td>2</td>
+</tr>
+<tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>

@@ -1,9 +1,9 @@
 ---
 title: Greatcannons
-revid: 221769
+revid: 230104
 source: https://deepwoken.fandom.com/wiki/Greatcannons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Heavy Weapons, Weapon Classes]
+categories: ["Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapon Classes]
 ---
 
 # Greatcannons
@@ -15,6 +15,38 @@ Greatcannons are large, cannon weapons, wielded with both hands. These weapons h
 Like all other Heavy Weapon categories, _most_ Greatcannons are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
 
 After parrying an attack, your next light attack will gain **[Hyperarmor](Status_Effects.md#hyperarmor)**.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Heavy Cannonball** \[Big Bertha • Common Talent\] - Greatcannon Double the cooldown of your critical attack but increase the cannonball damage by 50%.
+    -   Specifically buffs the damage of the _projectile_ on the Greatcannon criticals.
+    -   This equates to an ~29% net damage increase on the default Greatcannon critical, and an ~33% net damage increase on [Smouldering Hallow](Smouldering_Hallow.md)'s critical, assuming all hits land on the aforementioned critical attacks.
+    -   This does not work on the [Edenbrand Hellcoil](Edenbrand_Hellcoil.md), as it does not fire a projectile.
+    -   [Critical Engine](Talents.md#critical-engine) with [Blessed Gem](Blessed_Gem.md) can be used to revert your critical's cooldown back to the original value. Alternatively, the [Summer Hullwrecker](Summer_Hullwrecker.md)'s [Max Ammo](Talents.md#max-ammo) Talent can be used to fully reset your critical cooldown when the cannonball lands.  
+        
+    -   Prerequisites: 60 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Damage Buff\] \[Greatcannon\]
+
+-   **Mortar Mystery** \[Big Bertha • Rare Talent\] - Greatcannon Landing a greatcannon critical attack summons mysterious cannonballs from above that target your opponent.
+    -   3 mortar projectiles are spawned per critical attack damage instance landed, for each entity hit.
+        -   For example, if you hit the initial attack and projectile on the Default Greatcannon critical on two enemies, it would summon 12 mortar projectiles in total.
+        -   This Talent is especially potent on the [Smouldering Hallow](Smouldering_Hallow.md).
+    -   Each mortar projectile does 30 damage on hit.
+    -   Has a cooldown of 10 seconds.  
+        
+    -   Prerequisites: 100 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Greatcannon\]
+
+-   **Sticky Flames** \[Big Bertha • Common Talent\] - Greatcannon Your base greatcannon critical attack's cannon ball leave 3 seconds of sticky flames on successful hits.
+    -   The base [Burn](Status_Effects.md#burn) on the default Greatcannon critical is improved to [Sticky Burn](Status_Effects.md#sticky-burn), meaning it cannot be removed for 3 seconds upon application.  
+        
+    -   Prerequisites: 80 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Debuff\] \[Greatcannon\]
 
 ## Default Animations
 

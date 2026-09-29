@@ -1,9 +1,9 @@
 ---
 title: Staves
-revid: 221763
+revid: 230108
 source: https://deepwoken.fandom.com/wiki/Staves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapon Classes]
+categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Medium Weapons, Staves, Weapon Classes]
 ---
 
 # Staves
@@ -12,11 +12,32 @@ categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Medium W
 
 Staves are polearm weapons with two blunt ends.
 
-Staves specialize in follow-up strikes featuring the opposite end of your Staff. These attacks, triggered by pressing M2 after triggering the conditional for [Both Ends](Talents.md#both-ends) or [Counter Strike](Talents.md#counter-strike), deal 45% of your weapon's damage. These attacks are much faster than a standard basic attack, and have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+Staves specialize in follow-up strikes featuring the opposite end of your Staff. These attacks, triggered by pressing M2 after triggering the conditional for [Both Ends](Talents.md#both-ends) or [Counter Strike](Talents.md#counter-strike), deal a percentage of your weapon's damage. These attacks are much faster than a standard basic attack, and have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 The follow-up strikes have a 1 second cooldown, shared between all Talents that trigger them.
 
 Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   Both Ends \[Common Talent, Medium Weapon\] - Staffs Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
+    -   This attack comes out much faster, and deals 135% of your weapon damage.
+    -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
+    -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
+    -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](Talents.md#counter-spin).
+    -   Prerequisites: [Staff](Staves.md) equipped, 30 Medium Weapon
+        -   The [Imperial Staff](Imperial_Staff.md) also provides this Talent.
+
+-   Counter Spin \[Common Talent, Medium Weapon\] - Staffs After blocking an attack, press M2 to counter with your staff.
+    -   On proc, swiftly thrust the back-end of your Staff forwards, dealing 45% of your weapon's damage on hit.
+    -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
+    -   This has a 1 second cooldown. This cooldown is shared with [Both Ends](Talents.md#both-ends).
+    -   Prerequisites: [Staff](Staves.md) equipped, 35 Medium Weapon
+
+-   Pressure Strike \[Common Talent, Medium Weapon\] - Staffs Reduce [Both Ends](Talents.md#both-ends)' staff strike base damage by 50%, but double its posture damage. Guardbreaking an opponent with a Both Ends staff strike adds an extra 20 damage to the attack.
+    -   Prerequisites: [Staff](Staves.md) equipped, [Both Ends](Talents.md#both-ends), 90 Medium Weapon
 
 ## Default Animations
 

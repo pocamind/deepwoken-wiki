@@ -2025,6 +2025,25 @@ All weapons within the game have the chance of being found with or without diffe
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
 </tr>
 <tr>
+  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>30 MED<br>
+  50 MND<br>
+  70 SDW<br>
+  LVL 10</td>
+  <td>16.5</td>
+  <td>MED: 3<br>
+  SDW: 4.5<br>
+  MND: 3</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>6</td>
+  <td>9.5</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29.5<br>
+  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+</tr>
+<tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
   <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
@@ -2083,25 +2102,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>30 MED<br>
-  50 MND<br>
-  70 SDW<br>
-  LVL 10</td>
-  <td>16.5</td>
-  <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>9.5</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>29.5<br>
-  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -3518,6 +3518,19 @@ All weapons within the game have the chance of being found with or without diffe
   <td>41.8</td>
 </tr>
 <tr>
+  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
+  <td>80 HVY</td>
+  <td>26</td>
+  <td>HVY: 8.4</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.82x</td>
+  <td>0.1s</td>
+  <td>42.4</td>
+</tr>
+<tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
   <td>80 HVY<br>
   20 STR</td>
@@ -3530,19 +3543,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
-</tr>
-<tr>
-  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
-  <td>80 HVY</td>
-  <td>26</td>
-  <td>HVY: 8.4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.82x</td>
-  <td>0.1s</td>
-  <td>42.4</td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -7477,6 +7477,25 @@ Pistols
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
 </tr>
 <tr>
+  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>30 MED<br>
+  50 MND<br>
+  70 SDW<br>
+  LVL 10</td>
+  <td>16.5</td>
+  <td>MED: 3<br>
+  SDW: 4.5<br>
+  MND: 3</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>6</td>
+  <td>9.5</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29.5<br>
+  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+</tr>
+<tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
   <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
@@ -7535,25 +7554,6 @@ Pistols
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>30 MED<br>
-  50 MND<br>
-  70 SDW<br>
-  LVL 10</td>
-  <td>16.5</td>
-  <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>9.5</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>29.5<br>
-  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9024,6 +9024,25 @@ Spears
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
 </tr>
 <tr>
+  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>30 MED<br>
+  50 MND<br>
+  70 SDW<br>
+  LVL 10</td>
+  <td>16.5</td>
+  <td>MED: 3<br>
+  SDW: 4.5<br>
+  MND: 3</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>6</td>
+  <td>9.5</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29.5<br>
+  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+</tr>
+<tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
   <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
@@ -9082,25 +9101,6 @@ Spears
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>30 MED<br>
-  50 MND<br>
-  70 SDW<br>
-  LVL 10</td>
-  <td>16.5</td>
-  <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>9.5</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>29.5<br>
-  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -10605,6 +10605,19 @@ Bows
   <td>41.8</td>
 </tr>
 <tr>
+  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
+  <td>80 HVY</td>
+  <td>26</td>
+  <td>HVY: 8.4</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.82x</td>
+  <td>0.1s</td>
+  <td>42.4</td>
+</tr>
+<tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
   <td>80 HVY<br>
   20 STR</td>
@@ -10617,19 +10630,6 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
-</tr>
-<tr>
-  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
-  <td>80 HVY</td>
-  <td>26</td>
-  <td>HVY: 8.4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.82x</td>
-  <td>0.1s</td>
-  <td>42.4</td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -11750,6 +11750,19 @@ Greathammers
   <td>41.8</td>
 </tr>
 <tr>
+  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
+  <td>80 HVY</td>
+  <td>26</td>
+  <td>HVY: 8.4</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.82x</td>
+  <td>0.1s</td>
+  <td>42.4</td>
+</tr>
+<tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
   <td>80 HVY<br>
   20 STR</td>
@@ -11762,19 +11775,6 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
-</tr>
-<tr>
-  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
-  <td>80 HVY</td>
-  <td>26</td>
-  <td>HVY: 8.4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.82x</td>
-  <td>0.1s</td>
-  <td>42.4</td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -12806,6 +12806,11 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>4</td>
 </tr>
 <tr>
+  <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
+  <td>15 FTD</td>
+  <td>2</td>
+</tr>
+<tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -13012,6 +13017,11 @@ Shields
   <td><b><a href="Targe.md">Targe</a></b></td>
   <td>10 FTD</td>
   <td>4</td>
+</tr>
+<tr>
+  <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
+  <td>15 FTD</td>
+  <td>2</td>
 </tr>
 <tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
@@ -13222,7 +13232,7 @@ Exclusive Weapons
 LVL 10 | 22 | SDW: 9  
 HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 |
 | **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
-| **[Moonseye Scalpel](Moonseye_Scalpel.md)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 |
+| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 |
 | **[Moon Blades](Moon_Blades.md) ([Bleed](Status_Effects.md#bleed))** | 60 LHT  
 30 INT | 13 | LHT: 8  
 INT: 2 | 30% | \- | 4 | 6 | 1.25x | \- | 22.8  
@@ -16297,6 +16307,25 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
 </tr>
 <tr>
+  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>30 MED<br>
+  50 MND<br>
+  70 SDW<br>
+  LVL 10</td>
+  <td>16.5</td>
+  <td>MED: 3<br>
+  SDW: 4.5<br>
+  MND: 3</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>6</td>
+  <td>9.5</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29.5<br>
+  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+</tr>
+<tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
   <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
@@ -16355,25 +16384,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>30 MED<br>
-  50 MND<br>
-  70 SDW<br>
-  LVL 10</td>
-  <td>16.5</td>
-  <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>9.5</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>29.5<br>
-  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18053,6 +18063,25 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
 </tr>
 <tr>
+  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>30 MED<br>
+  50 MND<br>
+  70 SDW<br>
+  LVL 10</td>
+  <td>16.5</td>
+  <td>MED: 3<br>
+  SDW: 4.5<br>
+  MND: 3</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>6</td>
+  <td>9.5</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29.5<br>
+  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+</tr>
+<tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
   <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
@@ -18111,25 +18140,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>30 MED<br>
-  50 MND<br>
-  70 SDW<br>
-  LVL 10</td>
-  <td>16.5</td>
-  <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>9.5</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>29.5<br>
-  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -19609,6 +19619,19 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>41.8</td>
 </tr>
 <tr>
+  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
+  <td>80 HVY</td>
+  <td>26</td>
+  <td>HVY: 8.4</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.82x</td>
+  <td>0.1s</td>
+  <td>42.4</td>
+</tr>
+<tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
   <td>80 HVY<br>
   20 STR</td>
@@ -19621,19 +19644,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
-</tr>
-<tr>
-  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
-  <td>80 HVY</td>
-  <td>26</td>
-  <td>HVY: 8.4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.82x</td>
-  <td>0.1s</td>
-  <td>42.4</td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -20742,6 +20752,19 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>41.8</td>
 </tr>
 <tr>
+  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
+  <td>80 HVY</td>
+  <td>26</td>
+  <td>HVY: 8.4</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.82x</td>
+  <td>0.1s</td>
+  <td>42.4</td>
+</tr>
+<tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
   <td>80 HVY<br>
   20 STR</td>
@@ -20754,19 +20777,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
-</tr>
-<tr>
-  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
-  <td>80 HVY</td>
-  <td>26</td>
-  <td>HVY: 8.4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.82x</td>
-  <td>0.1s</td>
-  <td>42.4</td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -21698,6 +21708,11 @@ Shields are defensive tools that when wielded in your offhand, apply their postu
   <td>4</td>
 </tr>
 <tr>
+  <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
+  <td>15 FTD</td>
+  <td>2</td>
+</tr>
+<tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -21918,6 +21933,11 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>4</td>
 </tr>
 <tr>
+  <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
+  <td>15 FTD</td>
+  <td>2</td>
+</tr>
+<tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -22124,7 +22144,7 @@ Exclusive Weapons
 LVL 10 | 22 | SDW: 9  
 HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 |
 | **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
-| **[Moonseye Scalpel](Moonseye_Scalpel.md)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 |
+| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 |
 | **[Moon Blades](Moon_Blades.md) ([Bleed](Status_Effects.md#bleed))** | 60 LHT  
 30 INT | 13 | LHT: 8  
 INT: 2 | 30% | \- | 4 | 6 | 1.25x | \- | 22.8  
@@ -24130,6 +24150,25 @@ Every player-obtainable weapon, excluding offhands.
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
 </tr>
 <tr>
+  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>30 MED<br>
+  50 MND<br>
+  70 SDW<br>
+  LVL 10</td>
+  <td>16.5</td>
+  <td>MED: 3<br>
+  SDW: 4.5<br>
+  MND: 3</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>6</td>
+  <td>9.5</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29.5<br>
+  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+</tr>
+<tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
   <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
@@ -24188,25 +24227,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>30 MED<br>
-  50 MND<br>
-  70 SDW<br>
-  LVL 10</td>
-  <td>16.5</td>
-  <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>9.5</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>29.5<br>
-  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -25623,6 +25643,19 @@ Every player-obtainable weapon, excluding offhands.
   <td>41.8</td>
 </tr>
 <tr>
+  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
+  <td>80 HVY</td>
+  <td>26</td>
+  <td>HVY: 8.4</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.82x</td>
+  <td>0.1s</td>
+  <td>42.4</td>
+</tr>
+<tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
   <td>80 HVY<br>
   20 STR</td>
@@ -25635,19 +25668,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
-</tr>
-<tr>
-  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
-  <td>80 HVY</td>
-  <td>26</td>
-  <td>HVY: 8.4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.82x</td>
-  <td>0.1s</td>
-  <td>42.4</td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>

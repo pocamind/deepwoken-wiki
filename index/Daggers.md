@@ -1,9 +1,9 @@
 ---
 title: Daggers
-revid: 230050
+revid: 230100
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Light Weapons, Weapon Classes]
+categories: ["Weapons with Multi-Hit Criticals", Light Weapons, Daggers, Weapon Classes]
 ---
 
 # Daggers
@@ -22,7 +22,7 @@ When used with the [Knife's Journey](Talents.md#knifes-journey) Talent, Daggers 
 
 This effect is Dagger exclusive, and does not work with the [Switchblade](Talents.md#switchblade) Talent. [Moppet](Moppet.md)'s critical attack cannot critically hit.
 
-## Talents
+## Weapon Class Talents
 
 This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
 

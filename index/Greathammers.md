@@ -1,6 +1,6 @@
 ---
 title: Greathammers
-revid: 225307
+revid: 230090
 source: https://deepwoken.fandom.com/wiki/Greathammers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heavy Weapons, Weapon Classes]
@@ -15,6 +15,16 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 Like [Greatswords](Greatswords.md) and [Greataxes](Greataxes.md), Greathammers receive a -15% damage penalty to their aerial attacks. Additionally, like all other Heavy Weapon categories, _most_ Greathammers are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
 
 After parrying an attack, your next light attack will gain **[Hyperarmor](Status_Effects.md#hyperarmor)**.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Unstoppable Force** \[Collosus • Rare Talent\] - Greathammer You take 15% less posture damage when parried. (+1 Posture)
+    
+    -   Prerequisites: [Unwavering Resolve](Talents.md#unwavering-resolve), 25 Strength, 40 Heavy Weapon, Use a [Greathammer](Greathammers.md)  
+        
+    -   Tags: \[Strength\] \[Heavy Weapon\] \[+Posture\] \[Greathammer\] \[Posture Resistance\]
 
 ## Default Animations
 
@@ -242,6 +252,19 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>41.8</td>
 </tr>
 <tr>
+  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
+  <td>80 HVY</td>
+  <td>26</td>
+  <td>HVY: 8.4</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.82x</td>
+  <td>0.1s</td>
+  <td>42.4</td>
+</tr>
+<tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
   <td>80 HVY<br>
   20 STR</td>
@@ -254,19 +277,6 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
-</tr>
-<tr>
-  <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
-  <td>80 HVY</td>
-  <td>26</td>
-  <td>HVY: 8.4</td>
-  <td>10%</td>
-  <td>-</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.82x</td>
-  <td>0.1s</td>
-  <td>42.4</td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>

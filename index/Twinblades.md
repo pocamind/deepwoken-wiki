@@ -1,9 +1,9 @@
 ---
 title: Twinblades
-revid: 221771
+revid: 230111
 source: https://deepwoken.fandom.com/wiki/Twinblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Criticals with M1 tag, Medium Weapons, Weapon Classes]
+categories: [Criticals with M1 tag, Medium Weapons, Twinblades, Weapon Classes]
 ---
 
 # Twinblades
@@ -15,6 +15,18 @@ Twinblades are Medium Weapons with blades at either side of their hilt.
 Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 Uniquely, their running attack hits twice. Additionally, while in the Two-Handed stance, their basic attack animations change, entirely removing their flourish.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   _Face Cutter_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - Your Spine Cutter now deals an additional hit. (+2 Passive Agility)
+    -   Grants an additional hit to your Spine Cutter that deals 25% of your weapon's scaled damage.
+    -   Similarly to Spine Cutter, the damage this deals cannot be buffed, and the attack has no PEN.
+    -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
+
+-   _Turning of the Wheel_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.
+    -   Prerequisites: 75 Medium Weapon, Twinblade equipped.
 
 ## Default Animations
 

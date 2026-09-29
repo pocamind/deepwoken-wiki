@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 230012
+revid: 230110
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -103,7 +103,7 @@ There are two ways to be exiled:
 
 If you leave Authority controlled territory, a **fifteen minute** AWOL (absent without leave) countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, exiling you from the Central Authority.
 
-The AWOL timer will reset if you leave the game, restarting from 15 minutes once you rejoin. Additionally, the timer will not appear if you are on a mission, have joined a Division, are in a squad in which the leader is in the Command Division, are in a [Dungeon](Dungeons.md), or are in [the Depths](The_Depths.md).
+The AWOL timer will reset if you leave the game, restarting from 15 minutes once you rejoin. Additionally, **the timer** **will not appear if you are on a mission,** **have joined a Division, are in a squad in which the leader is in the Command Division, are in a [Dungeon](Dungeons.md), or are in [the Depths](The_Depths.md).**
 
 ### Traitor
 
@@ -247,7 +247,7 @@ Enlistment Ranks
 
 These Talents can be chosen upon being promoted at any point in your Ensign playthrough.
 
-This info has been transcluded from [a different page](Talents.md#battle-readiness). Visit the transcluded page to edit this info.
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
 
 -   **Armored Plating** \[Battle Readiness • Faction Talent\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
     -   Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.  
@@ -317,7 +317,7 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 ### Exclusive Features
 
-This info has been transcluded from [a different page](Talents.md#dread-imperium). Visit the transcluded page to edit this info.
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
 
 -   **Breakthrough Drive** \[Dread Imperium • Faction Talent\] - Knocking a player refreshes your [Glorious Charge](Authority_Ensign.md#glorious-charge) cooldown and extends both of its effects by 5 seconds. \[90 second CD\]
     -   Knocking a _player_ [Unconscious](Status_Effects.md#unconscious) increases the duration of the knock prevention and Speed Boost given to your squadmates by the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra by 5 seconds, alongside resetting its cooldown.
@@ -449,7 +449,7 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 ### Exclusive Features
 
-This info has been transcluded from [a different page](Talents.md#inquisitive-lethality). Visit the transcluded page to edit this info.
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
 
 -   **Backstabber** \[Inquisitive Lethality • Faction Talent\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
     -   While standing behind an enemy, raise your weapon upwards in reverse grip. On M1, strike downwards with a 10% swing speed buff and stab the target, then leap off of them.
@@ -598,7 +598,7 @@ Complete missions with a high win to loss ratio, then speak to [Sentinel Augustu
 
 ### Exclusive Features
 
-This info has been transcluded from [a different page](Talents.md#operators-technique). Visit the transcluded page to edit this info.
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
 
 -   **Absolute Force** \[Faction Talent, **Authority Ensign** Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
     -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.

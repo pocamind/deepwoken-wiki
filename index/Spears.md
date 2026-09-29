@@ -149,6 +149,25 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
 </tr>
 <tr>
+  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>30 MED<br>
+  50 MND<br>
+  70 SDW<br>
+  LVL 10</td>
+  <td>16.5</td>
+  <td>MED: 3<br>
+  SDW: 4.5<br>
+  MND: 3</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>6</td>
+  <td>9.5</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29.5<br>
+  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+</tr>
+<tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
   <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
@@ -207,25 +226,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
-</tr>
-<tr>
-  <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td>30 MED<br>
-  50 MND<br>
-  70 SDW<br>
-  LVL 10</td>
-  <td>16.5</td>
-  <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
-  <td>15%</td>
-  <td>-</td>
-  <td>6</td>
-  <td>9.5</td>
-  <td>0.93x</td>
-  <td>-</td>
-  <td>29.5<br>
-  (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>

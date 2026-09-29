@@ -336,14 +336,6 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
         
     -   Tags: \[**Saint Jay**\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
--   **Orbital Ice** \[• Common Talent\] - When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.
-    -   The durability of Orbital Ice is equal to "Frostdraw investment +10".
-    -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
-    -   Lasts 50 seconds if it is not broken.
-    -   If you have the [Refreeze](Talents.md#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](Talents.md#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
-        
-    -   Tags: \[**Saint Jay**\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
-
 -   Shield Breaker \[Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields. (+1 Posture)
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
@@ -478,38 +470,13 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 ### Power 20
 
--   **Glacial Coasting** \[• Common Talent\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
+-   **Glacial Coasting** \[• Common Talent\] **100** \- Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
     -   Creates ice patches as you slide, improving your slide speed.  
-        
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Saint Jay**\] \[+Passive Agility\] \[Mobility\]
-
--   **Glacial Coasting** \[• Common Talent\] **100** \- Sliding while Orbital Ice is active leaves trails of ice.
-    -   Creates ice patches as you slide, improving your slide speed.  
-        
-    -   Grants +1 Passive Agility  
         
     -   Tags: \[**Saint Jay**\] \[+Passive Agility\] \[Mobility\]
 
 -   _Frozen Legs_ \[Rare Talent\] **250** \- **[Chilled](Status_Effects.md#chilled)** applied by Mantras prevents your opponent from rolling.
     -   Lasts the first 0.75 seconds after chill/freeze procs.
-
--   _Defiance_ \[Champion • Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
-    -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
-    -   Currently, the only things Defiance cuts in half are:
-        -   Flamecharm's [Burn](Status_Effects.md#burn) damage
-        -   Frostdraw's [Chill](Status_Effects.md#chill) and [Crystal](Status_Effects.md#crystals) stack duration
-        -   Galebreathe's [Winded](Status_Effects.md#winded) and [Suffocation](Status_Effects.md#suffocation) duration
-        -   Thundercall's [Surge Rod](Status_Effects.md#surge-rods) duration
-        -   Shadowcast's [Sightless Still](Status_Effects.md#obscured) duration
-        -   [Blood Poisoning](Status_Effects.md#blood-poisoning) gain
-        -   [Wither](Status_Effects.md#wither) gain
-        -   [Ring of Pestilence](Ring_of_Pestilence.md) duration
-        -   The potency of [potions](Alchemy.md)
-        -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
-            
-    -   Tags: \[**Saint Jay**\] \[Scale-down\]
 
 -   **Defiance** \[Champion • Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
     -   The effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.

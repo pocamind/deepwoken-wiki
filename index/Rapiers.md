@@ -1,9 +1,9 @@
 ---
 title: Rapiers
-revid: 223398
+revid: 230106
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Light Weapons, Weapon Classes]
+categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Light Weapons, Rapiers, Weapon Classes]
 ---
 
 # Rapiers
@@ -17,6 +17,29 @@ These weapons are traditionally locked to the One Handed stance.
 ## PvE Mechanics
 
 Using a weapon attack within 1 second of parrying an attack will riposte your opponent, adding a secondary damage instance to the attack that deals 25% of your hit's total damage. This secondary damage instance benefits from [Chain of Perfection](Talents.md#chain-of-perfection) separately. This also applies to critical attacks, but not every hit will benefit due to the proc window being so small.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   Defensive Stance: \[Common Talent, Light Weapon\] - Rapier Gain more parry frames the lower your health is.
+    -   Prerequisitses: Using Rapier, 50 Light Weapon
+
+-   Duelist's Lunge \[Common Talent, Light Weapon\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
+    -   Running attack with rapiers deal 35% more posture damage.
+    -   After landing a Critical, the next rapier running attack has +2 stud range.
+    -   Prerequisites: Using Rapier, 30 Light Weapon
+
+-   Frenzied Dance \[Common Talent, Light Weapon\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
+    -   Prerequisites: Using Rapier, 50 Light Weapon
+    -   Frenzied Dance activates when your posture is 70% or higher.
+    -   When your posture is 70% or higher, your posture damage is increased by 33%, and chip damage by 20%.
+
+-   Pressure Skewer \[Common Talent, Light Weapon\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
+    -   Increase blood bar damage by 50%.
+    -   While active, also grants +25% chip damage.
+    -   Also applies to criticals with the M1 tag.
+    -   Prerequisites: Using Rapier, 40 Light Weapon
 
 ## Default Animations
 

@@ -100,25 +100,12 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
     
 
--   **Until it is Done** \[Berserker • Memento Talent\] - Your **[Berserk State](../Status_Effects.md#berserk-state)** lasts until you willingly end it.
-    -   Your [Berserk](#berserk) has an indefinite duration, lasting until the user manually turns it off.  
-        
-    -   Prerequisites: Obtained on spawn with the [Berserker](../Berserker.md) Memento.  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\]
-
 -   **Ruinous Recovery** \[Berserker • Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
     
     -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Guardbreak\]
     
-
--   **Ruinous Recovery** \[Berserker • Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
-    
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Guardbreak\]
 
 -   **Residual Fury** \[Berserker • Memento Talent\] **200** \- In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
     
@@ -129,27 +116,12 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
     
 
--   **Residual Fury** \[Berserker • Memento Talent\] **200** \- \[In Berserk State\] Landing your critical grants +50% PEN on Basic Attacks for 8s.
-    -   This effect is retained after [Berserk](#berserk) is turned off.  
-        
-    -   The In Berserk State condition must be met in order for this Talent to apply.  
-        
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, [Power](../Power.md) 10, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Critical Attack\] \[PEN\]
-
 -   **Rip and Tear** \[Berserker • Memento Talent\] - Regain health upon defeating an enemy.
     
     -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard.md>)  
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Sustain\]
     
-
--   **Rip and Tear** \[Berserker • Memento Talent\] - Regain health upon defeating an enemy.
-    
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard.md>)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Sustain\]
 
 -   **Righteous Rage** \[Berserker • Memento Talent\] - In Berserk State You deal increased damage the lower your health is.
     
@@ -157,14 +129,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
     
-
--   **Righteous Rage** \[Berserker • Memento Talent\] - \[In Berserk State\] You deal increased damage the lower your health is.
-    
-    -   The In Berserk State condition must be met in order for this Talent to apply.  
-        
-    -   Prerequisites: [Berserker](../Berserker.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Berserker](../Berserker.md)\] \[Boss Reward\] \[Damage Buff\]
 
 #### [Breaker](../Breaker.md) [Memento](../Mementos.md)
 
@@ -175,12 +139,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Damage Buff\]
     
 
--   **Calamity Punch** \[Breaker • Memento Talent\] - Every successful [Strong Left](../Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
-    
-    -   Prerequisites: [Breaker](../Breaker.md) Memento  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Damage Buff\]
-
 -   **Threefold Impact** \[Breaker • Memento Talent\] **200** \- Every stack built with [Strong Left](../Attunement-less.md#strong-left) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
     
     -   Grants buffs to your Strong Left based on how many Calamity Punch stacks you have.
@@ -193,28 +151,12 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Damage Buff\] \[Guardbreak\]
     
 
--   **Threefold Impact** \[Breaker • Memento Talent\] **200** \- Every stack built with [Strong Left](../Attunement-less.md#strong-left) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
-    -   Grants buffs to your Strong Left based on how many Calamity Punch stacks you have.
-        -   With one stack, your Strong Left cooldown will be reduced by ?s.
-        -   With two stacks, your Strong Left will ignore your opponent's armor, on top of the first stack bonus.
-        -   With three stacks, your Strong Left will deal additional damage and guardbeak, on top of the first and second stack bonuses.  
-            
-    -   Prerequisites: [Breaker](../Breaker.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Damage Buff\] \[Guardbreak\]
-
 -   **Breakthrough** \[Breaker • Memento Talent\] **200** \- Posture damage on light attacks are increased by 10%.
     
     -   Prerequisites: [Breaker](../Breaker.md) Memento, [Power](../Power.md) 5, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Posture Damage Buff\]
     
-
--   **Breakthrough** \[Breaker • Memento Talent\] **200** \- Posture damage on light attacks are increased by 10%.
-    
-    -   Prerequisites: [Breaker](../Breaker.md) Memento, [Power](../Power.md) 5, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Posture Damage Buff\]
 
 -   **Relentless Barrage** \[Breaker • Memento Talent\] **200** \- Every swing from [Rapid Punches](../Attunement-less.md#rapid-punches) deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.
     
@@ -226,14 +168,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Posture Damage Buff\]
     
 
--   **Relentless Barrage** \[Breaker • Memento Talent\] **200** \- Every swing from [Rapid Punches](../Attunement-less.md#rapid-punches) deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.
-    -   Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked.
-    -   At max [Calamity Punch](#calamity-punch) stacks, gain hyperarmor during Rapid Punches.  
-        
-    -   Prerequisites: [Breaker](../Breaker.md) Memento, [Power](../Power.md) 15, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Posture Damage Buff\]
-
 -   **Dormant Strength** \[Breaker • Memento Talent\] - At max [Calamity Punch](#calamity-punch) stacks increased posture damage & physical damage.
     
     -   Increases your [Strong Left](../Attunement-less.md#strong-left)'s damage and posture damage if you are at max [Calamity Punch](#calamity-punch) stacks.  
@@ -241,22 +175,12 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Boss Reward\] \[Damage Buff\] \[Posture Damage Buff\]
     
 
--   **Dormant Strength** \[Breaker • Memento Talent\] - At max [Calamity Punch](#calamity-punch) stacks increased posture damage & physical damage.
-    -   Increases your [Strong Left](../Attunement-less.md#strong-left)'s damage and posture damage if you are at max [Calamity Punch](#calamity-punch) stacks.  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Boss Reward\] \[Damage Buff\] \[Posture Damage Buff\]
-
 -   **Shattering Left** \[Breaker • Memento Talent\] - Your [Strong Left](../Attunement-less.md#strong-left) and [Wind-up](../Wind-Up.md) punches will always guard break mobs.
     
     -   Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.  
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Guardbreak\]
     
-
--   **Shattering Left** \[Breaker • Memento Talent\] - Your [Strong Left](../Attunement-less.md#strong-left) and [Wind-up](../Wind-Up.md) punches will always guard break mobs.
-    -   Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Breaker](../Breaker.md)\] \[Guardbreak\]
 
 #### [Drifter](../Drifter.md) [Memento](../Mementos.md)
 
@@ -270,14 +194,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Dodge\]
     
 
--   **Drift** \[Drifter • Memento Talent\] - You're no longer slow enough to have to rely on parries. Dodge instead.
-    -   Replaces your parry with a fast dodge that can dodge unparryable attacks, at the cost of no parry stun. This still restores posture like a regular parry.
-    -   You still need to successfully parry an attack, input-wise, for the dodge to occur.  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, given on spawn  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Dodge\]
-
 -   **Lackluster Guard** \[Drifter • Memento Talent\] - You aren't used to having to block, resulting in weaker posture.
     
     -   Reduces your maximum Posture by 6; from 20 to 14.  
@@ -287,25 +203,12 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
     
 
--   **Lackluster Guard** \[Drifter • Memento Talent\] - You aren't used to having to block, resulting in weaker posture.
-    -   Reduces your maximum Posture by 6; from 20 to 14.  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, given on spawn  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
-
 -   **Precision Hitter** \[Unique • Common Talent\] **100** \- Your Basic Attack posture damage is increased by 15%.
     
     -   Prerequisites: [Drifter](../Drifter.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Posture Damage Buff\]
     
-
--   **Precision Hitter** \[Unique • Common Talent\] **100** \- Your Basic Attack posture damage is increased by 15%.
-    
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, purchased from [Reclaimer of the Recollection](../Reclaimer_of_the_Recollection.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Posture Damage Buff\]
 
 -   **Blinkstep** \[Drifter • Memento Talent\] - Your regular dash is enhanced into a Blinkstep above 90% ether but now has an ether cost.
     
@@ -317,14 +220,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Dodge\]
     
 
--   **Blinkstep** \[Drifter • Memento Talent\] - Your regular dash is enhanced into a Blinkstep above 90% ether but now has an ether cost.
-    -   Replaces your dash with a longer and faster dash that costs some ether.
-    -   Cannot be used if your Ether is below 90%. Having the [True Drifter](#true-drifter) Talent will remove this requirement, assuming you have stacks of [Cutting Pace](#cutting-pace).  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Dodge\]
-
 -   **Faster Blade** \[Drifter • Memento Talent\] - A successful "Drift" now grants a speed boost
     
     -   Procs when "parrying" an attack with [Drift](#drift).  
@@ -334,13 +229,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Speed Boost\]
     
 
--   **Faster Blade** \[Drifter • Memento Talent\] - A successful "Drift" now grants a speed boost
-    -   Procs when "parrying" an attack with [Drift](#drift).  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, defeat [Shogun of the Prophet's Guard](<../Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Speed Boost\]
-
 -   **Cutting Pace** \[Drifter • Memento Talent\] - Dodging attacks will now grant 'Cutting Pace' stacks. Mantras and basic attacks consume a stack to shorten wind-up and increase damage, procs after dash.
     
     -   Buffed attacks deal 15% more damage, have a slightly shorter windup, and are recolored to a purple.  
@@ -349,13 +237,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Dodge\] \[Damage Buff\]
     
-
--   **Cutting Pace** \[Drifter • Memento Talent\] - Dodging attacks will now grant 'Cutting Pace' stacks. Mantras and basic attacks consume a stack to shorten wind-up and increase damage, procs after dash.
-    -   Buffed attacks deal 15% more damage, have a slightly shorter windup, and are recolored to a purple.  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, defeat [Dravik, The Rat King](../Dravik,_The_Rat_King.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\] \[Dodge\] \[Damage Buff\]
 
 -   **Drifting Cloud** \[Drifter • Memento Talent\] - Cutting Pace now unsheathes the full potential of your [Purple Cloud](../Purple_Cloud.md).
     
@@ -368,15 +249,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
     
 
--   **Drifting Cloud** \[Drifter • Memento Talent\] - Cutting Pace now unsheathes the full potential of your [Purple Cloud](../Purple_Cloud.md).
-    -   Upon proccing Cutting Pace, unsheathe your Purple Cloud.
-    -   This changes Purple Cloud's stats, animations, and damage type to Slash. Additionally Purple Cloud gains a unique swing trail.
-    -   The unsheathed Purple Cloud stays until you leave the game.  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, defeat [Dravik, The Rat King](../Dravik,_The_Rat_King.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
-
 -   **Twin Drift** \[Drifter • Memento Talent\] - Hitting an enemy in the back after a roll cancel will bring upon twins who will follow up your assault.
     
     -   Similarly to [Spine Cutter](../Talents.md#spine-cutter), performing a basic attack on your opponent's back after a roll cancel will perform a second slash, then two light purple clones of yourself will attack the target.  
@@ -386,13 +258,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
     
 
--   **Twin Drift** \[Drifter • Memento Talent\] - Hitting an enemy in the back after a roll cancel will bring upon twins who will follow up your assault.
-    -   Similarly to [Spine Cutter](../Talents.md#spine-cutter), performing a basic attack on your opponent's back after a roll cancel will perform a second slash, then two light purple clones of yourself will attack the target.  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
-
 -   **True Drifter** \[Drifter • Memento Talent\] - You are a true drifter. Gain double the 'Cutting Pace' stacks and consume stacks to Blinkstep below 90% ether.
     
     -   Gain double the stacks whenever you proc [Cutting Pace](#cutting-pace). Additionally, you can now Blinkstep when below 90% Ether by consuming a Cutting Pace stack.  
@@ -401,13 +266,6 @@ This **only** covers the **[Gamemode](../Vow_of_Iron.md) exclusive** Talents. Vi
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
     
-
--   **True Drifter** \[Drifter • Memento Talent\] - You are a true drifter. Gain double the 'Cutting Pace' stacks and consume stacks to Blinkstep below 90% ether.
-    -   Gain double the stacks whenever you proc [Cutting Pace](#cutting-pace). Additionally, you can now Blinkstep when below 90% Ether by consuming a Cutting Pace stack.  
-        
-    -   Prerequisites: [Drifter](../Drifter.md) Memento, defeat [True Heart of Enmity](../True_Heart_of_Enmity.md)  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[[Drifter](../Drifter.md)\]
 
 ### [Ether Erudite](../Ether_Erudite.md) [Memento](../Mementos.md)
 
@@ -1250,35 +1108,12 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Miscellaneous • Common Talent\] \[Equipment\] \[Critical Attack\] \[Resonance\]
 
--   **Actions Speak Louder**: [Warmaster's Medallion](<../Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your [Resonance](../Resonance.md) cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 10% instead.
-    -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
-    -   In 1v1 [Chime of Conflict](../Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
-    -   This effect is applied before [Critical Engine](../Talents.md#critical-engine) [Blessed Gem](../Blessed_Gem.md) is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).  
-        
-    -   Tags: \[Miscellaneous • Common Talent\] \[Equipment\] \[Critical Attack\] \[Resonance\]
-
 -   **Alloyed Soles**: [Ossified Phalanx Boots](../Ossified_Phalanx_Boots.md) & [Alloyed Phalanx Boots](../Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](../Status_Effects.md#knockdown) applied to you.
     
     -   Reduces Knockdown duration by 75%.
     -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](../Shadowcast.md#eclipse-kick) or charged Bow shots get parried.  
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\]
-
--   **Alloyed Soles**: [Ossified Phalanx Boots](../Ossified_Phalanx_Boots.md) & [Alloyed Phalanx Boots](../Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](../Status_Effects.md#knockdown) applied to you.
-    
-    -   Reduces Knockdown duration by 75%.
-    -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](../Shadowcast.md#eclipse-kick) or charged Bow shots get parried.  
-        
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\]
-
--   **Already Dead**: [Deepscorn Casque](../Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
-    -   Removes the self damage from [Deepspindle's](../Deepspindle.md) running critical.
-    -   Reduces the self damage from [Shade Devour](../Shadowcast.md#shade-devour), [Flame Within](#flame-within) (on cast, NOT the burn ticks), [Rush Hour](#rush-hour), [Shadow Travel](#shadow-travel), and [Electrify](#electrify).
-        -   When paired with the [Stormchanter's Raiments](<../Stormchanter's_Raiments.md>) Talent, [Circuit Breaker](#circuit-breaker), using [Electrify](#electrify) will cause you to heal 12 health instead of taking damage.
-    -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](../Resonance.md#corrupted-resonances) downside by ~1%.
-    -   Lowers the Wither application from the Wither Corrupted [Resonance](../Resonance.md#corrupted-resonances) downside by ~2%.  
-        
-    -   Tags: \[Ministry Prophet • Common Talent\] \[Equipment\]
 
 -   **Already Dead**: [Deepscorn Casque](../Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](../Deepspindle.md) running critical.
@@ -1295,33 +1130,12 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[Equipment • Common Talent\] \[Equipment\] \[Damage Buff\]
 
--   **Analyze**: [Armored Sensor Mask](../Armored_Sensor_Mask.md) - Marking enemies with your [Callout](#callout) analyzes them, making them take 20% more damage from all sources for 10 seconds.
-    
-    -   45 second cooldown.  
-        
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[Equipment • Common Talent\] \[Equipment\] \[Damage Buff\]
-
 -   **Angel's Guise**: [Hollow Angel Mask](../Hollow_Angel_Mask.md) & [Sworn Angel Mask](../Sworn_Angel_Mask.md) - You resemble one of the [Sworn Angels](../Sworn_Angel.md).
     -   Grants immunity to the [Watcher](../Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](../Hollow_Angel.md)(s).
     -   Grants unique dialogue with [Watchers](../Watcher.md), as you cannot speak to Watchers without this Talent.
     -   [Angels](../Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\]
-
--   **Angel's Guise**: [Hollow Angel Mask](../Hollow_Angel_Mask.md) & [Sworn Angel Mask](../Sworn_Angel_Mask.md) - You resemble one of the [Sworn Angels](../Sworn_Angel.md).
-    -   Grants immunity to the [Watcher](../Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](../Hollow_Angel.md)(s).
-    -   Grants unique dialogue with [Watchers](../Watcher.md), as you cannot speak to Watchers without this Talent.
-    -   [Angels](../Hollow_Angel.md) will still aggro onto you while you have this Talent.  
-        
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\]
-
--   **Bane**: [Familiar Assassin's Armor](<../Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](../Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
-    
-    -   Grants a Talent tool that on use allows you to teleport to your opponent every time you M1 for 20 seconds.
-    -   The teleportation has a range limit of 25 studs.
-    -   Bane additionally grants a [Speed Boost](../Status_Effects.md#speed-boost) for its full duration.  
-        
-    -   Tags: \[Outfit • Common Talent\] \[[Rogue Assassin](../Rogue_Assassin.md)\] \[Outfit\] \[Mobility\] \[Speed Boost\] \[Tool\]
 
 -   **Bane**: [Familiar Assassin's Armor](<../Familiar_Assassin's_Armor.md>) & [Hidden Knife Armor](../Hidden_Knife_Armor.md) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
     
@@ -1335,15 +1149,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[Equipment • Common Talent\] \[Equipment\]
 
--   **Beginner's Luck**: [Beginner's Brace](<../Beginner's_Brace.md>) - Slightly increase the amount of loot you find in chests.
-    
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[Equipment • Common Talent\] \[Equipment\]
-
--   **Benefactor**: [Varicosan Finery](../Varicosan_Finery.md) - Gain reputation for selling goods to [Antiquarians](../Antiquarian.md) within faction territories.
-    -   Grants faction [reputation](../Reputation.md) when selling items to their respective [Antiquarian](../Antiquarian.md).  
-        
-    -   Tags: \[Varicosan Finery • Common Talent\] \[Outfit\]
-
 -   **Benefactor**: [Varicosan Finery](../Varicosan_Finery.md) - Gain reputation for selling goods to [Antiquarians](../Antiquarian.md) within faction territories.
     -   Grants faction [reputation](../Reputation.md) when selling items to their respective [Antiquarian](../Antiquarian.md).  
         
@@ -1354,32 +1159,12 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Most monsters in [The Depths](<../The_Depths_(Vow_of_Iron).md>) will be neutral you while you have this equipment on.
     -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[Equipment • Common Talent\] \[Equipment\]
 
--   **Blend In**: [Enforcer Helm](../Enforcer_Helm.md) - You resemble one of [the Enforcers](../Enforcer.md), become unnoticeable by regular depths mobs.
-    
-    -   Most monsters in [The Depths](<../The_Depths_(Vow_of_Iron).md>) will be neutral you while you have this equipment on.
-    -   Tags: \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\] \[Equipment • Common Talent\] \[Equipment\]
-
 -   **Blind Spot**: [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply **[Blinded](../Status_Effects.md#blinded)** for 5 seconds.
     -   15 second cooldown.
     -   Can be procced by [Mantle of Enmity](../Mantle_of_Enmity.md).  
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Critical Attack\] \[Debuff\]
 
--   **Blind Spot**: [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - \[Land Critical Attack or Hidden Blade\] Apply **[Blinded](../Status_Effects.md#blinded)** for 5 seconds.
-    -   15 second cooldown.
-    -   Can be procced by [Mantle of Enmity](../Mantle_of_Enmity.md).  
-        
-    -   The Land Critical Attack or Hidden Blade condition must be met in order for this Talent to apply.  
-        
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Critical Attack\] \[Debuff\]
-
--   **Blinded**: [Blindfold](../Blindfold.md) & [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
-    -   Applies the **[Blinded](../Status_Effects.md#blinded)** effect to your character, making everything darker and creating fog at long distances.
-    -   The [Blindseer](../Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
-    -   Grants immunity to the [Flame Blind](../Flamecharm.md#flame-blind) and [Gaze](../Attunement-less.md#gaze) Mantras.  
-        
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Debuff\]
-
 -   **Blinded**: [Blindfold](../Blindfold.md) & [Inquisitor's Visor](<../Inquisitor's_Visor.md>) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Applies the **[Blinded](../Status_Effects.md#blinded)** effect to your character, making everything darker and creating fog at long distances.
     -   The [Blindseer](../Oath%253A_Blindseer.md) Oath grants full vision while Blinded.
@@ -1388,14 +1173,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Debuff\]
 
 -   **Blood Converence**: [Regenerative Earrings](../Regenerative_Earrings.md) & [Trueblood Earrings](../Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](../Status_Effects.md#temporary-health).
-    
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Sustain\] \[Temporary Health\]
-
--   **Blood Converence**: [Regenerative Earrings](../Regenerative_Earrings.md) & [Trueblood Earrings](../Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](../Status_Effects.md#temporary-health).
-    
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Sustain\] \[Temporary Health\]
-
--   **Blood Pact**: [Regenerative Pendant](../Regenerative_Pendant.md) & [Trueblood Earrings](../Trueblood_Earrings.md) - Gain 50 bonus [temporary health](../Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
     
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Sustain\] \[Temporary Health\]
 
@@ -1410,25 +1187,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\] \[Temporary Health\]
 
--   **Blood Plague**: [Necrotic Mask](../Necrotic_Mask.md) & [Bloodcurdle Mask](../Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
-    
-    -   M1s apply stacks of [Blood Plague](../Status_Effects.md#blood-plague).
-    -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](../Status_Effects.md#temporary-health), if the attack lands.  
-        
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\] \[Temporary Health\]
-
 -   **Blood Siphon**: [Necrotic Cowl](../Necrotic_Cowl.md) & [Bloodcurdle Cowl](../Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
     
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
-
--   **Blood Siphon**: [Necrotic Cowl](../Necrotic_Cowl.md) & [Bloodcurdle Cowl](../Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
-    
-    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Critical Attack\] \[Sustain\]
-
--   **Brunt**: [Hive Tactician Armor](../Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
-    -   Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
-        
-    -   Tags: \[Miscellaneous • Common Talent\] \[Outfit\] \[Posture Resistance\]
 
 -   **Brunt**: [Hive Tactician Armor](../Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while two-handing a weapon (unavailable for light weapons).  
@@ -1439,26 +1200,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Tags: \[Leader • Common Talent\] \[Support\]
 
--   **Callout**: [Armored Sensor Mask](../Armored_Sensor_Mask.md) - You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.
-    
-    -   Tags: \[Leader • Common Talent\] \[Support\]
-
 -   **Centurion's Resolve**: [Legion Centurion](../Legion_Centurion.md) - Your [Legion Kata](../Legion_Kata.md)/[Imperium Kata](../Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.  
         
     -   Tags: \[Miscellaneous • Common Talent\] \[Outfit\] \[Damage Buff\] \[Fist\]
-
--   **Centurion's Resolve**: [Legion Centurion](../Legion_Centurion.md) - Your [Legion Kata](../Legion_Kata.md)/[Imperium Kata](../Imperium_Kata.md) attacks deal 4% more damage.
-    -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.  
-        
-    -   Tags: \[Miscellaneous • Common Talent\] \[Outfit\] \[Damage Buff\] \[Fist\]
-
--   **Chief's Will**: [Navaen War Chief](../Navaen_War_Chief.md) - [Way of Navae](../Way_of_Navae.md) light attacks have 10% additional penetration.
-    -   Gives [Way of Navae](../Way_of_Navae.md) style M1s and criticals with the M1 tag 10% more PEN.
-    -   This also affects fist weapons with Unique light attack animations.
-    -   Does not bypass the PEN cap.  
-        
-    -   Tags: \[ • Common Talent\] \[Outfit\] \[Fist\] \[PEN\]
 
 -   **Chief's Will**: [Navaen War Chief](../Navaen_War_Chief.md) - [Way of Navae](../Way_of_Navae.md) light attacks have 10% additional penetration.
     -   Gives [Way of Navae](../Way_of_Navae.md) style M1s and criticals with the M1 tag 10% more PEN.
@@ -1475,12 +1220,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[[Flashing Thunder](../Flashing_Thunder.md)\] \[Outfit\]
 
--   **Circuit Breaker**: [Stormchanter's Raiments](<../Stormchanter's_Raiments.md>) - [Electrify](../Talents.md#electrify) no longer deals self-damage on use.
-    -   The Electrify Talent tool no longer consumes health on use.
-    -   When paired with the [Deepscorn Casque](../Deepscorn_Casque.md) Talent, Already Dead, using Electrify will cause you to heal 12 health instead.  
-        
-    -   Tags: \[ • Common Talent\] \[[Flashing Thunder](../Flashing_Thunder.md)\] \[Outfit\]
-
 -   Conditioning: [Veteran Ranger's Boots](<../Veteran_Ranger's_Boots.md>) - Reduce all slows you receive by 40%.
 
 -   **Corrosive Touch**: [Arachnid's Weave](<../Arachnid's_Weave.md>) - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
@@ -1488,11 +1227,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Outfit\] \[Critical Attack\] \[Flourish\]
 
--   **Corrosive Touch**: [Arachnid's Weave](<../Arachnid's_Weave.md>) - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
-    -   Drain 5% of your opponent's armor on proc. This has a 10 second cooldown and can only proc once per critical attack.  
-        
-    -   Tags: \[ • Common Talent\] \[Outfit\] \[Critical Attack\] \[Flourish\]
-
 -   **Crippling Darkness**: [Prophet's Cloak](<../Prophet's_Cloak.md>) & [Moonseye](<../Moonseye_(Outfit).md>) - Your non-Basic Attacks have 20% PEN.
     
     -   Grants +20% PEN to anything that is not a weapon attack.
@@ -1500,19 +1234,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         -   [Reinforce's](../Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which normally bypass armor, deal more damage against Reinforce than they would otherwise.  
             
     -   Tags: \[ • Common Talent\] \[[Prince of the Moon](../Prince_of_the_Moon.md)\] \[Outfit\] \[PEN\]
-
--   **Crippling Darkness**: [Prophet's Cloak](<../Prophet's_Cloak.md>) & [Moonseye](<../Moonseye_(Outfit).md>) - Your non-Basic Attacks have 20% PEN.
-    
-    -   Grants +20% PEN to anything that is not a weapon attack.
-        -   Primarily, this is just 20% Mantra PEN, however this will also affect non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
-        -   [Reinforce's](../Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which normally bypass armor, deal more damage against Reinforce than they would otherwise.  
-            
-    -   Tags: \[ • Common Talent\] \[[Prince of the Moon](../Prince_of_the_Moon.md)\] \[Outfit\] \[PEN\]
-
--   **Cruentare**: [Crimson Terraplate Pauldrons](../Crimson_Terraplate_Pauldrons.md) - Increase the amount of all [bleed](../Status_Effects.md#bleed) damage you deal by 50%. Your [Whirling Blade](../Monster_Mantras.md#whirling-blade) now heals you when landing it.
-    -   Whirling Blade heals you for 25% of damage dealt. Hitting allies or player summons will still grant this healing.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Bleed\] \[Sustain\]
 
 -   **Cruentare**: [Crimson Terraplate Pauldrons](../Crimson_Terraplate_Pauldrons.md) - Increase the amount of all [bleed](../Status_Effects.md#bleed) damage you deal by 50%. Your [Whirling Blade](../Monster_Mantras.md#whirling-blade) now heals you when landing it.
     -   Whirling Blade heals you for 25% of damage dealt. Hitting allies or player summons will still grant this healing.  
@@ -1531,17 +1252,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Equipment\]
 
--   **Destructive Yell**: [Ascended Outlaw Mask](../Ascended_Outlaw_Mask.md) - Your [Ardour Screams](../Talents.md#ardour-scream) now break campfires around you and have a larger AoE.
-    -   Your Ardour Scream now destroys all campfires within its range.
-    -   Adds 100 studs to [Ardour Scream](../Talents.md#ardour-scream)'s range (95 to 195).  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\]
-
--   **Devastating Power**: [Pathfinder Arch-Sorcerer](../Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
-    -   Gain 10 Ether for every Mantra you have equipped.  
-        
-    -   Tags: \[ • Common Talent\] \[Outfit\]
-
 -   **Devastating Power**: [Pathfinder Arch-Sorcerer](../Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.  
         
@@ -1550,17 +1260,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   **Drop Dead**: [Vaporfrost Earrings](../Vaporfrost_Earrings.md) & [Vapordrop Earrings](../Vapordrop_Earrings.md) - Take less damage when Crouching.
     
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Resistance\]
-
--   **Drop Dead**: [Vaporfrost Earrings](../Vaporfrost_Earrings.md) & [Vapordrop Earrings](../Vapordrop_Earrings.md) - Take less damage when Crouching.
-    
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Resistance\]
-
--   **Elegy of Light**: [Lightkeeper's Medallion](<../Lightkeeper's_Medallion.md>) - The [Unspoken Vow](../Glossary.md#vows) of [the Waking God](../Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](../Deep_Gems.md) for 3 minutes and provides **[Gem Enhancement](../Status_Effects.md#gem-enhancement)**. Remains dormant until you take the life of an equal.
-    -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
-    -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
-    -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\]
 
 -   **Elegy of Light**: [Lightkeeper's Medallion](<../Lightkeeper's_Medallion.md>) - The [Unspoken Vow](../Glossary.md#vows) of [the Waking God](../Glossary.md#aeod-the-waking-god) resonates through you, if briefly. Protects you from the effects of [Deep Gems](../Deep_Gems.md) for 3 minutes and provides **[Gem Enhancement](../Status_Effects.md#gem-enhancement)**. Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
@@ -1581,25 +1280,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Equipment\]
 
--   **Enforcer's Strength**: [Hardened Enforcer Plate](../Hardened_Enforcer_Plate.md) & [Reinforced Enforcer Plate](../Reinforced_Enforcer_Plate.md) - Your enemies recover 20% less posture on parry.
-    
-    -   Enemies recover 20% less posture when they parry your attacks.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\]
-
 -   **Enforcer's Technique**: [Hardened Enforcer Boots](../Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](../Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
     
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Buff\] \[Flourish\]
-
--   **Enforcer's Technique**: [Hardened Enforcer Boots](../Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](../Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
-    
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Buff\] \[Flourish\]
-
--   **Ether Adeptness**: [Ether Empowered Earrings](../Ether_Empowered_Earrings.md) & [Caster Earrings](../Caster_Earrings.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra chip.
-    
-    -   Grants 5% Mantra chip.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Chip Damage\]
 
 -   **Ether Adeptness**: [Ether Empowered Earrings](../Ether_Empowered_Earrings.md) & [Caster Earrings](../Caster_Earrings.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra chip.
     
@@ -1616,26 +1299,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Sustain\]
 
--   **Ether Emergency**: [Bluestone Pauldrons](../Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
-    -   Instantly restores 15% of your maximum Ether as flat health at the cost of all of your Ether and the inability to cast Mantras for a short duration.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Sustain\]
-
 -   **Ether Pinpoint**: [Ascended Outlaw Robes](../Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](../Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
     -   Acts similarly to [Shield Breaker](../Talents.md#shield-breaker), though this does not require the Mantra to deal blunt damage.  
         
     -   Tags: \[ • Common Talent\] \[Equipment\]
-
--   **Ether Pinpoint**: [Ascended Outlaw Robes](../Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](../Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
-    -   Acts similarly to [Shield Breaker](../Talents.md#shield-breaker), though this does not require the Mantra to deal blunt damage.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\]
-
--   **Ether Tension**: [Ether Imbued Earrings](../Ether_Imbued_Earrings.md) & [Expert Practitioner's Earrings](<../Expert_Practitioner's_Earrings.md>) - Deal bonus true damage whenever you guardbreak an opponent with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    
-    -   Deals 10 true damage.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Guardbreak\]
 
 -   **Ether Tension**: [Ether Imbued Earrings](../Ether_Imbued_Earrings.md) & [Expert Practitioner's Earrings](<../Expert_Practitioner's_Earrings.md>) - Deal bonus true damage whenever you guardbreak an opponent with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     
@@ -1655,17 +1322,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Resistance\]
 
--   **Featherfall**: [Tiran Pendant](../Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
-    -   Negates up to 255 fall damage before going on a 2 minute cooldown.
-    -   The fall damage negated, before this goes on cooldown, does not reset and saves between servers.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Resistance\]
-
--   **Ferryman's Curse**: [Ferryman's Coat](<../Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
-    -   This synergizes with this Outfit's combined 51% Thundercall resistance.  
-        
-    -   Tags: \[ • Common Talent\] \[Outfit\] \[Damage Resistance\]
-
 -   **Ferryman's Curse**: [Ferryman's Coat](<../Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
     -   This synergizes with this Outfit's combined 51% Thundercall resistance.  
         
@@ -1675,11 +1331,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Halves the effectiveness of all speed boosts.
     -   Adds true damage to your attacks, with the true damage scaling on your speed boosts and momentum.
-
--   **Fists of Navae**: [Navaen Nomad Robes](../Navaen_Nomad_Robes.md) - Double the amount of ether you gain on successful light attacks.
-    -   Doubles the Ether gained from landed M1 attacks.  
-        
-    -   Tags: \[ • Common Talent\] \[Outfit\]
 
 -   **Fists of Navae**: [Navaen Nomad Robes](../Navaen_Nomad_Robes.md) - Double the amount of ether you gain on successful light attacks.
     -   Doubles the Ether gained from landed M1 attacks.  
@@ -1696,12 +1347,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Dodge\] \[Mobility\]
 
--   **Flashwind**: [Specialist Boots](../Specialist_Boots.md) - Anytime you proc [Air Pressure](../Talents.md#air-pressure) or [Overcharge](../Talents.md#overcharge), give yourself the ability to have enhanced dashes again for a few seconds.
-    -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.
-    -   While similar to Lightning/Gale dashes, this is its own thing and ignores their cooldowns.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Dodge\] \[Mobility\]
-
 -   Flask Amplifier: [Potion Master's Hat](<../Potion_Master's_Hat.md>) - Heal an extra 15% from flasks.
     
     -   Increases the healing gained from [Etris Flasks](../Etris_Flask.md) by 15% additively, meaning Flasks will restore 65% health on use instead of 50%.
@@ -1710,21 +1355,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Tags: \[ • Common Talent\] \[Outfit\] \[Speed Boost\]
 
--   **Fleetfoot**: [Carefree Garments](../Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
-    
-    -   Tags: \[ • Common Talent\] \[Outfit\] \[Speed Boost\]
-
 -   **Focused Hematoma**: [Sanguine Finery](../Sanguine_Finery.md) - Increase the amount of [temporary health](../Status_Effects.md#temporary-health) you receive by 15%.
     
     -   Tags: \[ • Common Talent\] \[Outfit\] \[Sustain\] \[Temporary Health\]
-
--   **Focused Hematoma**: [Sanguine Finery](../Sanguine_Finery.md) - Increase the amount of [temporary health](../Status_Effects.md#temporary-health) you receive by 15%.
-    
-    -   Tags: \[ • Common Talent\] \[Outfit\] \[Sustain\] \[Temporary Health\]
-
--   **Focused Strikes**: [Gale Enhanced Beads](../Gale_Enhanced_Beads.md) & [Hallowed Monastery Beads](../Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
-    
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Critical Attack\] \[Posture Damage Buff\]
 
 -   **Focused Strikes**: [Gale Enhanced Beads](../Gale_Enhanced_Beads.md) & [Hallowed Monastery Beads](../Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
     
@@ -1736,22 +1369,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   The speed boost lasts 15 seconds despite what the description states.  
         
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Critical Attack\] \[Speed Boost\]
-
--   **Footwork Mastery**: [Gale Enhanced Cowl](../Gale_Enhanced_Cowl.md) & [Hallowed Monastery Cowl](../Hallowed_Monastery_Cowl.md) - Landing a critical gives you an immense speed boost for 10 seconds.
-    
-    -   45 second cooldown.
-    -   The speed boost lasts 15 seconds despite what the description states.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Critical Attack\] \[Speed Boost\]
-
--   **Force Your Way**: [Ignition Deepdelver](../Ignition_Deepdelver.md), [Ignition Gauntlets](../Ignition_Gauntlets.md) & [Reforged Gauntlets](../Reforged_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of armor durability.
-    
-    -   This does not allow you to parry **all** unparryable monster attacks.
-    -   Monster attacks that are parriable with Force Your Way are tagged as such on their pages.
-    -   The armor durability lost is based on the amount of damage you would have taken normally.
-    -   When parrying attacks that are slide, jump, or slide only, the armor loss penalty is greatly increased.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Outfit\]
 
 -   **Force Your Way**: [Ignition Deepdelver](../Ignition_Deepdelver.md), [Ignition Gauntlets](../Ignition_Gauntlets.md) & [Reforged Gauntlets](../Reforged_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of armor durability.
     
@@ -1763,15 +1380,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Outfit\]
 
 -   Gale Boots: [Gale Boots](../Gale_Boots.md) - Reduce the amount of fall damage you take by 50%.
-
--   **Grotesque Resilience**: [Parasol Planter](../Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
-    -   Reduces [Burn](../Status_Effects.md#burn) damage by 50%
-        -   If you are utilizing [Flame Within](../Talents.md#flame-within), the DoT damage reduction will be reduced down to 25%.
-    -   Reduces [Bleed](../Status_Effects.md#bleed) damage by 25%
-    -   Does not work on all Damage over Time effects.
-        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](../Resonance.md#corrupted-resonances) Downside, [Deep Widow](../Deep_Widow.md) Poison, [Bladeharper's](../Oath%253A_Bladeharper.md) [Reveal](../Talents.md#reveal), [Viscosity](../Viscosity.md), [Deferred](../Deferred.md), or [Rush Hour](../Talents.md#rush-hour) from Bloodrend.  
-            
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Resistance\]
 
 -   **Grotesque Resilience**: [Parasol Planter](../Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces [Burn](../Status_Effects.md#burn) damage by 50%
@@ -1800,20 +1408,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Critical Attack\]
 
--   **Heartwing Beat**: [Mantle of Enmity](../Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
-    -   Replaces your aerial attack with a swooshing attack that applies [Wither](../Status_Effects.md#wither) and has innate [Bleed](../Status_Effects.md#bleed).
-    -   You cannot use [Silentheart's Relentless Hunt](../Oath%253A_Silentheart.md#relentless-hunt) unless this Talent is on cooldown.
-    -   Heartwing Beat has 25 base damage, and mirrors the scaling stat from your equipped weapon. Tangentially, this Talent uses the weapon scaling formula.
-        -   For example, using Heartwing Beat on the [Sword](<../Sword_(weapon).md>) will give it 2.5 Medium scaling, while using it on the [Repeater](../Repeater.md) will give it 15 Light Weapon scaling.
-    -   Heartwing Beat has a 10 second cooldown.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Critical Attack\]
-
 -   Hellion Shift: [Oni Mask](../Oni_Mask.md) - The more insane you are the more iframes you gain on your dodge.
-
--   **Herbivore**: [Herbalist's Hat](<../Herbalist's_Hat.md>) & [Big Herbalist's Hat](<../Big_Herbalist's_Hat.md>) - You gain more nutrition from eating plants.
-    
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Food\]
 
 -   **Herbivore**: [Herbalist's Hat](<../Herbalist's_Hat.md>) & [Big Herbalist's Hat](<../Big_Herbalist's_Hat.md>) - You gain more nutrition from eating plants.
     
@@ -1829,17 +1424,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Outfit\] \[Dodge\]
 
--   **Hunter's Reflexes**: [Cutthroat Light Armor](../Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
-    -   Your dodge window is increased by 0.05s.  
-        
-    -   Tags: \[ • Common Talent\] \[Outfit\] \[Dodge\]
-
--   **I'm Blue**: [Bluestone Boots](../Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](../Blue_Gem.md). Blue are the gems you use.
-    -   Increases the effectiveness of Blue Gems by 20%, additively.
-    -   With I'm Blue, Blue Gems reduce the total Ether cost of Mantras by 45%.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\]
-
 -   **I'm Blue**: [Bluestone Boots](../Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](../Blue_Gem.md). Blue are the gems you use.
     -   Increases the effectiveness of Blue Gems by 20%, additively.
     -   With I'm Blue, Blue Gems reduce the total Ether cost of Mantras by 45%.  
@@ -1852,24 +1436,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[ • Common Talent\] \[Equipment\]
 
--   **Immortality**: [Immortal Helm](../Immortal_Helm.md) - The remnants of the helmet's Mind Veil stir into life when you would be made [Unconscious](../Status_Effects.md#unconscious) soaking all damage for a brief duration. 30s CD. [Viscosity](../Viscosity.md) is rejected.
-    -   Grants one instance of knock prevention, leaving you at 1% HP on proc.
-    -   The [Viscosity](../Viscosity.md) enchantment will be disabled while wearing this equipment.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\]
-
 -   **Instant Nucleation**: [Frost Crystal Earrings](../Frost_Crystal_Earrings.md) & [Hardened Crystal Earrings](../Hardened_Crystal_Earrings.md) - Take less damage for a few seconds after you are guardbroken.
     
     -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Resistance\] \[Guardbreak\]
-
--   **Instant Nucleation**: [Frost Crystal Earrings](../Frost_Crystal_Earrings.md) & [Hardened Crystal Earrings](../Hardened_Crystal_Earrings.md) - Take less damage for a few seconds after you are guardbroken.
-    
-    -   Tags: \[ • Common Talent\] \[Equipment\] \[Damage Resistance\] \[Guardbreak\]
-
--   **Intrepid Flame**: [Flame Worshipper Armor](../Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you. Flames that come from your [Flame Within](../Talents.md#flame-within) deal much less damage to you.
-    -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.  
-        
-    -   Tags: \[ • Common Talent\] \[[Flame Worshipper](../Flame_Worshipper.md)\] \[Outfit\] \[Damage Resistance\]
 
 -   **Intrepid Flame**: [Flame Worshipper Armor](../Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you. Flames that come from your [Flame Within](../Talents.md#flame-within) deal much less damage to you.
     -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.  
@@ -1886,18 +1455,6 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.  
         
     -   Tags: \[ • Common Talent\] \[Equipment\]
-
--   **Jester's Ruse**: [Jester's Beret](<../Jester's_Beret.md>) & [Trickster's Beret](<../Trickster's_Beret.md>) - Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified.
-    
-    -   [Visionshaper](../Oath%253A_Visionshaper.md)'s Cheap Trick visual effect plays on proc.
-    -   This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.  
-        
-    -   Tags: \[ • Common Talent\] \[Equipment\]
-
--   **Knack**: [Eager Tradesman](../Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
-    -   Increases the boat repair speed.  
-        
-    -   Tags: \[ • Common Talent\] \[Outfit\]
 
 -   **Knack**: [Eager Tradesman](../Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
     -   Increases the boat repair speed.  

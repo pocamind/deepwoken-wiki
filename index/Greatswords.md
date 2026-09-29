@@ -1,6 +1,6 @@
 ---
 title: Greatswords
-revid: 221772
+revid: 230091
 source: https://deepwoken.fandom.com/wiki/Greatswords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heavy Weapons, Weapon Classes]
@@ -15,6 +15,29 @@ Greatswords are large sword weapons, possessing a large grip for the wielder to 
 Like [Greathammers](Greathammers.md) and [Greataxes](Greataxes.md), Greatswords receive a -15% damage penalty to their aerial attacks. Additionally, like all other Heavy Weapon categories, _most_ Greatswords are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
 
 After parrying an attack, your next light attack will gain **[Hyperarmor](Status_Effects.md#hyperarmor)**.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Destructive Recovery** \[Collossus • Rare Talent\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture)
+    -   Not to be confused with [Devastating Recovery](Talents.md#devastating-recovery), the weapon Talent for the [Zweihander](Zweihander.md).  
+        
+    -   Prerequisites: 25 Strength, 40 Heavy Weapon, Use a [Greatsword](Greatswords.md)  
+        
+    -   Tags: \[Strength\] \[Heavy Weapon\] \[+Posture\] \[Greatsword\]
+
+-   **Frost Buster** \[Ice Age • Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
+    -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
+    -   Despite what the Talent description states, Greathammers do not proc Frost Buster but Greataxes do. Greatcannons do not proc Frost Buster either.
+    -   Frost Buster can only proc once per critical.
+    -   Also grants the ability to freeze and damage boats with Greatsword and Greataxe criticals.
+    -   Frost Buster procs on **any** critical when used on a Greatsword or Greataxe including some strange cases such as critical-replacing Enchantments ([Curse of the Unbidden](Curse_of_the_Unbidden.md), [Nemesis](Nemesis.md), and [Stormbreaker](Stormbreaker.md)) and all fist style criticals on [Markor's Inheritor](<Markor's_Inheritor.md>).
+    -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.  
+        
+    -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Heavy Weapon\] \[Greataxe\] \[Greatsword\]
 
 ## Default Animations
 

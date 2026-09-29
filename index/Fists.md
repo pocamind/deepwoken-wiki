@@ -1,9 +1,9 @@
 ---
 title: Fists
-revid: 224563
+revid: 230102
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Weapons by Class]
+categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Fists, Weapon Classes]
 ---
 
 # Fists
@@ -80,6 +80,134 @@ Ineligible Fist Talents:
 -   Fist Styles (e.g. [Way of Navae](Talents.md#way-of-navae) Talent)
 -   [Jus Karita](Talents.md#justicar) Talents
 -   [Justicar](<Justicar_(Origin).md>) (Origin) Talents
+
+## Weapon Class Talents
+
+This info has been transcluded from [a different page](Talents.md#fists). Visit the transcluded page to edit this info.
+
+-   **Bruiser's Mixup** \[Brawler • Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict [bleed](Status_Effects.md#bleed) temporarily.
+    -   Lasts for 4 seconds.
+    -   Procs by pressing Y (Works even if you only have one Fist Style)
+    -   There is an 8 Second cooldown between style changes.
+    -   This Talent does not work with [Jus Karita](Jus_Karita.md).  
+        
+    -   Prerequisites: Any [Fist Style](Fists.md#styles)  
+        
+    -   Tags: \[Bleed\] \[Debuff\] \[Fist\]
+
+-   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](Status_Effects.md#sluggish)**. (+1 Passive Agility)
+    -   8 second cooldown.
+    -   This Talent also works with [Jus Karita](Jus_Karita.md).
+    -   The Sluggish status effect grants 15% damage reduction against the target, lasting for the duration of the slow that procced it.
+    -   Prerequisites: Any **Fist style** or Kick style equipped, 25 Agility
+
+-   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies **[Stagger](Status_Effects.md#stagger)** to PvE enemies and also applies **[Dazed](Status_Effects.md#dazed)** briefly. We're even now, right?
+    -   30 second cooldown.
+    -   Procs through Block/Parry/Dodge, and applies to all uppercut Mantras (ex: Rising Flame).
+    -   The Stagger status effect makes your opponent take 33% more posture damage.
+    -   This Talent does not work with [Jus Karita](Jus_Karita.md).
+    -   Prerequisites: 35 Light Weapon, 20 Strength
+
+-   Captain Etrea \[Common Talent, Strength, Fortitude\] - Fists Moving while blocking with a shield no longer slows you down.
+    -   Works with [Jus Karita](Jus_Karita.md).
+    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
+    -   Prerequisites: Moving Fortress, Shield Equipped, any Fist Style Talent, 20 Fortitude, 30 Strength
+
+-   _Fists of Fortitude_ \[Rare Talent, Fortitude, Light Weapon\] - Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.
+    -   Lasts 10 seconds then goes on a 70 second cooldown once the buff ends.
+    -   Only procs on M1s and criticals with the M1 tag.
+        -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
+    -   Prerequisites: Any **Fist style** or Kick style equipped, 20 Fortitude, 20 Light Weapon
+    -   Mutual Exclusive: Orbital Ice
+
+-   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+    -   Allows you to use the [Way of Navae](Way_of_Navae.md) **fist style**.
+    -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to the [Eastern Camp Master](Cheral.md) or [Eastern Nomad Leader](Eastern_Nomad_Leader.md).
+
+-   **Imperium Kata** \[Gale Kata • Quest Talent\] - Wield an advanced form of [the Legion](The_Hundred_Legions.md)'s martial arts. (+1 Passive Agility)
+    -   Allows you to use [Imperium Kata](Imperium_Kata.md), a **fist style**. See [Imperium Kata](Imperium_Kata.md).  
+        
+    -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)  
+        
+    -   Tags: \[+Passive Agility\] \[Fist\] \[Fist Style\]
+
+-   **Legion Kata** \[Gale Kata • Quest Talent\] - Gain the ability to use [the Legion](The_Hundred_Legions.md)'s martial arts.
+    -   Allows you to use [Legion Kata](Legion_Kata.md), a **fist style**. See [Legion Kata](Legion_Kata.md).  
+        
+    -   Prerequisites: Talk with [Amara](Amara.md) while having [Captain's Rec](<Captain's_Rec.md>) in your inventory.
+        -   _Note: clicking while holding the Captain's Rec deletes it from your inventory, but you can still obtain Legion Kata._  
+            
+    -   Tags: \[Fist\] \[Fist Style\]
+
+-   **Fang and Coil** \[Fang and Coil • Quest Talent\] - Adopt the path of the serpent.
+    -   Allows you to use the [Fang and Coil](Fang_and_Coil.md) **fist style**. See [Fang and Coil](Fang_and_Coil.md).  
+        
+    -   Prerequisites: 20 Light Weapon, Friend [Etris](Etris.md) Reputation, defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and speak to [Vesque](Vesque.md).  
+        
+    -   Tags: \[Light Weapon\] \[Fist\] \[Fist Style\]
+
+### Jus Karita Exclusive Talents
+
+-   **Jus Karita** \[Justicar • Quest Talent\] - Adopt the kick-based fighting style of [the Justicars](The_Justicar.md).
+    -   Allows you to use the [Jus Karita](Jus_Karita.md) **fist style**.  
+        
+    -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md) OR [Justicar](<Justicar_(Origin).md>) Origin OR chosen in [Character Creation](Character_Creation.md)  
+        
+    -   Tags: \[Light Weapon\] \[Fist\] \[[Fist Style](Fists.md#styles)\]
+
+-   **Justicar's Prowess** \[Justicar • Common Talent\] - [Jus Karita](Jus_Karita.md) gains +30% posture damage against other [fist styles](Fists.md#styles).
+    -   Gain +30% posture damage on weapon attacks against opponents using [Way of Navae](Way_of_Navae.md), [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Untrained Fist](Untrained_Fist.md), or [Legion Kata](Legion_Kata.md).  
+        
+    -   Prerequisites: [Jus Karita](Talents.md#jus-karita)  
+        
+    -   Tags: \[Fist\] \[Posture Damage Buff\]
+
+-   **Justicar's Renewal** \[Justicar • Common Talent\] - Hitting an opponent with your [Jus Karita](Jus_Karita.md) critical resets the cooldown.
+    -   Whenever you land the critical of Jus Karita, you can immediately use it again with no delay.
+    -   This is hard coded to only work on the default Jus Karita critical and the Vanguard critical from the [Justicar](<Justicar_(Origin).md>) Origin.
+    -   10 second cooldown.
+    -   Despite the description stating "hitting", this effect also procs on block, parry, and dodge.  
+        
+    -   Prerequisites: [Jus Karita](Talents.md#jus-karita)  
+        
+    -   Tags: \[Critical Attack\] \[Fist\]
+
+-   **Swiftkick Prodigy** \[Justicar • Common Talent\] - Hitting successive Basic Attacks with [Jus Karita](Jus_Karita.md) will give a temporary speed boost.
+    -   Hitting your opponent with the M1s 3 times will grant you a speed boost.  
+        
+    -   Prerequisites: [Jus Karita](Talents.md#jus-karita)  
+        
+    -   Tags: \[Fist\] \[Speed Boost\]
+
+-   **Flying Swiftkick** \[Justicar • Common Talent\] - Hitting a [Jus Karita](Jus_Karita.md) critical attack while [Swiftkick Prodigy](Talents.md#swiftkick-prodigy) is active will greatly slow your enemy, and consume your speed boost.
+    
+    -   Prerequisites: [Jus Karita](Talents.md#jus-karita), [Swiftkick Prodigy](Talents.md#swiftkick-prodigy)  
+        
+    -   Tags: \[Critical Attack\] \[Debuff\] \[Fist\] \[Slow\]
+
+### Equipment Fist Talents
+
+Talents that are obtained from [Equipment](Equipment.md), [Outfits](Outfits.md), or [Weapons](Weapons.md), that relate to the Fist weapon class or a particular fist style.
+
+  
+
+-   **Centurion's Resolve**: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
+    -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.  
+        
+    -   Tags: \[Miscellaneous • Common Talent\] \[Outfit\] \[Damage Buff\] \[Fist\]
+
+-   **Chief's Will**: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks have 10% additional penetration.
+    -   Gives [Way of Navae](Way_of_Navae.md) style M1s and criticals with the M1 tag 10% more PEN.
+    -   This also affects fist weapons with Unique light attack animations.
+    -   Does not bypass the PEN cap.  
+        
+    -   Tags: \[Navaen War Chief • Common Talent\] \[Outfit\] \[Fist\] \[PEN\]
+
+-   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
+    -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
+
+-   Swiftscales: [Steelscale Dusters](Steelscale_Dusters.md) - [Fang and Coil](Fang_and_Coil.md)'s base critical gains a small buff to its speed, range and endlag.
+    -   The increased range is telegraphed with a green version of the Fang and Coil critical vfx.
 
 ## Default Animations
 
@@ -168,7 +296,7 @@ This attack has a **5 second cooldown**.
     -   This still doesn't work, even if you have the [Alloyblood](Talents.md#alloyblood) Talent.
 -   Ragoozer has an exclusive fist style for his spec. This fist style is very similar to that of an advanced fist form in Rogue Lineage.
 -   When possessing all cestus styles, style swapping using Y repeats in this order:
-    -   (Way of Navae -> Imperium Kata -> Legion Kata -> Fang and Coil)
+    -   (Way of Navae -> Imperium Kata -> Legion Kata -> Fang and Coil -> Way of Navae, repeat)
 
 ## Weapons
 

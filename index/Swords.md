@@ -1,9 +1,9 @@
 ---
 title: Swords
-revid: 221775
+revid: 230109
 source: https://deepwoken.fandom.com/wiki/Swords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Criticals with M1 tag, Medium Weapons, Weapon Classes]
+categories: [Criticals with M1 tag, Medium Weapons, Swords, Weapon Classes]
 ---
 
 # Swords
@@ -13,6 +13,10 @@ categories: [Criticals with M1 tag, Medium Weapons, Weapon Classes]
 The 'Sword' is the largest weapon class in _Deepwoken_, bar none. This Medium weapon class is stock full with variety due to its obscene size.
 
 Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+## Weapon Class Talents
+
+Unlike all other weapon classes, Swords do not have any weapon class-exclusive Talents.
 
 ## Default Animations
 

@@ -451,7 +451,7 @@ This info has been transcluded from [a different page](Loot_Tables.md#titus-fulm
   <td>
   <ul>
     <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
-    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Titus's_Cape.md">Titus's Cape</a>, Evansler War Plate, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Titus's_Cape.md">Titus's Cape</a>, <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a></li>
     <li><b><a href="Equipment.md#legs">Legs Equipment</a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Breeches.md">Western Outlaw Breeches</a></li>
     <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
     <li><b><a href="Equipment.md#face">Face Equipment</a></b>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>

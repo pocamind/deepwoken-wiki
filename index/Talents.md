@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230035
+revid: 230113
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1483,6 +1483,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: [Unwavering Resolve](#unwavering-resolve), 25 Strength, 40 Heavy Weapon, Use a [Greathammer](Greathammers.md)  
         
     -   Tags: \[Strength\] \[Heavy Weapon\] \[+Posture\] \[Greathammer\] \[Posture Resistance\]
+
+  
 
 ### Comrade
 
@@ -3697,7 +3699,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[[Lone Warrior](Lone_Warrior.md)\] \[Combat Tag\] \[Damage Buff\]
 
-## Temporary
+### Maestro's Technique
 
 -   **Silencer's Song** \[Common Talent\] - Silencer's Blade now procs on your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   This procs on all Mantras, not just Galebreathe ones.
@@ -3709,11 +3711,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Marauder
 
--   **Old Habits Die Hard** \[Common Talent\] - (+5 Health)
+-   **Old Habits Die Hard** \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
     
+    -   Prerequisites: 20 Willpower  
+        
     -   Tags: \[Willpower\] \[+Health\] \[Posture Resistance\]
-
-|description=Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. |requirements=20 Willpower}}
 
 -   **Thresher Claws** \[Rare Talent\] - Grants +5% Weapon PEN. (+5% Weapon PEN)
     
@@ -3723,11 +3725,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Marksman
 
--   **Leg Shot** \[Rare Talent\] -
-    
+-   **Leg Shot** \[Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
+        
+    -   Prerequisites: 80 Medium Weapon, Rifle equipped  
+        
     -   Tags: \[Medium Weapon\] \[Critical Attack\] \[Debuff\] \[Rifle\] \[Slow\]
-
-|description=\[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds. |additional info=\*The Sluggish status effect applies a -15% damage debuff to affected targets. |requirements=80 Medium Weapon, Rifle equipped}}
 
 -   **Stock Bash** \[Common Talent\] - Your running attacks now apply a brief amount of daze and **[Stagger](Status_Effects.md#stagger)** PvE enemies.
     -   Applies daze for one second.

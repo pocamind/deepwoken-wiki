@@ -1,9 +1,9 @@
 ---
 title: Clubs
-revid: 221766
+revid: 230099
 source: https://deepwoken.fandom.com/wiki/Clubs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Medium Weapons, Weapon Classes]
+categories: [Medium Weapons, Clubs, Weapon Classes]
 ---
 
 # Clubs
@@ -13,6 +13,31 @@ categories: [Medium Weapons, Weapon Classes]
 These, usually Blunt, Medium Weapons excel at posture performance.
 
 Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Brain Rattler** \[Hammer Rage • Common Talent\] - Clubs Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies **[Stagger](Status_Effects.md#stagger)** to PvE enemies and blurs their vision.
+    -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
+    -   Applies a visual obscuration effect and blood loss on guardbreak. In PvE this also applies Staggered.
+    -   The Stagger status effect makes your opponent take 33% more posture damage.  
+        
+    -   Prerequisites: 50 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Club\] \[Debuff\] \[Guardbreak\]
+
+-   **Dispatch** \[Hammer Rage • Common Talent\] - Clubs Bear Trapped targets deal 20% less posture. **[Dazed](Status_Effects.md#daze)** targets deal 20% less posture. This can stack.
+    
+    -   Prerequisites: [Bear Trap](Talents.md#bear-trap), 55 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Strength\] \[Agility\] \[Medium Weapon\] \[Club\] \[Debuff\]
+
+-   **Hammerfall** \[Hammer Rage • Common Talent\] - Clubs Aerial attacks do 25% more posture damage when blocked.
+    
+    -   Prerequisites: 35 Medium Weapon, [Club](Clubs.md) equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Club\] \[Posture Damage Buff\]
 
 ## Default Animations
 

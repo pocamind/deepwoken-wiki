@@ -36,4 +36,4 @@ Toffee comes in 3 variants: Pink, Orange, and Yellow. These variants all share t
 
 When consumed, it replenishes 10% Stomach and 5% Water.  
   
-Additionally, it grants the Power buff, affecting 5% of the Stomach bar. The buff increases M1 damage by 5%.
+Additionally, it grants the Power buff, affecting 5% of the Stomach bar. The buff increases M1 damage by 5%. Also affects criticals with the M1 tag.

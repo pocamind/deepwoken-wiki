@@ -2339,6 +2339,10 @@
   "Hundred Legions": {
     "to": "The Hundred Legions"
   },
+  "Hunger": {
+    "to": "Combat Mechanics",
+    "fragment": "Survival Basics"
+  },
   "Hungerless": {
     "to": "Regalia",
     "fragment": "Hungerless"
@@ -4605,6 +4609,10 @@
     "to": "Steampunk Soldier",
     "fragment": "Steam Grenade"
   },
+  "Stomach": {
+    "to": "Combat Mechanics",
+    "fragment": "Survival Basics"
+  },
   "Stone Golem": {
     "to": "Rock Golem"
   },
@@ -4936,6 +4944,10 @@
   },
   "The World Serpent": {
     "to": "The Doom of Caeranthil"
+  },
+  "Thirst": {
+    "to": "Combat Mechanics",
+    "fragment": "Survival Basics"
   },
   "Threadwork Summer Scarf": {
     "to": "Summer Scarf"
@@ -5369,6 +5381,10 @@
   "Warp Kick": {
     "to": "Oath: Blightsurger",
     "fragment": "Warp Kick"
+  },
+  "Water": {
+    "to": "Combat Mechanics",
+    "fragment": "Survival Basics"
   },
   "Weapon": {
     "to": "Weapons"

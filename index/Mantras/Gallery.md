@@ -1037,7 +1037,7 @@ N/A
 
 **Effect:** The caster summons a wisp of magma. Ritual Casted.
 
--   Flame Wisp reduces the burn damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
+-   Flame Wisp converts all burn tick damage you apply (whether onto yourself or other player), and converts it into healing for you.
 -   Ignites nearby campfire pits if not currently healing you.
 -   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
 -   With **Eruption Path: Lava Serpent**, you will heal 5 hp from every eruption that hits.
@@ -4295,7 +4295,7 @@ Blunt ResistanceBlunt (Slam)
 -   [Drift](../Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](../Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
 -   [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) increase range.
 -   You cannot cast Mantras while Rising Shadow is active.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](../Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
+-   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](../Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow damaging nearby foes.
 
  |
 | 
@@ -8213,11 +8213,10 @@ Slash ResistanceSlash
 
 **Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
--   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base damage per level with 1.65 Light Weapon scaling.
+-   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base (slash) damage per level with 1.65 Light Weapon scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.67 seconds.
 -   Upgrading the Mantra increases teleportation range.
--   Deals typeless damage, bypassing armor resistances.
 -   Teleports the user to the enemy the cursor is pointed at.
 -   The base damage is **doubled** when wielded with the [Silver Dagger](../Silver_Dagger.md).
 -   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<../Nemit's_Sickle.md>).

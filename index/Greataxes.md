@@ -1,9 +1,9 @@
 ---
 title: Greataxes
-revid: 221768
+revid: 230103
 source: https://deepwoken.fandom.com/wiki/Greataxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Heavy Weapons, Weapon Classes]
+categories: [Heavy Weapons, Greataxes, Weapon Classes]
 ---
 
 # Greataxes
@@ -15,6 +15,58 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 Like [Greathammers](Greathammers.md) and [Greatswords](Greatswords.md), Greataxes receive a -15% damage penalty to their aerial attacks. Additionally, like all other Heavy Weapon categories, _most_ Greataxes are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
 
 After parrying an attack, your next light attack will gain **[Hyperarmor](Status_Effects.md#hyperarmor)**.
+
+## Weapon Class Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Impairing Blow** \[Bruiser • Common Talent\] - Greataxes Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
+    -   Does not proc on uppercut.
+    -   Reduces the opponents speed by a flat value of 5.  
+        
+    -   Prerequisites: Use a [Greataxe](Greataxes.md), 30 Heavy Weapon  
+        
+    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\] \[Posture Damage\] \[Slow\]
+
+-   **Brazen Blow** \[Bruiser • Common Talent\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary **[Hyperarmor](Status_Effects.md#hyperarmor)**.
+    -   The hyperarmor lasts 1 second. 20 second cooldown.
+    -   Only procs on weapon attacks.
+    -   Does not proc on uppercut.  
+        
+    -   Prerequisites: Use a [Greataxe](Greataxes.md), [Impairing Blow](Talents.md#impairing-blow), 30 Heavy Weapon  
+        
+    -   Tags: \[Heavy Weapon\] \[Greataxe\]
+
+-   **Heavy Fatigue** \[Bruiser • Rare Talent\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
+    -   Reduces opponents roll distance by 25% for 2.5s.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.
+    -   Does not proc on uppercut.  
+        
+    -   Prerequisites: Use a [Greataxe](Greataxes.md), [Impairing Blow](Talents.md#impairing-blow), 40 Heavy Weapon  
+        
+    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\]
+
+-   **Rending Impact** \[Bruiser • Rare Talent\] - Greataxes Block breaking an enemy applies [knockdown](Status_Effects.md#knockdown).
+    -   Only procs on guardbreaks from weapon attacks.
+    -   Applies knockdown for 1.2 seconds.
+    -   The default guardbreak stun is 1.05s, so this effectively increases the time someone is stunned after being guardbroken by 0.15s.
+    -   30 second proc cooldown.  
+        
+    -   Prerequisites: Use a [Greataxe](Greataxes.md), 40 Heavy Weapon  
+        
+    -   Tags: \[Heavy Weapon\] \[Greataxe\] \[Guardbreak\]
+
+-   **Frost Buster** \[Ice Age • Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
+    -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
+    -   Despite what the Talent description states, Greathammers do not proc Frost Buster but Greataxes do. Greatcannons do not proc Frost Buster either.
+    -   Frost Buster can only proc once per critical.
+    -   Also grants the ability to freeze and damage boats with Greatsword and Greataxe criticals.
+    -   Frost Buster procs on **any** critical when used on a Greatsword or Greataxe including some strange cases such as critical-replacing Enchantments ([Curse of the Unbidden](Curse_of_the_Unbidden.md), [Nemesis](Nemesis.md), and [Stormbreaker](Stormbreaker.md)) and all fist style criticals on [Markor's Inheritor](<Markor's_Inheritor.md>).
+    -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.  
+        
+    -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Heavy Weapon\] \[Greataxe\] \[Greatsword\]
 
 ## Default Animations
 

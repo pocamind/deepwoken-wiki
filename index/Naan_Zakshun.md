@@ -392,7 +392,7 @@ Sold Items
     <li><b>For 1,200 </b>: <a href="Reinforced_War_Helmet.md">Reinforced War Helmet</a><abbr></abbr></li>
     <li><b>For 1,500 </b>:
   <ul>
-    <li><b>Arms</b>: Reinforced Gauntlets<abbr></abbr></li>
+    <li><b>Arms</b>: <a href="Reinforced_Gauntlets.md">Reinforced Gauntlets</a><abbr></abbr></li>
     <li><b>Legs</b>: <a href="Reinforced_War_Boots.md">Reinforced War Boots</a><abbr></abbr></li>
   </ul></li>
     <li><b>For 1,700 </b>: <a href="Reinforced_War_Plate.md">Reinforced War Plate</a><abbr></abbr></li>

@@ -34,7 +34,7 @@ It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talen
 
 When consumed, it replenishes 35% Stomach and 10% Water.  
   
-Additionally, it grants the Power buff, affecting 20% of the Stomach bar. The buff increases M1 damage by 5%.
+Additionally, it grants the Power buff, affecting 20% of the Stomach bar. The buff increases M1 damage by 5%. Also affects criticals with the M1 tag.
 
 ## Crafting
 

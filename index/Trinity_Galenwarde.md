@@ -33,4 +33,4 @@ Trinity Galenwarde was [the Hero of Wind](The_Five_Heroes.md). She wielded the [
 ## References
 
 1.  [↑](#cite-ref-tiran-1-0) When using the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>)'s critical, a figure with [Tiran](Tiran.md) feathers appears.
-2.  ↑ [2.0](#cite-ref-obelisk-2-0) [2.1](#cite-ref-obelisk-2-1) [Galebreathe Obelisk](Saintsworn_Obelisks.md)
+2.  ↑ [2,0](#cite-ref-obelisk-2-0) [2,1](#cite-ref-obelisk-2-1) [Galebreathe Obelisk](Saintsworn_Obelisks.md)

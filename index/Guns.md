@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 223166
+revid: 230092
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapon Classes]
@@ -16,37 +16,11 @@ A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 
 For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to as "1H" for the rest of this article.
 
-### General Gun Talents
-
--   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
-    -   Due to this being combined multiplicatively rather than additively, this is worse than just +10% PEN, especially on [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Stormseye](Stormseye.md) due to their dual damage typings. Additionally, [Rifle Spear](Rifle_Spear.md) will only benefit from this Talent on critical due to it being a slash based weapon.
-    -   Armor Piercing has heavy diminishing returns based on how much PEN you have. While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have.
-        -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8), or 65% PEN + Armor Piercing is equivalent to having 68.5% PEN against blunt armor (+3.5).
-    -   Armor Piercing does not bypass the 50% PEN cap.
-    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
-    -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent
-
--   _True Ether Bullets_ \[Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
-    -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT OR 20 MED OR 20 HVY), Using a Pistol/Rifle/Greatcannon
-        -   Landing 2 shots will make the 3rd shot deal elemental damage.
-            -   The 3rd shot apply your attunement's elemental effect:
-                -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
-                -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
-                -   Thundercall: Your bullets apply shock/surge stack (Surge)
-                -   Galebreathe: Your bullets after cut and apply winded briefly
-                -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
-                -   Ironsing: Your bullets apply metal rods
-                -   Bloodrend: Your bullets drain blood
-            -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-        -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
-        -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
-        -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
-
 ## Pistol Moveset
 
 ### Single Gun
 
-Commonly referred to as one hand gun, wielding a singular main-hand pistol grants access to exclusive animations and Talent abilities. When pressing Y / Z, reload your pistol. Pistols can hold 4 to 6 bullets, depending on the weapon in specific.
+Commonly referred to as one-handed gun, wielding a singular main-hand pistol grants access to exclusive animations and Talent abilities. When pressing Y / Z, reload your pistol. Pistols can hold 4 to 6 bullets, depending on the weapon in specific.
 
 On an unloaded pistol, your M1s will deal more posture damage, performing a pistol whip animation. Additionally, your weapon critical will be a default unloaded M1, proccing M1-exclusive Talents instead of those that proc on critical.
 
@@ -73,55 +47,6 @@ The stats of an offhand pistol will change slightly depending on what your equip
 For example, an Offhand [Silversix](Silversix.md) on [First Light](First_Light.md) with 80 heavy and 0 proficiency will deal 11.84 damage due to now having 8 base damage and 8 Heavy Weapon scaling.
 
 Offhand pistols completely inherit the [enchant](Enchantments.md) that your main weapon has.
-
-### Talents
-
-Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw) and [Gunslinger](Talents.md#gunslinger).
-
-#### Outlaw
-
--   Lock n Load \[Common Talent\] - \[1H Guns\] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
-    -   Prerequisites: 60 Light Weapon, using a Gun
-
--   Rapid Fire \[Common Talent\] - \[1H Guns\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
-    -   Procs on dodge,block and getting hit.
-    -   Prerequisites: 50 Light Weapon, using a Gun
-
--   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
-    -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
-    -   Prerequisites: 50 Light Weapon, using a Gun
-
--   Sleight of Hands \[Common Talent\] - \[1H Guns\] When you flourish an opponent you instantly load a bullet.
-    -   Prerequisites: 50 Light Weapon, using a Gun
-
--   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast.
-    -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Gun
-
-#### Gunslinger
-
-##### Offhand Gun
-
--   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
-    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Pistol in your offhand
-
--   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
-    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
-    -   Prerequisites: 55 Light Weapon, Using a Pistol
-
-##### Dual Guns
-
--   Parting Gift \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
-    -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
-    -   The projectile M1s from this Talent can proc True Ether Bullets.
-    -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
-
--   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
-    -   True Ether Bullets now procs in 2 hits instead of 3.
-    -   Adds 1.2 Intelligence scaling to your Pistols.
-        -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
-    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
-
-  
 
 Despite having the highest range of all the weapons, utilizing the range can often be difficult. The hitboxes for guns are much like a pencil in the sense that it's not very wide or tall compared to other weapons meaning most people will easily jump over your shots.
 
@@ -285,26 +210,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
 
 Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are limited to the 2 handed stance, and they are all exclusively medium weapons.
 
-### Talents
-
-Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
-
--   _Leg Shot_ \[Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enmies [Sluggish](Status_Effects.md#sluggish), and also disables any speed boosts they get for the next 10 seconds.
-    -   The Sluggish status effect applies a -15% damage debuff to affected targets.
-    -   Prerequisites: 80 Medium Weapon, Rifle Equipped
-
--   Stock Bash \[Common Talent\] - Rifles Your running attacks now apply a brief amount of daze and [Stagger](Status_Effects.md#stagger) PvE enemies.
-    -   Applies daze for one second.
-    -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
-
--   _Tactical Reload_ \[Rare Talent\] - Rifles Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
-    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullets.md) for 15 seconds.
-    -   Note that you need physical bullets in your inventory for this Talent to work.
-    -   Has a 60 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
-    -   Prerequisites: 95 Medium Weapon, Rifle Equipped
-
-  
-
 ### Rifle Stats
 
 <table><caption>Medium Weapons</caption>
@@ -438,6 +343,177 @@ Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
 </tbody>
 </table>
 
+## Talents
+
+### Gunslinger
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Armor Piercing** \[Gunslinger • Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+    -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
+    -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
+        -   Though, keep in mind that the game does not treat this effect as PEN under any circumstance, meaning PEN resistance has no effect on it.
+        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: 1 - ((1 - Current PEN%) × (1 - 10%)) = effective PEN against blunt armor.
+        -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
+    -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
+        -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
+        -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
+            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
+    -   Despite being obtainable on [Greatcannons](Greatcannons.md), this Talent does not function on this weapon type.
+    -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](Talents.md#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](Talents.md#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](Talents.md#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
+        
+    -   Prerequisites: 30 Weapon (30 Light // 30 Medium // 30 Heavy), weilding a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md), and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Trig](Trig.md) OR helping [Asius](Asius.md) then paying Trig to apologize)  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)  
+        
+    -   Tags: \[Weapon\] \[Pistol\] \[Quest Talent\] \[Rifle\]
+
+-   **Bulletproof** \[Gunslinger • Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
+    -   This has no effect on Natural Armor.
+    -   This Talent simply removes/reduces armor damage taken; it has no effect on PEN.
+    -   Stacks multiplicatively with other armor loss reduction sources ([Armor Conserver](Talents.md#armor-conserver), [Steadfast](Boons_and_Flaws.md#steadfast), and [Armorer's Ring](<Armorer's_Ring.md>)).
+    -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](Talents.md#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](Talents.md#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](Talents.md#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
+        
+    -   Prerequisites: 20 Fortitude // 20 Weapon (20 Light // 20 Medium // 20 Heavy), completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
+        
+    -   Tags: \[Fortitude\] \[Weapon\] \[Quest Talent\]
+
+-   **Execution** \[Gunslinger • Rare Talent\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
+    -   Works with dual guns, adding 5 flat damage to every second shot.
+        -   The flourish aspect of the talent does not work with dual guns however.
+    -   The extra damage is true damage.
+    -   Does not work with [Unnecessary Theatrics](Talents.md#unnecessary-theatrics) and [Dazing Finisher](Talents.md#dazing-finisher).  
+        
+    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Mutual Exclusives: [Hip Shooter](Talents.md#hip-shooter)  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Flourish\] \[Offhand Pistol\] \[Pistol\]
+
+-   **Gunpowder Blast** \[Gunslinger • Common Talent\] - Pistol shots without bullets deal 2 extra posture. \[Dual Gun\]
+    -   Increases the posture damage of your blast shots by 2 if you do not have physical [bullets](Bullets.md) in your inventory.  
+        
+    -   Prerequisites: 45 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   **Hip Shooter** \[Gunslinger • Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
+    -   This requires you to have [bullets](Bullets.md) in your inventory.
+    -   5 second cooldown.  
+        
+    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using a Pistol  
+        
+    -   Mutual Exclusives: [Execution](Talents.md#execution)  
+        
+    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Offhand Pistol\] \[Pistol\]
+
+-   **Parting Gift** \[Gunslinger • Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
+    -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
+    -   Procs even if your flourish is parried or blocked.
+    -   The projectile M1s from this Talent can proc [True Ether Bullets](Talents.md#true-ether-bullets).  
+        
+    -   Prerequisites: 75 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Flourish\] \[Pistol\]
+
+-   **Quickdraw** \[Gunslinger • Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon.  
+        
+    -   Prerequisites: 55 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Offhand Pistol\] \[Pistol\]
+
+-   **Quick Swap** \[Gunslinger • Common Talent\] - Massively reduce your bullet swap cooldown. \[Dual Gun\]
+    -   You can swap [Bullet Casing](Bullets.md#bullet-casings) types by stance changing (Y).  
+        
+    -   Prerequisites: 40 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   **Taste The Rainbow** \[Gunslinger • Common Talent\] - Every time you shoot, switch your ammo type. \[Dual Guns\]
+    -   Every M1 switches your [Bullet type](Bullets.md#bullet-casings).  
+        
+    -   Prerequisites: 50 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+
+-   **True Ether Bullets** \[Gunslinger • Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
+    -   Landing 2 shots will make the 3rd shot deal elemental damage and apply the elemental status effect of your highest invested Attunement. If you do not have an Attunement, this Talent **will not** function.
+        -   **[Flamecharm](Flamecharm.md)**: Your bullets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
+        -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
+        -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
+        -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
+        -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+        -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
+        -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
+        -   If the user has multiple attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+    -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
+    -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.  
+        
+    -   Prerequisites: 30 Intelligence, 20 Weapon (20 Light // 20 Medium // 20 Heavy), Using a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md)  
+        
+    -   Tags: \[Intelligence\] \[Weapon\] \[Debuff\] \[Rifle\] \[Pistol\]
+
+-   **Prime Ether Bullets** \[Gunslinger • Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
+    -   True Ether Bullets now procs in 2 hits instead of 3.
+    -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).  
+        
+    -   Prerequisites: [True Ether Bullets](Talents.md#true-ether-bullets), 60 Intelligence, 90 Light Weapon, Using a [Pistol](Pistols.md)  
+        
+    -   Tags: \[Intelligence\] \[Light Weapon\] \[Dual Pistols\] \[Investment Scaling\] \[Pistol\]
+
+### Outlaw (Single Pistol/1H Gun)
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   Lock n Load \[Common Talent, Light Weapon\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
+    -   Prerequisites: 60 Light Weapon, using a Pistol
+
+-   Rapid Fire \[Common Talent, Light Weapon\] - 1H Guns When you land a critical shot, gain **[Rapid Fire](Status_Effects.md#rapid-fire)** for 2s. 12s Cooldown.
+    -   The Rapid Fire status effect entirely removes your Pistol critical cooldown for its duration, allowing you to spam it.
+    -   Procs on dodge, block, and hit.
+    -   Prerequisites: 50 Light Weapon, using a Pistol
+
+-   Rapid Reload \[Common Talent, Light Weapon\] - 1H Guns You have 20% faster reload when reloading an empty pistol.
+    -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
+    -   Prerequisites: 50 Light Weapon, using a Pistol
+
+-   Sleight of Hands \[Common Talent, Light Weapon\] - 1H Guns When you flourish an opponent you instantly load a bullet.
+    -   Prerequisites: 50 Light Weapon, using a Pistol
+
+-   Ultrakill \[Common Talent, Light Weapon\] - 1H Guns When under the effects of **[Rapid Fire](Status_Effects.md#rapid-fire)** you reload 2X as fast.
+    -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Pistol
+
+### Marksman (Rifles)
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Leg Shot** \[Marksman • Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
+        
+    -   Prerequisites: 80 Medium Weapon, Rifle equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Critical Attack\] \[Debuff\] \[Rifle\] \[Slow\]
+
+-   **Stock Bash** \[Marksman • Common Talent\] - Your running attacks now apply a brief amount of daze and **[Stagger](Status_Effects.md#stagger)** PvE enemies.
+    -   Applies daze for one second.
+    -   The Stagger status effect makes your opponent take 33% more posture damage.  
+        
+    -   Prerequisites: 25 Strength, 55 Medium Weapon, Rifle equipped  
+        
+    -   Tags: \[Strength\] \[Medium Weapon\] \[Debuff\] \[Rifle\] \[Running Attack\]
+
+-   **Tactical Reload** \[Marksman • Rare Talent\] - Rifles Activate to make your rifle shoot bullets for 15 seconds.
+    -   90 second cooldown.
+    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullets.md) for 15 seconds, with a downtime of 75 seconds.
+    -   You do not need to have physical bullets in your inventory for this to work.
+    -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), giving it a downtime of only 30 seconds.
+    -   This Talent has no effect on [Rifle Spear](Rifle_Spear.md).  
+        
+    -   Prerequisites: 95 Medium Weapon, Rifle equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Rifle\] \[Tool\]
+
 ## Trivia
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 [Iron](Ores.md#iron) for 50 bullets.
@@ -449,4 +525,4 @@ Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
 -   Rifles and dual pistols used to fire ranged projectiles in their M1 combo, but this was removed in the March 3rd, 2024 Update. Today, you can perform something similar to this by using the [Tactical Reload](Talents.md#tactical-reload) and [Parting Gift](Talents.md#parting-gift) Talents respectively.
 -   No gun weapon has recoil in Deepwoken.
 -   The [Dawnshot](Dawnshot.md) is the only gun that can be [alloyed](Pluripotent_Alloy.md).
--   Reloading you gun during other animations, such as blocking, parrying or movestacking used to be possible. This was later fixed 2025, February 2th update.
+-   Reloading you gun during other animations, such as blocking, parrying or movestacking used to be possible. This was later fixed in the [February 2nd, 2025](Version_History/2025.md#february-2nd-2025) update.

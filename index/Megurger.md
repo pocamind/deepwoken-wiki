@@ -34,7 +34,7 @@ It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons
 
 When consumed, it replenishes 25% Stomach and 10% Water.  
   
-Additionally, it grants the Power buff, affecting 12% of the Stomach bar. The buff increases M1 damage by 5%.
+Additionally, it grants the Power buff, affecting 12% of the Stomach bar. The buff increases M1 damage by 5%. Also affects criticals with the M1 tag.
 
 ## Trivia
 
