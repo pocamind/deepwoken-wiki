@@ -1,6 +1,6 @@
 ---
 title: Daggers
-revid: 223399
+revid: 230050
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Light Weapons, Weapon Classes]
@@ -21,6 +21,48 @@ When used with the [Knife's Journey](Talents.md#knifes-journey) Talent, Daggers 
 **Critical hits** are not to be confused with **critical attacks**, as they do not proc any "on critical attack" effects.
 
 This effect is Dagger exclusive, and does not work with the [Switchblade](Talents.md#switchblade) Talent. [Moppet](Moppet.md)'s critical attack cannot critically hit.
+
+## Talents
+
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Finishing Touch** \[Critical Specialist • Common Talent\] - Daggers Instantly execute enemies finished with the critical attack of your dagger.
+    -   Your critical must knock the opponent [Unconscious](Status_Effects.md#unconscious) for this Talent to proc.  
+        
+    -   Prerequisites: 50 Agility, 40 Light Weapon, [Dagger](Daggers.md) equipped  
+        
+    -   Tags: \[Agility\] \[Light Weapon\] \[Critical Attack\] \[Dagger\]
+
+-   **Knife's Journey** \[Critical Specialist • Rare Talent\] - Daggers Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage.
+    -   Displays a red particle on the target enemy after proccing.
+    -   Though not mentioned in the Talent description, Daggers gain a 15% chance to **critically hit** on basic attacks in PVE, dealing 5x damage. This has a 15 second cooldown.
+        -   This does **not** work on non-Dagger weapons via [Switchblade](Talents.md#switchblade). Additionally, [Moppet](Moppet.md)'s critical attack cannot critically hit.
+        -   Critical **hits** do **not** proc "on critical **attack**" Talents.  
+            
+    -   Prerequisites: 30 Light Weapon, [Dagger](Daggers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Dagger\] \[Damage Buff\]
+
+-   **Decisive Blow** \[Critical Specialist • Common Talent\] - Hitting an enemy with your Critical Attack immediately after they dodge (or any time against mobs) now procs [Knife's Journey](Talents.md#knifes-journey). Your Knife's Journey procs do 2x Armor damage.
+    -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect unless you have the [Switchblade](Talents.md#switchblade) Talent.
+    -   Compatible with [Switchblade](Talents.md#switchblade) despite technically not being a Dagger Talent.  
+        
+    -   Prerequisites: [Knife's Journey](Talents.md#knifes-journey)  
+        
+    -   Tags: \[Light Weapon\] \[Critical Attack\] \[Dagger\]
+
+-   **Successive Throw** \[Critical Specialist • Common Talent\] - Daggers When you successfully flourish an enemy, you throw out a dagger afterwards.
+    -   If your cursor isn't on an enemy after flourishing them, it will throw it at the enemy closest to your cursor. If your cursor is on a separate player from who you flourished, the dagger will be thrown at them instead.
+    -   The projectile will be fired after a 1.5 second delay.
+    -   If the target is too close to you, the thrown dagger projectile will be invisible; otherwise, the thrown dagger projectile will look similar to [Ice Daggers](Frostdraw.md#ice-daggers)' projectile.
+    -   Deals 5 damage on proc.  
+        
+    -   Prerequisites: 35 Light Weapon, [Dagger](Daggers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Dagger\] \[Flourish\]
+
+-   _**Switchblade**_ \[Advanced Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - You can now utilize Dagger Talents when not wielding a dagger.
+    -   Prerequisites: 50 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon
 
 ## Default Animations
 

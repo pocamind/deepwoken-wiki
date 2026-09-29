@@ -1,11 +1,9 @@
 ---
 title: Squelcap
-revid: 220276
+revid: 230058
 source: https://deepwoken.fandom.com/wiki/Squelcap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Ingredients, Harvestables, Mushrooms]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Ingredients, Harvestables, Mushrooms]
 ---
 
 # Squelcap
@@ -16,10 +14,11 @@ notices:
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
-| food type | ? |
+| food type | Generic |
 | rarity | Common |
-| stomach | 8% |
-| water | 8% |
+| stomach | 5% |
+| water | 5% |
+| usage | Squelcap Pilaf |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -29,9 +28,17 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+  
+
 ## Description
 
-A tall white mushroom. It can only be found at [Simforea](Simforea.md).
+**Squelcap** is a [Food](Food.md) item and crafting ingredient. It is also obtained from [Simforea](Simforea.md) exclusively.
+
+It is a type of **Generic** food.
+
+### Effect
+
+When consumed, it replenishes 5% Stomach and 5% Water.
 
 ## Crafting
 

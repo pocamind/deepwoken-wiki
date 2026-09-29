@@ -1,6 +1,6 @@
 ---
 title: Raw Heavy Meat
-revid: 229945
+revid: 230025
 source: https://deepwoken.fandom.com/wiki/Raw_Heavy_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Drops]
@@ -18,6 +18,7 @@ categories: [Ingredients, Items, Drops]
 | rarity | Common |
 | stomach | 70% |
 | water | 12% |
+| usage | Heavy Steak |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -26,7 +27,7 @@ categories: [Ingredients, Items, Drops]
 
 ## Description
 
-**Raw Heavy Meat** is a [Food](Food.md) item. It is also obtained from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) as a direct drop.
+**Raw Heavy Meat** is a [Food](Food.md) item and crafting ingredient. It is also obtained from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) as a direct drop exclusively.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
@@ -38,4 +39,4 @@ When consumed, it replenishes 75% Stomach and 12% Water.
 
 ### Used in
 
--   [Heavy Steak](Heavy_Steak.md) - 1x Raw Heavy Meat at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Heavy Steak](Heavy_Steak.md) - 1 Raw Heavy Meat at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

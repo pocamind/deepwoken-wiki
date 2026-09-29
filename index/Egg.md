@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 229934
+revid: 229978
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -18,6 +18,7 @@ categories: [Food, Harvestables, Food Ingredients]
 | rarity | Common |
 | stomach | 3% |
 | water | 3% |
+| usage | Cake, Cooked Egg, Fish Omelette, Mushroom Omelette, Noodles, Omelette, Pumpkin Pie |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -27,7 +28,7 @@ _Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item._
 
 ## Description
 
-**Egg** is a [Food](Food.md) item.
+**Egg** is a [Food](Food.md) item and crafting ingredient.
 
 It is a type of **Generic** food.
 
@@ -81,4 +82,5 @@ When consumed, it replenishes 3% Stomach and 3% Water.
 
 ## Trivia
 
--   Eggs have an extremely low chance to spawn as a golden egg.
+-   Eggs will very rarely spawn in as golden.
+    -   This provides no benefit whatsoever and still acts as a normal egg when collected.

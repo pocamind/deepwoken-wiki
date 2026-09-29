@@ -1,6 +1,6 @@
 ---
 title: Raw Parasol Brain
-revid: 229949
+revid: 230028
 source: https://deepwoken.fandom.com/wiki/Raw_Parasol_Brain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Ingredients, Drops, Items]
@@ -18,6 +18,7 @@ categories: [Pathfinder Exclusive, Ingredients, Drops, Items]
 | rarity | Common |
 | stomach | 40% |
 | water | 7% |
+| usage | Grilled Parasol Brain |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -30,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Raw Parasol Brain** is a [Food](Food.md) item. It is also obtained from the [Interluminary Parasol](Interluminary_Parasol.md) as a direct drop.
+**Raw Parasol Brain** is a [Food](Food.md) item and crafting ingredient. It is also obtained from the [Interluminary Parasol](Interluminary_Parasol.md) as a direct drop exclusively.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
@@ -42,4 +43,4 @@ When consumed, it replenishes 40% Stomach and 7% Water.
 
 ### Used in
 
--   [Grilled Parasol Brain](Grilled_Parasol_Brain.md) - 1x Raw Parasol Brain at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Grilled Parasol Brain](Grilled_Parasol_Brain.md) - 1 Raw Parasol Brain at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

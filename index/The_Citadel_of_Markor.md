@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 217154
+revid: 229973
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -22,9 +22,11 @@ notices:
 The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
 E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
+The Citadel of Markor, as seen in an official twitter post
+
 ## Description
 
-The Citadel of Markor, also known as the Markor Citadel,[\[3\]](#cite-note-3) is possibly the most prominent research organization in Lumen, the Citadel pride themselves as the foremost keepers of knowledge, history, and research into Lumen and the surrounding [Depths](The_Depths.md). The Citadel was founded 500 years into [the Resurgence](The_Resurgence.md)[\[4\]](#cite-note-glossresurge-4) and receives the majority of its funding from [the Central Authority](The_Central_Authority.md), a contribution that [the Authority](The_Central_Authority.md) claims falls in line with their desire for global unity, and for a united front against [the Depths](The_Depths.md).[\[5\]](#cite-note-glosscitadel-5)
+The Citadel of Markor, also known as the Markor Citadel,[\[3\]](#cite-note-3) is possibly the most prominent research organization in Lumen, based out of [Markor](Markor.md). The Citadel pride themselves as the foremost keepers of knowledge, history, and research into Lumen and the surrounding [Depths](The_Depths.md). The Citadel was founded 500 years into [the Resurgence](The_Resurgence.md)[\[4\]](#cite-note-glossresurge-4) and receives the majority of its funding from [the Central Authority](The_Central_Authority.md), a contribution that [the Authority](The_Central_Authority.md) claims falls in line with their desire for global unity, and for a united front against [the Depths](The_Depths.md).[\[5\]](#cite-note-glosscitadel-5)
 
 Their researches include: History documentation,[\[6\]](#cite-note-studies-6) [Depths](The_Depths.md)\-delving,[\[1\]](#cite-note-fathoms-1) restoration of ancient texts,[\[7\]](#cite-note-vows-7) documentation of attunement usage in the everyday life of the Lumensfolk,[\[8\]](#cite-note-attunement-8) and documentation of different cultures across Lumen.[\[9\]](#cite-note-north-9)
 

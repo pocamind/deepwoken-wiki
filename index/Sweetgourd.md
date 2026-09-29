@@ -1,6 +1,6 @@
 ---
 title: Sweetgourd
-revid: 229938
+revid: 230011
 source: https://deepwoken.fandom.com/wiki/Sweetgourd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Food]
@@ -10,8 +10,9 @@ categories: [Vow of Iron Exclusive, Food]
 
 | Sweetgourd | |
 |---|---|
+| value | N/A |
 | weight | 0.5 |
-| stack | x? |
+| stack | x99 |
 | type | Ingredient |
 | food type | Plant |
 | rarity | Common |

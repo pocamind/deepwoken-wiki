@@ -1,6 +1,6 @@
 ---
 title: Seaweed Bundle
-revid: 225590
+revid: 230009
 source: https://deepwoken.fandom.com/wiki/Seaweed_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Ingredients, Alchemy, Fishing Loot]
@@ -15,8 +15,10 @@ categories: [Consumables, Ingredients, Alchemy, Fishing Loot]
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
+| rarity | Common |
 | stomach | 0% |
 | water | 0% |
+| usage | Dried Seaweed, Fish Stew, Sushi |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -30,9 +32,9 @@ A consumable plant commonly found in [The Depths](The_Depths.md) or while [Fishi
 
 ### Used in
 
--   [Dried Seaweed](Dried_Seaweed.md) - 1 Seaweed Bundle + Campfire.
--   [Sushi](Sushi.md) - 1 Seaweed Bundle, 1 Fish Meat.
--   [Fish Stew](Fish_Stew.md) - 1 Seaweed, 2 Fish Meat + Campfire.
+-   [Dried Seaweed](Dried_Seaweed.md) - 1 Seaweed Bundle at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Fish Stew](Fish_Stew.md) - 1 Seaweed Bundle and 2 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Sushi](Sushi.md) - 1 Seaweed Bundle and 1 [Fish Meat](Fish_Meat.md) in your inventory.
 
 ## Trivia
 

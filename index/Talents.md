@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 229925
+revid: 230035
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3697,37 +3697,56 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[[Lone Warrior](Lone_Warrior.md)\] \[Combat Tag\] \[Damage Buff\]
 
-### Maestro's Technique
+## Temporary
 
--   Silencer's Song \[Common Talent, Galebreathe, Weapon\] - Silencer's Blade now procs on your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Prerequisites: Silencer's Blade, 100 Galebreathe, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
+-   **Silencer's Song** \[Common Talent\] - Silencer's Blade now procs on your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   This procs on all Mantras, not just Galebreathe ones.
+    -   The speed bosst from [Silencer's Blade](#silencers-blade) can stack, allowing you to gain a very significant amount of speed if you land a multihit Mantra on a [Suffocated](Status_Effects.md#suffocation) target.  
+        
+    -   Prerequisites: [Silencer's Blade](#silencers-blade), 100 Galebreathe, 100 Weapon (100 Light // 100 Medium // 100 Heavy)  
+        
+    -   Tags: \[Galebreathe\] \[Weapon\]
 
 ### Marauder
 
--   Old Habits Die Hard \[Common Talent, Willpower\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
-    -   Prerequisite: 20 Willpower
+-   **Old Habits Die Hard** \[Common Talent\] - (+5 Health)
+    
+    -   Tags: \[Willpower\] \[+Health\] \[Posture Resistance\]
 
--   _Thresher Claws_ \[Rare Talent\] - Grants +5% Weapon PEN. (+5% Weapon PEN)
-    -   Prerequisite: [Power](Power.md) 13
+|description=Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. |requirements=20 Willpower}}
+
+-   **Thresher Claws** \[Rare Talent\] - Grants +5% Weapon PEN. (+5% Weapon PEN)
+    
+    -   Prerequisites: [Power](Power.md) 13  
+        
+    -   Tags: \[+PEN\]
 
 ### Marksman
 
--   _Leg Shot_ \[Rare Talent, Medium Weapon\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds.
-    -   The Sluggish status effect applies a -15% damage debuff to affected targets.
-    -   Prerequisites: 80 Medium Weapon, Rifle Equipped
+-   **Leg Shot** \[Rare Talent\] -
+    
+    -   Tags: \[Medium Weapon\] \[Critical Attack\] \[Debuff\] \[Rifle\] \[Slow\]
 
--   Stock Bash \[Common Talent, Medium Weapon, Strength\] - Rifles Your running attacks now apply a brief amount of daze and **[Stagger](Status_Effects.md#stagger)** PvE enemies.
-    -   The Stagger status effect makes your opponent take 33% more posture damage.
+|description=\[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds. |additional info=\*The Sluggish status effect applies a -15% damage debuff to affected targets. |requirements=80 Medium Weapon, Rifle equipped}}
+
+-   **Stock Bash** \[Common Talent\] - Your running attacks now apply a brief amount of daze and **[Stagger](Status_Effects.md#stagger)** PvE enemies.
     -   Applies daze for one second.
-    -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
+    -   The Stagger status effect makes your opponent take 33% more posture damage.  
+        
+    -   Prerequisites: 25 Strength, 55 Medium Weapon, Rifle equipped  
+        
+    -   Tags: \[Strength\] \[Medium Weapon\] \[Debuff\] \[Rifle\] \[Running Attack\]
 
--   _Tactical Reload_ \[Rare Talent, Medium Weapon\] - Rifles Activate to make your rifle shoot bullets for 15 seconds.
+-   **Tactical Reload** \[Rare Talent\] - Rifles Activate to make your rifle shoot bullets for 15 seconds.
     -   90 second cooldown.
     -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullets.md) for 15 seconds, with a downtime of 75 seconds.
     -   You do not need to have physical bullets in your inventory for this to work.
     -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), giving it a downtime of only 30 seconds.
-    -   This talent has no effect on [Rifle Spear](Rifle_Spear.md).
-    -   Prerequisites: 95 Medium Weapon, Rifle Equipped
+    -   This Talent has no effect on [Rifle Spear](Rifle_Spear.md).  
+        
+    -   Prerequisites: 95 Medium Weapon, Rifle equipped  
+        
+    -   Tags: \[Medium Weapon\] \[Rifle\] \[Tool\]
 
 ### Meditative Trance
 
@@ -4075,7 +4094,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Guilt Trip \[Common Talent, Charisma\] - Enhance your charm with the ability to affect one's emotions negatively, doubling the cooldown of their mantra feints.
     -   Turns your [Charm](Status_Effects.md#charm) blue.
-    -   Also procs on allies.
+    -   Also procs on allies, including yourself if you self-apply Charm ([Overcharm](Status_Effects.md#overcharm)).
     -   Prerequisite: 100 Charisma
 
 -   Rage Bait \[Common Talent, Willpower, Charisma\] - Proccing manipulator now enrages opponents, causing their mantras to deal 10% more damage. Anytime you block their enraged mantras however, laugh in their face causing extreme mental damage, dealing 1% of their max health. \[5 sec CD\]

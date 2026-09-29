@@ -1,6 +1,6 @@
 ---
 title: Urchin
-revid: 229932
+revid: 230060
 source: https://deepwoken.fandom.com/wiki/Urchin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
@@ -12,10 +12,13 @@ categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
 |---|---|
 | value | N/A |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
 | food type | Meat |
+| rarity | Common |
 | stomach | 2% |
 | water | 0% |
+| usage | Seafood Surprise, Urchin Stew |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -25,20 +28,20 @@ categories: [Ingredients, Harvestables, Alchemy, Items, Fishing Loot]
 
 ## Description
 
-**Urchin** is a [Food](Food.md) item. It is also obtained from exclusively the [First Layer](First_Layer.md).
+**Urchin** is a [Food](Food.md) item and crafting ingredient. It is also obtained from the [First Layer](First_Layer.md) exclusively.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
 ### Effect
 
-When consumed, it replenishes 8% Stomach and 3% Water.
+When consumed, it replenishes 2% Stomach and 0% Water.
 
 ## Crafting
 
 ### Used in
 
+-   [Seafood Surprise](Seafood_Surprise.md) - Any combination including at least 3 of the ingredients: 1 Urchin, 1 [Scallop](Scallop.md), 1 [Squid](Squid.md), and 1 [Fish Meat](Fish_Meat.md) or 1 [Crustacean Meat](Crustacean_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 -   [Urchin Stew](Urchin_Stew.md) - 3 Urchins at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
--   [Seafood Surprise](Seafood_Surprise.md) - 1 Squid, 1 Fish Meat, 1 Urchin/Crustacean Meat.
 
 ## Trivia
 

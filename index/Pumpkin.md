@@ -1,6 +1,6 @@
 ---
 title: Pumpkin
-revid: 229924
+revid: 230062
 source: https://deepwoken.fandom.com/wiki/Pumpkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Consumables, Harvestables, Food Ingredients]
@@ -12,12 +12,15 @@ notices:
 
 | Pumpkin | |
 |---|---|
+| value | N/A |
 | weight | 3 |
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
-| stomach | 10% |
-| water | 10% |
+| rarity | Common |
+| stomach | 15% |
+| water | 15% |
+| usage | Pumpkin Pie |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -25,7 +28,13 @@ notices:
 
 ## Description
 
-A pumpkin found in many places across both Luminants during [Hallowtide](Hallowtide.md). They grow in groups underneath trees.
+**Pumpkin** is a [Food](Food.md) item and crafting ingredient.
+
+It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
+
+### Effect
+
+When consumed, it replenishes 15% Stomach and 15% Water.
 
 ## Crafting
 

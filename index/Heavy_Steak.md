@@ -1,6 +1,6 @@
 ---
 title: Heavy Steak
-revid: 219904
+revid: 230024
 source: https://deepwoken.fandom.com/wiki/Heavy_Steak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -33,7 +33,7 @@ It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons
 
 When consumed, it replenishes 100% Stomach and 15% Water.  
   
-Additionally, it grants the Scale buff, affecting 15% of the Stomach bar. The buff reduces incoming Penetration by 15%.
+Additionally, it grants the Scale buff, affecting 15% of the Stomach bar. The buff reduces incoming Armor Penetration by 15%, multiplicatively. This combines multiplicatively with other sources of the same effect.
 
 ## Crafting
 

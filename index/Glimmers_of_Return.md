@@ -1,6 +1,6 @@
 ---
 title: Glimmers of Return
-revid: 224782
+revid: 229969
 source: https://deepwoken.fandom.com/wiki/Glimmers_of_Return
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs]
@@ -13,6 +13,8 @@ categories: [Vow of Iron Exclusive, NPCs]
 | name | Glimmers of Return |
 | location | Fragments of Else |
 
+Variants: [Shrine of the Drowned](Shrine_of_the_Drowned.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
@@ -21,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 The **Glimmers of Return** are an NPC, present in the [Fragments of Else](Fragments_of_Else.md), the last destination of a [Vow of Iron](Vow_of_Iron.md) character. In the Glimmers of Return the player can see Fragments of their [Memento](Mementos.md) drifting aimlessly after their death.
 
-The cost to purchase a slot back increases with the more [Power](Power.md) the character has.
+It functions identically to the [Shrine of the Drowned](Shrine_of_the_Drowned.md). However, the cost to purchase a slot back increases with the more [Power](Power.md) the character has.
 
 ## Dialogue
 
@@ -65,7 +67,3 @@ The cost to purchase a slot back increases with the more [Power](Power.md) the c
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   It functions identically to the [Shrine of the Drowned](Shrine_of_the_Drowned.md).

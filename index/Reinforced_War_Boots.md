@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 226462
+revid: 229962
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -36,7 +36,7 @@ The Evanspear War Boots are an **unenchantable**[\[1\]](#cite-note-unenchantable
 
 The Evanspear War Boots are a set of green and yellow plated boots.
 
-The [Repeated Blows](Talents.md#repeated-blows) Talent will reset the cooldown of [Strength](Attunement-less.md#strength) Mantras when you land your weapon's critical if a [Wrath Gem](Wrath_Gem.md) is in effect. Wrath Gems last for 9s with a 10s CD. This Talent has no cooldown.
+The [Repeated Blows](Talents.md#repeated-blows) Talent will reset the cooldown of [Strength](Attunement-less.md#strength) Mantras when you land your weapon's critical if a [Wrath Gem](Wrath_Gem.md) is in effect. Wrath Gems last for 9s with a 10s CD. This Talent has a 1 second cooldown to prevent chain combos.
 
 ## Set Talent
 

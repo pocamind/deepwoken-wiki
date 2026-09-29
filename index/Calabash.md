@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 229881
+revid: 229991
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients, Harvestables, Food Ingredients]
@@ -18,6 +18,7 @@ categories: [Food, Ingredients, Harvestables, Food Ingredients]
 | rarity | Common |
 | stomach | 10% |
 | water | 16% |
+| usage | Candied Fruit, Canteen, Fruit Cake, Fruit Salad |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -25,7 +26,7 @@ categories: [Food, Ingredients, Harvestables, Food Ingredients]
 
 ## Description
 
-**Calabash** is a [Food](Food.md) item.
+**Calabash** is a [Food](Food.md) item and crafting ingredient.
 
 It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
 
@@ -37,15 +38,16 @@ When consumed, it replenishes 10% Stomach and 16% Water.
 
 ### Used in
 
--   [Candied Fruit](Candied_Fruit.md) - 2 Calabash and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Candied Fruit](Candied_Fruit.md) - 2 Calabash (or any other [Fruits](Ingredients.md#fruits)) and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 -   [Canteen](Canteen.md) - 1 Calabash and 1 [Beeswax](Beeswax.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md).
+-   [Fruit Cake](Fruit_Cake.md) - 2 Calabash (or any other [Fruits](Ingredients.md#fruits)) and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 -   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits) from your inventory.
 
 ## Trivia
 
 -   The Calabash has become quite a meme in the Deepwoken community, referred to as the Food of the Gods.
     -   It has a counterpart called the Red Calabash, similar to the Heroism Egg hoax that went around a few days earlier in April 2022. The Heroism Egg's genuine existence was disproved by Arch\_Mage, stating that whoever made it "has a good sense of humour... and Synapse."
-        -   This exists through one of _Key Exploits_'s livestreams. He pulled out the aforementioned Red Calabash and said "Agamatsu! Yoo, if you ever want to make a Red Calabash unsolved video, hit me up. I can give you all the _gifs_ and _videos_ you need!" He then proceeds to float around and eat the fruit.
+        -   This exists through a _Key Exploits'_ livestream. He pulled out the aforementioned Red Calabash and said "Agamatsu! Yoo, if you ever want to make a Red Calabash unsolved video, hit me up. I can give you all the _gifs_ and _videos_ you need!" He then proceeds to float around and eat the fruit.
         -   However, at the end of it all, a then-moderator of the game (Tarvero as Lightseeker Araki) was seen holding the Red Calabash in-game. When asked about it, he said that "You don't understand the sacrifice..."
     -   It is also noted that the Canteen was probably the start of this "Red Calabash" meme, due to its similar reddish/deep orange color.
 -   Multiple guilds have sprung up around it (most references to the cabbage cult from Runescape).

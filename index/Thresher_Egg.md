@@ -1,6 +1,6 @@
 ---
 title: Thresher Egg
-revid: 229882
+revid: 229959
 source: https://deepwoken.fandom.com/wiki/Thresher_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -14,6 +14,7 @@ categories: [Items, Ingredients, Harvestables]
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
+| food type | Generic |
 | rarity | Common |
 | stomach | 5% |
 | water | 5% |

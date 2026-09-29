@@ -1,6 +1,6 @@
 ---
 title: Primal Cutlet
-revid: 219919
+revid: 230022
 source: https://deepwoken.fandom.com/wiki/Primal_Cutlet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -14,6 +14,7 @@ categories: [Food]
 | stack | x10 |
 | type | Food |
 | food type | Meat |
+| rarity | Common |
 | stomach | 50% |
 | water | 20% |
 | buff | Strength (+10% M1 posture damage) |
@@ -33,7 +34,7 @@ It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons
 
 When consumed, it replenishes 50% Stomach and 20% Water.  
   
-Additionally, it grants the Strength buff, affecting 15% of the Stomach bar. The buff increases M1 posture damage by 10%.
+Additionally, it grants the Strength buff, affecting 15% of the Stomach bar. The buff increases M1 posture damage by 10%. Also affects criticals with the M1 tag.
 
 ## Crafting
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 229929
+revid: 230012
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -247,26 +247,46 @@ Enlistment Ranks
 
 These Talents can be chosen upon being promoted at any point in your Ensign playthrough.
 
--   **Armored Plating** - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
-    -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
+This info has been transcluded from [a different page](Talents.md#battle-readiness). Visit the transcluded page to edit this info.
 
--   **Crossguard** - If you are using a sword, you gain 10% chip against other opponents wielding swords.
-    -   This applies only to Medium swords, meaning Greatswords are completely unaffected.
+-   **Armored Plating** \[Battle Readiness • Faction Talent\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
+    -   Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.  
+        
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Combat Tag\] \[Slow\] \[Temporary Health\]
 
--   **Oppressive Force** - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+-   **Crossguard** \[Battle Readiness • Faction Talent\] - If you are using a [sword](Swords.md), you gain 10% chip against other opponents wielding swords.
+    
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Chip Damage\] \[Sword\]
+
+-   **Riot Shield** \[Battle Readiness • Faction Talent\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
+    -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.  
+        
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Chip Damage\] \[Combat Tag\] \[Damage Resistance\] \[Shield\]
+
+-   **Oppressive Force** \[Battle Readiness • Faction Talent\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and [dazes](Status_Effects.md#dazed) them.
     -   The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
     -   The damage and posture damage of the second hit cannot be buffed.
     -   The second hit will only happen if the first one lands. This means it does not follow through on block.
-    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, it cannot proc [enchants](Enchantments.md), and it cannot proc any "on flourish" Talents.
+    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, and it cannot proc [enchants](Enchantments.md) or any "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
-    -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
-    -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
+    -   The following weapons can proc this effect: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Additionally, the Alloyed variants of all of these weapons will also proc it.
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.  
+        
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Flourish\]
 
--   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
-    -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
-
--   **Steel Tread** - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+-   **Steel Tread** \[Battle Readiness • Faction Talent\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+    
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Damage Resistance\]
 
 ## Divisions
 
@@ -297,29 +317,49 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 ### Exclusive Features
 
--   **Breakthrough Drive** - Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. \[90 second CD\]
+This info has been transcluded from [a different page](Talents.md#dread-imperium). Visit the transcluded page to edit this info.
 
--   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
+-   **Breakthrough Drive** \[Dread Imperium • Faction Talent\] - Knocking a player refreshes your [Glorious Charge](Authority_Ensign.md#glorious-charge) cooldown and extends both of its effects by 5 seconds. \[90 second CD\]
+    -   Knocking a _player_ [Unconscious](Status_Effects.md#unconscious) increases the duration of the knock prevention and Speed Boost given to your squadmates by the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra by 5 seconds, alongside resetting its cooldown.
+    -   This Talent will proc every time you knock a player Unconscious. If it is already on cooldown, then knocking a player will add an extra instance of the cooldown, without doing anything else.  
+        
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[**Authority Ensign**\] \[Support\]
+
+-   **Buster Call** \[Dread Imperium • Faction Talent\] - Radio in [the Authority](The_Central_Authority.md)'s navy for a buster call, sending out a barrage of bombardment wherever you see fit.
+    -   1 day cooldown (24 IRL hours).
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
-    -   Deals little to no pve monster damage (Works on humanoids, effective against legion camps)
-    -   Applies burn on hit.
-    -   Explosions cannot be parried and blockbreak.
-    -   Automatically grips knocked players.
-    -   The orbital strikes cannot knock players directly, but the burn can.
-    -   Cannot be used in [Dungeons](Dungeons.md).
-    -   24 hour cooldown. 10 minute server-wide cooldown.
+    -   Applies [Burn](Status_Effects.md#burn) on hit.
+    -   Cannot knock players [Unconscious](Status_Effects.md#unconscious) on direct hits, but the Burn procs can.  
+        
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[**Authority Ensign**\] \[Tool\]
 
--   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
-    -   Deals 35 damage.
+-   **Officer's Slash** \[Dread Imperium • Faction Talent\] - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
     -   20 second cooldown.
     -   This critical has the M1 tag.
+    -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
     -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
-    -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+    -   The Alloyed variants of all of the above weapons proc this effect as well.  
+        
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[**Authority Ensign**\] \[Critical Attack\] \[M1 Tag\]
 
--   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
+-   **Officer's Training** \[Dread Imperium • Faction Talent\] - While using a [Sword](Swords.md) or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
+    
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[**Authority Ensign**\] \[Posture Resistance\] \[Sword\] \[Rapier\]
 
--   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
+-   **Target Focus** \[Dread Imperium • Faction Talent\] - Enemies you charm take more damage from your squadmates in your party.
+    -   Due to [Charm](Status_Effects.md#charm)'s ownership mechanics, it is highly recommended that you have [Lasting Charisma](Talents.md#lasting-charisma) for a long Charm duration. See [Status Effects](Status_Effects.md#charm) for more info.  
+        
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[**Authority Ensign**\] \[Charm\] \[Damage Buff\] \[Support\]
 
   
 
@@ -409,38 +449,63 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 ### Exclusive Features
 
--   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
-    -   Procs on M1s and criticals with the M1 tag.
+This info has been transcluded from [a different page](Talents.md#inquisitive-lethality). Visit the transcluded page to edit this info.
+
+-   **Backstabber** \[Inquisitive Lethality • Faction Talent\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
+    -   While standing behind an enemy, raise your weapon upwards in reverse grip. On M1, strike downwards with a 10% swing speed buff and stab the target, then leap off of them.
+    -   This deals 20 damage, not 15.
+    -   There is a per-target cooldown of 3 seconds on top of the 15s cooldown.
+    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
     -   This Talent does not have a range limit.
-    -   Grants the target hit 3 seconds of Backstabber immunity.
-    -   Applies [daze](Status_Effects.md#dazed) and [ragdolls](Status_Effects.md#ragdoll).
-    -   Prerequisite: 30 Agility
+    -   Applies [daze](Status_Effects.md#daze) and [ragdolls](Status_Effects.md#ragdoll).  
+        
+    -   Prerequisites: 30 Agility, [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Agility\] \[+Passive Agility\] \[Backhit\] \[M1 Tag\]
 
--   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+-   **Executioner's Frenzy** \[Inquisitive Lethality • Faction Talent\] - Landing a light attack while your opponent's posture is paused reduces their assassination cooldown by 5 seconds.
+    -   The [Paused Posture](Status_Effects.md#paused-posture) status effect comes from [Stature Break](Talents.md#stature-break) and [Maiming Claws](Talents.md#maiming-claws).  
+        
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Assassination\] \[Backhit\]
 
--   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
-    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back. This affects all damage sources that can receive damage modifiers.
-    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
-        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your backhit damage by 4%.
-        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, Crouching, Lowstrude, Murmur: Tacet, and Tacet Minimization.
+-   **Fatal Stealth** \[Inquisitive Lethality • Faction Talent\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back as a damage modifier. This affects all damage sources that can receive damage modifiers.
+    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources **do not** count towards this Talent. Stealth multipliers ([Felinor](Felinor.md), Crouching, [Lowstride](Talents.md#lowstride)) also do not apply.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, **reducing** your backhit damage by 4%.
+        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, the [Sly](Boons_and_Flaws.md#unlockable-boons) Boon, Crouching, [Lowstride](Talents.md#lowstride), [Murmur: Tacet](Talents.md#murmur-tacet), and [Tacet Minimization](Talents.md#tacet-minimization).
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
-        -   Notably, the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
+        -   Notably the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).  
+            
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Backhit\] \[Damage Buff\]
 
--   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
+-   **Flanking Maneuvers** \[Inquisitive Lethality • Faction Talent\] - Enemies you assassinate take more PEN from your squadmates in your party.
+    
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Assassination\] \[PEN\] \[Support\]
 
--   **Stature Break** - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
+-   **Stature Break** \[Inquisitive Lethality • Faction Talent\] - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
-    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
+    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.  
+        
+    -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
+        
+    -   Tags: \[**Authority Ensign**\] \[Backhit\] \[Debuff\]
 
--   **Tacet Minimization** - Focus your [Tacet](Murmur%253A_Tacet.md) even further, allowing the radius at which you get spotted to become smaller temporarily.
-    -   Decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
-    -   Requires 100% [Ether](Ether.md) to be activated, even though it does not cost any Ether.
-    -   Prerequisite: [Murmur: Tacet](Murmur%253A_Tacet.md)
-        -   You must obtain Tacet through [Cestis](Cestis.md) or [Quiet Stranger](Quiet_Stranger.md) in order to get Tacet Minimization. The Soulbreaker Oath variant will not allow you to obtain Tacet Minimization.
-
-  
+-   **Tacet Minimization** \[Inquisitive Lethality • Faction Talent\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Grants a tool that decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
+    -   Requires maximum Ether to use, even though it does not consume Ether.  
+        
+    -   Prerequisites: [Murmur: Tacet](Talents.md#murmur-tacet), [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin
+        -   Tacet gained by obtaining [Soulbreaker](Oath%253A_Soulbreaker.md) does not count for this Talent's obtainment.  
+            
+    -   Tags: \[**Authority Ensign**\] \[[Tacet](Murmur%253A_Tacet.md)\] \[Tool\]
 
 | 
 **Name**
@@ -533,23 +598,27 @@ Complete missions with a high win to loss ratio, then speak to [Sentinel Augustu
 
 ### Exclusive Features
 
--   **Absolute Force** - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
-    -   Prerequisite: Oppressive Force
+This info has been transcluded from [a different page](Talents.md#operators-technique). Visit the transcluded page to edit this info.
 
--   **Amp Overdrive** - Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.
+-   **Absolute Force** \[Faction Talent, **Authority Ensign** Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+    -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, Shock Corps Division, Oppressive Force
+
+-   **Amp Overdrive** \[Faction Talent, **Authority Ensign** Exclusive\] - Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.
     -   Deals 15 Thundercall damage.
     -   The Electrify status effect changes your opponent's damage type to Thundercall and gives you 10% damage reduction to their attacks.
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, Shock Corps Division
 
--   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
+-   **Martial Brutality** \[Faction Talent, **Authority Ensign** Exclusive\] - The less health your opponent has, the more posture damage you deal to them.
     -   Increases your posture damage by 0.1% per 1% health missing, up to a maximum of +10% posture damage against someone at 0% health.
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, Shock Corps Division
 
--   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+-   **Shocking Reverb** \[Faction Talent, **Authority Ensign** Exclusive\] - Landing enough [lightning](Thundercall.md) mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md).
+    -   Goes on a 2 minute cooldown on proc.
     -   You need to reach a threshold of 150 scaled damage with [Thundercall](Thundercall.md) Mantras without getting hit to proc this Talent.
     -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
     -   Also negates damage from critical attacks and [Silentheart](Oath%253A_Silentheart.md) abilities.
-
-  
+    -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, Shock Corps Division
 
 | 
 **Name**

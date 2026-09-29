@@ -1,6 +1,6 @@
 ---
 title: Dread Flesh
-revid: 229943
+revid: 230016
 source: https://deepwoken.fandom.com/wiki/Dread_Flesh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Drops]
@@ -18,6 +18,7 @@ categories: [Ingredients, Items, Drops]
 | rarity | Common |
 | stomach | 50% |
 | water | 7% |
+| usage | Dread Filet |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -25,7 +26,7 @@ categories: [Ingredients, Items, Drops]
 
 ## Description
 
-**Dread Flesh** is a [Food](Food.md) item. It is also obtained from the [Dread Serpent](Dread_Serpent.md) as a direct drop.
+**Dread Flesh** is a [Food](Food.md) item. It is also obtained from the [Dread Serpent](Dread_Serpent.md) as a direct drop exclusively.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
@@ -37,4 +38,4 @@ When consumed, it replenishes 50% Stomach and 7% Water.
 
 ### Used in
 
--   [Dread Filet](Dread_Filet.md) - x1 Dread Flesh at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Dread Filet](Dread_Filet.md) - 1 Dread Flesh at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

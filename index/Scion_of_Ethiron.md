@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 229408
+revid: 229965
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -224,7 +224,7 @@ Dodge
 -   **Monster Resistance** - Physical attacks deal 25% less damage to the Scion of Ethiron. Elemental Attacks deal 2x damage to the Scion of Ethiron
 -   **Stringed Puppet** - The Scion is unable to be damaged by any means including damage reflection/redirection unless stunned by the nine-fold ritual or using its punch.
 -   **Unharvestable** - All forms of on-damage healing such as Vampirism and Bloodless gems are negated if used on it.
--   **Reverence** - You are unable to gain Tempo from basic attacking or using mantras on the Scion. Many forms of on-demand Immunity moves such as Beast Burrow are disabled.
+-   **Reverence** - Many forms of on-demand Immunity moves such as Beast Burrow are disabled.
 
 ## Beating the Scion
 

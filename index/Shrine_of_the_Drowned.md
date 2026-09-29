@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 224944
+revid: 229968
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Death, NPCs located in the First Layer]
@@ -12,11 +12,13 @@ categories: [Pathfinder Exclusive, NPCs, Mechanics, Death, NPCs located in the F
 |---|---|
 | location | Fragments of Self |
 
+Variants: [Glimmers of Return](Glimmers_of_Return.md)
+
+**Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrines](Fountain_Gates.md) (aka Fountain Gates).**
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-**Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrines](Fountain_Gates.md) (aka Fountain Gates).**
 
 “ You know why it stands here-it offers an alternative. It beckons you to offer a part of who you are to the cold voice - a voice that’s always been at the back of your mind. ”
 
