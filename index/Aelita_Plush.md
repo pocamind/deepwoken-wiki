@@ -1,6 +1,6 @@
 ---
 title: Aelita Plush
-revid: 230142
+revid: 230203
 source: https://deepwoken.fandom.com/wiki/Aelita_Plush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]

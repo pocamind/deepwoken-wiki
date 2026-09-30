@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 228795
+revid: 230204
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Game Modes]
@@ -77,29 +77,45 @@ In addition to Rank Titles, the top 250 players in Chime also get a special titl
 
 ### Placement Titles
 
-? **(Top 1)**
-
--   Black, Dark Red, & Yellow Username
-
-Godseeker **(Top 2-10)**
-
--   Red & Yellow Usernames
-
-Grandmaster **(Top 11-50)**
-
--   Gold Usernames
-
-Master **(Top 51-100)**
-
--   Silver Usernames below 50
-
-Ranked **(Top 101-250)**
-
--   Silver Usernames
-
-Ranked **(Top 251-1000)**
-
--   Bronze Usernames
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Accent</th>
+  <th>Preview</th>
+  <th>Requirements</th>
+</tr>
+<tr>
+  <td>No Accent</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Default rank.</td>
+</tr>
+<tr>
+  <td>Bronze</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Currently holding between the 1000th-251st rank within the Chime of Conflict.</td>
+</tr>
+<tr>
+  <td>Silver</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Currently holding between the 250th-51st rank within the Chime of Conflict.</td>
+</tr>
+<tr>
+  <td>Grandmaster</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Currently holding between the 50th-11th rank within the Chime of Conflict.</td>
+</tr>
+<tr>
+  <td>Godseeker</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Currently holding between the 10th-2nd rank within the Chime of Conflict.</td>
+</tr>
+<tr>
+  <td>Sovereign of Conflict</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Currently holding the 1st rank within the Chime of Conflict.</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

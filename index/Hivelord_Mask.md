@@ -1,6 +1,6 @@
 ---
 title: Hivelord Mask
-revid: 223045
+revid: 230206
 source: https://deepwoken.fandom.com/wiki/Hivelord_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hive Construct, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Duke Ishamon Erisia, Dread Serpent, The Diluvian Mechanism |
+| obtainment | Hive Construct, Rogue Construct, Chime of Conflict, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chaser, Duke Ishamon Erisia, Dread Serpent, The Diluvian Mechanism |
 | description | An ancient mask of a lost Hivelord, now a relic. |
 
 ## Description
