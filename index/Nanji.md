@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 224879
+revid: 230161
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
@@ -36,7 +36,7 @@ Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) 
 1.  Go to the [Isle of Vigils](Isle_of_Vigils.md).
 2.  Find the Well-Preserved Grave near the attunement training gear shop.
 3.  Use the zipline on the left of the grave.
-4.  Once on the other side of the zipline, head towards the tree and turn right after passing the cliff corner.
+4.  Locate the tree to the left of the zipline.
 5.  Interact and inspect the [Katana](Katana.md) until it only gives you the option to end dialogue.
 6.  Return to Nanji and interact with them.
 

@@ -1,9 +1,9 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 228836
+revid: 230145
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
+categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
 ---
 
 # Kyrsgarde Champion, Kyrsa's Star
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
 |---|---|
 | health | 40,000 (+15k per player) |
 | attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Altitude Swipes, Frostgrave, Champion’s Quake, Rime-Rise, Splintered Thrust, Crossrend Cryocleave, Shatterline, Blizzard’s Sanction |
-| drops | Whistling Periapt, Gale Essence, Frost Essence, Frostthorn, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring, Kyrsan Gem, Words of Light (Direct Drop) |
+| drops | Whistling Periapt, Gale Essence, Frost Essence, Frostthorn, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring, Kyrsan Gem, Words of Light (Direct Drop), Ect. See loot table. |
 | locations | New Kyrsa, The Sleeping City |
 | pronouns | He/him[1] |
 

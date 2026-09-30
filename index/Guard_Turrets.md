@@ -1,6 +1,6 @@
 ---
 title: Guard Turrets
-revid: 229840
+revid: 230155
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ Although they are hostile to a target of their [faction](Factions_&_Groups.md), 
 
 Located at [Etris](Etris.md) [Etreaiconfaction](Etrea.md) and the [Isle of Vigils](Isle_of_Vigils.md) [Etreaiconfaction](Etrea.md), the archer towers are tall structures with housing at the top that arrows are fired from.
 
-The arrow projectiles deal 10 true damage per hit, attacking in two-shot bursts. The arrows lead their shots and predict your movements based on the direction you are moving. It is recommended to zig-zag to avoid them.
+The arrow projectiles deal 10 damage per hit, attacking in two-shot bursts. The arrows lead their shots and predict your movements based on the direction you are moving. It is recommended to zig-zag to avoid them.
 
 ### Light Orb
 
@@ -56,7 +56,7 @@ The tesla coil strike outwards with arching jolts of electricity, dealing 13 Thu
 
 Located in [the City of the Drowned](The_City_of_the_Drowned.md), these turrets bear a strong resemblance to the head of a [Watcher](Watcher.md).
 
-These turrets deal **[Sanity](Insanity.md)** damage at a fast rate, reducing the player's Sanity on hit. On hit, they also display the [Watcher](Watcher.md) attack visual effects, distorting the player's visuals. Some players may find this nauseating, especially if they are in-range of several of the Watcher Eyes. These turrets are **very** dangerous, and should be avoided if possible, as the downsides of being in the higher tiers of Insanity are quite severe.
+These turrets deal **[Sanity](Insanity.md)** damage at a fast rate, reducing the player's current Sanity by 7 on hit. On hit, they also display the [Watcher](Watcher.md) attack visual effects, distorting the player's visuals. Some players may find this nauseating, especially if they are in-range of several of the Watcher Eyes. These turrets are **very** dangerous, and should be avoided if possible, as the downsides of being in the higher tiers of Insanity are quite severe.
 
 ## Locations
 
