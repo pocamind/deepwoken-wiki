@@ -1,6 +1,6 @@
 ---
 title: Duskshot
-revid: 224550
+revid: 230197
 source: https://deepwoken.fandom.com/wiki/Duskshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -47,6 +47,10 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Duskshot is a Pistol weapon exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. The Duskshot's maximum [Bullet](Bullets.md) capacity is 4.
 
+The Duskshot can be found in a hidden room behind a wall in The Depths. It is guarded by a [Fury Nautilodaunt](Fury_Nautilodaunt.md) and [Mudskipper Broodlord](Mudskipper_Broodlord.md).
+
+Location
+
 ## Talents
 
 Equipping the Duskshot grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
@@ -56,7 +60,3 @@ Equipping the Duskshot grants its unique [weapon Talent](Talents.md#weapon-talen
 ## Critical
 
 Duskshot uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
-
-## Obtainment
-
-The Duskshot can be found in a hidden room behind a wall in The Depths. It is guarded by a [Fury Nautilodaunt](Fury_Nautilodaunt.md) and [Mudskipper Broodlord](Mudskipper_Broodlord.md).

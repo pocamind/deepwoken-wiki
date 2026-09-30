@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Necktie"
-revid: 222463
+revid: 230193
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Ties]

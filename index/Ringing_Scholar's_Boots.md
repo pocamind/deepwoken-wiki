@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Boots"
-revid: 222460
+revid: 230190
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Boots, Equipment, Legs]

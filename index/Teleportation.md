@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 225519
+revid: 230166
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -104,3 +104,4 @@ If Teleportation is used in combat, its cooldown is doubled upon usage.
 -   Teleportation now cancels if hit during the first 6s of its windup. If its windup is cancelled, it is put on a 15s cooldown
 -   If you are unconscious or ragdolled and are teleported, you will instantly stand up.
 -   If you have the _[Tarnished](Boons_and_Flaws.md#flaws)_ flaw, you will only be able to teleport if you click on the mark too many times.
+-   The name of a waypoint marker will not update if it has existed before the marked area changed. For example, a waypoint marker placed at [Caudal Glade](Caudal_Glade.md) before the September 28th, 2026 update would still be named [The Etrean Sea](The_Etrean_Sea.md) since Caudal Glade did not exist prior.
