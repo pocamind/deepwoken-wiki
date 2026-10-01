@@ -7087,7 +7087,7 @@ Blunt ResistanceBlunt
 
  | 
 
-5 Strength/20 Strength (With Attunement), [Jus Karita](../Jus_Karita.md), [Murmur: Tacet](../Murmur%253A_Tacet.md)
+5 Strength/10 Strength (With Attunement), [Jus Karita](../Jus_Karita.md), [Murmur: Tacet](../Murmur%253A_Tacet.md)
 
  |
 | 
@@ -8924,13 +8924,13 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Coral Spear** (★★☆)
+**Coral Burst** (★★☆)
 
 _..._
 
  | 
 
-## Coral Spear (★★☆)
+## Coral Burst (★★☆)
 
   
 _..._

@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 230200
+revid: 230294
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -15,10 +15,10 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | requirements | 40 LTN, 75 MED, PWR 15 |
 | oath | Silentheart |
 | damage | 19.5 |
-| scaling | MED: 7 |
+| scaling | MED: 4, LTN: 3 |
 | posture damage | 8 |
-| range | 8 Sweep |
-| swing speed | 1.05x |
+| range | 6 Sweep |
+| swing speed | 1.02x |
 | attack duration | 0.6s |
 | penetration | 15% |
 | m.equip | No |
@@ -54,6 +54,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Despite the Attunement requirement, this weapon is [enchantable](Enchantments.md) and does not scale on Thundercall.
--   There was a bug when this weapon released where you could [Motif](Motifs.md) it, though strangely the Rite of Authority Motif was only compatible with Rapiers.
+-   Despite always having a Thundercall requirement, this weapon did not have any Thundercall scaling until the [October 1st, 2026](Version_History/2026.md#october-1st-2026) update, nearly a year after its initial release. Prior to the mentioned update, it scaled solely on Medium Weapon.
+-   There was a bug when this weapon released that allowed you to [Motif](Motifs.md) it, though strangely the Rite of Authority Motif was only compatible with Rapiers.
 -   If you frequently lag, have low FPS, or are on a lower end device, you will often miss the second half of the critical attack.

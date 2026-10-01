@@ -537,12 +537,13 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>

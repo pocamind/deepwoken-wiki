@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 224296
+revid: 230282
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Greathammers, Heavy Weapons, "Attunement-based Weapons", Legendary Weapons, Reforged Weapons]
@@ -15,9 +15,9 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | requirements | 75 HVY, 90 WND |
 | oath | Silentheart |
 | damage | 22 |
-| scaling | HVY: 4, WND: 8 |
+| scaling | HVY: 5, WND: 8 |
 | posture damage | 10 |
-| range | 9 Sweep |
+| range | 8.5 Sweep |
 | swing speed | 0.83x |
 | attack duration | 0.8s |
 | endlag | 0.1s |

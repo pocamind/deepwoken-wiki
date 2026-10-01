@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 228809
+revid: 230286
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -174,13 +174,13 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Coral Spear** (★★☆)
+**Coral Burst** (★★☆)
 
 _..._
 
  | 
 
-## Coral Spear (★★☆)
+## Coral Burst (★★☆)
 
   
 _..._

@@ -1565,12 +1565,13 @@ All weapons within the game have the chance of being found with or without diffe
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -3463,14 +3464,14 @@ All weapons within the game have the chance of being found with or without diffe
   10 STR<br>
   LVL 10</td>
   <td>24</td>
-  <td>HVY: 9</td>
+  <td>HVY: 10</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>40.2</td>
+  <td>42</td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -3507,15 +3508,15 @@ All weapons within the game have the chance of being found with or without diffe
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -3933,12 +3934,13 @@ All weapons within the game have the chance of being found with or without diffe
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -4059,15 +4061,15 @@ All weapons within the game have the chance of being found with or without diffe
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -7017,12 +7019,13 @@ Pistols
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -8530,12 +8533,13 @@ Swords
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -10550,14 +10554,14 @@ Bows
   10 STR<br>
   LVL 10</td>
   <td>24</td>
-  <td>HVY: 9</td>
+  <td>HVY: 10</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>40.2</td>
+  <td>42</td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -10594,15 +10598,15 @@ Bows
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -11695,14 +11699,14 @@ Greathammers
   10 STR<br>
   LVL 10</td>
   <td>24</td>
-  <td>HVY: 9</td>
+  <td>HVY: 10</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>40.2</td>
+  <td>42</td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -11739,15 +11743,15 @@ Greathammers
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -12246,12 +12250,13 @@ Elemental
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -12372,15 +12377,15 @@ Elemental
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -15961,12 +15966,13 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -17603,12 +17609,13 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -19564,14 +19571,14 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   10 STR<br>
   LVL 10</td>
   <td>24</td>
-  <td>HVY: 9</td>
+  <td>HVY: 10</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>40.2</td>
+  <td>42</td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -19608,15 +19615,15 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -20697,14 +20704,14 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   10 STR<br>
   LVL 10</td>
   <td>24</td>
-  <td>HVY: 9</td>
+  <td>HVY: 10</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>40.2</td>
+  <td>42</td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -20741,15 +20748,15 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -21233,12 +21240,13 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -21359,15 +21367,15 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -23690,12 +23698,13 @@ Every player-obtainable weapon, excluding offhands.
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -25588,14 +25597,14 @@ Every player-obtainable weapon, excluding offhands.
   10 STR<br>
   LVL 10</td>
   <td>24</td>
-  <td>HVY: 9</td>
+  <td>HVY: 10</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>40.2</td>
+  <td>42</td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -25632,15 +25641,15 @@ Every player-obtainable weapon, excluding offhands.
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -26058,12 +26067,13 @@ Every player-obtainable weapon, excluding offhands.
   40 LTN<br>
   LVL 15</td>
   <td>19.5</td>
-  <td>MED: 7</td>
+  <td>LTN: 3<br>
+  MED: 4</td>
   <td>15%</td>
   <td>-</td>
+  <td>6</td>
   <td>8</td>
-  <td>8</td>
-  <td>1.05x</td>
+  <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
 </tr>
@@ -26184,15 +26194,15 @@ Every player-obtainable weapon, excluding offhands.
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>

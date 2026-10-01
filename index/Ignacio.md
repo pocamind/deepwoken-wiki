@@ -1,6 +1,6 @@
 ---
 title: Ignacio
-revid: 230129
+revid: 230256
 source: https://deepwoken.fandom.com/wiki/Ignacio
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -26,7 +26,7 @@ Ignacio is a [Canor](Canor.md) NPC. He is a dragoon of [The Summer Company](The_
 
 ## Location
 
-Ignacio is located in the [Songseeker Wilds](Songseeker_Wilds.md).
+Ignacio is located inside of the windmill at [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
 

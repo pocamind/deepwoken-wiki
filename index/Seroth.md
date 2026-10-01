@@ -1,6 +1,6 @@
 ---
 title: Seroth
-revid: 224938
+revid: 230270
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -34,6 +34,8 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
 
 ## Dialogue
 
+**Base Dialogue:**
+
 **First Encounter:**
 
 <table>
@@ -46,17 +48,17 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
 </tr>
 <tr>
   <td colspan="8">Guard business? In here?</td>
-  <td colspan="8">You look... jumpy</td>
+  <td colspan="8">You look... jumpy.</td>
 </tr>
 <tr>
-  <td colspan="8">Yes. Guard business. Royal Etrean Guard blood... analysis.. Very delicate - you wouldn't understand obviously, just move along.</td>
+  <td colspan="8">Yes. Guard business.. Royal Etrean Guard blood... analysis... Very delicate - you wouldn't understand obviously, just move along.</td>
   <td colspan="8">Jumpy?! Hah, no, I'm focused. I have an eye for the tiniest splatter, details you couldnt [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] dream of grasping. Now, kindly stop breathing down my neck.</td>
 </tr>
 <tr>
-  <td colspan="4">Not until you tell me what you're doing</td>
-  <td colspan="4">Relax I was just asking</td>
-  <td colspan="4">Not until you tell me what you're doing</td>
-  <td colspan="4">Alright alright</td>
+  <td colspan="4">Not until you tell me what you're doing.</td>
+  <td colspan="4">Relax, I was just asking.</td>
+  <td colspan="4">Not until you tell me what you're doing.</td>
+  <td colspan="4">Alright, alright...</td>
 </tr>
 <tr>
   <td colspan="4"><i>*He fumbles glancing at the corpse beside him.*</i> W-what Im [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] doing is beyond your clearance, civilian, tell you what - here... Take this and disappear, hm?</td>
@@ -65,10 +67,10 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
   <td colspan="4">[See "Relax I was just asking"]</td>
 </tr>
 <tr>
-  <td colspan="2">What is it</td>
-  <td colspan="2">Fine hand it over</td>
-  <td colspan="2">What is it</td>
-  <td colspan="2">Fine hand it over</td>
+  <td colspan="2">What is it?</td>
+  <td colspan="2">Fine, hand it over.</td>
+  <td colspan="2">What is it?</td>
+  <td colspan="2">Fine, hand it over.</td>
 </tr>
 <tr>
   <td colspan="2">A worthless lump of scrap from what looks to be his old weapon - nothing of consequence to me. Though, some grubby pawnbroker might toss you coin for it. Take it.</td>
@@ -103,9 +105,9 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
 
 **Unlockable Dialogues:**
 
-This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_Transfuser.md) equipped.
-
 **First Encounter:**
+
+This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_Transfuser.md) equipped.
 
 <table>
 <tbody>
@@ -128,6 +130,8 @@ This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_T
 </table>
 
 **Subsequent Encounters:**
+
+This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_Transfuser.md) equipped.
 
 <table>
 <tbody>

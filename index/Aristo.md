@@ -1,6 +1,6 @@
 ---
 title: Aristo
-revid: 221836
+revid: 230266
 source: https://deepwoken.fandom.com/wiki/Aristo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Etrean NPCs, NPCs located in the Etrean Luminant]
@@ -30,7 +30,7 @@ He has a counterpart in the [Etris](Etris.md) named [Trenti](Trenti.md)
 
 ## Location
 
-Aristo is located at [Isle of Vigils](Isle_of_Vigils.md) inside the [inn](Inn.md)'s second floor
+Aristo is located on the second floor of the [Inn](Inn.md) at the [Isle of Vigils](Isle_of_Vigils.md),
 
 ## Dialogue
 

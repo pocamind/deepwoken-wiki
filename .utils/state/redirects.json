@@ -1046,15 +1046,15 @@
   "Coral": {
     "to": "Alestrian Coral"
   },
+  "Coral Burst": {
+    "to": "Monster Mantras",
+    "fragment": "Coral Burst"
+  },
   "Coral Clump": {
     "to": "??? (Coral Clump)"
   },
   "Coral Fever": {
     "to": "Destroyman III"
-  },
-  "Coral Spear": {
-    "to": "Monster Mantras",
-    "fragment": "Coral Spear"
   },
   "Corrupted": {
     "to": "Monsters",

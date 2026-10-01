@@ -197,14 +197,14 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   10 STR<br>
   LVL 10</td>
   <td>24</td>
-  <td>HVY: 9</td>
+  <td>HVY: 10</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>40.2</td>
+  <td>42</td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -241,15 +241,15 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>75 HVY<br>
   90 WND</td>
   <td>22</td>
-  <td>HVY: 4<br>
+  <td>HVY: 5<br>
   WND: 8</td>
   <td>15%</td>
   <td>-</td>
   <td>10</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>0.83x</td>
   <td>0.1s</td>
-  <td>41.8</td>
+  <td>49.4</td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>

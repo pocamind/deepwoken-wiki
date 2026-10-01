@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 226062
+revid: 230287
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, NPCs located in the Second Floor of the Second Layer, Black Divers]
@@ -146,7 +146,7 @@ Carrion is initially found in the Grand Library of [New Kyrsa](Second_Layer/New_
   <td>[Grants <a href="Monster_Mantras.md#mecha-gatling"><font><u>Mecha Gatling</u></font></a> Mantra]</td>
   <td>[Grants <a href="Monster_Mantras.md#whirling-blade"><font><u>Whirling Blade</u></font></a> Mantra]</td>
   <td>[Grants <a href="Monster_Mantras.md#abyssal-ridge"><font><u>Abyssal Ridge</u></font></a> Mantra]</td>
-  <td>[Grants <a href="Monster_Mantras.md#coral-spear"><font><u>Coral Spear</u></font></a> Mantra]</td>
+  <td>[Grants <font><u>Coral Spear</u></font> Mantra]</td>
   <td>[Grants <a href="Monster_Mantras.md#dread-breath"><font><u>Dread Breath</u></font></a> Mantra]</td>
   <td>[Grants <a href="Monster_Mantras.md#brachial-spear"><font><u>Brachial Spear</u></font></a> Mantra]</td>
   <td>[Grants <a href="Monster_Mantras.md#beast-burrow"><font><u>Beast Burrow</u></font></a> Mantra]</td>
@@ -217,7 +217,7 @@ If you talk to him with a Resonance and the Tarnished flaw, he will offer to unt
 | [Beast Burrow](Monster_Mantras.md#beast-burrow) | Similiar to [Thresher](Thresher.md) Burrow attack. Disappear underground for a period of time and jump out dealing AOE damage. Grants I-frames. | [Thresher Talon](Thresher_Talon.md) |
 | [Bone Wisp](Monster_Mantras.md#bone-wisp) | Summon a wisp of bone that shoots an undodgeable bone on uppercut and flourish. | [Charged Bonecharm](Charged_Bonecharm.md) |
 | [Brachial Spear](Monster_Mantras.md#brachial-spear) | Throws a giant femur towards selected area. Deals high damage and high knockback, high wind-up time. | [Giant Femur](Giant_Femur.md) |
-| [Coral Spear](Monster_Mantras.md#coral-spear) | Similar to Megalodaunt Thousand Needles attack. Grow coral on your back and create a multihit AOE around you. | [Megalodaunt Coral](Megalodaunt_Coral.md) |
+| [Coral Burst](Monster_Mantras.md#coral-burst) | Similar to Megalodaunt Thousand Needles attack. Grow coral on your back and create a multihit AOE around you. | [Megalodaunt Coral](Megalodaunt_Coral.md) |
 | [Dread Breath](Monster_Mantras.md#dread-breath) | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) |
 | [Enforcer Pull](Monster_Mantras.md#enforcer-pull) | When in proximity, pulls the victim towards the user. | [Enforcer Eye](Enforcer_Eye.md) |
 | [Mecha Gatling](Monster_Mantras.md#mecha-gatling) | Mounts a gatling gun upon the player's shoulder and fires it forwards, multi-hit. | [Broken Gatling Gun](Broken_Gatling_Gun.md) |

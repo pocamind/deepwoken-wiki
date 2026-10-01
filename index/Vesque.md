@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 224990
+revid: 230268
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -25,7 +25,7 @@ Vesque is an [Etrean](Etrean.md) NPC. They teach the [Fang and Coil](Fang_and_Co
 
 ## Location
 
-Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a small tree, in front of the [Cave Master](Cave_Master.md)'s cave and the Mantra Store.
+Vesque is located at the [Isle of Vigils](Isle_of_Vigils.md), standing next to the training-bags found in front of the [Barber](Barber.md)'s house.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Thula
-revid: 224974
+revid: 230254
 source: https://deepwoken.fandom.com/wiki/Thula
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -28,7 +28,7 @@ Thula is presently in charge of a detachment of dragoons assigned to the [Songse
 
 ## Location
 
-Thula is located in the [Songseeker Wilds](Songseeker_Wilds.md).
+Thula is located inside of the windmill at [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
 

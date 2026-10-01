@@ -1,6 +1,6 @@
 ---
 title: Clint
-revid: 230122
+revid: 230258
 source: https://deepwoken.fandom.com/wiki/Clint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -26,7 +26,7 @@ Clint is an [Etrean](Etrean.md) NPC.
 
 ## Location
 
-Clint is located in the windmill next to the mineshaft at [Songseeker Wilds](Songseeker_Wilds.md).
+Clint is located inside of the windmill at [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
 
