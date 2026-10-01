@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 227254
+revid: 230208
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -18,9 +18,9 @@ notices:
 
 **Fishing** is a mechanic in _Deepwoken_ that allows players to catch seafood and other valuables from almost any body of water using a [Fishing Rod](Fishing_Rod.md).
 
-Fishing Rods can be crafted with two [Sticks](Stick.md) and one [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md), or purchased from select vendors for 30/35.
+Fishing Rods can be crafted with two [Sticks](Stick.md) and one [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md) or instead, purchased from either the [Echoes unlock shop](Echoes.md) for 15 echoes or select vendors for 30/35.
 
-To fish, cast a line into any body of water by pressing M1, or hold M1 to cast if farther and higher. Once the bobber lands into water, it will take some to settle before a minigame pops up to fish. Once something is caught onto the line, reel in catches by pressing the displayed key (W, A, S, or D) while holding down M1 before the caught item gets loose. Lines can also be instantly withdrawn by pressing M1 while its being thrown.
+To fish, cast a line into any body of water by pressing M1, or hold M1 to cast if farther and higher. Once the bobber lands into water, it will take some to settle before a minigame pops up to fish. Once something is caught onto the line, reel in catches by holding the displayed key (W, A, S, or D) before the caught item gets loose. Lines can also be instantly withdrawn by pressing M1 while its being thrown.
 
 Fishing also grants experience toward all _physical_ [Attributes](Attributes.md).
 

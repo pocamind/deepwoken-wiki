@@ -1,6 +1,6 @@
 ---
 title: Braun
-revid: 225452
+revid: 230238
 source: https://deepwoken.fandom.com/wiki/Braun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -89,3 +89,4 @@ Braun is located in a small workshop hall across from [Kraphtalos](Kraphtalos.md
 ## Triva
 
 -   Braun's hair id is 115520061093937
+-   If you clip your camera past the blindfold, you can see that they have blue eyes with one being a darker shade of blue than the other.

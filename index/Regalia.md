@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 226794
+revid: 230217
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -79,6 +79,8 @@ This Regalia is **kept** upon wiping at or below Power 10.
 You no longer passively lose hunger or thirst. You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst).
 
 Vomiting, the [Gluttony](Gluttony.md) Enchantment, and emergency blood regeneration will still cause you to lose hunger and thirst at a normal rate.
+
+This Regalia is **kept** upon wiping at or below Power 10.
 
 ### Insightful[\[4\]](#cite-note-archnamedrop2-4)
 
