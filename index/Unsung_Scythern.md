@@ -1,6 +1,6 @@
 ---
 title: Unsung Scythern
-revid: 221523
+revid: 230251
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greataxes, Developer Spec]
@@ -39,3 +39,4 @@ This weapon has the ability that upon critical attacking/countering with the cri
 ## Trivia
 
 -   Exclusive weapon that belongs to the Order of the Unsung Officer, Cyril Moros. Was given to him for winning an Art Contest.
+-   It's critical attack is shared with the [Quartztone Pickaxe](Quartztone_Pickaxe.md).

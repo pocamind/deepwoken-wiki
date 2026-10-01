@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 226649
+revid: 230249
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -29,5 +29,5 @@ This place is notable for having a mysterious altar that requires sacrifices for
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis.
 -   The symbol in the middle of the machine is the [Moonseye](Moonseye.md) put over the [Suncross](Suncross.md).
     -   It could therefore be inferred that it represents a solar eclipse.
--   A hidden [Gatherhand](Gatherhand.md) inscription is shown on the top and bottom of the altar, reading "Fraction between states number between whole / As virtue lies between".
+-   A hidden [Gatherhand](Gatherhand.md) inscription is shown on the top and bottom of the altar, reading "Fraction between states number between whole / All virtue lies between".
 -   While Erisore can be primarily found in [Erisia](Erisia.md), it is unknown how it manages to thrive here.
