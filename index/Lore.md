@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 228637
+revid: 230349
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, World of Deepwoken, OutdatedPages, SpoilerPages]
@@ -1591,15 +1591,6 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 ## Deepwoken: 0000-1271 (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
-
-### The Song
-
-**Lore Sources:** _Songseekers, Diver Apprentice Robes, Celestial Telescope_
-
--   The Song is to be the formula - the assimilation of all things; such as Mantras, Ritual Casting and other things.
-    -   The Song also draw upon the resonance of the living - the creation of [Resonance Bells](Resonance.md).
--   The Song is the entity that drives the world - it is a being that is synonymous to fate itself. Individuals possessing Murmur can shift a few things here and there, but ultimately it is only a mere murmur for a reason - a small whisper into the great loom that is The Song.
--   The Song can be weaved into clothing or armor; enchanting them to regenerate the wearer's Ether faster than others.
 
 ### The Canticlysm
 

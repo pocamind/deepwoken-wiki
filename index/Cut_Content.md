@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 228822
+revid: 230367
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -29,7 +29,12 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Aerial Assault (quest) -** This quest was granted by [Ivory](Ivory.md) at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Aerial Assault Echo Talent. This quest, the quest giver, and the Talent itself were all removed on the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update when Aerial Assault was made base behavior.
 -   **Chaser's Hemokinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet via interacting with Ministry members hiding around the Second Layer's first floor. This would have tied into the Dungeon Invasion mechanic in some unknown way.[\[1\]](#cite-note-1)
--   **Commander Rayner -** A quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
+-   **[Commander Rayner](Commander_Rayner.md) -** A quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
+-   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
+-   **[Deepshore Fossil](Deepshore_Fossil.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
+-   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
+-   **Kiternon -** A Felinor NPC that was once at Fort Merit, alongside [Kana](Kana.md) and Gartoth. He used to have an unfinished quest where he asked for you to bring 'Someone stronger than you' to him.
+-   **Gartoth -** A Canor NPC that was once at Fort Merit. He used to to have dialogue that spoke about his hunger, it is unclear whether or not this was a quest, however he was removed shortly before [Chef Odiolavoro](Chef_Odiolavoro.md) was added.
 
 ## Player
 
@@ -49,6 +54,16 @@ This page is about content that has either been removed or changed drastically i
     -   Was removed on the [August 11th, 2025](Version_History/2025.md#august-11th-2025) update as it didn't actually require any additional skill, it was basically just a knowledge gap. All mechanics/abilities that relied on Perfect Casts were reworked or made default behavior.
 -   **Vow of Thorns + Ironwoken Echo Modifiers -** Vow of Thorns boosted the rate of progression. However, players were faced with harder [trials](Cathedral_of_the_Interstice.md) and every death will would send them to the [depths](First_Layer.md). Ironwoken would stop players from receiving notes or items from other players.
     -   Both Echo Modifiers were removed on the [December 15th, 2025](Version_History/2025.md#december-15th-2025) update as their effects and mechanics are represented within [Vow of Iron](Vow_of_Iron.md).
+-   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the [Feburary 16th, 2026](Version_History/2026.md#feburary-16th-2026) update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
+-   **[Chime of Conflict](Chime_of_Conflict.md) Skulls -**
+    
+    Chime of Conflict Skull icons
+    
+    -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
+-   **Damage vs Monsters and Monster Armor pips -** These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the [June 24th, 2025](Version_History/2025.md#june-24th-2025) update, being replaced with the [Bestiary](Bestiary.md) system.
+-   **Stomach Grumbles -** Periodically while at 0 stomach your character's stomach would audibly grumble, alerting all nearby NPCs of your location, and aggroing them if they were hostile. This mechanic temporarily found a strong use case after the Chainbreaker update, where players would abuse the alertion to cause [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) to aggro onto them and start the fight almost immediately after entering the dungeon. Because of this, this mechanic was removed in a shadow hotfix not long after.
+-   **Elemental Intensity (as a Talent stat) -** Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the [September 7th, 2024](Version_History/2024.md#september-7th-2024) update.
+-   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
 
 ## Oaths
 
@@ -58,11 +73,12 @@ This page is about content that has either been removed or changed drastically i
 -   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
     -   The Oath mantra **Illusory Realm** was removed alongside this rework.
     -   This was reworked on the 20th of September in 2024.
-
 -   **([Previous](Oath%253A_Jetstriker/Old_Jetstriker.md))** **Jetstriker -** Reworked, possibly due to the overpowered nature of the _Vigil's Grace_ passive and lack of viability in PVP and PVE outside of that specific passive.
     -   New mantras were added to Jetstriker which previously, the Oath possessed none, these mantras include Jet Kick and False Strike.
     -   New passives that differ from the original Jetstriker include Acceleration Points, Jetstream Pursuit, and Momentum Bar.
         -   Passives removed from the rework include Prevailing Westerlies and Vigil's Grace.
+
+  
 
 ## Mantras
 
@@ -559,7 +575,6 @@ Charisma
 -   **[Meteor Isle](Meteor_Isle.md) Meteor Event -** An event that would send a large blue meteor similar to the ones of the [Stone Knight](Stone_Knight.md) event crashing down onto the isle. It would spawn a few [Mudskipper Knights](Mudskipper_Knight.md) and link the player to the meteor with a blue chain. This event was shelved due to it being poorly optimized and an overall nuisance.
 -   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Lectern](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
 -   **Lockers -** These were pseudo [campfires](Campfire_Pit.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
--   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the [Feburary 16th, 2026](Version_History/2026.md#feburary-16th-2026) update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
     
     One of the brains found in the Ancient Rotlands
@@ -571,15 +586,6 @@ Charisma
     
     -   This version of [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) could be found in the [Fragments of Self](Fragments_of_Self.md) for [Castaway](Castaway.md) players, allowing them to enter the [Tutorial](Tutorial.md) on their next life. This NPC was removed on the [April 2nd, 2026](Version_History/2026.md#april-2nd-2026) update, when they moved the Tutorial access to the Main Menu instead.
     -   Additionally, because the Tutorial could only be accessed on temporary characters, Tutorial-specific dialogue with [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in the [Second Layer](Second_Layer.md) and [Kelsius](Kelsius.md) was also made unobtainable for characters made after this update.
--   **[Chime of Conflict](Chime_of_Conflict.md) Skulls -**
-    
-    Chime of Conflict Skull icons
-    
-    -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
--   **Damage vs Monsters and Monster Armor pips -** These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the [June 24th, 2025](Version_History/2025.md#june-24th-2025) update, being replaced with the [Bestiary](Bestiary.md) system.
--   **Stomach Grumbles -** Periodically while at 0 stomach your character's stomach would audibly grumble, alerting all nearby NPCs of your location, and aggroing them if they were hostile. This mechanic temporarily found a strong use case after the Chainbreaker update, where players would abuse the alertion to cause [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) to aggro onto them and start the fight almost immediately after entering the dungeon. Because of this, this mechanic was removed in a shadow hotfix not long after.
--   **Elemental Intensity (as a Talent stat) -** Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the [September 7th, 2024](Version_History/2024.md#september-7th-2024) update.
--   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
 -   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
 -   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis and Central Authority were later added as well. Known inaccessible Lore guilds include The Hive.
@@ -592,18 +598,15 @@ Charisma
 -   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[4\]](#cite-note-4)
 -   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under [The Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [The Summer Company](The_Summer_Company.md)'s castle).
 -   **Shrine of Dominion/Domination -** Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
--   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
-    -   Psia was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
+    -   [Psia](Cut_Content.md) was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
 -   **[Blade Instructor](Blade_Instructor.md)\-** In the [Isle of Vigils](Isle_of_Vigils.md), players were able to spar with an instructor at the cost of 20. You could also spar with another player by talking to the instructor.
 -   **[Corvis](Corvis.md)\-** An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentions Stormcall. He was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
--   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
 -   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the [September 15th, 2025](Version_History/2025.md#september-15th-2025) update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
 -   **[Sea Highways](Sea_Highway.md) -** Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
 -   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
     
 -   **[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
--   **[Deepshore Fossil](Deepshore_Fossil.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
 -   **[Repair Hammer](Repair_Hammer.md) -** Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
 
 ## Mystic

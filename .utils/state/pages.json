@@ -417,7 +417,7 @@
   },
   "1415": {
     "title": "Lore",
-    "lastrevid": 228637
+    "lastrevid": 230349
   },
   "1425": {
     "title": "Thresher",
@@ -529,7 +529,7 @@
   },
   "1667": {
     "title": "Rat's Den",
-    "lastrevid": 230311
+    "lastrevid": 230354
   },
   "1681": {
     "title": "Terrapod",
@@ -549,7 +549,7 @@
   },
   "1742": {
     "title": "Nautilodaunt",
-    "lastrevid": 229543
+    "lastrevid": 230361
   },
   "1743": {
     "title": "Brainsucker",
@@ -769,7 +769,7 @@
   },
   "2513": {
     "title": "Darksteel Greatsword",
-    "lastrevid": 230141
+    "lastrevid": 230379
   },
   "2521": {
     "title": "Forge Greathammer",
@@ -1065,7 +1065,7 @@
   },
   "2869": {
     "title": "Cut Content",
-    "lastrevid": 228822
+    "lastrevid": 230367
   },
   "2877": {
     "title": "Evengarde Rest",
@@ -1265,7 +1265,7 @@
   },
   "3297": {
     "title": "Widow's Hollow",
-    "lastrevid": 230317
+    "lastrevid": 230355
   },
   "3299": {
     "title": "The Hall of Shattered Wills",
@@ -1377,7 +1377,7 @@
   },
   "3539": {
     "title": "Serrated Warspear",
-    "lastrevid": 228888
+    "lastrevid": 230373
   },
   "3542": {
     "title": "Echoes of Bloodshed",
@@ -1517,7 +1517,7 @@
   },
   "4007": {
     "title": "Commander Rayner",
-    "lastrevid": 228471
+    "lastrevid": 230364
   },
   "4014": {
     "title": "The Ignition Union",
@@ -3197,7 +3197,7 @@
   },
   "8141": {
     "title": "Oath: Dawnwalker",
-    "lastrevid": 229508
+    "lastrevid": 230348
   },
   "8142": {
     "title": "Oath: Contractor",
@@ -4801,7 +4801,7 @@
   },
   "14531": {
     "title": "Hero's Blade of Frost",
-    "lastrevid": 230347
+    "lastrevid": 230350
   },
   "14532": {
     "title": "Hero's Blade of Lightning",
@@ -4829,7 +4829,7 @@
   },
   "14580": {
     "title": "Hollow Forge",
-    "lastrevid": 217831
+    "lastrevid": 230360
   },
   "14593": {
     "title": "Combat Tag",
@@ -5385,7 +5385,7 @@
   },
   "16182": {
     "title": "Fang and Coil",
-    "lastrevid": 226528
+    "lastrevid": 230384
   },
   "16183": {
     "title": "Jade Vigil's Weave",
@@ -7337,7 +7337,7 @@
   },
   "20930": {
     "title": "Faust",
-    "lastrevid": 216491
+    "lastrevid": 230378
   },
   "20960": {
     "title": "Ritual Sacrifice",
@@ -7845,7 +7845,7 @@
   },
   "21515": {
     "title": "Reforged Gauntlets",
-    "lastrevid": 228084
+    "lastrevid": 230380
   },
   "21517": {
     "title": "Heretic's Moonseye Gauntlets",
@@ -9854,5 +9854,9 @@
   "26710": {
     "title": "Aelita Plush",
     "lastrevid": 230203
+  },
+  "26753": {
+    "title": "Void Spire (location)",
+    "lastrevid": 230356
   }
 }

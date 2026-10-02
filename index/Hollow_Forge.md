@@ -1,9 +1,9 @@
 ---
 title: Hollow Forge
-revid: 217831
+revid: 230360
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Pathfinder Exclusive, Mechanics]
 ---
 
 # Hollow Forge
@@ -11,6 +11,10 @@ categories: [Mechanics]
 | Hollow Forge | |
 |---|---|
 | usage | A furnace for Ignition Delvers to convert certain Relics into other Relics., 3 Pluripotent Alloys to 1 Smith's Alloy., 9 Pluripotent Alloys to 1 Armorer's Needle., 3 Smith's Alloys to 1 Armorer's Needle., 1 Armorer's Needle to 3 Smith's Alloys. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

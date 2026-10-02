@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 228888
+revid: 230373
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | attack duration | 0.7s |
 | penetration | 20% |
 | chip damage | 10% |
+| talent | Hunter's Chase - Double the range you are able to chase down enemies with a running attack. Your Running attacks now also proc Bear Trap and deals 15% more base damage., Bear Trap - Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent and procs Sluggish on PvE. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |
@@ -45,6 +46,8 @@ The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtain
 Equipping the Serrated Warspear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**Hunter's Chase**](Talents.md#hunters-chase) heavily buffs your [Running Attacks](Combat_Mechanics.md#running-attacks), increasing their **base damage** by 15%, allowing them to proc the [Bear Trap](Talents.md#bear-trap) Talent, and doubling the maximum range on [Chase Attacks](Combat_Mechanics.md#chase-attacks).
+
+[Bear Trap](Talents.md#bear-trap), a rollable Talent that is also provided by this weapon, procs on your critical (and running) attacks, applying a debuff that slows your opponent and prevents them from jumping for a short duration. This also applies **[Sluggish](Status_Effects.md#sluggish)** in PvE.
 
 ## Critical
 

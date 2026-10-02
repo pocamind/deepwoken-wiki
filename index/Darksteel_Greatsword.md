@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 230141
+revid: 230379
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]
@@ -33,7 +33,7 @@ categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Greatswords, W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Blacksteel Pirates, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Pure Astruline turn-in, Sold at The Floating Keep Blacksmith for 200 Alloyed:, Alloying a Darksteel Greatsword, Blacksteel Pirate Captain, Sold by Traan Zakshun for 650 |
+| obtainment | Blacksteel Pirates, Minityrsa, Songseeker Wilds, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Pure Astruline turn-in, Sold at The Floating Keep Blacksmith for 200 Alloyed:, Alloying a Darksteel Greatsword, Blacksteel Pirate Captain, Sold by Traan Zakshun for 650 |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 Variants: [Darksteel Cleaver](Darksteel_Cleaver.md)

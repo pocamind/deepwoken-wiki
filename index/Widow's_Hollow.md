@@ -1,14 +1,16 @@
 ---
 title: "Widow's Hollow"
-revid: 230317
+revid: 230355
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Locations in the Eastern Luminant, Voidzones]
 ---
 
 # Widow's Hollow
 
 LocationL Widow's Hollow LocationR
+
+Voidzone
 
 The unnerving skittering of arachnids echoes throughing \[_[sic](https://en.wikipedia.org/wiki/sic)_\] these damp and musty caverns.
 

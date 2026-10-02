@@ -1,6 +1,6 @@
 ---
 title: Commander Rayner
-revid: 228471
+revid: 230364
 source: https://deepwoken.fandom.com/wiki/Commander_Rayner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Cut Content, NPCs, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -23,4 +23,5 @@ Commander Rayner was an NPC at [Fort Merit](Fort_Merit.md) that requested your h
 
 ## Trivia
 
--   Bizarrely, despite being a member of [The Central Authority](The_Central_Authority.md), they wore the [Hive Adjudicator](Hive_Adjudicator.md) outfit.
+-   Bizarrely, despite being a member of [The Central Authority](The_Central_Authority.md), they wore the [Hive Adjudicator](Hive_Adjudicator.md) outfit, this is because originally the Authority wore [Hive Adjudicator](Hive_Adjudicator.md) outfits instead of what are now the Authority outfits.
+    -   This would later be changed to the [Authority Commander](Authority_Commander.md) outfit.

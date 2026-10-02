@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 230347
+revid: 230350
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -52,7 +52,6 @@ The critical has a cooldown of **10 seconds**.
 
 -   The Hero of Frost is a [Capra](Capra.md) named [Faust](Faust.md). Identified by their horns and mask.
     -   Faust understood the way of the world better than anyone else, as said in their respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
-    -   Faust is based on a [German legendary character of the same name](https://en.wikipedia.org/wiki/Faust), who makes a deal with the Devil in exchange for unlimited knowledge.
 -   Once deciphered, the runes on the blade says, "I FAUST ONE PIECE OF A FIVE POINTED STAR GIVE MY COLDEST FROST TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL".
 -   It's previous description read: "A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes."
 -   When attempting to equip it with [Silentheart](Oath%253A_Silentheart.md), it says, "The Hero of Frost, Faust, looks upon you with cold judgement and rejects your very soul."
