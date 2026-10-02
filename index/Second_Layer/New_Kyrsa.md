@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 226315
+revid: 230331
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -183,7 +183,7 @@ The Second Floor is the deepest point of the Eternal Gale. In here, you can find
 
 ### In-game
 
--   The music for this area is [Kyrie](../Deepwoken_OST.md#kyrie) by Naktigonis.
+-   The music for this area is [Kyrie](../Deepwoken_OST.md#kyrie) by Naktigonis. 'Kyrie' comes from Kyrie eleison. Kyrie eleison is an ancient greek-christian prayer meaning “Lord, have mercy,”
 -   The combat music for this area is [INSOMNIA](../Deepwoken_OST.md#insomnia) by Naktigonis.
     -   As stated in its [Youtube video](https://www.youtube.com/watch?v=YMJBMjergiI), the music present in game is altered due to ROBLOX's guidelines regarding screaming and distorted audio.
 -   Kennith will appear regardless of whether or not you have completed or even started the Duke of Sin questline.
@@ -197,10 +197,11 @@ The Second Floor is the deepest point of the Eternal Gale. In here, you can find
 ### Lore
 
 -   New Kyrsa exists in infinite amount of realities at the same time, and every human stuck here is doomed to stay here forever and suffer from Space-time collapse.
--   Kyrsgarde in New Kyrsa are affected by some sort of hypnosis. Their minds are under hypnosis from Ethiron, the Eye of Calamity, and they're here to protect Scion of Ethiron and let him grow. Naerotiv and Kyrsgarde in Firfire aren't affected by this hypnosis due to them being a safe distance from the mist. We can discover from Naerotiv that we must "seal" (kill) [Scion of Ethiron](../Scion_of_Ethiron.md) or the world will be under a large threat.
-    -   Ironically, this won't happen, because New Kyrsa is stuck in a time cycle, where Scion of Ethiron can't grow enough to create this threat.
+-   Kyrsgarde in New Kyrsa are affected by some sort of hypnosis. Their minds are under hypnosis from Ethiron, the Maelstrom's Eye, and they're here to protect Scion of Ethiron and let him grow. Naerotiv and Kyrsgarde in Firfire aren't affected by this hypnosis due to them being a safe distance from the mist. We can discover from Naerotiv that we must "seal" (kill) the [Scion of Ethiron](../Scion_of_Ethiron.md) or the world will be under an immense threat.
+    -   However, this will never happen, because New Kyrsa is stuck in a time loop, where the Scion of Ethiron can't grow enough to create this threat.
     -   The 45 minute time limit is in place because New Kyrsa suffers under time dilation. It's also called Space-time collapse.
     -   It seems like you can find some people who have lost their minds and gone insane from infinite amount of time resets.
+-   There is an Old Kyrsa. Additionally, the [Amedan Temple](../Amedan_Temple.md) is located there
 -   Some of Black Divers in New Kyrsa are affected by this "Ethiron's hypnosis", actually named "Mist Presence". Some of them are located near one of five Obelisks. They all wield Markor's Inheritor.
 -   Contrary to popular belief, New Kyrsa didn't sink into the Depths. It was actually built within the Depths by Kyrsgarde. New Kyrsa does not match human standards at all, not to mention the fact that Kaide and Naerotiv talks about it. Firfire also has the same technology and the fact entering Firfire makes you quote "seem familiar but very alien". New Kyrsa was made as shrine and bedchamber to Scion of Ethiron.
--   New Kyrsa may be a reference to Amaurot from the game Final Fantasy XIV, with both having similar concept and design and Ethrion can be anagram of Therion, the final boss of Amaurot.
+-   New Kyrsa may be a reference to Amaurot from the game Final Fantasy XIV, with both having similar concept and design and Ethiron can be anagram of Therion, the final boss of Amaurot.

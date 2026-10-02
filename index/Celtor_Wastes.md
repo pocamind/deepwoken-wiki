@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 216624
+revid: 230307
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -12,7 +12,8 @@ notices:
 
 LocationL Celtor Wastes LocationR
 
-  
+The once-vibrant outskirts of a fallen city are now nothing but a barren testament to tragedy.
+
   
 
   

@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 220342
+revid: 230317
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -10,7 +10,7 @@ categories: [Locations]
 
 LocationL Widow's Hollow LocationR
 
-  
+The unnerving skittering of arachnids echoes throughing \[_[sic](https://en.wikipedia.org/wiki/sic)_\] these damp and musty caverns.
 
   
 
@@ -31,7 +31,7 @@ The Widow's hollow is a large cave with its entrance found near the top of the g
 -   At the upper "floor" of the cave, there is a boarded-up door that can be destroyed or opened, leading to a small library of sorts containing the [Shrine Of Mastery](Deep_Shrines.md) as well as [Ciea](Ciea.md). For some reason, this place does not count as its own area.
     -   A button in the room with Ciea can be interacted with, opening a door that directly leads into the cave with the Deep Widow.
 
-## Trivia/Notes
+## Trivia
 
 -   Legion Snipers have a small chance to spawn here.
 -   While not being present through normal gameplay, clipping outside of the Lightkeeper Temple brings up the location marker for Widow's Hollow, and is established as a [voidzone](Voidzones.md).

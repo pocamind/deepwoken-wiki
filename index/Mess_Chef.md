@@ -1,6 +1,6 @@
 ---
 title: Mess Chef
-revid: 224868
+revid: 230301
 source: https://deepwoken.fandom.com/wiki/Mess_Chef
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base, Vendors, Individuals with unspecified pronouns]
@@ -24,7 +24,7 @@ The Mess Chef is an NPC located inside of [Guild Bases](Guild_Bases.md). They ca
 ## Shop
 
 -   [Mushroom Bisque](Mushroom_Bisque.md) for 25.
--   [Cheese](Cheese.md), [Fish Stew](Fish_Stew.md), [Mushroom Omelette](Mushroom_Omelette.md), and [Sushi](Sushi.md) for 20.
+-   [Cheese](Cheese.md), [Fish Stew](Fish_Stew.md), [Mushroom Omelette](Mushroom_Omelette.md), and [Glazed Fish](Glazed_Fish.md) for 20.
 
 ## Dialogue
 

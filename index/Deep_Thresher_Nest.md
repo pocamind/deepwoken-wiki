@@ -1,6 +1,6 @@
 ---
 title: Deep Thresher Nest
-revid: 228692
+revid: 230315
 source: https://deepwoken.fandom.com/wiki/Deep_Thresher_Nest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -11,6 +11,8 @@ categories: [Locations, Locations in the Eastern Luminant, Voidzones]
 LocationL Deep Thresher Nest LocationR
 
 Voidzone
+
+Tread carefully, for your footsteps disturb the low rumble of slumbering beasts.
 
   
 

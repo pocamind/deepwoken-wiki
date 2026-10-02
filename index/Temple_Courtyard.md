@@ -1,6 +1,6 @@
 ---
 title: Temple Courtyard
-revid: 188768
+revid: 230303
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -14,7 +14,8 @@ This content is not accessible outside of this gamemode.
 
 LocationL Temple Courtyard LocationR
 
-  
+As the temple ruins tower before you, you cannot help but feel like you are being watched.
+
   
 
 **Temple Courtyard** is a location in _Deepwoken._ It is a sub-location of the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) found in [Upper Erisia](Upper_Erisia.md).

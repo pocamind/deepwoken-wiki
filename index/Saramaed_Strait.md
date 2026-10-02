@@ -1,6 +1,6 @@
 ---
 title: Saramaed Strait
-revid: 220096
+revid: 230299
 source: https://deepwoken.fandom.com/wiki/Saramaed_Strait
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
@@ -12,7 +12,8 @@ notices:
 
 LocationL Saramaed Strait LocationR
 
-  
+Curled alongside a jagged landscape, the waters here seem less choppy than the land it borders.
+
   
 
 ## Description

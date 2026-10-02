@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 228924
+revid: 230330
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]

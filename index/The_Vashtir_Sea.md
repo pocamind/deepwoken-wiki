@@ -1,6 +1,6 @@
 ---
 title: The Vashtir Sea
-revid: 221370
+revid: 230300
 source: https://deepwoken.fandom.com/wiki/The_Vashtir_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
@@ -12,7 +12,8 @@ notices:
 
 LocationL The Vashtir Sea LocationR
 
-  
+Although named after the legendary dynasty of Etrean rulers, these waters bear the marks of their dominion no longer.
+
   
 
 ## Description

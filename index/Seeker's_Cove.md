@@ -1,6 +1,6 @@
 ---
 title: "Seeker's Cove"
-revid: 220094
+revid: 230309
 source: https://deepwoken.fandom.com/wiki/Seeker's_Cove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
@@ -12,7 +12,8 @@ notices:
 
 LocationL Seeker's Cove LocationR
 
-  
+Warm winds gently pass over you, as the ceaseless sounds of martial trials echo in the distance.
+
   
 
 ## Description

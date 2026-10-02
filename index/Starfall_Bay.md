@@ -1,6 +1,6 @@
 ---
 title: Starfall Bay
-revid: 220098
+revid: 230305
 source: https://deepwoken.fandom.com/wiki/Starfall_Bay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
@@ -12,7 +12,8 @@ notices:
 
 LocationL Starfall Bay LocationR
 
-  
+Showered in starfall and sheltered by the sky-piercing peaks of Aratel, these waters are a sanctuary for all kinds of life.
+
   
 
 ## Description

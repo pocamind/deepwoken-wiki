@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 223789
+revid: 230335
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -49,6 +49,7 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | Crying | Break down into exaggerated sobbing while looking around for sympathy. |  |
 | Goopie | Perfrom the Goopie, a dance originating from TikTok created by goopie. |  |
 | Griddy | Swing your arms while tapping your feet. |  |
+| Groove | Dance rhythmically while moving your arms and body. |  |
 | Loser | Do the "Take the L" emote from Fortnite. |  |
 | Penguin | Perform the Club Penguin dance. |  |
 | Sway | Sway from side to side. |  |

@@ -1,6 +1,6 @@
 ---
 title: The Summer Sea
-revid: 220095
+revid: 230302
 source: https://deepwoken.fandom.com/wiki/The_Summer_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
@@ -12,7 +12,8 @@ notices:
 
 LocationL The Summer Sea LocationR
 
-  
+The taste of smog lingers on your lips. The clangour of industry clamours on the wind.
+
   
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Glacial Remnant
-revid: 220919
+revid: 230308
 source: https://deepwoken.fandom.com/wiki/Glacial_Remnant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant, Voidzones]
@@ -13,6 +13,8 @@ notices:
 LocationL Glacial Remnant LocationR
 
 Voidzone
+
+A chilling power sleeps within this forgotten alcove.
 
   
 

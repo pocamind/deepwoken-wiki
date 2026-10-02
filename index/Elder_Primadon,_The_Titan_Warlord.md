@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 228536
+revid: 230339
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 Elder Primadon, the Titan Warlord is a stronger version of [Primadon](Primadon,_Titan_of_the_East.md), with a larger body, darker skin tone, and glowing eyes.
 
-Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes [Sinner's Ash](<Sinner's_Ash.md>) as an adequate offering. Elder Primadon will despawn after 23 minutes.
+Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes [Sinner's Ash](<Sinner's_Ash.md>) as an adequate offering. Elder Primadon will despawn after 23 minutes. The Elder cannot be summoned within private servers.
 
 <table><caption>Known Offerings</caption>
 <tbody>
