@@ -1,6 +1,6 @@
 ---
 title: Rudral
-revid: 213955
+revid: 230459
 source: https://deepwoken.fandom.com/wiki/Rudral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -45,7 +45,7 @@ This dialogue will only appear if the player has a [Pluripotent Alloy](Pluripote
   <td colspan="2">Uh, yeah.</td>
 </tr>
 <tr>
-  <td colspan="2">Got a friend around these parts who's interested in 'em. You should pay Adar a visit if you manage to find his lab. It's nestled away somewhere high up. Anyway, did you need anything?</td>
+  <td colspan="2">Got a friend around these parts who's interested in 'em. You should pay <b>Adar</b> a visit if you manage to find his lab. It's nestled away somewhere high up. Anyway, did you need anything?</td>
 </tr>
 <tr>
   <td>Can you work on something for me? [Armor]</td>

@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 219928
+revid: 230425
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Hive]
@@ -21,7 +21,7 @@ notices:
 
 ## Description
 
-The Hive is a faction that operates within large trees known as Greathives. An example of these is the relatively new [Greathive Aratel](Greathive_Aratel.md), which is located in the upper north of Aratel Island. It can only be accessed through washing your face in the [Lightkeeper Temple](Lightkeeper_Temple.md) before using the shrine teleporter.
+The Hive is a faction that operates within large trees known as Greathives. An example of these is the relatively new [Greathive Aratel](Greathive_Aratel.md), which is located in the upper north of Aratel Island. It can only be accessed through washing your face using the fountain located along the eastern outskirts of [The Starswept Valley](The_Starswept_Valley.md).
 
 The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md). They are ruled by an overarching Greatlord who delegates the management of each Greathive to their respective Hivelords. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating and advancing the Hive.
 

@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 221739
+revid: 230426
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -154,7 +154,6 @@ Block
 -   Avoid fighting it on sloped ground as it will keep moving back and forth, thus making it more difficult to avoid/parry it's attacks. If possible try to bring it towards flatter ground.
 -   This is one of the Monsters that benefits the most from being in a horde alongside other Monsters as well as being in a chase regardless of the situation, due to its fast movement speed, its attacks having a large reach and from being able to shut down your movement, either from hitstun or from ragdolling.
     -   If you are not confident enough in your fighting ability against the King Thresher, then be aware of your surroundings and have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
-    -   A safe way to practice fighting a King Thresher would be to head to the [Lightkeeper Temple](Lightkeeper_Temple.md) located on the far right side of the [Starswept Valley](The_Starswept_Valley.md). Once you enter, on the right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway whenever you get low on health, but do be wary as there are other [Threshers](Thresher.md) in the area.
 
 ## Trivia
 

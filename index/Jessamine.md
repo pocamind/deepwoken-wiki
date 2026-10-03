@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 224814
+revid: 230427
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -117,7 +117,3 @@ Jessamine is located underneath some ruins. They are near the Legion Camp that i
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   There is a [King Thresher](King_Thresher.md) in the [Lightkeeper Temple](Lightkeeper_Temple.md), located to the right on entry. As this one does not spawn touching other threshers, it is probably the easiest way to complete the quest.

@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Monk Nako is an [Etrean](Etrean.md) NPC. She is a monk of the Monastery of Mur and a member of the [Circle of Honour](Circle_of_Honour.md).
+Monk Nako is an [Etrean](Etrean.md) NPC. She is a monk of the [Monastery of Mur](Monastery_of_Mur.md) and a member of the [Circle of Honour](Circle_of_Honour.md).
 
 ## Location
 

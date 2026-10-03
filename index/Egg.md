@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 229978
+revid: 230455
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -23,12 +23,13 @@ categories: [Food, Harvestables, Food Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A raw egg. |
+| obtainment | Sold in Traan Zakshun's black market for 1 |
 
 _Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item._
 
 ## Description
 
-**Egg** is a [Food](Food.md) item and crafting ingredient.
+**Egg** is a [Food](Food.md) item and crafting ingredient. It is also purchased from [Traan Zakshun's](Traan_Zakshun.md) black market for 1.
 
 It is a type of **Generic** food.
 

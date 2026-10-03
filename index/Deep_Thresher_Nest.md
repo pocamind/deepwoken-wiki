@@ -1,6 +1,6 @@
 ---
 title: Deep Thresher Nest
-revid: 230315
+revid: 230432
 source: https://deepwoken.fandom.com/wiki/Deep_Thresher_Nest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -20,7 +20,7 @@ Tread carefully, for your footsteps disturb the low rumble of slumbering beasts.
 
 ## Overview
 
-The Deep Thresher Nest is a [Voidzone](Voidzones.md). Found above the [Lightkeeper Temple](Lightkeeper_Temple.md) that has been overrun by the [Threshers](Thresher.md), connecting to the cavern on the other side. There are a few [Threshers](Thresher.md) and a [King Thresher](King_Thresher.md) that reside in the nest.
+The Deep Thresher Nest is a [Voidzone](Voidzones.md). Found above the [Monastery of Mur](Monastery_of_Mur.md) that has been overrun by the [Threshers](Thresher.md), connecting to the cavern on the other side. There are a few [Threshers](Thresher.md) and a [King Thresher](King_Thresher.md) that reside in the nest.
 
 ## Contents
 

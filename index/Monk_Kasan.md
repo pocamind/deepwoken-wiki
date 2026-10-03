@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Monk Kasan is an [Etrean](Etrean.md) NPC. He is a monk of the Monastery of Mur and a member of the [Circle of Honour](Circle_of_Honour.md).
+Monk Kasan is an [Etrean](Etrean.md) NPC. He is a monk of the [Monastery of Mur](Monastery_of_Mur.md) and a member of the [Circle of Honour](Circle_of_Honour.md).
 
 ## Location
 

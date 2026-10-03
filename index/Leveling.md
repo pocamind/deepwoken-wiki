@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 228703
+revid: 230411
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -39,7 +39,7 @@ Keep in mind that there exists a **limit to the amount of mantras of the same ty
 -   If drowning at Power 4 and below, you may reach the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) located at the center of [The City of the Drowned](The_City_of_the_Drowned.md) and be able to return to the overworld without any challenge.
 -   If drowning at Power 5 and above, if you reach the Cathedral of the Interstice, you may partake in a trial (defeat an enemy which more often than not, does suit your level of strength) in order to return to the overworld.
 -   At Power 5, your character is eligible to create Guilds.
--   At Power 10, your character is eligible to wash their face at [Lightkeeper Temple](Lightkeeper_Temple.md), granting access to [The Lordsgrove](The_Lordsgrove.md) if you have not done this previously.
+-   At Power 10, your character is eligible to wash their face using the fountain along the outskirts of [The Starswept Valley](The_Starswept_Valley.md), allowing entry in [The Lordsgrove](The_Lordsgrove.md).
 -   Once at Power 10 or with an [Oath](Oaths.md), if entering The Depths by your own accord, you can speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at Castle Light and descend to the [Eternal Gale](Second_Layer.md). (You must enter through a whirlpool or while being a [Deepbound](Deepbound.md), otherwise you won't get past the life barrier.)
 -   Each time you Power-up, your [Health State](Status_Effects.md#health-state) is reset to **[Healthy](Status_Effects.md#healthy)** from **[Injured](Status_Effects.md#injured)**. This does not work on the **[Drowned](Status_Effects.md#drowned)** Health State from being in The Depths, the **[Void](Status_Effects.md#void)** Health State from being in a [Voidzone](Voidzones.md), or the **[Cursed](Status_Effects.md#cursed)** Health State from using certain [Curse Enchantments](Enchantments.md#curses), but the healing gained on Power-up can still save you from certain death in a pinch.
 -   The number of times you have been sent to the depths increases a counter named Times Drowned in the summary which adds up the number of Drowns to your Power when calculating which [trial](Cathedral_of_the_Interstice.md#difficulty-calculation) you must face.[\[1\]](#cite-note-1)

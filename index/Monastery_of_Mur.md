@@ -1,27 +1,30 @@
 ---
-title: Lightkeeper Temple
-revid: 213394
-source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
+title: Monastery of Mur
+revid: 230439
+source: https://deepwoken.fandom.com/wiki/Monastery_of_Mur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
 ---
 
-# Lightkeeper Temple
+# Monastery of Mur
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-LocationL Lightkeeper Temple LocationR
+LocationL Monastery of Mur LocationR
 
-  
+Voidzone
+
+The remnants of a sacred site, discarded by the diminishment of Etrean territory, and the ruinous ravages of civil strife.
+
   
 
 ## Overview
 
-**Lightkeeper Temple** is a now abandoned temple that was once home to Lightkeepers. Once known as the [Temple of Mur](Temple_of_Mur.md).
+The **Monastery of Mur** is a now abandoned sacred site that was once controlled by [Etrea](Etrea.md). It was previously known as the [Temple of Mur](Temple_of_Mur.md).
 
-The temple's entrance is along the route taken to the [Widow's Hollow](<Widow's_Hollow.md>). One of the jail cells inside of the temple leads to the [Deep Thresher Nest](Deep_Thresher_Nest.md).
+The monastery's entrance is along the route taken to the [Widow's Hollow](<Widow's_Hollow.md>). One of the jail cells inside of the temple leads to the [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
 ## Contents
 
@@ -35,7 +38,8 @@ A map can be found [here](Maps.md#eastern-luminant).
 
 ## Trivia
 
--   Before completely changing into the [Temple of Mur](Temple_of_Mur.md), the Lightkeeper Temple was a much larger set of rooms and hallways littered with [Threshers](Thresher.md) and [King Threshers](King_Thresher.md).
+-   This area was once known as "Lightkeeper Temple" before being named the Monastery of Mur. This was due to it being discarded lore since the release of [Vow of Iron](Vow_of_Iron.md).
+-   Before taking on the design of the [Temple of Mur](Temple_of_Mur.md), the Monastery of Mur was a much larger set of rooms and hallways littered with [Threshers](Thresher.md) and [King Threshers](King_Thresher.md).
     
     -   The player was able to wash their face from the fountain inside of the room with the obelisk, allowing access to [The Lordsgrove](The_Lordsgrove.md) and the ability to use the [Fountain Gates](Fountain_Gates.md) anywhere within Lumen.
     -   An abundance of extra rooms and [Thresher Eggs](Thresher_Egg.md) was present throughout the temple, with even a large prison located in the bottom.

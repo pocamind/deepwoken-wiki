@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 213924
+revid: 230444
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Dungeons]
@@ -20,7 +20,7 @@ COME ONE, COME ALL! A BRUTAL SERIES OF TRIALS HOSTED BY AELITA AND TILLIAN AWAIT
 
 ## Description
 
-The Carnival of Hearts is a [World Event](World_Events.md) focused around several minigames created by [Aelita](Aelita.md) and [Tillian](Tillian.md). You can get to the arena for Carnival of Hearts by talking to Aelita or Tillian in several locations around the map, or a notification giving you the option to enter the Carnival or dismiss the message(the notification will appear only 4 times(at XX:00, XX:02, XX:04 and XX:06 accordingly)).
+The Carnival of Hearts is a [World Event](World_Events.md) focused around several minigames created by [Aelita](Aelita.md) and [Tillian](Tillian.md). To enter the carnival, you must select the notification pop-up giving you the option to enter the Carnival or dismiss the message (the notification will appear only 4 times(at XX:00, XX:02, XX:04 and XX:06 accordingly).
 
 If you win the minigame, then you _must_ loot quickly, as you will be kicked out of the Carnival in about 10 seconds, and you can't go back.
 
@@ -56,7 +56,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 ## Rewards
 
-Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot.
+Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot. Additionally, all players that complete the event will meet one of the requirements of unlocking [Visionshaper](Oath%253A_Visionshaper.md).
 
 ### 
 
@@ -126,7 +126,7 @@ Exhaustive Loot Table
 
 -   Before a shadow update on March 20th, 2025, this event was extremely buggy, where in most cases the minigames would not start and players would be kicked from the server, the suspected reasoning behind it was a short timer where those who joined were counted for the minigames, and therefore resulted in players who connected too late not being considered, often only having a single 'valid player' or none at all for it to begin.
     -   In the rare case the minigames did start, [Aelita](Aelita.md) and [Tillian](Tillian.md) would only shoot one beam during **Beam Blitz** and **Hot Pomato** give everyone a bomb and kill all players, meaning eliminating every other player during **Bomb Battle** was the only way to get exclusive Carnival rewards.
--   There was a bug on release where players could use their weapons and mantras during the minigames, and kill all the other players. This bug has been fixed.
+-   There was a bug on release where players could use their weapons and mantras during the minigames, and kill all the other players.
 -   Players can use the [Dimensional Travel](Dimensional_Travel.md) resonance during the event to go on top of the tent and avoid all challenges.
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.
 -   If killed by Aelita, she will use the “A Fearsome Enemy” tag.

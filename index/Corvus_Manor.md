@@ -1,6 +1,6 @@
 ---
 title: Corvus Manor
-revid: 174963
+revid: 230409
 source: https://deepwoken.fandom.com/wiki/Corvus_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Stub pages without reason, StubPages, Locations]
@@ -18,9 +18,13 @@ LocationL Corvus Manor LocationR
 
 ## Description
 
-**The Corvus Manor** sub-location on [Isle of the Crows](Isle_of_the_Crows.md) with a lot of [Authority Enemies](<Authority_Enemy_(Test).md>) in it. The sub-location itself is a big mansion, much alike [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).[\[1\]](#cite-note-direct-1)
+**Corvus Manor** was sub-location on [Isle of the Crows](Isle_of_the_Crows.md) with a lot of [Authority Enemies](<Authority_Enemy_(Test).md>) in it. The sub-location itself is a big mansion, much alike [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).[\[1\]](#cite-note-direct-1)
 
 After all of the [Authority Enemies](<Authority_Enemy_(Test).md>) are killed an [Authority Captain](<Authority_Captain_(Test).md>) spawns on the outside.[\[1\]](#cite-note-direct-1)
+
+## Trivia
+
+-   It is believed that this area was reintroduced as [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).
 
 ## References
 

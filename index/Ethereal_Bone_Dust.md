@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 225911
+revid: 230453
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | This doesn't feel safe to hold... |
-| obtainment | Scion of Ethiron (Chest) |
+| obtainment | Scion of Ethiron (Chest), Sold in Traan Zakshun's black market for 12 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

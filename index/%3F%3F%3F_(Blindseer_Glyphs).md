@@ -1,6 +1,6 @@
 ---
 title: ??? (Blindseer Glyphs)
-revid: 229754
+revid: 230436
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Blindseer_Glyphs)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -10,7 +10,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the East
 
 | ??? (Blindseer Glyphs) | |
 |---|---|
-| location | Lightkeeper Temple, Summer Isle, The Temple of the Forgotten Flame |
+| location | Monastery of Mur, Summer Isle, The Temple of the Forgotten Flame |
 
 ## Description
 
@@ -20,7 +20,7 @@ The Blindseer Glyphs are luminescent messages that are only revealed once the pl
 
 The Blindseer Glyphs are located separately throughout the Etrean and Eastern Luminant, their locations are:
 
--   [Lightkeeper Temple](Lightkeeper_Temple.md), in the large room with the [King Thresher](King_Thresher.md).
+-   [Monastery of Mur](Monastery_of_Mur.md), in one of the prison cells.
 -   [Summer Isle](Summer_Isle.md), at the old shrine behind the [Inn](Inn.md).
 -   [The Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md), on the path behind to the cliff.
 
@@ -46,7 +46,7 @@ This dialogue appears on all the glyphs if the player does not meet the requirem
 
 **Unlockable Dialogues:**
 
-**Lightkeeper Temple:**
+**Monastery of Mur:**
 
 This dialogue is unlocked once the player has obtained Blindseer.
 
@@ -159,4 +159,4 @@ These dialogues are unlocked once the player has met the requirements for Blinds
 
 ## Trivia
 
--   The Blindseer Glyph at The Temple of the Forgotten Flame is visually different from the glyphs at Summer Isle and Lightkeeper Temple.
+-   The Blindseer Glyph at The Temple of the Forgotten Flame is visually different from the glyphs at Summer Isle and Monastery of Mur.

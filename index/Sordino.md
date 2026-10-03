@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 224953
+revid: 230433
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -24,7 +24,7 @@ Sordino is an NPC that sells the players a rideable thresher mount that let play
 
 ## Location
 
-Sordino is located in [Starswept Valley](The_Starswept_Valley.md) infront of the huge wall of rocks that leads to the [Widow's Hollow](<Widow's_Hollow.md>) and [Lightkeeper Temple](Lightkeeper_Temple.md). Standing beside him is one of the tamed threshers.
+Sordino is located in [Starswept Valley](The_Starswept_Valley.md) infront of the huge wall of rocks that leads to the [Widow's Hollow](<Widow's_Hollow.md>) and [Monastery of Mur](Monastery_of_Mur.md). Standing beside him is one of the tamed threshers.
 
 ## Quest Details
 
@@ -32,7 +32,7 @@ Sordino is located in [Starswept Valley](The_Starswept_Valley.md) infront of the
 
 Completing Sordino's quest rewards you with the ability to buy a Thresher [mount](Mounts.md) for 3 Crowns, also gives you little EXP
 
-The quest requires you to go to the [Lightkeeper Temple](Lightkeeper_Temple.md)/[Deep Thresher Nest](Deep_Thresher_Nest.md) and collect three [Thresher Eggs](Thresher_Egg.md) before returning them to him, after which the Thresher [mount](Mounts.md) will become purchasable for [Crowns](Crowns.md). You only need to do this quest once to unlock the shop across all slots.
+The quest requires you to go to the [Monastery of Mur](Monastery_of_Mur.md)/[Deep Thresher Nest](Deep_Thresher_Nest.md) and collect three [Thresher Eggs](Thresher_Egg.md) before returning them to him, after which the Thresher [mount](Mounts.md) will become purchasable for [Crowns](Crowns.md). You only need to do this quest once to unlock the shop across all slots.
 
 ## Shop
 

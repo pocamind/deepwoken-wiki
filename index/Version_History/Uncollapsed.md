@@ -153,7 +153,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🩹 Fixed Titus reserving his throw to execute  
 🩹 Fixed Wind Blade vfx spam
 
-### _**Patch 3.2.21a; pv\_OCT\_02\_XX:XXa**_
+### _**Patch 3.2.21a; pv\_OCT\_01\_22:00a**_
 
 **Backpack Improvements**  
 💡 Added backpack subcategories that split larger categories like Equipment, Weapons, Abilities, etc. into smaller categories like Equipment Slots, Weapon Classes, Ability Types, etc.  

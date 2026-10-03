@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 229226
+revid: 230445
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 
 -   Meet the following requirements:
     -   50 [Charisma](Attributes.md#cha)
-    -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 6 [Blizzard Knights](Stone_Knight.md) will spawn instead.)
+    -   Complete [Aelita](Aelita.md)'s encounter, found in [The Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter at least once. OR complete the [Carnival of Hearts](Carnival_of_Hearts.md) event by surviving through all of the minigames.
     -   Have a [Dark Feather](Dark_Feather.md) in your possession
 -   Find Surge, located inside the [Deep Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
     
@@ -51,7 +51,7 @@ _Visionshaper **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oa
 
 ## Progression
 
-To progress Visionshaper, [Void Feathers](Dark_Feather.md#void-feather) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 4 Void Feathers are needed to completely progress the Oath, taking 13 Dark Feathers to if only crafting Void Feathers. Or complete the [Carnival of Hearts](Carnival_of_Hearts.md).
+To progress Visionshaper, [Void Feathers](Dark_Feather.md#void-feather) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 4 Void Feathers are needed to completely progress the Oath, taking 13 Dark Feathers to if only crafting Void Feathers.
 
 -   Void Feathers can be crafted using 3 [Dark Feathers](Dark_Feather.md) and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop Void Feathers.
 -   Alternatively you may spend 10 to immediately max out the Oath (Only if you logged in on a slot with maxed out Visionshaper after the April 26th, 2024 update).

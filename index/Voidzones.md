@@ -56,7 +56,7 @@ While inside a Voidzone:
 
 **Rewards:** [Miasmic and Zephyr Lotuses](Ingredients.md#lotuses), Songseeker loot pool
 
-### [Lightkeeper Temple](Lightkeeper_Temple.md)
+### [Lightkeeper Temple](Monastery_of_Mur.md)
 
 “ Heavy is the burden of the Lightkeeper, for the whole world rests on their shoulders. ”
 
@@ -139,7 +139,7 @@ While inside a Voidzone:
 
 ― Moment before disaster
 
-**Location:** [Lightkeeper Temple](Lightkeeper_Temple.md) (Connected via Jail Room), East Luminant. Alternatively, the opposite side of Lightkeeper Temple's entrance.
+**Location:** [Lightkeeper Temple](Monastery_of_Mur.md) (Connected via Jail Room), East Luminant. Alternatively, the opposite side of Lightkeeper Temple's entrance.
 
 **Dangers:** [King Thresher](King_Thresher.md), [Thresher](Thresher.md)
 

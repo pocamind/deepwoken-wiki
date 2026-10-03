@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 227339
+revid: 230430
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,7 +47,7 @@ Blindseer will only progress if you are faced with a trial. If both the Blindsee
 
 Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
-The hints toward how to progress this Oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the prison room._
+The hints toward how to progress this Oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Monastery of Mur](Monastery_of_Mur.md) _\- in the prison room._
 
 ## Effects
 
@@ -285,7 +285,7 @@ N/A
 ## Trivia
 
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
-    -   The glyph on the wall also can be found in one of the prison cells in the [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
+    -   The glyph on the wall also can be found in one of the prison cells in the [Monastery of Mur](Monastery_of_Mur.md), the glyph also stating about how to progress the Blindseer Oath.
     -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have blue three dimensional markings on the outside of their mask, with an eye-like shape formed at the top. However, they used to be seen with a gold and black mask similiar to the mask on the statue in [The Lordsgrove](The_Lordsgrove.md).
 -   If you do not have the [Blind](Boons_and_Flaws.md#flaws) Flaw and you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.

@@ -1,6 +1,6 @@
 ---
 title: Thresher Egg
-revid: 229959
+revid: 230434
 source: https://deepwoken.fandom.com/wiki/Thresher_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -25,7 +25,7 @@ categories: [Items, Ingredients, Harvestables]
 
 ## Description
 
-**Thresher Egg** is a [Food](Food.md) item. It is also obtained from [Deep Thresher Nest](Deep_Thresher_Nest.md) and [Lightkeeper Temple](Lightkeeper_Temple.md) in small nests.
+**Thresher Egg** is a [Food](Food.md) item. It is also obtained from [Deep Thresher Nest](Deep_Thresher_Nest.md) and [Monastery of Mur](Monastery_of_Mur.md) in small nests.
 
 It is a type of **Generic** food.
 

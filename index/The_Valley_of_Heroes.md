@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 213390
+revid: 230422
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]

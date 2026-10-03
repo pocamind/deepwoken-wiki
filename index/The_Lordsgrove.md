@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 213444
+revid: 230414
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Hive, Lawless Territory]
@@ -20,7 +20,7 @@ Generations of Hivelords stand watch over the lush passage, a stark contrast to 
 
 ## Overview
 
-The Lordsgrove is a jungle-like passage that is accessed through [Starswept Valley](The_Starswept_Valley.md) behind a massive gate. To open this gate, you must wash your face in the [Lightkeeper Temple](Lightkeeper_Temple.md).
+The Lordsgrove is a jungle-like passage that is accessed through the massive gate in the center of [The Starswept Valley](The_Starswept_Valley.md). To open this gate, you must wash your face using the fountain located along the east outskirts of the valley.
 
 The Lordsgrove contains a fountain that will transport you to [Greathive Aratel](Greathive_Aratel.md). It also includes Zirik, an NPC who can alter your reputation with The Hive.
 

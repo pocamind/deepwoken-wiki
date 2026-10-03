@@ -2883,6 +2883,9 @@
   "Light Weapons": {
     "to": "Category:Light Weapons"
   },
+  "Lightkeeper Temple": {
+    "to": "Monastery of Mur"
+  },
   "Lightning Assault": {
     "to": "Thundercall",
     "fragment": "Lightning Assault"
@@ -3729,9 +3732,6 @@
   },
   "Providence Thorns": {
     "to": "Providence's Thorns"
-  },
-  "Psia": {
-    "to": "Cut Content"
   },
   "Pumpskipper": {
     "to": "Gourdskipper"

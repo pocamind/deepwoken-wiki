@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 230355
+revid: 230417
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -20,7 +20,7 @@ The **Widow's Hollow** is a location in _Deepwoken_. It is a landmark of the [St
 
 ## Overview
 
-The Widow's hollow is a large cave with its entrance found near the top of the giant mountain in the [Starswept Valley](The_Starswept_Valley.md). It consists of two "floors" eventually opening into a large chamber where the [Deep Widow](Deep_Widow.md) resides as well as an exit which leads to the [Lightkeeper Temple](Lightkeeper_Temple.md).
+The Widow's hollow is a large cave with its entrance found near the top of the giant mountain in the [Starswept Valley](The_Starswept_Valley.md). It consists of two "floors" eventually opening into a large chamber where the [Deep Widow](Deep_Widow.md) resides as well as an exit which leads to the [Monastery of Mur](Monastery_of_Mur.md).
 
 ## Contents
 
@@ -36,4 +36,4 @@ The Widow's hollow is a large cave with its entrance found near the top of the g
 ## Trivia
 
 -   Legion Snipers have a small chance to spawn here.
--   While not being present through normal gameplay, clipping outside of the Lightkeeper Temple brings up the location marker for Widow's Hollow, and is established as a [voidzone](Voidzones.md).
+-   While not being present through normal gameplay, clipping outside of the Monastery of Mur brings up the location marker for Widow's Hollow, and is established as a [voidzone](Voidzones.md).

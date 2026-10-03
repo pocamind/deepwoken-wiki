@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 226646
+revid: 230431
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -54,8 +54,6 @@ The cauldron in the [Voidheart](Voidheart.md) is located near the [Antiquarian](
 **Fort Merit:** The cauldron at [Fort Merit](Fort_Merit.md) can be found in the house in front of [Captain Trist](Captain_Trist.md).
 
 **Greathive Aratel:** The cauldron at [Greathive Aratel](Greathive_Aratel.md) is located in the Archives room of Root Plaza, next to [Regek](Attunement_Trainers.md).
-
-**Lightkeeper Temple:** The cauldron at the [Lightkeeper Temple](Lightkeeper_Temple.md) can be found in the second room on the left when entering the King Thresher's room.
 
 **Boatman's Watch:** The cauldron at [Boatman's Watch](<Boatman's_Watch.md>) is located in the hidden library, behind a thin wall in a derelict tower. 
 

@@ -1,12 +1,16 @@
 ---
 title: Temple of Mur
-revid: 228336
+revid: 230387
 source: https://deepwoken.fandom.com/wiki/Temple_of_Mur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations in the Eastern Luminant, Locations]
+categories: [Vow of Iron Exclusive, Locations in the Eastern Luminant, Locations]
 ---
 
 # Temple of Mur
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Temple of Mur LocationR
 
