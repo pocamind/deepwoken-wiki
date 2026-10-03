@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230468
+revid: 230489
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3751,7 +3751,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[Medium Weapon\] \[Rifle\] \[Tool\]
 
-### Meditative Trance
+## Temporary
 
 -   _Impervious Slumber_ \[Rare Talent, Fortitude\] - Getting hit while **[Unconscious](Status_Effects.md#unconscious)** no longer resets your time **[Unconscious](Status_Effects.md#unconscious)**.
     -   Prerequisite: 35 Fortitude

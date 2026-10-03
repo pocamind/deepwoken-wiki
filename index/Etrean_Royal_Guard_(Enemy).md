@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 225037
+revid: 230488
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Etrea Enemies]
@@ -19,7 +19,7 @@ _Not to be confused with the [Etrean Royal Guard NPC](<Etrean_Royal_Guard_(NPC).
 
 ## Description
 
-An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Attacking them or going near them without high enough reputation brings you the same fate as attacking any other faction guards. They'll appear when you grip two Etrean guards, (or during the Cinders of Etris event) even if you have positive reputation. They have a much higher required reputation level for peaceful interaction than normal [Etrean Guards](Etrean_Guardsmen.md), requiring higher than Ally reputation for them to become passive.
+An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Being in their eye of sight brings you the same fate as attacking any other faction guards. They'll appear when you grip two Etrean guards, (or during the Cinders of Etris event) even if you have positive reputation.
 
 An Etrean Royal Guard wears a [Blackleaf Helm](Blackleaf_Helm.md) and a darkened version of the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit. They are all [Etrean](Etrean.md).
 
@@ -106,8 +106,7 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
     -   Alternatively, just don't go near Lord Regent's palace. However, if you must visit (to use the Hive fountain teleporter) you can easily run past them anyways.
 -   Their katanas are almost always enchanted.
 
--   If the [Cinders of Etris](Cinders_of_Etris.md) event is happening, They spawn along Etris and will aggro if you do not meet the reputation threshold.
-    -   If they attack you, You can try to lure them to a [Authority](The_Central_Authority.md) enemy to try to get them to deaggro on you.
+-   If the [Cinders of Etris](Cinders_of_Etris.md) event is happening, They spawn along Etris and will aggro on you.
 
 ## Dialogue
 

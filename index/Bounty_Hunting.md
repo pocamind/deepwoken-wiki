@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 229851
+revid: 230485
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -42,13 +42,16 @@ When a bounty is taken, at the top left corner of your screen it will say the na
 
 The details of the Bounty.
 
-When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot depending on how many stars the person you hunted has, as well as some EXP. The person who got killed will have their reputation pushed towards their default value, usually neutrality.
+When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot depending on how many stars the person you hunted has, as well as some EXP and reputation toward the faction from which the bounty comes from. The person who got killed will have their reputation pushed towards their default value, usually neutrality.
 
 If you are being hunted instead and manage to kill off your hunter, YOU will get a chest filled with loot.
 
 ## Tips and Advice
 
--   By having neutral or above [reputation](Reputation.md) with The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Hive [Hiveiconfaction](The_Hive.md), the Ignition Union, The Divers [Diversiconfaction](The_Divers.md), and The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md), you will entirely remove yourself from bounty boards. _**If you're looking to get rid of [Voidwalkers](Voidwalker.md), this is the way.**_
+-   To appear on bounty boards, a player must have low enough [reputation](Reputation.md) (somewhere between **Enemy** and **Hated/Hunted**. Estimated to be -50) along with the minimum 20 points.
+-   The following factions have bounty boards: The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Summer Company [Summericonfaction](The_Summer_Company.md), The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Hive [Hiveiconfaction](The_Hive.md), the Ignition Union, and The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)
+-   Specifically for the The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md) and thus [Voidwalkers](Voidwalker.md), their bounty board receive a copy of other bounties from the following boards: The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Hive [Hiveiconfaction](The_Hive.md), the Ignition Union and The Divers [Diversiconfaction](The_Divers.md) (despite them not having an actual bounty board). These copied bounties are under the name of The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md) and completing them grant reputation toward them.
+    -   By achieving enough reputation with each of these factions, a player can make themself immune to [Voidwalker](Voidwalker.md) invasions. It does not however prevent them (or anyone else for that matter) to still attack them in the wild.
 -   If you are getting voidwalked and wish to avoid the fight, if you haven't been combat tagged you could try to glide away if you are high up, or just log, but if they combat tag you, FIGHT BACK, NEVER RUN as running only exposes yourself and they can catch up relatively easy
 -   Taking as many bounties as possible is recommended as it gives you easy access to where people in your server are; especially useful if others plan on hunting you.
 -   If hunting as a team, make sure the bounty holder contributes enough damage and performs a **MANUAL** execution or uses [Blood Scourge](Blood_Scourge.md) on the target for the bounty to be counted as complete.

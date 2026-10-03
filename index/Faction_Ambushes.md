@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 219960
+revid: 230487
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Reputation, Mechanics]
@@ -13,6 +13,8 @@ categories: [Factions, Reputation, Mechanics]
 Faction Ambushes are a [Random Encounter](Random_Encounters.md) that involves a squad of several faction-affiliated [Enemies](Enemies.md) being sent to kill a player that has sufficiently negative [Reputation](Reputation.md) with their respective faction. The encounter can occur nearly anywhere in Lumen, and will only happen to players who have Hunted reputation or lower with at least one faction. Unlike other random encounters, killing the enemies sent after the player will incur a reputation penalty and therefore lead to an even lower reputation with the respective faction. In exchange, defeating all the enemies will reward a decent-sized [Chest](Chests_&_Sacks.md) filled with items pertaining to that faction.
 
 The enemies sent differ depending on the extent of the player's negative reputation, with lower ranks resulting in more lethal ambushes. Below is a list of possible ambushes.
+
+Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit faction will still attempt to ambush the player regardless.
 
 | Faction | Enemy(s) | Dialogue | Loot Pool |
 | --- | --- | --- | --- |

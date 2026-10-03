@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 230367
+revid: 230483
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -34,7 +34,9 @@ This page is about content that has either been removed or changed drastically i
 -   **[Deepshore Fossil](Deepshore_Fossil.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
 -   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
 -   **[Kiternon](Kiternon.md) -** A Felinor NPC that was once at Fort Merit, alongside [Kana](Kana.md) and [Gartoth](Gartoth.md). He used to have an unfinished quest where he asked for you to bring 'Someone stronger than you' to him.
--   **[Gartoth](Gartoth.md) -** A Canor NPC that was once at Fort Merit. He used to to have dialogue that spoke about his hunger, it is unclear whether or not this was a quest, however he was removed shortly before [Chef Odiolavoro](Chef_Odiolavoro.md) was added.
+-   **[Gartoth](Gartoth.md) -** A Canor NPC that was once at Fort Merit. He used to to have dialogue that spoke about his hunger.
+-   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
+    
 
 ## Player
 
@@ -85,25 +87,22 @@ This page is about content that has either been removed or changed drastically i
 -   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation. Certain Talents still had remnants of the Core system, such as Static Ace calling Lightning Stream "Stream Core."
     -   Removed due to being too grindy.
 -   **Mantra Creation** - Mantras used to be created via ingredients found as loot. This was eventually replaced with gaining Mantras in your hands from levelling up.
--   **Falseflame / ? / ? Stones** - Were used for old Visionshaper, causing illusory effects. Were still in the Gigamed drop table until an unknown update.
+-   **Old Mantra Sparks** - Were used for the old Mantra system, causing a variety of effects. Some, such as the Falseflame spark, were still in the Gigamed drop table until an unknown update.
 -   **Ice Bolt** - User jumps into the air, claps their hands and launches a bolt towards their cursor that scatters ice sheets on the ground.
+-   **Ice Mirror** - A spark that could only be applied to Ice Bolt. Once applied, if the user had ice surfaces in the vicinity while casting Ice Bolt, each ice surface would cast an additional bolt of ice.
+    -   Was removed alongside the Mantra for being ridiculously powerful.
 -   **Fire Pillars (OLD Fire Eruption)** - An undocumented move that was replaced shortly after the game released, being reworked on December 27, 2021, just 7 days after release.
 -   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18, 2022.
 -   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19th, 2023
+-   **(OLD) Lightning Beam** (0 Star Thunder) - Launched an extremely long orange beam of lightning towards where the player was facing. Reworked into being an aimable short burst rather than a longer lasting long range beam.
+-   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Lectern](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
 
-## Sparks
+## Enemies
 
--   **Ice Mirror** - A spark that could only be applied to Ice Bolt. Once applied, if the user had ice surfaces in the vicinity while casting Ice Bolt, each ice surface would cast an additional bolt of ice.
-    -   Was removed alongside the Mantra for being ridiculously powerful.
-
-## Monsters
-
--   **[Crab](Crab.md)** - Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
-    -   However, they were brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
--   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update due to lore reasons, in which they had no real reason to exist. Their enemy spawns were replaced with [Nightmare Threshers](Nightmare_Thresher.md).
-    -   They seem to be have been replaced with [Sworn Angels](Sworn_Angel.md). They are functionally the same mob yet not at the same time, with better implications in lore — similar to what happened with the Zombie Pigmen in Minecraft.
-
-**Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
+-   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update due to lore reasons, in which they had no real reason to exist.
+-   **Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
+-   **Pyromancers -** Humans dressed in the same outfit as the [Redskippers](Necroskipper.md) but dyed orange, they spoke of the drowned god 'Korilfiend' and resided in the forests of old Etrea.
+-   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[2\]](#cite-note-2)
 
 ## Talents
 
@@ -573,13 +572,12 @@ Charisma
 ## Other
 
 -   **[Meteor Isle](Meteor_Isle.md) Meteor Event -** An event that would send a large blue meteor similar to the ones of the [Stone Knight](Stone_Knight.md) event crashing down onto the isle. It would spawn a few [Mudskipper Knights](Mudskipper_Knight.md) and link the player to the meteor with a blue chain. This event was shelved due to it being poorly optimized and an overall nuisance.
--   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Lectern](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
 -   **Lockers -** These were pseudo [campfires](Campfire_Pit.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
     
     One of the brains found in the Ancient Rotlands
     
-    -   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within the radius of their pulse, which was activated by looking directly at it. Running out of sanity while near one would cause the player's head to explode. Their removal was never mentioned in update logs, causing players to believe it was a bug, as the long chains suspending the brains persisted and only the brain was missing. It was later confirmed that they were intentionally removed due to their nonsensical placement and function lorewise[\[2\]](#cite-note-2).
+    -   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within the radius of their pulse, which was activated by looking directly at it. Running out of sanity while near one would cause the player's head to explode. Their removal was never mentioned in update logs, causing players to believe it was a bug, as the long chains suspending the brains persisted and only the brain was missing. It was later confirmed that they were intentionally removed due to their nonsensical placement and function lorewise[\[3\]](#cite-note-3).
 -   **[The Captain](<Cap'n_Orlandeau.md>) -**
     
     The Captain
@@ -587,15 +585,15 @@ Charisma
     -   This version of [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) could be found in the [Fragments of Self](Fragments_of_Self.md) for [Castaway](Castaway.md) players, allowing them to enter the [Tutorial](Tutorial.md) on their next life. This NPC was removed on the [April 2nd, 2026](Version_History/2026.md#april-2nd-2026) update, when they moved the Tutorial access to the Main Menu instead.
     -   Additionally, because the Tutorial could only be accessed on temporary characters, Tutorial-specific dialogue with [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in the [Second Layer](Second_Layer.md) and [Kelsius](Kelsius.md) was also made unobtainable for characters made after this update.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
--   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
+-   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, an NPC named Buzz at the Diver Camp and [Mark Adaset](Mark_Adaset.md) used to mention this mechanic in their dialogue post-release.
+    -   This was later repurposed for Vow of Iron, with the [Chest Master](Chest_Master.md) NPCs.
 -   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis and Central Authority were later added as well. Known inaccessible Lore guilds include The Hive.
 -   **Original Guild Housing -** A cut feature that allowed guilds to have bases on set plots on islands.
     -   Added in the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
 -   **Officer's Note -** An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
 -   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 pieces of cloth and would let the player carry chests by stuffing them inside. This was used in conjunction with the Locked Chest system.
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
--   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[3\]](#cite-note-3)
--   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[4\]](#cite-note-4)
+-   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[4\]](#cite-note-4)
 -   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under [The Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [The Summer Company](The_Summer_Company.md)'s castle).
 -   **Shrine of Dominion/Domination -** Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
     -   [Psia](Psia.md) was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
@@ -604,8 +602,6 @@ Charisma
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
 -   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the [September 15th, 2025](Version_History/2025.md#september-15th-2025) update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
 -   **[Sea Highways](Sea_Highway.md) -** Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
--   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
-    
 -   **[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
 -   **[Repair Hammer](Repair_Hammer.md) -** Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
 
@@ -790,6 +786,6 @@ Any
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2)
-3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
-4.  [↑](#cite-ref-4)
+3.  [↑](#cite-ref-3)
+4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
 5.  [↑](#cite-ref-5) [February 16, 2026](Version_History/2026.md#february-16-2026) patchnotes
