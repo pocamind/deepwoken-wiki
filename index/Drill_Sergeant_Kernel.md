@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 224741
+revid: 230491
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -55,7 +55,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
   <font>[Player Salutes]</font></td>
 </tr>
 <tr>
-  <td><i>*You salute the man with gusto.*</i> I am not <b>SIR</b>! I <b>WORK</b> for a living! I am <b>DRILL SERGEANT CORNELIUS KENERL SENIOR</b>! To you, I'm <b>SARGE</b> or <b>SERGEANT</b>! Furthermore, say your name and rank with your CHEST, soldier! You're now an ENSIGN in the CENTRAL AUTHORITY MILITARY! I bet your family's REAL DAMN PROUD!! Now, I will give you a RUN DOWN of the way things <b>WORK</b> here! Until you are assigned to a DIVISION, you will be in <i>MY</i> world! Have I MADE MYSELF CLEAR, soldier?</td>
+  <td><i>*You salute the man with gusto.*</i> I am not <b>SIR</b>! I <b>WORK</b> for a living! I am <b>DRILL SERGEANT CORNELIUS KERNEL SENIOR</b>! To you, I'm <b>SARGE</b> or <b>SERGEANT</b>! Furthermore, say your name and rank with your CHEST, soldier! You're now an ENSIGN in the CENTRAL AUTHORITY MILITARY! I bet your family's REAL DAMN PROUD!! Now, I will give you a RUN DOWN of the way things <b>WORK</b> here! Until you are assigned to a DIVISION, you will be in <i>MY</i> world! Have I MADE MYSELF CLEAR, soldier?</td>
 </tr>
 <tr>
   <td>YES, SARGE!</td>

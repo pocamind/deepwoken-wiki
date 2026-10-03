@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230489
+revid: 230490
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3751,61 +3751,90 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[Medium Weapon\] \[Rifle\] \[Tool\]
 
-## Temporary
+### Meditative Trance
 
--   _Impervious Slumber_ \[Rare Talent, Fortitude\] - Getting hit while **[Unconscious](Status_Effects.md#unconscious)** no longer resets your time **[Unconscious](Status_Effects.md#unconscious)**.
-    -   Prerequisite: 35 Fortitude
+-   **Impervious Slumber** \[Rare Talent\] - Getting hit while **[Unconscious](Status_Effects.md#unconscious)** no longer resets your time **[Unconscious](Status_Effects.md#unconscious)**.
+    
+    -   Prerequisites: 35 Fortitude  
+        
+    -   Tags: \[Fortitude\]
 
 ### Mental Fortress
 
--   Breathing Exercise \[Common Talent, Willpower\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
-    -   Your passive sanity regen is increased by 50%
+-   **Breathing Exercise** \[Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
+    -   Your passive sanity regen is increased by 50%.
         -   You do not regen sanity when something is actively draining it, like being in [The Depths](The_Depths.md).
-    -   Increases passive sanity regeneration from 0.25/s -> 0.375/s during the day, 0.05/s -> 0.075/s during the night, and 0.5/s -> 0.75/s when resting at a [Campfire](Campfire_Pit.md).
-    -   Prerequisite: 5 Willpower
-    -   The [Celtor Commander Plate](Celtor_Commander_Plate.md) and [Pathfinder Lantern](Pathfinder_Lantern.md) equipment have this Talent.
+    -   Increases passive sanity regeneration from 0.25/s -> 0.375/s during the day, 0.05/s -> 0.075/s during the night, and 0.5/s -> 0.75/s when resting at a [Campfire](Campfire_Pit.md).  
+        
+    -   Prerequisites: 5 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Celtor Commander Plate](Celtor_Commander_Plate.md) and [Pathfinder Lantern](Pathfinder_Lantern.md)  
+        
+    -   Tags: \[Willpower\] \[+Health\] \[Sanity\]
 
--   Conquer your Fears \[Common Talent, Willpower\] - Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity. (+3 Sanity)
+-   **Conquer your Fears** \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity. (+3 Sanity)
     -   Recover sanity when killing monsters in The Depths, the amount depending on how strong the monster is.
-    -   You regain Sanity when Allies grip a humanoid near you (either a player or a mob).
-    -   Prerequisites: 10 Willpower, Breathing Exercise
-    -   The [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Enforcer Boots](Enforcer_Boots.md) equipment have this Talent.
+    -   You regain Sanity when Allies execute a humanoid near you (either a player or a mob).  
+        
+    -   Prerequisites: [Breathing Exercise](#breathing-exercise), 10 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Enforcer Boots](Enforcer_Boots.md)  
+        
+    -   Tags: \[Willpower\] \[+Sanity\] \[Sanity\]
 
--   Disbelief \[Common Talent, Willpower\] - Reduces the duration of illusions cast on you by 30%. Halves the duration of the **[Charmed](Status_Effects.md#charm)** status on you. (+5 Sanity)
+-   **Disbelief** \[Common Talent\] - Reduces the duration of illusions cast on you by 30%. Halves the duration of the **[Charmed](Status_Effects.md#charm)** status on you. (+5 Sanity)
     -   [Visionshaper](Oath%253A_Visionshaper.md) clones that are targeting you have their duration reduced by 30%.
-    -   Halves the duration of the Charmed status effect.
-        -   Tough Love: 2s -> 1s
-        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
-        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
+    -   Halves the duration of the [Charmed](Status_Effects.md#charmed) status effect.
+        -   [Tough Love](#tough-love): 2s -> 1s
+        -   [Overcharm](Status_Effects.md#overcharm)'s Basic Attacks and [Kyrsieger](Kyrsieger.md)'s critical attack: 5s -> 2.5s
+        -   [Unnecessary Theatrics](#unnecessary-theatrics) (at requirements): 7s -> 3.5s
         -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
-        -   Overcharm's self-charm proc: 8s -> 4s
-        -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
-        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
-        -   Lasting Charisma (at reqs): 20s -> 10s
-    -   Prerequisite: 25 Willpower
-    -   The [Dark Owl Cloak](Dark_Owl_Cloak.md) equipment has this Talent.
+        -   [Overcharm](Status_Effects.md#overcharm)'s self-charm proc: 8s -> 4s
+        -   [Charismatic Cast](#charismatic-cast), [Allure](Allure.md): 10s -> 5s
+        -   [Chaotic Charm](#chaotic-charm), [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   [Lasting Charisma](#lasting-charisma) (at requirements): 20s -> 10s  
+            
+    -   Prerequisites: 25 Willpower  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
+        
+    -   Tags: \[Willpower\] \[+Sanity\]
 
 ### Metallurgist
 
--   Intuitive Repairs \[Common Talent, Ironsing\] - Your 'Iron Skin' repairs armor while it's active.
-    -   Iron Skin also repairs natural armor from Chitin and Exoskeleton.
-    -   Prerequisites: [Iron Skin](Ironsing.md#iron-skin) (Mantra), 25 Ironsing
+-   **Intuitive Repairs** \[Common Talent\] - Your 'Iron Skin' repairs armor while it's active.
+    -   Iron Skin also repairs natural armor from [Chitin](#chitin) and [Exoskeleton](#exoskeleton).  
+        
+    -   Prerequisites: [Iron Skin](Ironsing.md#iron-skin) (Mantra), 25 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Armor Durability\]
 
--   Metal Absorption \[Common Talent, Ironsing\] - Your 'Iron Hug' also absorbs armor from the enemy.
-    -   Iron Hug will steal 10% of your opponent's current armor durability and siphon it back to yourself.
-    -   Prerequisites: [Iron Hug](Ironsing.md#iron-hug) (Mantra), 30 Ironsing
+-   **Metal Absorption** \[Common Talent\] - Your 'Iron Hug' also absorbs armor from the enemy.
+    -   Iron Hug will drain 10% of your opponent's current armor durability and siphon it back to yourself.  
+        
+    -   Prerequisites: [Iron Hug](Ironsing.md#iron-hug) (Mantra), 30 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Armor Durability\]
 
--   Metal Eater \[Common Talent, Ironsing\] - When you have no ether, consume Armor durability to cast your Ironsing mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Consumes 30% of your maximum armor on proc regardless of the Ether cost of the Mantra.
-    -   Prerequisite: 50 Ironsing
+-   **Metal Eater** \[Common Talent\] - When you have no ether, consume Armor durability to cast your Ironsing mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   Consumes 30% of your maximum armor on proc regardless of the Ether cost of the Mantra.  
+        
+    -   Prerequisites: 50 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Armor Durability\]
 
--   Metal Thief \[Common Talent, Ironsing\] - Pulling an opponent absorbs a portion of their current Armor durability.
-    -   Steals 2% of your opponent's current armor durability per rod.
-    -   Prerequisite: 50 Ironsing
+-   **Metal Thief** \[Common Talent\] -
+    
+    -   Tags: \[Ironsing\] \[Armor Durability\]
+    -   Metal Thief \[Common Talent, Ironsing\] - Pulling an opponent absorbs a portion of their current Armor durability.
+        -   Steals 2% of your opponent's current armor durability per rod.-   Prerequisite: 50 Ironsing
 
--   Polished Armor \[Common Talent, Ironsing\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   The damage reduction of Polished Armor is increased by 0.05% per Ironsing investment, granting 8.75% damage reduction at requirements.
-    -   Prerequisite: 75 Ironsing
+-   **Polished Armor** \[Common Talent\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
+    -   The damage reduction of Polished Armor is increased by 0.05% per Ironsing investment, granting 8.75% damage reduction at requirements.  
+        
+    -   Prerequisites: 75 Ironsing  
+        
+    -   Tags: \[Ironsing\] \[Armor Durability\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
 ### Metamancer
 
@@ -3897,7 +3926,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The [Royal Pathfinder](Royal_Pathfinder.md) equipment has this Talent.
 
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture from downing enemies.
-    -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
+    -   Knocking enemies [Unconscious](Status_Effects.md#unconscious) will replenish 1.5x more of your health and posture (50% -> 75%).
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
@@ -3916,7 +3945,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   Ardour Scream \[Common Talent, Strength, Willpower\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (+9 Sanity).
+-   Ardour Scream \[Common Talent, Strength, Willpower\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (+9 Sanity)
     -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey (H).
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
