@@ -1,6 +1,6 @@
 ---
 title: Anansi
-revid: 209533
+revid: 230478
 source: https://deepwoken.fandom.com/wiki/Anansi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Aspects]
