@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 217961
+revid: 230543
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -33,7 +33,7 @@ This content is not accessible outside of this gamemode.
 
 **Ether Erudite** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You will spawn with the following items: 1 [Bloodless Gem](Bloodless_Gem.md), 1 [Blue Gem](Blue_Gem.md), 1 [Wayward Gem](Wayward_Gem.md), 1 [Wind Gem](Wind_Gem.md), and an [Ether Surge](Ether_Surge.md) Enchantment stone.
 
-All of the [Deep Gems](Deep_Gems.md) have static spawns or can otherwise be farmed in [the Depths](<The_Depths_(Vow_of_Iron).md>).
+All of the [Deep Gems](Deep_Gems.md) can be farmed in [the Depths](<The_Depths_(Vow_of_Iron).md>).
 
 ## Starting Abilities
 

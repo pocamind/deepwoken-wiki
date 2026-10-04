@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 221708
+revid: 230552
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -471,7 +471,7 @@ Alternatively, if you're using Corrupted Payback, you can get rid of most of the
 2 [Fury Nautilodaunts](Fury_Nautilodaunt.md)  
 1 [Corrupted](Monsters.md#scyphozia) [Mudskipper Broodlord](Mudskipper_Broodlord.md)
 
- | While the overwhelming amount of mobs can seem terrifying, it also gives you more opportunities to get healthpacks. Keep in mind that the Broodlord's antiheal is modified in Diluvian Mechanism, instead giving 100% antiheal to all sources except for downing mobs. By constantly healing from the Nautilodaunts, Kyrsgarde Snipers, Kyrsgarde Brutes, and Bounders, you will most likely defeat the Broodlord and then the Bonekeeper. However, if you are unable to get a healthpack in time, you can use the talent Conditioned Runner or stop Diluvian Mechanism early. Good luck. |
+ | While the overwhelming amount of mobs can seem terrifying, it also gives you more opportunities to get healthpacks. Keep in mind that the Broodlord's antiheal is modified in Diluvian Mechanism, instead giving 100% antiheal to all sources except for downing mobs. By constantly healing from the Nautilodaunts, Kyrsgarde Snipers, Kyrsgarde Brutes, and Bounders, you will most likely defeat the Broodlord and then the Bonekeeper. However, if you are unable to get a healthpack in time, or stop Diluvian Mechanism early. Good luck. |
 
 ## Trivia
 

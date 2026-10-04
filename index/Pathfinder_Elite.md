@@ -1,11 +1,9 @@
 ---
 title: Pathfinder Elite
-revid: 226436
+revid: 230541
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Equipment, Arms, Drops, Coats]
-notices:
-  - This page is currently being worked on. Image for Sage style includes broken texture.
+categories: [Equipment, Arms, Drops, Coats]
 ---
 
 # Pathfinder Elite
