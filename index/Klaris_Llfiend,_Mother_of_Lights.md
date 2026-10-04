@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 229679
+revid: 230540
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -371,45 +371,236 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td colspan="24">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Talked to Nimea</td>
   <td colspan="4">Having Dawnwalker</td>
   <td colspan="4">Maxing out Dawnwalker</td>
+  <td colspan="4">Talked to Carrion about the time loop</td>
+  <td colspan="4">Learned of Viqh then returned to Nimea</td>
+  <td colspan="4">Pick the "Chaser was somehow alive again" dialogue then Complete Floor 2 successfully</td>
 </tr>
 <tr>
   <td colspan="4">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
   <td colspan="4">What's the significance of the Moonseye over our heads?</td>
   <td colspan="4">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
+  <td colspan="4">Carrion implied the time loop only started after Chaser's betrayal.</td>
+  <td colspan="4">I heard that Lightkeepers are incapable of using the Song, but you said the Radiant Tones were a Verse of the Song?</td>
+  <td colspan="4">You saved me with your Light Hook. Any chance you can pull out some of the people trapped in the City?</td>
 </tr>
 <tr>
   <td colspan="4">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
   <td colspan="4"><a href="Glossary.md#lightkeep">Lightkeepers</a> are not the only ones that project Light. So too does the <a href="Glossary.md#the-moonseye">Moonseye</a> cast its Light upon both halves of <a href="Glossary.md#lumen">Lumen</a>. Just as its watchful gaze keeps what little of the world that remains whole, we bear its image in the hope that we can take back what was lost.</td>
   <td colspan="2">Requirements Met</td>
   <td colspan="2">Not Enough Knowledge</td>
+  <td colspan="4">Puzzling... What is Chaser doing when you find him on your visits, exactly?</td>
+  <td colspan="4"><i>*She smiles, seeming pleasantly surprised at your question.*</i> You're an observant one, after all. To be frank, I'd like to understand that myself. How is it that they are capable of producing a Light that dispells the Deep? It bears so much resemblance to the Song, and yet...</td>
+  <td colspan="4">If they're worth saving? Maybe. But it'll need to be worth my while. It's a pain in the neck.</td>
 </tr>
 <tr>
   <td colspan="4">...How is she?</td>
   <td colspan="4">The Moonseye projects Light? Why is that?</td>
   <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this <a href="Glossary.md#oaths">Oath</a> with you.</td>
   <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
+  <td colspan="2">Standing at the top of the tower that leads to the City.</td>
+  <td colspan="2">Brooding. Looking stupid.</td>
+  <td colspan="4">If not the Song, can they create Vows? What if that has something to do with it?</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"><i>*Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding.*</i> She is... preoccupied. <a href="Glossary.md#lightkeep">Lightkeepers</a> do not get a great deal of rest, and what time she had spare she often spent writing.</td>
   <td colspan="4"><i>*She sighs.*</i> I'd like to know that for certain myself. As best as I can tell, it's likely something to do with its nature. Many believe that before the <a href="Glossary.md#the-tides">Tides</a>, souls departed for the <a href="Glossary.md#the-moonseye">Moonseye</a> upon the death of their corporeal forms.</td>
   <td colspan="2">[End Dialogue], Maxed out Dawnwalker</td>
   <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">Hm. If time keeps looping for him... What if in the loops you aren't there for, he actually makes it to the City?</td>
+  <td colspan="2">Sounds like him. Hm. If time keeps looping for him ... What if in the loops you aren't there for, he actually makes it to the City?</td>
+  <td colspan="4">They can create Vows. This much we do know. Regrettably, Vows are a large part of how they are able to be protected, or indeed imprisoned ... One would think one would have to consciously create a <a href="Glossary.md#vows">Vow</a>, but many have come to the conclusion that Aspects may be a <a href="Glossary.md#hereditary-vow">Hereditary Vow</a>. Even an Oath in itself is a <a href="Glossary.md#vows">Vow</a> of some form. It's a complicated thing to delineate, but the closest phenomenon I can think of to the Gift is the acquisition of an <a href="Glossary.md#attunement">attunement</a>. And yet, I have heard it described as an <i><a href="Glossary.md#unspoken-vow">Unspoken Vow</a></i>. Perhaps there is some truth in that?</td>
 </tr>
 <tr>
   <td colspan="4">Writing?</td>
-  <td colspan="4">[End Dialogue]</td>
+  <td colspan="4">Have Dawnwalker and spoke to Kaide with the Soulthorn equipped</td>
+  <td colspan="4"></td>
+  <td colspan="4">It's not just him, everything in the City is looping up until it collapses.</td>
+  <td colspan="4">Learn of Aeod on your current character</td>
 </tr>
 <tr>
   <td colspan="4"><i>*She gives a thin smile.*</i> Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the <a href="Glossary.md#lightkeep">Lightkeepers</a>. We aren't there yet.</td>
+  <td colspan="4">A Celestial known as the Moonlight Prince is said to have stolen from the Moonseye.</td>
+  <td colspan="4"></td>
+  <td colspan="4">Then it's even clearer. Chaser may well have set the events in motion that led to the City's destabilisation. Perhaps that fool actually found what he was looking for... Thank you for your help in this matter, it's been illuminating.</td>
+  <td colspan="4">...Does the name Aeod mean anything to you?</td>
 </tr>
 <tr>
   <td colspan="4">[End Dialogue]</td>
+  <td colspan="4">Hm. Is that so? It sounds like something out of myth, I'll be honest.</td>
+  <td colspan="4"></td>
+  <td colspan="4">Was that a pun?</td>
+  <td colspan="4"><i>*Though she maintains her composure somewhat, Klaris visibly prickles.*</i> Only once. And only from a Lightkeeper's lips. A whisper of a name, murmured in prayer. How? How do you know this name?</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">Have Soulthorn equipped</td>
+  <td colspan="4"></td>
+  <td colspan="4">No. <i>*Something awful foments in your gut. Deep. Terrible.*</i></td>
+  <td colspan="4">It came to mind when I held a medallion of sorts.</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">Myth? I have the focus right here.</td>
+  <td colspan="4"></td>
+  <td>I must have misheard, sorry.</td>
+  <td>My mistake, I misheard.</td>
+  <td colspan="2">You sure? I mean... [Dig Grave]</td>
+  <td colspan="4">A medallion? If you still have it, I'd be very interested in seeing it.</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4"><i>*She blinks.*</i> Oh. Yeah, that's a pretty evil looking blade. Mind if I take a look to confirm something?</td>
+  <td colspan="4"></td>
+  <td colspan="2">Yeah. <i>*You misheard.*</i></td>
+  <td colspan="2">I'm sure. <i>*The dread mounts. The air seems to catch in your lungs, struggling to navigate your tangled and constricted apparatus of organs.*</i></td>
+  <td colspan="4">If you have a Lightkeeper's Medallion on you</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Sure, I don't see why not.</td>
+  <td colspan="2">Hands off, it's *my* accursed relic.</td>
+  <td colspan="4"></td>
+  <td colspan="2">But like. Illuminating... Like... [Dig Grave Further]</td>
+  <td colspan="2">No, sorry.</td>
+  <td colspan="2">[Show her the Lightkeeper's Medallion]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2"><i>*She appraises the blade for a moment.*</i> Hm. While I can't detect any Light within, there's definitely a whole load of souls crammed into that thing. And the absence of Light from it is telling in itself.</td>
+  <td colspan="2"><i>*She rolls her eyes.*</i> I'll just pry it off your corpse in whichever ditch you end up in.</td>
+  <td colspan="4"></td>
+  <td colspan="2">No, Wanderer, it was not a pun. <i>*You are a stack of clenched fists that have assembled themselves into the vague outline of a person. In each fist is a heartfelt and handwritten plea from your body to your brain to put an end to this.*</i></td>
+  <td colspan="2">Another loose end... Though I am glad to know I did not imagine the name. You have my gratitude.</td>
+  <td colspan="2">...Fascinating. Though weak, it's not unlike standing in the presence of a <a href="Glossary.md#lightkeep">Lightkeeper</a>. And that name... <a href="Glossary.md#aeod-the-waking-god">Aeod</a>. Somewhere behind the Light, I hear it. Folklore holds that every wave in the sea was once merely the ripple formed by a fish's tail sweeping through the water. It feels something akin to that, though I can't quite describe it. Perhaps the origin of a distant signal?</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2"><i>*She appraises the blade for a moment.*</i> Hm. While I can't detect any Light within, there's definitely a whole load of souls crammed into that thing. And the absence of Light from it is telling in itself.</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="4"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Telling how?</td>
+  <td colspan="6"></td>
+  <td colspan="2">... <i>*You remember that this is what death feels like.*</i></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Well, if this is part of the<a href="Glossary.md#the-moonseye">Moonseye</a> as you say, it would mean that the theory of the <a href="Glossary.md#the-moonseye">Moonseye</a> being a mass of souls would be correct. And since there's no Light within the blade, it suggests that the separated souls do not have the ability to project it. So either the <a href="Glossary.md#the-moonseye">Moonseye</a> as a whole is what produces Light, or...</td>
+  <td colspan="6"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Or...?</td>
+  <td colspan="6"></td>
+  <td colspan="2">... <i>*You find yourself forgetting the faces of your parents, your family, your friends. You can't even remember what you last ate. You can't remember what eating feels like.*</i></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Or it's simply that the souls within the blade do not possess the Gift. It could be that it's the departed souls of <a href="Glossary.md#lightkeep"><i>Lightkeepers</i></a> specifically within the <a href="Glossary.md#the-moonseye">Moonseye</a> that allow it to produce Light... Alternatively, it could just be that the process of being extracted from the <a href="Glossary.md#the-moonseye">Moonseye</a> has damaged the souls in some way. There's a lot of possibilities while we're still operating on inconclusive evidence.</td>
+  <td colspan="6"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="6"></td>
+  <td colspan="2">... <i>*The lights are switching off one by one. A door slams somewhere. A shutter rolls down. Operations are ending. The firms gone bankrupt. They couldn't keep it going. Not like this.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*Maybe speech isn't a gift. Maybe speech is what undoes us. Without words, maybe the world wouldn't be drowning. Maybe there wouldn't be Drowned Gods.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*You recall that Vows can sometimes be made subconsciously. Especially when one delves too deeply into a singular thought. Like whether Klaris Llfiend made a pun. This factoid makes you very anxious right now.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*There is a big round purplish creature with bristly fur and long fingernails in your mind. He does not like you. He is making a mess of things.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*If this was a twee little story about regulating your emotions and managing your wellbeing he would have the word'ANXIETY emblazoned on his forehead like a nametag. Maybe you'd hug him and he'd smile and transform into some orange fellow with a big fluffy moustache. And his forehead name would change to'CARING or something charming.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*You are not crafting a twee little story right now. You are bringing something macabre into being. He is making such a mess of your brain right now*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*It occurs to you that this sufferingwas all your own choice. You chose to ask about the pun. Or the not-pun. Or whatever it was. How long ago was that?*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*Philosophers s peak of such a thing as' solipsism - that the world exists as an extension of your own perception, that you are the only verifiable truth within your own reality. Some even go so far as to suggest that within your own perception, you are the centre of your own universe. You are now keenly aware that this can't be the case. You are not the centre of anything. The distance from you to the centre is roughly e qual to the distance between you and Klaris right now.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*Klaris has barely even budged an inch. She doesn't even seem fazed by this. There is something deeply wrong about this woman. This kind of mental fortitude can't be normal. She was not cut from the same cloth you were. If humanity was a fabric warehouse full of rolls and rolls of all sorts of fabric, big spools of wool and fibre... She'd be the light fixture.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">... <i>*Your brain is no longer capable of generating witty strings of words long enough to bridge the void in your soul. You're on your own from here on out.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">I must have misheard, sorry.</td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">Yeah. <i>*You misheard.*</i></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

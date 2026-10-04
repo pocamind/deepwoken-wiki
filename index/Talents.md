@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230510
+revid: 230536
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3827,11 +3827,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[Ironsing\] \[Armor Durability\]
 
--   **Metal Thief** \[Common Talent\] -
-    
+-   **Metal Thief** \[Common Talent\] - Pulling an opponent absorbs a portion of their current Armor durability.
+    -   Steals 2% of your opponent's current armor durability per rod.  
+        
+    -   Prerequisites: 50 Ironsing  
+        
     -   Tags: \[Ironsing\] \[Armor Durability\]
-    -   Metal Thief \[Common Talent, Ironsing\] - Pulling an opponent absorbs a portion of their current Armor durability.
-        -   Steals 2% of your opponent's current armor durability per rod.-   Prerequisite: 50 Ironsing
 
 -   **Polished Armor** \[Common Talent\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
     -   The damage reduction of Polished Armor is increased by 0.05% per Ironsing investment, granting 8.75% damage reduction at requirements.  
@@ -3842,137 +3843,211 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Metamancer
 
--   _Chain of Perfection_ \[Echo Talent, Quest Talent\] - You gain stacks of **[Perfection](Status_Effects.md#perfection)** on hitting mobs with Weapon Attacks or Mantras. Mantras are only worth half a stack.
-    -   Gain a 5% damage buff against PVE enemies for every stack of Perfection above 5, capping at +100% damage at 25 stacks.
-    -   Upon taking damage from any non-self damage source, you will lose all stacks of Perfection. Fall damage also removes all stacks.
+-   **Chain of Perfection** \[Echo Talent\] - You gain stacks of **[Perfection](Status_Effects.md#perfection)** on hitting mobs with Weapon Attacks or Mantras. Mantras are only worth half a stack.
+    -   Gain a 5% damage buff against PVE enemies for every stack of Perfection you have above 5, capping at +100% damage at 25 stacks.
     -   Perfection acts as a final damage multiplier that bypasses the damage modifier caps.
-    -   Damage sources that cannot receive damage modifiers (e.g. [Burn](Status_Effects.md#burn)) do not benefit from Chain of Perfection stacks.
+    -   Damage sources that cannot receive damage modifiers (e.g. [Burn](Status_Effects.md#burn)) do not benefit from Chain of Perfection.
     -   You cannot gain more than 3 stacks per attack.
-    -   Upon taking damage from any non-self damage source (excluding fall damage), all stacks will be lost.
+    -   Upon taking damage from any non-self damage source (excluding fall damage), all stacks will be lost.  
+        
     -   Prerequisites: Defeat any [boss](Bosses.md) solo without taking any damage.
-        -   Once you have obtained this Talent on any character, you will receive this Talent automatically on all subsequent characters.
+        -   Once you have obtained this Talent on any character, you will receive this Talent automatically on all subsequent characters.  
+            
+    -   Tags: \[Quest Talent\] \[Damage Buff\]
 
 ### Mindbreaker
 
--   Echoing Lunatic \[Common Talent, Willpower\] - Your Ardour Scream now inflicts insanity. (+3 Sanity)
-    -   Removes around 10 sanity (flat value, not %).
-    -   The effects of this talent may be negated if the Ardour Scream is blocked, similarly to the roars of Megalodaunts/Primadon.
-    -   Prerequisites: 55 Willpower, [Ardour Scream](#ardour-scream)
-        -   The Oath-given Ardour Scream from [Soulbreaker](Oath%253A_Soulbreaker.md) does not allow you to meet this Talent's prerequisites. You will have to obtain this Talent prior to unlocking the Oath.
+-   **Echoing Lunatic** \[Common Talent\] - Your Ardour Scream now inflicts insanity. (+3 Sanity)
+    -   Removes around 10 flat Sanity.
+    -   The effects of this Talent may be negated if the Ardour Scream is blocked.  
+        
+    -   Prerequisites: [Ardour Scream](#ardour-scream), 55 Willpower
+        -   The Oath-given Ardour Scream from [Soulbreaker](Oath%253A_Soulbreaker.md) does not allow you to meet this Talent's prerequisites. You will have to obtain this Talent prior to unlocking the Oath.  
+            
+    -   Tags: \[Strength\] \[Willpower\] \[+Sanity\] \[Ardour\] \[Sanity\]
 
--   _Lose Your Mind_ \[Rare Talent, Strength, Fortitude\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
+-   **Lose Your Mind** \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
     -   The specific specific formula is- f(x) = 15 - 15 × (x/0.7)1.2 {0.7≥x≥0} (x= current sanity / maximum sanity)
         -   ex. 321 sanity w/ 175 current sanity would be a 3.89% increase.
         -   View the calculator here: [https://www.desmos.com/calculator/q9hbw3enrw](https://www.desmos.com/calculator/q9hbw3enrw)
-    -   [Deepbound's](Deepbound.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
-    -   Prerequisites: 30 Fortitude, 30 Strength
-    -   Can also be obtained from the [Thrall of Enmity](Thrall_of_Enmity.md) face equipment or [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>) outfit.
+    -   [Deepbound's](Deepbound.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.  
+        
+    -   Prerequisites: 30 Strength, 30 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Thrall of Enmity](Thrall_of_Enmity.md) and [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>)  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[+Sanity\] \[Damage Buff\] \[Sanity\]
 
--   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
+-   **Piercing Will** \[Rare Talent\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
     -   Grants a 10% PEN bonus at full insanity despite what the description states.
     -   The bonus PEN is applied starting from 35% Sanity.
-    -   Scales on your current sanity percentage, similar to Lose Your Mind.
-    -   Prerequisite: 80 Willpower
+    -   Scales on your current sanity percentage, similar to Lose Your Mind.  
+        
+    -   Prerequisites: 80 Willpower  
+        
+    -   Tags: \[Willpower\] \[PEN\] \[Sanity\]
 
--   Shared Misery \[Common Talent, Willpower\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
-    -   Activates when you are actively losing sanity or for 15 seconds after using Heretic's Sutra.
+-   **Shared Misery** \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 Sanity)
+    -   Activates when you are actively losing sanity or for 15 seconds after using [Heretic's Sutra](#heretics-sutra).
     -   On proc remove 3% of the targets maximum sanity. This effect has no cooldown.
-    -   The amount of sanity damage per hit will scale down if you have less than 85 Willpower.
-    -   Prerequisites: 85 Willpower
+    -   The amount of sanity damage per hit will scale down if you have less than 85 Willpower.  
+        
+    -   Prerequisites: 85 Willpower  
+        
+    -   Tags: \[Willpower\] \[+Sanity\] \[Critical Attack\] \[Sanity\]
 
 ### Miscellaneous
 
--   Brassneck \[Common Talent, Strength, Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds.
-    -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
-    -   Prerequisites: 35 Fortitude, 30 Strength
-    -   This Talent was previously named "Berserker."
+-   **Brassneck** \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds.
+    -   In PvE, this procs upon killing non-humanoid monsters as well.
+    -   This Talent was previously named "Berserker".  
+        
+    -   Prerequisites: 30 Strength, 35 Fortitude  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[Damage Resistance\]
 
--   _Careful Handling_ \[Quest Talent\] - Reduce your chances of dropping ingredients on death.
-    -   Prerequisite: Complete [Suri](Suri.md)'s quest
+-   **Careful Handling** \[Quest Talent\] - Reduce your chances of dropping ingredients on death.
+    
+    -   Prerequisites: Complete [Suri](Suri.md)'s quest  
+        
 
--   Dragon's Song \[Common Talent\] - Using a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] after an uppercut grants ether.
+-   **Dragon's Song** \[Common Talent\] - Using a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] after an uppercut grants ether.
     -   Grants +20 Ether on proc.
-    -   2 second cooldown.
+    -   2 second cooldown.  
+        
+    -   Prerequisites: None  
+        
+    -   Tags: \[Uppercut\]
 
--   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
-    -   Prerequisites: [Power](Power.md) 16, Obtain resonance
+-   **Full Reset** \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
+    
+    -   Prerequisites: [Power](Power.md) 16, have a [Resonance](Resonance.md)  
+        
+    -   Tags: \[[Resonance](Resonance.md)\]
 
--   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating is increased. (+5 Carry Load, +1 Posture)
+-   **Gourmand** \[Common Talent\] - Your hunger and thirst gain from eating is increased. (+5 Carry Load, +1 Posture)
     -   Increases hunger and thirst gain by 20%.
-    -   Having this alongside the [Gourmet](Boons_and_Flaws.md#gourmet) Boon increases the hunger and thirst gain from eating by 80%.
-    -   Prerequisite: [Power](Power.md) 5
-    -   The [Chef's Toque](<Chef's_Toque.md>) equipment has this Talent.
+    -   Having this alongside the [Gourmet](Boons_and_Flaws.md#gourmet) Boon increases the hunger and thirst gain from eating by 80%.  
+        
+    -   Prerequisites: [Power](Power.md) 5  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Chef's Toque](<Chef's_Toque.md>)  
+        
+    -   Tags: \[+Carry Load\] \[+Posture\] \[Food\]
 
--   Heavy Haul \[Common Talent, Strength\] - Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one.
-    -   Prerequisite: 15 Strength
-    -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this Talent.
+-   **Heavy Haul** \[Common Talent\] - Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one.
+    
+    -   Prerequisites: 15 Strength  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Grand Authority Plate](Grand_Authority_Plate.md)  
+        
+    -   Tags: \[Strength\] \[Debuff\] \[Posture Resistance\] \[Slow\]
 
--   Martyr \[Common Talent\] - When you're knocked **[Unconscious](Status_Effects.md#unconscious)**, enemies gain less health and posture, and allies around you are granted **[Martyrdom](Status_Effects.md#martyrdom)** for 20s.
+-   **Martyr** \[Common Talent\] - When you're knocked **[Unconscious](Status_Effects.md#unconscious)**, enemies gain less health and posture, and allies around you are granted **[Martyrdom](Status_Effects.md#martyrdom)** for 20s.
     -   Martyrdom grants +20% damage and damage reduction for 20 seconds.
     -   Martyrdom cannot be given to the player who knocked you, even if they are your ally. Additionally, Martyr does not consider yourself an ally, meaning the buffs won't be applied to yourself.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
-    -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
-    -   Prerequisite: [Power](Power.md) 3
+    -   If the enemy has the [Replenishing Knockout](#replenishing-knockout) Talent, both Talents negate each other, resulting in a normal health pack.  
+        
+    -   Prerequisites: [Power](Power.md) 3  
+        
+    -   Tags: \[Anti-Sustain\] \[Damage Buff\] \[Damage Resistance\] \[Support\]
 
--   _Pleeksty's Will_ \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
+-   **Pleeksty's Will** \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
     -   Consuming elemental ingredients has a 20 second cooldown.
-    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
-    -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
+    -   This Talent is a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, [Pleeksty's Faith](#pleekstys-faith), or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.  
+        
+    -   Prerequisites: "Ploom's Embers" Quest in [Etris](Etris.md), 50 Charisma // 40 Flamecharm // by completing quest requirements  
+        
 
--   Polite Awakening \[Common Talent\] - Upon recovering from being **[Unconscious](Status_Effects.md#unconscious)**, your health is restored up to a minimum of 15% of your max health. (+1 Passive Agility)
-    -   Prerequisite: None
-    -   The [Legion Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
+-   **Polite Awakening** \[Common Talent\] - Upon recovering from being **[Unconscious](Status_Effects.md#unconscious)**, your health is restored up to a minimum of 15% of your max health. (+1 Passive Agility)
+    
+    -   Prerequisites: None  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Legion Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md)  
+        
+    -   Tags: \[+Passive Agility\] \[Sustain\]
 
--   Ready or Not \[Common Talent, Fortitude\] - The first attack to hit you while out of combat has its damage cut in half.
-    -   Prerequisite: 20 Fortitude
-    -   The [Royal Pathfinder](Royal_Pathfinder.md) equipment has this Talent.
+-   **Ready or Not** \[Common Talent\] - The first attack to hit you while out of combat has its damage cut in half.
+    
+    -   Prerequisites: 20 Fortitude  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Royal Pathfinder](Royal_Pathfinder.md)  
+        
+    -   Tags: \[Damage Resistance\]
 
--   Replenishing Knockout \[Common Talent\] - You gain more health and posture from downing enemies.
+-   **Replenishing Knockout** \[Common Talent\] - You gain more health and posture from downing enemies.
     -   Knocking enemies [Unconscious](Status_Effects.md#unconscious) will replenish 1.5x more of your health and posture (50% -> 75%).
-    -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
-    -   Prerequisite: [Power](Power.md) 3
+    -   If the target has the [Martyr](#martyr) Talent, both Talents negate each other, resulting in a normal health pack.  
+        
+    -   Prerequisites: [Power](Power.md) 3  
+        
+    -   Tags: \[Sustain\]
 
--   _Treefelling Blow_ \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural.
-    -   Allows you to gain [Wood](Wood.md) when you destroy trees with [Strong Left](Attunement-less.md#strong-left).
-    -   Prerequisites: Use [Strong Left](Attunement-less.md#strong-left) on a tree and then speak to [Korin](Korin.md) or [Drefa](Drefa.md) to obtain the Treefelling Blow quest. Once you have the quest, destroy 5 more trees with Strong Left and return to the respective quest giver.
+-   **Treefelling Blow** \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural.
+    -   Allows you to gain [Wood](Wood.md) when you destroy trees with [Strong Left](Attunement-less.md#strong-left).  
+        
+    -   Prerequisites: Use [Strong Left](Attunement-less.md#strong-left) on a tree and then speak to [Korin](Korin.md) or [Drefa](Drefa.md) to obtain the Treefelling Blow quest. Once you have the quest, destroy 5 more trees with Strong Left and return to the respective quest giver.  
+        
+    -   Tags: \[Strength\]
 
 ### [Murmur](Murmur.md)
 
--   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
-    -   While active your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
-        -   If you have [Soulbreaker](Oath%253A_Soulbreaker.md), your weapon will passively emit purple lightning while its unsheathed.
+-   **Murmur: Ardour** \[Common Talent\] - An application of your Soul [Murmur](Murmur.md) that enables one to channel the murmur into raw strength. Press H.
+    -   While active, your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
+        -   If you have [Soulbreaker](Oath%253A_Soulbreaker.md), your weapon will passively emit purple lightning. You can change the color of this effect by [dying](Dye_Packet.md) your Oath Cosmetic.
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
     -   Gain a +2.5% (+5% if [Soulbreaker](Oath%253A_Soulbreaker.md)) damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at Power 20.
-    -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
-    -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+    -   Ardour automatically deactivates if you have no Ether.  
+        
+    -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md) // [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)  
+        
+    -   Mutual Exclusives: [Murmur: Rhythm](#murmur-rhythm), [Murmur: Tacet](#murmur-tacet) (Unless the player is a [Soulbreaker](Oath%253A_Soulbreaker.md))  
+        
+    -   Tags: \[Ardour\] \[Damage Buff\] \[Investment Scaling\] \[M1 Tag\] \[[Murmur](Murmur.md)\] \[Posture Damage Buff\]
 
--   Ardour Scream \[Common Talent, Strength, Willpower\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (+9 Sanity)
-    -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey (H).
-    -   Takes 100% Ether to be used, therefore deactivating Ardour.
-        -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
-    -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 12.5% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
-    -   Will also combat tag anybody hit.
-    -   Can movestack with M1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-Mantra skills by casting them during the animation.
+-   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 12.5% more damage and 50% more posture damage for 10s. (+9 Sanity)
+    -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey (H). 15 second cooldown.
+    -   Drains all of your Ether on use, and requires you to be at 100% Ether to be casted. [Soulbreaker](Oath%253A_Soulbreaker.md)'s [Soul Infusion](#soul-infusion) Talent reduces the minimum Ether required to cast it to 40%, though, it will still drain your entire Ether bar on cast.
+    -   Ardour Scream has a base range of 95 studs, combat tagging and debuffing all those who are hit. This range can be increased by 105 studs with [Soulbreaker](Oath%253A_Soulbreaker.md)'s [Soul Infusion](#soul-infusion) Talent and a further 100 studs with [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)'s [Destructive Yell](#destructive-yell) Talent, for a combined maximum of 300 studs.
+    -   Instead of debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 12.5% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
+    -   Like all other tools, this can be movestacked with any non-Mantra attack by performing attacks during Ardour Scream's windup.
     -   Wearing the [Broodplate Helmet](Broodplate_Helmet.md) makes Ardour Scream apply 100% [Anti-Heal](Status_Effects.md#anti-heal) for its full duration, via the [Broodlord's Scream](#broodlords-scream) Talent.
-    -   Wearing the [Broodplate Set](Broodplate_Helmet.md) grants Ardour Scream for free, bypassing its requirements. Additionally, the set grants the [Second Nature](#second-nature) Talent, which makes Ardour Scream completely free at the cost of increasing its cooldown by 10 seconds.
-    -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md) OR wear the [Broodplate](Broodplate_Helmet.md) set
+    -   Wearing the [Broodplate Set](Broodplate_Helmet.md) grants Ardour Scream for free, bypassing its requirements. Additionally, the set grants the [Second Nature](#second-nature) Talent, which makes Ardour Scream completely free at the cost of increasing its cooldown by 10 seconds.  
+        
+    -   Prerequisites: [Murmur: Ardour](#murmur-ardour), 15 Strength, 40 Willpower OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Broodplate Set](Broodplate_Helmet.md)  
+        
+    -   Tags: \[Strength\] \[Willpower\] \[+Sanity\] \[Ardour\] \[Damage Buff\] \[Debuff\] \[Posture Damage Buff\] \[Tool\]
 
--   **[Murmur: Rhythm](Murmur%253A_Rhythm.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
-    -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
-    -   **Disabled on players with Not a Scratch.**
-    -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+-   **Murmur: Rhythm** \[Common Talent\] - An application of your Soul [Murmur](Murmur.md) that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
+    -   Pings the location of all nearby Monsters, NPC's, and Players, even through walls, with a colored circle. Also gray-scales your screen while active.
+        -   The color indicates the health range of the target: Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
+            -   The color display is disabled on players with [Not a Scratch](#not-a-scratch), always displaying grey regardless of their health amount.
+    -   Rhythm will end early if you stand up (without [Soulbreaker](Oath%253A_Soulbreaker.md)'s [Heart Reverb](#heart-reverb) Talent) or take damage.  
+        
+    -   Prerequisites: Complete the Quest in the [Second Layer](Second_Layer.md) // Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)  
+        
+    -   Mutual Exclusives: [Murmur: Ardour](#murmur-ardour), [Murmur: Tacet](#murmur-tacet) (Unless the player is a [Soulbreaker](Oath%253A_Soulbreaker.md))  
+        
+    -   Tags: \[[Murmur](Murmur.md)\] \[Rhythm\] \[Unlockable Talent\]
 
--   **[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
+-   **Murmur: Tacet** \[Common Talent\] - An application of your Soul [Murmur](Murmur.md) that enables the user to suppress their own murmur. Press T while crouched.
     -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
     -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
-    -   Being in Tacet grants 400 Stealth, making you effectively invisible to PvE enemies; sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
+    -   Being in Tacet grants 400 flat Stealth, making you effectively invisible to PvE enemies; sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
     -   Tacet will be **disabled** during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
-    -   After 1 second of not crouching, Tacet will deactivate. After ~0.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using [Soulbreaker's](Oath%253A_Soulbreaker.md) Formless will instantly deactivate Tacet.
-    -   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+    -   After 1 second of not crouching, Tacet will deactivate. After ~0.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using [Soulbreaker's](Oath%253A_Soulbreaker.md) Formless will instantly deactivate Tacet.  
+        
+    -   Prerequisites: 5 [Bounty Hunting Contracts](Bounty_Hunting.md), speak to [Cestis](Cestis.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)  
+        
+    -   Mutual Exclusives: [Murmur: Ardour](#murmur-ardour), [Murmur: Rhythm](#murmur-rhythm) (Unless the player is a [Soulbreaker](Oath%253A_Soulbreaker.md))  
+        
+    -   Tags: \[Investment Scaling\] \[[Murmur](Murmur.md)\] \[Tacet\] \[Unlockable Talent\]
 
 ### Natural Armor
 

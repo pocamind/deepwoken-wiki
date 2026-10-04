@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 225432
+revid: 230534
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -43,7 +43,7 @@ Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a 
 
 ### Rewards
 
-Upon notifying Apprentice Kj of Vigil Isaacs rescue, he gives the player a [Curiosity](Quests.md) [Talent](Talents.md) hand and an audience with Evengarde Rest.
+Upon notifying Apprentice Kj of Vigil Isaacs rescue, he gives the player a [Compassion](Quests.md) [Talent](Talents.md) hand and an audience with Evengarde Rest.
 
 Additionally, the player will be rewarded with 5 Full Training points and the [Kj's Courage](Talents.md#kjs-courage) Talent. Kj's Courage increases [Knowledge](Knowledge.md) gain by 10%, rounded down.
 

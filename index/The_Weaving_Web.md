@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 226976
+revid: 230528
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique
 | range | 8.5 Sweep |
 | swing speed | 1x |
 | attack duration | 0.6s |
+| penetration | 15% |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -40,7 +41,7 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 
 ## Critical
 
-The user firmly smacks the staff to the ground, creating a pink web explosion (gif is currently outdated) and summons a spiderling that assists them in the fight. The spiderling will not despawn when aggroed, but when idle, it despawns in 20 seconds. The spiderling can use all of the [Deep Widow](Deep_Widow.md)'s attacks asides from Deep Webbing. It can swipe 1 or 3 times, dealing 35 damage per hit. The spiderling's unblockable bite deals 40 initial damage, ~9% poison damage, and applies slight insanity. The spiderling has 1000 HP and ~40% physical resistance.
+The user firmly smacks the staff to the ground, creating a pink web explosion and summons a spiderling that assists them in the fight. The [Baby Widow](Baby_Spider.md) will not despawn when aggroed, but when idle, it despawns in 20 seconds.
 
 The critical has a cooldown of **45 seconds.**
 
