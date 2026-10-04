@@ -1,6 +1,6 @@
 ---
 title: Swords
-revid: 230109
+revid: 230513
 source: https://deepwoken.fandom.com/wiki/Swords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, Medium Weapons, Swords, Weapon Classes]
@@ -16,7 +16,19 @@ Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 ## Weapon Class Talents
 
-Unlike all other weapon classes, Swords do not have any weapon class-exclusive Talents.
+This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+
+-   **Crossguard** \[Battle Readiness • Faction Talent\] - If you are using a **sword**, you gain 10% chip against other opponents wielding swords.
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Sword\]
+
+-   **Officer's Training** \[Dread Imperium • Faction Talent\] - While using a **Sword** or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Posture Resistance\] \[Sword\] \[Rapier\]
 
 ## Default Animations
 

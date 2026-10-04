@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230490
+revid: 230510
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -24,33 +24,6 @@ Variants: [Talents/Vow of Iron](Talents/Vow_of_Iron.md)
     -   _(i.e "40 Agility" to find Talents that require 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
--   Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Strength\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
-    -   -   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
-        -   General:
-            -   \[Rarity Talent • Talent Category\] - see [below](#card-terminology).
-            -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires. Attribute categories (\[Mind\], \[Body\], \[Weapon\], and \[Element\]) all have their own tags.
-            -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
-        -   Specific Terms; given if applicable:
-            -   Categories: \[Anti-Sustain\], \[[Ardour](Murmur%253A_Ardour.md)\], \[Assassination\], \[Attunement Path\], \[Backhit\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](Murmur%253A_Rhythm.md)\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\], \[True Damage\]
-            -   Weapon Types: \[Dagger\] \[Fist\] \[[Fist Style](Fists.md#styles)\] \[Pistol\] \[Dual Pistols\] \[Single Pistol\] \[Offhand Pistol\] \[Rapier\] \[Bow\] \[Club\] \[Spear\] \[Staff\] \[Greataxe\] \[Greatcannon\] \[Greathammer\] \[Greatsword\]
-            -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
-            -   \[Aspect name\], \[Oath name\], \[Origin name\], or \[Weapon category\] if applicable, with hyperlinks.
-        -   (Relatively) Unintuitive Terms:
-            -   \[Combat Tag\] - Talents that do not work unless the player is in combat and/or Talents that scale on the quantity of [Combat Tags](Combat_Tag.md) that the player has.
-            -   \[M1 Tag\] - Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag.
-            -   \[[Spec](Developer_Specs.md)\] - Deepwoken Developer or Moderator exclusive Talents.
-            -   \[Tool\] - Talents that provide a Talent tool. Use the tool to activate the Talent's effects.
-            -   \[Vaulted\] - Talents that have been removed from the Talent pool to await balance changes.
-            -   \[Investment Scaling\] - Talents that scale above their base values when you have more than the required amount of attribute investment.
-            -   \[Scale-down\] - Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements. Mutually exclusive with \[Hard Requirements\].
-            -   \[Hard Requirements\] - Talents that do not function _unless_ you meet their requirements. Mutually exclusive with \[Scale-down\].
-        -   Notes:
-            -   If a prerequisite Talent or Mantra requires an attribute that the listed Talent doesn't, then the attribute tags on the prerequisite will carry-over to the listed one, with these carry-over bute tags being underlined. The only exception to this are Oath Talents, which will list the Oath's name in the tags instead.  
-                (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list \[Strength\] and \[Willpower\] in its tags.
-            -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
-            -   The \[Attunement Path\] tag is only given to the parent Talent in the path (e.g. [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)).
-        
-
 -   Talent requirements display additional and alternative requirements of the Talents.
     -   Additional requirements on Talents are separated with commas.
         -   _(i.e Suffocating Impact requires 15 Strength and 35 Galebreathe, written as "15 Strength, 35 Galebreathe")_
@@ -59,6 +32,37 @@ Variants: [Talents/Vow of Iron](Talents/Vow_of_Iron.md)
             -   _(i.e Hell's Partisan requires 35 Flamecharm and \[the Fire Forge Mantra or the Warding Radiance Talent\], written as "35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // [Warding Radiance](#warding-radiance))_
         -   "OR" is used if there is an alternative group of requirements.
             -   _(i.e Murmur: Tacet can be obtained by doing its [obtainment quest](Cestis.md) OR by obtaining [Oath: Soulbreaker](Oath%253A_Soulbreaker.md))_
+
+### Talent Tags
+
+Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Strength\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
+
+List of tags:
+
+-   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
+-   General:
+    -   \[Rarity Talent • Talent Category\] - see [below](#card-terminology).
+    -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires. Attribute categories (\[Mind\], \[Body\], \[Weapon\], and \[Element\]) all have their own tags.
+    -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
+-   Specific Terms; given if applicable:
+    -   Categories: \[Anti-Sustain\], \[[Ardour](Murmur%253A_Ardour.md)\], \[Armor Durability\], \[Assassination\], \[Attunement Path\], \[Backhit\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](Murmur%253A_Rhythm.md)\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\], \[True Damage\]
+    -   Weapon Types: \[Dagger\] \[Fist\] \[[Fist Style](Fists.md#styles)\] \[Pistol\] \[Dual Pistols\] \[Single Pistol\] \[Offhand Pistol\] \[Rapier\] \[Bow\] \[Club\] \[Spear\] \[Staff\] \[Greataxe\] \[Greatcannon\] \[Greathammer\] \[Greatsword\]
+    -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
+    -   \[Aspect name\], \[Oath name\], \[Origin name\], or \[Weapon category\] if applicable, with hyperlinks.
+-   (Relatively) Unintuitive Terms:
+    -   \[Combat Tag\] - Talents that do not work unless the player is in combat and/or Talents that scale on the quantity of [Combat Tags](Combat_Tag.md) that the player has.
+    -   \[M1 Tag\] - Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag.
+    -   \[[Spec](Developer_Specs.md)\] - Deepwoken Developer or Moderator exclusive Talents.
+    -   \[Tool\] - Talents that provide a Talent tool. Use the tool to activate the Talent's effects.
+    -   \[Vaulted\] - Talents that have been removed from the Talent pool to await balance changes.
+    -   \[Investment Scaling\] - Talents that scale above their base values when you have more than the required amount of attribute investment.
+    -   \[Scale-down\] - Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements. Mutually exclusive with \[Hard Requirements\].
+    -   \[Hard Requirements\] - Talents that do not function _unless_ you meet their requirements. Mutually exclusive with \[Scale-down\].
+-   Notes:
+    -   If a prerequisite Talent or Mantra requires an attribute that the listed Talent doesn't, then the attribute tags on the prerequisite will carry-over to the listed one, with these carry-over bute tags being underlined. The only exception to this are Oath Talents, which will list the Oath's name in the tags instead.  
+        (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list \[Strength\] and \[Willpower\] in its tags.
+    -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
+    -   The \[Attunement Path\] tag is only given to the parent Talent in the path (e.g. [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)).
 
 [See all Talents here](#talents).
 

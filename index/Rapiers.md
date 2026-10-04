@@ -1,6 +1,6 @@
 ---
 title: Rapiers
-revid: 230106
+revid: 230512
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Light Weapons, Rapiers, Weapon Classes]
@@ -40,6 +40,12 @@ This information has been transcluded from [a different page](Talents.md). Visit
     -   While active, also grants +25% chip damage.
     -   Also applies to criticals with the M1 tag.
     -   Prerequisites: Using Rapier, 40 Light Weapon
+
+-   **Officer's Training** \[Dread Imperium • Faction Talent\] - While using a [Sword](Swords.md) or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
+    
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Posture Resistance\] \[Sword\] \[Rapier\]
 
 ## Default Animations
 

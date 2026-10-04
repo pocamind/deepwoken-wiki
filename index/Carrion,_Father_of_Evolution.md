@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 230287
+revid: 230505
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, NPCs located in the Second Floor of the Second Layer, Black Divers]
@@ -198,6 +198,58 @@ Carrion is initially found in the Grand Library of [New Kyrsa](Second_Layer/New_
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogues:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*You can barely make out the sounds of laughter as you approach*.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh? Salutations! Klaris and I have been getting on just grand. I guess we're friends now!</td>
+</tr>
+<tr>
+  <td colspan="2">Think you can do something with the monster parts I've collected?</td>
+  <td colspan="2">How did you get out of the City?</td>
+</tr>
+<tr>
+  <td colspan="2">[See Castle Light -&gt; Monster Mantras]</td>
+  <td colspan="2">Oh? I hitched a ride from our friend Klaris, of course. The thing about light is it sticks out. Sooner or later she's gonna realise how easy it is to tailgate her hooks if you know what you're doing.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">[Spoken to Klaris about Chaser being alive again]</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">Do you know anything about this supposed time loop?</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">A time loop? That would explain a lot. Ever since Chaser took off, all of my visits to the City have been awfully repetitive...</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">So it wasn't looping before Chaser's betrayal?</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">Possibly! Teheh. I don't usually pay mind to such things. To be honest, I didn't realise the City was a big deal until Chaser started rambling about it.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">So you knew about the City and didn't tell him?</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2"><i>*He grins.*</i> Listen. I may be mad, but I'm not stupid.</td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 230345
+revid: 230519
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Fists, Weapon Classes]
@@ -208,6 +208,10 @@ Talents that are obtained from [Equipment](Equipment.md), [Outfits](Outfits.md),
 
 -   Swiftscales: [Steelscale Dusters](Steelscale_Dusters.md) - [Fang and Coil](Fang_and_Coil.md)'s base critical gains a small buff to its speed, range and endlag.
     -   The increased range is telegraphed with a green version of the Fang and Coil critical vfx.
+
+## Weapon Class Mantras
+
+Please view the [related page](Attunement-less.md) for more info.
 
 ## Default Animations
 
