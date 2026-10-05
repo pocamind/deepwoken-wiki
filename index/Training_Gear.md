@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 229533
+revid: 230580
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -18,11 +18,21 @@ They can be found in different [Gear Cabinets](Training_Gear.md) around Lumen, e
 
 Most of the attribute training gears are self explanatory, though some training gears have their own quirks to bear in mind.
 
--   **Boulder** is a convenient way to simultaneously increase Attributes under "Body". You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.**
--   **Training Vest**, after equipping it, will only work if someone hits you. Boulder is recommended over Training Vest because of this reason.
--   **[How to Make Friends](How_to_Make_Friends.md)** can be trained by clicking the words around the screen. You don't necessarily have to type to use this.
--   **Encyclopedia** is useful for those who are too lazy to do the minigames of [How to Make Friends](How_to_Make_Friends.md) or Math Textbook. Although the downside of this is that it takes a long time to use it once, making it slower to use. You train both Intelligence and Charisma with this.
--   **[Weapon Manual](Weapon_Manual.md)**: You can switch which weapon attribute you are training depending on the type of the weapon that you are using.
+-   **Boulder** and **Math Textbook** grant experience to all stats within the Body and Mind categories respectively without setting investment intent, allowing you to spam them for experience without worrying about increasing a random attribute.
+    -   The Boulder will **kill** the player if they are knocked **[Unconscious](Status_Effects.md#unconscious)** from it.
+-   **Training Vest**, after equipping it, you will gain attribute experience upon being hit.
+-   **Ankle Weights** provide attribute experience when performing any parkour maneuver (dodging, climbing, etc) or sprinting when worn. Dodging attacks grants more attribute experience.
+-   **[How to Make Friends](How_to_Make_Friends.md)** can be trained by clicking the words around the screen _or_ by typing in the listed text manually.
+-   **[Weapon Manual](Weapon_Manual.md)**: Upon use, the manual will display [attack telegraph glyphs](Combat_Mechanics.md#telegraphed-attacks) that shrink in size, with text that tells you what action to take. When the circle reaches its smallest size, perform the listed action. After a glyph is completed or failed, the next glyph will appear. Once all glyphs have gone through, you will gain experience correlating with your overall performance. You can switch which weapon attribute you are training, depending on the type of the weapon that you are using.
+    -   The glyphs displayed, and their solutions, correlate with the [attack telegraphs](Combat_Mechanics.md#telegraphed-attacks) of many NPC and Player attacks, making the Weapon Manual a great way to familiarize yourself with this mechanic, without putting yourself into danger. Though keep in mind that a few glyphs are committed from the Weapon Manual. Refer to the [Combat Mechanics](Combat_Mechanics.md#attack-telegraphs) page for more info.
+
+### Intent vs Experience
+
+All training gear give Attribute Experience when used, though the experience given does not always correlate with the Intent.
+
+When using the correlating Training Gear, Training Intent will often be set to the related attribute. Training Intent allows you to increase an attribute after meeting a threshold of Attribute and General experience. Without Intent, the Attribute will not increase, unless Training Points are used.
+
+Certain training gears, notably the Boulder and Math Textbook, do not give intent for a specific attribute on use, only serving to give experience towards all attributes within the Body and Mind categories respectively.
 
 ### Training Messages
 
@@ -30,167 +40,86 @@ Attempting to train an attribute may display a certain message, hinting at somet
 
 | Message | Meaning |
 | --- | --- |
-| I've learnt what I can from training right now, I should put it into practice... | You require more experience before you use that training gear. Experience can be gained from killing enemies, and other miscellaneous activities. |
+| I've learnt what I can from training right now, I should put it into practice... | You require mor experience before you use that training gear. Experience can be gained from killing enemies, and other miscellaneous activities. |
 | Repeat training will do no good without proper experience. |
 | I've hit a wall in my training... Maybe there's some way to break it? | You've reached the max value for an attribute, and need to [unbound your attribute](Attributes_Unbound.md) to progress further. |
-| The elements are not in alignment... | A hint towards obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). The exact requirements for Saintsworn can be found on its respective page. |
+| The elements are not in alignment... | A hint towards obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). The exact requirements for Saintsworn can be found on its respective page. This message will no longer appear when the Oath's requirements are met. |
 
 ## List of Training Gears
 
-| **Attribute** | **Item Name** | **In-Game Description** | **Uses** | **Picture** |
-| --- | --- | --- | --- | --- |
-| 
-**Body**
-
- | Boulder | Train your Body by hefting a boulder above you. | _200 uses_ | 
-
-A boulder being held up to train
-
- |
-| 
-
-**Strength**
-
- | Dumbbell | Train your Strength by pumping iron. | _200 uses_ | 
-
-A held dumbell
-
- |
-| 
-
-**Fortitude**
-
- | Training Vest | Train your Fortitude by taking a beating. | _100 uses_ | 
-
-A training vest being worn
-
- |
-| 
-
-**Agility**
-
- | Ankle Weights | Train your Agility by running with these on. | _200 uses_ | 
-
-Ankle weights being worn
-
- |
-| 
-
-**Mind**
-
- | Math Textbook | Train your Mind through study. | _200 uses_ | 
-
-A math textbook being held
-
- |
-| 
-
-**Intelligence**/
-
-**Charisma**
-
- | Encyclopedia | Train your Intelligence through study. | _200 uses_ | 
-
-An encyclopedia being held
-
- |
-| 
-
-**Willpower**/
-
-**Intelligence**/
-
-**Charisma**
-
- | Prayer Beads | Train your Willpower through meditation. | _100 uses_ | 
-
-picture of the Prayer beads
-
- |
-| 
-
-**Charisma**
-
- | [How to Make Friends](How_to_Make_Friends.md) | Train your Charisma by practising lines. | _200 uses_ | 
-
-A how to make friends book being held
-
- |
-| 
-
-**Light**/
-
-**Medium**/
-
-**Heavy**
-
-**Weapons**
-
- | [Weapon Manual](Weapon_Manual.md) | Run through a training exercise to hone your weapon handling. | Infinite | 
-
-A weapon manual being held
-
- |
-| 
-
-**[Flamecharm](Flamecharm.md)**
-
- | Hearthgem | Speak to the Flames and tame them, training your flamecharm. | _100 uses_ | 
-
-A held hearthgem
-
- |
-| 
-
-**[Frostdraw](Frostdraw.md)**
-
- | Hemafrost | Freeze your own blood to train your Frostdrawing ability. | _100 uses_ | 
-
-(add a better) picture of the hemafrost
-
- |
-| 
-
-**[Thundercall](Thundercall.md)**
-
- | Self-Conducting Loop | Generate sparks between your hands to train your Thundercall. | _100 uses_ | 
-
-(add a better) picture of the self-conducting loop
-
- |
-| 
-
-**[Galebreathe](Galebreathe.md)**
-
- | Gale Kata | Train your Galebreathing through stances practiced by the Legion. | _100 uses_ | 
-
- |
-| 
-
-**[Shadowcast](Shadowcast.md)**
-
- | Pure Heart | Corrupt this gem of Light to train your Shadowcast. | _100 uses_ | 
-
- |
-| 
-
-**[Ironsing](Ironsing.md)**
-
- | Ferrofluid | Manipulate this liquid metal to train your Ironsinging ability. | _100 uses_ | 
-
- |
-| 
-
-**[Bloodrend](Bloodrend.md)**
-
- | Tourniquet | Control the flow of blood to train your Bloodrending ability. | _100 uses_ | 
-
- |
+| **Item** | **Attribute Intent** | **Attribute Experience Given** | **Maximum Uses** |
+| --- | --- | --- | --- |
+| **Boulder**  
+  
+_Train your Body by hefting a boulder above you._ | **N/A** | **Body**  
+(Strength, Fortitude, Agility) | _200 uses_ |
+| **Dumbell**  
+
+  
+_Train your Strength by pumping iron._ | **Strength** | _200 uses_ |
+| **Training Vest**  
+
+  
+_Train your Fortitude by taking a beating._ | **Fortitude** | _200 uses_ |
+| **Ankle Weights**  
+
+  
+_Train your Agility by running with these on._ | **Agility** | _200 uses_ |
+| **Math Textbook**  
+
+  
+_Train your Mind through study._ | **N/A** | **Mind**  
+(Intelligence, Willpower, Charisma) | _200 uses_ |
+| **Encyclopedia**  
+
+  
+_Train your Intelligence through study._ | **Intelligence** | **Intelligence**, **Charisma** | _200 uses_ |
+| **Prayer Beads**  
+
+  
+_Train your Willpower through meditation._ | **Willpower** | **Intelligence**, **Willpower**, **Charisma** | _100 uses_ |
+| **[How to Make Friends](How_to_Make_Friends.md)**  
+
+  
+_Train your Charisma by practising lines._ | **Charisma** | _200 uses_ |
+| **[Weapon Manual](Weapon_Manual.md)**  
+
+  
+_Run through a training exercise to hone your weapon handling._ | **Weapon**  
+The Weapon attribute corresponding with the weapon type of the equipped weapon on use. | _Infinite uses_ |
+| **Tourniquet**  
+
+  
+_Control the flow of blood to train your Bloodrending Ability_. | **[Bloodrend](Bloodrend.md)** | _100 uses_ |
+| **Hearthgem**  
+
+  
+_Speak to the Flames and tame them, training your flamecharm._ | **[Flamecharm](Flamecharm.md)** | _100 uses_ |
+| **Hemafrost**  
+
+  
+_Freeze your own blood to train your Frostdrawing ability._ | **[Frostdraw](Frostdraw.md)** | _100 uses_ |
+| **Gale Kata**  
+
+  
+_Train your Galebreathing through stances practised by [the Legion](The_Hundred_Legions.md)._ | **[Galebreathe](Galebreathe.md)** | _100 uses_ |
+| **Ferrofluid**  
+
+  
+Manipulate this liquid metal to train your Ironsinging ability. | **[Ironsing](Ironsing.md)** | _100 uses_ |
+| **Pure Heart**  
+
+  
+_Corrupt this gem of Light to train your Shadowcast._ | **[Shadowcast](Shadowcast.md)** | _100 uses_ |
+| **Self-Conducting Loop**  
+
+  
+_Generate sparks between your hands to train your Thundercall._ | **[Thundercall](Thundercall.md)** | _100 uses_ |
 
 ## Gear Cabinet Locations
 
 -   Etrean Luminant locations
-    -   [Etris](Etris.md): In the [Antiquarian's](Antiquarian.md) building.
+    -   [Etris](Etris.md): In the [Antiquarian](Antiquarian.md)'s building.
     -   [Isle of Vigils](Isle_of_Vigils.md): 5 total
         1.  Three in the Inn's first floor.
         2.  Two on opposite ends of the Sparring Room.
@@ -233,10 +162,7 @@ A held hearthgem
 
 ## Trivia
 
--   You can't spawn with a Boulder when creating a character, as it will instead allocate a Training Vest.
--   Ankle Weights slightly reduce your movement speed upon being worn.
--   All Attributes can be trained by just obtaining general EXP.
--   You can slowly train your attributes by spamming the corresponding Training Gears, all EXCEPT for the Weapon Manual.
+-   Ankle Weights reduce your movement speed upon being worn.
 -   There's a [quest](Quests.md) at the [Isle of Vigils](Isle_of_Vigils.md) sparring room that grants you EXP for letting an NPC have one use of your Weapon Manual.
 -   Ferrofluid is a real thing. It is a liquid with magnetic nanoparticles suspended in the fluid.
 -   Whenever the player unlocks a new Attunement, the corresponding training gear will be unlocked in the gear cabinet.

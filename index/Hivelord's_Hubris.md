@@ -1,9 +1,9 @@
 ---
 title: "Hivelord's Hubris"
-revid: 230344
+revid: 230583
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Heavy Weapons, Weapons of The Hive]
+categories: [Weapons, Greathammers, Heavy Weapons, Weapons of The Hive, Weapons with Unique Animations]
 ---
 
 # Hivelord's Hubris
