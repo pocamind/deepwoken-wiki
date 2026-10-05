@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 230417
+revid: 230554
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -35,5 +35,6 @@ The Widow's hollow is a large cave with its entrance found near the top of the g
 
 ## Trivia
 
+-   The music for this area is [In Shade, Hollow](https://deepwoken.fandom.com/wiki/In_Shade,_Hollow) by Naktigonis.
 -   Legion Snipers have a small chance to spawn here.
 -   While not being present through normal gameplay, clipping outside of the Monastery of Mur brings up the location marker for Widow's Hollow, and is established as a [voidzone](Voidzones.md).

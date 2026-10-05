@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 230333
+revid: 230561
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Mechanics, Humanoids with Unobtainable Outfits]
@@ -47,40 +47,43 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td colspan="24">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Jericho really ought to post me somewhere else, there's no way I'm going on patrol in this heat... <b>OH, A LOCAL!</b></td>
+  <td colspan="24">Jericho really ought to post me somewhere else, there's no way I'm going on patrol in this heat... <b>OH, A LOCAL!</b></td>
 </tr>
 <tr>
   <td colspan="12">I'm not a local.</td>
+  <td colspan="12">Jericho?... Are you with the Authority?</td>
 </tr>
 <tr>
   <td colspan="12">Oh? Then what are you?</td>
+  <td colspan="12"><i>*He tilts his head to the side.*</i> Um? Sure! Yeah? In a certain way, I guess! You're the local - why don't you tell me?</td>
 </tr>
 <tr>
   <td colspan="3">A Pathfinder</td>
   <td colspan="3">A Warrior.</td>
   <td colspan="3">A Scholar.</td>
   <td colspan="3">None of your business.</td>
+  <td>I'm not a local.</td>
 </tr>
 <tr>
   <td colspan="9">Wow... You really are full of yourself, huh?</td>
-  <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of <a href="Thresher.md">Threshers</a>, mind bringing me back a piece of one?</td>
+  <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?</td>
+  <td>[See first instance]</td>
 </tr>
 <tr>
   <td colspan="9">[End Dialogue]</td>
   <td>Sure.</td>
-  <td colspan="2">No.</td>
+  <td>No.</td>
 </tr>
 <tr>
   <td colspan="9"></td>
-  <td>Great! See you soon!</td>
+  <td colspan="2">Great! See you soon!</td>
+</tr>
+<tr>
+  <td colspan="9"></td>
   <td colspan="2">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="9"></td>
-  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

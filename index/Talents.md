@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230536
+revid: 230556
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5992,7 +5992,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Tags: \[Outfit • Common Talent\] \[Outfit\] \[Damage Reduction\]
 
 -   **Benefactor**: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to [Antiquarians](Antiquarian.md) within faction territories.
-    -   Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).  
+    -   Grants faction [reputation](Reputation.md) when selling items to their respective [Antiquarian](Antiquarian.md).
+    -   Selling 100 notes worth of items gives 1 reputation, this means it would take 30000 notes worth of items to go from neutral (0) to hero (300)  
         
     -   Tags: \[Varicosan Finery • Common Talent\] \[Outfit\]
 

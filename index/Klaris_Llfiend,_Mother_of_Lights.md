@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 230551
+revid: 230563
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -483,7 +483,7 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2"><i>*She appraises the blade for a moment.*</i> Hm. While I can't detect any Light within, there's definitely a whole load of souls crammed into that thing. And the absence of Light from it is telling in itself.</td>
+  <td colspan="2">Telling how?</td>
   <td colspan="2">[End Dialogue]</td>
   <td colspan="6"></td>
   <td colspan="2">[Stare in uncomfortable silence]</td>
@@ -491,31 +491,31 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">Telling how?</td>
+  <td colspan="2">Well, if this is part of the<a href="Glossary.md#the-moonseye">Moonseye</a> as you say, it would mean that the theory of the <a href="Glossary.md#the-moonseye">Moonseye</a> being a mass of souls would be correct. And since there's no Light within the blade, it suggests that the separated souls do not have the ability to project it. So either the <a href="Glossary.md#the-moonseye">Moonseye</a> as a whole is what produces Light, or...</td>
   <td colspan="8"></td>
   <td colspan="2">... <i>*You remember that this is what death feels like.*</i></td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">Well, if this is part of the<a href="Glossary.md#the-moonseye">Moonseye</a> as you say, it would mean that the theory of the <a href="Glossary.md#the-moonseye">Moonseye</a> being a mass of souls would be correct. And since there's no Light within the blade, it suggests that the separated souls do not have the ability to project it. So either the <a href="Glossary.md#the-moonseye">Moonseye</a> as a whole is what produces Light, or...</td>
-  <td colspan="8"></td>
-  <td colspan="2">[Stare in uncomfortable silence]</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
   <td colspan="2">Or...?</td>
   <td colspan="8"></td>
-  <td colspan="2">... <i>*You find yourself forgetting the faces of your parents, your family, your friends. You can't even remember what you last ate. You can't remember what eating feels like.*</i></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
 </tr>
 <tr>
   <td colspan="4"></td>
   <td colspan="2">Or it's simply that the souls within the blade do not possess the Gift. It could be that it's the departed souls of <a href="Glossary.md#lightkeep"><i>Lightkeepers</i></a> specifically within the <a href="Glossary.md#the-moonseye">Moonseye</a> that allow it to produce Light... Alternatively, it could just be that the process of being extracted from the <a href="Glossary.md#the-moonseye">Moonseye</a> has damaged the souls in some way. There's a lot of possibilities while we're still operating on inconclusive evidence.</td>
   <td colspan="8"></td>
-  <td colspan="2">[Stare in uncomfortable silence]</td>
+  <td colspan="2">... <i>*You find yourself forgetting the faces of your parents, your family, your friends. You can't even remember what you last ate. You can't remember what eating feels like.*</i></td>
 </tr>
 <tr>
   <td colspan="4"></td>
   <td colspan="2">[End Dialogue]</td>
+  <td colspan="8"></td>
+  <td colspan="2">[Stare in uncomfortable silence]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2"></td>
   <td colspan="8"></td>
   <td colspan="2">... <i>*The lights are switching off one by one. A door slams somewhere. A shutter rolls down. Operations are ending. The firms gone bankrupt. They couldn't keep it going. Not like this.*</i></td>
 </tr>

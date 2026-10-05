@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 229388
+revid: 230562
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Medium Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapo
 | type | Sword |
 | damage type | Slash |
 | requirements | 90 MED, LVL 10 |
-| damage | 19.8 |
+| damage | 19 |
 | scaling | MED: 8 |
 | posture damage | 5 |
 | range | 7.5 Sweep |
