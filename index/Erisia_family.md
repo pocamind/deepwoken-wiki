@@ -1,11 +1,11 @@
 ---
 title: Erisia family
-revid: 216473
+revid: 230617
 source: https://deepwoken.fandom.com/wiki/Erisia_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Game-adjacent articles", In progress without reason, InProgressPages, Families and lineages]
+categories: ["Game-adjacent articles", Stub pages without reason, StubPages, Families and lineages]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Erisia family

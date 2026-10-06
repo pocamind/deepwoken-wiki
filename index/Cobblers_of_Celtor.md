@@ -1,11 +1,11 @@
 ---
 title: Cobblers of Celtor
-revid: 225931
+revid: 230615
 source: https://deepwoken.fandom.com/wiki/Cobblers_of_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [Stub pages without reason, StubPages]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Cobblers of Celtor

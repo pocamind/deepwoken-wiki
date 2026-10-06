@@ -1,11 +1,11 @@
 ---
 title: Grim Adaset
-revid: 211983
+revid: 230623
 source: https://deepwoken.fandom.com/wiki/Grim_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", In progress without reason, InProgressPages, Characters mentioned in books]
+categories: ["Content not present in-game", Stub pages without reason, StubPages, Characters mentioned in books]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Grim Adaset

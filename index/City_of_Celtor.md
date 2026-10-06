@@ -1,12 +1,11 @@
 ---
 title: City of Celtor
-revid: 193712
+revid: 230614
 source: https://deepwoken.fandom.com/wiki/City_of_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages requiring a cleanup, In progress without reason, InProgressPages, Stub pages without reason, StubPages]
+categories: [Pages requiring a cleanup, Stub pages without reason, StubPages]
 notices:
   - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
-  - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 

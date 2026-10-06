@@ -1,11 +1,9 @@
 ---
 title: Fishing
-revid: 230208
+revid: 230618
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
-notices:
-  - "This page is currently being worked on. Fishing was recently reworked, please allow for some time before changes are fully set."
+categories: [Fishing, Mechanics]
 ---
 
 # Fishing

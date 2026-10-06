@@ -1,11 +1,11 @@
 ---
 title: "Alsin's Landing"
-revid: 226931
+revid: 230613
 source: https://deepwoken.fandom.com/wiki/Alsin's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Alsin's Landing

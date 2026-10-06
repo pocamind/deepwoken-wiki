@@ -1,6 +1,6 @@
 ---
 title: Void Spire (location)
-revid: 230356
+revid: 230603
 source: https://deepwoken.fandom.com/wiki/Void_Spire_(location)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Void Spire (location)
+
+_This page is about the Location. For the [Relic](Relics.md), see [Void Spire](Void_Spire.md)._
 
 LocationL Void Spire LocationR
 

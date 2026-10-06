@@ -1,32 +1,40 @@
 ---
 title: Galewax
-revid: 216651
+revid: 230619
 source: https://deepwoken.fandom.com/wiki/Galewax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Layer 2, Floor 1]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Harvestables, Ingredients, Floor 1, Layer 2]
 ---
 
 # Galewax
 
 | Galewax | |
 |---|---|
+| value | N/A |
 | weight | 1 |
-| stack | x9(?) |
+| stack | x9 |
 | type | Ingredient |
-| bankable | Yes |
-| droppable | Yes |
+| rarity | Common |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | Ancient wax of the Ethironal Shrine, allowing one to ignite divine candles. |
 | obtainment | Second Layer |
 
 ## Description
 
-**Galewax** is a mysterious substance found within [the Second Layer](Second_Layer.md) and it can be used to light Soul Candles which opens a hole in the ground beneath them to a chamber containing chests with [Enchant Stones](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md), and [Kyrs-weapons](Weapons.md). (You need 4 Galewax to enter the chamber)
+**Galewax** are a mysterious substance found within [the Second Layer](Second_Layer.md). They are primarily used to light Soul Candles at the Galewax shrine which ascends out, revealing beneath a chamber containing chests with [Enchant Stones](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md), and [Kyrs-weapons](Weapons.md).
 
 -   There are a total of 9 Galewax in Floor 1, a guide for all their locations can be found in [this video](https://www.youtube.com/watch?v=9RfD_RxO0T4).
--   Galewax you collect disappears from your inventory when you beat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and go back up to [layer 1](First_Layer.md).
--   You need to complete the Galewax quest to get a [Deepshore Fossil](Deepshore_Fossil.md)
+-   Any Galewax that was collected disappears from your inventory after exiting [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md).
 
-Galewax is also used in the recipes for the [Delver Boots](Delver_Boots.md), boots that allow you negate the [Eternal Gale](Second_Layer.md)'s flinging effects, and the [Wormwarder Lantern](Wormwarder_Lantern.md), which negates all parasites. However, because Galewax disappears when you leave [L2](Second_Layer.md), you either need the Talent Master Craftsman, or you need to use the crafting station in [The Frontier Furnace](The_Frontier_Furnace.md).
+## Crafting
+
+### Used in
+
+-   [Delver Boots](Delver_Boots.md) - 2 Galewax, 2x [Umbrite](Ores.md#umbrite), and 1 [Leather Boots](Leather_Boots.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md).
+-   [Delver Boots](Delver_Boots.md) - 1 Galewax, 4x [Irithine](Ores.md#irithine), and 4 [Spark Glands](Spark_Gland.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md).
+
+## Trivia
+
+-   Since you are unable to have Galewax outside of the Second Layer, if you intend to craft items with it you must have the [Master Craftsman](Talents.md#master-craftsman) [Talent](Talents.md) or use the [Crafting Station](Crafting_Station.md) inside [The Frontier Furnace](The_Frontier_Furnace.md).

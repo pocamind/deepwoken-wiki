@@ -1,11 +1,11 @@
 ---
 title: Circle of Honour
-revid: 196037
+revid: 230616
 source: https://deepwoken.fandom.com/wiki/Circle_of_Honour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Circle of Honour]
+categories: [Stub pages without reason, StubPages, Circle of Honour]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Circle of Honour
