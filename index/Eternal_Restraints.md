@@ -1,6 +1,6 @@
 ---
 title: Eternal Restraints
-revid: 225182
+revid: 230635
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Arms, Developer Spec, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,5 +32,5 @@ The Eternal Restraints are an [Equipment](Equipment.md) item under the "Arms" ca
 ## Trivia
 
 -   The Eternal Restraints are one of the two [Equipment](Equipment.md) pieces to give a percentage of innate HP. The other one being [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>)
--   The Eternal Restraints are one of the two Arms [Equipment](Equipment.md) that emit particles by default. The other one being [Stag Wraps](Stag_Wraps.md).
+-   The Eternal Restraints are one of the three Arms [Equipment](Equipment.md) that emit particles by default. The others being [Stag Wraps](Stag_Wraps.md) & [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md).
 -   Arch\_Mage is the only owner of the Eternal Restraints.

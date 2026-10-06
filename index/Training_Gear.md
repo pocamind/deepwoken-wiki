@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 230580
+revid: 230634
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -23,16 +23,17 @@ Most of the attribute training gears are self explanatory, though some training 
 -   **Training Vest**, after equipping it, you will gain attribute experience upon being hit.
 -   **Ankle Weights** provide attribute experience when performing any parkour maneuver (dodging, climbing, etc) or sprinting when worn. Dodging attacks grants more attribute experience.
 -   **[How to Make Friends](How_to_Make_Friends.md)** can be trained by clicking the words around the screen _or_ by typing in the listed text manually.
--   **[Weapon Manual](Weapon_Manual.md)**: Upon use, the manual will display [attack telegraph glyphs](Combat_Mechanics.md#telegraphed-attacks) that shrink in size, with text that tells you what action to take. When the circle reaches its smallest size, perform the listed action. After a glyph is completed or failed, the next glyph will appear. Once all glyphs have gone through, you will gain experience correlating with your overall performance. You can switch which weapon attribute you are training, depending on the type of the weapon that you are using.
+-   **[Weapon Manual](Weapon_Manual.md)**: Upon use, the manual will display [attack telegraph glyphs](Combat_Mechanics.md#telegraphed-attacks) that shrink in size, with text that tells you what action to take. When the circle reaches its smallest size, perform the listed action to complete the glyph. Failure will result in you being very briefly hitstunned. After a glyph is completed or failed, the next glyph will appear. Once all glyphs have gone through, you will gain experience in response to your overall performance. You can switch which weapon attribute you are training, depending on the type of the weapon that you are using.
     -   The glyphs displayed, and their solutions, correlate with the [attack telegraphs](Combat_Mechanics.md#telegraphed-attacks) of many NPC and Player attacks, making the Weapon Manual a great way to familiarize yourself with this mechanic, without putting yourself into danger. Though keep in mind that a few glyphs are committed from the Weapon Manual. Refer to the [Combat Mechanics](Combat_Mechanics.md#attack-telegraphs) page for more info.
+    -   By making you dodge and parry attacks, the Weapon Manual inadvertently gives Agility and Strength experience on the related glyphs.
 
-### Intent vs Experience
+### Investment Intent
 
-All training gear give Attribute Experience when used, though the experience given does not always correlate with the Intent.
+Upon using an eligible Training Gear, training intent will be set on the respective attribute, allowing you to increase said attribute once an amount of general and attribute experience is met.
 
-When using the correlating Training Gear, Training Intent will often be set to the related attribute. Training Intent allows you to increase an attribute after meeting a threshold of Attribute and General experience. Without Intent, the Attribute will not increase, unless Training Points are used.
+Intent is entirely separate from the attribute experience given when using a Training Gear. For instance, the Boulder gives attribute experience for all three body stats, without setting _intent_ on any of them. This disallows it from increasing the attributes unless intent has already been set. Simiarily, the Prayer Beads gives attribute experience to all three Mind stats, but it only sets _intent_ on Willpower.
 
-Certain training gears, notably the Boulder and Math Textbook, do not give intent for a specific attribute on use, only serving to give experience towards all attributes within the Body and Mind categories respectively.
+You can clear the intent on a specific attribute by right clicking the stat in your Journal and clicking the "Clear Intent" option. Alternatively, locking an attribute will prevent it from increasing in general.
 
 ### Training Messages
 
@@ -85,7 +86,7 @@ _Train your Charisma by practising lines._ | **Charisma** | _200 uses_ |
 | **[Weapon Manual](Weapon_Manual.md)**  
 
   
-_Run through a training exercise to hone your weapon handling._ | **Weapon**  
+_Run through a training exercise to hone your weapon handling._ | **Light Weapon / Medium Weapon / Heavy Weapon**  
 The Weapon attribute corresponding with the weapon type of the equipped weapon on use. | _Infinite uses_ |
 | **Tourniquet**  
 

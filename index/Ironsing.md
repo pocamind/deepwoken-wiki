@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 228853
+revid: 230627
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -421,7 +421,7 @@ _Unleash a rain of metal rods down below._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 

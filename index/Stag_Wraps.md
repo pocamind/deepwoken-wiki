@@ -1,6 +1,6 @@
 ---
 title: Stag Wraps
-revid: 224625
+revid: 230636
 source: https://deepwoken.fandom.com/wiki/Stag_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Arms, Wraps, Developer Spec, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -34,7 +34,7 @@ Stag Wraps give the user the talent "Reinforced Armor" which make Incoming PEN r
 
 ## Trivia
 
--   Stag Wraps are one of the two Arms [Equipment](Equipment.md) that emit particles by default. The other one being [Eternal Restraints](Eternal_Restraints.md).
+-   Stag Wraps are one of the three Arms [Equipment](Equipment.md) that emit particles by default. The others being [Eternal Restraints](Eternal_Restraints.md) & [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md).
 -   Concept artist and modeller Nuttoons is the sole owner of the Stag Wraps.
 -   Nuttoons wears Stag Wraps along with another item exclusive to him, [Toon's Goggles](<Toon's_Goggles.md>).
 -   Stag Wraps are made of Song, to voluntarily suppress Stag’s curse. Stag is under a curse where he can't die, he exchanged physical pain for power, and the pain is suppressed by the wraps (which also heavily nerfs him).
