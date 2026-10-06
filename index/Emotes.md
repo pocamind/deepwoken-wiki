@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 230582
+revid: 230593
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,7 @@ Emote Menu
 
 ## Description
 
-Emotes are gestures or poses a player can use. The default input to select emotes is K. They can also be accessed though the Journal menu, by clicking the green button in the center of the screen. To use an emote click the emote name in the emote selection UI.
+Emotes are gestures or poses a player can use. The default input to select emotes is K. They can also be accessed though the Journal menu, by clicking the green button in the center of the screen. To use an emote, click the emote name in the emote selection UI.
 
 For the most part, emotes are purely cosmetic. However, they can be used for other purposes, such as emoting at [The Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) memorial near the [Etris Docks](Etris_Docks.md), to summon [Destroyman III](Destroyman_III.md) or activating certain [Talents](Talents.md) (namely [Golden Tongue](Talents.md#golden-tongue) and [Mocking Favor](Talents.md#mocking-favor)). Additionally, some of the Communication Gestures have unique effects when used.
 
@@ -82,7 +82,7 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 -   Some NPCs can use emotes:
     -   A multitude of NPCs use player-obtainable emotes as their idle animation.
     -   After an [Authority Ensign](Authority_Ensign.md) player joins a [Division](Authority_Ensign.md#divisions), most [Authority](The_Central_Authority.md)\-aligned NPCs will perform the Salute emote when approached. This has a short cooldown per-NPC, and won't trigger if the NPC is currently in combat, or if the player has been [exiled](Authority_Ensign.md#exile) from the Authority. Additionally, the Salute emote can be triggered, both for the player and the NPC, by choosing certain dialogue options with certain Authority-aligned NPCs as an Authority Ensign.
-    -   [Tillian](Tillian.md), when spawned through [Jester's Garb](<Jester's_Garb.md>)'s [Mocking Favor](Talents.md#mocking-favor) Talent, will use one of the following emotes at random: Headbang, Sturdy, Goopie, Head Nod, or Tillian's unique idle animation.
+    -   [Tillian](Tillian.md) and [Aelita](Aelita.md), when spawned through [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>)'s [Mocking Favor](Talents.md#mocking-favor) Talent, will use one of the following emotes at random: Headbang, Sturdy, Goopie, Head Nod, or Tillian's unique idle animation.
 
 ## References
 

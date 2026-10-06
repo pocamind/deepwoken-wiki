@@ -1,6 +1,6 @@
 ---
 title: Deep Thresher Nest
-revid: 230432
+revid: 230597
 source: https://deepwoken.fandom.com/wiki/Deep_Thresher_Nest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]

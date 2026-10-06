@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 230379
+revid: 230595
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]

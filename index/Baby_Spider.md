@@ -1,6 +1,6 @@
 ---
 title: Baby Spider
-revid: 230526
+revid: 230594
 source: https://deepwoken.fandom.com/wiki/Baby_Spider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -92,4 +92,4 @@ Thought to have been cut content the baby widow made its return in 25' [Hallowti
 
 -   Despite being a baby version of the [Deep Widow](Deep_Widow.md) killing it does not count towards the bestiary challenges.
 -   The summoner can use buffs that would normally affect allies on the Baby Widow.
--   If a lot of these are grouped up it is capable of taking of doing huge bursts of damage taking down any player very quickly.
+-   If a lot of these are grouped up it is capable of doing huge bursts of damage taking down any player very quickly.

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 228839
+revid: 230589
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -65,4 +65,3 @@ All criticals have a cooldown of **5 seconds**.
 -   The Soulthorn is unable to be dropped.
 -   Soulthorn had all of its Penetration (30%) removed in the October 11th, 2024 update. This is widely considered by the community to be one of the harshest nerfs to a weapon in Deepwoken's history.
 -   Speaking to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) with a Soulthorn equipped will unlock a hidden [Glossary](Glossary.md#zhatarn-the-moonlight-prince) entry on [Zhatarn](Zhatarn.md), the Moonlight Prince.
--   The maximum damage able to be achieved is 40.2 if the user has 103 Intelligence, 100 Medium, and 6 Proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.

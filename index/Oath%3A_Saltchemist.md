@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 226535
+revid: 230591
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,19 +29,20 @@ The effects of this Oath happen as a result of drinking the **Root Panacea**, an
 
 ## Obtainment
 
-1.  Make at least one potion for [Ciea](Ciea.md). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
-2.  Obtain 75 [Intelligence](Attributes.md#int). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
-3.  In [Ferryman's Library](<Boatman's_Watch.md>), [Adrofalis](Adrofalis.md) will ask you to make a residue. Bring him the following ingredients:
-    -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to [Derelict Highchurch](Derelict_Highchurch.md) and use a canteen in the blood pool of the crucified Celestial. (The blood stays in your canteen just as regular water. It does not disappear when you die or rejoin, though **it will disappear** if you reset.)
-    -   [Stardust](Stardust.md) from a Star Tree. Consider getting a second one, which is needed to progress the Oath.
-    -   A [Pristine Lotus](Pristine_Lotus.md), which can be found in [The Entropy Catalyst](The_Entropy_Catalyst.md). You may also use a [Scarlet Lotus](Pristine_Lotus.md).
-4.  Gather those ingredients and return to [Adrofalis](Adrofalis.md), who will grant you the Oath.
+-   Meet the following requirements:
+    -   Have 75 [Intelligence](Attributes.md#int).
+    -   Make at least one potion for [Ciea](Ciea.md).
 
+-   Head to [Boatman's Watch](<Boatman's_Watch.md>), inside of a ruined tower is a hidden library where [Adrofalis](Adrofalis.md) can be found. They will ask you to make a residue. Bring him the following ingredients:
+    -   Celestial Ichor, the blood of a [Celestial](Celestial.md). Go to [Derelict Highchurch](Derelict_Highchurch.md) and climb down into the basement. Enter the hidden room with the crucified Celestial and use your [Canteen](Canteen.md) to collect the ichor. The blood stays in your canteen just as regular water. Although it will become unusable upon death, rejoining, or by resetting.
+    -   [Stardust](Stardust.md) from [Starfield Grove](Starfield_Grove.md), [Starfield Tundra](Starfield_Tundra.md), or [Starfield Veldt](Starfield_Veldt.md). Consider getting a second one, which is needed to progress the Oath.
+    -   A [Pristine Lotus](Pristine_Lotus.md), which can be found in [The Entropy Catalyst](The_Entropy_Catalyst.md). You may also use a [Scarlet Lotus](Pristine_Lotus.md).
+-   Gather those ingredients and return to [Adrofalis](Adrofalis.md), who will grant you the Oath.
 -   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/8atBg8DFbpU)._
 
-You can obtain/"skip" the salts and mantra obtainment instantly with 10 knowledge (Not recommended, since the materials are easy to get)
+You can obtain/"skip" the salts and mantra obtainment instantly with 10 knowledge.
 
 _Saltchemist **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
