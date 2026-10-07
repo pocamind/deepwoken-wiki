@@ -1,6 +1,6 @@
 ---
 title: Sear
-revid: 217988
+revid: 230656
 source: https://deepwoken.fandom.com/wiki/Sear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -38,6 +38,6 @@ Additionally, your weapon attacks drain your opponent's water meter, with the dr
 
 ## Trivia
 
--   Prior to August 2nd, 2022, Sear would steal thirst on hit, similar to [Gluttony](Gluttony.md).
+-   Prior to August 2nd, 2022, Sear would steal thirst instead of simply draining it, similar to [Gluttony](Gluttony.md).
 
 Old Sear

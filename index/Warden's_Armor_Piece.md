@@ -1,9 +1,9 @@
 ---
 title: "Warden's Armor Piece"
-revid: 229303
+revid: 230651
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Warden's Armor Piece
@@ -20,6 +20,10 @@ categories: [Items, Drops, Ingredients]
 | pass down | No |
 | desc | Forged with steel from the furnaces of Markor. |
 | obtainment | Titus Fulminus Destellus (boss chest), Authority Chainwarden (direct drop) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

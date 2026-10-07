@@ -179,7 +179,3 @@ Join Us
 If you see this, your JavaScript might be disabled or DiscordIntegrator plugin isn't working. If the latter, please contact a Wiki Administrator.
 
 Staff
-
-Twitter Feed
-
-[Twitter](https://twitter.com/Deepwoken)

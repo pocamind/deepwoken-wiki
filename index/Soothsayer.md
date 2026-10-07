@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 226165
+revid: 230650
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, Vendors, The Ministry, Individuals with unspecified pronouns]
@@ -83,3 +83,4 @@ Exact location of Soothsayer on the map:
 -   It would take 334 Knowledge to get 0-100,000 notes.
 -   This NPC is an easy way to get Ministry Reputation for the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   The dialogue "AH! ALL SO CLEAR! THE VOW! OH, THE VOW THEY MADE! WHAT FOLLY! WHAT FOLLY!" is a reference to how the [Celtorian Guards](Celtorian_Guard.md) made the Vows with an entity (Possibly the [Voices of The Depths](Voices_of_the_Depths.md)) to "Keep [Celtor](City_of_Celtor.md) safe". However, that vow really just made them and the monsters not attack each other and made [Angels](Hollow_Angel.md) servants to the [Watchers](Watcher.md), unintentionally resulting in Celtor being even more dangerous.
+-   There's a bug which doesn't allow you to sell your knowledge if you only have 1.

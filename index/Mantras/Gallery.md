@@ -5213,7 +5213,7 @@ _Unleash a rain of metal rods down below._
 
  | 
 
-Metal [ResistanceIronsing](../Ironsing.md)
+Metal [ResistanceIronsing](../Ironsing.md) + [Bleed](../Status_Effects.md#bleed)
 
  | 
 
