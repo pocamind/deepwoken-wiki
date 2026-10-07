@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 227898
+revid: 230647
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -172,3 +172,4 @@ Dodge
 -   Megalodaunts participated in the April 1st, 2024 event under the name of Red Daunts and won.
 -   [Destroyman III](Destroyman_III.md) is a small, chibi Megalodaunt that can talk.
 -   According to [Mortus](Mortus.md), the flesh of a Megalodaunt is edible. That being said, the [Megurger](Megurger.md) is said to be made out of Megalodaunt's flesh and is described to be rather foul food.
+-   Infamously known to wipe most freshies in the Depths along side Depth gankers.

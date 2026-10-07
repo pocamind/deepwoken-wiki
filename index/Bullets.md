@@ -1,6 +1,6 @@
 ---
 title: Bullets
-revid: 230637
+revid: 230646
 source: https://deepwoken.fandom.com/wiki/Bullets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics, Items]
@@ -63,4 +63,3 @@ After landing 7 hits, apply [Frozen](Status_Effects.md#frozen) to the target or 
 -   [Stormeye's](Stormseye.md) and [Rosen's Hellflames's](<Rosen's_Hellflame.md>) shots can use encased bullets.
 -   Erisore's bullets seem to simply apply the same effect as the [Ring of Pestilence](Ring_of_Pestilence.md), so it's more advisable to use the ring and avoid the damage reduction.
 -   The effects of minerals on bullets actually only apply to the "explosion" of the shot and not the projectile, this ironically makes using encased bullets more convenient in rifles and 2H pistols than 1H pistols.
--   Umbral bullets are not worth it adding an extra .4 to the swing speed for 3 extra damage
