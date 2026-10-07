@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 229243
+revid: 230643
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -151,7 +151,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 ### Mantras
 
-#### Mobility Mantras
+#### Combat Mantras
 
 | 
 **Name**
@@ -225,6 +225,39 @@ TBA
 -   Has a cooldown of 15 seconds once the move has ended. (Full cooldown on feint/whiff)
 
  |
+
+#### Mobility Mantras
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Jet Kick** (☆☆☆)

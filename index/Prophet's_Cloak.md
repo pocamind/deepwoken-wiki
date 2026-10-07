@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 226908
+revid: 230642
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Ministry]
@@ -51,3 +51,4 @@ The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20
 -   Worn by most [Ministry](The_Ministry.md) [NPCs](Ministry_Scout.md).
 -   Shares the same crafting requirements with [Celtorian Tideknight](Celtorian_Tideknight.md).
 -   Getting gripped by a [Gran Sudaruska](Gran_Sudaruska.md) user while wearing this will cause the Gran Sudaruska to talk and insult you.
+-   The emblem on the Prophet's Cloak heavily resembles the head of the [Scion of Ethiron.](Scion_of_Ethiron.md)

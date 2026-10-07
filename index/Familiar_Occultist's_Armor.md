@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 226014
+revid: 230641
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits 
 | resistances | +25% Physical Armor +25% Elemental Armor , +20% Shadow Armor |
 | buffs | +50% Ether Regen |
 | talents | Life Leech |
-| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '25 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
+| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '25 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper, Goodie Bag |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -46,7 +46,7 @@ The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summ
 -   Eligible summons include:
     -   Monsters summoned from the [Parasol's Blight](<Parasol's_Blight.md>) enchantment
     -   Spiderlings summoned from [The Weaving Web](The_Weaving_Web.md)'s critical attack
-    -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants) and [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter)
+    -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants), [Cheap trick](Oath%253A_Visionshaper.md#talents) and [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter)
     -   [Lightning Clones](Thundercall.md#lightning-clones)
     -   [Flame Sentinel](Flamecharm.md#flame-sentinel)
 -   Ineligible summons include:
