@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 229835
+revid: 230671
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Humanoid Bosses, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -57,6 +57,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 -   These moves are typically slow and can often lead to the player missing a parry.
 -   Because he has the effect of Commander's Rage and throughout the entire second phase, this attack becomes Unparryable being telegraphed.
+-   If in Commander's Rage his basic attacks will apply wither, blightshock and deal 20 posture.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -136,6 +137,7 @@ Parry
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
 
 -   This move can cause debris to fall.
+-   Titus does not need to activate this move to enter Sovereign State but him using it will put him in Sovereign State.
 
 _Uses Telegraph_
 
@@ -357,6 +359,7 @@ Avoid
 
 -   Brute Strength - Titus' vent is replaced with a ground slam attack that knocks back enemies.
 -   Blight Pierce - While Titus is in sovereign state his attacks will interrupt attacks through hyperarmor.
+-   Bulldozer - If Titus lands a flourishes into a wall have a chance of breaking that wall and become guard broken on impact.
 
 ### Finishers
 

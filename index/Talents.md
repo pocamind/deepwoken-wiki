@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230644
+revid: 230665
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5827,6 +5827,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Summons two [Mudskippers](Mudskipper.md). These Mudskippers can be either [Miniskippers](Mudskipper.md) or [Bloatskippers](Mudskipper.md#bloatskipper).
 
 -   Overwhelming Stability: [Duskpole](Duskpole.md) - Landing a [Both Ends](#both-ends) staff strike will now instantly proc insanity debuffs onto your opponent. The damage from insanity procs is further increased the greater the difference there is between you and your opponents \[5 sec CD\]
+    -   This Talent immediately triggers applicable [Insanity](Insanity.md) effects on your opponent when you land a [Both Ends](#both-ends) staff strike. For example, if your opponent is below 40% Sanity, they will begin to panick after you land a both ends staff strike, taking additional damage and stun. This has a 5 second cooldown.
+    -   The damage these Insanity effects deal are increased by 0.0475 for every 1 current Sanity difference between you and your opponent, dealing more damage the greater the difference in Sanity.
+    -   This is affected by both the [Unfazed](#unfazed) and [Grasp on Reality](#grasp-on-reality) Talents, with the former increasing the Sanity threshold for this Talent to trigger, and the latter halving the damage dealt.
 
 -   Pastry Platter: [The Pastry Paster](The_Pastry_Paster.md) - Guardbreaking your opponent with a critical attack gives you a random non-boss food buff for 30 seconds.
     -   This cannot give the [Brain](Status_Effects.md#brain), [Scale](Status_Effects.md#scale), [Strength](Status_Effects.md#strength), or [Throat](Status_Effects.md#throat) food buffs.

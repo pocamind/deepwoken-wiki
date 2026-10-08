@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 229352
+revid: 230664
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -44,7 +44,9 @@ The Duskpole is a [Staff](Weapons.md) weapon in the Medium category.
 
 Equipping the Duskpole grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Overwhelming Stability**](Talents.md#overwhelming-stability) applies the effects of [Insanity](Insanity.md) to your opponent when you land a [Both Ends](Talents.md#both-ends) staff strike. This has a 5 second cooldown. Additionally, the damage these Insanity effects deal scales on the "difference" between you and your opponent.
+[**Overwhelming Stability**](Talents.md#overwhelming-stability) immediately triggers applicable [Insanity](Insanity.md) effects on your opponent when you land a [Both Ends](Talents.md#both-ends) staff strike. For example, if your opponent is below 40% Sanity, they will begin to panick after you land a both ends staff strike, taking additional damage and stun. This has a 5 second cooldown. Additionally, the damage these Insanity effects deal are increased by 0.0475 for every 1 current Sanity difference between you and your opponent, dealing more damage the greater the difference in Sanity.
+
+This is affected by both the [Unfazed](Talents.md#unfazed) and [Grasp on Reality](Talents.md#grasp-on-reality) Talents, with the former increasing the Sanity threshold for this Talent to trigger, and the latter halving the damage dealt.
 
 ## Critical
 

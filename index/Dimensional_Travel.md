@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 229278
+revid: 230660
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -81,4 +81,4 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   You can fish in the cracks of the floor.
 -   All healing in [The Interstice](The_Interstice.md) is greatly hampered, similarly to [Voidzones](Voidzones.md).
 -   When trying to use Dimensional Travel in [The Interstice](The_Interstice.md), while in the [First Layer](First_Layer.md), if the location viewed is a kill brick, the message "You might suffocate in here" will be displayed.
--   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period.
+-   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period. Such as the [Dread Serpent](Dread_Serpent.md).
