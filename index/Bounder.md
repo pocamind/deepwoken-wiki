@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 225101
+revid: 230680
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -102,8 +102,6 @@ Dodge
 -   Despite its resemblance to the Megalodaunt, its anatomy more-so resembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
 -   Like every other monster in the Second Layer, [Mute](Regalia.md#mute) has no effect on Bounders.
 -   Curiously, Bounders are social creatures, as shown by their ability to create nests and live as a pack. Beyond this, there isn't much evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
--   Bounders are often considered by the community as one of the most dangerous monsters in the Second Layer, if not the entire game due to their insane damage
 -   It was said by Arch\_Mage that there was supposed to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   Their cry is a heavily distorted wolf howl.
 -   Their item drop, the Bounder Claw, can be taken out of the Second Layer without having to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (either by using the Light Hook or Ignition Deepdriller).
--   On 12/27/24, it was discovered that the icon for the Bounder when it killed someone was the texture of its inner cheek/gums, which resembled an inappropriate image. It was deemed _The Boundingaling Incident_.

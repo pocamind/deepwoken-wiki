@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 223272
+revid: 230676
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Expert Outfits, Outfits, The Hive, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -18,7 +18,7 @@ categories: [Expert Outfits, Outfits, The Hive, Outfits with Talents, "Outfits w
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +25% Physical Armor , +5% Blunt Armor +25% Elemental Armor , +5% Wind Armor |
+| resistances | +25% Physical Armor , +5% Blunt Armor , +25% Elemental Armor , +5% Wind Armor |
 | talents | Lowstride |
 | obtainment | Chests from:, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Faction Ambushes (Summer Isle), Scope, Summer Isle, Jobs:, Security Detail, Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |

@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 230484
+revid: 230675
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
@@ -122,5 +122,4 @@ The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), th
 
 ## Trivia
 
--   Between 2024 and 2026 this NPC was not documented to have been seen a single time.
-    -   This means you shouldn't attempt to seek this NPC out in order to obtain Tacet, as it is the rarest event in the game by a significant margin, even rarer than the [Resonant Dawn](Random_Encounters.md) event.
+-   This NPC is notoriously known to be the rarest event in the game by a significant margin, even rarer than the [Resonant Dawn](Random_Encounters.md) event.

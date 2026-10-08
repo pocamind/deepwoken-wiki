@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 229509
+revid: 230681
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -537,7 +537,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](Shad
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Has a base damage of -52/62/72/82/92 per level with 2.75 Shadowcast scaling.
+-   Has a base damage of 52/62/72/82/92 per level with 2.75 Shadowcast scaling.
 -   Drains 33.25/38.98/44.7/50.425/56.15 Ether per level with 2.75 Shadowcast scaling.
 -   Has a 1 second windup with True Hyperarmor and a 12 second cooldown.
 -   Eclipse Kick ragdolls targets who dodge it.

@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 220829
+revid: 230679
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Rifles, Medium Weapons, Craftable, Weapons of The Summer Company]
@@ -42,7 +42,7 @@ This weapon gains a unique visual effect when equipped, both held and when holst
 
 Equipping the Winter Rifle grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Subzero**](Talents.md#subzero) applies the [Frozen](Status_Effects.md#frozen) status effect when you land a running attack. Landing M1s on your opponent after this effect ends will briefly slow them. This Talent has a 10 second cooldown.
+[**Subzero**](Talents.md#subzero) applies the [Bottom Freeze](Status_Effects.md#bottom-freeze) status effect when you land a running attack. Landing M1s on your opponent after this effect ends will briefly slow them. This Talent has a 10 second cooldown.
 
 ## Critical
 

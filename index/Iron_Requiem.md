@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 229813
+revid: 230683
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -37,6 +37,8 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, L
 ## Description
 
 The Iron Requiem is a Legendary [Ironsing](Ironsing.md)\-Scaling Pistol obtained within Ignition Union territories, most commonly through the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. Unlike other Pistols, it may only be used as a **Main Hand** weapon, but an offhand weapon can still be used alongside it.
+
+The Iron Requiem comes with a passive that applies metal rods onto enemies when struck with an unloaded M1.
 
 The Iron Requiem has a [Bullet](Bullets.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 

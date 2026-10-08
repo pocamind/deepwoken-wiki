@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 230485
+revid: 230682
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -37,6 +37,8 @@ A target's bounty points are determined using several factors:
 -   10 points from having an Oath
 -   10 points from having an enchant/legendary weapon
 -   5/10/15 points depending on armor tier (5 from adept, 10 from expert, 15 from master/unique)
+
+Additionally, an account-wide tier system determines whether a player can accept a bounty. A player's tier is determined by their overall experience with the game, regardless of their character's power level. There are currently three tiers. Players cannot accept bounties from targets whose account tier is lower than their own, resulting in the message, "This bounty isn't enough of a challenge for you." For example, even if a player is using a Power 2 character, they cannot take on a bounty of a Power 20 character if the target's account tier is only 1 and the player's tier is 3.
 
 When a bounty is taken, at the top left corner of your screen it will say the name of the person you're hunting and where they are located. The location will be refreshed every two minutes.
 
