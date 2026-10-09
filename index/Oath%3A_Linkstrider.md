@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 229778
+revid: 230695
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -83,7 +83,7 @@ This Oath grants 2 Support Mantra slots, 1 Wildcard Mantra slot, and +5% PEN. Ap
     -   Red Cords (Enemies) gain a minor speed debuff, swing speed debuff, and a 10% damage decrease.
     -   Only one link of each type can exist simultaneously.
     -   Allows you to passively see the health bar of allies, even when not active.
-    -   Links will also break if you go too faw are from the linked target, with a 3 second grace period before breaking.
+    -   Links will also break if you go too far away from the linked target, with a 3 second grace period before breaking.
 -   Obtained upon killing 1 player with an [Oath](Oaths.md).
 
 ### Mantras

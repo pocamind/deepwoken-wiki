@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 225007
+revid: 230701
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -115,7 +115,6 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
 -   Frostbite - Enemies no longer heal when under the effect of your chill.
 -   Saint Jay - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
 -   Berserker - Knocking an enemy grants you 20% damage resistance for 15 seconds.
--   Anxious Guard - Hitting an enemies block causes their parry window to be lowered for a short duration.
 
 ## Finisher
 
