@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 218116
+revid: 230685
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -49,7 +49,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 2.  Enter [The Garden Reservoir](The_Garden_Reservoir.md) and obtain a [Soul Hearthgem](Soul_Hearthgem.md). They are located in the middle of the Garden Reservoir in a ruined building near a golem turret.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brazier with the Soul Hearthgem in the following sequence: Left, Back, Front, Right.
 4.  Then go to the cave next to the bandit camp back in lower and take the top path to the left
-5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps.
+5.  Enter the hole and walk into the blue fog (the same area from the lars quest), locating blue mushrooms called Bluecaps.
 6.  Lastly, eat one of the Bluecaps, _**in the same server you lit the braziers in.**_
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ldfOo26Pj4s)._

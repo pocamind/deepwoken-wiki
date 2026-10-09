@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 226537
+revid: 230688
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", The Starkindred Church]
@@ -15,7 +15,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | requirements | 50 MED, 30 BDY |
 | damage | 17 |
 | scaling | MED: 7, BDY: 2.5 |
-| posture damage | 4.5 |
+| posture damage | 3 |
 | range | 7.5 Sweep |
 | swing speed | 1.05x |
 | attack duration | 0.6s |

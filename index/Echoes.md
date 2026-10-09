@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 230428
+revid: 230692
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -471,6 +471,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 1.
         -   The maximum threshold of damage is 2x.
         -   Chain of Perfection does **not** work in PvP.
+-   Taking damage from any source other than the boss itself during the fight will not prevent you from obtaining Chain of Perfection.
 
 **(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once using the fountain located along the eastern outskirts of [The Starswept Valley](The_Starswept_Valley.md).**
 

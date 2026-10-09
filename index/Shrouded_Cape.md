@@ -1,6 +1,6 @@
 ---
 title: Shrouded Cape
-revid: 226032
+revid: 230687
 source: https://deepwoken.fandom.com/wiki/Shrouded_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
@@ -29,4 +29,4 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 
 The Shrouded Cape is an animated [Equipment](Equipment.md) item under the "Torso" category.
 
-They can be found through chests by [Fishing](Fishing.md) and by beating [Duke Erisia](Duke_Ishamon_Erisia.md).
+They can be found through chests by [Fishing](Fishing.md) and by beating [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
