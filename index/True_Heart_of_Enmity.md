@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 228652
+revid: 230706
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 The True Heart of Enmity is a boss encountered in the [Depths Trial](Cathedral_of_the_Interstice.md#the-trial), after defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md). It is the same incarnation by the [Voice of Enmity](https://deepwoken.fandom.com/wiki/Voices_of_the_Depths#Voice_of_Enmity) as in the Pathfinder gamemode, with a new, more aggressive moveset. This boss is not optional, as they are mandatory to uncap Power 15 and break the barrier that protects [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>).
 
-It is the same gargantuan creature wrought of iron and animosity, though what makes it more distinct is the visual effect on the back of it's head, similar to the [Thrall of Enmity](Thrall_of_Enmity.md), which emits a spinning halo of dark, yellow and white colors and projects light. The boss area in this room is brighter, perhaps due to few amounts of people escaping the depths and beating Enmity's physical form. The True Heart of Enmity exists as the punishment the player must endure for daring to strike a bargain with the [Voices of the Depths](Voices_of_the_Depths.md), allowing them to resurface where they chose, thereby bypassing the protective barrier placed by [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>).
+It is the same gargantuan creature wrought of iron and animosity, though it dons a halo on the back of its head. The halo consists of a eight-pointed star at its center, surrounded by a swirling mass of pale souls, then ending with black accents. The boss area in this room is brighter, perhaps due to few amounts of people escaping the depths and beating Enmity's physical form. The True Heart of Enmity exists as the punishment the player must endure for daring to strike a bargain with the [Voices of the Depths](Voices_of_the_Depths.md), allowing them to resurface where they chose, thereby bypassing the protective barrier placed by [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>).
 
 ### Starting the Fight with True Enmity
 

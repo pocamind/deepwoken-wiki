@@ -1,6 +1,6 @@
 ---
 title: Golem Magma
-revid: 225117
+revid: 230705
 source: https://deepwoken.fandom.com/wiki/Golem_Magma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
