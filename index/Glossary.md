@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 230545
+revid: 230715
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -592,7 +592,7 @@ Dialogue: [Samael](Samael.md)
 -   Supposedly hailing from a mountainous region before the coming of the [Tides](#the-tides), the Adret people consisted of a smattering of tribes and kingdoms isolated by their rugged landscape. As the [Tides](#the-tides) rose, the rest of the world opened up to the Adret, allowing them to expand and subdue their neighbours, thus forming the [Adretian Empire](#the-adretian-empire). Over time, the Empire formed a coalition with multiple other nations, becoming the [Central Authority](#the-central-authority).
 -   Lending to their history, the Adret have a reputation as bureaucrats and government officials.
 
-Dialogue: [Amethyst](<Amethyst_(NPC).md>), [Artus](Artus.md), Chud-Steel, [Ishan](Ishan.md), [Karliah](Karliah.md), [Kayla](Kayla.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Amethyst](<Amethyst_(NPC).md>), [Artus](Artus.md), [Chud Steel](Chud_Steel.md), [Ishan](Ishan.md), [Karliah](Karliah.md), [Kayla](Kayla.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ### Canor
 
@@ -934,6 +934,8 @@ Dialogue: [Cestis](Cestis.md), [Chud Steel](Chud_Steel.md) | Books: | Glossary E
 -   ['Aecta'](#the-moonlit-dialect) (plural 'Aecti') refers to a Chrysid who lives natively within the [Lullaby Isles](#the-lullaby-isles).
 
 Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) players' name with the surname "Aecta" or "Aecti" | Books: [Ossuary Maintenance](Ossuary_Maintenance.md), [Strange Missives](Strange_Missives.md) | Glossary Entries:
+
+### Span
 
 -   A unit of timekeeping used ubiquitously in Lumen. It is equivalent to 45 or 46 days, depending on the span in question.
 -   [Hearthspan](#hearthspan), [Seedspan](#seedspan), [Bloomfall](#bloomfall), [Scythespan](#scythespan), and [Saltspan](#saltspan) each have 46 days, while [Rootwatch](#rootwatch), [Ardfall](#ardfall), and [Rimefall](#rimefall) have 45.
