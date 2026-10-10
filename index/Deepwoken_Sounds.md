@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 230709
+revid: 230712
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -8,7 +8,7 @@ categories: [Deepwoken]
 
 # Deepwoken Sounds
 
-_For the Deepwoken soundtrakc, see [Deepwoken OST](Deepwoken_OST.md)._
+_For the Deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 
 **A large collection of sounds found within Deepwoken.**
 
@@ -242,7 +242,7 @@ _For the Deepwoken soundtrakc, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 33s | [Second Layer](Second_Layer.md) Puzzle Spikes Rumbling (Loop) |
 |  | 18.6s | Puzzle Room Walls Closing In Loop |
 |  | 4.0s | [Scion of Ethiron](Second_Layer/New_Kyrsa.md) Calling |
-|  | 0.7s | [False Man NPC](Second_Layer/New_Kyrsa.md) Body Snap |
+|  | 0.7s | [False Man NPC](<%253F%253F%253F_(FalseMan).md>) Body Snap |
 |  | 31.5s | [Kyrsan](Second_Layer/New_Kyrsa.md) Obelisk Ambiance (Extended) |
 |  | 4.2s | [Kyrsan](Second_Layer/New_Kyrsa.md) Obelisk Interaction |
 |  | 5.1s | [Kyrsan](Kyrsgarde.md) Ambush |

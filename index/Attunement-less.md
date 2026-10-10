@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 230412
+revid: 230711
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -347,7 +347,7 @@ Blunt ResistanceBlunt
 
 **Combat Mantra**
 
-_Grab and throw your enemies._
+_Grab and throw your enemies.(gif outdated)_
 
  | 
 
@@ -355,7 +355,7 @@ _Grab and throw your enemies._
 
   
 **Combat Mantra**  
-_Grab and throw your enemies._
+_Grab and throw your enemies.(gif outdated)_
 
  |
 | 
@@ -380,6 +380,8 @@ Blunt ResistanceBlunt
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 -   Using this Mantra in the air allows you to aim freely but they will still be flung afterwards.
+-   Can ragdoll other enemies and damage them if they get flung in their direction.
+-   Does not deal damage to bigger monsters like the prime golem or alpha megalodaunts.
 
  |
 
