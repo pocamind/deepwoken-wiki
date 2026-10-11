@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 230685
+revid: 230763
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -60,7 +60,7 @@ Note: The requirement for the quest is just to light the braziers in the right o
 
 1.  Reach 75 Willpower.
 2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md). (spawns near a certain edge of the map and is not random)
-3.  Take his dialogue option "Wait, I'm not with them." then meet him at [Castle Light](Castle_Light.md).
+3.  Take his dialogue option "Wait, I'm not with them." then meet him at [Castle Light](Castle_Light.md). **(DO NOT PICK THE SECOND OPTION OR YOU WILL WIPE!!!)**
 4.  If you aren't [Deepbound](Deepbound.md), make sure that you entered The Depths through a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the [Vacant](Boons_and_Flaws.md#flaws) Flaw.
 5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join [The Divers](The_Divers.md) to unbound Willpower.
 

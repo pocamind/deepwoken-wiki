@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 230757
+revid: 230760
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Humanoid Bosses, Bosses, Etrea]
@@ -428,8 +428,7 @@ This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https:/
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Every next defeat grants one [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) Oath mantra [Ascension](Oath%253A_Starkindred.md) and the [Heavy Weapon](Attributes.md) [Talent](Talents.md) Rending Impact still knocks him down, allowing room for combos.
--   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
-    -   This technically makes him one of the only "optional" bosses in the game, alongside the [Heart of Enmity](Heart_of_Enmity.md), [Knell](Knell,_The_Lunatic_Resonator.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and [Interluminary Parasol](Interluminary_Parasol.md), as he is not required for W Rank.
+-   Defeating the Maestro does not reward [Echoes](Echoes.md).
 -   Spitting in Maestro Evengarde Rest's dungeon both before the fight and during it makes his character say the following dialogue:
     -   _"This is how you treat my generosity? (The spit doesn't have to be on him, it can be anywhere in the dungeon.)"_
     -   After this, he instantly kills you.
