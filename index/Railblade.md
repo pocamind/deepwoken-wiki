@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 230329
+revid: 230723
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -51,7 +51,7 @@ The **Railblade** is a [Greatsword](Weapons.md) obtained exclusively from the [S
 
 The Railblade has two different critical attacks.
 
-For the **standard** critical, the user rushes forward and strikes the target with their shoulder, applying Knockdown. If this is landed, the attack will follow up with the Railblade to release a flaming blow, burning those within its radius. Cancellable in the initial windup, however becomes uncancellable as the attack itself unfolds.
+For the **standard** critical, the user rushes forward and strikes the target with their shoulder, applying Knockdown. If this is landed, the attack will follow up with the Railblade exhausting flames, burning those within its radius. Cancellable in the initial windup, however becomes uncancellable as the attack itself unfolds.
 
 For the **aerial** critical, the user leaps into the air, raising the blade overhead before unleashing a heat-imbued downwards slash, applying Knockdown and Burn.
 

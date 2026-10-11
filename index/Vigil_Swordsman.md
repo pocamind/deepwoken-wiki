@@ -1,9 +1,11 @@
 ---
 title: Vigil Swordsman
-revid: 225097
+revid: 230720
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Etrea Enemies, Ambush Enemies]
+categories: [Cut Content, Enemies, Etrea Enemies, Ambush Enemies]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Vigil Swordsman

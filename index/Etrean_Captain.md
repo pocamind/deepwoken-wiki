@@ -1,6 +1,6 @@
 ---
 title: Etrean Captain
-revid: 225035
+revid: 230722
 source: https://deepwoken.fandom.com/wiki/Etrean_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]
@@ -20,7 +20,7 @@ categories: [Enemies, Etrea Enemies]
 
 The Etrean Captain is a type of enemy NPC found in [Lower Erisia](Lower_Erisia.md). The Etrean Captain wears [Etrean Guard](Etrean_Guard.md) and wield only the [Vigil Longsword](Vigil_Longsword.md).
 
-They can be encountered in The Eastern Conflict [job](Job_Boards.md).
+They can be encountered in The Eastern Conflict [job](Job_Boards.md) and in [Faction Ambushes](Faction_Ambushes.md).
 
 ## Moveset
 
