@@ -1,9 +1,9 @@
 ---
 title: Terraplate Pauldrons
-revid: 225492
+revid: 230745
 source: https://deepwoken.fandom.com/wiki/Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Pathfinder Exclusive, Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Terraplate Pauldrons
@@ -23,6 +23,10 @@ categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equi
 | pass down | Yes |
 | obtainment | Crafting : 6 Strange Claw + 1 Terrapod Shell + 1 Warden Pauldrons |
 | description | ... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

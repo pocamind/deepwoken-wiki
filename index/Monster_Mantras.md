@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 230286
+revid: 230746
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -315,6 +315,7 @@ Slash ResistanceSlash
 -   Cancels if parried. The movement speed increase will be retained after it has been parried, lasting until the Mantra would have ended.
 -   Can be modified with Aeon and Eternal Logstones to increase the number of times it hits
 -   Can be modified with Drift and Rush Shards, but it doesn't seem to do anything (needs testing)
+-   [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) makes the Whirling Blade heal you by ∼20-25% of the damage dealt.
 
  |
 

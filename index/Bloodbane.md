@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 227990
+revid: 230753
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Greatswords, Heavy Weapons, Legendary Weapons]
@@ -52,7 +52,7 @@ Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-tale
 
 On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 
-On critical, apply a Damage over Time status effect, dubbed [Bloodletting](Status_Effects.md#bloodletting), that deals 8 damage per tick 5 times for a maximum of 40 damage. If you are knocked [Unconscious](Status_Effects.md#unconscious) during the lifespan of this effect, or hit by the critical while being Unconscious, you will be automatically executed This effect can be applied through dodge; parrying this attack is the only way to avoid this.
+On critical, apply a Damage over Time status effect, dubbed [Bloodletting](Status_Effects.md#bloodletting), that deals 8 damage per tick 5 times for a maximum of 40 damage. If you are knocked [Unconscious](Status_Effects.md#unconscious) during the lifespan of this effect, or hit by the critical while being Unconscious, you will be automatically executed This effect can be applied through dodge and i-frames; parrying this attack is the only way to avoid this.
 
 [**Devastating Recovery**](Talents.md#devastating-recovery) reduces the amount of Posture your opponents restore when parrying your light attacks by 30%.
 

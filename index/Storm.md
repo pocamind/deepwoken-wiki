@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 223412
+revid: 230732
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

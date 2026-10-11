@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 230711
+revid: 230754
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -347,7 +347,7 @@ Blunt ResistanceBlunt
 
 **Combat Mantra**
 
-_Grab and throw your enemies.(gif outdated)_
+_Grab and throw your enemies._
 
  | 
 
@@ -355,7 +355,7 @@ _Grab and throw your enemies.(gif outdated)_
 
   
 **Combat Mantra**  
-_Grab and throw your enemies.(gif outdated)_
+_Grab and throw your enemies._
 
  |
 | 
@@ -373,15 +373,15 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _User grabs their opponent with a parryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
+**Effect:** _User grabs their opponent with a parryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._ (GIF outdated)
 
 -   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
--   Using this Mantra in the air allows you to aim freely but they will still be flung afterwards.
 -   Can ragdoll other enemies and damage them if they get flung in their direction.
--   Does not deal damage to bigger monsters like the prime golem or alpha megalodaunts.
+-   Does not deal damage to bigger monsters like the Prime Golem or the Alpha Megalodaunt.
+-   Using this Mantra in the air allows you to aim freely but they will still be flung afterwards.
 
  |
 
