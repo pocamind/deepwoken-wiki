@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 230775
+revid: 230777
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in the Eastern Luminant, Old Stewards]
@@ -11,6 +11,7 @@ categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, Alchemy, Ques
 | Adrofalis | |
 |---|---|
 | aspect | Capra |
+| pronouns | They/Them |
 | location | Boatman's Watch |
 | affiliation | Old Stewards |
 
@@ -179,7 +180,7 @@ This dialogue is unlocked if the player meets the requirements to unlock [Saltch
 </tr>
 <tr>
   <td colspan="2">What will I need?</td>
-  <td>TBA</td>
+  <td>Hm, you don't seem sure? Maybe you need another look?</td>
   <td>Ah! Bravo! I'm proud to consider you my esteemed colleague. I shan't pester you with another fetch quest, I can reproduce your findings on my own time, so no need to worry!</td>
 </tr>
 <tr>

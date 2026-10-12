@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230665
+revid: 230782
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4051,93 +4051,157 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Natural Armor
 
--   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
-    -   Does not affect Natural Armor from Exoskeleton and Chitin.
-    -   Prerequisite: [Power](Power.md) 8
+-   **Armor Conserver** \[Common Talent\] - You lose 15% less armor when hit.
+    -   Stacks multiplicatively with other sources of the same effect.
+    -   Does not affect Natural Armor from Exoskeleton and Chitin.  
+        
+    -   Prerequisites: [Power](Power.md) 8  
+        
+    -   Tags: \[Armor Durability\]
 
--   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
-    -   When your Armor is at 0% or if you are wearing the [Stranded](Stranded.md) outfit, movement speed is increased by 25%.
-    -   This is a mobility buff, NOT a speed boost.
-    -   The [Bounty Hunter](Bounty_Hunter.md) and [Corsair Outlaw](Corsair_Outlaw.md) Outfits and [Glassdancer Wraps](Glassdancer_Wraps.md) equipment have this Talent.
+-   **Lightweight** \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
+    -   When your Armor is at 0% Durability or if you are wearing the [Stranded](Stranded.md) outfit, movement speed is increased by 25%.
+    -   This is a mobility buff, NOT a speed boost.  
+        
+    -   Prerequisites: None  
+        
+    -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Glassdancer Wraps](Glassdancer_Wraps.md), [Bounty Hunter](Bounty_Hunter.md), [Corsair Outlaw](Corsair_Outlaw.md)  
+        
+    -   Tags: \[+Passive Agility\] \[Armor Durability\] \[Mobility\]
 
--   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
-    -   Prerequisite: [Power](Power.md) 8
+-   **Padded Armor** \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
+    -   The blunt armor given is an armor resistance stat, and it stacks multiplicatively with other sources of blunt armor.
+    -   Activates unconditionally if you are using [Stranded](Stranded.md).  
+        
+    -   Prerequisites: [Power](Power.md) 8  
+        
+    -   Tags: \[+Blunt Armor\] \[Armor Durability\] \[Damage Resistance\]
 
--   Steel Scales \[Common Talent\] - You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
-    -   Prerequisites: [Power](Power.md) 8, Padded Armor
+-   **Steel Scales** \[Common Talent\] - You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
+    -   The slash armor given is an armor resistance stat, and it stacks multiplicatively with other sources of slash armor.
+    -   Activates unconditionally if you are using [Stranded](Stranded.md).  
+        
+    -   Prerequisites: [Padded Armor](#padded-armor), [Power](Power.md) 8  
+        
+    -   Tags: \[+Slash Armor\] \[Armor Durability\] \[Damage Resistance\]
 
 ### Navaen Nomad
 
--   Captain Etrea \[Common Talent, Strength, Fortitude\] - Fists Moving while blocking with a shield no longer slows you down.
+-   **Captain Etrea** \[Common Talent\] - Fists Moving while blocking with a shield no longer slows you down.
     -   Works with [Jus Karita](Jus_Karita.md).
-    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
-    -   Prerequisites: Moving Fortress, Shield Equipped, any Fist Style Talent, 20 Fortitude, 30 Strength
+    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.  
+        
+    -   Prerequisites: [Moving Fortress](#moving-fortress), 30 Strength, 20 Fortitude, [Shield](Shields.md) Equipped, any [Fist Style](Fists.md#styles) Talent  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[Fist\] \[Mobility\] \[Shield\]
 
--   _Fists of Fortitude_ \[Rare Talent, Fortitude, Light Weapon\] - Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.
-    -   Lasts 10 seconds then goes on a 70 second cooldown once the buff ends.
-    -   Only procs on M1s and criticals with the M1 tag.
-        -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
-    -   Prerequisites: Any [Fist style](Fists.md) or Kick style equipped, 20 Fortitude, 20 Light Weapon
-    -   Mutual Exclusive: Orbital Ice
+-   **Fists of Fortitude** \[Rare Talent\] - Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.
+    -   On proc, gain a yellow bubble around your character for 10s, with a 70s CD once the buff ends.
+    -   Only procs from landing M1s and criticals with the M1 tag on Fist weapons.
+        -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.  
+            
+    -   Prerequisites: 20 Fortitude, 20 Light Weapon, [Fists](Fists.md) equipped  
+        
+    -   Mutual Exclusives: [Orbital Ice](#orbital-ice)
+        -   The mutual exclusive can be bypassed by gaining Orbital Ice from the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit.  
+            
+    -   Tags: \[Fortitude\] \[Light Weapon\] \[Damage Resistance\] \[Fist\] \[M1 Tag\]
 
--   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   **Way of Navae** \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
-    -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to the [Eastern Camp Master](Cheral.md) or [Eastern Nomad Leader](Eastern_Nomad_Leader.md).
+    -   Blocking attacks does not drain your Ether when using this fist style, despite what this description implies.  
+        
+    -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to [Beiruul](Beiruul.md), [Cheral](Cheral.md), or the [Eastern Nomad Leader](Eastern_Nomad_Leader.md)  
+        
+    -   Tags: \[[Fist Style](Fists.md#styles)\] \[Fist\]
 
 ### Needle
 
--   Defensive Stance: \[Common Talent, Light Weapon\] - Rapier Gain more parry frames the lower your health is.
-    -   Prerequisitses: Using Rapier, 50 Light Weapon
+-   **Defensive Stance** \[Common Talent\] - Rapier Gain more parry frames the lower your health is.
+    
+    -   Prerequisites: 50 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Parry\] \[Rapier\]
 
--   Duelist's Lunge \[Common Talent, Light Weapon\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
-    -   Running attack with rapiers deal 35% more posture damage.
-    -   After landing a Critical, the next rapier running attack has +2 stud range.
-    -   Prerequisites: Using Rapier, 30 Light Weapon
+-   **Duelist's Lunge** \[Common Talent\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
+    -   Running attacks with rapiers deal 35% more posture damage.
+    -   After landing a Critical, the next rapier running attack has +2 stud range.  
+        
+    -   Prerequisites: 30 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Critical Attack\] \[Posture Damage Buff\] \[Range\] \[Rapier\] \[Running Attack\]
 
--   Frenzied Dance \[Common Talent, Light Weapon\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
-    -   Prerequisites: Using Rapier, 50 Light Weapon
-    -   Frenzied Dance activates when your posture is 70% or higher.
-    -   When your posture is 70% or higher, your posture damage is increased by 33%, and chip damage by 20%.
+-   **Frenzied Dance** \[Common Talent\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
+    -   If your current posture is 70% or higher, your posture damage is increased by 33%, and chip damage by 20%.
+    -   Does nothing if your current posture is below 70%.  
+        
+    -   Prerequisites: 50 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Chip Damage\] \[Posture Damage Buff\]
 
--   Pressure Skewer \[Common Talent, Light Weapon\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
-    -   Increase blood bar damage by 50%.
-    -   While active, also grants +25% chip damage.
-    -   Also applies to criticals with the M1 tag.
-    -   Prerequisites: Using Rapier, 40 Light Weapon
+-   **Pressure Skewer** \[Common Talent\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
+    -   While active, the following buffs are applied to Rapier light attacks and criticals with the M1 tag: increases blood loss by 50%, grants +25% chip damage, and +3 true damage.  
+        
+    -   Prerequisites: 40 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Chip Damage\] \[Flourish\] \[M1 Tag\] \[Rapier\] \[True Damage\]
 
 ### Nimble Blade
 
--   Fast Blade \[Common Talent, Agility\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Increases the effectiveness of the on-parry speed boost from 12.5% to 27.5%, and duration its from 0.5s to 1.5s.
-    -   Prerequisite: 20 Agility
+-   **Fast Blade** \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
+    -   Increases the effectiveness of the on-parry speed boost from 12.5% to 27.5%, and duration its from 0.5s to 1.5s.  
+        
+    -   Prerequisites: 20 Agility  
+        
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Parry\] \[Speed Boost\]
 
--   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - When you parry an attack after feinting an attack, gain a 5s speed boost. (+1 Passive Agility)
-    -   Grants a 60% speed boost for 5 seconds on proc. This **does not** stack with the innate speed boost from parrying, nor the speed boost from [Fast Blade](#fast-blade).
-    -   Prerequisites: 20 Agility, 20 Intelligence
+-   **Lightspeed Reflexes** \[Rare Talent\] - When you parry an attack after feinting an attack, gain a 5s speed boost. (+1 Passive Agility)
+    -   Grants a 60% speed boost for 5 seconds on proc. This **does not** stack with the innate speed boost from parrying, nor the speed boost from [Fast Blade](#fast-blade).  
+        
+    -   Prerequisites: 20 Agility, 20 Intelligence  
+        
+    -   Tags: \[Agility\] \[Intelligence\] \[+Passive Agility\] \[Feint\] \[Parry\] \[Speed Boost\]
 
--   Speed Emission \[Common Talent, Agility\] - Land a Vent Gain a 5s speed boost and apply a 3s slow to your opponent.
+-   **Speed Emission** \[Common Talent\] - Land a Vent Gain a 5s speed boost and apply a 3s slow to your opponent.
     -   Grants a 30% speed boost and applies a 15% slow.
-    -   5 second cooldown.
-    -   Prerequisite: 25 Agility
+    -   5 second cooldown.  
+        
+    -   Prerequisites: 25 Agility  
+        
+    -   Tags: \[Agility\] \[Debuff\] \[Slow\] \[Speed Boost\] \[Vent\]
 
 ### Oathless
 
--   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor, +20% Monster Armor, +5% PEN)
-    -   Prerequisites: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks, 10 minutes of playtime
+-   **Oath: Oathless** \[Oath Talent\] - You [vow](Glossary.md#vows) to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+10 Health, +5% PEN, +3 Wildcard Mantra Slots, +20% Oath Armor, +20% Monster Armor)
+    
+    -   Prerequisites: 10 minutes of playtime on your character, Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks  
+        
+    -   Tags: \[[Oathless](Oath%253A_Oathless.md)\] \[+Health\] \[+PEN\] \[+Mantra Slots\] \[+Oath Armor\] \[+Monster Armor\]
 
 ### Omniscient
 
--   _All Knowing_ \[Rare Talent, Intelligence\] - Your prediction now ignores the range requirement to reflect attacks.
-    -   Prerequisites: 60 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
+-   **All Knowing** \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
+    
+    -   Prerequisites: 60 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)  
+        
+    -   Tags: \[Intelligence\]
 
--   Successive Prediction \[Common Talent, Intelligence\] - Predicting an attack will briefly allow you to predict another.
-    -   Allows you to reflect the entirety of multi-hit moves (such as Enforcer's spin attack)
-    -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
+-   **Successive Prediction** \[Common Talent\] - Predicting an attack will briefly allow you to predict another.
+    -   After landing Prediction, all subsequent hits within a very short window will also be countered.
+    -   Allows you to reflect the entirety of fast-hitting multi-hit attacks.  
+        
+    -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)  
+        
+    -   Tags: \[Intelligence\]
 
--   Twelve Steps Ahead \[Common Talent, Intelligence\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
+-   **Twelve Steps Ahead** \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
+    -   Description clarification: Landing Prediction (countering an attack successfully) will **halve** its _current_ cooldown (minimum 2s), and whiffing Prediction (failing to counter an attack) will **double** its _current_ cooldown (maximum 30s+). In both cases, its new cooldowns (post-land or whiff) is set as the new baseline for the next proc. Prediction's cooldown will be reset to its base cooldown if 30 seconds pass without it being used.
     -   This effect requires your opponent to be within 90 studs of you.
-    -   For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.125 seconds with 55 Intelligence.
-    -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
+    -   For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.125 seconds with 55 Intelligence.  
+        
+    -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)  
+        
+    -   Tags: \[Intelligence\] \[Scale-down\]
 
 ### Operator's Technique
 
@@ -4172,7 +4236,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Rapid Reload \[Common Talent, Light Weapon\] - 1H Guns You have 20% faster reload when reloading an empty pistol.
-    -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
+    -   It takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Sleight of Hands \[Common Talent, Light Weapon\] - 1H Guns When you flourish an opponent you instantly load a bullet.

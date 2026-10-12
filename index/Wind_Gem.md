@@ -1,6 +1,6 @@
 ---
 title: Wind Gem
-revid: 227562
+revid: 230779
 source: https://deepwoken.fandom.com/wiki/Wind_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -41,4 +41,4 @@ Upon landing a Mantra with a Wind Gem equipped, gain a +40% [speed boost](Status
 
 This Gem can also be used to craft a variety of items.
 
--   [Outfits](Outfits.md): [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>), [Navaen War Chief](Navaen_War_Chief.md), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), [Vigil Sentinel](Vigil_Sentinel.md), and [Windrunner Robes](Windrunner_Robes.md).
+-   [Outfits](Outfits.md): [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>), [Navaen War Chief](Navaen_War_Chief.md), [Stratos' Cloak](<Stratos'_Cloak.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), [Vigil Sentinel](Vigil_Sentinel.md), and [Windrunner Robes](Windrunner_Robes.md).
