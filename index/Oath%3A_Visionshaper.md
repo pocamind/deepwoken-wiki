@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 230445
+revid: 230774
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -305,6 +305,7 @@ TBA
 -   Has the same properties as allied Visionshaper clones, including Shaper Mimicry.
     -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift.
 -   Only works on humanoids.
+-   Bypasses the "**Tidal Shock**" Talent, still doing 30 damage and creating an allied clone of the target.
 
  |
 

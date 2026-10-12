@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 224704
+revid: 230765
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -131,13 +131,24 @@ The colors in dialogue are for convenience. They do not appear in game.
   <td colspan="12">My protege! Care to undergo another lesson? I'll put your intellect to the test!</td>
 </tr>
 <tr>
-  <td colspan="12">I can handle it.</td>
+  <td colspan="6">I can handle it.</td>
+  <td colspan="6">Who taught you in the first place?</td>
 </tr>
 <tr>
-  <td colspan="12">[See first instance]</td>
+  <td colspan="6">[See first instance]</td>
+  <td colspan="6">Ah ... It was a long time ago now. My teacher was Adrofalis, a member of the<a href="Glossary.md#the-old-stewards">Old Stewards</a>. I must say I never saw eye to eye on their methods, but Adrofalis is a brilliant researcher.</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td colspan="6"></td>
+  <td colspan="6">Where can I find this Adrofalis?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Hm. Knowing them, they're probably out somewhere in the<a href="Glossary.md#the-voidsea">Voidsea</a>right about now. Last I heard from them, they were investigating the ruins of an ancient laboratory there. Pre-tidal stuff, they said.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
