@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Tau
-revid: 224728
+revid: 230854
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Tau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Deepdelvers, Individuals with unspecified pronouns]
@@ -27,7 +27,7 @@ Tau is in charge of dispatching people on expeditions into the [Saramaed Hollow]
 
 ## Location
 
-Deepdelver Tau can be found at [Miner's Landing](<Miner's_Landing.md>), inside the room behind the waterwheel, next to [Delta](Delta.md) and [Orion](Orion.md).
+Deepdelver Tau can be found inside of the furnace room heading behind the large water wheel in [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 

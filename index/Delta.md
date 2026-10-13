@@ -1,6 +1,6 @@
 ---
 title: Delta
-revid: 221892
+revid: 230852
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
@@ -36,9 +36,7 @@ He wears the [Union Initiate](Union_Initiate.md) Outfit.
 
 ## Location
 
-Delta can be found inside the lower-mountain part of the town, specifically behind the water mill just above the waterfall.
-
-  
+Delta can be found inside of the furnace room heading behind the large water wheel in [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
