@@ -1,9 +1,9 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 227929
+revid: 230819
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Enmity's Armor Piece
@@ -12,12 +12,17 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 10,000 |
 | weight | None |
+| stack | x5 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | A nigh-indestructible piece of Enmity itself; touching it with bare skin fills your mind with visions of anguish and the whispers of tortured souls. |
 | obtainment | Heart of Enmity (direct drop) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

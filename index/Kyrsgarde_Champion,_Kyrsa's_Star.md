@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 230629
+revid: 230814
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
@@ -28,7 +28,9 @@ This content is not accessible outside of this gamemode.
 
 Raeva Ferash Kenestos, the Kyrsgarde Champion, is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). He is a muscular white-coil Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, he wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
 
-According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of Light that was the Celestial [Raeva](Glossary.md#raeva), breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
+According to his [manifesto](Words_of_Light.md), he served New Kyrsa, even during the raid on [Constellia](Constellia.md). He was still somewhat conscious and as such was aware of the genocide of the Celestials and Lightborns that was taking place.
+
+Amongst the ruins of Constellia, he discovered an essence of Light that was the Celestial [Raeva](Glossary.md#raeva), which broke him free of [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) control, and ultimately granted him the goal of destroying the Scion and Ethiron itself as a means to avenge the Heavens and New Kyrsa
 
 He can be encountered after achieving the following requirements:
 

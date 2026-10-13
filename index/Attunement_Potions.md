@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 206320
+revid: 230841
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -29,3 +29,4 @@ The only way to acquire an Attunement Potion is to complete a quest given by the
 ## Trivia
 
 -   Alloyed Elixir is the only Attunement Potion that does not follow the general naming convention.
+    -   Additionally, it also has a unique description, being "A strange concoction of metals in powdered and liquid form."

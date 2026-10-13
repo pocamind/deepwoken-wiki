@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 225131
+revid: 230839
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -24,9 +24,9 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Mechalodaunt is a weapon produced by [The Ignition Union](The_Ignition_Union.md) by enhancing [Megalodaunts](Megalodaunt.md) with iron shells, machinery and a powerful shoulder-mounted gatling gun. They are found in [Saramaed Summit](Saramaed_Summit.md), later stages of the [Saramaed Hollow](Saramaed_Hollow.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are unfinished and were activated prematurely by [The Summer Company](The_Summer_Company.md), thus defaulting to their natural behavior, resulting in them attacking both "friend" and foe.[\[1\]](#cite-note-1)
+The Mechalodaunt is a weapon produced by [The Ignition Union](The_Ignition_Union.md) by enhancing [Megalodaunts](Megalodaunt.md) with iron shells, machinery and a powerful shoulder-mounted gatling gun. They are found in [Saramaed Summit](Saramaed_Summit.md), later stages of the [Saramaed Hollow](Saramaed_Hollow.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
-However, it seems that some Mechalodaunts have been brought back under control, as some can be seen communicating through some sort of radio speaker system when being [ambushed](Faction_Ambushes.md) by one.
+Some can be seen communicating through some sort of radio speaker system when being [ambushed](Faction_Ambushes.md) by one.
 
 ## Attacks
 
@@ -208,10 +208,4 @@ Mechalodaunts in the [Saramaed Summit](Saramaed_Summit.md) often spawn in groups
 
 ## Trivia
 
--   Mechalodaunts probably have a radio built into them, as if you were to get ambushed by one it can say "\*Kzzt!\* This one's REALLY nicked. \*Kzzt.\*" Alternatively, they could also have the ability to talk, although this is probably not true.
--   The machinery on them are references to themes of industrial machinery and steampunk.
 -   They give 1 [Knowledge](Knowledge.md) the first time you defeat them.
-
-## References
-
-1.  [↑](#cite-ref-1) [Parsnip](Parsnip.md)

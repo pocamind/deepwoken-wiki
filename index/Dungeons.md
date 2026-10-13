@@ -1,11 +1,9 @@
 ---
 title: Dungeons
-revid: 227595
+revid: 230821
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages with reason, StubPages, Mechanics, Dungeons, Locations]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Missing image for The Throne of Lies."
+categories: [Mechanics, Dungeons, Locations]
 ---
 
 # Dungeons

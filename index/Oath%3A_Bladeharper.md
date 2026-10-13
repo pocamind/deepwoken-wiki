@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 229795
+revid: 230813
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -73,6 +73,7 @@ Upon obtaining this Oath, two snake bracelets will wrap around your arms.
     -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md#rush-of-ancients).
     -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
     -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
+    -   Despite what is shown in GIF, It no longer makes you invisible (possibly a bug).
 -   Obtainment: Obtained along with the Oath, after beating the first Mind Reflection fight.
 
 -   **Soaring Storm** - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
@@ -221,10 +222,6 @@ Defeat the final Mind Reflection
  |
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
-
-Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
-
-  
 
 ## Strategy
 

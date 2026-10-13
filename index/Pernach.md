@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 228884
+revid: 230812
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Clubs, Medium Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Weapons with Talents, Clubs, Medium Weapons]
 | attack duration | 0.6s |
 | penetration | 30% |
 | chip damage | 5% |
+| talent | Blunt Force Trauma - All mantras that deal blunt damage gain 15% extra PEN. The mantras deal additional PEN if the opponent has more than 30% physical armor, scaling on how much more they have. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Mace |
@@ -34,7 +35,7 @@ categories: [Weapons, Weapons with Talents, Clubs, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Minityrsa, Saramaed Hollow, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Interluminary Parasol, War Mode, Dread Serpent |
-| description | ...All mantras that deal blunt damage gain 15% extra PEN. The mantras deal additional PEN if the opponent has more than 30% physical armor, scaling on how much more they have. |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 230531
+revid: 230820
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Fists, Weapon Classes]
@@ -108,21 +108,33 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: 35 Light Weapon, 20 Strength
 
--   Captain Etrea \[Common Talent, Strength, Fortitude\] - Fists Moving while blocking with a shield no longer slows you down.
+-   **Captain Etrea** \[Navaen Nomad • Common Talent\] - Fists Moving while blocking with a shield no longer slows you down.
     -   Works with [Jus Karita](Jus_Karita.md).
-    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
-    -   Prerequisites: Moving Fortress, Shield Equipped, any Fist Style Talent, 20 Fortitude, 30 Strength
+    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.  
+        
+    -   Prerequisites: [Moving Fortress](Talents.md#moving-fortress), 30 Strength, 20 Fortitude, [Shield](Shields.md) Equipped, any [Fist Style](Fists.md#styles) Talent  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[Fist\] \[Mobility\] \[Shield\]
 
--   _Fists of Fortitude_ \[Rare Talent, Fortitude, Light Weapon\] - Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.
-    -   Lasts 10 seconds then goes on a 70 second cooldown once the buff ends.
-    -   Only procs on M1s and criticals with the M1 tag.
-        -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
-    -   Prerequisites: Any **Fist style** or Kick style equipped, 20 Fortitude, 20 Light Weapon
-    -   Mutual Exclusive: Orbital Ice
+-   **Fists of Fortitude** \[Navaen Nomad • Rare Talent\] - Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.
+    -   On proc, gain a yellow bubble around your character for 10s, with a 70s CD once the buff ends.
+    -   Only procs from landing M1s and criticals with the M1 tag on Fist weapons.
+        -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.  
+            
+    -   Prerequisites: 20 Fortitude, 20 Light Weapon, **Fists** equipped  
+        
+    -   Mutual Exclusives: [Orbital Ice](Talents.md#orbital-ice)
+        -   The mutual exclusive can be bypassed by gaining Orbital Ice from the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit.  
+            
+    -   Tags: \[Fortitude\] \[Light Weapon\] \[Damage Resistance\] \[Fist\] \[M1 Tag\]
 
--   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   **Way of Navae** \[Navaen Nomad • Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) **fist style**.
-    -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to the [Eastern Camp Master](Cheral.md) or [Eastern Nomad Leader](Eastern_Nomad_Leader.md).
+    -   Blocking attacks does not drain your Ether when using this fist style, despite what this description implies.  
+        
+    -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to [Beiruul](Beiruul.md), [Cheral](Cheral.md), or the [Eastern Nomad Leader](Eastern_Nomad_Leader.md)  
+        
+    -   Tags: \[[Fist Style](Fists.md#styles)\] \[Fist\]
 
 -   **Imperium Kata** \[Gale Kata • Quest Talent\] - Wield an advanced form of [the Legion](The_Hundred_Legions.md)'s martial arts. (+1 Passive Agility)
     -   Allows you to use [Imperium Kata](Imperium_Kata.md), a **fist style**. See [Imperium Kata](Imperium_Kata.md).  

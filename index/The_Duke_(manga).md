@@ -1,6 +1,6 @@
 ---
 title: The Duke (manga)
-revid: 195821
+revid: 230822
 source: https://deepwoken.fandom.com/wiki/The_Duke_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, "Non-canon articles", Manga characters, Deceased characters]
@@ -29,7 +29,7 @@ Eventually, the Duke returned to his former kingdom and based himself in the [No
 ## Trivia
 
 -   The Duke, alongside the swordsman who slew him, features on the cover of the manga collection.
--   Unlike his [canon counterpart](Duke_Ishamon_Erisia.md), the Duke is never referenced in relation to the term "Erisia", neither in the context of an island or family name. Instead, he is consistently just called "the Duke".
+-   Unlike his [canon counterpart](Duke_Ishamon_Erisia.md), the Duke is never referenced in relation to the term "Erisia", neither in the context of an island (the country in the manga remains unnamed) or family name. Instead, he is consistently just called "the Duke".
 -   The Duke's appearance and demeanour more closely resemble [The Lord Regent](The_Lord_Regent.md) than Duke Erisia.
 -   The Duke's monstrous transformation resembles a version of the [Scion of Ethiron](Scion_of_Ethiron.md) with red fur.
 -   The Duke utilizes a Mantra made of fire, ice and lightning, thus consisting of all core attunements except [the one Duke Erisia actually uses](Galebreathe.md).
