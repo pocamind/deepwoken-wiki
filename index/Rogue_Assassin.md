@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 217855
+revid: 230871
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -667,6 +667,7 @@ N/A
     
     -   Reduces [Wind Step](Talents.md#wind-step)'s cooldown to 5 seconds and reduces the Ether cost.
     -   Because this Memento does not have Wind Step innately, you will have to gain it through the [Gale Boots](Gale_Boots.md).
+    -   Turns your [Wind Step](Talents.md#wind-step) a black color.
 
 -   Ambush \[Memento Talent\] - When coming out of Tacet, gain a 30% damage boost for 5 seconds.
 

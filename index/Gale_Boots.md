@@ -1,6 +1,6 @@
 ---
 title: Gale Boots
-revid: 228080
+revid: 230870
 source: https://deepwoken.fandom.com/wiki/Gale_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages transcluding nonexistent sections, Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -37,8 +37,6 @@ The [Wind Step](Talents/Vow_of_Iron.md#wind-step) Talent allows you to double ju
 ## Gallery
 
 Gale Boots uses the same model as [Leather Boots](Leather_Boots.md).
-
-  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 224664
+revid: 230860
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attunement, Mantras, Enemies]
@@ -34,11 +34,11 @@ An Attunement Trainer will not train you if you do not have the element learned.
 
  | [Galebreathe](Galebreathe.md) | Area: [Isle of Vigils](Isle_of_Vigils.md)
 
-She is found sitting next to a campfire at a tent in a small area close to the entrance to the temple.
+They are found sitting next to a campfire at a tent in a small area close to the entrance to the temple.
 
  | Friid is a [Celtor](Celtor.md) who uses [Galebreathe](Galebreathe.md).
 
-When fought, she uses a [Curved Blade of Winds](Curved_Blade_of_Winds.md).
+When fought, they use a [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
  |
 | 
