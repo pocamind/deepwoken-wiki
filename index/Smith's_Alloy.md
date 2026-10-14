@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 227609
+revid: 230893
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -35,7 +35,7 @@ Currently known to drop from a wide variety of sources. Refer to the obtainment 
 
 If you are in dire need of many **Smith's Alloys**, the best and safest way to farm them is by killing [The Ferryman](The_Ferryman.md), as he is a fairly weak boss that can be defeated in just a few minutes. Once beaten, you can leave the instanced server and can quickly fight him again.
 
-If you are more confident in your PvE skills, you may farm [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) for multiple alloys per run per relic chest. This will take around 20-25 minutes solo, due to having to clear out guards and position prisoners for emergency-healing; so it is advisable to have allies clear out enemies in one section, while you clear out another, to get to the boss-fight quicker, and increase relic-yield (how the relics are distributed amongst players is at the party's discretion).
+If you are more confident in your PvE skills, you may farm [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) for multiple alloys per run per relic chest. This will take around 5-10 minutes solo, due to having to clear out guards and position prisoners for emergency-healing; so it is advisable to have allies clear out enemies in one section, while you clear out another, to get to the boss-fight quicker, and increase relic-yield (how the relics are distributed amongst players is at the party's discretion).
 
 Another method to farm them quickly is by doing [Diluvian Mechanism](The_Diluvian_Mechanism.md) runs. After completing waves 25 and 50, many relic chests will spawn, which each have a chance to hold one or multiple **Smith's Alloys**. With the proper build and careful planning, you can easily solo Diluvian up to wave 25s in only a few minutes. Going to wave 50 will get you even more **Smith's Alloys**, but more preparation and time is needed.
 

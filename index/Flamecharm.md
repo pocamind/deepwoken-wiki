@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 229769
+revid: 230891
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1296,7 +1296,7 @@ These Talents are found in the _Withered Flame_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Ash Ember  
-(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals. | Adds a flar amount of extra damage to each burn tick. |
+(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals. | Adds a flat amount of extra damage to each burn tick. |
 |  | Scorching Decay  
 (100 Flamecharm, 100 Weapon, Emperor Flame) | The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased. | Emperor Flame now applies 75 Wither instead of 25. |
 
