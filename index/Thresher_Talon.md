@@ -1,9 +1,9 @@
 ---
 title: Thresher Talon
-revid: 226590
+revid: 230888
 source: https://deepwoken.fandom.com/wiki/Thresher_Talon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients, Monster Mantra Ingredients]
 ---
 
 # Thresher Talon
@@ -20,6 +20,10 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | pass down | No |
 | desc | A claw stolen from the foot of a thresher. |
 | obtainment | JeremiahDirect Drop:, Any Thresher variant |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

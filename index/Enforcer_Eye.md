@@ -1,9 +1,9 @@
 ---
 title: Enforcer Eye
-revid: 202760
+revid: 230889
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Monster Mantra Ingredients, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Monster Mantra Ingredients, Ingredients]
 ---
 
 # Enforcer Eye
@@ -20,6 +20,10 @@ categories: [Items, Drops, Monster Mantra Ingredients, Ingredients]
 | pass down | No |
 | desc | An eye ripped from the remains of an Enforcer before it turns into ash, a legendary item.. |
 | obtainment | Direct drop:, The Enforcer, Heart of Enmity |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
