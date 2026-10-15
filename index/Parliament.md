@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 229188
+revid: 230910
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -189,7 +189,7 @@ Flock of Feathers
 
 -   As a general rule, do not overcommit to attacks. Focus on maintaining defense and punishing its attacks rather than forcing openings. Stay mobile and use mantras.
 -   It is highly recommended to not use mantras during the fight due to Parliament constantly using its "Flock of Feathers" attack. unless they are multihits such as [Warden's Blades](Frostdraw.md#wardens-blades), [Electro Carve](Thundercall.md#electro-carve), [Frozen Servants](Frostdraw.md#frozen-servants), etc.
--   Is also recommended to use [Bloodless Gems](Bloodless_Gem.md) if you are going to use mainly mantra's for damage.
+-   Is also recommended to use [Bloodless Gems](Bloodless_Gem.md) if you are going to use mainly mantras for damage.
 
 ## Trivia
 
