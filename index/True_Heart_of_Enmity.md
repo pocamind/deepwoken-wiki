@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 230706
+revid: 230902
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -68,8 +68,6 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 (★★★)
 
  | Heart of Enmity kneels down and grabs a nearby player, tosses them up then bats them with his axe.
-
--   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
 
 -   ☣ Unparryable
 -   ⛊ Blockable
@@ -162,7 +160,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | The Heart of Enmity slightly kneels then tosses his axe towards where he's aiming, causing an AoE where the axe lands and major damage alongside ragdoll.
 
 -   He uses this attack when someone is far from him.
--   Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
+-   True Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
