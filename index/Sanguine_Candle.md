@@ -1,6 +1,6 @@
 ---
 title: Sanguine Candle
-revid: 229452
+revid: 230900
 source: https://deepwoken.fandom.com/wiki/Sanguine_Candle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Items, Tools]
