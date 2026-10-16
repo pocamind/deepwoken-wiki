@@ -1,9 +1,9 @@
 ---
 title: Rangescraper
-revid: 227993
+revid: 230925
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Legendary Weapons]
+categories: [Pathfinder Exclusive, Weapons, Named Weapons, Named Items, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Legendary Weapons]
 ---
 
 # Rangescraper
@@ -36,6 +36,10 @@ categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, "Weapons
 | description | An unusual dagger owned by a once famous outlaw. The only details they gave on how their dagger worked was it "kinda was phasing in and out of reality". They also have claimed that it was created in the void sea, but is unsure who or what made it. |
 
 Variants: [Gilded Knife](Gilded_Knife.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

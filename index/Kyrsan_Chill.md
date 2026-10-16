@@ -1,9 +1,9 @@
 ---
 title: Kyrsan Chill
-revid: 220037
+revid: 230923
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Chill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enchantments, Weapon Enchantments]
+categories: [Pathfinder Exclusive, Enchantments, Weapon Enchantments]
 ---
 
 # Kyrsan Chill
@@ -15,6 +15,10 @@ categories: [Enchantments, Weapon Enchantments]
 | pass down | Yes |
 | desc | On critical hits, apply a slow that increases with each crit. At 5 stacks fully encase your opponent in ice. |
 | obtainment | Kyrsan Chill Enchant Stone:Kyrsgarde Champion |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

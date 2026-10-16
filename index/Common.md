@@ -1,6 +1,6 @@
 ---
 title: Common
-revid: 217620
+revid: 230921
 source: https://deepwoken.fandom.com/wiki/Common
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Game-adjacent articles", Society and culture]
@@ -26,7 +26,7 @@ Common is the name of a language used by individuals in Lumen.[\[1\]](#cite-note
 
 [Gatherhand](Gatherhand.md) is a script used to transcribe common. An unidentified script is also used.
 
-In 1271[\[5\]](#cite-note-5), [the Pathfinder](The_Pathfinder.md) listened to [Polis](Polis.md) explaining their origins. Unfamiliar with the terms used, they suggested the [Vesperian](Vesperian.md) was not speaking common.[\[1\]](#cite-note-polis-1)
+In 1271[\[5\]](#cite-note-5), [the Pathfinder](The_Pathfinder.md) listened to [Polis](Polis.md) explaining their origins. Unfamiliar with the terms used, they suggested that Polis was not speaking common.[\[1\]](#cite-note-polis-1)
 
 ## References
 

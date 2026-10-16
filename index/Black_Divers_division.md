@@ -1,6 +1,6 @@
 ---
 title: Black Divers division
-revid: 230906
+revid: 230914
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, The Divers, Black Divers]
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-**The Black Diver Division** are the highest rank of [the Divers](The_Divers.md).
+**The Black Divers Division** are the highest rank of [the Divers](The_Divers.md).
 
 The division was formed some time between 57 CE and 59 CE as the Citadel Divers' senior members evolved into their own rank.[\[1\]](#cite-note-fathoms-1)
 
