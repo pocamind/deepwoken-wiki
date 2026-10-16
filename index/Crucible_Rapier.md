@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 224537
+revid: 230929
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
@@ -33,18 +33,20 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Rogue Construct, Saramaed Hollow |
+| obtainment | Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Saramaed Hollow |
 | description | It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain. |
 
 ## Description
 
-The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference except for higher damage & scaling plus a 20% penetration stat. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) as well as the [Rogue Constructs](Rogue_Construct.md) at [Minityrsa](Minityrsa.md).
+The Crucible Rapier is an endgame [Rapier](Rapiers.md) weapon under the [LHT weapon](Weapons.md) category.
 
 ## Talents
 
 Equipping the Crucible Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**Punishing Riposte**](Talents.md#punishing-riposte) procs after parrying any instant guard break attack, applying the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect to the user for 15 seconds. While under the effects of Punishing Riposte, your critical attack will guaranteed guardbreak if blocked.
+
+This also grants a unique parry VFX on proc.
 
 ## Critical
 

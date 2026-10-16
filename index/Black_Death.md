@@ -1,9 +1,9 @@
 ---
 title: Black Death
-revid: 229169
+revid: 230932
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Reforged Weapons, Spears, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Ministry]
+categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Weapons with Talents, Criticals with M1 tag, Reforged Weapons, Spears, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Ministry]
 ---
 
 # Black Death
@@ -36,6 +36,10 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | description | Tool of the Ministry. Unlike its counterpart this pike cares not for the mess it intends to leave behind. |
 
 Variants: [Red Death](Red_Death.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
