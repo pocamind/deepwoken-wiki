@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 230625
+revid: 230936
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disaster, Monsters, Bosses, Events]
@@ -231,9 +231,11 @@ Exhaustive Loot Table
 ## Trivia
 
 -   When it was first teased, it was known to the devs and community as the "World Serpent."
+-   The Doom of Caeranthil somewhat resembles Jörmungandr, the norse World Serpent, as depicted in God of War: Ragnarok.
 -   Given its drops, design and the Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent. possibly a stronger variant or mutation.
 -   The player must defeat this boss when it isn't firing it's Luminant Beam at Etris Docks to obtain the fist style "[Fang and Coil](Fang_and_Coil.md)" from [Vesque](Vesque.md).
 -   It is internally referred to as ".kaijuu".
+-   The Doom of Caeranthil does not ragdoll when killed and instead disappears, implying that the Doom of Caeranthil repeatedly appearing is not just for gameplay purposes, but also because you don't kill it at all.
 
 ## References
 

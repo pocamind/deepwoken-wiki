@@ -1,6 +1,6 @@
 ---
 title: Tears of the Edenkite
-revid: 217982
+revid: 230935
 source: https://deepwoken.fandom.com/wiki/Tears_of_the_Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -29,3 +29,5 @@ The bubbles deal 11 typeless damage each at 100 weapon investment, bypassing you
 ### Notes
 
 -   The bubbles are parryable, blockable, and dodgeable.
+-   The bubbles will automatically burst after a certain amount of time, even if they don't hit a target. This technically means they have a range limit in practice (though they do still spawn at any range).
+-   The bubbles are summoned at **your** location rather than spawning by the target. Due to this and the aforementioned "range limit" they have, the bubbles will usually burst before reaching opponents if procced at a distance through ranged critical attacks.

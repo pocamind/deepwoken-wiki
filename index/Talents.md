@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230782
+revid: 230937
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -406,7 +406,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
 
 -   **Conditioned Runner** \[Advanced Talent\] - You take 5-15% less damage. The damage reduction amount scales with your agility stat and how long you have been running for. (+1 Passive Agility)
-    -   This effect only applies while sprinting.  
+    -   Currently does not work.  
         
     -   Prerequisites: [Endurance Runner](#endurance-runner), [Scaredy Cat](#scaredy-cat), 25 Agility  
         
