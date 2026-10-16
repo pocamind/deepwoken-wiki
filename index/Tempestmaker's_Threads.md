@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 228961
+revid: 230927
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
@@ -42,4 +42,4 @@ This Outfit has 2600 durability and grants +25% Physical resistance ResistancePh
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Tempest Evolution](Talents.md#tempest-evolution) Talent grants a 20% damage bonus in the air for a few seconds after landing [Wind Blade](Galebreathe.md#wind-blade) with the [Tempest Wind](Talents.md#tempest-wind) variant. Additionally, this increases the damage of your Tempest Wind. The [Aerogliding](Talents.md#aerogliding) Talent allows the user to fall slowly whilst holding space and lasts for about 3 seconds. It also decreases the altitude lost while [gliding](Gliders.md).
+The [Tempest Evolution](Talents.md#tempest-evolution) Talent grants a 20% damage bonus in the air for a few seconds after landing [Wind Blade](Galebreathe.md#wind-blade) with the [Tempest Wind](https://deepwoken.fandom.com/wiki/Galebreathe#Wind_Blade) variant. Additionally, this increases the damage of your Tempest Wind. The [Aerogliding](Talents.md#aerogliding) Talent allows the user to fall slowly whilst holding space and lasts for about 3 seconds. It also decreases the altitude lost while [gliding](Gliders.md).

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 229438
+revid: 230926
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
@@ -22,7 +22,7 @@ notices:
 | durability | 1000 |
 | resistances | +10% Physical Armor , +5% Elemental Armor , +25% Fire Armor |
 | talents | Intrepid Flame, One With Flame |
-| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Lodestar Bounty jobVow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento (automatically crafted) |
+| obtainment | Bought from:, Etris, in Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Lodestar Bounty jobVow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
