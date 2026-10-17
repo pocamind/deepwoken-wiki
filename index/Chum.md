@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 200321
+revid: 230941
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fishing, Alchemy]
@@ -12,21 +12,37 @@ categories: [Items, Fishing, Alchemy]
 |---|---|
 | value | 10 |
 | weight | 0.25 |
+| stack | x99 |
 | type | Ingredient |
+| food type | Meat |
+| rarity | Common |
+| stomach | 5% |
+| water | 0% |
+| usage | Monster Bait, Bait for Fishing |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | Gross! Good for bait. |
-| obtainment | Sold in fishing huts, Crafting with Fishmeat. |
+| obtainment | Sold in most Fishing stores, 1 Fish Meat/Crustacean Meat in your inventory |
 
 ## Description
 
-You can use **Chum** as bait when [Fishing](Fishing.md). Fish meat can also be used as well, however this can be a better option.
+**Chum** is a craftable [Food](Food.md) item and crafting ingredient. It is also purchased from fishing stores for 10.
 
-You can also use 3 chum to craft all three types of Monster Bait.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
-Recipe - 2 [Fish Meat](Fish_Meat.md)
+### Effect
 
-Can be bought at the [Etris Docks](Etris_Docks.md) and directly from [Mortus](Mortus.md) near [Lower Erisia](Lower_Erisia.md) for 10.
+When consumed, it replenishes 5% Stomach and 0% Water.
 
-Chum is also obtainable from [Crustacean Meat](Crustacean_Meat.md), by killing a [Crustaceous Rex](Crustaceous_Rex.md) and the [Crabs](Crab.md) in the Diluvian Mechanism.
+## Crafting
+
+### Used in
+
+-   [Megalodaunt Bait](Monster_Bait.md)\- 3 Chum in your inventory.
+-   [Terrapod Bait](Monster_Bait.md)\- 2 Chum in your inventory.
+-   [Thresher Bait](Monster_Bait.md)\- 3 Chum in your inventory.
+
+## Trivia
+
+-   The item model is a [Red Snapper](Red_Snapper.md) that has been fileted.

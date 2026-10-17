@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 230077
+revid: 230955
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools, Echo Unlockables]
@@ -10,8 +10,17 @@ categories: [Tools, Echo Unlockables]
 
 | Canteen | |
 |---|---|
-| usage | Holds liquids |
-| recipe | x1 Calabash and x1 Beeswax at a Crafting Station |
+| value | N/A |
+| weight | 0 |
+| stack | x1 |
+| type | Utility |
+| rarity | Common |
+| usage | Store liquids |
+| bankable | No |
+| droppable | No |
+| pass down | No |
+| desc | Drink up. |
+| obtainment | Sold by the Travelling Merchant, x1 Calabash and x1 Beeswax at a Crafting Station |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 227170
+revid: 230963
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,7 +25,7 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Transfusion Ring** is a Ring [Equipment](Equipment.md) piece that increases your Health by 20 at the cost of halving all incoming healing.
+**Transfusion Ring** is a Ring [Equipment](Equipment.md) piece that increases your Health by 20 at the cost of halving all incoming healing. It is currently bugged, and will half the user's PVP health packs on knock. Because of this, it is not advised to run this ring outside of [Chime of Conflict](Chime_of_Conflict.md).
 
 ## Location
 
@@ -34,4 +34,4 @@ Ring location in the [Vow of Iron](Vow_of_Iron.md) map:
 ## Trivia
 
 -   This ring intermittently emits gold-colored particles.
--   This ring does not affect any healing outside of green healing, meaning passive forms of regeneration such as campfires, natural regeneration, Curse of the No-Life King Enchant and health packs are unaffected.
+-   This ring does not affect any healing outside of green healing, meaning passive forms of regeneration such as campfires, natural regeneration, Curse of the No-Life King Enchant are unaffected.

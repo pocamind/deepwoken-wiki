@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 229038
+revid: 230959
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, The Hundred Legions]
@@ -31,7 +31,7 @@ categories: [Weapons, Weapons with Talents, Staves, Legendary Weapons, "Core-Att
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Titus Fulminus Destellus, FishingVow of Iron:, Theros Disciple Memento |
+| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Titus Fulminus Destellus, FishingVow of Iron:, Theros Disciple Memento |
 | description | Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation. |
 
 ## Description

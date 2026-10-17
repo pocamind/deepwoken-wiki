@@ -1,6 +1,6 @@
 ---
 title: Vigil Captain
-revid: 230721
+revid: 230961
 source: https://deepwoken.fandom.com/wiki/Vigil_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea Enemies, Enemies that can wield Enchantments]

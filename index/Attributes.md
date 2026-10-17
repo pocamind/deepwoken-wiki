@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 213950
+revid: 230943
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -114,7 +114,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
-    -   The [Kyrsieger](Kyrsieger.md), and [Vortex Echo](Vortex_Echo.md) need charisma to be equipped.
+    -   The [Kyrsieger](Kyrsieger.md), [The Weaving Web](The_Weaving_Web.md), and [Vortex Echo](Vortex_Echo.md) need charisma to be equipped.
 -   Gain Charisma EXP by selling or purchasing items, getting good reputation with a faction, playing [Instruments](Instruments.md), using the Encyclopedia (this will train your Intelligence at the same time) and using the _How To Make Friends_ book.
 -   _**[Unbounded](Attributes_Unbound.md#charisma-unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to [Etris](Etris.md).**_
 

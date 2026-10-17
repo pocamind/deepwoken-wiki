@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 228942
+revid: 230947
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -13,7 +13,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 | bankable | Yes |
 | droppable | No |
 | pass down | Yes |
-| desc | Once enough stacks have been applied, the Fire of Life geminates. The explosion deals a random amount of damage and grants temporary health to the affected targets. |
+| desc | Once enough stacks have been applied, the Fire of Life germinates. The explosion deals a random amount of damage and grants temporary health to the affected targets. |
 | obtainment | Curse of Ysley's Ember Enchant Stone:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 5 , Hive Construct (direct drop), Rogue Construct (direct drop) |
 
 ## Description

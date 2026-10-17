@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 229841
+revid: 230960
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -932,6 +932,7 @@ All bosses have differing loot tables found here
   </ul></li>
     <li><b>Unenchantable Weapons</b>:
   <ol>
+    <li><b>Medium Weapons</b>: <a href="Imperial_Staff.md">Imperial Staff</a></li>
     <li><b>Heavy Weapons</b>: <a href="Crypt_Blade.md">Crypt Blade</a></li>
   </ol></li>
     <li><b>Generic Weapons</b>:

@@ -1,6 +1,6 @@
 ---
 title: Edenkite
-revid: 214750
+revid: 230964
 source: https://deepwoken.fandom.com/wiki/Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Sapient species]
@@ -27,7 +27,7 @@ In the twilight years of the Canticlysm, the Tides began to rise, and the Edenki
 
 Whether the Edenkite exist, have gone into hiding, or were driven to extinction is a matter of debate amongst modern scholars.[\[1\]](#cite-note-folk-1) Allegedly, the [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) contains the remnants of an Edenkite that was slain by a hunting party that eventually found themselves lost to the [Voidsea](Voidsea.md).[\[4\]](#cite-note-edenbranddesc-4) Like all things relating to the Edenkite, whether this actually happened is up for some debate given the failure of the party to return home and their reputation lending itself to being mythologized, though the fact the Hellcoil can inflict soulfire upon its target suggests the claim may actually hold water.
 
-The appearance of the Edenkite has yet to be properly detailed, though it is likely similar to the Dread Serpent. Edenkite are consistently described as "wyrms",[\[1\]](#cite-note-folk-1)[\[2\]](#cite-note-glossnorth-2) suggesting they either have wings but no limbs, or lack wings altogether and achieve flight through some supernatural mechanism. The [Skyreap Blade](Skyreap_Blade.md), said to be made from the bones of an Edenkite,[\[3\]](#cite-note-skyreap-3) is covered in feathers. Coupled with early accounts mistaking them for birds,[\[1\]](#cite-note-folk-1) the Edenkite may have an avian appearance of sorts. Presuming the [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) to be an accurate depiction of an Edenkite's head, Edenkite posses two horns, a "beard" and two long whiskers.
+The appearance of the Edenkite has yet to be properly detailed, though it is likely similar to the Dread Serpent. Edenkite are consistently described as "wyrms",[\[1\]](#cite-note-folk-1)[\[2\]](#cite-note-glossnorth-2) suggesting they either have wings but no limbs (making them actually an Amphiptere,) or lack wings altogether and achieve flight through some supernatural mechanism. The [Skyreap Blade](Skyreap_Blade.md), said to be made from the bones of an Edenkite,[\[3\]](#cite-note-skyreap-3) is covered in feathers. Coupled with early accounts mistaking them for birds,[\[1\]](#cite-note-folk-1) the Edenkite may have an avian appearance of sorts. Presuming the [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) to be an accurate depiction of an Edenkite's head, Edenkite posses two horns, a "beard" and two long whiskers.
 
 ## References
 

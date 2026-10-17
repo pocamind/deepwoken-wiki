@@ -1,6 +1,6 @@
 ---
 title: Black Divers division
-revid: 230914
+revid: 230946
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, The Divers, Black Divers]
@@ -40,7 +40,7 @@ In 1272 CE[\[2\]](#cite-note-2) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract
 
 **[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion (also referred to as “Dr Diver”) is a [Ganymede](Ganymede.md) Black Diver who is very skilled in terms of alchemy and science, being able to give people the abilities of certain [monsters](Monsters.md) at the cost of the corresponding creature’s organs. Despite being a Black Diver, he is also the leader of The Apothecary, a group based on the creation and research of potions and some other scientific topics. This branch was later excommunicated from the Divers due to the actions of an undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor and be able to "transcend" everyone by drinking this potion. Carrion already drank a prototype of the Moonseye Vigor, which drove him to insanity, along with giving him green eyes. He is currently residing in Castle Light but can also be seen in [the Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md), probably researching to create a new Moonseye Vigor. Apparently, he doesn't care much for the events of [The Second Layer](Second_Layer.md), instead choosing to prioritize his research of the Vigor rather than preventing the awakening of a drowned god that could destroy Lumen. This characteristic, alongside Klaris’ dialogue about him, tells us that Carrion prioritizes his research above everything else, giving little to no care about any major events in the game that doesn't assist his studies.
 
-[**Klaris Llfiend, Mother of Lights**](Klaris_Llfiend,_Mother_of_Lights.md): Klaris Llfiend is a [Canor](Canor.md) black diver, she is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md), and is the inventor of the [Dawnwalker Oath](Oath%253A_Dawnwalker.md).
+[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md): Klaris Llfiend is a [Canor](Canor.md) black diver, she is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md), and is credited for the creation of the [Dawnwalker Oath](Oath%253A_Dawnwalker.md) and discovery of the Radiant Tones.
 
 ## References
 

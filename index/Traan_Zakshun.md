@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 230454
+revid: 230948
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -180,6 +180,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Hey now come on, it's not that expensive..._
 -   _Hey, you break it - you buy it._
 -   _I dropped a boulder on the guy I stole this from._
+-   _I miss the green..._
 -   _I threw the guy I stole this from into the Megalodaunt nest not too far from here. Easiest clean-up ever._
 -   _I stole these from local bandits, by the way._
 -   _I would keep this for my own, you know... Buy my shelves are getting rather full._

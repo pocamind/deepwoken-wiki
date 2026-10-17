@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 229907
+revid: 230956
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -81,6 +81,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 H
     -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals 75 (25\*3) Slash damage.
     -   Deals 15 posture damage per hit.
+    -   Has 15 seconds of cooldown.
     -   Despite what is shown in the gif, Death From Above no longer has hyperarmor and cancels if any hits are parried or dodged.
     -   Grants the user a slight speedboost for the duration of the attack.
 -   Obtained after the third Sinner kill.

@@ -1,6 +1,6 @@
 ---
 title: Fishing Rod
-revid: 230209
+revid: 230952
 source: https://deepwoken.fandom.com/wiki/Fishing_Rod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools, Craftable, Echo Unlockables]
@@ -10,12 +10,19 @@ categories: [Tools, Craftable, Echo Unlockables]
 
 | Fishing Rod | |
 |---|---|
-| type | Tool |
+| value | N/A |
+| weight | 0 |
+| stack | x1 |
+| type | Utility |
+| rarity | Common |
+| usage | Catch Fish |
 | bankable | No |
 | droppable | No |
 | pass down | No |
-| desc | Cast out to sea to catch fish. |
-| obtainment | Bought for 30 or 35 depending on the vendor., Crafted with two (2) Sticks and one (1) Fiber at a Crafting Station., Bought from the Echoes unlock shop for 15 Echoes. |
+| desc | Cast out to sea to catch fish. Add bait by selecting food while equipped. |
+| obtainment | Bought for 30 or 35 depending on the vendor, 2x Sticks and 1x Fiber at a Crafting Station , Bought from the Echoes unlock shop for 15 Echoes |
+
+## Description
 
 The **Fishing Rod** is a tool used to cast lines into most bodies of water for fish, treasure, and even monsters.
 

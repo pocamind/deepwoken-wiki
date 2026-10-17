@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 213967
+revid: 230951
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools, Echo Unlockables]
@@ -10,8 +10,19 @@ categories: [Tools, Echo Unlockables]
 
 | Pickaxe | |
 |---|---|
-| usage | Used to mine ores. |
-| recipe | Iron x2 + Wood x2 |
+| value | N/A |
+| weight | 0 |
+| stack | x1 |
+| type | Utility |
+| rarity | Common |
+| usage | Mine Ores |
+| bankable | No |
+| droppable | No |
+| pass down | No |
+| desc | Use this to collect ore! |
+| obtainment | 2x Iron and 1x Wood at a Crafting Station , Sold for 0-5 varying on vendor |
+
+## Description
 
 The **pickaxe** is a utility item that allows players to mine [ore](Ores.md) deposits by pressing E on them.
 

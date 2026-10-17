@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 213968
+revid: 230953
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools, Craftable, Echo Unlockables]
@@ -10,12 +10,19 @@ categories: [Tools, Craftable, Echo Unlockables]
 
 | Lumber Axe | |
 |---|---|
-| type | Tool |
+| value | N/A |
+| weight | 0 |
+| stack | x1 |
+| type | Utility |
+| rarity | Common |
+| usage | Chopping trees and their coral variants, Breaking structures, Chopping players |
 | bankable | No |
 | droppable | No |
 | pass down | No |
 | desc | Use this to collect wood! Can be swung as weapon that deals additional damage to structures. |
-| obtainment | Bought for 3 from every vendor (Sellings spots, Blacksmiths, Bari, and Seraphina) besides Merchant Ships., Crafted with two (2) Wood and Iron at a Crafting Station. |
+| obtainment | Bought for 3 from select vendors, Sold by the Travelling Merchant, 2x Wood and 1x Iron at a Crafting Station , Bought from the Echoes unlock shop for 15 Echoes |
+
+## Description
 
 The **Lumber Axe** is a tool that can be used on trees to chop, structures to break, and players to kill...
 
@@ -32,7 +39,7 @@ The Lumber Axe can be used for the following:
 
 -   Chopping trees and their coral variants.
 -   Breaking structures.
--   Chopping players... (You monster.)
+-   Chopping players.
 -   As a weapon, the Lumber Axe has the following stats:
     -   10 base damage
     -   8 strength scaling

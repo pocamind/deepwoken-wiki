@@ -1,6 +1,6 @@
 ---
 title: Aratel Island
-revid: 230415
+revid: 230958
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Locations, Locations in the Eastern Luminant]
