@@ -1,6 +1,6 @@
 ---
 title: Swordfish
-revid: 223897
+revid: 230982
 source: https://deepwoken.fandom.com/wiki/Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Ingredients, Fishing Exclusive]
@@ -24,7 +24,7 @@ categories: [Items, Fish, Ingredients, Fishing Exclusive]
 
 A Swordfish can be caught rarely by [Fishing](Fishing.md), being more common in deep waters. Fishing spots can be used to greatly improve the chances of catching a Swordfish.
 
-Catching a golden Sworfish will give you a wieldable [Rapier](Rapiers.md) weapon; the aptly named [Golden Swordfish](Golden_Swordfish.md).
+Catching a golden Swordfish will give you a wieldable [Rapier](Rapiers.md) weapon; the aptly named [Golden Swordfish](Golden_Swordfish.md).
 
 ## Crafting
 

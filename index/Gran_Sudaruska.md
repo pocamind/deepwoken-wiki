@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 221320
+revid: 230980
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -50,7 +50,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 
 The user rapidly spins the greataxe, raining down small shards of ice and guardbreaking targets as they propel upwards. The critical chills the opponent for 2 seconds for each hit landed and freezes the opponent on successful hit, with Glass Path: Crystallization the freezing effect is removed and the chill is replaced by applying 5 crystals instead.
 
-Everyone hit by the critical will be teleported to in front of the user. The critical counts as a full rising mantra uppercut procing uppercut talents & is able to proc [Meteor Impact](Talents.md#meteor-impact).
+Everyone hit by the critical will be teleported to in front of the user. The critical counts as a full rising mantra uppercut procing uppercut talents & is able to proc [Meteor Impact](Talents.md#meteor-impact), but not [Soaring Storm](Oath%253A_Bladeharper.md).
 
 The critical has a cooldown of **10 seconds.**
 
