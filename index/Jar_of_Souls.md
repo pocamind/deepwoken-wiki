@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 209388
+revid: 230969
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -25,7 +25,7 @@ categories: [Resonances]
 
 On input, souls can be found and absorbed near deceased humanoids and monsters. It uses a soul counter to indicate the amount of souls the player has.
 
-On output, the user fires a large, bright beam in front of them. Deals around 120 damage in PvP and 1,000 damage in PvE.
+On output, the user fires a large, bright beam in front of them. Deals around 120 typeless damage in PvP and 1,000 damage in PvE.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 230774
+revid: 230971
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -316,7 +316,7 @@ TBA
 
 ## Trivia
 
--   The Mental Fortress [Talent](Talents.md), [Disbelief](Talents.md#disbelief), only affects Illusory Servants, reducing the amount of time they last by half.
+-   The Mental Fortress [Talent](Talents.md), [Disbelief](Talents.md#disbelief), only affects Illusory Servants, reducing the amount of time they last _by_ 30%.
 -   [Sudaruska's Fury](Gran_Sudaruska.md) counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
 -   If you use Mirror Illusion on an enemy using a [Worn Songbook](Instruments.md#worn-songbook), the clone will imitate it and use the same instrument and song.
 -   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only way to clone non-humanoid mobs and bosses.
