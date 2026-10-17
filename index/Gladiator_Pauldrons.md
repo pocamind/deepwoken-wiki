@@ -1,6 +1,6 @@
 ---
 title: Gladiator Pauldrons
-revid: 221935
+revid: 230988
 source: https://deepwoken.fandom.com/wiki/Gladiator_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Lodestar Bounty job, Deep Widow |
+| obtainment | Chests from:, Duke Ishamon Erisia, Lodestar Bounty job, Deep Widow |
 | description | ... |
 
 Gladiator Set

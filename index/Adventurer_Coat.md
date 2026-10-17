@@ -1,6 +1,6 @@
 ---
 title: Adventurer Coat
-revid: 220683
+revid: 230999
 source: https://deepwoken.fandom.com/wiki/Adventurer_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats]
@@ -22,9 +22,11 @@ categories: [Equipment with Styles, Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia |
+| obtainment | Chests from:, Duke Ishamon Erisia |
 | description | ... |
 
 ## Description
 
-The Adventurer Coat is an animated [Equipment](Equipment.md) item under the "Arms" category. It can be commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Adventurer Coat is an animated [Equipment](Equipment.md) item under the "Arms" category.
+
+It can be commonly found in chests from [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).

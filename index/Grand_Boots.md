@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 221294
+revid: 230998
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Lodestar Bounty job, Deep Widow, Saramaed Hollow |
+| obtainment | Chests from:, Duke Ishamon Erisia, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Fishing, Lodestar Bounty job, Deep Widow, Saramaed Hollow |
 | description | ... |
 
 Grand Set
