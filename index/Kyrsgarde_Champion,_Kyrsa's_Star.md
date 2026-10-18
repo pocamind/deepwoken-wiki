@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 230814
+revid: 231010
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
@@ -89,7 +89,7 @@ Parry
 
  | The Kyrsgarde Champion performs two low slashes with its glaive, before spinning into a high slash.
 
--   the third slash is marked by a yellow indicator, crouch to avoid this attack.
+-   The third slash is marked by a yellow indicator, crouch to avoid this attack.
 
 _Uses Telegraph_
 
@@ -236,6 +236,8 @@ Dodge
 
  | Enraged, the Champion raises its glaive and summons two ice spikes, rushing forth and delivering two slices.
 
+-   Dodging towards the Kyrsgarde Champion, Kyrsa's Star during the red indicator is a great way to deal with this move as you will not have to deal with the tight timings of the parry only attacks.
+
 _Uses Telegraph_
 
 [DodgeTelegraph](Combat_Mechanics.md#dodge)
@@ -257,6 +259,7 @@ Dodge
  | The Kyrsgarde Champion briefly winds up before unleashing four cleaves, followed by a delayed **Splintered Thrust**.
 
 -   All four slashes follow the green telegraph.
+-   There is enought time between the 4th cleave and the final thrust to get in a light attack, which can help for timing if neccesary.
 
 _Uses Telegraph_
 
@@ -287,6 +290,7 @@ Parry
 -   Be aware of your positioning, as the space-time collapse vortexes are still active even when you're fighting the Kyrsgarde Champion.
 -   Light weapons and fast medium weapons are better than heavy weapons, since it allows you to get a lot more m1's in between its attacks. Although, heavy is safer if you do not know how to properly fight him yet.
 -   Sustain is very important on this fight, using [Bloodless Gem](Bloodless_Gem.md) on your mantras is recommended.
+-   Many of his moves will look the same up close, so consider zooming out during your fight.
 -   Defeating the Kyrsgarde Champion as a group reduces the chances of getting its exclusive drops.
     -   Additionally, most of its exclusive drops are both undroppable and unbankable.
 

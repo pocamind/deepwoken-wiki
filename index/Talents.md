@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 230938
+revid: 231006
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -509,7 +509,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, complete [Alpha](Alpha.md)'s quest  
         
-    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Fortitude\] \[Flamecharm\] \[+Mantra Slot\] \[+PEN\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Fortitude\] \[Flamecharm\] \[+Mantra Slots\] \[+PEN\]
 
 -   **Arc Module: Dash** \[Oath Talent\] - In Arc Suit Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
@@ -4027,7 +4027,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   **Murmur: Rhythm** \[Common Talent\] - An application of your Soul [Murmur](Murmur.md) that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Pings the location of all nearby Monsters, NPC's, and Players, even through walls, with a colored circle. Also gray-scales your screen while active.
-        -   The color indicates the health range of the target: Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
+        -   The color indicates the health range of the target: Red = ≤33%, Yellow = 34% to 66%, Grey = ≥67%.
             -   The color display is disabled on players with [Not a Scratch](#not-a-scratch), always displaying grey regardless of their health amount.
     -   Rhythm will end early if you stand up (without [Soulbreaker](Oath%253A_Soulbreaker.md)'s [Heart Reverb](#heart-reverb) Talent) or take damage.  
         
