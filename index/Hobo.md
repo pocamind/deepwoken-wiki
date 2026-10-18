@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 224798
+revid: 231019
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies]
@@ -25,7 +25,7 @@ The Hobo is a wealthy and proficient [Flamecharmer](Flamecharm.md) that you may 
 
 The Hobo is a neutral NPC that can be found in the wild. It guards three chests that can be obtained safely if you pass a [Charisma](Attributes.md) check, or alternatively you can kill them, granting you another chest. You may loot the chests without completing the Charisma check, but it will anger them and initiate a fight.
 
-Their movements are very jagged and extremely fast, almost as if they're flying. In order to parry their hits you need to predict them, and during their frenzy it's impossible to flourish them, as they will be attacking nonstop with [Flamecharm](Flamecharm.md) mantras. You must fight back when they stop moving, or by using AoE skills while they're moving. Killing the Hobo results in another chest spawning.
+Their movements are very jagged and extremely fast, almost as if they're flying. In order to parry their hits you need to predict them, and during their frenzy it's impossible to flourish them, as they will be attacking nonstop with Flamecharm Mantras. You must fight back when they stop moving, or by using AoE skills while they're moving. Killing the Hobo results in another chest spawning.
 
 A Hobo only wears a [Stranded](Stranded.md) outfit.
 
