@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 228601
+revid: 231024
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -333,7 +333,7 @@ Some boons are more worth taking than others:
 
 -   Notes:
     -   The exp boost is a nice bonus, but is fairly unnoticeable, and is negated by playing with some friends.
-    -   This synergizes quite well with the [Lone Warrior](Lone_Warrior.md) Origin, due to the [Mark of the Lohe Warrior](Talents.md#mark-of-the-lohe-warrior) Talent that provides a similar effect.
+    -   This synergizes quite well with the [Lone Warrior](Lone_Warrior.md) Origin, due to the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent that provides a similar effect.
     -   Unfortunately, this Boon becomes useless once you are fully invested.
 
 ### Packmule

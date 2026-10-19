@@ -1,6 +1,6 @@
 ---
 title: Levit
-revid: 217550
+revid: 231026
 source: https://deepwoken.fandom.com/wiki/Levit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Aspects]
 
 | Levit | |
 |---|---|
-| obtained_by | 1% Roll ChanceStrange Merchant memento |
+| obtained_by | 0.8% Roll ChanceStrange Merchant memento |
 | appearance | Pale Skin, Tall ears |
 | traits | Retrograde |
 
@@ -21,11 +21,11 @@ This content is not accessible outside of this gamemode.
 _Quite literally, the Levit persist in memory alone.  
 An enigmatic folk only found within reclaimed mementos._
 
-Chance of obtaining aspect: **1%**
+Chance of obtaining aspect: 0.8**%**
 
 ## Description
 
-Levits are a rare aspect with traits resembling those of a rabbit. They are exclusive to [Vow of Iron](Vow_of_Iron.md) and can be obtained with a 1% roll chance or the [Strange Merchant](Strange_Merchant.md) [memento](Mementos.md).
+Levits are a rare aspect with traits resembling those of a rabbit. They are exclusive to [Vow of Iron](Vow_of_Iron.md) and can be obtained with a 0.8% roll chance or the [Strange Merchant](Strange_Merchant.md) [memento](Mementos.md).
 
 ## Traits
 

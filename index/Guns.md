@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 230092
+revid: 231032
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapon Classes]
@@ -347,7 +347,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
 
 ### Gunslinger
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from \[\[Talents#Gunslinger|Talents § Gunslinger\]\]. To change it, please edit the transcluded page.  
 
 -   **Armor Piercing** \[Gunslinger • Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
@@ -464,7 +464,7 @@ This information has been transcluded from [a different page](Talents.md). Visit
 
 ### Outlaw (Single Pistol/1H Gun)
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from \[\[Talents#Outlaw|Talents § Outlaw\]\]. To change it, please edit the transcluded page.  
 
 -   Lock n Load \[Common Talent, Light Weapon\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Pistol
@@ -475,7 +475,7 @@ This information has been transcluded from [a different page](Talents.md). Visit
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Rapid Reload \[Common Talent, Light Weapon\] - 1H Guns You have 20% faster reload when reloading an empty pistol.
-    -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
+    -   It takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Sleight of Hands \[Common Talent, Light Weapon\] - 1H Guns When you flourish an opponent you instantly load a bullet.
@@ -486,7 +486,7 @@ This information has been transcluded from [a different page](Talents.md). Visit
 
 ### Marksman (Rifles)
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from \[\[Talents#Marksman|Talents § Marksman\]\]. To change it, please edit the transcluded page.  
 
 -   **Leg Shot** \[Marksman • Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.  

@@ -1,9 +1,9 @@
 ---
 title: Crimson Terrapod Shell
-revid: 227616
+revid: 231029
 source: https://deepwoken.fandom.com/wiki/Crimson_Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Crimson Terrapod Shell
@@ -20,6 +20,10 @@ categories: [Items, Drops, Ingredients]
 | pass down | No |
 | desc | A shell fragment of the rare Crimson Terrapod. |
 | obtainment | Crimson Terrapod (direct drop), Sold in Traan Zakshun's black market for 10 , Jeremiah |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

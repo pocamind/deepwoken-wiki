@@ -1,9 +1,9 @@
 ---
 title: Sancticar
-revid: 228904
+revid: 231030
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
+categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
 ---
 
 # Sancticar
@@ -31,6 +31,10 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | pass down | No |
 | obtainment | Sold at Alsin's Landing for 100 . |
 | description | ... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
