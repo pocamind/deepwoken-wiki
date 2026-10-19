@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 227648
+revid: 231069
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -36,7 +36,7 @@ The Heart of Enmity possesses 65% oath damage resistance, 90% elemental resistan
 
 ## Moveset
 
-**While some attacks can be blocked with over 50 posture and Ardour, it is not recommended due to the high risk of posture breaking.**
+**The requirements to block enmity attacks are: 36 posture + ardour + Old Habits Die Hard talent allowing you to block ONLY with your lingering block but that is more than enough. If you don't have that talent the requirements to block enmitys attack rise to 39 posture + ardour and 45 without ardour and anything else. Also the blocking requirement is general and enmity has same posture damage on every single of his attack.**
 
 All moves instantly grip the opponent if they are knocked. Enmity Servants are also capable of executing downed players.
 
@@ -120,10 +120,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   He uses this attack when someone is far from him.
 -   Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
+-   Sometimes after you dodge his stomp he has a chance to use this move. Higher chance if you are roll-canceling it.
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
--   ↻ Undodgeable
+-   § Dodgeable
 -   ⤻ Ragdoll
 
  | 
@@ -134,7 +135,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 **Event Horizon**  
 (★★☆)
 
- | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
+ | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and then the enmity will use his "Home Run" move, the pull itself doesn't deal much damage and isn't dangereous as "Home Run" that comes right after.
 
 -   During this charge up, Enmity is free to be hit.
 
@@ -158,7 +159,7 @@ Avoid
 -   Enchantment Immunity - The Heart of Enmity is immune to all [Enchantments](Enchantments.md).
 -   Potion Immunity - The Heart of Enmity is immune to all [Potion](Alchemy.md) effects.
 -   **Enmity's Rot - The Heart of Enmity applies a powerful anti-heal on attacks that last for 30 seconds.**
--   **Last Rite - Any time a player dies a Corrupted Servant of Enmity will spawn, possessing 20,000 hp.**
+-   **Corrupted servant no longer spawns as this feature was removed.**
 
 ## Battle Dialogues
 
@@ -256,6 +257,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   Be mindful of Enmity's very wide hitbox on most of his axe swings. They have an almost 270° radius from where he is currently facing and can often catch players to his sides off-guard.
 -   Try not to hit allies with your offensive bells or high damage moves.
 -   Wearing the [Grand Fisher Plate](Grand_Fisher_Plate.md) or [Ignition Gauntlets](Ignition_Gauntlets.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is recommended, because it allows you to parry all of his non-parryable attacks.
+-   If you struggle with armor refilling via repair kits you may use "Songs Unforged" talent to replenish your armor, applying one single rod on enmity and then critting replenishes your armor by 100% all times.
 
 ###### Support
 

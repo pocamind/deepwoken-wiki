@@ -1,6 +1,6 @@
 ---
 title: Shields
-revid: 230520
+revid: 231051
 source: https://deepwoken.fandom.com/wiki/Shields
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Weapons Classes]
@@ -18,7 +18,7 @@ Certain Talents, most notably the aptly named [Shieldbreaker](Talents.md#shieldb
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents § Shieldmaster](Talents.md#shieldmaster). To change it, please edit the transcluded page.  
 
 -   Knight's Rally \[Common Talent, Fortitude, Willpower\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
     -   When holding out a shield (One-Handed Stance), being hit will inflict 5% less "shaky block", allowing the user to escape certain combos easier with their block.
@@ -31,10 +31,13 @@ This information has been transcluded from [a different page](Talents.md). Visit
         -   This shares a visual effect with the [Arc Module: Guard](Oath%253A_Arcwarder.md#arc-module-guard) Talent.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
--   Captain Etrea \[Common Talent, Strength, Fortitude\] - Fists Moving while blocking with a shield no longer slows you down.
+-   **Captain Etrea** \[Navaen Nomad • Common Talent\] - Fists Moving while blocking with a shield no longer slows you down.
     -   Works with [Jus Karita](Jus_Karita.md).
-    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
-    -   Prerequisites: Moving Fortress, Shield Equipped, any Fist Style Talent, 20 Fortitude, 30 Strength
+    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.  
+        
+    -   Prerequisites: [Moving Fortress](Talents.md#moving-fortress), 30 Strength, 20 Fortitude, [Shield](Shields.md) Equipped, any [Fist Style](Fists.md#styles) Talent  
+        
+    -   Tags: \[Strength\] \[Fortitude\] \[Fist\] \[Mobility\] \[Shield\]
 
 -   **Riot Shield** \[Battle Readiness • Faction Talent\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.  

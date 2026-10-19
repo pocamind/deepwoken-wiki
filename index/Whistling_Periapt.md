@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 229490
+revid: 231035
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -26,7 +26,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics, Equipment wi
 
 ## Description
 
-The Whistling Periapt is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
+The Whistling Periapt is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category. It is found as an exceedingly rare (~0.1% per Chest) drop from [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), or an unknown rarity (estimated 0.5%-1% drop chance) from the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 When equipped, the gemstone emits constant rays of green light.
 

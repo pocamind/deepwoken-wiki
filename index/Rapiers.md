@@ -1,6 +1,6 @@
 ---
 title: Rapiers
-revid: 230512
+revid: 231046
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Light Weapons, Rapiers, Weapon Classes]
@@ -20,26 +20,36 @@ Using a weapon attack within 1 second of parrying an attack will riposte your op
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents § Needle](Talents.md#needle). To change it, please edit the transcluded page.  
 
--   Defensive Stance: \[Common Talent, Light Weapon\] - Rapier Gain more parry frames the lower your health is.
-    -   Prerequisitses: Using Rapier, 50 Light Weapon
+-   **Defensive Stance** \[Needle • Common Talent\] - Rapier Gain more parry frames the lower your health is.
+    
+    -   Prerequisites: 50 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Parry\] \[Rapier\]
 
--   Duelist's Lunge \[Common Talent, Light Weapon\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
-    -   Running attack with rapiers deal 35% more posture damage.
-    -   After landing a Critical, the next rapier running attack has +2 stud range.
-    -   Prerequisites: Using Rapier, 30 Light Weapon
+-   **Duelist's Lunge** \[Needle • Common Talent\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
+    -   Running attacks with rapiers deal 35% more posture damage.
+    -   After landing a Critical, the next rapier running attack has +2 stud range.  
+        
+    -   Prerequisites: 30 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Critical Attack\] \[Posture Damage Buff\] \[Range\] \[Rapier\] \[Running Attack\]
 
--   Frenzied Dance \[Common Talent, Light Weapon\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
-    -   Prerequisites: Using Rapier, 50 Light Weapon
-    -   Frenzied Dance activates when your posture is 70% or higher.
-    -   When your posture is 70% or higher, your posture damage is increased by 33%, and chip damage by 20%.
+-   **Frenzied Dance** \[Needle • Common Talent\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
+    -   If your current posture is 70% or higher, your posture damage is increased by 33%, and chip damage by 20%.
+    -   Does nothing if your current posture is below 70%.  
+        
+    -   Prerequisites: 50 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Chip Damage\] \[Posture Damage Buff\]
 
--   Pressure Skewer \[Common Talent, Light Weapon\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
-    -   Increase blood bar damage by 50%.
-    -   While active, also grants +25% chip damage.
-    -   Also applies to criticals with the M1 tag.
-    -   Prerequisites: Using Rapier, 40 Light Weapon
+-   **Pressure Skewer** \[Needle • Common Talent\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
+    -   While active, the following buffs are applied to Rapier light attacks and criticals with the M1 tag: increases blood loss by 50%, grants +25% chip damage, and +3 true damage.  
+        
+    -   Prerequisites: 40 Light Weapon, [Rapier](Rapiers.md) equipped  
+        
+    -   Tags: \[Light Weapon\] \[Chip Damage\] \[Flourish\] \[M1 Tag\] \[Rapier\] \[True Damage\]
 
 -   **Officer's Training** \[Dread Imperium • Faction Talent\] - While using a [Sword](Swords.md) or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
     

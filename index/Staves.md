@@ -1,6 +1,6 @@
 ---
 title: Staves
-revid: 230108
+revid: 231055
 source: https://deepwoken.fandom.com/wiki/Staves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Medium Weapons, Staves, Weapon Classes]
@@ -20,7 +20,7 @@ Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents § Vanguard Arts](Talents.md#vanguard-arts). To change it, please edit the transcluded page.  
 
 -   Both Ends \[Common Talent, Medium Weapon\] - Staffs Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
     -   This attack comes out much faster, and deals 135% of your weapon damage.

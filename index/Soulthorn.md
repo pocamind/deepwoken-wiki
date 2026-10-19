@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 230624
+revid: 231061
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -52,6 +52,8 @@ At 0 stacks, the sword glows and emits particle effects, and does nothing.
 At 1-2 stacks, the user rises up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) for a brief moment, then unleashes a chop that reels the affected opponent and anyone else who has a mark to the user and detonates it. Parriable and does high posture damage. Blockbreaks at 2 stacks. Landing this usually confirms your next Aerial Attack or quick Mantra.
 
 At 3 stacks, the user teleports to the opponent and reels anyone who has a mark in to perform a downslash, doing multiple hits after a considerable delay. The user will gain **[True Hyperarmor](Status_Effects.md#true-hyperarmor)** for the entire duration. Parriable and does high posture damage.
+
+At 1 stack, the critical does 0.75x of your weapon's scaled damage. At 2 stacks, this is doubled to 1.5x. At three stacks, the teleporting critical does 6 instances of 0.4x scaled damage, totaling up to 2.4x scaled damage.
 
 All criticals have a cooldown of **5 seconds**.
 

@@ -1,6 +1,6 @@
 ---
 title: Pistols
-revid: 230105
+revid: 231054
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Light Weapons, Pistols, Weapon Classes, Guns]
@@ -51,7 +51,7 @@ For more information on Pistol mechanics, view [Guns](Guns.md).
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger). To change it, please edit the transcluded page.  
 
 -   **Armor Piercing** \[Gunslinger • Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
@@ -175,7 +175,7 @@ This information has been transcluded from [a different page](Talents.md). Visit
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Rapid Reload \[Common Talent, Light Weapon\] - 1H Guns You have 20% faster reload when reloading an empty pistol.
-    -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
+    -   It takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Sleight of Hands \[Common Talent, Light Weapon\] - 1H Guns When you flourish an opponent you instantly load a bullet.

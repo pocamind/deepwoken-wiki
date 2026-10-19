@@ -1,6 +1,6 @@
 ---
 title: Greataxes
-revid: 230103
+revid: 231048
 source: https://deepwoken.fandom.com/wiki/Greataxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heavy Weapons, Greataxes, Weapon Classes]
@@ -18,7 +18,7 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To change it, please edit the transcluded page.  
 
 -   **Impairing Blow** \[Bruiser • Common Talent\] - Greataxes Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Does not proc on uppercut.

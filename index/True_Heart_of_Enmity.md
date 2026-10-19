@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 230902
+revid: 231062
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -40,7 +40,7 @@ It is the same gargantuan creature wrought of iron and animosity, though it dons
 
 ## Moves
 
-**!!! Do not attempt to block the Heart of Enmity's moves, even if the wiki says they're blockable.** While some attacks can be blocked with over 50 posture and Ardour, it is not recommended due to the high risk of posture breaking.
+**!!! Do not attempt to block the Heart of Enmity's moves, even if the wiki says they're blockable.** The requirements to block enmity attacks are: 36 posture + ardour + Old Habits Die Hard talent allowing you to block ONLY with your lingering block but that is more than enough. If you don't have that talent the requirements to block enmitys attack rise to 39 posture + ardour and 45 without ardour and anything else.
 
 All moves instantly grip the opponent if they are knocked. Enmity Servants are also capable of executing downed players.
 
@@ -164,7 +164,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
--   ↻ Undodgeable
+-   § Dodgeable
 -   ⤻ Ragdoll
 
  | 

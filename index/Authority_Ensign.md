@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 230939
+revid: 231053
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -247,7 +247,7 @@ Enlistment Ranks
 
 These Talents can be chosen upon being promoted at any point in your Ensign playthrough.
 
-This section is transcluded from \[\[Talents#Battle Readiness|Talents § Battle Readiness\]\]. To change it, please edit the transcluded page.  
+This section is transcluded from [Talents § Battle Readiness](Talents.md#battle-readiness). To change it, please edit the transcluded page.  
 
 -   **Armored Plating** \[Battle Readiness • Faction Talent\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
     -   Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.  
@@ -317,7 +317,7 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 ### Exclusive Features
 
-This section is transcluded from \[\[Talents#Dread Imperium|Talents § Dread Imperium\]\]. To change it, please edit the transcluded page.  
+This section is transcluded from [Talents § Dread Imperium](Talents.md#dread-imperium). To change it, please edit the transcluded page.  
 
 -   **Breakthrough Drive** \[Dread Imperium • Faction Talent\] - Knocking a player refreshes your [Glorious Charge](Authority_Ensign.md#glorious-charge) cooldown and extends both of its effects by 5 seconds. \[90 second CD\]
     -   Knocking a _player_ [Unconscious](Status_Effects.md#unconscious) increases the duration of the knock prevention and Speed Boost given to your squadmates by the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra by 5 seconds, alongside resetting its cooldown.
@@ -449,7 +449,7 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 ### Exclusive Features
 
-This section is transcluded from \[\[Talents#Inquisitive Lethality|Talents § Inquisitive Lethality\]\]. To change it, please edit the transcluded page.  
+This section is transcluded from [Talents § Inquisitive Lethality](Talents.md#inquisitive-lethality). To change it, please edit the transcluded page.  
 
 -   **Backstabber** \[Inquisitive Lethality • Faction Talent\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
     -   While standing behind an enemy, raise your weapon upwards in reverse grip. On M1, strike downwards with a 10% swing speed buff and stab the target, then leap off of them.
@@ -598,7 +598,7 @@ Complete missions with a high win to loss ratio, then speak to [Sentinel Augustu
 
 ### Exclusive Features
 
-This section is transcluded from \[\[Talents#Operator's Technique|Talents § Operator's Technique\]\]. To change it, please edit the transcluded page.  
+This section is transcluded from [Talents § Operator's Technique](Talents.md#operators-technique). To change it, please edit the transcluded page.  
 
 -   **Absolute Force** \[Faction Talent, **Authority Ensign** Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
     -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 231024
+revid: 231060
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -360,7 +360,7 @@ Some boons are more worth taking than others:
 **Sly** decreases [reputation](Reputation.md) lost when committing crimes and provides +15% [Stealth](Stealth.md). This Boon is unlocked by [paying off](Reputation.md#bribes) negative reputation for the first time (e.g. **Enemy** -> **Neutral** [Etrea](Etrea.md) reputation).
 
 -   Notes:
-    -   This Boon is largely seen as a waste of a Boon, as all it does is reduce the amount of reputation lost when doing things that might upset factions.
+    -   While the main effect of lessening the reputation loss is largely seen as useless, the 15% extra stealth are incredibly powerful for Soulbreaker/Tacet builds and makes the boon a must-pick for those kinds of builds.
     -   Sly may be useful for people who gank, especially in [the Depths](The_Depths.md) and around [Castle Light](Castle_Light.md), and for builds that want a very high [Stealth](Stealth.md) stat (e.g. for [Tacet](Murmur%253A_Tacet.md)).
     -   The [Stealth](Stealth.md) from this Boon is affected by Stealth multipliers, such as [Felinor](Felinor.md) and crouching/[Lowstride](Talents.md#lowstride), but it does not contribute to [Fatal Stealth](Talents.md#fatal-stealth)'s damage bonus.
 

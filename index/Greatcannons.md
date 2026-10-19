@@ -1,6 +1,6 @@
 ---
 title: Greatcannons
-revid: 230104
+revid: 231052
 source: https://deepwoken.fandom.com/wiki/Greatcannons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapon Classes]
@@ -18,7 +18,7 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents § Big Bertha](Talents.md#big-bertha). To change it, please edit the transcluded page.  
 
 -   **Heavy Cannonball** \[Big Bertha • Common Talent\] - Greatcannon Double the cooldown of your critical attack but increase the cannonball damage by 50%.
     -   Specifically buffs the damage of the _projectile_ on the Greatcannon criticals.

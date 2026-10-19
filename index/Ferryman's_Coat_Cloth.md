@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat Cloth"
-revid: 212079
+revid: 231059
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat_Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -33,3 +33,5 @@ The **Ferryman's Coat Cloth** is a direct and chest drop from [The Ferryman](The
     -   [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md): 1x [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1x Ferryman's Coat Cloth + 1x [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) at [Merit Detainment Core](Merit_Detainment_Core.md).
 -   [Ingredients](Ingredients.md)
     -   [Ether Refined Hide](Ether_Refined_Hide.md): 1x [Primadon Pelt](Primadon_Pelt.md) + 2x **Ferryman's Coat Cloth** + 1x [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>) in the [Lost Forge](Lost_Forge_of_Leiuna.md).
+-   [Enchant Stone](Enchant_Stone.md)
+    -   [Storm](Storm.md): 1x [Any Enchant Stone](Enchant_Stone.md) + 1x Ferryman's Coat Cloth

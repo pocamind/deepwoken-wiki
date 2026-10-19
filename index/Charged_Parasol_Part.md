@@ -1,6 +1,6 @@
 ---
 title: Charged Parasol Part
-revid: 227865
+revid: 231038
 source: https://deepwoken.fandom.com/wiki/Charged_Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -25,12 +25,14 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Charged Parasol Part** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md).
+**Charged Parasol Part** is an exceedingly rare (~2.5-4%) direct drop from [Interluminary Parasol](Interluminary_Parasol.md).
 
 ## Uses
 
 -   It can be traded in with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) to grant you the [Abyssal Tendrils](Monster_Mantras.md#abyssal-tendrils) [Mantra](Mantras.md).
 
 ## Trivia
+
+-   This item was rumored to only drop during the charging of Greater Overcurrent but this has been disproven as either having no change or a near undetectable change.
 
 -   This item's model is identical to the [Strange Claw](Strange_Claw.md).
