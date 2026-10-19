@@ -1,6 +1,6 @@
 ---
 title: Charged Parasol Part
-revid: 231038
+revid: 231091
 source: https://deepwoken.fandom.com/wiki/Charged_Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Charged Parasol Part** is an exceedingly rare (~2.5-4%) direct drop from [Interluminary Parasol](Interluminary_Parasol.md).
+**Charged Parasol Part** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md).
 
 ## Uses
 

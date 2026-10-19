@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 231019
+revid: 231105
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Hobo is a wealthy and proficient [Flamecharmer](Flamecharm.md) that you may find when roaming around [Erisia](Erisia.md).
+The Hobo is a relatively wealthy and proficient [Flamecharmer](Flamecharm.md) that you may find when roaming around [Erisia](Erisia.md).
 
 The Hobo is a neutral NPC that can be found in the wild. It guards three chests that can be obtained safely if you pass a [Charisma](Attributes.md) check, or alternatively you can kill them, granting you another chest. You may loot the chests without completing the Charisma check, but it will anger them and initiate a fight.
 

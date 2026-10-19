@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 230780
+revid: 231088
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -196,7 +196,7 @@ Dialogue: | Books: | Glossary Entries: [Adret / Adretian](#adret--adretian), [Th
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#sovereign) [Drallis Ehr](#drallis-ehr) and his Council. An immortal, the [Sovereign](#sovereign) has been the head of state for the Central Authority since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Blade Temple Guard](Blade_Temple_Guard.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Klave](Captain_Klave.md), [Captain Massi](Captain_Massi.md), [Captain Rendez](Captain_Rendez.md), [Captain Trist](Captain_Trist.md), [Cheral](Cheral.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Etrean Guard](Etrean_Guard.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Neophyte Jefferson](Neophyte_Jefferson.md), [Nimea](Nimea.md), [Peipre](Peipre.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Canor](#canor), [The Adretian Empire](#the-adretian-empire), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Blade Temple Guard](Blade_Temple_Guard.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Klave](Captain_Klave.md), [Captain Massi](Captain_Massi.md), [Captain Rendez](Captain_Rendez.md), [Captain Trist](Captain_Trist.md), [Cheral](Cheral.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Etrean Guard](Etrean_Guard.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Neophyte Jefferson](Neophyte_Jefferson.md), [Nimea](Nimea.md), [Peipre](Peipre.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Canor](#canor), [The Adretian Empire](#the-adretian-empire), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor), [Thundercall](#thundercall)
 
 ### The Citadel of Markor
 
@@ -503,8 +503,10 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 ### Thundercall
 
 -   The ability to produce and manipulate electromagnetism through the [Song](#the-song).
+-   [Thundercall](#thundercall) is prominently used in law enforcement as it presents non-lethal methods of capture. The crackling of a Peacekeeper's lightning-infused bat on is an all-too-familiar sound in the urban sprawls of the [Central Luminant](#central-luminant).
+-   In additional \[_[sic](https://en.wikipedia.org/wiki/sic)_\] to its non-lethal applications, the [Central Authority](#central-authority) and the Hundred Legions have both gained infamy for their adoption of [Thundercall](#thundercall) within their military arsenal.
 
-Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Kelsius](Kelsius.md), [Neero](Neero.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) | Glossary Entries:
+Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Kelsius](Kelsius.md), [Neero](Neero.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) | Glossary Entries: [Thundercall](#thundercall)
 
 ### Unspoken Vow
 
@@ -722,7 +724,7 @@ Dialogue: [Akira](Akira.md), [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: [T
 -   The central and largest [Luminant](#luminant) of all, the Central Luminant is a tumultuous region that is governed overall by the [Central Authority](#the-central-authority).
 -   Enclaves outside of the [Central Authority's](#the-central-authority) purview do exist within the Central Luminant, however. One such example are the [Lullaby Isles](#the-lullaby-isles), the homeland of the Chrysid and the Moonlit Faith.
 
-Dialogue: [Chud Steel](Chud_Steel.md), [Kelsius](Kelsius.md), [Sentinel Augustus](Sentinel_Augustus.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Luminants](#the-luminants)
+Dialogue: [Chud Steel](Chud_Steel.md), [Kelsius](Kelsius.md), [Sentinel Augustus](Sentinel_Augustus.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Luminants](#the-luminants), [Thundercall](#thundercall)
 
 ### The Drowned City of Celtor
 

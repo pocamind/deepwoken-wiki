@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 231036
+revid: 231092
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -25,7 +25,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | selling_price | 10 |
 | weight | 1 |
 
-**Titanslayer's Adornment** is a Master [Outfit](Outfits.md) in Deepwoken. It is found as an exceedingly rare (~1% per kill) drop from [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md), or an unknown rarity (estimated 0.1% drop chance) from [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md).
+**Titanslayer's Adornment** is a Master [Outfit](Outfits.md) in Deepwoken.
 
 ## Statistics
 
@@ -44,6 +44,6 @@ This Outfit has 3300 durability and grants +25% Physical resistance ResistancePh
 ## Trivia
 
 -   This Outfit is by far the most expensive one to craft, costing more than even the [Cala-Mariner](Cala-Mariner.md).
-    -   On top of the five (5) [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, adding on the mere 1% drop chance from [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) making this additionally one of the most expensive items in the game.
+    -   On top of the five (5) [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, if the player decides to spawn the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) over regular [Primadon](Primadon,_Titan_of_the_East.md), doing so would require at least one (1) additional Sinner's Ash, bringing the total to six (6) Sinner's Ashes.
 -   Agamatsu, a Deepwoken developer, stated Titanslayer's Adornment's rarity is similar to that of [Whistling Periapt](Whistling_Periapt.md). It is highly recommended that you farm [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) over regular [Primadon](Primadon,_Titan_of_the_East.md) for the better drop rates.
 -   Although activating Primal Rage drains your ether bar, it does not share the same 100% ether requirement as [Ardour Scream](Talents.md#ardour-scream). Therefore, it is recommended to use Ardour Scream before entering the [Primal Rage](Status_Effects.md#primal-rage) state, as your damage bonus will be increased to 31.25%.

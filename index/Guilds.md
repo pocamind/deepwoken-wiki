@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 225648
+revid: 231089
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -59,6 +59,8 @@ The guild ranks are listed below:
 | **Guild Lieutenant ︽** | Yes (only kick members) | Yes (up to Officer) | No |
 | **Guild Officer ⛨** | Yes (only kick members) | No | No |
 | **Guild Member** | No | No | No |
+
+To invite a member into a guild, M2 their name on the player list and select "Invite to Guild."
 
 Members of a guild including its leader will stay in their guild after death and/or wiping. Currently the only way to leave a guild is by speaking to the [Guild Clerk](Guild_Clerk.md) or being exiled by an officer. You can have as many members in a guild as you want.
 

@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 230777
+revid: 231102
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in the Eastern Luminant, Old Stewards]
@@ -67,12 +67,6 @@ This dialogue is unlocked if the player meets the requirements to unlock [Saltch
 </tr>
 <tr>
   <td>Ciea spoke highly of you.</td>
-</tr>
-<tr>
-  <td>Ah! Ciea! Yes! Perhaps not my star pupil, on account of her lack of enthusiasm about joining the Old Stewards, but an excellent student nonetheless. If you've come here as a fellow researcher, perhaps you can lend me a hand and I'll share my findings?</td>
-</tr>
-<tr>
-  <td>What can I do to help?</td>
 </tr>
 <tr>
   <td>Ah! Ciea! Yes! Perhaps not my star pupil, on account of her lack of enthusiasm about joining the Old Stewards, but an excellent student nonetheless. If you've come here as a fellow researcher, perhaps you can lend me a hand and I'll share my findings?</td>

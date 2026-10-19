@@ -1,6 +1,6 @@
 ---
 title: Guard Turrets
-revid: 230253
+revid: 231080
 source: https://deepwoken.fandom.com/wiki/Guard_Turrets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ Although they are hostile to a target of their [faction](Factions_&_Groups.md), 
 
 ### Archer Tower
 
-Located at [Etris](Etris.md) [Etreaiconfaction](Etrea.md) and the [Isle of Vigils](Isle_of_Vigils.md) [Etreaiconfaction](Etrea.md), the archer towers are tall structures with housing at the top that arrows are fired from.
+Located at [Etris](Etris.md) [Etreaiconfaction](Etrea.md) and the [Isle of Vigils](Isle_of_Vigils.md), the archer towers are tall structures with housing at the top that arrows are fired from.
 
 The arrow projectiles deal 10 damage per hit, attacking in two-shot bursts. The arrows lead their shots and predict your movements based on the direction you are moving. It is recommended to zig-zag to avoid them.
 

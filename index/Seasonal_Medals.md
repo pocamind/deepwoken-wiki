@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 219235
+revid: 231075
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -57,7 +57,7 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
     -   [Death's Reverie](<Death's_Reverie.md>) \[7 Knowledge\]
     -   [Wretched Mawblades](Wretched_Mawblades.md) \[7 Knowledge\]
     -   [Galpin's Spectral Instrument Set](Instruments.md#spectral-instruments) \[10 Knowledge\]
-    -   [A Light In The Sky](Books.md#a-light-in-the-sky) \[2 Knowledge\]
+    -   [A Light In The Sky](A_Light_In_The_Sky.md) \[2 Knowledge\]
     -   [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) \[3 Knowledge\]
     -   [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[3 Knowledge\]
 

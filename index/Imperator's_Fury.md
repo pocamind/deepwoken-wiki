@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 231042
+revid: 231090
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
@@ -26,7 +26,7 @@ categories: [Equipment, Torso, Equipment with Talents, Equipment with Exclusive 
 
 ## Description
 
-The Imperator's Fury is an [Equipment](Equipment.md) item under the "Torso" category. It's a stake planted into the core of the wielder, amplifying their physical abilities. It is found as an exceedingly rare (estimated somewhere between 0.1-1% per Chest) drop from [Titus](Titus_Fulminus_Destellus.md) [Fulminus Destellus](Titus_Fulminus_Destellus.md).
+The Imperator's Fury is an [Equipment](Equipment.md) item under the "Torso" category. It is a stake planted into the core of the wielder, amplifying their physical abilities.
 
 The [Brute Strength](Talents.md#brute-strength) talent replaces the player's Vent with a slam attack that deals 35 blunt damage and knocks enemies back. This attack deals 20 Posture damage and has double the windup of a regular Vent (0.25s -> 0.5s).
 

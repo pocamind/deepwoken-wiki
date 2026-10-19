@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 231061
+revid: 231078
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -47,23 +47,21 @@ The Soulthorn has three critical variants which depend on the amount of Soul Mar
 
 Every M1 of Soulthorn that connects applies a Soul Mark. Up to three Soul Marks can be applied. At three stacks, the opponent will have a rotating, star-like aura.
 
-At 0 stacks, the sword glows and emits particle effects, and does nothing.
+Using your critical at 0 stacks causes the sword to glow and nothing else to happen.
 
-At 1-2 stacks, the user rises up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) for a brief moment, then unleashes a chop that reels the affected opponent and anyone else who has a mark to the user and detonates it. Parriable and does high posture damage. Blockbreaks at 2 stacks. Landing this usually confirms your next Aerial Attack or quick Mantra.
+At 1-2 stacks, the user rises up on critical and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) for a brief moment, then unleashes a chop that reels the affected opponent and anyone else who has a mark to the user and detonates it. With 1 stack, this deals **0.75x** of the weapon's scaled damage, and deals high posture damage if blocked. At 2 stacks, this instead deals **1.5x** the weapon's scaled damage, and automatically guardbreaks if blocked. Landing this usually confirms your next Aerial Attack or quick Mantra.
 
-At 3 stacks, the user teleports to the opponent and reels anyone who has a mark in to perform a downslash, doing multiple hits after a considerable delay. The user will gain **[True Hyperarmor](Status_Effects.md#true-hyperarmor)** for the entire duration. Parriable and does high posture damage.
+At 3 stacks, the user teleports to the opponent on critical and reels anyone who has a mark in to perform a downslash, doing multiple hits after a considerable delay. The user will gain **[True Hyperarmor](Status_Effects.md#true-hyperarmor)** for the entire duration. This deals **0.4x** of the weapon's scaled damage per hit, with 6 hits total, totaling to **2.4x** scaled damage if all hits land. This also deals high posture damage if blocked. This critical will end early if parried. This critical has small AoE, dealing damage to very close-by targets.
 
-At 1 stack, the critical does 0.75x of your weapon's scaled damage. At 2 stacks, this is doubled to 1.5x. At three stacks, the teleporting critical does 6 instances of 0.4x scaled damage, totaling up to 2.4x scaled damage.
+If multiple targets have stacks on them, the criticals will attack all targets. All targets that only have 1-2 stacks will be attacked with the critical simultaneously on critical usage, pulling all them all towards the Soulthorn user. For targets that have 3 stacks, the Soulthorn user will instead perform the full 3-stack critical before teleporting to the next eligible target and using the full critical again, and so on.
 
 All criticals have a cooldown of **5 seconds**.
 
 ## Trivia
 
--   Soulthorn is the first Unique rarity weapon.
--   The original wielder of this weapon is Zhatarn, The Moonlight Prince. A celestial that lost their sanity and was subsequently exiled from the Heavens.
+-   The original wielder of this weapon is [Zhatarn, The Moonlight Prince](Glossary.md#zhatarn-the-moonlight-prince). A celestial that lost their sanity and was subsequently exiled from the Heavens.
 -   Sitting at the middle of the crossguard is a spherical object similar to the [pieces of The Forge](Artifacts.md) or [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
 -   Strangely, the held item form of the Soulthorn (not the equipped weapon) has collision, preventing the player from easily entering doorways while held.
 -   It appears to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
--   The Soulthorn is unable to be dropped.
--   Soulthorn had all of its Penetration (30%) removed in the October 11th, 2024 update. This is widely considered by the community to be one of the harshest nerfs to a weapon in Deepwoken's history.
--   Speaking to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) with a Soulthorn equipped will unlock a hidden [Glossary](Glossary.md#zhatarn-the-moonlight-prince) entry on [Zhatarn](Zhatarn.md), the Moonlight Prince.
+-   Soulthorn had all of its innate Penetration (30% at the time) removed in the [October 11th, 2024](Version_History/2024.md#october-11th-2024) update. This is widely considered by the community to be one of the harshest nerfs to a weapon in Deepwoken's history.
+-   Speaking to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) with a Soulthorn equipped will unlock a hidden [Glossary](Glossary.md#zhatarn-the-moonlight-prince) entry on [Zhatarn](Zhatarn.md), the Moonlight Prince, along with granting unique dialogue.

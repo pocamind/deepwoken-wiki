@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 231069
+revid: 231074
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -36,7 +36,7 @@ The Heart of Enmity possesses 65% oath damage resistance, 90% elemental resistan
 
 ## Moveset
 
-**The requirements to block enmity attacks are: 36 posture + ardour + Old Habits Die Hard talent allowing you to block ONLY with your lingering block but that is more than enough. If you don't have that talent the requirements to block enmitys attack rise to 39 posture + ardour and 45 without ardour and anything else. Also the blocking requirement is general and enmity has same posture damage on every single of his attack.**
+**The requirements to block enmity attacks are: 36 posture + ardour + Old Habits Die Hard talent allowing you to block ONLY with your lingering block but that is more than enough. If you don't have that talent the requirements to block enmitys attack rise to 39 posture + ardour and 45 without ardour and anything else. Also, the blocking requirement is general and enmity has same posture damage on every single one of his attacks.**
 
 All moves instantly grip the opponent if they are knocked. Enmity Servants are also capable of executing downed players.
 
@@ -159,7 +159,6 @@ Avoid
 -   Enchantment Immunity - The Heart of Enmity is immune to all [Enchantments](Enchantments.md).
 -   Potion Immunity - The Heart of Enmity is immune to all [Potion](Alchemy.md) effects.
 -   **Enmity's Rot - The Heart of Enmity applies a powerful anti-heal on attacks that last for 30 seconds.**
--   **Corrupted servant no longer spawns as this feature was removed.**
 
 ## Battle Dialogues
 
@@ -277,6 +276,8 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   Corrupted [Payback](Payback.md) is amazing for damage and support. Make sure you get the beam variant of it and stay FAR away from teammates right before use to prevent friendly fire.
 -   Corrupted [Sacred Field](Sacred_Field.md) is also amazing for general survivability.
 -   Corrupted [Run It Back](Run_It_Back.md) is another amazing choice, as it heavily increases survivability and is great for killing enforcers with its hyperarmor.
+-   Corrupted [Smite](Smite.md) is a great option if you need extra dps instead of survivability.
+-   Corrupted [Portals](Portals.md) is also one of the options, using this resonance allows you to retreat safely allowing another person to swap you incase if you get low. Another use of this resonance is to flee away from depths gankers.
 
 ## Trivia
 

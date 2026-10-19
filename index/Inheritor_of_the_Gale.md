@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 217940
+revid: 231084
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -644,3 +644,11 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 -   Exclusive to Inheritor of the Gale and [Theros Disciple](Theros_Disciple.md)
 
  |
+
+## Trivia
+
+-   On initial unlock of the Memento it is called “Prince of Wind”.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

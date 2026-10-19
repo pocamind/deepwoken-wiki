@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 227842
+revid: 231103
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -64,7 +64,11 @@ _"\[Name\] say \[message\]"_
 
 Innate
 
- | Forces the Subject to speak your prompt. |
+ | Forces the Subject to speak your prompt.
+
+-   Due to changes with Roblox, this command currently does not work.
+
+ |
 | 
 
 **Locate**

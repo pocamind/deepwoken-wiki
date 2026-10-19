@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231006
+revid: 231095
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -45,7 +45,7 @@ List of tags:
     -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires. Attribute categories (\[Mind\], \[Body\], \[Weapon\], and \[Element\]) all have their own tags.
     -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
 -   Specific Terms; given if applicable:
-    -   Categories: \[Anti-Sustain\], \[[Ardour](Murmur%253A_Ardour.md)\], \[Armor Durability\], \[Assassination\], \[Attunement Path\], \[Backhit\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](Murmur%253A_Rhythm.md)\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\], \[True Damage\]
+    -   Categories: \[Anti-Sustain\], \[[Ardour](Murmur%253A_Ardour.md)\], \[Armor Durability\], \[Assassination\], \[Attunement Path\], \[Backhit\], \[Bleed\], \[Burn\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[[Deep Gem](Deep_Gems.md)\], \[Dodge\], \[Feint\], \[Food\], \[Guardbreak\], \[Mantra\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[Parry\], \[PEN\], \[Posture Damage Buff\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](Murmur%253A_Rhythm.md)\], \[Running Attack\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\], \[True Damage\], \[Uppercut\], \[Weapon Attack\], \[Wither\]
     -   Weapon Types: \[Dagger\] \[Fist\] \[[Fist Style](Fists.md#styles)\] \[Pistol\] \[Dual Pistols\] \[Single Pistol\] \[Offhand Pistol\] \[Rapier\] \[Bow\] \[Club\] \[Spear\] \[Staff\] \[Greataxe\] \[Greatcannon\] \[Greathammer\] \[Greatsword\]
     -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
     -   \[Aspect name\], \[Oath name\], \[Origin name\], or \[Weapon category\] if applicable, with hyperlinks.
@@ -54,6 +54,11 @@ List of tags:
     -   \[M1 Tag\] - Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag.
     -   \[[Spec](Developer_Specs.md)\] - Deepwoken Developer or Moderator exclusive Talents.
     -   \[Tool\] - Talents that provide a Talent tool. Use the tool to activate the Talent's effects.
+    -   \[Knock\] - Talents that proc upon being knocked **[Unconscious](Status_Effects.md#unconscious)**, knocking other people Unconscious, or can be used as the Unconscious party.
+    -   \[Grip\] - Talents that proc upon executing a target.
+    -   \[Status Resistance\] - Talents that lessen the effectiveness of specific [Status Effects](Status_Effects.md).
+    -   \[Economy\] - Talents that either provide some effect upon selling an item, or pertain to the obtainment of loot in some fashion.
+    -   \[Ether Proselyte\] - Talents that are eligible for use with the Ether Proselyte Talent, allowing them to be used on any Attuned Mantra while in the respective [Saint Stance](Oath%253A_Saintsworn.md).
     -   \[Vaulted\] - Talents that have been removed from the Talent pool to await balance changes.
     -   \[Investment Scaling\] - Talents that scale above their base values when you have more than the required amount of attribute investment.
     -   \[Scale-down\] - Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements. Mutually exclusive with \[Hard Requirements\].
@@ -171,7 +176,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             
     -   Prerequisites: 75 Willpower  
         
-    -   Tags: \[Willpower\] \[+Sanity\]
+    -   Tags: \[Willpower\] \[+Sanity\] \[Status Resistance\]
 
 ### Acrobat
 
@@ -206,7 +211,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 5 Agility  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Grip\] \[Speed Boost\]
 
 ### Adaptive Arsenal
 
@@ -217,7 +222,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 75 Ironsing  
         
-    -   Tags: \[Ironsing\] \[Damage Resistance\]
+    -   Tags: \[Ironsing\] \[Damage Resistance\] \[Dodge\]
 
 -   **Exposed Durability** \[Common Talent\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also applies to players who are wearing the [Stranded](Stranded.md) Outfit.
@@ -225,7 +230,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 60 Ironsing  
         
-    -   Tags: \[Ironsing\] \[Damage Buff\]
+    -   Tags: \[Ironsing\] \[Armor Durability\] \[Damage Buff\]
 
 -   **Phantom Edge** \[Rare Talent\] - Your weapon M1's have +0.25 range.
     -   It is not recommended to take this Talent, as its effect is objectively, unnoticeably minuscule.
@@ -233,7 +238,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 75 Ironsing  
         
-    -   Tags: \[Ironsing\] \[Range\]
+    -   Tags: \[Ironsing\] \[Range\] \[Weapon Attack\]
 
 ### Adept Caster
 
@@ -257,7 +262,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 85 Intelligence  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Mantra\]
 
 -   **Overflowing Dam** \[Rare Talent\] - Having full [Ether](Ether.md) for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
@@ -267,13 +272,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Warlock's Mantle](<Warlock's_Mantle.md>), [Ether Refined Mantle](Ether_Refined_Mantle.md), [Sorcerer's Mantle](<Sorcerer's_Mantle.md>)  
         
-    -   Tags: \[Intelligence\] \[Damage Buff\] \[Scale-down\]
+    -   Tags: \[Intelligence\] \[Damage Buff\] \[Scale-down\] \[Weapon Attack\]
 
 -   **Perfect Flash** \[Rare Talent\] - Having over 95% health causes your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
     
     -   Prerequisites: 25 Intelligence  
         
-    -   Tags: \[Intelligence\] \[Damage Buff\]
+    -   Tags: \[Intelligence\] \[Damage Buff\] \[Mantra\]
 
 ### Aerial Dancer
 
@@ -310,13 +315,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Wind Step](#wind-step), 50 Galebreathe  
         
-    -   Tags: \[Galebreathe\] \[Speed Boost\]
+    -   Tags: \[Galebreathe\] \[Knock\] \[Speed Boost\]
 
 -   **Suffocating Impact** \[Common Talent\] - Flourishing enemies into walls applies **[Winded](Status_Effects.md#winded)** and **[Suffocating](Status_Effects.md#suffocation)** for a short duration. (+2 Passive Agility)
     
     -   Prerequisites: 15 Strength, 35 Galebreathe  
         
-    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\] \[Flourish\]
+    -   Tags: \[Strength\] \[Galebreathe\] \[+Passive Agility\] \[Debuff\] \[Flourish\] \[Weapon Attack\]
 
 -   **Stifled Jump** \[Rare Talent\] - **[Suffocating](Status_Effects.md#suffocation)** now applies **[Dazed](Status_Effects.md#dazed)** if enemies jump. Suffocated PvE enemies now also get **[Sluggish](Status_Effects.md#sluggish)** when they are suffocated. (+2 Passive Agility)
     -   The Daze effect lasts for 1 second.
@@ -332,7 +337,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Gale Punch](Galebreathe.md#gale-punch) (Mantra), 20 Galebreathe  
         
-    -   Tags: \[Galebreathe\]
+    -   Tags: \[Galebreathe\] \[Mantra\]
 
 ### Alchemist
 
@@ -403,7 +408,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 5 Agility  
         
-    -   Tags: \[Agility\] \[+Passive Agility\] \[Speed Boost\]
+    -   Tags: \[Agility\] \[+Passive Agility\] \[Combat Tag\] \[Speed Boost\]
 
 -   **Conditioned Runner** \[Advanced Talent\] - You take 5-15% less damage. The damage reduction amount scales with your agility stat and how long you have been running for. (+1 Passive Agility)
     -   This effect only applies while sprinting.
@@ -421,7 +426,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 80 Intelligence  
         
-    -   Tags: \[Intelligence\] \[Investment Scaling\] \[PEN\] \[Scale-down\]
+    -   Tags: \[Intelligence\] \[Investment Scaling\] \[Mantra\] \[PEN\] \[Scale-down\]
 
 ### Amoran Seeker
 
@@ -439,7 +444,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 25 Flamecharm  
         
-    -   Tags: \[Flamecharm\] \[Damage Buff\] \[Tool\]
+    -   Tags: \[Flamecharm\] \[Burn\] \[Damage Buff\] \[Debuff\] \[Tool\]
 
 ### Angler
 
@@ -484,7 +489,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw  
         
-    -   Tags: \[Strength\] \[Willpower\] \[Food\]
+    -   Tags: \[Strength\] \[Willpower\] \[Food\] \[Grip\]
 
 -   **Grand Feast** \[Common Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   The healing is negated while in PVP combat.
@@ -492,7 +497,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Carnivore](#carnivore)  
         
-    -   Tags: \[Strength\] \[Willpower\] \[+Passive Agility\] \[Sustain\] \[Tempo\]
+    -   Tags: \[Strength\] \[Willpower\] \[+Passive Agility\] \[Grip\] \[Sustain\] \[Tempo\]
 
 -   **Sunken Predator** \[Common Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
@@ -540,7 +545,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
         
-    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\]
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Backhit\]
 
 -   **Arc Module: Leap** \[Oath Talent\] - In Arc Suit Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
@@ -579,7 +584,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Assassin's Hood](<Assassin's_Hood.md>)  
         
-    -   Tags: \[Agility\] \[Anti-Sustain\] \[Assassination\] \[Debuff\]
+    -   Tags: \[Agility\] \[Anti-Heal\] \[Anti-Sustain\] \[Assassination\] \[Debuff\]
 
 -   **Lights Out** \[Common Talent\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility)
     -   Targets being carried will have the **[Blinded](Status_Effects.md#blinded)** visual effect, significantly hindering their vision.  
@@ -609,7 +614,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Deep Wound](#deep-wound), 60 Agility  
         
-    -   Tags: \[Agility\] \[Assassination\] \[Debuff\]
+    -   Tags: \[Agility\] \[Assassination\] \[Debuff\] \[Slow\]
 
 ### Authority Interrogator
 
@@ -631,7 +636,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 65 Thundercall  
         
-    -   Tags: \[Thundercall\] \[Damage Resistance\]
+    -   Tags: \[Thundercall\] \[Damage Resistance\] \[Mantra\] \[Weapon Attack\]
 
 -   **First Interrogation** \[Common Talent\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
     -   Only procs on weapon attacks from [Electrified](Status_Effects.md#electrified) opponents.
@@ -640,7 +645,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Resolve Crusher](#resolve-crusher), 65 Thundercall  
         
-    -   Tags: \[Thundercall\]
+    -   Tags: \[Thundercall\] \[Weapon Attack\]
 
 -   **Second Interrogation** \[Common Talent\] - Opponents who are [Electrified](Status_Effects.md#electrified) do 50% less damage and 50% less posture damage to you.
     -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
@@ -648,7 +653,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [First Interrogation](#first-interrogation), 65 Thundercall  
         
-    -   Tags: \[Thundercall\] \[Damage Resistance\] \[Posture Resistance\]
+    -   Tags: \[Thundercall\] \[Damage Resistance\] \[Posture Resistance\] \[Weapon Attack\]
 
 ### Authority Ensign
 
@@ -692,7 +697,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 5 Fortitude  
         
-    -   Tags: \[Fortitude\] \[+Posture\] \[Mobility\]
+    -   Tags: \[Fortitude\] \[+Posture\] \[Mobility\] \[Status Resistance\]
 
 -   **Perseverance** \[Common Talent\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and **[Unconscious](Status_Effects.md#unconscious)** for by 25%. (+5 Sanity)
     -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](#defiance))  
@@ -701,7 +706,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Ignition Trailblazer](Ignition_Trailblazer.md)  
         
-    -   Tags: \[Fortitude\] \[Willpower\] \[+Sanity\]
+    -   Tags: \[Fortitude\] \[Willpower\] \[+Sanity\] \[Knock\] \[Status Resistance\]
 
 -   **Reinforced Armor** \[Advanced Talent\] - Incoming PEN is reduced by 30%.
     -   The effects of Reinforced Armor are lessened if you do not meet the Talent's requirements, losing 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.
@@ -728,7 +733,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
         
-    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Sword\]
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Sword\] \[Weapon Attack\]
 
 -   **Riot Shield** \[Faction Talent\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.  
@@ -748,7 +753,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
         
-    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Flourish\]
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Flourish\] \[Weapon Attack\]
 
 -   **Steel Tread** \[Faction Talent\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
     
@@ -766,25 +771,23 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 60 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
         
-    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Damage Buff\] \[Greatcannon\]
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Damage Buff\] \[Greatcannon\] \[Weapon Attack\]
 
 -   **Mortar Mystery** \[Rare Talent\] - Greatcannon Landing a greatcannon critical attack summons mysterious cannonballs from above that target your opponent.
     -   3 mortar projectiles are spawned per critical attack damage instance landed, for each entity hit.
-        -   For example, if you hit the initial attack and projectile on the Default Greatcannon critical on two enemies, it would summon 12 mortar projectiles in total.
-        -   This Talent is especially potent on the [Smouldering Hallow](Smouldering_Hallow.md).
     -   Each mortar projectile does 30 damage on hit.
-    -   Has a cooldown of 10 seconds.  
+    -   Has a cooldown of 10 seconds, per target.  
         
     -   Prerequisites: 100 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
         
-    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Greatcannon\]
+    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Greatcannon\] \[Weapon Attack\]
 
 -   **Sticky Flames** \[Common Talent\] - Greatcannon Your base greatcannon critical attack's cannon ball leave 3 seconds of sticky flames on successful hits.
     -   The base [Burn](Status_Effects.md#burn) on the default Greatcannon critical is improved to [Sticky Burn](Status_Effects.md#sticky-burn), meaning it cannot be removed for 3 seconds upon application.  
         
     -   Prerequisites: 80 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
         
-    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Debuff\] \[Greatcannon\]
+    -   Tags: \[Heavy Weapon\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Greatcannon\] \[Weapon Attack\]
 
 ### Blindseer
 
@@ -818,7 +821,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 80 Strength  
         
-    -   Tags: \[Strength\] \[PEN\] \[Scale-down\] \[Tool\]
+    -   Tags: \[Strength\] \[PEN\] \[Scale-down\] \[Tool\] \[True Damage\]
 
 ### Bladeharper
 
@@ -834,7 +837,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time  
         
-    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\]
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Dodge\]
 
 -   **Lithe Step** \[Oath Talent\] - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed.
     -   Makes the player briefly invisible, similar to [Jetstriker](Oath%253A_Jetstriker.md)'s [Rush of Ancients](#rush-of-ancients).
@@ -853,7 +856,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time  
         
-    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Speed Boost\] \[Tool\]
+    -   Tags: \[[Bladeharper](Oath%253A_Bladeharper.md)\] \[Speed Boost\] \[Tool\] \[Wither\]
 
 -   **Soaring Storm** \[Oath Talent\] - Empower your uppercuts with the way of the blade, after [Lithe Stepping](#lithe-stepp), flourishing, or landing an Oath ability.
     -   Proc condition is removed and damage is increased if in [True Strength](Status_Effects.md#true-strength).
@@ -904,14 +907,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 22 times  
         
-    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\]
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\] \[Weapon Attack\] \[Wither\]
 
 -   **Blightlash** \[Oath Talent\] - Your swing range is enhanced during Sovereign State.
     -   Increases the range of the Sovereign Bangle from 6 to 7.  
         
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 82 times  
         
-    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Range\]
+    -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Range\] \[Weapon Attack\]
 
 -   **Sovereign State** \[Oath Talent\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
     -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
@@ -933,14 +936,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 30 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Debuff\]
+    -   Tags: \[Bloodrend\] \[Debuff\] \[Mantra\]
 
 -   **Smell of Blood** \[Rare Talent\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with **[Bloodscent](Status_Effects.md#bloodscent)** for 6s.
     -   Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.  
         
     -   Prerequisites: 65 Bloodrend  
         
-    -   Tags: \[Bloodrend\]
+    -   Tags: \[Bloodrend\] \[Guardbreak\]
 
 ### Bloodrender
 
@@ -978,13 +981,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: 35 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\]
+    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\] \[weapon Attack\]
 
 -   **First Blood** \[Common Talent\] - Your first blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use in combat has no blood cost and deals additional blood drain. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
     
     -   Prerequisites: 10 Bloodrend  
         
-    -   Tags: \[Bloodrend\]
+    -   Tags: \[Bloodrend\] \[Mantra\]
 
 -   **Hemorrhaging Blow** \[Rare Talent\] - Block breaking your opponent with a blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] turns your opponent's combat healing into damage for 8 seconds
     -   55 second cooldown, with the cooldown starting on guard break.
@@ -994,7 +997,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: [Master Bloodrender](#master-bloodrender), 95 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Anti-Sustain\] \[Guardbreak\]
+    -   Tags: \[Bloodrend\] \[Anti-Sustain\] \[Guardbreak\] \[Mantra\]
 
 -   **Rush Hour** \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
@@ -1018,7 +1021,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 40 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\]
+    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\] \[Mantra\], \[Weaoon Attack\]
 
 ### Bloodsong
 
@@ -1033,9 +1036,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 40 Bloodrend, 40 Galebreathe  
         
-    -   Tags: \[Bloodrend\] \[Galebreathe\] \[Debuff\] \[Multi-Attunement\]
+    -   Tags: \[Bloodrend\] \[Galebreathe\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
--   **Cold Blooded** \[Common Talent\] - [Chill](Status_Effects.md#chill)ed enemies passively build up blood poison, alternatively when [crystals](Status_Effects.md#crystals) explode it'll apply blood poison. (DOES NOT STACK)
+-   **Cold Blooded** \[Common Talent\] - [Chilled](Status_Effects.md#chill) enemies passively build up blood poison, alternatively when [crystals](Status_Effects.md#crystals) explode it'll apply blood poison. (DOES NOT STACK)
     -   Has a 0.5s cooldown.
     -   Applies 25% blood poisoning on crystal explosion.
     -   This Talent does not proc on Crystal explosions caused via guardbreaking the target or [Temperature Shock](#temperature-shock). Instead, all crystal explosions must be procced through applying enough crystals or [Golden Age](#golden-age) in order for this Talent to proc.  
@@ -1044,19 +1047,19 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Frostdraw\] \[Debuff\] \[Multi-Attunement\]
 
--   **Electrolyte** \[Common Talent\] - Hitting Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] while having [temporary health](Status_Effects.md#temporary-health) applies [Shock](Status_Effects.md#shock)ed while removing a portion of temporary health.
+-   **Electrolyte** \[Common Talent\] - Hitting Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] while having [temporary health](Status_Effects.md#temporary-health) applies [Shocked](Status_Effects.md#shock) while removing a portion of temporary health.
     -   Applies a [Surge Rod](Status_Effects.md#surge-rod) instead if you have Surge Path: Unstable Capacitor.
     -   Takes 4 temporary health per proc.  
         
     -   Prerequisites: 40 Bloodrend, 40 Thundercall  
         
-    -   Tags: \[Bloodrend\] \[Thundercall\] \[Debuff\] \[Multi-Attunement\] \[Temporary Health\]
+    -   Tags: \[Bloodrend\] \[Thundercall\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Temporary Health\]
 
 -   **Malevolent Sapper** \[Common Talent\] - The more blood poisoning your opponent has, the more [ether](Ether.md) your shadow mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] steal from your opponent.
     
     -   Prerequisites: 40 Bloodrend, 40 Shadowcast  
         
-    -   Tags: \[Bloodrend\] \[Shadowcast\] \[Multi-Attunement\]
+    -   Tags: \[Bloodrend\] \[Shadowcast\] \[Mantra\] \[Multi-Attunement\]
 
 -   **Scorchblood** \[Common Talent\] - Guardbreaking your opponent using a bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] causes a blood explosion, setting your opponent on fire and poisoning their blood.
     -   Deals 16.5 damage in an AoE on proc.
@@ -1064,7 +1067,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
         
-    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Debuff\] \[Guardbreak\] \[Multi-Attunement\]
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Debuff\] \[Guardbreak\] \[Mantra\] \[Multi-Attunement\]
 
 ### Boundless Potential
 
@@ -1195,7 +1198,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: Any [Fist Style](Fists.md#styles)  
         
-    -   Tags: \[Bleed\] \[Debuff\] \[Fist\]
+    -   Tags: \[Bleed\] \[Debuff\] \[Fist\] \[Weapon Attack\]
 
 ### Bruiser
 
@@ -1205,7 +1208,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), 30 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\] \[Posture Damage\] \[Slow\]
+    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\] \[Posture Damage Buff\] \[Running Attack\] \[Slow\] \[Weapon Attack\]
 
 -   **Brazen Blow** \[Common Talent\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary **[Hyperarmor](Status_Effects.md#hyperarmor)**.
     -   The hyperarmor lasts 1 second. 20 second cooldown.
@@ -1214,7 +1217,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), [Impairing Blow](#impairing-blow), 30 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Greataxe\]
+    -   Tags: \[Heavy Weapon\] \[Greataxe\] \[Weapon Attack\]
 
 -   **Heavy Fatigue** \[Rare Talent\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Reduces opponents roll distance by 25% for 2.5s.
@@ -1223,7 +1226,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), [Impairing Blow](#impairing-blow), 40 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\]
+    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\] \[Debuff\] \[Weapon Attack\]
 
 -   **Rending Impact** \[Rare Talent\] - Greataxes Block breaking an enemy applies [knockdown](Status_Effects.md#knockdown).
     -   Only procs on guardbreaks from weapon attacks.
@@ -1233,7 +1236,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), 40 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Greataxe\] \[Guardbreak\]
+    -   Tags: \[Heavy Weapon\] \[Greataxe\] \[Guardbreak\] \[Weapon Attack\]
 
 ### Bulwark
 
@@ -1242,14 +1245,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 65 Fortitude  
         
-    -   Tags: \[Fortitude\] \[Posture Resistance\] \[Scale-down\]
+    -   Tags: \[Fortitude\] \[Posture Resistance\] \[Flourish\] \[Scale-down\]
 
 -   **Dancing Guard** \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
     -   Dancing Guard's duration will be reduced by 0.086s for every point in Fortitude below its requirements, having a minimum duration of 4.86s at 30 Fortitude.  
         
     -   Prerequisites: 55 Fortitude  
         
-    -   Tags: \[Fortitude\] \[Debuff\] \[Scale-down\] \[Slow\]
+    -   Tags: \[Fortitude\] \[Debuff\] \[Scale-down\] \[Parry\] \[Slow\]
 
 -   **Down to your Level** \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 5s.
     -   Down to your Level's duration will be reduced by 0.05s for every point in Fortitude below 60, capping at a minimum of 3.75s with 35 Fortitude.
@@ -1259,7 +1262,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 60 Fortitude  
         
-    -   Tags: \[Fortitude\] \[Debuff\] \[M1 Tag\] \[Scale-down\] \[Slow\]
+    -   Tags: \[Fortitude\] \[Debuff\] \[M1 Tag\] \[Scale-down\] \[Slow\] \[Weapon Attack\]
 
 -   **Knuckle Guard** \[Common Talent\] - Hitting **[Dazed](Status_Effects.md#daze)** enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.  
@@ -1335,7 +1338,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat one humanoid [boss](Bosses.md) or player with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** // give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).  
         
-    -   Tags: \[[Chainwarden](Oath%253A_Chainwarden.md)\] \[Damage Buff\]
+    -   Tags: \[[Chainwarden](Oath%253A_Chainwarden.md)\] \[Damage Buff\] \[Mantra\]
 
 -   **Chainlash** \[Oath Talent\] - On flourish, gain the ability to summon a chain on an enemy for 5 seconds by right clicking. This lets you whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.
     -   Pressing M2 after landing a flourish will apply [Enchained](Status_Effects.md#enchained) to your opponent, pulling them to you. M1ing after the pull will perform a Crushing Kick, dealing high damage.
@@ -4179,13 +4182,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[[Oathless](Oath%253A_Oathless.md)\] \[+Health\] \[+PEN\] \[+Mantra Slots\] \[+Oath Armor\] \[+Monster Armor\]
 
-### Omniscient
+## Temporary
 
 -   **All Knowing** \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
     
     -   Prerequisites: 60 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Mantra\]
 
 -   **Successive Prediction** \[Common Talent\] - Predicting an attack will briefly allow you to predict another.
     -   After landing Prediction, all subsequent hits within a very short window will also be countered.
@@ -4193,7 +4196,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)  
         
-    -   Tags: \[Intelligence\]
+    -   Tags: \[Intelligence\] \[Mantra\]
 
 -   **Twelve Steps Ahead** \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
     -   Description clarification: Landing Prediction (countering an attack successfully) will **halve** its _current_ cooldown (minimum 2s), and whiffing Prediction (failing to counter an attack) will **double** its _current_ cooldown (maximum 30s+). In both cases, its new cooldowns (post-land or whiff) is set as the new baseline for the next proc. Prediction's cooldown will be reset to its base cooldown if 30 seconds pass without it being used.
@@ -4202,7 +4205,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)  
         
-    -   Tags: \[Intelligence\] \[Scale-down\]
+    -   Tags: \[Intelligence\] \[Mantra\] \[Scale-down\]
 
 ### Operator's Technique
 
