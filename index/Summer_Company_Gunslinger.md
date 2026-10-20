@@ -1,6 +1,6 @@
 ---
 title: Summer Company Gunslinger
-revid: 229928
+revid: 231262
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Gunslinger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Summer Company Enemies]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 Summer Company Gunslingers are enemy NPCs that can only be found outside of the [Mineskipper](Mudskipper.md#mineskipper) Mineshaft in [Songseeker Wilds](Songseeker_Wilds.md). They appear to patrol the area where [Thula](Thula.md), [Ignacio](Ignacio.md) and [Amethyst](<Amethyst_(NPC).md>) are assigned to.
 
-A Summer Coompany Gunslinger wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying, a [Summer Scarf](Summer_Scarf.md), [Leather Boots](Leather_Boots.md), and a tricorn adorned with the [The Summer Company](The_Summer_Company.md)'s emblem.
+A Summer Company Gunslinger wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying, a [Summer Scarf](Summer_Scarf.md), [Leather Boots](Leather_Boots.md), and a tricorn adorned with the [The Summer Company](The_Summer_Company.md)'s emblem.
 
 ## Moveset
 

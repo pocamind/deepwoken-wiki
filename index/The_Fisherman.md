@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 231261
+revid: 231267
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -20,6 +20,8 @@ categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Ench
 The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). They use the [Thundercall](Thundercall.md) attunement and the [Chainwarden](Oath%253A_Chainwarden.md) Oath, implying that they have ties to [The Central Authority](The_Central_Authority.md). The Fisherman can be spawned via [Jobs](Job_Boards.md) from either [The Divers](The_Divers.md) or [The Ignition Union](The_Ignition_Union.md), and you are able to find their job on the [Union Pager](Ignition_Delver.md).
 
 The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fisher Plate](Grand_Fisher_Plate.md), and is guaranteed to drop both on death. They use a [Halberd](Halberd.md) with a guaranteed random enchantment.
+
+Please note that occasionally they may not spawn, even after you receive the 'job spawn' notification. The job itself also appears to be rarer than other jobs.
 
 ## Moveset
 

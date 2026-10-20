@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231176
+revid: 231268
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -889,7 +889,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
     -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.  
         
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 67 times  
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 50 times  
         
     -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\]
 
@@ -898,21 +898,21 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), the Blightsurger exclusive weapon, and Blightsurge Mantras gain +15% more PEN.
     -   Because Blightsurger Mantras deal pure Oath damage, the PEN given to your Mantras only matter in specific scenarios, such as fighting an [Oathless](Oath%253A_Oathless.md) player, or someone who is using [Reinforce](Attunement-less.md#reinforce).  
         
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 37 times  
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 30 times  
         
     -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[PEN\]
 
 -   **Blighted Touch** \[Oath Talent\] - Landing Basic Attacks during [Sovereign State](#sovereign-state) now applies [Blightshock](Status_Effects.md#blightshock).
     -   This allows your [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) to apply [Wither](Status_Effects.md#wither) on hit.  
         
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 22 times  
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 20 times  
         
     -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Debuff\] \[Weapon Attack\] \[Wither\]
 
 -   **Blightlash** \[Oath Talent\] - Your swing range is enhanced during Sovereign State.
     -   Increases the range of the Sovereign Bangle from 6 to 7.  
         
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 82 times  
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use [Sovereign State](#sovereign-state) while in combat 60 times  
         
     -   Tags: \[[Blightsurger](Oath%253A_Blightsurger.md)\] \[Range\] \[Weapon Attack\]
 
@@ -1491,8 +1491,6 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: [Unwavering Resolve](#unwavering-resolve), 25 Strength, 40 Heavy Weapon, Use a [Greathammer](Greathammers.md)  
         
     -   Tags: \[Strength\] \[Heavy Weapon\] \[+Posture\] \[Greathammer\] \[Posture Resistance\]
-
-  
 
 ### Comrade
 
@@ -2649,7 +2647,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 45 Light Weapon, Using a [Pistol](Pistols.md)  
         
-    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
+    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\] \[Posture Damage Buff\]
 
 -   **Hip Shooter** \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
     -   This requires you to have [bullets](Bullets.md) in your inventory.
@@ -2762,7 +2760,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 65 Willpower, 40 Intelligence  
         
-    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Sustain\] \[Scale-down\]
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Heal\] \[Anti-Sustain\] \[Scale-down\] \[Weapon Attack\]
 
 -   **All Above, Gods Below** \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE **[Heal Boost](Status_Effects.md#heal-boost)** to 15% as well. (+20 Sanity)
     -   Affects all sources of Anti-Heal, not just [All the Dead Gods](#all-the-dead-gods).
@@ -2774,7 +2772,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [All the Dead Gods](#all-the-dead-gods), 100 Willpower, 100 Intelligence  
         
-    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Scale-down\] \[Sustain\]
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Heal\] \[Scale-down\] \[Sustain\]
 
 -   **Heretic's Sutra** \[Quest Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
     -   On use, this reduces your [Sanity](Insanity.md). If your Sanity is above or at 80%, it gets set to 65%. If your sanity is below 80%, lose 15% Sanity instead.
@@ -2798,7 +2796,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [All the Dead Gods](#all-the-dead-gods), 90 Willpower  
         
-    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\]
+    -   Tags: \[Intelligence\] \[Willpower\] \[+Sanity\] \[Anti-Heal\]
 
 ### Human Architecture
 
@@ -2964,7 +2962,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 40 Flamecharm  
         
-    -   Tags: \[Flamecharm\]
+    -   Tags: \[Flamecharm\] \[Burn\] \[Debuff\]
 
 -   **Immolation** \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include [Flame Within](#flame-within), [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
@@ -2973,7 +2971,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
             
     -   Prerequisites: [Agitating Spark](#agitating-spark), 40 Flamecharm  
         
-    -   Tags: \[Flamecharm\] \[+Sanity\] \[Damage Resistance\] \[Ether Proselyte\]
+    -   Tags: \[Flamecharm\] \[+Sanity\] \[Burn\] \[Damage Resistance\] \[Debuff\] \[Ether Proselyte\]
 
 -   **Phoenix Flames** \[Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
     -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, becore capping at 50% health at 75 investment.
@@ -2982,7 +2980,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: [Agitating Spark](#agitating-spark), [Immolation](#immolation)  
         
-    -   Tags: \[Flamecharm\] \[Investment Scaling\] \[Sustain\]
+    -   Tags: \[Flamecharm\] \[Burn\] \[Debuff\] \[Grip\] \[Investment Scaling\] \[Sustain\]
 
 ### Inferno
 
@@ -4182,7 +4180,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[[Oathless](Oath%253A_Oathless.md)\] \[+Health\] \[+PEN\] \[+Mantra Slots\] \[+Oath Armor\] \[+Monster Armor\]
 
-### Omniscient
+## Temporary
 
 -   **All Knowing** \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
     

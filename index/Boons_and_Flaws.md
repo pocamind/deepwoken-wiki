@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 231060
+revid: 231278
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -306,7 +306,7 @@ Some boons are more worth taking than others:
 
 ### Autodidact
 
-**Autodidact** grants 3 Free Training points on every level up, allowing the uset to increase their stats further, at the cost of General Experience.
+**Autodidact** grants 3 Free Training points on every level up, allowing the user to increase their stats further, at the cost of General Experience.
 
 -   Notes:
     -   Autodidact is very useful to help level up slow-leveling stats faster, such as [Attunements](Attunements.md) when you don't have any related Mantras or certain core attributes.
