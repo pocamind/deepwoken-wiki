@@ -28,25 +28,20 @@ This section is transcluded from [Talents § Big Bertha](Talents.md#big-bertha).
         
     -   Prerequisites: 60 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
         
-    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Damage Buff\] \[Greatcannon\]
 
 -   **Mortar Mystery** \[Big Bertha • Rare Talent\] - Greatcannon Landing a greatcannon critical attack summons mysterious cannonballs from above that target your opponent.
     -   3 mortar projectiles are spawned per critical attack damage instance landed, for each entity hit.
-        -   For example, if you hit the initial attack and projectile on the Default Greatcannon critical on two enemies, it would summon 12 mortar projectiles in total.
-        -   This Talent is especially potent on the [Smouldering Hallow](Smouldering_Hallow.md).
     -   Each mortar projectile does 30 damage on hit.
-    -   Has a cooldown of 10 seconds.  
+    -   Has a cooldown of 10 seconds, per target.  
         
     -   Prerequisites: 100 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
         
-    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Greatcannon\]
 
 -   **Sticky Flames** \[Big Bertha • Common Talent\] - Greatcannon Your base greatcannon critical attack's cannon ball leave 3 seconds of sticky flames on successful hits.
     -   The base [Burn](Status_Effects.md#burn) on the default Greatcannon critical is improved to [Sticky Burn](Status_Effects.md#sticky-burn), meaning it cannot be removed for 3 seconds upon application.  
         
     -   Prerequisites: 80 Heavy Weapon, Using a [Greatcannon](Greatcannons.md)  
         
-    -   Tags: \[Heavy Weapon\] \[Critical Attack\] \[Debuff\] \[Greatcannon\]
 
 ## Default Animations
 
@@ -110,7 +105,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
   <td>75 HVY<br>
   30 STR</td>
-  <td>27</td>
+  <td>25.5</td>
   <td>HVY: 8.6</td>
   <td>10%</td>
   <td>-</td>
@@ -118,7 +113,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>7.5</td>
   <td>0.81x</td>
   <td>0.1s</td>
-  <td>44.4</td>
+  <td>41.9</td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>

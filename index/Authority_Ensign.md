@@ -254,20 +254,17 @@ This section is transcluded from [Talents § Battle Readiness](Talents.md#battle
         
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Combat Tag\] \[Slow\] \[Temporary Health\]
 
 -   **Crossguard** \[Battle Readiness • Faction Talent\] - If you are using a [sword](Swords.md), you gain 10% chip against other opponents wielding swords.
     
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Chip Damage\] \[Sword\]
 
 -   **Riot Shield** \[Battle Readiness • Faction Talent\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.  
         
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Chip Damage\] \[Combat Tag\] \[Damage Resistance\] \[Shield\]
 
 -   **Oppressive Force** \[Battle Readiness • Faction Talent\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and [dazes](Status_Effects.md#dazed) them.
     -   The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
@@ -280,13 +277,11 @@ This section is transcluded from [Talents § Battle Readiness](Talents.md#battle
         
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Flourish\]
 
 -   **Steel Tread** \[Battle Readiness • Faction Talent\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
     
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Damage Resistance\]
 
 ## Divisions
 
@@ -325,7 +320,6 @@ This section is transcluded from [Talents § Dread Imperium](Talents.md#dread-im
         
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
         
-    -   Tags: \[**Authority Ensign**\] \[Support\]
 
 -   **Buster Call** \[Dread Imperium • Faction Talent\] - Radio in [the Authority](The_Central_Authority.md)'s navy for a buster call, sending out a barrage of bombardment wherever you see fit.
     -   1 day cooldown (24 IRL hours).
@@ -335,7 +329,6 @@ This section is transcluded from [Talents § Dread Imperium](Talents.md#dread-im
         
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
         
-    -   Tags: \[**Authority Ensign**\] \[Tool\]
 
 -   **Officer's Slash** \[Dread Imperium • Faction Talent\] - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
     -   20 second cooldown.
@@ -346,20 +339,17 @@ This section is transcluded from [Talents § Dread Imperium](Talents.md#dread-im
         
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
         
-    -   Tags: \[**Authority Ensign**\] \[Critical Attack\] \[M1 Tag\]
 
 -   **Officer's Training** \[Dread Imperium • Faction Talent\] - While using a [Sword](Swords.md) or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
     
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
         
-    -   Tags: \[**Authority Ensign**\] \[Posture Resistance\] \[Sword\] \[Rapier\]
 
 -   **Target Focus** \[Dread Imperium • Faction Talent\] - Enemies you charm take more damage from your squadmates in your party.
     -   Due to [Charm](Status_Effects.md#charm)'s ownership mechanics, it is highly recommended that you have [Lasting Charisma](Talents.md#lasting-charisma) for a long Charm duration. See [Status Effects](Status_Effects.md#charm) for more info.  
         
     -   Prerequisites: Promotion reward from the **Authority Ensign** Origin, [Command Division](Authority_Ensign.md#command-division)  
         
-    -   Tags: \[**Authority Ensign**\] \[Charm\] \[Damage Buff\] \[Support\]
 
   
 
@@ -461,14 +451,12 @@ This section is transcluded from [Talents § Inquisitive Lethality](Talents.md#i
         
     -   Prerequisites: 30 Agility, [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Agility\] \[+Passive Agility\] \[Backhit\] \[M1 Tag\]
 
 -   **Executioner's Frenzy** \[Inquisitive Lethality • Faction Talent\] - Landing a light attack while your opponent's posture is paused reduces their assassination cooldown by 5 seconds.
     -   The [Paused Posture](Status_Effects.md#paused-posture) status effect comes from [Stature Break](Talents.md#stature-break) and [Maiming Claws](Talents.md#maiming-claws).  
         
     -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Assassination\] \[Backhit\]
 
 -   **Fatal Stealth** \[Inquisitive Lethality • Faction Talent\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back as a damage modifier. This affects all damage sources that can receive damage modifiers.
@@ -482,13 +470,11 @@ This section is transcluded from [Talents § Inquisitive Lethality](Talents.md#i
             
     -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Backhit\] \[Damage Buff\]
 
 -   **Flanking Maneuvers** \[Inquisitive Lethality • Faction Talent\] - Enemies you assassinate take more PEN from your squadmates in your party.
     
     -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Assassination\] \[PEN\] \[Support\]
 
 -   **Stature Break** \[Inquisitive Lethality • Faction Talent\] - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
@@ -496,7 +482,6 @@ This section is transcluded from [Talents § Inquisitive Lethality](Talents.md#i
         
     -   Prerequisites: [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin  
         
-    -   Tags: \[**Authority Ensign**\] \[Backhit\] \[Debuff\]
 
 -   **Tacet Minimization** \[Inquisitive Lethality • Faction Talent\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
     -   Grants a tool that decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
@@ -505,7 +490,6 @@ This section is transcluded from [Talents § Inquisitive Lethality](Talents.md#i
     -   Prerequisites: [Murmur: Tacet](Talents.md#murmur-tacet), [Inquisition Division](Authority_Ensign.md#inquisition-division), Promotion reward from the **Authority Ensign** Origin
         -   Tacet gained by obtaining [Soulbreaker](Oath%253A_Soulbreaker.md) does not count for this Talent's obtainment.  
             
-    -   Tags: \[**Authority Ensign**\] \[[Tacet](Murmur%253A_Tacet.md)\] \[Tool\]
 
 | 
 **Name**

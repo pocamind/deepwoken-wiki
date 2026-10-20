@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 213179
+revid: 231134
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer]
@@ -41,8 +41,8 @@ At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keepe
 #### [Deep Shrines](Deep_Shrines.md)
 
 -   All Deep Shrines are present here.
-    -   They are (from right-to-left, facing Yun'Shul) the Shrines of [Temptation](Deep_Shrines/Shrine_of_Temptation.md), [Order](Deep_Shrines/Shrine_of_Order.md), [Chance](Deep_Shrines/Shrine_of_Chance.md), [Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md), [Mastery](Deep_Shrines/Shrine_of_Mastery.md), and [Conceit](Deep_Shrines/Shrine_of_Conceit.md).
-        -   In between the doors from left to right, it's [Division](Deep_Shrines/Shrine_of_Division.md), and [Unification](Deep_Shrines/Shrine_of_Unification.md).
+    -   They are the Shrines of [Temptation](Deep_Shrines/Shrine_of_Temptation.md), [Order](Deep_Shrines/Shrine_of_Order.md), [Chance](Deep_Shrines/Shrine_of_Chance.md), [Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md), [Ego](Deep_Shrines/Shrine_of_Ego.md).
+        -   In between the doors it's [Division](Deep_Shrines/Shrine_of_Division.md), and [Unification](Deep_Shrines/Shrine_of_Unification.md).
     -   These shrines are primarily aimed at the Deepbound Origin, removing the need to leave The Depths early to use them. However, those with a Resonance can also use them for the convenience.
 
 ## Trivia

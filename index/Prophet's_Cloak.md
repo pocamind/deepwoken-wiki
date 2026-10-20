@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 230645
+revid: 231165
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Ministry]
@@ -46,8 +46,9 @@ The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20
 
 ## Trivia
 
--   It includes a full cosmetic 3D model of a collar when equipped. It and the [Verdant Sniper](Verdant_Sniper.md) are the only Outfits with 3D touches on them.
+-   This outfit had a 3D collar, which was removed following the [October 19th, 2026](Version_History/2026.md#october-19th-2026) update.
 
--   Worn by most [Ministry](The_Ministry.md) [NPCs](Ministry_Scout.md).
+-   Worn by most [Ministry](The_Ministry.md) NPCs.
 -   Shares the same crafting requirements with [Celtorian Tideknight](Celtorian_Tideknight.md).
--   Getting gripped by a [Gran Sudaruska](Gran_Sudaruska.md) user while wearing this will cause the Gran Sudaruska to talk and insult you.
+-   Getting gripped by a [Gran Sudaruska](Gran_Sudaruska.md) user while wearing this will cause the axe to talk and insult you.
+    -   If this outfit is [Transmogged](Transmogrification.md), she will not speak.

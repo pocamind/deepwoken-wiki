@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231095
+revid: 231176
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1998,7 +1998,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Empath
 
--   **Cornered Fool** \[Common Talent\] - Blockbreaking a **[Charmed](Status_Effects.md#charm)** opponent procs [Taunt](Status_Effects.md#taunt) for 5s, making them take and deal more damage.
+-   **Cornered Fool** \[Common Talent\] - Blockbreaking a **[Charmed](Status_Effects.md#charm)** opponent procs **[Taunted](Status_Effects.md#taunt)** for 5s, making them take and deal more damage. \[15s CD\]
     -   15 second cooldown.
     -   Despite what the description states, this applies [Taunt](Status_Effects.md#taunt) for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
@@ -4182,7 +4182,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[[Oathless](Oath%253A_Oathless.md)\] \[+Health\] \[+PEN\] \[+Mantra Slots\] \[+Oath Armor\] \[+Monster Armor\]
 
-## Temporary
+### Omniscient
 
 -   **All Knowing** \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
     

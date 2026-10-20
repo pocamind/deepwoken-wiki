@@ -61,7 +61,6 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
     -   Replaces your parry with a fast dodge that can dodge unparryable attacks, at the cost of no parry stun. This still restores posture like a regular parry.
     -   You still need to successfully parry an attack, input-wise, for the dodge to occur.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\]
 
 <table>
 <tbody>
@@ -84,7 +83,6 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
     
     -   Reduces your maximum Posture by 6; 20 to 14.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\]
 
 <table>
 <tbody>
@@ -107,7 +105,6 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
     
     -   The PvE effect of [Knife's Journey](Talents/Vow_of_Iron.md#knifes-journey) does not transfer to non-Dagger weapons.  
         
-    -   Tags: \[**Drifter**\]
 
 ## Deck of Recollection
 
@@ -131,7 +128,6 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
 
 -   **Precision Hitter** \[Unique • Common Talent\] **100** \- Your Basic Attack posture damage is increased by 15%.
     
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
@@ -152,13 +148,10 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
 </tbody>
 </table>
 
--   **Swift Rebound** \[Butterfly • Common Talent\] **100** \- Move faster after successfully dodging an attack.
+-   **Swift Rebound** \[Butterfly • Common Talent\] **100** \- Move faster after successfully dodging an attack. (+1 Passive Agility)
     
     -   This does not proc on [Drift](Talents/Vow_of_Iron.md#drift)'s dodges, only on normal dodges.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Dodge\] \[Speed Boost\]
 
 <table>
 <tbody>
@@ -192,7 +185,6 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
     -   "Higher HP" refers to current HP, not maximum.
     -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)  
         
-    -   Tags: \[**Drifter**\] \[Damage Buff\] \[Investment Scaling\] \[Scale-down\]
 
 <table>
 <tbody>
@@ -213,13 +205,10 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
 </tbody>
 </table>
 
--   **Observation** \[Leaf in the Wind • Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately.
+-   **Observation** \[Leaf in the Wind • Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
     
     -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Dodge\]
 
 <table>
 <tbody>
@@ -242,15 +231,12 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
 </tbody>
 </table>
 
--   **Speed Demon** \[Vigil Swordsman • Rare Talent\] **250** \- Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown.
+-   **Speed Demon** \[Vigil Swordsman • Rare Talent\] **250** \- Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     
     -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
     -   Speed Demon's bleed deals 2.5% of your weapon's damage every 0.3s, three times. This totals to +7.5% damage over a 0.9 second period.
     -   Only applies to weapon attacks.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Bleed\] \[Speed Boost\]
 
 <table>
 <tbody>
@@ -271,13 +257,10 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
 </tbody>
 </table>
 
--   **Tap Dancer** \[Duelist • Rare Talent\] **250** \- Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown.
+-   **Tap Dancer** \[Duelist • Rare Talent\] **250** \- Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
     
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Dodge\]
 
   
 
@@ -415,13 +398,10 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Disbelief** \[Mental Fortress • Common Talent\] **100** \- Reduces the duration of illusions cast on you by 30%. Halves the duration of the **[Charmed](Status_Effects.md#charmed)** status on you.
+-   **Disbelief** \[Mental Fortress • Common Talent\] **100** \- Reduces the duration of illusions cast on you by 30%. Halves the duration of the **[Charmed](Status_Effects.md#charmed)** status on you. (+5 Sanity)
     
     -   None of the [Mementos](Mementos.md) have any [Visionshaper](Oath%253A_Visionshaper.md) abilities, so the first half of this Talent's effects do not apply.  
         
-    -   Grants +5 Sanity  
-        
-    -   Tags: \[**Drifter**\] \[+Sanity\]
 
 <table>
 <tbody>
@@ -440,11 +420,8 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Padded Armor** \[Natural Armor • Common Talent\] **100** \- While your armor is broken (or if you have no armor), you take 5% less damage.
+-   **Padded Armor** \[Natural Armor • Common Talent\] **100** \- While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     
-    -   Grants +3% Blunt Armor  
-        
-    -   Tags: \[**Drifter**\] \[+Blunt Armor\] \[Damage Resistance\]
 
 <table>
 <tbody>
@@ -471,7 +448,7 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Precise Swing** \[Duelist • Common Talent\] **100** \- After landing a critical your next basic attack will gain 25% chip past your opponent's block.
+-   **Precise Swing** \[Duelist • Common Talent\] **100** \- After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+1 Passive Agility)
     
     -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
     -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
@@ -479,9 +456,6 @@ Slash ResistanceSlash
     -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
     -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Chip Damage\] \[Critical Attack\]
 
 <table>
 <tbody>
@@ -505,7 +479,6 @@ Slash ResistanceSlash
     
     -   The damage instance that puts you in combat deals halved damage.  
         
-    -   Tags: \[**Drifter**\] \[Damage Resistance\]
 
 <table>
 <tbody>
@@ -527,14 +500,11 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Steady Nerves** \[Duelist • Common Talent\] **100** \- You dance from toe to toe - successful dodges restore posture.
+-   **Steady Nerves** \[Duelist • Common Talent\] **100** \- You dance from toe to toe - successful dodges restore posture. (+2 Passive Agility)
     
     -   Restore 2 flat posture on a successful dodge.
     -   Does not proc on [Drift](Talents/Vow_of_Iron.md#drift)'s dodges.  
         
-    -   Grants +2 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Dodge\]
 
 <table>
 <tbody>
@@ -553,11 +523,8 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Steel Scales** \[Natural Armor • Common Talent\] **100** \- You take an additional 5% less damage when your armor is broken.
+-   **Steel Scales** \[Natural Armor • Common Talent\] **100** \- You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
     
-    -   Grants +3% Slash Armor  
-        
-    -   Tags: \[**Drifter**\] \[+Slash Armor\] \[Damage Resistance\]
 
 <table>
 <tbody>
@@ -580,15 +547,12 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Bloodiron Spirit** \[Soul Converter • Rare Talent\] **250** \- You regain some Armor upon killing enemies.
+-   **Bloodiron Spirit** \[Soul Converter • Rare Talent\] **250** \- You regain some Armor upon killing enemies. (+5 Health)
     
     -   Any kill gives you 2.5% of your total armor durability.
     -   Also restores Natural Armor on kill.
     -   Stacks with [Bloodiron Ring](Bloodiron_Ring.md), totaling in 5% armor per kill.  
         
-    -   Grants +5 Health  
-        
-    -   Tags: \[**Drifter**\] \[+Health\]
 
   
 
@@ -771,7 +735,6 @@ Slash ResistanceSlash
     
     -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect.  
         
-    -   Tags: \[**Drifter**\] \[Critical Attack\] \[Dagger\] \[Damage Buff\]
 
 <table>
 <tbody>
@@ -798,7 +761,6 @@ Slash ResistanceSlash
         
     -   The Daggers condition must be met in order for this Talent to apply.  
         
-    -   Tags: \[**Drifter**\] \[Critical Attack\] \[Dagger\]
 
 <table>
 <tbody>
@@ -818,7 +780,6 @@ Slash ResistanceSlash
 
 -   **Matador** \[Weapon Master • Common Talent\] **100** \- Deal +20% more damage to human enemies with hyperarmor.
     
-    -   Tags: \[**Drifter**\] \[Damage Buff\]
 
 <table>
 <tbody>
@@ -844,7 +805,6 @@ Slash ResistanceSlash
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.  
         
-    -   Tags: **Drifter** \[Flourish\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
@@ -867,15 +827,12 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Cheap Shot** \[Trickster • Rare Talent\] **250** \- Your attacks gain 10% PEN multiplicatively when you have an active speed boost.
+-   **Cheap Shot** \[Trickster • Rare Talent\] **250** \- Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
     
     -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN.
     -   Cheap Shot cannot bypass the PEN cap.
     -   Cheap Shot's PEN multiplier will be reduced by 0.11 for every point in Agility below 65.  
         
-    -   Grants +6 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[PEN\] \[Scale-down\] \[Speed Boost\]
 
 <table>
 <tbody>
@@ -923,7 +880,6 @@ Slash ResistanceSlash
         -   The potency of [potions](Alchemy.md)
         -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
             
-    -   Tags: \[**Drifter**\] \[Scale-down\]
 
 <table>
 <tbody>
@@ -942,11 +898,8 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Evasive Expert** \[Butterfly • Rare Talent\] **250** \- Your speed boost granted from dodging is increased.
+-   **Evasive Expert** \[Butterfly • Rare Talent\] **250** \- Your speed boost granted from dodging is increased. (+1 Passive Agility)
     
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Dodge\] \[Speed Boost\]
 
 <table>
 <tbody>
@@ -973,7 +926,6 @@ Slash ResistanceSlash
         
     -   The Daggers condition must be met in order for this Talent to apply.  
         
-    -   Tags: \[**Drifter**\] \[Dagger\] \[Damage Buff\]
 
 <table>
 <tbody>
@@ -993,7 +945,6 @@ Slash ResistanceSlash
 
 -   **Perfect Flash** \[Adept Caster • Rare Talent\] **250** \- Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
     
-    -   Tags: \[**Drifter**\] \[Damage Buff\]
 
   
 
@@ -1091,14 +1042,11 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Down Comes the Claw** \[Trickster • Common Talent\] **100** \- Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s.
+-   **Down Comes the Claw** \[Trickster • Common Talent\] **100** \- Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
     
     -   Down Comes the Claw cannot be reapplied while it's currently active.
     -   Lasts 6.5 seconds.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Critical Attack\] \[Debuff\] \[Scale-down\] \[Speed Boost\]
 
 <table>
 <tbody>
@@ -1120,14 +1068,11 @@ Slash ResistanceSlash
 </tbody>
 </table>
 
--   **Maiming Claws** \[Trickster • Common Talent\] **100** \- [Down Comes the Claw](Talents/Vow_of_Iron.md#down-comes-the-claw) now disables your opponent's posture regeneration for 6s on proc.
+-   **Maiming Claws** \[Trickster • Common Talent\] **100** \- [Down Comes the Claw](Talents/Vow_of_Iron.md#down-comes-the-claw) now disables your opponent's posture regeneration for 6s on proc. (+1 Passive Agility)
     
     -   Applies to passive posture regeneration, [Steady Nerves](Talents/Vow_of_Iron.md#steady-nerves), and posture restoration from parrying. All other sources of posture restoration ignore Maiming Claws entirely.
     -   Cannot be reapplied while [Down Comes the Claw](Talents/Vow_of_Iron.md#down-comes-the-claw) is active.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Drifter**\] \[+Passive Agility\] \[Debuff\] \[Scale-down\]
 
   
 
@@ -1275,7 +1220,6 @@ Power 20, 1,200
     -   Replaces your dash with a longer and faster dash that costs some ether.
     -   Cannot be used if your Ether is below 90%. Having the [True Drifter](Talents/Vow_of_Iron.md#true-drifter) Talent will remove this requirement, assuming you have stacks of [Cutting Pace](Talents/Vow_of_Iron.md#cutting-pace).  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\] \[Dodge\]
 
 <table>
 <tbody>
@@ -1298,7 +1242,6 @@ Power 20, 1,200
     
     -   Procs when "parrying" an attack with [Drift](Talents/Vow_of_Iron.md#drift).  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\] \[Speed Boost\]
 
 ### Dravik, The Rat King
 
@@ -1323,7 +1266,6 @@ Power 20, 1,200
     
     -   Buffed attacks deal 15% more damage, have a slightly shorter windup, and are recolored to a purple.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\] \[Dodge\] \[Damage Buff\]
 
 <table>
 <tbody>
@@ -1350,7 +1292,6 @@ Power 20, 1,200
     -   This changes Purple Cloud's stats, animations, and damage type to Slash. Additionally Purple Cloud gains a unique swing trail.
     -   The unsheathed Purple Cloud stays until you leave the game.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\]
 
 ### True Heart of Emnity
 
@@ -1375,7 +1316,6 @@ Power 20, 1,200
     
     -   Similarly to [Spine Cutter](Talents/Vow_of_Iron.md#spine-cutter), performing a basic attack on your opponent's back after a roll cancel will perform a second slash, then two light purple clones of yourself will attack the target.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\]
 
 <table>
 <tbody>
@@ -1396,6 +1336,4 @@ Power 20, 1,200
 
 -   **True Drifter** \[Drifter • Memento Talent\] - You are a true drifter. Gain double the 'Cutting Pace' stacks and consume stacks to Blinkstep below 90% ether.
     
-    -   Gain double the stacks whenever you proc [Cutting Pace](Talents/Vow_of_Iron.md#cutting-pace). Additionally, you can now Blinkstep when below 90% Ether by consuming a Cutting Pace stack.  
-        
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Drifter**\]
+    -   Gain double the stacks whenever you proc [Cutting Pace](Talents/Vow_of_Iron.md#cutting-pace). Additionally, you can now Blinkstep when below 90% Ether by consuming a Cutting Pace stack.

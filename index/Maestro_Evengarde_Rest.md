@@ -347,6 +347,7 @@ This info has been transcluded from [a different page](Loot_Tables.md#maestro-ev
   </ul></li>
     <li><b>Unenchantable Weapons</b>:
   <ol>
+    <li><b>Medium Weapons</b>: <a href="Imperial_Staff.md">Imperial Staff</a></li>
     <li><b>Heavy Weapons</b>: <a href="Crypt_Blade.md">Crypt Blade</a></li>
   </ol></li>
     <li><b>Generic Weapons</b>:

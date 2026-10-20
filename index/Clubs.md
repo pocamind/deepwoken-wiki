@@ -25,19 +25,16 @@ This section is transcluded from [Talents § Hammer Rage](Talents.md#hammer-rage
         
     -   Prerequisites: 50 Medium Weapon, [Club](Clubs.md) equipped  
         
-    -   Tags: \[Medium Weapon\] \[Club\] \[Debuff\] \[Guardbreak\]
 
 -   **Dispatch** \[Hammer Rage • Common Talent\] - Clubs Bear Trapped targets deal 20% less posture. **[Dazed](Status_Effects.md#daze)** targets deal 20% less posture. This can stack.
     
     -   Prerequisites: [Bear Trap](Talents.md#bear-trap), 55 Medium Weapon, [Club](Clubs.md) equipped  
         
-    -   Tags: \[Strength\] \[Agility\] \[Medium Weapon\] \[Club\] \[Debuff\]
 
 -   **Hammerfall** \[Hammer Rage • Common Talent\] - Clubs Aerial attacks do 25% more posture damage when blocked.
     
     -   Prerequisites: 35 Medium Weapon, [Club](Clubs.md) equipped  
         
-    -   Tags: \[Medium Weapon\] \[Club\] \[Posture Damage Buff\]
 
 ## Default Animations
 

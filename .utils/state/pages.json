@@ -137,7 +137,7 @@
   },
   "995": {
     "title": "Training Gear",
-    "lastrevid": 230634
+    "lastrevid": 231128
   },
   "996": {
     "title": "Crafting Recipes",
@@ -149,7 +149,7 @@
   },
   "1002": {
     "title": "Guilds",
-    "lastrevid": 231089
+    "lastrevid": 231132
   },
   "1021": {
     "title": "Outfits",
@@ -309,7 +309,7 @@
   },
   "1207": {
     "title": "Enchantments",
-    "lastrevid": 230338
+    "lastrevid": 231191
   },
   "1208": {
     "title": "Galebreathe",
@@ -377,7 +377,7 @@
   },
   "1314": {
     "title": "Attunement-less",
-    "lastrevid": 230754
+    "lastrevid": 231116
   },
   "1338": {
     "title": "Shadowcast",
@@ -513,7 +513,7 @@
   },
   "1624": {
     "title": "Temple of Hearts",
-    "lastrevid": 213179
+    "lastrevid": 231134
   },
   "1656": {
     "title": "Krulian",
@@ -597,11 +597,11 @@
   },
   "1874": {
     "title": "Big Alchemist's Hat",
-    "lastrevid": 229380
+    "lastrevid": 231123
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 231095
+    "lastrevid": 231176
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -805,7 +805,7 @@
   },
   "2580": {
     "title": "Stranded",
-    "lastrevid": 229429
+    "lastrevid": 231145
   },
   "2584": {
     "title": "Merchant Robes",
@@ -913,7 +913,7 @@
   },
   "2672": {
     "title": "Verdant Sniper",
-    "lastrevid": 223281
+    "lastrevid": 231164
   },
   "2674": {
     "title": "Hive Tactician Armor",
@@ -933,7 +933,7 @@
   },
   "2680": {
     "title": "Prophet's Cloak",
-    "lastrevid": 230645
+    "lastrevid": 231165
   },
   "2683": {
     "title": "Black Diver",
@@ -1013,7 +1013,7 @@
   },
   "2779": {
     "title": "Resurrection",
-    "lastrevid": 230717
+    "lastrevid": 231119
   },
   "2780": {
     "title": "Psia",
@@ -1197,7 +1197,7 @@
   },
   "3235": {
     "title": "Petra's Anchor",
-    "lastrevid": 216586
+    "lastrevid": 231195
   },
   "3238": {
     "title": "Flamekeeper Cestus",
@@ -1305,7 +1305,7 @@
   },
   "3396": {
     "title": "Tanto",
-    "lastrevid": 221493
+    "lastrevid": 231113
   },
   "3408": {
     "title": "Champion's Dagger",
@@ -1441,7 +1441,7 @@
   },
   "3700": {
     "title": "Whaling Knife",
-    "lastrevid": 223591
+    "lastrevid": 231110
   },
   "3703": {
     "title": "Central Dirk",
@@ -1470,6 +1470,10 @@
   "3770": {
     "title": "Ignition Union Fighter",
     "lastrevid": 227623
+  },
+  "3773": {
+    "title": "Training Vest",
+    "lastrevid": 231129
   },
   "3823": {
     "title": "Dockson",
@@ -1817,7 +1821,7 @@
   },
   "4817": {
     "title": "Herbalist's Hat",
-    "lastrevid": 221956
+    "lastrevid": 231125
   },
   "4818": {
     "title": "Blindfold",
@@ -1881,7 +1885,7 @@
   },
   "4843": {
     "title": "Alchemist's Hat",
-    "lastrevid": 229366
+    "lastrevid": 231122
   },
   "4844": {
     "title": "Gumshoe Hat",
@@ -2305,7 +2309,7 @@
   },
   "5700": {
     "title": "Deep Shrines",
-    "lastrevid": 224716
+    "lastrevid": 231156
   },
   "5704": {
     "title": "Markor's Inheritor",
@@ -2881,7 +2885,7 @@
   },
   "7513": {
     "title": "Emotes",
-    "lastrevid": 230593
+    "lastrevid": 231199
   },
   "7521": {
     "title": "Human",
@@ -4065,7 +4069,7 @@
   },
   "11740": {
     "title": "Wyrmtooth",
-    "lastrevid": 230330
+    "lastrevid": 231112
   },
   "11780": {
     "title": "Ezra",
@@ -4109,7 +4113,7 @@
   },
   "11875": {
     "title": "Ysley's Pyre Keeper",
-    "lastrevid": 221539
+    "lastrevid": 231114
   },
   "11950": {
     "title": "Monastery Cowl",
@@ -4769,7 +4773,7 @@
   },
   "14453": {
     "title": "Rosen's Hellflame",
-    "lastrevid": 228035
+    "lastrevid": 231111
   },
   "14461": {
     "title": "The Long Tong of the Law",
@@ -4837,7 +4841,7 @@
   },
   "14593": {
     "title": "Combat Tag",
-    "lastrevid": 211911
+    "lastrevid": 231118
   },
   "14602": {
     "title": "Light Hook",
@@ -5273,7 +5277,7 @@
   },
   "15856": {
     "title": "Deep Shrines/Shrine of Mastery",
-    "lastrevid": 224720
+    "lastrevid": 231135
   },
   "15857": {
     "title": "Deep Shrines/Shrine of Chance",
@@ -5289,7 +5293,7 @@
   },
   "15860": {
     "title": "Deep Shrines/Shrine of Conceit",
-    "lastrevid": 229956
+    "lastrevid": 231107
   },
   "15861": {
     "title": "Deep Shrines/Shrine of Division",
@@ -6265,7 +6269,7 @@
   },
   "18352": {
     "title": "Curse of the No Life King",
-    "lastrevid": 218012
+    "lastrevid": 231188
   },
   "18353": {
     "title": "Curse of Repulsion",
@@ -6993,7 +6997,7 @@
   },
   "20223": {
     "title": "Smouldering Hallow",
-    "lastrevid": 221744
+    "lastrevid": 231117
   },
   "20230": {
     "title": "Pumpkin",
@@ -8353,7 +8357,7 @@
   },
   "22095": {
     "title": "Potion Master's Hat",
-    "lastrevid": 228087
+    "lastrevid": 231124
   },
   "22098": {
     "title": "Bounty Hunter's Boots",
@@ -9765,7 +9769,7 @@
   },
   "26449": {
     "title": "Threadcutter",
-    "lastrevid": 227878
+    "lastrevid": 231197
   },
   "26450": {
     "title": "Vinegar",
@@ -9878,5 +9882,9 @@
   "26761": {
     "title": "The Crow's Laboratory",
     "lastrevid": 230410
+  },
+  "26812": {
+    "title": "Deep Shrines/Shrine of Ego",
+    "lastrevid": 231160
   }
 }

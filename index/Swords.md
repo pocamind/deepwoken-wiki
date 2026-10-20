@@ -16,19 +16,17 @@ Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page.  
 
 -   **Crossguard** \[Battle Readiness • Faction Talent\] - If you are using a **sword**, you gain 10% chip against other opponents wielding swords.
     
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
         
-    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Sword\]
 
 -   **Officer's Training** \[Dread Imperium • Faction Talent\] - While using a **Sword** or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
     
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
         
-    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Posture Resistance\] \[Sword\] \[Rapier\]
 
 ## Default Animations
 
@@ -345,15 +343,15 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>-</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>

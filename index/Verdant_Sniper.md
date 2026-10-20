@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 223281
+revid: 231164
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Expert Outfits, Outfits]
@@ -42,9 +42,9 @@ This Outfit has 1500 durability and grants +25% Physical resistance ResistancePh
 
 ## Trivia
 
--   This armor has a 3D collar, a trait shared only with the [Prophet's Cloak](<Prophet's_Cloak.md>).
+-   This outfit had a 3D collar, which was removed following the [October 19th, 2026](Version_History/2026.md#october-19th-2026) update.
 
--   This armor and it's description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
--   **Current** verdant sniper is an outfit made by **KAHAEL**.
--   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit.
--   [Plath](Plath.md) wears this outfit, alongside [Cerulean](Cerulean.md) and all of the [Oathless](Oath%253A_Oathless.md) wanderers.
+-   This armor and its description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
+-   The current Verdant Sniper's appearance is created by **KAHAEL**.
+-   [Frank F'alzone](<Frank_F'alzone.md>) in the [tutorial](Tutorial.md) uses this outfit.
+-   [Plath](Plath.md) wears this outfit, alongside [Cerulean](Cerulean.md) and all of the [Oathless](Oath%253A_Oathless.md) disciples.

@@ -37,14 +37,12 @@ This section is transcluded from [Talents § Shieldmaster](Talents.md#shieldmast
         
     -   Prerequisites: [Moving Fortress](Talents.md#moving-fortress), 30 Strength, 20 Fortitude, [Shield](Shields.md) Equipped, any [Fist Style](Fists.md#styles) Talent  
         
-    -   Tags: \[Strength\] \[Fortitude\] \[Fist\] \[Mobility\] \[Shield\]
 
 -   **Riot Shield** \[Battle Readiness • Faction Talent\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.  
         
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin  
         
-    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Chip Damage\] \[Combat Tag\] \[Damage Resistance\] \[Shield\]
 
 ## Weapon Class Mantras
 

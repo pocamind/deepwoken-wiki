@@ -56,7 +56,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 
 -   **Calamity Punch** \[Breaker • Memento Talent\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
     
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Damage Buff\]
 
 <table>
 <tbody>
@@ -79,7 +78,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).  
         
-    -   Tags: \[**Breaker**\] \[[Fist Style](Fists.md#styles)\] \[Fist\]
 
 <table>
 <tbody>
@@ -102,7 +100,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).  
         
-    -   Tags: \[**Breaker**\] \[[Fist Style](Fists.md#styles)\] \[Fist\]
 
 <table>
 <tbody>
@@ -125,7 +122,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     
     -   Works in PvE combat, with each mob counting as an individual combat tag.  
         
-    -   Tags: \[**Breaker**\] \[Combat Tag\] \[Damage Buff\]
 
 <table>
 <tbody>
@@ -152,7 +148,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     -   3 minute cooldown.
     -   While under the 20% maximum health threshold, this Talent will proc every time you get hit. If it is already on cooldown, the cooldown will be refreshed and nothing else will happen.  
         
-    -   Tags: \[**Breaker**\] \[Tempo\]
 
 <table>
 <tbody>
@@ -176,15 +171,12 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
 </tbody>
 </table>
 
--   **Unswayed** \[Absolute Focus • Common Talent\] - The effects of [Taunt](Attunement-less.md#taunt) and [Encore](Talents/Vow_of_Iron.md#encore) no longer work on you.
+-   **Unswayed** \[Absolute Focus • Common Talent\] - The effects of [Taunt](Attunement-less.md#taunt) and [Encore](Talents/Vow_of_Iron.md#encore) no longer work on you. (+20 Sanity)
     
     -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "[Cornered Fool](Talents/Vow_of_Iron.md#cornered-fool)" Talent can no longer inflict "[Taunt](Status_Effects.md#taunt)" on the user.
     -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "[Encore](Talents/Vow_of_Iron.md#encore)" on the user, nullifying the stun effect.
         -   Sing can still apply **[Charm](Status_Effects.md#charm)** or [Overcharm](Status_Effects.md#overcharm) to the user.  
             
-    -   Grants +20 Sanity  
-        
-    -   Tags: \[**Breaker**\] \[+Sanity\]
 
 <table>
 <tbody>
@@ -211,7 +203,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
     -   Does not work on certain mobs, such as [Servants of Enmity](Enforcer.md), or player-summoned [Lightning Clones](Thundercall.md#lightning-clones).  
         
-    -   Tags: \[**Breaker**\] \[Food\]
 
 <table>
 <tbody>
@@ -258,7 +249,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
         -   The potency of [potions](Alchemy.md)
         -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
             
-    -   Tags: \[**Breaker**\] \[Scale-down\]
 
 <table>
 <tbody>
@@ -285,7 +275,6 @@ The Breaker is a hulking brute, empowering themselves throughout the fight, leav
     -   The bonus PEN is applied starting from 35% Sanity.
     -   Scales on your current sanity percentage.  
         
-    -   Tags: \[**Breaker**\] \[Sanity\] \[PEN\]
 
   
 
@@ -386,7 +375,6 @@ N/A
     
     -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.  
         
-    -   Tags: \[**Breaker**\] \[Damage Resistance\] \[Guardbreak\]
 
 <table>
 <tbody>
@@ -411,15 +399,12 @@ N/A
 </tbody>
 </table>
 
--   **Steady Footing** \[Acrobat • Common Talent\] **100** \- You're much more resistant to being pushed around.
+-   **Steady Footing** \[Acrobat • Common Talent\] **100** \- You're much more resistant to being pushed around. (+5 Carry Load, +2 Passive Agility)
     
     -   Reduces knockback to the user by 20%. (stacks with other sources of Knockback Resistance, including [Anchor](Equipment.md) Pips)
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.  
         
-    -   Grants +5 Carry Load, +2 Passive Agility  
-        
-    -   Tags: \[**Breaker**\] \[+Carry Load\] \[+Passive Agility\]
 
 <table>
 <tbody>
@@ -451,7 +436,6 @@ N/A
         -   With two stacks, your Strong Left will ignore your opponent's armor, on top of the first stack bonus.
         -   With three stacks, your Strong Left will deal additional damage and guardbeak, on top of the first and second stack bonuses.  
             
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Damage Buff\] \[Guardbreak\]
 
 <table>
 <tbody>
@@ -475,7 +459,6 @@ N/A
     
     -   The Stagger status effect makes your opponent take 33% more posture damage.  
         
-    -   Tags: \[**Breaker**\] \[Debuff\] \[Flourish\]
 
   
 
@@ -571,14 +554,11 @@ N/A
 </tbody>
 </table>
 
--   **Grand Feast** \[Apex Predator • Common Talent\] **100** \- Regain tempo, ether, blood and health when gaining hunger from killing.
+-   **Grand Feast** \[Apex Predator • Common Talent\] **100** \- Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     
     -   The healing is negated in PVP combat.
     -   On [Carnivore](Talents/Vow_of_Iron.md#carnivore) proc, replenish 40% of your maximum [Tempo](Combat_Mechanics.md#tempo), 55% of your maximum [Ether](Ether.md), 3% of your maximum blood, and 5% of your maximum health.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Breaker**\] \[+Passive Agility\] \[Sustain\] \[Tempo\]
 
 <table>
 <tbody>
@@ -600,14 +580,11 @@ N/A
 </tbody>
 </table>
 
--   **Sunken Predator** \[Apex Predator • Common Talent\] **100** \- Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
+-   **Sunken Predator** \[Apex Predator • Common Talent\] **100** \- Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
     
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit, and for less time as well.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Breaker**\] \[+Passive Agility\] \[Debuff\] \[Slow\]
 
 <table>
 <tbody>
@@ -627,7 +604,6 @@ N/A
 
 -   **Breakthrough** \[Breaker • Memento Talent\] **200** \- Posture damage on light attacks are increased by 10%.
     
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
@@ -653,7 +629,6 @@ N/A
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.  
         
-    -   Tags: \[**Breaker**\] \[Flourish\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
@@ -679,7 +654,6 @@ N/A
     -   The anti-Vent effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
     -   The [Collapsed](Status_Effects.md#collapsed) status effect decreases the posture damage affected targets do to you by 40%.  
         
-    -   Tags: \[**Breaker**\] \[Guardbreak\] \[Scale-down\] \[Vent\]
 
   
 
@@ -821,7 +795,6 @@ Blunt ResistanceBlunt
     
     -   This also works on non-humanoid monsters, granting you the damage resistance buff on kill.  
         
-    -   Tags: \[**Breaker**\] \[Damage Resistance\]
 
 <table>
 <tbody>
@@ -845,7 +818,6 @@ Blunt ResistanceBlunt
     
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below a combined 80.  
         
-    -   Tags: \[**Breaker**\] \[Posture Resistance\] \[Scale-down\]
 
 <table>
 <tbody>
@@ -874,7 +846,6 @@ Blunt ResistanceBlunt
         
     -   The Fists condition must be met in order for this Talent to apply.  
         
-    -   Tags: \[**Breaker**\] \[Damage Resistance\] \[Fist\] \[M1 Tag\]
 
   
 
@@ -970,13 +941,10 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Shield Breaker** \[Rampaging Brute • Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields.
+-   **Shield Breaker** \[Rampaging Brute • Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields. (+1 Posture)
     
     -   Affects all sources of Blunt damage.  
         
-    -   Grants +1 Posture  
-        
-    -   Tags: \[**Breaker**\] \[+Posture\]
 
 <table>
 <tbody>
@@ -1002,7 +970,6 @@ Blunt ResistanceBlunt
     -   Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked.
     -   At max [Calamity Punch](Talents/Vow_of_Iron.md#calamity-punch) stacks, gain hyperarmor during Rapid Punches.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
@@ -1026,7 +993,7 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Dirty Boxing** \[Scoundrel • Rare Talent\] **250** \- \[Fist\] Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](Status_Effects.md#sluggish)**.
+-   **Dirty Boxing** \[Scoundrel • Rare Talent\] **250** \- \[Fist\] Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](Status_Effects.md#sluggish)**. (+1 Passive Agility)
     
     -   8 second cooldown.
     -   The "bleed" does not work.
@@ -1034,9 +1001,6 @@ Blunt ResistanceBlunt
         
     -   The Fist condition must be met in order for this Talent to apply.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Breaker**\] \[+Passive Agility\] \[Debuff\] \[Fist\]
 
 <table>
 <tbody>
@@ -1055,11 +1019,8 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Strong Stern** \[Duelist • Rare Talent\] **250** \- The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE as well.
+-   **Strong Stern** \[Duelist • Rare Talent\] **250** \- The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE as well. (+5 Carry Load)
     
-    -   Grants +5 Carry Load  
-        
-    -   Tags: \[**Breaker**\] \[+Carry Load\]
 
   
 
@@ -1161,7 +1122,6 @@ Blunt ResistanceBlunt
     
     -   This has a 50% chance to break destructible objects when you flourish people into them.  
         
-    -   Tags: \[**Breaker**\] \[Flourish\] \[Guardbreak\]
 
 <table>
 <tbody>
@@ -1180,11 +1140,8 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Going Nowhere** \[Persuer • Rare Talent\] **250** \- When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.
+-   **Going Nowhere** \[Persuer • Rare Talent\] **250** \- When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting. (+6 Passive Agility)
     
-    -   Grants +6 Passive Agility  
-        
-    -   Tags: \[**Breaker**\] \[+Passive Agility\] \[Debuff\]
 
 <table>
 <tbody>
@@ -1205,13 +1162,10 @@ Blunt ResistanceBlunt
 </tbody>
 </table>
 
--   **Million Ton Piercer** \[Rampaging Brute • Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+-   **Million Ton Piercer** \[Rampaging Brute • Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+5% PEN)
     
     -   Removes the 50% Melee PEN cap.  
         
-    -   Grants +5% PEN  
-        
-    -   Tags: \[**Breaker**\] \[+PEN\] \[PEN\]
 
 ## Boss Unlocks
 
@@ -1238,7 +1192,6 @@ Blunt ResistanceBlunt
     
     -   Increases your [Strong Left](Attunement-less.md#strong-left)'s damage and posture damage if you are at max [Calamity Punch](Talents/Vow_of_Iron.md#calamity-punch) stacks.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Boss Reward\] \[Damage Buff\] \[Posture Damage Buff\]
 
 ### Dravik, The Rat King
 
@@ -1271,7 +1224,6 @@ Blunt ResistanceBlunt
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
     -   Ardour automatically deactivates if you have no Ether.  
         
-    -   Tags: \[**Breaker**\] \[[Ardour](Murmur%253A_Ardour.md)\] \[Boss Reward\] \[Damage Buff\] \[Guardbreak\] \[M1 Tag\] \[Murmur\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
@@ -1294,7 +1246,6 @@ Blunt ResistanceBlunt
     
     -   Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Breaker**\] \[Guardbreak\]
 
 ### True Heart of Enmity
 
@@ -1331,6 +1282,4 @@ Blunt ResistanceBlunt
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
-    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.  
-        
-    -   Tags: \[**Breaker**\] \[Boss Reward\] \[Damage Resistance\]
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.

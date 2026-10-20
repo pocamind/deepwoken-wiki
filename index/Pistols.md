@@ -70,7 +70,6 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
         
     -   The following [Equipment](Equipment.md) and [Outfit](Outfits.md) items grant this Talent when equipped: [Summer Company Uniform](Summer_Company_Uniform.md)  
         
-    -   Tags: \[Weapon\] \[Pistol\] \[Quest Talent\] \[Rifle\]
 
 -   **Bulletproof** \[Gunslinger • Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on Natural Armor.
@@ -80,7 +79,6 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
         
     -   Prerequisites: 20 Fortitude // 20 Weapon (20 Light // 20 Medium // 20 Heavy), completed the [Trig quest](Summer_Isle.md#trig-quest) (helping [Asius](Asius.md))  
         
-    -   Tags: \[Fortitude\] \[Weapon\] \[Quest Talent\]
 
 -   **Execution** \[Gunslinger • Rare Talent\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.
@@ -92,14 +90,12 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
         
     -   Mutual Exclusives: [Hip Shooter](Talents.md#hip-shooter)  
         
-    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Flourish\] \[Offhand Pistol\] \[Pistol\]
 
 -   **Gunpowder Blast** \[Gunslinger • Common Talent\] - Pistol shots without bullets deal 2 extra posture. \[Dual Gun\]
     -   Increases the posture damage of your blast shots by 2 if you do not have physical [bullets](Bullets.md) in your inventory.  
         
     -   Prerequisites: 45 Light Weapon, Using a [Pistol](Pistols.md)  
         
-    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
 
 -   **Hip Shooter** \[Gunslinger • Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
     -   This requires you to have [bullets](Bullets.md) in your inventory.
@@ -109,7 +105,6 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
         
     -   Mutual Exclusives: [Execution](Talents.md#execution)  
         
-    -   Tags: \[Light Weapon\] \[Medium Weapon\] \[Heavy Weapon\] \[Offhand Pistol\] \[Pistol\]
 
 -   **Parting Gift** \[Gunslinger • Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
@@ -118,28 +113,24 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
         
     -   Prerequisites: 75 Light Weapon, Using a [Pistol](Pistols.md)  
         
-    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Flourish\] \[Pistol\]
 
 -   **Quickdraw** \[Gunslinger • Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon.  
         
     -   Prerequisites: 55 Light Weapon, Using a [Pistol](Pistols.md)  
         
-    -   Tags: \[Light Weapon\] \[Offhand Pistol\] \[Pistol\]
 
 -   **Quick Swap** \[Gunslinger • Common Talent\] - Massively reduce your bullet swap cooldown. \[Dual Gun\]
     -   You can swap [Bullet Casing](Bullets.md#bullet-casings) types by stance changing (Y).  
         
     -   Prerequisites: 40 Light Weapon, Using a [Pistol](Pistols.md)  
         
-    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
 
 -   **Taste The Rainbow** \[Gunslinger • Common Talent\] - Every time you shoot, switch your ammo type. \[Dual Guns\]
     -   Every M1 switches your [Bullet type](Bullets.md#bullet-casings).  
         
     -   Prerequisites: 50 Light Weapon, Using a [Pistol](Pistols.md)  
         
-    -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\]
 
 -   **True Ether Bullets** \[Gunslinger • Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
     -   Landing 2 shots will make the 3rd shot deal elemental damage and apply the elemental status effect of your highest invested Attunement. If you do not have an Attunement, this Talent **will not** function.
@@ -156,7 +147,6 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
         
     -   Prerequisites: 30 Intelligence, 20 Weapon (20 Light // 20 Medium // 20 Heavy), Using a [Pistol](Pistols.md)/Rifle/[Greatcannon](Greatcannons.md)  
         
-    -   Tags: \[Intelligence\] \[Weapon\] \[Debuff\] \[Rifle\] \[Pistol\]
 
 -   **Prime Ether Bullets** \[Gunslinger • Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
@@ -164,7 +154,6 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
         
     -   Prerequisites: [True Ether Bullets](Talents.md#true-ether-bullets), 60 Intelligence, 90 Light Weapon, Using a [Pistol](Pistols.md)  
         
-    -   Tags: \[Intelligence\] \[Light Weapon\] \[Dual Pistols\] \[Investment Scaling\] \[Pistol\]
 
 -   Lock n Load \[Common Talent, Light Weapon\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Pistol

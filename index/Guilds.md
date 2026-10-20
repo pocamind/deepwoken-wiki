@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 231089
+revid: 231132
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -51,6 +51,10 @@ When choosing to leave a guild and joining a new one, there is a 1 minute cooldo
 
 Within a guild, the player can choose to recruit members. It is also used to promote and exile guild members, depending on their rank. If a guild's leader is terminated from Roblox, permanently banned from Deepwoken or has left the guild, leadership will be given to the first person who speaks to a Guild Clerk.
 
+To invite a member into a guild, M2 their name on the player list and select "Invite to Guild."
+
+Ownership of a guild can be transferred to a lieutenant by right-clicking the desired player's name in the player list.
+
 The guild ranks are listed below:
 
 | **Rank** | **Invite/Kick?** | **Promote?** | **Modify Guild Base?** |
@@ -59,8 +63,6 @@ The guild ranks are listed below:
 | **Guild Lieutenant ︽** | Yes (only kick members) | Yes (up to Officer) | No |
 | **Guild Officer ⛨** | Yes (only kick members) | No | No |
 | **Guild Member** | No | No | No |
-
-To invite a member into a guild, M2 their name on the player list and select "Invite to Guild."
 
 Members of a guild including its leader will stay in their guild after death and/or wiping. Currently the only way to leave a guild is by speaking to the [Guild Clerk](Guild_Clerk.md) or being exiled by an officer. You can have as many members in a guild as you want.
 

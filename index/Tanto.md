@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 221493
+revid: 231113
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyable Weapons, Weapons with Unique Criticals, Light Weapons, Weapons of Etrea]
@@ -14,9 +14,9 @@ categories: [Weapons, Daggers, Alloyable Weapons, Weapons with Unique Criticals,
 | type | Dagger |
 | damage type | Slash |
 | requirements | 50 / 80 LHT |
-| damage | 15.5 / 16 |
-| scaling | LHT: 8 |
-| posture damage | 3 |
+| damage | 17 / 17.5 |
+| scaling | LHT: 5 / 7 |
+| posture damage | 4 |
 | range | 6.5 Sweep |
 | swing speed | 1.14x / 1.15x |
 | attack duration | 0.5s |
@@ -42,7 +42,7 @@ The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. It is 
 
 A short windup before jumping in the air and slashing forwards in a cartwheel-like motion.
 
-This attack has a scaled damage multiplier of 1.25x and has innate [Bleed](Status_Effects.md#bleed).
+This attack has a scaled damage multiplier of 1.25x, has innate [Bleed](Status_Effects.md#bleed), and has innate 20% Chip.
 
 ## Trivia
 

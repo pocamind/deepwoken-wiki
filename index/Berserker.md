@@ -51,7 +51,6 @@ This content is not accessible outside of this gamemode.
     
     -   Your [Berserk](Talents/Vow_of_Iron.md#berserk) has an indefinite duration, lasting until the user manually turns it off.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\]
 
 <table>
 <tbody>
@@ -82,7 +81,6 @@ This content is not accessible outside of this gamemode.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
     -   Your eyes and hair turn red with your eyes gaining a red trail when activated as well. This is [dyable](Dye_Packet.md). (Currently bugged, as hair color does not change)  
         
-    -   Tags: \[**Berserker**\] \[PEN\] \[Scale-down\] \[Tool\]
 
 ## Deck of Recollection
 
@@ -110,7 +108,6 @@ This content is not accessible outside of this gamemode.
     
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.  
         
-    -   Tags: \[**Berserker**\] \[Damage Resistance\]
 
 <table>
 <tbody>
@@ -142,7 +139,6 @@ This content is not accessible outside of this gamemode.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.  
         
-    -   Tags: \[**Berserker**\] \[Damage Resistance\] \[Sustain\]
 
 <table>
 <tbody>
@@ -166,7 +162,6 @@ This content is not accessible outside of this gamemode.
     
     -   Also affects players who are wearing the [Stranded](Stranded.md) outfit.  
         
-    -   Tags: \[**Berserker**\] \[Damage Buff\]
 
 <table>
 <tbody>
@@ -187,13 +182,10 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Perseverance** \[Bastion • Common Talent\] **100** \- Reduces the duration you're **[Ragdolled](Status_Effects.md#ragdoll)** and **[Unconscious](Status_Effects.md#unconscious)** for by 25%.
+-   **Perseverance** \[Bastion • Common Talent\] **100** \- Reduces the duration you're **[Ragdolled](Status_Effects.md#ragdoll)** and **[Unconscious](Status_Effects.md#unconscious)** for by 25%. (+5 Sanity)
     
     -   This can stack with other Talents to reduce Unconscious time even further. (Ex. [Defiance](Talents/Vow_of_Iron.md#defiance))  
         
-    -   Grants +5 Sanity  
-        
-    -   Tags: \[**Berserker**\] \[+Sanity\]
 
 <table>
 <tbody>
@@ -214,13 +206,10 @@ This content is not accessible outside of this gamemode.
 </tbody>
 </table>
 
--   **Unwavering Resolve** \[Rampaging Brute • Common Talent\] **100** \- Getting parried punishes your posture 33% less.
+-   **Unwavering Resolve** \[Rampaging Brute • Common Talent\] **100** \- Getting parried punishes your posture 33% less. (+2 Posture)
     
     -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.  
         
-    -   Grants +2 Posture  
-        
-    -   Tags: \[**Berserker**\] \[+Posture\] \[Posture Resistance\] \[Scale-down\]
 
 <table>
 <tbody>
@@ -240,7 +229,6 @@ This content is not accessible outside of this gamemode.
 
 -   **Ruinous Recovery** \[Berserker • Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
     
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Guardbreak\]
 
 <table>
 <tbody>
@@ -264,7 +252,6 @@ This content is not accessible outside of this gamemode.
     
     -   This has a 50% chance to break destructible objects when you flourish people into them.  
         
-    -   Tags: \[**Berserker**\] \[Flourish\] \[Guardbreak\]
 
 <table>
 <tbody>
@@ -300,7 +287,6 @@ This content is not accessible outside of this gamemode.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
     -   If you have the [Enhanced Flow](Talents/Vow_of_Iron.md#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.  
         
-    -   Tags: \[**Berserker**\] \[Damage Buff\] \[Speed Boost\] \[Tool\]
 
   
 
@@ -561,7 +547,6 @@ N/A
     
     -   Because this Memento does not get [Oppressive Force](Talents.md#oppressive-force), this Talent only serves to increase your base flourish's posture damage by 50%.  
         
-    -   Tags: \[**Berserker**\] \[Flourish\] \[Posture Damage Buff\]
 
 <table>
 <tbody>
@@ -584,15 +569,12 @@ N/A
 </tbody>
 </table>
 
--   **Bear Trap** \[Vigil Swordsman • Common Talent\] **100** \- Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.
+-   **Bear Trap** \[Vigil Swordsman • Common Talent\] **100** \- Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
     
     -   The status effect is represented by blood pouring from the legs.
     -   Makes the opponent unable to jump for 4 seconds.
     -   Upon being applied to an opponent, they gain 6s worth of bear trap immunity.  
         
-    -   Grants +1 Passive Agility  
-        
-    -   Tags: \[**Berserker**\] \[+Passive Ability\] \[Critical Attack\] \[Debuff\] \[Slow\]
 
 <table>
 <tbody>
@@ -619,7 +601,6 @@ N/A
         
     -   The In Berserk State condition must be met in order for this Talent to apply.  
         
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Critical Attack\] \[PEN\]
 
 <table>
 <tbody>
@@ -657,7 +638,6 @@ N/A
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
     -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.  
         
-    -   Tags: \[**Berserker**\] \[Damage Resistance\]
 
 <table>
 <tbody>
@@ -678,13 +658,10 @@ N/A
 </tbody>
 </table>
 
--   **Million Ton Piercer** \[Rampaging Brute • Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+-   **Million Ton Piercer** \[Rampaging Brute • Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+5% PEN)
     
     -   This removes the 50% Weapon PEN cap.  
         
-    -   Grants +5% PEN  
-        
-    -   Tags: \[**Berserker**\] \[+PEN\] \[PEN\] \[Scale-down\]
 
 <table>
 <tbody>
@@ -708,7 +685,6 @@ N/A
     
     -   Your attacks that guardbreak gain +50% PEN.  
         
-    -   Tags: \[**Berserker**\] \[Guardbreak\] \[PEN\]
 
   
 
@@ -930,7 +906,6 @@ Slash ResistanceSlash
     -   8 second cooldown.
     -   This move is considered as an M1 for Talents and Enchant procs, although it procs certain critical Talents (like [Bear Trap](Talents/Vow_of_Iron.md#bear-trap))  
         
-    -   Tags: \[**Berserker**\] \[M1 Tag\]
 
 <table>
 <tbody>
@@ -978,7 +953,6 @@ Slash ResistanceSlash
         -   The potency of [potions](Alchemy.md)
         -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
             
-    -   Tags: \[**Berserker**\] \[Scale-down\]
 
   
 
@@ -1115,7 +1089,6 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 
 -   **Rip and Tear** \[Berserker • Memento Talent\] - Regain health upon defeating an enemy.
     
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Sustain\]
 
 ### Dravik, The Rat King
 
@@ -1135,11 +1108,8 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 </tbody>
 </table>
 
--   **Padded Armor** \[Natural Armor • Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage.
+-   **Padded Armor** \[Natural Armor • Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     
-    -   Grants +3% Blunt Armor  
-        
-    -   Tags: \[**Berserker**\] \[+Blunt Armor\] \[Boss Reward\] \[Damage Resistance\]
 
 <table>
 <tbody>
@@ -1157,11 +1127,8 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 </tbody>
 </table>
 
--   **Steel Scales** \[Natural Armor • Common Talent\] - You take an additional 5% less damage when your armor is broken.
+-   **Steel Scales** \[Natural Armor • Common Talent\] - You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
     
-    -   Grants +3% Slash Armor  
-        
-    -   Tags: \[**Berserker**\] \[+Slash Armor\] \[Boss Reward\] \[Damage Resistance\]
 
 ### True Heart of Enmity
 
@@ -1183,6 +1150,4 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 
 -   **Righteous Rage** \[Berserker • Memento Talent\] - \[In Berserk State\] You deal increased damage the lower your health is.
     
-    -   The In Berserk State condition must be met in order for this Talent to apply.  
-        
-    -   Tags: \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Exclusive\] \[**Berserker**\] \[Boss Reward\] \[Damage Buff\]
+    -   The In Berserk State condition must be met in order for this Talent to apply.

@@ -1,6 +1,6 @@
 ---
 title: "Herbalist's Hat"
-revid: 221956
+revid: 231125
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -32,6 +32,8 @@ Variants: [Lifeweaver's Hat](<Lifeweaver's_Hat.md>)
 The Herbalist's Hat is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Herbivore](Talents.md#herbivore) Talent grants increased nutrition from consuming plant-based [food](Food.md) items. The [Iron Gut](Talents.md#iron-gut) Talent lowers the chance of you vomiting upon consuming food.
+
+The Herbalist's Hat is torn to pieces and hidden when entering combat. It is returned after being out of danger.
 
 ## Trivia
 

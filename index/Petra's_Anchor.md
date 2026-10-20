@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 216586
+revid: 231195
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -14,9 +14,9 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | damage type | Blunt |
 | requirements | 75 HVY, 10 STR, LVL 10 |
 | damage | 26 |
-| scaling | HVY: 8 |
+| scaling | HVY: 9 |
 | posture damage | 9 |
-| range | 9 |
+| range | 8.5 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | penetration | 15% |

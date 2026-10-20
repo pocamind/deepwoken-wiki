@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 230754
+revid: 231116
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -387,7 +387,7 @@ Blunt ResistanceBlunt
 
 ### _Fortitude Mantras_
 
-Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](Training_Gear.md#attribute-training-gears), or feel the crushing weight of a [Boulder](Training_Gear.md#attribute-training-gears).
+Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](Training_Vest.md), or feel the crushing weight of a [Boulder](Training_Gear.md#attribute-training-gears).
 
 | 
 **Name**
@@ -700,15 +700,14 @@ Blunt ResistanceBlunt
 
  | 
 
-40 Agility, 60 Strength
+60 Agility, 40 Strength
 
  |
 | 
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
--   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<Inquisitor's_Thorn.md>) per level with no investment scaling.
--   The second hit has a base damage of 19.13/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<Inquisitor's_Thorn.md>) per level with no investment scaling.
+-   The damage scales with agility.
 -   Feinting after the first attack will instantly use the second.
 -   Upgraded with Agility and not Strength.
 
@@ -1711,6 +1710,7 @@ Slash ResistanceSlash
 -   Having the [Forgotten Gladius](Forgotten_Gladius.md) equipped will heavily decrease its windup.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
 -   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Using this mantra without a medium weapon reduces its maximum range.
 
  |
 | 

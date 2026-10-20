@@ -158,15 +158,15 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>LHT: 5</td>
+  <td>5%</td>
   <td>-</td>
-  <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -200,15 +200,15 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 8</td>
+  <td>17</td>
+  <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
   <td>-</td>
-  <td>24.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -328,11 +328,11 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>16.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
-  <td>15%</td>
+  <td>10%</td>
   <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
@@ -343,15 +343,15 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
-  <td>16</td>
-  <td>LHT: 8</td>
+  <td>17.5</td>
+  <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
   <td>-</td>
-  <td>25.6</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -1361,15 +1361,15 @@ All weapons within the game have the chance of being found with or without diffe
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>-</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -2333,7 +2333,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -2970,15 +2970,15 @@ All weapons within the game have the chance of being found with or without diffe
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>0.1s</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -3479,14 +3479,14 @@ All weapons within the game have the chance of being found with or without diffe
   10 STR<br>
   LVL 10</td>
   <td>26</td>
-  <td>HVY: 8</td>
+  <td>HVY: 9</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -3637,7 +3637,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
   <td>75 HVY<br>
   30 STR</td>
-  <td>27</td>
+  <td>25.5</td>
   <td>HVY: 8.6</td>
   <td>10%</td>
   <td>-</td>
@@ -3645,7 +3645,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>0.81x</td>
   <td>0.1s</td>
-  <td>44.4</td>
+  <td>41.9</td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -3721,7 +3721,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -4509,15 +4509,15 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>LHT: 5</td>
+  <td>5%</td>
   <td>-</td>
-  <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -4551,15 +4551,15 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 8</td>
+  <td>17</td>
+  <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
   <td>-</td>
-  <td>24.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -4679,11 +4679,11 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>16.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
-  <td>15%</td>
+  <td>10%</td>
   <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
@@ -4694,15 +4694,15 @@ All weapons within the game have the chance of being found with or without diffe
   <div><br>
   <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
-  <td>16</td>
-  <td>LHT: 8</td>
+  <td>17.5</td>
+  <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
   <td>-</td>
-  <td>25.6</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -5541,15 +5541,15 @@ Daggers
   <div><br>
   <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>LHT: 5</td>
+  <td>5%</td>
   <td>-</td>
-  <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -5583,15 +5583,15 @@ Daggers
   <div><br>
   <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 8</td>
+  <td>17</td>
+  <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
   <td>-</td>
-  <td>24.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -5711,11 +5711,11 @@ Daggers
   <div><br>
   <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>16.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
-  <td>15%</td>
+  <td>10%</td>
   <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
@@ -5726,15 +5726,15 @@ Daggers
   <div><br>
   <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
-  <td>16</td>
-  <td>LHT: 8</td>
+  <td>17.5</td>
+  <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
   <td>-</td>
-  <td>25.6</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -6815,15 +6815,15 @@ Pistols
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>-</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -7787,7 +7787,7 @@ Pistols
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -8329,15 +8329,15 @@ Swords
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>-</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -9369,7 +9369,7 @@ Rifles
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -10060,15 +10060,15 @@ Bows
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>0.1s</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -10569,14 +10569,14 @@ Bows
   10 STR<br>
   LVL 10</td>
   <td>26</td>
-  <td>HVY: 8</td>
+  <td>HVY: 9</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -10727,7 +10727,7 @@ Bows
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
   <td>75 HVY<br>
   30 STR</td>
-  <td>27</td>
+  <td>25.5</td>
   <td>HVY: 8.6</td>
   <td>10%</td>
   <td>-</td>
@@ -10735,7 +10735,7 @@ Bows
   <td>7.5</td>
   <td>0.81x</td>
   <td>0.1s</td>
-  <td>44.4</td>
+  <td>41.9</td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -11188,15 +11188,15 @@ Greatswords
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>0.1s</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -11714,14 +11714,14 @@ Greathammers
   10 STR<br>
   LVL 10</td>
   <td>26</td>
-  <td>HVY: 8</td>
+  <td>HVY: 9</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -11889,7 +11889,7 @@ Greatcannons
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
   <td>75 HVY<br>
   30 STR</td>
-  <td>27</td>
+  <td>25.5</td>
   <td>HVY: 8.6</td>
   <td>10%</td>
   <td>-</td>
@@ -11897,7 +11897,7 @@ Greatcannons
   <td>7.5</td>
   <td>0.81x</td>
   <td>0.1s</td>
-  <td>44.4</td>
+  <td>41.9</td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -11926,8 +11926,8 @@ Hybrid Weapons
 
 | **[Wyrmtooth](Wyrmtooth.md)** | Medium & Heavy | 60 MED  
 40 HVY  
-LVL 10 | 20 | MED: 6.2  
-HVY: 4.2 | 25% | \- | 7 | 9 | 0.93x | \- | 35.6 |
+LVL 10 | 20 | MED: 6.5  
+HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 |
 | **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** | Light & Heavy | 25 HVY  
 75 FIR  
 10 LHT | 21 | HVY: 5 (GS)  
@@ -12037,7 +12037,7 @@ Elemental
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -13436,15 +13436,15 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <div><br>
   <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>LHT: 5</td>
+  <td>5%</td>
   <td>-</td>
-  <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -13478,15 +13478,15 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <div><br>
   <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 8</td>
+  <td>17</td>
+  <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
   <td>-</td>
-  <td>24.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -13606,11 +13606,11 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <div><br>
   <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>16.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
-  <td>15%</td>
+  <td>10%</td>
   <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
@@ -13621,15 +13621,15 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <div><br>
   <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
-  <td>16</td>
-  <td>LHT: 8</td>
+  <td>17.5</td>
+  <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
   <td>-</td>
-  <td>25.6</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -14534,15 +14534,15 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <div><br>
   <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>LHT: 5</td>
+  <td>5%</td>
   <td>-</td>
-  <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -14576,15 +14576,15 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <div><br>
   <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 8</td>
+  <td>17</td>
+  <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
   <td>-</td>
-  <td>24.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -14704,11 +14704,11 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <div><br>
   <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>16.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
-  <td>15%</td>
+  <td>10%</td>
   <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
@@ -14719,15 +14719,15 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <div><br>
   <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
-  <td>16</td>
-  <td>LHT: 8</td>
+  <td>17.5</td>
+  <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
   <td>-</td>
-  <td>25.6</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -15762,15 +15762,15 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>-</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -16814,7 +16814,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -17405,15 +17405,15 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>-</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -18377,7 +18377,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -19058,15 +19058,15 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>0.1s</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -19586,14 +19586,14 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   10 STR<br>
   LVL 10</td>
   <td>26</td>
-  <td>HVY: 8</td>
+  <td>HVY: 9</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -19763,7 +19763,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
   <td>75 HVY<br>
   30 STR</td>
-  <td>27</td>
+  <td>25.5</td>
   <td>HVY: 8.6</td>
   <td>10%</td>
   <td>-</td>
@@ -19771,7 +19771,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7.5</td>
   <td>0.81x</td>
   <td>0.1s</td>
-  <td>44.4</td>
+  <td>41.9</td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -20210,15 +20210,15 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>0.1s</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -20719,14 +20719,14 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   10 STR<br>
   LVL 10</td>
   <td>26</td>
-  <td>HVY: 8</td>
+  <td>HVY: 9</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -20877,7 +20877,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
   <td>75 HVY<br>
   30 STR</td>
-  <td>27</td>
+  <td>25.5</td>
   <td>HVY: 8.6</td>
   <td>10%</td>
   <td>-</td>
@@ -20885,7 +20885,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7.5</td>
   <td>0.81x</td>
   <td>0.1s</td>
-  <td>44.4</td>
+  <td>41.9</td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -20914,8 +20914,8 @@ Hybrid Weapons
 
 | **[Wyrmtooth](Wyrmtooth.md)** | Medium & Heavy | 60 MED  
 40 HVY  
-LVL 10 | 20 | MED: 6.2  
-HVY: 4.2 | 25% | \- | 7 | 9 | 0.93x | \- | 35.6 |
+LVL 10 | 20 | MED: 6.5  
+HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 |
 | **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** | Light & Heavy | 25 HVY  
 75 FIR  
 10 LHT | 21 | HVY: 5 (GS)  
@@ -21027,7 +21027,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -22291,15 +22291,15 @@ Every player-obtainable weapon, excluding offhands.
   <div><br>
   <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>LHT: 5</td>
+  <td>5%</td>
   <td>-</td>
-  <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -22333,15 +22333,15 @@ Every player-obtainable weapon, excluding offhands.
   <div><br>
   <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 8</td>
+  <td>17</td>
+  <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
   <td>-</td>
-  <td>24.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -22461,11 +22461,11 @@ Every player-obtainable weapon, excluding offhands.
   <div><br>
   <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>16.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
-  <td>15%</td>
+  <td>10%</td>
   <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
@@ -22476,15 +22476,15 @@ Every player-obtainable weapon, excluding offhands.
   <div><br>
   <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
-  <td>16</td>
-  <td>LHT: 8</td>
+  <td>17.5</td>
+  <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
   <td>-</td>
-  <td>25.6</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -23494,15 +23494,15 @@ Every player-obtainable weapon, excluding offhands.
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>-</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -24466,7 +24466,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>
@@ -25103,15 +25103,15 @@ Every player-obtainable weapon, excluding offhands.
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>0.1s</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -25612,14 +25612,14 @@ Every player-obtainable weapon, excluding offhands.
   10 STR<br>
   LVL 10</td>
   <td>26</td>
-  <td>HVY: 8</td>
+  <td>HVY: 9</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -25770,7 +25770,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
   <td>75 HVY<br>
   30 STR</td>
-  <td>27</td>
+  <td>25.5</td>
   <td>HVY: 8.6</td>
   <td>10%</td>
   <td>-</td>
@@ -25778,7 +25778,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>0.81x</td>
   <td>0.1s</td>
-  <td>44.4</td>
+  <td>41.9</td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -25854,7 +25854,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>3</td>
   <td>7</td>
-  <td>0.93x</td>
+  <td>0.97x</td>
   <td>-</td>
   <td>29</td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 229380
+revid: 231123
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, In progress with loot table reason, InProgressPages, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -32,6 +32,8 @@ notices:
 The Big Alchemist's Hat is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Apothecary](Talents.md#apothecary) Talent provides 125% [Potion](Alchemy.md) potency.
+
+The Big Alchemist's Hat is torn to pieces and hidden when entering combat. It is returned after being out of danger.
 
 ## Trivia
 

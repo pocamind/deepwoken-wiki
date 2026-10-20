@@ -18,13 +18,12 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page.  
 
 -   **Unstoppable Force** \[Collosus • Rare Talent\] - Greathammer You take 15% less posture damage when parried. (+1 Posture)
     
     -   Prerequisites: [Unwavering Resolve](Talents.md#unwavering-resolve), 25 Strength, 40 Heavy Weapon, Use a [Greathammer](Greathammers.md)  
         
-    -   Tags: \[Strength\] \[Heavy Weapon\] \[+Posture\] \[Greathammer\] \[Posture Resistance\]
 
 ## Default Animations
 
@@ -212,14 +211,14 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   10 STR<br>
   LVL 10</td>
   <td>26</td>
-  <td>HVY: 8</td>
+  <td>HVY: 9</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>

@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 218012
+revid: 231188
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -39,7 +39,7 @@ If you reach 0 Sanity while having a Curse of the No Life King weapon equipped, 
 The following effects have reduced effectiveness or are entirely disabled while this enchantment is equipped:
 
 -   Healing [potions](Alchemy.md) heal you for less.
--   The [Viscosity](Viscosity.md) Enchantment and [Conditioned Runner](Talents.md#conditioned-runner) Talent are disabled.
+-   The [Viscosity](Viscosity.md) Enchantment is disabled.
 -   [Alloyblood](Talents.md#alloyblood) and [Cauterized Wounds](Talents.md#cauterized-wounds) are less effective.
 
 ### Notes

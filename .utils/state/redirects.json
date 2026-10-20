@@ -4324,6 +4324,9 @@
   "Shrine of Division": {
     "to": "Deep Shrines/Shrine of Division"
   },
+  "Shrine of Ego": {
+    "to": "Deep Shrines/Shrine of Ego"
+  },
   "Shrine of Mastery": {
     "to": "Deep Shrines/Shrine of Mastery"
   },
@@ -5060,10 +5063,6 @@
   },
   "Training Items": {
     "to": "Training Gear"
-  },
-  "Training Vest": {
-    "to": "Training Gear",
-    "fragment": "Attribute Training Gears"
   },
   "Trance": {
     "to": "Prince of the Moon",

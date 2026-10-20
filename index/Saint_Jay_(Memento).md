@@ -334,7 +334,6 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
     -   Lasts 50 seconds if it is not broken.
     -   If you have the [Refreeze](Talents.md#refreeze) Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs [Bottom Freeze](Talents.md#bottom-freeze) will reduce Orbital Ice's cooldown by 20 seconds. This procs regardless of Bottom Freeze's cooldown.  
         
-    -   Tags: \[**Saint Jay**\] \[Damage Resistance\] \[Investment Scaling\] \[Scale-down\]
 
 -   Shield Breaker \[Common Talent\] **100** \- Blunt damage now fully ignores the posture bonus from shields. (+1 Posture)
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
@@ -473,7 +472,6 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   **Glacial Coasting** \[• Common Talent\] **100** \- Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
     -   Creates ice patches as you slide, improving your slide speed.  
         
-    -   Tags: \[**Saint Jay**\] \[+Passive Agility\] \[Mobility\]
 
 -   _Frozen Legs_ \[Rare Talent\] **250** \- **[Chilled](Status_Effects.md#chilled)** applied by Mantras prevents your opponent from rolling.
     -   Lasts the first 0.75 seconds after chill/freeze procs.
@@ -492,7 +490,6 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
         -   The potency of [potions](Alchemy.md)
         -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)  
             
-    -   Tags: \[**Saint Jay**\] \[Scale-down\]
 
   
 

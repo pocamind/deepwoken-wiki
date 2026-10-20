@@ -4452,7 +4452,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](../S
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Has a base damage of -52/62/72/82/92 per level with 2.75 Shadowcast scaling.
+-   Has a base damage of 52/62/72/82/92 per level with 2.75 Shadowcast scaling.
 -   Drains 33.25/38.98/44.7/50.425/56.15 Ether per level with 2.75 Shadowcast scaling.
 -   Has a 1 second windup with True Hyperarmor and a 12 second cooldown.
 -   Eclipse Kick ragdolls targets who dodge it.
@@ -7134,19 +7134,21 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _User grabs their opponent with a parryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
+**Effect:** _User grabs their opponent with a parryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._ (GIF outdated)
 
 -   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
 -   Shares a cooldown with all other [grab Mantras](../List_of_Grab_Mantras.md).
+-   Can ragdoll other enemies and damage them if they get flung in their direction.
+-   Does not deal damage to bigger monsters like the Prime Golem or the Alpha Megalodaunt.
 -   Using this Mantra in the air allows you to aim freely but they will still be flung afterwards.
 
  |
 
 ### _Fortitude Mantras_
 
-Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](../Training_Gear.md#attribute-training-gears), or feel the crushing weight of a [Boulder](../Training_Gear.md#attribute-training-gears).
+Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](../Training_Vest.md), or feel the crushing weight of a [Boulder](../Training_Gear.md#attribute-training-gears).
 
 | 
 **Name**
@@ -7459,15 +7461,14 @@ Blunt ResistanceBlunt
 
  | 
 
-40 Agility, 60 Strength
+60 Agility, 40 Strength
 
  |
 | 
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
--   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<../Inquisitor's_Thorn.md>) per level with no investment scaling.
--   The second hit has a base damage of 19.13/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<../Inquisitor's_Thorn.md>) per level with no investment scaling.
+-   The damage scales with agility.
 -   Feinting after the first attack will instantly use the second.
 -   Upgraded with Agility and not Strength.
 
@@ -8470,6 +8471,7 @@ Slash ResistanceSlash
 -   Having the [Forgotten Gladius](../Forgotten_Gladius.md) equipped will heavily decrease its windup.
 -   Changes color to orange if [One With Flame](../Flame_Worshipper_Armor.md) is active.
 -   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](../Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](../Flame_Worshipper_Armor.md) is active.
+-   Using this mantra without a medium weapon reduces its maximum range.
 
  |
 | 
@@ -9065,6 +9067,7 @@ Slash ResistanceSlash
 -   Cancels if parried. The movement speed increase will be retained after it has been parried, lasting until the Mantra would have ended.
 -   Can be modified with Aeon and Eternal Logstones to increase the number of times it hits
 -   Can be modified with Drift and Rush Shards, but it doesn't seem to do anything (needs testing)
+-   [Crimson Terraplate Pauldrons](../Crimson_Terraplate_Pauldrons.md) makes the Whirling Blade heal you by ∼20-25% of the damage dealt.
 
  |
 

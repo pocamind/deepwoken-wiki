@@ -126,4 +126,4 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 
 ## Navigation
 
-Variants: [Shrine of Blasphemy](Shrine_of_Blasphemy.md) · [Shrine of Mastery](Shrine_of_Mastery.md) · [Shrine of Chance](Shrine_of_Chance.md) · [Shrine of Order](Shrine_of_Order.md) · [Shrine of Conceit](Shrine_of_Conceit.md) · [Shrine of Division](Shrine_of_Division.md) · [Shrine of Unification](Shrine_of_Unification.md)
+Variants: [Shrine of Blasphemy](Shrine_of_Blasphemy.md) · [Shrine of Chance](Shrine_of_Chance.md) · [Shrine of Order](Shrine_of_Order.md) · [Shrine of Division](Shrine_of_Division.md) · [Shrine of Ego](Shrine_of_Ego.md) · [Shrine of Unification](Shrine_of_Unification.md)

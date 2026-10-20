@@ -26,7 +26,6 @@ This section is transcluded from [Talents § Needle](Talents.md#needle). To chan
     
     -   Prerequisites: 50 Light Weapon, [Rapier](Rapiers.md) equipped  
         
-    -   Tags: \[Light Weapon\] \[Parry\] \[Rapier\]
 
 -   **Duelist's Lunge** \[Needle • Common Talent\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
     -   Running attacks with rapiers deal 35% more posture damage.
@@ -34,7 +33,6 @@ This section is transcluded from [Talents § Needle](Talents.md#needle). To chan
         
     -   Prerequisites: 30 Light Weapon, [Rapier](Rapiers.md) equipped  
         
-    -   Tags: \[Light Weapon\] \[Critical Attack\] \[Posture Damage Buff\] \[Range\] \[Rapier\] \[Running Attack\]
 
 -   **Frenzied Dance** \[Needle • Common Talent\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
     -   If your current posture is 70% or higher, your posture damage is increased by 33%, and chip damage by 20%.
@@ -42,20 +40,17 @@ This section is transcluded from [Talents § Needle](Talents.md#needle). To chan
         
     -   Prerequisites: 50 Light Weapon, [Rapier](Rapiers.md) equipped  
         
-    -   Tags: \[Light Weapon\] \[Chip Damage\] \[Posture Damage Buff\]
 
 -   **Pressure Skewer** \[Needle • Common Talent\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
     -   While active, the following buffs are applied to Rapier light attacks and criticals with the M1 tag: increases blood loss by 50%, grants +25% chip damage, and +3 true damage.  
         
     -   Prerequisites: 40 Light Weapon, [Rapier](Rapiers.md) equipped  
         
-    -   Tags: \[Light Weapon\] \[Chip Damage\] \[Flourish\] \[M1 Tag\] \[Rapier\] \[True Damage\]
 
 -   **Officer's Training** \[Dread Imperium • Faction Talent\] - While using a [Sword](Swords.md) or [Rapier](Rapiers.md), take 30% less posture damage from criticals.
     
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, [Command Division](Authority_Ensign.md#command-division)  
         
-    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Posture Resistance\] \[Sword\] \[Rapier\]
 
 ## Default Animations
 

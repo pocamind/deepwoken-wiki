@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 228035
+revid: 231111
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Summer Company]
@@ -18,7 +18,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "A
 | scaling | FIR: 4, MED: 3 |
 | posture damage | 3 |
 | range | 7 Sweep |
-| swing speed | 0.93x |
+| swing speed | 0.97x |
 | special effect | Every second and fourth M1 will apply burn or proc eruptions on hit |
 | m.equip | No |
 | m.extract | No |
@@ -45,7 +45,7 @@ This weapon comes with a singular passive ability:
 
 Rosen's Hellflame has two critical attacks.
 
-For the **standing critical**, the user aims at the target and fires a constant torrent of flames from its barrel, dealing a burst of damage at the start before spraying weaker flames afterwards. The critical consumes Ether to spray flames and will end if the user runs out or if 5 seconds pass. Applies [Burn](Status_Effects.md#burn). It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
+For the **standing critical**, the user aims at the target and fires a constant torrent of flames from its barrel, dealing a burst of damage at the start before spraying weaker flames afterwards. The critical consumes Ether to spray flames and will end if the user runs out or if 5 seconds pass. Applies [Burn](Status_Effects.md#burn). It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2. This critical has slow-turn, causing the character to slowly rotate instead of instantly snapping to the cameras direction.
 
 For the **aerial critical**, the user performs a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a [burn](Status_Effects.md#burn)\-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
 

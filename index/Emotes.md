@@ -1,9 +1,9 @@
 ---
 title: Emotes
-revid: 230593
+revid: 231199
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Pages with broken file links, Mechanics]
 ---
 
 # Emotes
@@ -23,13 +23,14 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | Emote Name | Description | Showcase |
 | --- | --- | --- |
 | Groove | Dance rhythmically while moving your arms and body.[\[1\]](#cite-note-1) |  |
+| Confidence | Cross your arms in pure confidence. |  |
 | Head Nod | Shake your head up and down. |  |
-| Head Shake | Shake your head back and forth. |  |
-| Lean Back | Lean back with your arms crossed. |  |
+| Head Shake | Shake your head back and forth. | File:Head Shake Emote.gif |
+| Lean Back | Lean back with your arms crossed. | File:Lean Back.gif |
 | Pride | Stand proudly. If you have your weapon equipped, you hold the weapon into the ground. |  |
 | Resting | Take a rest on the ground. |  |
-| Sheepish | Hold your hand to the back of your head in embarrassment. |  |
-| Thinking | Hold your arm to your chin as you think. |  |
+| Sheepish | Hold your hand to the back of your head in embarrassment. | File:Sleepish Emote.gif |
+| Thinking | Hold your arm to your chin as you think. | File:Thinking Emote.gif |
 
 **Default Communication Gestures:**
 
@@ -39,9 +40,9 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | Challenge | Make a threatening gesture by cutting the throat. |  |
 | Friendly | Greeting others with a hand wave. |  |
 | Leave | Signal your hand backward to leave. |  |
-| Point | Point toward something of interest. |  |
+| Point | Point toward something of interest. | File:Point.gif |
 | Show Position | Wave both of your hands in the air and briefly highlights the player in a white outline. |  |
-| Team Up | Invite players by gesturing toward yourself. |  |
+| Team Up | Invite players by gesturing toward yourself. | File:Team Up.gif |
 
 **Emote Pack 1:**
 
@@ -72,6 +73,20 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | Headbang | Aggressively headbang. Could be obtained from the [Metallica Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>). |  |
 | Salute | Perform a military salute. Obtained from the [Authority Ensign](Authority_Ensign.md) origin. |  |
 | WC \[Year\] | Present a trophy cup. A celebratory emote for the winners of the official NA and EU Deepwoken World Cup hosted by Deep League. |  |
+
+**Old Animations:**
+
+| Emote Name | Description | Showcase |
+| --- | --- | --- |
+| Thinking | Hold your arm to your chin as you think. | File:Thinking Emote.gif |
+| Team Up | Invite players by gesturing toward yourself. | File:Team Up.gif |
+| Sheepish | Hold your hand to the back of your head in embarrassment. | File:Sleepish Emote.gif |
+| Point | Point toward something of interest. | File:Point.gif |
+| Lean Back | Lean back with your arms crossed. | File:Lean Back.gif |
+| Head Shake | Shake your head back and forth. | File:Head Shake Emote.gif |
+| Head Nod | Shake your head up and down. |  |
+| Challenge | Make a threatening gesture by cutting the throat. |  |
+| Resting | Take a rest on the ground. |  |
 
 ## Trivia
 

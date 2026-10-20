@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 230330
+revid: 231112
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
@@ -14,7 +14,7 @@ categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Un
 | damage type | Slash |
 | requirements | 60 MED, LVL 10, 40 HVY |
 | damage | 20 |
-| scaling | MED: 6.2, HVY: 4.2 |
+| scaling | MED: 6.5, HVY: 4.5 |
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.93x |

@@ -34,7 +34,7 @@ Subscribe
 
 ](https://www.youtube.com/@DeepwokenWiki)
 
-This wiki hosts **2,520 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
+This wiki hosts **2,522 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
 
 Navigation
 
@@ -124,6 +124,16 @@ Navigation
 
 Blog Posts
 
+KoniTterfly KoniTterfly • 10 days ago
+
+2
+
+## Someone add Simforea to the WORLD: LOCATIONS thing at the top of the screen
+
+Its what the title of the blog says, at the top of the screen, you can go to the WORLD section, and in the LOCATIONS section in the EASTERN LUMINANT there's no simforea, so someone add that cause I dunno how :33333
+
+Read Full Post
+
 YurinaRage YurinaRage • 11 August
 
 5
@@ -159,14 +169,6 @@ The Best Guy Here. The Best Guy Here. • 15 May
 ## The Guy have a new disciple.
 
 I met this chud named **Browhyme** at starswept and they had the daring to try and insult The Guy, so I made them my disciple.
-
-Read Full Post
-
-Adel34222 • 29 April
-
-5
-
-## hello
 
 Read Full Post
 

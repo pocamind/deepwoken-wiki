@@ -26,7 +26,6 @@ This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To ch
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), 30 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\] \[Posture Damage\] \[Slow\]
 
 -   **Brazen Blow** \[Bruiser • Common Talent\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary **[Hyperarmor](Status_Effects.md#hyperarmor)**.
     -   The hyperarmor lasts 1 second. 20 second cooldown.
@@ -35,7 +34,6 @@ This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To ch
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), [Impairing Blow](Talents.md#impairing-blow), 30 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Greataxe\]
 
 -   **Heavy Fatigue** \[Bruiser • Rare Talent\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Reduces opponents roll distance by 25% for 2.5s.
@@ -44,7 +42,6 @@ This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To ch
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), [Impairing Blow](Talents.md#impairing-blow), 40 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Debuff\] \[Greataxe\]
 
 -   **Rending Impact** \[Bruiser • Rare Talent\] - Greataxes Block breaking an enemy applies [knockdown](Status_Effects.md#knockdown).
     -   Only procs on guardbreaks from weapon attacks.
@@ -54,7 +51,6 @@ This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To ch
         
     -   Prerequisites: Use a [Greataxe](Greataxes.md), 40 Heavy Weapon  
         
-    -   Tags: \[Heavy Weapon\] \[Greataxe\] \[Guardbreak\]
 
 -   **Frost Buster** \[Ice Age • Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
     -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
@@ -66,7 +62,6 @@ This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To ch
         
     -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw  
         
-    -   Tags: \[Frostdraw\] \[Heavy Weapon\] \[Greataxe\] \[Greatsword\]
 
 ## Default Animations
 

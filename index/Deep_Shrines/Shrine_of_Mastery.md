@@ -1,9 +1,11 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 224720
+revid: 231135
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Mechanics]
+categories: [Cut Content, NPCs, Mechanics]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Deep Shrines/Shrine of Mastery
@@ -11,10 +13,6 @@ categories: [Pathfinder Exclusive, NPCs, Mechanics]
 | Shrine of Mastery | |
 |---|---|
 | location | Temple of Hearts, Widow's Hollow, Celtor Wastes |
-
-**[Pathfinder](../Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
 
 “ CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH. ”
 
@@ -137,4 +135,4 @@ If the player has not invested any Attribute or Trait points, this dialogue will
 
 ## Navigation
 
-Variants: [Shrine of Temptation](Shrine_of_Temptation.md) · [Shrine of Blasphemy](Shrine_of_Blasphemy.md) · [Shrine of Chance](Shrine_of_Chance.md) · [Shrine of Order](Shrine_of_Order.md) · [Shrine of Conceit](Shrine_of_Conceit.md) · [Shrine of Division](Shrine_of_Division.md) · [Shrine of Unification](Shrine_of_Unification.md)
+Variants: [Shrine of Temptation](Shrine_of_Temptation.md) · [Shrine of Blasphemy](Shrine_of_Blasphemy.md) · [Shrine of Chance](Shrine_of_Chance.md) · [Shrine of Order](Shrine_of_Order.md) · [Shrine of Division](Shrine_of_Division.md) · [Shrine of Ego](Shrine_of_Ego.md) · [Shrine of Unification](Shrine_of_Unification.md)

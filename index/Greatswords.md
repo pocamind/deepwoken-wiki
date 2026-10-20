@@ -18,14 +18,13 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-This information has been transcluded from [a different page](Talents.md). Visit the transcluded page to edit this info.  
+This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page.  
 
 -   **Destructive Recovery** \[Collossus • Rare Talent\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture)
     -   Not to be confused with [Devastating Recovery](Talents.md#devastating-recovery), the weapon Talent for the [Zweihander](Zweihander.md).  
         
     -   Prerequisites: 25 Strength, 40 Heavy Weapon, Use a [Greatsword](Greatswords.md)  
         
-    -   Tags: \[Strength\] \[Heavy Weapon\] \[+Posture\] \[Greatsword\]
 
 -   **Frost Buster** \[Ice Age • Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
     -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
@@ -37,7 +36,6 @@ This information has been transcluded from [a different page](Talents.md). Visit
         
     -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw  
         
-    -   Tags: \[Frostdraw\] \[Heavy Weapon\] \[Greataxe\] \[Greatsword\]
 
 ## Default Animations
 
@@ -164,15 +162,15 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   40 HVY<br>
   LVL 15</td>
   <td>20</td>
-  <td>MED: 6.2<br>
-  HVY: 4.2</td>
+  <td>MED: 6.5<br>
+  HVY: 4.5</td>
   <td>25%</td>
   <td>-</td>
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>0.1s</td>
-  <td>35.6</td>
+  <td>36.5</td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>

@@ -31,7 +31,6 @@ This section is transcluded from [Talents § Critical Specialist](Talents.md#cri
         
     -   Prerequisites: 50 Agility, 40 Light Weapon, [Dagger](Daggers.md) equipped  
         
-    -   Tags: \[Agility\] \[Light Weapon\] \[Critical Attack\] \[Dagger\]
 
 -   **Knife's Journey** \[Critical Specialist • Rare Talent\] - Daggers Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage.
     -   Displays a red particle on the target enemy after proccing.
@@ -41,7 +40,6 @@ This section is transcluded from [Talents § Critical Specialist](Talents.md#cri
             
     -   Prerequisites: 30 Light Weapon, [Dagger](Daggers.md) equipped  
         
-    -   Tags: \[Light Weapon\] \[Dagger\] \[Damage Buff\]
 
 -   **Decisive Blow** \[Critical Specialist • Common Talent\] - Hitting an enemy with your Critical Attack immediately after they dodge (or any time against mobs) now procs [Knife's Journey](Talents.md#knifes-journey). Your Knife's Journey procs do 2x Armor damage.
     -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect unless you have the [Switchblade](Talents.md#switchblade) Talent.
@@ -49,7 +47,6 @@ This section is transcluded from [Talents § Critical Specialist](Talents.md#cri
         
     -   Prerequisites: [Knife's Journey](Talents.md#knifes-journey)  
         
-    -   Tags: \[Light Weapon\] \[Critical Attack\] \[Dagger\]
 
 -   **Successive Throw** \[Critical Specialist • Common Talent\] - Daggers When you successfully flourish an enemy, you throw out a dagger afterwards.
     -   If your cursor isn't on an enemy after flourishing them, it will throw it at the enemy closest to your cursor. If your cursor is on a separate player from who you flourished, the dagger will be thrown at them instead.
@@ -59,7 +56,6 @@ This section is transcluded from [Talents § Critical Specialist](Talents.md#cri
         
     -   Prerequisites: 35 Light Weapon, [Dagger](Daggers.md) equipped  
         
-    -   Tags: \[Light Weapon\] \[Dagger\] \[Flourish\]
 
 -   _**Switchblade**_ \[Advanced Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - You can now utilize Dagger Talents when not wielding a dagger.
     -   Prerequisites: 50 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon
@@ -189,15 +185,15 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <div><br>
   <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
   <td>40 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>LHT: 5</td>
+  <td>5%</td>
   <td>-</td>
-  <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -231,15 +227,15 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <div><br>
   <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
   <td>50 LHT</td>
-  <td>15.5</td>
-  <td>LHT: 8</td>
+  <td>17</td>
+  <td>LHT: 5</td>
   <td>-</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
   <td>-</td>
-  <td>24.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -359,11 +355,11 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <div><br>
   <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
   <td>75 LHT</td>
-  <td>16.5</td>
+  <td>16</td>
   <td>LHT: 8</td>
-  <td>15%</td>
+  <td>10%</td>
   <td>-</td>
-  <td>4</td>
+  <td>3</td>
   <td>6</td>
   <td>1.2x</td>
   <td>-</td>
@@ -374,15 +370,15 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <div><br>
   <small><a href="#tanto">Tanto</a></small></div></td>
   <td>80 LHT</td>
-  <td>16</td>
-  <td>LHT: 8</td>
+  <td>17.5</td>
+  <td>LHT: 7</td>
   <td>5%</td>
   <td>-</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
   <td>-</td>
-  <td>25.6</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>

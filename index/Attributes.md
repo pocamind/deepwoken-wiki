@@ -23,7 +23,7 @@ The total attribute points that have been made available to you based on if your
 Attributes window
 
 -   Strength → _use the **[Dumbbell](Training_Gear.md#attribute-training-gears)**_
--   Fortitude → _take damage with the **[Training Vest](Training_Gear.md#attribute-training-gears)**_
+-   Fortitude → _take damage with the **[Training Vest](Training_Vest.md)**_
 -   Agility → use _the **[Ankle Weights](Training_Gear.md#attribute-training-gears)**_
 -   Intelligence → _use the **[Encyclopedia](Training_Gear.md#attribute-training-gears)**_
 -   Willpower → _use the **[Prayer Beads](Training_Gear.md#attribute-training-gears)**_

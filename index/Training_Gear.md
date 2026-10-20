@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 230634
+revid: 231128
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -20,7 +20,7 @@ Most of the attribute training gears are self explanatory, though some training 
 
 -   **Boulder** and **Math Textbook** grant experience to all stats within the Body and Mind categories respectively without setting investment intent, allowing you to spam them for experience without worrying about increasing a random attribute.
     -   The Boulder will **kill** the player if they are knocked **[Unconscious](Status_Effects.md#unconscious)** from it.
--   **Training Vest**, after equipping it, you will gain attribute experience upon being hit.
+-   **Training Vest**, after equipping it, you will gain attribute experience upon being hit, dodging, and moving around.
 -   **Ankle Weights** provide attribute experience when performing any parkour maneuver (dodging, climbing, etc) or sprinting when worn. Dodging attacks grants more attribute experience.
 -   **[How to Make Friends](How_to_Make_Friends.md)** can be trained by clicking the words around the screen _or_ by typing in the listed text manually.
 -   **[Weapon Manual](Weapon_Manual.md)**: Upon use, the manual will display [attack telegraph glyphs](Combat_Mechanics.md#telegraphed-attacks) that shrink in size, with text that tells you what action to take. When the circle reaches its smallest size, perform the listed action to complete the glyph. Failure will result in you being very briefly hitstunned. After a glyph is completed or failed, the next glyph will appear. Once all glyphs have gone through, you will gain experience in response to your overall performance. You can switch which weapon attribute you are training, depending on the type of the weapon that you are using.
@@ -58,7 +58,7 @@ _Train your Body by hefting a boulder above you._ | **N/A** | **Body**
 
   
 _Train your Strength by pumping iron._ | **Strength** | _200 uses_ |
-| **Training Vest**  
+| **[Training Vest](Training_Vest.md)**  
 
   
 _Train your Fortitude by taking a beating._ | **Fortitude** | _200 uses_ |

@@ -1,6 +1,6 @@
 ---
 title: Smouldering Hallow
-revid: 221744
+revid: 231117
 source: https://deepwoken.fandom.com/wiki/Smouldering_Hallow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Event Item, Hallowtide, Heavy Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 | type | Greatcannon |
 | damage type | Blunt |
 | requirements | 75 HVY, 30 STR |
-| damage | 27 |
+| damage | 25.5 |
 | scaling | HVY: 8.6 |
 | posture damage | 9 |
 | range | 7.5 Sweep |

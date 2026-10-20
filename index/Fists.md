@@ -93,7 +93,6 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
         
     -   Prerequisites: Any [Fist Style](Fists.md#styles)  
         
-    -   Tags: \[Bleed\] \[Debuff\] \[Fist\]
 
 -   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies **[Sluggish](Status_Effects.md#sluggish)**. (+1 Passive Agility)
     -   8 second cooldown.
@@ -114,7 +113,6 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
         
     -   Prerequisites: [Moving Fortress](Talents.md#moving-fortress), 30 Strength, 20 Fortitude, [Shield](Shields.md) Equipped, any [Fist Style](Fists.md#styles) Talent  
         
-    -   Tags: \[Strength\] \[Fortitude\] \[Fist\] \[Mobility\] \[Shield\]
 
 -   **Fists of Fortitude** \[Navaen Nomad • Rare Talent\] - Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.
     -   On proc, gain a yellow bubble around your character for 10s, with a 70s CD once the buff ends.
@@ -126,7 +124,6 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
     -   Mutual Exclusives: [Orbital Ice](Talents.md#orbital-ice)
         -   The mutual exclusive can be bypassed by gaining Orbital Ice from the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit.  
             
-    -   Tags: \[Fortitude\] \[Light Weapon\] \[Damage Resistance\] \[Fist\] \[M1 Tag\]
 
 -   **Way of Navae** \[Navaen Nomad • Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) **fist style**.
@@ -134,14 +131,12 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
         
     -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to [Beiruul](Beiruul.md), [Cheral](Cheral.md), or the [Eastern Nomad Leader](Eastern_Nomad_Leader.md)  
         
-    -   Tags: \[[Fist Style](Fists.md#styles)\] \[Fist\]
 
 -   **Imperium Kata** \[Gale Kata • Quest Talent\] - Wield an advanced form of [the Legion](The_Hundred_Legions.md)'s martial arts. (+1 Passive Agility)
     -   Allows you to use [Imperium Kata](Imperium_Kata.md), a **fist style**. See [Imperium Kata](Imperium_Kata.md).  
         
     -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)  
         
-    -   Tags: \[+Passive Agility\] \[Fist\] \[Fist Style\]
 
 -   **Legion Kata** \[Gale Kata • Quest Talent\] - Gain the ability to use [the Legion](The_Hundred_Legions.md)'s martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a **fist style**. See [Legion Kata](Legion_Kata.md).  
@@ -149,14 +144,12 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
     -   Prerequisites: Talk with [Amara](Amara.md) while having [Captain's Rec](<Captain's_Rec.md>) in your inventory.
         -   _Note: clicking while holding the Captain's Rec deletes it from your inventory, but you can still obtain Legion Kata._  
             
-    -   Tags: \[Fist\] \[Fist Style\]
 
 -   **Fang and Coil** \[Fang and Coil • Quest Talent\] - Adopt the path of the serpent.
     -   Allows you to use the [Fang and Coil](Fang_and_Coil.md) **fist style**. See [Fang and Coil](Fang_and_Coil.md).  
         
     -   Prerequisites: 20 Light Weapon, Friend [Etris](Etris.md) Reputation, defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and speak to [Vesque](Vesque.md).  
         
-    -   Tags: \[Light Weapon\] \[Fist\] \[Fist Style\]
 
 ### Jus Karita Exclusive Talents
 
@@ -165,14 +158,12 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
         
     -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md) OR [Justicar](<Justicar_(Origin).md>) Origin OR chosen in [Character Creation](Character_Creation.md)  
         
-    -   Tags: \[Light Weapon\] \[Fist\] \[[Fist Style](Fists.md#styles)\]
 
 -   **Justicar's Prowess** \[Justicar • Common Talent\] - [Jus Karita](Jus_Karita.md) gains +30% posture damage against other [fist styles](Fists.md#styles).
     -   Gain +30% posture damage on weapon attacks against opponents using [Way of Navae](Way_of_Navae.md), [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Untrained Fist](Untrained_Fist.md), or [Legion Kata](Legion_Kata.md).  
         
     -   Prerequisites: [Jus Karita](Talents.md#jus-karita)  
         
-    -   Tags: \[Fist\] \[Posture Damage Buff\]
 
 -   **Justicar's Renewal** \[Justicar • Common Talent\] - Hitting an opponent with your [Jus Karita](Jus_Karita.md) critical resets the cooldown.
     -   Whenever you land the critical of Jus Karita, you can immediately use it again with no delay.
@@ -182,20 +173,17 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
         
     -   Prerequisites: [Jus Karita](Talents.md#jus-karita)  
         
-    -   Tags: \[Critical Attack\] \[Fist\]
 
 -   **Swiftkick Prodigy** \[Justicar • Common Talent\] - Hitting successive Basic Attacks with [Jus Karita](Jus_Karita.md) will give a temporary speed boost.
     -   Hitting your opponent with the M1s 3 times will grant you a speed boost.  
         
     -   Prerequisites: [Jus Karita](Talents.md#jus-karita)  
         
-    -   Tags: \[Fist\] \[Speed Boost\]
 
 -   **Flying Swiftkick** \[Justicar • Common Talent\] - Hitting a [Jus Karita](Jus_Karita.md) critical attack while [Swiftkick Prodigy](Talents.md#swiftkick-prodigy) is active will greatly slow your enemy, and consume your speed boost.
     
     -   Prerequisites: [Jus Karita](Talents.md#jus-karita), [Swiftkick Prodigy](Talents.md#swiftkick-prodigy)  
         
-    -   Tags: \[Critical Attack\] \[Debuff\] \[Fist\] \[Slow\]
 
 ### Equipment Fist Talents
 
@@ -206,14 +194,12 @@ Talents that are obtained from [Equipment](Equipment.md), [Outfits](Outfits.md),
 -   **Centurion's Resolve**: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.  
         
-    -   Tags: \[Miscellaneous • Common Talent\] \[Outfit\] \[Damage Buff\] \[Fist\]
 
 -   **Chief's Will**: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks have 10% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) style M1s and criticals with the M1 tag 10% more PEN.
     -   This also affects fist weapons with Unique light attack animations.
     -   Does not bypass the PEN cap.  
         
-    -   Tags: \[Navaen War Chief • Common Talent\] \[Outfit\] \[Fist\] \[PEN\]
 
 -   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
     -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
