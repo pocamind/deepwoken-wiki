@@ -1,9 +1,9 @@
 ---
 title: Emotes
-revid: 231199
+revid: 231221
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Emotes
@@ -25,24 +25,24 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | Groove | Dance rhythmically while moving your arms and body.[\[1\]](#cite-note-1) |  |
 | Confidence | Cross your arms in pure confidence. |  |
 | Head Nod | Shake your head up and down. |  |
-| Head Shake | Shake your head back and forth. | File:Head Shake Emote.gif |
-| Lean Back | Lean back with your arms crossed. | File:Lean Back.gif |
+| Head Shake | Shake your head back and forth. |  |
+| Lean Back | Lean back with your arms crossed. |  |
 | Pride | Stand proudly. If you have your weapon equipped, you hold the weapon into the ground. |  |
 | Resting | Take a rest on the ground. |  |
-| Sheepish | Hold your hand to the back of your head in embarrassment. | File:Sleepish Emote.gif |
-| Thinking | Hold your arm to your chin as you think. | File:Thinking Emote.gif |
+| Sheepish | Hold your hand to the back of your head in embarrassment. |  |
+| Thinking | Hold your arm to your chin as you think. |  |
 
 **Default Communication Gestures:**
 
 | Emote Name | Description | Showcase |
 | --- | --- | --- |
 | Apologize | Hold your arms in the air and drop your weapon on the ground. Removes all combat tags on other players. |  |
-| Challenge | Make a threatening gesture by cutting the throat. |  |
+| Challenge | Make a threatening gesture by shooting a finger gun twice. |  |
 | Friendly | Greeting others with a hand wave. |  |
 | Leave | Signal your hand backward to leave. |  |
-| Point | Point toward something of interest. | File:Point.gif |
+| Point | Point toward something of interest. |  |
 | Show Position | Wave both of your hands in the air and briefly highlights the player in a white outline. |  |
-| Team Up | Invite players by gesturing toward yourself. | File:Team Up.gif |
+| Team Up | Invite players by gesturing toward yourself. |  |
 
 **Emote Pack 1:**
 
@@ -78,15 +78,15 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 
 | Emote Name | Description | Showcase |
 | --- | --- | --- |
-| Thinking | Hold your arm to your chin as you think. | File:Thinking Emote.gif |
-| Team Up | Invite players by gesturing toward yourself. | File:Team Up.gif |
-| Sheepish | Hold your hand to the back of your head in embarrassment. | File:Sleepish Emote.gif |
-| Point | Point toward something of interest. | File:Point.gif |
-| Lean Back | Lean back with your arms crossed. | File:Lean Back.gif |
-| Head Shake | Shake your head back and forth. | File:Head Shake Emote.gif |
-| Head Nod | Shake your head up and down. |  |
 | Challenge | Make a threatening gesture by cutting the throat. |  |
+| Head Nod | Shake your head up and down. |  |
+| Head Shake | Shake your head back and forth. |  |
+| Lean Back | Lean back with your arms crossed. |  |
+| Point | Point toward something of interest. |  |
 | Resting | Take a rest on the ground. |  |
+| Sheepish | Hold your hand to the back of your head in embarrassment. |  |
+| Team Up | Invite players by gesturing toward yourself. |  |
+| Thinking | Hold your arm to your chin as you think. |  |
 
 ## Trivia
 
