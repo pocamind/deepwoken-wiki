@@ -1,6 +1,6 @@
 ---
 title: Union Hooks
-revid: 208588
+revid: 231247
 source: https://deepwoken.fandom.com/wiki/Union_Hooks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,10 +22,13 @@ They appear as small cranes with large hooks attached to the beam.
 
 A Union Hook has two spots of usage, being the top and bottom of the crane. They can be used by pressing E while standing near one to ascend/descend.
 
+Union Hooks will have their speed massively reduced going up or down if the player has an active [Combat Tag](Combat_Tag.md).
+
 ## Locations
 
 -   [Second Layer](Second_Layer/The_Ethironal_Shrine.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Saramaed Summit](Saramaed_Summit.md)
+-   [The Starswept Valley](The_Starswept_Valley.md)
 -   [Starfield Grove](Starfield_Grove.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md) (behind [Derelict Highchurch](Derelict_Highchurch.md))

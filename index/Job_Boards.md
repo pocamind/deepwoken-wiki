@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 224318
+revid: 231249
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests, Mechanics]
@@ -176,7 +176,8 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Divers
     -   Rewards: A chest of the **TBA** [loot pool](Loot_Tables.md), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 -   (From: [Diversiconfaction](The_Divers.md) ) **Thresher Extermination** : _"A pack of Threshers has been hampering exploration and may become a larger threat if not dealt with."_
-    -   Tasks the player with slaying two [Threshers](Thresher.md).
+    -   Tasks the player with slaying one [Thresher](Thresher.md) if below Power 5.
+    -   Tasks the player with slaying two [Threshers](Thresher.md) if Power 5 and above.
     -   Rewards: A chest of the [Scyphozia](First_Layer.md) [loot pool](Loot_Tables.md#scyphozia), positive [reputation](Reputation.md) from the [faction](Factions_&_Groups.md) who assigned the job, and 50.
 
 -   **Thresher Regicide**
@@ -301,3 +302,4 @@ _Jobs relating to Songseeker Wilds can be given by [Etrean Royalists](Etrean_Roy
 
 -   Attempting to start another job while assigned to too many in one area already will prompt the text "I might have a few too many jobs in \[Area\] to take care of right now..."
 -   Completing a job as an [Ignition Delver](Ignition_Delver.md) plays the [Union Pager](Ignition_Delver.md) jingle, even if the job was initially taken from a job board, and not the Pager.
+-   The job "Nautilodaunt Extermination" was previously able to spawn in a [Fury Nautilodaunt](Fury_Nautilodaunt.md) in place of its regular variant.

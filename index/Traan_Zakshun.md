@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 231033
+revid: 231259
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -356,6 +356,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Market's been doing so well I can flaunt my money on my hat! I have more money than you!_
 -   _Maybe clean this when you get a minute._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
+-   _Met this abstract artist from the Hive recently. Terrible conversationalist... never goes into detail._
 -   _Might need to steal me a sweater, gettin 'a little chilly up here._
 -   _Next time, if you come wearing a full clown outfit, I might give you a discount... Pff!_
 -   _Never again will I make the mistake of using one of these._

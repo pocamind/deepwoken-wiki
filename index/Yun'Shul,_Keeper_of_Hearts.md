@@ -1,6 +1,6 @@
 ---
 title: "Yun'Shul, Keeper of Hearts"
-revid: 230719
+revid: 231243
 source: https://deepwoken.fandom.com/wiki/Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -25,5 +25,5 @@ Notably, [the avatar](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) that appears be
 ## Trivia
 
 -   While often attributed to them by the community, Yun'Shul is not the cause of [Insanity](Insanity.md), rather it's the First Layer's status of an Eldritch Location that does not obey the laws of physics. This is why the Second Layer does not cause insanity, as, despite its variety of Monsters, it's more grounded in reality.
--   The [Enchantment](Enchantments.md) Curse of Yun'Shul is named after them.
+-   The [Enchantment](Enchantments.md) [Curse of Yun'Shul](<Curse_of_Yun'Shul.md>) is named after them.
 -   If attempting to reach [Fragments of Self](Fragments_of_Self.md) without proper means a text box from Yun'Shul, Keeper of Hearts is to appear saying, "INCONCEIVABLE."
