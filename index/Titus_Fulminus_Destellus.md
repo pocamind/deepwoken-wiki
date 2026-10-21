@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 230671
+revid: 231280
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Humanoid Bosses, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -114,6 +114,7 @@ Jump
  | Titus winds up with both arms, grabbing the opponent before smacking them into the ground.
 
 -   This move is very similar to Worldpiercing Deluge, in which it shares the same animation.
+-   Will ragdoll others nearby when the opponent gets smacked down.
 
 _Uses Telegraph_
 
@@ -125,6 +126,7 @@ Parry
 -   ⛉ Unblockable
 -   ↻ Undodgeable
 -   𓂘 Grab
+-   ⤻ Ragdoll
 
  | 
 
@@ -226,6 +228,7 @@ Dodge
 -   This move may be used twice or more.
 -   When amplified by Commander's Rage or in second phase, Titus will use Skycrash again if he does not hit anyone initially
 -   This move will briefly stun him if he bashes into a surface.
+-   You are meant to dodge and jump this move with it having two telegraphs.
 
 _Uses Telegraph_
 
@@ -339,6 +342,7 @@ Avoid
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   ↻ Undodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -367,13 +371,12 @@ Avoid
 
 ## Tips and Strategies
 
--   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before even having a chance to deal enough damage to receive a health pack. They also do not respawn, so this is a one-time opportunity.
+-   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before even having a chance to deal enough damage to receive a health pack. They also do not respawn, so this is a one-time opportunity. Dustlunge is best used to take down most guards instantly preventing from Titus killing them.
 -   **Second Phase Transition Healing**: During the brief dialogue sequence as Titus transitions into his second phase, there is a small window that can be used to place a campfire down and recover health.
 -   **Vampirism Enchantment**: An enchanted weapon with **Vampirism** is highly effective in this fight. This is because it grants temporary health rather than an outright heal, which allows the effects of **Blightsurge Wither** to be bypassed.
 -   **Evading Chorus Divide**: Titus' **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
--   **Second Phase M1 Attack**: It is important to note that his standard Imperium kata swings are marked unparryable.
 -   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use mantras for ranged damage when necessary.
--   **Prediction**: If you land a [Prediction](Attunement-less.md#prediction) on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximately 15000 damage which helps out plenty when fighting him. **This strategy requires a good understanding of Titus' abilities and timings. Miss the timing and you will pay a hefty price.**
+-   **Prediction**: If you land [Prediction](Attunement-less.md#prediction) using the successive prediction talent on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximately 15000 damage which helps out plenty when fighting him. **This requires you to time it perfectly; Miss the timing and you will pay a hefty price.**
 
 ## Rewards
 
@@ -697,8 +700,7 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.[\[3\]](#cite-note-sres-3)
 -   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md). This is because you cannot kill titus via normal means.
 -   Titus second phase can be bypassed when the player uses [Poser's Ring](<Poser's_Ring.md>) (if quick enough) or the [Moppet](Moppet.md) weapon. When this happens, a loot chest will drop and Titus' health will fall to zero. He will then enter his second phase animation and his health will return, but he will stay completely docile and will not attack the player. Killing him again will not give any extra loot.
--   The windup for Warp kick matches the windup of the critical for the [Imperium Kata](Imperium_Kata.md)
--   Titus does not lack a critical atta ck as his Warp kick is a mantra and his critical attack, as it activates the fallinstar from astral if used on it.[d](Astral.md).
+-   The windup for Warp kick matches the windup of the critical for the [Imperium Kata](Imperium_Kata.md).
 
 ## References
 

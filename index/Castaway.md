@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 229802
+revid: 231283
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Origins]
@@ -49,7 +49,7 @@ Castaways spawn with the [Stranded](Stranded.md) Outfit equipped. The player is 
 
 ### Cons
 
--   The starter outfit is [Stranded](Stranded.md), a no-resistance outfit that permanently has no armor durability.
+-   The starter outfit is [Stranded](Stranded.md), a no-resistance outfit that has 250 armor durability.
 -   Castaway has no positive EXP modifiers nor preferred progression method, unlike other Origins. Other Origins may allow you to progress at a much faster rate than Castaway due to this.
 
 ## Reputation

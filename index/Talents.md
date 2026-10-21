@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231268
+revid: 231282
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4180,7 +4180,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[[Oathless](Oath%253A_Oathless.md)\] \[+Health\] \[+PEN\] \[+Mantra Slots\] \[+Oath Armor\] \[+Monster Armor\]
 
-## Temporary
+### Omniscient
 
 -   **All Knowing** \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
     
@@ -5086,12 +5086,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 50 Intelligence
     -   The [Veteran Adventurer](Veteran_Adventurer.md) Outfit has this Talent.
 
--   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be **[Dazed](Status_Effects.md#daze)**.
-    -   Applies daze for 1 second.
+-   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be **[Dazed](Status_Effects.md#daze)** for 3 seconds.
     -   Prerequisite: 20 Intelligence
 
--   _Punishing Blow_ \[Rare Talent, Heavy Weapon\] - Heavy Weapons Daze opponents for 1s and **[Stagger](Status_Effects.md#stagger)** PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.
-    -   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
+-   _Punishing Blow_ \[Rare Talent, Heavy Weapon\] - Heavy Weapons Daze opponents for 3s and **[Stagger](Status_Effects.md#stagger)** PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.
+    -   If you M1 your opponent during their M1 animation, they will be dazed for 3 seconds.
     -   Also procs if you land a critical with the M1 tag during their M1 animation.
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   Prerequisite: 20 Heavy Weapon
@@ -5487,7 +5486,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Surge stacks are a global status effect, meaning anyone with Surge path can utilize them, with the effects changing based on who caused the Overload.
     -   Prerequisite: 40 Thundercall
 
--   Battery Sapper \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
+-   Battery Sapper \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras.
+    -   10s cooldown.
     -   This Talent is currently bugged and does nothing.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall, 25 Shadowcast
 
