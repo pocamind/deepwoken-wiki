@@ -1,11 +1,11 @@
 ---
 title: Destroyman Chain
-revid: 231287
+revid: 231293
 source: https://deepwoken.fandom.com/wiki/Destroyman_Chain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Equipment, Torso, Necklaces]
+categories: [Cut Content, Equipment, Torso, Necklaces]
 notices:
-  - "This page contains Event Exclusive Content This item was exclusively given out to the winners of the \"Great War\" event hosted by Deep League and is no longer available."
+  - "This page contains Cut Content This item was exclusively given out to the winners of the \"Great War\" event hosted by Deep League and is no longer available. The item was completely removed from the game and it's unknown whether it will ever return."
 ---
 
 # Destroyman Chain

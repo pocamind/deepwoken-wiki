@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 230483
+revid: 231295
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -604,6 +604,7 @@ Charisma
 -   **[Sea Highways](Sea_Highway.md) -** Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
 -   **[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
 -   **[Repair Hammer](Repair_Hammer.md) -** Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
+-   **[Destroyman Chain](Destroyman_Chain.md) -** Removed on the [April 20th, 2026](Version_History/2026.md#april-20th-2026) update, Destroyman Chain's was completely removed from the game due to one of original owners duping it and redistributing and trading the item away, whether this item will eventually return or not is currently unknown.
 
 ## Mystic
 
