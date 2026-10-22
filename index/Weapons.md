@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 226092
+revid: 231328
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -54,9 +54,10 @@ All weapons within the game have the chance of being found with or without diffe
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -70,6 +71,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
@@ -83,6 +85,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>14.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
@@ -98,6 +101,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
@@ -111,6 +115,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>19.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
@@ -126,6 +131,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.3x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
@@ -139,6 +145,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>21</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
@@ -152,6 +159,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
@@ -167,6 +175,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>21.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -180,6 +189,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
@@ -194,6 +204,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -209,6 +220,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.14x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -224,6 +236,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
@@ -237,6 +250,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -255,6 +269,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
@@ -270,6 +285,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -283,6 +299,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Spectral_Grasp.md">Spectral Grasp</a></b></td>
@@ -296,6 +313,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
@@ -309,6 +327,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
@@ -322,6 +341,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
@@ -337,6 +357,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -352,6 +373,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.15x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -365,6 +387,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cerulean_Thread.md">Cerulean Thread</a></b></td>
@@ -379,6 +402,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -393,6 +417,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -406,6 +431,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Golden_Fool.md">The Golden Fool</a><abbr></abbr></b></td>
@@ -419,12 +445,13 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.24x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Fists.md">Fists</a></td>
+  <td colspan="12"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -438,6 +465,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
@@ -451,6 +479,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.14x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
@@ -464,6 +493,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
@@ -477,6 +507,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
@@ -490,6 +521,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3 (9.2)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
@@ -503,9 +535,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><b>Cestus</b></td>
+  <td colspan="12"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -519,6 +552,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.6x</td>
   <td>-</td>
   <td>1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
@@ -532,6 +566,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>21.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
@@ -546,6 +581,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.14x</td>
   <td>-</td>
   <td>22.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
@@ -559,6 +595,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
@@ -574,6 +611,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>25.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -589,6 +627,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -604,6 +643,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -621,6 +661,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
@@ -634,6 +675,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.12x</td>
   <td>-</td>
   <td>24.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
@@ -647,6 +689,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
@@ -662,6 +705,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -677,6 +721,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -691,6 +736,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
@@ -705,6 +751,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>25.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
@@ -721,6 +768,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
@@ -735,6 +783,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
@@ -750,6 +799,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>26</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
@@ -764,6 +814,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
@@ -777,9 +828,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -793,6 +845,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Apprentice_Rapier.md">Apprentice Rapier</a></b></td>
@@ -806,6 +859,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>19.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></b></td>
@@ -820,6 +874,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -835,6 +890,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -850,6 +906,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crucible_Rapier.md">Crucible Rapier</a></b></td>
@@ -863,6 +920,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Golden_Swordfish.md">Golden Swordfish</a></b></td>
@@ -876,6 +934,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Needle's_Eye.md">Needle's Eye</a></b></td>
@@ -889,6 +948,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.05x</td>
   <td>-</td>
   <td>27</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skull_Piercer.md">Skull Piercer</a><br>
@@ -904,6 +964,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstreza.md">Kyrstreza</a></b></td>
@@ -917,6 +978,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.09x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icepick.md">Icepick</a><abbr></abbr></b></td>
@@ -930,9 +992,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -946,6 +1009,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -959,6 +1023,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -974,6 +1039,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -989,6 +1055,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -1002,6 +1069,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -1015,6 +1083,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -1028,6 +1097,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -1043,6 +1113,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -1056,6 +1127,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -1069,9 +1141,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Swords.md">Swords</a></td>
+  <td colspan="12"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -1085,6 +1158,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dormant_Splinter.md">Dormant Splinter</a></b></td>
@@ -1098,6 +1172,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>7.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
@@ -1113,6 +1188,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
@@ -1128,6 +1204,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scimitar.md">Scimitar</a></b></td>
@@ -1141,6 +1218,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.09x</td>
   <td>-</td>
   <td>18.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
@@ -1156,6 +1234,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper_Longsword.md">Worshipper Longsword</a></b></td>
@@ -1169,6 +1248,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
@@ -1184,6 +1264,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
@@ -1199,6 +1280,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Sword.md">Champion's Sword</a></b></td>
@@ -1212,6 +1294,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.02x</td>
   <td>-</td>
   <td>28.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
@@ -1228,6 +1311,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>28.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -1244,6 +1328,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -1262,6 +1347,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -1282,6 +1368,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
@@ -1297,6 +1384,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>30.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></b></td>
@@ -1311,6 +1399,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>25.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kindred_Edict.md">Kindred Edict</a></b></td>
@@ -1326,6 +1415,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.05x</td>
   <td>-</td>
   <td>29.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></b></td>
@@ -1339,6 +1429,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29.9</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Razor_Cutlass.md">Razor Cutlass</a><br>
@@ -1354,6 +1445,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -1370,6 +1462,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>-</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -1383,6 +1476,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fondant_Splitter.md">Fondant Splitter</a></b></td>
@@ -1397,6 +1491,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Umbrite_Witherblade.md">Umbrite Witherblade</a><br>
@@ -1414,6 +1509,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serpent's_Edge.md">Serpent's Edge</a></b></td>
@@ -1427,6 +1523,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hallowscleave.md">Hallowscleave</a></b></td>
@@ -1440,6 +1537,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
@@ -1455,6 +1553,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
@@ -1470,6 +1569,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
@@ -1485,6 +1585,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
@@ -1500,6 +1601,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -1515,6 +1617,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
@@ -1530,6 +1633,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
@@ -1545,6 +1649,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsblade.md">Kyrsblade</a></b></td>
@@ -1558,6 +1663,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -1574,6 +1680,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eye_of_Malice.md"><font>Eye of Malice</font></a></b></td>
@@ -1587,6 +1694,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
@@ -1601,6 +1709,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -1617,6 +1726,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Purple_Cloud.md">Purple Cloud</a></b></td>
@@ -1631,6 +1741,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shattered_Katana.md">Shattered Katana</a></b></td>
@@ -1645,6 +1756,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.00x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nocturne.md">Nocturne</a></b></td>
@@ -1659,6 +1771,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
@@ -1672,6 +1785,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -1686,6 +1800,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -1700,6 +1815,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -1714,6 +1830,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -1728,6 +1845,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -1742,6 +1860,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -1755,6 +1874,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -1768,6 +1888,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -1781,9 +1902,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -1797,6 +1919,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Toothed_Club.md">Toothed Club</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -1811,6 +1934,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -1826,6 +1950,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -1846,6 +1971,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Morning_Star.md">Morning Star</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -1860,6 +1986,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sacred_Hammer.md">Sacred Hammer</a></b></td>
@@ -1873,6 +2000,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Pastry_Paster.md">The Pastry Paster</a></b></td>
@@ -1888,6 +2016,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pernach.md">Pernach</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -1902,6 +2031,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Star.md">Night Star</a><abbr></abbr> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -1916,9 +2046,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Spears.md">Spears</a></td>
+  <td colspan="12"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -1932,6 +2063,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Spear.md">Iron Spear</a></b></td>
@@ -1945,6 +2077,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Gremorian Longspear</a></b><br>
@@ -1959,6 +2092,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
@@ -1974,6 +2108,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
@@ -1989,6 +2124,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2003,6 +2139,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2024,6 +2161,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2043,6 +2181,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
@@ -2058,6 +2197,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2074,6 +2214,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -2089,6 +2230,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serrated_Warspear.md">Serrated Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2103,6 +2245,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2117,6 +2260,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
@@ -2132,6 +2276,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -2146,6 +2291,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="True_Seraph_Spear.md">True Seraph Spear</a></b></td>
@@ -2159,6 +2305,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.96x</td>
   <td>-</td>
   <td>28.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -2174,6 +2321,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a></b></td>
@@ -2191,6 +2339,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
@@ -2206,6 +2355,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.92x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2220,6 +2370,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -2233,9 +2384,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Staves.md">Staves</a></td>
+  <td colspan="12"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -2249,6 +2401,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.01x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -2263,6 +2416,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>27.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -2278,6 +2432,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.91x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>
@@ -2292,9 +2447,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.92x</td>
   <td>-</td>
   <td>31.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Rifles</td>
+  <td colspan="12">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -2308,6 +2464,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
@@ -2321,6 +2478,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
@@ -2336,6 +2494,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -2351,6 +2510,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -2365,6 +2525,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
@@ -2378,6 +2539,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
@@ -2391,6 +2553,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -2408,9 +2571,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -2424,6 +2588,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>19.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
@@ -2439,6 +2604,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
@@ -2454,6 +2620,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></b></td>
@@ -2467,6 +2634,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.94x</td>
   <td>-</td>
   <td>29.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Death's_Reverie.md">Death's Reverie</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2481,6 +2649,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescendo.md">Crescendo</a></b></td>
@@ -2494,6 +2663,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.92x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
@@ -2507,9 +2677,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Bows</td>
+  <td colspan="12">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -2523,6 +2694,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hunting_Bow.md">Hunting Bow</a></b></td>
@@ -2536,6 +2708,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -2551,6 +2724,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Guiding_Star.md"><font>Guiding Star</font></a></b></td>
@@ -2566,9 +2740,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -2582,6 +2757,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
@@ -2598,6 +2774,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
@@ -2614,6 +2791,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
@@ -2629,6 +2807,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>-</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -2645,6 +2824,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Birch.md">Iron Birch</a></b></td>
@@ -2658,6 +2838,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>37.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Evanspear_Greataxe.md">Evanspear Greataxe</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -2672,6 +2853,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></b></td>
@@ -2685,6 +2867,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Relic_Axe.md">Relic Axe</a></b></td>
@@ -2698,6 +2881,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></b></td>
@@ -2711,6 +2895,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.94x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skyreap_Blade.md">Skyreap Blade</a></b></td>
@@ -2724,6 +2909,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.91x</td>
   <td>0.1s</td>
   <td>35.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Axe.md">Enforcer's Axe</a></b></td>
@@ -2737,6 +2923,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.76x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
@@ -2752,6 +2939,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
@@ -2767,6 +2955,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
@@ -2783,6 +2972,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.87x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskguard_Axe.md">Duskguard Axe</a></b></td>
@@ -2798,6 +2988,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Axe.md">Night Axe</a></b></td>
@@ -2811,6 +3002,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.77x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Briar.md">Pale Briar</a></b></td>
@@ -2825,6 +3017,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.81x</td>
   <td>0.15s</td>
   <td>35.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></b></td>
@@ -2840,6 +3033,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.7x</td>
   <td>0.15s</td>
   <td>49.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -2853,6 +3047,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Par's_Glaive.md">Par's Glaive</a><abbr></abbr></b></td>
@@ -2866,9 +3061,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>-</td>
   <td>32.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -2882,6 +3078,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>31.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
@@ -2899,6 +3096,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -2916,6 +3114,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
@@ -2933,6 +3132,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
@@ -2949,6 +3149,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>39.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></b></td>
@@ -2963,6 +3164,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.84x</td>
   <td>0.1s</td>
   <td>38.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -2979,6 +3181,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>0.1s</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -2995,6 +3198,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -3012,6 +3216,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsieger.md"><font>Kyrsieger</font></a></b></td>
@@ -3027,6 +3232,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -3044,6 +3250,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
@@ -3061,6 +3268,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -3077,6 +3285,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -3093,6 +3302,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wretched_Mawblades.md">Wretched Mawblades</a></b></td>
@@ -3106,6 +3316,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -3119,6 +3330,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.82x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
@@ -3136,6 +3348,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -3153,6 +3366,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
@@ -3169,6 +3383,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
@@ -3185,6 +3400,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrscleave.md">Kyrscleave</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -3199,6 +3415,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Railblade.md">Railblade</a></b></td>
@@ -3213,6 +3430,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.88x</td>
   <td>0.1s</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Fractine.md"><font>Fractine</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b>(BRKN)</td>
@@ -3232,6 +3450,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Blade.md">Enforcer's Blade</a></b></td>
@@ -3246,6 +3465,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.79x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Lumensplitter.md"><font>Lumensplitter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -3261,10 +3481,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -3274,6 +3495,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -3287,6 +3509,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -3300,6 +3523,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.88x</td>
   <td>-</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Cleaver.md">Darksteel Cleaver</a><abbr></abbr></b></td>
@@ -3314,9 +3538,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.75x</td>
   <td>0.3s</td>
   <td>45.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -3334,6 +3559,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
@@ -3350,6 +3576,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rockmaller.md">Rockmaller</a></b></td>
@@ -3364,6 +3591,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.82x</td>
   <td>0.1s</td>
   <td>39.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -3380,6 +3608,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
@@ -3397,6 +3626,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>47.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Great_Maul.md">Great Maul</a></b></td>
@@ -3411,6 +3641,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Putrid_Edenstaff.md">Putrid Edenstaff</a></b></td>
@@ -3424,6 +3655,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
@@ -3441,6 +3673,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
@@ -3457,6 +3690,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Morning.md">Pale Morning</a></b></td>
@@ -3472,6 +3706,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -3487,6 +3722,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -3502,6 +3738,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.73x</td>
   <td>0.15s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -3517,6 +3754,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -3530,6 +3768,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.82x</td>
   <td>0.1s</td>
   <td>42.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
@@ -3544,6 +3783,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -3558,6 +3798,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kanabo.md">Kanabo</a></b></td>
@@ -3573,6 +3814,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></b></td>
@@ -3587,6 +3829,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.62x</td>
   <td>0.15s</td>
   <td>49</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Saint_Jay's_Hammer.md">Saint Jay's Hammer</a><abbr></abbr></b></td>
@@ -3601,9 +3844,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>30.5</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -3618,6 +3862,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.81x</td>
   <td>0.1s</td>
   <td>39.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Barrel.md">The Barrel</a></b></td>
@@ -3632,6 +3877,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.82x</td>
   <td>0.1s</td>
   <td>41.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
@@ -3646,6 +3892,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.81x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -3660,9 +3907,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -3677,6 +3925,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -3694,6 +3943,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -3709,6 +3959,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen Hellflame</font></a></b></td>
@@ -3724,6 +3975,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -3737,6 +3989,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -3754,9 +4007,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -3771,6 +4025,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -3787,6 +4042,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -3803,6 +4059,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -3819,6 +4076,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -3836,6 +4094,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -3851,6 +4110,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -3865,6 +4125,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -3878,6 +4139,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -3895,9 +4157,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -3912,6 +4175,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -3927,6 +4191,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -3943,6 +4208,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -3959,6 +4225,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -3972,9 +4239,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -3989,6 +4257,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -4004,6 +4273,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -4020,6 +4290,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -4038,6 +4309,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -4055,6 +4327,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -4070,6 +4343,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -4083,9 +4357,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -4100,6 +4375,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -4121,6 +4397,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -4140,6 +4417,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -4156,6 +4434,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -4174,6 +4453,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -4189,6 +4469,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -4204,6 +4485,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -4219,6 +4501,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -4232,9 +4515,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -4255,6 +4539,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -4270,10 +4555,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -4283,6 +4569,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -4296,9 +4583,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -4314,6 +4602,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.22x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -4332,6 +4621,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -4349,6 +4639,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -4364,6 +4655,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -4385,6 +4677,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -4405,9 +4698,10 @@ All weapons within the game have the chance of being found with or without diffe
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -4421,6 +4715,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1x</td>
   <td>-</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
@@ -4434,6 +4729,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>14.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
@@ -4449,6 +4745,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
@@ -4462,6 +4759,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>19.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
@@ -4477,6 +4775,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.3x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
@@ -4490,6 +4789,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>21</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
@@ -4503,6 +4803,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
@@ -4518,6 +4819,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>21.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -4531,6 +4833,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
@@ -4545,6 +4848,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -4560,6 +4864,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.14x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -4575,6 +4880,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
@@ -4588,6 +4894,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -4606,6 +4913,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
@@ -4621,6 +4929,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -4634,6 +4943,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Spectral_Grasp.md">Spectral Grasp</a></b></td>
@@ -4647,6 +4957,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
@@ -4660,6 +4971,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
@@ -4673,6 +4985,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
@@ -4688,6 +5001,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -4703,6 +5017,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.15x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -4716,6 +5031,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cerulean_Thread.md">Cerulean Thread</a></b></td>
@@ -4730,6 +5046,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -4744,6 +5061,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -4757,6 +5075,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Golden_Fool.md">The Golden Fool</a><abbr></abbr></b></td>
@@ -4770,12 +5089,13 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.24x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Fists.md">Fists</a></td>
+  <td colspan="12"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -4789,6 +5109,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
@@ -4802,6 +5123,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.14x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
@@ -4815,6 +5137,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
@@ -4828,6 +5151,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
@@ -4841,6 +5165,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3 (9.2)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
@@ -4854,9 +5179,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><b>Cestus</b></td>
+  <td colspan="12"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -4870,6 +5196,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.6x</td>
   <td>-</td>
   <td>1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
@@ -4883,6 +5210,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>21.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
@@ -4897,6 +5225,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.14x</td>
   <td>-</td>
   <td>22.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
@@ -4910,6 +5239,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
@@ -4925,6 +5255,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>25.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -4940,6 +5271,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -4955,6 +5287,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -4972,6 +5305,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
@@ -4985,6 +5319,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.12x</td>
   <td>-</td>
   <td>24.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
@@ -4998,6 +5333,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
@@ -5013,6 +5349,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -5028,6 +5365,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -5042,6 +5380,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
@@ -5056,6 +5395,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.11x</td>
   <td>-</td>
   <td>25.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
@@ -5072,6 +5412,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.13x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
@@ -5086,6 +5427,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
@@ -5101,6 +5443,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>26</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
@@ -5115,6 +5458,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
@@ -5128,9 +5472,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -5144,6 +5489,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Apprentice_Rapier.md">Apprentice Rapier</a></b></td>
@@ -5157,6 +5503,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>19.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></b></td>
@@ -5171,6 +5518,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.08x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -5186,6 +5534,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -5201,6 +5550,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crucible_Rapier.md">Crucible Rapier</a></b></td>
@@ -5214,6 +5564,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Golden_Swordfish.md">Golden Swordfish</a></b></td>
@@ -5227,6 +5578,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Needle's_Eye.md">Needle's Eye</a></b></td>
@@ -5240,6 +5592,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.05x</td>
   <td>-</td>
   <td>27</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skull_Piercer.md">Skull Piercer</a><br>
@@ -5255,6 +5608,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstreza.md">Kyrstreza</a></b></td>
@@ -5268,6 +5622,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.09x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icepick.md">Icepick</a><abbr></abbr></b></td>
@@ -5281,9 +5636,10 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.06x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -5297,6 +5653,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -5310,6 +5667,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -5325,6 +5683,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -5340,6 +5699,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -5353,6 +5713,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -5366,6 +5727,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -5379,6 +5741,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -5394,6 +5757,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -5407,6 +5771,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -5420,6 +5785,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -5440,6 +5806,7 @@ Daggers
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -5453,6 +5820,7 @@ Daggers
   <td>1x</td>
   <td>-</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
@@ -5466,6 +5834,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>14.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
@@ -5481,6 +5850,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
@@ -5494,6 +5864,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>19.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
@@ -5509,6 +5880,7 @@ Daggers
   <td>1.3x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
@@ -5522,6 +5894,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>21</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
@@ -5535,6 +5908,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
@@ -5550,6 +5924,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>21.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -5563,6 +5938,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
@@ -5577,6 +5953,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -5592,6 +5969,7 @@ Daggers
   <td>1.14x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -5607,6 +5985,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
@@ -5620,6 +5999,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -5638,6 +6018,7 @@ Daggers
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
@@ -5653,6 +6034,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -5666,6 +6048,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Spectral_Grasp.md">Spectral Grasp</a></b></td>
@@ -5679,6 +6062,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
@@ -5692,6 +6076,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
@@ -5705,6 +6090,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
@@ -5720,6 +6106,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -5735,6 +6122,7 @@ Daggers
   <td>1.15x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -5748,6 +6136,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cerulean_Thread.md">Cerulean Thread</a></b></td>
@@ -5762,6 +6151,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -5776,6 +6166,7 @@ Daggers
   <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -5789,6 +6180,7 @@ Daggers
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Golden_Fool.md">The Golden Fool</a><abbr></abbr></b></td>
@@ -5802,6 +6194,7 @@ Daggers
   <td>1.24x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -5822,9 +6215,10 @@ Cestus
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -5838,6 +6232,7 @@ Cestus
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
@@ -5851,6 +6246,7 @@ Cestus
   <td>1.14x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
@@ -5864,6 +6260,7 @@ Cestus
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
@@ -5877,6 +6274,7 @@ Cestus
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
@@ -5890,6 +6288,7 @@ Cestus
   <td>1.13x</td>
   <td>-</td>
   <td>18.3 (9.2)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
@@ -5903,9 +6302,10 @@ Cestus
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><b>Cestus</b></td>
+  <td colspan="12"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -5919,6 +6319,7 @@ Cestus
   <td>0.6x</td>
   <td>-</td>
   <td>1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
@@ -5932,6 +6333,7 @@ Cestus
   <td>1.11x</td>
   <td>-</td>
   <td>21.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
@@ -5946,6 +6348,7 @@ Cestus
   <td>1.14x</td>
   <td>-</td>
   <td>22.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
@@ -5959,6 +6362,7 @@ Cestus
   <td>1.11x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
@@ -5974,6 +6378,7 @@ Cestus
   <td>1.1x</td>
   <td>-</td>
   <td>25.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -5989,6 +6394,7 @@ Cestus
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -6004,6 +6410,7 @@ Cestus
   <td>1.11x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -6021,6 +6428,7 @@ Cestus
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
@@ -6034,6 +6442,7 @@ Cestus
   <td>1.12x</td>
   <td>-</td>
   <td>24.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
@@ -6047,6 +6456,7 @@ Cestus
   <td>1.11x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
@@ -6062,6 +6472,7 @@ Cestus
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -6077,6 +6488,7 @@ Cestus
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -6091,6 +6503,7 @@ Cestus
   <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
@@ -6105,6 +6518,7 @@ Cestus
   <td>1.11x</td>
   <td>-</td>
   <td>25.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
@@ -6121,6 +6535,7 @@ Cestus
   <td>1.13x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
@@ -6135,6 +6550,7 @@ Cestus
   <td>1.08x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
@@ -6150,6 +6566,7 @@ Cestus
   <td>1.1x</td>
   <td>-</td>
   <td>26</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
@@ -6164,6 +6581,7 @@ Cestus
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
@@ -6177,6 +6595,7 @@ Cestus
   <td>1.1x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -6197,6 +6616,7 @@ Rapiers
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -6210,6 +6630,7 @@ Rapiers
   <td>1.08x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Apprentice_Rapier.md">Apprentice Rapier</a></b></td>
@@ -6223,6 +6644,7 @@ Rapiers
   <td>1.06x</td>
   <td>-</td>
   <td>19.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></b></td>
@@ -6237,6 +6659,7 @@ Rapiers
   <td>1.08x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -6252,6 +6675,7 @@ Rapiers
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -6267,6 +6691,7 @@ Rapiers
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crucible_Rapier.md">Crucible Rapier</a></b></td>
@@ -6280,6 +6705,7 @@ Rapiers
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Golden_Swordfish.md">Golden Swordfish</a></b></td>
@@ -6293,6 +6719,7 @@ Rapiers
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Needle's_Eye.md">Needle's Eye</a></b></td>
@@ -6306,6 +6733,7 @@ Rapiers
   <td>1.05x</td>
   <td>-</td>
   <td>27</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skull_Piercer.md">Skull Piercer</a><br>
@@ -6321,6 +6749,7 @@ Rapiers
   <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstreza.md">Kyrstreza</a></b></td>
@@ -6334,6 +6763,7 @@ Rapiers
   <td>1.09x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icepick.md">Icepick</a><abbr></abbr></b></td>
@@ -6347,6 +6777,7 @@ Rapiers
   <td>1.06x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -6367,6 +6798,7 @@ Pistols
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -6380,6 +6812,7 @@ Pistols
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -6393,6 +6826,7 @@ Pistols
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -6408,6 +6842,7 @@ Pistols
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -6423,6 +6858,7 @@ Pistols
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -6436,6 +6872,7 @@ Pistols
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -6449,6 +6886,7 @@ Pistols
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -6462,6 +6900,7 @@ Pistols
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -6477,6 +6916,7 @@ Pistols
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -6490,6 +6930,7 @@ Pistols
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -6503,6 +6944,7 @@ Pistols
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -6523,9 +6965,10 @@ Pistols
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Swords.md">Swords</a></td>
+  <td colspan="12"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -6539,6 +6982,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dormant_Splinter.md">Dormant Splinter</a></b></td>
@@ -6552,6 +6996,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>7.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
@@ -6567,6 +7012,7 @@ Pistols
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
@@ -6582,6 +7028,7 @@ Pistols
   <td>1.06x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scimitar.md">Scimitar</a></b></td>
@@ -6595,6 +7042,7 @@ Pistols
   <td>1.09x</td>
   <td>-</td>
   <td>18.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
@@ -6610,6 +7058,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper_Longsword.md">Worshipper Longsword</a></b></td>
@@ -6623,6 +7072,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
@@ -6638,6 +7088,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
@@ -6653,6 +7104,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Sword.md">Champion's Sword</a></b></td>
@@ -6666,6 +7118,7 @@ Pistols
   <td>1.02x</td>
   <td>-</td>
   <td>28.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
@@ -6682,6 +7135,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>28.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -6698,6 +7152,7 @@ Pistols
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -6716,6 +7171,7 @@ Pistols
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -6736,6 +7192,7 @@ Pistols
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
@@ -6751,6 +7208,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>30.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></b></td>
@@ -6765,6 +7223,7 @@ Pistols
   <td>1.06x</td>
   <td>-</td>
   <td>25.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kindred_Edict.md">Kindred Edict</a></b></td>
@@ -6780,6 +7239,7 @@ Pistols
   <td>1.05x</td>
   <td>-</td>
   <td>29.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></b></td>
@@ -6793,6 +7253,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29.9</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Razor_Cutlass.md">Razor Cutlass</a><br>
@@ -6808,6 +7269,7 @@ Pistols
   <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -6824,6 +7286,7 @@ Pistols
   <td>0.93x</td>
   <td>-</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -6837,6 +7300,7 @@ Pistols
   <td>1.04x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fondant_Splitter.md">Fondant Splitter</a></b></td>
@@ -6851,6 +7315,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Umbrite_Witherblade.md">Umbrite Witherblade</a><br>
@@ -6868,6 +7333,7 @@ Pistols
   <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serpent's_Edge.md">Serpent's Edge</a></b></td>
@@ -6881,6 +7347,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hallowscleave.md">Hallowscleave</a></b></td>
@@ -6894,6 +7361,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
@@ -6909,6 +7377,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
@@ -6924,6 +7393,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
@@ -6939,6 +7409,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
@@ -6954,6 +7425,7 @@ Pistols
   <td>1.06x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -6969,6 +7441,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
@@ -6984,6 +7457,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
@@ -6999,6 +7473,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsblade.md">Kyrsblade</a></b></td>
@@ -7012,6 +7487,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -7028,6 +7504,7 @@ Pistols
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eye_of_Malice.md"><font>Eye of Malice</font></a></b></td>
@@ -7041,6 +7518,7 @@ Pistols
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
@@ -7055,6 +7533,7 @@ Pistols
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -7071,6 +7550,7 @@ Pistols
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Purple_Cloud.md">Purple Cloud</a></b></td>
@@ -7085,6 +7565,7 @@ Pistols
   <td>1.06x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shattered_Katana.md">Shattered Katana</a></b></td>
@@ -7099,6 +7580,7 @@ Pistols
   <td>1.00x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nocturne.md">Nocturne</a></b></td>
@@ -7113,6 +7595,7 @@ Pistols
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
@@ -7126,6 +7609,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -7140,6 +7624,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -7154,6 +7639,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -7168,6 +7654,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -7182,6 +7669,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -7196,6 +7684,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -7209,6 +7698,7 @@ Pistols
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -7222,6 +7712,7 @@ Pistols
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -7235,9 +7726,10 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -7251,6 +7743,7 @@ Pistols
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Toothed_Club.md">Toothed Club</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7265,6 +7758,7 @@ Pistols
   <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -7280,6 +7774,7 @@ Pistols
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -7300,6 +7795,7 @@ Pistols
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Morning_Star.md">Morning Star</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7314,6 +7810,7 @@ Pistols
   <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sacred_Hammer.md">Sacred Hammer</a></b></td>
@@ -7327,6 +7824,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Pastry_Paster.md">The Pastry Paster</a></b></td>
@@ -7342,6 +7840,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pernach.md">Pernach</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7356,6 +7855,7 @@ Pistols
   <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Star.md">Night Star</a><abbr></abbr> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7370,9 +7870,10 @@ Pistols
   <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Spears.md">Spears</a></td>
+  <td colspan="12"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -7386,6 +7887,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Spear.md">Iron Spear</a></b></td>
@@ -7399,6 +7901,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Gremorian Longspear</a></b><br>
@@ -7413,6 +7916,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
@@ -7428,6 +7932,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
@@ -7443,6 +7948,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7457,6 +7963,7 @@ Pistols
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7478,6 +7985,7 @@ Pistols
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7497,6 +8005,7 @@ Pistols
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
@@ -7512,6 +8021,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7528,6 +8038,7 @@ Pistols
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -7543,6 +8054,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serrated_Warspear.md">Serrated Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7557,6 +8069,7 @@ Pistols
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7571,6 +8084,7 @@ Pistols
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
@@ -7586,6 +8100,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -7600,6 +8115,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="True_Seraph_Spear.md">True Seraph Spear</a></b></td>
@@ -7613,6 +8129,7 @@ Pistols
   <td>0.96x</td>
   <td>-</td>
   <td>28.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -7628,6 +8145,7 @@ Pistols
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a></b></td>
@@ -7645,6 +8163,7 @@ Pistols
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
@@ -7660,6 +8179,7 @@ Pistols
   <td>0.92x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7674,6 +8194,7 @@ Pistols
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -7687,9 +8208,10 @@ Pistols
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Staves.md">Staves</a></td>
+  <td colspan="12"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -7703,6 +8225,7 @@ Pistols
   <td>1.01x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -7717,6 +8240,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>27.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -7732,6 +8256,7 @@ Pistols
   <td>0.91x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>
@@ -7746,9 +8271,10 @@ Pistols
   <td>0.92x</td>
   <td>-</td>
   <td>31.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Rifles</td>
+  <td colspan="12">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -7762,6 +8288,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
@@ -7775,6 +8302,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
@@ -7790,6 +8318,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -7805,6 +8334,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -7819,6 +8349,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
@@ -7832,6 +8363,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
@@ -7845,6 +8377,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -7862,9 +8395,10 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -7878,6 +8412,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>19.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
@@ -7893,6 +8428,7 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
@@ -7908,6 +8444,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></b></td>
@@ -7921,6 +8458,7 @@ Pistols
   <td>0.94x</td>
   <td>-</td>
   <td>29.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Death's_Reverie.md">Death's Reverie</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -7935,6 +8473,7 @@ Pistols
   <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescendo.md">Crescendo</a></b></td>
@@ -7948,6 +8487,7 @@ Pistols
   <td>0.92x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
@@ -7961,9 +8501,10 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Bows</td>
+  <td colspan="12">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -7977,6 +8518,7 @@ Pistols
   <td>0.97x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hunting_Bow.md">Hunting Bow</a></b></td>
@@ -7990,6 +8532,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -8005,6 +8548,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Guiding_Star.md"><font>Guiding Star</font></a></b></td>
@@ -8020,6 +8564,7 @@ Pistols
   <td>1x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -8040,6 +8585,7 @@ Swords
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -8053,6 +8599,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dormant_Splinter.md">Dormant Splinter</a></b></td>
@@ -8066,6 +8613,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>7.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
@@ -8081,6 +8629,7 @@ Swords
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
@@ -8096,6 +8645,7 @@ Swords
   <td>1.06x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scimitar.md">Scimitar</a></b></td>
@@ -8109,6 +8659,7 @@ Swords
   <td>1.09x</td>
   <td>-</td>
   <td>18.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
@@ -8124,6 +8675,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper_Longsword.md">Worshipper Longsword</a></b></td>
@@ -8137,6 +8689,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
@@ -8152,6 +8705,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>29.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
@@ -8167,6 +8721,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Sword.md">Champion's Sword</a></b></td>
@@ -8180,6 +8735,7 @@ Swords
   <td>1.02x</td>
   <td>-</td>
   <td>28.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
@@ -8196,6 +8752,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>28.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -8212,6 +8769,7 @@ Swords
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -8230,6 +8788,7 @@ Swords
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -8250,6 +8809,7 @@ Swords
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
@@ -8265,6 +8825,7 @@ Swords
   <td>0.97x</td>
   <td>-</td>
   <td>30.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></b></td>
@@ -8279,6 +8840,7 @@ Swords
   <td>1.06x</td>
   <td>-</td>
   <td>25.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kindred_Edict.md">Kindred Edict</a></b></td>
@@ -8294,6 +8856,7 @@ Swords
   <td>1.05x</td>
   <td>-</td>
   <td>29.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></b></td>
@@ -8307,6 +8870,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>29.9</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Razor_Cutlass.md">Razor Cutlass</a><br>
@@ -8322,6 +8886,7 @@ Swords
   <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -8338,6 +8903,7 @@ Swords
   <td>0.93x</td>
   <td>-</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -8351,6 +8917,7 @@ Swords
   <td>1.04x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fondant_Splitter.md">Fondant Splitter</a></b></td>
@@ -8365,6 +8932,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Umbrite_Witherblade.md">Umbrite Witherblade</a><br>
@@ -8382,6 +8950,7 @@ Swords
   <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serpent's_Edge.md">Serpent's Edge</a></b></td>
@@ -8395,6 +8964,7 @@ Swords
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hallowscleave.md">Hallowscleave</a></b></td>
@@ -8408,6 +8978,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
@@ -8423,6 +8994,7 @@ Swords
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
@@ -8438,6 +9010,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
@@ -8453,6 +9026,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
@@ -8468,6 +9042,7 @@ Swords
   <td>1.06x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -8483,6 +9058,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
@@ -8498,6 +9074,7 @@ Swords
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
@@ -8513,6 +9090,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsblade.md">Kyrsblade</a></b></td>
@@ -8526,6 +9104,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -8542,6 +9121,7 @@ Swords
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eye_of_Malice.md"><font>Eye of Malice</font></a></b></td>
@@ -8555,6 +9135,7 @@ Swords
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
@@ -8569,6 +9150,7 @@ Swords
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -8585,6 +9167,7 @@ Swords
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Purple_Cloud.md">Purple Cloud</a></b></td>
@@ -8599,6 +9182,7 @@ Swords
   <td>1.06x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shattered_Katana.md">Shattered Katana</a></b></td>
@@ -8613,6 +9197,7 @@ Swords
   <td>1.00x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nocturne.md">Nocturne</a></b></td>
@@ -8627,6 +9212,7 @@ Swords
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
@@ -8640,6 +9226,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -8654,6 +9241,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -8668,6 +9256,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -8682,6 +9271,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -8696,6 +9286,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -8710,6 +9301,7 @@ Swords
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -8723,6 +9315,7 @@ Swords
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -8736,6 +9329,7 @@ Swords
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -8749,6 +9343,7 @@ Swords
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -8769,6 +9364,7 @@ Clubs
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -8782,6 +9378,7 @@ Clubs
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Toothed_Club.md">Toothed Club</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -8796,6 +9393,7 @@ Clubs
   <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -8811,6 +9409,7 @@ Clubs
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -8831,6 +9430,7 @@ Clubs
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Morning_Star.md">Morning Star</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -8845,6 +9445,7 @@ Clubs
   <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sacred_Hammer.md">Sacred Hammer</a></b></td>
@@ -8858,6 +9459,7 @@ Clubs
   <td>0.97x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Pastry_Paster.md">The Pastry Paster</a></b></td>
@@ -8873,6 +9475,7 @@ Clubs
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pernach.md">Pernach</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -8887,6 +9490,7 @@ Clubs
   <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Star.md">Night Star</a><abbr></abbr> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -8901,6 +9505,7 @@ Clubs
   <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -8921,6 +9526,7 @@ Spears
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -8934,6 +9540,7 @@ Spears
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Spear.md">Iron Spear</a></b></td>
@@ -8947,6 +9554,7 @@ Spears
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Gremorian Longspear</a></b><br>
@@ -8961,6 +9569,7 @@ Spears
   <td>0.9x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
@@ -8976,6 +9585,7 @@ Spears
   <td>0.9x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
@@ -8991,6 +9601,7 @@ Spears
   <td>0.9x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9005,6 +9616,7 @@ Spears
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9026,6 +9638,7 @@ Spears
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9045,6 +9658,7 @@ Spears
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
@@ -9060,6 +9674,7 @@ Spears
   <td>0.9x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9076,6 +9691,7 @@ Spears
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -9091,6 +9707,7 @@ Spears
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serrated_Warspear.md">Serrated Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9105,6 +9722,7 @@ Spears
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9119,6 +9737,7 @@ Spears
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
@@ -9134,6 +9753,7 @@ Spears
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -9148,6 +9768,7 @@ Spears
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="True_Seraph_Spear.md">True Seraph Spear</a></b></td>
@@ -9161,6 +9782,7 @@ Spears
   <td>0.96x</td>
   <td>-</td>
   <td>28.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -9176,6 +9798,7 @@ Spears
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a></b></td>
@@ -9193,6 +9816,7 @@ Spears
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
@@ -9208,6 +9832,7 @@ Spears
   <td>0.92x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9222,6 +9847,7 @@ Spears
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -9235,6 +9861,7 @@ Spears
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -9255,6 +9882,7 @@ Staves
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -9268,6 +9896,7 @@ Staves
   <td>1.01x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -9282,6 +9911,7 @@ Staves
   <td>1x</td>
   <td>-</td>
   <td>27.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -9297,6 +9927,7 @@ Staves
   <td>0.91x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>
@@ -9311,6 +9942,7 @@ Staves
   <td>0.92x</td>
   <td>-</td>
   <td>31.2</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -9331,6 +9963,7 @@ Rifles
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -9344,6 +9977,7 @@ Rifles
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
@@ -9357,6 +9991,7 @@ Rifles
   <td>1x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
@@ -9372,6 +10007,7 @@ Rifles
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -9387,6 +10023,7 @@ Rifles
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -9401,6 +10038,7 @@ Rifles
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
@@ -9414,6 +10052,7 @@ Rifles
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
@@ -9427,6 +10066,7 @@ Rifles
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -9444,6 +10084,7 @@ Rifles
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -9464,6 +10105,7 @@ Twinblades
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -9477,6 +10119,7 @@ Twinblades
   <td>1x</td>
   <td>-</td>
   <td>19.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
@@ -9492,6 +10135,7 @@ Twinblades
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
@@ -9507,6 +10151,7 @@ Twinblades
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></b></td>
@@ -9520,6 +10165,7 @@ Twinblades
   <td>0.94x</td>
   <td>-</td>
   <td>29.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Death's_Reverie.md">Death's Reverie</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9534,6 +10180,7 @@ Twinblades
   <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescendo.md">Crescendo</a></b></td>
@@ -9547,6 +10194,7 @@ Twinblades
   <td>0.92x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
@@ -9560,6 +10208,7 @@ Twinblades
   <td>0.9x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -9580,6 +10229,7 @@ Bows
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -9593,6 +10243,7 @@ Bows
   <td>0.97x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hunting_Bow.md">Hunting Bow</a></b></td>
@@ -9606,6 +10257,7 @@ Bows
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -9621,6 +10273,7 @@ Bows
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Guiding_Star.md"><font>Guiding Star</font></a></b></td>
@@ -9636,6 +10289,7 @@ Bows
   <td>1x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -9656,9 +10310,10 @@ Bows
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -9672,6 +10327,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
@@ -9688,6 +10344,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
@@ -9704,6 +10361,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
@@ -9719,6 +10377,7 @@ Bows
   <td>0.83x</td>
   <td>-</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -9735,6 +10394,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Birch.md">Iron Birch</a></b></td>
@@ -9748,6 +10408,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>37.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Evanspear_Greataxe.md">Evanspear Greataxe</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -9762,6 +10423,7 @@ Bows
   <td>0.1s</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></b></td>
@@ -9775,6 +10437,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Relic_Axe.md">Relic Axe</a></b></td>
@@ -9788,6 +10451,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></b></td>
@@ -9801,6 +10465,7 @@ Bows
   <td>0.94x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skyreap_Blade.md">Skyreap Blade</a></b></td>
@@ -9814,6 +10479,7 @@ Bows
   <td>0.91x</td>
   <td>0.1s</td>
   <td>35.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Axe.md">Enforcer's Axe</a></b></td>
@@ -9827,6 +10493,7 @@ Bows
   <td>0.76x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
@@ -9842,6 +10509,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
@@ -9857,6 +10525,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
@@ -9873,6 +10542,7 @@ Bows
   <td>0.87x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskguard_Axe.md">Duskguard Axe</a></b></td>
@@ -9888,6 +10558,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Axe.md">Night Axe</a></b></td>
@@ -9901,6 +10572,7 @@ Bows
   <td>0.77x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Briar.md">Pale Briar</a></b></td>
@@ -9915,6 +10587,7 @@ Bows
   <td>0.81x</td>
   <td>0.15s</td>
   <td>35.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></b></td>
@@ -9930,6 +10603,7 @@ Bows
   <td>0.7x</td>
   <td>0.15s</td>
   <td>49.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -9943,6 +10617,7 @@ Bows
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Par's_Glaive.md">Par's Glaive</a><abbr></abbr></b></td>
@@ -9956,9 +10631,10 @@ Bows
   <td>0.8x</td>
   <td>-</td>
   <td>32.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -9972,6 +10648,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>31.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
@@ -9989,6 +10666,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -10006,6 +10684,7 @@ Bows
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
@@ -10023,6 +10702,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
@@ -10039,6 +10719,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>39.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></b></td>
@@ -10053,6 +10734,7 @@ Bows
   <td>0.84x</td>
   <td>0.1s</td>
   <td>38.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -10069,6 +10751,7 @@ Bows
   <td>0.93x</td>
   <td>0.1s</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -10085,6 +10768,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -10102,6 +10786,7 @@ Bows
   <td>0.1s</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsieger.md"><font>Kyrsieger</font></a></b></td>
@@ -10117,6 +10802,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -10134,6 +10820,7 @@ Bows
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
@@ -10151,6 +10838,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -10167,6 +10855,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -10183,6 +10872,7 @@ Bows
   <td>0.1s</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wretched_Mawblades.md">Wretched Mawblades</a></b></td>
@@ -10196,6 +10886,7 @@ Bows
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -10209,6 +10900,7 @@ Bows
   <td>0.82x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
@@ -10226,6 +10918,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -10243,6 +10936,7 @@ Bows
   <td>0.1s</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
@@ -10259,6 +10953,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
@@ -10275,6 +10970,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrscleave.md">Kyrscleave</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -10289,6 +10985,7 @@ Bows
   <td>0.1s</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Railblade.md">Railblade</a></b></td>
@@ -10303,6 +11000,7 @@ Bows
   <td>0.88x</td>
   <td>0.1s</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Fractine.md"><font>Fractine</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b>(BRKN)</td>
@@ -10322,6 +11020,7 @@ Bows
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Blade.md">Enforcer's Blade</a></b></td>
@@ -10336,6 +11035,7 @@ Bows
   <td>0.79x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Lumensplitter.md"><font>Lumensplitter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -10351,10 +11051,11 @@ Bows
   <td>0.1s</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -10364,6 +11065,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -10377,6 +11079,7 @@ Bows
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -10390,6 +11093,7 @@ Bows
   <td>0.88x</td>
   <td>-</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Cleaver.md">Darksteel Cleaver</a><abbr></abbr></b></td>
@@ -10404,9 +11108,10 @@ Bows
   <td>0.75x</td>
   <td>0.3s</td>
   <td>45.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -10424,6 +11129,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
@@ -10440,6 +11146,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rockmaller.md">Rockmaller</a></b></td>
@@ -10454,6 +11161,7 @@ Bows
   <td>0.82x</td>
   <td>0.1s</td>
   <td>39.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -10470,6 +11178,7 @@ Bows
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
@@ -10487,6 +11196,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>47.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Great_Maul.md">Great Maul</a></b></td>
@@ -10501,6 +11211,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Putrid_Edenstaff.md">Putrid Edenstaff</a></b></td>
@@ -10514,6 +11225,7 @@ Bows
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
@@ -10531,6 +11243,7 @@ Bows
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
@@ -10547,6 +11260,7 @@ Bows
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Morning.md">Pale Morning</a></b></td>
@@ -10562,6 +11276,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -10577,6 +11292,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -10592,6 +11308,7 @@ Bows
   <td>0.73x</td>
   <td>0.15s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -10607,6 +11324,7 @@ Bows
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -10620,6 +11338,7 @@ Bows
   <td>0.82x</td>
   <td>0.1s</td>
   <td>42.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
@@ -10634,6 +11353,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -10648,6 +11368,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kanabo.md">Kanabo</a></b></td>
@@ -10663,6 +11384,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></b></td>
@@ -10677,6 +11399,7 @@ Bows
   <td>0.62x</td>
   <td>0.15s</td>
   <td>49</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Saint_Jay's_Hammer.md">Saint Jay's Hammer</a><abbr></abbr></b></td>
@@ -10691,9 +11414,10 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>30.5</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -10708,6 +11432,7 @@ Bows
   <td>0.81x</td>
   <td>0.1s</td>
   <td>39.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Barrel.md">The Barrel</a></b></td>
@@ -10722,6 +11447,7 @@ Bows
   <td>0.82x</td>
   <td>0.1s</td>
   <td>41.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
@@ -10736,6 +11462,7 @@ Bows
   <td>0.81x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -10750,6 +11477,7 @@ Bows
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -10770,6 +11498,7 @@ Greataxes
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -10783,6 +11512,7 @@ Greataxes
   <td>0.83x</td>
   <td>0.1s</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
@@ -10799,6 +11529,7 @@ Greataxes
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
@@ -10815,6 +11546,7 @@ Greataxes
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
@@ -10830,6 +11562,7 @@ Greataxes
   <td>0.83x</td>
   <td>-</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -10846,6 +11579,7 @@ Greataxes
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Birch.md">Iron Birch</a></b></td>
@@ -10859,6 +11593,7 @@ Greataxes
   <td>0.85x</td>
   <td>0.1s</td>
   <td>37.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Evanspear_Greataxe.md">Evanspear Greataxe</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -10873,6 +11608,7 @@ Greataxes
   <td>0.1s</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></b></td>
@@ -10886,6 +11622,7 @@ Greataxes
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Relic_Axe.md">Relic Axe</a></b></td>
@@ -10899,6 +11636,7 @@ Greataxes
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></b></td>
@@ -10912,6 +11650,7 @@ Greataxes
   <td>0.94x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skyreap_Blade.md">Skyreap Blade</a></b></td>
@@ -10925,6 +11664,7 @@ Greataxes
   <td>0.91x</td>
   <td>0.1s</td>
   <td>35.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Axe.md">Enforcer's Axe</a></b></td>
@@ -10938,6 +11678,7 @@ Greataxes
   <td>0.76x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
@@ -10953,6 +11694,7 @@ Greataxes
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
@@ -10968,6 +11710,7 @@ Greataxes
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
@@ -10984,6 +11727,7 @@ Greataxes
   <td>0.87x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskguard_Axe.md">Duskguard Axe</a></b></td>
@@ -10999,6 +11743,7 @@ Greataxes
   <td>0.85x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Axe.md">Night Axe</a></b></td>
@@ -11012,6 +11757,7 @@ Greataxes
   <td>0.77x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Briar.md">Pale Briar</a></b></td>
@@ -11026,6 +11772,7 @@ Greataxes
   <td>0.81x</td>
   <td>0.15s</td>
   <td>35.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></b></td>
@@ -11041,6 +11788,7 @@ Greataxes
   <td>0.7x</td>
   <td>0.15s</td>
   <td>49.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -11054,6 +11802,7 @@ Greataxes
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Par's_Glaive.md">Par's Glaive</a><abbr></abbr></b></td>
@@ -11067,6 +11816,7 @@ Greataxes
   <td>0.8x</td>
   <td>-</td>
   <td>32.5</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -11087,6 +11837,7 @@ Greatswords
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -11100,6 +11851,7 @@ Greatswords
   <td>0.83x</td>
   <td>0.1s</td>
   <td>31.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
@@ -11117,6 +11869,7 @@ Greatswords
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -11134,6 +11887,7 @@ Greatswords
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
@@ -11151,6 +11905,7 @@ Greatswords
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
@@ -11167,6 +11922,7 @@ Greatswords
   <td>0.8x</td>
   <td>0.1s</td>
   <td>39.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></b></td>
@@ -11181,6 +11937,7 @@ Greatswords
   <td>0.84x</td>
   <td>0.1s</td>
   <td>38.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -11197,6 +11954,7 @@ Greatswords
   <td>0.93x</td>
   <td>0.1s</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -11213,6 +11971,7 @@ Greatswords
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -11230,6 +11989,7 @@ Greatswords
   <td>0.1s</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsieger.md"><font>Kyrsieger</font></a></b></td>
@@ -11245,6 +12005,7 @@ Greatswords
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -11262,6 +12023,7 @@ Greatswords
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
@@ -11279,6 +12041,7 @@ Greatswords
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -11295,6 +12058,7 @@ Greatswords
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -11311,6 +12075,7 @@ Greatswords
   <td>0.1s</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wretched_Mawblades.md">Wretched Mawblades</a></b></td>
@@ -11324,6 +12089,7 @@ Greatswords
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -11337,6 +12103,7 @@ Greatswords
   <td>0.82x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
@@ -11354,6 +12121,7 @@ Greatswords
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -11371,6 +12139,7 @@ Greatswords
   <td>0.1s</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
@@ -11387,6 +12156,7 @@ Greatswords
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
@@ -11403,6 +12173,7 @@ Greatswords
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrscleave.md">Kyrscleave</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -11417,6 +12188,7 @@ Greatswords
   <td>0.1s</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Railblade.md">Railblade</a></b></td>
@@ -11431,6 +12203,7 @@ Greatswords
   <td>0.88x</td>
   <td>0.1s</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Fractine.md"><font>Fractine</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b>(BRKN)</td>
@@ -11450,6 +12223,7 @@ Greatswords
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Blade.md">Enforcer's Blade</a></b></td>
@@ -11464,6 +12238,7 @@ Greatswords
   <td>0.79x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Lumensplitter.md"><font>Lumensplitter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -11479,10 +12254,11 @@ Greatswords
   <td>0.1s</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -11492,6 +12268,7 @@ Greatswords
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -11505,6 +12282,7 @@ Greatswords
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -11518,6 +12296,7 @@ Greatswords
   <td>0.88x</td>
   <td>-</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Cleaver.md">Darksteel Cleaver</a><abbr></abbr></b></td>
@@ -11532,6 +12311,7 @@ Greatswords
   <td>0.75x</td>
   <td>0.3s</td>
   <td>45.6</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -11552,6 +12332,7 @@ Greathammers
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -11569,6 +12350,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
@@ -11585,6 +12367,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rockmaller.md">Rockmaller</a></b></td>
@@ -11599,6 +12382,7 @@ Greathammers
   <td>0.82x</td>
   <td>0.1s</td>
   <td>39.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -11615,6 +12399,7 @@ Greathammers
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
@@ -11632,6 +12417,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>47.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Great_Maul.md">Great Maul</a></b></td>
@@ -11646,6 +12432,7 @@ Greathammers
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Putrid_Edenstaff.md">Putrid Edenstaff</a></b></td>
@@ -11659,6 +12446,7 @@ Greathammers
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
@@ -11676,6 +12464,7 @@ Greathammers
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
@@ -11692,6 +12481,7 @@ Greathammers
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Morning.md">Pale Morning</a></b></td>
@@ -11707,6 +12497,7 @@ Greathammers
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -11722,6 +12513,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -11737,6 +12529,7 @@ Greathammers
   <td>0.73x</td>
   <td>0.15s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -11752,6 +12545,7 @@ Greathammers
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -11765,6 +12559,7 @@ Greathammers
   <td>0.82x</td>
   <td>0.1s</td>
   <td>42.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
@@ -11779,6 +12574,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -11793,6 +12589,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kanabo.md">Kanabo</a></b></td>
@@ -11808,6 +12605,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></b></td>
@@ -11822,6 +12620,7 @@ Greathammers
   <td>0.62x</td>
   <td>0.15s</td>
   <td>49</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Saint_Jay's_Hammer.md">Saint Jay's Hammer</a><abbr></abbr></b></td>
@@ -11836,6 +12635,7 @@ Greathammers
   <td>0.8x</td>
   <td>0.1s</td>
   <td>30.5</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -11856,6 +12656,7 @@ Greatcannons
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -11870,6 +12671,7 @@ Greatcannons
   <td>0.81x</td>
   <td>0.1s</td>
   <td>39.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Barrel.md">The Barrel</a></b></td>
@@ -11884,6 +12686,7 @@ Greatcannons
   <td>0.82x</td>
   <td>0.1s</td>
   <td>41.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
@@ -11898,6 +12701,7 @@ Greatcannons
   <td>0.81x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -11912,6 +12716,7 @@ Greatcannons
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -11920,19 +12725,19 @@ Greatcannons
 
 Hybrid
 
-| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Hybrid Weapons
 
 | **[Wyrmtooth](Wyrmtooth.md)** | Medium & Heavy | 60 MED  
 40 HVY  
 LVL 10 | 20 | MED: 6.5  
-HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 |
+HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
 | **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** | Light & Heavy | 25 HVY  
 75 FIR  
 10 LHT | 21 | HVY: 5 (GS)  
 LHT: 5 (Dagger)  
-FIR: 4 (Both) | 15% | \- | 5 | 8 | 0.93x | \- | 35.2 |
+FIR: 4 (Both) | 15% | \- | 5 | 8 | 0.93x | \- | 35.2 | **✗** |
 | **[Red Death](Red_Death.md) ([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
 25 MND  
 45 SDW  
@@ -11941,24 +12746,24 @@ LVL 8 | 16 | MED: 2.5
 MND: 2  
 SDW: 3  
 BLD: 3 | 25% | \- | 6 | 9.5 | 0.92x | \- | 26.9  
-([+4 BLD](Status_Effects.md#bleed)) |
+([+4 BLD](Status_Effects.md#bleed)) | **✗** |
 | **[Eyes of Ethiron](Eyes_of_Ethiron.md)** | Shadowcast & Galebreathe | 40 MED  
 40 SDW  
 40 WND  
 LVL 10 | 16.5 | MED: 4  
 SDW: 4.5  
-WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 |
+WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
 | **[Rimebreakers](Rimebreakers.md)** | Frostdraw & Galebreathe | 50 ICE  
 50 LHT  
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
-ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 |
-| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 |
+ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
+| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 | **✗** |
 | **[Vapormaw Carbine](Vapormaw_Carbine.md)** | Flamecharm & Frostdraw | 50 MED  
 30 FIR  
 30 ICE | 17 | MED: 4  
 FIR: 3  
-ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
+ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 | **✗** |
 
 Elemental
 
@@ -11976,9 +12781,10 @@ Elemental
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -11993,6 +12799,7 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -12010,6 +12817,7 @@ Elemental
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -12025,6 +12833,7 @@ Elemental
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen Hellflame</font></a></b></td>
@@ -12040,6 +12849,7 @@ Elemental
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -12053,6 +12863,7 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -12070,9 +12881,10 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -12087,6 +12899,7 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -12103,6 +12916,7 @@ Elemental
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -12119,6 +12933,7 @@ Elemental
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -12135,6 +12950,7 @@ Elemental
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -12152,6 +12968,7 @@ Elemental
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -12167,6 +12984,7 @@ Elemental
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -12181,6 +12999,7 @@ Elemental
   <td>1.06x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -12194,6 +13013,7 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -12211,9 +13031,10 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -12228,6 +13049,7 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -12243,6 +13065,7 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -12259,6 +13082,7 @@ Elemental
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -12275,6 +13099,7 @@ Elemental
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -12288,9 +13113,10 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -12305,6 +13131,7 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -12320,6 +13147,7 @@ Elemental
   <td>1.1x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -12336,6 +13164,7 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -12354,6 +13183,7 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -12371,6 +13201,7 @@ Elemental
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -12386,6 +13217,7 @@ Elemental
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -12399,9 +13231,10 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -12416,6 +13249,7 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -12437,6 +13271,7 @@ Elemental
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -12456,6 +13291,7 @@ Elemental
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -12472,6 +13308,7 @@ Elemental
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -12490,6 +13327,7 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -12505,6 +13343,7 @@ Elemental
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -12520,6 +13359,7 @@ Elemental
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -12535,6 +13375,7 @@ Elemental
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -12548,9 +13389,10 @@ Elemental
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -12571,6 +13413,7 @@ Elemental
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -12586,10 +13429,11 @@ Elemental
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -12599,6 +13443,7 @@ Elemental
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -12612,9 +13457,10 @@ Elemental
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -12630,6 +13476,7 @@ Elemental
   <td>1.22x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -12648,6 +13495,7 @@ Elemental
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -12665,6 +13513,7 @@ Elemental
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -12680,6 +13529,7 @@ Elemental
   <td>1.08x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -12701,6 +13551,7 @@ Elemental
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -12720,6 +13571,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -12732,6 +13584,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -12744,6 +13597,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -12756,6 +13610,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -12768,6 +13623,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -12780,6 +13636,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -12792,6 +13649,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -12804,28 +13662,33 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <th>Name</th>
   <th>Requirements</th>
   <th>Max Posture Bonus</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Targe.md">Targe</a></b></td>
   <td>10 FTD</td>
   <td>4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
   <td>15 FTD</td>
   <td>2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kite_Shield.md">Kite Shield</a></b></td>
   <td>20 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
@@ -12833,6 +13696,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <small><a href="Tenacity.md">Tenacity</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
@@ -12840,42 +13704,50 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper's_Shield.md">Worshipper's Shield</a></b></td>
   <td>40 FTD</td>
   <td>6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Aegis.md">Adretian Aegis</a></b></td>
   <td>50 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>6.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ethiron_Curseshield.md">Ethiron Curseshield</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gourdguard.md">Gourdguard</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Shield.md">Legion Shield</a></b></td>
   <td>60 FTD</td>
   <td>8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Path's_Defender.md">The Path's Defender</a></b></td>
   <td>75 FTD</td>
   <td>10</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icarus_Sun_Shield.md">Icarus Sun Shield</a><abbr></abbr></b></td>
   <td>60 FTD</td>
   <td>10</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -12886,16 +13758,19 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <th>Name</th>
   <th>Requirements</th>
   <th>Parry Posture Restoration</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Parrying_Dagger.md">Parrying Dagger</a></b></td>
   <td>10 AGI</td>
   <td>20%</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstear.md">Kyrstear</a></b></td>
   <td>40 AGI</td>
   <td>30%</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -12911,6 +13786,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Offhand Cooldown</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -12921,6 +13797,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>1</td>
   <td>10</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -12931,6 +13808,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>1</td>
   <td>10</td>
   <td>2.4s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -12943,6 +13821,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -12953,6 +13832,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>3</td>
   <td>12</td>
   <td>2.2s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -12963,6 +13843,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>3.5</td>
   <td>11</td>
   <td>3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -12973,6 +13854,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>4</td>
   <td>11</td>
   <td>1.3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -12985,6 +13867,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>2.5</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -12995,6 +13878,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>3</td>
   <td>12</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -13005,6 +13889,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -13017,28 +13902,33 @@ Shields
   <th>Name</th>
   <th>Requirements</th>
   <th>Max Posture Bonus</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Targe.md">Targe</a></b></td>
   <td>10 FTD</td>
   <td>4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
   <td>15 FTD</td>
   <td>2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kite_Shield.md">Kite Shield</a></b></td>
   <td>20 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
@@ -13046,6 +13936,7 @@ Shields
   <small><a href="Tenacity.md">Tenacity</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
@@ -13053,42 +13944,50 @@ Shields
   <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper's_Shield.md">Worshipper's Shield</a></b></td>
   <td>40 FTD</td>
   <td>6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Aegis.md">Adretian Aegis</a></b></td>
   <td>50 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>6.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ethiron_Curseshield.md">Ethiron Curseshield</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gourdguard.md">Gourdguard</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Shield.md">Legion Shield</a></b></td>
   <td>60 FTD</td>
   <td>8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Path's_Defender.md">The Path's Defender</a></b></td>
   <td>75 FTD</td>
   <td>10</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icarus_Sun_Shield.md">Icarus Sun Shield</a><abbr></abbr></b></td>
   <td>60 FTD</td>
   <td>10</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -13101,16 +14000,19 @@ Parrying Daggers
   <th>Name</th>
   <th>Requirements</th>
   <th>Parry Posture Restoration</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Parrying_Dagger.md">Parrying Dagger</a></b></td>
   <td>10 AGI</td>
   <td>20%</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstear.md">Kyrstear</a></b></td>
   <td>40 AGI</td>
   <td>30%</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -13128,6 +14030,7 @@ Offhand Pistols
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Offhand Cooldown</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -13138,6 +14041,7 @@ Offhand Pistols
   <td>1</td>
   <td>10</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -13148,6 +14052,7 @@ Offhand Pistols
   <td>1</td>
   <td>10</td>
   <td>2.4s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -13160,6 +14065,7 @@ Offhand Pistols
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -13170,6 +14076,7 @@ Offhand Pistols
   <td>3</td>
   <td>12</td>
   <td>2.2s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -13180,6 +14087,7 @@ Offhand Pistols
   <td>3.5</td>
   <td>11</td>
   <td>3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -13190,6 +14098,7 @@ Offhand Pistols
   <td>4</td>
   <td>11</td>
   <td>1.3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -13202,6 +14111,7 @@ Offhand Pistols
   <td>2.5</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -13212,6 +14122,7 @@ Offhand Pistols
   <td>3</td>
   <td>12</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -13222,37 +14133,38 @@ Offhand Pistols
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
 
 **Exclusive**
 
-| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Exclusive Weapons
 
 | **[Calamity Cinnabar](Calamity_Cinnabar.md)** | 75 SDW  
 40 HVY  
 LVL 10 | 22 | SDW: 9  
-HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 |
-| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
-| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 |
+HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 | ??? |
+| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
+| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 | ??? |
 | **[Moon Blades](Moon_Blades.md) ([Bleed](Status_Effects.md#bleed))** | 60 LHT  
 30 INT | 13 | LHT: 8  
 INT: 2 | 30% | \- | 4 | 6 | 1.25x | \- | 22.8  
-([+3.4 BLD](Status_Effects.md#bleed)) |
-| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | \- | 57 |
-| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | \- | 193.8 |
+([+3.4 BLD](Status_Effects.md#bleed)) | ??? |
+| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | \- | 57 | ??? |
+| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | \- | 193.8 | **✓** |
 | **[Unsung Scythern](Unsung_Scythern.md)** | 75 HVY  
-LVL 10 | 26 | HVY: 9 | 10% | \- | 8 | 8 | 0.8x | \- | 43.6 |
-| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | \- | 35.1 |
+LVL 10 | 26 | HVY: 9 | 10% | \- | 8 | 8 | 0.8x | \- | 43.6 | ??? |
+| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | \- | 35.1 | ??? |
 | **[The Endless Wave](The_Endless_Wave.md)** | 60 HVY  
 50 STR | 25 | HVY: 8  
-STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 |
+STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 | ??? |
 | **[Ebonshard Lexicon](Ebonshard_Lexicon.md)** | 200 HVY  
 150 STR | 30 | HVY: 6  
-STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 |
+STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 | ??? |
 
 ## Stances
 
@@ -13335,6 +14247,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -13348,6 +14261,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1x</td>
   <td>-</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
@@ -13361,6 +14275,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>14.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
@@ -13376,6 +14291,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
@@ -13389,6 +14305,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>19.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
@@ -13404,6 +14321,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.3x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
@@ -13417,6 +14335,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>21</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
@@ -13430,6 +14349,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
@@ -13445,6 +14365,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>21.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -13458,6 +14379,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
@@ -13472,6 +14394,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -13487,6 +14410,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.14x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -13502,6 +14426,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
@@ -13515,6 +14440,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -13533,6 +14459,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
@@ -13548,6 +14475,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -13561,6 +14489,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Spectral_Grasp.md">Spectral Grasp</a></b></td>
@@ -13574,6 +14503,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
@@ -13587,6 +14517,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
@@ -13600,6 +14531,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
@@ -13615,6 +14547,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -13630,6 +14563,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.15x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -13643,6 +14577,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cerulean_Thread.md">Cerulean Thread</a></b></td>
@@ -13657,6 +14592,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -13671,6 +14607,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -13684,6 +14621,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Golden_Fool.md">The Golden Fool</a><abbr></abbr></b></td>
@@ -13697,6 +14635,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>1.24x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -13721,9 +14660,10 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -13737,6 +14677,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
@@ -13750,6 +14691,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.14x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
@@ -13763,6 +14705,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
@@ -13776,6 +14719,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
@@ -13789,6 +14733,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3 (9.2)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
@@ -13802,9 +14747,10 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><b>Cestus</b></td>
+  <td colspan="12"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -13818,6 +14764,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>0.6x</td>
   <td>-</td>
   <td>1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
@@ -13831,6 +14778,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.11x</td>
   <td>-</td>
   <td>21.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
@@ -13845,6 +14793,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.14x</td>
   <td>-</td>
   <td>22.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
@@ -13858,6 +14807,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.11x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
@@ -13873,6 +14823,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.1x</td>
   <td>-</td>
   <td>25.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -13888,6 +14839,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -13903,6 +14855,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.11x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -13920,6 +14873,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
@@ -13933,6 +14887,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.12x</td>
   <td>-</td>
   <td>24.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
@@ -13946,6 +14901,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.11x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
@@ -13961,6 +14917,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -13976,6 +14933,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -13990,6 +14948,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
@@ -14004,6 +14963,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.11x</td>
   <td>-</td>
   <td>25.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
@@ -14020,6 +14980,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.13x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
@@ -14034,6 +14995,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.08x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
@@ -14049,6 +15011,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.1x</td>
   <td>-</td>
   <td>26</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
@@ -14063,6 +15026,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
@@ -14076,6 +15040,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1.1x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -14100,6 +15065,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -14113,6 +15079,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -14126,6 +15093,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -14141,6 +15109,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -14156,6 +15125,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -14169,6 +15139,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -14182,6 +15153,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -14195,6 +15167,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -14210,6 +15183,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -14223,6 +15197,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -14236,6 +15211,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -14260,6 +15236,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -14273,6 +15250,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.08x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Apprentice_Rapier.md">Apprentice Rapier</a></b></td>
@@ -14286,6 +15264,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.06x</td>
   <td>-</td>
   <td>19.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></b></td>
@@ -14300,6 +15279,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.08x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -14315,6 +15295,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -14330,6 +15311,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crucible_Rapier.md">Crucible Rapier</a></b></td>
@@ -14343,6 +15325,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Golden_Swordfish.md">Golden Swordfish</a></b></td>
@@ -14356,6 +15339,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Needle's_Eye.md">Needle's Eye</a></b></td>
@@ -14369,6 +15353,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.05x</td>
   <td>-</td>
   <td>27</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skull_Piercer.md">Skull Piercer</a><br>
@@ -14384,6 +15369,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstreza.md">Kyrstreza</a></b></td>
@@ -14397,6 +15383,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.09x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icepick.md">Icepick</a><abbr></abbr></b></td>
@@ -14410,6 +15397,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.06x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -14430,9 +15418,10 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -14446,6 +15435,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1x</td>
   <td>-</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
@@ -14459,6 +15449,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>14.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
@@ -14474,6 +15465,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
@@ -14487,6 +15479,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>19.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
@@ -14502,6 +15495,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.3x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
@@ -14515,6 +15509,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>21</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
@@ -14528,6 +15523,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
@@ -14543,6 +15539,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>21.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -14556,6 +15553,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
@@ -14570,6 +15568,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -14585,6 +15584,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.14x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -14600,6 +15600,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
@@ -14613,6 +15614,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -14631,6 +15633,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
@@ -14646,6 +15649,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -14659,6 +15663,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Spectral_Grasp.md">Spectral Grasp</a></b></td>
@@ -14672,6 +15677,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
@@ -14685,6 +15691,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
@@ -14698,6 +15705,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
@@ -14713,6 +15721,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -14728,6 +15737,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.15x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -14741,6 +15751,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cerulean_Thread.md">Cerulean Thread</a></b></td>
@@ -14755,6 +15766,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -14769,6 +15781,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -14782,6 +15795,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Golden_Fool.md">The Golden Fool</a><abbr></abbr></b></td>
@@ -14795,12 +15809,13 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.24x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Fists.md">Fists</a></td>
+  <td colspan="12"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -14814,6 +15829,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
@@ -14827,6 +15843,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.14x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
@@ -14840,6 +15857,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
@@ -14853,6 +15871,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
@@ -14866,6 +15885,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3 (9.2)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
@@ -14879,9 +15899,10 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><b>Cestus</b></td>
+  <td colspan="12"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -14895,6 +15916,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>0.6x</td>
   <td>-</td>
   <td>1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
@@ -14908,6 +15930,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.11x</td>
   <td>-</td>
   <td>21.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
@@ -14922,6 +15945,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.14x</td>
   <td>-</td>
   <td>22.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
@@ -14935,6 +15959,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.11x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
@@ -14950,6 +15975,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>25.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -14965,6 +15991,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -14980,6 +16007,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.11x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -14997,6 +16025,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
@@ -15010,6 +16039,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.12x</td>
   <td>-</td>
   <td>24.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
@@ -15023,6 +16053,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.11x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
@@ -15038,6 +16069,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -15053,6 +16085,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -15067,6 +16100,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
@@ -15081,6 +16115,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.11x</td>
   <td>-</td>
   <td>25.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
@@ -15097,6 +16132,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.13x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
@@ -15111,6 +16147,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.08x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
@@ -15126,6 +16163,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>26</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
@@ -15140,6 +16178,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
@@ -15153,9 +16192,10 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -15169,6 +16209,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.08x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Apprentice_Rapier.md">Apprentice Rapier</a></b></td>
@@ -15182,6 +16223,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.06x</td>
   <td>-</td>
   <td>19.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></b></td>
@@ -15196,6 +16238,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.08x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -15211,6 +16254,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -15226,6 +16270,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crucible_Rapier.md">Crucible Rapier</a></b></td>
@@ -15239,6 +16284,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Golden_Swordfish.md">Golden Swordfish</a></b></td>
@@ -15252,6 +16298,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Needle's_Eye.md">Needle's Eye</a></b></td>
@@ -15265,6 +16312,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.05x</td>
   <td>-</td>
   <td>27</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skull_Piercer.md">Skull Piercer</a><br>
@@ -15280,6 +16328,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstreza.md">Kyrstreza</a></b></td>
@@ -15293,6 +16342,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.09x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icepick.md">Icepick</a><abbr></abbr></b></td>
@@ -15306,9 +16356,10 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.06x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -15322,6 +16373,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -15335,6 +16387,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -15350,6 +16403,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -15365,6 +16419,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -15378,6 +16433,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -15391,6 +16447,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -15404,6 +16461,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -15419,6 +16477,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -15432,6 +16491,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -15445,6 +16505,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -15473,6 +16534,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -15486,6 +16548,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dormant_Splinter.md">Dormant Splinter</a></b></td>
@@ -15499,6 +16562,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>7.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
@@ -15514,6 +16578,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
@@ -15529,6 +16594,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.06x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scimitar.md">Scimitar</a></b></td>
@@ -15542,6 +16608,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.09x</td>
   <td>-</td>
   <td>18.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
@@ -15557,6 +16624,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper_Longsword.md">Worshipper Longsword</a></b></td>
@@ -15570,6 +16638,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
@@ -15585,6 +16654,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>29.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
@@ -15600,6 +16670,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Sword.md">Champion's Sword</a></b></td>
@@ -15613,6 +16684,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.02x</td>
   <td>-</td>
   <td>28.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
@@ -15629,6 +16701,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>28.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -15645,6 +16718,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -15663,6 +16737,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -15683,6 +16758,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
@@ -15698,6 +16774,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.97x</td>
   <td>-</td>
   <td>30.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></b></td>
@@ -15712,6 +16789,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.06x</td>
   <td>-</td>
   <td>25.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kindred_Edict.md">Kindred Edict</a></b></td>
@@ -15727,6 +16805,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.05x</td>
   <td>-</td>
   <td>29.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></b></td>
@@ -15740,6 +16819,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>29.9</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Razor_Cutlass.md">Razor Cutlass</a><br>
@@ -15755,6 +16835,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -15771,6 +16852,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.93x</td>
   <td>-</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -15784,6 +16866,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.04x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fondant_Splitter.md">Fondant Splitter</a></b></td>
@@ -15798,6 +16881,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Umbrite_Witherblade.md">Umbrite Witherblade</a><br>
@@ -15815,6 +16899,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serpent's_Edge.md">Serpent's Edge</a></b></td>
@@ -15828,6 +16913,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hallowscleave.md">Hallowscleave</a></b></td>
@@ -15841,6 +16927,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
@@ -15856,6 +16943,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
@@ -15871,6 +16959,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
@@ -15886,6 +16975,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
@@ -15901,6 +16991,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.06x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -15916,6 +17007,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
@@ -15931,6 +17023,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
@@ -15946,6 +17039,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsblade.md">Kyrsblade</a></b></td>
@@ -15959,6 +17053,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -15975,6 +17070,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eye_of_Malice.md"><font>Eye of Malice</font></a></b></td>
@@ -15988,6 +17084,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
@@ -16002,6 +17099,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -16018,6 +17116,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Purple_Cloud.md">Purple Cloud</a></b></td>
@@ -16032,6 +17131,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.06x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shattered_Katana.md">Shattered Katana</a></b></td>
@@ -16046,6 +17146,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.00x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nocturne.md">Nocturne</a></b></td>
@@ -16060,6 +17161,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
@@ -16073,6 +17175,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -16087,6 +17190,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -16101,6 +17205,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -16115,6 +17220,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -16129,6 +17235,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -16143,6 +17250,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -16156,6 +17264,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -16169,6 +17278,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -16182,6 +17292,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -16206,6 +17317,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -16219,6 +17331,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Spear.md">Iron Spear</a></b></td>
@@ -16232,6 +17345,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Gremorian Longspear</a></b><br>
@@ -16246,6 +17360,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.9x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
@@ -16261,6 +17376,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.9x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
@@ -16276,6 +17392,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.9x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16290,6 +17407,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16311,6 +17429,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16330,6 +17449,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
@@ -16345,6 +17465,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.9x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16361,6 +17482,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -16376,6 +17498,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serrated_Warspear.md">Serrated Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16390,6 +17513,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16404,6 +17528,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
@@ -16419,6 +17544,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -16433,6 +17559,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="True_Seraph_Spear.md">True Seraph Spear</a></b></td>
@@ -16446,6 +17573,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.96x</td>
   <td>-</td>
   <td>28.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -16461,6 +17589,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a></b></td>
@@ -16478,6 +17607,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
@@ -16493,6 +17623,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.92x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16507,6 +17638,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -16520,6 +17652,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -16542,6 +17675,7 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -16555,6 +17689,7 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>1.01x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -16569,6 +17704,7 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>1x</td>
   <td>-</td>
   <td>27.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -16584,6 +17720,7 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>0.91x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>
@@ -16598,6 +17735,7 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>0.92x</td>
   <td>-</td>
   <td>31.2</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -16622,6 +17760,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -16635,6 +17774,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Toothed_Club.md">Toothed Club</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16649,6 +17789,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -16664,6 +17805,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -16684,6 +17826,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Morning_Star.md">Morning Star</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16698,6 +17841,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sacred_Hammer.md">Sacred Hammer</a></b></td>
@@ -16711,6 +17855,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>0.97x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Pastry_Paster.md">The Pastry Paster</a></b></td>
@@ -16726,6 +17871,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pernach.md">Pernach</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16740,6 +17886,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Star.md">Night Star</a><abbr></abbr> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16754,6 +17901,7 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -16776,6 +17924,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -16789,6 +17938,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
@@ -16802,6 +17952,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>1x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
@@ -16817,6 +17968,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -16832,6 +17984,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -16846,6 +17999,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
@@ -16859,6 +18013,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
@@ -16872,6 +18027,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -16889,6 +18045,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -16913,6 +18070,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -16926,6 +18084,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>1x</td>
   <td>-</td>
   <td>19.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
@@ -16941,6 +18100,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
@@ -16956,6 +18116,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></b></td>
@@ -16969,6 +18130,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>0.94x</td>
   <td>-</td>
   <td>29.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Death's_Reverie.md">Death's Reverie</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -16983,6 +18145,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescendo.md">Crescendo</a></b></td>
@@ -16996,6 +18159,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>0.92x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
@@ -17009,6 +18173,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>0.9x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -17037,6 +18202,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -17050,6 +18216,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hunting_Bow.md">Hunting Bow</a></b></td>
@@ -17063,6 +18230,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -17078,6 +18246,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Guiding_Star.md"><font>Guiding Star</font></a></b></td>
@@ -17093,6 +18262,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -17113,9 +18283,10 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Swords.md">Swords</a></td>
+  <td colspan="12"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -17129,6 +18300,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dormant_Splinter.md">Dormant Splinter</a></b></td>
@@ -17142,6 +18314,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>7.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
@@ -17157,6 +18330,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
@@ -17172,6 +18346,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.06x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scimitar.md">Scimitar</a></b></td>
@@ -17185,6 +18360,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.09x</td>
   <td>-</td>
   <td>18.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
@@ -17200,6 +18376,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper_Longsword.md">Worshipper Longsword</a></b></td>
@@ -17213,6 +18390,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
@@ -17228,6 +18406,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
@@ -17243,6 +18422,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Sword.md">Champion's Sword</a></b></td>
@@ -17256,6 +18436,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.02x</td>
   <td>-</td>
   <td>28.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
@@ -17272,6 +18453,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>28.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -17288,6 +18470,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -17306,6 +18489,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -17326,6 +18510,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
@@ -17341,6 +18526,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>30.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></b></td>
@@ -17355,6 +18541,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.06x</td>
   <td>-</td>
   <td>25.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kindred_Edict.md">Kindred Edict</a></b></td>
@@ -17370,6 +18557,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.05x</td>
   <td>-</td>
   <td>29.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></b></td>
@@ -17383,6 +18571,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29.9</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Razor_Cutlass.md">Razor Cutlass</a><br>
@@ -17398,6 +18587,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -17414,6 +18604,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.93x</td>
   <td>-</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -17427,6 +18618,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.04x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fondant_Splitter.md">Fondant Splitter</a></b></td>
@@ -17441,6 +18633,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Umbrite_Witherblade.md">Umbrite Witherblade</a><br>
@@ -17458,6 +18651,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serpent's_Edge.md">Serpent's Edge</a></b></td>
@@ -17471,6 +18665,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hallowscleave.md">Hallowscleave</a></b></td>
@@ -17484,6 +18679,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
@@ -17499,6 +18695,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
@@ -17514,6 +18711,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
@@ -17529,6 +18727,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
@@ -17544,6 +18743,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.06x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -17559,6 +18759,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
@@ -17574,6 +18775,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
@@ -17589,6 +18791,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsblade.md">Kyrsblade</a></b></td>
@@ -17602,6 +18805,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -17618,6 +18822,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eye_of_Malice.md"><font>Eye of Malice</font></a></b></td>
@@ -17631,6 +18836,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
@@ -17645,6 +18851,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -17661,6 +18868,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Purple_Cloud.md">Purple Cloud</a></b></td>
@@ -17675,6 +18883,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.06x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shattered_Katana.md">Shattered Katana</a></b></td>
@@ -17689,6 +18898,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.00x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nocturne.md">Nocturne</a></b></td>
@@ -17703,6 +18913,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
@@ -17716,6 +18927,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -17730,6 +18942,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -17744,6 +18957,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -17758,6 +18972,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -17772,6 +18987,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -17786,6 +19002,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -17799,6 +19016,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -17812,6 +19030,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -17825,9 +19044,10 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -17841,6 +19061,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Toothed_Club.md">Toothed Club</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -17855,6 +19076,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -17870,6 +19092,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -17890,6 +19113,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Morning_Star.md">Morning Star</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -17904,6 +19128,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sacred_Hammer.md">Sacred Hammer</a></b></td>
@@ -17917,6 +19142,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Pastry_Paster.md">The Pastry Paster</a></b></td>
@@ -17932,6 +19158,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pernach.md">Pernach</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -17946,6 +19173,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Star.md">Night Star</a><abbr></abbr> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -17960,9 +19188,10 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Spears.md">Spears</a></td>
+  <td colspan="12"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -17976,6 +19205,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Spear.md">Iron Spear</a></b></td>
@@ -17989,6 +19219,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Gremorian Longspear</a></b><br>
@@ -18003,6 +19234,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
@@ -18018,6 +19250,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
@@ -18033,6 +19266,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18047,6 +19281,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18068,6 +19303,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18087,6 +19323,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
@@ -18102,6 +19339,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18118,6 +19356,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -18133,6 +19372,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serrated_Warspear.md">Serrated Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18147,6 +19387,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18161,6 +19402,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
@@ -18176,6 +19418,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -18190,6 +19433,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="True_Seraph_Spear.md">True Seraph Spear</a></b></td>
@@ -18203,6 +19447,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.96x</td>
   <td>-</td>
   <td>28.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -18218,6 +19463,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a></b></td>
@@ -18235,6 +19481,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
@@ -18250,6 +19497,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.92x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18264,6 +19512,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -18277,9 +19526,10 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Staves.md">Staves</a></td>
+  <td colspan="12"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -18293,6 +19543,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1.01x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -18307,6 +19558,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>27.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -18322,6 +19574,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.91x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>
@@ -18336,9 +19589,10 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.92x</td>
   <td>-</td>
   <td>31.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Rifles</td>
+  <td colspan="12">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -18352,6 +19606,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
@@ -18365,6 +19620,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
@@ -18380,6 +19636,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -18395,6 +19652,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -18409,6 +19667,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
@@ -18422,6 +19681,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
@@ -18435,6 +19695,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -18452,9 +19713,10 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -18468,6 +19730,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>19.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
@@ -18483,6 +19746,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
@@ -18498,6 +19762,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></b></td>
@@ -18511,6 +19776,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.94x</td>
   <td>-</td>
   <td>29.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Death's_Reverie.md">Death's Reverie</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18525,6 +19791,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescendo.md">Crescendo</a></b></td>
@@ -18538,6 +19805,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.92x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
@@ -18551,9 +19819,10 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Bows</td>
+  <td colspan="12">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -18567,6 +19836,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.97x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hunting_Bow.md">Hunting Bow</a></b></td>
@@ -18580,6 +19850,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -18595,6 +19866,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Guiding_Star.md"><font>Guiding Star</font></a></b></td>
@@ -18610,6 +19882,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>1x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -18638,6 +19911,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -18651,6 +19925,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.83x</td>
   <td>0.1s</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
@@ -18667,6 +19942,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
@@ -18683,6 +19959,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
@@ -18698,6 +19975,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.83x</td>
   <td>-</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -18714,6 +19992,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Birch.md">Iron Birch</a></b></td>
@@ -18727,6 +20006,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.85x</td>
   <td>0.1s</td>
   <td>37.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Evanspear_Greataxe.md">Evanspear Greataxe</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -18741,6 +20021,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.1s</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></b></td>
@@ -18754,6 +20035,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Relic_Axe.md">Relic Axe</a></b></td>
@@ -18767,6 +20049,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></b></td>
@@ -18780,6 +20063,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.94x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skyreap_Blade.md">Skyreap Blade</a></b></td>
@@ -18793,6 +20077,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.91x</td>
   <td>0.1s</td>
   <td>35.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Axe.md">Enforcer's Axe</a></b></td>
@@ -18806,6 +20091,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.76x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
@@ -18821,6 +20107,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
@@ -18836,6 +20123,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
@@ -18852,6 +20140,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.87x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskguard_Axe.md">Duskguard Axe</a></b></td>
@@ -18867,6 +20156,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.85x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Axe.md">Night Axe</a></b></td>
@@ -18880,6 +20170,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.77x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Briar.md">Pale Briar</a></b></td>
@@ -18894,6 +20185,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.81x</td>
   <td>0.15s</td>
   <td>35.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></b></td>
@@ -18909,6 +20201,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.7x</td>
   <td>0.15s</td>
   <td>49.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -18922,6 +20215,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Par's_Glaive.md">Par's Glaive</a><abbr></abbr></b></td>
@@ -18935,6 +20229,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.8x</td>
   <td>-</td>
   <td>32.5</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -18957,6 +20252,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -18970,6 +20266,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.83x</td>
   <td>0.1s</td>
   <td>31.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
@@ -18987,6 +20284,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -19004,6 +20302,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
@@ -19021,6 +20320,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
@@ -19037,6 +20337,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.8x</td>
   <td>0.1s</td>
   <td>39.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></b></td>
@@ -19051,6 +20352,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.84x</td>
   <td>0.1s</td>
   <td>38.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -19067,6 +20369,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.93x</td>
   <td>0.1s</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -19083,6 +20386,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -19100,6 +20404,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsieger.md"><font>Kyrsieger</font></a></b></td>
@@ -19115,6 +20420,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -19132,6 +20438,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
@@ -19149,6 +20456,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -19165,6 +20473,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -19181,6 +20490,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wretched_Mawblades.md">Wretched Mawblades</a></b></td>
@@ -19194,6 +20504,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -19207,6 +20518,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.82x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
@@ -19224,6 +20536,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -19241,6 +20554,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
@@ -19257,6 +20571,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
@@ -19273,6 +20588,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrscleave.md">Kyrscleave</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -19287,6 +20603,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Railblade.md">Railblade</a></b></td>
@@ -19301,6 +20618,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.88x</td>
   <td>0.1s</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Fractine.md"><font>Fractine</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b>(BRKN)</td>
@@ -19320,6 +20638,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Blade.md">Enforcer's Blade</a></b></td>
@@ -19334,6 +20653,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.79x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Lumensplitter.md"><font>Lumensplitter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -19349,10 +20669,11 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -19362,6 +20683,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -19375,6 +20697,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -19388,6 +20711,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.88x</td>
   <td>-</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Cleaver.md">Darksteel Cleaver</a><abbr></abbr></b></td>
@@ -19402,6 +20726,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.75x</td>
   <td>0.3s</td>
   <td>45.6</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -19424,6 +20749,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -19441,6 +20767,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
@@ -19457,6 +20784,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rockmaller.md">Rockmaller</a></b></td>
@@ -19471,6 +20799,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.82x</td>
   <td>0.1s</td>
   <td>39.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -19487,6 +20816,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
@@ -19504,6 +20834,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>47.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Great_Maul.md">Great Maul</a></b></td>
@@ -19518,6 +20849,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Putrid_Edenstaff.md">Putrid Edenstaff</a></b></td>
@@ -19531,6 +20863,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
@@ -19548,6 +20881,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
@@ -19564,6 +20898,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Morning.md">Pale Morning</a></b></td>
@@ -19579,6 +20914,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -19594,6 +20930,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -19609,6 +20946,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.73x</td>
   <td>0.15s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -19624,6 +20962,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -19637,6 +20976,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.82x</td>
   <td>0.1s</td>
   <td>42.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
@@ -19651,6 +20991,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -19665,6 +21006,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kanabo.md">Kanabo</a></b></td>
@@ -19680,6 +21022,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></b></td>
@@ -19694,6 +21037,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.62x</td>
   <td>0.15s</td>
   <td>49</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Saint_Jay's_Hammer.md">Saint Jay's Hammer</a><abbr></abbr></b></td>
@@ -19708,6 +21052,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>30.5</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -19730,6 +21075,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -19744,6 +21090,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.81x</td>
   <td>0.1s</td>
   <td>39.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Barrel.md">The Barrel</a></b></td>
@@ -19758,6 +21105,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.82x</td>
   <td>0.1s</td>
   <td>41.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
@@ -19772,6 +21120,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.81x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -19786,6 +21135,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -19806,9 +21156,10 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -19822,6 +21173,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
@@ -19838,6 +21190,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
@@ -19854,6 +21207,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
@@ -19869,6 +21223,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>-</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -19885,6 +21240,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Birch.md">Iron Birch</a></b></td>
@@ -19898,6 +21254,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>37.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Evanspear_Greataxe.md">Evanspear Greataxe</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -19912,6 +21269,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.1s</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></b></td>
@@ -19925,6 +21283,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Relic_Axe.md">Relic Axe</a></b></td>
@@ -19938,6 +21297,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></b></td>
@@ -19951,6 +21311,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.94x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skyreap_Blade.md">Skyreap Blade</a></b></td>
@@ -19964,6 +21325,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.91x</td>
   <td>0.1s</td>
   <td>35.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Axe.md">Enforcer's Axe</a></b></td>
@@ -19977,6 +21339,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.76x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
@@ -19992,6 +21355,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
@@ -20007,6 +21371,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
@@ -20023,6 +21388,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.87x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskguard_Axe.md">Duskguard Axe</a></b></td>
@@ -20038,6 +21404,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Axe.md">Night Axe</a></b></td>
@@ -20051,6 +21418,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.77x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Briar.md">Pale Briar</a></b></td>
@@ -20065,6 +21433,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.81x</td>
   <td>0.15s</td>
   <td>35.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></b></td>
@@ -20080,6 +21449,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.7x</td>
   <td>0.15s</td>
   <td>49.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -20093,6 +21463,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Par's_Glaive.md">Par's Glaive</a><abbr></abbr></b></td>
@@ -20106,9 +21477,10 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>-</td>
   <td>32.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -20122,6 +21494,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>31.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
@@ -20139,6 +21512,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -20156,6 +21530,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
@@ -20173,6 +21548,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
@@ -20189,6 +21565,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>39.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></b></td>
@@ -20203,6 +21580,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.84x</td>
   <td>0.1s</td>
   <td>38.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -20219,6 +21597,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.93x</td>
   <td>0.1s</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -20235,6 +21614,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -20252,6 +21632,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.1s</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsieger.md"><font>Kyrsieger</font></a></b></td>
@@ -20267,6 +21648,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -20284,6 +21666,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
@@ -20301,6 +21684,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -20317,6 +21701,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -20333,6 +21718,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.1s</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wretched_Mawblades.md">Wretched Mawblades</a></b></td>
@@ -20346,6 +21732,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -20359,6 +21746,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.82x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
@@ -20376,6 +21764,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -20393,6 +21782,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.1s</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
@@ -20409,6 +21799,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
@@ -20425,6 +21816,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrscleave.md">Kyrscleave</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -20439,6 +21831,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.1s</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Railblade.md">Railblade</a></b></td>
@@ -20453,6 +21846,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.88x</td>
   <td>0.1s</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Fractine.md"><font>Fractine</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b>(BRKN)</td>
@@ -20472,6 +21866,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Blade.md">Enforcer's Blade</a></b></td>
@@ -20486,6 +21881,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.79x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Lumensplitter.md"><font>Lumensplitter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -20501,10 +21897,11 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.1s</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -20514,6 +21911,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -20527,6 +21925,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -20540,6 +21939,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.88x</td>
   <td>-</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Cleaver.md">Darksteel Cleaver</a><abbr></abbr></b></td>
@@ -20554,9 +21954,10 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.75x</td>
   <td>0.3s</td>
   <td>45.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -20574,6 +21975,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
@@ -20590,6 +21992,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rockmaller.md">Rockmaller</a></b></td>
@@ -20604,6 +22007,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.82x</td>
   <td>0.1s</td>
   <td>39.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -20620,6 +22024,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
@@ -20637,6 +22042,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>47.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Great_Maul.md">Great Maul</a></b></td>
@@ -20651,6 +22057,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Putrid_Edenstaff.md">Putrid Edenstaff</a></b></td>
@@ -20664,6 +22071,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
@@ -20681,6 +22089,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
@@ -20697,6 +22106,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Morning.md">Pale Morning</a></b></td>
@@ -20712,6 +22122,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -20727,6 +22138,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -20742,6 +22154,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.73x</td>
   <td>0.15s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -20757,6 +22170,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -20770,6 +22184,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.82x</td>
   <td>0.1s</td>
   <td>42.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
@@ -20784,6 +22199,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -20798,6 +22214,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kanabo.md">Kanabo</a></b></td>
@@ -20813,6 +22230,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></b></td>
@@ -20827,6 +22245,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.62x</td>
   <td>0.15s</td>
   <td>49</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Saint_Jay's_Hammer.md">Saint Jay's Hammer</a><abbr></abbr></b></td>
@@ -20841,9 +22260,10 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>30.5</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -20858,6 +22278,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.81x</td>
   <td>0.1s</td>
   <td>39.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Barrel.md">The Barrel</a></b></td>
@@ -20872,6 +22293,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.82x</td>
   <td>0.1s</td>
   <td>41.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
@@ -20886,6 +22308,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.81x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -20900,6 +22323,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -20908,19 +22332,19 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 
 Hybrid Weapons are weapons that require and scale on two or more different weapon or attunement stats, such as requiring Medium and Heavy stats. This weapon class is too diverse to be explained simply, with each weapon being uniquely itself.
 
-| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Hybrid Weapons
 
 | **[Wyrmtooth](Wyrmtooth.md)** | Medium & Heavy | 60 MED  
 40 HVY  
 LVL 10 | 20 | MED: 6.5  
-HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 |
+HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
 | **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** | Light & Heavy | 25 HVY  
 75 FIR  
 10 LHT | 21 | HVY: 5 (GS)  
 LHT: 5 (Dagger)  
-FIR: 4 (Both) | 15% | \- | 5 | 8 | 0.93x | \- | 35.2 |
+FIR: 4 (Both) | 15% | \- | 5 | 8 | 0.93x | \- | 35.2 | **✗** |
 | **[Red Death](Red_Death.md) ([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
 25 MND  
 45 SDW  
@@ -20929,24 +22353,24 @@ LVL 8 | 16 | MED: 2.5
 MND: 2  
 SDW: 3  
 BLD: 3 | 25% | \- | 6 | 9.5 | 0.92x | \- | 26.9  
-([+4 BLD](Status_Effects.md#bleed)) |
+([+4 BLD](Status_Effects.md#bleed)) | **✗** |
 | **[Eyes of Ethiron](Eyes_of_Ethiron.md)** | Shadowcast & Galebreathe | 40 MED  
 40 SDW  
 40 WND  
 LVL 10 | 16.5 | MED: 4  
 SDW: 4.5  
-WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 |
+WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
 | **[Rimebreakers](Rimebreakers.md)** | Frostdraw & Galebreathe | 50 ICE  
 50 LHT  
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
-ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 |
-| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 |
+ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
+| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 | **✗** |
 | **[Vapormaw Carbine](Vapormaw_Carbine.md)** | Flamecharm & Frostdraw | 50 MED  
 30 FIR  
 30 ICE | 17 | MED: 4  
 FIR: 3  
-ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
+ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 | **✗** |
 
 **Elemental:**
 
@@ -20966,9 +22390,10 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -20983,6 +22408,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -21000,6 +22426,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -21015,6 +22442,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen Hellflame</font></a></b></td>
@@ -21030,6 +22458,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -21043,6 +22472,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -21060,9 +22490,10 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -21077,6 +22508,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -21093,6 +22525,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -21109,6 +22542,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -21125,6 +22559,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -21142,6 +22577,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -21157,6 +22593,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -21171,6 +22608,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.06x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -21184,6 +22622,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -21201,9 +22640,10 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -21218,6 +22658,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -21233,6 +22674,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -21249,6 +22691,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -21265,6 +22708,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -21278,9 +22722,10 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -21295,6 +22740,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -21310,6 +22756,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.1x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -21326,6 +22773,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -21344,6 +22792,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -21361,6 +22810,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -21376,6 +22826,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -21389,9 +22840,10 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -21406,6 +22858,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -21427,6 +22880,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -21446,6 +22900,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -21462,6 +22917,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -21480,6 +22936,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -21495,6 +22952,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -21510,6 +22968,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -21525,6 +22984,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -21538,9 +22998,10 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -21561,6 +23022,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -21576,10 +23038,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -21589,6 +23052,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -21602,9 +23066,10 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -21620,6 +23085,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.22x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -21638,6 +23104,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -21655,6 +23122,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -21670,6 +23138,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.08x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -21691,6 +23160,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -21709,28 +23179,33 @@ Shields are defensive tools that when wielded in your offhand, apply their postu
   <th>Name</th>
   <th>Requirements</th>
   <th>Max Posture Bonus</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Targe.md">Targe</a></b></td>
   <td>10 FTD</td>
   <td>4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
   <td>15 FTD</td>
   <td>2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kite_Shield.md">Kite Shield</a></b></td>
   <td>20 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
@@ -21738,6 +23213,7 @@ Shields are defensive tools that when wielded in your offhand, apply their postu
   <small><a href="Tenacity.md">Tenacity</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
@@ -21745,42 +23221,50 @@ Shields are defensive tools that when wielded in your offhand, apply their postu
   <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper's_Shield.md">Worshipper's Shield</a></b></td>
   <td>40 FTD</td>
   <td>6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Aegis.md">Adretian Aegis</a></b></td>
   <td>50 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>6.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ethiron_Curseshield.md">Ethiron Curseshield</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gourdguard.md">Gourdguard</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Shield.md">Legion Shield</a></b></td>
   <td>60 FTD</td>
   <td>8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Path's_Defender.md">The Path's Defender</a></b></td>
   <td>75 FTD</td>
   <td>10</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icarus_Sun_Shield.md">Icarus Sun Shield</a><abbr></abbr></b></td>
   <td>60 FTD</td>
   <td>10</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -21795,16 +23279,19 @@ Miscellaneous offhands are tools that do not fit being a shield or a weapon, and
   <th>Name</th>
   <th>Requirements</th>
   <th>Parry Posture Restoration</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Parrying_Dagger.md">Parrying Dagger</a></b></td>
   <td>10 AGI</td>
   <td>20%</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstear.md">Kyrstear</a></b></td>
   <td>40 AGI</td>
   <td>30%</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -21828,6 +23315,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Offhand Cooldown</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -21838,6 +23326,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -21848,6 +23337,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10</td>
   <td>2.4s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -21860,6 +23350,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -21870,6 +23361,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3</td>
   <td>12</td>
   <td>2.2s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -21880,6 +23372,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3.5</td>
   <td>11</td>
   <td>3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -21890,6 +23383,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>4</td>
   <td>11</td>
   <td>1.3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -21902,6 +23396,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>2.5</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -21912,6 +23407,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3</td>
   <td>12</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -21922,6 +23418,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -21934,28 +23431,33 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <th>Name</th>
   <th>Requirements</th>
   <th>Max Posture Bonus</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Targe.md">Targe</a></b></td>
   <td>10 FTD</td>
   <td>4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
   <td>15 FTD</td>
   <td>2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kite_Shield.md">Kite Shield</a></b></td>
   <td>20 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
@@ -21963,6 +23465,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <small><a href="Tenacity.md">Tenacity</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
@@ -21970,42 +23473,50 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper's_Shield.md">Worshipper's Shield</a></b></td>
   <td>40 FTD</td>
   <td>6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Aegis.md">Adretian Aegis</a></b></td>
   <td>50 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>6.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ethiron_Curseshield.md">Ethiron Curseshield</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gourdguard.md">Gourdguard</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Shield.md">Legion Shield</a></b></td>
   <td>60 FTD</td>
   <td>8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Path's_Defender.md">The Path's Defender</a></b></td>
   <td>75 FTD</td>
   <td>10</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icarus_Sun_Shield.md">Icarus Sun Shield</a><abbr></abbr></b></td>
   <td>60 FTD</td>
   <td>10</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -22016,16 +23527,19 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <th>Name</th>
   <th>Requirements</th>
   <th>Parry Posture Restoration</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Parrying_Dagger.md">Parrying Dagger</a></b></td>
   <td>10 AGI</td>
   <td>20%</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstear.md">Kyrstear</a></b></td>
   <td>40 AGI</td>
   <td>30%</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -22041,6 +23555,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Offhand Cooldown</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -22051,6 +23566,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -22061,6 +23577,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10</td>
   <td>2.4s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -22073,6 +23590,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -22083,6 +23601,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3</td>
   <td>12</td>
   <td>2.2s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -22093,6 +23612,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3.5</td>
   <td>11</td>
   <td>3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -22103,6 +23623,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>4</td>
   <td>11</td>
   <td>1.3s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -22115,6 +23636,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>2.5</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -22125,6 +23647,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3</td>
   <td>12</td>
   <td>?</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -22135,6 +23658,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10.5</td>
   <td>2.7s</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -22143,31 +23667,31 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 
 Weapons/Weapon Skins that are exclusive for special people.
 
-| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Exclusive Weapons
 
 | **[Calamity Cinnabar](Calamity_Cinnabar.md)** | 75 SDW  
 40 HVY  
 LVL 10 | 22 | SDW: 9  
-HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 |
-| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
-| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 |
+HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 | ??? |
+| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
+| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 | ??? |
 | **[Moon Blades](Moon_Blades.md) ([Bleed](Status_Effects.md#bleed))** | 60 LHT  
 30 INT | 13 | LHT: 8  
 INT: 2 | 30% | \- | 4 | 6 | 1.25x | \- | 22.8  
-([+3.4 BLD](Status_Effects.md#bleed)) |
-| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | \- | 57 |
-| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | \- | 193.8 |
+([+3.4 BLD](Status_Effects.md#bleed)) | ??? |
+| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | \- | 57 | ??? |
+| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | \- | 193.8 | **✓** |
 | **[Unsung Scythern](Unsung_Scythern.md)** | 75 HVY  
-LVL 10 | 26 | HVY: 9 | 10% | \- | 8 | 8 | 0.8x | \- | 43.6 |
-| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | \- | 35.1 |
+LVL 10 | 26 | HVY: 9 | 10% | \- | 8 | 8 | 0.8x | \- | 43.6 | ??? |
+| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | \- | 35.1 | ??? |
 | **[The Endless Wave](The_Endless_Wave.md)** | 60 HVY  
 50 STR | 25 | HVY: 8  
-STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 |
+STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 | ??? |
 | **[Ebonshard Lexicon](Ebonshard_Lexicon.md)** | 200 HVY  
 150 STR | 30 | HVY: 6  
-STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 |
+STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 | ??? |
 
 **All:**
 
@@ -22187,9 +23711,10 @@ Every player-obtainable weapon, excluding offhands.
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -22203,6 +23728,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stiletto.md">Stiletto</a></b></td>
@@ -22216,6 +23742,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>14.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
@@ -22231,6 +23758,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Silver_Dagger.md">Silver Dagger</a></b></td>
@@ -22244,6 +23772,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>19.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
@@ -22259,6 +23788,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.3x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Canor_Fang.md">Canor Fang</a></b></td>
@@ -22272,6 +23802,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>21</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fool's_Tankard.md">Fool's Tankard</a></b></td>
@@ -22285,6 +23816,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
@@ -22300,6 +23832,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>21.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Dagger.md">Champion's Dagger</a></b></td>
@@ -22313,6 +23846,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Central_Dirk.md">Central Dirk</a></b></td>
@@ -22327,6 +23861,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
@@ -22342,6 +23877,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.14x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -22357,6 +23893,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
@@ -22370,6 +23907,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -22388,6 +23926,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
@@ -22403,6 +23942,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
@@ -22416,6 +23956,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Spectral_Grasp.md">Spectral Grasp</a></b></td>
@@ -22429,6 +23970,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Moppet.md">Moppet</a></b></td>
@@ -22442,6 +23984,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsedge.md">Kyrsedge</a></b></td>
@@ -22455,6 +23998,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
@@ -22470,6 +24014,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
@@ -22485,6 +24030,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.15x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Big_Brother.md">Big Brother</a></b></td>
@@ -22498,6 +24044,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cerulean_Thread.md">Cerulean Thread</a></b></td>
@@ -22512,6 +24059,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -22526,6 +24074,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -22539,6 +24088,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Golden_Fool.md">The Golden Fool</a><abbr></abbr></b></td>
@@ -22552,12 +24102,13 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.24x</td>
   <td>-</td>
   <td>23.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Fists.md">Fists</a></td>
+  <td colspan="12"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -22571,6 +24122,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
@@ -22584,6 +24136,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.14x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
@@ -22597,6 +24150,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
@@ -22610,6 +24164,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
@@ -22623,6 +24178,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3 (9.2)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
@@ -22636,9 +24192,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><b>Cestus</b></td>
+  <td colspan="12"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -22652,6 +24209,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.6x</td>
   <td>-</td>
   <td>1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
@@ -22665,6 +24223,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.11x</td>
   <td>-</td>
   <td>21.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
@@ -22679,6 +24238,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.14x</td>
   <td>-</td>
   <td>22.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
@@ -22692,6 +24252,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.11x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
@@ -22707,6 +24268,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>25.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -22722,6 +24284,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -22737,6 +24300,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.11x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -22754,6 +24318,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
@@ -22767,6 +24332,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.12x</td>
   <td>-</td>
   <td>24.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
@@ -22780,6 +24346,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.11x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
@@ -22795,6 +24362,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -22810,6 +24378,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -22824,6 +24393,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
@@ -22838,6 +24408,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.11x</td>
   <td>-</td>
   <td>25.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
@@ -22854,6 +24425,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.13x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
@@ -22868,6 +24440,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.08x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
@@ -22883,6 +24456,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>26</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
@@ -22897,6 +24471,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
@@ -22910,9 +24485,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -22926,6 +24502,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.08x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Apprentice_Rapier.md">Apprentice Rapier</a></b></td>
@@ -22939,6 +24516,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>19.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></b></td>
@@ -22953,6 +24531,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.08x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -22968,6 +24547,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -22983,6 +24563,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crucible_Rapier.md">Crucible Rapier</a></b></td>
@@ -22996,6 +24577,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Golden_Swordfish.md">Golden Swordfish</a></b></td>
@@ -23009,6 +24591,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Needle's_Eye.md">Needle's Eye</a></b></td>
@@ -23022,6 +24605,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.05x</td>
   <td>-</td>
   <td>27</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skull_Piercer.md">Skull Piercer</a><br>
@@ -23037,6 +24621,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrstreza.md">Kyrstreza</a></b></td>
@@ -23050,6 +24635,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.09x</td>
   <td>-</td>
   <td>24.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icepick.md">Icepick</a><abbr></abbr></b></td>
@@ -23063,9 +24649,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -23079,6 +24666,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -23092,6 +24680,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -23107,6 +24696,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -23122,6 +24712,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -23135,6 +24726,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -23148,6 +24740,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -23161,6 +24754,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -23176,6 +24770,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -23189,6 +24784,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -23202,9 +24798,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Swords.md">Swords</a></td>
+  <td colspan="12"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -23218,6 +24815,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dormant_Splinter.md">Dormant Splinter</a></b></td>
@@ -23231,6 +24829,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>7.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
@@ -23246,6 +24845,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
@@ -23261,6 +24861,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scimitar.md">Scimitar</a></b></td>
@@ -23274,6 +24875,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.09x</td>
   <td>-</td>
   <td>18.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
@@ -23289,6 +24891,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper_Longsword.md">Worshipper Longsword</a></b></td>
@@ -23302,6 +24905,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
@@ -23317,6 +24921,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
@@ -23332,6 +24937,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Sword.md">Champion's Sword</a></b></td>
@@ -23345,6 +24951,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.02x</td>
   <td>-</td>
   <td>28.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
@@ -23361,6 +24968,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>28.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -23377,6 +24985,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -23395,6 +25004,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -23415,6 +25025,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
@@ -23430,6 +25041,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>30.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></b></td>
@@ -23444,6 +25056,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>25.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kindred_Edict.md">Kindred Edict</a></b></td>
@@ -23459,6 +25072,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.05x</td>
   <td>-</td>
   <td>29.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></b></td>
@@ -23472,6 +25086,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29.9</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Razor_Cutlass.md">Razor Cutlass</a><br>
@@ -23487,6 +25102,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -23503,6 +25119,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>-</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -23516,6 +25133,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fondant_Splitter.md">Fondant Splitter</a></b></td>
@@ -23530,6 +25148,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Umbrite_Witherblade.md">Umbrite Witherblade</a><br>
@@ -23547,6 +25166,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serpent's_Edge.md">Serpent's Edge</a></b></td>
@@ -23560,6 +25180,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hallowscleave.md">Hallowscleave</a></b></td>
@@ -23573,6 +25194,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
@@ -23588,6 +25210,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
@@ -23603,6 +25226,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
@@ -23618,6 +25242,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
@@ -23633,6 +25258,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -23648,6 +25274,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
@@ -23663,6 +25290,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
@@ -23678,6 +25306,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsblade.md">Kyrsblade</a></b></td>
@@ -23691,6 +25320,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -23707,6 +25337,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eye_of_Malice.md"><font>Eye of Malice</font></a></b></td>
@@ -23720,6 +25351,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
@@ -23734,6 +25366,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -23750,6 +25383,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Purple_Cloud.md">Purple Cloud</a></b></td>
@@ -23764,6 +25398,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shattered_Katana.md">Shattered Katana</a></b></td>
@@ -23778,6 +25413,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.00x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nocturne.md">Nocturne</a></b></td>
@@ -23792,6 +25428,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
@@ -23805,6 +25442,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -23819,6 +25457,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -23833,6 +25472,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -23847,6 +25487,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -23861,6 +25502,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -23875,6 +25517,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -23888,6 +25531,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -23901,6 +25545,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -23914,9 +25559,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -23930,6 +25576,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Toothed_Club.md">Toothed Club</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -23944,6 +25591,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -23959,6 +25607,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -23979,6 +25628,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Morning_Star.md">Morning Star</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -23993,6 +25643,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sacred_Hammer.md">Sacred Hammer</a></b></td>
@@ -24006,6 +25657,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Pastry_Paster.md">The Pastry Paster</a></b></td>
@@ -24021,6 +25673,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pernach.md">Pernach</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24035,6 +25688,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Star.md">Night Star</a><abbr></abbr> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24049,9 +25703,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Spears.md">Spears</a></td>
+  <td colspan="12"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -24065,6 +25720,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Spear.md">Iron Spear</a></b></td>
@@ -24078,6 +25734,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Gremorian Longspear</a></b><br>
@@ -24092,6 +25749,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
@@ -24107,6 +25765,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
@@ -24122,6 +25781,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24136,6 +25796,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24157,6 +25818,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24176,6 +25838,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
@@ -24191,6 +25854,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24207,6 +25871,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -24222,6 +25887,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serrated_Warspear.md">Serrated Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24236,6 +25902,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24250,6 +25917,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
@@ -24265,6 +25933,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -24279,6 +25948,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="True_Seraph_Spear.md">True Seraph Spear</a></b></td>
@@ -24292,6 +25962,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.96x</td>
   <td>-</td>
   <td>28.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -24307,6 +25978,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a></b></td>
@@ -24324,6 +25996,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
@@ -24339,6 +26012,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.92x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24353,6 +26027,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -24366,9 +26041,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Staves.md">Staves</a></td>
+  <td colspan="12"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -24382,6 +26058,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.01x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -24396,6 +26073,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>27.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -24411,6 +26089,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.91x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>
@@ -24425,9 +26104,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.92x</td>
   <td>-</td>
   <td>31.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Rifles</td>
+  <td colspan="12">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -24441,6 +26121,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
@@ -24454,6 +26135,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
@@ -24469,6 +26151,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -24484,6 +26167,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -24498,6 +26182,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
@@ -24511,6 +26196,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
@@ -24524,6 +26210,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -24541,9 +26228,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -24557,6 +26245,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>19.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
@@ -24572,6 +26261,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
@@ -24587,6 +26277,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></b></td>
@@ -24600,6 +26291,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.94x</td>
   <td>-</td>
   <td>29.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Death's_Reverie.md">Death's Reverie</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24614,6 +26306,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescendo.md">Crescendo</a></b></td>
@@ -24627,6 +26320,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.92x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
@@ -24640,9 +26334,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11">Bows</td>
+  <td colspan="12">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -24656,6 +26351,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>22.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hunting_Bow.md">Hunting Bow</a></b></td>
@@ -24669,6 +26365,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -24684,6 +26381,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Guiding_Star.md"><font>Guiding Star</font></a></b></td>
@@ -24699,9 +26397,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -24715,6 +26414,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
@@ -24731,6 +26431,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
@@ -24747,6 +26448,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
@@ -24762,6 +26464,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>-</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -24778,6 +26481,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Birch.md">Iron Birch</a></b></td>
@@ -24791,6 +26495,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>37.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Evanspear_Greataxe.md">Evanspear Greataxe</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -24805,6 +26510,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></b></td>
@@ -24818,6 +26524,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Relic_Axe.md">Relic Axe</a></b></td>
@@ -24831,6 +26538,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></b></td>
@@ -24844,6 +26552,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.94x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skyreap_Blade.md">Skyreap Blade</a></b></td>
@@ -24857,6 +26566,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.91x</td>
   <td>0.1s</td>
   <td>35.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Axe.md">Enforcer's Axe</a></b></td>
@@ -24870,6 +26580,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.76x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
@@ -24885,6 +26596,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
@@ -24900,6 +26612,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
@@ -24916,6 +26629,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.87x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskguard_Axe.md">Duskguard Axe</a></b></td>
@@ -24931,6 +26645,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Axe.md">Night Axe</a></b></td>
@@ -24944,6 +26659,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.77x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Briar.md">Pale Briar</a></b></td>
@@ -24958,6 +26674,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.81x</td>
   <td>0.15s</td>
   <td>35.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></b></td>
@@ -24973,6 +26690,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.7x</td>
   <td>0.15s</td>
   <td>49.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -24986,6 +26704,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Par's_Glaive.md">Par's Glaive</a><abbr></abbr></b></td>
@@ -24999,9 +26718,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>-</td>
   <td>32.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -25015,6 +26735,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>31.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
@@ -25032,6 +26753,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -25049,6 +26771,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
@@ -25066,6 +26789,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
@@ -25082,6 +26806,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>39.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></b></td>
@@ -25096,6 +26821,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.84x</td>
   <td>0.1s</td>
   <td>38.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -25112,6 +26838,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>0.1s</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -25128,6 +26855,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -25145,6 +26873,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsieger.md"><font>Kyrsieger</font></a></b></td>
@@ -25160,6 +26889,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -25177,6 +26907,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
@@ -25194,6 +26925,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -25210,6 +26942,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -25226,6 +26959,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wretched_Mawblades.md">Wretched Mawblades</a></b></td>
@@ -25239,6 +26973,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -25252,6 +26987,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.82x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
@@ -25269,6 +27005,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -25286,6 +27023,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
@@ -25302,6 +27040,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
@@ -25318,6 +27057,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrscleave.md">Kyrscleave</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -25332,6 +27072,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Railblade.md">Railblade</a></b></td>
@@ -25346,6 +27087,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.88x</td>
   <td>0.1s</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Fractine.md"><font>Fractine</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b>(BRKN)</td>
@@ -25365,6 +27107,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Blade.md">Enforcer's Blade</a></b></td>
@@ -25379,6 +27122,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.79x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Lumensplitter.md"><font>Lumensplitter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -25394,10 +27138,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -25407,6 +27152,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -25420,6 +27166,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -25433,6 +27180,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.88x</td>
   <td>-</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Cleaver.md">Darksteel Cleaver</a><abbr></abbr></b></td>
@@ -25447,9 +27195,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.75x</td>
   <td>0.3s</td>
   <td>45.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -25467,6 +27216,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
@@ -25483,6 +27233,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rockmaller.md">Rockmaller</a></b></td>
@@ -25497,6 +27248,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.82x</td>
   <td>0.1s</td>
   <td>39.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -25513,6 +27265,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
@@ -25530,6 +27283,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>47.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Great_Maul.md">Great Maul</a></b></td>
@@ -25544,6 +27298,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Putrid_Edenstaff.md">Putrid Edenstaff</a></b></td>
@@ -25557,6 +27312,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
@@ -25574,6 +27330,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
@@ -25590,6 +27347,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Morning.md">Pale Morning</a></b></td>
@@ -25605,6 +27363,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -25620,6 +27379,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -25635,6 +27395,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.73x</td>
   <td>0.15s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -25650,6 +27411,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -25663,6 +27425,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.82x</td>
   <td>0.1s</td>
   <td>42.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
@@ -25677,6 +27440,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -25691,6 +27455,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kanabo.md">Kanabo</a></b></td>
@@ -25706,6 +27471,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></b></td>
@@ -25720,6 +27486,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.62x</td>
   <td>0.15s</td>
   <td>49</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Saint_Jay's_Hammer.md">Saint Jay's Hammer</a><abbr></abbr></b></td>
@@ -25734,9 +27501,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>30.5</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -25751,6 +27519,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.81x</td>
   <td>0.1s</td>
   <td>39.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Barrel.md">The Barrel</a></b></td>
@@ -25765,6 +27534,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.82x</td>
   <td>0.1s</td>
   <td>41.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
@@ -25779,6 +27549,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.81x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -25793,9 +27564,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -25810,6 +27582,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -25827,6 +27600,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pleeksty's_Inferno.md"><font>Pleeksty's Inferno</font></a></b></td>
@@ -25842,6 +27616,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.94x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen Hellflame</font></a></b></td>
@@ -25857,6 +27632,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -25870,6 +27646,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -25887,9 +27664,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -25904,6 +27682,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -25920,6 +27699,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -25936,6 +27716,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -25952,6 +27733,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -25969,6 +27751,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -25984,6 +27767,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Frostthorn.md"><font>Frostthorn</font></a></b></td>
@@ -25998,6 +27782,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.06x</td>
   <td>-</td>
   <td>24.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -26011,6 +27796,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -26028,9 +27814,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -26045,6 +27832,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -26060,6 +27848,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -26076,6 +27865,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -26092,6 +27882,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -26105,9 +27896,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -26122,6 +27914,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -26137,6 +27930,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>27.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -26153,6 +27947,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -26171,6 +27966,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -26188,6 +27984,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -26203,6 +28000,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -26216,9 +28014,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -26233,6 +28032,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -26254,6 +28054,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -26273,6 +28074,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -26289,6 +28091,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -26307,6 +28110,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
@@ -26322,6 +28126,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deepspindle.md"><font>Deepspindle</font></a></b></td>
@@ -26337,6 +28142,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -26352,6 +28158,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -26365,9 +28172,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -26388,6 +28196,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -26403,10 +28212,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -26416,6 +28226,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -26429,9 +28240,10 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -26447,6 +28259,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.22x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a><br>
@@ -26465,6 +28278,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -26482,6 +28296,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -26497,6 +28312,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>1.08x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -26518,6 +28334,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
@@ -26590,8 +28407,8 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 -   Both of the Rifle Basic Attacks have the same range.
 -   Rifles are the only weapon type that have four basic m1s before a flourish.
 -   Twinblades lack a flourish when two handed, making them the only weapon class to lack a flourish... sometimes.
--   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to scale on alternating weapon stats.
--   Not including weapons that have no attribute requirements, [Flareblood Kamas](Flareblood_Kamas.md), [Frostthorn](Frostthorn.md), and [The Death Knell](The_Death_Knell.md) are the only weapons to scale on attributes that they do not require.
+-   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to have varying scaling stats for its individual basic attacks; its Greatsword light attacks have HVY + FLM scaling, while it's Dagger attacks have LHT + FLM scaling.
+-   Not including weapons that have no attribute requirements, [Flareblood Kamas](Flareblood_Kamas.md), [Duskpole](Duskpole.md), [Frostthorn](Frostthorn.md), and [The Death Knell](The_Death_Knell.md) are the only weapons to scale on attributes that they do not require.
 -   The critical attacks of the [First Light](First_Light.md), [Formless Shard](Formless_Shard.md), [Hero Blades](Hero_Blades.md), [Ignition Deepcrusher](Ignition_Deepcrusher.md), [Iron Requiem](Iron_Requiem.md), [Krulian Knife](Krulian_Knife.md), [Kyrsieger](Kyrsieger.md), [Markor's Inheritor](<Markor's_Inheritor.md>), [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Stoneheart](Stoneheart.md) are mechanically different from all others, having a separate base damage value from the weapons they're tied to.
     -   The First Light, Hero Blades, Ignition Deepcrusher, Iron Requiem, Krulian Knife, and Saintsblade criticals additionally have separate investment scaling from their equipped weapon.
     -   The Formless Shard, Kyrseiger, Sovereign Bangle, and Stoneheart criticals deal flat damage with no investment scaling.
