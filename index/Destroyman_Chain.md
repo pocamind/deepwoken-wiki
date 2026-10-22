@@ -1,6 +1,6 @@
 ---
 title: Destroyman Chain
-revid: 231293
+revid: 231468
 source: https://deepwoken.fandom.com/wiki/Destroyman_Chain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Equipment, Torso, Necklaces]
@@ -28,11 +28,11 @@ notices:
 
 ## Description
 
-The Destroyman Chain is an [Equipment](Equipment.md) item under the "Torso" category. It could only be obtained by winning the "Great War" event hosted by the Deep League.
+The Destroyman Chain was an [Equipment](Equipment.md) item under the "Torso" category. It could only be obtained by winning the "Great War" event hosted by the Deep League.
 
-It resembles the ultimate creature, [Destroyman III](Destroyman_III.md).
+It resembled the ultimate creature, [Destroyman III](Destroyman_III.md).
 
 ## Trivia
 
--   The +0.1% Physical Armor is a joke referencing the [Confessor's Charm](<Confessor's_Charm.md>) and [Pendant of Order](Pendant_of_Order.md), which are widely considered the most optimal torso equipment due to their +3.0% Physical Armor.
+-   The +0.1% Physical Armor was a joke referencing the [Confessor's Charm](<Confessor's_Charm.md>) and [Pendant of Order](Pendant_of_Order.md), which are widely considered the most optimal torso equipment due to their +3.0% Physical Armor.
 -   This item was completely removed from the game on the pv\_OCT\_20\_01:11a update, meaning there's currently no owners of this item, whether this item will return in some way or form is currently unknown.

@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 231145
+revid: 231472
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Outfits]
@@ -15,6 +15,7 @@ categories: [Starter Outfits, Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 250 |
+| resistances | +2% Physical Armor |
 | obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Vow of Iron:, Breaker Memento, Sightless Memento, Steampunk Soldier Memento, Void Glutton Memento |
 | selling_price | N/A |
 | weight | N/A |
@@ -32,7 +33,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 250 durability and grants no other effects to the player.
+This Outfit has 250 durability and grants +2% Physical resistance ResistancePhysical,
 
 ## Trivia
 

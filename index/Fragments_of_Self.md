@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 225760
+revid: 231479
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Death, The Depths]
@@ -80,4 +80,3 @@ Trying to get to Fragments of Self
 -   If you died during [Hell Mode](Hell_Mode.md), the red screen tint stays, although this is most likely a bug.
 -   It is actually possible to chop down the trees around the area if you have a [Lumber Axe](Lumber_Axe.md).
 -   You can hypothetically save somebody from the fragments by headstacking, but it has only ever been done once and headstacking has since been made harder.
--   Upon trying to get up to The Fragments of Self when you haven't wiped yet, Yun'shul interrupts you, saying "INCONCEVABLE.", disabling everything and stuns(?) for a moment, resulting in the player falling down, taking fall damage as normal. [https://www.youtube.com/watch?v=AxPpST6d3eY](https://www.youtube.com/watch?v=AxPpST6d3eY)

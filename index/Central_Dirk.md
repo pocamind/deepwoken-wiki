@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 228896
+revid: 231481
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -35,7 +35,7 @@ categories: [Authority Faction Item, Weapons, Weapons with Talents, "Weapons wit
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Moon's Eyrie, Dread Serpent, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Chime of Conflict, Fort Merit Armory for 80 (Authority Ensign exclusive), Authority Ensign Missions |
-| description | ... |
+| description | A short blade akin to a combat knife, standard issue for soldiers of the Central Authority. |
 
 ## Description
 

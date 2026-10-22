@@ -1,6 +1,6 @@
 ---
 title: Deepwoken (game)
-revid: 211735
+revid: 231478
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -38,7 +38,7 @@ On the 25th of July, 2025, raguza released documents detailing Deepwoken info, w
 
 In the 2022 Roblox Innovation Awards, Deepwoken was nominated in the Best Creative Direction and Best New Experience categories. The game won the award for Best New Experience.
 
-Two years later, in the 2024 Roblox Innovation Awards, the game was nominated in Best Action/RPG category. In 2025, it was nominated for Best Action Experience.
+Two years later, in the 2024 Roblox Innovation Awards, the game was nominated in Best Action/RPG category. In 2025, it was nominated for Best Action Experience, but lost to _Blox Fruit_. In 2026, it was nominated for both Best Action Game and Best RPG Game, but lost to _Jujutsu Shenanigans_ and _Piggy: Intercity_ respectively.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Garb"
-revid: 229330
+revid: 231471
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), -5 Sanity [IconSanity](Insanity.md), +50% Ether Regen [IconEther](Ether.md), and the [Lose Your Mind](Talents.md#lose-your-mind) Talent.
+This Outfit has 2400 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), -5 Sanity [IconSanity](Insanity.md), +50% Ether Regen [IconEther](Ether.md), and the [Lose Your Mind](Talents.md#lose-your-mind) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: +25% Physical ResistancePhysical, 47.5% Ironsing [ResistanceIronsing](Ironsing.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
 
