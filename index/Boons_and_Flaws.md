@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 231278
+revid: 231461
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -46,7 +46,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </td>
   <td>Foods are much more nutritional.</td>
   <td>Grants a 50% increase to Stomach and Thirst gain from consuming food.</td>
-  <td>This also increases the duration (amount of the food bar the buff affects) of your <a href="Food.md">Food</a> buffs by 50%. Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
+  <td>This also increases the duration (amount of the food bar the buff affects) of your <a href="Food.md">Food</a> buffs by 50%, and it <b>entirely</b> disables the reduced healing effect from being at low Stomach/Thirst. Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
   <td>1 Boon Point</td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   </td>
   <td>Your hunger and thirst is depleted faster.</td>
   <td>Stomach and thirst meters passively decrease ~50%-100% faster.</td>
-  <td>Does not affect the stomach loss any non-passive source, such as the <a href="Gluttony.md">Gluttony</a> Enchant or <a href="Chef's_Toque.md">Chef's Toque</a>.</td>
+  <td>Additionally, your movement will be slowed while you are consuming food items. The increased food/thirst depletion effect does not affect the stomach loss any non-passive source, such as the <a href="Gluttony.md">Gluttony</a> Enchant or <a href="Chef's_Toque.md">Chef's Toque</a>.</td>
   <td>1 Boon Point</td>
 </tr>
 <tr>
@@ -317,10 +317,10 @@ Some boons are more worth taking than others:
 
 ### Gourmet
 
-**Gourmet** increases the stomach and hydration gained by consuming food by 50%, and increases the "duration" of [Food Buffs](Status_Effects.md#food-buff) by the same amount.
+**Gourmet** increases the stomach and hydration gained by consuming food by 50%, and increases the "duration" of [Food Buffs](Status_Effects.md#food-buff) by the same amount. Additionally, having this Boon will disable the reduced passive healing rate from being at low stomach/thirst.
 
 -   Notes:
-    -   Gourmet is a well-rounded boon that even stacks with its Talent variant, totaling to +80% stomach and hydration gain from eating food.
+    -   Gourmet is a well-rounded boon that even stacks with its Talent variant, totaling to an +80% boost on the stomach and hydration gain from eating food.
     -   With this Boon, you'll spend less time and Notes making or aquiring food overall, which is great for extended adventures with limited supplies.
     -   Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic.
         -   However, the "duration" of food buffs is tied to how much of the stomach bar they replace, which is dictated by the food item in particular. Consuming more items that provide the same buff will fill your stomach bar more with said buff, meaning that this Boon can be largely ignored, as simply consuming more of the same food will provide the same benefit of making your food buffs last longer.
@@ -422,7 +422,7 @@ Some Flaws are more worth-taking than others:
 
 ### Glutton
 
-**Glutton** increases the rate at which your Hunger meter decays. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+**Glutton** increases the rate at which your Hunger meter decays. Additionally, this Flaw applies a slow debuff to the player when they consume food items. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
 
 -   Notes:
     -   This Flaw forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall.
