@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 223274
+revid: 231416
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Expert Outfits, Outfits, The Ignition Union, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -41,7 +41,7 @@ This Outfit has 1000 durability and grants +25% Physical resistance ResistancePh
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 28.75% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Perseverance](Talents.md#perseverance) Talent lowers your time knocked by 25%, while the [Strong Stern](Talents.md#strong-stern) Talent halves the duration of [Daze](Status_Effects.md#dazed) from being wall-banged.
+The [Perseverance](Talents.md#perseverance) Talent lowers your time [Unconscious](Status_Effects.md#unconscious) and [Ragdolled](Status_Effects.md#ragdoll) by 25%, while the [Strong Stern](Talents.md#strong-stern) Talent halves the duration of [Daze](Status_Effects.md#dazed) from being wall-banged.
 
 ## Trivia
 

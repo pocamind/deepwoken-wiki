@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 223150
+revid: 231441
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -22,7 +22,7 @@ The scent of decay suffocates this murky land, once the home of a fallen Celesti
 
 ## Overview
 
-The Ancient Rotlands is a location in the [Songseeker Wilds](Songseeker_Wilds.md). The area is a murky, large swamp littered with strange flora, with [Nightmare Threshers](Nightmare_Thresher.md) and [Maljurors](Maljuror.md) lurking.
+The Ancient Rotlands is a location in the [Songseeker Wilds](Songseeker_Wilds.md). The area is a murky, large swamp littered with strange flora, with [Maljurors](Maljuror.md) lurking.
 
 The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent to [The Depths](The_Depths.md) if you die in the area.
 

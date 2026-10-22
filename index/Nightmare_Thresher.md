@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 229199
+revid: 231440
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,12 +12,12 @@ categories: [Monsters]
 |---|---|
 | health | 12003000 (Corrupted) |
 | attacks | Tail Sweep, Burrow, Cursed Flame, Ram, Talon Swipes, Rending Maul |
-| locations | Ancient Rotlands, The Diluvian Mechanism |
+| locations | The Diluvian Mechanism |
 | challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## Description
 
-Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn in [the Diluvian mechanism](The_Diluvian_Mechanism.md), and [Ancient Rolands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves.
+Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn in [the Diluvian mechanism](The_Diluvian_Mechanism.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves.
 
 ## **Attacks**
 
@@ -109,13 +109,9 @@ Dodge
 
 -   **Thick Hide** - Nightmare Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
-## Tips
-
--   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzones.md) where the Nightmare Thresher is, you'll be instantly sent to [the depths](The_Depths.md).
-
 ## Trivia
 
 -   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
 -   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
--   Apparently, part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.\[citation needed\]
+-   Apparently, part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.
 -   Previously, they had eyes with black sclera's, green irises and beams protruding throughout their bodies and a green-and-black smoky flame emanating from their orbital region.
