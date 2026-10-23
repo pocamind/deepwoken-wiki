@@ -1,17 +1,24 @@
 ---
 title: Navae
-revid: 231466
+revid: 231482
 source: https://deepwoken.fandom.com/wiki/Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: ["Content not present in-game", The Heavens, Celestials]
 ---
 
 # Navae
 
-Navae is a religious figure and and Celestial worshipped by the [Navaen Nomads](The_Children_of_Navae.md).
+| Navae | |
+|---|---|
+| name | Navae |
+| species | Celestial |
 
-She exists on an island moving through the world, independent of the [Voidsea](Voidsea.md).
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
-She was rescued by a nomad who nursed her back to health after descending from Constellia, making a Hereditary Vow with her which resulted in the [Gremor](Gremor.md) receiving Navae's guidance.
+## Description
+
+The Celestial Navae is a religious figure worshipped by the [The Children of Navae](The_Children_of_Navae.md). She was rescued by a nomad who nursed her back to health after descending from [Constellia](Constellia.md), making a Hereditary Vow with her. This resulted in the [Gremors](Gremor.md) receiving "Navae's guidance" which is an internal compass within every [Gremor](Gremor.md).
+
+She exists on an island moving through Lumen, independent of the [Voidsea](Voidsea.md). \[citation needed\]

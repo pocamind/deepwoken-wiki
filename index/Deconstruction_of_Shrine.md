@@ -1,6 +1,6 @@
 ---
 title: Deconstruction of Shrine
-revid: 230399
+revid: 231513
 source: https://deepwoken.fandom.com/wiki/Deconstruction_of_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Shields, Offhand]
@@ -40,3 +40,8 @@ The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 -   Deconstruction of Shrine offers the worst stats of any shield, even being outclassed by [Targe](Targe.md), which has a requirement of 10 fortitude compared to Deconstruction of Shrine's 15 while having double the Posture bonus.
 -   The shield depicts a shrine rendered in extremely low detail, resembling models that could be seen when using very low graphics settings or certain fast flags.
 -   The signature found on the bottom right of the full portrait is the same as the markings found on the scabbard of the [Bloodfouler](Bloodfouler.md) and [Strange Tomes](Strange_Tomes.md).
+-   The Deconstruction of Shrine emits a very faint glow.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

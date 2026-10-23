@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 230950
+revid: 231500
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -28,7 +28,7 @@ categories: [Items, Relics]
 
 If another Dread Serpent is already present from use by another player's Ardour Manifestation, attempting to use one will instead prompt the message: "The manifest pulses in anxiety. As if signalling that a greater threat is already looming within the Voidsea already."
 
-## Trivi
+## Trivia
 
 -   Ardour Manifestation has no model, but is still held out like any other item.
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) does not drop Ardour Manifestation nor [Pluripotent Alloy](Pluripotent_Alloy.md).
