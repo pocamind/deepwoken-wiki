@@ -1,6 +1,6 @@
 ---
 title: Vows
-revid: 219702
+revid: 231524
 source: https://deepwoken.fandom.com/wiki/Vows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents, Character]
@@ -13,6 +13,8 @@ Two players making a Vow of Mastery (courtesy of [Tank Fish](https://www.youtube
 ## Description
 
 **Vows** are a power parallel to, but distinct from,[\[1\]](#cite-note-1) the Song. They are made by making a 'promise' of sorts through words that emanate from the soul, however, unlike Oaths, Vows seem to be able to be made exclusively between two people. Most Vows only exist for narrative purposes, but a few are available for gameplay use.
+
+Certain **Vows** CAN be broken, such as the Vow of Mastery. However even a Vow just between two people is broken either upon the Master's death or influence of [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), a Drowned God.
 
 ## Known Vows
 

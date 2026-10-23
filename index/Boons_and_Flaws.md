@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 231461
+revid: 231527
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -44,9 +44,9 @@ These Boons can be chosen at character creation with no requirements for obtainm
 <tr>
   <td><b>Gourmet</b><br>
   </td>
-  <td>Foods are much more nutritional.</td>
-  <td>Grants a 50% increase to Stomach and Thirst gain from consuming food.</td>
-  <td>This also increases the duration (amount of the food bar the buff affects) of your <a href="Food.md">Food</a> buffs by 50%, and it <b>entirely</b> disables the reduced healing effect from being at low Stomach/Thirst. Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
+  <td>Foods are much more nutritional. Your natural health regeneration isn't reduced by hunger or thirst.</td>
+  <td>Grants a 50% increase to Stomach and Thirst gain from consuming food. With this Boon, being below 20% Stomach or Thirst will no longer disable your passive health regeration when at ≥90% health.</td>
+  <td>This also increases the duration (amount of the food bar the buff affects) of your <a href="Food.md">Food</a> buffs by 50%. Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
   <td>1 Boon Point</td>
 </tr>
 <tr>
@@ -322,6 +322,9 @@ Some boons are more worth taking than others:
 -   Notes:
     -   Gourmet is a well-rounded boon that even stacks with its Talent variant, totaling to an +80% boost on the stomach and hydration gain from eating food.
     -   With this Boon, you'll spend less time and Notes making or aquiring food overall, which is great for extended adventures with limited supplies.
+    -   To be more specific, **without** the Gourmet Boon, your passive health regeneration will stop working at 90% health if either the player's Stomach OR Thirst meters are below 20%. **With** the Boon, this limitation is **entirely** removed with this Boon, allowing the player to heal to full health via passive health regeneration, regardless of how full or empty their Stomach and Thirst meters are.
+        -   Though, keep in mind that you will still take damage from Starvation.
+        -   The "passive health regeneration" in question, both with, and without the Boon includes alternative forms of healing that are counted as passive regen; being any form of healing that does not apply the green healing VFX on proc (e.g. [Campfire Pits](Campfire_Pit.md), Curse of the No-Life King enchantment, [Chorus of Souls](Talents.md#chorus-of-souls) Talent, etc.).
     -   Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic.
         -   However, the "duration" of food buffs is tied to how much of the stomach bar they replace, which is dictated by the food item in particular. Consuming more items that provide the same buff will fill your stomach bar more with said buff, meaning that this Boon can be largely ignored, as simply consuming more of the same food will provide the same benefit of making your food buffs last longer.
         -   This Boon is exceptionally useful for hard to get or expensive food items such as the [boss](Bosses.md) foods.
