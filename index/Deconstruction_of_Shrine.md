@@ -1,6 +1,6 @@
 ---
 title: Deconstruction of Shrine
-revid: 231513
+revid: 231517
 source: https://deepwoken.fandom.com/wiki/Deconstruction_of_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Shields, Offhand]
