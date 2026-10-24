@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231282
+revid: 231594
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -3698,8 +3698,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   **Mark of the Lone Warrior** \[Origin Talent\] - Progress much faster when progressing alone. Gain a damage boost when facing threats alone and also when outnumbered.
     -   Grants an experience multiplier if no other player has credit for the mob kill or event completion.
-    -   Deal 5% more damage to opponents you've combat tagged or opponents who have combat tagged you, but only if they have less or an equal amount of combat tags as you.
-    -   The damage buff works even if any of your allies are in the server. This is not intended behavior (bug).  
+    -   Deal 5% more damage to opponents you've combat tagged or opponents who have combat tagged you, but only if they have less or an equal amount of combat tags as you. Gain an additional 5% more damage buff per combat tag above 1.
+    -   The damage buff works even if any of your allies are in the server. This is not intended behavior (bug).
+    -   You do not need a combat tag on yourself for the first 5% damage increase as it is active on the hit you combat tag your opponent, but for your damage buff to go above any further than 5% you need more than 1 combat tag on yourself.  
         
     -   Prerequisites: [Lone Warrior](Lone_Warrior.md) Origin, complete the [Trial of One](Trial_of_One.md)  
         
