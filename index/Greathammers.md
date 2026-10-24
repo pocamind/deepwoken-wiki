@@ -49,6 +49,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -66,6 +67,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
@@ -82,6 +84,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rockmaller.md">Rockmaller</a></b></td>
@@ -96,6 +99,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.82x</td>
   <td>0.1s</td>
   <td>39.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Boltcrusher.md"><font>Boltcrusher</font></a></b></td>
@@ -112,6 +116,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.82x</td>
   <td>0.15s</td>
   <td>42.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
@@ -129,6 +134,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>47.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Great_Maul.md">Great Maul</a></b></td>
@@ -143,6 +149,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Putrid_Edenstaff.md">Putrid Edenstaff</a></b></td>
@@ -156,6 +163,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
@@ -173,6 +181,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
@@ -189,6 +198,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.81x</td>
   <td>0.1s</td>
   <td>40.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Morning.md">Pale Morning</a></b></td>
@@ -204,6 +214,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Petra's_Anchor.md">Petra's Anchor</a></b></td>
@@ -219,6 +230,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></b></td>
@@ -234,6 +246,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.73x</td>
   <td>0.15s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Gale_Pale.md"><font>Withered Gale Pale</font></a></b></td>
@@ -249,6 +262,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.83x</td>
   <td>0.1s</td>
   <td>49.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></b></td>
@@ -262,6 +276,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.82x</td>
   <td>0.1s</td>
   <td>42.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Stoneheart.md">Stoneheart</a></b></td>
@@ -276,6 +291,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></b></td>
@@ -290,6 +306,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kanabo.md">Kanabo</a></b></td>
@@ -305,6 +322,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></b></td>
@@ -319,6 +337,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.62x</td>
   <td>0.15s</td>
   <td>49</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Saint_Jay's_Hammer.md">Saint Jay's Hammer</a><abbr></abbr></b></td>
@@ -333,6 +352,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
   <td>0.8x</td>
   <td>0.1s</td>
   <td>30.5</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 229510
+revid: 231554
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -64,23 +64,18 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page.  
+[Elemental Cantrips](Elemental_Cantrips.md) are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
-### Bloodless
-
-This Cantrip visually hides the blood splotches that appear on the player's [Outfit](Outfits.md) when at low health. This is purely visual.
+**Bloodless;** This Cantrip visually hides the blood splotches that appear on the player's [Outfit](Outfits.md) when at low health. This is purely visual.
 
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 
-### Carnivorous
+**Carnivorous;** This Cantrip allows the player to consume raw meat-type [Food](Food.md) items without vomiting. Even still, eating raw meat isn't very recommended, as the cooked versions provide significantly more sustenance and may grant additional buffs on consumption.
 
-This Cantrip allows the player to consume raw meat-type [Food](Food.md) items without vomiting. Even still, eating raw meat isn't very recommended, as the cooked versions provide significantly more sustenance and may grant additional buffs on consumption.
-
-[Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon comsuming meat-type Food items.
+[Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon consuming meat-type Food items.
 
 ## Mantras
-
-All Bloodrend Mantras have 2.75 Bloodrend scaling unless stated otherwise.
 
   
 
@@ -147,12 +142,15 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Launch an orb-shaped projectile of blood to wherever the character is facing._
 
--   Deals 14.5/19/23.5/28/32.5 base damage per level, 8 posture, 0.6 windup, Has 10s CD
+-   Has a base damage of 14.5/19/23.5/28/32.5 per level, with 2.75 Bloodrend scaling.
+-   Deals 8 posture damage.
+-   Has a 10s CD and 0.6s of windup.
 -   Multi spark version deals 6.83/8.33/9.83/11.33/12.83 base damage per level, per orb, 2 posture per orb, 0.6s windup 10s CD
 -   Has 9.31x PVE scaling
 -   Each orb leaves behind a blood pool.
--   Can be modified with a Multiplying Spark, making it launch 3 orbs instead.
-    -   Damage per orb gets reduced, however, hitting all 3 orbs ends up dealing more damage than the non-spark version.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), making it launch 3 orbs instead. Each orb deals less damage and posture damage per hit.
+    -   Multiplying Spark variant has a base damage of 6.83/8.33/9.83/11.33/12.83 damage per level, per hit (3), with 2.75 Bloodrend scaling.
+    -   Multiplying Spark variant deals 2 posture damage per hit (3).
 
  |
 | 
@@ -957,8 +955,8 @@ These are Talents found in "_Quack Doctor_" Category.
         -   _Vasculitis_ - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you [Gem Enhancement](Status_Effects.md#gem-enhancement) against PvE temporarily.
     -   25% - Hemolysis Talent is Activatable
         -   _Hemolysis_ - Deal 20% more critical attack damage.
-    -   40% - Enemies are under an Anti-Heal effect
-    -   50% - Enemies have their damage reduced
+    -   40% - Enemies are under a 25% Anti-Heal effect
+    -   50% - Enemies have their damage reduced by 12.5%
     -   60% - Bloodwarden's Sense Talent is Activatable
         -   _Bloodwarden's Sense_ - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _Gruesome Harvest_ Talent is Activatable

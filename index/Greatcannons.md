@@ -72,6 +72,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -86,6 +87,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>0.81x</td>
   <td>0.1s</td>
   <td>39.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Barrel.md">The Barrel</a></b></td>
@@ -100,6 +102,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>0.82x</td>
   <td>0.1s</td>
   <td>41.8</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Smouldering_Hallow.md">Smouldering Hallow</a></b></td>
@@ -114,6 +117,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>0.81x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a></b></td>
@@ -128,6 +132,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>

@@ -54,6 +54,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -67,6 +68,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>21.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dormant_Splinter.md">Dormant Splinter</a></b></td>
@@ -80,6 +82,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>7.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
@@ -95,6 +98,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.93x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
@@ -110,6 +114,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.06x</td>
   <td>-</td>
   <td>23.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scimitar.md">Scimitar</a></b></td>
@@ -123,6 +128,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.09x</td>
   <td>-</td>
   <td>18.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
@@ -138,6 +144,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper_Longsword.md">Worshipper Longsword</a></b></td>
@@ -151,6 +158,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
@@ -166,6 +174,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>29.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
@@ -181,6 +190,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Champion's_Sword.md">Champion's Sword</a></b></td>
@@ -194,6 +204,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.02x</td>
   <td>-</td>
   <td>28.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
@@ -210,6 +221,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>28.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></b></td>
@@ -226,6 +238,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.04x</td>
   <td>-</td>
   <td>30.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eyes_of_Ethiron.md"><font>Eyes of Ethiron</font></a></b></td>
@@ -244,6 +257,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.04x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -264,6 +278,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
@@ -279,6 +294,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.97x</td>
   <td>-</td>
   <td>30.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></b></td>
@@ -293,6 +309,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.06x</td>
   <td>-</td>
   <td>25.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kindred_Edict.md">Kindred Edict</a></b></td>
@@ -308,6 +325,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.05x</td>
   <td>-</td>
   <td>29.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></b></td>
@@ -321,6 +339,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>29.9</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Razor_Cutlass.md">Razor Cutlass</a><br>
@@ -336,6 +355,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -352,6 +372,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.93x</td>
   <td>-</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Forgotten_Gladius.md">Forgotten Gladius</a></b></td>
@@ -365,6 +386,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.04x</td>
   <td>-</td>
   <td>28.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Fondant_Splitter.md">Fondant Splitter</a></b></td>
@@ -379,6 +401,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Umbrite_Witherblade.md">Umbrite Witherblade</a><br>
@@ -396,6 +419,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serpent's_Edge.md">Serpent's Edge</a></b></td>
@@ -409,6 +433,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hallowscleave.md">Hallowscleave</a></b></td>
@@ -422,6 +447,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
@@ -437,6 +463,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
@@ -452,6 +479,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
@@ -467,6 +495,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
@@ -482,6 +511,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.06x</td>
   <td>-</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
@@ -497,6 +527,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>31.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
@@ -512,6 +543,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.97x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
@@ -527,6 +559,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsblade.md">Kyrsblade</a></b></td>
@@ -540,6 +573,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rite_of_Authority.md">Rite of Authority</a></b></td>
@@ -556,6 +590,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.02x</td>
   <td>-</td>
   <td>29.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Eye_of_Malice.md"><font>Eye of Malice</font></a></b></td>
@@ -569,6 +604,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.95x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Palace_Tachi.md">Palace Tachi</a></b></td>
@@ -583,6 +619,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Soulthorn.md"><font>Soulthorn</font></a></b></td>
@@ -599,6 +636,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Purple_Cloud.md">Purple Cloud</a></b></td>
@@ -613,6 +651,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.06x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Shattered_Katana.md">Shattered Katana</a></b></td>
@@ -627,6 +666,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.00x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Nocturne.md">Nocturne</a></b></td>
@@ -641,6 +681,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.02x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
@@ -654,6 +695,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>26.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -668,6 +710,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -682,6 +725,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -696,6 +740,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -710,6 +755,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -724,6 +770,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>26.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Saintsworn.md#saintsblade">Saintsblade</a></b></td>
@@ -737,6 +784,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.04x</td>
   <td>-</td>
   <td>28</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -750,6 +798,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ferractine.md">Ferractine</a><abbr></abbr></b></td>
@@ -763,6 +812,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.97x</td>
   <td>-</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>

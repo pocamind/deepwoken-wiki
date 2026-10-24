@@ -1,9 +1,11 @@
 ---
 title: Orion
-revid: 228565
+revid: 231563
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Individuals with unspecified pronouns]
+categories: [Celtor NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Individuals with unspecified pronouns]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Orion

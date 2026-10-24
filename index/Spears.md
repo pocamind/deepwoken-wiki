@@ -42,6 +42,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -55,6 +56,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Spear.md">Iron Spear</a></b></td>
@@ -68,6 +70,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>20.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Gremorian Longspear</a></b><br>
@@ -82,6 +85,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>23.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
@@ -97,6 +101,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>26.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
@@ -112,6 +117,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -126,6 +132,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Red_Death.md"><font>Red Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -147,6 +154,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Black_Death.md"><font>Black Death</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -166,6 +174,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
@@ -181,6 +190,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>27.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrswynter.md"><font>Kyrswynter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -197,6 +207,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Weaving_Web.md">The Weaving Web</a></b></td>
@@ -212,6 +223,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Serrated_Warspear.md">Serrated Warspear</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -226,6 +238,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodtide_Trident.md">Bloodtide Trident</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -240,6 +253,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
@@ -255,6 +269,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -269,6 +284,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="True_Seraph_Spear.md">True Seraph Spear</a></b></td>
@@ -282,6 +298,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.96x</td>
   <td>-</td>
   <td>28.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></b></td>
@@ -297,6 +314,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.92x</td>
   <td>-</td>
   <td>32.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a></b></td>
@@ -314,6 +332,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.93x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
@@ -329,6 +348,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.92x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -343,6 +363,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -356,6 +377,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>

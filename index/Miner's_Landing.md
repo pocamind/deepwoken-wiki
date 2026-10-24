@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 220064
+revid: 231571
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -58,9 +58,7 @@ High above the Town of Miner's Landing is the upper areas. Here, the entrance to
 
 ### Boiler Room
 
-The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting.
-
-The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md), one of which is located to the right behind the vault door. The other entrance is located down the left hallway, up the left slope and in a room with an NPC.
+The Boiler Room contains the entrance into [Saramaed Summit](Saramaed_Summit.md).
 
 ### Saramaed Summit
 
@@ -72,23 +70,13 @@ Miner's Landing contains a variety of locations containing chests. These chests 
 
 The Chests are in the following Locations:
 
-(Photos to come in future)
-
 1.  The "pub" near the blacksmith.
-2.  Behind the water wheel next to the NPC with the dialogue mentioning the Summer Company causing trouble on the second floor.
-3.  In the rooms to the right of the water wheel there can be up to 5 chests.
-4.  Behind the window on a ledge near where the [Darksteel Greatsword](Darksteel_Greatsword.md) is sold and where the NPC tells you about delivery sabotage.
+2.  In the rooms to the right of the water wheel there can be up to 5 chests.
+3.  Behind the window on a ledge near where the [Darksteel Greatsword](Darksteel_Greatsword.md) is sold and where the NPC tells you about delivery sabotage.
 
   
 
-## Quests
-
-#### Orion Quest
-
--   Speak to [Orion](Orion.md), a Celtorian Ignition Union Member. Located in the next room behind the waterwheel, or next to [Delta](Oath%253A_Arcwarder.md).
--   [Orion](Orion.md) offers you to help handle the conflict (Getting rid of a few [Summer goons](Summer_Goon.md)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Saramaed_Summit.md) Voidzone.
--   Neutralize the conflict and return to [Orion](Orion.md) for the reward, which is both Ignition Union Reputation, unlocking [Ignition Union origin](Origins.md) and an alternative access to [Saramaed Summit](Saramaed_Summit.md) (Iron Door connecting between the Voidzone to outside).
--   Note: this quest is repeatable.
+## Potential Enemies
 
 #### Alpha's Quest
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 230349
+revid: 231577
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, World of Deepwoken, OutdatedPages, SpoilerPages]
@@ -1939,7 +1939,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 
 ### Ignition Delver
 
--   The player enlisted in the Ignition Union becoming a Union initiate at Miners Landing. The Unions main headquarters are found in the Eastern Luminant, being recruited by a Union member named [Orion](Orion.md) likely giving the player the needed training to combat the monsters of the deep as they are tasked to delve deep into the [Saramaed Hollow](Saramaed_Hollow.md)
+-   The player enlisted in the Ignition Union becoming a Union initiate at Miners Landing. The Unions main headquarters are found in the Eastern Luminant.
 -   They are given the tools necessary to use the Union Hook and are given a Union Card which allows them to access the drill that sends the player down to the Saramaed Hollow at any time they choose
 
 ### Power Level

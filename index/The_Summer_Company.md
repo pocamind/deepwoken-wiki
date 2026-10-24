@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 227520
+revid: 231570
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -47,7 +47,6 @@ Assisting the Summer Company in the following [Random Encounters](Random_Encount
 
 -   [Summer Company Guards](Summer_Company_Guard.md) [Summericonfaction](The_Summer_Company.md) vs. [Bandits](Bandit.md) (Summer Isle)
 -   Summer Company Guards [Summericonfaction](The_Summer_Company.md) vs. [Ignition Union Fighter](Ignition_Union_Fighter.md) (Summer Isle)
--   [Summer Goons](Summer_Goon.md) vs. [Mechalodaunt](Mechalodaunt.md) ([Saramaed Crossing](Saramaed_Crossing.md), [Saramaed Summit](Saramaed_Summit.md))
 
 ### Dialogue
 

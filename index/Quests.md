@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 229495
+revid: 231575
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -491,19 +491,6 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
   <b>Guide</b>: Kill Songseekers at <a href="Derelict_Highchurch.md">Derelict Highchurch</a>. This quest was formerly known as "Ku's Shrine".<br>
   <b>Reward(s)</b>: EXP, Bravery</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Ezra.md">Ezra</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-#### Summer's Dusk
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: Miner's Landing<br>
-  <b>Guide</b>: Talk to an NPC named Orion near the <a href="Oath%253A_Arcwarder.md">Arcwarder Oath</a> giver and <a href="Deepdelver_Tau.md">Deepdelver Tau</a>. He will ask you to help clear out the four Summer Company invaders at the upper generator.<br>
-  <b>Reward(s)</b>: Reputation, EXP, Bravery, <a href="Ignition_Delver.md">Ignition Delver</a> Origin, 3 Full Training points on first completion</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Orion.md">Orion</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 230681
+revid: 231579
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,7 +20,7 @@ Shadowcast icon
 
 ## Obtainment
 
-The [Attunement](Attunements.md) can be unlocked by drinking a [Nightblood potion](Attunement_Potions.md) obtained from [Nostor](Nostor,_Master_of_Shadow.md) in the [The Depths](First_Layer.md) inside [The City of the Drowned](The_City_of_the_Drowned.md), requiring 2 [Umbral Obsidian](Umbral_Obsidian.md). You don't have to venture back into the depths to upgrade Shadowcast Mantras however, as [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She will upgrade your Mantras but not allow you to obtain Shadowcast. Shadowcast is unlocked permanently from the character creation screen.
+The [Attunement](Attunements.md) can be unlocked by drinking a [Nightblood potion](Attunement_Potions.md) obtained from [Nostor](Nostor,_Master_of_Shadow.md) in the [The Depths](First_Layer.md) inside [The City of the Drowned](The_City_of_the_Drowned.md), requiring 5 [Umbral Obsidian](Umbral_Obsidian.md) (2 if unlocked previously). You don't have to venture back into the depths to upgrade Shadowcast Mantras however, as [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She will upgrade your Mantras but not allow you to obtain Shadowcast. Shadowcast is unlocked permanently from the character creation screen.
 
 ## Training
 
@@ -48,11 +48,15 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+[Elemental Cantrips](Elemental_Cantrips.md) are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
 ### Night Vision
 
 This Cantrip increases the brightness in dark locations, allowing the player to see better in low-light environments.
+
+### Shadowed Lure
+
+This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure, "reducing how often they need to move it around".
 
 ## Mantras
 

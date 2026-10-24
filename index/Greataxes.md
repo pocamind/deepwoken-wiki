@@ -87,6 +87,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -100,6 +101,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.83x</td>
   <td>0.1s</td>
   <td>27.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
@@ -116,6 +118,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
@@ -132,6 +135,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
@@ -147,6 +151,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.83x</td>
   <td>-</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a></b></td>
@@ -163,6 +168,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.83x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Birch.md">Iron Birch</a></b></td>
@@ -176,6 +182,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.85x</td>
   <td>0.1s</td>
   <td>37.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Evanspear_Greataxe.md">Evanspear Greataxe</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -190,6 +197,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.1s</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></b></td>
@@ -203,6 +211,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.8x</td>
   <td>0.1s</td>
   <td>42</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Relic_Axe.md">Relic Axe</a></b></td>
@@ -216,6 +225,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></b></td>
@@ -229,6 +239,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.94x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Skyreap_Blade.md">Skyreap Blade</a></b></td>
@@ -242,6 +253,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.91x</td>
   <td>0.1s</td>
   <td>35.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Axe.md">Enforcer's Axe</a></b></td>
@@ -255,6 +267,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.76x</td>
   <td>0.1s</td>
   <td>43.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
@@ -270,6 +283,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
@@ -285,6 +299,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.8x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
@@ -301,6 +316,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.87x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskguard_Axe.md">Duskguard Axe</a></b></td>
@@ -316,6 +332,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.85x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Night_Axe.md">Night Axe</a></b></td>
@@ -329,6 +346,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.77x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Pale_Briar.md">Pale Briar</a></b></td>
@@ -343,6 +361,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.81x</td>
   <td>0.15s</td>
   <td>35.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></b></td>
@@ -358,6 +377,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.7x</td>
   <td>0.15s</td>
   <td>49.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -371,6 +391,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Par's_Glaive.md">Par's Glaive</a><abbr></abbr></b></td>
@@ -384,6 +405,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.8x</td>
   <td>-</td>
   <td>32.5</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>

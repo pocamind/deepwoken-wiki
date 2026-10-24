@@ -197,6 +197,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -210,6 +211,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -223,6 +225,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -238,6 +241,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -253,6 +257,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -266,6 +271,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -279,6 +285,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -292,6 +299,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -307,6 +315,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -320,6 +329,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -333,6 +343,7 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>

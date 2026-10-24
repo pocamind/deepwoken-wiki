@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 223959
+revid: 231561
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -74,6 +74,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns.
     -   It is also possibly a reference to Duelist Dash from _Rogue Lineage_, a move used by the [Duelist](https://rogue-lineage.fandom.com/wiki/Duelist), better known as Uber Spy, Class.
 -   **Eclipse Kick** resembles the Axe Kick, an attack from _Rogue Lineage_ used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
+    -   The first hit of its Multiplying Spark variant resembles the Leg Breaker attack used [Oni](https://rogue-lineage.fandom.com/wiki/Oni)'s predecessor class, [Akuma](https://rogue-lineage.fandom.com/wiki/Akuma).
     -   Oni itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _[Street Fighter](https://en.wikipedia.org/wiki/Street_Fighter)_.
 -   **Shadow Assault** resembles Akuma's [Ashura Senku](https://streetfighter.fandom.com/wiki/Ashura_Senku) technique.
     -   Its Blast Spark modification is a spin on the famed [Shun Goku Satsu](https://streetfighter.fandom.com/wiki/Shun_Goku_Satsu).
@@ -117,9 +118,10 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   The ship is named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
     -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the Oath, boasts high magical resistance.
     -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates._
-    -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the Talent, slicing the enemy multiple times.
+    -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti), the former name of **Silent Cascade**, is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the Talent, slicing the enemy multiple times.
 -   **Dawnwalker's** Radiant Kick is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) dropkick attack where he says _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
+-   **Contractor's** Lord's Slice closely resembles the Owl Slash attack used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class from _Rogue Lineage_.
 -   **Bladeharper** appears to heavily reference other media in all of its abilities.
     -   The obtainment resembles the method of obtaining [Bankai](https://bleach.fandom.com/wiki/Zanpakutō#Bankai) in _Bleach_. Both are fights against your ['inner spirit'](https://bleach.fandom.com/wiki/Zanpakutō).
         -   The inner world you are taken to reinforces this by being named 'The Blade Within', which is similar to the title of the 13th episode of _Bleach: Thousand-Year Blood War_: ['THE BLADE IS ME'](<https://bleach.fandom.com/wiki/THE_BLADE_IS_ME_(episode)>).
@@ -140,6 +142,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **[The Duke](Duke_Ishamon_Erisia.md)** is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_. They also both laugh manically after landing a counter.
         -   Par, one of the developers of _Deepwoken_, who designed the Duke, also works on _Anime Battle Arena._ This could be the reason why their movesets are the same.
+-   [**Knell**](Knell,_The_Lunatic_Resonator.md) is heavily inspired by [Widow](https://hollowknight.wiki/w/Widow) from Hollow Knight: Silksong
 -   **[The Enforcer](Enforcer.md)'s** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
@@ -216,6 +219,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
 -   The **[Imperial Staff](Imperial_Staff.md)** is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
 -   The **[Death's Reverie](<Death's_Reverie.md>)'s** description reads "Have the lambs stopped screaming?" which is a line from the film _[The Silence of the Lambs](<https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)>)_.
+-   The **[Kindred Edict](Kindred_Edict.md)'s** model resembles [Hornet's Needle](https://hollowknight.wiki/w/Needle) from Hollow Knight. The aerial critical also resembles the Knight's "nail bounce" attack.
 
 ## Enchantments
 
@@ -292,6 +296,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   After beating the [Scion of Ethiron](Scion_of_Ethiron.md), you are forced to run to the exit with a time limit all the while [instant kill orbs](https://riskofrain2.fandom.com/wiki/Void_Reaver?so=search) spawn around you. This is all ripped from _Risk of Rain 2_, as [you do the same thing](https://riskofrain2.fandom.com/wiki/Mithrix#Arena_Escape_Portals) after beating [Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix) on [Commencement](https://riskofrain2.fandom.com/wiki/Commencement).
     -   This is also reinforced by the fact that the spawning sounds for the white orbs are just the [Void Reaver](https://riskofrain2.fandom.com/wiki/Void_Reaver) death implosion sound effect.
 -   Among a hidden cliff, a frozen [Yeti](https://rogue-lineage.fandom.com/wiki/Yeti) from _Rogue Lineage_ can be found.
+-   The [Spear of Nakti](https://deepwoken.fandom.com/wiki/Firfire_Caverns#Spear_of_Nakti) within the [Firfire Caverns](Firfire_Caverns.md) is a reference to [Naktigonis](https://www.youtube.com/@naktigonis), the main composer of Deepwoken's OST
+    -   The appearance of the spear itself could also be a reference to the [Fairfrozen](https://rogue-lineage.fandom.com/wiki/Fairfrozen) spear or [The Sanctum Spear](https://rogue-lineage.fandom.com/wiki/The_Sanctum_Spear), both from _Rogue Lineage_.
 
 ### Factions
 

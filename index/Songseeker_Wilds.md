@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 229876
+revid: 231562
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -52,7 +52,7 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 -   Outside of the mineshaft, [Lucien](Lucien.md) asks the player to clear out the Mineskippers for the [Pocket Bombs](Talents.md#pocket-bombs) Talent and a Bravery Talent hand.
 -   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [Voidzone](Voidzones.md) that was once home to a Celestial.
 -   There are two structures:
-    1.  A windmall with a [Guild Banner](Guild_Banners.md) in front of it. Inside of the windmill is a [Mantra Lectern](Mantra_Lectern.md) and some small chests.
+    1.  A windmill with a [Guild Banner](Guild_Banners.md) in front of it. Inside of the windmill is a [Mantra Lectern](Mantra_Lectern.md) and some small chests.
     2.  A small hut with some chests inside.
 
 #### Ravine Entrance

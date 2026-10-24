@@ -1,9 +1,11 @@
 ---
 title: Summer Goon
-revid: 225089
+revid: 231576
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Summer Company Enemies]
+categories: [Cut Content, Enemies, Summer Company Enemies]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Summer Goon
@@ -17,18 +19,18 @@ categories: [Enemies, Summer Company Enemies]
 
 ## Description
 
-Summer Goons are enemy NPC that can only be found in the reactor room of Miner's landing. They can be found during one of the following events:
+Summer Goons were an enemy NPC that could only be found in the reactor room of Miner's landing. They were able to be found during one of the following events:
 
 -   Five Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the reactor room.
 -   Two Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the ramp next to the reactor room.
 
-A Summer Goon only wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying.
+Summer Goons only wore a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying.
 
-The Summer Goons in the reactor room are required to kill to complete [Orion](Orion.md)'s "[Summer Isle](Summer_Isle.md) Goons" quest.
+The Summer Goons in the reactor room had to be killed to complete [Orion](Orion.md)'s "Summer's Dusk" Quest.
 
 ## Moveset
 
-A Summer Goon's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
+The Summer Goon's arsenal only consisted of a [Flintlock](Flintlock.md) pistol:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -90,7 +92,7 @@ A Summer Goon's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
 ## Finisher
 
-A Summer Goon executes the player after knocking them:
+A Summer Goon executed the player after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -99,5 +101,4 @@ A Summer Goon executes the player after knocking them:
 ## Trivia
 
 -   At one point in time, their outfit was changed to the [Summer Dragoon](Summer_Dragoon.md) outfit. This was then reverted and was given to [a separate enemy](<Summer_Dragoon_(NPC).md>).
--   No difference in appearance to the [Summer Company Guard](Summer_Company_Guard.md) or [Summer Manager](Summer_Manager.md).
--   Like all Summer Isle NPCs, they use the gun hitboxes, making them unable to hit you if you are directly in their face.
+-   They had no difference in appearance to the [Summer Company Guard](Summer_Company_Guard.md) or [Summer Manager](Summer_Manager.md).

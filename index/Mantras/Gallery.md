@@ -64,7 +64,7 @@ _Summon a legion of flaming spearmen that lunge inwards._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -79,8 +79,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Deals 4 posture damage per hit with an additional 20 posture damage on the final hit.
 -   Has a windup of 0.45s and a cooldown of 10 seconds.
 -   The synchronous strike occurs 2.2 seconds after the mantra is cast.
--   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
--   Inflicts Burn.
+-   This ability has a PvE damage multiplier of 9.17x.
 -   Can be modified with [Cloudstones](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to add more warriors, capping at +9 Range.
 -   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to have the warriors attack outwards and ragdoll.
 
@@ -105,7 +104,7 @@ _Slicing blades of flame._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -120,9 +119,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Deals 18 posture damage at levels 1-4, guard breaks at level 5.
     -   At level 5, this Mantra takes 20 additional Ether on cast to retain its guard breaking property. This additional Ether cost cannot be reduced.
 -   Has a windup of 0.7 seconds and a cooldown of 10 seconds.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
--   Inflicts Burn.
--   Breaks destructible objects on hit.
+-   This ability has a PvE damage multiplier of 9.18x.
+-   Breaks destructible terrain on hit.
 -   Can be modified with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers), causing the attack to destroy more environment.
 -   While having [Starkindred](../Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
     -   A [Reversal Spark](../Mantra_Modifiers.md#sparks) can be used to negate this variation, allowing you to use normal fire blade with wings.
@@ -148,7 +146,7 @@ _A bullet of flames shot through each hand._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -162,9 +160,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a base damage of 6.5/8.5/10.5/12.5/14.5 per level, per hit with 2.75 Flamecharm scaling.
 -   Has an initial starting windup of 0.375 seconds and no cooldown.
 -   Deals 1 posture damage per hit.
--   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
--   Inflicts Burn.
--   Breaks tiles, including the [Hidden Village](../The_Hidden_Village.md) Door & [Pathfinder's Respite](<../Pathfinder's_Respite.md>) Barricade.
+-   This ability has a PvE damage multiplier of 5.13x.
+-   Damages destructible terrain.
 -   Lights campfires.
 -   Propels the user backward if cast while jumping/walking backward or in water.
 -   Can be modified with [Drift](../Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](../Mantra_Modifiers.md#regular-modifiers) to make the bullets fly faster + farther.
@@ -193,7 +190,7 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -208,8 +205,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Deals 6 posture damage.
 -   Has a 0.6 second windup with a 10 second cooldown.
 -   Has a large hitbox both horizontally and backwards.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
--   Inflicts Burn.
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Shares a cooldown with all of [grab Mantras](../List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
 -   [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](../Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
@@ -235,7 +231,7 @@ _Charge up an exertion of flames that knocks opponents backwards. If you take da
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -253,7 +249,6 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   If your are hit near the end of the base variant's windup, you will absorb the damage with 75% damage reduction and reflect it back with in the form of increased base damage. You gain very brief [Hyperarmor](../Status_Effects.md#hyperarmor) to signify this effect.
     -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
--   Inflicts Burn.
 -   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the size.
 -   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 -   Can be modified with a Blast Spark, seems to have no effect?
@@ -279,7 +274,7 @@ _A pyroclastic eruption._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -293,9 +288,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a base damage of 24/26.5/29/30.5/32 per level, per hit (2) with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage on the first hit and 35 posture damage on the second, usually guard breaking your opponents.
 -   Has a 0.6 second windup before the first hit with a 0.8 second delay between hits, and a 0.2 second endlag when the Mantra ends. Has a 10 second cooldown.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   The second explosion ragdolls enemies.
--   Inflicts Burn.
 -   Can be modified with [Glass Stones](../Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the radius of the explosions (+9 AoE max).
     -   Size modification will drastically lower the damage of the Mantra however.
 -   Each mantra level increases the AoE of this Mantra.
@@ -337,10 +331,10 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 2.75 Flamecharm scaling.
 -   The base variant deals 4 posture damage per dagger, while the Tornado spark variant deals 3 posture damage per dagger with an additional 5 posture damage per tornado hit (2).
 -   Has a 10 second cooldown.
--   Has 8.45x PvE scaling (multiply damage dealt by 8.45 for PvE damage).
+-   This ability has a PvE damage multiplier of 8.45x.
 -   Does **not** inflict Burn.
 -   Breaks destructible terrain on hit.
--   Can be upgraded with the "**Hell's Partisan**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
+-   Can be upgraded with the "**[Hell's Partisan](../Talents.md#hells-partisan)**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
 -   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](../Mantra_Modifiers.md#regular-modifiers) to make the daggers move faster.
 -   Can be modified with a [Tornado Spark](../Mantra_Modifiers.md#sparks) to make an unparryable tornado around the user. The tornado fires out 5 daggers in a straight line that each hit twice.
 
@@ -365,7 +359,7 @@ _Conjure a cone of flames in front of you._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -379,8 +373,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a base damage of 26/27.5/29/30.5/32 with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage.
 -   Has a windup of 0.45 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
--   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
--   Inflicts Burn.
+-   This ability has a PvE damage multiplier of 9.14x.
 -   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
 -   Can be modified with a Round Spark to release a wider but shorter flame.
@@ -406,7 +399,7 @@ _Place a fiery snare at a chosen location. Enemies that stumble into it are scor
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -446,7 +439,7 @@ _Conjure a turret of flames._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -461,7 +454,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Deals 14 posture damage per shot.
 -   Duration scales with level and cannot be modified otherwise. Duration impacts the number of shots fired, as they have a set cooldown.
 -   Has a 0.65 second cast time and a 40 second cooldown.
--   Has 41.5x PvE scaling (multiply damage dealt by 41.5 for PvE damage).
+-   This ability has a PvE damage multiplier of 41.5x.
 -   This Mantra is heavily incentivized for use in PvE.
 -   Cannot hitstun players.
 -   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the Sentinel is.
@@ -490,7 +483,7 @@ _Conjure up to 3 fireballs to volley at your enemies._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md) + Blunt ResistanceBlunt
+Fire [ResistanceFlamecharm](../Flamecharm.md) + Blunt ResistanceBlunt + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -504,8 +497,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md) + Blunt ResistanceBlunt
 -   Has a base damage of 18/21/24/27/30 per level, per hit with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage per hit.
 -   Has a windup of 0.45 seconds, a 12 second cooldown and a 1 second delay between each hit.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
--   Inflicts Burn.
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Cooldown resets if it lands or hits terrain, allowing you to recast it up to three times.
 
  |
@@ -529,7 +521,7 @@ _Bear down on your foes with repeated fiery slashes._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -550,8 +542,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Deals 5/11/13/15/19 posture damage per level.
 -   Has a windup of 0.9 and 0.25 seconds between hits, and a 10 second cooldown.
 -   Cancels if the first hit does not land. Additionally, if any hit is parried, even if it isn't the first one, the Mantra will also cancel.
--   Has 17.2x PVE scaling (multiply damage dealt by 17.2 for PvE damage).
--   Inflicts Burn.
+-   This ability has a PvE damage multiplier of 17.2x.
 -   Can be cancelled midway by feinting.
 
  |
@@ -575,7 +566,7 @@ _A rising tornado of flames._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -589,10 +580,9 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a base damage of 20/23/26/29/32 per level with 2.75 Flamecharm scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.55 seconds and a 10 second cooldown.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
--   Inflicts Burn.
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Does not send the user into the air if missed.
--   Can be upgraded with the "**Meteor Impact**" and "**Phoenix Impact**" Talents, allowing you to follow up with a meteor strike.
+-   Can be upgraded with the "**[Meteor Impact](../Talents.md#meteor-impact)**" and "**[Phoenix Impact](../Talents.md#phoenix-impact)**" Talents, allowing you to follow up with a meteor strike.
 -   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
 
  |
@@ -616,7 +606,7 @@ _Strike the ground, turning it to ash._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md) + Blunt ResistanceBlunt
+Fire [ResistanceFlamecharm](../Flamecharm.md) + Blunt ResistanceBlunt + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -631,9 +621,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md) + Blunt ResistanceBlunt
 -   Has a windup of 0.65 seconds and a cooldown of 15 seconds.
 -   Has a very large circular hitbox that is comparable to venting.
 -   Deals 4 posture damage on the first hit and 2 on the second for a total of 6 posture damage.
--   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
--   Inflicts Burn.
--   User maintains mobility during wind-up.
+-   This ability has a PvE damage multiplier of 9.14x.
+-   User maintains their momentum during the wind-up.
 -   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
 
  |
@@ -657,7 +646,7 @@ _Conjure a flaming arrow and fire it at your target._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -673,15 +662,13 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
     -   This is slightly inconsistent due to how charging works, largely being affected by ping.
 -   Deals 14 posture damage.
 -   Has a 1.3 (minimum) second cast time and a 15 second cooldown.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Can be charged to increase its damage. You can M1 during the charge to end it early.
--   Inflicts Burn.
 -   Ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
 -   Can be modified with [Glass](../Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) to make the explosion larger.
 -   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks) to push the user back when casted.
--   " ■, Fuga "
 
  |
 | 
@@ -704,7 +691,7 @@ _Lash out with flames._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -718,8 +705,7 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a base damage of 10/11/12/13/14 per level, per hit (3, 2 if Reversal Spark) with 2.75 Flamecharm scaling.
 -   Deals 14 posture damage per hit (3, 2 if Reversal Spark).
 -   Has a windup of 0.6 seconds (0.65 seconds if Reversal Spark) with 0.2 seconds of endlag. Has an 18 second cooldown.
--   Inflicts burn.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Mantra continues if the second hit isn't parried.
     -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
@@ -779,7 +765,7 @@ _Dash forward in a spiral of flames._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -793,8 +779,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Has a base damage of 8/16/24/32/40 per level with 2.75 Flamecharm scaling.
 -   Deals 1.5/3/4.5/6/7.5 posture damage per level.
 -   Has a windup of 0.5 and 0.2 seconds before it hits, and a 10 second cooldown.
--   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
--   Inflicts Burn and Ragdolls.
+-   This ability has a PvE damage multiplier of 9.17x.
+-   Ragdolls on hit.
 -   Its distance is reduced by 60% when used in water.
 -   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to cause the Mantra to fly farther (at the same pace).
 -   Can be modified with [Glass](../Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the hitbox size.
@@ -821,7 +807,7 @@ _Leap up leaving behind a burst of flames._
 
  | 
 
-Fire [ResistanceFlamecharm](../Flamecharm.md)
+Fire [ResistanceFlamecharm](../Flamecharm.md) + [Burn](../Status_Effects.md#burn)
 
  | 
 
@@ -836,8 +822,8 @@ Fire [ResistanceFlamecharm](../Flamecharm.md)
 -   Deals 10 posture damage.
 -   Drops carried players/NPCs when used.
 -   Has a windup of 0.5 seconds and a cooldown of 18 seconds.
--   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
--   Flame Leap can proc **Meteor Impact**, even without hitting an opponent.
+-   This ability has a PvE damage multiplier of 9.17x.
+-   Flame Leap can proc **[Meteor Impact](../Talents.md#meteor-impact)**, even without hitting an opponent. This is extremely useful for proccing [Phoenix Impact](../Talents.md#phoenix-impact).
 -   Animation persists on feint.
 -   Shares similar traits to the [Strong Leap](../Attunement-less.md#strong-leap) Mantra.
 -   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](../Attunement-less.md#strong-leap) Mantra.
@@ -940,7 +926,8 @@ _Undying flame._
 
  | 
 
-N/A
+N/A  
+Fire [ResistanceFlamecharm](../Flamecharm.md) (Denial Repulse)
 
  | 
 
@@ -958,8 +945,8 @@ N/A
     -   Due to it setting you to 1% health on proc, you'll actually be at 13/15/17/19/21% health after it procs.
 -   Flame of Denial completely disables burn damage if you are below 12.5 health. Temporary Health does not count towards this health threshold and Twisted Puppets' burn will still drain your Ether.
 -   When Flame of Denial procs, any burn on your character will be extinguished.
--   Can be upgraded with the **Denial Repulse** Talent, causing a 20 Flamecharm damage AOE explosion with a 0.6s windup upon proccing Flame of Denial. This explosion cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
--   Denial Repulse's explosion has 5 Flamecharm scaling, dealing 30 Flamecharm damage at 100 Flamecharm.
+-   Can be upgraded with the **[Denial Repulse](../Talents.md#denial-repulse)** Talent, causing a 20 Flamecharm damage AOE explosion with a 0.6s windup upon proccing Flame of Denial. This explosion cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
+    -   Denial Repulse's explosion has 5 Flamecharm scaling, dealing 30 Flamecharm damage at 100 Flamecharm.
 -   While you can modify [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
 
  |
@@ -1039,8 +1026,9 @@ N/A
 
 -   Flame Wisp converts all burn tick damage you apply (whether onto yourself or other player), and converts it into healing for you.
 -   Ignites nearby campfire pits if not currently healing you.
--   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
--   With **Eruption Path: Lava Serpent**, you will heal 5 hp from every eruption that hits.
+-   With **[Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)**, you will heal from [Shadow Burn](../Status_Effects.md#shadow-burn), but not [Puppet Burn](../Status_Effects.md#puppet-burn).
+    -   Because the burn damage on Twisted Puppets is so low, the healing received will be significantly reduced, compared to base Flamecharm's burn.
+-   With **[Eruption Path: Lava Serpent](../Talents.md#eruption-path-lava-serpent)**, you will heal 5 hp from every Eruption that hits. It does not reduce Eruption damage however.
 -   Converts about 25-30 burning damage total. [Logstones](../Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
@@ -1111,29 +1099,34 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 
 **Effect:** _Conjure a ring of 6-8 frozen servants, emitting two blasts of frosty mist towards the center._
 
--   Base damage of 6/8/10/12/14 per level, per hit with 2.75 Frostdraw scaling, hitting 2 times. (4 Hits with Blast Spark)
--   Able to be Block, Parry, and Dodged.
--   Deals 5 posture damage per hit. (Total of 10 posture, 20 with Blast Spark)
+**Base:**
+
+**Reversal Spark:**
+
+-   When modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks), the servants will instead attack outwards.
+-   This removes the circular hitbox at the center, making it harder to land, especially with +Size [Mantra Modifiers](../Mantra_Modifiers.md).
+
+**Blast Spark:**
+
+-   When modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), the player creates a slow giant ice servant that attacks 4 times with an ice breath attack.
+-   This increases the windup to 1.2s, from 0.7s. Additionally, the player will be unable to change their character orientation locked, their movement speed will be decreased, and they will be unable to ssprint for 1.3s.
+-   This version of the Mantra is **unaffected** by [Size](../Mantra_Modifiers.md#regular-modifiers) and [Speed](../Mantra_Modifiers.md#regular-modifiers) Mantra Modifiers, as well the [Insignia Gem](../Insignia_Gem.md).
+
+-   Base damage of 6/8/10/12/14 per level, per hit (2, 4 with Blast Spark), with 2.75 Frostdraw scaling.
+-   Deals 5 posture damage per hit (2 base, 4 with Blast Spark).
 -   Has a cooldown of 18 seconds, and a windup of 0.7 seconds. (Windup can be modified)
 -   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified. (Alternatively applies crystal when used with Crystallization Path.)
 -   Leaves an ice patch on the ground where the Mantra is casted, size changing with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers), mantra level, weather, and ground material.
+-   This ability has a PvE damage multiplier of 9.17x.
 -   Acts as the Frostdraw alternative to Flamecharm's Burning Servants and has many similarities, including:
     -   Lacking endlag on cast, allowing the user to immediately follow up and even attack during the windup.
     -   Not preventing sprinting/movement speed on cast.
     -   Lacking any form of hitstun when landed, only damaging the opponent, that said, it is still able to prevent rolling when utilizing Frozen Legs due to inflicting Chill.
-    -   Not cancelling Equalizer or Whiffed Vent stun durations.
+    -   Not cancelling [Equalizer](../Oath%253A_Contractor.md#equalizer) or Whiffed Vent stun durations.
 -   Can be modified with the following [Mantra Modifiers](../Mantra_Modifiers.md):
     -   [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) to greatly increase the size of the ice patches.
     -   [Drift](../Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](../Mantra_Modifiers.md#regular-modifiers) to decrease the "summoning" time of your servants, servants each have 0.03 seconds windup to individually "summon" around the user, at +≥3 speed your servants will skip this windup and summon simultaneously.
     -   [Cloud](../Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase servant count, adding +1 servants at +1-2 size, capping at +2 servants when above +≥3 size. Adding servants also increases the size and range of the circle.
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to reverse the servants direction when attacking:
-    -   Each servant attacks now attacks outwards, each blast having much smaller rectangular hitbox, completely removes the regular large spherical hitbox in the center.
-    -   Posture, Damage, and Ice placement are completely unaffected.
--   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks), creating a slower giant ice servant that attacks 4 times:
-    -   Increases the windup from 0.4s to 1.2s
-    -   For 1.3s after casting, the user has their rotation locked, speed decreased, and sprint prevented. However the endlag remains 0.0s, and slides are uncancelled.
-    -   Unaffected by [speed/size modifers](../Mantra_Modifiers.md), and Insignia Gem, however [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) are unchanged.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 
  |
 | 
@@ -1170,12 +1163,12 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Has a base damage of 7/7.3/7.6/7.9/8.2 per level per hit (4) with 2.75 Frostdraw scaling.
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.17x.
 -   You can increase the size of this Mantra with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
 -   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
 -   Hits multiple times in a row.
 -   Knocks back targets.
--   Can be upgraded with the _Preceding Chill_ Talent, freezing opponents or detonating their crystals if they get hit by the final ticks of your Ice Beam.
+-   Can be upgraded with the _[Preceding Chill](../Talents.md#preceding-chill)_ Talent, freezing opponents or detonating their crystals if they get hit by the final ticks of your Ice Beam.
 -   Shares a cooldown with [Lightning Beam](../Thundercall.md#lightning-beam).
 
  |
@@ -1210,16 +1203,25 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 
 **Effect:** _Conjure a spike of ice from the ground at the cursor's location._
 
--   Has a base damage of 25 regardless of level with 2.75 Frostdraw scaling.
+**Base:**
+
+-   Has a base damage of 25, regardless of level, with 2.75 Frostdraw scaling.
+    
+
+**Spike Traps:**
+
+-   If the player has the [Spike Traps](../Talents.md#spike-traps) Talent, pressing F during the Mantra's windup will place 2 translucent traps on the ground in a random location near the player. Whenever one of the traps are touched, an Ice Spike will sprout from the ground.
+-   Each trap has a base damage of 12.5, regardless of level, with 2.75 Frostdraw scaling.
+-   Recasting Spike Traps will cause pre-existing traps to activate automatically, while simultaneously placing new traps down.
+-   Size [Mantra Modifiers](../Mantra_Modifiers.md) ([Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers)) increase the quantity of traps placed, as well as the size of the produced spikes.
+-   NOTE: This Talent has been "vaulted"; as of [June 23rd, 2025](../Version_History/2025.md#june-23rd-2025) and until further notice, Spike Traps is no longer obtainable. For users who already have Spike Traps, it is limited to 1 trap, regardless of Size modifiers.
+
+-   Has a base damage of 25 regardless of level, with 2.75 Frostdraw scaling.
 -   Deals 10 posture damage.
 -   Has a cooldown of 15 seconds.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.17x.
 -   Does not inflict Chill.
--   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the Ice Spikes bigger, and increases the number of traps placed with the _Spike Traps_ Talent.
--   Can be upgraded with the _Spike Traps_ Talent, pressing F during the wind-up creates 2 translucent ice traps, placed in random spots within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
-    -   Each spike deals 50% of the damage of the base version.
-    -   Using this version again will place new traps and detonate the existing traps at the same time.
-    -   NOTE: This Talent has been "vaulted"; as of June 23rd, 2025 and until further notice, Spike Traps is no longer obtainable. For users who already have Spike Traps, activating it will only place 1 trap, no matter how many Cloud/Stratus Stones the Mantra was modified with.
+-   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the Ice Spikes bigger.
 
  |
 | 
@@ -1257,9 +1259,9 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   When Warden's Blades ends, the swords will be shot out, dealing 15/16/17/18/19 damage per level with 2.75 Frostdraw scaling.
 -   1 posture damage per hit (19).
 -   Has a cooldown of 11 seconds.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.17x.
 -   Every projectile applies 1 seconds of Chill. This Chill duration cannot be modified.
--   Incredibly good with the **Glass Path: Crystallization** Talent due to the sheer amount of hits.
+-   Incredibly good with the **[Glass Path: Crystallization](../Talents.md#glass-path-crystallization)** Talent due to the sheer amount of hits.
 -   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the blades bigger but do less hits.
 
  |
@@ -1303,7 +1305,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   The Glacial Mobility variant of this Mantra deals 8 posture damage.
 -   Has a 10 second cooldown.
 -   Has a windup of 0.5 seconds.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Inflicts 1 second of Chill per hit. This cannot be modified.
 -   Cancels if parried.
 -   Can be canceled by timing a right-click after any of the slashes.
@@ -1344,7 +1346,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Has a base damage of 20/22.5/25/27.5/30 per level with 2.75 Frostdraw scaling.
 -   Deals 3 posture damage.
 -   Has a cooldown of 9.5 seconds.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Inflicts 9 seconds of Chill. This can be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
 -   Can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase the firing delay and Chill duration.
 -   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
@@ -1385,7 +1387,8 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Has a base damage of 5/6/7/8/9 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 1 posture damage per dagger (3).
 -   Has a 13 second cooldown (4 seconds if whiffed entirely or used when not aimed at an opponent).
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
+-   This Mantra requires an eligible target. If your opponent is invisible, they will not count as an eligible target, though [Blindseer](../Oath%253A_Blindseer.md)'s [All-Seeing Eye](../Talents.md#all-seeing-eye) Talent allows you to bypass this restriction.
 -   Projectiles have homing.
 -   Does not inflict Chill.
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
@@ -1429,10 +1432,9 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Has a base damage of 25 regardless of level with 2.75 Frostdraw scaling.
 -   Has a cooldown of 30 seconds.
 -   Unparryable and unblockable.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
--   Freezes opponent, allowing for a free hit or combo.
-    -   You can Vent while frozen to escape early, but you cannot block dodge or parry while frozen.
+-   Freezes opponent, disabling their ability to perform most actions (dodge, block/parry, move, attack, etc.) for a few seconds. Upon being hit, the ice will shatter. [Venting](../Combat_Mechanics.md#tempo) shatters the ice early.
 -   Shares a cooldown with [Permafrost Prison](../Hybrid_Abilities.md#permafrost-prison).
 -   Can be modified with a [Round Spark](../Mantra_Modifiers.md#sparks) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
     -   The walls can deal damage if they spawn very close to your opponent.
@@ -1474,7 +1476,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 -   Mantra levels also increase the projectile count. Ice Forge fires 6/7/8/9/10 shuriken per level (+1 if Blast Spark).
 -   Deals 1.4 posture damage per projectile.
 -   The Blast Spark variant deals 3 posture damage per shuriken explosion, massively increasing the overall posture damage.
--   Has 9.187x PvE scaling (multiply scaled damage dealt by 9.187 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.19x.
 -   Inflicts Chill for 9 seconds. The Chill duration CANNOT be increased with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
 -   Can be modified with [Drift](../Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](../Mantra_Modifiers.md#regular-modifiers) to massively increase the projectile speed. At max modifiers, the projectiles become entirely unreactible.
 -   Casting the Mantra while standing on ice will summon more projectiles. However, this is currently bugged.
@@ -1514,15 +1516,14 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
 -   Has a base damage of 35/38/41/44/47 per level with 2.75 Frostdraw scaling.
--   The Glacial Finish (F) variant has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
--   Deals 10/14/16/18/guard break posture damage per level. The Glacial Finish variant deals 10 posture damage per level.
+-   You can follow-up the initial smash by pressing parry (F) during the attack's windup. The followup has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
+-   Deals 10/14/16/18/guard break posture damage per level. The optional follow-up deals 10 posture damage per level.
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a 10 second cooldown.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Inflicts Chill for 5 seconds. This can be increased with [Aeon](../Mantra_Modifiers.md) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers).
 -   Slightly knocks back target(s).
--   Can break objects.
--   Press block during Ice Smash's windup to initiate a second hit dealing 80% of the damage of the first hit.
+-   Can break destructible terrain.
 
  |
 | 
@@ -1556,20 +1557,35 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 
 **Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
+**Base:**
+
 -   Has a base damage of 5/5.5/6/6.5/7 per level, per hit (9) with 2.75 Frostdraw scaling.
--   The [Spring Spark](../Mantra_Modifiers.md#sparks) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
--   The [Round Spark](../Mantra_Modifiers.md#sparks) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
--   Deals 1 posture damage per hit (9 when sparkless). The Round Spark variant deals 2 posture damage per hit (10, hitting block counts as 2).
+-   Deals 1 posture damage per hit (9).
+    
+
+**Spring Spark:**
+
+-   When modified with a [Spring Spark](../Mantra_Modifiers.md#sparks), the player will throw the disc forwards before calling it back to their original cast position. Player actions are not prevented while Ice Carve is in use.
+-   Has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
+-   Deals 1 posture damage per hit (9).
+-   Ice Carve travels in a straight horizontal line.
+-   Player actions are not prevented while the projectile is live.
+
+**Round Spark:**
+
+-   When modified wirh a [Round Spark](../Mantra_Modifiers.md#sparks), the player will form an Ice Carve around themselves, before rotating slashing opponents in a small radius.
+-   Has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
+-   Deals 2 posture damage per hit (10).
+
+-   Deals 1 posture damage per hit (9 when sparkless).
 -   10 second cooldown.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Does not inflict Chill.
--   Ends instantly if parried.
+-   Ends instantly if parried or feinted.
 -   Your character's rotation speed is slowed during this attack.
 -   Spawns an ice patch on use. [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
 -   The maximum size of Ice Carve is 6.
 -   Can be modified with [Cloud](../Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
--   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
--   Can be modified with a [Spring Spark](../Mantra_Modifiers.md#sparks) to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.
 
  |
 | 
@@ -5847,12 +5863,15 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Launch an orb-shaped projectile of blood to wherever the character is facing._
 
--   Deals 14.5/19/23.5/28/32.5 base damage per level, 8 posture, 0.6 windup, Has 10s CD
+-   Has a base damage of 14.5/19/23.5/28/32.5 per level, with 2.75 Bloodrend scaling.
+-   Deals 8 posture damage.
+-   Has a 10s CD and 0.6s of windup.
 -   Multi spark version deals 6.83/8.33/9.83/11.33/12.83 base damage per level, per orb, 2 posture per orb, 0.6s windup 10s CD
 -   Has 9.31x PVE scaling
 -   Each orb leaves behind a blood pool.
--   Can be modified with a Multiplying Spark, making it launch 3 orbs instead.
-    -   Damage per orb gets reduced, however, hitting all 3 orbs ends up dealing more damage than the non-spark version.
+-   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks), making it launch 3 orbs instead. Each orb deals less damage and posture damage per hit.
+    -   Multiplying Spark variant has a base damage of 6.83/8.33/9.83/11.33/12.83 damage per level, per hit (3), with 2.75 Bloodrend scaling.
+    -   Multiplying Spark variant deals 2 posture damage per hit (3).
 
  |
 | 
@@ -6645,7 +6664,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md) + Shadow [ResistanceShadowcast](../Sh
 -   Inflicts Chill.
 -   Works with Twisted Puppets, applying Shadow Burn (it won't spawn puppets) and Crystal Path.
 -   Compatible with [Cloudstones/Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the AoE larger.
--   Can be modified with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) but it seems to only work with [Aeon Logstone](../Mantra_Modifiers.md#regular-modifiers) otherwise if even a single [Eternal Logstone](../Mantra_Modifiers.md#regular-modifiers) is placed onto the mantra it will use more ether and make it last the original amount.
+-   Can be modified with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) but currently bugged and applying either it will use more ether and make it last the original amount.
 -   Can be modified with [Magnet Spark](../Mantra_Modifiers.md#sparks) allowing it to follow the user.
 -   Cannot be cast while in water. Attempting to cast it in water will consume your ether and do nothing.
 -   Shares a cooldown with [Ice Eruption](../Frostdraw.md#ice-eruption).
@@ -7719,6 +7738,7 @@ N/A
 -   Shares a cooldown with [Flame Leap](../Flamecharm.md#flame-leap) and [Strong Leap](../Attunement-less.md#strong-leap).
 -   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to chain multiple dashes in a row. The amount of dashes you gain per cast is dictated by the level of your Neural Pathway; e.g. 2 dashes at level 2, 3 at level 3 and so on.
     -   At level 3 onward, you can press M2 to end the Mantra early.
+-   Distance teleported is reduced when used in water.
     -   This spark increases the Mantra's cooldown by 30 seconds.
 
  |

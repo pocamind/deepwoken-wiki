@@ -316,9 +316,10 @@ This attack has a **5 second cooldown**.
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -332,6 +333,7 @@ This attack has a **5 second cooldown**.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Jus_Karita.md">Jus Karita</a></b></td>
@@ -345,6 +347,7 @@ This attack has a **5 second cooldown**.
   <td>1.14x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperium_Kata.md">Imperium Kata</a></b></td>
@@ -358,6 +361,7 @@ This attack has a **5 second cooldown**.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Kata.md">Legion Kata</a></b></td>
@@ -371,6 +375,7 @@ This attack has a **5 second cooldown**.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Untrained_Fist.md">Untrained Fist</a></b></td>
@@ -384,6 +389,7 @@ This attack has a **5 second cooldown**.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3 (9.2)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Way_of_Navae.md">Way of Navae</a></b></td>
@@ -397,9 +403,10 @@ This attack has a **5 second cooldown**.
   <td>1.13x</td>
   <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="11"><b>Cestus</b></td>
+  <td colspan="12"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -413,6 +420,7 @@ This attack has a **5 second cooldown**.
   <td>0.6x</td>
   <td>-</td>
   <td>1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Cestus.md">Iron Cestus</a></b></td>
@@ -426,6 +434,7 @@ This attack has a **5 second cooldown**.
   <td>1.11x</td>
   <td>-</td>
   <td>21.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></b></td>
@@ -440,6 +449,7 @@ This attack has a **5 second cooldown**.
   <td>1.14x</td>
   <td>-</td>
   <td>22.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Cestus.md">Legion Cestus</a></b></td>
@@ -453,6 +463,7 @@ This attack has a **5 second cooldown**.
   <td>1.11x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></b></td>
@@ -468,6 +479,7 @@ This attack has a **5 second cooldown**.
   <td>1.1x</td>
   <td>-</td>
   <td>25.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wraithclaw.md"><font>Wraithclaw</font></a></b></td>
@@ -483,6 +495,7 @@ This attack has a **5 second cooldown**.
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -498,6 +511,7 @@ This attack has a **5 second cooldown**.
   <td>1.11x</td>
   <td>-</td>
   <td>24</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rimebreakers.md"><font>Rimebreakers</font></a></b></td>
@@ -515,6 +529,7 @@ This attack has a **5 second cooldown**.
   <td>1.1x</td>
   <td>-</td>
   <td>31.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Steelscale_Dusters.md">Steelscale Dusters</a></b></td>
@@ -528,6 +543,7 @@ This attack has a **5 second cooldown**.
   <td>1.12x</td>
   <td>-</td>
   <td>24.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></b></td>
@@ -541,6 +557,7 @@ This attack has a **5 second cooldown**.
   <td>1.11x</td>
   <td>-</td>
   <td>26.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vortex_Echo.md">Vortex Echo</a></b></td>
@@ -556,6 +573,7 @@ This attack has a **5 second cooldown**.
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -571,6 +589,7 @@ This attack has a **5 second cooldown**.
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -585,6 +604,7 @@ This attack has a **5 second cooldown**.
   <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gaunts_of_Enmity.md">Gaunts of Enmity</a></b></td>
@@ -599,6 +619,7 @@ This attack has a **5 second cooldown**.
   <td>1.11x</td>
   <td>-</td>
   <td>25.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Karita_Plating.md">Karita Plating</a></b></td>
@@ -615,6 +636,7 @@ This attack has a **5 second cooldown**.
   <td>1.13x</td>
   <td>-</td>
   <td>25.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worldpiercer_Gauntlets.md">Worldpiercer Gauntlets</a></b></td>
@@ -629,6 +651,7 @@ This attack has a **5 second cooldown**.
   <td>1.08x</td>
   <td>-</td>
   <td>26.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
@@ -644,6 +667,7 @@ This attack has a **5 second cooldown**.
   <td>1.1x</td>
   <td>-</td>
   <td>26</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Oath%253A_Blightsurger.md#sovereign-bangle">Sovereign Bangle</a></b></td>
@@ -658,6 +682,7 @@ This attack has a **5 second cooldown**.
   <td>1.04x</td>
   <td>-</td>
   <td>30</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
@@ -671,6 +696,7 @@ This attack has a **5 second cooldown**.
   <td>1.1x</td>
   <td>-</td>
   <td>23.5</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>

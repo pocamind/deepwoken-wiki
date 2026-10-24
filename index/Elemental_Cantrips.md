@@ -1,6 +1,6 @@
 ---
 title: Elemental Cantrips
-revid: 228201
+revid: 231548
 source: https://deepwoken.fandom.com/wiki/Elemental_Cantrips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Attunement]
@@ -16,7 +16,7 @@ categories: [Mechanics, Attunement]
 
 ## Overview
 
-Cantrips are, often minor, passive utility abilities that are automatically unlocked by obtaining any Mantra from the specified attunement.
+**Elemental Cantrips** are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
 ## Cantrips
 
@@ -30,9 +30,11 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 
 [Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon consuming meat-type Food items.
 
-### [Flamecharm](Flamecharm.md) / [Thundercall](Thundercall.md)
+### [Flamecharm](Flamecharm.md)
 
-**Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key.
+**Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key (E).
+
+This Cantrip is shared with [Thundercall](Thundercall.md), with the only tangible difference being the sound effect on use.
 
 ### [Frostdraw](Frostdraw.md)
 
@@ -54,7 +56,7 @@ This does not work on [Ores](Ores.md).
 
 ### [Ironsing](Ironsing.md)
 
-**Ore Siphon;** This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abilities, taking priority over their [Pickaxe](Pickaxe.md) if they have one. Ore Siphon's visual effect will become yellow if the user has [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
+**Ore Siphon;** This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abilities, ignoring the need for a [Pickaxe](Pickaxe.md). The Ore Siphon mining animation takes priority over all other mining tools; being the Pickaxe and the [Boltcrusher](Boltcrusher.md) and [Quartztone Pickaxe](Quartztone_Pickaxe.md) weapons. Ore Siphon's visual effect will become yellow if the user has [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
 
 Currently does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel.
 
@@ -65,3 +67,11 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 ### [Shadowcast](Shadowcast.md)
 
 **Night Vision;** This Cantrip allows you to see better in low-light environments.
+
+**Shadowed Lure;** This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure, "reducing how often they need to move it around".
+
+### [Thundercall](Thundercall.md)
+
+**Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key (E).
+
+This Cantrip is shared with [Flamecharm](Flamecharm.md), with the only tangible difference being the sound effect on use.

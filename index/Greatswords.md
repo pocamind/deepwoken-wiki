@@ -61,6 +61,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -74,6 +75,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.83x</td>
   <td>0.1s</td>
   <td>31.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
@@ -91,6 +93,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -108,6 +111,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.93x</td>
   <td>0.1s</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
@@ -125,6 +129,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.85x</td>
   <td>0.1s</td>
   <td>36.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
@@ -141,6 +146,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.8x</td>
   <td>0.1s</td>
   <td>39.7</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></b></td>
@@ -155,6 +161,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.84x</td>
   <td>0.1s</td>
   <td>38.1</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Wyrmtooth.md">Wyrmtooth</a></b></td>
@@ -171,6 +178,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.93x</td>
   <td>0.1s</td>
   <td>36.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crypt_Blade.md"><font>Crypt Blade</font></a></b></td>
@@ -187,6 +195,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.8x</td>
   <td>0.1s</td>
   <td>43.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -204,6 +213,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.1s</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrsieger.md"><font>Kyrsieger</font></a></b></td>
@@ -219,6 +229,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodfouler.md"><font>Bloodfouler</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -236,6 +247,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.1s</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
@@ -253,6 +265,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.8x</td>
   <td>0.1s</td>
   <td>33.6</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hailbreaker.md"><font>Hailbreaker</font></a></b></td>
@@ -269,6 +282,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.85x</td>
   <td>0.1s</td>
   <td>40.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Long_Tong_of_the_Law.md">The Long Tong of the Law</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -285,6 +299,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.1s</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Wretched_Mawblades.md">Wretched Mawblades</a></b></td>
@@ -298,6 +313,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -311,6 +327,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.82x</td>
   <td>0.1s</td>
   <td>36.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
@@ -328,6 +345,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.83x</td>
   <td>0.1s</td>
   <td>40.3</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
@@ -345,6 +363,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.1s</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
@@ -361,6 +380,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.8x</td>
   <td>0.1s</td>
   <td>41.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
@@ -377,6 +397,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.85x</td>
   <td>0.1s</td>
   <td>38.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Kyrscleave.md">Kyrscleave</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -391,6 +412,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.1s</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Railblade.md">Railblade</a></b></td>
@@ -405,6 +427,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.88x</td>
   <td>0.1s</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Fractine.md"><font>Fractine</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b>(BRKN)</td>
@@ -424,6 +447,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Enforcer's_Blade.md">Enforcer's Blade</a></b></td>
@@ -438,6 +462,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.79x</td>
   <td>0.1s</td>
   <td>41.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Lumensplitter.md"><font>Lumensplitter</font></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -453,10 +478,11 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.1s</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
-  <td><a href="Talents.md#needleblade">Needleblade</a></td>
+  <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
   <td>-</td>
   <td>25%</td>
@@ -466,6 +492,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -479,6 +506,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Prototype_Railblade.md">Prototype Railblade</a><abbr></abbr></b></td>
@@ -492,6 +520,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.88x</td>
   <td>-</td>
   <td>35.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Darksteel_Cleaver.md">Darksteel Cleaver</a><abbr></abbr></b></td>
@@ -506,6 +535,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>0.75x</td>
   <td>0.3s</td>
   <td>45.6</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>

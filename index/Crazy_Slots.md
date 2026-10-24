@@ -66,6 +66,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -78,6 +79,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>1.25x</td>
   <td>-</td>
   <td>31.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -90,6 +92,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
@@ -102,6 +105,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>1.06x</td>
   <td>-</td>
   <td>38.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -114,6 +118,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>0.93x</td>
   <td>-</td>
   <td>37.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -126,6 +131,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>0.8x</td>
   <td>0.2s</td>
   <td>51.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
@@ -138,6 +144,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>0.84x</td>
   <td>0.3s</td>
   <td>57</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>

@@ -65,6 +65,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -78,6 +79,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.01x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -92,6 +94,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>27.2</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Imperial_Staff.md"><font>Imperial Staff</font></a></b></td>
@@ -107,6 +110,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.91x</td>
   <td>-</td>
   <td>33.5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>
@@ -121,6 +125,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.92x</td>
   <td>-</td>
   <td>31.2</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>

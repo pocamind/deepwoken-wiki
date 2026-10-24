@@ -56,28 +56,33 @@ Please view the [related page](Attunement-less.md) for more info.
   <th>Name</th>
   <th>Requirements</th>
   <th>Max Posture Bonus</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Targe.md">Targe</a></b></td>
   <td>10 FTD</td>
   <td>4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Deconstruction_of_Shrine.md">Deconstruction of Shrine</a></b></td>
   <td>15 FTD</td>
   <td>2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bronze_Aspis.md">Bronze Aspis</a></b></td>
   <td>15 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Kite_Shield.md">Kite Shield</a></b></td>
   <td>20 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>4.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
@@ -85,6 +90,7 @@ Please view the [related page](Attunement-less.md) for more info.
   <small><a href="Tenacity.md">Tenacity</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
@@ -92,42 +98,50 @@ Please view the [related page](Attunement-less.md) for more info.
   <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
   <td>30 FTD</td>
   <td>5</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Worshipper's_Shield.md">Worshipper's Shield</a></b></td>
   <td>40 FTD</td>
   <td>6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Adretian_Aegis.md">Adretian Aegis</a></b></td>
   <td>50 FTD<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>6.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Ethiron_Curseshield.md">Ethiron Curseshield</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Gourdguard.md">Gourdguard</a></b></td>
   <td>50 FTD</td>
   <td>7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Legion_Shield.md">Legion Shield</a></b></td>
   <td>60 FTD</td>
   <td>8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Path's_Defender.md">The Path's Defender</a></b></td>
   <td>75 FTD</td>
   <td>10</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Icarus_Sun_Shield.md">Icarus Sun Shield</a><abbr></abbr></b></td>
   <td>60 FTD</td>
   <td>10</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 227285
+revid: 231559
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -56,9 +56,10 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page.  
+[Elemental Cantrips](Elemental_Cantrips.md) are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
-**Purifying Frost** - Automatically purify certain forms of unsafe water collected in your [Canteen](Canteen.md), turning it into fresh drinking water. Sea water and the [Celestial](Celestial.md) Ichor cannot be purified by this Cantrip.
+**Purifying Frost;** This Cantrip automatically purifies certain forms of unsafe water when collected in your [Canteen](Canteen.md). Sea water and the [Celestial](Celestial.md) Ichor cannot be purified by this Cantrip.
 
 The [Purifying Ring](Purifying_Ring.md) Equipment has a similar effect. Most collectible water sources are already drinkable, removing most of the need for this Cantrip.
 
@@ -135,29 +136,34 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 **Effect:** _Conjure a ring of 6-8 frozen servants, emitting two blasts of frosty mist towards the center._
 
--   Base damage of 6/8/10/12/14 per level, per hit with 2.75 Frostdraw scaling, hitting 2 times. (4 Hits with Blast Spark)
--   Able to be Block, Parry, and Dodged.
--   Deals 5 posture damage per hit. (Total of 10 posture, 20 with Blast Spark)
+**Base:**
+
+**Reversal Spark:**
+
+-   When modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), the servants will instead attack outwards.
+-   This removes the circular hitbox at the center, making it harder to land, especially with +Size [Mantra Modifiers](Mantra_Modifiers.md).
+
+**Blast Spark:**
+
+-   When modified with a [Blast Spark](Mantra_Modifiers.md#sparks), the player creates a slow giant ice servant that attacks 4 times with an ice breath attack.
+-   This increases the windup to 1.2s, from 0.7s. Additionally, the player will be unable to change their character orientation locked, their movement speed will be decreased, and they will be unable to ssprint for 1.3s.
+-   This version of the Mantra is **unaffected** by [Size](Mantra_Modifiers.md#regular-modifiers) and [Speed](Mantra_Modifiers.md#regular-modifiers) Mantra Modifiers, as well the [Insignia Gem](Insignia_Gem.md).
+
+-   Base damage of 6/8/10/12/14 per level, per hit (2, 4 with Blast Spark), with 2.75 Frostdraw scaling.
+-   Deals 5 posture damage per hit (2 base, 4 with Blast Spark).
 -   Has a cooldown of 18 seconds, and a windup of 0.7 seconds. (Windup can be modified)
 -   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified. (Alternatively applies crystal when used with Crystallization Path.)
 -   Leaves an ice patch on the ground where the Mantra is casted, size changing with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), mantra level, weather, and ground material.
+-   This ability has a PvE damage multiplier of 9.17x.
 -   Acts as the Frostdraw alternative to Flamecharm's Burning Servants and has many similarities, including:
     -   Lacking endlag on cast, allowing the user to immediately follow up and even attack during the windup.
     -   Not preventing sprinting/movement speed on cast.
     -   Lacking any form of hitstun when landed, only damaging the opponent, that said, it is still able to prevent rolling when utilizing Frozen Legs due to inflicting Chill.
-    -   Not cancelling Equalizer or Whiffed Vent stun durations.
+    -   Not cancelling [Equalizer](Oath%253A_Contractor.md#equalizer) or Whiffed Vent stun durations.
 -   Can be modified with the following [Mantra Modifiers](Mantra_Modifiers.md):
     -   [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to greatly increase the size of the ice patches.
     -   [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to decrease the "summoning" time of your servants, servants each have 0.03 seconds windup to individually "summon" around the user, at +≥3 speed your servants will skip this windup and summon simultaneously.
     -   [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase servant count, adding +1 servants at +1-2 size, capping at +2 servants when above +≥3 size. Adding servants also increases the size and range of the circle.
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to reverse the servants direction when attacking:
-    -   Each servant attacks now attacks outwards, each blast having much smaller rectangular hitbox, completely removes the regular large spherical hitbox in the center.
-    -   Posture, Damage, and Ice placement are completely unaffected.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), creating a slower giant ice servant that attacks 4 times:
-    -   Increases the windup from 0.4s to 1.2s
-    -   For 1.3s after casting, the user has their rotation locked, speed decreased, and sprint prevented. However the endlag remains 0.0s, and slides are uncancelled.
-    -   Unaffected by [speed/size modifers](Mantra_Modifiers.md), and Insignia Gem, however [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) are unchanged.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 
  |
 | 
@@ -194,12 +200,12 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Has a base damage of 7/7.3/7.6/7.9/8.2 per level per hit (4) with 2.75 Frostdraw scaling.
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.17x.
 -   You can increase the size of this Mantra with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
 -   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Hits multiple times in a row.
 -   Knocks back targets.
--   Can be upgraded with the _Preceding Chill_ Talent, freezing opponents or detonating their crystals if they get hit by the final ticks of your Ice Beam.
+-   Can be upgraded with the _[Preceding Chill](Talents.md#preceding-chill)_ Talent, freezing opponents or detonating their crystals if they get hit by the final ticks of your Ice Beam.
 -   Shares a cooldown with [Lightning Beam](Thundercall.md#lightning-beam).
 
  |
@@ -234,16 +240,25 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 **Effect:** _Conjure a spike of ice from the ground at the cursor's location._
 
--   Has a base damage of 25 regardless of level with 2.75 Frostdraw scaling.
+**Base:**
+
+-   Has a base damage of 25, regardless of level, with 2.75 Frostdraw scaling.
+    
+
+**Spike Traps:**
+
+-   If the player has the [Spike Traps](Talents.md#spike-traps) Talent, pressing F during the Mantra's windup will place 2 translucent traps on the ground in a random location near the player. Whenever one of the traps are touched, an Ice Spike will sprout from the ground.
+-   Each trap has a base damage of 12.5, regardless of level, with 2.75 Frostdraw scaling.
+-   Recasting Spike Traps will cause pre-existing traps to activate automatically, while simultaneously placing new traps down.
+-   Size [Mantra Modifiers](Mantra_Modifiers.md) ([Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers)) increase the quantity of traps placed, as well as the size of the produced spikes.
+-   NOTE: This Talent has been "vaulted"; as of [June 23rd, 2025](Version_History/2025.md#june-23rd-2025) and until further notice, Spike Traps is no longer obtainable. For users who already have Spike Traps, it is limited to 1 trap, regardless of Size modifiers.
+
+-   Has a base damage of 25 regardless of level, with 2.75 Frostdraw scaling.
 -   Deals 10 posture damage.
 -   Has a cooldown of 15 seconds.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.17x.
 -   Does not inflict Chill.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the Ice Spikes bigger, and increases the number of traps placed with the _Spike Traps_ Talent.
--   Can be upgraded with the _Spike Traps_ Talent, pressing F during the wind-up creates 2 translucent ice traps, placed in random spots within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
-    -   Each spike deals 50% of the damage of the base version.
-    -   Using this version again will place new traps and detonate the existing traps at the same time.
-    -   NOTE: This Talent has been "vaulted"; as of June 23rd, 2025 and until further notice, Spike Traps is no longer obtainable. For users who already have Spike Traps, activating it will only place 1 trap, no matter how many Cloud/Stratus Stones the Mantra was modified with.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the Ice Spikes bigger.
 
  |
 | 
@@ -281,9 +296,9 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   When Warden's Blades ends, the swords will be shot out, dealing 15/16/17/18/19 damage per level with 2.75 Frostdraw scaling.
 -   1 posture damage per hit (19).
 -   Has a cooldown of 11 seconds.
--   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.17x.
 -   Every projectile applies 1 seconds of Chill. This Chill duration cannot be modified.
--   Incredibly good with the **Glass Path: Crystallization** Talent due to the sheer amount of hits.
+-   Incredibly good with the **[Glass Path: Crystallization](Talents.md#glass-path-crystallization)** Talent due to the sheer amount of hits.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the blades bigger but do less hits.
 
  |
@@ -327,7 +342,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   The Glacial Mobility variant of this Mantra deals 8 posture damage.
 -   Has a 10 second cooldown.
 -   Has a windup of 0.5 seconds.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Inflicts 1 second of Chill per hit. This cannot be modified.
 -   Cancels if parried.
 -   Can be canceled by timing a right-click after any of the slashes.
@@ -368,7 +383,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Has a base damage of 20/22.5/25/27.5/30 per level with 2.75 Frostdraw scaling.
 -   Deals 3 posture damage.
 -   Has a cooldown of 9.5 seconds.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Inflicts 9 seconds of Chill. This can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase the firing delay and Chill duration.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
@@ -409,7 +424,8 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Has a base damage of 5/6/7/8/9 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 1 posture damage per dagger (3).
 -   Has a 13 second cooldown (4 seconds if whiffed entirely or used when not aimed at an opponent).
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
+-   This Mantra requires an eligible target. If your opponent is invisible, they will not count as an eligible target, though [Blindseer](Oath%253A_Blindseer.md)'s [All-Seeing Eye](Talents.md#all-seeing-eye) Talent allows you to bypass this restriction.
 -   Projectiles have homing.
 -   Does not inflict Chill.
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
@@ -453,10 +469,9 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Has a base damage of 25 regardless of level with 2.75 Frostdraw scaling.
 -   Has a cooldown of 30 seconds.
 -   Unparryable and unblockable.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
--   Freezes opponent, allowing for a free hit or combo.
-    -   You can Vent while frozen to escape early, but you cannot block dodge or parry while frozen.
+-   Freezes opponent, disabling their ability to perform most actions (dodge, block/parry, move, attack, etc.) for a few seconds. Upon being hit, the ice will shatter. [Venting](Combat_Mechanics.md#tempo) shatters the ice early.
 -   Shares a cooldown with [Permafrost Prison](Hybrid_Abilities.md#permafrost-prison).
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
     -   The walls can deal damage if they spawn very close to your opponent.
@@ -498,7 +513,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   Mantra levels also increase the projectile count. Ice Forge fires 6/7/8/9/10 shuriken per level (+1 if Blast Spark).
 -   Deals 1.4 posture damage per projectile.
 -   The Blast Spark variant deals 3 posture damage per shuriken explosion, massively increasing the overall posture damage.
--   Has 9.187x PvE scaling (multiply scaled damage dealt by 9.187 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.19x.
 -   Inflicts Chill for 9 seconds. The Chill duration CANNOT be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) to massively increase the projectile speed. At max modifiers, the projectiles become entirely unreactible.
 -   Casting the Mantra while standing on ice will summon more projectiles. However, this is currently bugged.
@@ -538,15 +553,14 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
 -   Has a base damage of 35/38/41/44/47 per level with 2.75 Frostdraw scaling.
--   The Glacial Finish (F) variant has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
--   Deals 10/14/16/18/guard break posture damage per level. The Glacial Finish variant deals 10 posture damage per level.
+-   You can follow-up the initial smash by pressing parry (F) during the attack's windup. The followup has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
+-   Deals 10/14/16/18/guard break posture damage per level. The optional follow-up deals 10 posture damage per level.
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a 10 second cooldown.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Inflicts Chill for 5 seconds. This can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Slightly knocks back target(s).
--   Can break objects.
--   Press block during Ice Smash's windup to initiate a second hit dealing 80% of the damage of the first hit.
+-   Can break destructible terrain.
 
  |
 | 
@@ -580,20 +594,35 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 
 **Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
+**Base:**
+
 -   Has a base damage of 5/5.5/6/6.5/7 per level, per hit (9) with 2.75 Frostdraw scaling.
--   The [Spring Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
--   The [Round Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
--   Deals 1 posture damage per hit (9 when sparkless). The Round Spark variant deals 2 posture damage per hit (10, hitting block counts as 2).
+-   Deals 1 posture damage per hit (9).
+    
+
+**Spring Spark:**
+
+-   When modified with a [Spring Spark](Mantra_Modifiers.md#sparks), the player will throw the disc forwards before calling it back to their original cast position. Player actions are not prevented while Ice Carve is in use.
+-   Has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
+-   Deals 1 posture damage per hit (9).
+-   Ice Carve travels in a straight horizontal line.
+-   Player actions are not prevented while the projectile is live.
+
+**Round Spark:**
+
+-   When modified wirh a [Round Spark](Mantra_Modifiers.md#sparks), the player will form an Ice Carve around themselves, before rotating slashing opponents in a small radius.
+-   Has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
+-   Deals 2 posture damage per hit (10).
+
+-   Deals 1 posture damage per hit (9 when sparkless).
 -   10 second cooldown.
--   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
+-   This ability has a PvE damage multiplier of 9.18x.
 -   Does not inflict Chill.
--   Ends instantly if parried.
+-   Ends instantly if parried or feinted.
 -   Your character's rotation speed is slowed during this attack.
 -   Spawns an ice patch on use. [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
 -   The maximum size of Ice Carve is 6.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
--   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.
 
  |
 | 

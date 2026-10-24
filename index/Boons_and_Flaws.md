@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 231527
+revid: 231538
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -146,9 +146,9 @@ These Flaws can be chosen at character creation with no requirements for obtainm
 <tr>
   <td><b>Glutton</b><br>
   </td>
-  <td>Your hunger and thirst is depleted faster.</td>
-  <td>Stomach and thirst meters passively decrease ~50%-100% faster.</td>
-  <td>Additionally, your movement will be slowed while you are consuming food items. The increased food/thirst depletion effect does not affect the stomach loss any non-passive source, such as the <a href="Gluttony.md">Gluttony</a> Enchant or <a href="Chef's_Toque.md">Chef's Toque</a>.</td>
+  <td>Your hunger and thirst is depleted faster. Eating food slows you down.</td>
+  <td>Stomach and thirst meters passively decrease ~50%-100% faster. Your character's movement speed is reduced while consuming <a href="Food.md">Food</a> items.</td>
+  <td>The increased food/thirst depletion effect does not affect the stomach loss any non-passive source, such as the <a href="Gluttony.md">Gluttony</a> Enchant or <a href="Chef's_Toque.md">Chef's Toque</a>.</td>
   <td>1 Boon Point</td>
 </tr>
 <tr>
@@ -425,12 +425,14 @@ Some Flaws are more worth-taking than others:
 
 ### Glutton
 
-**Glutton** increases the rate at which your Hunger meter decays. Additionally, this Flaw applies a slow debuff to the player when they consume food items. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+**Glutton** increases the rate at which your Hunger meter passively decays. Additionally, this Flaw applies a slow debuff to the player when they consume food items. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
 
 -   Notes:
+    -   The movement speed debuff applied when consuming food items only applies to items that are listed as [Food](Food.md) in the inventory. For example, the debuff will not apply if you eat a [Stick](Stick.md) via the [Termite](Talents.md#termite) Talent.
+        -   Additionally, this effect will only apply for the duration of the eating animation.
     -   This Flaw forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall.
-    -   This Flaw is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as the Regalia entirely disables passive stomach/thirst drain.
-    -   Hunger loss from non-passive sources (e.g. Squemish or the [Gluttony](Gluttony.md) enchantment) are not affected by this Flaw.
+    -   The increased stomach drain effect is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as the Regalia entirely disables passive stomach/thirst drain.
+    -   Hunger loss from non-passive sources (e.g. Squemish or the [Gluttony](Gluttony.md) enchantment) are not affected by this Flaw, though the increased hunger loss from actions like swimming will stack on top of this Flaw's downside.
     -   [Gremor](Gremor.md)'s [Navae's Guidance](Talents.md#navaes-guidance) Talent and the [Full Food Buff](Status_Effects.md#full-food-buff) decrease the rate at which your hunger decays, counteracting the downside of this Flaw.
 
 ### Haemophilia

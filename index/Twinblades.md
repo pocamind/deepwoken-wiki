@@ -54,6 +54,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -67,6 +68,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>19.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
@@ -82,6 +84,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
@@ -97,6 +100,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></b></td>
@@ -110,6 +114,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.94x</td>
   <td>-</td>
   <td>29.3</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Death's_Reverie.md">Death's Reverie</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -124,6 +129,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crescendo.md">Crescendo</a></b></td>
@@ -137,6 +143,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.92x</td>
   <td>-</td>
   <td>31.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
@@ -150,6 +157,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.9x</td>
   <td>-</td>
   <td>22.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 230487
+revid: 231572
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Reputation, Mechanics]
@@ -142,7 +142,6 @@ Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit 
 | [The Summer Company](The_Summer_Company.md) | 
 
 -   3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>)
--   3 [Summer Goons](Summer_Goon.md)
 
  | 
 

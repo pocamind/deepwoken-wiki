@@ -66,6 +66,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -79,6 +80,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.17x</td>
   <td>-</td>
   <td>19.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Flintlock.md">Flintlock</a></b></td>
@@ -92,6 +94,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.17x</td>
   <td>-</td>
   <td>20.9</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
@@ -107,6 +110,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.17x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
@@ -122,6 +126,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.17x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Repeater.md">Repeater</a></b></td>
@@ -135,6 +140,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.25x</td>
   <td>-</td>
   <td>26.6</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dragoon.md">Dragoon</a></b></td>
@@ -148,6 +154,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
@@ -161,6 +168,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.2x</td>
   <td>-</td>
   <td>29.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
@@ -176,6 +184,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.17x</td>
   <td>-</td>
   <td>30.4</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
@@ -189,6 +198,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.25x</td>
   <td>-</td>
   <td>35.2</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
@@ -202,6 +212,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1.17x</td>
   <td>-</td>
   <td>23.7</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -226,6 +237,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <th>Swing Speed</th>
   <th>Endlag</th>
   <th>Scaled Damage</th>
+  <th>Provides Talent(s)?</th>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -239,6 +251,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>1x</td>
   <td>-</td>
   <td>24.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
@@ -252,6 +265,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>1x</td>
   <td>-</td>
   <td>22</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
@@ -267,6 +281,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
@@ -282,6 +297,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>1x</td>
   <td>-</td>
   <td>32.7</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
@@ -296,6 +312,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>0.9x</td>
   <td>-</td>
   <td>32</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
@@ -309,6 +326,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
@@ -322,6 +340,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>0.97x</td>
   <td>-</td>
   <td>30.5</td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
@@ -339,6 +358,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>1x</td>
   <td>-</td>
   <td>29.8</td>
+  <td><b>✗</b></td>
 </tr>
 </tbody>
 </table>
