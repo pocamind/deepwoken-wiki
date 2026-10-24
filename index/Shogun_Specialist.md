@@ -1,11 +1,11 @@
 ---
 title: Shogun Specialist
-revid: 225080
+revid: 231600
 source: https://deepwoken.fandom.com/wiki/Shogun_Specialist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies, Etrea Enemies]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Enemies, Etrea Enemies]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Shogun Specialist
@@ -23,7 +23,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Shogun Specialist is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_Iron).md>) when taking on the "Shogun Specialist" job from [Isle of Vigils](Isle_of_Vigils.md). They have a lot of health and deal significant damage, so it's recommended to be careful when fighting them. Their moveset is essentially just a lesser version of Maestro's, so these guys can be taken as practice for the boss itself in Pathfinder.
+The **Shogun Specialist** is an enemy NPC encountered in [Etris](<Etris_(Vow_of_Iron).md>) when undertaking the "Shogun Specialist" job obtained from the [Isle of Vigils](Isle_of_Vigils.md).
+
+They possess a large amount of health and deal significant damage, making caution advisable when engaging them in combat. Their moveset is largely a simplified version of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)'s, making them a suitable opponent for practicing against the boss in [Pathfinder](Pathfinder.md).
 
 ## Moveset
 

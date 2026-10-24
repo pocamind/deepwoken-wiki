@@ -1,11 +1,11 @@
 ---
 title: Nautilodaunt Officiate
-revid: 227516
+revid: 231603
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
+categories: [Vow of Iron Exclusive, Stub pages with reason, StubPages, Monsters, The Depths]
 notices:
-  - This page is currently being worked on. Gifs needed for Attacks
+  - "This page is a stub. It requires further information, or has little to no information. Gifs needed for Attacks"
 ---
 
 # Nautilodaunt Officiate

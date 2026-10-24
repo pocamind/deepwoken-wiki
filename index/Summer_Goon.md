@@ -1,11 +1,9 @@
 ---
 title: Summer Goon
-revid: 231576
+revid: 231597
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Enemies, Summer Company Enemies]
-notices:
-  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
+categories: [Enemies, Summer Company Enemies]
 ---
 
 # Summer Goon
@@ -15,22 +13,17 @@ notices:
 | health | 1200 |
 | drops | None |
 | weapon | Flintlock |
-| moves | Assault, Critical |
+| moves | Assault, Critical, Taunt, Exhaustion Strike |
 
 ## Description
 
-Summer Goons were an enemy NPC that could only be found in the reactor room of Miner's landing. They were able to be found during one of the following events:
+Summer Goons are an enemy NPC that can only spawn from [Random Encounters](Random_Encounters.md).
 
--   Five Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the reactor room.
--   Two Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the ramp next to the reactor room.
-
-Summer Goons only wore a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying.
-
-The Summer Goons in the reactor room had to be killed to complete [Orion](Orion.md)'s "Summer's Dusk" Quest.
+Summer Goons wear the [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 
-The Summer Goon's arsenal only consisted of a [Flintlock](Flintlock.md) pistol:
+The Summer Goon's arsenal only consist of a [Flintlock](Flintlock.md) pistol:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -92,7 +85,7 @@ The Summer Goon's arsenal only consisted of a [Flintlock](Flintlock.md) pistol:
 
 ## Finisher
 
-A Summer Goon executed the player after knocking them:
+A Summer Goon executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -101,4 +94,5 @@ A Summer Goon executed the player after knocking them:
 ## Trivia
 
 -   At one point in time, their outfit was changed to the [Summer Dragoon](Summer_Dragoon.md) outfit. This was then reverted and was given to [a separate enemy](<Summer_Dragoon_(NPC).md>).
--   They had no difference in appearance to the [Summer Company Guard](Summer_Company_Guard.md) or [Summer Manager](Summer_Manager.md).
+-   They have no difference in appearance to the [Summer Company Guard](Summer_Company_Guard.md) or [Summer Manager](Summer_Manager.md).
+-   Previously, they could also spawn in the reactor room of [Miner's Landing](<Miner's_Landing.md>). They were assigned to be eliminated if the player had taken the "Summer's Dusk" Quest from [Orion](Orion.md).
