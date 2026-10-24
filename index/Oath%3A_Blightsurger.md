@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 229850
+revid: 231604
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -92,7 +92,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
     -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
     -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 1.04x Swingspeed.
     -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
-    -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
+    -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of Scaling Rings.
     -   Outside of Sovereign State, the Sovereign Bangle uses the critical of your equipped fist style like an average Cestus would.
         -   This can only be seen through the [Theros Disciple](Theros_Disciple.md) [Memento](Mementos.md), which gives you the weapon on character creation, allowing it to use the [Imperium Kata](Imperium_Kata.md) critical.
     -   Sovereign Bangle can be enhanced with Blightsurger Talents.
