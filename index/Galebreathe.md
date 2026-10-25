@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 230143
+revid: 231618
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -52,11 +52,13 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+_This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page._
 
-### Batch Harvest
+Elemental Cantrips are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. As a result of their lesser power, Cantrips do not require slots or expend Ether on usage.
 
-This Cantrip allows the player to harvest multiple of the same ingredient at once if there are others of that ingredient nearby. For example, if there are three [Dentifilos](Dentifilo.md) that spawned close together, harvesting one will collect all three.
+_All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
+
+**Batch Harvest;** This Cantrip allows the player to harvest multiple of the same ingredient at once if there are others of that ingredient nearby. For example, if there are three [Dentifilos](Dentifilo.md) that spawned close together, harvesting one will collect all three.
 
 This does not work on [Ores](Ores.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Elemental Cantrips
-revid: 231548
+revid: 231622
 source: https://deepwoken.fandom.com/wiki/Elemental_Cantrips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Attunement]
@@ -16,7 +16,9 @@ categories: [Mechanics, Attunement]
 
 ## Overview
 
-**Elemental Cantrips** are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
+Elemental Cantrips are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. As a result of their lesser power, Cantrips do not require slots or expend Ether on usage.
+
+_All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
 ## Cantrips
 
@@ -34,7 +36,7 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 
 **Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key (E).
 
-This Cantrip is shared with [Thundercall](Thundercall.md), with the only tangible difference being the sound effect on use.
+This Cantrip is shared with [Thundercall](Thundercall.md), with the only difference being the sound effect on use.
 
 ### [Frostdraw](Frostdraw.md)
 
@@ -74,4 +76,8 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 
 **Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key (E).
 
-This Cantrip is shared with [Flamecharm](Flamecharm.md), with the only tangible difference being the sound effect on use.
+This Cantrip is shared with [Flamecharm](Flamecharm.md), with the only difference being the sound effect on use.
+
+## Trivia
+
+-   A [cantrip](https://en.wikipedia.org/wiki/cantrip) is a term for a magic spell. Their function within _Deepwoken_ is likely derived from the mechanic in _[Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)_. Within _DnD_, cantrips are weaker spells with minor effects that, in exchange, cost no resources to use.

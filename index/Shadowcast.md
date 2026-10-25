@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 231579
+revid: 231629
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,15 +48,15 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-[Elemental Cantrips](Elemental_Cantrips.md) are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
+_This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page._
 
-### Night Vision
+Elemental Cantrips are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. As a result of their lesser power, Cantrips do not require slots or expend Ether on usage.
 
-This Cantrip increases the brightness in dark locations, allowing the player to see better in low-light environments.
+_All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
-### Shadowed Lure
+**Night Vision;** This Cantrip allows you to see better in low-light environments.
 
-This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure, "reducing how often they need to move it around".
+**Shadowed Lure;** This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure, "reducing how often they need to move it around".
 
 ## Mantras
 

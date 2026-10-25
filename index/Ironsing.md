@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 230627
+revid: 231628
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -65,17 +65,17 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+_This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page._
 
-### Ore Siphon
+Elemental Cantrips are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. As a result of their lesser power, Cantrips do not require slots or expend Ether on usage.
 
-This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abilities, taking priority over their [Pickaxe](Pickaxe.md) if they have one. Ore Siphon's visual effect will become yellow if the user has [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
+_All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
+
+**Ore Siphon;** This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abilities, ignoring the need for a [Pickaxe](Pickaxe.md). The Ore Siphon mining animation takes priority over all other mining tools; being the Pickaxe and the [Boltcrusher](Boltcrusher.md) and [Quartztone Pickaxe](Quartztone_Pickaxe.md) weapons. Ore Siphon's visual effect will become yellow if the user has [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
 
 Currently does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel.
 
-### Stainless
-
-This Cantrip hides all visual tears the player's [Outfit](Outfits.md) gains when their armor durability is low. This is purely visual.
+**Stainless;** This Cantrip hides all visual tears the player's [Outfit](Outfits.md) gains when their armor durability is low. This is purely visual.
 
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 

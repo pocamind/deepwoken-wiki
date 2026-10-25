@@ -1,6 +1,6 @@
 ---
 title: Horus Helsen
-revid: 220379
+revid: 231615
 source: https://deepwoken.fandom.com/wiki/Horus_Helsen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Stub pages without reason, StubPages]
@@ -30,5 +30,6 @@ Horus Helsen is the current [High Mason](High_Mason.md) of the [Memorial Masons]
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [1.2](#cite-ref-0-1-2) [1.3](#cite-ref-0-1-3) [1.4](#cite-ref-0-1-4) [1.5](#cite-ref-0-1-5) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
-2.  [↑](#cite-ref-dj-2-0) [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)
+1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [1.2](#cite-ref-0-1-2) [1.3](#cite-ref-0-1-3) [1.4](#cite-ref-0-1-4) [1.5](#cite-ref-0-1-5) [Book](Books.md): [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)  
+    
+2.  [↑](#cite-ref-dj-2-0) [Book](Books.md): [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)

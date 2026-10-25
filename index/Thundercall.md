@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 228683
+revid: 231627
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -58,13 +58,15 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+_This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page._
 
-### Produce Spark
+Elemental Cantrips are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. As a result of their lesser power, Cantrips do not require slots or expend Ether on usage.
 
-This Cantrip allows the player to light [Campfires](Campfire_Pit.md) without [Flint](Flint.md).
+_All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
-This Cantrip is shared with [Flamecharm](Flamecharm.md), though the sound effect differs based on the attunement.
+**Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key (E).
+
+This Cantrip is shared with [Flamecharm](Flamecharm.md), with the only difference being the sound effect on use.
 
 ## Mantras
 

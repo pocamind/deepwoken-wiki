@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 231582
+revid: 231617
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
