@@ -1,6 +1,6 @@
 ---
 title: Hidden Knife Armor
-revid: 228644
+revid: 231640
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Vow of Iron Exclusive, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -49,3 +49,4 @@ The [Bane](Talents/Vow_of_Iron.md#bane) Talent grants a Talent tool that upon ac
 
 -   This outfit is a much darker version of [Kaide](Kaide,_the_Drowned_Light.md)'s outfit.
 -   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the [Feburary 25th, 2026](Version_History/2026.md#feburary-25th-2026) update.
+-   This outfit shares the same stats to the [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>). Even including the description.

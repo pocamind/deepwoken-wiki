@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 231559
+revid: 231655
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -56,8 +56,11 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page.  
-[Elemental Cantrips](Elemental_Cantrips.md) are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
+_This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page._
+
+Elemental Cantrips are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. As a result of their lesser power, Cantrips do not require slots or expend Ether on usage.
+
+_All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
 **Purifying Frost;** This Cantrip automatically purifies certain forms of unsafe water when collected in your [Canteen](Canteen.md). Sea water and the [Celestial](Celestial.md) Ichor cannot be purified by this Cantrip.
 
@@ -1391,6 +1394,8 @@ These Talents are found in the _Ice Age_ category.
 (90 Frostdraw, 90 Weapon, Glass Path: Crystallization) | Your crystal explosions deal more damage whenever your opponent is also bottom frozen. | Your crystal detonations deal 67% more damage against targets who are bottom frozen. |
 |  | Unyielding Frost  
 (100 Frostdraw) | Your **[Chilled](Status_Effects.md#chill)** can proc through block, with blocked **[Chilled](Status_Effects.md#chill)** procs lasting 80% of the duration. | If you have less than 100 Frostdraw, your chill duration (when applied through block) will be reduced further to only 25% of its original duration. |
+
+  
 
 ## Trivia
 

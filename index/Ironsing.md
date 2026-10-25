@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 231628
+revid: 231646
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]

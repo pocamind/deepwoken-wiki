@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 231557
+revid: 231643
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -52,12 +52,15 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Cantrip(s)
 
-This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page.  
-[Elemental Cantrips](Elemental_Cantrips.md) are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. _All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
+_This section is transcluded from [Elemental Cantrips](Elemental_Cantrips.md#overview). To change it, please edit the transcluded page._
+
+Elemental Cantrips are, often minor, passive abilities that are permanently granted to the player upon obtaining any Mantra from the respective Attunement. As a result of their lesser power, Cantrips do not require slots or expend Ether on usage.
+
+_All_ corresponding Cantrips will be granted when the player obtains at least one Mantra from their respective Attunement.
 
 **Produce Spark;** This Cantrip allows you to light [Campfire Pits](Campfire_Pit.md) without the use of [Flint](Flint.md). Approaching an unlit campfires prompts you to light them with your Interact key (E).
 
-This Cantrip is shared with [Thundercall](Thundercall.md), with the only tangible difference being the sound effect on use.
+This Cantrip is shared with [Thundercall](Thundercall.md), with the only difference being the sound effect on use.
 
 ## Mantras
 

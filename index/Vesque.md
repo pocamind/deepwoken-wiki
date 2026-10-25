@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 230268
+revid: 231676
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -115,5 +115,5 @@ Vesque is located at the [Isle of Vigils](Isle_of_Vigils.md), standing next to t
 
 ## Trivia
 
--   Vesque appears to suffer from a superiority complex: his idiolect has a recurring theme of needing prestige and self-aggrandization, such to the point that the player character treats him like a nuisance.
-    -   Despite this, he is perfectly capable of teaching the player how to wield Fang and Coil. In addition, he wears the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit, the description of which implies he is a master of the art.
+-   Vesque appears to suffer from a superiority complex: their idiolect has a recurring theme of needing prestige and self-aggrandization, such to the point that the player character treats them like a nuisance.
+    -   Despite this, they’re perfectly capable of teaching the player how to wield Fang and Coil. In addition, they wear the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit, the description of which implies they’re a master of the art.

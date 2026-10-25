@@ -1,6 +1,6 @@
 ---
 title: Tuna
-revid: 225515
+revid: 231635
 source: https://deepwoken.fandom.com/wiki/Tuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fish, Ingredients, Fishing Exclusive]

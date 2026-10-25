@@ -1,6 +1,6 @@
 ---
 title: Elemental Cantrips
-revid: 231622
+revid: 231639
 source: https://deepwoken.fandom.com/wiki/Elemental_Cantrips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Attunement]
@@ -28,9 +28,9 @@ _All_ corresponding Cantrips will be granted when the player obtains at least on
 
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 
-**Carnivorous;** This Cantrip allows the player to consume raw meat-type [Food](Food.md) items without vomiting. Even still, eating raw meat isn't very recommended, as the cooked versions provide significantly more sustenance and may grant additional buffs on consumption.
+**Carnivorous;** This Cantrip allows the player to consume raw meat-type [Food](Food.md) ingredients without vomiting. Even still, eating raw meat isn't very recommended, as the cooked versions provide significantly more sustenance and may grant additional buffs on consumption.
 
-[Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon consuming meat-type Food items.
+[Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon consuming meat-type ingredients.
 
 ### [Flamecharm](Flamecharm.md)
 
