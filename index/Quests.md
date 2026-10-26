@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 231575
+revid: 231749
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -162,7 +162,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Second_Layer.md">Sanctuary Gatehouse</a> (Layer 2)<br>
-  <b>Guide</b>: Talk to a seemingly insane Capra in rags named Kasen in layer 2.<br>
+  <b>Guide</b>: Talk to a seemingly insane Capra in rags named <a href="Kasen.md">Kasen</a> in layer 2.<br>
   You must have 80 Willpower and have gotten at least stage one of insanity on the slot you attempt to obtain Heretic's Sutra on before claiming this.<br>
   <b>Reward(s)</b>: <a href="Talents.md#heretics-sutra">Heretic's Sutra</a></p></div></td>
   <td><figure><figcaption><p></p><div><a href="Kasen.md">Kasen</a></div><p></p></figcaption></figure></td>
@@ -275,13 +275,28 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
 </tbody>
 </table>
 
+  
+
+#### Terrapod Terror
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Alsin's_Landing.md">Alsin's Landing</a> (Library Tower)<br>
+  <b>Guide</b>: Confront <a href="Kayla.md">Kayla</a>, who can be found hurled up against the wall. They will explain how they lost their favorite <a href="Shrouded_Cape.md">Shrouded Cape</a> while running away from a <a href="Terrapod.md">Terrapod</a>. Return with a Shrouded Cape to make their day and earn some rewards.<br>
+  <b>Reward(s)</b>: EXP, Compassion, +20 rank points (if a <a href="Justicar_(Origin).md">Justicar</a>)</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Kayla.md">Kayla</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
 #### Vanguards Guidance
 
 <table>
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Alsin's_Landing.md">Alsin's Landing</a> (Training Grounds)<br>
-  <b>Guide</b>: Talk to <a href="Sarbu.md">Sarbu</a>, who will ask for some assistance in learning an ability used only by those within the Vanguard division of the <a href="Justicar_(Origin).md">Justicar</a> Origin.<br>
+  <b>Guide</b>: Talk to <a href="Sarbu.md">Sarbu</a>, who will ask for some assistance in learning an ability used only by those within the Vanguard division of the <a href="Justicar_(Origin).md">Justicars</a>.<br>
   <b>Reward(s)</b>: EXP, Compassion, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Sarbu.md">Sarbu</a></div><p></p></figcaption></figure></td>
 </tr>

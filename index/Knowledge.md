@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 231101
+revid: 231737
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Currency]
@@ -87,7 +87,7 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
     -   _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit_.
 -   Engaging in a deal with **[Shrine of Division](Deep_Shrines/Shrine_of_Division.md)**, **[Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md)** (for most deals), **[Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)**, or **[Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)** costs 5 Knowledge. [Ganymede](Ganymede.md) reduces the Knowledge cost of these Shrines by 1.
     -   Using Shrine of Blasphemy when below Power 17 will level you up 3 times, almost offsetting the Knowledge cost entirely.
--   Engaging in a deal with **[Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)** or **[Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)**, costs 1 Knowledge.
+-   Engaging in a deal with the **[Shrine of Ego](Deep_Shrines/Shrine_of_Ego.md) costs 1 Knowledge.**
 -   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), costs 15 Knowledge. If you wish to stack Clarity wishes, it costs an extra 5 on top of the previous Knowledge cost. (e.g. 15 -> 20 -> 25 -> 30; by stacking a mere 4 wishes, you have spent a total of 90 Knowledge.)
 -   Purchasing an item from a [Blacksmith](Blacksmith.md) using [Seasonal Medals](Seasonal_Medals.md), this can range from 1 to 10 Knowledge depending on the item.
 -   Purchasing [Enchant Grease](Enchant_Grease.md) from [Laplace](Laplace.md), costs 5 Knowledge per Grease.
@@ -104,7 +104,7 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
 -   [Ganymedes](Ganymede.md) have a special racial bonus that make [Deep Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
     -   Most [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
     -   [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) will cost 9 Knowledge.
-    -   The [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) and [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) are unaffected, and will still cost 1 Knowledge.
+    -   The [Shrine of Ego](Deep_Shrines/Shrine_of_Ego.md) is unaffected and will still cost 1 Knowledge.
 -   An icon identical to the old Knowledge icon was in the game during the early beta. Its purpose was unknown.
 -   Knowledge is not simply just knowing about things; it is specifically "forbidden knowledge" as described by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), which explains why it is valuable enough to be traded with other beings.
     -   As such, the Moonseye Tome likely floods the user's mind with aforementioned forbidden knowledge. As the cacophony and madness of the voices decreases, so too does the Knowledge granted by the tome.

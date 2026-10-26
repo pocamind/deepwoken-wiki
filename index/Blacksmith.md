@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 225449
+revid: 231751
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vendors, NPCs, Humanoids with Unobtainable Outfits]
@@ -255,3 +255,4 @@ This dialogue is unlocked if the player has any [Seasonal Medals](Seasonal_Medal
 -   The blacksmith in [Etris](Etris.md) has an [apprentice outside the store](Pori.md). He will ask for you to not rat on him, if you do not rat on him, you will get a 50% discount, rounded-down, on all materials purchasable at the [Etris](Etris.md) Blacksmith, however ratting on him does nothing and the prices will stay the same.
 -   All blacksmiths excluding those present in [The Floating Keep](The_Floating_Keep.md) and [Castle Light](Castle_Light.md) wear the same outfit.
     -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5805469498/Etrean-BlackSmith) / [Pants](https://www.roblox.com/catalog/5805471130/Etrean-BlackSmith-Pants)
+-   Attempting to repair armor from the Blacksmith UI while having the [Crestfallen](Echoes.md#upgrades-unlocks-and-modifiers) Echo modifier will display the message, "You're Crestfallen. No dice."

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 231328
+revid: 231725
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -18180,7 +18180,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
 
 **Bows:**
 
-Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options.
+Bows are two handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options.
 
 By holding your basic attack input, you can charge your shots, increasing the damage they deal and turning your M1s into aim-able projectiles if you've charged for long enough. Release your M1 key to fire the bow shot at any point. Charging a shot while midair will slow your descent briefly. If a charged shot gets parried, you will be forced into a [Knockdown](Status_Effects.md#knockdown) state for a brief duration.
 

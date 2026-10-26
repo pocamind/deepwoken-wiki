@@ -16,7 +16,7 @@ Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page._
 
 -   **Crossguard** \[Battle Readiness • Faction Talent\] - If you are using a **sword**, you gain 10% chip against other opponents wielding swords.
     

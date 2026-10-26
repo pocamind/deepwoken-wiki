@@ -18,7 +18,7 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page._
 
 -   **Destructive Recovery** \[Collossus • Rare Talent\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture)
     -   Not to be confused with [Devastating Recovery](Talents.md#devastating-recovery), the weapon Talent for the [Zweihander](Zweihander.md).  

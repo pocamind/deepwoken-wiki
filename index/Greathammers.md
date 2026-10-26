@@ -18,7 +18,7 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page._
 
 -   **Unstoppable Force** \[Collosus • Rare Talent\] - Greathammer You take 15% less posture damage when parried. (+1 Posture)
     

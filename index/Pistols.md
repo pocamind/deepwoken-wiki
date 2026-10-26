@@ -51,7 +51,7 @@ For more information on Pistol mechanics, view [Guns](Guns.md).
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger). To change it, please edit the transcluded page._
 
 -   **Armor Piercing** \[Gunslinger • Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.

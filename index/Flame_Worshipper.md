@@ -3,7 +3,7 @@ title: Flame Worshipper
 revid: 228663
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
+categories: [Vow of Iron Exclusive, Pages with broken file links, Mementos, The Covenant of Flame]
 ---
 
 # Flame Worshipper
@@ -309,11 +309,15 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 
 **Combat Mantra**
 
+File:Fire-blade-2025.gif
+
 _Slicing blades of flame._
 
  | 
 
 ## Fire Blade (☆☆☆)
+
+File:Fire-blade-2025.gif
 
   
 **Combat Mantra**  

@@ -20,7 +20,7 @@ Using a weapon attack within 1 second of parrying an attack will riposte your op
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Needle](Talents.md#needle). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Needle](Talents.md#needle). To change it, please edit the transcluded page._
 
 -   **Defensive Stance** \[Needle • Common Talent\] - Rapier Gain more parry frames the lower your health is.
     

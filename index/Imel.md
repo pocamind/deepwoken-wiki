@@ -1,6 +1,6 @@
 ---
 title: Imel
-revid: 226456
+revid: 231730
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Cut Content, NPCs, The Ministry, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -33,10 +33,12 @@ Imel was located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with f
 
 **First Encounter:**
 
+**Quest Start:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You, you! Little killer! Looking for some fun?</td>
@@ -51,53 +53,58 @@ Imel was located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with f
   <td>Very well, I'm in.</td>
 </tr>
 <tr>
-  <td>Oh, great, great! You're going to kill someone. Specifically, any poor sap you find on Erisia. Sound good? Do the job, and return to me. They'll have to be as smart as yourself, you know!</td>
+  <td>Oh, great, great! You're going to kill someone. Specifically, any poor sap you find on Songseeker. Sound good? Do the job, and return to me. They'll have to be as smart as yourself, you know!</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+</tr>
+<tr>
+  <td>[Player not killed]</td>
+  <td>[Player killed]</td>
+</tr>
+<tr>
+  <td>I have not yet.</td>
+  <td>I've eliminated the target.</td>
+</tr>
+<tr>
+  <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Songseeker, and then come back to me.</td>
+  <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], gain XP and <a href="The_Ministry.md">The Ministry</a> Reputation</td>
 </tr>
 </tbody>
 </table>
 
 **Subsequent Encounters:**
 
-**Quest in progress:**
-
 <table>
 <tbody>
 <tr>
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+  <td>If it isn't the <i>COLD BLOODDED MURDERER</i>! How sweet to see you! Have you come back for <i>ANOTHER TASTE OF BLOODSHED</i>?</td>
 </tr>
 <tr>
-  <td>I have not yet.</td>
+  <td>I can handle it.</td>
 </tr>
 <tr>
-  <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Erisia, and then come back to me.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Quest end:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
-</tr>
-<tr>
-  <td>I've eliminated the target.</td>
-</tr>
-<tr>
-  <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
+  <td><i>SPLENDID!</i> Your task for now is to find and eliminate a <i>living being</i> as smart as you on Songseeker. Once you've <i>killed them,</i> come back for a surprise..</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -61,7 +61,7 @@
   },
   "828": {
     "title": "Weapons",
-    "lastrevid": 231328
+    "lastrevid": 231725
   },
   "829": {
     "title": "Iron Spear",
@@ -121,7 +121,7 @@
   },
   "953": {
     "title": "Quests",
-    "lastrevid": 231575
+    "lastrevid": 231749
   },
   "955": {
     "title": "Notes",
@@ -149,7 +149,7 @@
   },
   "1002": {
     "title": "Guilds",
-    "lastrevid": 231132
+    "lastrevid": 231735
   },
   "1021": {
     "title": "Outfits",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 231594
+    "lastrevid": 231759
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -745,7 +745,7 @@
   },
   "2442": {
     "title": "Curved Blade of Winds",
-    "lastrevid": 229410
+    "lastrevid": 231757
   },
   "2444": {
     "title": "Shattered Katana",
@@ -1069,7 +1069,7 @@
   },
   "2869": {
     "title": "Cut Content",
-    "lastrevid": 231540
+    "lastrevid": 231758
   },
   "2877": {
     "title": "Evengarde Rest",
@@ -1317,11 +1317,11 @@
   },
   "3422": {
     "title": "Blacksmith",
-    "lastrevid": 225449
+    "lastrevid": 231751
   },
   "3446": {
     "title": "Terminology (game)",
-    "lastrevid": 229218
+    "lastrevid": 231740
   },
   "3458": {
     "title": "Celtor Wastes",
@@ -2077,7 +2077,7 @@
   },
   "4988": {
     "title": "Aces",
-    "lastrevid": 197093
+    "lastrevid": 231736
   },
   "4990": {
     "title": "Thresher Spine",
@@ -2369,7 +2369,7 @@
   },
   "5777": {
     "title": "Knowledge",
-    "lastrevid": 231101
+    "lastrevid": 231737
   },
   "5796": {
     "title": "Kyrstear",
@@ -2501,7 +2501,7 @@
   },
   "6017": {
     "title": "Ciea",
-    "lastrevid": 230765
+    "lastrevid": 231741
   },
   "6019": {
     "title": "Kyrsan Medallions",
@@ -2625,7 +2625,7 @@
   },
   "6320": {
     "title": "Travelling Merchant",
-    "lastrevid": 224982
+    "lastrevid": 231734
   },
   "6366": {
     "title": "Ethironal Shrine Outskirts",
@@ -3197,7 +3197,7 @@
   },
   "8139": {
     "title": "Oath: Starkindred",
-    "lastrevid": 230956
+    "lastrevid": 231750
   },
   "8140": {
     "title": "Oath: Arcwarder",
@@ -3545,7 +3545,7 @@
   },
   "9475": {
     "title": "Terrains",
-    "lastrevid": 220396
+    "lastrevid": 231754
   },
   "9481": {
     "title": "Terrapod Shell",
@@ -3593,7 +3593,7 @@
   },
   "9632": {
     "title": "Lionfish Scale",
-    "lastrevid": 205124
+    "lastrevid": 231748
   },
   "9634": {
     "title": "King Thresher Spine",
@@ -4345,7 +4345,7 @@
   },
   "13306": {
     "title": "Oath: Soulbreaker",
-    "lastrevid": 228437
+    "lastrevid": 231738
   },
   "13311": {
     "title": "Raen",
@@ -4677,7 +4677,7 @@
   },
   "14132": {
     "title": "Emel",
-    "lastrevid": 226458
+    "lastrevid": 231729
   },
   "14137": {
     "title": "Flabbernaster Filingree, the First Mate",
@@ -4701,7 +4701,7 @@
   },
   "14148": {
     "title": "Imel",
-    "lastrevid": 226456
+    "lastrevid": 231730
   },
   "14151": {
     "title": "Marro",
@@ -4717,7 +4717,7 @@
   },
   "14157": {
     "title": "Rimil",
-    "lastrevid": 226459
+    "lastrevid": 231731
   },
   "14168": {
     "title": "Ilji",
@@ -5145,7 +5145,7 @@
   },
   "15578": {
     "title": "Warlock's Mantle",
-    "lastrevid": 228520
+    "lastrevid": 231742
   },
   "15579": {
     "title": "Summer Scarf",
@@ -5281,11 +5281,11 @@
   },
   "15857": {
     "title": "Deep Shrines/Shrine of Chance",
-    "lastrevid": 226884
+    "lastrevid": 231739
   },
   "15858": {
     "title": "Deep Shrines/Shrine of Order",
-    "lastrevid": 230922
+    "lastrevid": 231743
   },
   "15859": {
     "title": "Deep Shrines/Shrine of Ostentation",
@@ -7081,7 +7081,7 @@
   },
   "20480": {
     "title": "Isle of the Crows",
-    "lastrevid": 231721
+    "lastrevid": 231756
   },
   "20481": {
     "title": "Corvus Manor",
@@ -9249,7 +9249,7 @@
   },
   "24307": {
     "title": "Kayla",
-    "lastrevid": 231723
+    "lastrevid": 231744
   },
   "24309": {
     "title": "Grandmaster Warder Sapphire",
@@ -9422,10 +9422,6 @@
   "24668": {
     "title": "The Cradle of Symphonies",
     "lastrevid": 219051
-  },
-  "24685": {
-    "title": "The Resurgence",
-    "lastrevid": 211615
   },
   "24686": {
     "title": "Adretian Emperor",
@@ -9601,7 +9597,7 @@
   },
   "25935": {
     "title": "Authority Sniper",
-    "lastrevid": 225014
+    "lastrevid": 231724
   },
   "25941": {
     "title": "Cascabel Bay",
@@ -9881,7 +9877,7 @@
   },
   "26761": {
     "title": "The Crow's Laboratory",
-    "lastrevid": 231722
+    "lastrevid": 231755
   },
   "26812": {
     "title": "Deep Shrines/Shrine of Ego",

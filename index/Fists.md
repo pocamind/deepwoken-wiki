@@ -189,8 +189,6 @@ This info has been transcluded from [a different page](Talents.md#fists). Visit 
 
 Talents that are obtained from [Equipment](Equipment.md), [Outfits](Outfits.md), or [Weapons](Weapons.md), that relate to the Fist weapon class or a particular fist style.
 
-  
-
 -   **Centurion's Resolve**: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.  
         

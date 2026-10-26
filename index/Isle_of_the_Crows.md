@@ -1,6 +1,6 @@
 ---
 title: Isle of the Crows
-revid: 231721
+revid: 231756
 source: https://deepwoken.fandom.com/wiki/Isle_of_the_Crows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Stub pages without reason, StubPages, Locations]
@@ -21,9 +21,8 @@ The cawwing of crows seems to beckon you inland.
 
 Isle of the Crows was an island with a number of [Authority enemies](<Authority_Enemy_(Test).md>). When all of them were killed, a boss (simply known as [the Authority Captain](<Authority_Captain_(Test).md>)) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money.[\[1\]](#cite-note-direct-1) An NPC known as [Commander Rayner](Commander_Rayner.md) that could be found in [Fort Merit](Fort_Merit.md) still mentioned it post-release, but he was removed in a shadow update.
 
-The Isle of the Crows also features the [The Crow's Laboratory](<The_Crow's_Laboratory.md>) located somewhere underneath the island. The purpose of that laboratory is unkown, however as mentioned by Agamatsu[\[2\]](#cite-note-2) it is linked to [The Ministry](The_Ministry.md). Agamatsu also stated that "it didn't have much inside anyways."
+The Isle of the Crows also features the [The Crow's Laboratory](<The_Crow's_Laboratory.md>) located somewhere underneath the island.
 
 ## References
 
 1.  [↑](#cite-ref-direct-1-0) [Deepwoken Direct](https://www.youtube.com/watch?v=EEaEzDO04aU&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=7)
-2.  [↑](#cite-ref-2) [https://youtu.be/lK7gvRcgF6k?t=611](https://youtu.be/lK7gvRcgF6k?t=611)

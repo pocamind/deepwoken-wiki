@@ -18,7 +18,7 @@ Certain Talents, most notably the aptly named [Shieldbreaker](Talents.md#shieldb
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Shieldmaster](Talents.md#shieldmaster). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Shieldmaster](Talents.md#shieldmaster). To change it, please edit the transcluded page._
 
 -   Knight's Rally \[Common Talent, Fortitude, Willpower\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
     -   When holding out a shield (One-Handed Stance), being hit will inflict 5% less "shaky block", allowing the user to escape certain combos easier with their block.

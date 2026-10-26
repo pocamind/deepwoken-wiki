@@ -20,7 +20,7 @@ Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Vanguard Arts](Talents.md#vanguard-arts). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Vanguard Arts](Talents.md#vanguard-arts). To change it, please edit the transcluded page._
 
 -   Both Ends \[Common Talent, Medium Weapon\] - Staffs Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
     -   This attack comes out much faster, and deals 135% of your weapon damage.

@@ -367,7 +367,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
 
 ### Gunslinger
 
-This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger). To change it, please edit the transcluded page._
 
 -   **Armor Piercing** \[Gunslinger • Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
@@ -473,7 +473,7 @@ This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger).
 
 ### Outlaw (Single Pistol/1H Gun)
 
-This section is transcluded from [Talents § Outlaw](Talents.md#outlaw). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Outlaw](Talents.md#outlaw). To change it, please edit the transcluded page._
 
 -   Lock n Load \[Common Talent, Light Weapon\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Pistol
@@ -495,7 +495,7 @@ This section is transcluded from [Talents § Outlaw](Talents.md#outlaw). To chan
 
 ### Marksman (Rifles)
 
-This section is transcluded from [Talents § Marksman](Talents.md#marksman). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Marksman](Talents.md#marksman). To change it, please edit the transcluded page._
 
 -   **Leg Shot** \[Marksman • Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies **[Sluggish](Status_Effects.md#sluggish)**, and also disables any speed boosts they get for the next 10 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.  

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 229410
+revid: 231757
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -66,6 +66,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   The Curved Blade of Winds features two sets of lines written in runes that run alongside the blade's markings.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
     -   You however can have a shield on your back in both stances, allowing you to utilize the [Turtle Shell](Talents.md#turtle-shell) Talent.
+-   Before _Deepwoken's_ official release, this weapon was able to be smelted by combining 3x [Coal](Ores.md#coal), 8x [Iron](Ores.md#iron), and 1x [Wind Gem](Wind_Gem.md), while also requiring 25 Agility, 75 Galebreathe, and 1000.
 -   The original model was a Wardens Blade with wind particles put onto the blade.
 -   When one-handing this weapon, you have two blades, meaning the two-hand stance only has one.
     -   This often leads people to mistake the single sword stance as the faster stance.

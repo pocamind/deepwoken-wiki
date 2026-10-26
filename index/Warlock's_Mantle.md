@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 228520
+revid: 231742
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -44,4 +44,4 @@ It has the innate Talent [Overflowing Dam](Talents.md#overflowing-dam), causing 
 -   The Talent [Overflowing Dam](Talents.md#overflowing-dam) would usually require 40 Intelligence, but this equipment only requires 5 Intelligence, enabling you to potentially save 35 investment points.
     -   However, due to Overflowing Dam having nearly half its effectiveness at 5 Intelligence, this equipment Talent is overall lackluster outside of saving a Talent slot.
 -   There _used_ to be a bug where you be able to equip The Warlock's Mantle without the 5 Intelligence requirement, this of course was patched.
-    -   If you are using [Khan](Khan.md) this is still possible however. Equip the Mantle with 2 or 3 Intelligence, then use the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to lower your Intelligence to 0. Even with Overflowing Dam scaling, you don't lose that much by doing this; +5.625% damage -> +5% damage isn't a large difference.
+    -   If you are using [Khan](Khan.md) this is still possible however. Equip the Mantle with 2 or 3 Intelligence, then use the [Shrine of Ego](Deep_Shrines/Shrine_of_Ego.md) to lower your Intelligence to 0. Even with Overflowing Dam scaling, you don't lose that much by doing this; +5.625% damage -> +5% damage isn't a large difference.

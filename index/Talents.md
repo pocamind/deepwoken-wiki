@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231594
+revid: 231759
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4272,13 +4272,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Guilt Trip \[Common Talent, Charisma\] - Enhance your charm with the ability to affect one's emotions negatively, doubling the cooldown of their mantra feints.
     -   Turns your [Charm](Status_Effects.md#charm) blue.
-    -   Also procs on allies, including yourself if you self-apply Charm ([Overcharm](Status_Effects.md#overcharm)).
+    -   Also procs on allies.
     -   Prerequisite: 100 Charisma
 
 -   Rage Bait \[Common Talent, Willpower, Charisma\] - Proccing manipulator now enrages opponents, causing their mantras to deal 10% more damage. Anytime you block their enraged mantras however, laugh in their face causing extreme mental damage, dealing 1% of their max health. \[5 sec CD\]
     -   Rage Bait's duration is equal to: (Charisma + Willpower) × 0.12. At requirements, this has a 15.6s duration.
         -   At 90 combined investment (the minimum possible with [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)), this has a 9.6s duration, which is shorter than [Manipulator](#manipulator)'s cooldown and is not long enough for you to be able to properly benefit from Rage Bait more than once per proc instance. It is not recommended to use this Talent at minimum investment.
-        -   Has a 22.8s duration at 190 combined investment.
+        -   Has a 22.8s duration at 190 combined investment, and a 24s duration at 200 combined investment.
     -   Goes on cooldown when the Mantra is blocked, not when the Talent initially procs.
     -   On proc, steam will visually come out of your opponent's head, and a high-pitched angry growl sound effect will play.
     -   Also procs on allies.
@@ -5321,7 +5321,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   **[Galebreathe](Galebreathe.md)**: Extremely brief [Winded](Status_Effects.md#winded)
         -   **[Shadowcast](Shadowcast.md)**: [Blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
         -   **[Ironsing](Ironsing.md)**: 1 [Metal Rod](Status_Effects.md#metal-rod)
-        -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning)
+        -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning) and Blood Loss. Additionally, your basic attacks become eligible to proc [Gruesome Harvest](#gruesome-harvest).
         -   If the Overcharmed person has multiple Attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw.
         -   If the Overcharmed person does not have an Attunement, this Talent **will not work**.
         -   If the Overcharmed person would already proc an elemental effect on a basic attack, like the using an elemental weapon like the Ignition Deepcrusher, the elemental effect will proc twice in total.

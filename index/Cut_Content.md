@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 231540
+revid: 231758
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -37,6 +37,7 @@ This page is about content that has either been removed or changed drastically i
 -   **[Gartoth](Gartoth.md) -** A Canor NPC that was once at Fort Merit. He used to to have dialogue that spoke about his hunger.
 -   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
     
+-   **[Orion](Orion.md) (Summer's Dusk) -** A Celtor NPC that was in the reactor room of [Miner's Landing](<Miner's_Landing.md>). They tasked the player with defeating [Summer Goons](Summer_Goon.md) messing with the Union's plans in the upper levels of the island. Upon completion it would grant the player the [Ignition Delver](Ignition_Delver.md) Origin.
 
 ## Player
 

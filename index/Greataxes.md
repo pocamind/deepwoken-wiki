@@ -18,7 +18,7 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Bruiser](Talents.md#bruiser). To change it, please edit the transcluded page._
 
 -   **Impairing Blow** \[Bruiser • Common Talent\] - Greataxes Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Does not proc on uppercut.

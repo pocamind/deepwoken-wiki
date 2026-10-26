@@ -5861,17 +5861,23 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
  |
 | 
 
-**Effect:** _Launch an orb-shaped projectile of blood to wherever the character is facing._
+**Effect:** _Launch an orb-shaped projectile of blood in an arc to wherever the character is facing. Creates a Blood Pool upon landing or contacting terrain._
+
+**Base:**
 
 -   Has a base damage of 14.5/19/23.5/28/32.5 per level, with 2.75 Bloodrend scaling.
 -   Deals 8 posture damage.
+    
+
+**Multiplying Spark:**
+
+-   When modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks), the user will throw three orbs in a frontal cone. Each orb deals less damage and posture damage than the no-Spark variant.
+-   Has a base damage of 6.83/8.33/11.33/12.83 per level, per hit (3), with 2.75 Bloodrend scaling.
+-   Deals 2 posture damage per hit (3).
+-   Notably, all three orbs leave behind a blood pool.
+
 -   Has a 10s CD and 0.6s of windup.
--   Multi spark version deals 6.83/8.33/9.83/11.33/12.83 base damage per level, per orb, 2 posture per orb, 0.6s windup 10s CD
--   Has 9.31x PVE scaling
--   Each orb leaves behind a blood pool.
--   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks), making it launch 3 orbs instead. Each orb deals less damage and posture damage per hit.
-    -   Multiplying Spark variant has a base damage of 6.83/8.33/9.83/11.33/12.83 damage per level, per hit (3), with 2.75 Bloodrend scaling.
-    -   Multiplying Spark variant deals 2 posture damage per hit (3).
+-   This ability has a PvE damage multiplier of 9.31x.
 
  |
 | 
@@ -5905,10 +5911,12 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Launch a crucifix-shaped projectile at the cursor's position._
 
--   Deals 16/22/28/34/40 base damage per level, 13 posture, 0.7s windup Has 10s CD at 5 lvl
--   has 9.18x PVE scaling
--   Ragdolls.
--   It doesn't work well outside of Shift-Lock currently.
+-   Has a base damage of 16/22/28/34/40 per level, with 2.75 Bloodrend scaling.
+-   Deals 13 posture damage.
+-   Has a 10s CD and 0.7s of windup.
+-   This ability has a PvE damage multiplier of 9.18x.
+-   [Ragdolls](../Status_Effects.md#ragdoll) on hit.
+-   The projectile is relatively difficult to aim while in shift lock, as the projectile _always_ targets the player's cursor location, and its starting location is to the left of the player, unlike most other projectiles.
 
  |
 | 
@@ -5942,8 +5950,10 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](../Skyreap_Blade.md) in a blood red color and rush forward, hitting any target(s) in its way._
 
--   Deals 16/20/24/28/32 damage per level, 15 posture, 0.5s windup, has 10s CD at 5 lvl,
--   Has 9.18x PVE scaling
+-   Has a base damage of 16/20/24/28/32 per level, with 2.75 Bloodrend scaling.
+-   Deals 15 posture damage.
+-   Has a 10s CD and 0.5s of windup.
+-   This ability has a PvE damage multiplier of 9.18x.
 
  |
 | 
@@ -5975,14 +5985,14 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
  |
 | 
 
-**Effect:** _Conjure a stake of blood near the character that locks onto an enemy and impales them; stakes can also form from nearby blood pools conjured from the user._
+**Effect:** _Conjure a stake of blood near the character that locks onto an enemy and impales them. If any Blood Pools are nearby, additional stakes will be conjured from them for more devastation._
 
--   Deals 5/6/7/8/9 base damage per level, per stake, 2 posture per stake at level 5, 1.15s windup, Has 14s CD
--   Has 2.7x PVE scaling
--   Leaves behind Blood Pools that last 6 seconds.
--   If there are blood pools nearby each one will spawn an additional stake from the pool.
--   Every level adds a blood stake (6 at max lv)
--   Posture DMG and DMG scales with blood pools
+-   Has a base damage of 5/6/7/8/9 per level, per stake, with 2.75 Bloodrend scaling.
+-   Deals 2 posture damage per stake.
+-   Has a 14s CD with 1.15s of windup.
+-   Spawns 2 minimum stakes at level 1, with every level increasing the minimum stake count by 1, for up to 6 minimum stakes at level 5.
+-   The 2-6 minimum stakes leave behind smaller Blood Pools from their spawn location that last 6 seconds.
+-   This ability has a PvE damage multiplier of 2.7x.
 
  |
 | 
@@ -6016,14 +6026,14 @@ Blood [ResistanceBloodrend](../Bloodrend.md) + [Bleed](../Status_Effects.md#blee
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   Deals 18.5/26/33.5/41/48.5 damage per level (slam) + 30% (), 14 posture, 0.75s windup Has 10s CD
--   Has 9.18x PVE scaling
--   Leaves behind a Blood Pool.
--   Applies knockdown to the enemy on hit.
--   This attack apparently has 2 hits.
+-   Has a base damage of 18.5/26/33.5/41/48.5 per level, with 2 Bloodrend scaling.
+-   Deals 14 posture damage.
+-   Has innate [Bleed](../Status_Effects.md#bleed).
+-   Has a 10s CD with 0.75s of windup.
+-   Leaves behind a Blood Pool when the player lands.
+-   Applies [Knockdown](../Status_Effects.md#knockdown) to the enemy on hit.
 -   Feinting this Mantra leaves you in the air, but does not restore its cooldown.
--   Only has 2 scaling
--   Been testing: Inflicts a flat 15 blood poisoning
+-   This ability has a PvE damage multiplier of 9.18x.
 
  |
 | 
@@ -6055,13 +6065,15 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
  |
 | 
 
-**Effect:** _Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target._
+**Effect:** _Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on their impact location. Activating the Mantra again recall the daggers back to the caster, hitting any targets in their path._
 
--   At Mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
--   Deals 4.75/5.5/6.25/7/7.75 per hit, per dagger, 4 posture per dagger, 0.6s windup (0.5s recall windup) 15s CD at level 5.
--   Recalled daggers deal the same damage and posture damage.
--   Has 1 second cooldown before you able to recall daggers
--   Has 4.38x PVE Scaling
+-   Has a base damage of 4.75/5.5/6.25/7/7.75 per level, per hit, with 2.75 Bloodrend scaling.
+-   Deals 4 posture damage per hit.
+-   Has a 15s CD with 0.6s of windup.
+-   The projectile count doubles from 3 to 6 at level 5.
+-   Recalled daggers deal the same damage and posture damage as their initial use.
+-   Has 1 second cooldown before you able to recall the daggers.
+-   This ability has a PvE damage multiplier of 4.38x.
 
  |
 | 
@@ -6095,8 +6107,10 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground._
 
--   Deals 8/10/12/14/16 damage per level, per slash, 5 posture per slash, 0.6s windup, 10.5s CD
--   Has 9.178x PVE scale (48 PVP DMG, 440.5 PVE DMG)
+-   Has a base damage of 8/10/12/14/16 per level, per hit (3), with 2.75 Bloodrend scaling.
+-   Deals 5 posture damage per hit (3).
+-   Has a CD of 10.5s with 0.6s of windup.
+-   This ability has a PvE damage multiplier of 9.18x.
 
  |
 | 
@@ -6130,10 +6144,12 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack._
 
--   Deals 15+7.5/20+10/25+12.5/30+15/35+17.5 damage per level, 1 posture, 0.5s windup has 10s CD at 5 lvl
--   Has 9.18x PVE scaling
--   If first hit is blocked then entire move is stopped and goes on CD.
--   The second hit counts as a flourish & procs majority of flourish effects.
+-   The first hit has a base damage of 15/20/25/30/35 per level, with 2.75 Bloodrend scaling.
+-   The second hit has a base damage of 7.5/10/12.5/15/17.5 per level, with 2.75 Bloodrend scaling.
+-   Deals 1 posture damage on the initial hit. If this attack is blocked, the entire attack will cancel.
+-   Has a 10s CD with 0.5s of windup.
+-   The second hit counts as a flourish and procs majority of "on flourish" Talents and effects.
+-   This ability has a PvE damage multiplier of 9.18x.
 
  |
 | 
@@ -6167,10 +6183,11 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Jump into the air before blasting a continuous beam of blood at a nearby target._
 
--   Beam locks onto target for the entire duration of the mantra.
--   Hits 17 times
--   Deals 1/1.5/2/2.5/3 damage per level, per hit, 1 posture per hit, 1.1s windup Has 13s CD at level 5
--   Has 2.69x PVE scaling
+-   Has a base damage of 1/1.5/2/2.5/3 per level, per hit (17), with 2.75 Bloodrend scaling.
+-   Deals 1 posture damage per hit (17).
+-   Has a 13s CD with 1.1s of windup.
+-   The beam locks onto its target for the entire duration of the Mantra.
+-   This ability has a PvE damage multiplier of 2.69x.
 
  |
 | 
@@ -6204,11 +6221,36 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Perform a quick gesture before conjuring and sending a cyclone of blood that goes through enemies and towards wherever the character is facing before dissipating when hitting an object or exceeding its range._
 
--   Deals 7/8.5/10/11.5/13 base damage per level, hits 10 times, 1 posture per hit, 17.5s CD, 0.5s windup.
--   Has 3.5x PVE Scaling
--   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial. (Reducing damage per hit to 2.8/3.4/4/4.6/5.2 per level, hits 10 times, 0.33 posture per hit, 0.5s windup.
--   Can be modified with a Reversal Spark, making the projectile travel half of the distance of the original before returning to the user.
-    -   Both sparks can be paired together.
+**Base:**
+
+-   Has a base damage of 7/8.5/10/11.5/13 per level, per hit (10), with 2.75 Bloodrend scaling.
+-   Deals 1 posture damage per hit (10).
+    
+
+**Multiplying Spark:**
+
+-   When modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks), the player will conjure 3 Cyclones instead of just one, that travel in a frontal cone. Each Cyclone deals less damage and posture damage than the base variant.
+-   Each Cyclone has a base damage of 2.8/3.4/4/4.6/5.2 per level, per hit (10 for each Cyclone), with 2.75 Bloodrend scaling.
+-   Deals 0.33 posture damage per hit (10 for each Cyclone).
+
+**Reversal Spark:**
+
+-   When modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks), the Cyclone will return to the user after it travels half of the original distance.
+-   This has the same stats as the non-Spark variant;
+    -   Has a base damage of 7/8.5/10/11.5/13 per level, per hit (10), with 2.75 Bloodrend scaling.
+    -   Deals 1 posture damage per hit (10).
+
+**Sparks Combined:**
+
+-   When modified with both a [Multiplying Spark](../Mantra_Modifiers.md#sparks) **and** a [Reversal Spark](../Mantra_Modifiers.md#sparks), the player summons 3 cyclones which return to the user's location after they travel for half of the default variants distance.
+-   This has the same stats as the Multiplying Spark variant;
+    -   Each Cyclone has a base damage of 2.8/3.4/4/4.6/5.2 per level, per hit (10 for each Cyclone), with 2.75 Bloodrend scaling.
+    -   Deals 0.33 posture damage per hit (10 for each Cyclone).
+
+-   Has a 17.5s CD with 0.5s of windup.
+-   Cancels if parried.
+-   This ability has a PvE damage multiplier of 3.5x.
+    -   Despite the low PvE damage multiplier, this Talent has great PvE performance due to the high Blood Hemmorhage buildup, and the player being able to act freely while the Cyclone(s) are active.
 
  |
 | 
@@ -6242,8 +6284,11 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood._
 
--   Deals 3 \* 3.75/5/6.25/7.5/8.75 + 7.5/10/12.5/15/17.5 (last hit), 11 posture, 0.5s windup has 10s CD at 5 lvl
--   Has 6.12x PVE scaling on grab, 13.11x PVE scaling on blood drain
+-   The first three hits have a base damage of 3.75/5/6.25/7.5/8.75 per level, with 2.75 Bloodrend scaling.
+-   The final hit has a base damage of 7.5/10/12.5/15/17.5 per level, with 2.75 Bloodrend scaling.
+-   Deals 11 posture damage, with the attack being canceled if blocked. However, it will often bypass block entirely.
+-   Has a 10s CD with 0.5s of windup.
+-   The first hit has a PvE damage multiplier of 6.12x. The subsequent hits (3) have a PvE damage multiplier of 13.11x.
 
  |
 | 
@@ -6277,14 +6322,16 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak._
 
--   Can be charged up to 5 times, increasing damage and posture damage
+-   Can be charged up to 5 times, increasing damage and posture damage.
     -   15; 35; 40; 45; 90 base damage (level 1)
     -   20; 40; 45; 50; 95 base damage (level 2)
     -   25; 45; 50; 55; 100 base damage (level 3)
     -   30; 50; 55; 60; 105 base damage (level 4)
     -   35; 55; 60; 65; 110 base damage (level 5)
--   Does 25 posture at 1/2 charges, becomes unblockable past that, 10s CD at 5 lvl
--   Has 5.13x PVE scaling
+    -   Has 2.75 Bloodrend scaling.
+-   Does 25 posture at 1/2 charges, becomes unblockable past that. This ability does not proc "on guardbreak" conditionals.
+-   Has a 10s CD.
+-   This ability has a PvE damage multiplier of 5.13x.
 
  |
 | 
@@ -6318,15 +6365,15 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Perform a gesture that causes a nearby target to explode continuously with blood._
 
--   Deals 14.5/17/19.5/22/24.5) base damage per level (initial hit) each tick after that does 20% of the first hit, 12 Posture, 1s windup, 15.5s CD
--   With 6 songchant 78.26 (32.62+45.64 (6.52\*7) DMG
--   Each level gives an extra 1 hit
--   1 Vibrant gem gives 2 extra hits
--   Has 9.18x PVE scaling
+-   The initial hit has a base damage of 14.5/17/19.5/22/24.5 per level, with 2.75 Bloodrend scaling.
+-   All subsequent hits have a base damage of 2.9/3.4/3.9/4.4/4.9 per level, with 2.75 Bloodrend scaling.
+-   Deals 12 posture damage, canceling if the initial hit gets blocked.
+-   Has a 15.5s CD with 1s of windup.
+-   Gains an additional hit per Mantra level, and two additional hits per equipped [Vibrant Gem](../Mantra_Modifiers.md#regular-modifiers). The damage does not scale down based on the total hit count, making these a largely no-downside damage increase.
 -   Switches targets when it cannot hit the previous one.
--   Can be vented out of.
--   Can be modified with Vibrant Gems to increase amount of hits leading to extra DMG.
--   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
+-   Targets hit will be unable to act, with the exception of [Venting](../Combat_Mechanics.md#tempo). If they Vent, this abliltiy will end early.
+-   Can be modified with a [Multiplying Spark](../Mantra_Modifiers.md#sparks), causing the initial hit to hit twice, dealing half of the total damage on each tick.
+-   This ability has a PvE damage multiplier of 9.18x.
 
  |
 | 
@@ -6358,13 +6405,20 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
  |
 | 
 
-**Effect:** _Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage every second and healing the user on every damage. Simultaneously, a projectile shaped like a [Bloodtide Trident](../Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage._
+**Effect:** _Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage every second and healing the user based on the total damage dealt. Simultaneously, a projectile shaped like a [Bloodtide Trident](../Bloodtide_Trident.md) is conjured and ascended for every second of the Mantra's duration before finally plummeting at the end, dealing massive AoE damage._
 
--   Initial ticks deal 2 damage and posture damage per hit no matter the level, final hit does increased damage and posture the longer the attack is held
--   24 > 42/29 > 47/34 > 52/39 > 57/44 > 62 base damage (final hit), 22 > 31 posture (final hit), .425s windup, 120s CD
+-   Holding down the Mantra will charge the final hit, increasing its total damage and posture damage. This takes 5.5 seconds, during which the user will be unable to perform any other actions.
+-   The damage ticks during the trident conjuration have a base damage of 2 damage per hit (up to 7), regardless of level, with 2.75 Bloodrend scaling. They also deal 2 posture damage per hit (up to 7).
+-   The final hit's base damage scales on how long the ability was held;
+    -   24 to 42 (level 1)
+    -   29 to 47 (level 2)
+    -   34 to 52 (level 3)
+    -   39 to 57 (level 4)
+    -   44 to 62 (level 5)
+    -   The posture damage also scales on charge; 22 to 31.
+-   Has a 120s CD with 0.425s of windup.
 -   The healing scales highly on the Mantra level, tripling from level 1 to 5. Additionally, you heal for each enemy hit.
--   Has 7.15x PVE scaling
--   Takes 7 ticks to full charge or 5.5 seconds
+-   This ability has a PvE damage multiplier of 7.15x.
 
  |
 
@@ -6431,15 +6485,17 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage._
 
--   Deals 24/28/32/36/40 base damage per level, 15 posture, 0.65s windup(dive), 0.25s windup(rise) has 14s CD at level 5
--   Has 9.18x PVE scaling
--   Leaves behind a Blood Pool
--   Shares a cooldown with similar Mantras [Beast Burrow](../Monster_Mantras.md#beast-burrow) and [Shade Step](../Shadowcast.md#shade-step)
--   Functions similar to [Beast Burrow](../Monster_Mantras.md#beast-burrow). After ~3 seconds, or if you are near someone, you will be forced to surface from the blood pool.
--   This mantra can be ended early pressing M1.
--   While this mantra is active, you can **reload** your gun (1H) inside of it
--   Has a shorter windup if used while user is standing on a Blood Pool
--   Feinting it still leaves a Blood Pool, allowing you to effectively place one for free. (Still costs Ether)
+-   Has a base damage of 24/28/32/36/40 per level, with 2.75 Bloodrend scaling.
+-   Deals 15 posture damage.
+-   Has a 14s CD with a 0.65s windup on dive and 0.25s windup on surface.
+-   Leaves behind a Blood Pool on use, and a second one upon surfacing.
+    -   If the Mantra is feinted, a Blood Pool will still be left on the cast location, but the player will not dive into the ground.
+-   Shares a cooldown with similar Mantras [Beast Burrow](../Monster_Mantras.md#beast-burrow) and [Shade Step](../Shadowcast.md#shade-step).
+-   Functions similar to [Beast Burrow](../Monster_Mantras.md#beast-burrow). After ~3 seconds, or if you are near someone, you will be forced to surface.
+-   This Mantra can be ended early pressing M1.
+-   This Mantra allows [Pistol](../Pistols.md) users to freely reload their guns without risk of being attacked.
+-   The windup is reduced if the player is standing on a Blood Pool on cast. However, this will prevent the Mantra from creating a Blood Pool at its cast position.
+-   This ability has a PvE damage multiplier of 9.18x.
 
  |
 | 
@@ -6473,11 +6529,12 @@ Blood [ResistanceBloodrend](../Bloodrend.md)
 
 **Effect:** _Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage._
 
--   Leveling up this mantra will increase its range.
--   Can be modified with Lenses to increase its range.
--   First hit always does 10 base damage with 5 bloodrend scaling
--   Deals 15/19/23/27/31 base damage per level (final hit), 12 posture, 1s windup 13.5s CD
--   Grab has 6.48x PVE scaling, dropkick 9.18x PVE scaling.
+-   The first hit has a base damage of 10, regardless of level, with 5 Bloodrend scaling.
+-   The second hit has a base damage I'd 15/19/23/27/31 per level, with 2.75 Bloodrend scaling.
+-   Deals 12 posture damage if blocked.
+-   Has a 13.5s CD with 1s of windup.
+-   Leveling up this Mantra additionally increases its range. It can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to further increase its range.
+-   The first hit has a PvE damage multiplier of 6.48x. The second hit has a PvE damage multiplier of 9.18x.
 
  |
 
@@ -6545,8 +6602,8 @@ N/A
 **Effect:** _The caster summons a wisp of blood. Ritual Casted._
 
 -   Blood Wisp regenerates a portion of your blood (less than 5%) three times over X seconds.
--   Upgrading the Mantra increases regeneration.
-    -   Aeon and Eternal Logstones increase the duration of the mantra and how many steps are required to cast it. They decrease the cost of each individual step.
+-   Upgrading the Mantra increases the blood regeneration.
+-   [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) increase the duration of the Mantra and how many ritual keys are required to cast it. This increases the total amount of blood restored from each cast.
 
  |
 

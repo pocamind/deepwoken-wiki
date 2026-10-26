@@ -16,7 +16,7 @@ Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Hammer Rage](Talents.md#hammer-rage). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Hammer Rage](Talents.md#hammer-rage). To change it, please edit the transcluded page._
 
 -   **Brain Rattler** \[Hammer Rage • Common Talent\] - Clubs Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies **[Stagger](Status_Effects.md#stagger)** to PvE enemies and blurs their vision.
     -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.

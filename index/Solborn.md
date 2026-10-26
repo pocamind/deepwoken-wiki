@@ -3,7 +3,7 @@ title: Solborn
 revid: 217865
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Mementos]
+categories: [Vow of Iron Exclusive, Pages with broken file links, Mementos]
 ---
 
 # Solborn
@@ -83,11 +83,15 @@ This Memento gives the user access to a spawnable Phoenix that normally acts sim
 
 **Combat Mantra**
 
+File:Fire-blade-2025.gif
+
 _Slicing blades of flame._
 
  | 
 
 ## Fire Blade (☆☆☆)
+
+File:Fire-blade-2025.gif
 
   
 **Combat Mantra**  

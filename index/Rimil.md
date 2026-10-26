@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 226459
+revid: 231731
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Cut Content, NPCs, The Ministry, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | name | Rimil |
 | aspect | Canor |
-| location | N/A |
+| location | Meteor Isle |
 | affiliation | The Ministry |
 
 Variants: [Emel](Emel.md) · [Imel](Imel.md)
@@ -33,10 +33,12 @@ Rimil was found leaning against a large log very close to the main village on [M
 
 **First Encounter:**
 
+**Quest Start:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You, you! Little killer! Looking for some fun?</td>
@@ -59,51 +61,58 @@ Rimil was found leaning against a large log very close to the main village on [M
 </tbody>
 </table>
 
-**Subsequent Encounters:**
-
-**Quest in progress:**
+**Quest End:**
 
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+  <td colspan="2">Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+</tr>
+<tr>
+  <td>[Player not killed]</td>
+  <td>[Player killed]</td>
 </tr>
 <tr>
   <td>I have not yet.</td>
-</tr>
-<tr>
-  <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Starswept Valley, and then come back to me.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Quest end:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
-</tr>
-<tr>
   <td>I've eliminated the target.</td>
 </tr>
 <tr>
+  <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Starswept Valley, and then come back to me.</td>
   <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+  <td>[End Dialogue], gain XP and <a href="The_Ministry.md">The Ministry</a> Reputation</td>
 </tr>
 </tbody>
 </table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>If it isn't the <i>COLD BLOODDED MURDERER</i>! How sweet to see you! Have you come back for <i>ANOTHER TASTE OF BLOODSHED</i>?</td>
+</tr>
+<tr>
+  <td>I can handle it.</td>
+</tr>
+<tr>
+  <td><i>SPLENDID!</i> Your task for now is to find and eliminate a <i>living being</i> as smart as you on Starswept Valley. Once you've <i>killed them,</i> come back for a surprise..</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 230922
+revid: 231743
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -50,7 +50,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 -   Does not progress towards the [Contractor Oath](../Oath%253A_Contractor.md) obtainment.
 -   If needed, there are a few ways to get around Shrine of Order's Power 8 requirement.
     1.  You can use [Shrine of Blasphemy](Shrine_of_Blasphemy.md) at Powers 5-7 to level up three times and Shrine of Order with the stats of a Power 5-7.
-    2.  At Power 7, you can invest 3 points to reach Power 8 then use [Shrine of Mastery](Shrine_of_Mastery.md) to remove the points, allowing you to Shrine of Order with slightly below the stats of a normal Power 8. Admittedly this has very niche use cases.
+    2.  At Power 7, you can invest 3 points to reach Power 8 then use [Shrine of Ego](Shrine_of_Ego.md) to remove the points, allowing you to Shrine of Order with slightly below the stats of a normal Power 8. Admittedly this has very niche use cases.
 
 ## Dialogue
 

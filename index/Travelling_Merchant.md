@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 224982
+revid: 231734
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -25,6 +25,59 @@ The Travelling Merchant is an NPC merchant and [Antiquarian](Antiquarian.md). Th
 ## Location
 
 The Travelling Merchant resides on [Merchant Ships](Random_Encounters.md#travelling-merchant) spawned around the [The Aratel Sea](The_Aratel_Sea.md) and [The Etrean Sea](The_Etrean_Sea.md).
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td colspan="10">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="10">Hello! Buy and sell wares, yes?<br>
+  <font>[Opens Sell UI]</font></td>
+</tr>
+<tr>
+  <td colspan="8">Could you tell me the value of an item?</td>
+  <td colspan="2">[Player sells an item]</td>
+</tr>
+<tr>
+  <td colspan="8">Yes. Show.</td>
+  <td colspan="2">Yes, sold! <b>[X] Notes</b>! Anything else?</td>
+</tr>
+<tr>
+  <td colspan="6">Here, how's this?</td>
+  <td colspan="2">I'd like to sell something.</td>
+  <td colspan="2">Could you tell me the value of an item?</td>
+</tr>
+<tr>
+  <td colspan="2">[Player holds a sellable item]</td>
+  <td colspan="2">[Player holds an unsellable item]</td>
+  <td colspan="2">[Player holds out nothing]</td>
+  <td colspan="2">Yes. Show.<br>
+  <font>[Opens Sell UI]</font></td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="2">I buy it for <b>[X] Notes</b>.</td>
+  <td colspan="2">Hm. No. Not want that.</td>
+  <td colspan="2">Yes. Show.</td>
+  <td colspan="2">Could you tell me the value of an item?</td>
+</tr>
+<tr>
+  <td>Could you tell me the value of an item?</td>
+  <td>I'd like to sell something.</td>
+  <td>Could you tell me the value of an item?</td>
+  <td>I'd like to sell something.</td>
+  <td>Here, how's this?</td>
+  <td>I'd like to sell something.</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="6">[See first instance]</td>
+</tr>
+</tbody>
+</table>
 
 ## Shop Rotation
 

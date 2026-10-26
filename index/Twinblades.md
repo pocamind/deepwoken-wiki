@@ -18,7 +18,7 @@ Uniquely, their running attack hits twice. Additionally, while in the Two-Handed
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Twinblade](Talents.md#twinblade). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Twinblade](Talents.md#twinblade). To change it, please edit the transcluded page._
 
 -   _Face Cutter_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - Your Spine Cutter now deals an additional hit. (+2 Passive Agility)
     -   Grants an additional hit to your Spine Cutter that deals 25% of your weapon's scaled damage.

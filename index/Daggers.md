@@ -24,7 +24,7 @@ This effect is Dagger exclusive, and does not work with the [Switchblade](Talent
 
 ## Weapon Class Talents
 
-This section is transcluded from [Talents § Critical Specialist](Talents.md#critical-specialist). To change it, please edit the transcluded page.  
+_This section is transcluded from [Talents § Critical Specialist](Talents.md#critical-specialist). To change it, please edit the transcluded page._
 
 -   **Finishing Touch** \[Critical Specialist • Common Talent\] - Daggers Instantly execute enemies finished with the critical attack of your dagger.
     -   Your critical must knock the opponent [Unconscious](Status_Effects.md#unconscious) for this Talent to proc.  

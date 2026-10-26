@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 230765
+revid: 231741
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -12,7 +12,7 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in
 |---|---|
 | name | Ciea |
 | aspect | Vesperian |
-| location | Starswept Valley (In a cave above Widow's Hollow, next to Shrine of Mastery) |
+| location | Widow's Hollow |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -42,7 +42,7 @@ Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) Oath.
 
 ## Location
 
-Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
+Ciea is located in a small den in the cave system located above the [Widow's Hollow](<Widow's_Hollow.md>).
 
 ## Dialogue
 

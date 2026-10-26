@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 226458
+revid: 231729
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, The Ministry, Individuals with unspecified pronouns]
@@ -33,10 +33,12 @@ Emel was found on a small islet located on the outskirts of the port of [Summer 
 
 **First Encounter:**
 
+**Quest Start:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You, you! Little killer! Looking for some fun?</td>
@@ -59,31 +61,36 @@ Emel was found on a small islet located on the outskirts of the port of [Summer 
 </tbody>
 </table>
 
-**Subsequent Encounters:**
-
-**Quest in progress:**
+**Quest End:**
 
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+  <td colspan="2">Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+</tr>
+<tr>
+  <td>[Player not killed]</td>
+  <td>[Player killed]</td>
 </tr>
 <tr>
   <td>I have not yet.</td>
+  <td>I've eliminated the target.</td>
 </tr>
 <tr>
   <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Songseeker, and then come back to me.</td>
+  <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+  <td>[End Dialogue], gain XP and <a href="The_Ministry.md">The Ministry</a> Reputation</td>
 </tr>
 </tbody>
 </table>
 
-**Quest end:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -91,13 +98,13 @@ Emel was found on a small islet located on the outskirts of the port of [Summer 
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+  <td>If it isn't the <i>COLD BLOODDED MURDERER</i>! How sweet to see you! Have you come back for <i>ANOTHER TASTE OF BLOODSHED</i>?</td>
 </tr>
 <tr>
-  <td>I've eliminated the target.</td>
+  <td>I can handle it.</td>
 </tr>
 <tr>
-  <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
+  <td><i>SPLENDID!</i> Your task for now is to find and eliminate a <i>living being</i> as smart as you on Songseeker. Once you've <i>killed them,</i> come back for a surprise..</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

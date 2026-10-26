@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 226884
+revid: 231739
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics]
@@ -28,7 +28,7 @@ Located behind a breakable wall in the [Meteor Isle](../Meteor_Isle.md) cave (wi
 
 Purchasing the [Choice of Chance](../Echoes.md#upgrades-unlocks-and-modifiers) Echo Unlock for 200 Echoes permanently increases the amount of cards you receive in a Shrine of Chance hand by one; from three to four. While not necessary, this Echo Unlock is a great quality of life improvement.
 
-When using this Shrine, please make sure to **check if you burned the card you're trying to get** using the [Shrine of Conceit](Shrine_of_Conceit.md) or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 10 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
+When using this Shrine, it is recommended to **check if you burned the card you're trying to get** prior by using the [Shrine of Ego](Shrine_of_Ego.md) or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 10 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
 As with the other Deep Shrines, this is also located in the Temple of Hearts. It has an additional location in the First Layer, inside one of the brown topped ruins found throughout the map.
 
@@ -135,7 +135,7 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 
 ## Trivia
 
--   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md), but was moved to Meteor Isle.
+-   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md) inside of the prison, but was later moved to Meteor Isle.
 
   
 
