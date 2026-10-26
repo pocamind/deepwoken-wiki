@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 224900
+revid: 231720
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, Justicars]
@@ -90,27 +90,40 @@ After you have received a [Gold Ring](Gold_Ring.md) as thanks from hearing his s
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td colspan="24">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">After receiving Gold Ring</td>
+  <td colspan="12">Subsequent Encounters</td>
 </tr>
 <tr>
   <td colspan="12">Hm. Back again? You're more persistent than I gave you credit for.</td>
+  <td colspan="12">Ah, it seems we meet once more. Strange that our ways seem fated to cross so often, don't you think? Most curious, how freedom leads us down such winding paths...</td>
 </tr>
 <tr>
   <td colspan="6">Is there anything you can teach me?</td>
   <td colspan="3">What are you doing here?</td>
   <td colspan="3">How do I get as strong as you?</td>
+  <td colspan="3">I want to join your cause. I want to keep helping others.</td>
 </tr>
 <tr>
   <td colspan="3">[Requirements Met]</td>
   <td colspan="3">[Requirements Unmet]</td>
   <td colspan="6">[See first instance]</td>
+  <td>Other Origins</td>
+  <td>Voidwalker</td>
 </tr>
 <tr>
   <td colspan="3">Hm... Perhaps you have the aptitude for <b>Jus Karita</b> after all...</td>
   <td colspan="3">Hm... I don't think you're ready for <b>Jus Karita</b> quite yet...</td>
+  <td colspan="6"></td>
+  <td>Live in Alsin's teachings, friend. Not all who seek the Path become Justicars. And, maybe you won't in this life-yet, perhaps, you may in another. But you may learn from the like-minded now, regardless. There is a Justicar base to the east, where those who walk the Path reside... I wish you well on your journey - may Alsin guide your way.</td>
+  <td>And so it comes to pass, that Alsin guides another to the Path... Seek out his teachings, learn his wisdom, and live by his principles, friend. Not all who seek the Path become Justicars. And, maybe you won't in this life-yet, perhaps, you may in another. There is a Justicar base to the east, where those who walk the Path reside... But be aware - they may not take too kindly to a Voidwalker. I wish you well on your journey, and may Alsin guide your way.</td>
 </tr>
 <tr>
   <td colspan="3">What is Jus Karita?</td>
+  <td colspan="3">[End Dialogue]</td>
+  <td colspan="6"></td>
   <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>

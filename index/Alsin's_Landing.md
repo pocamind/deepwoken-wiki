@@ -1,6 +1,6 @@
 ---
 title: "Alsin's Landing"
-revid: 231707
+revid: 231717
 source: https://deepwoken.fandom.com/wiki/Alsin's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant]
@@ -26,9 +26,33 @@ Alsin's Landing is home to [The Justicar](The_Justicar.md)'s and a place for any
 
 ## Contents
 
+### Town center
+
+-   The central area of Alsin's Landing, featuring the main gathering space and a marketplace for residents.
+
+### Stronghold
+
+-   A fortified structure serving as a building for the Justicars.
+
+### Training grounds
+
+-   An area where anyone can practice their combat and train their skills.
+
+### Mess Hall
+
+-   A communal dining area where the residents of Alsin's Landing can eat.
+
+### Bookstack tower
+
+-   A tower filled with books. [Kayla](Kayla.md) can be found here, offering a quest involving the [Shrouded Cape](Shrouded_Cape.md).
+
+### Workshop
+
+-   A designated area for practical work. [Kraphtalos](Kraphtalos.md) can be found here working on pottery with [Braun](Braun.md) close by.
+
 ### Inn
 
-For some reason, the Innkeep will tell you 'get out of my inn!', at least when you spawn as a Justicar for the first time.
+-   An inn located within Alsin's Landing.
 
 ## Quests
 
@@ -47,25 +71,30 @@ For some reason, the Innkeep will tell you 'get out of my inn!', at least when y
 
 ## NPCs
 
+### Pathfinders
+
 -   [Arnon](Arnon.md)
--   [Braun](Braun.md)
--   [Corvyn](Corvyn.md)
 -   [Darbert](Darbert.md)
--   [Disciple Gobletto](Disciple_Gobletto.md)
--   [Disciple Lorenzo](Disciple_Lorenzo.md)
--   [Elder Sasha](Elder_Sasha.md)
 -   [Erland](Erland.md)
 -   [Esric](Esric.md)
--   [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md)
--   [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md)
 -   [Hubert](Hubert.md)
 -   [Joanna](Joanna.md)
 -   [Karack](Karack.md)
 -   [Kayla](Kayla.md)
--   [Konga The Third](Konga_The_Third.md)
--   [Kraphtalos](Kraphtalos.md)
--   [Neophyte Jefferson](Neophyte_Jefferson.md)
--   [Reva](Reva.md)
 -   [Sarbu](Sarbu.md)
 -   [Sherman](Sherman.md)
 -   [Topol](Topol.md)
+
+### Justicars
+
+-   [Corvyn](Corvyn.md)
+-   [Braun](Braun.md)
+-   [Reva](Reva.md)
+-   [Disciple Gobletto](Disciple_Gobletto.md)
+-   [Disciple Lorenzo](Disciple_Lorenzo.md)
+-   [Elder Sasha](Elder_Sasha.md)
+-   [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md)
+-   [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md)
+-   [Konga The Third](Konga_The_Third.md)
+-   [Kraphtalos](Kraphtalos.md)
+-   [Neophyte Jefferson](Neophyte_Jefferson.md)

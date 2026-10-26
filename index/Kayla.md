@@ -1,6 +1,6 @@
 ---
 title: Kayla
-revid: 224829
+revid: 231723
 source: https://deepwoken.fandom.com/wiki/Kayla
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -65,7 +65,8 @@ Kayla is located inside of the first story of the library at [Alsin's Landing](<
   <td><i>*Their face lights up beneath their mop of hair.*</i> THATS IT!. How did you manage to find it? Thank you, thank you, thank you!</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], player receives Compassion Talent hand</td>
 </tr>
 </tbody>
 </table>

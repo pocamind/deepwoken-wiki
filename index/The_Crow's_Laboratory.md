@@ -1,6 +1,6 @@
 ---
 title: "The Crow's Laboratory"
-revid: 230410
+revid: 231722
 source: https://deepwoken.fandom.com/wiki/The_Crow's_Laboratory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Stub pages without reason, StubPages, Locations]
