@@ -89,7 +89,7 @@
   },
   "892": {
     "title": "Lightborn",
-    "lastrevid": 231028
+    "lastrevid": 231706
   },
   "894": {
     "title": "Enforcer",
@@ -105,7 +105,7 @@
   },
   "909": {
     "title": "Voidsea",
-    "lastrevid": 228462
+    "lastrevid": 231700
   },
   "924": {
     "title": "Capra",
@@ -945,7 +945,7 @@
   },
   "2686": {
     "title": "The Central Authority",
-    "lastrevid": 230704
+    "lastrevid": 231701
   },
   "2687": {
     "title": "Adretian Axe",
@@ -1553,7 +1553,7 @@
   },
   "4179": {
     "title": "Blade Temple Guard",
-    "lastrevid": 225022
+    "lastrevid": 231705
   },
   "4186": {
     "title": "Amara",
@@ -7081,7 +7081,7 @@
   },
   "20480": {
     "title": "Isle of the Crows",
-    "lastrevid": 231537
+    "lastrevid": 231699
   },
   "20481": {
     "title": "Corvus Manor",
@@ -8737,7 +8737,7 @@
   },
   "23093": {
     "title": "Cryptwaker's Ring",
-    "lastrevid": 228010
+    "lastrevid": 231693
   },
   "23095": {
     "title": "Kyrsan Necklace",
@@ -8797,7 +8797,7 @@
   },
   "23140": {
     "title": "Gale Enhanced Ring",
-    "lastrevid": 223463
+    "lastrevid": 231692
   },
   "23145": {
     "title": "Shiva's Codex",
@@ -9161,7 +9161,7 @@
   },
   "24238": {
     "title": "Alsin's Landing",
-    "lastrevid": 230613
+    "lastrevid": 231707
   },
   "24239": {
     "title": "Knell, The Lunatic Resonator",
@@ -9533,7 +9533,7 @@
   },
   "25066": {
     "title": "The Foreman",
-    "lastrevid": 214929
+    "lastrevid": 231696
   },
   "25254": {
     "title": "Site of a Bygone Memory",
@@ -9886,5 +9886,9 @@
   "26812": {
     "title": "Deep Shrines/Shrine of Ego",
     "lastrevid": 231160
+  },
+  "26864": {
+    "title": "Authority Winter Corps",
+    "lastrevid": 231691
   }
 }

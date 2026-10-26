@@ -1,6 +1,6 @@
 ---
 title: The Foreman
-revid: 214929
+revid: 231696
 source: https://deepwoken.fandom.com/wiki/The_Foreman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -98,3 +98,8 @@ The Foreman can be found in Nagatony's Picture Booth, inside of a wall hidden be
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The Foreman's hair id is 128069756183089
+-   The Foreman's hair is the head of a [Mudskipper Brute](Mudskipper_Brute.md) while his beard is the fist of it.

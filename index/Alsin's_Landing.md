@@ -1,6 +1,6 @@
 ---
 title: "Alsin's Landing"
-revid: 230613
+revid: 231707
 source: https://deepwoken.fandom.com/wiki/Alsin's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant]
@@ -50,6 +50,7 @@ For some reason, the Innkeep will tell you 'get out of my inn!', at least when y
 -   [Arnon](Arnon.md)
 -   [Braun](Braun.md)
 -   [Corvyn](Corvyn.md)
+-   [Darbert](Darbert.md)
 -   [Disciple Gobletto](Disciple_Gobletto.md)
 -   [Disciple Lorenzo](Disciple_Lorenzo.md)
 -   [Elder Sasha](Elder_Sasha.md)

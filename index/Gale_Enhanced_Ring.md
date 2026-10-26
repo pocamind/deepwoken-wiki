@@ -1,9 +1,9 @@
 ---
 title: Gale Enhanced Ring
-revid: 223463
+revid: 231692
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings, Craftable]
+categories: [Pathfinder Exclusive, Equipment, Rings, Craftable]
 ---
 
 # Gale Enhanced Ring
@@ -21,6 +21,10 @@ categories: [Equipment, Rings, Craftable]
 | pass down | Yes |
 | obtainment | Crafted at the Lost Forge of Leiuna with 1 Finisher's Ring & 1 Gale Essence |
 | description | Suffocate enemies you flourish for a few seconds. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

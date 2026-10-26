@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 231028
+revid: 231706
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -83,6 +83,7 @@ Despite being immortal, they can show signs of aging, as seen in [Kaide, the Dro
   
 
 -   Spellhardt
+-   Ardenstar
     
 
 ## Features

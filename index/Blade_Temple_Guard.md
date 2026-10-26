@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 225022
+revid: 231705
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Guards, Etrea Enemies]
@@ -97,4 +97,3 @@ A Blade Temple Guard executes the player after knocking them:
 
 -   Easier to kill than [Etrean Guards](Etrean_Guardsmen.md) because unlike them, they are affected by [PVE Scaling](Power.md).
 -   When the game first released, they did not have Mantras.
--   Their dialogue won't change depending on the player's reputation with Etrea.
