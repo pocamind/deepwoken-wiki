@@ -1,9 +1,9 @@
 ---
 title: Greathammers
-revid: 230090
+revid: 231881
 source: https://deepwoken.fandom.com/wiki/Greathammers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Heavy Weapons, Weapon Classes]
+categories: [Greathammers, Heavy Weapons, Weapon Classes]
 ---
 
 # Greathammers
@@ -18,7 +18,7 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-_This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page._
+_This section is transcluded from [Talents/Categories A-I](Talents/Categories_A-I.md). To change it, please edit the transcluded page._
 
 -   **Unstoppable Force** \[Collosus • Rare Talent\] - Greathammer You take 15% less posture damage when parried. (+1 Posture)
     

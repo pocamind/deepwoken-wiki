@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 231416
+revid: 231836
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Expert Outfits, Outfits, The Ignition Union, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -10,7 +10,7 @@ categories: [Expert Outfits, Outfits, The Ignition Union, Outfits with Talents, 
 
 | Ignition Trailblazer | |
 |---|---|
-| caption | Garb for those aspiring to become Deepdelvers |
+| caption | Garb for those aspiring to become Deepdelvers. |
 | tier | Expert |
 | crafting_req | x5 Cloth, x5 Fiber, x2 Megalodaunt Hide, x1 Iron |
 | price | 30 |

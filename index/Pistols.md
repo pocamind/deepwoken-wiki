@@ -1,6 +1,6 @@
 ---
 title: Pistols
-revid: 231054
+revid: 231884
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Light Weapons, Pistols, Weapon Classes, Guns]
@@ -51,7 +51,7 @@ For more information on Pistol mechanics, view [Guns](Guns.md).
 
 ## Weapon Class Talents
 
-_This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger). To change it, please edit the transcluded page._
+_This section is transcluded from [Talents/Categories A-I § Gunslinger](Talents/Categories_A-I.md#gunslinger). To change it, please edit the transcluded page._
 
 -   **Armor Piercing** \[Gunslinger • Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
@@ -154,6 +154,8 @@ _This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger)
         
     -   Prerequisites: [True Ether Bullets](Talents.md#true-ether-bullets), 60 Intelligence, 90 Light Weapon, Using a [Pistol](Pistols.md)  
         
+
+  
 
 -   Lock n Load \[Common Talent, Light Weapon\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Pistol

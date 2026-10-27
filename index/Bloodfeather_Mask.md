@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Mask
-revid: 229236
+revid: 231848
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -23,7 +23,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Diluvian Mechanism (Wave 40+), Duke Ishamon Erisia, Miner's Landing, Faction Ambushes (The Ignition Union), Lodestar Bounty job, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Heart of Enmity, Elder Primadon, The Titan Warlord, Dread Serpent, Interluminary Parasol, Saramaed Hollow |
+| obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Diluvian Mechanism (Wave 40+), Duke Ishamon Erisia, Miner's Landing, Faction Ambushes (The Ignition Union), Lodestar Bounty job, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Heart of Enmity, Elder Primadon, The Titan Warlord, Primadon, Titan of the East, Dread Serpent, Interluminary Parasol, Saramaed Hollow |
 | description | ... |
 
 Bloodfeather Set
@@ -35,6 +35,10 @@ Variants: [Cowl](Bloodfeather_Cowl.md)
 The Bloodfeather Mask is an [Equipment](Equipment.md) item under the "Face" category. It can be found in chests in the [First Layer](First_Layer.md).
 
 The Bloodfeather Mask is a mask that resembles the masks of the Plague Doctors from around the 16th and 17th centuries. Due to the beak-like shape this is probably where the feather part of the name comes from.
+
+## Recipes
+
+-   [Necrotic Mask](Necrotic_Mask.md) - 1x Bloodfeather Mask, 1x [Necrotic Membrane](Necrotic_Membrane.md), and 1x [Parasol Part](Parasol_Part.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md).
 
 ## Trivia
 

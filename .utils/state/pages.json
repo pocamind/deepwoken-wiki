@@ -153,7 +153,7 @@
   },
   "1021": {
     "title": "Outfits",
-    "lastrevid": 228203
+    "lastrevid": 231876
   },
   "1022": {
     "title": "Death",
@@ -241,7 +241,7 @@
   },
   "1099": {
     "title": "Fists",
-    "lastrevid": 230820
+    "lastrevid": 231864
   },
   "1101": {
     "title": "Mantra Modifiers",
@@ -361,7 +361,7 @@
   },
   "1299": {
     "title": "Guns",
-    "lastrevid": 231044
+    "lastrevid": 231882
   },
   "1307": {
     "title": "The Hidden Village",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 231826
+    "lastrevid": 231888
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -1625,7 +1625,7 @@
   },
   "4382": {
     "title": "Rapiers",
-    "lastrevid": 231046
+    "lastrevid": 231883
   },
   "4393": {
     "title": "Polis",
@@ -2053,7 +2053,7 @@
   },
   "4952": {
     "title": "Daggers",
-    "lastrevid": 231047
+    "lastrevid": 231885
   },
   "4954": {
     "title": "Whaler Initiate",
@@ -2657,7 +2657,7 @@
   },
   "6437": {
     "title": "Auroran Gremor",
-    "lastrevid": 225164
+    "lastrevid": 231839
   },
   "6440": {
     "title": "Hive Leader's Garment",
@@ -2857,7 +2857,7 @@
   },
   "7395": {
     "title": "Bloodfeather Mask",
-    "lastrevid": 229236
+    "lastrevid": 231848
   },
   "7396": {
     "title": "Adventurer's Scarf",
@@ -3133,7 +3133,7 @@
   },
   "8050": {
     "title": "Bloodfeather Cowl",
-    "lastrevid": 229235
+    "lastrevid": 231847
   },
   "8052": {
     "title": "Ministry Operative Cloak",
@@ -3149,7 +3149,7 @@
   },
   "8082": {
     "title": "Greatswords",
-    "lastrevid": 230091
+    "lastrevid": 231880
   },
   "8089": {
     "title": "Battle Royale",
@@ -3949,7 +3949,7 @@
   },
   "11126": {
     "title": "Windrunner Robes",
-    "lastrevid": 223303
+    "lastrevid": 231838
   },
   "11131": {
     "title": "Adrofalis",
@@ -4013,7 +4013,7 @@
   },
   "11544": {
     "title": "Swords",
-    "lastrevid": 230513
+    "lastrevid": 231858
   },
   "11574": {
     "title": "Kyrsieger",
@@ -4473,11 +4473,11 @@
   },
   "13711": {
     "title": "Greathammers",
-    "lastrevid": 230090
+    "lastrevid": 231881
   },
   "13712": {
     "title": "Greataxes",
-    "lastrevid": 231048
+    "lastrevid": 231863
   },
   "13719": {
     "title": "Erosius Amaltus Urivortus Alistus Casius Walistoshus",
@@ -4729,7 +4729,7 @@
   },
   "14182": {
     "title": "Ignition Trailblazer",
-    "lastrevid": 231416
+    "lastrevid": 231836
   },
   "14184": {
     "title": "Oath: Silentheart/Old Silentheart",
@@ -4969,7 +4969,7 @@
   },
   "14759": {
     "title": "Clubs",
-    "lastrevid": 231049
+    "lastrevid": 231877
   },
   "14761": {
     "title": "Twinblades",
@@ -5361,7 +5361,7 @@
   },
   "16000": {
     "title": "Shields",
-    "lastrevid": 231051
+    "lastrevid": 231862
   },
   "16031": {
     "title": "White Mod Suit",
@@ -6449,7 +6449,7 @@
   },
   "18643": {
     "title": "Greatcannons",
-    "lastrevid": 231679
+    "lastrevid": 231857
   },
   "18670": {
     "title": "Private Kernel",
@@ -6721,7 +6721,7 @@
   },
   "19763": {
     "title": "Authority Ensign",
-    "lastrevid": 231053
+    "lastrevid": 231854
   },
   "19764": {
     "title": "Destroyman III, Bon Vivant Adventurer",
@@ -6921,7 +6921,7 @@
   },
   "20138": {
     "title": "Pistols",
-    "lastrevid": 231054
+    "lastrevid": 231884
   },
   "20141": {
     "title": "Hallowtide Caller",
@@ -7861,7 +7861,7 @@
   },
   "21518": {
     "title": "Gale Boots",
-    "lastrevid": 230873
+    "lastrevid": 231861
   },
   "21520": {
     "title": "Estrella",
@@ -8285,7 +8285,7 @@
   },
   "21972": {
     "title": "Cindergarb",
-    "lastrevid": 228954
+    "lastrevid": 231837
   },
   "21990": {
     "title": "Nocturne (individual)",
@@ -9105,7 +9105,7 @@
   },
   "23888": {
     "title": "Hero's Regalia",
-    "lastrevid": 223314
+    "lastrevid": 231835
   },
   "23935": {
     "title": "Deepwoken OG",
@@ -9893,6 +9893,10 @@
   },
   "26886": {
     "title": "Talents/Categories A-I",
-    "lastrevid": 231830
+    "lastrevid": 231889
+  },
+  "26888": {
+    "title": "Talents/Categories J-R",
+    "lastrevid": 231890
   }
 }

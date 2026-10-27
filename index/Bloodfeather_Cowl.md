@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Cowl
-revid: 229235
+revid: 231847
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -32,6 +32,10 @@ Variants: [Mask](Bloodfeather_Mask.md)
 ## Description
 
 The Bloodfeather Cowl is an [Equipment](Equipment.md) item under the "Head" category.
+
+## Recipes
+
+-   [Necrotic Cowl](Necrotic_Cowl.md) - 1x Bloodfeather Cowl, 1x [Necrotic Membrane](Necrotic_Membrane.md), and 1x [Parasol Part](Parasol_Part.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md).
 
 ## Trivia
 

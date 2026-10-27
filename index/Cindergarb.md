@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 228954
+revid: 231837
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
@@ -10,7 +10,7 @@ categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-ex
 
 | Cindergarb | |
 |---|---|
-| caption | Forged from fabric tempered in flame. Cindergard gathers shed embers enhancing your flamecharm ability. |
+| caption | Forged from fabric tempered in flame. Cindergarb gathers shed embers enhancing your flamecharm ability. |
 | tier | Unique |
 | crafting_req | x2 Blessed Gems, x5 Cloth, x5 Dying Embers, x5 Fiber |
 | price | 1,000 |

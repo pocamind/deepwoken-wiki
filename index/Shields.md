@@ -1,6 +1,6 @@
 ---
 title: Shields
-revid: 231051
+revid: 231862
 source: https://deepwoken.fandom.com/wiki/Shields
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Weapons Classes]

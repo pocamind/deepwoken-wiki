@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 223303
+revid: 231838
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -10,7 +10,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 
 | Windrunner Robes | |
 |---|---|
-| caption | The flowing robes of a Jetstriker, said to assist in attuning oneself to the Flow of the Song |
+| caption | The flowing robes of a Jetstriker, said to assist in attuning oneself to the Flow of the Song. |
 | tier | Master |
 | crafting_req | x5 Cloth, x5 Fiber, x5 Gale Stone, x5 Vibrant Gem, x8 Erisore, x1 Wind Gem |
 | price | 1,000 |

@@ -1,6 +1,6 @@
 ---
 title: "Hero's Regalia"
-revid: 223314
+revid: 231835
 source: https://deepwoken.fandom.com/wiki/Hero's_Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Vow of Iron Exclusive, Outfits]
@@ -12,7 +12,7 @@ categories: [Unique Outfits, Vow of Iron Exclusive, Outfits]
 |---|---|
 | tier | Unique |
 | crafting_req | N/A |
-| stat_req | 45 Flamecharmer, Power 15 |
+| stat_req | Power 15, 45 Flamecharm |
 | bankable | No |
 | droppable | No |
 | durability | 3000 |

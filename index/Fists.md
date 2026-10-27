@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 230820
+revid: 231864
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Light Weapons, Fists, Weapon Classes]
@@ -83,7 +83,7 @@ Ineligible Fist Talents:
 
 ## Weapon Class Talents
 
-This info has been transcluded from [a different page](Talents.md#fists). Visit the transcluded page to edit this info.
+This section is transcluded from \[\[Talents#{{{3}}}|a different page\]\]. To change it, please edit the transcluded page.
 
 -   **Bruiser's Mixup** \[Brawler • Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict [bleed](Status_Effects.md#bleed) temporarily.
     -   Lasts for 4 seconds.
