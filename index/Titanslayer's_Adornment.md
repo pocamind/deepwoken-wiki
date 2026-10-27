@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 231092
+revid: 231832
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -14,7 +14,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | tier | Master |
 | crafting_req | x5 Cloth, x5 Sinner's Ash, x1 Primadon Pelt, x5 Odd Tentacle, x5 Bloodless Gem, x3 Thresher Spine, x3 Dark Feather, x20 Umbral Obsidian, x20 Vibrant Gem |
 | price | 5,000 |
-| stat_req | 50 Strength, Power 15 |
+| stat_req | Power 15, 50 Strength |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3300 Durability |

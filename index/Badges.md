@@ -1,6 +1,6 @@
 ---
 title: Badges
-revid: 193266
+revid: 231815
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Deepwoken]

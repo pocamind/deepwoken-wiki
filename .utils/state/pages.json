@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 231770
+    "lastrevid": 231826
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -2649,7 +2649,7 @@
   },
   "6434": {
     "title": "Royal Etrean Guard",
-    "lastrevid": 228550
+    "lastrevid": 231831
   },
   "6436": {
     "title": "Justicar (Origin)",
@@ -3509,7 +3509,7 @@
   },
   "9093": {
     "title": "Badges",
-    "lastrevid": 193266
+    "lastrevid": 231815
   },
   "9344": {
     "title": "Seafarer's Chime",
@@ -5981,7 +5981,7 @@
   },
   "18068": {
     "title": "Titanslayer's Adornment",
-    "lastrevid": 231092
+    "lastrevid": 231832
   },
   "18069": {
     "title": "Steel Plate",
@@ -6973,7 +6973,7 @@
   },
   "20216": {
     "title": "Familiar Occultist's Armor",
-    "lastrevid": 231012
+    "lastrevid": 231834
   },
   "20217": {
     "title": "Pumpkin Pie",
@@ -7081,7 +7081,7 @@
   },
   "20480": {
     "title": "Isle of the Crows",
-    "lastrevid": 231756
+    "lastrevid": 231833
   },
   "20481": {
     "title": "Corvus Manor",
@@ -9890,5 +9890,9 @@
   "26883": {
     "title": "Tillian Plush",
     "lastrevid": 231797
+  },
+  "26886": {
+    "title": "Talents/Categories A-I",
+    "lastrevid": 231830
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231770
+revid: 231826
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -9,6 +9,10 @@ notices:
 ---
 
 # Talents
+
+## Navigation
+
+Variants: [Talents/Categories A-I](Talents/Categories_A-I.md)
 
 Variants: [Talents/Vow of Iron](Talents/Vow_of_Iron.md)
 
@@ -3308,6 +3312,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 45 Ironsing  
         
     -   Tags: \[Ironsing\] \[Debuff\] \[Flourish\]
+
+## Temporary
 
 ### Javelin Lord
 
