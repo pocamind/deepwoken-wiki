@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Pin Pack
-revid: 211877
+revid: 231804
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Pin_Pack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -9,6 +9,9 @@ notices:
 ---
 
 # Mudskipper Pin Pack
+
+| Mudskipper Pin Pack | |
+|---|---|
 
 ## Description
 

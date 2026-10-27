@@ -121,7 +121,7 @@
   },
   "953": {
     "title": "Quests",
-    "lastrevid": 231749
+    "lastrevid": 231773
   },
   "955": {
     "title": "Notes",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 231759
+    "lastrevid": 231770
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -1069,7 +1069,7 @@
   },
   "2869": {
     "title": "Cut Content",
-    "lastrevid": 231758
+    "lastrevid": 231784
   },
   "2877": {
     "title": "Evengarde Rest",
@@ -2281,7 +2281,7 @@
   },
   "5666": {
     "title": "Mystic",
-    "lastrevid": 201827
+    "lastrevid": 231761
   },
   "5669": {
     "title": "Jessamine",
@@ -2293,7 +2293,7 @@
   },
   "5671": {
     "title": "Echoes",
-    "lastrevid": 230692
+    "lastrevid": 231774
   },
   "5672": {
     "title": "Chime of Dwelling",
@@ -2549,7 +2549,7 @@
   },
   "6134": {
     "title": "Serena",
-    "lastrevid": 228444
+    "lastrevid": 231772
   },
   "6147": {
     "title": "Maedhran",
@@ -5277,7 +5277,7 @@
   },
   "15856": {
     "title": "Deep Shrines/Shrine of Mastery",
-    "lastrevid": 231135
+    "lastrevid": 231765
   },
   "15857": {
     "title": "Deep Shrines/Shrine of Chance",
@@ -5289,11 +5289,11 @@
   },
   "15859": {
     "title": "Deep Shrines/Shrine of Ostentation",
-    "lastrevid": 224722
+    "lastrevid": 231766
   },
   "15860": {
     "title": "Deep Shrines/Shrine of Conceit",
-    "lastrevid": 231107
+    "lastrevid": 231768
   },
   "15861": {
     "title": "Deep Shrines/Shrine of Division",
@@ -5305,7 +5305,7 @@
   },
   "15863": {
     "title": "Deep Shrines/Shrine of Solitude",
-    "lastrevid": 224723
+    "lastrevid": 231767
   },
   "15878": {
     "title": "Rosen's Roscoe",
@@ -7261,7 +7261,7 @@
   },
   "20858": {
     "title": "Authority Enemy (Test)",
-    "lastrevid": 216181
+    "lastrevid": 231783
   },
   "20859": {
     "title": "Authority Captain (Test)",
@@ -7469,7 +7469,7 @@
   },
   "21144": {
     "title": "JOE's",
-    "lastrevid": 225993
+    "lastrevid": 231778
   },
   "21145": {
     "title": "Life Weave (enchantment)",
@@ -9433,15 +9433,15 @@
   },
   "24707": {
     "title": "Deep Owl Doughboi",
-    "lastrevid": 211860
+    "lastrevid": 231800
   },
   "24708": {
     "title": "Thresher Longboi",
-    "lastrevid": 211867
+    "lastrevid": 231803
   },
   "24709": {
     "title": "Duke Erisia Plushie",
-    "lastrevid": 211865
+    "lastrevid": 231801
   },
   "24710": {
     "title": "Sharko Plush",
@@ -9449,15 +9449,15 @@
   },
   "24711": {
     "title": "Black Diver Hoodie",
-    "lastrevid": 214225
+    "lastrevid": 231798
   },
   "24712": {
     "title": "Mudskipper Pin Pack",
-    "lastrevid": 211877
+    "lastrevid": 231804
   },
   "24713": {
     "title": "Sharko Vinyl Figure",
-    "lastrevid": 211864
+    "lastrevid": 231805
   },
   "24770": {
     "title": "Moonseye Pendant",
@@ -9497,11 +9497,11 @@
   },
   "24920": {
     "title": "Lord Regent Plush",
-    "lastrevid": 226146
+    "lastrevid": 231802
   },
   "24921": {
     "title": "Dangerous Depths Pin Pack",
-    "lastrevid": 223780
+    "lastrevid": 231799
   },
   "24973": {
     "title": "Jadeite Megalodaunt",
@@ -9857,7 +9857,7 @@
   },
   "26710": {
     "title": "Aelita Plush",
-    "lastrevid": 230203
+    "lastrevid": 231789
   },
   "26753": {
     "title": "Void Spire (location)",
@@ -9877,7 +9877,7 @@
   },
   "26761": {
     "title": "The Crow's Laboratory",
-    "lastrevid": 231755
+    "lastrevid": 231777
   },
   "26812": {
     "title": "Deep Shrines/Shrine of Ego",
@@ -9886,5 +9886,9 @@
   "26864": {
     "title": "Authority Winter Corps",
     "lastrevid": 231691
+  },
+  "26883": {
+    "title": "Tillian Plush",
+    "lastrevid": 231797
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 230692
+revid: 231774
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -498,7 +498,8 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   On March 16th, 2025, [Chad09999 or Midq](https://www.youtube.com/watch?v=fcB0KECJA6A%7C) became the first player to achieve W rank with the _Glass Bones_ modifier.
 -   On [December 13th, 2025](Version_History/2025.md#december-13th-2025), with the addition of the [Vow of Iron](Vow_of_Iron.md), the **Ironwoken** and **Vow of Thorns** Echo Modifiers were removed form the game.
-    -   While Vow of Thorns was "removed", it was really re-purposed to handle certain mechanics in Vow of Iron; meaning that if you had a slot with Vow of thorns before it was removed, that slot and any future instances of it will have the "IronVow" echo modifier instead, making them drown from every surface death
-        -   This can be fixed by pressing the "enable all/disable all" button in the echo-modifier section of character-creation.
+    -   While Vow of Thorns was "removed", it was really re-purposed to handle certain mechanics in Vow of Iron; meaning that if you had a slot with Vow of Thorns before it was removed, that slot and any future instances of it will have the "IronVow" echo modifier instead, making them drown from every surface death
+        -   This can be fixed by pressing the "enable all/disable all" button in the echo-modifier section of character creation.
+-   Attempting to repair your armor durability while having the Crestfallen Echo Modifier will display text stating "You're Crestfallen. No dice."
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
 -   Visually, combining all Echo Modifiers grants 3.1x Echoes, but dividing 421/3.1 will give you 136. Instead, Dividing by 420.9/3.05 will give you 138, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true.

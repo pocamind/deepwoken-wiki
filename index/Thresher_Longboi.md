@@ -1,6 +1,6 @@
 ---
 title: Thresher Longboi
-revid: 211867
+revid: 231803
 source: https://deepwoken.fandom.com/wiki/Thresher_Longboi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -9,6 +9,9 @@ notices:
 ---
 
 # Thresher Longboi
+
+| Thresher Longboi | |
+|---|---|
 
 ## Description
 

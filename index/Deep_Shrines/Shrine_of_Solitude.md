@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 224723
+revid: 231767
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, NPCs, Mechanics]
+categories: [Cut Content, NPCs]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---

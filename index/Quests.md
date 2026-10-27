@@ -1,9 +1,9 @@
 ---
 title: Quests
-revid: 231749
+revid: 231773
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, Quests, NPCs, Mechanics]
+categories: [SpoilerPages, Quests, Mechanics]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---

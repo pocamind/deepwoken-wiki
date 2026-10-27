@@ -1,6 +1,6 @@
 ---
 title: Black Diver Hoodie
-revid: 214225
+revid: 231798
 source: https://deepwoken.fandom.com/wiki/Black_Diver_Hoodie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -9,6 +9,9 @@ notices:
 ---
 
 # Black Diver Hoodie
+
+| Black Diver Hoodie | |
+|---|---|
 
 ## Description
 

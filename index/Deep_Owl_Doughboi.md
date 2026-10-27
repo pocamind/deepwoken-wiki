@@ -1,6 +1,6 @@
 ---
 title: Deep Owl Doughboi
-revid: 211860
+revid: 231800
 source: https://deepwoken.fandom.com/wiki/Deep_Owl_Doughboi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -9,6 +9,9 @@ notices:
 ---
 
 # Deep Owl Doughboi
+
+| Deep Owl Doughboi | |
+|---|---|
 
 ## Description
 

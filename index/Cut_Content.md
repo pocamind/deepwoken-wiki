@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 231758
+revid: 231784
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -10,100 +10,180 @@ categories: [Cut Content]
 
 This page is about content that has either been removed or changed drastically in Deepwoken. An example of a drastic change is the [Flame Wisp](Flamecharm.md#flame-wisp) rework, while a removal would be [Talents](Talents.md) that get merged such as Heartstopper, or content that is flat out removed, such as Isle of Crows.
 
-## Locations
-
--   **[Isle of the Crows](Isle_of_the_Crows.md) -** Shown in the Deepwoken Direct, Isle of the Crows was an island with a number of Authority enemies. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
--   **[The Seranece Mountains](The_Seranece_Mountains.md) -** Mountains high above the tides where the original [Temple of the Blade](Temple_of_the_Blade.md) was located.
--   **[Shrine of Winter](Shrine_of_Winter.md) -** A shrine that would instantly send players to [Scyphozia](First_Layer.md) upon interaction with a [Frostdraw](Frostdraw.md) [Mantra](Mantras.md).
--   **Original Meteor Isle -** Even though [Meteor Isle](Meteor_Isle.md) was re-added, it was slightly tweaked from it's state prior to release. The island also received a few minor appearance changes and additional NPC's.
--   **Ironfist Island -** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon,_Titan_of_the_East.md).
--   **[Corvus Manor](Corvus_Manor.md) -** A Ministry affiliated area that was removed pre-launch. [Masters of the House](Deepwoken_OST.md#masters-of-the-house) was meant to play here.
--   **Etrean Waters -** An area that was present in the very beta of Deepwoken. Most likely an early version of the Etrean Sea, as it had a very similar description and was in the same general area, surrounding the island of Etris.
--   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md), [Rat's Den](<Rat's_Den.md>) and [Erisor's Church](<Erisor's_Church.md>) could be found here. Footage can be found [here](https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28) and [here](https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26)
--   **Erebus -** An island containing Duke Erisia's manor, a huge maze and a large stone skull. Reworked into [the Hidden Village](The_Hidden_Village.md).
-    
-    Erebus
-    
-
-## Quests
-
--   **Aerial Assault (quest) -** This quest was granted by [Ivory](Ivory.md) at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Aerial Assault Echo Talent. This quest, the quest giver, and the Talent itself were all removed on the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update when Aerial Assault was made base behavior.
--   **Chaser's Hemokinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet via interacting with Ministry members hiding around the Second Layer's first floor. This would have tied into the Dungeon Invasion mechanic in some unknown way.[\[1\]](#cite-note-1)
--   **[Commander Rayner](Commander_Rayner.md) -** A quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
--   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
--   **[Deepshore Fossil](Deepshore_Fossil.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
--   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
--   **[Kiternon](Kiternon.md) -** A Felinor NPC that was once at Fort Merit, alongside [Kana](Kana.md) and [Gartoth](Gartoth.md). He used to have an unfinished quest where he asked for you to bring 'Someone stronger than you' to him.
--   **[Gartoth](Gartoth.md) -** A Canor NPC that was once at Fort Merit. He used to to have dialogue that spoke about his hunger.
--   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
-    
--   **[Orion](Orion.md) (Summer's Dusk) -** A Celtor NPC that was in the reactor room of [Miner's Landing](<Miner's_Landing.md>). They tasked the player with defeating [Summer Goons](Summer_Goon.md) messing with the Union's plans in the upper levels of the island. Upon completion it would grant the player the [Ignition Delver](Ignition_Delver.md) Origin.
-
 ## Player
 
--   **Original Venting -** Originally, Venting put yourself into an Invincible state, where getting hit by a Mantra would not only nullify the Mantra's damage and/or effects, but also give the user a lot of Ether. The current iteration of Venting simply pushes people away, and can be used while in hitstun.
+### Combat
+
+-   **Original Venting** - Originally, Venting put yourself into an Invincible state, where getting hit by a Mantra would not only nullify the Mantra's damage and/or effects, but also give the user a lot of Ether.[\[1\]](#cite-note-37facts-1) The current iteration of Venting simply pushes people away, and can be used while in hitstun.
     -   This original version of Venting is still used by [Nautilodaunt](Nautilodaunt.md).
--   **Original Gliding -** Gliding originally involved the player to simply descend through the air, albeit at a much slower rate. This was replaced with the current system, which was ported over to the [Pathfinder](Pathfinder.md) gamemode a week after [Vow of Iron](Vow_of_Iron.md) was released to the game.
--   **Original Ziplining -** Originally, ziplines would be used by pressing E, causing the player to descend smoothly across places, though at a fixed rate.
--   **Climbing -** Climbing was a mechanic that simply allowed the player to reach greater heights. This was replaced by the similar wall bouncing mechanic in the [Vow of Iron](Vow_of_Iron.md) gamemode, which was then ported over to the [Pathfinder](Pathfinder.md) gamemode a week later.
--   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
--   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
--   **Hidden Name -** During testing all player names were hidden until you were told their name, otherwise they will be simply called stranger. This was removed to help prevent exploits and such.
--   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
-    -   Replaced with Advanced Cards in the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update. Others were turned into Rare Talents or completely removed from the game.
--   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
-    -   Was removed on the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update.
--   **Perfect Casting -** Clicking M1 immediately after your Mantra cast will Perfect Cast it. The only use of this feature is to interact with some abilities.
+-   **"F + Click for parry"** - Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.[\[1\]](#cite-note-37facts-1)
+-   **Vow of Hatred** - A consensual duel between two players. However, the loser of the duel would instantly wipe.
+-   **Perfect Casting** - Clicking M1 immediately after your Mantra cast will Perfect Cast it. The only use of this feature is to interact with some abilities.
     -   Was removed on the [August 11th, 2025](Version_History/2025.md#august-11th-2025) update as it didn't actually require any additional skill, it was basically just a knowledge gap. All mechanics/abilities that relied on Perfect Casts were reworked or made default behavior.
--   **Vow of Thorns + Ironwoken Echo Modifiers -** Vow of Thorns boosted the rate of progression. However, players were faced with harder [trials](Cathedral_of_the_Interstice.md) and every death will would send them to the [depths](First_Layer.md). Ironwoken would stop players from receiving notes or items from other players.
-    -   Both Echo Modifiers were removed on the [December 15th, 2025](Version_History/2025.md#december-15th-2025) update as their effects and mechanics are represented within [Vow of Iron](Vow_of_Iron.md).
--   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the [Feburary 16th, 2026](Version_History/2026.md#feburary-16th-2026) update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
--   **[Chime of Conflict](Chime_of_Conflict.md) Skulls -**
+-   **[Chime of Conflict](Chime_of_Conflict.md) Skulls** -
     
     Chime of Conflict Skull icons
     
     -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
--   **Damage vs Monsters and Monster Armor pips -** These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the [June 24th, 2025](Version_History/2025.md#june-24th-2025) update, being replaced with the [Bestiary](Bestiary.md) system.
--   **Stomach Grumbles -** Periodically while at 0 stomach your character's stomach would audibly grumble, alerting all nearby NPCs of your location, and aggroing them if they were hostile. This mechanic temporarily found a strong use case after the Chainbreaker update, where players would abuse the alertion to cause [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) to aggro onto them and start the fight almost immediately after entering the dungeon. Because of this, this mechanic was removed in a shadow hotfix not long after.
--   **Elemental Intensity (as a Talent stat) -** Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the [September 7th, 2024](Version_History/2024.md#september-7th-2024) update.
--   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
+
+### Movement
+
+-   **Original Ziplining** - Originally, ziplines would be used by pressing E, causing the player to descend smoothly across places, though at a fixed rate.
+-   **Original Gliding** - Gliding originally involved the player to simply descend through the air, albeit at a much slower rate. This was replaced with the current system, which was ported over to the [Pathfinder](Pathfinder.md) gamemode a week after [Vow of Iron](Vow_of_Iron.md) was released to the game.
+-   **Original Climbing** - Climbing was a mechanic that simply allowed the player to reach greater heights. This was replaced by the similar wall bouncing mechanic in the [Vow of Iron](Vow_of_Iron.md) gamemode, which was then ported over to the [Pathfinder](Pathfinder.md) gamemode a week later.
+
+### PvE
+
+-   **Mind Sparring** - Mind Sparring was the original way players were meant to train [Murmur: Ardour](Murmur%253A_Ardour.md). It functioned very similar to how [The Blade Within](The_Blade_Within.md) progresses, as the player would fight a copy of themselves to improve their Ardour.[\[2\]](#cite-note-iceberg-2)
+-   **"Layer 2 Drown"** - A scrapped feature that would immediately send players into the [Second Layer](Second_Layer.md) on their second death instead of the [First Layer](First_Layer.md) upon reaching more than 15 drowns.
+-   **Damage vs Monsters + Monster Armor Pips** - These [Equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the [June 24th, 2025](Version_History/2025.md#june-24th-2025) update, being replaced with the [Bestiary](Bestiary.md) system.
+-   **Vow of Thorns + Ironwoken Echo Modifiers** - Vow of Thorns boosted the rate of progression. However, players were faced with harder [trials](Cathedral_of_the_Interstice.md) and every death will would send them to the [depths](First_Layer.md). Ironwoken would stop players from receiving notes or items from other players.
+    -   Both Echo Modifiers were removed on the [December 15th, 2025](Version_History/2025.md#december-15th-2025) update as their effects and mechanics are represented within [Vow of Iron](Vow_of_Iron.md).
+
+### Progression
+
+-   **Talent Points** - This system would grant players Talent Points upon powering up. This allowed players to pick any Talents of their choosing so long as they met the additional stat requirements to unlock it.[\[2\]](#cite-note-iceberg-2)
+-   **Skill Codexes** - Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
+-   **Luck** - A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
+    -   Was removed on the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update.
+-   **Legendary Talents** - Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
+    -   Replaced with Advanced Cards in the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update. Others were turned into Rare Talents or completely removed from the game.
+
+### Other
+
+-   **Original Guild Bases** - Originally called "Guild Outposts," players would have to claim a plot of land and then buy a Guild Outpost to build. There are currently only three known Guild Outposts being the Adretian Fort, Forest Camp, and Tropical Camp.[\[2\]](#cite-note-iceberg-2)
+    -   Added in the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
+-   **Hidden Name** - During testing all player names were hidden until you were told their name, otherwise they will be simply called stranger above their head. Additionally, the player list would show the names of known players, otherwise displaying the number of other strangers in the server. This was removed to help prevent exploits and such.
+-   **Stomach Grumbles** - Periodically while at 0 stomach your character's stomach would audibly grumble, alerting all nearby NPCs of your location, and aggroing them if they were hostile. This mechanic temporarily found a strong use case after the Chainbreaker update, where players would abuse the alertion to cause [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) to aggro onto them and start the fight almost immediately after entering the dungeon. Because of this, this mechanic was removed in a shadow hotfix not long after.
+-   **Elemental Intensity (Talent stat)** - Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the [September 7th, 2024](Version_History/2024.md#september-7th-2024) update.
+
+## Locations
+
+-   **[The Seranece Mountains](The_Seranece_Mountains.md)** - Mountains high above the tides where the original [Temple of the Blade](Temple_of_the_Blade.md) was located.
+-   **[Shrine of Winter](Shrine_of_Winter.md)** - A shrine that would instantly send players to [Scyphozia](First_Layer.md) upon interaction with a [Frostdraw](Frostdraw.md) [Mantra](Mantras.md).
+-   **Original Meteor Isle** - Even though [Meteor Isle](Meteor_Isle.md) was re-added, it was slightly tweaked from it's state prior to release. The island also received a few minor appearance changes and additional NPC's.
+-   **[Ironfist Island](Ironfist_Island.md)** - An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and [Primadon](Primadon,_Titan_of_the_East.md).
+-   **[Corvus Manor](Corvus_Manor.md)** - A Ministry affiliated area that was removed pre-launch. [Masters of the House](Deepwoken_OST.md#masters-of-the-house) was meant to play here.
+-   **[The Crow's Laboratory](<The_Crow's_Laboratory.md>)** - Another Ministry affiliated area that was believed to be reintroduced as [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>).[\[2\]](#cite-note-iceberg-2)
+-   **[Isle of the Crows](Isle_of_the_Crows.md)** - Shown in the Deepwoken Direct, Isle of the Crows was an island with a number of Authority enemies. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.[\[3\]](#cite-note-3)
+-   **Etrean Waters** - An area that was present in the very beta of Deepwoken. Most likely an early version of the Etrean Sea, as it had a very similar description and was in the same general area, surrounding the island of Etris.
+-   **Etrean Woods** - Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md), [Rat's Den](<Rat's_Den.md>) and [Erisor's Church](<Erisor's_Church.md>) could be found here. Footage can be found [here](https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28) and [here](https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26)
+-   **Erebus** - An island containing Duke Erisia's manor, a huge maze and a large stone skull. Reworked into [the Hidden Village](The_Hidden_Village.md).
+    
+    Erebus
+    
+    [\[4\]](#cite-note-iceberg2-4)
+-   **[The Hidden Grove](The_Hidden_Grove.md)** - A cave tucked away on an island outside the reaches of [Summer Isle](Summer_Isle.md). It grew all variants of the [Primordial Lotuses](Primordial_Lotuses.md) depending on the season.
+-   **[Dusklit Garden](Dusklit_Garden.md)** - A secluded off section of the [Voidheart](Voidheart.md), it was a small floating island that the [Blacksmith](Blacksmith.md) was located at.
+-   **Citadel Enclave** - One of the maps where [Conquest](Conquest.md) would have taken place in.
+-   **Etris: Siege** - The location marker itself was removed and the raid event tied to it was reworked into a disaster named the [Cinders of Etris](Cinders_of_Etris.md).
+-   **[Pathfinder's Respite](<Pathfinder's_Respite.md>)** - A small den found above a section of [The Viper's Jaw](<The_Viper's_Jaw.md>). The location marker was reintroduced with the [Erisia family](Erisia_family.md) statues, but was later removed for unknown reasons.
+
+  
 
 ## Oaths
 
 -   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in the game, it was reworked, removing certain aspects of the previous version.
     -   The active passive **Mani Katti** was removed on the 13th of September in 2024, which was then brought back, reworked and renamed into **Silent Cascade** on 19th of August in 2025.
     -   This was reworked on the 13th of August in 2024.
--   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
+-   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md) Visionshaper** - Reworked, possibly due to overall jank. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
     -   The Oath mantra **Illusory Realm** was removed alongside this rework.
     -   This was reworked on the 20th of September in 2024.
--   **([Previous](Oath%253A_Jetstriker/Old_Jetstriker.md))** **Jetstriker -** Reworked, possibly due to the overpowered nature of the _Vigil's Grace_ passive and lack of viability in PVP and PVE outside of that specific passive.
+-   **([Previous](Oath%253A_Jetstriker/Old_Jetstriker.md)) Jetstriker** - Reworked, possibly due to the overpowered nature of the _Vigil's Grace_ passive and lack of viability in PVP and PVE outside of that specific passive.
     -   New mantras were added to Jetstriker which previously, the Oath possessed none, these mantras include Jet Kick and False Strike.
     -   New passives that differ from the original Jetstriker include Acceleration Points, Jetstream Pursuit, and Momentum Bar.
         -   Passives removed from the rework include Prevailing Westerlies and Vigil's Grace.
 
-  
+## Items
+
+-   **[Officers Note](Officers_Note.md)** - An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
+-   **[Auto-Repair](Auto-Repair.md) Enchant** - Meant to be removed before official release, the effects are unknown but the name implies it could've passively restored Armor durability over time.
+-   **[Curse of Zariffs Absorption](Curse_of_Zariffs_Absorption.md) Enchant** - This enchant would allow its wielder to steal their opponents enchant while also removing theirs.
+-   **[False Memory](False_Memory.md)** - This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the [Feburary 16th, 2026](Version_History/2026.md#feburary-16th-2026) update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
+-   **[Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md) Book** - This book was removed due to having lore contradictions, plot holes, and being seemingly out of place. It depicted the assassination of the death of [Rolen Vashtir](Rolen_Vashtir.md).
+-   **[JOE's](<JOE's.md>) Enchant** - An enchant that allowed its wielder to briefly stop time after using their critical.
+-   **[My Warm Blood](My_Warm_Blood.md) Book** - A book that spoke of a disillusioned soldier that believed their only purpose was to kill. Seeking immortality through the flames, they attempt to burn themselves but were extinguished by another person. Prompting them to question themselves and their actions.
+-   **[Lament of Cirryn](Lament_of_Cirryn.md) Book** - [Ehkusa](Ehkusa.md) and a group of scholars attempt to ressurrect a hero named [Cirryn](Cirryn.md). Despite concerns about the mortality of the mission, they continue through using memorial flowers to reanimate the hero's body. However, the ritual goes wrong, and the body of the hero is transformed into a mindless monster that slaughters the Hivekin. [Remaz](Remaz.md) is left with no choice but to lure what was Cirryn into a chamber for Ehkusa to seal both of them inside. Ehkusa, left behind after losing all their companions is forced to live with the guilt, tragedy of the failed experiment, and Remaz's final apology.
+-   **[God in the Machine](God_in_the_Machine.md) Book** - [Ryrda](Ryrda.md), seeking to obtain Nightblood and master Shadowcast, convinces [Eran](Eran.md) to undergo a dangerous procedure that ultimately kills her. After gaining Nightblood, Ryrda is confronted by [Fran](Fran.md), who is devastated by Eran’s death. Their confrontation escalates into a chase through the forest, which Fran sets ablaze with her Flamecharm. Ryrda becomes trapped beneath a burning tree, and Fran leaves him to die before departing the following morning.
+-   **[Repair Hammer](Repair_Hammer.md)** - Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
+-   **[Diver Journal, I](Diver_Journal,_I.md)/[Diver Journal, II](Diver_Journal,_II.md)/[Diver Journal, III](Diver_Journal,_III.md) Books** - All three Diver Journals explore the perspectives and last moments of various Divers in desperation, betrayal, and the psychological toll of survival and isolation. Each of the journals depict the respective Divers pushing toward despair as their hope of survival gradually fades in the [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md), and the fear of only being remembered as a mere statistic.
+-   **[Destroyman Chain](Destroyman_Chain.md)** - Removed on the [April 20th, 2026](Version_History/2026.md#april-20th-2026) update, Destroyman Chain's was completely removed from the game due to one of original owners duping it and redistributing and trading the item away.
+-   **[Deepshore Fossil](Deepshore_Fossil.md)** - Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
 
 ## Mantras
 
--   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation. Certain Talents still had remnants of the Core system, such as Static Ace calling Lightning Stream "Stream Core."
+-   **Mantra Cores** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation. Certain Talents still had remnants of the Core system, such as Static Ace calling Lightning Stream "Stream Core."
     -   Removed due to being too grindy.
--   **Mantra Creation** - Mantras used to be created via ingredients found as loot. This was eventually replaced with gaining Mantras in your hands from levelling up.
--   **Old Mantra Sparks** - Were used for the old Mantra system, causing a variety of effects. Some, such as the Falseflame spark, were still in the Gigamed drop table until an unknown update.
+-   **Mantra Creation** - Mantras used to be created via ingredients found as loot. This was eventually replaced with gaining Mantras in your hands from levelling up.[\[2\]](#cite-note-iceberg-2)
+-   **Original Mantra Sparks** - Were used for the old Mantra system, causing a variety of effects. Some, such as the Falseflame spark, were still in the Gigamed drop table until an unknown update.[\[2\]](#cite-note-iceberg-2)
+-   **Attunement Shields** - A Mantra that allowed the user to block not only other Mantras but also M1s. This was swiftly scrapped from the game for being too overpowered.[\[4\]](#cite-note-iceberg2-4)
 -   **Ice Bolt** - User jumps into the air, claps their hands and launches a bolt towards their cursor that scatters ice sheets on the ground.
 -   **Ice Mirror** - A spark that could only be applied to Ice Bolt. Once applied, if the user had ice surfaces in the vicinity while casting Ice Bolt, each ice surface would cast an additional bolt of ice.
     -   Was removed alongside the Mantra for being ridiculously powerful.
--   **Fire Pillars (OLD Fire Eruption)** - An undocumented move that was replaced shortly after the game released, being reworked on December 27, 2021, just 7 days after release.
--   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18, 2022.
--   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19th, 2023
--   **(OLD) Lightning Beam** (0 Star Thunder) - Launched an extremely long orange beam of lightning towards where the player was facing. Reworked into being an aimable short burst rather than a longer lasting long range beam.
--   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Lectern](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
+-   **Fire Pillars** - An undocumented move that was replaced shortly after the game released, being reworked on December 27, 2021, just 7 days after release. It was the old version of [Fire Eruption](Flamecharm.md#fire-eruption).
+-   **Original Equalizer** (Contractor Mantra) - Worked very similarly to current Judgement, it acted as an anti-air Mantra that would swiftly latch its target into the air. It was removed shortly before Verse 2 released.[\[4\]](#cite-note-iceberg2-4)
+-   **Original Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18, 2022.
+-   **Original Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19th, 2023
+-   **Original Lightning Beam** (0 Star Thunder) - Launched an extremely long orange beam of lightning towards where the player was facing. Reworked into being an aimable short burst rather than a longer lasting long range beam.
+
+## NPCs
+
+-   **[Psia](Psia.md)** - The old Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
+-   **[Corvis](Corvis.md)** - An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentioned Stormcall. They were described as 'old lore' that was meant to be removed.[\[5\]](#cite-note-5)
+-   **[Commander Rayner](Commander_Rayner.md)** - Part of a quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
+-   **[Kiternon](Kiternon.md)** - A Felinor NPC that was once at Fort Merit, alongside [Kana](Kana.md) and [Gartoth](Gartoth.md). He used to have an unfinished quest where he asked for you to bring 'Someone stronger than you' to him.
+-   **[Gartoth](Gartoth.md)** - A Canor NPC that was once at Fort Merit. He used to to have dialogue that spoke about his hunger.
+-   **Buzz** - Removed on [March 3rd, 2023](Version_History/2023.md#march-3rd-2023), this NPC was a relic of pre-release. They only mentioned of bringing them a locked chest to unlock.
+-   **[Ivory](Ivory.md)** - Removed on the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update, Ivory was a quest-giver located at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked the player with interacting with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Upon returning to Ivory, the player was rewarded with the Aerial Assault [Echo Talent](Echoes.md).
+-   **Shrine of Dominion** - This Deep Shrine swapped the lowest stat and highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.[\[4\]](#cite-note-iceberg2-4)
+-   **[Serena](Serena.md)** - A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[6\]](#cite-note-6)
+-   **[Infamous Baz](Infamous_Baz.md)** - A joke NPC that could be found behind the [Etris Palace](Etris_Palace.md) using the "Griddy" [Emote](Emotes.md).
+-   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)** - Removed on the [September 15th, 2025](Version_History/2025.md#september-15th-2025) update, for 10, the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
+-   **[Kana](Kana.md)** - Found along the outskirts of [Fort Merit](Fort_Merit.md), they only mentioned wishing to have stronger Thundercall abilities.
+-   **[Journal of Warden Jericho](Journal_of_Warden_Jericho.md)** - Removed on the [November 8th, 2025](Version_History/2025.md#november-8th-2025) update, the journal could be found in the bottom of the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md) and was used to uncap the player's Strength Attribute.
+    -   Was replaced with [Tolkat](Tolkat.md).
+-   **[Mystic](Mystic.md)** - The Mystic was an NPC who allowed players to guarantee a Talent category when rolling Talents or Mantras. Originally, the Mystic required players to answer riddles to determine which Talent category they wanted. In the [July 14th, 2025](Version_History/2025.md#july-14th-2025) update, this system was removed and replaced with directly selecting the Talent category by name, reducing reliance on third-party websites. Finally, in the [February 16th, 2026](Version_History/2026.md#february-16th-2026) update, the Mystic was fully removed from the game, due to them essentially being made irrelevant by changes made to the Journal that integrated their effects. Driven back to the shadows, they now must seek legitimate employment.[\[7\]](#cite-note-7)
+-   **[Songwright](Songwright.md)** - Removed on the [March 21st, 2026](Version_History/2026.md#march-21st-2026) update, Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Lectern](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
+-   **[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)** - Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
+    -   The mechanics of this shrine were merged into the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
+-   **[The Captain](<Cap'n_Orlandeau.md>)** -
+    
+    The Captain
+    
+    Removed on the [April 2nd, 2026](Version_History/2026.md#april-2nd-2026) update, when they moved the Tutorial access to the Main Menu instead. This version of [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) could be found in the [Fragments of Self](Fragments_of_Self.md) for [Castaway](Castaway.md) players, allowing them to enter the [Tutorial](Tutorial.md) on their next life.
+    -   Additionally, because the Tutorial could only be accessed on temporary characters, Tutorial-specific dialogue with [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in the [Second Layer](Second_Layer.md) and [Kelsius](Kelsius.md) was also made unobtainable for characters made after this update.
+-   **[??? (FalseMan)](<%253F%253F%253F_(FalseMan).md>)** - Removed in a shadow update, this NPC only served as a shock factor in [New Kyrsa](Second_Layer/New_Kyrsa.md) when players interacted with it.
+-   **[F'leche](<F'leche.md>)** - Removed in a shadow update, this NPC provided removed lore on the effects of the mist of the Kyrsan city.
+-   **[Emel](Emel.md)/[Imel](Imel.md)/[Rimil](Rimil.md)** - All removed on the [August 12th, 2026](Version_History/2026.md#august-12th-2026) update, these NPCs affiliated with [The Ministry](The_Ministry.md) tasked the player with "Party Tricks" to kill any player on the associated island.
+-   **[Kressa](Kressa.md)** - An NPC found on the upper levels of [Miner's Landing](<Miner's_Landing.md>), she spoke about the trade relations regarding the Ignition Union and other factions.
+-   **[Parsnip](Parsnip.md)** - An NPC found in the town area of [Miner's Landing](<Miner's_Landing.md>), Parsnip briefed on the creation of [Mechalodaunts](Mechalodaunt.md) and the havoc they caused in the [Saramaed Summit](Saramaed_Summit.md).
+-   **[Orion](Orion.md)** - A Celtor NPC that was in the reactor room of [Miner's Landing](<Miner's_Landing.md>). They tasked the player with the "Summer's Dusk" Quest that would grant the player the [Ignition Delver](Ignition_Delver.md) Origin upon completion.
+-   **[Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)** - Removed on the [October 19th, 2026](Version_History/2026.md#october-19th-2026) update, for 1, the Shrine of Mastery allowed the player to trade a [Trait](Traits.md) point or remove up to 3 [Attribute](Attributes.md) points.
+    -   The mechanics of this shrine were merged with the [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) into the [Shrine of Ego](Deep_Shrines/Shrine_of_Ego.md).
+-   **[Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)** - Removed on the [October 19th, 2026](Version_History/2026.md#october-19th-2026) update, for 1, the Shrine of Conceit would allow the player to unburn a card that was previously destroyed. It would not refund the [Aces](Aces.md) used however.
+    -   The mechanics of this shrine were merged with the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) into the [Shrine of Ego](Deep_Shrines/Shrine_of_Ego.md).
 
 ## Enemies
 
--   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update due to lore reasons, in which they had no real reason to exist.
--   **Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
--   **Pyromancers -** Humans dressed in the same outfit as the [Redskippers](Necroskipper.md) but dyed orange, they spoke of the drowned god 'Korilfiend' and resided in the forests of old Etrea.
--   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[2\]](#cite-note-2)
+-   **[Authority Enemy](<Authority_Enemy_(Test).md>)** - Old Authority enemies that would appear inside of [Corvus Manor](Corvus_Manor.md). They utilized Flamecharm and wielded [Officer Sabers](Officer_Saber.md).
+-   **Original [Authority Captain](<Authority_Captain_(Test).md>)** - The old Authority Captain that would spawn inside of [Corvus Manor](Corvus_Manor.md) after the surrounding Authority enemies were defeated. However, unlike the Authority enemies, it utilized Thundercall over Flamecharm.
+-   **Konga Bandits** - Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
+-   **Oni** - A black humanoid with white hair and no face that could only be found in the [First Layer](First_Layer.md). It fought with it's fists and was removed before the game's release.[\[2\]](#cite-note-iceberg-2)
+-   **Pyromancers** - Humans dressed in the same outfit as the [Redskippers](Necroskipper.md) but dyed orange, they spoke of the drowned god 'Korilfiend' and resided in the forests of old Etrea.[\[1\]](#cite-note-37facts-1)
+-   **[Blade Instructor](Blade_Instructor.md)** - In the [Isle of Vigils](Isle_of_Vigils.md), players were able to spar with an instructor at the cost of 20. You could also spar with another player by talking to the instructor.
+-   **[Deep Angel](Deep_Angel.md)** - Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update due to lore reasons, in which they had no real reason to exist.
+
+## Quests
+
+-   **[Sky Statue](Sky_Statue.md) Quest** - This quest involved the players interacting with the [Sky Statues](Sky_Statue.md) in an unknown way to gain the Mantra used by [Authority Captains](Authority_Captain.md) called "Glacial Shower" or "Ice Rain."[\[2\]](#cite-note-iceberg-2)
+-   **Aerial Assault** - A quest given to the player by [Ivory](Ivory.md) to interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Upon returning to Ivory, the player was rewarded with the Aerial Assault [Echo Talent](Echoes.md).
+-   **Chaser's Hemokinesis** - A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet via interacting with Ministry members hiding around the Second Layer's first floor.
+    -   This would have tied into the Dungeon Invasion mechanic in some unknown way.[\[8\]](#cite-note-8)
+-   **[Deepshore Fossil](Deepshore_Fossil.md) Findings-** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echoes.md) triumph and quest tied with obtaining the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
+-   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
+    
+-   **Party Trick Hunt** - Assigned to the player by either [Emel](Emel.md), [Imel](Imel.md), or [Rimil](Rimil.md), this quest tasked the player to kill any other player on the associated island for a small reward and Ministry Reputation.
+-   **Summer's Dusk** - Required the player to eliminate [Summer Goons](Summer_Goon.md) at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Talents
 
@@ -140,6 +220,8 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Anxious Guard** \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s. 15s CD
     -   In the [August 11th, 2025](Version_History/2025.md#august-11th-2025) update, Anxious Guard was removed as it didn't have any effect.
+-   **Balancing Act**
+    -   No known information is available on this Talent.
 
 -   **Black Out** \[Common Talent, Shadowcast\] - Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the [August 15th, 2023](Version_History/2023.md#august-15th-2023) update, Black Out was merged into Sightless Still.
@@ -212,6 +294,10 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Encouraging Presence** \[Common Talent, Willpower\] - Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the [January 3rd, 2023](Version_History/2023.md#january-3rd-2023) update, Encouraging Presence was merged into Conquer Your Fears.
+
+-   **Entropy Link** \[Advanced Talent\] - This world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame. Traversing this web has reduced your maximum health by 30%.
+    -   The mechanics of this Talent were merged into the [Linkstrider](Oath%253A_Linkstrider.md) Oath due to being seen as too powerful by testers.[\[4\]](#cite-note-iceberg2-4)
+    -   There is no known date for when this Talent was removed.
 
 -   **Ether Bullets** \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   In the [October 24th, 2022](Version_History/2022-2021.md#october-24th-2022) update, Guns cost no Ether to fire, making this Talent effectively useless.
@@ -383,6 +469,8 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Raging Static** \[Common Talent, Thundercall\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased up to 20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
     -   In the [December 13th, 2025](Version_History/2025.md#december-13th-2025) update, Raging Static was removed and replaced with Amplified Rage.
+-   **Read Between the Lines**
+    -   No known information is available on this Talent.
 
 -   **Return To The Dark Ages** \[Rare Talent\] - Your mantra damage is cut by 15%, but your incoming mantra damage is cut by 15% too. (+5 Health)
     -   In the [August 19th, 2025](Version_History/2025.md#august-19th-2025) update, Return to the Dark Ages was removed from the game.
@@ -417,6 +505,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Skull Crusher** \[Rare Talent, Galebreathe\] - Pressing F during Champion's Whirlthrow will throw your opponent straight down.
     -   In the [January 26th, 2024](Version_History/2024.md#january-26th-2024) update, Skull Crusher was made base behavior for Champion's Whirlthrow.
+
+-   **Static Spear** \[Common Talent, Agility, Thundercall\] - \[Spear Only\] Hitting blocks or blocking hits will now generate an electric charge in your spear, granting a small speed buff. Charges can stack up to 10 times. (+1 Talent Point)
+    -   There is no known date for when this Talent was removed.
 
 -   **Steel Filter** \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them. (+3 Health)
     -   In the [October 24th, 2022](Version_History/2022-2021.md#october-24th-2022) update, Steel Filter was merged into Impairing Blow.
@@ -570,224 +661,36 @@ Charisma
 -   **Another Man's Trash** - Take equipment when mugging a player.
     -   Prerequisite: Pickpocket, Master Pickpocket, 35 Charisma
 
-## Other
+## Miscellaneous
 
--   **[Meteor Isle](Meteor_Isle.md) Meteor Event -** An event that would send a large blue meteor similar to the ones of the [Stone Knight](Stone_Knight.md) event crashing down onto the isle. It would spawn a few [Mudskipper Knights](Mudskipper_Knight.md) and link the player to the meteor with a blue chain. This event was shelved due to it being poorly optimized and an overall nuisance.
--   **Lockers -** These were pseudo [campfires](Campfire_Pit.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
--   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
+-   **Mission Board** - Functioned very similarly to the current [Job Boards](Job_Boards.md) and [Bounty Hunting](Bounty_Hunting.md) system. It allowed players to walk up to it and select a quest.[\[2\]](#cite-note-iceberg-2)
+-   **Set Spawns** - During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[9\]](#cite-note-9)
+-   **Depths Shrines** - Originally, Depths Shrines were scattered throughout the map and served as the only known means of accessing the [First Layer](First_Layer.md). These included the [Shrine of Winter](Shrine_of_Winter.md), located behind [The Floating Keep](The_Floating_Keep.md) and in the [The Seranece Mountains](The_Seranece_Mountains.md), the Shrine of Spring, found in a cave beneath [The Summer Company](The_Summer_Company.md)'s castle on [Ironfist Island](Ironfist_Island.md), and the Shrine of Summer, located inside a cave near the same castle.
+-   **Original Loot Sacks** - Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 pieces of cloth and would let the player carry chests by stuffing them inside. This was used in conjunction with the Locked Chest system.
+-   **Locked Chests** - Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, an NPC named Buzz at the Diver Camp and [Mark Adaset](Mark_Adaset.md) used to mention this mechanic in their dialogue post-release.
+    -   This was later repurposed for Vow of Iron, with the [Chest Master](Chest_Master.md) NPCs.
+-   **Universal Uniques** - Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
+-   **Lightning Strike Event** - An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.[\[4\]](#cite-note-iceberg2-4)
+-   **[Meteor Isle](Meteor_Isle.md) Meteor Event** - An event that would send a large blue meteor similar to the ones of the [Stone Knight](Stone_Knight.md) event crashing down onto the isle. It would spawn a few [Mudskipper Knights](Mudskipper_Knight.md) and link the player to the meteor with a blue chain. This event was shelved due to it being poorly optimized and an overall nuisance.[\[10\]](#cite-note-10)
+-   **[Lockers](Locker.md)** - Removed on the [February 16, 2026](Version_History/2026.md#february-16-2026) update, these were pseudo [Campfires](Campfire_Pit.md) allowed players to access their [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in the [First Layer](First_Layer.md), and were removed due to their use no longer being needed.
+-   **[Ancient Rotlands](Ancient_Rotlands.md) Brains** -
     
     One of the brains found in the Ancient Rotlands
     
-    -   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within the radius of their pulse, which was activated by looking directly at it. Running out of sanity while near one would cause the player's head to explode. Their removal was never mentioned in update logs, causing players to believe it was a bug, as the long chains suspending the brains persisted and only the brain was missing. It was later confirmed that they were intentionally removed due to their nonsensical placement and function lorewise[\[3\]](#cite-note-3).
--   **[The Captain](<Cap'n_Orlandeau.md>) -**
-    
-    The Captain
-    
-    -   This version of [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) could be found in the [Fragments of Self](Fragments_of_Self.md) for [Castaway](Castaway.md) players, allowing them to enter the [Tutorial](Tutorial.md) on their next life. This NPC was removed on the [April 2nd, 2026](Version_History/2026.md#april-2nd-2026) update, when they moved the Tutorial access to the Main Menu instead.
-    -   Additionally, because the Tutorial could only be accessed on temporary characters, Tutorial-specific dialogue with [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in the [Second Layer](Second_Layer.md) and [Kelsius](Kelsius.md) was also made unobtainable for characters made after this update.
--   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
--   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, an NPC named Buzz at the Diver Camp and [Mark Adaset](Mark_Adaset.md) used to mention this mechanic in their dialogue post-release.
-    -   This was later repurposed for Vow of Iron, with the [Chest Master](Chest_Master.md) NPCs.
--   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis and Central Authority were later added as well. Known inaccessible Lore guilds include The Hive.
--   **Original Guild Housing -** A cut feature that allowed guilds to have bases on set plots on islands.
-    -   Added in the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
--   **Officer's Note -** An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
--   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 pieces of cloth and would let the player carry chests by stuffing them inside. This was used in conjunction with the Locked Chest system.
--   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
--   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[4\]](#cite-note-4)
--   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under [The Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [The Summer Company](The_Summer_Company.md)'s castle).
--   **Shrine of Dominion/Domination -** Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
-    -   [Psia](Psia.md) was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
--   **[Blade Instructor](Blade_Instructor.md)\-** In the [Isle of Vigils](Isle_of_Vigils.md), players were able to spar with an instructor at the cost of 20. You could also spar with another player by talking to the instructor.
--   **[Corvis](Corvis.md)\-** An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentions Stormcall. He was described as 'old lore' that was meant to be removed.
--   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
--   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the [September 15th, 2025](Version_History/2025.md#september-15th-2025) update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
--   **[Sea Highways](Sea_Highway.md) -** Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
--   **[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
--   **[Repair Hammer](Repair_Hammer.md) -** Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
--   **[Destroyman Chain](Destroyman_Chain.md) -** Removed on the [April 20th, 2026](Version_History/2026.md#april-20th-2026) update, Destroyman Chain's was completely removed from the game due to one of original owners duping it and redistributing and trading the item away, whether this item will eventually return or not is currently unknown.
-
-## Mystic
-
-The Mystic was an NPC who allowed players to guarantee a Talent category when rolling Talents or Mantras. Originally, the Mystic required players to answer riddles to determine which Talent category they wanted. In the [July 14th, 2025](Version_History/2025.md#july-14th-2025) update, this system was removed and replaced with directly selecting the Talent category by name, reducing reliance on third-party websites.
-
-Finally, in the [February 16th, 2026](Version_History/2026.md#february-16th-2026) update, the Mystic was fully removed from the game, due to them essentially being made irrelevant by changes made to the Journal that integrated their effects. Driven back to the shadows, they now must seek legitimate employment.[\[5\]](#cite-note-5)
-
-### Mystic Quotes
-
--   Note: Talent category names in red are cut content themselves.
-
-**General**
-
--   Many categories simply did not have a Mystic line. These are not listed here.
--   _I seek the qualities of \[Category Name\]._
-    -   Given to the following categories: Adaptive Arsenal, All-Knowing, Annihilator, Berserker, Elementalist, Flamecharm Master, Frostdraw Master, Galebreathe Master, Great Wall, Human Architecture, Ironsing Master, Iron Will, Leader, Mr Charm, Natural Armor, Needle, Nimble Blade, Outlaw, Politician, Rampaging Brute, Scrapsinger, Shadowcast Master, Specter, Swiftshade, Tamed Flame, Thundercall Master, Toxic Personality, Twisted Puppets, Tyrant, and Vocalist.
-
-[Strength](Attributes.md#str)
-
--   _I see what I desire to._ **(One-Eyed King)**
--   _I stand far above others, an insurmountable challenge._ **(Colossus)**
--   _My attack is unstoppable._ **(Raging Bull)**
-
-[Fortitude](Attributes.md#ftd)
-
--   _I am an everlasting bastion._ **(Bastion)**
--   _My shield is my ally._ **(Shieldmaster)**
-
-[Agility](Attributes.md#agl)
-
--   _I am a competent duelist._ **(Duelist)**
--   _I am ruthless. A knife for hire._ **(Cutthroat)**
--   _I fight for Maestro Evengaede Rest._ **(Vigil Swordsman)**
--   _I move like water._ **(Windwalker)**
--   _I often like to play pranks on others._ **(Trickster)**
--   _I once performed in a Circus_ **(Acrobat)**
--   _I prefer to attack unseen._ **(Assassin)**
--   _I skulk in alleyways, looking for my next prize._ **(Alley Cat)**
--   _Light on my feet, I sting like a bee._ **(Butterfly)**
-
-[Intelligence](Attributes.md#int)
-
--   _I am all knowing._ **(Omniscient)**
--   _I am an artist._ **(Artisan)**
--   _I am an expert on ether._ **(Ether Adept)**
--   _I enjoy mixing potions._ **(Alchemist)**
--   _I fight from afar._ **(Adept Caster)**
--   _I think before I fight._ **(Tactician)**
-
-[Willpower](Attributes.md#wll)
-
--   _I am a slayer of beasts._ **(Beast Slayer)**
--   _I dominate the minds of others._ **(Mindbreaker)**
--   _I go beyond my limits._ **(Limitbreaker)**
--   _I have never lost._ **(Champion)**
--   _I will save my people._ **(Liberator)**
--   _My mind is indomitable._ **(Mental Fortress)**
--   _My will stands strong._ **(Sturdy Resolve)**
-
-[Charisma](Attributes.md#cha)
-
--   _I am for the people._ **(Public Figure)**
--   _I can talk myself out of any situation._ **(The Negotiator)**
--   _I create my own vows._ **(Vow of Mastery)**
--   _I feel the pain of those around me._ **(Empathy)**
--   _I get my way._ **(Silvertongue)**
--   _I steal from others._ **(Thief)**
--   _I use the song to charm others._ **(Charm Caster)**
-
-Weaponry
-
--   _I always shoot first._ **(Gunslinger)**
--   _I am a master of all weapons._ **(Weapon Master)**
--   _I am a master of creating openings._ **(Critical Specialist)**
--   _I am a master of the spear._ **(Lancer)**
--   _I am a master with my hands._ **(Bruiser)**
--   _I fight to preserve my way._ **(Justicar)**
--   _I do not need a weapon._ **(Brawler)**
--   _With the blade, I am chosen._ **(Saint of Blades)**
-
-Miscellaneous
-
--   _I am athletic._ **(Athlete)**
--   _I am nature's master._ **(Master Survivalist)**
--   _I enjoy a good meal._ **(Tavernkeep)**
--   _I often attack others._ **(Marauder)**
--   _I sabatoge others._ **(Saboteur)**
--   _I search for the Song._ **(Seeker of Sound)**
--   _I rely on my instincts_ **(Innate)**
--   _I want to WIN._ **(Metamancer)**
--   _I will not fall to the elements._ **(Survival Instinct)**
--   _I wish to escape._ **(Escape Artist)**
--   _My hunt is inescapable._ **(Apex Predator)**
--   _My soul is an instrument with its own frequency._ **(Murmur)**
--   _Uh..._ **(Miscellaneous)**
--   _Water is my home._ **(Waterborne)**
-
-[Attunements](Attunements.md)
-
-Any
-
--   _I seek to command the elements as my servants._ **(Sage of Wisps)**
-
-[Flamecharm](Flamecharm.md)
-
--   _All must burn._ **(Inferno)**
--   _I am a master of the flame._ **(Pyromanxer)**
--   _I believe in the men who followed Pleeksty before._ **(Falling Star Guard)**
--   _I burn so that I may succeed._ **(Immolator)**
--   _I dance with the flames._ **(Flame Dancer)**
--   _I seek the path of the Serpent._ **(Lava Serpent)**
--   _I seek out Amorus Pleeksty._ **(Amoran Seeker)**
--   _I speak to the flames._ **(Flamecharmer)**
--   _My blade burns through my foes._ **(The Emperor's Blade)**
--   _My unholy blade works for no man._ **(The Demon Blade)**
--   _None will escape my flames._ **(Flame Warden)**
-
-[Frostdraw](Frostdraw.md)
-
--   _I command the cold._ **(Cryomancer)**
--   _I seek the elegance of a glassdancer._ **(Glassdander)**
--   _I speak to the frost._ **(Frostdrawer)**
--   _I would see this would freeze._ **(Ice Age)**
--   _My ice protects like a flower growing thorns._ **(Frostthorn)**
--   _Those that step on my ice know they have made a grave error._ **(Cryoni)**
-
-[Thundercall](Thundercall.md)
-
--   _I am a self-starter._ **(Self-Shocker)**
--   _I electrocute my foes from afar._ **(Thunder Caster)**
--   _I seek to embrace the instability of lightning as a source of power._ **(Unstable Capacitor)**
--   _I speak to lightning._ **(Thundercaller)**
--   _I weave webs of lightning._ **(Static Weaver)**
--   _I work for the Authority._ **(Authority Interrogator)**
--   _My blade conducts the skies wrath._ **(Thunder Caster)**
--   _My fists are imbued with lightning._ **(Thunder Brawler)**
--   _My static is uncontrollable._ **(Rampant Static)**
-
-[Galebreathe](Galebreathe.md)
-
--   _A whisper in the dark._ **(Whisper)**
--   _I am a master of the winds._ **(Aeromancer)**
--   _I fight for the Legion._ **(Legion Shock Trooper)**
--   _I speak to the winds._ **(Galebreather)**
--   _I use the winds to enforce my will._ **(Galeforce)**
--   _I walk the skies._ **(Cloudwalker)'**
--   _My wind fights for me._ **(Gale Duelist)**
--   _The song shall be silenced._ **(Silencer)**
-
-[Shadowcast](Shadowcast.md)
-
--   _I am the one who speaks to death._ **(Death Speaker)**
--   _I feed on the souls of my enemies._ **(Darksiphon)**
--   _I speak to the shadows._ **(Shadowcaster)**
-
-[Ironsing](Ironsing.md)
-
--   _I obtained the lost art of Ironsinging._ **(Ironsinger)**
--   _Metal itself is my shield, whichever form it may take._ **(Metallurgist)**
-
-[Bloodrend](Bloodrend.md)
-
--   _I have sewn insidious poison within the enemy's blood._ **(Septicemia)**
--   _I obtained the forbidden knowledge of Bloodrending._ **(Bloodrender)**
--   _I use my blood's plasma to better defend myself._ **(Transitory Vitality)**
--   _I wish to share my blood with the world._ **(Scarlet Donor)**
--   _My cure is most effective._ **(Quack Doctor)**
-
-[Oaths](Oaths.md)
-
--   _I am unbounded._ **([Oathless](Oath%253A_Oathless.md))**
--   _I create bonds between others._ **([Linkstrider](Oath%253A_Linkstrider.md))**
--   _I speak for my masters above._ **([Starkindred](Oath%253A_Starkindred.md))**
--   _I speak to the Owls._ **([Visionshaper](Oath%253A_Visionshaper.md))**
--   _I will protect this world._ **([Blindseer](Oath%253A_Blindseer.md))**
--   _Journey before destination._ **([Jetstriker](Oath%253A_Jetstriker.md))**
--   _The Union is absolute._ **([Arcwarder](Oath%253A_Arcwarder.md))**
+    -   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within the radius of their pulse, which was activated by looking directly at it. Running out of sanity while near one would cause the player's head to explode. Their removal was never mentioned in update logs, causing players to believe it was a bug, as the long chains suspending the brains persisted and only the brain was missing. It was later confirmed that they were intentionally removed due to their nonsensical placement and function lore wise.[\[11\]](#cite-note-11)
+-   **Lore Guilds** - Lore Guilds were based upon ingame [Factions & Groups](Factions_&_Groups.md), and could be joined by speaking to certain NPCs of the faction. Previously, The Knives of Eylis and The Divers had guilds that players could join. The only current associated guild is The Central Authority.
+-   **[Sea Highways](Sea_Highway.md)** - Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas
 
 ## References
 
-1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
-3.  [↑](#cite-ref-3)
-4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
-5.  [↑](#cite-ref-5) [February 16, 2026](Version_History/2026.md#february-16-2026) patchnotes
+1.  ↑ [1.0](#cite-ref-37facts-1-0) [1.1](#cite-ref-37facts-1-1) [1.2](#cite-ref-37facts-1-2) [Deepwoken | 37 Facts About OLD Deepwoken Compared to Now! by Shirafune](https://www.youtube.com/watch?v=tSUtTe5m1pk)
+2.  ↑ [2.0](#cite-ref-iceberg-2-0) [2.1](#cite-ref-iceberg-2-1) [2.2](#cite-ref-iceberg-2-2) [2.3](#cite-ref-iceberg-2-3) [2.4](#cite-ref-iceberg-2-4) [2.5](#cite-ref-iceberg-2-5) [2.6](#cite-ref-iceberg-2-6) [2.7](#cite-ref-iceberg-2-7) [2.8](#cite-ref-iceberg-2-8) [The NEW Deepwoken Iceberg Explained by Agamatsu](https://www.youtube.com/watch?v=lK7gvRcgF6k&t)
+3.  [↑](#cite-ref-3) [Deepwoken Direct - Gameplay, Combat, Game Mechanics, Etc](https://www.youtube.com/watch?v=dGBOkpheY70)
+4.  ↑ [4.0](#cite-ref-iceberg2-4-0) [4.1](#cite-ref-iceberg2-4-1) [4.2](#cite-ref-iceberg2-4-2) [4.3](#cite-ref-iceberg2-4-3) [4.4](#cite-ref-iceberg2-4-4) [4.5](#cite-ref-iceberg2-4-5) [The Largest Deepwoken Iceberg Explained by Agamatsu](https://www.youtube.com/watch?v=3_wXY8EhRho)
+5.  [↑](#cite-ref-5)
+6.  [↑](#cite-ref-6)
+7.  [↑](#cite-ref-7) [February 16, 2026](Version_History/2026.md#february-16-2026) patchnotes
+8.  [↑](#cite-ref-8)
+9.  [↑](#cite-ref-9) [Old Deepwoken was CRAZY... by Infernasu](https://www.youtube.com/watch?v=Uea9j2-gfg8)
+10.  [↑](#cite-ref-10)
+11.  [↑](#cite-ref-11)

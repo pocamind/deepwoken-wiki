@@ -1,6 +1,6 @@
 ---
 title: Duke Erisia Plushie
-revid: 211865
+revid: 231801
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia_Plushie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -9,6 +9,9 @@ notices:
 ---
 
 # Duke Erisia Plushie
+
+| Duke Erisia Plushie | |
+|---|---|
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Sharko Vinyl Figure
-revid: 211864
+revid: 231805
 source: https://deepwoken.fandom.com/wiki/Sharko_Vinyl_Figure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -9,6 +9,9 @@ notices:
 ---
 
 # Sharko Vinyl Figure
+
+| Sharko Vinyl Figure | |
+|---|---|
 
 ## Description
 
