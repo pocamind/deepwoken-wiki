@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 221804
+revid: 231811
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -42,7 +42,7 @@ The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can b
 
 ## Critical
 
-The user performs a Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. The critical is compatible with Shadowcast talents that **do not** specify Mantras, like [Sightless Still](Talents.md#sightless-still) and [Twisted Puppet's](Talents.md#twisted-puppets) Shadowcast burn for example.
+The user performs a Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. Deals Slash + Shadowcast damage. The critical is compatible with Shadowcast Talents that **do not** specify Mantras, like [Sightless Still](Talents.md#sightless-still) and [Twisted Puppets](Talents.md#twisted-puppets)' Shadowcast burn for example.
 
 The critical deals **1.25x scaled damage**, and deals Slash and Shadow damage. It has a **windup of 0.6s** and **0.3s of endlag**.
 

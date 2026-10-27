@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 231725
+revid: 231808
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -14173,7 +14173,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Light Weapons** are locked to the One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between the [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Imperium Kata](Imperium_Kata.md), and [Fang and Coil](Fang_and_Coil.md) fighting styles.
 -   All **Medium Weapons** except for Bows, Rifles, [Imperial Staff](Imperial_Staff.md), [Purple Cloud](Purple_Cloud.md), and [Wyrmtooth](Wyrmtooth.md) can freely switch between One-Handed and Two-Handed stances.
--   All **Heavy Weapons** are locked to the two-handed stance unless you have 40 or higher Heavy Weapon investment, only then will you be able to stance swap freely. Exceptions to this are the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), which are locked into the One-Handed stance.
+-   All **Heavy Weapons** are locked to the two-handed stance unless you have 40 or higher Heavy Weapon investment, only then will you be able to stance swap freely. Exceptions to this are the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), which are locked into the One-Handed stance, and the [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Hellcoil, which is locked into the Two-Handed stance.
 
 ### One-Handed (1H)
 

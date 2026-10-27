@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 228439
+revid: 231809
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -45,7 +45,7 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 
 -   _In-game description_: You progress much faster from completing bounties, and less from events. Gain access to the [Voidheart](Voidheart.md), and factions have a negative outlook on you.
 -   You get increased EXP gain from bounties and decreased EXP gain from everything else.
--   Your starting [reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md), [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md) will be set to "Enemies", which allows other Voidwalkers to take your bounties until you gain neutral reputation with [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md).
+-   Your starting [reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md), [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md) will be set to "Enemies", which allows other Voidwalkers to take your bounties until you gain neutral reputation with [The Hive](The_Hive.md).
 
 ### Voideye
 
