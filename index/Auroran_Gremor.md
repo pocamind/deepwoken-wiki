@@ -1,6 +1,6 @@
 ---
 title: Auroran Gremor
-revid: 231839
+revid: 231910
 source: https://deepwoken.fandom.com/wiki/Auroran_Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive Outfits, Exclusive, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -27,6 +27,20 @@ notices:
 | shirt | Shirt • Pants |
 
 **Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
+
+### _Requirements_
+
+This Outfit costs 1,000 to craft.
+
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
+
+### _Armor Stats_
+
+This Outfit has 2600 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +20% Lightning resistance [ResistanceThundercall](Thundercall.md), +100% Ether Regen [IconEther](Ether.md), and +16 Sanity [IconSanity](Insanity.md).
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 44% Thundercall [ResistanceThundercall](Thundercall.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
 
 ## Trivia
 

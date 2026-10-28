@@ -937,7 +937,7 @@
   },
   "2683": {
     "title": "Black Diver",
-    "lastrevid": 229149
+    "lastrevid": 231909
   },
   "2684": {
     "title": "Ferryman's Coat",
@@ -1069,7 +1069,7 @@
   },
   "2869": {
     "title": "Cut Content",
-    "lastrevid": 231784
+    "lastrevid": 231923
   },
   "2877": {
     "title": "Evengarde Rest",
@@ -1197,7 +1197,7 @@
   },
   "3235": {
     "title": "Petra's Anchor",
-    "lastrevid": 231245
+    "lastrevid": 231915
   },
   "3238": {
     "title": "Flamekeeper Cestus",
@@ -2657,7 +2657,7 @@
   },
   "6437": {
     "title": "Auroran Gremor",
-    "lastrevid": 231839
+    "lastrevid": 231910
   },
   "6440": {
     "title": "Hive Leader's Garment",
@@ -3397,7 +3397,7 @@
   },
   "8840": {
     "title": "Smith's Alloy",
-    "lastrevid": 230907
+    "lastrevid": 231928
   },
   "8872": {
     "title": "Eres",
@@ -5405,7 +5405,7 @@
   },
   "16213": {
     "title": "Glossary",
-    "lastrevid": 231906
+    "lastrevid": 231925
   },
   "16223": {
     "title": "Inquisitor's Duster/Gallery",
@@ -7649,7 +7649,7 @@
   },
   "21406": {
     "title": "General Titus Juventius",
-    "lastrevid": 228544
+    "lastrevid": 231908
   },
   "21407": {
     "title": "Bounty Hunter's Garb",
@@ -9890,5 +9890,17 @@
   "26883": {
     "title": "Tillian Plush",
     "lastrevid": 231797
+  },
+  "26890": {
+    "title": "Bephalos",
+    "lastrevid": 231913
+  },
+  "26891": {
+    "title": "The Mad Steward",
+    "lastrevid": 231922
+  },
+  "26893": {
+    "title": "Citadel Enclave",
+    "lastrevid": 231918
   }
 }

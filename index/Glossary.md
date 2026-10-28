@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 231906
+revid: 231925
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -49,7 +49,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), 
 
 -   Celestials modify their own bodies using the [Song](#the-song).
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if the player is a [Starkindred](Oath%253A_Starkindred.md)
 
 -   [Kaide](#kaide-the-drowned-light) described them as the 'sole architects of \[his people's\] suffering', and seemed to scoff at the notion of them being Gods.
 

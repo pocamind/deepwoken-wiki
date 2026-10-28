@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 228544
+revid: 231908
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies, Humanoid Bosses]
@@ -50,7 +50,7 @@ A young, Silverback [Khan](Khan.md) with great stature, he's around twice the he
  | Titus firmly swings his fists at his opponent with hyperarmor.
 
 -   These moves are typically slow and can often lead to the player missing a parry.
--   Because he has the effect of Commander's Rage, this attack becomes Unparryable, being telegraphed.
+-   When amplified by Commander's Rage, this attack becomes Unparryable, being telegraphed.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

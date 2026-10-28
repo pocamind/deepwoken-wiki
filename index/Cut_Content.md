@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 231784
+revid: 231923
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -14,6 +14,7 @@ This page is about content that has either been removed or changed drastically i
 
 ### Combat
 
+-   **[Reservoir](Reservoir.md)** - Reservoir was a mechanic that controlled the speed at which Ether regenerates. When the bar reaches 0 you regen your Ether significantly slower, and your reservoir depletes when Ether is being regenerated. The bar will also not regenerate unless Ether is full. The only exception to this rule was sitting next to a campfire which would regen both your Ether and Reservoir. This was removed in the[December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update in place for [Tempo](Combat_Mechanics.md#tempo).
 -   **Original Venting** - Originally, Venting put yourself into an Invincible state, where getting hit by a Mantra would not only nullify the Mantra's damage and/or effects, but also give the user a lot of Ether.[\[1\]](#cite-note-37facts-1) The current iteration of Venting simply pushes people away, and can be used while in hitstun.
     -   This original version of Venting is still used by [Nautilodaunt](Nautilodaunt.md).
 -   **"F + Click for parry"** - Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.[\[1\]](#cite-note-37facts-1)
@@ -75,7 +76,7 @@ This page is about content that has either been removed or changed drastically i
     [\[4\]](#cite-note-iceberg2-4)
 -   **[The Hidden Grove](The_Hidden_Grove.md)** - A cave tucked away on an island outside the reaches of [Summer Isle](Summer_Isle.md). It grew all variants of the [Primordial Lotuses](Primordial_Lotuses.md) depending on the season.
 -   **[Dusklit Garden](Dusklit_Garden.md)** - A secluded off section of the [Voidheart](Voidheart.md), it was a small floating island that the [Blacksmith](Blacksmith.md) was located at.
--   **Citadel Enclave** - One of the maps where [Conquest](Conquest.md) would have taken place in.
+-   **[Citadel Enclave](Citadel_Enclave.md)** - One of the maps where [Conquest](Conquest.md) would have taken place in.
 -   **Etris: Siege** - The location marker itself was removed and the raid event tied to it was reworked into a disaster named the [Cinders of Etris](Cinders_of_Etris.md).
 -   **[Pathfinder's Respite](<Pathfinder's_Respite.md>)** - A small den found above a section of [The Viper's Jaw](<The_Viper's_Jaw.md>). The location marker was reintroduced with the [Erisia family](Erisia_family.md) statues, but was later removed for unknown reasons.
 
@@ -96,19 +97,46 @@ This page is about content that has either been removed or changed drastically i
 
 ## Items
 
+### Equipment
+
+-   **[Destroyman Chain](Destroyman_Chain.md)** - Removed on the [April 20th, 2026](Version_History/2026.md#april-20th-2026) update, Destroyman Chain's was completely removed from the game due to one of original owners duping it and redistributing and trading the item away.
+-   **[Ring of a Forgotten King](Ring_of_a_Forgotten_King.md)** - Removed a day after being discovered, this ring had no known uses and was swiftly withered away from all of its owners inventory's transforming into [A ring lost to time](A_ring_lost_to_time.md).
+-   **[A ring lost to time](A_ring_lost_to_time.md)** - The withered version of [Ring of a Forgotten King](Ring_of_a_Forgotten_King.md).
+
+### Weapons
+
+-   **[Moonseye Scalpel](Moonseye_Scalpel.md)** - The Moonseye Scalpel was an accidental leak of the [spec](Developer_Specs.md) version of the weapon. It had no differences to the [Rifle Spear](Rifle_Spear.md) besides it's name and description.
+-   **[DeepcrusherSword](DeepcrusherSword.md)** - The DeepcrusherSword, despite its name, was a greathammer that likely was an early version of the [Ignition Deepcrusher](Ignition_Deepcrusher.md). It was removed shortly after [Ironsing](Ironsing.md)'s release.
+-   **[False Memory](False_Memory.md)** - This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the [Feburary 16th, 2026](Version_History/2026.md#feburary-16th-2026) update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
+-   **[Gale Pale](Gale_Pale.md)** - The Gale Pale was a greathammer that resembled the [Pale Morning](Pale_Morning.md). It was removed in favor of the [Withered Gale Pale](Withered_Gale_Pale.md).
+-   **[The Death Knell](The_Death_Knell.md)** - The Death Knell was a fist weapon that resembles the [Light's Final Toll](<Light's_Final_Toll.md>). It was removed in favor of the [Withered Death Knell](Withered_Death_Knell.md).
+-   **[Phantomcleave](Phantomcleave.md)** - The Phantomcleave was a sword that resembles the [Katana](Katana.md). It was removed in favor of the [Withered Phantomcleave](Withered_Phantomcleave.md).
+
+### Tools
+
 -   **[Officers Note](Officers_Note.md)** - An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
+-   **[Perennial Sundown](Perennial_Sundown.md)** - Removed during the 2025 [Hallowtide](Hallowtide.md), this Relic allowed the player to instantly gain one free training point to invest.
+-   **[Seafarer's Chime](<Seafarer's_Chime.md>)** - Removed on the [April 5th, 2026](Version_History/2026.md#april-5th-2026) update, the Seafarer's Chime was a tool that players used to spawn their boats into bodies of water. This feature was removed due to the mechanic simply being moved to a keybind.
+-   **[Dwelling Charm](Dwelling_Charm.md)** - Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Dwelling Charms allowed guild members below the officer rank to place a Guild Base. They were removed due to reworks in the guild system allowing all players to use the [Chime of Dwelling](Chime_of_Dwelling.md).
+-   **[Repair Hammer](Repair_Hammer.md)** - Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
+-   **[Memory Shard](Memory_Shard.md)** - Removed shortly after [Vow of Iron](Vow_of_Iron.md) released, Memory Shards granted the player a 'second life' with additional buffs during a boss fight.
+-   **[Deepshore Fossil](Deepshore_Fossil.md)** - Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
+-   **[Primordial Lotuses](Primordial_Lotuses.md)** - Removed on the [July 10th, 2026](Version_History/2026.md#july-10th-2026) update by community vote, these were crafted into flasks that allowed players to increase any Attribute point.
+-   **[Attribute Flasks](Attribute_Flasks.md)** - Removed on the [July 10th, 2026](Version_History/2026.md#july-10th-2026) update by community vote, these allowed the player to instantly gain an Attribute point by simply drinking the flask.
+
+### Enchants
+
 -   **[Auto-Repair](Auto-Repair.md) Enchant** - Meant to be removed before official release, the effects are unknown but the name implies it could've passively restored Armor durability over time.
 -   **[Curse of Zariffs Absorption](Curse_of_Zariffs_Absorption.md) Enchant** - This enchant would allow its wielder to steal their opponents enchant while also removing theirs.
--   **[False Memory](False_Memory.md)** - This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the [Feburary 16th, 2026](Version_History/2026.md#feburary-16th-2026) update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
--   **[Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md) Book** - This book was removed due to having lore contradictions, plot holes, and being seemingly out of place. It depicted the assassination of the death of [Rolen Vashtir](Rolen_Vashtir.md).
 -   **[JOE's](<JOE's.md>) Enchant** - An enchant that allowed its wielder to briefly stop time after using their critical.
+
+### Books
+
+-   **[Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md) Book** - This book was removed due to having lore contradictions, plot holes, and being seemingly out of place. It depicted the assassination of the death of [Rolen Vashtir](Rolen_Vashtir.md).
 -   **[My Warm Blood](My_Warm_Blood.md) Book** - A book that spoke of a disillusioned soldier that believed their only purpose was to kill. Seeking immortality through the flames, they attempt to burn themselves but were extinguished by another person. Prompting them to question themselves and their actions.
 -   **[Lament of Cirryn](Lament_of_Cirryn.md) Book** - [Ehkusa](Ehkusa.md) and a group of scholars attempt to ressurrect a hero named [Cirryn](Cirryn.md). Despite concerns about the mortality of the mission, they continue through using memorial flowers to reanimate the hero's body. However, the ritual goes wrong, and the body of the hero is transformed into a mindless monster that slaughters the Hivekin. [Remaz](Remaz.md) is left with no choice but to lure what was Cirryn into a chamber for Ehkusa to seal both of them inside. Ehkusa, left behind after losing all their companions is forced to live with the guilt, tragedy of the failed experiment, and Remaz's final apology.
 -   **[God in the Machine](God_in_the_Machine.md) Book** - [Ryrda](Ryrda.md), seeking to obtain Nightblood and master Shadowcast, convinces [Eran](Eran.md) to undergo a dangerous procedure that ultimately kills her. After gaining Nightblood, Ryrda is confronted by [Fran](Fran.md), who is devastated by Eran’s death. Their confrontation escalates into a chase through the forest, which Fran sets ablaze with her Flamecharm. Ryrda becomes trapped beneath a burning tree, and Fran leaves him to die before departing the following morning.
--   **[Repair Hammer](Repair_Hammer.md)** - Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
 -   **[Diver Journal, I](Diver_Journal,_I.md)/[Diver Journal, II](Diver_Journal,_II.md)/[Diver Journal, III](Diver_Journal,_III.md) Books** - All three Diver Journals explore the perspectives and last moments of various Divers in desperation, betrayal, and the psychological toll of survival and isolation. Each of the journals depict the respective Divers pushing toward despair as their hope of survival gradually fades in the [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md), and the fear of only being remembered as a mere statistic.
--   **[Destroyman Chain](Destroyman_Chain.md)** - Removed on the [April 20th, 2026](Version_History/2026.md#april-20th-2026) update, Destroyman Chain's was completely removed from the game due to one of original owners duping it and redistributing and trading the item away.
--   **[Deepshore Fossil](Deepshore_Fossil.md)** - Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
 
 ## Mantras
 
@@ -127,6 +155,8 @@ This page is about content that has either been removed or changed drastically i
 -   **Original Lightning Beam** (0 Star Thunder) - Launched an extremely long orange beam of lightning towards where the player was facing. Reworked into being an aimable short burst rather than a longer lasting long range beam.
 
 ## NPCs
+
+### Gameplay
 
 -   **[Psia](Psia.md)** - The old Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
 -   **[Corvis](Corvis.md)** - An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentioned Stormcall. They were described as 'old lore' that was meant to be removed.[\[5\]](#cite-note-5)
@@ -154,6 +184,7 @@ This page is about content that has either been removed or changed drastically i
     -   Additionally, because the Tutorial could only be accessed on temporary characters, Tutorial-specific dialogue with [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in the [Second Layer](Second_Layer.md) and [Kelsius](Kelsius.md) was also made unobtainable for characters made after this update.
 -   **[??? (FalseMan)](<%253F%253F%253F_(FalseMan).md>)** - Removed in a shadow update, this NPC only served as a shock factor in [New Kyrsa](Second_Layer/New_Kyrsa.md) when players interacted with it.
 -   **[F'leche](<F'leche.md>)** - Removed in a shadow update, this NPC provided removed lore on the effects of the mist of the Kyrsan city.
+-   **[C'lantaa](<C'lantaa.md>)** - Removed in a shadow update, this NPC provided removed lore on the effects of the mist of the Kyrsan city.
 -   **[Emel](Emel.md)/[Imel](Imel.md)/[Rimil](Rimil.md)** - All removed on the [August 12th, 2026](Version_History/2026.md#august-12th-2026) update, these NPCs affiliated with [The Ministry](The_Ministry.md) tasked the player with "Party Tricks" to kill any player on the associated island.
 -   **[Kressa](Kressa.md)** - An NPC found on the upper levels of [Miner's Landing](<Miner's_Landing.md>), she spoke about the trade relations regarding the Ignition Union and other factions.
 -   **[Parsnip](Parsnip.md)** - An NPC found in the town area of [Miner's Landing](<Miner's_Landing.md>), Parsnip briefed on the creation of [Mechalodaunts](Mechalodaunt.md) and the havoc they caused in the [Saramaed Summit](Saramaed_Summit.md).
@@ -163,15 +194,34 @@ This page is about content that has either been removed or changed drastically i
 -   **[Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)** - Removed on the [October 19th, 2026](Version_History/2026.md#october-19th-2026) update, for 1, the Shrine of Conceit would allow the player to unburn a card that was previously destroyed. It would not refund the [Aces](Aces.md) used however.
     -   The mechanics of this shrine were merged with the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) into the [Shrine of Ego](Deep_Shrines/Shrine_of_Ego.md).
 
+### Lore
+
+-   [Bephalos](Bephalos.md)
+-   Rali
+-   Tavi Ytreshi
+-   [Cirryn](Cirryn.md)
+-   [Ehkusa](Ehkusa.md)
+-   [Ka'al](<Ka'al.md>)
+-   [Remaz](Remaz.md)
+-   [Ryrda](Ryrda.md)
+-   [Eran](Eran.md)
+-   [Fran](Fran.md)
+
 ## Enemies
+
+### Monsters
+
+-   **[Deep Angel](Deep_Angel.md)** - Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update due to lore reasons, in which they had no real reason to exist.
+
+### Humanoid
 
 -   **[Authority Enemy](<Authority_Enemy_(Test).md>)** - Old Authority enemies that would appear inside of [Corvus Manor](Corvus_Manor.md). They utilized Flamecharm and wielded [Officer Sabers](Officer_Saber.md).
 -   **Original [Authority Captain](<Authority_Captain_(Test).md>)** - The old Authority Captain that would spawn inside of [Corvus Manor](Corvus_Manor.md) after the surrounding Authority enemies were defeated. However, unlike the Authority enemies, it utilized Thundercall over Flamecharm.
 -   **Konga Bandits** - Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
 -   **Oni** - A black humanoid with white hair and no face that could only be found in the [First Layer](First_Layer.md). It fought with it's fists and was removed before the game's release.[\[2\]](#cite-note-iceberg-2)
 -   **Pyromancers** - Humans dressed in the same outfit as the [Redskippers](Necroskipper.md) but dyed orange, they spoke of the drowned god 'Korilfiend' and resided in the forests of old Etrea.[\[1\]](#cite-note-37facts-1)
+-   **[Knife Guard](Knife_Guard.md)** - The Knife Guard were enemies that protected the Voidheart, similarly to other Townsguard.
 -   **[Blade Instructor](Blade_Instructor.md)** - In the [Isle of Vigils](Isle_of_Vigils.md), players were able to spar with an instructor at the cost of 20. You could also spar with another player by talking to the instructor.
--   **[Deep Angel](Deep_Angel.md)** - Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update due to lore reasons, in which they had no real reason to exist.
 
 ## Quests
 
