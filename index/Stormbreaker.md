@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 230494
+revid: 231901
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -22,15 +22,15 @@ Stormbreaker is a damage dealing [enchantment](Enchantments.md) that applies [Sh
 
 ## Effect
 
-On weapon hit, Stormbreaker adds a secondary damage instance to your attacks, dealing 16.5% of your weapon's damage, before modifiers as [Thundercall](Thundercall.md) damage. This has a 5 second cooldown.
+On weapon hit, Stormbreaker adds a secondary damage instance to your attacks, dealing ?% of your weapon's damage, before modifiers as [Thundercall](Thundercall.md) damage. This has a 5 second cooldown.
 
-If it is raining, then a lightning strike will hit your opponent, dealing 33% of your weapon's damage instead, before modifiers as [Thundercall](Thundercall.md) damage in an AoE. This has a 5 second cooldown.
+If it is raining, then a lightning strike will hit your opponent, dealing ?% of your weapon's damage instead, before modifiers as [Thundercall](Thundercall.md) damage in an AoE. This has a 5 second cooldown.
 
 Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](Status_Effects.md#surge-rod) on proc.
 
 Stormbreaker additionally replaces your critical attack with a cursor-aimed weapon throw that ragdolls and strikes your opponent with lightning on hit. You cannot attack or move until your weapon has returned to you.
 
-Stormbreaker's critical deals 40 flat [Thundercall](Thundercall.md) damage on throw and 30 flat [Thundercall](Thundercall.md) damage on return. This can hit the same target twice. Stormbreaker's critical deals 1 posture damage if blocked.
+Stormbreaker's critical deals ? Typeless damage on throw and ? Typeless damage on return. Both the throw and return can hit the same target twice. Stormbreaker's critical deals 1 posture damage if blocked.
 
 ### Notes
 

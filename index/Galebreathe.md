@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 231652
+revid: 231903
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -976,7 +976,7 @@ These Talents are found in the _Galeforce_ category.
 |  | Breathing Impact  
 (30 Galebreathe) | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. |  |
 |  | Inhale  
-(60 Galebreathe) | Cancelling a wind spell stores its Power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 2)%; meaning a level 1 Inhale will be +2% damage while a level 5 Inhale will be +10%. Inhaling will also grant a Speed Boost and will imbue your melees with wind. |
+(60 Galebreathe) | Cancelling a wind spell stores its Power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 1)%; meaning a level 1 Inhale will be +1% damage while a level 5 Inhale will be +5%. Inhaling will also grant a Speed Boost and will imbue your melees with wind. |
 
 **Legion Shock Trooper:**
 
@@ -989,7 +989,7 @@ These Talents are found in the _Legion Shock Trooper_ category.
 |  | Cyclone Blade  
 (55 Galebreathe, 30 Agility, Air Pressure) | After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +15% damage as bleed and have +10% chip damage. (+2 Passive Agility) | Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals. This lasts 3 seconds with no cooldown and also procs on Phantom Step dashes. |
 |  | Pressure Break  
-(65 Galebreathe, 30 Strength // 30 Agility, Air Pressure) | Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+2 Passive Agility) |  |
+(65 Galebreathe, 30 Strength // 30 Agility, Air Pressure) | Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +15% and flinging the enemy backwards. (+2 Passive Agility) |  |
 |  | Wind Step  
 (40 Galebreathe) | Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. |  |
 
