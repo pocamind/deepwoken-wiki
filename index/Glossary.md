@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 231088
+revid: 231906
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -285,11 +285,11 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 -   A legendary figure from Etrean history. Revered as a heroic king who brought prosperity to Etrea, rejuvenating what was once little more than ruins.
 -   The King is said to have set off on a voyage with a small fleet of ships and never returned. Despite the time that has passed, many still wait for his return.
 
-Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md) | Glossary Entries:
+Dialogue: [Teacher](Teacher.md), [Bookkeeper Andros](Bookkeeper_Andros.md) after talking to [Theadre](Theadre.md) | Glossary Entries:
 
 -   King Rolen Vashtir I reigned through the early 6th century CE.
 
-Book: [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) after talking to [Theadre](Theadre.md)
 
 ### Ku, the Mother
 
