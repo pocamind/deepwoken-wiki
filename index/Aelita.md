@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 229633
+revid: 231960
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -78,6 +78,8 @@ Aelita's event involves forcing the player to perform three tasks for her. Faili
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Trivia
 

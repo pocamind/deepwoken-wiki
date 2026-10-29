@@ -1,6 +1,6 @@
 ---
 title: Greatswords
-revid: 231880
+revid: 231951
 source: https://deepwoken.fandom.com/wiki/Greatswords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Greatswords, Heavy Weapons, Weapon Classes]
@@ -18,7 +18,7 @@ After parrying an attack, your next light attack will gain **[Hyperarmor](Status
 
 ## Weapon Class Talents
 
-_This section is transcluded from [Talents/Categories A-I](Talents/Categories_A-I.md). To change it, please edit the transcluded page._
+_This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page._
 
 -   **Destructive Recovery** \[Collossus • Rare Talent\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture)
     -   Not to be confused with [Devastating Recovery](Talents.md#devastating-recovery), the weapon Talent for the [Zweihander](Zweihander.md).  

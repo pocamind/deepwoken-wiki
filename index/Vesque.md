@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 231895
+revid: 231961
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -21,9 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Vesque is an [Etrean](Etrean.md) NPC.
+Vesque is an [Etrean](Etrean.md) NPC. They teach the [Fang and Coil](Fang_and_Coil.md) fighting style.
 
-They teach the [Fang and Coil](Fang_and_Coil.md) fighting style. They appear to be a [Vigil](The_Vigils_of_Winds.md) belonging to a special division that practices hand-to-hand combat.
+They appear to be a [Vigil](The_Vigils_of_Winds.md) belonging to a special division that practices hand-to-hand combat.
 
 ## Location
 

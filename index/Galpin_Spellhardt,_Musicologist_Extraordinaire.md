@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 225671
+revid: 231965
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
@@ -211,5 +211,7 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 ## Trivia
 
 -   The name 'Galpin' is a reference to the real-life musicologist [Francis William Galpin](https://en.wikipedia.org/wiki/Francis_William_Galpin), who was an avid collector of musical instruments.
+-   Gaplin is currently the only known [Lightborn](Lightborn.md) to possess every halo position. This cannot be replicated by playable [Lightborns](Lightborn.md), which can only select three halo positions and cannot combine them.
+-   Behind him there seems to be a structure, specifically, the [Shrine of Winter](Shrine_of_Winter.md). Which is a deleted location that helped Pathfinders access the Depths from the Overworld.
 -   Shirt - [https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt](https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt)
 -   Pants - [https://www.roblox.com/catalog/16826351147/Frostdraw-Pants](https://www.roblox.com/catalog/16826351147/Frostdraw-Pants)

@@ -1,16 +1,26 @@
 ---
 title: Talents/Vow of Iron
-revid: 227892
+revid: 231998
 source: https://deepwoken.fandom.com/wiki/Talents/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
+categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - This page is currently being worked on. This page is currently undergoing changes. Please be patient.
 ---
 
 # Talents/Vow of Iron
 
+## Navigation
+
+Main Pages
+
 Variants: [Talents](../Talents.md)
+
+Sup-Pages
+
+Variants: [Talents/Categories A-F](Categories_A-F.md) · [Talents/Categories G-K](Categories_G-K.md) · [Talents/Categories L-P](Categories_L-P.md) · [Talents/Categories Q-U](Categories_Q-U.md) · [Talents/Categories V-Z](Categories_V-Z.md)
+
+Variants: [Talents/Oaths](Oaths.md) · [Talents/Equipment](Equipment.md)
 
 **This page refers to the Talents and Talent mechanics present in the [Vow of Iron](../Vow_of_Iron.md) gamemode. See [Talents](../Talents.md) for the [Pathfinder](../Pathfinder.md) version of this page.**
 
@@ -23,28 +33,42 @@ Variants: [Talents](../Talents.md)
 -   FIND A GROUP OF TALENTS: Input a Memento name to find Talents pertaining to that Memento. Talents that can be obtained by any Memento are separated by Talent category instead.
     -   _(i.e "Drifter" to find Talents that are found from the Drifter Memento, or "Innate" to find the Aspect Talents)_
 -   Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Berserker\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
-    -   -   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
-        -   General:
-            -   \[Rarity Talent • Talent Category\] - see [below](#card-terminology).
-            -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
-        -   Specific Terms; given if applicable:
-            -   Categories: \[Anti-Sustain\], \[[Ardour](../Murmur%253A_Ardour.md)\], \[Assassination\], \[Attunement Path\], \[Bleed\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[Dodge\], \[Food\], \[Guardbreak\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[PEN\], \[Posture Damage\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](../Murmur%253A_Rhythm.md)\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](../Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\]
-            -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
-            -   \[Aspect name\], \[Oath name\], \[Memento name\], \[[Vow of Iron](../Vow_of_Iron.md) Exclusive\], \[Origin name\], or \[Weapon category\] if applicable, with hyperlinks.
-        -   (Relatively) Unintuitive Terms:
-            -   \[Combat Tag\]) - Talents that do not work unless the player is in combat and/or Talents that scale on the quantity of [Combat Tags](../Combat_Tag.md) that the player has.
-            -   \[M1 Tag\] - Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag.
-            -   \[[Spec](../Developer_Specs.md)\] - Deepwoken Developer or Moderator exclusive Talents.
-            -   \[Tool\] - Talents that provide a Talent tool. Use the tool to activate the Talent's effects.
-            -   \[Vaulted\] - Talents that have been removed from the Talent pool to await balance changes.
-            -   \[Investment Scaling\] - Talents that scale above their base values when you have more than the required amount of attribute investment.
-            -   \[Scale-down\] - Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements. Mutually exclusive with \[Hard Requirements\].
-            -   \[Hard Requirements\] - Talents that do not function _unless_ you meet their requirements. Mutually exclusive with \[Scale-down\].
-            -   \[Incompatible Gamemode\] - Despite being obtainable in Vow of Iron, TalEnts with this tag do not function in this gamemode for one reason or another.
-        -   Notes:
-            -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
-            -   The \[Attunement Path\] tag is only given to the parent Talent in the path (e.g. [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)).
-        
+
+### Talent Tags
+
+Each Talent has a list of tags listed at the very bottom of a Talent. These tags list the Talent's rarity, the name of the individual attribute(s) required to obtain it, any additional stat the Talent may provide, and any additional categories that have been added by the editors. These tags are bracketed, i.e. "\[Strength\]", to allow for easier searching with \[CTRL + F\] / F3, or mobile's Find in page. See above.
+
+List of tags:
+
+-   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
+-   General:
+    -   \[Talent Category • Rarity Talent\] - see [below](#card-terminology).
+    -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires. Attribute categories (\[Mind\], \[Body\], \[Weapon\], and \[Element\]) all have their own tags.
+    -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
+-   Specific Terms; given if applicable:
+    -   Categories: \[Anti-Sustain\], \[[Ardour](../Murmur%253A_Ardour.md)\], \[Armor Durability\], \[Assassination\], \[Attunement Path\], \[Backhit\], \[Bleed\], \[Burn\], \[Charm\], \[Chip Damage\], \[Critical Attack\], \[Damage Buff\], \[Damage Resistance\], \[Debuff\], \[[Deep Gem](../Deep_Gems.md)\], \[Dodge\], \[Feint\], \[Food\], \[Guardbreak\], \[Mantra\], \[Mobility\], \[Multi-Attunement\], \[Murmur\], \[Overcharm\], \[Parry\], \[PEN\], \[Posture Damage Buff\], \[Posture Resistance\], \[Potion\], \[Range\], \[Resonance\], \[[Rhythm](../Murmur%253A_Rhythm.md)\], \[Running Attack\], \[Sanity\], \[Slow\], \[Speed Boost\], \[Static Link\], \[Sustain\], \[[Tacet](../Murmur%253A_Tacet.md)\], \[Tempo\], \[Temporary Health\], \[True Damage\], \[Uppercut\], \[Weapon Attack\], \[Wither\]
+    -   Weapon Types: \[Dagger\] \[Fist\] \[[Fist Style](../Fists.md#styles)\] \[Pistol\] \[Dual Pistols\] \[Single Pistol\] \[Offhand Pistol\] \[Rapier\] \[Bow\] \[Club\] \[Spear\] \[Staff\] \[Greataxe\] \[Greatcannon\] \[Greathammer\] \[Greatsword\]
+    -   \[Outfit\] and/or \[Equipment\] or \[Weapon\] - for Talents that are exclusively obtained by equipping an item or Outfit.
+    -   \[Aspect name\], \[Oath name\], \[Origin name\], or \[Weapon category\] if applicable, with hyperlinks.
+-   (Relatively) Unintuitive Terms:
+    -   \[Combat Tag\] - Talents that do not work unless the player is in combat and/or Talents that scale on the quantity of [Combat Tags](../Combat_Tag.md) that the player has.
+    -   \[M1 Tag\] - Talents that proc on criticals with the M1 tag on top of proccing on light attacks OR Talents that provide abilities that have the M1 tag.
+    -   \[[Spec](../Developer_Specs.md)\] - Deepwoken Developer or Moderator exclusive Talents.
+    -   \[Tool\] - Talents that provide a Talent tool. Use the tool to activate the Talent's effects.
+    -   \[Knock\] - Talents that proc upon being knocked **[Unconscious](../Status_Effects.md#unconscious)**, knocking other people Unconscious, or can be used as the Unconscious party.
+    -   \[Grip\] - Talents that proc upon executing a target.
+    -   \[Status Resistance\] - Talents that lessen the effectiveness of specific [Status Effects](../Status_Effects.md).
+    -   \[Economy\] - Talents that either provide some effect upon selling an item, or pertain to the obtainment of loot in some fashion.
+    -   \[Ether Proselyte\] - Talents that are eligible for use with the Ether Proselyte Talent, allowing them to be used on any Attuned Mantra while in the respective [Saint Stance](../Oath%253A_Saintsworn.md).
+    -   \[Vaulted\] - Talents that have been removed from the Talent pool to await balance changes.
+    -   \[Investment Scaling\] - Talents that scale above their base values when you have more than the required amount of attribute investment.
+    -   \[Scale-down\] - Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements. Mutually exclusive with \[Hard Requirements\].
+    -   \[Hard Requirements\] - Talents that do not function _unless_ you meet their requirements. Mutually exclusive with \[Scale-down\].
+-   Notes:
+    -   If a prerequisite Talent or Mantra requires an attribute that the listed Talent doesn't, then the attribute tags on the prerequisite will carry-over to the listed one, with these carry-over attribute tags being underlined. The only exception to this are Oath Talents, which will list the Oath's name in the tags instead.  
+        (e.g. [Carnivore](../Talents.md#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](../Talents.md#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list \[Strength\] and \[Willpower\] in its tags.
+    -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
+    -   The \[Attunement Path\] tag is only given to the parent Talent in the path (e.g. [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)).
 
 [See all Talents here](#memento-exclusive-talents).
 
@@ -54,6 +78,8 @@ Talents in the [Vow of Iron](../Vow_of_Iron.md) gamemode function very different
 
 ### Card Terminology
 
+_This section is transcluded from [Talents § Card Terminology](../Talents.md#card-terminology). To change it, please edit the transcluded page._
+
 -   Common
     -   The simplest type of Talent. Common Talents make up the majority of a character's Talents.
 
@@ -61,27 +87,33 @@ Talents in the [Vow of Iron](../Vow_of_Iron.md) gamemode function very different
     -   Rare Talents. You will see far less rares than commons, only two per power increase. These are often "stronger" than common Talents, or have larger effects.
 
 -   Advanced
-    -   The most uncommon type of Talent. These Talents have potent, powerful effects on a character.
+    -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have potent, powerful effects on a character. These Talents are often at the end of a Talent tree, requiring various other Talents as prerequisites.
 
 -   Oath / Memento
     
-    -   Talents obtained through taking an [Oath](../Oaths.md) or exclusive Talents obtained from [Mementos](../Mementos.md).
+    -   Talents obtained through taking an [Oath](../Oaths.md) or exclusive Talents obtained from [Mementos](../Mementos.md). They relate to the Oath taken and don't take up Talent slots.
     
 
 -   Race
-    -   Talents obtained from your [Aspect](../Aspects.md).
+    -   Talents obtained from your [Aspect](../Aspects.md). These Talents do not take up Talent slots.
 
 -   Mantra Level / Mastery
-    -   Talents obtained from meeting certain Attunement investment milestones and [Unbounding Attributes](../Attributes_Unbound.md) respectively. These Talents are granted instantly upon meeting their prerequisites.
+    -   Talents obtained from meeting certain Attunement investment milestones and [Unbounding Attributes](../Attributes_Unbound.md) respectively. These Talents do not take up Talent slots, and are granted instantly upon meeting their prerequisites.
 
 -   Origin / Quest
-    -   Talents obtained from your [Origin](../Origins.md) or through completing Quests.
+    -   Talents obtained from your [Origin](../Origins.md) or through completing Quests. These Talents do not take up Talent slots.
 
 -   Faction
     -   Talents obtained from a specific faction. These Talents may be given as a reward from having high reputation or completing a specific milestone or task for a [faction](../Reputation.md).
 
 -   Mantra
     -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](../Whisper_Draw.md). See [Mantras](../Mantras.md).
+
+-   Mystery
+    -   Grants a random Mantra, Roll 2, or Fold depending on the card type.
+        -   The random Mantra card will state the Mantra type and star value (e.g. "Random Thundercall Combat Mantra" with 2 stars on the card), though the outcome is still random within that range. These cards can only be chosen from [Whisper Draws](../Whisper_Draw.md) and are guaranteed in each one.
+        -   Roll 2 grants 2 random Talents, these Talents cannot be Rare Talents unless they have been [Frozen](../Aces.md). These cards and can only be chosen from [Whisper Draws](../Whisper_Draw.md) and are guaranteed in each one.
+        -   Fold removes your current hand of cards; you'll obtain an additional, rerolled, Talent hand the next time you Power up instead. This should only be taken if you don't want any of the Talents in your current hand. These cards can only be chosen from Talent hands and are somewhat uncommon, only having a chance to show up. Additionally, after picking "Fold" 3 times in the same Power up, though not necessarily in sequence, all remaining talent hands will be skipped and will roll over to your next Power up.
 
 ## Talents
 

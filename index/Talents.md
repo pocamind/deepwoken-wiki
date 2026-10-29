@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 231900
+revid: 232005
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -18,7 +18,9 @@ Variants: [Talents/Vow of Iron](Talents/Vow_of_Iron.md)
 
 Sup-Pages
 
- 
+Variants: [Talents/Categories A-F](Talents/Categories_A-F.md) · [Talents/Categories G-K](Talents/Categories_G-K.md) · [Talents/Categories L-P](Talents/Categories_L-P.md) · [Talents/Categories Q-U](Talents/Categories_Q-U.md) · [Talents/Categories V-Z](Talents/Categories_V-Z.md)
+
+Variants: [Talents/Oaths](Talents/Oaths.md) · [Talents/Equipment](Talents/Equipment.md)
 
 **This page refers to the Talents and Talent mechanics present in the [Pathfinder](Pathfinder.md) gamemode. See [Talents/Vow of Iron](Talents/Vow_of_Iron.md) for the [Vow of Iron](Vow_of_Iron.md) version of this page.**
 
@@ -49,7 +51,7 @@ List of tags:
 
 -   Notice: Underlined text is replaced with the related value. e.g. "Rarity", as listed below, is replaced with the rarity of the Talent.
 -   General:
-    -   \[Rarity Talent • Talent Category\] - see [below](#card-terminology).
+    -   \[Talent Category • Rarity Talent\] - see [below](#card-terminology).
     -   \[Attribute name\] - the name(s) of the attribute(s) the Talent requires. Attribute categories (\[Mind\], \[Body\], \[Weapon\], and \[Element\]) all have their own tags.
     -   \[+Stat\] - the name of any additional stat a Talent provides (e.g. \[+Passive Agility\]).
 -   Specific Terms; given if applicable:
@@ -72,7 +74,7 @@ List of tags:
     -   \[Scale-down\] - Talents that lose effectiveness, or are otherwise downgraded in some fashion, if you do not meet their requirements. Mutually exclusive with \[Hard Requirements\].
     -   \[Hard Requirements\] - Talents that do not function _unless_ you meet their requirements. Mutually exclusive with \[Scale-down\].
 -   Notes:
-    -   If a prerequisite Talent or Mantra requires an attribute that the listed Talent doesn't, then the attribute tags on the prerequisite will carry-over to the listed one, with these carry-over bute tags being underlined. The only exception to this are Oath Talents, which will list the Oath's name in the tags instead.  
+    -   If a prerequisite Talent or Mantra requires an attribute that the listed Talent doesn't, then the attribute tags on the prerequisite will carry-over to the listed one, with these carry-over attribute tags being underlined. The only exception to this are Oath Talents, which will list the Oath's name in the tags instead.  
         (e.g. [Carnivore](#carnivore) requires 5 Strength & 5 Willpower, while [Grand Feast](#grand-feast) only requires Carnivore. Despite this, Grand Feast will still list \[Strength\] and \[Willpower\] in its tags.
     -   If a Talent grants Mantra Slots or PEN, then the tags will list \[+Mantra Slots\] or \[+PEN\] respectively without specifying the type.
     -   The \[Attunement Path\] tag is only given to the parent Talent in the path (e.g. [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)).
@@ -624,6 +626,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Agility\] \[Assassination\] \[Debuff\] \[Slow\]
 
+### Authority Ensign
+
+-   **Horn of Authority** \[Origin Talent\] - Mark escaping prisoners.
+    -   Grants a Talent tool that blows a horn, combat tagging and highlighting escaping prisoners.  
+        
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin // [Two-Faced](Regalia.md#two-faced) Regalia  
+        
+    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Tool\]
+
 ### Authority Interrogator
 
 -   **Authority Intimidation** \[Common Talent\] - Lightning moves slow your opponent more.
@@ -662,15 +673,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: [First Interrogation](#first-interrogation), 65 Thundercall  
         
     -   Tags: \[Thundercall\] \[Damage Resistance\] \[Posture Resistance\] \[Weapon Attack\]
-
-### Authority Ensign
-
--   **Horn of Authority** \[Origin Talent\] - Mark escaping prisoners.
-    -   Grants a Talent tool that blows a horn, combat tagging and highlighting escaping prisoners.  
-        
-    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin // [Two-Faced](Regalia.md#two-faced) Regalia  
-        
-    -   Tags: \[[Authority Ensign](Authority_Ensign.md)\] \[Tool\]
 
 ### Authority Soldier
 

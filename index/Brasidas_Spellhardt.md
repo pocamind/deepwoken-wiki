@@ -1,6 +1,6 @@
 ---
 title: Brasidas Spellhardt
-revid: 225451
+revid: 231959
 source: https://deepwoken.fandom.com/wiki/Brasidas_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
@@ -47,4 +47,4 @@ He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thau
 
 ## Trivia
 
--   Brasidas is a reference to Vergil from the _Devil May Cry_ franchise.
+-   Brasidas is a reference to [Vergil](https://devilmaycry.fandom.com/wiki/Vergil) from the _Devil May Cry_ franchise, both indicated by his hair similarity, a cocky face and the phrase "like an approaching storm"; being a direct reference to "I am the storm that is approaching", a phrase from [Vergil's theme](https://youtu.be/pvy9km7g6fw).

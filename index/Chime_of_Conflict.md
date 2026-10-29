@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 231011
+revid: 231963
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Game Modes]
@@ -29,9 +29,23 @@ The Chime of Conflict is unusable while in [The Depths](The_Depths.md).
 Players using the Chime of Conflict tool will be prompted to select a gamemode:
 
 -   **Chime Solos (1v1)** - The player is instantly taken to the matchmaking queue. 1v1 arena maps are unique from 2v2 and 3v3 maps.
+    -   Arenas
+        -   [Temple Sparring Hall](<Temple_Sparring_Hall_(Chime).md>)
+        -   [The Condemned Archives](The_Condemned_Archives.md)
+        -   [Echoes of Bloodshed](Echoes_of_Bloodshed.md)
+        -   [The Profane Cavern](The_Profane_Cavern.md)
+        -   [New Kyrsan Arterial Rail](New_Kyrsan_Arterial_Rail.md)
 -   **Chime Duos(2v2)** - A small area is created around the user to let 1 other user join their team before being transported to the matchmaking queue.
+    -   Arenas
+        -   [The Unearthed Colosseum](The_Unearthed_Colosseum.md)
+        -   [The Falcon's Hold](<The_Falcon's_Hold.md>)
+        -   [The Glade of Strife](The_Glade_of_Strife.md)
 -   **Chime Trios (3v3)** - A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.
+    -   Arenas
+        -   TBA
 -   **Challenge: Gladiator** - The player uses a slider to select from 3-20 people to enter with. After which, the player must enter the User ID or Username of the player they wish to challenge.
+    -   Arenas
+        -   [Crucible of the Unbroken](Crucible_of_the_Unbroken.md)
 
 Afterwards, players will be waiting in the queue and be put in a match with their opponent. For matchmaking to start in 3v3s or 2v2s, all players need to be ready
 

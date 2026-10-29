@@ -1,6 +1,6 @@
 ---
 title: The Garden Reservoir
-revid: 220060
+revid: 232007
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -22,9 +22,9 @@ Down below the gardens lay a home left to rot.
 
 ## Description
 
-The Garden Reservoir is a location directly underneath the [Burning Stone Gardens](Burning_Stone_Gardens.md). It seems to hold a resemblance and possibly be connected through unreachable tunnels to [The Viper's Jaw](<The_Viper's_Jaw.md>), possibly from underneath the acid. It is a gloomy area covered with pillars of stone, [Irithine](Ores.md) deposits and acid running along everywhere, possibly the main cause of acid in [Burning Stone Gardens](Burning_Stone_Gardens.md). Going into the acid will end up with you taking damage and being put into combat.
+The Garden Reservoir is a location directly underneath the [Burning Stone Gardens](Burning_Stone_Gardens.md). It is a gloomy area covered with pillars of stone, [Irithine](Ores.md#irithine) deposits and acid running along everywhere, possibly the main cause of acid in [Burning Stone Gardens](Burning_Stone_Gardens.md). Going into the acid will end up with you taking damage and being put into combat.
 
-There is a small cave within the Reservoir that contains multiple Soul Hearthgems, which are a necessary part of the [Intelligence Unbound](https://deepwoken.fandom.com/wiki/Attributes_Unbound?so=search#Intelligence_Unbound) process.
+Within the ruins within the Reservoir, you can find multiple [Soul Hearthgems](Soul_Hearthgem.md), which are a necessary part of the [Intelligence Unbound](Attributes_Unbound.md) process.
 
 ## Points of Interest
 
@@ -39,6 +39,9 @@ A map can be found [here](Maps.md#surface).
 ## Trivia
 
 -   The music for this area is [In Shade, Hollow](Deepwoken_OST.md#in-shade-hollow) by Naktigonis.
--   The garden reservoir was once a large cave a part of [The Viper's Jaw](<The_Viper's_Jaw.md>) before collapsing into the [Burning Stone Gardens](Burning_Stone_Gardens.md).
--   Players can find [Irithine](Ores.md#irithine) here, which is a metal used in crafting some [Outfits](Outfits.md).
 -   Survivalist does not reduce or negate the damage taken by the Acid pools.
+-   One of the bones that litter the Garden resemble the Bone below the [Scion of Ethiron](Scion_of_Ethiron.md).[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

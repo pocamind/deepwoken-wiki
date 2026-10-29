@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 227851
+revid: 231938
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -16,7 +16,7 @@ The ominous Hell Bell, awaiting in the corner of Scyphozia to those foolish enou
 
 ## Description
 
-Hell Mode is a player-activated event that can be started in the corner of [Scyphozia](First_Layer.md) if four players who are at least Power 15 ring the Hell Bell. Upon starting the event, the lighting in the Depths will change to hellish-red and a kill count starting at 100 will appear over the bell. For every player that rings the bell after the initial four, 10 more mobs will be added to the kill count. There is a 20 minute duration to kill the required mobs.
+Hell Mode is a player-activated event that can be initiated in the corner of [Scyphozia](First_Layer.md) by having four players who are at least Power 15 ring the Hell Bell. [Karthal](Karthal.md), who is located nearby warns of the consequences of starting the event. Upon activation, the lighting throughout the Depths will turn hellish red, and a kill counter starting at 100 will appear above the bell. Each additional player who rings the bell beyond the initial four will increase the required kill count by 10. Players have 20 minutes to defeat the required number of mobs.
 
 ### Effects
 
@@ -27,10 +27,10 @@ During Hell Mode, part of the game will be tweaked to accommodate for the event.
 -   Any monster that is spawned by Hell Mode _will_ be corrupted, with the exception of [King Threshers](King_Thresher.md) and [Mudskipper Broodlords](Mudskipper_Broodlord.md).
 -   [Enforcers](Enforcer.md) and [Nautilodaunts](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
 -   The Enforcer's "Space Pull" attack is disabled to prevent players being pulled into the void.
--   Mudskipper Broodlords have their anti-heal debuff reduced to 50%.
+-   [Mudskipper Broodlords](Mudskipper_Broodlord.md) have their anti-heal debuff reduced to 50%.
 -   [King Gigamed](King_Gigamed.md) are unable to spawn.
 
-These conditions will effect every player in the server, not just the players who interacted with the bell. However, only players who initiate Hell Mode will have increased spawn rates.
+These conditions will affect every player in the server, not just the players who interacted with the bell. However, only players who initiate Hell Mode will have increased spawn rates.
 
 ## Rewards
 

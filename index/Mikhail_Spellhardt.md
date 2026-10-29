@@ -1,6 +1,6 @@
 ---
 title: Mikhail Spellhardt
-revid: 224869
+revid: 231962
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, Hallowtide, Vendors, NPCs located in The Floating Keep, Members of the Spellhardt family]
@@ -77,3 +77,7 @@ Mikhail is a [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floati
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Mikhail's phrase "But, that's that, and today's today." is likely a direct reference to [Roland](https://library-of-ruina.fandom.com/wiki/Roland) from the game _Library Of Ruina._ With his catchphrase being "That's that, and this is this", both of them referring to the past and grief within their respective contexts.

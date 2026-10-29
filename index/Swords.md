@@ -1,6 +1,6 @@
 ---
 title: Swords
-revid: 231858
+revid: 231947
 source: https://deepwoken.fandom.com/wiki/Swords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, Medium Weapons, Swords, Weapon Classes]
@@ -16,7 +16,7 @@ Typically, these weapons can freely swap between the One and Two-Handed stances.
 
 ## Weapon Class Talents
 
-_This section is transcluded from [Talents/Categories A-I](Talents/Categories_A-I.md). To change it, please edit the transcluded page._
+_This section is transcluded from [Talents](Talents.md). To change it, please edit the transcluded page._
 
 -   **Crossguard** \[Battle Readiness • Faction Talent\] - If you are using a **sword**, you gain 10% chip against other opponents wielding swords.
     

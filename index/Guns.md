@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 231882
+revid: 231956
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapon Classes]
@@ -367,7 +367,7 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
 
 ### Gunslinger
 
-_This section is transcluded from [Talents/Categories A-I § Gunslinger](Talents/Categories_A-I.md#gunslinger). To change it, please edit the transcluded page._
+_This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger). To change it, please edit the transcluded page._
 
 -   **Armor Piercing** \[Gunslinger • Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   This applies to the weapon attacks from all [Pistol](Pistols.md) and Rifle weapons.
@@ -470,8 +470,6 @@ _This section is transcluded from [Talents/Categories A-I § Gunslinger](Talents
         
     -   Prerequisites: [True Ether Bullets](Talents.md#true-ether-bullets), 60 Intelligence, 90 Light Weapon, Using a [Pistol](Pistols.md)  
         
-
-  
 
 ### Outlaw (Single Pistol/1H Gun)
 

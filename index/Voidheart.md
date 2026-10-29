@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 228290
+revid: 231950
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Lawless Territory, The Knives of Eylis]
@@ -38,7 +38,7 @@ Only players who have selected the [Voidwalker](Voidwalker.md) Origin can access
 
 ### Chessboard
 
-A small location in one of the corners of the Voidheart
+A small location in one of the corners of the Voidheart.
 
 There is no reward or anything related to this chessboard. Playing it is just a matter of having a good time.
 
@@ -51,16 +51,17 @@ There is no reward or anything related to this chessboard. Playing it is just a 
 
 ### NPCs
 
--   [Raen](Raen.md), who guides the player through their first step as a voidwalker.
--   [The Voidmother](The_Voidmother.md)
-    -   Wake the player up from the dream, taking them to where they last used their Voideye.
-        -   Spawns in [Lower Erisia](Lower_Erisia.md) the first time.
-        -   Spawns a wormhole for others to follow if used in PvP combat.
--   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
-    -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md)
--   [Rook Rethige](Rook_Rethige.md), who can sell [Whaling Knifes](Whaling_Knife.md).
 -   [Banker](Banker.md)
+-   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
+    -   Leader of the Knives of Eylis, she explains the role of the Voidwalkers, her relationship with the Voidmother, and lets the player join the Knives of Eylis guild.
+-   [Krile](Krile.md) can reset the pieces on the chessboard.
+-   [Raen](Raen.md), who guides the player through their first step as a Voidwalker.
+-   [Rook Rethige](Rook_Rethige.md), who can sell [Whaling Knifes](Whaling_Knife.md).
+-   [The Voidmother](The_Voidmother.md)
+    -   Wakes the player up from the dream, taking them to where they last used their Voideye.
+        -   Spawns you in [Lower Erisia](Lower_Erisia.md) the very first time.
+        -   Spawns a wormhole for others to follow if used in PvP combat.
 
 ## Maps
 

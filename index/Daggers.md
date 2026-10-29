@@ -1,6 +1,6 @@
 ---
 title: Daggers
-revid: 231885
+revid: 231943
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Light Weapons, Daggers, Weapon Classes]
@@ -24,7 +24,7 @@ This effect is Dagger exclusive, and does not work with the [Switchblade](Talent
 
 ## Weapon Class Talents
 
-_This section is transcluded from [Talents/Categories A-I § Critical Specialist](Talents/Categories_A-I.md#critical-specialist). To change it, please edit the transcluded page._
+_This section is transcluded from [Talents § Critical Specialist](Talents.md#critical-specialist). To change it, please edit the transcluded page._
 
 -   **Finishing Touch** \[Critical Specialist • Common Talent\] - Daggers Instantly execute enemies finished with the critical attack of your dagger.
     -   Your critical must knock the opponent [Unconscious](Status_Effects.md#unconscious) for this Talent to proc.  
