@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 209530
+revid: 232044
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -10,12 +10,16 @@ categories: [Items]
 
 | Stardust | |
 |---|---|
+| value | N/A |
+| weight | None |
 | stack | x10 |
-| type | Item |
+| type | Treasure |
+| rarity | Common |
 | bankable | No |
 | droppable | No |
 | pass down | No |
 | desc | A piece of the very stars, allowing one to cross the world's webs. |
+| obtainment | Starfield Grove, Starfield Tundra, Starfield Veldt |
 
 _Not to be confused with the [Star Duster](Star_Duster.md), a piece of equipment._
 

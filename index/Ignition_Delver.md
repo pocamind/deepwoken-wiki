@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 231565
+revid: 232046
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
@@ -70,6 +70,7 @@ If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you wi
 -   The [Hollow Forge](Hollow_Forge.md) is an exceptionally useful item for transfusing lesser used Relics into ones that are more desirable.
 -   If you've already escaped the [Second Layer](Second_Layer.md) via the Deep Drill at least once on your character, you will be able to use the Deep Drill at the [Chariot's Spire](<The_Chariot's_Spire.md>) to reenter the Second Layer. This will spawn you in the [Frontier Furnace](The_Frontier_Furnace.md) with the Generator already turned on, skipping a decent chunk of the dungeon.
     -   You can bring up to 4 other players with you.
+    -   These players aren't forced to be Ignition Delvers and can come on any origin as long as you start the Deep Drill for them.
     -   However, you, and all other players you bring along, will not have a [Light Hook](Light_Hook.md).
 
 ### Cons

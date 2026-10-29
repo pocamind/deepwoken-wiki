@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 228571
+revid: 232024
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]

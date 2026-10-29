@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 231774
+revid: 232045
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -177,7 +177,7 @@ Every Power level up will award you with 0.75 Echoes, totaling to 15 Echoes at P
 | 
 
  | 15 | Obtain a [Resonance](Resonance.md).  
-You must CHOOSE it. If you reroll in [Fragments of Self](Fragments_of_Self.md), it resets the task, even if you had one before. |
+You must CHOOSE it. If you attempt to choose in [Fragments of Self](Fragments_of_Self.md), it doesn't count towards the task, even if you have one. |
 
 ## Upgrades, Unlocks, and Modifiers
 

@@ -1,6 +1,6 @@
 ---
 title: Etris (Vow of Iron)
-revid: 229338
+revid: 232026
 source: https://deepwoken.fandom.com/wiki/Etris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Territory of Etrea]

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 231923
+revid: 232048
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -149,6 +149,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Ice Mirror** - A spark that could only be applied to Ice Bolt. Once applied, if the user had ice surfaces in the vicinity while casting Ice Bolt, each ice surface would cast an additional bolt of ice.
     -   Was removed alongside the Mantra for being ridiculously powerful.
 -   **Fire Pillars** - An undocumented move that was replaced shortly after the game released, being reworked on December 27, 2021, just 7 days after release. It was the old version of [Fire Eruption](Flamecharm.md#fire-eruption).
+-   **Void Lance** - A reskinned version of Glacial Arc, however instead of being colored like the usual Frostdraw mantra, it was colored black. It was utilized by the old [Ministry](The_Ministry.md) NPC's, such as [Scouts](Ministry_Scout.md).
 -   **Original Equalizer** (Contractor Mantra) - Worked very similarly to current Judgement, it acted as an anti-air Mantra that would swiftly latch its target into the air. It was removed shortly before Verse 2 released.[\[4\]](#cite-note-iceberg2-4)
 -   **Original Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18, 2022.
 -   **Original Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19th, 2023
@@ -218,7 +219,8 @@ This page is about content that has either been removed or changed drastically i
 -   **[Authority Enemy](<Authority_Enemy_(Test).md>)** - Old Authority enemies that would appear inside of [Corvus Manor](Corvus_Manor.md). They utilized Flamecharm and wielded [Officer Sabers](Officer_Saber.md).
 -   **Original [Authority Captain](<Authority_Captain_(Test).md>)** - The old Authority Captain that would spawn inside of [Corvus Manor](Corvus_Manor.md) after the surrounding Authority enemies were defeated. However, unlike the Authority enemies, it utilized Thundercall over Flamecharm.
 -   **Konga Bandits** - Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
--   **Oni** - A black humanoid with white hair and no face that could only be found in the [First Layer](First_Layer.md). It fought with it's fists and was removed before the game's release.[\[2\]](#cite-note-iceberg-2)
+-   **Oni** - A black humanoid with white hair and no face that could only be found in the [First Layer](First_Layer.md). It fought with it's fists, as well as utilizing Shadow Frostrdraw (Unused attunement path) and was removed before the game's release.[\[2\]](#cite-note-iceberg-2)
+-   **Old Ministry NPC's** - During the Verse 1 era of Deepwoken, Ministry NPC's possessed mantras of an unexisting attunement path, Frostdraw imbued with Shadowcast. An example of such mantra is the Void Lance. They were also referred to as "Dark Mage Cultists" by the community, however that name was likely a placeholder for early Verse 1 explorers and has zero lore relevance in general.
 -   **Pyromancers** - Humans dressed in the same outfit as the [Redskippers](Necroskipper.md) but dyed orange, they spoke of the drowned god 'Korilfiend' and resided in the forests of old Etrea.[\[1\]](#cite-note-37facts-1)
 -   **[Knife Guard](Knife_Guard.md)** - The Knife Guard were enemies that protected the Voidheart, similarly to other Townsguard.
 -   **[Blade Instructor](Blade_Instructor.md)** - In the [Isle of Vigils](Isle_of_Vigils.md), players were able to spar with an instructor at the cost of 20. You could also spar with another player by talking to the instructor.
