@@ -1,14 +1,16 @@
 ---
 title: Outfits
-revid: 231876
+revid: 232021
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits]
+categories: [Outfits, Pages that use a deprecated format of the math tags]
 ---
 
 # Outfits
 
-**Outfits** are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in most larger settlements. They can also be repaired passively by resting at a [Campfire](Campfire_Pit.md). The player has a handful of basic Outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some Outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their Outfit.
+**Outfits** are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that is lost when they resist damage.
+
+They can be crafted and repaired at a [Blacksmith](Blacksmith.md), which can be found in most larger settlements. They can also be repaired passively by resting at a [Campfire](Campfire_Pit.md). The player has a handful of basic Outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some Outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Learned and crafted Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their Outfit.
 
 ## Transmogging
 
@@ -32,6 +34,13 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
     -   Currently only the [Union Initiate](Union_Initiate.md) Outfit has this stat.
 -   **Talent:** A passive ability linked to the outfit.
 
+### Calculating Resistances
+
+Specific damage type Outfit resistances are multiplicatively combined with their generic counterparts; Physical Resistance is multiplicative to Blunt & Slash, and Elemental Resistance is multiplicatively combined with each individual Attunement. This follows the generic multiplicative resistance formula:  
+1 − ( ( 1 − R e s 1 % ) × ( 1 − R e s 2 % ) ×... ) {\\displaystyle 1-((1-Res\_{1}\\%)\\times (1-Res\_{2}\\%)\\times ...)} {\\displaystyle 1-((1-Res\_{1}\\%)\\times (1-Res\_{2}\\%)\\times ...)}
+
+For example, [Authority Commander](Authority_Commander.md)'s 30% Physical resistance and 10% Blunt resistance combine to 37% physical resistance, not 40%.
+
 ## Armor Durability
 
 As your Outfit resists damage, you will lose Armor Durability, indicated with the white bar below your health bar. When your Outfit reaches zero durability, it, and your [Equipment](Equipment.md), will no longer provide their resistances until your Armor Durability is repaired. Your Outfit and Equipment will continue to provide its full resistances until the durability is fully depleted; there are no adverse effects of having low Armor Durability, unless it's empty. Additionally, all Outfit or Equipment granted [Talents](Talents.md) and non-resistance stats will remain active even if your Armor Durability drops to 0.
@@ -40,7 +49,23 @@ The most common and effective ways to repair your Armor Durability is at a [Blac
 
 ## Outfits
 
-### Starter
+### Outfit Gallery
+
+#### [Vow of Iron](Vow_of_Iron.md) Exclusive Outfits
+
+All of these Outfits are exclusively obtained as the starting armor of specific [Mementos](Mementos.md).
+
+#### Spec/Mod
+
+These Outfits are exclusive to _Deepwoken_ Developers or Moderators.
+
+#### Unavailable
+
+These Outfits are completely unobtainable.
+
+### Outfit Stats
+
+#### Starter
 
 | 
 **Outfit**
@@ -147,7 +172,7 @@ Starter Outfit
 _Robes given to those who have just joined the journey to help others in need. These are woven to prioritize quick movement if needed._
 
   
-Character Requirements: Power 1  
+Character Requirements: Power 1, [Justicar](<Justicar_(Origin).md>) Origin  
 Alternatively: [Justicar](<Justicar_(Origin).md>) Origin
 
  | **Armor Durability:** 1500 [IconPosture](Combat_Mechanics.md#posture) |
@@ -232,7 +257,7 @@ Character Requirements: 5 Intelligence
 
 **Talent(s):**
 
--   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow You \[sic\] draw your weapon silently.
+-   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow. You draw your weapon silently.
 
   
 
@@ -409,7 +434,7 @@ Alternatively: [Voidwalker](Voidwalker.md) Origin [Knives of Eylis](The_Knives_o
 
  |
 
-### Adept
+#### Adept
 
 | 
 **Outfit**
@@ -472,7 +497,7 @@ Adept Outfit
 _The durable battle armour of an [Adretian](Adret.md) soldier. The armour is specially forged by techniques developed in the [Central Luminant](Luminants.md), creating an uncharacteristically versatile armour plate._
 
   
-Character Requirements: Power 5, 5 Fortitude  
+Character Requirements: Power 5, 5 Fortitude, [Authority Ensign](Authority_Ensign.md) [Authorityiconfaction](The_Central_Authority.md) Origin  
 Alternatively: [Authority Ensign](Authority_Ensign.md) Origin [Authorityiconfaction](The_Central_Authority.md)
 
  | **Armor Durability:** 1600 [IconPosture](Combat_Mechanics.md#posture) |
@@ -502,7 +527,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
 **Talent(s):**
 
--   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow You \[sic\] draw your weapon silently.
+-   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow. You draw your weapon silently.
 
   
 
@@ -943,7 +968,7 @@ Character Requirements: Power 5, 10 Intelligence
 
 **Talent(s):**
 
--   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow You \[sic\] draw your weapon silently.
+-   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow. You draw your weapon silently.
 
   
 
@@ -985,7 +1010,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
 **Talent(s):**
 
--   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow You \[sic\] draw your weapon silently.
+-   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow. You draw your weapon silently.
 
   
 
@@ -1031,7 +1056,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
 **Talent(s):**
 
--   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow You \[sic\] draw your weapon silently.
+-   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow. You draw your weapon silently.
 
   
 
@@ -1125,7 +1150,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
  |
 
-### Expert
+#### Expert
 
 | 
 **Outfit**
@@ -1148,8 +1173,8 @@ Expert Outfit
 _The unmistakable banded coat of an [Adretian](Adret.md) [Captain](Authority_Captain.md). Despite immediate appearances, the coat is wound with protective fibers that provide unparalleled durability._
 
   
-Character Requirements: Power 10, 25 Strength  
-Alternatively: [Authority Ensign](Authority_Ensign.md) Origin [Authorityiconfaction](The_Central_Authority.md)
+Character Requirements: Power 10, 25 Strength, [Authority Ensign](Authority_Ensign.md) [Authorityiconfaction](The_Central_Authority.md) Origin  
+Alternatively: [Authority Ensign](Authority_Ensign.md) Origin, Command Division [Authorityiconfaction](The_Central_Authority.md)
 
  | **Armor Durability:** 2000 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -1303,7 +1328,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
 **Talent(s):**
 
--   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow You \[sic\] draw your weapon silently.
+-   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow. You draw your weapon silently.
 
   
 
@@ -1412,7 +1437,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
 **Talent(s):**
 
--   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow You \[sic\] draw your weapon silently.
+-   [**Lowstride**](Talents.md#lowstride) - When crouching, your [stealth](Stealth.md) and roll distance are increased. Your speed while crouching is less slow. You draw your weapon silently.
 
   
 
@@ -1827,7 +1852,7 @@ Character Requirements: Power 10
 
  |
 
-### Master
+#### Master
 
 | 
 **Outfit**
@@ -1902,8 +1927,7 @@ Master Outfit
 _The armored robes of an [Authority Commander](<Authority_Commander_(NPC).md>)._
 
   
-Character Requirements: Power 15  
-Alternatively: [Authority Ensign](Authority_Ensign.md) Origin [Authorityiconfaction](The_Central_Authority.md)
+Character Requirements: Power 15, [Authority Ensign](Authority_Ensign.md) [Authorityiconfaction](The_Central_Authority.md) Origin
 
  | **Armor Durability:** 2800 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -2103,7 +2127,7 @@ Character Requirements: Power 15
     
     -   20% Shadow [ResistanceShadowcast](Shadowcast.md) Armor
 -   +50% Ether Regen [IconEther](Ether.md)
--   +50% Stealth [IconStealth](Stealth.md)
+-   +50%Stealth [IconStealth](Stealth.md)
 -   +16 Sanity [IconSanity](Insanity.md)
 
 **Combined Resistances:**
@@ -2527,7 +2551,8 @@ Master Outfit
 [Titus's Raiment](<Titus's_Raiment.md>)
 
   
-Character Requirements: Power 15, 30 Strength
+Character Requirements: Power 15, 30 Strength  
+Alternatively: [Theros Disciple](Theros_Disciple.md) Memento(s)
 
  | **Armor Durability:** 3000 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -2603,7 +2628,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
  |
 
-### Unique
+#### Unique
 
 | 
 **Outfit**
@@ -2626,7 +2651,8 @@ Unique Outfit
 _Forged from fabric tempered in flame. Cindergarb gathers shed embers enhancing your [flamecharm](Flamecharm.md) ability._
 
   
-Character Requirements: Power 15, 45 Flamecharm
+Character Requirements: Power 15, 45 Flamecharm  
+Alternatively: [Solborn](Solborn.md) Memento(s)
 
  | **Armor Durability:** 3000 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -2973,7 +2999,8 @@ Unique Outfit
 _An elegant outfit favoured by expert Frostdrawers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture._
 
   
-Character Requirements: Power 15, 45 Frostdraw
+Character Requirements: Power 15, 45 Frostdraw  
+Alternatively: [Saint Jay](<Saint_Jay_(Memento).md>) Memento(s)
 
  | **Armor Durability:** 2600 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -3015,7 +3042,8 @@ Unique Outfit
 [Inquisition Light](Inquisition_Light.md)
 
   
-Character Requirements: Power 15
+Character Requirements: Power 15, [Authority Ensign](Authority_Ensign.md) [Authorityiconfaction](The_Central_Authority.md) Origin  
+Alternatively: [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division [Authorityiconfaction](The_Central_Authority.md)
 
  | **Armor Durability:** 3200 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -3194,7 +3222,8 @@ Unique Outfit
 [Shock Corps Light](Shock_Corps_Light.md)
 
   
-Character Requirements: Power 15
+Character Requirements: Power 15, [Authority Ensign](Authority_Ensign.md) [Authorityiconfaction](The_Central_Authority.md) Origin  
+Alternatively: [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division [Authorityiconfaction](The_Central_Authority.md)
 
  | **Armor Durability:** 3500 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -3245,7 +3274,8 @@ Unique Outfit
 _An elegant outfit favoured by expert [Thundercallers](Thundercall.md). The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture._
 
   
-Character Requirements: Power 15, 45 Thundercall
+Character Requirements: Power 15, 45 Thundercall  
+Alternatively: [Flashing Thunder](Flashing_Thunder.md) Memento(s)
 
  | **Armor Durability:** 2600 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -3331,7 +3361,8 @@ Unique Outfit
 _An elegant outfit favoured by expert [Galebreathers](Galebreathe.md). The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which is to imbue elemental resistances into the very fabrics they manufacture._
 
   
-Character Requirements: Power 15, 45 Galebreathe
+Character Requirements: Power 15, 45 Galebreathe  
+Alternatively: [Inheritor of the Gale](Inheritor_of_the_Gale.md) Memento(s)
 
  | **Armor Durability:** 2600 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -3471,7 +3502,8 @@ Unique Outfit
 _Although Warders take a more passive approach to aiding those they wish to see walk the path, they still don armor in preparation for battle, should they need to step onto the front lines._
 
   
-Character Requirements: Power 15
+Character Requirements: Power 15  
+Alternatively: [Justicar](<Justicar_(Origin).md>) Origin, Warder Path
 
  | **Armor Durability:** 2750 [IconPosture](Combat_Mechanics.md#posture) |
 | 
@@ -3738,7 +3770,7 @@ Character Requirements: [Drifter](Drifter.md) Memento
 
  |
 
-### Spec/Mod
+#### Spec/Mod
 
 These Outfits are exclusive to _Deepwoken_ Developers or Moderators.
 
@@ -3794,7 +3826,7 @@ _Resistances are combined **multiplicatively**, not **additively**._
 
 **Talent(s):**
 
-**[Frozone](Cut_Content.md#frozone)** - You are no longer required to be over water to use Ice Skates.
+-   **[Frozone](Cut_Content.md#frozone)** - You are no longer required to be over water to use Ice Skates.
 
   
 
