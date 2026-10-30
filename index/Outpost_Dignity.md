@@ -19,6 +19,7 @@ LocationL Outpost Dignity LocationR
 TERRITORY OF The Central Authority
 
   
+  
 
 ## Description
 

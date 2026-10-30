@@ -109,7 +109,7 @@ The Lodestar's arsenal consists of the [Guiding Star](Guiding_Star.md).
 
 Exhaustive Loot Table
 
-This info has been transcluded from [a different page](Loot_Tables.md#lodestar). Visit the transcluded page to edit this info.
+This section is transcluded from \[\[Loot Tables#{{{3}}}|a different page\]\]. To change it, please edit the transcluded page.
 
 <table>
 <tbody>

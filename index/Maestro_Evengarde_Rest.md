@@ -310,7 +310,7 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 
 Exhaustive Loot Table
 
-This info has been transcluded from [a different page](Loot_Tables.md#maestro-evengarde-rest). Visit the transcluded page to edit this info.
+This section is transcluded from \[\[Loot Tables#{{{3}}}|a different page\]\]. To change it, please edit the transcluded page.
 
   
 

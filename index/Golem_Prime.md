@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 226309
+revid: 232067
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -26,7 +26,7 @@ _Also known as Duke Golems or Prime Golems._
 
 ## Description
 
-**Golem Primes** are large, bulky stone constructs that resemble their original counterparts, but with a red core, red eyes and a sleek black paint job.
+**Golem Primes** are large, bulky stone constructs that resemble their original counterparts, but with a purple core, purple eyes and a darker color scheme. This implies that these golems were infused with the power of the [Forge of Sin](Relics.md#lore-relics).
 
 Golem Primes are found exclusively within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and spawned from the [Deep Crucible](Deep_Crucible.md). Compared to [Rock Golems](Rock_Golem.md), they are significantly more dangerous.
 

@@ -1882,6 +1882,10 @@
   "Forest Golem": {
     "to": "Hive Construct"
   },
+  "Forge of Sin": {
+    "to": "Relics",
+    "fragment": "Lore Relics"
+  },
   "Formless": {
     "to": "Oath: Soulbreaker",
     "fragment": "Formless"

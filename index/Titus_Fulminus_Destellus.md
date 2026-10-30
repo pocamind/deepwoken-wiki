@@ -386,7 +386,7 @@ You are guaranteed to get 1 [Wrath Gem](Wrath_Gem.md) and [Might Gem](Might_Gem.
 
 In addition to his boss chest (see below for the table), an additional _personal_ chest is rewarded for each participating player, dropping at their feet. You do not need to deal damage to Titus to get this chest. This chest can include:
 
-This info has been transcluded from [a different page](Loot_Tables.md#titus-fulminus-destellus). Visit the transcluded page to edit this info.
+This section is transcluded from \[\[Loot Tables#{{{3}}}|a different page\]\]. To change it, please edit the transcluded page.
 
   
 

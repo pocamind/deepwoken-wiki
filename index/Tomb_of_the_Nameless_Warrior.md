@@ -15,6 +15,7 @@ This content is not accessible outside of this gamemode.
 LocationL Tomb of the Nameless warrior LocationR
 
   
+
   
 
 **Tomb of the Nameless Warrior** is a location in _Deepwoken_. It is a landmark below the [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).

@@ -15,6 +15,7 @@ LocationL The hidden grove LocationR
 TERRITORY OF The Summer Company
 
   
+  
 
 **The Hidden Grove** was a location in _Deepwoken_. It was a small cave behind [Summer Isle](Summer_Isle.md).
 

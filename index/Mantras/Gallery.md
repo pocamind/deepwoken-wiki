@@ -3037,7 +3037,7 @@ Lightning [ResistanceThundercall](../Thundercall.md)
 -   Has a wind-up of 0.4 seconds.
 -   Has a cooldown of 14 seconds.
 -   Can be modified with [Crystal](../Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](../Mantra_Modifiers.md#regular-modifiers) to increase the range of the projectile traveled.
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to pull **yourself** to your opponent.
+-   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md#sparks) to pull **yourself** to your opponent and deals some damage when you crash into them.
 -   Can be modified with a [Blast Spark](../Mantra_Modifiers.md#sparks) to stun and damage the target instead of pulling them towards the user.
 
  |
