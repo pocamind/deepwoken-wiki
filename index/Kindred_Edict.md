@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 230688
+revid: 232061
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", The Starkindred Church]

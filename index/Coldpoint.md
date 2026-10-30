@@ -1,9 +1,9 @@
 ---
 title: Coldpoint
-revid: 229757
+revid: 232055
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Rapiers, Legendary Weapons, Light Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Rapiers, Legendary Weapons, Light Weapons]
 ---
 
 # Coldpoint
@@ -32,6 +32,10 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | Harvested from the upper crust of the Second Layer, this long icicle is kept forever frozen by a vow, and bears a Kyrsan ice brand on its hilt. Before Ethiron's arrival, such weapons were made as light training blades for Kyrsans -though in our hands, we need not show such restraint. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

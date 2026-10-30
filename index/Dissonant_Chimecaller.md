@@ -1,9 +1,9 @@
 ---
 title: Dissonant Chimecaller
-revid: 224545
+revid: 232063
 source: https://deepwoken.fandom.com/wiki/Dissonant_Chimecaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]
+categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]
 ---
 
 # Dissonant Chimecaller
@@ -35,6 +35,10 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | pass down | Yes |
 | obtainment | Knell, The Lunatic Resonator |
 | description | An unexpectedly sophisticated staff with an antique design. In contrast to Knell's current state, it seems to originate from a time when he might have still been himself. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
