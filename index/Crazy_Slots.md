@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 228873
+revid: 232065
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -149,9 +149,9 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 </tbody>
 </table>
 
-## Special Abilities
+## Weapon Abilities
 
-Upon reactivating your Resonance while your Crazy Slots weapon is active, perform a special attack. The special attack varies depending on your currently equipped Soulwrought weapon. Using this ends your resonance early, returning you back to your original weapon.
+Upon reactivating your Resonance while your Crazy Slots weapon is active, perform a special attack. The special attack varies depending on your currently equipped Soulwrought weapon. Using this ends your Resonance early, returning you back to your original weapon.
 
 The special abilities deal physical damage (except for the spear) and do not have any scaling.
 
@@ -164,19 +164,19 @@ The user winds up before teleporting to the target with a flurry of Soulwrought 
 
 ### Soulwrought Gun
 
-The user flips upside down and rapidly shoots at the target six times, finishing with a ranged shot that propels you backwards.
+The user flips upside down and rapidly fires at the target six times, finishing with a ranged shot from a medium distance.
 
 -   Deals 15 damage per shot.
 
 ### Soulwrought Longsword
 
-The user strikes forward with their elbow. If it lands, it is followed by a [red telegraph](Combat_Mechanics.md#red), then leads into three Soulwrought slashes, with the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+The user strikes forward with their elbow. If it lands, it is followed by a [red telegraph](Combat_Mechanics.md#red) that leads into three consecutive slashes, with the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
 
 -   Deals 37.5 damage per hit.
 
 ### Soulwrought Spear
 
-The user rises into the air and fires three Soulwrought spears. A faster version is used by [Sworn Angels](Sworn_Angel.md), where they shoot a total of 5 spears.
+The user rises into the air and fires three bolts. A faster version is used by [Sworn Angels](Sworn_Angel.md), where they shoot a total of 5 bolts.
 
 -   Deals 42 **typeless damage** per hit.
 
@@ -185,10 +185,11 @@ The user rises into the air and fires three Soulwrought spears. A faster version
 The user rises into the air and plummets towards their cursor.
 
 -   Deals 75 damage.
+-   Sometimes does not allow the player to aim towards their cursor.
 
 ### Soulwrought Greatsword
 
-The user gains a brief speed boost before leaping into the air and crashing down at theircursor.
+The user gains a brief speed boost before leaping into the air and crashing down.
 
 -   Deals 37.5 damage.
 
