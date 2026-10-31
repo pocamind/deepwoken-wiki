@@ -1,6 +1,6 @@
 ---
 title: Elemental Cantrips
-revid: 231639
+revid: 232079
 source: https://deepwoken.fandom.com/wiki/Elemental_Cantrips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Attunement]
@@ -70,7 +70,7 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 
 **Night Vision;** This Cantrip allows you to see better in low-light environments.
 
-**Shadowed Lure;** This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure, "reducing how often they need to move it around".
+**Shadowed Lure;** This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure. This lessens how far the catch moves backwards when the player performs an incorrect input in the [Fishing](Fishing.md) minigame, effectively lessening the downside.
 
 ### [Thundercall](Thundercall.md)
 

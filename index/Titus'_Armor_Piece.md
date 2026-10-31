@@ -1,9 +1,9 @@
 ---
 title: "Titus' Armor Piece"
-revid: 227828
+revid: 232071
 source: https://deepwoken.fandom.com/wiki/Titus'_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Titus' Armor Piece
@@ -18,6 +18,10 @@ categories: [Items, Drops, Ingredients]
 | pass down | No |
 | desc | Ripped from the larger-than-life commander of the 49th Legion. |
 | obtainment | Titus Fulminus Destellus |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Maria
-revid: 232064
+revid: 232070
 source: https://deepwoken.fandom.com/wiki/Maria
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, "Content not present in-game"]
@@ -13,6 +13,7 @@ categories: [Individuals with She/her pronouns, "Content not present in-game"]
 | name | Maria |
 | pronouns | She/her |
 | affiliation | Etrea |
+| death | Killed by a Megalodaunt |
 
 **Content is not present in-game**  
 The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  

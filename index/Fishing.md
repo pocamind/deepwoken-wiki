@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 231636
+revid: 232078
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Fishing, Mechanics]
@@ -18,9 +18,17 @@ categories: [Fishing, Mechanics]
 
 Fishing Rods can be crafted with two [Sticks](Stick.md) and one [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md) or instead, purchased from either the [Echoes unlock shop](Echoes.md) for 15 echoes or select vendors for 30/35.
 
-To fish, cast a line into any body of water by pressing M1, or hold M1 to cast if farther and higher. Once the bobber lands into water, it will take some to settle before a minigame pops up to fish. Once something is caught onto the line, reel in catches by holding the displayed key (W, A, S, or D) before the caught item gets loose. Lines can also be instantly withdrawn by pressing M1 while its being thrown.
+To fish, cast a line into any body of water by pressing M1, or hold M1 to cast if farther and higher. Once the bobber lands into water, it will take some to settle before a minigame pops up to fish. Once something is caught onto the line, reel in catches by holding the displayed key (W, A, S, or D) before the caught item gets loose. Pressing an incorrect input will the catch to move backwards. Lines can also be instantly withdrawn by pressing M1 while its being thrown.
 
-Fishing also grants experience toward all _physical_ [Attributes](Attributes.md).
+Fishing also grants experience toward all [Body](Attributes.md#body-and-mind) [Attributes](Attributes.md).
+
+### Shadowcast Cantrip
+
+If the player has at least one [Shadowcast](Shadowcast.md) Mantra, they will gain the Shadowcast [Elemental Cantrips](Elemental_Cantrips.md), one of which being "**Shadowed Lure**".
+
+The Shadowed Lure Cantrip reduces how far the catch moves backwards in the minigame upon performing an incorrect input, effectively reducing the downside for failing. This Cantrip also applies a Shadowcast visual effect to the player's lure.
+
+For more information on other Cantrips, view [Elemental Cantrips](Elemental_Cantrips.md).
 
 ## Catches
 

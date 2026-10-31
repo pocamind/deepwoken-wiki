@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 231809
+revid: 232073
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -35,7 +35,7 @@ To obtain the Voidwalker [Origin](Origins.md), the player must do all of the fol
 
 ## Spawn
 
-Voidwalkers spawn anywhere within the Etrean Luminant, with the [Whaler Initiate](Whaler_Initiate.md) Outfit and 25. To teleport into the [Voidheart](Voidheart.md), players must use the "Voideye" tool. In order to exit the [Voidheart](Voidheart.md), the player will have to speak to [The Voidmother](The_Voidmother.md) and choose the dialogue option "I wish to depart."
+Voidwalkers spawn anywhere within the Etrean Luminant, with the [Whaler Initiate](Whaler_Initiate.md) Outfit and 25. To teleport into the [Voidheart](Voidheart.md), players must use the "Voideye" tool. In order to exit the [Voidheart](Voidheart.md), the player will have to speak to [The Voidmother](The_Voidmother.md) and choose the dialogue option "I wish to depart.
 
 ## Effects
 
