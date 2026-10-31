@@ -1,6 +1,6 @@
 ---
 title: Talents/Oaths
-revid: 231991
+revid: 232111
 source: https://deepwoken.fandom.com/wiki/Talents/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Mechanics, Skills]
