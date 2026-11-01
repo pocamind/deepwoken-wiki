@@ -103,11 +103,11 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>20</td>
   <td>MED: 5<br>
   STR: 4</td>
-  <td>12%</td>
+  <td>10%</td>
   <td>-</td>
+  <td>6.5</td>
   <td>8</td>
-  <td>8.5</td>
-  <td>0.91x</td>
+  <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
@@ -120,9 +120,9 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
-  <td>6</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.92x</td>
+  <td>0.95x</td>
   <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>

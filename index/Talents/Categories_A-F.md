@@ -3,7 +3,7 @@ title: "Talents/Categories A-F"
 revid: 232322
 source: https://deepwoken.fandom.com/wiki/Talents/Categories_A-F
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages transcluding nonexistent sections, In progress with reason, InProgressPages, Talents, Skills, Mechanics]
+categories: [In progress with reason, InProgressPages, Talents, Skills, Mechanics]
 notices:
   - This page is currently being worked on. This page is currently undergoing changes. Please be patient.
 ---
@@ -433,6 +433,42 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 80 Intelligence  
         
     -   Tags: \[Intelligence\] \[Investment Scaling\] \[Mantra\] \[PEN\] \[Scale-down\]
+
+### Alloyblood
+
+-   **Composite Path: Alloyblood** \[Common Talent\] - Fuse the Ironsing rods from Ironsing mantras and Blood Poison from Bloodrend mantras into a composite plasma that flows in your opponents blood. Your Bloodrend mantras are now silver.
+    -   Your Metal Rod and Blood Poison buildup is replaced with Composite Alloy buildup. A certain threshold of Composite Alloy must be built up to cast Alloyblood Mantras.  
+        
+    -   Prerequisites: 50 Bloodrend, 50 Ironsing  
+        
+    -   Mutual Exclusives: [Gilded Path: Scrapsinger](../Talents.md#gilded-path-scrapsinger)  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your Rising Plasma mantra. Raise your opponent's plasma by 10% when this happens.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 55 Bloodrend, 55 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Debuff\] \[Multi-Attunement\]
+
+-   **Retained Hemoglobin** \[Common Talent\] - Using an alloyblood mantra reduces the composite plasma cost of your next alloyblood mantra by 20%. This effect lasts for 10 seconds and can be stacked.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 60 Bloodrend, 60 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Stored Plasma** \[Common Talent\] - Feinting an alloyblood mantra increases the duration of the next weapon summoned from an alloyblood mantra by 33%.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 60 Bloodrend, 60 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Feint\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Ultrafiltration** \[Common Talent\] - Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.
+    -   Your Alloyblood Mantras (Infused Slash, Rising Plasma, and Spinning Serum) now apply Blood Poisoning and Metal Rods on hit.  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 65 Bloodrend, 65 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
 ### Amoran Seeker
 
@@ -2074,6 +2110,43 @@ These Talents [Unbound](../Attributes_Unbound.md) their respective attributes, i
     -   Prerequisites: [Behind You](../Talents.md#behind-you), 60 Shadowcast  
         
     -   Tags: \[Agility\] \[Intelligence\] \[Shadowcast\]
+
+### Exotherm
+
+-   **Exotherm Path: Sanguine Blaze** \[Common Talent\] - Your blood is thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing, up to 3 stacks. Touch it with flame and it erupts. Your fire burns a searing pink.
+    -   Turns your Flamecharm Mantras, status effects, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
+    -   Bloodrend Mantras apply stacks of Black Blood, applying a slow and [Anti-Heal](../Status_Effects.md#anti-heal) effect. Applying [Burn](../Status_Effects.md#sanguine-burn) to a target with Black Blood causes an explosion that deals high damage and applies knockback.  
+        
+    -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
+        
+    -   Mutual Exclusives: [Azure Flames](../Talents.md#azure-flames), [Eruption Path: Lava Serpent](../Talents.md#eruption-path-lava-serpent), [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Anti-Heal\] \[Anti-Sustain\] \[Attunement Path\] \[Debuff\] \[Multi-Attunement\] \[Slow\]
+
+-   **Burnout** \[Common Talent\] - Igniting enemies reduces their damage by 4% per Black Blood stack, up to a maximum of 12%.
+    
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze), 60 Bloodrend, 65 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Debuff\] \[Multi-Attunement\]
+
+-   **Critical Mass** \[Common Talent\] - Landing a Critical Attack on an enemy with Black Blood ignites them with pink fire.
+    
+    -   Prerequisites: 45 Bloodrend, 45 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Weapon Attack\]
+
+-   **Exothermic Finish** \[Common Talent\] - Igniting an enemy with Black Blood now flourishes them instead of knocking them back, inflicting all flourish talents.
+    
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze), 60 Bloodrend, 80 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Flourish\] \[Multi-Attunement\]
+
+-   **Pressure Bleed** \[Common Talent\] - Your [vents](../Combat_Mechanics.md#tempo) turn pink, spraying explosive Black Blood puddles that ignite enemies.
+    -   Your Vent leaves behind Black Blood puddles that applies [Burn](../Status_Effects.md#sanguine-burn) to anyone who touches it.  
+        
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze), 50 Bloodrend, 50 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Debuff\] \[Multi-Attunement\] \[Vent\]
 
 ### Fadetrimmer
 

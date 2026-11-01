@@ -87,6 +87,24 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
   <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>

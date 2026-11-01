@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 232329
+revid: 232394
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -437,6 +437,42 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 80 Intelligence  
         
     -   Tags: \[Intelligence\] \[Investment Scaling\] \[Mantra\] \[PEN\] \[Scale-down\]
+
+### Alloyblood
+
+-   **Composite Path: Alloyblood** \[Common Talent\] - Fuse the Ironsing rods from Ironsing mantras and Blood Poison from Bloodrend mantras into a composite plasma that flows in your opponents blood. Your Bloodrend mantras are now silver.
+    -   Your Metal Rod and Blood Poison buildup is replaced with Composite Alloy buildup. A certain threshold of Composite Alloy must be built up to cast Alloyblood Mantras.  
+        
+    -   Prerequisites: 50 Bloodrend, 50 Ironsing  
+        
+    -   Mutual Exclusives: [Gilded Path: Scrapsinger](#gilded-path-scrapsinger)  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your Rising Plasma mantra. Raise your opponent's plasma by 10% when this happens.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 55 Bloodrend, 55 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Debuff\] \[Multi-Attunement\]
+
+-   **Retained Hemoglobin** \[Common Talent\] - Using an alloyblood mantra reduces the composite plasma cost of your next alloyblood mantra by 20%. This effect lasts for 10 seconds and can be stacked.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 60 Bloodrend, 60 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Stored Plasma** \[Common Talent\] - Feinting an alloyblood mantra increases the duration of the next weapon summoned from an alloyblood mantra by 33%.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 60 Bloodrend, 60 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Feint\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Ultrafiltration** \[Common Talent\] - Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.
+    -   Your Alloyblood Mantras (Infused Slash, Rising Plasma, and Spinning Serum) now apply Blood Poisoning and Metal Rods on hit.  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 65 Bloodrend, 65 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
 ### Amoran Seeker
 
@@ -2109,6 +2145,43 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: [Behind You](#behind-you), 60 Shadowcast  
         
     -   Tags: \[Agility\] \[Intelligence\] \[Shadowcast\]
+
+### Exotherm
+
+-   **Exotherm Path: Sanguine Blaze** \[Common Talent\] - Your blood is thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing, up to 3 stacks. Touch it with flame and it erupts. Your fire burns a searing pink.
+    -   Turns your Flamecharm Mantras, status effects, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
+    -   Bloodrend Mantras apply stacks of Black Blood, applying a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect. Applying [Burn](Status_Effects.md#sanguine-burn) to a target with Black Blood causes an explosion that deals high damage and applies knockback.  
+        
+    -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
+        
+    -   Mutual Exclusives: [Azure Flames](#azure-flames), [Eruption Path: Lava Serpent](#eruption-path-lava-serpent), [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Anti-Heal\] \[Anti-Sustain\] \[Attunement Path\] \[Debuff\] \[Multi-Attunement\] \[Slow\]
+
+-   **Burnout** \[Common Talent\] - Igniting enemies reduces their damage by 4% per Black Blood stack, up to a maximum of 12%.
+    
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), 60 Bloodrend, 65 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Debuff\] \[Multi-Attunement\]
+
+-   **Critical Mass** \[Common Talent\] - Landing a Critical Attack on an enemy with Black Blood ignites them with pink fire.
+    
+    -   Prerequisites: 45 Bloodrend, 45 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Weapon Attack\]
+
+-   **Exothermic Finish** \[Common Talent\] - Igniting an enemy with Black Blood now flourishes them instead of knocking them back, inflicting all flourish talents.
+    
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), 60 Bloodrend, 80 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Flourish\] \[Multi-Attunement\]
+
+-   **Pressure Bleed** \[Common Talent\] - Your [vents](Combat_Mechanics.md#tempo) turn pink, spraying explosive Black Blood puddles that ignite enemies.
+    -   Your Vent leaves behind Black Blood puddles that applies [Burn](Status_Effects.md#sanguine-burn) to anyone who touches it.  
+        
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), 50 Bloodrend, 50 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Debuff\] \[Multi-Attunement\] \[Vent\]
 
 ### Fadetrimmer
 
@@ -5759,6 +5832,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
+-   Accursed Flame: [Cursed Flames](Cursed_Flames.md) - Summon a blade of Cursed Flames. Your aerial attack and flourish are now enhanced by these flames. While using Cursed Flames, your mantra cooldowns are 3 times longer.
+    -   Triples all Mantra cooldowns while using Cursed Flames.
+    -   Upon using an uppercut, fire a purple flame projectile in front of you at high speeds. This applies [Cursed Burn](Status_Effects.md#cursed-burn) if it lands.
+    -   Upon using an aerial attack, throw a fire projectile diagonally downwards and in front of you, applying [Cursed Burn](Status_Effects.md#cursed-burn) if it lands.
+    -   Cursed Burn is a unique burn modifier that turns your burn light purple, overriding any other recolor, and triples its damage output.
+
 -   Aegis of Tenacity: [Tenacity](Tenacity.md) - You gain resistance to Guardbreaks, but your posture isn't reset when broken. Reduce all posture damage you take by 75%.
 
 -   Ancient Metalwork: [Dissonant Chimecaller](Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](Ironsing.md) Rods and disrupt the [resonances](Resonance.md) of others, disabling them for 15 seconds.
@@ -5816,6 +5895,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Clutch Recovery: [Canor Fang](Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
+
+-   Composite Crusher: [Alloyblood Axe](Alloyblood_Axe.md) - Your axe deals more damage based on how much composite plasma your opponent has.
 
 -   Concussive Strike: [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) - Anytime you ragdoll your opponent, disable your opponents ability to cancel that ragdol for half a second. Deal 5 extra blunt damage when this occurs.
 
@@ -5900,6 +5981,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Hunter's Chase: [Serrated Warspear](Serrated_Warspear.md) - Double the range you are able to chase down enemies with a running attack. Your Running attacks now also proc [Bear Trap](#bear-trap) and deals 15% more base damage.
 
+-   Iron Leech: [Alloyblood Spear](Alloyblood_Spear.md) - Landing light attacks gives temporary buffs depending on how much armor and blood poison your opponent has. The more blood poison the faster you swing. The less armor the more range you get
+
 -   Max Ammo: [Summer Hullwrecker](Summer_Hullwrecker.md) - Landing the cannonball of your critical attack removes your critical attack's cooldown.
     -   As long as the cannonball lands on the target, this critical can be reused infinitely.
 
@@ -5915,6 +5998,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This cannot give the [Brain](Status_Effects.md#brain), [Scale](Status_Effects.md#scale), [Strength](Status_Effects.md#strength), or [Throat](Status_Effects.md#throat) food buffs.
 
 -   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
+    -   Grants a small swing speed boost while active.
 
 -   Pierce Through: [Ritual Spear](Ritual_Spear.md) & [Ritual Sacrifice](Ritual_Sacrifice.md) - Remove the autoparry frames the first hit of your base spear critical has.
     -   The **default** spear critical no longer gets canceled if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.
@@ -5928,6 +6012,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 15 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
     -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 15 seconds, making your critical guaranteed guardbreak if it hits block.
+
+-   Quick Incisions: [Alloyblood Daggers](Alloyblood_Daggers.md) - Switch between two effects when alternating between different daggers with light attacks. One dagger steals a bit of armor durability while the other gives your opponent a bit of blood poison.
 
 -   Rage Amp: [Broodalloy Cestus](Coral_Cestus.md) - At 2 or more combat tags, your critical now applies [anti-heal](Status_Effects.md#anti-heal) while also increasing the size and damage of your critical. This scales with the amount of combat tags you currently have.
 
@@ -6056,6 +6142,12 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   [Angels](Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\]
+
+-   **Ardenstar Rage**: Harvestman's Halo - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.
+    -   Cooldown reduction stacks with [Blessed Gems](Blessed_Gem.md) for 75% cooldown reduction.
+    -   [Cursed Burn](Status_Effects.md#cursed-burn) is a unique Burn modifier that triples the burn damage and turns the flames purple.  
+        
+    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Burn\] \[Debuff\] \[Mantra\]
 
 -   **Art of the Deal**: [Aristocrat Coat](Aristocrat_Coat.md) - Your rapport with merchants gives you lower prices!
     -   Reduces the purchase price of items by 10%.  
@@ -6196,6 +6288,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Bleed\] \[Sustain\]
 
+-   **Cursed Pumpkin**: Harvestman's Cloak - Double the damage of your pumpkins from your Pumpkin Pitch mantra.
+    
+    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Damage Buff\] \[Mantra\]
+
 -   **Dancing Steps Of War**: [Geta](Geta.md) - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
     -   Provides a 35% [Speed Boost](Status_Effects.md#speed-boost).
     -   Reduces your dodge cooldown to 0.5s while active. This affects both dodge types.
@@ -6213,7 +6309,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Your Ardour Scream now destroys all campfires within its range.
     -   Adds 100 studs to [Ardour Scream](#ardour-scream)'s range (95 to 195). This stacks with [Soul Infusion](#soul-infusion)'s +105 studs for 300 total studs.  
         
-    -   Tags: \[ • Common Talent\] \[Equipment\]
+    -   Tags: \[Equipment • Common Talent\] \[Equipment\]
 
 -   **Devastating Power**: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have. Unequipped Mantras provide Ether as well.  
@@ -6333,6 +6429,12 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\]
 
+-   **Grapple**: [Familiar Vagrant's Armor](<Familiar_Vagrant's_Armor.md>) - Aim your mouse and shoot a grapple from your metal arm to your target and pull yourself towards it. \[Requires [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) to use\]
+    -   Upon using the provided tool, grapple to your cursor location and pull yourself tow@rds it at high speeds.
+    -   If your cursor is hovering over a player or NPC on use, pull them towards you as well,bsimilarly to the [Lord's Slice](Oath%253A_Contractor.md#lords-slice) Mantra.  
+        
+    -   Tags: \[Outfit • Common Talent\] \[Outfit\] \[Tool\]
+
 -   **Grotesque Resilience**: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces [Burn](Status_Effects.md#burn) damage by 50%
         -   If you are utilizing [Flame Within](#flame-within), the DoT damage reduction will be reduced down to 25%.
@@ -6405,6 +6507,12 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Flamecharmer • Common Talent\] \[Outfit\] \[Damage Resistance\]
 
+-   **Iron Body**: [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) - Reduce the amount of chip damage you receive by flat 10%. Enables you to use actions that require a prosthetic arm.
+    -   This is required to use the [Grapple](#grapple) Talent.
+    -   Grants 10% damage resistance to chip damage, does not reduce chip % on incoming attacks by 10.  
+        
+    -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Chip Damage\] \[Damage Resistance\]
+
 -   **Jester's Ruse**: [Jester's Beret](<Jester's_Beret.md>) & [Trickster's Beret](<Trickster's_Beret.md>) - Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified.
     
     -   [Visionshaper](Oath%253A_Visionshaper.md)'s Cheap Trick visual effect plays on proc.
@@ -6443,6 +6551,13 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Mirror Illusion](Oath%253A_Visionshaper.md#mirror-illusion)
         -   You'll Need to Get Past Me Talent
         -   Twisted Puppets' puppets
+
+-   Lightning Drop: [Familiar Sage's Armor](<Familiar_Sage's_Armor.md>) - While in the air, quickly drop down and strike your opponent where you land with fierce lightning.
+    -   Grants a Talent Tool that can only be used while you are high off the ground.
+    -   On use, turn into a lightning bolt and speed downwards, ragdolling and damaging targets hit. The damage scales on the height difference.
+
+-   Light Piercer: [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>) - While using a spear, shoot out 3 light spears thstbpierce through your opponent and their block. While using Familiar Prince's Armor, all passive regeneration is increased by 10%.
+    -   Grants a Talent tool that can only be used if you have a [Spear](Iron_Spear.md) equipped. On use, fire three spear projectiles forwards, dealing 10 damage each. These cannot be blocked.
 
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
     -   This affects:

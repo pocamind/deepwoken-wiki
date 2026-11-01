@@ -161,6 +161,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](../Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
+-   Accursed Flame: [Cursed Flames](../Cursed_Flames.md) - Summon a blade of Cursed Flames. Your aerial attack and flourish are now enhanced by these flames. While using Cursed Flames, your mantra cooldowns are 3 times longer.
+    -   Triples all Mantra cooldowns while using Cursed Flames.
+    -   Upon using an uppercut, fire a purple flame projectile in front of you at high speeds. This applies [Cursed Burn](../Status_Effects.md#cursed-burn) if it lands.
+    -   Upon using an aerial attack, throw a fire projectile diagonally downwards and in front of you, applying [Cursed Burn](../Status_Effects.md#cursed-burn) if it lands.
+    -   Cursed Burn is a unique burn modifier that turns your burn light purple, overriding any other recolor, and triples its damage output.
+
 -   Aegis of Tenacity: [Tenacity](../Tenacity.md) - You gain resistance to Guardbreaks, but your posture isn't reset when broken. Reduce all posture damage you take by 75%.
 
 -   Ancient Metalwork: [Dissonant Chimecaller](../Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](../Ironsing.md) Rods and disrupt the [resonances](../Resonance.md) of others, disabling them for 15 seconds.
@@ -218,6 +224,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Clutch Recovery: [Canor Fang](../Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
+
+-   Composite Crusher: [Alloyblood Axe](../Alloyblood_Axe.md) - Your axe deals more damage based on how much composite plasma your opponent has.
 
 -   Concussive Strike: [Worldpiercer Gauntlets](../Worldpiercer_Gauntlets.md) - Anytime you ragdoll your opponent, disable your opponents ability to cancel that ragdol for half a second. Deal 5 extra blunt damage when this occurs.
 
@@ -302,6 +310,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Hunter's Chase: [Serrated Warspear](../Serrated_Warspear.md) - Double the range you are able to chase down enemies with a running attack. Your Running attacks now also proc [Bear Trap](../Talents.md#bear-trap) and deals 15% more base damage.
 
+-   Iron Leech: [Alloyblood Spear](../Alloyblood_Spear.md) - Landing light attacks gives temporary buffs depending on how much armor and blood poison your opponent has. The more blood poison the faster you swing. The less armor the more range you get
+
 -   Max Ammo: [Summer Hullwrecker](../Summer_Hullwrecker.md) - Landing the cannonball of your critical attack removes your critical attack's cooldown.
     -   As long as the cannonball lands on the target, this critical can be reused infinitely.
 
@@ -317,6 +327,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This cannot give the [Brain](../Status_Effects.md#brain), [Scale](../Status_Effects.md#scale), [Strength](../Status_Effects.md#strength), or [Throat](../Status_Effects.md#throat) food buffs.
 
 -   Phantom: [Withered Phantomcleave](../Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
+    -   Grants a small swing speed boost while active.
 
 -   Pierce Through: [Ritual Spear](../Ritual_Spear.md) & [Ritual Sacrifice](../Ritual_Sacrifice.md) - Remove the autoparry frames the first hit of your base spear critical has.
     -   The **default** spear critical no longer gets canceled if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.
@@ -330,6 +341,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Punishing Riposte: [Crucible Rapier](../Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 15 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
     -   After parrying a guard break, gain the [Punishing Riposte](../Status_Effects.md#punishing-riposte) status effect for 15 seconds, making your critical guaranteed guardbreak if it hits block.
+
+-   Quick Incisions: [Alloyblood Daggers](../Alloyblood_Daggers.md) - Switch between two effects when alternating between different daggers with light attacks. One dagger steals a bit of armor durability while the other gives your opponent a bit of blood poison.
 
 -   Rage Amp: [Broodalloy Cestus](../Coral_Cestus.md) - At 2 or more combat tags, your critical now applies [anti-heal](../Status_Effects.md#anti-heal) while also increasing the size and damage of your critical. This scales with the amount of combat tags you currently have.
 
@@ -454,6 +467,11 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   [Angels](../Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         
 
+-   **Ardenstar Rage**: Harvestman's Halo - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.
+    -   Cooldown reduction stacks with [Blessed Gems](../Blessed_Gem.md) for 75% cooldown reduction.
+    -   [Cursed Burn](../Status_Effects.md#cursed-burn) is a unique Burn modifier that triples the burn damage and turns the flames purple.  
+        
+
 -   **Art of the Deal**: [Aristocrat Coat](../Aristocrat_Coat.md) - Your rapport with merchants gives you lower prices!
     -   Reduces the purchase price of items by 10%.  
         
@@ -563,6 +581,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Whirling Blade heals you for 25% of damage dealt. Hitting allies or player summons will still grant this healing.  
         
 
+-   **Cursed Pumpkin**: Harvestman's Cloak - Double the damage of your pumpkins from your Pumpkin Pitch mantra.
+    
+
 -   **Dancing Steps Of War**: [Geta](../Geta.md) - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
     -   Provides a 35% [Speed Boost](../Status_Effects.md#speed-boost).
     -   Reduces your dodge cooldown to 0.5s while active. This affects both dodge types.
@@ -668,6 +689,11 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   This Talent has no effects,[\[1\]](#cite-note-1) so it probably isn't actually going to make you feel better.  
         
 
+-   **Grapple**: [Familiar Vagrant's Armor](<../Familiar_Vagrant's_Armor.md>) - Aim your mouse and shoot a grapple from your metal arm to your target and pull yourself towards it. \[Requires [Familiar Prosthetic Arm](../Familiar_Prosthetic_Arm.md) to use\]
+    -   Upon using the provided tool, grapple to your cursor location and pull yourself tow@rds it at high speeds.
+    -   If your cursor is hovering over a player or NPC on use, pull them towards you as well,bsimilarly to the [Lord's Slice](../Oath%253A_Contractor.md#lords-slice) Mantra.  
+        
+
 -   **Grotesque Resilience**: [Parasol Planter](../Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces [Burn](../Status_Effects.md#burn) damage by 50%
         -   If you are utilizing [Flame Within](../Talents.md#flame-within), the DoT damage reduction will be reduced down to 25%.
@@ -728,6 +754,11 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.  
         
 
+-   **Iron Body**: [Familiar Prosthetic Arm](../Familiar_Prosthetic_Arm.md) - Reduce the amount of chip damage you receive by flat 10%. Enables you to use actions that require a prosthetic arm.
+    -   This is required to use the [Grapple](../Talents.md#grapple) Talent.
+    -   Grants 10% damage resistance to chip damage, does not reduce chip % on incoming attacks by 10.  
+        
+
 -   **Jester's Ruse**: [Jester's Beret](<../Jester's_Beret.md>) & [Trickster's Beret](<../Trickster's_Beret.md>) - Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified.
     
     -   [Visionshaper](../Oath%253A_Visionshaper.md)'s Cheap Trick visual effect plays on proc.
@@ -762,6 +793,13 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         -   [Visionshaper](../Oath%253A_Visionshaper.md) clones from [Mirror Illusion](../Oath%253A_Visionshaper.md#mirror-illusion)
         -   You'll Need to Get Past Me Talent
         -   Twisted Puppets' puppets
+
+-   Lightning Drop: [Familiar Sage's Armor](<../Familiar_Sage's_Armor.md>) - While in the air, quickly drop down and strike your opponent where you land with fierce lightning.
+    -   Grants a Talent Tool that can only be used while you are high off the ground.
+    -   On use, turn into a lightning bolt and speed downwards, ragdolling and damaging targets hit. The damage scales on the height difference.
+
+-   Light Piercer: [Familiar Prince's Armor](<../Familiar_Prince's_Armor.md>) - While using a spear, shoot out 3 light spears thstbpierce through your opponent and their block. While using Familiar Prince's Armor, all passive regeneration is increased by 10%.
+    -   Grants a Talent tool that can only be used if you have a [Spear](../Iron_Spear.md) equipped. On use, fire three spear projectiles forwards, dealing 10 damage each. These cannot be blocked.
 
 -   Looter: [Experienced Adventurer](../Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
     -   This affects:

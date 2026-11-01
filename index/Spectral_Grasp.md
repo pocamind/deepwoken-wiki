@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 231264
+revid: 232430
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Daggers, Hallowtide, Light Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Cri
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | ... |
 
 ## Description

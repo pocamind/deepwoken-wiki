@@ -266,6 +266,24 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
   <td>11.5</td>
@@ -445,6 +463,23 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>

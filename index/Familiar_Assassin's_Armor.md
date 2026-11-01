@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 223307
+revid: 232440
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits 
 | resistances | +25% Physical Armor +25% Elemental Armor |
 | buffs | +50% Stealth +20% Ether Regen |
 | talents | Bane |
-| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '25 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
+| obtainment | Glaive Spellhardt [35 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 

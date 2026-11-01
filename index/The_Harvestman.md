@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 232352
+revid: 232457
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
@@ -13,9 +13,9 @@ notices:
 
 | The Harvestman | |
 |---|---|
-| health | ~60000 |
+| health | 9000(+1000 per player) |
 | attacks | Resurrection, Accursed Flames: Ritual, Accursed Flames: Rift, I am NOT the Devourer of Gods, ok?, EAT MY BEAM OF HALLOWTIDE HORROR!!!!!! |
-| drops | Cursed Flames |
+| drops | Cursed Flames, See Loot Table |
 | locations | The Harvest Ritual |
 
 “ An effigy made, a prayer whispered, a harvest blessed - face the wrath of the Harvestman, if you dare! ”
@@ -26,7 +26,7 @@ notices:
 
 The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in The Harvest Ritual, accessible by his [World Event](World_Events.md). They are a towering scarecrow wearing a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulderpads and numerous layers of tattered cloth. The Harvestman's head is a pile of straw emanating an orange glow, while having a radiating yellow orb at floating above it. He also has a second pair of mechanical arms that are primarily used in combat.
 
-Unlike all bosses, this boss involves a unique gimmick where the player is **only** allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) mantra, making all of his attacks unparriable inturn.
+Unlike all bosses, this boss involves a unique gimmick where the player is **only** allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra, making all of his attacks unparriable inturn.
 
 ## Moveset
 
@@ -144,14 +144,54 @@ Jump
 
 ## Passives
 
--   Cursed Flames - The Harvestman's attacks inflict Cursed Flames on the player.
+-   **Cursed Flames** - The Harvestman's attacks inflict Cursed Flames on the player.
 -   The Harvestman's Rules - The Harvestman cannot be attacked by anything else other than the [Pumpkin Pitch](Pumpkin_Pitch.md) mantra. Your light attack is changed to [Pumpkin Pitch](Pumpkin_Pitch.md) throw.
--   Joy for the living - Surviving the Harvestman's attacks award within a close proximity to you with 2 Joy.
+-   Joy for the living - Surviving the Harvestman's attacks award within a close proximity to you with 2 [Joy](Joy.md).
 -   Curse of the Gourdskipper - Dying to the Harvestman revives the player as a [Gourdskipper](Gourdskipper.md).
     -   Attacking other players as a [Gourdskipper](Gourdskipper.md) will infect them as well, and grants 10 [Joy](Joy.md) to the attacker.
     -   Using Pumpkin Pitch against an infected player will instantly defeat them, removing them from the [Dungeon](Dungeons.md).
 
+  
+
+## Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>, Familiar Occultist's Armor</td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, Idol of Yun'shul</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Light Weapons</b>: <a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a>, <a href="Moppet.md">Moppet</a>, <a href="Skull_Piercer.md">Skull Piercer</a>, <a href="Spectral_Grasp.md">Spectral Grasp</a></li>
+    <li><b>Medium Weapons</b>: <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="Hallowscleave.md">Hallowcleave</a>, <a href="The_Weaving_Web.md">The Weaving Web</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Skyreap_Blade.md">Skyreap Blade</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
+  <ol>
+    <li><b>Hallowtide Head</b>: <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a> (all variants),</li>
+  </ol></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   Many of the boss's attacks are based off of The Devourer of Gods from the _Terraria_ Calamity Mod.
--   The halo in question has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name, a phrase that was shown in the Hallowtide 2026 trailer image.
+-   The Harvestman's halo has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name", a phrase that was shown in the Hallowtide 2026 trailer image.

@@ -319,14 +319,14 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td><b><a href="First_Light.md">First Light</a></b></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>HVY: 8</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>0.1s</td>
-  <td>36.8</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -479,6 +479,22 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
+  <td>100 HVY<br>
+  60 MND</td>
+  <td>28</td>
+  <td>HVY: 10<br>
+  MND: 3</td>
+  <td>-</td>
+  <td>30%</td>
+  <td>12</td>
+  <td>9.5</td>
+  <td>0.6s</td>
+  <td>0.1s</td>
+  <td>55.3</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>

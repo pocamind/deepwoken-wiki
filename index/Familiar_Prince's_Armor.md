@@ -1,6 +1,6 @@
 ---
 title: "Familiar Prince's Armor"
-revid: 232314
+revid: 232379
 source: https://deepwoken.fandom.com/wiki/Familiar_Prince's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -42,7 +42,7 @@ The [Light Piercer](Talents.md#light-piercer) Talent grants an active Talent too
 
 Does little to no hitstun, Can be parried or dodged, Block ignores.
 
-Does 10 typeless damage per light spear hit and has great range of 160-170 (around the same as ardour slicer), has around 0,3s windup and 7 second cooldown.
+Does 10 physical damage per light spear hit and has great range of 160-170 (around the same as ardour slicer), has around 0,3s windup and 8 second cooldown.
 
 While using the **Familiar Prince's Armor**, all passive regeneration is increased by 10%.
 

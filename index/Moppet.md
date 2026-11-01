@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 227495
+revid: 232422
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons, Daggers, Weapons with Unique Animations, Event Item, Hallo
 | range | 6 Sweep |
 | swing speed | 1.2x |
 | attack duration | 0.5s |
-| special effect | On M1, the puppet will take the appearance of the opponent.M1s deal no damage, instead the damage is stored until you use your critical. |
+| special effect | On M1, the puppet will take the appearance of the opponent.M1s deal no direct damage, instead the damage is stored until you use your critical. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -30,7 +30,7 @@ categories: [Weapons, Daggers, Weapons with Unique Animations, Event Item, Hallo
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Just as we see likeness in objects, Vows can often be empowered by the imitative correspondence between an effigy and its target. |
 
 ## Description

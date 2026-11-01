@@ -1,6 +1,6 @@
 ---
 title: Smouldering Hallow
-revid: 231117
+revid: 232426
 source: https://deepwoken.fandom.com/wiki/Smouldering_Hallow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Event Item, Hallowtide, Heavy Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Imbued with twisted roots of Ardfall, this cannon is unlike any other. Forged by the smiths of the Floating Keep, its festive gourds unleash devastating cheer. You can't help but grin a little inside when you fire it. |
 
 ## Description

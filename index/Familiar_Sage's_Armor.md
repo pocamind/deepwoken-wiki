@@ -1,6 +1,6 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 232260
+revid: 232385
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -12,13 +12,12 @@ categories: [Unique Outfits]
 |---|---|
 | caption | TBA |
 | tier | Unique |
-| crafting_req | TBA |
-| price | TBA |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Ferryman's Coat Cloth, x1 Storm Enchant Stone, x1 Stormbreaker Enchant Stone |
+| price | 5,000 Notes |
 | stat_req | Power 15 |
 | bankable | Yes |
 | droppable | No |
-| durability | TBA |
-| resistances | TBA |
+| durability | 2750 |
 | buffs | TBA |
 | talents | TBA |
 | selling_price | 10 |

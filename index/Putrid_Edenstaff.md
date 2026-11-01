@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 221404
+revid: 232423
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Heavy Weapons, Weapons with Unique Animations]
@@ -31,7 +31,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | ... |
 
 ## Description

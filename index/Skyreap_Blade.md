@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 221441
+revid: 232425
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves. |
 
 ## Description

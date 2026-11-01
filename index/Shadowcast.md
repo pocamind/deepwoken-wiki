@@ -56,7 +56,7 @@ _All_ corresponding Cantrips will be granted when the player obtains at least on
 
 **Night Vision;** This Cantrip allows you to see better in low-light environments.
 
-**Shadowed Lure;** This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure, "reducing how often they need to move it around".
+**Shadowed Lure;** This Cantrip applies a Shadowcast aura to the player's [Fishing Rod](Fishing_Rod.md) lure. This lessens how far the catch moves backwards when the player performs an incorrect input in the [Fishing](Fishing.md) minigame, effectively lessening the downside.
 
 ## Mantras
 

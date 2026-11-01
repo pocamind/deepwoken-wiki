@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 230980
+revid: 232452
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -12,10 +12,10 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 |---|---|
 | type | Greataxe |
 | damage type | Slash |
-| requirements | 75 ICE, 40 HVY, LVL 10 |
+| requirements | 40 HVY; 75 ICE; LVL 10 |
 | oath | Silentheart or Contractor |
 | damage | 24 |
-| scaling | ICE: 6, HVY: 4 |
+| scaling | 6 ICE; 4 HVY |
 | posture damage | 6 |
 | range | 8.5 Sweep |
 | swing speed | 0.83x |

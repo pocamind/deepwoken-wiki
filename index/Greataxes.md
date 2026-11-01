@@ -323,7 +323,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>10 STR<br>
   75 HVY<br>
   LVL 10</td>
-  <td>26</td>
+  <td>24</td>
   <td>HVY: 8</td>
   <td>15%</td>
   <td>10%</td>
@@ -331,7 +331,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>9</td>
   <td>0.85x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -378,6 +378,23 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>0.15s</td>
   <td>49.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>

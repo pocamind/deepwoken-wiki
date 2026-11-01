@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 230528
+revid: 232429
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -30,7 +30,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Aww, look at the little guy though!... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Vagrant's Armor"
-revid: 232258
+revid: 232377
 source: https://deepwoken.fandom.com/wiki/Familiar_Vagrant's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -44,4 +44,6 @@ The [Grapple](Talents.md#grapple) Talent grants a Talent tool that upon activati
 ## Trivia/Notes
 
 -   Note: It requires the user to have the [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) equipped in order for grapple to work.
+-   If the attack is blocked, the user will be ragdolled.
+-   The range on the grapple is around 75-77
 -   TBA

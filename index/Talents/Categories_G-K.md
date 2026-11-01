@@ -949,12 +949,13 @@ Talents granted from your [Aspect](../Aspects.md). If you are playing the [Vow o
         
     -   Tags: \[Common Talent\] \[Ironsing\] \[+Health\] \[Hard Requirements\]
 
--   **Alloyblood** \[Advanced Talent\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
+-   **Iron Veins** \[Advanced Talent\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
     -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
     -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](../Curse_of_the_No_Life_King.md) Enchantment.
     -   Blood loss reduction stacks multiplicatively with [Cauterized Wounds](../Talents.md#cauterized-wounds).
-    -   Alloyblood's effects linearly scale with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
-    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack. Additionally, it changes your [Bloodrend](../Bloodrend.md) Mantras to a blue-ish grey.  
+    -   Iron Veins' effects scale linearly with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
+    -   Makes your blood a shade of light grey when being attacked by an attack with the slash damage VFX.
+    -   Used to be called "Alloyblood".  
         
     -   Prerequisites: 100 Ironsing  
         

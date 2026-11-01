@@ -351,7 +351,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>90 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -364,6 +365,25 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>

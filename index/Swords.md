@@ -104,7 +104,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
   <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
-  <td>20 MED</td>
+  <td>20 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
   <td>MED: 6</td>
   <td>-</td>
@@ -501,7 +502,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
   <small><a href="#falchion">Falchion</a></small></div></td>
-  <td>75 MED</td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
@@ -686,15 +688,16 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
-  <td>17.5</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
+  <td>18</td>
+  <td>MED: 7<br>
+  AGL: 2</td>
+  <td>5%</td>
+  <td>25%</td>
+  <td>3</td>
   <td>8</td>
-  <td>1x</td>
+  <td>1.03x</td>
   <td>-</td>
-  <td>26.7</td>
+  <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -711,6 +714,21 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>

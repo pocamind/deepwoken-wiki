@@ -438,7 +438,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -2427,7 +2427,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -3127,7 +3127,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -4711,7 +4711,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -4728,7 +4728,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -4745,7 +4745,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -4886,7 +4886,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -4903,7 +4903,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -4920,7 +4920,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -5341,7 +5341,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -6481,7 +6481,7 @@ Daggers
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -8545,7 +8545,7 @@ Pistols
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -10254,7 +10254,7 @@ Spears
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -11047,7 +11047,7 @@ Bows
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -12265,7 +12265,7 @@ Greataxes
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -13271,15 +13271,15 @@ ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
 MED: 55 | 13.5 | LHT: 5  
 MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
-| **Alloyblood Axe** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
+| **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
 Rising Plasma (Mantra) | 24 | HVY: 3  
 BLD: 5  
 MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
-| **Alloyblood Daggers** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
+| **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
 Infused Slash Mantra | 14.5 | LHT: 3  
 BLD: 5  
 MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
-| **Alloyblood Spear  
+| **[Alloyblood Spear](Alloyblood_Spear.md)  
 ([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
 Spinning Serum (Mantra) | 18 | MED: 3  
 BLD: 5  
@@ -13988,7 +13988,7 @@ Elemental
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -14005,7 +14005,7 @@ Elemental
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -14022,7 +14022,7 @@ Elemental
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -14163,7 +14163,7 @@ Elemental
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -14180,7 +14180,7 @@ Elemental
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -14197,7 +14197,7 @@ Elemental
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -15290,7 +15290,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -16499,7 +16499,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -18392,7 +18392,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -20322,7 +20322,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -21048,7 +21048,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -22329,7 +22329,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -23281,15 +23281,15 @@ ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
 MED: 55 | 13.5 | LHT: 5  
 MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
-| **Alloyblood Axe** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
+| **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
 Rising Plasma (Mantra) | 24 | HVY: 3  
 BLD: 5  
 MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
-| **Alloyblood Daggers** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
+| **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
 Infused Slash Mantra | 14.5 | LHT: 3  
 BLD: 5  
 MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
-| **Alloyblood Spear  
+| **[Alloyblood Spear](Alloyblood_Spear.md)  
 ([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
 Spinning Serum (Mantra) | 18 | MED: 3  
 BLD: 5  
@@ -24000,7 +24000,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -24017,7 +24017,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -24034,7 +24034,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -24175,7 +24175,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -24192,7 +24192,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -24209,7 +24209,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -25160,7 +25160,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -27149,7 +27149,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -27849,7 +27849,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -29433,7 +29433,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -29450,7 +29450,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -29467,7 +29467,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
@@ -29608,7 +29608,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Axe</b></td>
+  <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Rising Plasma (Mantra)</td>
   <td>24</td>
@@ -29625,7 +29625,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Daggers</b></td>
+  <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Infused Slash (Mantra)</td>
   <td>14.5</td>
@@ -29642,7 +29642,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b>Alloyblood Spear<br>
+  <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
   Spinning Serum (Mantra)</td>
