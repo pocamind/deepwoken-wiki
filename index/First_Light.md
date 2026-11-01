@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 230933
+revid: 232124
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greatsword
 | requirements | 75 HVY |
 | oath | Silentheart |
 | damage | 23 |
-| scaling | HVY: 8 |
+| scaling | HVY: 8, FIR: 2 |
 | posture damage | 9 |
 | range | 8.5 Sweep |
 | swing speed | 0.82x |

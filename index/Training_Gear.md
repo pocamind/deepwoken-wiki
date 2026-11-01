@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 231128
+revid: 232125
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -41,7 +41,7 @@ Attempting to train an attribute may display a certain message, hinting at somet
 
 | Message | Meaning |
 | --- | --- |
-| I've learnt what I can from training right now, I should put it into practice... | You require mor experience before you use that training gear. Experience can be gained from killing enemies, and other miscellaneous activities. |
+| I've learnt what I can from training right now, I should put it into practice... | You require more experience before you use that training gear. Experience can be gained from killing enemies, and other miscellaneous activities. |
 | Repeat training will do no good without proper experience. |
 | I've hit a wall in my training... Maybe there's some way to break it? | You've reached the max value for an attribute, and need to [unbound your attribute](Attributes_Unbound.md) to progress further. |
 | The elements are not in alignment... | A hint towards obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). The exact requirements for Saintsworn can be found on its respective page. This message will no longer appear when the Oath's requirements are met. |

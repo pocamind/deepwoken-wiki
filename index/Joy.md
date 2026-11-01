@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 210840
+revid: 232325
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Hallowtide, Mechanics, Currency]
@@ -27,12 +27,12 @@ Generally, it is recommended for you to to buy the [**Hallowtide Medals**](Seaso
 
 ## Obtainment
 
-Joy can be obtained in 2 ways:
+Joy can be obtained in 4 ways:
 
 1.  Spooking stationary NPCs with the [Hallowtide Mask](Hallowtide_Mask.md). This gives you 3 Joy per NPC spooked, with a cooldown of 30 minutes for each NPC. Guards and similar NPCs cannot be spooked.
-2.  By doing the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>). There are 2 ways to get Joy by doing this trial.
-    -   First, by surviving each wave, which gives you 3 Joy per wave. There is a total of 8 waves, and once you complete the whole trial, you get 16 Joy on top of it, ultimately giving you 40 Joy per full trial.
-    -   Second, by getting infected, and infecting other players, which gives you 3 Joy per players you infect.
+2.  By doing the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>). There are 2 ways to get Joy by doing this trial. First, by surviving each wave, which gives you 3 Joy per wave. There is a total of 8 waves, and once you complete the whole trial, you get 16 Joy on top of it, ultimately giving you 40 Joy per full trial. Second, by getting infected, and infecting other players, which gives you 3 Joy per players you infect.
+3.  By surviving and vanquishing [The Harvestman](The_Harvestman.md). Surviving [The Harverstman](The_Harvestman.md)'s attacks awards the participant with 2 Joy, however, one must be near an attack to receive the Joy.
+4.  By winning the [Prop Hunt](Prop_Hunt.md) minigame, the winning side getting 60 joy.
 
 ## Usage
 

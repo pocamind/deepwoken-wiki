@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 231808
+revid: 232305
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -239,6 +239,24 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
   <td>11.5</td>
@@ -418,6 +436,23 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -1194,7 +1229,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
   <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
-  <td>20 MED</td>
+  <td>20 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
   <td>MED: 6</td>
   <td>-</td>
@@ -1591,7 +1627,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
   <small><a href="#falchion">Falchion</a></small></div></td>
-  <td>75 MED</td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
@@ -1776,15 +1813,16 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
-  <td>17.5</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
+  <td>18</td>
+  <td>MED: 7<br>
+  AGL: 2</td>
+  <td>5%</td>
+  <td>25%</td>
+  <td>3</td>
   <td>8</td>
-  <td>1x</td>
+  <td>1.03x</td>
   <td>-</td>
-  <td>26.7</td>
+  <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -1801,6 +1839,21 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -2358,7 +2411,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>90 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -2371,6 +2425,25 @@ All weapons within the game have the chance of being found with or without diffe
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -2425,11 +2498,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>20</td>
   <td>MED: 5<br>
   STR: 4</td>
-  <td>12%</td>
+  <td>10%</td>
   <td>-</td>
+  <td>6.5</td>
   <td>8</td>
-  <td>8.5</td>
-  <td>0.91x</td>
+  <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
@@ -2442,9 +2515,9 @@ All weapons within the game have the chance of being found with or without diffe
   <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
-  <td>6</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.92x</td>
+  <td>0.95x</td>
   <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
@@ -2604,6 +2677,24 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -2979,7 +3070,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10 STR<br>
   75 HVY<br>
   LVL 10</td>
-  <td>26</td>
+  <td>24</td>
   <td>HVY: 8</td>
   <td>15%</td>
   <td>10%</td>
@@ -2987,7 +3078,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>0.85x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -3034,6 +3125,23 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.15s</td>
   <td>49.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -3322,14 +3430,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="First_Light.md">First Light</a></b></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>HVY: 8</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>0.1s</td>
-  <td>36.8</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -3482,6 +3590,22 @@ All weapons within the game have the chance of being found with or without diffe
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
+  <td>100 HVY<br>
+  60 MND</td>
+  <td>28</td>
+  <td>HVY: 10<br>
+  MND: 3</td>
+  <td>-</td>
+  <td>30%</td>
+  <td>12</td>
+  <td>9.5</td>
+  <td>0.6s</td>
+  <td>0.1s</td>
+  <td>55.3</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
@@ -3928,6 +4052,21 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
   <td>25 HVY<br>
   75 FIR<br>
@@ -3975,6 +4114,20 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="First_Light.md">First Light</a></b></td>
+  <td>75 HVY</td>
+  <td>23</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>8.5</td>
+  <td>0.82x</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -4558,6 +4711,59 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
   <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
@@ -4678,6 +4884,59 @@ All weapons within the game have the chance of being found with or without diffe
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -4883,6 +5142,24 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
   <td>11.5</td>
@@ -5062,6 +5339,23 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -5988,6 +6282,24 @@ Daggers
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
   <td>11.5</td>
@@ -6167,6 +6479,23 @@ Daggers
   <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -7018,7 +7347,8 @@ Pistols
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
   <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
-  <td>20 MED</td>
+  <td>20 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
   <td>MED: 6</td>
   <td>-</td>
@@ -7415,7 +7745,8 @@ Pistols
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
   <small><a href="#falchion">Falchion</a></small></div></td>
-  <td>75 MED</td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
@@ -7600,15 +7931,16 @@ Pistols
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
-  <td>17.5</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
+  <td>18</td>
+  <td>MED: 7<br>
+  AGL: 2</td>
+  <td>5%</td>
+  <td>25%</td>
+  <td>3</td>
   <td>8</td>
-  <td>1x</td>
+  <td>1.03x</td>
   <td>-</td>
-  <td>26.7</td>
+  <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -7625,6 +7957,21 @@ Pistols
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -8182,7 +8529,8 @@ Pistols
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>90 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -8195,6 +8543,25 @@ Pistols
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -8249,11 +8616,11 @@ Pistols
   <td>20</td>
   <td>MED: 5<br>
   STR: 4</td>
-  <td>12%</td>
+  <td>10%</td>
   <td>-</td>
+  <td>6.5</td>
   <td>8</td>
-  <td>8.5</td>
-  <td>0.91x</td>
+  <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
@@ -8266,9 +8633,9 @@ Pistols
   <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
-  <td>6</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.92x</td>
+  <td>0.95x</td>
   <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
@@ -8428,6 +8795,24 @@ Pistols
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -8635,7 +9020,8 @@ Swords
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
   <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
-  <td>20 MED</td>
+  <td>20 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
   <td>MED: 6</td>
   <td>-</td>
@@ -9032,7 +9418,8 @@ Swords
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
   <small><a href="#falchion">Falchion</a></small></div></td>
-  <td>75 MED</td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
@@ -9217,15 +9604,16 @@ Swords
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
-  <td>17.5</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
+  <td>18</td>
+  <td>MED: 7<br>
+  AGL: 2</td>
+  <td>5%</td>
+  <td>25%</td>
+  <td>3</td>
   <td>8</td>
-  <td>1x</td>
+  <td>1.03x</td>
   <td>-</td>
-  <td>26.7</td>
+  <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -9242,6 +9630,21 @@ Swords
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -9835,7 +10238,8 @@ Spears
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>90 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -9848,6 +10252,25 @@ Spears
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -9920,11 +10343,11 @@ Staves
   <td>20</td>
   <td>MED: 5<br>
   STR: 4</td>
-  <td>12%</td>
+  <td>10%</td>
   <td>-</td>
+  <td>6.5</td>
   <td>8</td>
-  <td>8.5</td>
-  <td>0.91x</td>
+  <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
@@ -9937,9 +10360,9 @@ Staves
   <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
-  <td>6</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.92x</td>
+  <td>0.95x</td>
   <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
@@ -10135,6 +10558,24 @@ Twinblades
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -10549,7 +10990,7 @@ Bows
   <td>10 STR<br>
   75 HVY<br>
   LVL 10</td>
-  <td>26</td>
+  <td>24</td>
   <td>HVY: 8</td>
   <td>15%</td>
   <td>10%</td>
@@ -10557,7 +10998,7 @@ Bows
   <td>9</td>
   <td>0.85x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -10604,6 +11045,23 @@ Bows
   <td>0.15s</td>
   <td>49.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -10892,14 +11350,14 @@ Bows
   <td><b><a href="First_Light.md">First Light</a></b></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>HVY: 8</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>0.1s</td>
-  <td>36.8</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -11052,6 +11510,22 @@ Bows
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
+  <td>100 HVY<br>
+  60 MND</td>
+  <td>28</td>
+  <td>HVY: 10<br>
+  MND: 3</td>
+  <td>-</td>
+  <td>30%</td>
+  <td>12</td>
+  <td>9.5</td>
+  <td>0.6s</td>
+  <td>0.1s</td>
+  <td>55.3</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
@@ -11734,7 +12208,7 @@ Greataxes
   <td>10 STR<br>
   75 HVY<br>
   LVL 10</td>
-  <td>26</td>
+  <td>24</td>
   <td>HVY: 8</td>
   <td>15%</td>
   <td>10%</td>
@@ -11742,7 +12216,7 @@ Greataxes
   <td>9</td>
   <td>0.85x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -11789,6 +12263,23 @@ Greataxes
   <td>0.15s</td>
   <td>49.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -12095,14 +12586,14 @@ Greatswords
   <td><b><a href="First_Light.md">First Light</a></b></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>HVY: 8</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>0.1s</td>
-  <td>36.8</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -12255,6 +12746,22 @@ Greatswords
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
+  <td>100 HVY<br>
+  60 MND</td>
+  <td>28</td>
+  <td>HVY: 10<br>
+  MND: 3</td>
+  <td>-</td>
+  <td>30%</td>
+  <td>12</td>
+  <td>9.5</td>
+  <td>0.6s</td>
+  <td>0.1s</td>
+  <td>55.3</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
@@ -12729,7 +13236,7 @@ Hybrid
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Hybrid Weapons
 
-| **[Wyrmtooth](Wyrmtooth.md)** | Medium & Heavy | 60 MED  
+| **[Wyrmtooth](Wyrmtooth.md)** | Sword & Greatsword | 60 MED  
 40 HVY  
 LVL 10 | 20 | MED: 6.5  
 HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
@@ -12738,7 +13245,8 @@ HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
 10 LHT | 21 | HVY: 5 (GS)  
 LHT: 5 (Dagger)  
 FIR: 4 (Both) | 15% | \- | 5 | 8 | 0.93x | \- | 35.2 | **✗** |
-| **[Red Death](Red_Death.md) ([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
+| **[Red Death](Red_Death.md)  
+([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
 25 MND  
 45 SDW  
 35 BLD  
@@ -12758,6 +13266,25 @@ WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
 ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
+| **[Cordiverge Severants](Cordiverge_Severants.md)  
+([Bleed](Status_Effects.md#bleed))** | Dagger & Twinblade | LHT: 55  
+MED: 55 | 13.5 | LHT: 5  
+MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
+([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
+| **Alloyblood Axe** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
+Rising Plasma (Mantra) | 24 | HVY: 3  
+BLD: 5  
+MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
+| **Alloyblood Daggers** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
+Infused Slash Mantra | 14.5 | LHT: 3  
+BLD: 5  
+MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
+| **Alloyblood Spear  
+([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
+Spinning Serum (Mantra) | 18 | MED: 3  
+BLD: 5  
+MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | \- | 35.6  
+([+5.3](Status_Effects.md#bleed)) | **✓** |
 | **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 | **✗** |
 | **[Vapormaw Carbine](Vapormaw_Carbine.md)** | Flamecharm & Frostdraw | 50 MED  
 30 FIR  
@@ -12800,6 +13327,21 @@ Elemental
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -12849,6 +13391,20 @@ Elemental
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="First_Light.md">First Light</a></b></td>
+  <td>75 HVY</td>
+  <td>23</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>8.5</td>
+  <td>0.82x</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -13432,6 +13988,59 @@ Elemental
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
   <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
@@ -13552,6 +14161,59 @@ Elemental
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -14429,6 +15091,24 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
   <td>11.5</td>
@@ -14608,6 +15288,23 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -15603,6 +16300,24 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
   <td>11.5</td>
@@ -15782,6 +16497,23 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -16584,7 +17316,8 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
   <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
-  <td>20 MED</td>
+  <td>20 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
   <td>MED: 6</td>
   <td>-</td>
@@ -16981,7 +17714,8 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
   <small><a href="#falchion">Falchion</a></small></div></td>
-  <td>75 MED</td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
@@ -17166,15 +17900,16 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
-  <td>17.5</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
+  <td>18</td>
+  <td>MED: 7<br>
+  AGL: 2</td>
+  <td>5%</td>
+  <td>25%</td>
+  <td>3</td>
   <td>8</td>
-  <td>1x</td>
+  <td>1.03x</td>
   <td>-</td>
-  <td>26.7</td>
+  <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -17191,6 +17926,21 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -17626,7 +18376,8 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>90 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -17639,6 +18390,25 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -17713,11 +18483,11 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>20</td>
   <td>MED: 5<br>
   STR: 4</td>
-  <td>12%</td>
+  <td>10%</td>
   <td>-</td>
+  <td>6.5</td>
   <td>8</td>
-  <td>8.5</td>
-  <td>0.91x</td>
+  <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
@@ -17730,9 +18500,9 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
-  <td>6</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.92x</td>
+  <td>0.95x</td>
   <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
@@ -18103,6 +18873,24 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
   <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
@@ -18336,7 +19124,8 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
   <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
-  <td>20 MED</td>
+  <td>20 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
   <td>MED: 6</td>
   <td>-</td>
@@ -18733,7 +19522,8 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
   <small><a href="#falchion">Falchion</a></small></div></td>
-  <td>75 MED</td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
@@ -18918,15 +19708,16 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
-  <td>17.5</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
+  <td>18</td>
+  <td>MED: 7<br>
+  AGL: 2</td>
+  <td>5%</td>
+  <td>25%</td>
+  <td>3</td>
   <td>8</td>
-  <td>1x</td>
+  <td>1.03x</td>
   <td>-</td>
-  <td>26.7</td>
+  <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -18943,6 +19734,21 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -19500,7 +20306,8 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>90 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -19513,6 +20320,25 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -19567,11 +20393,11 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>20</td>
   <td>MED: 5<br>
   STR: 4</td>
-  <td>12%</td>
+  <td>10%</td>
   <td>-</td>
+  <td>6.5</td>
   <td>8</td>
-  <td>8.5</td>
-  <td>0.91x</td>
+  <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
@@ -19584,9 +20410,9 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
-  <td>6</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.92x</td>
+  <td>0.95x</td>
   <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
@@ -19746,6 +20572,24 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -20147,7 +20991,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>10 STR<br>
   75 HVY<br>
   LVL 10</td>
-  <td>26</td>
+  <td>24</td>
   <td>HVY: 8</td>
   <td>15%</td>
   <td>10%</td>
@@ -20155,7 +20999,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>9</td>
   <td>0.85x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -20202,6 +21046,23 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>0.15s</td>
   <td>49.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -20510,14 +21371,14 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><b><a href="First_Light.md">First Light</a></b></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>HVY: 8</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>0.1s</td>
-  <td>36.8</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -20670,6 +21531,22 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
+  <td>100 HVY<br>
+  60 MND</td>
+  <td>28</td>
+  <td>HVY: 10<br>
+  MND: 3</td>
+  <td>-</td>
+  <td>30%</td>
+  <td>12</td>
+  <td>9.5</td>
+  <td>0.6s</td>
+  <td>0.1s</td>
+  <td>55.3</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
@@ -21395,7 +22272,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10 STR<br>
   75 HVY<br>
   LVL 10</td>
-  <td>26</td>
+  <td>24</td>
   <td>HVY: 8</td>
   <td>15%</td>
   <td>10%</td>
@@ -21403,7 +22280,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>0.85x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -21450,6 +22327,23 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>0.15s</td>
   <td>49.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -21738,14 +22632,14 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td><b><a href="First_Light.md">First Light</a></b></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>HVY: 8</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>0.1s</td>
-  <td>36.8</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -21898,6 +22792,22 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
+  <td>100 HVY<br>
+  60 MND</td>
+  <td>28</td>
+  <td>HVY: 10<br>
+  MND: 3</td>
+  <td>-</td>
+  <td>30%</td>
+  <td>12</td>
+  <td>9.5</td>
+  <td>0.6s</td>
+  <td>0.1s</td>
+  <td>55.3</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
@@ -22336,7 +23246,7 @@ Hybrid Weapons are weapons that require and scale on two or more different weapo
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Hybrid Weapons
 
-| **[Wyrmtooth](Wyrmtooth.md)** | Medium & Heavy | 60 MED  
+| **[Wyrmtooth](Wyrmtooth.md)** | Sword & Greatsword | 60 MED  
 40 HVY  
 LVL 10 | 20 | MED: 6.5  
 HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
@@ -22345,7 +23255,8 @@ HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
 10 LHT | 21 | HVY: 5 (GS)  
 LHT: 5 (Dagger)  
 FIR: 4 (Both) | 15% | \- | 5 | 8 | 0.93x | \- | 35.2 | **✗** |
-| **[Red Death](Red_Death.md) ([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
+| **[Red Death](Red_Death.md)  
+([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
 25 MND  
 45 SDW  
 35 BLD  
@@ -22365,6 +23276,25 @@ WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
 ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
+| **[Cordiverge Severants](Cordiverge_Severants.md)  
+([Bleed](Status_Effects.md#bleed))** | Dagger & Twinblade | LHT: 55  
+MED: 55 | 13.5 | LHT: 5  
+MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
+([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
+| **Alloyblood Axe** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
+Rising Plasma (Mantra) | 24 | HVY: 3  
+BLD: 5  
+MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
+| **Alloyblood Daggers** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
+Infused Slash Mantra | 14.5 | LHT: 3  
+BLD: 5  
+MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
+| **Alloyblood Spear  
+([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
+Spinning Serum (Mantra) | 18 | MED: 3  
+BLD: 5  
+MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | \- | 35.6  
+([+5.3](Status_Effects.md#bleed)) | **✓** |
 | **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 | **✗** |
 | **[Vapormaw Carbine](Vapormaw_Carbine.md)** | Flamecharm & Frostdraw | 50 MED  
 30 FIR  
@@ -22409,6 +23339,21 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
@@ -22458,6 +23403,20 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="First_Light.md">First Light</a></b></td>
+  <td>75 HVY</td>
+  <td>23</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>8.5</td>
+  <td>0.82x</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -23041,6 +24000,59 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
   <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
@@ -23161,6 +24173,59 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 </tbody>
 </table>
@@ -23896,6 +24961,24 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
   <td><b><a href="Nemit's_Sickle.md">Nemit's Sickle</a></b></td>
   <td>60 LHT</td>
   <td>11.5</td>
@@ -24075,6 +25158,23 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
@@ -24851,7 +25951,8 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
   <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
-  <td>20 MED</td>
+  <td>20 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
   <td>MED: 6</td>
   <td>-</td>
@@ -25248,7 +26349,8 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
   <small><a href="#falchion">Falchion</a></small></div></td>
-  <td>75 MED</td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
   <td>MED: 7</td>
   <td>20%</td>
@@ -25433,15 +26535,16 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Withered_Phantomcleave.md"><font>Withered Phantomcleave</font></a></b></td>
   <td>100 MED</td>
-  <td>17.5</td>
-  <td>MED: 7</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>5</td>
+  <td>18</td>
+  <td>MED: 7<br>
+  AGL: 2</td>
+  <td>5%</td>
+  <td>25%</td>
+  <td>3</td>
   <td>8</td>
-  <td>1x</td>
+  <td>1.03x</td>
   <td>-</td>
-  <td>26.7</td>
+  <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -25458,6 +26561,21 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -26015,7 +27133,8 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Kyrsglaive.md">Kyrsglaive</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>90 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -26028,6 +27147,25 @@ Every player-obtainable weapon, excluding offhands.
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
@@ -26082,11 +27220,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>20</td>
   <td>MED: 5<br>
   STR: 4</td>
-  <td>12%</td>
+  <td>10%</td>
   <td>-</td>
+  <td>6.5</td>
   <td>8</td>
-  <td>8.5</td>
-  <td>0.91x</td>
+  <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
@@ -26099,9 +27237,9 @@ Every player-obtainable weapon, excluding offhands.
   <td>MED: 8</td>
   <td>-</td>
   <td>-</td>
-  <td>6</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.92x</td>
+  <td>0.95x</td>
   <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
@@ -26261,6 +27399,24 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.9x</td>
   <td>-</td>
   <td>24.1</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td>LHT: 55<br>
+  MED: 55</td>
+  <td>13.5</td>
+  <td>LHT: 5<br>
+  MED: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>7</td>
+  <td>1.1x</td>
+  <td>-</td>
+  <td>23.5<br>
+  (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -26636,7 +27792,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>10 STR<br>
   75 HVY<br>
   LVL 10</td>
-  <td>26</td>
+  <td>24</td>
   <td>HVY: 8</td>
   <td>15%</td>
   <td>10%</td>
@@ -26644,7 +27800,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>0.85x</td>
   <td>0.1s</td>
-  <td>41.6</td>
+  <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -26691,6 +27847,23 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.15s</td>
   <td>49.3</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
@@ -26979,14 +28152,14 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="First_Light.md">First Light</a></b></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>HVY: 8</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
   <td>15%</td>
   <td>-</td>
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>0.1s</td>
-  <td>36.8</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -27139,6 +28312,22 @@ Every player-obtainable weapon, excluding offhands.
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
+  <td>100 HVY<br>
+  60 MND</td>
+  <td>28</td>
+  <td>HVY: 10<br>
+  MND: 3</td>
+  <td>-</td>
+  <td>30%</td>
+  <td>12</td>
+  <td>9.5</td>
+  <td>0.6s</td>
+  <td>0.1s</td>
+  <td>55.3</td>
+  <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
@@ -27585,6 +28774,21 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
+  <td>100 FIR<br>
+  40 WLL</td>
+  <td>18</td>
+  <td>FIR: 5.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>25.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
   <td><b><a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></b></td>
   <td>25 HVY<br>
   75 FIR<br>
@@ -27632,6 +28836,20 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="First_Light.md">First Light</a></b></td>
+  <td>75 HVY</td>
+  <td>23</td>
+  <td>HVY: 8<br>
+  FIR: 2</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>9</td>
+  <td>8.5</td>
+  <td>0.82x</td>
+  <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -28215,6 +29433,59 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
   <td><b><a href="Metal_Greatsword.md">Metal Greatsword</a></b></td>
   <td><a href="Talents.md#needleblade">Needleblade</a> (Talent)</td>
   <td>45</td>
@@ -28336,6 +29607,59 @@ Every player-obtainable weapon, excluding offhands.
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✗</b></td>
 </tr>
+<tr>
+  <td><b>Alloyblood Axe</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Rising Plasma (Mantra)</td>
+  <td>24</td>
+  <td>HVY: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.87x</td>
+  <td>0.1s</td>
+  <td>47.4</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Daggers</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Infused Slash (Mantra)</td>
+  <td>14.5</td>
+  <td>LHT: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>15%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>28.6</td>
+  <td><b>✓</b></td>
+</tr>
+<tr>
+  <td><b>Alloyblood Spear<br>
+  (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
+  Spinning Serum (Mantra)</td>
+  <td>18</td>
+  <td>MED: 3<br>
+  BLD: 5<br>
+  MTL: 5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.95x</td>
+  <td>-</td>
+  <td>35.6<br>
+  (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
+  <td><b>✓</b></td>
+</tr>
 </tbody>
 </table>
 
@@ -28403,12 +29727,14 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
         
         -   Honorable mention: [Rangescraper](Rangescraper.md) (11, Talent gives it a scaling range bonus)
     -   Swing speed: [Rangescraper](Rangescraper.md) (1.3x)
-    -   Amount of unique criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
+    -   Quantity of unique criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Rifles are the only weapon type that have four basic m1s before a flourish.
 -   Twinblades lack a flourish when two handed, making them the only weapon class to lack a flourish... sometimes.
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to have varying scaling stats for its individual basic attacks; its Greatsword light attacks have HVY + FLM scaling, while it's Dagger attacks have LHT + FLM scaling.
--   Not including weapons that have no attribute requirements, [Flareblood Kamas](Flareblood_Kamas.md), [Duskpole](Duskpole.md), [Frostthorn](Frostthorn.md), and [The Death Knell](The_Death_Knell.md) are the only weapons to scale on attributes that they do not require.
+-   Not including weapons that have no attribute requirements, [Flareblood Kamas](Flareblood_Kamas.md), [Duskpole](Duskpole.md), [Frostthorn](Frostthorn.md), [First Light](First_Light.md), and [The Death Knell](The_Death_Knell.md) are the only weapons to scale on attributes that they do not require.
+    
+    -   On the other hand, a few weapons require investment into an Attribute that they do not scale with. These are: most heavy weapons that require Strength and [Cursed Flames](Cursed_Flames.md).
 -   The critical attacks of the [First Light](First_Light.md), [Formless Shard](Formless_Shard.md), [Hero Blades](Hero_Blades.md), [Ignition Deepcrusher](Ignition_Deepcrusher.md), [Iron Requiem](Iron_Requiem.md), [Krulian Knife](Krulian_Knife.md), [Kyrsieger](Kyrsieger.md), [Markor's Inheritor](<Markor's_Inheritor.md>), [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Stoneheart](Stoneheart.md) are mechanically different from all others, having a separate base damage value from the weapons they're tied to.
     -   The First Light, Hero Blades, Ignition Deepcrusher, Iron Requiem, Krulian Knife, and Saintsblade criticals additionally have separate investment scaling from their equipped weapon.
     -   The Formless Shard, Kyrseiger, Sovereign Bangle, and Stoneheart criticals deal flat damage with no investment scaling.

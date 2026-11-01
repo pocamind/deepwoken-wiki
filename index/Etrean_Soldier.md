@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 228578
+revid: 232231
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]
@@ -20,12 +20,11 @@ categories: [Enemies, Etrea Enemies]
 An Etrean Soldier is an enemy NPC that can only be found in the following events:
 
 -   Etrean Soldiers vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
--   Etrean Soldiers vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Invasion of Etris ([Etris](Etris.md))
 -   Etrean Soldiers vs Hive Scouts ([Starswept Valley](The_Starswept_Valley.md))
 -   Etrean ambush (Anywhere)
 
-An Etrean Soldier wears a purple uniform with their aspect being [Etrean](Etrean.md). They can also appear younger or older than 40 years old.
+An Etrean Soldier wears a [Etrean Steel Plate](Steel_Plate.md), and uses basic weaponry.
 
 ## Moveset
 

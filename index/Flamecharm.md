@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 231643
+revid: 232317
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1173,8 +1173,8 @@ These are Talents found in "_Flame Warden_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Cauterized Wounds  
-(40 Flamecharm, 5 Fortitude) | Blood Loss from all sources are reduced. (+1 Passive Agility) | Stacks with the [Alloyblood](Ironsing.md) Talent, which has a similar effect. The effectiveness of this talent is reduced if you have the [No Life King](Enchantments.md#curses) Enchant.
-This does **not** affect the blood cost from casting [Bloodrend](Bloodrend.md) Mantras, the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) Downside, and the [Curse of Bloodthirsty](Enchantments.md#curses) Enchant's blood loss on whiff effect.
+(40 Flamecharm, 5 Fortitude) | Blood Loss from all sources are reduced. (+1 Passive Agility) | Stacks multiplicatively with the [Iron Veins](Talents.md#iron-veins) Talent, which has a similar effect. The effectiveness of this Talent is reduced if you have the Curse of The No Life King Enchant.
+This does **not** affect the blood cost from casting [Bloodrend](Bloodrend.md) Mantras, the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) Downside, and the Curse of Bloodthirsty Enchant's blood loss on whiff effect.
 
  |
 |  | Flamewalker  

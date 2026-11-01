@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 231030
+revid: 232120
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -15,9 +15,9 @@ categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Criticals with
 | requirements | 50 MED, Origin: Justicar |
 | damage | 19.5 |
 | scaling | MED: 8 |
-| posture damage | 6 |
+| posture damage | 5 |
 | range | 8 Sweep |
-| swing speed | 0.92x |
+| swing speed | 0.95x |
 | attack duration | 0.7s |
 | penetration | 15% |
 | talent | Eyes On Me - Landing a Both End's staff strike will cause all damage your opponent does to be reduced by 20% for the next 20 seconds to any target besides you. |

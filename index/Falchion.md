@@ -1,9 +1,9 @@
 ---
 title: Falchion
-revid: 231567
+revid: 232122
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
 ---
 
 # Falchion
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Uni
 | type | Sword |
 | damage type | Slash |
 | requirements | 20 / 75 MED |
+| faction | Authority |
 | damage | 16 / 18 |
 | scaling | MED: 6 / MED: 7 |
 | posture damage | 4 / 5 |
@@ -31,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Uni
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | MaraeChests in:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Alloyed:, Alloying a Falchion, Sold in Traan Zakshun's regular stock for 650 Vow of Iron , Sold in Naan Zakshun's regular shop for 650 |
+| obtainment | MaraeChests in:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Alloyed:, Alloying a Falchion, Sold in Traan Zakshun's regular stock for 650 , Fort Merit Armory for ??? (Authority Ensign exclusive)Vow of Iron , Sold in Naan Zakshun's regular shop for 650 |
 | description | A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production. |
 
 ## Description

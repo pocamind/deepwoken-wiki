@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 231646
+revid: 232318
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1007,8 +1007,8 @@ These are Talents found in "_Ironsinger_" Category.
 (30 Ironsing) | You can now obtain 2-star Ironsinger mantras. |  |
 |  | Master Ironsinger  
 (50 Ironsing) | You can now obtain 3-star Ironsinger mantras. (+5 Health) |  |
-|  | Alloyblood  
-(100 Ironsing) | You don't Bleed like others do. [Bleed](Status_Effects.md#bleed) damage is reduced by 30%. Blood loss is reduced by 75%. | Alloyblood's effectiveness scales with your Ironsing investment, having less effectiveness if you do not meet the requirements for it. The slash damage visual effect is now **light grey**. Turns Bloodrend mantras blue-ish grey. |
+|  | Iron Veins  
+(100 Ironsing) | You don't Bleed like others do. [Bleed](Status_Effects.md#bleed) damage is reduced by 30%. Blood loss is reduced by 75%. | Iron Veins' effectiveness scales with your Ironsing investment, having less effectiveness if you do not meet the requirements for it. The slash damage visual effect is now **light grey**. |
 |  | Ironclad Punishment  
 (45 Ironsing) | Your Ironsing mantras deal more posture damage to enemies the more armor durability they have. | Gain a 0.15% posture damage modifier on Ironsing mantras for every 1% armor durability your opponent has. |
 |  | Laced Traps  

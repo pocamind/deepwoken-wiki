@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 230959
+revid: 232121
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, The Hundred Legions]
@@ -15,11 +15,11 @@ categories: [Weapons, Weapons with Talents, Staves, Legendary Weapons, "Core-Att
 | requirements | 40 STR; 40 MED |
 | damage | 20 |
 | scaling | MED: 5, STR: 4 |
-| posture damage | 8 |
-| range | 8.5 Sweep |
-| swing speed | 0.91x |
+| posture damage | 6.5 |
+| range | 8 Sweep |
+| swing speed | 0.96x |
 | attack duration | 0.7s |
-| penetration | 12% |
+| penetration | 10% |
 | talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
 | m.equip | No |
 | m.extract | No |

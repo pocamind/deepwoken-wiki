@@ -1,9 +1,9 @@
 ---
 title: "Talents/Categories A-F"
-revid: 231933
+revid: 232322
 source: https://deepwoken.fandom.com/wiki/Talents/Categories_A-F
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Talents, Skills, Mechanics]
+categories: [Pages transcluding nonexistent sections, In progress with reason, InProgressPages, Talents, Skills, Mechanics]
 notices:
   - This page is currently being worked on. This page is currently undergoing changes. Please be patient.
 ---
@@ -2257,7 +2257,7 @@ These Talents [Unbound](../Attributes_Unbound.md) their respective attributes, i
 -   **Cauterized Wounds** \[Common Talent\] - Blood loss from all sources is lowered. (+1 Passive Agility)
     -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](../Bloodrend.md) Mantras, blood loss [Potions](../Alchemy.md), the blood loss [Corrupt Resonance](../Resonance.md) downside) are entirely unaffected by this Talent.
     -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](../Curse_of_the_No_Life_King.md) enchantment.
-    -   Stacks with other Talents that reduce blood loss, like [Alloyblood](../Talents.md#alloyblood).  
+    -   Stacks with other Talents that reduce blood loss, like [Iron Veins](../Talents.md#iron-veins).  
         
     -   Prerequisites: 5 Fortitude, 40 Flamecharm  
         

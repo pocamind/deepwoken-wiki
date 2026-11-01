@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 228428
+revid: 232228
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -40,7 +40,7 @@ Adret are a common [aspect](Aspects.md) that have blue skin with orange eyes and
     <li><i>"Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking."</i>
   <ul>
     <li>Receive 3 free points whenever you Power up.</li>
-    <li>Your starting reputation with all factions is higher.</li>
+    <li>Your reputation gain with all factions is increased by 25%.</li>
   </ul></li>
   </ul></td>
 </tr>
