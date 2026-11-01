@@ -149,7 +149,7 @@
   },
   "1002": {
     "title": "Guilds",
-    "lastrevid": 231735
+    "lastrevid": 232514
   },
   "1021": {
     "title": "Outfits",
@@ -197,7 +197,7 @@
   },
   "1054": {
     "title": "Flamecharm",
-    "lastrevid": 232434
+    "lastrevid": 232467
   },
   "1062": {
     "title": "Spark Gland",
@@ -601,7 +601,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 232394
+    "lastrevid": 232518
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -1289,7 +1289,7 @@
   },
   "3341": {
     "title": "Bosses",
-    "lastrevid": 229413
+    "lastrevid": 232470
   },
   "3343": {
     "title": "Iron Cestus",
@@ -3865,7 +3865,7 @@
   },
   "10756": {
     "title": "Hybrid Abilities",
-    "lastrevid": 231462
+    "lastrevid": 232525
   },
   "10764": {
     "title": "Infamous Baz",
@@ -4033,7 +4033,7 @@
   },
   "11649": {
     "title": "Ploom",
-    "lastrevid": 224899
+    "lastrevid": 232549
   },
   "11651": {
     "title": "Theadre",
@@ -4165,7 +4165,7 @@
   },
   "12216": {
     "title": "Lone Warrior",
-    "lastrevid": 231592
+    "lastrevid": 232535
   },
   "12217": {
     "title": "Castaway",
@@ -9933,7 +9933,7 @@
   },
   "26917": {
     "title": "Mask of Phantoms",
-    "lastrevid": 232277
+    "lastrevid": 232465
   },
   "26922": {
     "title": "Corvidirge Severants",
@@ -9945,19 +9945,15 @@
   },
   "26924": {
     "title": "Silas's Cenotaph",
-    "lastrevid": 232447
+    "lastrevid": 232542
   },
   "26926": {
     "title": "The Harvestman",
-    "lastrevid": 232457
-  },
-  "26931": {
-    "title": "Corvidirge Servants",
-    "lastrevid": 232202
+    "lastrevid": 232551
   },
   "26939": {
     "title": "Familiar Vagrant's Armor",
-    "lastrevid": 232377
+    "lastrevid": 232532
   },
   "26948": {
     "title": "Wispfire Beacon",
@@ -9965,11 +9961,11 @@
   },
   "26949": {
     "title": "Prop Hunt",
-    "lastrevid": 232351
+    "lastrevid": 232529
   },
   "26957": {
     "title": "Familiar Prosthetic Arm",
-    "lastrevid": 232273
+    "lastrevid": 232552
   },
   "26958": {
     "title": "Hunter's Chapeau",
@@ -9989,15 +9985,15 @@
   },
   "26963": {
     "title": "Familiar Sage's Armor",
-    "lastrevid": 232385
+    "lastrevid": 232538
   },
   "26965": {
     "title": "Familiar Prince's Armor",
-    "lastrevid": 232379
+    "lastrevid": 232475
   },
   "26972": {
     "title": "Cursed Flames",
-    "lastrevid": 232404
+    "lastrevid": 232511
   },
   "26977": {
     "title": "Alloyblood Axe",
@@ -10013,18 +10009,18 @@
   },
   "26980": {
     "title": "Pumpkin Earrings",
-    "lastrevid": 232372
+    "lastrevid": 232554
   },
   "26983": {
     "title": "Stitched Effigy",
-    "lastrevid": 232389
+    "lastrevid": 232546
   },
-  "26985": {
-    "title": "Cordiverge Severants",
-    "lastrevid": 232448
-  },
-  "26987": {
+  "26998": {
     "title": "Silas Ardenstar",
-    "lastrevid": 232456
+    "lastrevid": 232543
+  },
+  "27000": {
+    "title": "Harvestman's Halo",
+    "lastrevid": 232553
   }
 }

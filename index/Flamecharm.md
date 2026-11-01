@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 232434
+revid: 232467
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1152,26 +1152,6 @@ Steam clouds deal 2 typeless damage per tick in an AoE, at a rate of 6 ticks per
  |
 |  | Boiling Point  
 (Flashboil) | Using a fire mantra near your own steam cloud detonates it | Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 typeless damage in an AoE. |
-
-**Exotherm:**
-
-These Talents are found in the _Exotherm_ category.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | Exotherm Path: Sanguine Blaze  
-(40 Bloodrend, 40 Flamecharm) | Your Blood runs thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing. Up to 3 stacks. Touch it with flame and it erupts. your fire burns a searing pink. | Flamecharm Mantras, Status effects, and weapons turns pink. Bloodrend Mantras and Blood Puddles turn black.
-Bloodrend Mantras apply stacks of Black Blood, applying a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect. Applying burn to a target with Black Blood causes an explosion that deals high damage and applies knockback.
-
- |
-|  | Burnout  
-(Exotherm Path, 60 Bloodrend, 65 Flamecharm) | Igniting enemies reduces their damage by 4% per Black Blood stack, up to a maximum of 12%. | Enemies will deal a 4-12% less damages so long as they are effected by Black Blood. |
-|  | Critical Mass  
-(Exotherm Path: Sanguine Blaze, 45 Bloodrend, 45 Flamecharm) | Landing a Critical Attack on an enemy with Black Blood ignites them with pink fire. | While enemy is effected by Black Blood, Critical Attacks will ignite them. |
-|  | Exothermic Finish  
-(Exotherm Path, 60 Bloodrend, 80 Flamecharm) | Igniting an enemy with Black Blood now flourishes them instead of knocking them back, inflicting all flourish talents. | Applies any other talent that also has a 'Flourish' effect. |
-|  | Pressure Bleed  
-(Exotherm Path, 50 Bloodrend, 50 Flamecharm) | Your vents turn pink, spraying explosive Black Blood puddles that ignite enemies. | Venting releases several small puddles of blood that after a few seconds, explodes and ignites those touching the puddles. Doesn't knockback. |
 
 **Falling Star Guard:**
 

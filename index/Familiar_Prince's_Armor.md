@@ -1,6 +1,6 @@
 ---
 title: "Familiar Prince's Armor"
-revid: 232379
+revid: 232475
 source: https://deepwoken.fandom.com/wiki/Familiar_Prince's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -48,4 +48,5 @@ While using the **Familiar Prince's Armor**, all passive regeneration is increas
 
 ## Trivia/Notes
 
+-   Despite this armor appearing visually to be the [Deep Knight's](https://rogue-lineage.fandom.com/wiki/Deep_Knight) armour, even including the prince fact the regeneration bonus is the highest in that game, Light Piercer actually comes from the [Church Knight.](https://rogue-lineage.fandom.com/wiki/Church_Knight)
 -   Added on November 1, 2026, during the first day of Hallowtide 2026.

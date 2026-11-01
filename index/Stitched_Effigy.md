@@ -1,13 +1,15 @@
 ---
 title: Stitched Effigy
-revid: 232389
+revid: 232546
 source: https://deepwoken.fandom.com/wiki/Stitched_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Stitched Effigy
 
-Me want Me need
+Me want
+
+Me need
 
   
 \-JumboAfootMailEffigySuper

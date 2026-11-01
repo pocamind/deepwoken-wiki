@@ -1,9 +1,9 @@
 ---
 title: Hybrid Abilities
-revid: 231462
+revid: 232525
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mantras, Character, Attunement, Mechanics]
+categories: [Pages transcluding nonexistent sections, Mantras, Character, Attunement, Mechanics]
 ---
 
 # Hybrid Abilities
@@ -305,960 +305,417 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
 
 ## Talents
 
-**Bloodrend:**
-
-**Flamecharm:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Scorchblood<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Flamecharm</td>
-  <td>Guardbreaking your opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</td>
-  <td>Posture breaking with a Bloodrend mantra applies burn and deals 16.5 damage in an AoE. Also applies blood poison.</td>
-</tr>
-</tbody>
-</table>
-
-**Frostdraw:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Cold Blooded<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Frostdraw</td>
-  <td>Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)</td>
-  <td>Enemies gain 12.5% blood poisoning for the duration of their chill and gain 25% blood poisoning when their crystals detonated. Has a 0.5 second cooldown.</td>
-</tr>
-</tbody>
-</table>
-
-**Galebreathe:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Brain Death<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Galebreathe</td>
-  <td>Enemies that are suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.</td>
-  <td>Bloodrend mantras extend suffocation duration.</td>
-</tr>
-</tbody>
-</table>
-
-**Ironsing:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Blood and Iron<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Ironsing</td>
-  <td>Pulling rods out of your opponent now replenishes an equivalent amount of blood.</td>
-  <td>Pulling rods now regenerates your blood.</td>
-</tr>
-</tbody>
-</table>
-
-**Shadowcast:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Malevolent Sapper<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Shadowcast</td>
-  <td>The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.</td>
-  <td>Ether drain from Shadowcast mantras scales on the amount of blood poisoning your opponent has.</td>
-</tr>
-</tbody>
-</table>
-
-**Thundercall:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Electrolyte<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Thundercall</td>
-  <td>Hitting Bloodrend mantras while having temporary health applies <a href="Status_Effects.md#shock">Shocked</a> while removing a portion of temporary health.</td>
-  <td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td>
-</tr>
-</tbody>
-</table>
-
-**Flamecharm:**
-
-**Bloodrend:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Scorchblood<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Flamecharm</td>
-  <td>Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</td>
-  <td>Posture breaking with a Bloodrend mantra applies burn and deals 16.5 damage in an AoE. Also applies blood poison.</td>
-</tr>
-</tbody>
-</table>
-
-**Frostdraw:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Temperature Shock<br>
-  <sup>[Flash Freeze]</sup></td>
-  <td>Glass Path: Crystallization<br>
-  40 Frostdraw<br>
-  40 Flamecharm</td>
-  <td>Your fire mantras now detonate any stacked crystals.</td>
-  <td>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</td>
-</tr>
-<tr>
-  <td>Volcanic Glass<br>
-  <sup>[Pyroclast]</sup></td>
-  <td>Glass Path: Crystallization<br>
-  Eruption Path: Lava Serpent</td>
-  <td>Detonating crystals causes an eruption soon after.</td>
-  <td>Detonating Crystals will cause an Eruption.</td>
-</tr>
-<tr>
-  <td>Flashboil<br>
-  <sup>[Vaporborne]</sup></td>
-  <td>30 Flamecharm<br>
-  30 Frostdraw</td>
-  <td>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</td>
-  <td>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
-  Steam clouds deal 2 damage per tick in an AoE at 6 ticks per second. Steam clouds last 5 seconds and have an internal proc cooldown per target of 5 seconds.</td>
-</tr>
-<tr>
-  <td>Boiling Point<br>
-  <sup>[Vaporborne]</sup></td>
-  <td>Flashboil</td>
-  <td>Using a fire mantra near your own steam detonates it.</td>
-  <td>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</td>
-</tr>
-</tbody>
-</table>
-
-**Galebreathe:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Fan the Flames<br>
-  <sup>[Heat Column]</sup></td>
-  <td>Inhale<br>
-  40 Flamecharm</td>
-  <td>Your stored Wind mantras can now empower your Fire mantras.</td>
-  <td>Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff. The damage buff is (Inhaled mantra level x 2)%.</td>
-</tr>
-</tbody>
-</table>
-
-**Shadowcast:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Wraith Path: Twisted Puppets<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</td>
-  <td>Burn, Blazing Enchant, and Flamecharm legendary weapons are now black. Both Twisted Puppets burn types deal low damage and <b>drain</b> ether. Applying burn via any non-Shadowcast source summons a puppet. Puppets have a 4s spawn cd, deal 20 typeless damage, and 10 posture damage.</td>
-</tr>
-<tr>
-  <td>Moths to a Flame<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>You summon a puppet of black flames that homes onto enemies with black flames.</td>
-  <td>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed. Puppets gain a speed boost when moving near a burning opponent.</td>
-</tr>
-<tr>
-  <td>Burning Puppets<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Your puppets can now inflict burn and fire-based Talents when they explode.</td>
-  <td>When your puppets hit your opponent, they will apply Puppet Burn (burn that spawns puppets) and gain 5 Flamecharm scaling. Increasing their damage by 0.1 per point in Flamecharm up to 30 damage at 100 Flamecharm.</td>
-</tr>
-<tr>
-  <td>Explosive Rage<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</td>
-  <td>Causing an explosion via the Detonation <a href="Enchantments.md#blessings">Enchant</a>, The Final Act, or Explosive Finish will buff your puppets, making them move faster and deal 50% more damage. The damage buff is currently bugged and does not work.</td>
-</tr>
-<tr>
-  <td>Burning Sacrifice<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  Emperor Flame<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</td>
-  <td>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds. Puppets turn purple if they've been alive for 15 seconds.</td>
-</tr>
-</tbody>
-</table>
-
-**Thundercall:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Scorched Peak<br>
-  <sup>[Lichtenberg]</sup></td>
-  <td>50 Thundercall<br>
-  25 Flamecharm</td>
-  <td>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</td>
-  <td>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning. Deals 10 damage.</td>
-</tr>
-</tbody>
-</table>
-
-**Frostdraw:**
-
-**Bloodrend:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Cold Blooded<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Frostdraw</td>
-  <td>Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)</td>
-  <td>Enemies gain 12.5% blood poisoning for the duration of their chill and gain 25% blood poisoning when their crystals detonated. Has a 0.5 second cooldown.</td>
-</tr>
-</tbody>
-</table>
-
-**Flamecharm:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Temperature Shock<br>
-  <sup>[Flash Freeze]</sup></td>
-  <td>Glass Path: Crystallization<br>
-  40 Frostdraw<br>
-  40 Flamecharm</td>
-  <td>Your fire mantras now detonate any stacked crystals.</td>
-  <td>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</td>
-</tr>
-<tr>
-  <td>Volcanic Glass<br>
-  <sup>[Pyroclast]</sup></td>
-  <td>Glass Path: Crystallization<br>
-  Eruption Path: Lava Serpent</td>
-  <td>Detonating crystals causes an eruption soon after.</td>
-  <td>Detonating Crystals will cause an Eruption.</td>
-</tr>
-<tr>
-  <td>Flashboil<br>
-  <sup>[Vaporborne]</sup></td>
-  <td>30 Flamecharm<br>
-  30 Frostdraw</td>
-  <td>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</td>
-  <td>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
-  Steam clouds deal 2 damage per tick in an AoE at 6 ticks per second. Steam clouds last 5 seconds and have an internal proc cooldown per target of 5 seconds.</td>
-</tr>
-<tr>
-  <td>Boiling Point<br>
-  <sup>[Vaporborne]</sup></td>
-  <td>Flashboil</td>
-  <td>Using a fire mantra near your own steam detonates it.</td>
-  <td>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</td>
-</tr>
-</tbody>
-</table>
-
-**Galebreathe:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Freezing Wight<br>
-  <sup>[Cold Phantom]</sup></td>
-  <td>Haunted Gale<br>
-  40 Frostdraw</td>
-  <td>Your Haunted Gale now procs Chilled.</td>
-  <td>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds or 1 Crystal on hit. This Talent also changes the damage type of ghosts/Apparitions from pure Galebreathe to Galebreathe &amp; Frostdraw. They can also proc Bottom Freeze.</td>
-</tr>
-</tbody>
-</table>
-
-**Ironsing:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Golden Age<br>
-  <sup>[Crystalline Gold]</sup></td>
-  <td>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</td>
-  <td>Your Iron Pull now detonates Crystals and overloads Surges.</td>
-  <td>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</td>
-</tr>
-</tbody>
-</table>
-
-**Thundercall:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Fulgurite Formation<br>
-  <sup>[Frozen Lightning]</sup></td>
-  <td>Surge Path: Unstable Capacitor<br>
-  50 Thundercall<br>
-  Glass Path: Crystallization<br>
-  50 Frostdraw</td>
-  <td>When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.</td>
-  <td>When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.</td>
-</tr>
-<tr>
-  <td>Frozen Web<br>
-  <sup>[Doomsday Engine]</sup></td>
-  <td>Static Link<br>
-  40 Thundercall<br>
-  40 Frostdraw</td>
-  <td>Landing a critical with a Static Link on your opponent applies Chilled.</td>
-  <td>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. No synergy with Crystallization Path.</td>
-</tr>
-<tr>
-  <td>Golden Age<br>
-  <sup>[Crystalline Gold]</sup></td>
-  <td>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</td>
-  <td>Your Iron Pull now detonates Crystals and overloads Surges.</td>
-  <td>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</td>
-</tr>
-</tbody>
-</table>
-
-**Galebreathe:**
-
-**Bloodrend:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Brain Death<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Galebreathe</td>
-  <td>Enemies that are suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.</td>
-  <td>Bloodrend mantras extend suffocation duration.</td>
-</tr>
-</tbody>
-</table>
-
-**Flamecharm:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Fan the Flames<br>
-  <sup>[Heat Column]</sup></td>
-  <td>Inhale<br>
-  40 Flamecharm</td>
-  <td>Your stored Wind mantras can now empower your Fire mantras.</td>
-  <td>Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff. The damage buff is (Inhaled mantra level x 2)%.</td>
-</tr>
-</tbody>
-</table>
-
-**Frostdraw:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Freezing Wight<br>
-  <sup>[Cold Phantom]</sup></td>
-  <td>Haunted Gale<br>
-  40 Frostdraw</td>
-  <td>Your Haunted Gale now procs Chilled.</td>
-  <td>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds or 1 Crystal on hit. This Talent also changes the damage type of ghosts/Apparitions from pure Galebreathe to Galebreathe &amp; Frostdraw. They can also proc Bottom Freeze.</td>
-</tr>
-</tbody>
-</table>
-
-**Shadowcast:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Pressure Detonation<br>
-  <sup>[Cosmic Wind]</sup></td>
-  <td>60 Galebreathe<br>
-  40 Shadowcast</td>
-  <td>Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.</td>
-  <td>Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.</td>
-</tr>
-</tbody>
-</table>
-
-**Thundercall:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Storm Link<br>
-  <sup>[Stormcaller]</sup></td>
-  <td>Static Link<br>
-  60 Thundercall<br>
-  50 Galebreathe</td>
-  <td>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</td>
-  <td>Landing Galebreathe Mantras on your Static Linked target will deal a secondary instance of damage to your attack, dealt as Thundercall damage. This deals 10% of your attack's scaled damage.</td>
-</tr>
-</tbody>
-</table>
-
-**Ironsing:**
-
-**Bloodrend:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Blood and Iron<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Ironsing</td>
-  <td>Pulling rods out of your opponent now replenishes an equivalent amount of blood.</td>
-  <td>Pulling rods now regenerates your blood.</td>
-</tr>
-</tbody>
-</table>
-
-**Frostdraw:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Golden Age<br>
-  <sup>[Crystalline Gold]</sup></td>
-  <td>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</td>
-  <td>Your Iron Pull now detonates Crystals and overloads Surges.</td>
-  <td>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</td>
-</tr>
-</tbody>
-</table>
-
-**Thundercall:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Golden Age<br>
-  <sup>[Crystalline Gold]</sup></td>
-  <td>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</td>
-  <td>Your Iron Pull now detonates Crystals and overloads Surges.</td>
-  <td>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</td>
-</tr>
-<tr>
-  <td>Voltaic Conductor<br>
-  <sup>[Superconductor]</sup></td>
-  <td>Rending Needle: Conductor<br>
-  75 Ironsing<br>
-  40 Thundercall</td>
-  <td>Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.</td>
-  <td>Thundercall Mantras deal 30% more chip damage if your opponent has Conductor Rods on them.</td>
-</tr>
-</tbody>
-</table>
-
-**Shadowcast:**
-
-**Bloodrend:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Malevolent Sapper<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Shadowcast</td>
-  <td>The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.</td>
-  <td>Ether drain from Shadowcast mantras scales on the amount of blood poisoning your opponent has.</td>
-</tr>
-</tbody>
-</table>
-
-**Flamecharm:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Wraith Path: Twisted Puppets<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</td>
-  <td>Burn, Blazing Enchant, and Flamecharm legendary weapons are now black. Both Twisted Puppets burn types deal low damage and <b>drain</b> ether. Applying burn via any non-Shadowcast source summons a puppet. Puppets have a 4s spawn cd, deal 20 typeless damage, and 10 posture damage.</td>
-</tr>
-<tr>
-  <td>Moths to a Flame<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>You summon a puppet of black flames that homes onto enemies with black flames.</td>
-  <td>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed. Puppets gain a speed boost when moving near a burning opponent.</td>
-</tr>
-<tr>
-  <td>Burning Puppets<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Your puppets can now inflict burn and fire-based Talents when they explode.</td>
-  <td>When your puppets hit your opponent, they will apply Puppet Burn (burn that spawns puppets) and gain 5 Flamecharm scaling. Increasing their damage by 0.1 per point in Flamecharm up to 30 damage at 100 Flamecharm.</td>
-</tr>
-<tr>
-  <td>Explosive Rage<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</td>
-  <td>Causing an explosion via the Detonation <a href="Enchantments.md#blessings">Enchant</a>, The Final Act, or Explosive Finish will buff your puppets, making them move faster and deal 50% more damage. The damage buff is currently bugged and does not work.</td>
-</tr>
-<tr>
-  <td>Burning Sacrifice<br>
-  <sup>[Twisted Puppets]</sup></td>
-  <td>Wraith Path: Twisted Puppets<br>
-  Emperor Flame<br>
-  40 Flamecharm<br>
-  40 Shadowcast</td>
-  <td>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</td>
-  <td>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds. Puppets turn purple if they've been alive for 15 seconds.</td>
-</tr>
-</tbody>
-</table>
-
-**Galebreathe:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Pressure Detonation<br>
-  <sup>[Cosmic Wind]</sup></td>
-  <td>60 Galebreathe<br>
-  40 Shadowcast</td>
-  <td>Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.</td>
-  <td>Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.</td>
-</tr>
-</tbody>
-</table>
-
-**Thundercall:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Dark Receiver<br>
-  <sup>[Sapper]</sup></td>
-  <td>Static Link<br>
-  40 Thundercall<br>
-  40 Shadowcast</td>
-  <td>Shadow moves will also steal Ether from those you are Static Linked tethered to.</td>
-  <td>Applying the <a href="Status_Effects.md#shadow">Shadow</a> status effect also applies the effect to all targets you are tethered to. Additionally, your Shadow status effect drains 4.6x more Ether.</td>
-</tr>
-<tr>
-  <td>Battery Sapper<br>
-  <sup>[Unstable Capacitor]<sup></sup></sup></td>
-  <td>Surge Path: Unstable Capacitor<br>
-  60 Thundercall<br>
-  25 Shadowcast</td>
-  <td>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</td>
-  <td>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Battery Sapper to proc.<br>
-  However, this talent is bugged and currently does nothing.</td>
-</tr>
-</tbody>
-</table>
-
-**Thundercall:**
-
-**Bloodrend:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Electrolyte<br>
-  <sup>[Bloodsong]</sup></td>
-  <td>40 Bloodrend<br>
-  40 Thundercall</td>
-  <td>Hitting Bloodrend mantras while having temporary health applies <a href="Status_Effects.md#shock">Shocked</a> while removing a portion of temporary health.</td>
-  <td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td>
-</tr>
-</tbody>
-</table>
-
-**Flamecharm:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Scorched Peak<br>
-  <sup>[Lichtenberg]</sup></td>
-  <td>50 Thundercall<br>
-  25 Flamecharm</td>
-  <td>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</td>
-  <td>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning. Deals 10 damage.</td>
-</tr>
-</tbody>
-</table>
-
-**Frostdraw:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Fulgurite Formation<br>
-  <sup>[Frozen Lightning]</sup></td>
-  <td>Surge Path: Unstable Capacitor<br>
-  50 Thundercall<br>
-  Glass Path: Crystallization<br>
-  50 Frostdraw</td>
-  <td>When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.</td>
-  <td>When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.</td>
-</tr>
-<tr>
-  <td>Frozen Web<br>
-  <sup>[Doomsday Engine]</sup></td>
-  <td>Static Link<br>
-  40 Thundercall<br>
-  40 Frostdraw</td>
-  <td>Landing a critical with a Static Link on your opponent applies Chilled.</td>
-  <td>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. No synergy with Crystallization Path.</td>
-</tr>
-<tr>
-  <td>Golden Age<br>
-  <sup>[Crystalline Gold]</sup></td>
-  <td>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</td>
-  <td>Your Iron Pull now detonates Crystals and overloads Surges.</td>
-  <td>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</td>
-</tr>
-</tbody>
-</table>
-
-**Galebreathe:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Storm Link<br>
-  <sup>[Stormcaller]</sup></td>
-  <td>Static Link<br>
-  60 Thundercall<br>
-  50 Galebreathe</td>
-  <td>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</td>
-  <td>Landing Galebreathe Mantras on your Static Linked target will deal a secondary instance of damage to your attack, dealt as Thundercall damage. This deals 10% of your attack's scaled damage.</td>
-</tr>
-</tbody>
-</table>
-
-**Ironsing:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Golden Age<br>
-  <sup>[Crystalline Gold]</sup></td>
-  <td>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</td>
-  <td>Your Iron Pull now detonates Crystals and overloads Surges.</td>
-  <td>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</td>
-</tr>
-<tr>
-  <td>Voltaic Conductor<br>
-  <sup>[Superconductor]</sup></td>
-  <td>Rending Needle: Conductor<br>
-  75 Ironsing<br>
-  40 Thundercall</td>
-  <td>Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.</td>
-  <td>Thundercall Mantras deal 30% more chip damage if your opponent has Conductor Rods on them.</td>
-</tr>
-</tbody>
-</table>
-
-**Shadowcast:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Dark Receiver<br>
-  <sup>[Sapper]</sup></td>
-  <td>Static Link<br>
-  40 Thundercall<br>
-  40 Shadowcast</td>
-  <td>Shadow moves will also steal Ether from those you are Static Linked tethered to.</td>
-  <td>Applying the <a href="Status_Effects.md#shadow">Shadow</a> status effect also applies the effect to all targets you are tethered to. Additionally, your Shadow status effect drains 4.6x more Ether.</td>
-</tr>
-<tr>
-  <td>Battery Sapper<br>
-  <sup>[Unstable Capacitor]<sup></sup></sup></td>
-  <td>Surge Path: Unstable Capacitor<br>
-  60 Thundercall<br>
-  25 Shadowcast</td>
-  <td>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</td>
-  <td>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Battery Sapper to proc.<br>
-  However, this talent is bugged and currently does nothing.</td>
-</tr>
-</tbody>
-</table>
-
-**All:**
-
-These Talents require the combination of all attunements to be obtained. Very few in number, these hybrid Talents are very niche and specialized, but powerful to make up for their high requirements.
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Card Description</b></td>
-  <td><b>Effect</b></td>
-</tr>
-<tr>
-  <td>Chorus of Souls<br>
-  <sup>[Sage of Wisps]</sup></td>
-  <td><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, 30 in all Attunements</td>
-  <td>Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)</td>
-  <td>While all Attunement Wisp Mantras are active, gain massively increased healing. This healing is reduced by 0.477% for every point in each Attunement stat that is below 30. Having more than 30 points in an Attunement does not compensate for this. This effect will stop working if any Wisp is not present.</td>
-</tr>
-<tr>
-  <td>Wisp Convergence<br>
-  <sup>[Sage of Wisps]</sup></td>
-  <td><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, Chorus of Souls</td>
-  <td>When empowered by the Chorus, your Wisps now grant their elements to your strikes.</td>
-  <td>While all Attunement Wisp Mantras are active, your basic attacks will apply <a href="Status_Effects.md#burn">Burn</a>, <a href="Status_Effects.md#chill">Chill</a>, <a href="Status_Effects.md#shock">Shock</a>, <a href="Status_Effects.md">Shadow</a>, and <a href="Status_Effects.md#winded">Winded</a>. This has no cooldown, but will stop working if any Wisp is not present.</td>
-</tr>
-</tbody>
-</table>
+Search the Talents with CTRL + F on PC or Find in Page on mobile. Each Talent has a list of bracketed tags, with the attributes being listed as well. Search for your desired Attunement to find the Talents that correspond with it!
+
+This section is transcluded from [a different page](Talents.md#talents). To change it, please edit the transcluded page. The Talents are listed alphabetically based on the names of their Talent categories.
+
+### Alloyblood
+
+-   **Composite Path: Alloyblood** \[Alloyblood • Common Talent\] - Fuse the Ironsing rods from Ironsing mantras and Blood Poison from Bloodrend mantras into a composite plasma that flows in your opponents blood. Your Bloodrend mantras are now silver.
+    -   Your Metal Rod and Blood Poison buildup is replaced with Composite Alloy buildup. A certain threshold of Composite Alloy must be built up to cast Alloyblood Mantras.  
+        
+    -   Prerequisites: 50 Bloodrend, 50 Ironsing  
+        
+    -   Mutual Exclusives: [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger)  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Hypoferritinemia** \[Alloyblood • Common Talent\] - Using Rising Plasma now summons your [Metal Greatsword](Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
+    -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](Alloyblood_Axe.md).  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), [Needleblade](Talents.md#needleblade), [Torture Mastery](Talents.md#torture-mastery), 30 Bloodrend, 30 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Chip Damage\] \[Multi-Attunement\]
+
+-   **Plasma Refresh** \[Alloyblood • Common Talent\] - When casting an alloyblood hybrid mantra, refresh your critical attack cooldown. Your critical hits with alloyblood weaponry now add composite plasma to your opponent.
+    -   Keep in mind that all of the Alloyblood weapons ([Alloyblood Axe](Alloyblood_Axe.md), [Alloyblood Daggers](Alloyblood_Daggers.md), and [Alloyblood Spear](Alloyblood_Spear.md) have the default critical attacks of their weapon types.  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), 40 Bloodrend, 40 Ironsing, 60 Weapon  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Weapon Attack\]
+
+-   **Plasma Signal** \[Alloyblood • Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your Rising Plasma mantra. Raise your opponent's plasma by 10% when this happens.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), 55 Bloodrend, 55 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Debuff\] \[Multi-Attunement\]
+
+-   **Retained Hemoglobin** \[Alloyblood • Common Talent\] - Using an alloyblood mantra reduces the composite plasma cost of your next alloyblood mantra by 20%. This effect lasts for 10 seconds and can be stacked.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), 60 Bloodrend, 60 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Stored Plasma** \[Alloyblood • Common Talent\] - Feinting an alloyblood mantra increases the duration of the next weapon summoned from an alloyblood mantra by 33%.
+    
+    -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), 60 Bloodrend, 60 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Feint\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Ultrafiltration** \[Alloyblood • Common Talent\] - Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.
+    -   Your Alloyblood Mantras (Infused Slash, Rising Plasma, and Spinning Serum) now apply Blood Poisoning and Metal Rods on hit.  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), 65 Bloodrend, 65 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
+
+### Arcwarder
+
+-   **Oath: Arcwarder** \[Arcwarder • Oath Talent\] - You [vow](Glossary.md#vows) to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots, +5% PEN)
+    -   See [Oath: Arcwarder](Oath%253A_Arcwarder.md).  
+        
+    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, complete [Alpha](Alpha.md)'s quest  
+        
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Fortitude\] \[Flamecharm\] \[+Mantra Slots\] \[+PEN\]
+
+-   **Arc Module: Dash** \[Arcwarder • Oath Talent\] - In Arc Suit Your dashes become Jet Dashes, allowing you to attack while dashing.
+    -   Jet dashes go much further than regular dashes.
+    -   Also allows the user to M1 while performing a dash, ending their dash early.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md)  
+        
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Dodge\] \[Mobility\]
+
+-   **Arc Module: Eject** \[Arcwarder • Oath Talent\] - In Arc Suit When blockbroken, eject from your suit.
+    -   If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
+    -   Upon ejecting from the Arc Suit, your posture will be set to 50%.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Guardbreak\]
+
+-   **Arc Module: Enhance** \[Arcwarder • Oath Talent\] - In Arc Suit Your Arcwarder Mantras deal increased damage.
+    -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
+    -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
+    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your more conventional modifiers by giving them a higher base damage to work off of.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Damage Buff\]
+
+-   **Arc Module: Guard** \[Arcwarder • Oath Talent\] - In Arc Suit You can block attacks from any direction and cannot be backstabbed.
+    
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Backhit\]
+
+-   **Arc Module: Leap** \[Arcwarder • Oath Talent\] - In Arc Suit Holding Spacebar after double jumping propels you up for a short duration.
+    -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
+    -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\] \[Mobility\]
+
+-   **Arc Module: Null** \[Arcwarder • Oath Talent\] - In Arc Suit Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+    -   Toggling Null on/off has a 5 second cooldown.
+    -   Has a sound effect on toggle.
+    -   There is no way to tell if it is active or not until you attempt to use or get hit by an [Enchantment](Enchantments.md).
+    -   Only affects weapon Enchantments.  
+        
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times // pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once)  
+        
+    -   Tags: \[[Arcwarder](Oath%253A_Arcwarder.md)\]
+
+### Bloodsong
+
+-   **Blood and Iron** \[Bloodsong • Common Talent\] - Pulling [rods](Status_Effects.md#metal-rods) out of your opponent now replenishes an equivalent amount of blood.
+    
+    -   Prerequisites: 40 Bloodrend, 40 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Multi-Attunement\] \[Sustain\]
+
+-   **Brain Death** \[Bloodsong • Common Talent\] - Enemies that are already [suffocated](Status_Effects.md#suffocation) will have their suffocation duration extended when hit by a bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   Applies a new stack of suffocation for 2.5s on proc.  
+        
+    -   Prerequisites: 40 Bloodrend, 40 Galebreathe  
+        
+    -   Tags: \[Bloodrend\] \[Galebreathe\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Cold Blooded** \[Bloodsong • Common Talent\] - [Chilled](Status_Effects.md#chill) enemies passively build up blood poison, alternatively when [crystals](Status_Effects.md#crystals) explode it'll apply blood poison. (DOES NOT STACK)
+    -   Has a 0.5s cooldown.
+    -   Applies 25% blood poisoning on crystal explosion.
+    -   This Talent does not proc on Crystal explosions caused via guardbreaking the target or [Temperature Shock](Talents.md#temperature-shock). Instead, all crystal explosions must be procced through applying enough crystals or [Golden Age](Talents.md#golden-age) in order for this Talent to proc.  
+        
+    -   Prerequisites: 40 Bloodrend, 40 Frostdraw  
+        
+    -   Tags: \[Bloodrend\] \[Frostdraw\] \[Debuff\] \[Multi-Attunement\]
+
+-   **Electrolyte** \[Bloodsong • Common Talent\] - Hitting Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] while having [temporary health](Status_Effects.md#temporary-health) applies [Shocked](Status_Effects.md#shock) while removing a portion of temporary health.
+    -   Applies a [Surge Rod](Status_Effects.md#surge-rod) instead if you have Surge Path: Unstable Capacitor.
+    -   Takes 4 temporary health per proc.  
+        
+    -   Prerequisites: 40 Bloodrend, 40 Thundercall  
+        
+    -   Tags: \[Bloodrend\] \[Thundercall\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Temporary Health\]
+
+-   **Malevolent Sapper** \[Bloodsong • Common Talent\] - The more blood poisoning your opponent has, the more [ether](Ether.md) your shadow mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] steal from your opponent.
+    
+    -   Prerequisites: 40 Bloodrend, 40 Shadowcast  
+        
+    -   Tags: \[Bloodrend\] \[Shadowcast\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Scorchblood** \[Bloodsong • Common Talent\] - Guardbreaking your opponent using a bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] causes a blood explosion, setting your opponent on fire and poisoning their blood.
+    -   Deals 16.5 damage in an AoE on proc.
+    -   Applies burn before [Scorched Peak](Talents.md#scorched-peak) does a check to see if your opponent is burning, meaning Scorched Peak will be instantly procced if you guardbreak with a Bloodrend Mantra.  
+        
+    -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Debuff\] \[Guardbreak\] \[Mantra\] \[Multi-Attunement\]
+
+### Cold Phantom
+
+-   **Freezing Wight** \[Cold Phantom • Common Talent\] - Your [Haunted Gale](Talents.md#haunted-gale) now procs [Chillled](Status_Effects.md#chill).
+    -   Also works with Specter Path's Apparitions, turning them light blue.
+    -   Applies 7 seconds of [Chill](Status_Effects.md#chill) or 1 [Crystal](Status_Effects.md#crystal).
+    -   Changes the damage type of Haunted Gale Ghosts/Specter Apparitions from pure Galebreathe to Galebreathe & Frostdraw, making them easier to resist, while allowing them to proc things that require the Frostdraw damage type (e.g. [Flashboil](Talents.md#flashboil)).  
+        
+    -   Prerequisites: [Haunted Gale](Talents.md#haunted-gale), 40 Frostdraw  
+        
+    -   Tags: \[Frostdraw\] \[Galebreathe\] \[Debuff\] \[Multi-Attunement\]
+
+### Cosmic Wind
+
+-   **Pressure Detonation** \[Cosmic Wind • Common Talent\] - Block breaking an opponent with a Shadow mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] generates a small vacuum that [suffocates](Status_Effects.md#suffocation) those hit and steals their [Tempo](Combat_Mechanics.md#tempo).
+    -   If the user has the [Apparitions](Talents.md#apparitions) Talent, this can proc Apparitions by inflicting suffocation.  
+        
+    -   Prerequisites: 60 Galebreathe, 40 Shadowcast  
+        
+    -   Tags: \[Galebreathe\] \[Shadowcast\] \[Debuff\] \[Ether Proselyte\] \[Guardbreak\] \[Multi-Attunement\] \[Tempo\]
+
+### Crystalline Gold
+
+-   **Golden Age** \[Crystalline Gold • Common Talent\] - Your Iron Pull now detonates [Crystals](Status_Effects.md#crystals) and overloads [Surges](Status_Effects.md#surge-rod).
+    -   Crystals don't always detonate on pull (bug).  
+        
+    -   Prerequisites: [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger), [Glass Path: Crystallization](Talents.md#glass-path-crystallization), [Surge Path: Unstable Capacitor](Talents.md#surge-path-unstable-capacitor)  
+        
+    -   Tags: \[Frostdraw\] \[Ironsing\] \[Thundercall\] \[Multi-Attunement\]
+
+### Doomsday Engine
+
+-   **Frozen Web** \[Doomsday Engine • Common Talent\] - Landing a critical with a [Static Link](Status_Effects.md#static-link) on your opponent applies [Chilled](Status_Effects.md#chill).
+    -   Applies [Chill](Status_Effects.md#chill) for 7 seconds and [Bottom Freeze](Status_Effects.md#bottom-freeze). You do not need the Bottom Freeze Talent to apply this effect.
+    -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
+    -   3 second cooldown.  
+        
+    -   Prerequisites: [Static Link](Talents.md#static-link), 40 Frostdraw, 40 Thundercall  
+        
+    -   Tags: \[Intelligence\] \[Frostdraw\] \[Thundercall\] \[Critical Attack\] \[Debuff\] \[Multi-Attunement\] \[Static Link\]
+
+### Exotherm
+
+-   **Exotherm Path: Sanguine Blaze** \[Exotherm • Common Talent\] - Your blood is thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing, up to 3 stacks. Touch it with flame and it erupts. Your fire burns a searing pink.
+    -   Turns your Flamecharm Mantras, status effects, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
+    -   Bloodrend Mantras apply stacks of Black Blood, applying a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect. Applying [Burn](Status_Effects.md#sanguine-burn) to a target with Black Blood causes an explosion that deals high damage and applies knockback.  
+        
+    -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
+        
+    -   Mutual Exclusives: [Azure Flames](Talents.md#azure-flames), [Eruption Path: Lava Serpent](Talents.md#eruption-path-lava-serpent), [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets)  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Anti-Heal\] \[Anti-Sustain\] \[Attunement Path\] \[Debuff\] \[Multi-Attunement\] \[Slow\]
+
+-   **Burnout** \[Exotherm • Common Talent\] - Igniting enemies reduces their damage by 4% per Black Blood stack, up to a maximum of 12%.
+    
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze), 60 Bloodrend, 65 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Debuff\] \[Multi-Attunement\]
+
+-   **Critical Mass** \[Exotherm • Common Talent\] - Landing a Critical Attack on an enemy with Black Blood ignites them with pink fire.
+    
+    -   Prerequisites: 45 Bloodrend, 45 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Weapon Attack\]
+
+-   **Exothermic Finish** \[Exotherm • Common Talent\] - Igniting an enemy with Black Blood now flourishes them instead of knocking them back, inflicting all flourish talents.
+    
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze), 60 Bloodrend, 80 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Flourish\] \[Multi-Attunement\]
+
+-   **Pressure Bleed** \[Exotherm • Common Talent\] - Your [vents](Combat_Mechanics.md#tempo) turn pink, spraying explosive Black Blood puddles that ignite enemies.
+    -   Your Vent leaves behind Black Blood puddles that applies [Burn](Status_Effects.md#sanguine-burn) to anyone who touches it.  
+        
+    -   Prerequisites: [Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze), 50 Bloodrend, 50 Flamecharm  
+        
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Debuff\] \[Multi-Attunement\] \[Vent\]
+
+### Flashfreeze
+
+-   **Temperature Shock** \[Flashfreeze • Common Talent\] - Your fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now detonate any stacked crystals.
+    -   Landing a Flamecharm Mantra detonates the [Crystals](Status_Effects.md#crystals) you've applied.
+    -   This has a 4 second cooldown.  
+        
+    -   Prerequisites: [Glass Path: Crystallization](Talents.md#glass-path-crystallization), 40 Flamecharm, 40 Frostdraw  
+        
+    -   Tags: \[Flamecharm\] \[Frostdraw\] \[Multi-Attunement\]
+
+### Frozen Lightning
+
+-   **Fulgurite Formation** \[Frozen Lightning • Common Talent\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
+    -   The lightning strikes deal 5 typeless damage with no PvE scaling, and don't apply [Surge Rods](Status_Effects.md#surge-rods).
+    -   The lightning strikes have a cooldown of 4 seconds.
+    -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
+    -   The lightning strikes proc [Grounding Bolt](Talents.md#grounding-bolt).  
+        
+    -   Prerequisites: [Glass Path: Crystallization](Talents.md#glass-path-crystallization), [Surge Path: Unstable Capacitor](Talents.md#surge-path-unstable-capacitor), 50 Frostdraw, 50 Thundercall  
+        
+    -   Tags: \[Frostdraw\] \[Thundercall\] \[Multi-Attunement\]
+
+### Heat Column
+
+-   **Fan the Flames** \[Heat Column • Common Talent\] - Your stored Wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] can now empower your Fire mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   The effects of [Inhale](Talents.md#inhale) (causing [Mantra Modifiers](Mantra_Modifiers.md) to transfer across Galebreathe Mantras) and the damage buff that Inhale grants, (Inhaled Mantra's level times 2)%, will now also affect Flamecharm Mantras. You cannot _inhale_ Flamecharm Mantras however.  
+        
+    -   Prerequisites: [Inhale](Talents.md#inhale), 40 Flamecharm  
+        
+    -   Tags: \[Flamecharm\] \[Galebreathe\] \[Damage Buff\] \[Multi-Attunement\]
+
+### Lichtenberg
+
+-   **Scorched Peak** \[Lichtenberg • Common Talent\] - Blockbreaking an enemy on fire or with a fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] causes them to be struck by lightning.
+    -   "On fire" means currently [burning](Status_Effects.md#burn).
+    -   Deals 10 Thundercall damage.
+    -   Procs [Grounding Bolt](Talents.md#grounding-bolt).  
+        
+    -   Prerequisites: 25 Flamecharm, 50 Thundercall  
+        
+    -   Tags: \[Flamecharm\] \[Thundercall\] \[Ether Proselyte\] \[Guardbreak\] \[Multi-Attunement\]
+
+### Pyroclast
+
+-   _**Volcanic Glass**_ \[Advanced Talent, Dual Attunement, Flamecharm, Frostdraw\] - Detonating crystals causes an eruption soon after.
+    -   Prerequisites: Eruption Path: Lava Serpent, Glass Path: Crystallization
+
+### Sage of Wisps
+
+-   _**Chorus of Souls**_ \[Advanced Talent, [Oathless](Oath%253A_Oathless.md)\] - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
+    -   Grants heavily increased health regeneration if you have all Wisps active.
+        -   This healing is reduced by 0.477% for every point in each Attunement stat that is below 30. Having more than 30 points in an Attunement does not compensate for this.
+    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
+    -   This Talent will not work if you do not have the Oathless Oath.
+    -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
+
+-   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md)\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
+    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
+    -   Your basic attacks will apply the following [Status Effects](Status_Effects.md): [Burn](Status_Effects.md#burn), [Shock](Status_Effects.md#shock), [Chill](Status_Effects.md#chill), [Winded](Status_Effects.md#winded), [Shadow](Status_Effects.md#shadow), [Metal Rods](Status_Effects.md#metal-rods), and [Blood Poison](Status_Effects.md#blood-poison) all at once.
+    -   These effects will be replaced with their Attunement path's counterpart effect if you have the respective Attunement path. (Except crystallization, currently broken)
+    -   This Talent will not work if you do not have the Oathless Oath.
+    -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
+
+### Saintsworn
+
+-   [**Oath: Saintsworn**](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN)
+    -   Prerequisites: 15 Flamecharm, 15 Galebreathe, 15 Shadowcast, 15 Frostdraw, 15 Thundercall, resonate with all of the Attunement obelisks in any order.
+        -   The Flamecharm obelisk is at [Saramaed Summit](Saramaed_Summit.md), the Galebreathe obelisk is at [The Garden Reservoir](The_Garden_Reservoir.md), the Shadowcast obelisk is at [Moon's Eyrie](<Moon's_Eyrie.md>), the Frostdraw obelisk is atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), and the Thundercall obelisk is at [Boatman's Watch](<Boatman's_Watch.md>). See the [Saintsworn](Oath%253A_Saintsworn.md) page for more info.
+
+-   Ether Proselyte \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - All of your Elemental Mantras below Lv. 5 are now 1 level higher. Your Mantras are now converted to the element of your current stance.
+    -   Increases the level of all Attuned Mantras by 1 unless they are already level 5.
+    -   Allows your Attuned Mantras to proc the Attunement Talents of your current Saint Stance. (E.g. Clutching Shadow in the Flamecharm Stance can proc Scorched Peak, creating a lightning strike if you guard break with this Mantra.)
+        -   Not all Attuned Talents are eligible to proc Ether Proselyte and does not work on Ironsing or Bloodrend Mantras (might be an oversight / bug since Ironsing & Bloodrend Mantras are Elemental Mantras). More info as to what does and doesn't work is on the [Saintsworn](Oath%253A_Saintsworn.md) page.
+    -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
+
+-   Hero's Assist \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - Heroes come to your aid based on your current stance.
+    -   Hero's Assist summons the past heroes of the attunements themselves to aid you in battle. You can spawn heroes independent of your current Saint Stance.
+    -   This passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
+    -   **Flamecharm**: Upon flourishing an enemy, set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent **The Floor is Lava**.
+    -   **Galebreathe**: Upon uppercutting, block-breaking an enemy with a Mantra, or taking damage while casting a Mantra (can be from any source), shoot a miniscule version of the Galebreathe Mantra _Tornado_ at the enemy, while also suffocating and knocking them away.
+    -   **Shadowcast**: Upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
+    -   **Frostdraw**: Upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon a stationary turret that fires ice projectiles in a straight line. Applies chill/crystals on hit.
+    -   **Thundercall**: Upon casting a Mantra for the first time, your Mantra cast will have much higher windup and damage.
+        -   The damage buff is currently bugged and does not work, meaning this does nothing but nerf your Mantra.
+    -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
+
+-   Saint's Negation \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - Once per stance cycle you can fully block an attack that matches your Saint Stance.
+    -   Allows you to fully negate the damage of one attack that has a damage type that corresponds with your current Saint Stance.
+    -   Can only proc once per **full cycle**, meaning you'll have to fully cycle through all of the Stances before you can proc it again.
+    -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
+
+-   Saint's Overload \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers increased by 10%.
+    -   Increases your Attunement investment scaling by 15% and the effects of your Mantra modifiers by 10% for a few seconds after preforming a **full rotation** of Saint stances. You'll need to fully cycle through all of the Stances before you can proc this effect again.
+    -   Acts similarly to [Songchant](Traits.md#songchant) in the sense that it increases the effectiveness of your investment.
+    -   Turns your Saintsblade and the Saintsworn Oath cosmetic (the swords on your back) white on proc.
+    -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
+
+-   Saint's Synergy \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - 15% of your highest element scaling is applied to other elemental damage.
+    -   15% of the investment scaling from your highest Attuned stat is added to your other Attuned Mantras, granting them slight dual scaling.
+    -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
+
+### Sapper
+
+-   Dark Receiver \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
+    -   Deal 4.5x Ether steal against linked targets. Additionally, drain Ether from all linked targets equally when landing Shadowcast moves.
+    -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
+
+### Stormcaller
+
+-   Storm Link \[Common Talent, Dual Attunement, Galebreathe, Thundercall\] - While you have a Static Link on someone, your Wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that hit them are imbued with flashes of Lightning.
+    -   Adds a secondary instance of damage to your Galebreathe Mantras if they hit a Static Linked target. This deals 10% of your attack's scaled damage as Thundercall damage.
+    -   This does not allow your Galebreathe Mantras to proc any Thundercall Talents or status effects.
+    -   Prerequisites: Static Link, 60 Thundercall, 50 Galebreathe
+
+### Superconductor
+
+-   Voltaic Conductor \[Common Talent, Dual Attunement, Ironsing, Thundercall\] - Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.
+    -   Prerequisites: Rending Needle: Conductor, 40 Thundercall, 75 Ironsing
+
+### Twisted Puppets
+
+-   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your Flamecharm mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] summon puppets of shadow and flame. Your flames are now black.
+    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Blazing.md), and [Railblade](Railblade.md)'s criticals and all Flamecharm Mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) to grey, [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) to black, and [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) to purple.
+    -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment, deal Flamecharm damage, and _drain_ 6.25 Ether per tick from affected players.
+        -   Shadow damage from any source applies **[Shadow Burn](Status_Effects.md#shadow-burn)**. Shadow Burn does 75% less damage than base Flamecharm burn. This burn type cannot be applied to knocked targets.
+        -   Anything that would normally apply burn applies **[Puppet Burn](Status_Effects.md#puppet-burn)**. Puppet Burn does 87.5% less damage than base Flamecharm burn. Puppet Burn spawns Twisted Puppets every 4 seconds, that travel to where the target initially was when the Puppet was spawned.
+    -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and aren't affected by [Everchanging Aegis](Talents.md#everchanging-aegis).
+    -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
+    -   Puppets deal 10 posture damage.
+    -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
+    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Exotherm Path: Sanguine Blaze, Azure Flames, Flashboil
+
+-   Burning Puppets \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your puppets can now inflict burn and fire-based Talents when they explode.
+    -   Grants Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm, up to 30 at 100 Flamecharm.
+    -   Your Puppets apply Puppet burn, allowing you to spawn more Puppets.
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+
+-   _Burning Sacrifice_ \[Rare Talent, Dual Attunement, Flamecharm, Shadowcast\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.
+    -   Gives you a Talent tool that must be actively used to proc this Talent.
+    -   Grants +4% basic attack damage and a speed boost per Puppet for 6s. Caps off at +12% damage.
+    -   Puppets turn purple after being alive for 15 seconds.
+    -   15 second cooldown if at least one Puppet is successfully sacrificed, 1 second cooldown if not.
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
+
+-   Explosive Rage \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Causing explosion will make your puppets go into a frenzy, speeding up and dealing 50% more damage.
+    -   The buff is signified by an orange swirling aura around your Puppets.
+    -   Buffs all currently alive Puppets and all Puppets that spawn within the next 10 seconds.
+        -   The damage buff only applies to newly created Puppets, unlike the movement speed buff, which affects both old and new Puppets.
+    -   The following abilities and Talents proc Explosive Rage: [Explosive Finish](Talents.md#explosive-finish), [Emperor Flame](Talents.md#emperor-flame), [The Final Act](Talents.md#the-final-act), [Scorchblood](Talents.md#scorchblood), and the [Detonation](Detonation.md) enchant.
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+
+-   Moths to a Flame \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your Twisted Puppets now home towards burning enemies.
+    -   Your Puppets home onto the closest entity (excluding yourself) who is burning from either of the Twisted Puppets burn types. This can include allies.
+    -   Puppets move significantly faster when they get close to a burning target.
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+
+### Vaporborne
+
+-   Flashboil \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
+    -   Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a _stationary_ steam cloud.
+        -   The burn status effect doesn't count as "Flamecharm damage" for this Talent, meaning if you apply burn via Agitating Spark, Immolation, or some other non-Flamecharm damaging source to a chilled target, nothing will happen.
+    -   Steam clouds deal 2 typeless damage per tick in an AoE at 6 ticks per second. Has a DPS of 12.
+    -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
+    -   Steam clouds last 5 seconds and have an internal proc cooldown **per target** of 5 seconds.
+    -   This Talent is incredibly good for PvE in high mob density areas like [The Diluvian Mechanism](The_Diluvian_Mechanism.md) because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
+    -   Prerequisites: 30 Flamecharm, 30 Frostdraw
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Glass Path: Crystallization, Wraith Path: Twisted Puppets
+
+-   Boiling Point \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Using a fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] near your own steam cloud detonates it.
+    -   Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 typeless damage in an AoE.
+    -   Because this procs when the steam cloud is hit and not the player, even if your opponent defends against your Mantra, it will still detonate your steam.
+    -   Landing a Flamecharm Mantra on a chilled opponent will instantly detonate the newly created steam cloud.
+    -   Has a short delay which can throw players off.
+    -   The detonation is unparryable, unblockable, and bypasses armor resistances.
+    -   Prerequisites: Flashboil
 
 ## Equipment
 
@@ -1288,8 +745,7 @@ When wearing all equipment in the set, you gain the Shock Trooper Specialist Tal
 
 ## Trivia
 
--   Tempest Blitz was the first Hybrid Mantra introduced into the game on 12/19/2023.
+-   Tempest Blitz was the first Hybrid Mantra introduced into the game on [December 19th, 2023](Version_History/2023.md#december-19th-2023).
 -   The Specialist Set were the first equipment items to require hybrid attunements to be used.
 -   Upon its release, Permafrost Prison was incredibly powerful and had to be quickly nerfed, causing it to be one of the quickest and harshest nerfs towards any Mantra in Deepwoken history.
--   [Thundercall](Thundercall.md) has the most Hybrid Mantras, with 3 out of the 4 scaling off of it
--   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend Mantras to a blue-ish grey.
+-   [Bloodrend](Bloodrend.md), seconded only to [Thundercall](Thundercall.md), has the most Hybrid Mantras due to both of its hybrid Attunement Paths having 3 unique Mantras each.

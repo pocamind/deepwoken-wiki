@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 232394
+revid: 232518
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -448,6 +448,20 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Mutual Exclusives: [Gilded Path: Scrapsinger](#gilded-path-scrapsinger)  
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
+
+-   **Hypoferritinemia** \[Common Talent\] - Using Rising Plasma now summons your [Metal Greatsword](Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
+    -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](Alloyblood_Axe.md).  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), [Needleblade](#needleblade), [Torture Mastery](#torture-mastery), 30 Bloodrend, 30 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Chip Damage\] \[Multi-Attunement\]
+
+-   **Plasma Refresh** \[Common Talent\] - When casting an alloyblood hybrid mantra, refresh your critical attack cooldown. Your critical hits with alloyblood weaponry now add composite plasma to your opponent.
+    -   Keep in mind that all of the Alloyblood weapons ([Alloyblood Axe](Alloyblood_Axe.md), [Alloyblood Daggers](Alloyblood_Daggers.md), and [Alloyblood Spear](Alloyblood_Spear.md) have the default critical attacks of their weapon types.  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 40 Bloodrend, 40 Ironsing, 60 Weapon  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Weapon Attack\]
 
 -   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your Rising Plasma mantra. Raise your opponent's plasma by 10% when this happens.
     
@@ -2388,7 +2402,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         
     -   Prerequisites: 40 Willpower, 70 Flamecharm  
         
-    -   Mutual Exclusives: [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
+    -   Mutual Exclusives: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
         
     -   Tags: \[Willpower\] \[Flamecharm\] \[Damage Buff\] \[Posture Damage Buff\]
 
@@ -3596,7 +3610,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
             
     -   Prerequisites: 40 Flamecharm  
         
-    -   Mutual Exclusives: [Flashboil](#flashboil), [The Final Act](#the-final-act), [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
+    -   Mutual Exclusives: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), [Flashboil](#flashboil), [The Final Act](#the-final-act), [Wraith Path: Twisted Puppets](#wraith-path-twisted-puppets)  
         
     -   Tags: \[Flamecharm\] \[Attunement Path\] \[Investment Scaling\] \[Scale-down\]
 
@@ -4729,6 +4743,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Gilded Path: Scrapsinger \[Common Talent, Ironsing\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
     -   Your Ironsing Mantras/abilities, Ironsing legendary weapons, and Metal Rods are now yellow.
     -   Prerequisite: 35 Ironsing
+    -   Mutual Exclusive: [Composite Path: Alloyblood](#composite-path-alloyblood)
 
 -   Artisan's Blade \[Common Talent, Ironsing\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
     -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 × (1 + 0.005 × Ironsing investment). They deal 4.5 posture damage each if blocked. Their damage cannot be modified.
@@ -5501,7 +5516,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Puppets deal 10 posture damage.
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
-    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames, Flashboil
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Exotherm Path: Sanguine Blaze, Azure Flames, Flashboil
 
 -   Burning Puppets \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your puppets can now inflict burn and fire-based Talents when they explode.
     -   Grants Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm, up to 30 at 100 Flamecharm.
@@ -6143,7 +6158,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\]
 
--   **Ardenstar Rage**: Harvestman's Halo - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.
+-   **Ardenstar Rage**: [Harvestman's Halo](<Harvestman's_Halo.md>) - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.
     -   Cooldown reduction stacks with [Blessed Gems](Blessed_Gem.md) for 75% cooldown reduction.
     -   [Cursed Burn](Status_Effects.md#cursed-burn) is a unique Burn modifier that triples the burn damage and turns the flames purple.  
         

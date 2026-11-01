@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 229413
+revid: 232470
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Mechanics]
@@ -31,6 +31,10 @@ The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is
 ## World Bosses
 
 Exceptionally strong enemies that may require multiple people to take down. World Bosses usually have a set spawn, and reward players with 1 or 2 [Knowledge](Knowledge.md), Double [Resonance](Resonance.md) progression, 1-2 [Crowns](Crowns.md), and an insane amount of Experience on defeat.
+
+## Temporary Bosses
+
+These bosses are only available for a limited time, such as [Hallowtide,](Hallowtide.md) and usually have a gimmick or two unique to their fight.
 
 ## Mini-Bosses
 

@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 232447
+revid: 232542
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Greatsword |
 | damage type | Slash |
-| requirements | 100 HVY; 60 MND |
+| requirements | 100 HVY; 50 MND |
 | damage | 25 |
 | scaling | 10 HVY; 3 MND |
 | posture damage | 12 |
@@ -51,6 +51,6 @@ Equipping the Silas's Cenotaph grants its unique [weapon Talent](Talents.md#weap
 
 ## Critical
 
-Display the mummified head of [Silas Ardenstar](Silas_Ardenstar.md), true stunning your opponent with fear. Then, follow this up with two weighted swings. The second swing guardbreaks if blocked.
+Display the mummified head of [Silas Ardenstar](Silas_Ardenstar.md), true stunning your opponent with fear. Then, follow this up with two weighted swings. The second swing guardbreaks if blocked. Contrary to popular belief the first hit of this critical can be both parried and blocked.
 
 This critical has a cooldown of **12 seconds**.

@@ -1,6 +1,6 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 232273
+revid: 232552
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,16 +10,17 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Familiar Prosthetic Arm | |
 |---|---|
 | type | Arms |
-| rarity | TBA |
-| selling price | 0 |
-| weight | TBA |
+| rarity | Unique |
+| selling price | 100 |
+| requirements | None |
+| weight | 1 |
 | innate stats | +3 Health , +3 Posture |
 | innate talent | Iron Body |
-| bankable | TBA |
-| droppable | TBA |
-| enchantable | TBA |
+| bankable | Yes |
+| droppable | No |
+| enchantable | Only when opening a Goodie Bag |
 | pass down | TBA |
-| obtainment | TBA |
+| obtainment | Goodie Bag |
 | description | ... |
 
 ## Description

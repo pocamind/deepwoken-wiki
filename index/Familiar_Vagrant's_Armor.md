@@ -1,6 +1,6 @@
 ---
 title: "Familiar Vagrant's Armor"
-revid: 232377
+revid: 232532
 source: https://deepwoken.fandom.com/wiki/Familiar_Vagrant's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -47,3 +47,4 @@ The [Grapple](Talents.md#grapple) Talent grants a Talent tool that upon activati
 -   If the attack is blocked, the user will be ragdolled.
 -   The range on the grapple is around 75-77
 -   TBA
+-   The armor is a reference to Rogue Lineage's Shinobi, which is in turn a reference to the character Wolf from Sekrio: Shadows Die Twice.
