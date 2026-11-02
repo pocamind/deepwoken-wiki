@@ -1,6 +1,6 @@
 ---
 title: Prop Hunt
-revid: 232700
+revid: 232793
 source: https://deepwoken.fandom.com/wiki/Prop_Hunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Hallowtide, Minigames, World Event]
@@ -18,13 +18,13 @@ notices:
 
 ## Game Mode
 
-Prop Hunt is a [Hallowtide](Hallowtide.md)\-exclusive gamemode, added in the [Hallowtide 2026](Version_History/2026.md#october-31st-2026) event. Similarly to [World Events](World_Events.md), a pop-up on the right hand side of the screen will be shown globally when the event is starting. Upon selecting to join, you will be transported to the [Isle of the Crows](Isle_of_the_Crows.md) after a short delay.
+Prop Hunt is a [Hallowtide](Hallowtide.md)\-exclusive gamemode, added in the [Hallowtide 2026](Version_History/2026.md#october-31st-2026) event. Similarly to [World Events](World_Events.md), a pop-up on the right hand side of the screen will be shown globally when the event is starting. Upon selecting to join, you will be transported to the Isle of the Crows after a short delay.
 
-In this gamemode, all players are randomly selected to be either a Hider or a Seeker. The Hiders are given **one minute** to find a hiding spot in the Corvus Manor, before a Seeker is chosen from one of the Hiders and the minigame begins.
+In this gamemode, all players are randomly selected to be either a Hider or a Seeker. The Hiders are given **one minute** to find a hiding spot in the [Corvus Manor](Corvus_Manor.md), before a Seeker is chosen from one of the Hiders and the minigame begins.
 
 ### Hiders
 
-The Hiders gain the ability to [Disguise](Attunement-less.md#disguise) themselves as a prop (e.g. a Berrel or Pumpkin) to attempt to blend-in with the Manor's environment.
+The Hiders gain the ability to [Disguise](Attunement-less.md#disguise) themselves as a prop (e.g. a Barrel or Pumpkin) to attempt to blend-in with the Manor's environment.
 
 The Hiders are tasked with waiting out the time limit without getting caught by the Seekers. If a Seeker catches a Hider, then that Hider will **become** a Seeker, with their goal changing to finding the remaining Hiders.
 

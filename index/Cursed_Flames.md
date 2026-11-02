@@ -1,6 +1,6 @@
 ---
 title: Cursed Flames
-revid: 232664
+revid: 232766
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
@@ -28,7 +28,7 @@ categories: [Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, 
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Harvestman |

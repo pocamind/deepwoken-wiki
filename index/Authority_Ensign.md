@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 232047
+revid: 232768
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -295,7 +295,7 @@ Each Division is unique in their themes, offering many avenues of gameplay and b
 
 The Command Division of the Central Authority is known for their charismatic commanders, leading the charges into the fight and empowering their fellow soldiers.
 
-Joining this Division provides the **Glorious Charge** Mantra, the [Authority Captain Uniform](Authority_Captain_Uniform.md) Expert Armor, and the edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey. Additionally, upon reaching Seneschal rank, you can speak to [Warden Jericho](Warden_Jericho.md) to receive the [Rite of Authority](Rite_of_Authority.md) weapon.
+Joining this Division provides the **Glorious Charge** Mantra, the [Authority Captain Uniform](Authority_Captain_Uniform.md) Expert Armor, and the edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey as well as changing the grey center to a navy blue. Additionally, upon reaching Seneschal rank, you can speak to [Warden Jericho](Warden_Jericho.md) to receive the [Rite of Authority](Rite_of_Authority.md) weapon.
 
 Uniquely, this Division has 4 ranks, allowing you to gain up to 5 Faction Talents while the other Divisions are limited to 4.
 

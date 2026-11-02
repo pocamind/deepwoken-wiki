@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 232711
+revid: 232836
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
@@ -49,11 +49,9 @@ Equipping the Silas's Cenotaph grants its unique [weapon Talent](Talents.md#weap
 
 ## Critical
 
-The user displays the mummified head of Silas Ardenstar, stunning the target with fear. It is then followed up with two weighted swings. The second swing guardbreaks if blocked. Contrary to popular, belief the first hit of this critical can be both parried and blocked.
+The user displays the mummified head of Silas Ardenstar, stunning the target with fear. It is then followed up with two weighted swings. The second swing guardbreaks if blocked. Contrary to popular belief, the first hit of this critical can be both parried and blocked.
 
 This critical has a cooldown of **12 seconds**.
-
-  
 
 ## Trivia
 

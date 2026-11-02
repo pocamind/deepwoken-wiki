@@ -1,6 +1,6 @@
 ---
 title: Scallop
-revid: 230059
+revid: 232792
 source: https://deepwoken.fandom.com/wiki/Scallop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy]
@@ -18,7 +18,7 @@ categories: [Ingredients, Harvestables, Alchemy]
 | rarity | Common |
 | stomach | 8% |
 | water | 0% |
-| usage | Sauteed Scallops, Seafood Surprise |
+| usage | Sauteed Scallops, Seafood Surprise, Seafood Boil |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -40,6 +40,7 @@ When consumed, it replenishes 8% Stomach and 0% Water.
 
 -   [Sauteed Scallops](Sauteed_Scallops.md) - 2 Scallops at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 -   [Seafood Surprise](Seafood_Surprise.md) - Any combination including at least 3 of the ingredients: 1 Scallop, 1 [Urchin](Urchin.md), 1 [Squid](Squid.md), and 1 [Fish Meat](Fish_Meat.md) or 1 [Crustacean Meat](Crustacean_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   [Seafood Boil](Seafood_Boil.md) - 1 [Fish Meat](Fish_Meat.md), 1 Scallop, and 1 [Squid](Squid.md) or 1 [Crustacean Meat](Crustacean_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 

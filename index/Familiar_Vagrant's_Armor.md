@@ -1,9 +1,9 @@
 ---
 title: "Familiar Vagrant's Armor"
-revid: 232615
+revid: 232832
 source: https://deepwoken.fandom.com/wiki/Familiar_Vagrant's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits]
+categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Familiar Vagrant's Armor
@@ -21,7 +21,7 @@ categories: [Unique Outfits]
 | resistances | +20% Physical Armor , +30% Elemental Armor , +10% Fire Armor |
 | buffs | +25% Ether Regen |
 | talents | Grapple |
-| obtainment | Goodie Bag |
+| obtainment | Glaive Spellhardt [35 Joy], Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -37,13 +37,21 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire Armor [ResistanceFlamecharm](Flamecharm.md), and +25% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Grapple](Talents.md#grapple) Talent.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental Armor [ResistanceElemental](Attunements.md), +10% Fire Armor [ResistanceFlamecharm](Flamecharm.md), and +25% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Grapple](Talents.md#grapple) Talent.
 
-The [Grapple](Talents.md#grapple) Talent grants a Talent tool that upon activation and aiming at an enemy, shoots a grapple from your [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) to your target and pulls you towards it.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistancePhysical, 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-## Trivia/Notes
+The [Grapple](Talents.md#grapple) Talent grants a Talent tool that upon activation and aiming at an enemy or wall, shoots a grapple from your [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) to your cursor location and pulls you towards it. If fired at an entity, pull them towards you as well, similarly to [Lord's Slice](Oath%253A_Contractor.md#lords-slice).
 
+If using a [Tanto](Tanto.md), the critical attack can be used while grappling an enemy, hitting the target regardless of distance. This attack is still parryable, but guardbreaks if blocked.
+
+## Trivia
+
+-   This outfit is based on Rogue's Lineage's [Shinobi's](https://rogue-lineage.fandom.com/wiki/Shinobi) armor, the Shinobi Armor.
+    -   The class, outfit and Grapple ability are references to Wolf, the protagonist of _Sekiro: Shadows Die Twice_.
+-   Grapple is an ability of Shinobi in Rogue Lineage, similarly allowing it's user to grapple up terrain or pull themself and others up in the air.
+    -   The follow up attack granted by using a Tanto's critical attack is based on the Owl Slash skill.
+    -   The Tanto is also the weapon of the Shinobi class.
 -   Note: It requires the user to have the [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) equipped in order for grapple to work.
 -   If the attack is blocked, the user will be ragdolled.
--   The range on the grapple is around 75-77
--   The armor is a reference to Rogue Lineage's Shinobi, which is in turn a reference to the character Wolf from Sekiro: Shadows Die Twice.
+-   The range on the grapple is around 75 studs.

@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 232718
+revid: 232835
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
@@ -15,7 +15,7 @@ notices:
 |---|---|
 | health | 7200(+1000 per player) |
 | attacks | Resurrection, Accursed Flames: Ritual, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
-| drops | Cursed Flames, Harvestman's Halo, Harvestman's Cloak, See Loot Table |
+| drops | 300-600 Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, See Loot Table |
 | locations | The Harvest Ritual |
 
 “ An effigy made, a prayer whispered, a harvest blessed - face the wrath of the Harvestman, if you dare! ”
@@ -24,7 +24,7 @@ notices:
 
 ## Description
 
-The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in The Harvest Ritual, accessible by his [World Event](World_Events.md). They are a towering scarecrow wearing a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. The Harvestman's head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms that are primarily used in combat.
+The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in [The Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md). They are a towering scarecrow wearing a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. The Harvestman's head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms that are primarily used in combat.
 
 Unlike all bosses, this boss involves a unique gimmick where the player is **only** allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. This boss is intended to be fought like a bullet hell, where the only way to avoid attacks is to move around them.
 
@@ -59,12 +59,6 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 -   A volley of multiple purple fireballs that shoot in various directions.
 -   A wave of purple flames that move across the area.
 -   A flame that slowly pulls targets towards it.
-
-_Uses Telegraph_
-
-[JumpTelegraph](Combat_Mechanics.md#jump)
-
-Jump
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -141,6 +135,7 @@ Jump
     -   Attacking other players as a [Gourdskipper](Gourdskipper.md) will infect them as well, and grants 10 [Joy](Joy.md) to the attacker.
     -   Using [Pumpkin Pitch](Pumpkin_Pitch.md) against an infected player will instantly defeat them, removing them from the [Dungeon](Dungeons.md).
     -   Killing a [Gourdskipper](Gourdskipper.md) as a participant will restore 20% as a healthpack.
+    -   Anytime another player in the server gets infected you gain 2 Joy.
 
 ## Tips and Strategy
 
@@ -184,6 +179,7 @@ Utilizing the [Curse of the No Life King](Curse_of_the_No_Life_King.md) is recom
   <td>
   <ul>
     <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Harvestman's_Halo.md">Harvestman's Halo</a>, <a href="Mushroom_Costume.md">Charmshroom Costume</a>, <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Glowshroom Costume</a>, <a href="Mushroom_Costume.md">Metalshroom Costume</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a>, <a href="Mushroom_Costume.md">Zapshroom Costume</a></li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Familiar_Prosthetic_Arm.md">Familiar Prosthetic Arm</a></li>
     <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Harvestman's_Cloak.md">Harvestman's Cloak</a></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 232552
+revid: 232830
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,8 +19,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | bankable | Yes |
 | droppable | No |
 | enchantable | Only when opening a Goodie Bag |
-| pass down | TBA |
-| obtainment | Goodie Bag |
+| pass down | Yes |
+| obtainment | Goodie Bag The Harvestman |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 228005
+revid: 232803
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -44,7 +44,7 @@ The [Soul Rip](Talents.md#soul-rip) Talent grants 2 _Runes_ every time you kill 
 
 ## Trivia/Notes
 
--   This outfit is based on Rogue Lineage's [Wraith Knight's](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor, the [Wraith Knight](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor.
+-   This outfit is based on Rogue Lineage's [Wraith Knight's](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor, the Wraith Knight armor.
     -   The Wraith Knight armor is notoriously very tanky, which is why this armor has very high Physical and Elemental Armor
 -   The Soul Rip talent is based on the skill of the same name from the Wraith Knight class and Dinakeri race in Rogue Lineage.
     -   Soul Rip was an alternate method to grip players, which granted runes to be used for the Berserk Rune effect (granting the same set of buffs as the talent form) or to be used for Rune Casting spells, allowing instant and sucessful usage of spells.
