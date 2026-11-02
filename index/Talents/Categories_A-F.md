@@ -445,7 +445,21 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
--   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your Rising Plasma mantra. Raise your opponent's plasma by 10% when this happens.
+-   **Hypoferritinemia** \[Common Talent\] - Using [Rising Plasma](../Hybrid_Abilites.md#rising-plasma) now summons your [Metal Greatsword](../Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
+    -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](../Alloyblood_Axe.md).  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), [Needleblade](../Talents.md#needleblade), [Torture Mastery](../Talents.md#torture-mastery), 30 Bloodrend, 30 Ironsing  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Chip Damage\] \[Multi-Attunement\]
+
+-   **Plasma Refresh** \[Common Talent\] - When casting an alloyblood hybrid mantra, refresh your critical attack cooldown. Your critical hits with alloyblood weaponry now add composite plasma to your opponent.
+    -   Keep in mind that all of the Alloyblood weapons ([Alloyblood Axe](../Alloyblood_Axe.md), [Alloyblood Daggers](../Alloyblood_Daggers.md), and [Alloyblood Spear](../Alloyblood_Spear.md) have the default critical attacks of their weapon types.  
+        
+    -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 40 Bloodrend, 40 Ironsing, 60 Weapon  
+        
+    -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Weapon Attack\]
+
+-   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your [Rising Plasma](../Hybrid_Abilites.md#rising-plasma) mantra. Raise your opponent's plasma by 10% when this happens.
     
     -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 55 Bloodrend, 55 Ironsing  
         
@@ -464,7 +478,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Feint\] \[Mantra\] \[Multi-Attunement\]
 
 -   **Ultrafiltration** \[Common Talent\] - Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.
-    -   Your Alloyblood Mantras (Infused Slash, Rising Plasma, and Spinning Serum) now apply Blood Poisoning and Metal Rods on hit.  
+    -   Your Alloyblood Mantras ([Infused Slash](../Hybrid_Abilities.md#infused-slash), [Rising Plasma](../Hybrid_Abilites.md#rising-plasma), and [Spinning Serum](../Hybrid_Abilities.md#spinning-serum)) now apply Blood Poisoning and Metal Rods on hit.  
         
     -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 65 Bloodrend, 65 Ironsing  
         
@@ -2279,7 +2293,7 @@ These Talents [Unbound](../Attributes_Unbound.md) their respective attributes, i
         
     -   Prerequisites: 40 Willpower, 70 Flamecharm  
         
-    -   Mutual Exclusives: [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)  
+    -   Mutual Exclusives: [Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze), [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)  
         
     -   Tags: \[Willpower\] \[Flamecharm\] \[Damage Buff\] \[Posture Damage Buff\]
 

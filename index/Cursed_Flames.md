@@ -1,6 +1,6 @@
 ---
 title: Cursed Flames
-revid: 232511
+revid: 232664
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
@@ -13,13 +13,14 @@ categories: [Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, 
 | type | Sword |
 | damage type | Slash |
 | requirements | 100 FLM, 40 WILL, LVL 10 |
-| damage | 19 |
+| damage | 19.2 |
 | scaling | FLM: 5.5 |
 | posture damage | 5 |
 | range | 8 Sweep |
-| swing speed | 1x |
+| swing speed | 1.10x |
 | attack duration | 0.6s |
 | talent | Accursed Flame - Summon a blade of Cursed Flames. Your aerial attack and uppercut are now enhanced by these flames. While using Cursed Flames, your mantra cooldowns are 3 times longer. |
+| special effect | Basic attacks apply Cursed Burn |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -27,7 +28,7 @@ categories: [Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, 
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | No |
+| droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Harvestman |
@@ -47,6 +48,6 @@ However, wielding this weapon triples the cooldown of all your Mantras.
 
 ## Trivia
 
--   The Cursed Burn modifier deals triple the damage of base Burn.
+-   The Cursed Burn modifier deals 2.5x the damage of base Burn.
 -   This weapon has the same description as the [Hero's Blade of Flame](<Hero's_Blade_of_Flame.md>).
 -   Because this weapon's model is entirely made up of fire VFX, it has no model the item held.

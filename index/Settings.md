@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 229770
+revid: 232661
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,7 +16,7 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 
 ### Controls
 
-**PC:**
+#### PC
 
 -   Camera Lock - Shift / Unbound
 -   Interact - E
@@ -108,13 +108,17 @@ These Keybinds will only appear if you have the respective ability.
 These keybinds only appear if you have the permissions to access them.
 
 -   Freecam - home / Unbound - Accessible in content creator private [servers](Servers.md).
-    
 
-**Console:**
+#### Console
 
 _The button names may be different depending on console type._
 
-**Xbox:**
+##### Xbox
+
+-   Left Click - RB and/or A, depending on the situation
+-   Right Click - X
+
+* * *
 
 -   Camera Lock / Lock On - RSB
 -   Interact - X
@@ -200,9 +204,13 @@ These Keybinds will only appear if you have the respective ability.
 -   Ritual Cast 2 - → DPAD
 -   Ritual Cast 3 - ↑ DPAD
 -   Ritual Cast 4 - ↓ DPAD
-    
 
-**PlayStation:**
+##### PlayStation
+
+-   Left Click - RB and/or A, depending on the situation
+-   Right Click - X
+
+* * *
 
 -   Camera Lock / Lock On - R3
 -   Interact - □
@@ -288,7 +296,6 @@ These Keybinds will only appear if you have the respective ability.
 -   Ritual Cast 2 - → DPAD
 -   Ritual Cast 3 - ↑ DPAD
 -   Ritual Cast 4 - ↓ DPAD
-    
 
 ### Interface
 

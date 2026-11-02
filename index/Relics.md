@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 222343
+revid: 232578
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Relics]
@@ -26,7 +26,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 | --- | --- |
 |  | **[Ardour Manifestation](Ardour_Manifestation.md)** - A formless relic that summons the [Dread Serpent](Dread_Serpent.md) to your location on use.
 -   Can only be used while in the [Voidsea](Voidsea.md).
--   Cannot be used if someone else has already summoned a Dread Serpent. Additionallh, it has a short cooldown.
+-   Cannot be used if someone else has already summoned a Dread Serpent. Additionally, it has a short cooldown.
 -   _(Consumed upon usage)_
 
  |

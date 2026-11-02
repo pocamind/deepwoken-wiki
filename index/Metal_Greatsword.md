@@ -1,9 +1,9 @@
 ---
 title: Metal Greatsword
-revid: 229014
+revid: 232592
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with multiple Criticals]
+categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with multiple Criticals, Alloyblood Weapons]
 ---
 
 # Metal Greatsword
@@ -23,7 +23,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunem
 | penetration | 25% |
 | chip damage | 20% |
 | talent | Forced Fulfilment - Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them. |
-| special effect | Your Metal Armament damage is increased by 50%. |
+| special effect | Your Metal Armament damage is increased by 50%.Turns into an Alloyblood weapon if the player has the Hypoferritinemia Talent. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -36,11 +36,15 @@ categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunem
 | obtainment | Needleblade |
 | description | A sword you summoned using your opponent's metal rods. |
 
+Variants: [Alloyblood Axe](Alloyblood_Axe.md) · [Alloyblood Daggers](Alloyblood_Daggers.md) · [Alloyblood Spear](Alloyblood_Spear.md)
+
 ## Description
 
 The Metal Greatsword is a Heavy Greatsword exclusive to the [Needleblade](Talents.md#needleblade) Talent. After applying 5 Iron Rods and then pulling them with X, Metal Greatsword will be equipped for 10 seconds, overriding your previous weapon.
 
-[Needleblade](Talents.md#needleblade) requires 90 Ironsing and 90 Weapon (90 LHT // 90 MED // 90 HVY) to obtain. Additionally, it is mutually exclusive with [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
+[Needleblade](Talents.md#needleblade) requires 90 Ironsing and 90 Weapon (90 LHT // 90 MED // 90 HVY) to obtain.
+
+If the player has the [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) hybrid Attunement Path, and has the [Hypoferritinemia](Talents.md#hypoferritinemia) Talent, it'll enhance their Metal Greatsword by turning it into an Alloyblood weapon. This changes the proc condition for this weapon from pulling 5 Rods to using the [Rising Plasma](Hybrid_Abilites.md#rising-plasma) Mantra, replacing the [Alloyblood Axe](Alloyblood_Axe.md), and gives the Metal Greatsword 75% base Chip Damage. This Chip Damage value will scale further based on how much Composite Alloy their opponent has.
 
 ## Talents
 

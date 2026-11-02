@@ -1,7 +1,7 @@
 ---
-title: Corvus Manor
-revid: 230409
-source: https://deepwoken.fandom.com/wiki/Corvus_Manor
+title: Corvus Manor (Legacy)
+revid: 232679
+source: https://deepwoken.fandom.com/wiki/Corvus_Manor_(Legacy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Stub pages without reason, StubPages, Locations]
 notices:
@@ -9,7 +9,7 @@ notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
-# Corvus Manor
+# Corvus Manor (Legacy)
 
 LocationL Corvus Manor LocationR
 

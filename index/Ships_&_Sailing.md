@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 209281
+revid: 232645
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -149,4 +149,5 @@ Ships can be sold for half of their original price, and the price will be lower 
 -   Cannons are viable in combat, whether it be for PVP or PVE.
 -   Mantras that can damage the environment/terrain are capable of hurting ships. However, the best way to destroy a ship is sailing one into a [Whirlpool](Whirlpools.md), instantly destroying it.
 -   The flag at the top of the mast of a ship always points in the direction of the wind.
+-   Ships can be slowed by the rocks thrown by the Primadon and presumably other boss attacks, however this has only been observed on an Ironclad so far.
 -   There is a 4th sea called "[Open Sea](Open_Sea.md)" which is only able to be found in areas such as [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>).

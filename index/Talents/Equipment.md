@@ -467,7 +467,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   [Angels](../Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         
 
--   **Ardenstar Rage**: Harvestman's Halo - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.
+-   **Ardenstar Rage**: [Harvestman's Halo](<../Harvestman's_Halo.md>) - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.
     -   Cooldown reduction stacks with [Blessed Gems](../Blessed_Gem.md) for 75% cooldown reduction.
     -   [Cursed Burn](../Status_Effects.md#cursed-burn) is a unique Burn modifier that triples the burn damage and turns the flames purple.  
         
@@ -581,7 +581,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Whirling Blade heals you for 25% of damage dealt. Hitting allies or player summons will still grant this healing.  
         
 
--   **Cursed Pumpkin**: Harvestman's Cloak - Double the damage of your pumpkins from your Pumpkin Pitch mantra.
+-   **Cursed Pumpkin**: [Harvestman's Cloak](<../Harvestman's_Cloak.md>) - Double the damage of your pumpkins from your Pumpkin Pitch mantra.
     
 
 -   **Dancing Steps Of War**: [Geta](../Geta.md) - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.

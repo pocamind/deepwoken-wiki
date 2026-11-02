@@ -210,7 +210,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             
     -   Prerequisites: 40 Flamecharm  
         
-    -   Mutual Exclusives: [Flashboil](../Talents.md#flashboil), [The Final Act](../Talents.md#the-final-act), [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)  
+    -   Mutual Exclusives: [Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze), [Flashboil](../Talents.md#flashboil), [The Final Act](../Talents.md#the-final-act), [Wraith Path: Twisted Puppets](../Talents.md#wraith-path-twisted-puppets)  
         
     -   Tags: \[Flamecharm\] \[Attunement Path\] \[Investment Scaling\] \[Scale-down\]
 

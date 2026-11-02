@@ -693,7 +693,7 @@
   },
   "2263": {
     "title": "Status Effects",
-    "lastrevid": 229717
+    "lastrevid": 232693
   },
   "2302": {
     "title": "Suri",
@@ -889,7 +889,7 @@
   },
   "2624": {
     "title": "Ships & Sailing",
-    "lastrevid": 209281
+    "lastrevid": 232645
   },
   "2625": {
     "title": "Luminants",
@@ -3065,7 +3065,7 @@
   },
   "7790": {
     "title": "Relics",
-    "lastrevid": 222343
+    "lastrevid": 232578
   },
   "7817": {
     "title": "Timeline",
@@ -4277,7 +4277,7 @@
   },
   "13014": {
     "title": "Pleeksty's Inferno",
-    "lastrevid": 228187
+    "lastrevid": 232669
   },
   "13060": {
     "title": "Version History/Uncollapsed",
@@ -6609,7 +6609,7 @@
   },
   "19385": {
     "title": "Settings",
-    "lastrevid": 229770
+    "lastrevid": 232661
   },
   "19412": {
     "title": "Prisoner",
@@ -6861,7 +6861,7 @@
   },
   "20026": {
     "title": "Metal Greatsword",
-    "lastrevid": 229014
+    "lastrevid": 232592
   },
   "20030": {
     "title": "Moon Brow Rings",
@@ -6925,7 +6925,7 @@
   },
   "20141": {
     "title": "Hallowtide Caller",
-    "lastrevid": 224793
+    "lastrevid": 232713
   },
   "20166": {
     "title": "Deepwoken (manga)",
@@ -7081,11 +7081,11 @@
   },
   "20480": {
     "title": "Isle of the Crows",
-    "lastrevid": 231833
+    "lastrevid": 232680
   },
   "20481": {
-    "title": "Corvus Manor",
-    "lastrevid": 230409
+    "title": "Corvus Manor (Legacy)",
+    "lastrevid": 232679
   },
   "20482": {
     "title": "The Seranece Mountains",
@@ -7593,7 +7593,7 @@
   },
   "21382": {
     "title": "Nautilodaunt Officiate",
-    "lastrevid": 232066
+    "lastrevid": 232582
   },
   "21383": {
     "title": "Gale Master's Earrings",
@@ -9945,15 +9945,15 @@
   },
   "26924": {
     "title": "Silas's Cenotaph",
-    "lastrevid": 232542
+    "lastrevid": 232711
   },
   "26926": {
     "title": "The Harvestman",
-    "lastrevid": 232551
+    "lastrevid": 232718
   },
   "26939": {
     "title": "Familiar Vagrant's Armor",
-    "lastrevid": 232532
+    "lastrevid": 232615
   },
   "26948": {
     "title": "Wispfire Beacon",
@@ -9961,7 +9961,7 @@
   },
   "26949": {
     "title": "Prop Hunt",
-    "lastrevid": 232529
+    "lastrevid": 232700
   },
   "26957": {
     "title": "Familiar Prosthetic Arm",
@@ -9969,7 +9969,7 @@
   },
   "26958": {
     "title": "Hunter's Chapeau",
-    "lastrevid": 232249
+    "lastrevid": 232620
   },
   "26959": {
     "title": "Crooked Witch Hat",
@@ -9985,27 +9985,27 @@
   },
   "26963": {
     "title": "Familiar Sage's Armor",
-    "lastrevid": 232538
+    "lastrevid": 232561
   },
   "26965": {
     "title": "Familiar Prince's Armor",
-    "lastrevid": 232475
+    "lastrevid": 232584
   },
   "26972": {
     "title": "Cursed Flames",
-    "lastrevid": 232511
+    "lastrevid": 232664
   },
   "26977": {
     "title": "Alloyblood Axe",
-    "lastrevid": 232357
+    "lastrevid": 232588
   },
   "26978": {
     "title": "Alloyblood Daggers",
-    "lastrevid": 232358
+    "lastrevid": 232589
   },
   "26979": {
     "title": "Alloyblood Spear",
-    "lastrevid": 232359
+    "lastrevid": 232595
   },
   "26980": {
     "title": "Pumpkin Earrings",
@@ -10015,12 +10015,16 @@
     "title": "Stitched Effigy",
     "lastrevid": 232546
   },
-  "26998": {
-    "title": "Silas Ardenstar",
-    "lastrevid": 232543
-  },
   "27000": {
     "title": "Harvestman's Halo",
-    "lastrevid": 232553
+    "lastrevid": 232678
+  },
+  "27012": {
+    "title": "Harvestman's Cloak",
+    "lastrevid": 232648
+  },
+  "27022": {
+    "title": "Silas Ardenstar",
+    "lastrevid": 232688
   }
 }

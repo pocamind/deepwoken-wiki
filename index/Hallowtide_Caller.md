@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Caller
-revid: 224793
+revid: 232713
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Caller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, NPCs, Hallowtide]
@@ -16,7 +16,7 @@ notices:
 
 ## Description
 
-The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment or the waterfall area at Greathive Aratel. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
+The Hallowtide Caller is a lone pumpkin situated near the Barber's house at [Isle of Vigils](Isle_of_Vigils.md) or at the corner near a set waterfalls at [Greathive Aratel](Greathive_Aratel.md). When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
 
 ## Dialogue
 

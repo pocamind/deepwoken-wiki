@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 229717
+revid: 232693
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -88,20 +88,26 @@ If you aren't already at full health, gain the Respite status effect after stand
 
 ### Burn
 
-This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Has a base damage of 3.33 per tick with 5 Flamecharm scaling (damage = 3.33 × (1 + 0.005 × Flamecharm Investment)), ticking 2.4 times a second. Burn damage has slight fluctuation to account for ping. Burning opponents have their **base** passive health regeneration disabled. If an [Unconscious](#unconscious) body is set on fire, they will automatically be gripped after 8 seconds if not picked up (4 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn benefits from **general** PEN sources such as [Strength](Attributes.md#str).
+This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) ability, but there are many other burn application sources. Burn has a base damage of 3.33 per tick with 5 Flamecharm scaling (damage = 3.33 × (1 + 5/1000 × Flamecharm Investment)), ticking 2.4 times a second. Burn damage has slight fluctuation to account for ping. Burning opponents have their **base** passive health regeneration disabled. If an [Unconscious](#unconscious) body is set on fire, they will automatically be executed after 8 seconds if not picked up (4 seconds if the user who applied the fire has the [Corpse Explosion](Talents.md#corpse-explosion) Talent). Burn benefits from **general** PEN sources such as [Strength](Attributes.md#str).
 
-Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
+Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Burn cannot be applied to already burning targets. This means the unique effects of certain burn types cannot be applied if the target is already burning from a different source. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
 
-It has a few sub-variants:
+Burn has a few sub-types, listed below.
 
--   Azure Burning: Deals 12.5% more damage per tick than base burn. This burn type comes from [Azure Flames](Talents.md#azure-flames).
--   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets) and drain a flat 6.25 Ether from affected targets per tick.
+#### Burn Types
+
+-   [Deepfire Ring](Deepfire_Ring.md) / **White Flames**: Increases the tick-rate of burn by 25% (2.4s to 3s), but reduces burn's base damage from 3.33 to 3.21 per tick. The maximum duration of your Burn, including self-applied burn, is reduced by 20%. This results in a very large DPS increase for the status effect, and this should be used in most cases. **White Flames** additionally turns your Burn **White**, taking priority over most other burn recolors.
+    -   Sources: Deepfire Ring - [Deepfire Ring](Deepfire_Ring.md) / White Flames - [Corrupt Shard Bow](Shard_Bow.md) & [Edenbrand Hellcoil](Edenbrand_Hellcoil.md)
+-   Cursed Burn - This burn type adds onto any pre-existing burn type, overriding their color with a purple hue, while retaining their unique traits. Cursed Burn multiplies burn damage by a final 2.5x, applied after all other burn type buffs.
+    -   Sources: [Cursed Flames](Cursed_Flames.md) weapon, [Harvestman's Halo](<Harvestman's_Halo.md>)
+-   Azure Burning: Deals 12.5% more damage per tick than base burn. This burn type comes from [Azure Flames](Talents.md#azure-flames). This burn type is blue.
+-   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets) and drain a flat 6.25 Ether from affected targets per tick. They are also both, indistinguishably from eachother, black.
     -   Puppet Burn: Derived from any non-Shadowcast burn applicator, this burn type deals 87.5% less damage than base burn. Uniquely, this burn type will spawn Puppets with a 4 second cooldown.
     -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn.
--   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
--   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents. The [Deepfire Ring](Deepfire_Ring.md) has no effect with this burn type, as it innately has the effects of the ring.
--   Sticky Burn: This is most notably applied through [Attuned Monsters](Monsters.md#attuned-monsters), being a sub-burn type that has a set duration before the burning party is able to remove it. Other sources include: [Corrupt Shard Bow](Shard_Bow.md#corrupt)'s White Flames and the [Sticky Flames](Talents.md#sticky-flames) Greatcannon Talent. This burn is naturally a light orange, but this color may be overriden.
--   Self Immolation: [Flame Within](Talents.md#flame-within) exclusive, grants a 10% damage buff and a movement speed bonus. Cannot be removed from self via rolling or sliding, instead needing you to use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
+-   Sanguine Blaze - Upon coming into contact with [Black Blood](#black-blood), an explosion will be triggered. This burn type is hot pink and comes from the [Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze) Attunement Path.
+-   Sicky Burn: The applied burn **cannot** be removed by rolling or sliding for a set duration, with said duration depending on the attack that applied it. Because burn cannot be applied to an already burning target, this can be a great way to prevent other burn effects from taking hold if leveraged. This does not have a unique color.
+    -   Sources: [Corrupt Shard Bow](Shard_Bow.md) (3s, also applies to self), [Flame Within](Talents.md#flame-within) Talent (30s, self only), [Sticky Flames](Talents.md#sticky-flames) Talent (3s), [Flamewreathed Monster](Monsters.md#attuned-monsters) attacks.
+-   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn. This burn type is green.
 
 ### Hyperarmor
 

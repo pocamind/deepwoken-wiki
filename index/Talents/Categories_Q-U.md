@@ -470,6 +470,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Gilded Path: Scrapsinger \[Common Talent, Ironsing\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
     -   Your Ironsing Mantras/abilities, Ironsing legendary weapons, and Metal Rods are now yellow.
     -   Prerequisite: 35 Ironsing
+    -   Mutual Exclusive: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood)
 
 -   Artisan's Blade \[Common Talent, Ironsing\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
     -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 × (1 + 0.005 × Ironsing investment). They deal 4.5 posture damage each if blocked. Their damage cannot be modified.
@@ -1242,7 +1243,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Puppets deal 10 posture damage.
     -   Increases the uptime of your [Flame of Denial](../Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
-    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames, Flashboil
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Exotherm Path: Sanguine Blaze, Azure Flames, Flashboil
 
 -   Burning Puppets \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your puppets can now inflict burn and fire-based Talents when they explode.
     -   Grants Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm, up to 30 at 100 Flamecharm.

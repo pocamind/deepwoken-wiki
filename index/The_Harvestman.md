@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 232551
+revid: 232718
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
@@ -15,7 +15,7 @@ notices:
 |---|---|
 | health | 7200(+1000 per player) |
 | attacks | Resurrection, Accursed Flames: Ritual, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
-| drops | Cursed Flames, See Loot Table |
+| drops | Cursed Flames, Harvestman's Halo, Harvestman's Cloak, See Loot Table |
 | locations | The Harvest Ritual |
 
 “ An effigy made, a prayer whispered, a harvest blessed - face the wrath of the Harvestman, if you dare! ”
@@ -54,7 +54,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 **Accursed Flames: Ritual**  
 (★☆☆)
 
- | The Harvestman summons up to 4 geysers of purple flames in the field, which can perform either of the following attacks:
+ | The Harvestman raises his right hand and quickly points to the ground right after, summoning up to 4 geysers of purple flames in the field. Which can perform either of the following attacks:
 
 -   A volley of multiple purple fireballs that shoot in various directions.
 -   A wave of purple flames that move across the area.
@@ -77,10 +77,10 @@ Jump
  |
 | 
 
-**Accursed Flames: Rift**  
+**Accursed Pumpkins: Rift**  
 (★☆☆)
 
- | The Harvestman creates up to 2 rifts that shoot out flaming projectiles in a short radius.
+ | The Harvestman snaps using his left hand, creating up to 2 rifts that shoot out Cursed Pumpkin projectiles in a short radius.
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -144,7 +144,15 @@ Jump
 
 ## Tips and Strategy
 
-MOST important tip: he WILL cast the Harvester's Culling when he reaches half health, it is advised to go near him and start circling him clockwise to avoid the beam
+The most important tip would be to prioritize dodging over dealing damage, as regenerating health in this bossfight is rather difficult, especially in solo runs.
+
+It's best to try and dodge the Crowd Control attacks, as those are the ones likely to hit and deal lots of damage; as well as inflicting Cursed Flames, yet giving barely any opportunity to extinguish the flames by dodging.
+
+Jumping in the bossfight isn't recommended as much, as for whatever reason, The Harvestman seems to pull you towards himself. It is currently unknown if it is a bug or not.
+
+Whenever the The Harvestman is about to reach 50% of his health, stay nearby and try to be at the opposite direction whenever he is facing, as The Harvestman will begin his culling, launching a huge beam. This is best avoided by going staying close to The Harvestman, yet pay attention to the other attacks aside from the beam, as those can often prove lethal as well.
+
+Utilizing the [Curse of the No Life King](Curse_of_the_No_Life_King.md) is recommended, it gives a free regeneration bonus for no downsides in the bossfight.
 
 ## Loot Table
 
@@ -152,13 +160,13 @@ MOST important tip: he WILL cast the Harvester's Culling when he reaches half he
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>, Familiar Occultist's Armor</td>
+  <td><a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>, <a href="Familiar_Occultist's_Armor.md">Familiar Occultist's Armor</a>, <a href="Familiar_Sage's_Armor.md">Familiar Sage's Armor</a>, <a href="Familiar_Vagrant's_Armor.md">Familiar Vagrant's Armor</a></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Goodie_Bag.md">Goodie Bag</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -166,19 +174,17 @@ MOST important tip: he WILL cast the Harvester's Culling when he reaches half he
   <td>
   <ul>
     <li><b>Light Weapons</b>: <a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a>, <a href="Moppet.md">Moppet</a>, <a href="Skull_Piercer.md">Skull Piercer</a>, <a href="Spectral_Grasp.md">Spectral Grasp</a></li>
-    <li><b>Medium Weapons</b>: <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="Hallowscleave.md">Hallowcleave</a>, <a href="The_Weaving_Web.md">The Weaving Web</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Skyreap_Blade.md">Skyreap Blade</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
+    <li><b>Medium Weapons</b>: <a href="Cursed_Flames.md">Cursed Flames</a>, <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, Hallowcleave, <a href="The_Weaving_Web.md">The Weaving Web</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Skyreap_Blade.md">Skyreap Blade</a>, <a href="Silas's_Cenotaph.md">Silas's Cenotaph</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
+    <li><b>Hybrid Weapons</b>: <a href="Corvidirge_Severants.md">Corvidirge Severants</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
-  <ol>
-    <li><b>Hallowtide Head</b>: <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a> (all variants)</li>
-  </ol></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:</li>
+    <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Harvestman's_Halo.md">Harvestman's Halo</a>, <a href="Mushroom_Costume.md">Charmshroom Costume</a>, <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Glowshroom Costume</a>, <a href="Mushroom_Costume.md">Metalshroom Costume</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a>, <a href="Mushroom_Costume.md">Zapshroom Costume</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Harvestman's_Cloak.md">Harvestman's Cloak</a></li>
   </ul></td>
 </tr>
 </tbody>

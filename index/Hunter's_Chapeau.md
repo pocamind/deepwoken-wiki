@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Chapeau"
-revid: 232249
+revid: 232620
 source: https://deepwoken.fandom.com/wiki/Hunter's_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

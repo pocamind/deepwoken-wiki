@@ -63,7 +63,7 @@ _**Deepwoken: Original Soundtrack (Vol. I)**_ is an original soundtrack CD set. 
 | 32 | The End | 3:12 | [Fragments of Self](Fragments_of_Self.md) |  |
 | 33 | On The Shoulder Of Giants | 5:24 | N/A (Celebrating Deepwoken's public release) |  |
 | 34 | A Memory of Tides | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) |  |
-| 35 | Masters of the House | 2:06 | N/A (Cut track for [Corvus Manor](Corvus_Manor.md)) |  |
+| 35 | Masters of the House | 2:06 | N/A (Cut track for Corvus Manor) |  |
 | 36 | The Gideshu March | 1:57 | N/A (A short segment of the song can be heard at the of the the [Tutorial](Tutorial.md) in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>).) |  |
 
 ## Production Credits

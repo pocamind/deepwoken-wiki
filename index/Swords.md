@@ -719,7 +719,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -727,7 +727,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>

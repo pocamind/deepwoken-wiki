@@ -320,7 +320,7 @@ This section is transcluded from [a different page](Talents.md#talents). To chan
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
--   **Hypoferritinemia** \[Alloyblood • Common Talent\] - Using Rising Plasma now summons your [Metal Greatsword](Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
+-   **Hypoferritinemia** \[Alloyblood • Common Talent\] - Using [Rising Plasma](Hybrid_Abilites.md#rising-plasma) now summons your [Metal Greatsword](Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
     -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](Alloyblood_Axe.md).  
         
     -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), [Needleblade](Talents.md#needleblade), [Torture Mastery](Talents.md#torture-mastery), 30 Bloodrend, 30 Ironsing  
@@ -334,7 +334,7 @@ This section is transcluded from [a different page](Talents.md#talents). To chan
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Weapon Attack\]
 
--   **Plasma Signal** \[Alloyblood • Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your Rising Plasma mantra. Raise your opponent's plasma by 10% when this happens.
+-   **Plasma Signal** \[Alloyblood • Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your [Rising Plasma](Hybrid_Abilites.md#rising-plasma) mantra. Raise your opponent's plasma by 10% when this happens.
     
     -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), 55 Bloodrend, 55 Ironsing  
         
@@ -353,7 +353,7 @@ This section is transcluded from [a different page](Talents.md#talents). To chan
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Feint\] \[Mantra\] \[Multi-Attunement\]
 
 -   **Ultrafiltration** \[Alloyblood • Common Talent\] - Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.
-    -   Your Alloyblood Mantras (Infused Slash, Rising Plasma, and Spinning Serum) now apply Blood Poisoning and Metal Rods on hit.  
+    -   Your Alloyblood Mantras ([Infused Slash](Hybrid_Abilities.md#infused-slash), [Rising Plasma](Hybrid_Abilites.md#rising-plasma), and [Spinning Serum](Hybrid_Abilities.md#spinning-serum)) now apply Blood Poisoning and Metal Rods on hit.  
         
     -   Prerequisites: [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood), 65 Bloodrend, 65 Ironsing  
         

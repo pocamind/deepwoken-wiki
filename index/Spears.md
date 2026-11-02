@@ -370,7 +370,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>

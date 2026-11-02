@@ -239,7 +239,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -440,7 +440,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -1844,7 +1844,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -1852,7 +1852,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -2430,7 +2430,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -2680,7 +2680,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -3129,7 +3129,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -3594,17 +3594,17 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
   <td>100 HVY<br>
-  60 MND</td>
-  <td>28</td>
+  50 MND</td>
+  <td>25</td>
   <td>HVY: 10<br>
   MND: 3</td>
   <td>-</td>
-  <td>30%</td>
+  <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.6s</td>
-  <td>0.1s</td>
-  <td>55.3</td>
+  <td>0.66x</td>
+  <td>0.2s</td>
+  <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
@@ -4055,7 +4055,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -4063,7 +4063,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -4713,7 +4713,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -4730,7 +4730,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -4748,7 +4748,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -4888,7 +4888,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -4905,7 +4905,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -4923,7 +4923,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -5142,7 +5142,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -5343,7 +5343,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -6282,7 +6282,7 @@ Daggers
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -6483,7 +6483,7 @@ Daggers
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -7962,7 +7962,7 @@ Pistols
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -7970,7 +7970,7 @@ Pistols
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -8548,7 +8548,7 @@ Pistols
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -8798,7 +8798,7 @@ Pistols
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -9635,7 +9635,7 @@ Swords
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -9643,7 +9643,7 @@ Swords
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -10257,7 +10257,7 @@ Spears
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -10561,7 +10561,7 @@ Twinblades
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -11049,7 +11049,7 @@ Bows
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -11514,17 +11514,17 @@ Bows
 <tr>
   <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
   <td>100 HVY<br>
-  60 MND</td>
-  <td>28</td>
+  50 MND</td>
+  <td>25</td>
   <td>HVY: 10<br>
   MND: 3</td>
   <td>-</td>
-  <td>30%</td>
+  <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.6s</td>
-  <td>0.1s</td>
-  <td>55.3</td>
+  <td>0.66x</td>
+  <td>0.2s</td>
+  <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
@@ -12267,7 +12267,7 @@ Greataxes
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -12750,17 +12750,17 @@ Greatswords
 <tr>
   <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
   <td>100 HVY<br>
-  60 MND</td>
-  <td>28</td>
+  50 MND</td>
+  <td>25</td>
   <td>HVY: 10<br>
   MND: 3</td>
   <td>-</td>
-  <td>30%</td>
+  <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.6s</td>
-  <td>0.1s</td>
-  <td>55.3</td>
+  <td>0.66x</td>
+  <td>0.2s</td>
+  <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
@@ -13266,22 +13266,22 @@ WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
 ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
-| **[Cordiverge Severants](Cordiverge_Severants.md)  
+| **[Corvidirge Severants](Corvidirge_Severants.md)  
 ([Bleed](Status_Effects.md#bleed))** | Dagger & Twinblade | LHT: 55  
 MED: 55 | 13.5 | LHT: 5  
 MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
 | **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-Rising Plasma (Mantra) | 24 | HVY: 3  
+[Rising Plasma](Hybrid_Abilites.md#rising-plasma) (Mantra) | 24 | HVY: 3  
 BLD: 5  
 MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
 | **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
-Infused Slash Mantra | 14.5 | LHT: 3  
+[Infused Slash](Hybrid_Abilities.md#infused-slash) Mantra | 14.5 | LHT: 3  
 BLD: 5  
 MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
 | **[Alloyblood Spear](Alloyblood_Spear.md)  
 ([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-Spinning Serum (Mantra) | 18 | MED: 3  
+[Spinning Serum](Hybrid_Abilities.md#spinning-serum) (Mantra) | 18 | MED: 3  
 BLD: 5  
 MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | \- | 35.6  
 ([+5.3](Status_Effects.md#bleed)) | **✓** |
@@ -13332,7 +13332,7 @@ Elemental
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -13340,7 +13340,7 @@ Elemental
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -13990,7 +13990,7 @@ Elemental
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -14007,7 +14007,7 @@ Elemental
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -14025,7 +14025,7 @@ Elemental
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -14165,7 +14165,7 @@ Elemental
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -14182,7 +14182,7 @@ Elemental
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -14200,7 +14200,7 @@ Elemental
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -15091,7 +15091,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -15292,7 +15292,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -16300,7 +16300,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -16501,7 +16501,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -17931,7 +17931,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -17939,7 +17939,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -18395,7 +18395,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -18873,7 +18873,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -19739,7 +19739,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -19747,7 +19747,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -20325,7 +20325,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -20575,7 +20575,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -21050,7 +21050,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -21535,17 +21535,17 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
   <td>100 HVY<br>
-  60 MND</td>
-  <td>28</td>
+  50 MND</td>
+  <td>25</td>
   <td>HVY: 10<br>
   MND: 3</td>
   <td>-</td>
-  <td>30%</td>
+  <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.6s</td>
-  <td>0.1s</td>
-  <td>55.3</td>
+  <td>0.66x</td>
+  <td>0.2s</td>
+  <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
@@ -22331,7 +22331,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -22796,17 +22796,17 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
   <td>100 HVY<br>
-  60 MND</td>
-  <td>28</td>
+  50 MND</td>
+  <td>25</td>
   <td>HVY: 10<br>
   MND: 3</td>
   <td>-</td>
-  <td>30%</td>
+  <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.6s</td>
-  <td>0.1s</td>
-  <td>55.3</td>
+  <td>0.66x</td>
+  <td>0.2s</td>
+  <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
@@ -23276,22 +23276,22 @@ WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
 ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
-| **[Cordiverge Severants](Cordiverge_Severants.md)  
+| **[Corvidirge Severants](Corvidirge_Severants.md)  
 ([Bleed](Status_Effects.md#bleed))** | Dagger & Twinblade | LHT: 55  
 MED: 55 | 13.5 | LHT: 5  
 MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
 | **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-Rising Plasma (Mantra) | 24 | HVY: 3  
+[Rising Plasma](Hybrid_Abilites.md#rising-plasma) (Mantra) | 24 | HVY: 3  
 BLD: 5  
 MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
 | **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
-Infused Slash Mantra | 14.5 | LHT: 3  
+[Infused Slash](Hybrid_Abilities.md#infused-slash) Mantra | 14.5 | LHT: 3  
 BLD: 5  
 MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
 | **[Alloyblood Spear](Alloyblood_Spear.md)  
 ([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-Spinning Serum (Mantra) | 18 | MED: 3  
+[Spinning Serum](Hybrid_Abilities.md#spinning-serum) (Mantra) | 18 | MED: 3  
 BLD: 5  
 MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | \- | 35.6  
 ([+5.3](Status_Effects.md#bleed)) | **✓** |
@@ -23344,7 +23344,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -23352,7 +23352,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -24002,7 +24002,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -24019,7 +24019,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -24037,7 +24037,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -24177,7 +24177,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -24194,7 +24194,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -24212,7 +24212,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -24961,7 +24961,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -25162,7 +25162,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -26566,7 +26566,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -26574,7 +26574,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -27152,7 +27152,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -27402,7 +27402,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -27851,7 +27851,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -28316,17 +28316,17 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Silas's_Cenotaph.md">Silas's Cenotaph</a></b></td>
   <td>100 HVY<br>
-  60 MND</td>
-  <td>28</td>
+  50 MND</td>
+  <td>25</td>
   <td>HVY: 10<br>
   MND: 3</td>
   <td>-</td>
-  <td>30%</td>
+  <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.6s</td>
-  <td>0.1s</td>
-  <td>55.3</td>
+  <td>0.66x</td>
+  <td>0.2s</td>
+  <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
@@ -28777,7 +28777,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Cursed_Flames.md"><font>Cursed Flames</font></a></b></td>
   <td>100 FIR<br>
   40 WLL</td>
-  <td>18</td>
+  <td>19</td>
   <td>FIR: 5.5</td>
   <td>10%</td>
   <td>-</td>
@@ -28785,7 +28785,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>1x</td>
   <td>-</td>
-  <td>25.4</td>
+  <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -29435,7 +29435,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -29452,7 +29452,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -29470,7 +29470,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -29610,7 +29610,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Rising Plasma (Mantra)</td>
+  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -29627,7 +29627,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -29645,7 +29645,7 @@ Every player-obtainable weapon, excluding offhands.
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Spinning Serum (Mantra)</td>
+  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>

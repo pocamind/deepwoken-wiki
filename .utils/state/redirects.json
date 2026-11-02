@@ -139,6 +139,9 @@
     "to": "Oath: Blindseer",
     "fragment": "All-Seeing Eye"
   },
+  "Alloyblood Weapons": {
+    "to": "Category:Alloyblood Weapons"
+  },
   "Alloyed Adretian Axe": {
     "to": "Adretian Axe"
   },
@@ -2514,6 +2517,10 @@
     "to": "Ores",
     "fragment": "Indichite"
   },
+  "Infused Slash": {
+    "to": "Hybrid Abilities",
+    "fragment": "Infused Slash"
+  },
   "Ingredient": {
     "to": "Ingredients"
   },
@@ -3977,6 +3984,10 @@
     "to": "Frostdraw",
     "fragment": "Rising Frost"
   },
+  "Rising Plasma": {
+    "to": "Hybrid Abilites",
+    "fragment": "Rising Plasma"
+  },
   "Rising Shadow": {
     "to": "Shadowcast",
     "fragment": "Rising Shadow"
@@ -4560,6 +4571,10 @@
   },
   "Spider Queen": {
     "to": "Deep Widow"
+  },
+  "Spinning Serum": {
+    "to": "Hybrid Abilities",
+    "fragment": "Spinning Serum"
   },
   "Spit": {
     "to": "Combat Mechanics"

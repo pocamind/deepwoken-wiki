@@ -1,11 +1,9 @@
 ---
 title: "Silas's Cenotaph"
-revid: 232542
+revid: 232711
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
 ---
 
 # Silas's Cenotaph
@@ -39,7 +37,7 @@ notices:
 
 ## Description
 
-Silas's Cenotaph is a [Hallowtide](Hallowtide.md)\-exclusive greatsword that was fashioned out of the tombstone of [Silas Ardenstar](Silas_Ardenstar.md). This Heavy Weapon has extremely weighty blows that push targets back.
+Silas's Cenotaph is a [Hallowtide](Hallowtide.md)\-exclusive [Greatsword](Greatswords.md) that was fashioned out of the tombstone of [Silas Ardenstar](Silas_Ardenstar.md), alongside his decapitated, mummified head. This Heavy Weapon has extremely weighty blows that push targets back.
 
 ## Talents
 
@@ -47,10 +45,16 @@ Equipping the Silas's Cenotaph grants its unique [weapon Talent](Talents.md#weap
 
 [**Crushing Fate**](Talents.md#crushing-fate) applies knockback on every basic attack with the Cenotaph.
 
-[**Eye of Silas**](Talents.md#eye-of-silas) applies a true stun on the first hit of your critical attack. This stunt lasts long enough to fully confirm the second and third hits. Targets who are stunned by this will play the 'Panicking' (Tier 3) [Insanity](Insanity.md) animation.
+[**Eye of Silas**](Talents.md#eye-of-silas) applies a true stun on the first hit of your Critical Attack. This stunt lasts long enough to fully confirm the second and third hits. Targets who are stunned by this will play the 'Panicking' (Tier 3) [Insanity](Insanity.md) animation.
 
 ## Critical
 
-Display the mummified head of [Silas Ardenstar](Silas_Ardenstar.md), true stunning your opponent with fear. Then, follow this up with two weighted swings. The second swing guardbreaks if blocked. Contrary to popular belief the first hit of this critical can be both parried and blocked.
+The user displays the mummified head of Silas Ardenstar, stunning the target with fear. It is then followed up with two weighted swings. The second swing guardbreaks if blocked. Contrary to popular, belief the first hit of this critical can be both parried and blocked.
 
 This critical has a cooldown of **12 seconds**.
+
+  
+
+## Trivia
+
+-   The [Gatherhand](Gatherhand.md) Sigil appearing on the critical reads "TERRIFY - YFIRRET".

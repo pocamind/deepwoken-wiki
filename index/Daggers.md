@@ -266,7 +266,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Cordiverge_Severants.md">Cordiverge Severants</a><br>
+  <td><b><a href="Corvidirge_Severants.md">Corvidirge Severants</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>LHT: 55<br>
   MED: 55</td>
@@ -467,7 +467,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  Infused Slash (Mantra)</td>
+  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>

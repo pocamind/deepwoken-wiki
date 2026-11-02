@@ -1,6 +1,6 @@
 ---
 title: "Familiar Vagrant's Armor"
-revid: 232532
+revid: 232615
 source: https://deepwoken.fandom.com/wiki/Familiar_Vagrant's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -21,7 +21,7 @@ categories: [Unique Outfits]
 | resistances | +20% Physical Armor , +30% Elemental Armor , +10% Fire Armor |
 | buffs | +25% Ether Regen |
 | talents | Grapple |
-| obtainment | TBA |
+| obtainment | Goodie Bag |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -46,5 +46,4 @@ The [Grapple](Talents.md#grapple) Talent grants a Talent tool that upon activati
 -   Note: It requires the user to have the [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) equipped in order for grapple to work.
 -   If the attack is blocked, the user will be ragdolled.
 -   The range on the grapple is around 75-77
--   TBA
--   The armor is a reference to Rogue Lineage's Shinobi, which is in turn a reference to the character Wolf from Sekrio: Shadows Die Twice.
+-   The armor is a reference to Rogue Lineage's Shinobi, which is in turn a reference to the character Wolf from Sekiro: Shadows Die Twice.

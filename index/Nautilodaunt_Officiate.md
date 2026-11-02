@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 232066
+revid: 232582
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages with reason, StubPages, Monsters, The Depths]
@@ -239,3 +239,4 @@ Parry
 
 -   This [Nautilodaunt](Nautilodaunt.md) variant seemingly breaks the lore associated with the [Enforcers](Enforcer.md), as Enforcers are the souls of those who have failed to beat the Depths Trial, morphed into the Enforcers we know today, and it doesn't seem very plausible that a Nautilodaunt would not only have a soul, but to have fought - and failed to survive - the Depths Trial.
 -   Officiate is a verb, not a title or noun. However, it is close to 'Officiant,' which is one who performs a religious rite, one who presides over a religious or civil ceremony, or the officer who officiates or performs an office, as the burial office.
+-   If a Nautilodaunt has a soul that can be warped into an Enforcer construct, this implies that their soul could be stable enough to manifest a Resonance.

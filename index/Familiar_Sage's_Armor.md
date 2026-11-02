@@ -1,6 +1,6 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 232538
+revid: 232561
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -21,7 +21,7 @@ categories: [Unique Outfits]
 | resistances | +25% Physical Armor , +25% Elemental Armor , +10% Lightning Armor |
 | buffs | +50% Ether Regen |
 | talents | Lightning Drop |
-| obtainment | TBA |
+| obtainment | The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -43,4 +43,4 @@ The [Lightning Drop](Talents.md#lightning-drop) Talent grants a Talent tool that
 
 ## Trivia/Notes
 
--   This armor is a reference to the 'Dragon Sage' class from monad studios other game rogue lineage.
+-   This armor is a reference to the 'Dragon Sage' class from Monad Studios' other game, Rogue Lineage.
