@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 232518
+revid: 232975
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -449,7 +449,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
--   **Hypoferritinemia** \[Common Talent\] - Using [Rising Plasma](Hybrid_Abilites.md#rising-plasma) now summons your [Metal Greatsword](Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
+-   **Hypoferritinemia** \[Common Talent\] - Using [Rising Plasma](Hybrid_Abilities.md#rising-plasma) now summons your [Metal Greatsword](Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
     -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](Alloyblood_Axe.md).  
         
     -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), [Needleblade](#needleblade), [Torture Mastery](#torture-mastery), 30 Bloodrend, 30 Ironsing  
@@ -463,7 +463,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Weapon Attack\]
 
--   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your [Rising Plasma](Hybrid_Abilites.md#rising-plasma) mantra. Raise your opponent's plasma by 10% when this happens.
+-   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your [Rising Plasma](Hybrid_Abilities.md#rising-plasma) mantra. Raise your opponent's plasma by 10% when this happens.
     
     -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 55 Bloodrend, 55 Ironsing  
         
@@ -482,7 +482,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Feint\] \[Mantra\] \[Multi-Attunement\]
 
 -   **Ultrafiltration** \[Common Talent\] - Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.
-    -   Your Alloyblood Mantras ([Infused Slash](Hybrid_Abilities.md#infused-slash), [Rising Plasma](Hybrid_Abilites.md#rising-plasma), and [Spinning Serum](Hybrid_Abilities.md#spinning-serum)) now apply Blood Poisoning and Metal Rods on hit.  
+    -   Your Alloyblood Mantras ([Infused Slash](Hybrid_Abilities.md#infused-slash), [Rising Plasma](Hybrid_Abilities.md#rising-plasma), and [Spinning Serum](Hybrid_Abilities.md#spinning-serum)) now apply Blood Poisoning and Metal Rods on hit.  
         
     -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 65 Bloodrend, 65 Ironsing  
         
@@ -668,8 +668,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Agility\] \[+Passive Agility\]
 
--   **Unseen Threat** \[Common Talent\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
+-   **Unseen Threat** \[Common Talent\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and **[Grounded](Status_Effects.md#grounded)** for 5s.
     -   This Talent allows you to assassinate enemies who are in combat and holding a weapon.
+    -   The Grounded status effect prevents jumping.
     -   The old [Low Blow](Cut_Content.md#low-blow) Talent was merged into this.  
         
     -   Prerequisites: [Deep Wound](#deep-wound), 60 Agility  
@@ -3367,7 +3368,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         
     -   Tags: \[Ironsing\] \[Posture Damage Buff\]
 
--   **Laced Traps** \[Common Talent\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' cannot jump and are slowed for a small duration, while also applying **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
+-   **Laced Traps** \[Common Talent\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' are slowed and **[Grounded](Status_Effects.md#grounded)** for a small duration, while also applying **[Sluggish](Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.
     -   Your Caltrops gain a purple VFX after obtaining this Talent.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.  
@@ -3800,7 +3801,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Grants an experience multiplier if no other player has credit for the mob kill or event completion.
     -   Deal 5% more damage to opponents you've combat tagged or opponents who have combat tagged you, but only if they have less or an equal amount of combat tags as you. Gain an additional 5% more damage buff per combat tag above 1.
     -   The damage buff works even if any of your allies are in the server. This is not intended behavior (bug).
-    -   You do not need a combat tag on yourself for the first 5% damage increase as it is active on the hit you combat tag your opponent, but for your damage buff to go above any further than 5% you need more than 1 combat tag on yourself.  
+    -   You do not need a combat tag on yourself for the first 5% damage increase as it is active on the hit you combat tag your opponent, but for your damage buff to go above any further than 5% you need more than 1 combat tag on yourself.
+    -   Works in PvE combat, with each mob counting as an individual combat tag.  
         
     -   Prerequisites: [Lone Warrior](Lone_Warrior.md) Origin, complete the [Trial of One](Trial_of_One.md)  
         
@@ -4865,11 +4867,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Shock Therapy
 
--   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Anytime you summon a lightning strike on your opponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning.
-    -   Makes the opponent unable to jump for 10 seconds. This effect's duration resets upon subsequent eligible lightning strike hits.
-        -   Eligible lighting strikes include: Storm Strikes from [Volt Draft](#volt-draft) and [Shock Trooper Specialist](#shock-trooper-specialist), [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, [Scorched Peak](#scorched-peak), and [Fulgurite Formation](#fulgurite-formation).
+-   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Your lightning strikes now apply **[Grounded](Status_Effects.md#grounded)**, uppercutting an opponent with this effect will strike them with a bolt of non-grounding lightning.
+    -   Makes the opponent unable to jump for 10 seconds via the Grounded status effect. This effect's duration resets upon subsequent eligible lightning strike hits.
+        -   Eligible lighting strikes include: Storm Strikes from [Volt Draft](#volt-draft) and [Shock Trooper Specialist](#shock-trooper-specialist), [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, the random lightning strikes from [Stormbreaker](Stormbreaker.md) Enchantment, [Scorched Peak](#scorched-peak), and [Fulgurite Formation](#fulgurite-formation).
     -   Grounding Bolt's lightning strikes deal 15 Thundercall damage. This has no cooldown.
-    -   Grounding Bolt's lightning strikes trigger by landing _any_ uppercut ability on a target who is affected by _any_ anti-jump ability. This means non-basic attack uppercuts (such as certain Mantras or weapon criticals) can trigger this effect, and all anti-jump abilities (e.g. [Taunt](Attunement-less.md#taunt) or [Bear Trap](#bear-trap)) can allow you to trigger Grounding Bolt as well.
+    -   Grounding Bolt's lightning strikes trigger by landing _any_ uppercut ability on a target who is affected by _any_ source of the Grounded status effect. This means non-basic attack uppercuts (such as certain Mantras or weapon criticals) can trigger this effect, and all abilities that apply Grounded or anti-jump (e.g. [Taunt](Attunement-less.md#taunt) or [Bear Trap](#bear-trap)) can allow you to trigger Grounding Bolt as well.
     -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 ### Showboater
@@ -4899,13 +4901,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Silentheart
 
 -   [**Oath: Silentheart**](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health, +5% PEN)
-    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan](Khan.md)'s [Versatile](#versatile) Talent.
-        -   Similarly to [Khan](Khan.md)'s [Versatile](#versatile), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 35 MED.
+    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan](Khan.md)'s [Versatile](#versatile) Talent, individually affecting every eligible requirement (e.g. [Wyrmtooth](Wyrmtooth.md)'s requirements are reduced to 35 MED 15 HVY).
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
     -   You can no longer equip "elemental weapons."
     -   Prerequisites: 25 Strength, 25 Agility // 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
--   Ankle Cutter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+-   Ankle Cutter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, and applying **[Grounded](Status_Effects.md#grounded)**.
+    -   The Grounded status prevents jumping.
     -   Deals fixed damage with innate bleed.
     -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
@@ -4995,7 +4997,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Soul Converter
 
--   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
+-   Bloodiron Spirit \[Common Talent\] - You regain some Armor upon killing enemies. (+5 Health)
     -   Any kill gives you 2.5% of your total armor durability.
     -   Also restores Natural Armor durability on kill.
     -   Stacks with [Bloodiron Ring](Bloodiron_Ring.md), which has the same effect.
@@ -5618,7 +5620,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](#counter-spin).
     -   Prerequisites: [Staff](Staves.md) equipped, 30 Medium Weapon
-        -   The [Imperial Staff](Imperial_Staff.md) also provides this Talent.
 
 -   Counter Spin \[Common Talent, Medium Weapon\] - Staffs After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust the back-end of your Staff forwards, dealing 45% of your weapon's damage on hit.
@@ -5678,9 +5679,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 70 Agility, [Adrenaline Surge](Attunement-less.md#adrenaline-surge) (Mantra)
         -   The [Vigil Sentinel](Vigil_Sentinel.md) Outfit has this Talent
 
--   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent and procs **[Sluggish](Status_Effects.md#sluggish)** on PvE. (+1 Passive Agility)
+-   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical applies **[Grounded](Status_Effects.md#grounded)**, and slows your opponent. In PvE, additionally apply **[Sluggish](Status_Effects.md#sluggish)** on activation. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
-    -   Makes the opponent unable to jump for 4 seconds.
+    -   Makes the opponent unable to jump for 4 seconds via the Grounded status effect.
     -   Upon being applied to an opponent, they gain Bear Trap immunity for 6 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 20 Strength, 20 Agility
@@ -5817,14 +5818,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Whisper
 
--   Haunted Gale \[Common Talent, Agility\] - Landing 3 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
+-   Haunted Gale \[Common Talent, Agility\] - Landing 4 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
     -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra. Only one Ghost can spawn per Mantra.
         -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
     -   Haunted Gale Ghosts have 15 base damage with 5 Galebreathe scaling.
     -   Haunted Gale stacks are counted **per person**, not globally.
     -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
         -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
-    -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, there is no whiff condition; even if your Mantra gets parried, blocked, dodged, or entirely misses, it will not count as a "whiff".
+    -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, you will only ever lose 1 stack upon one of your Mantras being parried.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Withered Flame
@@ -5904,7 +5905,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
     -   Grants a **very** large increase to the AoE of your Pressure Blast.
 
--   Camaraderie: [Canorian Axe](Canorian_Axe.md) & [Alloyed Canorian Axe](Canorian_Axe.md) - Landing a critical attack reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. \[1 sec CD\]
+-   Camaraderie: [Canorian Axe](Canorian_Axe.md) & [Alloyed Canorian Axe](Canorian_Axe.md) - Landing a critical attack, uppercut or flourish reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. \[5 sec CD\]
 
 -   Careful Stance: [Apprentice Rapier](Apprentice_Rapier.md) - Gain a bit more autoparry frames on successful parries.
 
@@ -6012,8 +6013,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Pastry Platter: [The Pastry Paster](The_Pastry_Paster.md) - Guardbreaking your opponent with a critical attack gives you a random non-boss food buff for 30 seconds.
     -   This cannot give the [Brain](Status_Effects.md#brain), [Scale](Status_Effects.md#scale), [Strength](Status_Effects.md#strength), or [Throat](Status_Effects.md#throat) food buffs.
 
--   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
-    -   Grants a small swing speed boost while active.
+-   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - After landing your critical, for the next 6 seconds, your next basic attack bypasses block, whilst also granting 0.02 additional swingspeed for the duration. \[45 second CD\]
+    -   Also triggers if your critical is dodged. If your critical is blocked, nothing will happen. If your critical is parried, then this Talent will go on cooldown without providing any benefits.
+    -   When bypassing an opponent's block, your attack quite literally phases their their block and hits them directly, applying hitstun and [Shaky Block](Combat_Mechanics.md#posture) while dealing the full damage. This is **not** 100% Chip Damage.
 
 -   Pierce Through: [Ritual Spear](Ritual_Spear.md) & [Ritual Sacrifice](Ritual_Sacrifice.md) - Remove the autoparry frames the first hit of your base spear critical has.
     -   The **default** spear critical no longer gets canceled if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.

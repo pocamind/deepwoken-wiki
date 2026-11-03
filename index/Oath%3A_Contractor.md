@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 229177
+revid: 232974
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -37,7 +37,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke.
 3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of** **Mastery (Attributes option) and Order** work, including those in [The Depths](The_Depths.md).
 4.  Unlock your [Resonance](Resonance.md).
-5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
+5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?" (Requires the [Soulbreaker](Oath%253A_Soulbreaker.md) oath requirements to be fulfilled for the option to appear(Does not require a wish))
 6.  _IMPORTANT NOTICE_: It has been confirmed by Aswqe that you need EVERY SINGLE prerequisite before talking to Regent. For example, forgetting to obtain sufficient reputation with The Ministry and going to speak with the Lord Regent will SOFTLOCK you out of obtaining the oath; you can't forget a requirement and go back to get it - MAKE SURE TO SPEAK WITH THE LORD REGENT AFTER OBTAINING EVERY SINGLE PREREQUISITE.
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you." then, finish the dialogue and you will obtain the Oath **(Choosing the "Yes, I did." dialogue will kill you, but not softlock you.)**
 

@@ -592,11 +592,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Shock Therapy
 
--   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Anytime you summon a lightning strike on your opponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning.
-    -   Makes the opponent unable to jump for 10 seconds. This effect's duration resets upon subsequent eligible lightning strike hits.
-        -   Eligible lighting strikes include: Storm Strikes from [Volt Draft](../Talents.md#volt-draft) and [Shock Trooper Specialist](../Talents.md#shock-trooper-specialist), [Storm](../Storm.md)/[Stormbreaker](../Stormbreaker.md) Enchants during the rain, [Scorched Peak](../Talents.md#scorched-peak), and [Fulgurite Formation](../Talents.md#fulgurite-formation).
+-   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Your lightning strikes now apply **[Grounded](../Status_Effects.md#grounded)**, uppercutting an opponent with this effect will strike them with a bolt of non-grounding lightning.
+    -   Makes the opponent unable to jump for 10 seconds via the Grounded status effect. This effect's duration resets upon subsequent eligible lightning strike hits.
+        -   Eligible lighting strikes include: Storm Strikes from [Volt Draft](../Talents.md#volt-draft) and [Shock Trooper Specialist](../Talents.md#shock-trooper-specialist), [Storm](../Storm.md)/[Stormbreaker](../Stormbreaker.md) Enchants during the rain, the random lightning strikes from [Stormbreaker](../Stormbreaker.md) Enchantment, [Scorched Peak](../Talents.md#scorched-peak), and [Fulgurite Formation](../Talents.md#fulgurite-formation).
     -   Grounding Bolt's lightning strikes deal 15 Thundercall damage. This has no cooldown.
-    -   Grounding Bolt's lightning strikes trigger by landing _any_ uppercut ability on a target who is affected by _any_ anti-jump ability. This means non-basic attack uppercuts (such as certain Mantras or weapon criticals) can trigger this effect, and all anti-jump abilities (e.g. [Taunt](../Attunement-less.md#taunt) or [Bear Trap](../Talents.md#bear-trap)) can allow you to trigger Grounding Bolt as well.
+    -   Grounding Bolt's lightning strikes trigger by landing _any_ uppercut ability on a target who is affected by _any_ source of the Grounded status effect. This means non-basic attack uppercuts (such as certain Mantras or weapon criticals) can trigger this effect, and all abilities that apply Grounded or anti-jump (e.g. [Taunt](../Attunement-less.md#taunt) or [Bear Trap](../Talents.md#bear-trap)) can allow you to trigger Grounding Bolt as well.
     -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 ### Showboater
@@ -626,13 +626,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Silentheart
 
 -   [**Oath: Silentheart**](../Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health, +5% PEN)
-    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan](../Khan.md)'s [Versatile](../Talents.md#versatile) Talent.
-        -   Similarly to [Khan](../Khan.md)'s [Versatile](../Talents.md#versatile), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](../Wyrmtooth.md) with 15 HVY and 35 MED.
+    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan](../Khan.md)'s [Versatile](../Talents.md#versatile) Talent, individually affecting every eligible requirement (e.g. [Wyrmtooth](../Wyrmtooth.md)'s requirements are reduced to 35 MED 15 HVY).
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](../Deep_Shrines.md) (primarily [Shrine of Division](../Deep_Shrines/Shrine_of_Division.md)).
     -   You can no longer equip "elemental weapons."
     -   Prerequisites: 25 Strength, 25 Agility // 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](../Beloved_Zofia.md) and talk to [The Dreadstar](../The_Dreadstar.md).
 
--   Ankle Cutter \[Oath Talent, [Silentheart](../Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+-   Ankle Cutter \[Oath Talent, [Silentheart](../Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, and applying **[Grounded](../Status_Effects.md#grounded)**.
+    -   The Grounded status prevents jumping.
     -   Deals fixed damage with innate bleed.
     -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](../Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](../Attunement_Trainers.md) OR give 10 to [The Dreadstar](../The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
@@ -755,7 +755,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Soul Converter
 
--   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
+-   Bloodiron Spirit \[Common Talent\] - You regain some Armor upon killing enemies. (+5 Health)
     -   Any kill gives you 2.5% of your total armor durability.
     -   Also restores Natural Armor durability on kill.
     -   Stacks with [Bloodiron Ring](../Bloodiron_Ring.md), which has the same effect.

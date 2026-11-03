@@ -1,6 +1,6 @@
 ---
 title: Justicar Neophyte
-revid: 229425
+revid: 232841
 source: https://deepwoken.fandom.com/wiki/Justicar_Neophyte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Pathfinder Exclusive, Outfits, Justicars]
@@ -39,4 +39,4 @@ This Outfit has no [Attribute](Attributes.md) requirement, but explicitly has a 
 
 This Outfit has 1500 durability and grants +15% Physical resistance ResistancePhysical, +5% Blunt resistance ResistanceBlunt, and +15% Elemental resistance [ResistanceElemental](Attunements.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19.25% Blunt ResistanceBlunt, Slash ResistanceSlash, and 15% Elemental [ResistanceElemental](Attunements.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 19.25% Blunt ResistanceBlunt, 15% Slash ResistanceSlash, 15% Elemental [ResistanceElemental](Attunements.md).

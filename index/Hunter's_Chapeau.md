@@ -1,9 +1,9 @@
 ---
 title: "Hunter's Chapeau"
-revid: 232770
+revid: 232858
 source: https://deepwoken.fandom.com/wiki/Hunter's_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Hallowtide, Head, Equipment, Event Item]
+categories: [Equipment with Styles, Hallowtide, Head, Equipment, Event Item]
 ---
 
 # Hunter's Chapeau
@@ -15,6 +15,7 @@ categories: [Hallowtide, Head, Equipment, Event Item]
 | selling price | 7 |
 | requirements | N/A |
 | weight | 1 |
+| styles | Buckle (Light), Buckle (Dark), No Buckle (Light), No Buckle (Dark) |
 | innate stats | +1 Health |
 | innate talent | N/A |
 | bankable | Yes |

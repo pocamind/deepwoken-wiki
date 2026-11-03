@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 228636
+revid: 232857
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -50,3 +50,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   You can find plenty of [Erisore](Ores.md#erisore) here.
 -   You can find [The Meat Lord](The_Meat_Lord.md) here.
 -   The Stonelife Lord from the description of the place might refer to Duke Erisia
+-   The cooldown for the Forge event is around 2 minutes.

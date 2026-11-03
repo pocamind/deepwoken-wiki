@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Garb"
-revid: 231471
+revid: 232868
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -39,10 +39,10 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 2400 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), -5 Sanity [IconSanity](Insanity.md), +50% Ether Regen [IconEther](Ether.md), and the [Lose Your Mind](Talents.md#lose-your-mind) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: +25% Physical ResistancePhysical, 47.5% Ironsing [ResistanceIronsing](Ironsing.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Ironsing [ResistanceIronsing](Ironsing.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
 
 The [Lose Your Mind](Talents.md#lose-your-mind) Talent grants a damage buff that scales on how high your current Sanity is. This Talent scales non-linearly on your Sanity, capping at +15% damage at maximum Sanity.
 
 ## Trivia
 
--   This is the only Outfit to grant negative stats, and the only item in the game to grant negative [Sanity](Insanity.md) [IconSanity](Insanity.md). Though, -5 Sanity is such a small downside that it isn't very notable.
+-   This is the only Outfit to grant negative stats, and the only item in the game to grant negative [Sanity](Insanity.md) [IconSanity](Insanity.md). Though, -5 Sanity [IconSanity](Insanity.md) is such a small downside that it isn't very notable.

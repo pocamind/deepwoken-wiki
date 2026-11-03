@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 230926
+revid: 232906
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
@@ -41,7 +41,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 This Outfit has 1000 durability, grants +10% Physical resistance ResistancePhysical, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Intrepid Flame](Talents.md#intrepid-flame) and [One With Flame](Talents.md#one-with-flame) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistancePhysical, 28.75% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 10% Physical ResistancePhysical, 28.75% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Intrepid Flame](Talents.md#intrepid-flame) Talent halves the maximum duration of any [Burn](Status_Effects.md#burn) effect that is applied to the user. [Flame Within](Talents.md#flame-within)'s duration is not reduced, granting damage reduction to your Flame Within instead.
 

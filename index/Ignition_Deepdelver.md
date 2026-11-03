@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 223291
+revid: 232863
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, The Ignition Union, Outfits with Talents, Outfits with Exclusive Talents]
@@ -40,7 +40,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 The outfit has 3000 durability, grants +30% Physical resistance ResistancePhysical, +35% Elemental resistance [ResistanceElemental](Attunements.md), +15% Frostdraw resistance [ResistanceFrostdraw](Frostdraw.md), and +15% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Force Your Way](Talents.md#force-your-way) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.7% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 30% Physical ResistancePhysical, 44.75% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Force Your Way](Talents.md#force-your-way) Talent grants the player the ability to parry unparryable attacks from large monsters at the cost of some armor durability. The armor durability lost is based on the damage the attack would've done. Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 

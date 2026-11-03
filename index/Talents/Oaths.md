@@ -624,13 +624,13 @@ _This section is transcluded from [Talents § Sage of Wisps](../Talents.md#sage-
 ### Silentheart
 
 -   [**Oath: Silentheart**](../Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health, +5% PEN)
-    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan](../Khan.md)'s [Versatile](../Talents.md#versatile) Talent.
-        -   Similarly to [Khan](../Khan.md)'s [Versatile](../Talents.md#versatile), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](../Wyrmtooth.md) with 15 HVY and 35 MED.
+    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan](../Khan.md)'s [Versatile](../Talents.md#versatile) Talent, individually affecting every eligible requirement (e.g. [Wyrmtooth](../Wyrmtooth.md)'s requirements are reduced to 35 MED 15 HVY).
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](../Deep_Shrines.md) (primarily [Shrine of Division](../Deep_Shrines/Shrine_of_Division.md)).
     -   You can no longer equip "elemental weapons."
     -   Prerequisites: 25 Strength, 25 Agility // 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](../Beloved_Zofia.md) and talk to [The Dreadstar](../The_Dreadstar.md).
 
--   Ankle Cutter \[Oath Talent, [Silentheart](../Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+-   Ankle Cutter \[Oath Talent, [Silentheart](../Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, and applying **[Grounded](../Status_Effects.md#grounded)**.
+    -   The Grounded status prevents jumping.
     -   Deals fixed damage with innate bleed.
     -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](../Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](../Attunement_Trainers.md) OR give 10 to [The Dreadstar](../The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).

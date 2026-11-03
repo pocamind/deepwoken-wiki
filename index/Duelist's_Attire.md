@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 223252
+revid: 232898
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, Outfits]
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 This Outfit has 1200 durability, grants +20% Physical resistance ResistancePhysical, and +10% Slash resistance ResistanceSlash.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Slash ResistanceSlash and 20% Blunt ResistanceBlunt.
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 20% Blunt ResistanceBlunt, 28% Slash ResistanceSlash.
 
 ## Trivia
 

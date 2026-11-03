@@ -42,7 +42,7 @@ Variants: [Alloyblood Daggers](Alloyblood_Daggers.md) · [Alloyblood Spear](Allo
 
 The Alloyblood Axe is one of three Alloyblood Weapons and is a [Greataxe](Greataxes.md) in the Heavy Weapons category. Conjured from the Alloyblood itself, this weapon boasts higher crushing power, with this being further improved through its Talent's effect ([see below](#talents)).
 
-This weapon can only be obtained by using the [Rising Plasma](Hybrid_Abilites.md#rising-plasma) Alloyblood Mantra after building up enough [Composite Alloy](Status_Effects.md#composite-alloy) on the target via [Bloodrend](Bloodrend.md) and [Ironsing](Ironsing.md) attacks. This weapon has a set duration after the Mantra is used.
+This weapon can only be obtained by using the [Rising Plasma](Hybrid_Abilities.md#rising-plasma) Alloyblood Mantra after building up enough [Composite Alloy](Status_Effects.md#composite-alloy) on the target via [Bloodrend](Bloodrend.md) and [Ironsing](Ironsing.md) attacks. This weapon has a set duration after the Mantra is used.
 
 ## Alloyblood Upgrades
 

@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 219390
+revid: 232849
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -35,7 +35,7 @@ They are responsible for producing weapons such as the [Ignition Deepcrusher](Ig
 
 They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and [The Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out". However, the Union do not view the employers favorably and would rather not see them attain greater power.[\[1\]](#cite-note-1)
 
-They have instigated and maintains a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
+They have instigated and maintained a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
 
 The union also shares an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot. According to [Alpha](Alpha.md), this rivalry stems from the Divers receiving funding from the Authority, conveniently ignoring the fact the Union are in that exact same boat. Deepdelver Gamma implies it also stems from the Divers' seeming callousness towards the lives of their members.
 
@@ -116,7 +116,7 @@ Enemy-Neutral Reputation
 -   Opposed to what their name might suggest, they’re predominantly [Ironsing](Ironsing.md) users.
 -   The Ignition Union has the most Owned Territories out of every Faction at 4, and is tied with [The Divers](The_Divers.md) for the most Passive NPCs at 7.
     -   The Ignition Union have more by technicality, due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Karliah](Karliah.md) being former members of The Divers rather than active members.
--   The Ignition Union is Communist, as hinted at by the [Arcwarder](Oath%253A_Arcwarder.md) description, which references a popular quote from the Communist writer, Karl Marx. As well as the name of the faction itself being a nod to the Communist nature of The Union.
+-   The Ignition Union is likely Socialist or Communist, as hinted at by the [Arcwarder](Oath%253A_Arcwarder.md) description, which references a popular quote from the Socialist writer and father of Communism, Karl Marx. his is further compounded by [Deepdelver Gamma's](Deepdelver_Gamma.md) dialogue explaining the union is essentially classless, with ranks being based on value to the collective.
 
 ## Navigation
 

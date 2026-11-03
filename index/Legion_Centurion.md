@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 223293
+revid: 232865
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, The Hundred Legions, Outfits with Talents, Outfits with Exclusive Talents]
@@ -39,6 +39,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 3000 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +5% Lightning resistance [ResistanceThundercall](Thundercall.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Centurion's Resolve](Talents.md#centurions-resolve) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 33.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 33.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 30% Physical ResistancePhysical, 33.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 33.5% Thundercall [ResistanceThundercall](Thundercall.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Centurion's Resolve](Talents.md#centurions-resolve) Talent grants a 4% melee damage buff to the [Legion Kata](Legion_Kata.md) and [Imperium Kata](Imperium_Kata.md) fist styles.

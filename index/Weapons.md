@@ -3129,7 +3129,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -4713,7 +4713,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -4888,7 +4888,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -11049,7 +11049,7 @@ Bows
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -12267,7 +12267,7 @@ Greataxes
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -13272,7 +13272,7 @@ MED: 55 | 13.5 | LHT: 5
 MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
 | **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-[Rising Plasma](Hybrid_Abilites.md#rising-plasma) (Mantra) | 24 | HVY: 3  
+[Rising Plasma](Hybrid_Abilities.md#rising-plasma) (Mantra) | 24 | HVY: 3  
 BLD: 5  
 MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
 | **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
@@ -13990,7 +13990,7 @@ Elemental
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -14165,7 +14165,7 @@ Elemental
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -21050,7 +21050,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -22331,7 +22331,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -23282,7 +23282,7 @@ MED: 55 | 13.5 | LHT: 5
 MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
 | **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-[Rising Plasma](Hybrid_Abilites.md#rising-plasma) (Mantra) | 24 | HVY: 3  
+[Rising Plasma](Hybrid_Abilities.md#rising-plasma) (Mantra) | 24 | HVY: 3  
 BLD: 5  
 MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 0.1s | 47.4 | **✓** |
 | **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
@@ -24002,7 +24002,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -24177,7 +24177,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -27851,7 +27851,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -29435,7 +29435,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -29610,7 +29610,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>

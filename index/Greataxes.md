@@ -382,7 +382,7 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
   <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilites.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>

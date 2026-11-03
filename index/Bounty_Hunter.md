@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter
-revid: 223248
+revid: 232885
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, Outfits, Bandits, Outfits with Talents, "Outfits with Non-exclusive Talents"]

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 229439
+revid: 232903
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, The Ignition Union]

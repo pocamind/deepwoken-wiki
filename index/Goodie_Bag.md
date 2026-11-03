@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 232794
+revid: 232950
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Relics, Items, Hallowtide]
@@ -20,7 +20,7 @@ notices:
 | droppable | Yes |
 | pass down | No |
 | desc | A gift of festive curiosities, thrown down from The Floating Keep. Joyous Hallowtide! |
-| obtainment | Any chest during the Hallowtide event (more common from World Boss chests), Sold by Traan Zakshun for 15,000 or 2 , Lysander Spellhardt |
+| obtainment | Any chest during the Hallowtide event (more common from World Boss chests), Sold by Traan Zakshun for 10,000-15,000 or 2 , Lysander Spellhardt |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -38,7 +38,7 @@ Despite them being purchasable from [Traan Zakshun](Traan_Zakshun.md), they cann
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>, Familiar Occultist's Armor</td>
+  <td><a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>, <a href="Familiar_Occultist's_Armor.md">Familiar Occultist's Armor</a>, <a href="Familiar_Prince's_Armor.md">Familiar Prince's Armor</a>, <a href="Familiar_Sage's_Armor.md">Familiar Sage's Armor</a>, <a href="Familiar_Vagrant's_Armor.md">Familiar Vagrant's Armor</a></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
@@ -66,7 +66,7 @@ Despite them being purchasable from [Traan Zakshun](Traan_Zakshun.md), they cann
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
     <li><b>Legendary Head</b>: <a href="Aazel's_Horns.md"><font>Aazel's Horns</font></a></li>
-    <li><b>Hallowtide Head</b>: <a href="Crooked_Witch_Hat.md">Crooked Witch Hat</a>, <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Hunter's_Chapeau.md">Hunter's Chapeau</a> <a href="Mushroom_Costume.md">Mushroom Costume</a> (all variants), <a href="Pumpkin_Head.md">Pumpkin Head</a></li>
+    <li><b>Hallowtide Head</b>: <a href="Crooked_Witch_Hat.md">Crooked Witch Hat</a>, <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Hunter's_Chapeau.md">Hunter's Chapeau</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a> (all variants), <a href="Pumpkin_Head.md">Pumpkin Head</a></li>
   </ol></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>

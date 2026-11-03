@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 222775
+revid: 232901
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 
 ## Description
 
-The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category
+The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Stay of Execution](Talents.md#stay-of-execution) Talent increases the amount of time it takes to execute you by 20%. If you save someone from being executed, you and that person gain 10 [Temporary Health](Status_Effects.md#temporary-health).
 

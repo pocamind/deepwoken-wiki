@@ -1,8 +1,11 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 232830
+revid: 232922
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Event Only Content, Equipment, Arms, Braces, Hallowtide]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # Familiar Prosthetic Arm
@@ -14,18 +17,18 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | 100 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health , +3 Posture |
+| innate stats | +3 Health , +3 Posture , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Iron Body |
 | bankable | Yes |
 | droppable | No |
-| enchantable | Only when opening a Goodie Bag |
+| enchantable | No |
 | pass down | Yes |
-| obtainment | Goodie Bag The Harvestman |
+| obtainment | Goodie Bag, The Harvestman |
 | description | ... |
 
 ## Description
 
-Familiar Prosthetic Arm is an [Equipment](Equipment.md) item under the "Arms" category, exclusive to the [Hallowtide](Hallowtide.md) event.
+The Familiar Prosthetic Arm is an [Equipment](Equipment.md) item under the "Arms" category, exclusive to the [Hallowtide](Hallowtide.md) event.
 
 The [Iron Body](Talents.md#iron-body) Talent reduces the amount of chip damage you receieve by a flat 10%, and enables you to use actions that require a prosthetic arm.
 

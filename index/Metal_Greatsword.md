@@ -44,7 +44,7 @@ The Metal Greatsword is a Heavy Greatsword exclusive to the [Needleblade](Talent
 
 [Needleblade](Talents.md#needleblade) requires 90 Ironsing and 90 Weapon (90 LHT // 90 MED // 90 HVY) to obtain.
 
-If the player has the [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) hybrid Attunement Path, and has the [Hypoferritinemia](Talents.md#hypoferritinemia) Talent, it'll enhance their Metal Greatsword by turning it into an Alloyblood weapon. This changes the proc condition for this weapon from pulling 5 Rods to using the [Rising Plasma](Hybrid_Abilites.md#rising-plasma) Mantra, replacing the [Alloyblood Axe](Alloyblood_Axe.md), and gives the Metal Greatsword 75% base Chip Damage. This Chip Damage value will scale further based on how much Composite Alloy their opponent has.
+If the player has the [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) hybrid Attunement Path, and has the [Hypoferritinemia](Talents.md#hypoferritinemia) Talent, it'll enhance their Metal Greatsword by turning it into an Alloyblood weapon. This changes the proc condition for this weapon from pulling 5 Rods to using the [Rising Plasma](Hybrid_Abilities.md#rising-plasma) Mantra, replacing the [Alloyblood Axe](Alloyblood_Axe.md), and gives the Metal Greatsword 75% base Chip Damage. This Chip Damage value will scale further based on how much Composite Alloy their opponent has.
 
 ## Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 223290
+revid: 232862
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -40,7 +40,7 @@ This Outfit also requires the player to be at least [Power](Power.md) 15 to be c
 
 This Outfit has 2600 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +50% [Stealth](Stealth.md) [IconStealth](Stealth.md), +16 Sanity [IconSanity](Insanity.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Withering Soul](Talents.md#withering-soul) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 30% Physical ResistancePhysical, 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Withering Soul](Talents.md#withering-soul) Talent makes your M1s deal 12.5% of their scaled damage as [Wither](Status_Effects.md#wither). Wielding the [Deepspindle](Deepspindle.md), the [Umbrite Witherblade](Umbrite_Witherblade.md) or [Blightsurger's](Oath%253A_Blightsurger.md) Sovereign Bangle will double the amount to 25%.
 

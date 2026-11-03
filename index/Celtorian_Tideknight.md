@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 227022
+revid: 232861
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Lost Celtor, Outfits with Talents, Outfits with Exclusive Talents]
@@ -40,7 +40,7 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 This Outfit has 2800 durability and grants +30% Physical resistance ResistancePhysical, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +16 Sanity [IconSanity](Insanity.md) and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Tidekeeper](Talents.md#tidekeeper) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 32.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 28.75% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 33.5% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 32.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Tidekeeper](Talents.md#tidekeeper) Talent procs if you lose 25% or more of your health within a 3 second timespan, granting the [Tidekeeper](Status_Effects.md#tidekeeper) status effect. This status effect grants a 15% damage buff, a 20% defense buff, and prevents you from being knocked **[Unconscious](Status_Effects.md#unconscious)** for 10 seconds. Tidekeeper has a 60 second cooldown and will not proc on instant death abilities.
 

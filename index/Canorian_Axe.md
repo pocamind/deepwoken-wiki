@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 226491
+revid: 232953
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greataxes, Alloyable Weapons, Heavy Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons, Weapons with Talents, Greataxes, Alloyable Weapons, Heavy 
 | endlag | N/A / 0.1s |
 | penetration | 20% |
 | chip damage | 10% |
-| talent | Camaraderie - Landing a critical attack reduce your allies' mantra [sic] cooldowns by 5 seconds and heals them 1%. [1 sec CD] |
+| talent | Camaraderie - Landing a critical attack, uppercut or flourish reduce your allies' mantra [sic] cooldowns by 5 seconds and heals them 1%. [5 sec CD] |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |
@@ -47,7 +47,7 @@ The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower E
 
 Equipping the Canorian Axe grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Camaraderie**](Talents.md#camaraderie) procs upon landing a weapon critical, healing your allies for 1% of their maximum health and reducing their Mantra cooldowns by 5 seconds. This has a one second cooldown.
+[**Camaraderie**](Talents.md#camaraderie) procs upon landing a weapon critical, uppercut, or flourish, healing your allies for 1% of their maximum health and reducing their Mantra cooldowns by 5 seconds. This has a 5 second cooldown.
 
 ## Critical
 

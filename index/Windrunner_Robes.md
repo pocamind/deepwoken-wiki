@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 231838
+revid: 232878
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and.
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Wind Dancer](Talents.md#wind-dancer) Talent grants a 10% speed boost for 12 seconds after roll cancelling twice in quick succession, but one of your rolls must dodge a hit in order for it to activate. This has a 10 second cooldown.
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 230119
+revid: 232843
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits of The Central Authority, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -42,7 +42,7 @@ Alternatively, using the [Authority Ensign](Authority_Ensign.md) Origin will gra
 
 This Outfit has 1600 durability, grants +15% Physical resistance ResistancePhysical, +10% Slash resistance ResistanceSlash, +10% Elemental resistance [ResistanceElemental](Attunements.md), and +15% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash ResistanceSlash, 15% Blunt ResistanceBlunt, 23.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 10% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 15% Blunt ResistanceBlunt, 23.5% Slash ResistanceSlash, 23.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 10% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

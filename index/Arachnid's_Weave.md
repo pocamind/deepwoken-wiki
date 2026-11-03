@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 223285
+revid: 232851
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -40,13 +40,13 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 2100 durability, grants +25% Physical resistance ResistancePhysical, +35% Elemental resistance [ResistanceElemental](Attunements.md), +15% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Iron resistance [ResistanceIronsing](Ironsing.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), 10 Sanity [IconSanity](Insanity.md), and +55% Ether Regeneration [IconEther](Ether.md). Additionally, it provides the [Corrosive Touch](Talents.md#corrosive-touch) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.75% Bloodrend [ResistanceBloodrend](Bloodrend.md), 41.5% Thundercall [ResistanceThundercall](Thundercall.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 25% Physical ResistancePhysical44.75% Bloodrend [ResistanceBloodrend](Bloodrend.md), 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 41.5% Thundercall [ResistanceThundercall](Thundercall.md), 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Corrosive Touch](Talents.md#corrosive-touch) Talent makes your Critical attacks and Flourishes corrode your opponent's armor, draining an additional 5% of their armor on proc. Corrosive Touch has a 10 second cooldown.
 
 Visually, a critical attack will have a siphoning effect when landed.
 
-## Trivia/Notes
+## Trivia
 
 -   Arachnid's Weave originally had 15% Physical resist and a staggering 40% Elemental resist. This, along with its name (it was originally called Arachnid's Corset) were shadow updated on the same day this Outfit was added to the game.
 -   The Corrosive Touch Talent has a great synergy with the [Ironsing](Ironsing.md) Attunement and the [Metal](Metal.md) Enchant.

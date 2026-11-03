@@ -400,7 +400,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Grants an experience multiplier if no other player has credit for the mob kill or event completion.
     -   Deal 5% more damage to opponents you've combat tagged or opponents who have combat tagged you, but only if they have less or an equal amount of combat tags as you. Gain an additional 5% more damage buff per combat tag above 1.
     -   The damage buff works even if any of your allies are in the server. This is not intended behavior (bug).
-    -   You do not need a combat tag on yourself for the first 5% damage increase as it is active on the hit you combat tag your opponent, but for your damage buff to go above any further than 5% you need more than 1 combat tag on yourself.  
+    -   You do not need a combat tag on yourself for the first 5% damage increase as it is active on the hit you combat tag your opponent, but for your damage buff to go above any further than 5% you need more than 1 combat tag on yourself.
+    -   Works in PvE combat, with each mob counting as an individual combat tag.  
         
     -   Prerequisites: [Lone Warrior](../Lone_Warrior.md) Origin, complete the [Trial of One](../Trial_of_One.md)  
         

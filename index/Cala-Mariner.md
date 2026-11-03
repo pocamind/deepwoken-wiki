@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 223287
+revid: 232859
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -40,7 +40,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 The Outfit has 2200 durability, grants +25% Physical resistance ResistancePhysical, +35% Elemental resistance [ResistanceElemental](Attunements.md), +30% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +20 Sanity [IconSanity](Insanity.md), and +45% Ether Regeneration [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 54.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 51.25% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 25% Physical ResistancePhysical51.25% Bloodrend [ResistanceBloodrend](Bloodrend.md), 54.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 Additionally, it provides the [Tidal Shock](Talents.md#tidal-shock) Talent. This makes your Critical attacks apply short Daze and trigger Tidal Shock's effect.
 

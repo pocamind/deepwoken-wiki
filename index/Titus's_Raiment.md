@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 223699
+revid: 232873
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Hundred Legions]
@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 3,000 durability, grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Overwhelming Might](Talents.md#overwhelming-might) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 32.5% Thundercall [ResistanceThundercall](Thundercall.md), 32.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 25% Physical ResistancePhysical, 32.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 32.5% Thundercall [ResistanceThundercall](Thundercall.md), 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Overwhelming Might](Talents.md#overwhelming-might) Talent makes [Strong Left](Attunement-less.md#strong-left) guardbreak at Level 5. Overwhelming Might has a 60 second cooldown.
 

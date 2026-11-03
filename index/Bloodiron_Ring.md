@@ -1,6 +1,6 @@
 ---
 title: Bloodiron Ring
-revid: 223136
+revid: 232935
 source: https://deepwoken.fandom.com/wiki/Bloodiron_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,4 +25,6 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Bloodiron Ring** is a Ring [Equipment](Equipment.md) piece that repairs the users Armor and Natural Armor on kill. It functions exactly like, and stacks with, the [Bloodiron Spirit](Talents.md#bloodiron-spirit) Talent.
+The Bloodiron Ring is an [Equipment](Equipment.md) item under the "Rings" category. It repairs the user's Armor and Natural Armor on kill.
+
+It functions exactly like, and stacks with, the [Bloodiron Spirit](Talents.md#bloodiron-spirit) Talent.

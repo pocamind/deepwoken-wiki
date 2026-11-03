@@ -1,6 +1,6 @@
 ---
 title: Stored Damage Mechanic
-revid: 227688
+revid: 232956
 source: https://deepwoken.fandom.com/wiki/Stored_Damage_Mechanic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -71,8 +71,8 @@ Because Moppet's Suspended Hit is on a critical attack, Moppet is a great cataly
 
 ### [Poser's Ring](<Poser's_Ring.md>)
 
-Exclusive to the [Poser's Ring](<Poser's_Ring.md>) equipment, the weapon damage of the [Katana](Katana.md), [Alloyed Katana](Katana.md), [Palace Tachi](Palace_Tachi.md), and [Shattered Katana](Shattered_Katana.md) weapons is stored, and is triggered when sheathing (unequipping) the weapon.
+Exclusive to the [Poser's Ring](<Poser's_Ring.md>) equipment, the weapon damage of the [Katana](Katana.md), [Alloyed Katana](Katana.md), [Palace Tachi](Palace_Tachi.md), [Shattered Katana](Shattered_Katana.md), and [Withered Phantomcleave](Withered_Phantomcleave.md) weapons is stored, and is triggered when sheathing (unequipping) the weapon.
 
 This plays an animation and applies an extended true stun to the target. During this stun, the user and the target gain damage immunity to outside damage.
 
-The damage will remain stored if you swap weapons, but sheathing will only cause the Suspended Hit if your equipped weapon is one of the above.
+The damage will remain stored if you swap weapons or remove your Poser's Ring, but sheathing will only cause the Suspended Hit if your equipped weapon is one of the above and the ring is equipped.

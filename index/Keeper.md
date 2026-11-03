@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 229440
+revid: 232907
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits]
@@ -41,4 +41,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 This Outfit has 1000 durability and grants +5% Physical resistance ResistancePhysical, +5% Elemental resistance [ResistanceElemental](Attunements.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md) and +20% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 5% Physical ResistancePhysical, 14.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 14.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 5% Elemental [ResistanceElemental](Attunements.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 5% Physical ResistancePhysical, 14.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 14.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).

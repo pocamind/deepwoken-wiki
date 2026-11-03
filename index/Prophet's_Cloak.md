@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 232139
+revid: 232876
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Ministry]
@@ -21,7 +21,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +25% Physical Armor , +25% Elemental Armor , +20% Ice Armor , +20% Fire Armor |
 | buffs | +50% Ether Regen |
 | talents | Crippling Darkness |
-| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, Saramaed Hollow, Primadon, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, Saramaed Hollow, Primadon, Titan of the East, Aratel Island, Artifact Turn-ins (Eastern Luminant), Faction Ambushes (Cloaked Assassin, Etrea, Hive, The Hundred Legions), False Merchant Ship Sea Event, Fishing, Island Sea Events, Megalodaunt on a Ship Sea Event, Rogue Construct, Jobs:, Most Aratel Island jobs, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
@@ -40,7 +40,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +20% Fire resistance [ResistanceFlamecharm](Flamecharm.md) and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 40% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 40% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 25% Physical ResistancePhysical, 40% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 40% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20% PEN to any non-weapon attack, such as Mantras and Talent abilities. Additionally, because [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, Crippling Darkness allows your typeless damage attacks (e.g. [Bleed](Status_Effects.md#bleed)) to deal more damage against Reinforce users than you would otherwise.
 

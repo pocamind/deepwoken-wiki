@@ -445,7 +445,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
--   **Hypoferritinemia** \[Common Talent\] - Using [Rising Plasma](../Hybrid_Abilites.md#rising-plasma) now summons your [Metal Greatsword](../Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
+-   **Hypoferritinemia** \[Common Talent\] - Using [Rising Plasma](../Hybrid_Abilities.md#rising-plasma) now summons your [Metal Greatsword](../Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
     -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](../Alloyblood_Axe.md).  
         
     -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), [Needleblade](../Talents.md#needleblade), [Torture Mastery](../Talents.md#torture-mastery), 30 Bloodrend, 30 Ironsing  
@@ -459,7 +459,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Critical Attack\] \[Debuff\] \[Mantra\] \[Multi-Attunement\] \[Weapon Attack\]
 
--   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your [Rising Plasma](../Hybrid_Abilites.md#rising-plasma) mantra. Raise your opponent's plasma by 10% when this happens.
+-   **Plasma Signal** \[Common Talent\] - Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your [Rising Plasma](../Hybrid_Abilities.md#rising-plasma) mantra. Raise your opponent's plasma by 10% when this happens.
     
     -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 55 Bloodrend, 55 Ironsing  
         
@@ -478,7 +478,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Feint\] \[Mantra\] \[Multi-Attunement\]
 
 -   **Ultrafiltration** \[Common Talent\] - Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.
-    -   Your Alloyblood Mantras ([Infused Slash](../Hybrid_Abilities.md#infused-slash), [Rising Plasma](../Hybrid_Abilites.md#rising-plasma), and [Spinning Serum](../Hybrid_Abilities.md#spinning-serum)) now apply Blood Poisoning and Metal Rods on hit.  
+    -   Your Alloyblood Mantras ([Infused Slash](../Hybrid_Abilities.md#infused-slash), [Rising Plasma](../Hybrid_Abilities.md#rising-plasma), and [Spinning Serum](../Hybrid_Abilities.md#spinning-serum)) now apply Blood Poisoning and Metal Rods on hit.  
         
     -   Prerequisites: [Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood), 65 Bloodrend, 65 Ironsing  
         
@@ -664,8 +664,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Agility\] \[+Passive Agility\]
 
--   **Unseen Threat** \[Common Talent\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
+-   **Unseen Threat** \[Common Talent\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and **[Grounded](../Status_Effects.md#grounded)** for 5s.
     -   This Talent allows you to assassinate enemies who are in combat and holding a weapon.
+    -   The Grounded status effect prevents jumping.
     -   The old [Low Blow](../Cut_Content.md#low-blow) Talent was merged into this.  
         
     -   Prerequisites: [Deep Wound](../Talents.md#deep-wound), 60 Agility  

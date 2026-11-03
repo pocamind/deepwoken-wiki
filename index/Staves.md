@@ -28,7 +28,6 @@ _This section is transcluded from [Talents § Vanguard Arts](Talents.md#vanguard
     -   This can also be used after landing most [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](Talents.md#counter-spin).
     -   Prerequisites: [Staff](Staves.md) equipped, 30 Medium Weapon
-        -   The [Imperial Staff](Imperial_Staff.md) also provides this Talent.
 
 -   Counter Spin \[Common Talent, Medium Weapon\] - Staffs After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust the back-end of your Staff forwards, dealing 45% of your weapon's damage on hit.

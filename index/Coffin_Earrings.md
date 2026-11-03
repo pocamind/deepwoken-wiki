@@ -1,9 +1,11 @@
 ---
 title: Coffin Earrings
-revid: 232810
+revid: 232890
 source: https://deepwoken.fandom.com/wiki/Coffin_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Hallowtide, Ears, Equipment, Event Item, Earrings]
+categories: [Event Only Content, Hallowtide, Ears, Equipment, Event Item, Earrings]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # Coffin Earrings
@@ -13,7 +15,7 @@ categories: [Hallowtide, Ears, Equipment, Event Item, Earrings]
 | type | Ears |
 | rarity | Common |
 | selling price | 7 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.1 |
 | innate stats | +1 Health |
 | innate talent | N/A |

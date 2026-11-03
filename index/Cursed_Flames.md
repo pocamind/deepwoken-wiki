@@ -1,9 +1,11 @@
 ---
 title: Cursed Flames
-revid: 232766
+revid: 232893
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
+categories: [Event Only Content, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # Cursed Flames
@@ -51,3 +53,4 @@ However, wielding this weapon triples the cooldown of all your Mantras.
 -   The Cursed Burn modifier deals 2.5x the damage of base Burn.
 -   This weapon has the same description as the [Hero's Blade of Flame](<Hero's_Blade_of_Flame.md>).
 -   Because this weapon's model is entirely made up of fire VFX, it has no model the item held.
+-   Attempting to equip the Cursed Flames on a [Silentheart](Oath%253A_Silentheart.md) will prompt the message: "The Harvestman's flames reject you and your petty mortal Vows."

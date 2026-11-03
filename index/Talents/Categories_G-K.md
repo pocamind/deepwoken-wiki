@@ -976,7 +976,7 @@ Talents granted from your [Aspect](../Aspects.md). If you are playing the [Vow o
         
     -   Tags: \[Ironsing\] \[Posture Damage Buff\]
 
--   **Laced Traps** \[Common Talent\] - People hit by your '[Caltrops](../Ironsing.md#caltrops)' cannot jump and are slowed for a small duration, while also applying **[Sluggish](../Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
+-   **Laced Traps** \[Common Talent\] - People hit by your '[Caltrops](../Ironsing.md#caltrops)' are slowed and **[Grounded](../Status_Effects.md#grounded)** for a small duration, while also applying **[Sluggish](../Status_Effects.md#sluggish)** to PvE enemies for a few seconds.
     -   Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.
     -   Your Caltrops gain a purple VFX after obtaining this Talent.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.  

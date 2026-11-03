@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Attire
-revid: 223247
+revid: 232888
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, Vow of Iron Exclusive, Outfits]
@@ -42,7 +42,7 @@ This Outfit requires the player to be at least [Power](Power.md) 5 to be crafted
 
 This Outfit has 1000 durability and grants +30% Physical resistance ResistancePhysical, +10% Slash resistance ResistanceSlash, +35% Fire reistance [ResistanceFlamecharm](Flamecharm.md), and +8 Posture [IconPosture](Combat_Mechanics.md#posture).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Slash ResistanceSlash, 30% Blunt ResistanceBlunt, and 35% Flamecharm [ResistanceFlamecharm](Flamecharm.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 30% Blunt ResistanceBlunt, 37% Slash ResistanceSlash, 35% Flamecharm [ResistanceFlamecharm](Flamecharm.md).
 
 ## Trivia
 

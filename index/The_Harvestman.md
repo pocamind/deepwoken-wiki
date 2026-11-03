@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 232835
+revid: 232979
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
@@ -15,7 +15,7 @@ notices:
 |---|---|
 | health | 7200(+1000 per player) |
 | attacks | Resurrection, Accursed Flames: Ritual, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
-| drops | 300-600 Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, See Loot Table |
+| drops | 300-600 Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, 2 Crowns, 2 Knowledge, See Loot Table |
 | locations | The Harvest Ritual |
 
 “ An effigy made, a prayer whispered, a harvest blessed - face the wrath of the Harvestman, if you dare! ”
@@ -147,7 +147,7 @@ Jumping in the bossfight isn't recommended as much, as for whatever reason, The 
 
 Whenever the The Harvestman is about to reach 50% of his health, stay nearby and try to be at the opposite direction whenever he is facing, as The Harvestman will begin his culling, launching a huge beam. This is best avoided by going staying close to The Harvestman, yet pay attention to the other attacks aside from the beam, as those can often prove lethal as well.
 
-Utilizing the [Curse of the No Life King](Curse_of_the_No_Life_King.md) is recommended, it gives a free regeneration bonus for no downsides in the bossfight.
+The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfight, as it will sometimes allow you to completely negate attacks. Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%. [Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
 
 ## Loot Table
 
@@ -190,3 +190,4 @@ Utilizing the [Curse of the No Life King](Curse_of_the_No_Life_King.md) is recom
 
 -   Many of the boss's attacks are based off of The Devourer of Gods from the _Terraria_ Calamity Mod.
 -   The Harvestman's halo has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name", a phrase that was shown in the Hallowtide 2026 trailer image.
+-   All of the Harvestman's legendary drops will always be 3 starred.

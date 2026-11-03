@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 232392
+revid: 232936
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -77,7 +77,7 @@ The fourth Hallowtide added...
 The fifth Hallowtide added...
 
 -   **New World Events**: [The Harvestman](The_Harvestman.md) (Boss), [Prop Hunt](Prop_Hunt.md) (Minigame)
--   **New Weapons**: [Corvidirge Severants](Corvidirge_Severants.md) (Dagger/Twinblade), [Silas's Cenotaph](<Silas's_Cenotaph.md>) (Greatsword).
+-   **New Weapons**: [Corvidirge Severants](Corvidirge_Severants.md) (Dagger/Twinblade), [Cursed Flames](Cursed_Flames.md) (Sword), [Silas's Cenotaph](<Silas's_Cenotaph.md>) (Greatsword),
 -   **New Equipment**: [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md), [Hunter's Chapeau](<Hunter's_Chapeau.md>), [Wispfire Beacon](Wispfire_Beacon.md), [Pilferer's Trophy](<Pilferer's_Trophy.md>), [Eyes of the Moppet](Eyes_of_the_Moppet.md), [Stitched Effigy](Stitched_Effigy.md), [Coffin Earrings](Coffin_Earrings.md), [Pumpkin Earrings](Pumpkin_Earrings.md), [Crooked Witch Hat](Crooked_Witch_Hat.md), [Mask of Phantoms](Mask_of_Phantoms.md)
 -   **New Schematics**: [Familiar Vagrant's Armor](<Familiar_Vagrant's_Armor.md>), [Familiar Sage's Armor](<Familiar_Sage's_Armor.md>), [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>)
 
@@ -91,7 +91,7 @@ The fifth Hallowtide added...
 
 Main article: [Joy](Joy.md)
 
--   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in [1 Shell Stock, 1 Paperette, and 1 Fine Ink](Hallowtide_Mask_Ingredients.md)), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 40 joy for completing the Trial of the Gourdskipper, Getting 3 each wave and 16 at the final wave.
+-   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in [1 Shell Stock, 1 Paperette, and 1 Fine Ink](Hallowtide_Mask_Ingredients.md)), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 24 joy for completing the Trial of the Gourdskipper, Getting 2 each wave and 10 at the final wave.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), [Evengarde Rest](Evengarde_Rest.md), and many others have unique interactions when you attempt to scare them.
 

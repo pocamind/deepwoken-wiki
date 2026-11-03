@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 232141
+revid: 232954
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Legendary Weapons, Reforged Weapons]
@@ -21,7 +21,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Swords, Katan
 | attack duration | 0.6s |
 | penetration | 5% |
 | chip damage | 25% |
-| talent | Phantom - After landing your critical, for the next 6 seconds your next basic bypasses block, whilst also granting 0.02 additional swingspeed for its duration. [45 second CD] |
+| talent | Phantom - After landing your critical, for the next 6 seconds your next basic attack bypasses block, whilst also granting 0.02 additional swingspeed for its duration. [45 second CD] |
 | special effect | Benefits from the Poser's Ring. |
 | m.equip | No |
 | m.extract | No |
@@ -44,7 +44,9 @@ The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [
 
 Equipping the Withered Phantomcleave grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Upon landing a critical attack, activate [**Phantom**](Talents.md#phantom), allowing your next M1 within 6 seconds to bypass your opponent's block entirely, applying shaky block. This Talent has a 45 second cooldown.
+Upon landing a critical attack, activate [**Phantom**](Talents.md#phantom), allowing your next M1 within 6 seconds to bypass your opponent's block entirely, applying shaky block and dealing full damage. Also, gain +0.02x swing speed for the full 6 seconds. This Talent has a 45 second cooldown, going on cooldown when your critical lands or if it is parried.
+
+If your critical is parried, this Talent will go on cooldown without providing any benefits.
 
 ## Critical
 

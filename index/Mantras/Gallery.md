@@ -8040,7 +8040,7 @@ Charisma Mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 **Support Mantra**
 
-_Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal +10% more damage._
+_Applies **[Taunted](../Status_Effects.md#taunt)** to those around you. Draws aggression towards you._
 
  | 
 
@@ -8048,7 +8048,7 @@ _Taunt those around you, causing them to be unable to jump and to take 20% more 
 
   
 **Support Mantra**  
-_Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal +10% more damage._
+_Applies **[Taunted](../Status_Effects.md#taunt)** to those around you. Draws aggression towards you._
 
  |
 | 
@@ -8066,7 +8066,7 @@ N/A
  |
 | 
 
-**Effect:** _User taunts their opponent, signified by red particles._
+**Effect:** _User taunts their opponent, signified by red particles. Affected targets deal 10% more damage, but attacks against them deal 20% more damage._
 
 -   Inflicts Taunt for 11/12/13/14/15 seconds per level.
 -   Affected entities receive 20% more damage, but deal 10% more damage to the caster.
@@ -8075,7 +8075,7 @@ N/A
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the [Off your Game](../Talents.md#off-your-game) Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the [Oh the Irony](../Talents.md#oh-the-irony) Talent, which doubles the amount of [metal rods](../Ironsing.md) applied to Taunted enemies.
--   Taunt's duration will be increased by 8 seconds if you have the Throat [Food Buff](../Status_Effects.md#food-buff).
+-   Taunt's duration will be increased by 8 seconds if you have the [Throat Food Buff](../Status_Effects.md#throat-food-buff).
 -   Using Taunt on any humanoid [boss](../Bosses.md) (excluding [Titus](../Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
 
  |

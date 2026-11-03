@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 229447
+revid: 232968
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adept Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits of The Summer Company]

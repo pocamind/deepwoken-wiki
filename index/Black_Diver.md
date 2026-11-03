@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 231929
+revid: 232860
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, The Divers]
@@ -41,7 +41,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 2600 durability and grants +30% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20% Lightning resistance [ResistanceThundercall](Thundercall.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +16 Sanity [IconSanity](Insanity.md), and +50% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistancePhysical, 44% Thundercall [ResistanceThundercall](Thundercall.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 30% Physical ResistancePhysical, 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), 44% Thundercall [ResistanceThundercall](Thundercall.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
 
 ## Trivia
 

@@ -1,9 +1,11 @@
 ---
 title: Suspicious Skeleton
-revid: 224958
+revid: 232926
 source: https://deepwoken.fandom.com/wiki/Suspicious_Skeleton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Hallowtide, NPCs located in The Floating Keep]
+categories: [Cut Content, NPCs, Hallowtide, NPCs located in The Floating Keep]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Suspicious Skeleton

@@ -218,7 +218,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
     -   Grants a **very** large increase to the AoE of your Pressure Blast.
 
--   Camaraderie: [Canorian Axe](../Canorian_Axe.md) & [Alloyed Canorian Axe](../Canorian_Axe.md) - Landing a critical attack reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. \[1 sec CD\]
+-   Camaraderie: [Canorian Axe](../Canorian_Axe.md) & [Alloyed Canorian Axe](../Canorian_Axe.md) - Landing a critical attack, uppercut or flourish reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. \[5 sec CD\]
 
 -   Careful Stance: [Apprentice Rapier](../Apprentice_Rapier.md) - Gain a bit more autoparry frames on successful parries.
 
@@ -326,8 +326,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Pastry Platter: [The Pastry Paster](../The_Pastry_Paster.md) - Guardbreaking your opponent with a critical attack gives you a random non-boss food buff for 30 seconds.
     -   This cannot give the [Brain](../Status_Effects.md#brain), [Scale](../Status_Effects.md#scale), [Strength](../Status_Effects.md#strength), or [Throat](../Status_Effects.md#throat) food buffs.
 
--   Phantom: [Withered Phantomcleave](../Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
-    -   Grants a small swing speed boost while active.
+-   Phantom: [Withered Phantomcleave](../Withered_Phantomcleave.md) - After landing your critical, for the next 6 seconds, your next basic attack bypasses block, whilst also granting 0.02 additional swingspeed for the duration. \[45 second CD\]
+    -   Also triggers if your critical is dodged. If your critical is blocked, nothing will happen. If your critical is parried, then this Talent will go on cooldown without providing any benefits.
+    -   When bypassing an opponent's block, your attack quite literally phases their their block and hits them directly, applying hitstun and [Shaky Block](../Combat_Mechanics.md#posture) while dealing the full damage. This is **not** 100% Chip Damage.
 
 -   Pierce Through: [Ritual Spear](../Ritual_Spear.md) & [Ritual Sacrifice](../Ritual_Sacrifice.md) - Remove the autoparry frames the first hit of your base spear critical has.
     -   The **default** spear critical no longer gets canceled if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 229101
+revid: 232973
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters, Mechanics]
@@ -40,7 +40,7 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 #### Attunement Types/Effects
 
--   Flamewreathed - Applies [Burn](Status_Effects.md#burn) on hit, can additionally proc [Lava Serpent](Talents.md#lava-serpent) effects. Weak to [Galebreathe](Galebreathe.md), resists [Flamecharm](Flamecharm.md).
+-   Flamewreathed - Applies [Sticky Burn](Status_Effects.md#burn) on hit, can additionally proc [Lava Serpent](Talents.md#lava-serpent) effects. Weak to [Galebreathe](Galebreathe.md), resists [Flamecharm](Flamecharm.md).
 -   Frostmantle - Places Ice and applies [Chill](Status_Effects.md#chill) on hit. Weak to [Flamecharm](Flamecharm.md), resists [Frostdraw](Frostdraw.md).
 -   Galeforce - Applies [Winded](Status_Effects.md#winded) and/or [Suffocation](Status_Effects.md#suffocate) on hit, deals Extra Knockback, and has Increased Movement Speed. Weak to [Thundercall](Thundercall.md), resists [Galebreathe](Galebreathe.md)
 -   Thunderstruck - Applies [Shock](Status_Effects.md#shock) on hit. Weak to [Frostdraw](Frostdraw.md), resists [Thundercall](Thundercall.md)

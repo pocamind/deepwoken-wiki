@@ -165,7 +165,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This can also be used after landing most [Silentheart](../Oath%253A_Silentheart.md) abilities.
     -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](../Talents.md#counter-spin).
     -   Prerequisites: [Staff](../Staves.md) equipped, 30 Medium Weapon
-        -   The [Imperial Staff](../Imperial_Staff.md) also provides this Talent.
 
 -   Counter Spin \[Common Talent, Medium Weapon\] - Staffs After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust the back-end of your Staff forwards, dealing 45% of your weapon's damage on hit.
@@ -225,9 +224,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 70 Agility, [Adrenaline Surge](../Attunement-less.md#adrenaline-surge) (Mantra)
         -   The [Vigil Sentinel](../Vigil_Sentinel.md) Outfit has this Talent
 
--   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent and procs **[Sluggish](../Status_Effects.md#sluggish)** on PvE. (+1 Passive Agility)
+-   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical applies **[Grounded](../Status_Effects.md#grounded)**, and slows your opponent. In PvE, additionally apply **[Sluggish](../Status_Effects.md#sluggish)** on activation. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
-    -   Makes the opponent unable to jump for 4 seconds.
+    -   Makes the opponent unable to jump for 4 seconds via the Grounded status effect.
     -   Upon being applied to an opponent, they gain Bear Trap immunity for 6 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 20 Strength, 20 Agility
@@ -364,14 +363,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Whisper
 
--   Haunted Gale \[Common Talent, Agility\] - Landing 3 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
+-   Haunted Gale \[Common Talent, Agility\] - Landing 4 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
     -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra. Only one Ghost can spawn per Mantra.
         -   [Gale Wisp](../Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
     -   Haunted Gale Ghosts have 15 base damage with 5 Galebreathe scaling.
     -   Haunted Gale stacks are counted **per person**, not globally.
     -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
         -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
-    -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, there is no whiff condition; even if your Mantra gets parried, blocked, dodged, or entirely misses, it will not count as a "whiff".
+    -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, you will only ever lose 1 stack upon one of your Mantras being parried.
     -   Prerequisites: 40 Galebreathe, [Power](../Power.md) 8
 
 ### Withered Flame

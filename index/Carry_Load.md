@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 213345
+revid: 232932
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -46,7 +46,7 @@ In order of carry load given:
     -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load, but is inferior to the Grand Pathfinder's Backpack.
 -   The [Packmule](Boons_and_Flaws.md#packmule) Boon gives 50 carry load.
 -   [Strength](Attributes.md#str) increases your carry load by 0.5 for every point of Strength you get. Caps at +50 carry load at 100 Strength.
--   [Fortitude](Attributes.md#ftd) increases your carry load by 0.5 for every point of fortitude you get. Caps at +50 carry load at 100 Fortitude.
+-   [Fortitude](Attributes.md#ftd) increases your carry load by 0.5 for every point of Fortitude you get. Caps at +50 carry load at 100 Fortitude.
 -   The [base character](Character_Stats.md#carry-load) starts off with 100 carry load.
 
 All of these miscellaneous sources combined would theoretically provide 360 carry load.
