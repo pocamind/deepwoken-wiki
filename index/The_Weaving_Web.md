@@ -30,7 +30,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Glaive Spellhardt [100 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Aww, look at the little guy though!... |
 
 ## Description

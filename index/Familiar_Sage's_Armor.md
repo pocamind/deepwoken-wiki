@@ -1,6 +1,6 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 232854
+revid: 233049
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talen
 | resistances | +25% Physical Armor , +25% Elemental Armor , +10% Lightning Armor |
 | buffs | +50% Ether Regen |
 | talents | Lightning Drop |
-| obtainment | Glaive Spellhardt [35 Joy], Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 

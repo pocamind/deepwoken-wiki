@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], Glaive Spellhardt [100 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Born from a twisted experiment by the enigmatic lightborn [sic] smiths of the floating keep [sic], the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction. |
 
 ## Description

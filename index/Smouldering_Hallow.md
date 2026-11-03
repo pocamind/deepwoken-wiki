@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Glaive Spellhardt [100 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Imbued with twisted roots of Ardfall, this cannon is unlike any other. Forged by the smiths of the Floating Keep, its festive gourds unleash devastating cheer. You can't help but grin a little inside when you fire it. |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: "Harvestman's Halo"
-revid: 232678
+revid: 233067
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Halo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Equipment with Styles, Equipment, Head, Hallowtide, Equipment with Talents, Equipment with Exclusive Talents, Event Item]
+categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with Talents, Equipment with Exclusive Talents, Event Item]
 ---
 
 # Harvestman's Halo

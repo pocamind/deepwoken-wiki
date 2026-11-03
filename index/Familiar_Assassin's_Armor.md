@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 232440
+revid: 233074
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits 
 | resistances | +25% Physical Armor +25% Elemental Armor |
 | buffs | +50% Stealth +20% Ether Regen |
 | talents | Bane |
-| obtainment | Glaive Spellhardt [35 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '25 Hallowtide Medal [3 Knowledge], Lysander Spellhardt [35 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -41,10 +41,10 @@ This Outfit has 2000 durability and grants +25% Physical resistance ResistancePh
 
 The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, grants a speed boost and allows you to teleport to your opponent in radius of 25 studs when using M1s, for 20 seconds. This has a cooldown of 100 seconds.
 
-## Trivia/Notes
+## Trivia
 
 -   This outfit is based on Rogue Lineage's [Faceless One](https://rogue-lineage.fandom.com/wiki/Faceless_One) armor, the Night Lord's outfit.
 -   The Bane talent is based on the Bane ability from the [Assassin](https://rogue-lineage.fandom.com/wiki/Assassin) class in Rogue Lineage. Unlike its Deepwoken counterpart, this ability only works on daggers.
     -   It also feature the Agility skill sound effect at first, which boosted movement speed and attack speed. The Agility + Bane combo was often used.
--   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the Feburary 25th, 2026 update. The emerald requirement was a reference to the Faceless One class obtainment in Rogue Lineage, where players had to give Shadow, the Faceless Trainer an emerald as a prerequisite to obtain the class.
+-   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the [Feburary 25th, 2026](Version_History/2026.md#feburary-25th-2026) update. The emerald requirement was a reference to the Faceless One class obtainment in Rogue Lineage, where players had to give Shadow, the Faceless Trainer an emerald as a prerequisite to obtain the class.
 -   Initially on release, this outfit had a staggering 5000% stealth, however it was quickly toned down to 50%.

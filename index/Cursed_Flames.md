@@ -1,6 +1,6 @@
 ---
 title: Cursed Flames
-revid: 232893
+revid: 233021
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
@@ -38,19 +38,32 @@ notices:
 
 ## Description
 
-The Cursed Flames is a weapon that is entirely conjured out of purple [Flamecharm](Flamecharm.md) energy.
+The Cursed Flames is a [Sword](Swords.md) that is entirely conjured out of purple [Flamecharm](Flamecharm.md) energy.
+
+This weapon comes with a passive ability:
+
+-   **Flaming Structure** - Basic attacks with this weapon apply [Cursed Burn](Status_Effects.md#cursed-burn).
 
 ## Talents
 
 Equipping the Cursed Flames grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Accursed Flame**](Talents.md#accursed-flame) changes your uppercut and flourish attacks. On uppercut, fire a purple fireball in front of you, applying [Cursed Burn](Status_Effects.md#cursed-burn) if it lands. On aerial attack, launch purple projectiles diagonally downwards, applying [Cursed Burn](Status_Effects.md#cursed-burn) if they land.
+[**Accursed Flame**](Talents.md#accursed-flame) changes your Uppercut and Aerial Attacks:
+
+-   On Uppercut, the user performs an upperhand slash and fires a purple fireball, applying [Burn](Status_Effects.md#burn) if it lands. This adds a 8 second cooldown to your Uppercut and removes the uptilt.
+-   On Aerial Attack, the user leaps backwards and unleashes a wide slash, applying [Cursed Burn](Status_Effects.md#cursed-burn) to targets in its radius. This adds a 6 second cooldown to your Aerial Attack.
 
 However, wielding this weapon triples the cooldown of all your Mantras.
+
+## Critical
+
+The user steadies the sword before unleashing a diagonal strike, applying [Cursed Burn](Status_Effects.md#cursed-burn) to the target.
+
+The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
 -   The Cursed Burn modifier deals 2.5x the damage of base Burn.
 -   This weapon has the same description as the [Hero's Blade of Flame](<Hero's_Blade_of_Flame.md>).
--   Because this weapon's model is entirely made up of fire VFX, it has no model the item held.
+-   Because this weapon is primarily made of VFX, there is no model when this item is held.
 -   Attempting to equip the Cursed Flames on a [Silentheart](Oath%253A_Silentheart.md) will prompt the message: "The Harvestman's flames reject you and your petty mortal Vows."

@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 232439
+revid: 233072
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Hallowtide]
@@ -20,7 +20,7 @@ categories: [Head, Helmets, Equipment, Event Item, Hallowtide]
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [50 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '23 Hallowtide Medal [3 Knowledge], Lysander Spellhardt [50 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Just make sure you still have a head after you take it off. |
 
 ## Description

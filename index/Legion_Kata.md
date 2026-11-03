@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 230346
+revid: 232998
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -31,9 +31,11 @@ categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapo
 | obtainment | Obtain a recommendation from the Legion Captain battling the Authority in Starswept Valley or Upper Erisia., Turn in the recommendation to Amara. |
 | description | Weapon, TalentThe legendary martial arts style of the Legion. Emphasises the sweeping motions of wind.Adopt the fighting stance of the Legion Kata. |
 
+Variants: [Fang and Coil](Fang_and_Coil.md) · [Imperium Kata](Imperium_Kata.md) · [Infected](Infected.md) · [Jus Karita](Jus_Karita.md) · [Untrained Fist](Untrained_Fist.md) · [Way of Navae](Way_of_Navae.md)
+
 ## Description
 
-Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a [Legion Captain](Legion_Captain.md) with high positive reputation with the [Hundred Legions](The_Hundred_Legions.md) in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md).
+Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a [Legion Captain](Legion_Captain.md) with high positive reputation with [The Hundred Legions](The_Hundred_Legions.md) in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md).
 
 While Legion Kata has the same damage as other [Fist Styles](Fists.md#styles), the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
 
@@ -49,9 +51,9 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 To obtain it, you must gain Friend reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](The_Starswept_Valley.md).
 
-Alternatively, you can do the [legion scout quest](Quests.md#lars). This way you will gain enough reputation.
+Alternatively, you can do the [Legion Scout quest](Quests.md#lars). This way you will gain enough reputation.
 
-Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](The_Starswept_Valley.md) to obtain the Captain's Rec item, the Legion Captain spawn is somewhat uncommon.
+Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](The_Starswept_Valley.md) to obtain the [Captain's Rec](<Captain's_Rec.md>) item, the Legion Captain spawn is somewhat uncommon.
 
 **DO NOT CLICK ON THE ITEM WHILE HOLDING IT. YOU WILL CONSUME IT AND HAVE TO RE-OBTAIN IT.**
 

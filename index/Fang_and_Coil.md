@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 230384
+revid: 232992
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -29,6 +29,8 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multip
 | pass down | No |
 | obtainment | Kill the Doom of Caeranthil, Have 20 LHT and ally reputation with Etrea, Talk to Vesque |
 | description | Weapon, TalentThe serpentine martial arts of Etrea.Adopt the path of the serpent. |
+
+Variants: [Imperium Kata](Imperium_Kata.md) · [Infected](Infected.md) · [Jus Karita](Jus_Karita.md) · [Legion Kata](Legion_Kata.md) · [Untrained Fist](Untrained_Fist.md) · [Way of Navae](Way_of_Navae.md)
 
 ## Description
 

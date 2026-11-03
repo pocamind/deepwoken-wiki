@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 232863
+revid: 232989
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, The Ignition Union, Outfits with Talents, Outfits with Exclusive Talents]
@@ -53,7 +53,7 @@ Visually, an unparryable attack that is parried will cause steam and heat to rel
 -   Combining this outfit with the Metal [enchant](Enchantments.md) (steal/replenish armor durability on hit) allows you to essentially negate the durability cost of the Talent.
     -   Having multiple means of increasing armor replenishment or durability like Bloodiron Spirit, Armor Conserver, the [Steadfast](Boons_and_Flaws.md#steadfast) Boon, [Armorer's Ring](<Armorer's_Ring.md>), etc. can keep armor up in The Diluvian Mechanism or other mob-heavy areas.
 -   There are some attacks that cannot be parried even with Deepdelver on. These include (not exhaustive):
-    -   **Pillars of Erisia** ([Duke Erisia](Duke_Ishamon_Erisia.md))
+    -   **Pillars of Erisia** ([Duke Ishamon Erisia](Duke_Ishamon_Erisia.md))
     -   **Cero** ([Lionfish](Lionfish.md)/[Glacial Lionfish](Glacial_Lionfish.md)/[Prime Megalodaunt](Prime_Megalodaunt.md)/[Exotic Megalodaunt](Exotic_Megalodaunt.md))
     -   **Golem Lasers** ([Rock Golem](Rock_Golem.md)/[Golem Prime](Golem_Prime.md))
     -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks

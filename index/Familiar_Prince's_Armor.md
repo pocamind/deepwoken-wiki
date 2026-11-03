@@ -1,6 +1,6 @@
 ---
 title: "Familiar Prince's Armor"
-revid: 232833
+revid: 233054
 source: https://deepwoken.fandom.com/wiki/Familiar_Prince's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -20,7 +20,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talen
 | durability | 3250 |
 | resistances | +35% Physical Armor , +35% Elemental Armor |
 | talents | Light Piercer |
-| obtainment | Glaive Spellhardt [35 Joy], Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -38,11 +38,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 3250 durability and grants +35% Physical resistance ResistancePhysical, and +35% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Light Piercer](Talents.md#light-piercer) Talent.
 
-The [Light Piercer](Talents.md#light-piercer) Talent grants an active Talent tool that only can be activated while wielding a [Spear](Iron_Spear.md). On use, this shoots out 3 light spear projectiles that pierce through your opponent and their block, dealing 10 physical damage per hit any bypassing block.
+The [Light Piercer](Talents.md#light-piercer) Talent grants an active Talent tool that only can be activated while wielding a [Spear](Iron_Spear.md). On use, this shoots out 3 light spear projectiles that pierce through your opponent, and their block.
 
-This has a 0.3s windup with an 8 second cooldown. The spears can travel into 160 studs before dissapating.
+Upon landing, they deal 10 physical damage per hit (3) and pierce through the target, continuing along their trajectory until parried or they reach their maximum distance of 160 studs. These have 100% chip damage. This has a 0.3s windup with a 10 second cooldown.
 
-Additionally, while using the **Familiar Prince's Armor**, all passive regeneration is increased by 10%.
+Additionally, while using the **Familiar Prince's Armor**, all passive regeneration is increased by 10%, multiplicatively.
 
 ## Trivia
 

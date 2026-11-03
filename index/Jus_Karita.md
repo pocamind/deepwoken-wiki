@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 231611
+revid: 232991
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Justicars, Jus Karita Weapons]
@@ -32,11 +32,13 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Justicars, Jus Kari
 | obtainment | Step 1: Get 40 LHT, and Power 5., Step 2: Talk to Polis at Etris. |
 | description | The traditional martial arts style of the Justicars. |
 
+Variants: [Fang and Coil](Fang_and_Coil.md) · [Imperium Kata](Imperium_Kata.md) · [Infected](Infected.md) · [Legion Kata](Legion_Kata.md) · [Untrained Fist](Untrained_Fist.md) · [Way of Navae](Way_of_Navae.md)
+
 ## Description
 
 Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md) or as a [Starting Weapon](Character_Creation.md) if previously unlocked. Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat.
 
-Jus Karita is unpopular due to it having worse damage compared to the other fighting styles, which also surpass it in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its unique Mantras [Karita Leap](Attunement-less.md#karita-leap), [Karita Divebomb](Attunement-less.md#karita-divebomb), and [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick). In addition, the [Justicar](<Justicar_(Origin).md>) armor Talent [The Path, Unveiled](Talents.md#the-path-unveiled) gives it a 10% damage boost, surpassing the other fist style armor Talents in strength.
+Jus Karita is unpopular due to it having worse damage compared to the other fighting styles, which also surpass it in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its unique Mantras [Karita Leap](Attunement-less.md#karita-leap), [Karita Divebomb](Attunement-less.md#karita-divebomb), and [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick). In addition, the [Justicar](<Justicar_(Origin).md>) Outfit Talent [The Path, Unveiled](Talents.md#the-path-unveiled) gives it a 10% damage boost, surpassing the other fist style Outfit Talents in strength.
 
 Being considered a "Kick Style" rather than a [Fist Style](Fists.md), you **cannot** cycle between it and other fist styles you've obtained, and it will not trigger fist style talents. Jus Karita however, does get its own set of talents dedicated to it.
 

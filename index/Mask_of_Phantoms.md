@@ -1,11 +1,9 @@
 ---
 title: Mask of Phantoms
-revid: 232921
+revid: 233069
 source: https://deepwoken.fandom.com/wiki/Mask_of_Phantoms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Event Only Content, Equipment, Face, Masks]
-notices:
-  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
+categories: [Equipment with Styles, Hallowtide, Event Item, Equipment, Face, Masks]
 ---
 
 # Mask of Phantoms

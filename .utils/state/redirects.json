@@ -5152,6 +5152,9 @@
   "Turrets": {
     "to": "Guard Turrets"
   },
+  "Twinblade": {
+    "to": "Twinblades"
+  },
   "Twincleave": {
     "to": "Attunement-less",
     "fragment": "Twincleave"

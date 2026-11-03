@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 232693
+revid: 233010
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -105,7 +105,7 @@ Burn has a few sub-types, listed below.
     -   Puppet Burn: Derived from any non-Shadowcast burn applicator, this burn type deals 87.5% less damage than base burn. Uniquely, this burn type will spawn Puppets with a 4 second cooldown.
     -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn.
 -   Sanguine Blaze - Upon coming into contact with [Black Blood](#black-blood), an explosion will be triggered. This burn type is hot pink and comes from the [Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze) Attunement Path.
--   Sicky Burn: The applied burn **cannot** be removed by rolling or sliding for a set duration, with said duration depending on the attack that applied it. Because burn cannot be applied to an already burning target, this can be a great way to prevent other burn effects from taking hold if leveraged. This does not have a unique color.
+-   Sticky Burn: The applied burn **cannot** be removed by rolling or sliding for a set duration, with said duration depending on the attack that applied it. Because burn cannot be applied to an already burning target, this can be a great way to prevent other burn effects from taking hold if leveraged. This does not have a unique color.
     -   Sources: [Corrupt Shard Bow](Shard_Bow.md) (3s, also applies to self), [Flame Within](Talents.md#flame-within) Talent (30s, self only), [Sticky Flames](Talents.md#sticky-flames) Talent (3s), [Flamewreathed Monster](Monsters.md#attuned-monsters) attacks.
 -   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn. This burn type is green.
 

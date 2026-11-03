@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 232927
+revid: 233006
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ Galebreathe also has [Talents](Talents.md) attributed to it as well, allowing th
 
 ## Obtainment
 
-The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained by giving [Friid](Friid,_Master_of_Gale.md), the Galebreathe trainer located at the [Isle of Vigils](Isle_of_Vigils.md), two [Gale Stones](Gale_Stone.md). Alternatively, you can simply select Galebreathe as your Attunement in Character Creation.
+The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained by giving Friid, the Galebreathe trainer located at the [Isle of Vigils](Isle_of_Vigils.md), two [Gale Stones](Gale_Stone.md). Alternatively, you can simply select Galebreathe as your Attunement in Character Creation.
 
 ## Training
 

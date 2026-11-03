@@ -1,6 +1,6 @@
 ---
 title: Corvus Manor
-revid: 232789
+revid: 233086
 source: https://deepwoken.fandom.com/wiki/Corvus_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Stub pages without reason, StubPages, Locations]

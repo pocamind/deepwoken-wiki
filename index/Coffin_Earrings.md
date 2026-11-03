@@ -1,11 +1,9 @@
 ---
 title: Coffin Earrings
-revid: 232890
+revid: 233058
 source: https://deepwoken.fandom.com/wiki/Coffin_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Hallowtide, Ears, Equipment, Event Item, Earrings]
-notices:
-  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
+categories: [Hallowtide, Ears, Equipment, Event Item, Earrings]
 ---
 
 # Coffin Earrings

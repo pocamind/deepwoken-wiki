@@ -1,6 +1,6 @@
 ---
 title: Eyes of the Moppet
-revid: 232831
+revid: 233059
 source: https://deepwoken.fandom.com/wiki/Eyes_of_the_Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Hallowtide, Face, Equipment, Event Item]

@@ -1,6 +1,6 @@
 ---
 title: Stitched Effigy
-revid: 232972
+revid: 233020
 source: https://deepwoken.fandom.com/wiki/Stitched_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Face, Equipment, Event Item]

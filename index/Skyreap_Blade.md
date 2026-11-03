@@ -31,7 +31,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Glaive Spellhardt [100 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves. |
 
 ## Description

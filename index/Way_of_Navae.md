@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 222886
+revid: 232988
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons of The Children of Navae]
@@ -30,6 +30,8 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons of The Chil
 | pass down | No |
 | obtainment | Find a Navaen Nomad., Turn it in to Eastern Camp Master, Eastern Nomad Leader, or Beiruul.OR, Have high positive reputation with The Children of Navae., Speak to a Eastern Nomad Leader. |
 | description | Weapon, TalentThe mysterious martial arts style of the Children of Navae. Each strike is said to be dedicated to a different constellation.Adopt the fighting stance of the Way of Navae. |
+
+Variants: [Fang and Coil](Fang_and_Coil.md) · [Imperium Kata](Imperium_Kata.md) · [Infected](Infected.md) · [Jus Karita](Jus_Karita.md) · [Legion Kata](Legion_Kata.md) · [Untrained Fist](Untrained_Fist.md)
 
 ## Description
 

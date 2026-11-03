@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 227936
+revid: 233000
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons, The Hundred Legions]
@@ -30,6 +30,8 @@ categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals"
 | pass down | No |
 | obtainment | Defeat Titus Fulminus Destellus and speak to him, Speak to Caitus |
 | description | Weapon, TalentThe legendary martial arts style of the Legion. Emphasises the sweeping motions of wind.Wield an advanced form of the Legion's martial arts. |
+
+Variants: [Fang and Coil](Fang_and_Coil.md) · [Infected](Infected.md) · [Jus Karita](Jus_Karita.md) · [Legion Kata](Legion_Kata.md) · [Untrained Fist](Untrained_Fist.md) · [Way of Navae](Way_of_Navae.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Harvestman's Cloak"
-revid: 232856
+revid: 233065
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
@@ -23,7 +23,7 @@ categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equ
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Harvestman |
-| description | ... |
+| description | According to the various folk beliefs of Lumen, to ensure a successful harvest, a farmer must offer their prayer to an effigy of the Harvestman. Made from dried straws of Ichorgrass, it is said that on rare occasion, these effigies can come to life - a true blessing from the Harvestman himself. |
 
 Harvestman Set
 
@@ -35,6 +35,6 @@ The Harvestman's Cloak is an [Equipment](Equipment.md) item under the "Torso" ca
 
 The [Cursed Pumpkin](Talents.md#cursed-pumpkin) Talent doubles the damage of the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra.
 
-## Trivia / Notes
+## Trivia
 
--   The [Cursed Pumpkin](Talents.md#cursed-pumpkin) Talent does NOT work in [The Harvest Ritual](The_Harvest_Ritual.md), meaning it does not apply the x2 damage for your pumpkins.
+-   The [Cursed Pumpkin](Talents.md#cursed-pumpkin) Talent does NOT work in [The Harvest Ritual](The_Harvest_Ritual.md), meaning it does not apply the x2 damage to [The Harvestman](The_Harvestman.md).

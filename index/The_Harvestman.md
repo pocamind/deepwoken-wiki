@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 232979
+revid: 232999
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
@@ -24,7 +24,7 @@ notices:
 
 ## Description
 
-The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in [The Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md). They are a towering scarecrow wearing a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. The Harvestman's head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms that are primarily used in combat.
+The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in [The Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md). He is a towering scarecrow made from dried straws of Ichorgrass[\[1\]](#cite-note-1), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms that are primarily used in combat.
 
 Unlike all bosses, this boss involves a unique gimmick where the player is **only** allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. This boss is intended to be fought like a bullet hell, where the only way to avoid attacks is to move around them.
 
@@ -33,7 +33,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 | Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-**Resurrection**  
+**Ichorgrass Influence**  
 (☆☆☆)
 
  | The Harvestman removes itself off of the wooden post before ascending to the air.
@@ -54,11 +54,11 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 **Accursed Flames: Ritual**  
 (★☆☆)
 
- | The Harvestman raises his right hand and quickly points to the ground right after, summoning up to 4 geysers of purple flames in the field. Which can perform either of the following attacks:
+ | The Harvestman raises his right hand and quickly points to the ground right after, summoning several geysers of purple flames in the field. Which can perform either of the following attacks:
 
 -   A volley of multiple purple fireballs that shoot in various directions.
 -   A wave of purple flames that move across the area.
--   A flame that slowly pulls targets towards it.
+-   A flame that slowly pulls targets towards it. Uniquely, this flame has darker accents.
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -94,7 +94,8 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 -   This move has 3 separate variants:
     -   A row of purple flames that consecutively follow up with one another.
     -   A rapid delivery of multiple, lined purple flames.
-    -   A combination of the former two variants, which are uniquely darker.
+    -   A set of purple flames arranged in a lattice-like pattern.
+        -   A weaker version of this variant is used during **The Harvestman's Culling**.
 -   This move is used much faster during his second phase.
 
 -   ⚠︎ Unparryable
@@ -109,7 +110,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 | 
 
 **The Harvestman's Culling**  
-(★★★★★)
+(★★★)
 
  | The Harvestman manifests a massive beam infused with purple flames and rotates around, dealing gargantuan amounts of damage to those hit.
 
@@ -191,3 +192,7 @@ The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfi
 -   Many of the boss's attacks are based off of The Devourer of Gods from the _Terraria_ Calamity Mod.
 -   The Harvestman's halo has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name", a phrase that was shown in the Hallowtide 2026 trailer image.
 -   All of the Harvestman's legendary drops will always be 3 starred.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [Harvestman's Cloak](<Harvestman's_Cloak.md>) description

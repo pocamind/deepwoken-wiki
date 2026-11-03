@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 232836
+revid: 233088
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons wit
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '26 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [7 Knowledge], Glaive Spellhardt [100 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | The very tombstone of Silas Ardenstar, fashioned into a gnarly greatsword by the Spellhardt family, as a sick joke after his initial demise. His mummified, shrunken head, armed with a petrifying gaze, is now also at your disposal. The visage of the Ardenstar patriach strikes fear into the hearts of many, even in death. |
 
 ## Description
@@ -49,10 +49,12 @@ Equipping the Silas's Cenotaph grants its unique [weapon Talent](Talents.md#weap
 
 ## Critical
 
-The user displays the mummified head of Silas Ardenstar, stunning the target with fear. It is then followed up with two weighted swings. The second swing guardbreaks if blocked. Contrary to popular belief, the first hit of this critical can be both parried and blocked.
+The user displays the mummified head of Silas Ardenstar, stunning the target with fear. It is then followed up with two weighted swings. The second swing guardbreaks if blocked.
 
 This critical has a cooldown of **12 seconds**.
 
 ## Trivia
 
 -   The [Gatherhand](Gatherhand.md) Sigil appearing on the critical reads "TERRIFY - YFIRRET".
+-   Contrary to popular belief, the first hit of this critical can be both parried and blocked.
+-   Interestingly, the first hit of the critical does not proc Manipulator at all, allowing you to gain full benefit from the talent on the second hit.
