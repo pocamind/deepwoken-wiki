@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 230462
+revid: 233119
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -68,6 +68,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 
 #### Unique
 
+-   "AAAAAAAAAAHHHHHHHHHHHahahahahaaaa!!! So Spooky! Spooky Spooky... Not spooky enough!" ([Knell](Knell,_The_Lunatic_Resonator.md))
 -   "...And to all - a good fright!" ([Brasidas Spellhardt](Brasidas_Spellhardt.md))
 -   "A valiant effort... but no." ([Warden Jericho](Warden_Jericho.md))
 -   "Dress up as a salad and maybe then you'll get a reaction from me." ([The Meat Lord](The_Meat_Lord.md))
@@ -99,6 +100,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   After the event is over, the Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless.
 -   Certain special NPCs are unable to be spooked and instead give special dialogue. The list of characters that do this are as follows:
     -   [The Lord Regent](The_Lord_Regent.md)
+    -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md)
     -   [Evengarde Rest](Evengarde_Rest.md)
     -   [Polis](Polis.md)
     -   [The Meat Lord](The_Meat_Lord.md)

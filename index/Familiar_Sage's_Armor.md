@@ -1,6 +1,6 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 233049
+revid: 233118
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -48,7 +48,8 @@ The [Lightning Drop](Talents.md#lightning-drop) Talent grants a Talent tool that
 -   This outfit is based on Rogue's Lineage's [Dragon Sage's](https://rogue-lineage.fandom.com/wiki/Dragon_Sage) armor, the Dragon Sage Armor.
     -   Unlike the Rogue Lineage's variant which is orange, the one used in Deepwoken is blue.
 -   Lightning Drop is an ability of Dragon Sage in Rogue Lineage, similarly allowing them to strike down when high enough in the air, dealing damage around them and cancelling fall damage.
-    -   It also has a second variant, when used while grounded or not high enough in the air. This variant does not perform the attack but grants a few seconds of fall damage negation, this will make the ability go on a 10 seconds cooldown.
-    -   You Take fall damage during cast
-    -   Will Fail if used to high up
+    -   It also can be used when while grounded or not high enough in the air. This variant does not perform the attack and doesn't do anything, this will make the ability go on a 10 seconds cooldown.
+    -   You sometimes take fall damage during cast
+    -   Will sometimes fail for no reason
     -   Using any ability that makes you take fall damage (Such as rolling, dash, swinging mid air, etc) will reset the distance you fell to 0.
+    -   Despite the damage capping out at 66.08, it can still be increased by damage modifiers.

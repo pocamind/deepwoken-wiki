@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 232525
+revid: 233104
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages transcluding nonexistent sections, Mantras, Character, Attunement, Mechanics]
@@ -46,6 +46,216 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Cauterize** (☆☆☆)
+
+**Combat Mantra**
+
+_Lunge and grab your foe. Their Black Blood is ignited if they have it, and inflicted if they don't._
+
+ | 
+
+## Cauterize (☆☆☆)
+
+  
+**Combat Mantra**  
+_Lunge and grab your foe. Their Black Blood is ignited if they have it, and inflicted if they don't._
+
+ |
+| 
+
+?
+
+ | 
+
+?
+
+ | 
+
+[Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Combustion Tide** (☆☆☆)
+
+**Combat Mantra**
+
+_Send out a tide of blood that drags foes along with it, then bursts into fire and ignites their Black Blood._
+
+ | 
+
+## Combustion Tide (☆☆☆)
+
+  
+**Combat Mantra**  
+_Send out a tide of blood that drags foes along with it, then bursts into fire and ignites their Black Blood._
+
+ |
+| 
+
+?
+
+ | 
+
+?
+
+ | 
+
+[Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Flashfusion** (☆☆☆)
+
+**Combat Mantra**
+
+_Apply blood then quickly ignite it_
+
+ | 
+
+## Flashfusion (☆☆☆)
+
+  
+**Combat Mantra**  
+_Apply blood then quickly ignite it_
+
+ |
+| 
+
+?
+
+ | 
+
+?
+
+ | 
+
+[Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Infused Slash** (☆☆☆)
+
+**Combat Mantra**
+
+_Harvest the composite plasma in your opponent's blood and summon 2 daggers to slash them with._
+
+ | 
+
+## Infused Slash (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harvest the composite plasma in your opponent's blood and summon 2 daggers to slash them with._
+
+ |
+| 
+
+20 Ether [IconEther](Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Composite Path: Alloyblood](Talents.md#composite-path-alloyblood)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Rising Plasma** (☆☆☆)
+
+**Combat Mantra**
+
+_Harvest the composite plasma in your opponent's blood and summon a greataxe to slash upwards with._
+
+ | 
+
+## Rising Plasma (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harvest the composite plasma in your opponent's blood and summon a greataxe to slash upwards with._
+
+ |
+| 
+
+20 Ether [IconEther](Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Composite Path: Alloyblood](Talents.md#composite-path-alloyblood)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Spinning Serum** (☆☆☆)
+
+**Combat Mantra**
+
+_Harvest the composite plasma in your opponent's blood and summon a spear to spin with._
+
+ | 
+
+## Spinning Serum (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harvest the composite plasma in your opponent's blood and summon a spear to spin with._
+
+ |
+| 
+
+20 Ether [IconEther](Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Composite Path: Alloyblood](Talents.md#composite-path-alloyblood)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
 | 
 
 **Iron Tether** (★★☆)

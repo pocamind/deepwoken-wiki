@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 233088
+revid: 233124
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
@@ -45,7 +45,7 @@ Equipping the Silas's Cenotaph grants its unique [weapon Talent](Talents.md#weap
 
 [**Crushing Fate**](Talents.md#crushing-fate) applies knockback on every basic attack with the Cenotaph.
 
-[**Eye of Silas**](Talents.md#eye-of-silas) applies a true stun on the first hit of your Critical Attack. This stunt lasts long enough to fully confirm the second and third hits. Targets who are stunned by this will play the 'Panicking' (Tier 3) [Insanity](Insanity.md) animation.
+[**Eye of Silas**](Talents.md#eye-of-silas) applies a true stun on the first hit of your Critical Attack. This stun lasts long enough to fully confirm the second and third hits. Targets who are stunned by this will play the 'Panicking' (Tier 3) [Insanity](Insanity.md) animation.
 
 ## Critical
 

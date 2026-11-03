@@ -589,7 +589,7 @@
   },
   "1835": {
     "title": "Songseeker Wilds",
-    "lastrevid": 231562
+    "lastrevid": 233097
   },
   "1850": {
     "title": "Crustaceous Rex",
@@ -1213,7 +1213,7 @@
   },
   "3246": {
     "title": "Warden Ceremonial Sword",
-    "lastrevid": 230995
+    "lastrevid": 233110
   },
   "3248": {
     "title": "Targe",
@@ -1373,7 +1373,7 @@
   },
   "3510": {
     "title": "Relic Axe",
-    "lastrevid": 221414
+    "lastrevid": 233107
   },
   "3531": {
     "title": "Den Master",
@@ -2341,7 +2341,7 @@
   },
   "5754": {
     "title": "Kyrsglaive",
-    "lastrevid": 229786
+    "lastrevid": 233125
   },
   "5756": {
     "title": "The Path's Defender",
@@ -3685,7 +3685,7 @@
   },
   "9764": {
     "title": "Hallowtide Mask",
-    "lastrevid": 230462
+    "lastrevid": 233119
   },
   "9765": {
     "title": "Joy",
@@ -3717,7 +3717,7 @@
   },
   "9896": {
     "title": "Gourdguard",
-    "lastrevid": 232419
+    "lastrevid": 233117
   },
   "9932": {
     "title": "Bloodforged Crown",
@@ -3729,7 +3729,7 @@
   },
   "9939": {
     "title": "Seasonal Medals",
-    "lastrevid": 232848
+    "lastrevid": 233122
   },
   "9972": {
     "title": "Bloodiron Ring",
@@ -3865,7 +3865,7 @@
   },
   "10756": {
     "title": "Hybrid Abilities",
-    "lastrevid": 232525
+    "lastrevid": 233104
   },
   "10764": {
     "title": "Infamous Baz",
@@ -4277,7 +4277,7 @@
   },
   "13014": {
     "title": "Pleeksty's Inferno",
-    "lastrevid": 232669
+    "lastrevid": 233126
   },
   "13060": {
     "title": "Version History/Uncollapsed",
@@ -4805,7 +4805,7 @@
   },
   "14530": {
     "title": "Hero's Blade of Flame",
-    "lastrevid": 225475
+    "lastrevid": 233114
   },
   "14531": {
     "title": "Hero's Blade of Frost",
@@ -9129,7 +9129,7 @@
   },
   "24000": {
     "title": "Maria",
-    "lastrevid": 232070
+    "lastrevid": 233121
   },
   "24036": {
     "title": "The Inquisition",
@@ -9933,7 +9933,7 @@
   },
   "26917": {
     "title": "Mask of Phantoms",
-    "lastrevid": 233069
+    "lastrevid": 233089
   },
   "26922": {
     "title": "Corvidirge Severants",
@@ -9945,11 +9945,11 @@
   },
   "26924": {
     "title": "Silas's Cenotaph",
-    "lastrevid": 233088
+    "lastrevid": 233124
   },
   "26926": {
     "title": "The Harvestman",
-    "lastrevid": 232999
+    "lastrevid": 233106
   },
   "26939": {
     "title": "Familiar Vagrant's Armor",
@@ -9985,7 +9985,7 @@
   },
   "26963": {
     "title": "Familiar Sage's Armor",
-    "lastrevid": 233049
+    "lastrevid": 233118
   },
   "26965": {
     "title": "Familiar Prince's Armor",
@@ -10029,14 +10029,18 @@
   },
   "27066": {
     "title": "Corvus Manor",
-    "lastrevid": 233086
+    "lastrevid": 233109
   },
   "27068": {
     "title": "The Harvest Ritual",
-    "lastrevid": 232788
+    "lastrevid": 233091
   },
   "27086": {
     "title": "Infected",
     "lastrevid": 233023
+  },
+  "27099": {
+    "title": "Effigy Face Stitches",
+    "lastrevid": 233092
   }
 }

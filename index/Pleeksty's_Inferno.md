@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 232669
+revid: 233126
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
@@ -61,7 +61,9 @@ In [Pathfinder](Pathfinder.md), the Pleeksty's Inferno can be obtained from the 
 
 Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
 
-In Vow of Iron, the Pleeksty's Inferno can be found stuck in a rock at Saramaed Summit; recommended to grab it if you're using the [Flame Worshipper](Flame_Worshipper.md) Memento, since the Memento's final attributes are min-maxed to be perfect with the weapon.
+### [Vow of Iron](Vow_of_Iron.md)
+
+In Vow of Iron, the Pleeksty's Inferno can be found stuck in a rock at [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>); recommended to grab it if you're using the [Flame Worshipper](Flame_Worshipper.md) [Memento](Mementos.md), since the Memento's final attributes are min-maxed to be perfect with the weapon.
 
 ## Critical
 

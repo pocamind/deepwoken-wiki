@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 232999
+revid: 233106
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
@@ -144,11 +144,13 @@ The most important tip would be to prioritize dodging over dealing damage, as re
 
 It's best to try and dodge the Crowd Control attacks, as those are the ones likely to hit and deal lots of damage; as well as inflicting Cursed Flames, yet giving barely any opportunity to extinguish the flames by dodging.
 
-Jumping in the bossfight isn't recommended as much, as for whatever reason, The Harvestman seems to pull you towards himself. It is currently unknown if it is a bug or not.
+Jumping in the bossfight isn't recommended as much, as for whatever reason, The Harvestman seems to pull you towards himself during certain attacks. Do not spam jump.
 
 Whenever the The Harvestman is about to reach 50% of his health, stay nearby and try to be at the opposite direction whenever he is facing, as The Harvestman will begin his culling, launching a huge beam. This is best avoided by going staying close to The Harvestman, yet pay attention to the other attacks aside from the beam, as those can often prove lethal as well.
 
 The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfight, as it will sometimes allow you to completely negate attacks. Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%. [Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
+
+Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Crowd Control attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Crowd Control flames properly.
 
 ## Loot Table
 
