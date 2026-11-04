@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 229930
+revid: 233127
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, In progress with loot table reason, InProgressPages, Equipment, Face, Masks]
@@ -35,7 +35,6 @@ Each Aspirant Mask has a triangular shape. At the top, two horns gradually curve
 
 ## Trivia
 
--   The final sentence of the description is similar to the quote from Quran 2:156 "Indeed, to Allah we belong, and to him we'll return".
 -   Previously, they were called "Royal Guard Masks" and had different items for each color.
 -   The [July 16th, 2026](Version_History/2026.md#july-16th-2026) update added in the gold style of the mask, a mask variant that was intended to release with all the others before styles.
 -   Old versions of the [Starkindred](Oath%253A_Starkindred.md) sinners wore these masks.

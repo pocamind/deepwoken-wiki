@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pitch
-revid: 190234
+revid: 233132
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pitch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Event Item, Hallowtide]
@@ -23,3 +23,7 @@ Pumpkin Pitch will be thrown in the direction your character is facing in shift 
 Deep Gems do proc when you land Pumpkin Pitch. The explosions are similar to that of bombs and cannonballs but they do not insta-grip.
 
 Pumpkin Pitch counts as a Fire mantra for the Temperature Shock Talent and the Warding Radiance Talent.
+
+Pumpkin Pitch possesses heavy damage falloff, up to ~50%.
+
+Pumpkin Pitch's damage can be doubled by the [Harvestman's Cloak](<Harvestman's_Cloak.md>).

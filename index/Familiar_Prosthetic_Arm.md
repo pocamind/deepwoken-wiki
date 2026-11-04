@@ -1,6 +1,6 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 233064
+revid: 233129
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces, Hallowtide]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Braces, Hallowtide]
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | None |
+| requirements | Power 8 |
 | weight | 2 |
 | innate stats | +3 Health , +3 Posture , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Iron Body |

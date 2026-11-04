@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233106
+revid: 233156
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
@@ -15,7 +15,7 @@ notices:
 |---|---|
 | health | 7200(+1000 per player) |
 | attacks | Resurrection, Accursed Flames: Ritual, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
-| drops | 300-600 Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, 2 Crowns, 2 Knowledge, See Loot Table |
+| drops | 300-600 Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, Familiar Prosthetic Arm, 2 Crowns, 2 Knowledge, See Loot Table |
 | locations | The Harvest Ritual |
 
 “ An effigy made, a prayer whispered, a harvest blessed - face the wrath of the Harvestman, if you dare! ”
@@ -93,7 +93,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 
 -   This move has 3 separate variants:
     -   A row of purple flames that consecutively follow up with one another.
-    -   A rapid delivery of multiple, lined purple flames.
+    -   Multiple lines of purple flames that are instantaneously fired in various directions.
     -   A set of purple flames arranged in a lattice-like pattern.
         -   A weaker version of this variant is used during **The Harvestman's Culling**.
 -   This move is used much faster during his second phase.
@@ -116,6 +116,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 
 -   This move is first used during the initiation of the second phase, and is then used periodically throughout the second phase.
 -   It is best to avoid this attack by staying close to The Harvestman while he uses this move.
+-   This move will always rotate clockwise.
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -146,11 +147,11 @@ It's best to try and dodge the Crowd Control attacks, as those are the ones like
 
 Jumping in the bossfight isn't recommended as much, as for whatever reason, The Harvestman seems to pull you towards himself during certain attacks. Do not spam jump.
 
-Whenever the The Harvestman is about to reach 50% of his health, stay nearby and try to be at the opposite direction whenever he is facing, as The Harvestman will begin his culling, launching a huge beam. This is best avoided by going staying close to The Harvestman, yet pay attention to the other attacks aside from the beam, as those can often prove lethal as well.
+Whenever the The Harvestman is about to reach 50% of his health, stay nearby and try to be at the opposite direction whenever he is facing, as The Harvestman will begin his culling, launching a huge beam that **rotates clockwise**. This is best avoided by going staying close to The Harvestman while paying attention to the other attacks that he occasionally throws out.
 
 The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfight, as it will sometimes allow you to completely negate attacks. Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%. [Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
 
-Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Crowd Control attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Crowd Control flames properly.
+Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Crowd Control attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Crowd Control flames properly, and roll cancel if you have to.
 
 ## Loot Table
 
@@ -193,7 +194,9 @@ Full dodges (via pressing Q) are highly unrecommended especially during The Harv
 
 -   Many of the boss's attacks are based off of The Devourer of Gods from the _Terraria_ Calamity Mod.
 -   The Harvestman's halo has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name", a phrase that was shown in the Hallowtide 2026 trailer image.
--   All of the Harvestman's legendary drops will always be 3 starred.
+-   All of the Harvestman's Legendary Hallowtide items will always drop with 3 stars.
+-   [Resonances](Resonance.md) are enabled before the fight initiates, but not during it.
+-   The crowns and knowledge are only awarded around 20 seconds after the boss is killed, so make sure to wait before entering the portal.
 
 ## Navigation
 

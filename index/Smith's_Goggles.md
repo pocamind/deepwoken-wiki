@@ -1,6 +1,6 @@
 ---
 title: "Smith's Goggles"
-revid: 228484
+revid: 233135
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Goggles]
@@ -23,7 +23,7 @@ categories: [Equipment, Face, Goggles]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Deep Crucible, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, The Doom of Caeranthil |
+| obtainment | Unknown |
 | description | ... |
 
 Blacksmith Set

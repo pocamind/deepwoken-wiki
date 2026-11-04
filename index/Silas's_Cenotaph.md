@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 233124
+revid: 233155
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]

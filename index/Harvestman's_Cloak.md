@@ -1,6 +1,6 @@
 ---
 title: "Harvestman's Cloak"
-revid: 233065
+revid: 233130
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
@@ -13,6 +13,7 @@ categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equ
 | type | Torso |
 | rarity | Unique |
 | selling price | 100 |
+| requirements | Power 10 |
 | weight | 0.5 |
 | innate stats | +1 Health |
 | innate talent | Cursed Pumpkin |

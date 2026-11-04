@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 233104
+revid: 233153
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages transcluding nonexistent sections, Mantras, Character, Attunement, Mechanics]
@@ -65,7 +65,7 @@ _Lunge and grab your foe. Their Black Blood is ignited if they have it, and infl
  |
 | 
 
-?
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -100,7 +100,7 @@ _Send out a tide of blood that drags foes along with it, then bursts into fire a
  |
 | 
 
-?
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -135,7 +135,7 @@ _Apply blood then quickly ignite it_
  |
 | 
 
-?
+60 Ether [IconEther](Ether.md)
 
  | 
 

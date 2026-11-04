@@ -1,6 +1,6 @@
 ---
 title: Cursed Flames
-revid: 233021
+revid: 233137
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
@@ -15,12 +15,13 @@ notices:
 | type | Sword |
 | damage type | Slash |
 | requirements | 100 FLM, 40 WILL, LVL 10 |
-| damage | 19.2 |
+| damage | 19 |
 | scaling | FLM: 5.5 |
 | posture damage | 5 |
 | range | 8 Sweep |
-| swing speed | 1.10x |
+| swing speed | 1.0x |
 | attack duration | 0.6s |
+| penetration | 10% |
 | talent | Accursed Flame - Summon a blade of Cursed Flames. Your aerial attack and uppercut are now enhanced by these flames. While using Cursed Flames, your mantra cooldowns are 3 times longer. |
 | special effect | Basic attacks apply Cursed Burn |
 | m.equip | No |
