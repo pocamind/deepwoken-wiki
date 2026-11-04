@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 233155
+revid: 233181
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons wit
 | talent | Crushing Fate - The force of your blade forces your opponents back with each swing.Eye of Silas - Stare down your opponents with the Harvestman's Eye to shiver their timbers. Your critical Terrifies your opponents. |
 | m.equip | No |
 | m.extract | No |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| stances | 2 Handed |
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |

@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 231010
+revid: 233200
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
@@ -340,6 +340,7 @@ Parry
 
 -   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde [Bestiary](Bestiary.md) entry, so the boosts from that entry should also apply against him.
 -   Climbing over the **Permafrost Colosseum** is possible if it is summoned near certain tall buildings in New Kyrsa.
+-   Some attacks seem to be inspired by the boss True Monk from the game Sekiro: Shadows Die Twice.
 
 ## References
 

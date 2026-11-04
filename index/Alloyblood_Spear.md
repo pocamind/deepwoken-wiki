@@ -1,6 +1,6 @@
 ---
 title: Alloyblood Spear
-revid: 232595
+revid: 233167
 source: https://deepwoken.fandom.com/wiki/Alloyblood_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, "Attunement-based Weapons", Alloyblood Weapons, "Weapons with Multi-Attunement Scaling"]

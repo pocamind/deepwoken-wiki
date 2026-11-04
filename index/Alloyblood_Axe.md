@@ -1,6 +1,6 @@
 ---
 title: Alloyblood Axe
-revid: 232588
+revid: 233168
 source: https://deepwoken.fandom.com/wiki/Alloyblood_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greataxes, Heavy Weapons, "Attunement-based Weapons", Alloyblood Weapons, "Weapons with Multi-Attunement Scaling"]

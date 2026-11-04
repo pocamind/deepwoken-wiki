@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 215670
+revid: 233179
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]

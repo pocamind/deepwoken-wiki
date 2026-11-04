@@ -1,9 +1,9 @@
 ---
 title: Hybrid Abilities
-revid: 233153
+revid: 233160
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages transcluding nonexistent sections, Mantras, Character, Attunement, Mechanics]
+categories: [Mantras, Character, Attunement, Mechanics]
 ---
 
 # Hybrid Abilities
@@ -906,6 +906,13 @@ This section is transcluded from [a different page](Talents.md#talents). To chan
     -   Your Puppets home onto the closest entity (excluding yourself) who is burning from either of the Twisted Puppets burn types. This can include allies.
     -   Puppets move significantly faster when they get close to a burning target.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+
+### Unstable Capacitor
+
+-   Battery Sapper \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras.
+    -   10s cooldown.
+    -   This Talent is currently bugged and does nothing.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall, 25 Shadowcast
 
 ### Vaporborne
 

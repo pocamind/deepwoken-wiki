@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 232950
+revid: 233184
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Relics, Items, Hallowtide]
@@ -68,23 +68,14 @@ Despite them being purchasable from [Traan Zakshun](Traan_Zakshun.md), they cann
     <li><b>Legendary Head</b>: <a href="Aazel's_Horns.md"><font>Aazel's Horns</font></a></li>
     <li><b>Hallowtide Head</b>: <a href="Crooked_Witch_Hat.md">Crooked Witch Hat</a>, <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Hunter's_Chapeau.md">Hunter's Chapeau</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a> (all variants), <a href="Pumpkin_Head.md">Pumpkin Head</a></li>
   </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
-  <ol>
-    <li><b>Hallowtide Arms</b>: <a href="Familiar_Prosthetic_Arm.md">Familiar Prosthetic Arm</a></li>
-  </ol></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Familiar_Prosthetic_Arm.md">Familiar Prosthetic Arm</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>
     <li><b>Relic Torso</b>: <a href="Tiran_Pendant.md">Tiran Pendant</a></li>
     <li><b>Hallowtide Torso</b>: <a href="Crawling_Necktie.md">Crawling Necktie</a>, <a href="Death's-Head_Necktie.md">Death's-Head Necktie</a>, <a href="Pilferer's_Trophy.md">Pilferer's Trophy</a>, <a href="Wispfire_Beacon.md">Wispfire Beacon</a></li>
   </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:
-  <ol>
-    <li><b>Hallowtide Face</b>: <a href="Eyes_of_the_Moppet.md">Eyes of the Moppet</a>, <a href="Mask_of_Phantoms.md">Mask of Phantoms</a>, <a href="Stitched_Effigy.md">Stitched Effigy</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:
-  <ol>
-    <li><b>Hallowtide Earrings</b>: <a href="Coffin_Earrings.md">Coffin Earrings</a>, <a href="Pumpkin_Earrings.md">Pumpkin Earrings</a></li>
-  </ol></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Eyes_of_the_Moppet.md">Eyes of the Moppet</a>, <a href="Mask_of_Phantoms.md">Mask of Phantoms</a>, <a href="Stitched_Effigy.md">Stitched Effigy</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Coffin_Earrings.md">Coffin Earrings</a>, <a href="Pumpkin_Earrings.md">Pumpkin Earrings</a></li>
   </ul></td>
 </tr>
 </tbody>

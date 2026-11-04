@@ -1,6 +1,6 @@
 ---
 title: Alloyblood Daggers
-revid: 232589
+revid: 233169
 source: https://deepwoken.fandom.com/wiki/Alloyblood_Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, "Attunement-based Weapons", Alloyblood Weapons, "Weapons with Multi-Attunement Scaling", "Dual-wielded Weapons"]

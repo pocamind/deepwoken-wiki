@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 232975
+revid: 233210
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -16,7 +16,7 @@ Main Pages
 
 Variants: [Talents/Vow of Iron](Talents/Vow_of_Iron.md)
 
-Sup-Pages
+Sub-Pages
 
 Variants: [Talents/Categories A-F](Talents/Categories_A-F.md) · [Talents/Categories G-K](Talents/Categories_G-K.md) · [Talents/Categories L-P](Talents/Categories_L-P.md) · [Talents/Categories Q-U](Talents/Categories_Q-U.md) · [Talents/Categories V-Z](Talents/Categories_V-Z.md)
 
@@ -3072,7 +3072,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Flamecharm\] \[+Sanity\] \[Burn\] \[Damage Resistance\] \[Debuff\] \[Ether Proselyte\]
 
 -   **Phoenix Flames** \[Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, becore capping at 50% health at 75 investment.
+    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, before capping at 50% health at 75 investment.
     -   If you used [Flame Within](#flame-within) while [Unconscious](Status_Effects.md#unconscious) to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
     -   Synergizes with [Corpse Explosion](#corpse-explosion), as that halves the time taken to incinerate burning targets, including yourself.  
         
@@ -3407,8 +3407,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 45 Ironsing  
         
     -   Tags: \[Ironsing\] \[Debuff\] \[Flourish\]
-
-## Temporary
 
 ### Javelin Lord
 

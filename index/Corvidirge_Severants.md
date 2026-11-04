@@ -1,6 +1,6 @@
 ---
 title: Corvidirge Severants
-revid: 233057
+revid: 233171
 source: https://deepwoken.fandom.com/wiki/Corvidirge_Severants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Medium Weapons, Light Weapons, Daggers, Twinblades, Hallowtide, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals"]
@@ -48,3 +48,4 @@ The critical has a cooldown of **10 seconds**.
 
 -   This weapon is treated as a **Light Weapon** for most [Enchantments](Enchantments.md).
 -   The Medium Silentheart abilities will be used when the Light ones are on cooldown.
+-   This is one of the three weapons that are considered to be in two weapon categories, the others being [Rifle Spear](Rifle_Spear.md) and [Wyrmtooth](Wyrmtooth.md).

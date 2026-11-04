@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 231112
+revid: 233172
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
@@ -70,3 +70,4 @@ The cooldown for either critical is **10 seconds**.
 -   On the [April 13th, 2024](Version_History/2024.md#april-13th-2024) update, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame until [June 9th, 2025](Version_History/2025.md#june-9th-2025), when the PEN was shadow fixed to 25%.
 -   This weapon shares basic attack animations with the [Railblade](Railblade.md).
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
+-   This is one of the three weapons that are considered to be in two weapon categories, the others being [Rifle Spear](Rifle_Spear.md) and [Corvidirge Severants](Corvidirge_Severants.md).
