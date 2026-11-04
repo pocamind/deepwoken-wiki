@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 233200
+revid: 233222
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
@@ -129,7 +129,7 @@ Jump
  |
 | 
 
-**Frost Eruption**  
+**Frostgrave**  
 (★☆☆)
 
  | The Kyrsgarde Champion proceeds to raise its glaive, before detonating ice below the player's feet.

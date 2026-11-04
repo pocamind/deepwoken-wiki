@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 231720
+revid: 233213
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, Justicars]
@@ -93,12 +93,11 @@ After you have received a [Gold Ring](Gold_Ring.md) as thanks from hearing his s
   <td colspan="24">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">After receiving Gold Ring</td>
-  <td colspan="12">Subsequent Encounters</td>
-</tr>
-<tr>
-  <td colspan="12">Hm. Back again? You're more persistent than I gave you credit for.</td>
-  <td colspan="12">Ah, it seems we meet once more. Strange that our ways seem fated to cross so often, don't you think? Most curious, how freedom leads us down such winding paths...</td>
+  <td colspan="24"><br>
+  <b>Received Gold Ring</b><br>
+  Hm. Back again? You're more persistent than I gave you credit for.<p><br>
+  <b>Subsequent</b><br>
+  Ah, it seems we meet once more. Strange that our ways seem fated to cross so often, don't you think? Most curious, how freedom leads us down such winding paths...</p></td>
 </tr>
 <tr>
   <td colspan="6">Is there anything you can teach me?</td>

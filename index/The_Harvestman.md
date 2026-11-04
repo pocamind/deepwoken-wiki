@@ -1,12 +1,11 @@
 ---
 title: The Harvestman
-revid: 233156
+revid: 233237
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Stub pages without reason, StubPages, Bosses, Hallowtide]
+categories: [Event Only Content, Bosses, Hallowtide]
 notices:
-  - "This page is currently being worked on. Missing some moves & images"
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # The Harvestman
@@ -15,7 +14,7 @@ notices:
 |---|---|
 | health | 7200(+1000 per player) |
 | attacks | Resurrection, Accursed Flames: Ritual, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
-| drops | 300-600 Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, Familiar Prosthetic Arm, 2 Crowns, 2 Knowledge, See Loot Table |
+| drops | Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, Familiar Prosthetic Arm, 2 Crowns, 2 Knowledge, See Loot Table |
 | locations | The Harvest Ritual |
 
 “ An effigy made, a prayer whispered, a harvest blessed - face the wrath of the Harvestman, if you dare! ”
@@ -141,6 +140,8 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 
 ## Tips and Strategy
 
+**This section contains subjective information that was last updated on November 4th, 2026.**
+
 The most important tip would be to prioritize dodging over dealing damage, as regenerating health in this bossfight is rather difficult, especially in solo runs.
 
 It's best to try and dodge the Crowd Control attacks, as those are the ones likely to hit and deal lots of damage; as well as inflicting Cursed Flames, yet giving barely any opportunity to extinguish the flames by dodging.
@@ -149,9 +150,13 @@ Jumping in the bossfight isn't recommended as much, as for whatever reason, The 
 
 Whenever the The Harvestman is about to reach 50% of his health, stay nearby and try to be at the opposite direction whenever he is facing, as The Harvestman will begin his culling, launching a huge beam that **rotates clockwise**. This is best avoided by going staying close to The Harvestman while paying attention to the other attacks that he occasionally throws out.
 
-The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfight, as it will sometimes allow you to completely negate attacks. Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%. [Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
+The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfight, as it will sometimes allow you to completely negate attacks.
+
+Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%. It is also recommended to eat [Fruit Salad](Fruit_Salad.md) (or any food that provides the "Heal" buff) as doing so will increase your health regeneration by 30%. [Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
 
 Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Crowd Control attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Crowd Control flames properly, and roll cancel if you have to.
+
+You don't lose a life for dying in the fight, even if you die to another player rather than The Harvestman himself, making participation entirely risk-free.
 
 ## Loot Table
 

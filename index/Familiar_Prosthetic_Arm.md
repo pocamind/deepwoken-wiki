@@ -1,6 +1,6 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 233129
+revid: 233235
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces, Hallowtide]
@@ -17,7 +17,7 @@ categories: [Equipment, Arms, Braces, Hallowtide]
 | weight | 2 |
 | innate stats | +3 Health , +3 Posture , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Iron Body |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |

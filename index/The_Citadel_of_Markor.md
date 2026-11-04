@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 229973
+revid: 233239
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -51,6 +51,7 @@ In 108 CE, a fire broke out in the Citadel's archives, destroying some of their 
 -   The Citadel of Markor is loosely based off of the [Mouseion of Alexandria](https://en.wikipedia.org/wiki/Mouseion), a large, ancient institution that was notable for its research into various arts and sciences.
     -   The Library of Alexandria was part of the institution as well.
         -   An incident in 48 BCE involved Julius Caesar's soldiers setting fire to ships, which later spread and destroyed a portion of the library. This may also reflect on the fire that occurred in the Markor Citadel.
+-   The Citadel of Markor is stated by [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md#dialogue) to be similar in size to the Empyrean College of Cadence that was once located in Constellia. This may not be the case however, as he has only heard of it in passing, and not seen it himself.
 
 ## References
 
