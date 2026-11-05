@@ -1,6 +1,6 @@
 ---
 title: Prop Hunt
-revid: 233320
+revid: 233376
 source: https://deepwoken.fandom.com/wiki/Prop_Hunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Hallowtide, Minigames, World Event]
@@ -24,7 +24,7 @@ In this gamemode, all players are randomly selected to be either a Hider or a Se
 
 ### Hiders
 
-The Hiders gain the ability to [Disguise](Attunement-less.md#disguise) themselves as a prop (e.g. a Barrel or Pumpkin) to attempt to blend-in with the Manor's environment.
+The Hiders gain the ability to disguise themselves as a prop (e.g. a Barrel or Pumpkin) by using the Prop Selector tool, to attempt to blend-in with the Manor's environment.
 
 The Hiders are tasked with waiting out the time limit without getting caught by the Seekers. If a Seeker catches a Hider, then that Hider will **become** a Seeker, with their goal changing to finding the remaining Hiders.
 
@@ -34,13 +34,13 @@ Entering the water is considered going out-of-bounds, causing any Hider who does
 
 It is the goal of all Seekers to find the Hiders; they only win if **all** Hiders are caught.
 
-If a Seeker catches a Hider, then that Hider will become a Seeker to aid them in catching the remaining Hiders.
+Seekers can catch Hiders by attacking props with basic attacks. If a Seeker uses a basic attack and **doesn't** hit a Hider, they will lose 20% of their maximum health as a penalty. If they **do** hit a Hider however, they will catch them, healing to maximum health ane turning the caught player into a Seeker.
 
 ## Rewards
 
 -   If Seekers win, by finding all of the Hiders, the reward differs depending on if you were initially a Hider or a Seeker.
     -   If you were a Hider at the start of the round, you will be rewarded with 10 Joy.
-    -   If you were a Seeker at the start of the round, you will be rewarded with Joy, scaling on the amount of players you caught.
+    -   If you were a Seeker at the start of the round, you will be rewarded with Joy, scaling on the amount of Hiders you caught.
 -   If Hiders win, the remaining Hiders will be awarded with 60 Joy and 3 [Goodie Bags](Goodie_Bag.md).
 
 ## Trivia

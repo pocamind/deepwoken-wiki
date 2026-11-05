@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 230680
+revid: 233419
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -88,7 +88,7 @@ Dodge
 
 ### **Passives**
 
--   **Strong Monster Resistance** - Physical attacks deal 50% less damage to Bounders.
+-   **Strong Monster Resistance** - Physical attacks deal reduced damage to Bounders.
 
 ## Finisher
 

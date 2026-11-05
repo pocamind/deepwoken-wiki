@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233352
+revid: 233418
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -58,7 +58,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 
 -   A volley of multiple purple fireballs that shoot in various directions.
 -   A wave of purple flames that move across the area.
--   A flame that slowly pulls targets towards it. Uniquely, this flame has darker accents.
+-   Blackhole Pull: A flame that slowly pulls targets towards it. Uniquely, this flame has darker accents.
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -101,22 +101,6 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   ↻ Undodgeable
--   Ø Undefendable
-
- | 
-
- |
-| 
-
-**Blackhole Pull**  
-(☆☆☆)
-
- | The Harvestman snaps his fingers before you are sightly pulled towards him.
-
--   ⚠︎ Unparryable
--   ⛉ Unblockable
--   ↻ Undodgeable
--   ☕︎ Harmless
 -   Ø Undefendable
 
  | 
@@ -183,7 +167,7 @@ Upon defeating The Harvestman, all players with damage credit will receive 300 [
 
 The Clutch Bonus grants additional Joy when the boss is defeated if certain conditions were met;
 
-1.  You were at or below 10% health when the boss' death animation enda, increasing the Joy reward by 200.
+1.  You were at or below 10% health when the boss' death animation ends, increasing the Joy reward by 200.
 2.  You started with 30 players, and 5 or less survived. This applies a **final 2x** multiplier to the Joy reward, applied after the additive bonuses.
 
 Both can be met simultaneously, stacking the bonuses.

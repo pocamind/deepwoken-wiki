@@ -1,9 +1,9 @@
 ---
 title: Rifle Spear
-revid: 233170
+revid: 233360
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons, Weapons with Multiple Classes]
 ---
 
 # Rifle Spear
@@ -48,8 +48,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   The Rifle Spear is one of three weapons, the others being [Corvidirge Severants](Corvidirge_Severants.md) and [Wyrmtooth](Wyrmtooth.md), to fall into two different weapon classes.
 -   This weapon is a direct reference to the famed [Rifle Spear](https://bloodborne.fandom.com/wiki/Rifle_Spear) in the game _Bloodborne_, with the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.
 -   The Rifle Spear has a Central Authority logo etched onto the blade.
--   You are unable to use other motifs on this weapon.
+-   This is one of few weapons that are considered to be in two weapon categories. See this page for more info.

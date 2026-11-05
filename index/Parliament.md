@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 230910
+revid: 233378
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -194,3 +194,4 @@ Flock of Feathers
 ## Trivia
 
 -   Parliament is known for clipping though the wall when they use the _Owl Dash_ attack, leading to them Voiding out of the map.
+-   A group of owls is called a "parliament" in [English venery](https://en.wikipedia.org/wiki/Collective_noun#Terms_of_venery).

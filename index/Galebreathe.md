@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 233006
+revid: 233377
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -422,14 +422,14 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 
 **Twister Kicks** (★☆☆)
 
-_Go forth with spinning kicks infused with the wind_
+_Go forth with spinning kicks infused with the wind. hit em w a bit of dis n a lil bit of dat_
 
  | 
 
 ## Twister Kicks (★☆☆)
 
   
-_Go forth with spinning kicks infused with the wind_
+_Go forth with spinning kicks infused with the wind. hit em w a bit of dis n a lil bit of dat_
 
  |
 | 

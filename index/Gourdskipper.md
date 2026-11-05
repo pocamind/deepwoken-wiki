@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 233026
+revid: 233362
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Monsters, Humanoid Monsters, Hallowtide]
@@ -45,7 +45,7 @@ Gourdskippers, also known as Pumpskippers, are a unique enemy exclusive to the T
 
 ## Passives
 
--   Curse of the Gourdskipper: Being damaged by a Gourdskipper will turn you into a ourdskipper, allowing you to infect others and gain [Joy](Joy.md), you will also die in 3 hits to Pumpkin Pitch.
+-   Curse of the Gourdskipper: Being damaged by a Gourdskipper will turn you into a Gourdskipper, allowing you to infect others and gain [Joy](Joy.md), you will also die in 3 hits to Pumpkin Pitch.
 
 ## Finisher
 

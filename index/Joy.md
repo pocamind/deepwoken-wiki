@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 232325
+revid: 233398
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Hallowtide, Mechanics, Currency]
@@ -13,7 +13,7 @@ notices:
 | Joy | |
 |---|---|
 | usage | Obtainment of Hallowtide exclusive items |
-| obtainment | Scaring people with the Hallowtide Mask, Doing the Trial of the Gourdskipper |
+| obtainment | Scaring people with the Hallowtide Mask, Doing the Trial of the Gourdskipper, Surviving The Harvestman, Winning the Prop Hunt minigame |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
