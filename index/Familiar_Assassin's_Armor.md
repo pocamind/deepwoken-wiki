@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 233074
+revid: 233356
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -44,7 +44,9 @@ The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, gr
 ## Trivia
 
 -   This outfit is based on Rogue Lineage's [Faceless One](https://rogue-lineage.fandom.com/wiki/Faceless_One) armor, the Night Lord's outfit.
--   The Bane talent is based on the Bane ability from the [Assassin](https://rogue-lineage.fandom.com/wiki/Assassin) class in Rogue Lineage. Unlike its Deepwoken counterpart, this ability only works on daggers.
-    -   It also feature the Agility skill sound effect at first, which boosted movement speed and attack speed. The Agility + Bane combo was often used.
+    -   The appearance of the outfit is based on the garb worn by the Assassins in the _Assassin's Creed_ franchise, but more specifically, [Connor Kenway](https://en.wikipedia.org/wiki/Connor_Kenway) from _[Assassin's Creed 3](https://en.wikipedia.org/wiki/Assassin%27s_Creed_3)_.
+    -   The Bane talent is based on the Bane ability from the [Assassin](https://rogue-lineage.fandom.com/wiki/Assassin) class in Rogue Lineage. Unlike its counterpart in Rogue Lineage, Deepwoken's Bane is not restricted to daggers.
+        -   It also features Rogue Lineage's Agility skill sound effect on use. The Agility skill boosted movement and attack speed, and was often used alongside Bane.
 -   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the [Feburary 25th, 2026](Version_History/2026.md#feburary-25th-2026) update. The emerald requirement was a reference to the Faceless One class obtainment in Rogue Lineage, where players had to give Shadow, the Faceless Trainer an emerald as a prerequisite to obtain the class.
--   Initially on release, this outfit had a staggering 5000% stealth, however it was quickly toned down to 50%.
+-   Initially on release, this outfit had a staggering 5000% stealth, however it was fixed to the intended 50%.
+-   The default appearance of this outfit is "[dyed](Dye_Packet.md)". This can be seen by the outfit turning white when dyed as such.

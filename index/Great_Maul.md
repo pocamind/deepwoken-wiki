@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 224575
+revid: 233349
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -50,3 +50,4 @@ This critical has a cooldown of **9 seconds**.
 ## Trivia
 
 -   Prior to the [March 31st, 2025](Version_History/2025.md#march-31st-2025) update, the Great Maul requirements were 65 HVY, 30 STR.
+-   The critical attack is able to instantly grip a unconscious player (assuming they do not have [Mythic Stability](Talents.md)) on the final slam.

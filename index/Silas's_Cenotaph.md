@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 233230
+revid: 233332
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
@@ -58,3 +58,4 @@ This critical has a cooldown of **12 seconds**.
 -   The [Gatherhand](Gatherhand.md) Sigil appearing on the critical reads "TERRIFY - YFIRRET".
 -   Contrary to popular belief, the first hit of this critical can be both parried and blocked.
 -   Interestingly, the first hit of the critical does not proc Manipulator at all, allowing you to gain full benefit from the talent on the second hit.
+-   It is the current heaviest weapon in the game, second place goes to [Hivelord's Hubris](<Hivelord's_Hubris.md>).

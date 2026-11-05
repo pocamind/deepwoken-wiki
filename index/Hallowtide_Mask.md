@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 233119
+revid: 233337
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -76,12 +76,14 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Hah! Brilliant." ([The Ferryman](The_Ferryman.md))
 -   "Hah, I've seen worse." ([High Inquisitor Merey](High_Inquisitor_Merey.md))
 -   "Hahah, good one! Hey, Interceptor, check this out!" ([Sentinel Augustus](Sentinel_Augustus.md))
+-   "Heh. Is this your way of inviting me to a challenge, hm?" ([Evengarde Rest](Evengarde_Rest.md))
 -   "Hey, nice mask, bub! Where'd you get one?" (Sentinel Augustus)
 -   "Ho ho! That's the spirit! Now do that unto someone else." ([Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md))
 -   "Hoy, Well done, such joy! Now, show the world what thou canst do!" (Galpin Spellhardt)
 -   "HUTTAH- Oh, it's just you! Be careful, I almost knocked you out there!" ([Chud Steel](Chud_Steel.md))
 -   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
 -   "Joyous Hallows to all!" (Brasidas Spellhardt)
+-   "Most amusing." (Evengarde Rest)
 -   "Nothing compared to what I've seen." ([Akira](Akira.md))
 -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain." (The Meat Lord)
 -   "Oh, you like to take different forms too?" (The Ferryman)
@@ -98,6 +100,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 ## Trivia
 
 -   After the event is over, the Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless.
+-   [Evengarde Rest](Evengarde_Rest.md) was briefly able to be scared by the Hallowtide Mask during Hallowtide 2026 before quickly being shadow-patched.
 -   Certain special NPCs are unable to be spooked and instead give special dialogue. The list of characters that do this are as follows:
     -   [The Lord Regent](The_Lord_Regent.md)
     -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md)

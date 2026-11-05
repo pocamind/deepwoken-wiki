@@ -1,6 +1,6 @@
 ---
 title: "Familiar Vagrant's Armor"
-revid: 233051
+revid: 233294
 source: https://deepwoken.fandom.com/wiki/Familiar_Vagrant's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -43,7 +43,7 @@ This Outfit has 2500 durability and grants +25% Physical resistance ResistancePh
 
 The [Grapple](Talents.md#grapple) Talent grants a Talent tool that upon activation and aiming at an enemy or wall, shoots a grapple from your [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) to your cursor location and pulls you towards it. If fired at an entity, pull them towards you as well, similarly to [Lord's Slice](Oath%253A_Contractor.md#lords-slice).
 
-If using a [Tanto](Tanto.md), the critical attack can be used while grappling an enemy, hitting the target regardless of distance. This attack is still parryable, but guardbreaks if blocked.
+If using a [Tanto](Tanto.md), its critical attack can be used while grappling an enemy, hitting the target regardless of distance. This attack is still parryable, but guardbreaks if blocked.
 
 ## Trivia
 

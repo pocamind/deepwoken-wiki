@@ -1,6 +1,6 @@
 ---
 title: Prop Hunt
-revid: 232793
+revid: 233320
 source: https://deepwoken.fandom.com/wiki/Prop_Hunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Hallowtide, Minigames, World Event]
@@ -42,3 +42,13 @@ If a Seeker catches a Hider, then that Hider will become a Seeker to aid them in
     -   If you were a Hider at the start of the round, you will be rewarded with 10 Joy.
     -   If you were a Seeker at the start of the round, you will be rewarded with Joy, scaling on the amount of players you caught.
 -   If Hiders win, the remaining Hiders will be awarded with 60 Joy and 3 [Goodie Bags](Goodie_Bag.md).
+
+## Trivia
+
+-   Hiders will have specific [Outfits](Outfits.md), this includes: [Carefree Garments](Carefree_Garments.md), [Seamstress's Attire](<Seamstress's_Attire.md>), and [Varicosan Finery](Varicosan_Finery.md). The outfits with female alternatives will always be the male version.
+    -   Seekers will wear: [Sanguine Finery](Sanguine_Finery.md).
+-   You used to be able to have the option of hiding as a coffin, but this was swiftly removed due to a bug causing you to be invisible.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

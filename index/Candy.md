@@ -1,6 +1,6 @@
 ---
 title: Candy
-revid: 175621
+revid: 233296
 source: https://deepwoken.fandom.com/wiki/Candy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Food]
@@ -16,6 +16,7 @@ notices:
 | stack | x10 |
 | type | Food |
 | food type | Generic |
+| rarity | Common |
 | stomach | 10% |
 | water | 5% |
 | buff | Full (-10% natural stomach loss) |

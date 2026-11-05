@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 232803
+revid: 233288
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -20,7 +20,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits 
 | durability | 4000 |
 | resistances | +35% Physical Armor +35% Elemental Armor , +5% Fire Armor , +5% Shadow Armor |
 | talents | Soul Rip |
-| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '24 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
+| obtainment | Any Blacksmith if you have the '24 Hallowtide Medal [3 Knowledge], Lysander Spellhardt [35 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 

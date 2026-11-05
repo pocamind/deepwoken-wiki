@@ -1,9 +1,9 @@
 ---
 title: Cursed Flames
-revid: 233137
+revid: 233262
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
+categories: [Weapons that cannot be equipped on Silentheart, Event Only Content, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
 notices:
   - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
@@ -15,6 +15,7 @@ notices:
 | type | Sword |
 | damage type | Slash |
 | requirements | 100 FLM, 40 WILL, LVL 10 |
+| oath | Silentheart |
 | damage | 19 |
 | scaling | FLM: 5.5 |
 | posture damage | 5 |
@@ -51,7 +52,7 @@ Equipping the Cursed Flames grants its unique [weapon Talent](Talents.md#weapon-
 
 [**Accursed Flame**](Talents.md#accursed-flame) changes your Uppercut and Aerial Attacks:
 
--   On Uppercut, the user performs an upperhand slash and fires a purple fireball, applying [Burn](Status_Effects.md#burn) if it lands. This adds a 8 second cooldown to your Uppercut and removes the uptilt.
+-   On Uppercut, the user performs an upperhand slash and fires a purple fireball, applying [Burn](Status_Effects.md#burn) if it lands. This adds an 8 second cooldown to your Uppercut and removes the uptilt.
 -   On Aerial Attack, the user leaps backwards and unleashes a wide slash, applying [Cursed Burn](Status_Effects.md#cursed-burn) to targets in its radius. This adds a 6 second cooldown to your Aerial Attack.
 
 However, wielding this weapon triples the cooldown of all your Mantras.

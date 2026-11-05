@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 210200
+revid: 233347
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
@@ -98,6 +98,15 @@ The Dining Hall.
 ### Library
 
 -   Players can purchase a Weapon Manual for 25, [How to Make Friends](How_to_Make_Friends.md) for 25, and an Encyclopedia for 25.
+
+### Events
+
+-   Trial of the [Gourdskipper](Gourdskipper.md)
+    -   The trial consists of 8 waves that give 3 [joy](Joy.md) per wave survived and a prize of 16 [joy](Joy.md) on completion with a total payout of 40 [joy](Joy.md) on a full run
+    -   Getting hit by a [Gourdskipper](Gourdskipper.md) makes you infected, each player you infect gives you an additional 3 [joy](Joy.md) before the wave gamemode is finished.
+    -   You are unable to use mantras and equip items other than your currently equipped weapon, M1s are replaced with the [Pumpkin Pitch](Pumpkin_Pitch.md) [mantra](Mantras.md) but you are still able to use your critical attack (might be a bug or unintentional feature).
+    -   The Trial is located inside the [Widow's Wail Cemetary](<Widow's_Wail_Cemetery.md>) (on your left after teleporting).
+    -   You will get a small chest on wave 3, wave 5, wave 7, and a boss chest after completing wave 8 the final wave. Chests can include umbral obsidian, [hallowtide mask](Hallowtide_Mask.md) crafting ingredients, [deep gems](Deep_Gems.md), [goodie bags](Goodie_Bag.md), various hallowtide exclusive weapons, familiar armor sets, hallowtide exclusive cosmetics, and headgear.
 
 ## Maps
 

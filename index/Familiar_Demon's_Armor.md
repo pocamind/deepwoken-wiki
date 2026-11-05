@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 226838
+revid: 233289
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits 
 | resistances | +25% Physical Armor +25% Elemental Armor , +10% Fire Armor |
 | buffs | +10% Ether Regen |
 | talents | Demon Step |
-| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '25 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
+| obtainment | Any Blacksmith if you have the '25 Hallowtide Medal [3 Knowledge], Lysander Spellhardt [35 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 

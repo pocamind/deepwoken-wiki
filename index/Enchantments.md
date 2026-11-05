@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 231675
+revid: 233250
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -147,7 +147,7 @@ Blazing [Enchant Stone](Enchant_Stone.md):
 
 [Enchant Bluster](Bluster.md)
 
-_After landing a few stacks of Bluster, start a countdown to an explosion that scales off your m1 damage. Land attacks during this countdown to make it explode faster. This explosion scales with your weapon investment._
+_After landing a few stacks of Bluster, start a countdown to an explosion that scales off your weapon investment. Land attacks during this countdown to make it explode faster. This explosion scales with your weapon investment._
 
  | 
 

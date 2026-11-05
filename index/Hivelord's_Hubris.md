@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 230583
+revid: 233329
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons, Weapons of The Hive, Weapons with Unique Animations]
@@ -49,7 +49,7 @@ Hivelord's Hubris uses the default Greathammer critical, an overhead swing. It h
 ## Trivia
 
 -   It's actually smaller than the arm of a Hive Construct, which can be easily compared by breaking the Hive Construct out of the ice in [Minityrsa](Minityrsa.md).[\[1\]](#cite-note-1)
--   Hivelord's Hubris has by far the slowest swing speed out of any weapon. While more predictable than other heavy weapons, it does gargantuan damage when landing a hit.
+-   Hivelord's Hubris has the second slowest swing speed in the game, first being [Silas's Cenotaph](<Silas's_Cenotaph.md>). While more predictable than other heavy weapons, it does gargantuan damage when landing a hit.
     -   Pairing this with the [Heavy Hands Ring](Heavy_Hands_Ring.md) can make the swing speed 0.58x, making it extremely slow.
 -   One of the most damaging heavy weapons in the entire game, being on par with the damage from [Crazy Slots](Crazy_Slots.md)' Divine Weapons.
 -   The name might be a humorous reference to the humerus, a major bone of the arm.

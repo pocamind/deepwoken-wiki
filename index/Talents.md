@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 233210
+revid: 233343
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -2164,8 +2164,9 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 ### Exotherm
 
 -   **Exotherm Path: Sanguine Blaze** \[Common Talent\] - Your blood is thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing, up to 3 stacks. Touch it with flame and it erupts. Your fire burns a searing pink.
-    -   Turns your Flamecharm Mantras, status effects, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
-    -   Bloodrend Mantras apply stacks of Black Blood, applying a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect. Applying [Burn](Status_Effects.md#sanguine-burn) to a target with Black Blood causes an explosion that deals high damage and applies knockback.  
+    -   Turns your Flamecharm Mantras, status effects, related Enchantments, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
+    -   Bloodrend Mantras apply stacks of Black Blood on top of their previous effects of Blood Poison and blood drain. Black Blood applies a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect.
+    -   Dealing Flamecharm damage, through any source that is not Burn, to a target with Black Blood causes the blood to ignite and explode, dealing damage and knockback while consuming all Black Blood stacks and the burn used to proc it.  
         
     -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
         
@@ -2180,10 +2181,11 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Bloodrend\] \[Flamecharm\] \[Debuff\] \[Multi-Attunement\]
 
 -   **Critical Mass** \[Common Talent\] - Landing a Critical Attack on an enemy with Black Blood ignites them with pink fire.
-    
+    -   Applies [Sanguine Burn](Status_Effects.md#sanguine-burn) and causes an ignite proc.  
+        
     -   Prerequisites: 45 Bloodrend, 45 Flamecharm  
         
-    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Weapon Attack\]
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Multi-Attunement\] \[Weapon Attack\]
 
 -   **Exothermic Finish** \[Common Talent\] - Igniting an enemy with Black Blood now flourishes them instead of knocking them back, inflicting all flourish talents.
     
@@ -2192,7 +2194,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Bloodrend\] \[Flamecharm\] \[Flourish\] \[Multi-Attunement\]
 
 -   **Pressure Bleed** \[Common Talent\] - Your [vents](Combat_Mechanics.md#tempo) turn pink, spraying explosive Black Blood puddles that ignite enemies.
-    -   Your Vent leaves behind Black Blood puddles that applies [Burn](Status_Effects.md#sanguine-burn) to anyone who touches it.  
+    -   Your Vent sprays multiple small Black Blood puddles in random nearby locations on the floor. After a short delay, these turn pink and explode, applying [Burn](Status_Effects.md#sanguine-burn) to those hit.  
         
     -   Prerequisites: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), 50 Bloodrend, 50 Flamecharm  
         
@@ -3053,8 +3055,10 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   **Agitating Spark** \[Common Talent\] - Applying **[Burning](Status_Effects.md#burning)** to enemies spreads it to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
+    -   When spreading burn, it will only apply either default Burn or a burn type from one of your Attunement Paths or [Azure Flames](#azure-flames), as they globally affect all burn procs. For [Twisted Puppets](#twisted-puppets), it will apply [Puppet Burn](Status_Effects.md#puppet-burn), allowing it to summon Puppets.
+    -   Cannot trigger Eruptions, and always applies burn.
     -   Agitating Spark bypasses block and parry.
-    -   Procs on self damage.
+    -   The VFX triggers and the Talent goes on cooldown when you take self damage while you are on fire, but it does not spread burn. [Flame Within](#flame-within) spreads the burn it applies to yourself on cast, however.
     -   Has a 1 second cooldown.
     -   Can spread to allies. The [Controlled Combustion](#controlled-combustion) Talent will prevent Agitating Spark spreading burn to yourself and your allies.  
         
@@ -3064,7 +3068,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   **Immolation** \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include [Flame Within](#flame-within), [Agitating Spark](#agitating-spark) you spread, and environmental burns created by you.
-    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
+    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have [Eruption Path: Lava Serpent](#eruption-path-lava-serpent).
         -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.  
             
     -   Prerequisites: [Agitating Spark](#agitating-spark), 40 Flamecharm  
@@ -3072,9 +3076,9 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Flamecharm\] \[+Sanity\] \[Burn\] \[Damage Resistance\] \[Debuff\] \[Ether Proselyte\]
 
 -   **Phoenix Flames** \[Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, before capping at 50% health at 75 investment.
+    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, before capping at 50% health at ≥75 investment.
     -   If you used [Flame Within](#flame-within) while [Unconscious](Status_Effects.md#unconscious) to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
-    -   Synergizes with [Corpse Explosion](#corpse-explosion), as that halves the time taken to incinerate burning targets, including yourself.  
+    -   Synergizes with [Corpse Explosion](#corpse-explosion), as that halves the time taken to incinerate Unconscious targets (8s to 4s), including yourself.  
         
     -   Prerequisites: [Agitating Spark](#agitating-spark), [Immolation](#immolation)  
         

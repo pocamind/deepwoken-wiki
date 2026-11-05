@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 232305
+revid: 233304
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -14853,6 +14853,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   Most notably, the game refers to this "stance" as One-Handed, and as such, you will not gain the posture damage bonus of the Two-Handed stance.
 -   Similar to the Two-Handed stance, you cannot use offhand weapons, and any equipped Shield will be put on your back. This allows you to use [Turtle Shell](Talents.md#turtle-shell) on Dual Wielded Light Weapons.
 -   Only specific weapons have access to this "stance." These weapons can be found here.
+-   The [Corvidirge Severants](Corvidirge_Severants.md) are an exception to the above traits, largely being treated as a 1H weapon, despite being dual wielded.
 
 ## Key Terminology
 
@@ -29726,7 +29727,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Range: [Darksteel Cleaver](Darksteel_Cleaver.md) (13)
         
         -   Honorable mention: [Rangescraper](Rangescraper.md) (11, Talent gives it a scaling range bonus)
-    -   Swing speed: [Rangescraper](Rangescraper.md) (1.3x)
+    -   Swing speed: [Rangescraper](Rangescraper.md), [Infected](Infected.md) (1.3x)
     -   Quantity of unique criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Rifles are the only weapon type that have four basic m1s before a flourish.

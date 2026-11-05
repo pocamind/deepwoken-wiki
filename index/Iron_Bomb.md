@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 229304
+revid: 233346
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -22,7 +22,7 @@ categories: [Items]
 
 An explosive formerly used for demolition, now used to demolish all. It can be thrown with the keybind E.
 
-The base maximum amount of bombs you can hold is 99, though can be surpassed by with the [Packmule](Boons_and_Flaws.md#packmule) Boon.
+The base maximum amount of bombs you can hold is 99, though it can be surpassed with the [Packmule](Boons_and_Flaws.md#packmule) Boon to 101.
 
 To gain this recipe, you will have to talk to [Lucien](Lucien.md) at [Songseeker Wilds](Songseeker_Wilds.md) nearby the gate of [Ancient Rotlands](Ancient_Rotlands.md). Talk to him and purge [Mineskippers](Mudskipper.md#mineskipper). Talk to Lucien once you've purged them all and obtain the Family Recipe Talent. After this you will be able to receive Talents from the "Saboteur" Talent tree which allows for more ways to play around with your bombs.
 
@@ -60,6 +60,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 
 -   **Hot Potato** - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)
     -   Thus speed boost lasts 2 seconds.
+    -   Has a ~30% chance to detonate twice, adding 35.12 damage at 100 int.
 
 -   **Explosive Efficiency** - Crafting a bomb will yield two bombs. Chance to make three.
     -   This Talent is a must take as it will greatly increase the efficiency of your bomb crafting.
@@ -70,7 +71,8 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 
 ## Information
 
--   Bombs deal 10 typeless damage at base and scale on Intelligence. At 100 Intelligence, they deal 45.5 damage.
+-   Bombs deal 10 typeless damage at base and scale on Intelligence. At 100 Intelligence, they deal 45.5 damage, or 80.62 damage on a double detonate.
+-   The max possible damage bombs can do without damage modifiers is 89.72, achieved with a double detonation on an opponent that is on fire, Possibly 96.74 damage if the **Incendiary Formula** talent works on the double detonate explosion.
 -   Because bombs deal typeless damage, they ignore physical and elemental resistances.
 -   Iron Bombs can be buffed with universal damage modifiers such as [Taunt](Attunement-less.md#taunt) or [Ardour Scream](Murmur%253A_Ardour.md).
 -   Bomb usage has a 5 second cooldown.
@@ -90,6 +92,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 ## Trivia
 
 -   Bombs can interact with and destroy terrain.
+-   Bomb jumps have been removed
 -   You can kill mobs quickly with bombs, but PvE scaling dependent on your power plays a huge factor in this. Talents as Underdog greatly improve the usage for bombs in PvE.
 -   [The biggest bomb preacher](https://www.youtube.com/@TijnHams/videos)
 -   [Helpful guide](https://youtu.be/yEaDf1yHxCg?si=3a6atZGJYWW_YNpW)

@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233237
+revid: 233352
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -13,17 +13,18 @@ notices:
 | The Harvestman | |
 |---|---|
 | health | 7200(+1000 per player) |
-| attacks | Resurrection, Accursed Flames: Ritual, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
 | drops | Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, Familiar Prosthetic Arm, 2 Crowns, 2 Knowledge, See Loot Table |
+| moves | Resurrection, Blackhole Flames, Accursed Flames: Rift, Crowd Control, Blackhole Pull, The Harvestman's Culling |
+| pronouns | He/Him[1] |
 | locations | The Harvest Ritual |
 
 “ An effigy made, a prayer whispered, a harvest blessed - face the wrath of the Harvestman, if you dare! ”
 
-― World Event
+― World Event timer
 
 ## Description
 
-The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in [The Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md). He is a towering scarecrow made from dried straws of Ichorgrass[\[1\]](#cite-note-1), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms that are primarily used in combat.
+The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in [The Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md). He is a towering scarecrow made from dried straws of Ichorgrass[\[2\]](#cite-note-2), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms.
 
 Unlike all bosses, this boss involves a unique gimmick where the player is **only** allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. This boss is intended to be fought like a bullet hell, where the only way to avoid attacks is to move around them.
 
@@ -50,8 +51,8 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
  |
 | 
 
-**Accursed Flames: Ritual**  
-(★☆☆)
+**Blackhole Flames**  
+(★★☆)
 
  | The Harvestman raises his right hand and quickly points to the ground right after, summoning several geysers of purple flames in the field. Which can perform either of the following attacks:
 
@@ -105,7 +106,23 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
  | 
 
  |
-|  | Attacks unlocked in phase 2 |  |
+| 
+
+**Blackhole Pull**  
+(☆☆☆)
+
+ | The Harvestman snaps his fingers before you are sightly pulled towards him.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ☕︎ Harmless
+-   Ø Undefendable
+
+ | 
+
+ |
+| **Attacks unlocked on Phase 2** |
 | 
 
 **The Harvestman's Culling**  
@@ -128,10 +145,10 @@ Unlike all bosses, this boss involves a unique gimmick where the player is **onl
 
 ## Passives
 
--   **Cursed Burn** - The Harvestman's attacks inflict Cursed Burn on the player.
 -   The Harvestman's Rules - The Harvestman cannot be attacked by anything else other than the [Pumpkin Pitch](Pumpkin_Pitch.md) mantra. Your light attack is changed to [Pumpkin Pitch](Pumpkin_Pitch.md) throw.
--   Joy for the Living - whenever a player becomes a [Gourdskipper](Gourdskipper.md), all surviving players are awarded 2 [Joy](Joy.md).
 -   The Unrelenting - Every player that gets turned into a [Gourdskipper](Gourdskipper.md) during the boss now buffs surviving players, increasing their damage by 10% for every person.
+-   **Cursed Burn** - The Harvestman's attacks inflict Cursed Burn on the player.
+-   Joy for the Living - whenever a player becomes a [Gourdskipper](Gourdskipper.md), all surviving players are awarded 2 [Joy](Joy.md).
 -   Curse of the Gourdskipper - Dying to the Harvestman revives the player as a [Gourdskipper](Gourdskipper.md).
     -   Attacking other players as a [Gourdskipper](Gourdskipper.md) will infect them as well, and grants 10 [Joy](Joy.md) to the attacker.
     -   Using [Pumpkin Pitch](Pumpkin_Pitch.md) against an infected player will instantly defeat them, removing them from the [Dungeon](Dungeons.md).
@@ -156,9 +173,26 @@ Your healing can be boosted if the you are wearing the [Familiar Prince's Armor]
 
 Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Crowd Control attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Crowd Control flames properly, and roll cancel if you have to.
 
+[Harvestman's Cloak](<Harvestman's_Cloak.md>) does **not** double your Pumpkin Pitch damage during the fight.
+
 You don't lose a life for dying in the fight, even if you die to another player rather than The Harvestman himself, making participation entirely risk-free.
 
-## Loot Table
+## Rewards
+
+Upon defeating The Harvestman, all players with damage credit will receive 300 [Joy](Joy.md), with a chance for additional Joy if they were eligible for the _Clutch Bonus_. Additionally, all players will be awarded with a chest, [see below](#loot-table).
+
+The Clutch Bonus grants additional Joy when the boss is defeated if certain conditions were met;
+
+1.  You were at or below 10% health when the boss' death animation enda, increasing the Joy reward by 200.
+2.  You started with 30 players, and 5 or less survived. This applies a **final 2x** multiplier to the Joy reward, applied after the additive bonuses.
+
+Both can be met simultaneously, stacking the bonuses.
+
+If you are eligible for a Clutch Bonus, the boss defeated message will say "CLUTCH BONUS" next to the total Joy received amount.
+
+Alternatively, defeating the boss while being at or above 95% health will also reward 200 additional Joy, but it will not display a message on boss defeat. This is only registered at the end of the boss' death animation, similar to the other HP related clutch bonus, meaning the health pack that is gained when the boss dies can be used to help with meeting this requirement.
+
+### Loot Table
 
 <table>
 <tbody>
@@ -203,6 +237,7 @@ You don't lose a life for dying in the fight, even if you die to another player 
 -   [Resonances](Resonance.md) are enabled before the fight initiates, but not during it.
 -   The crowns and knowledge are only awarded around 20 seconds after the boss is killed, so make sure to wait before entering the portal.
 
-## Navigation
+## References
 
-1.  [↑](#cite-ref-1) [Harvestman's Cloak](<Harvestman's_Cloak.md>) description
+1.  [↑](#cite-ref-1) [Harvestman's Halo](<Harvestman's_Halo.md>) description
+2.  [↑](#cite-ref-2) [Harvestman's Cloak](<Harvestman's_Cloak.md>) description

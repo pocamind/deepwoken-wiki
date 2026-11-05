@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 209497
+revid: 233271
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,9 +32,9 @@ When losing enough sanity, the player will endure negative effects.
 | **Shivering** | Slows you down for 2 seconds. The [Unfazed](Talents.md#unfazed) Talent makes you immune to this, as long as you are above 40% Sanity. | <70% | 30–36 seconds |
 | **Desaturation** | The world becomes desaturated. This effect gets more intense the less sanity you have. At low enough sanity, your vision will gain a blue hue with bubbling effects encroaching on the sides of your screen. | <70% | N/A |
 | **Blurring** | Blurs your vision, making it harder to see further. This effect gets more intense the less sanity you have. | <50% | N/A |
-| **Panicking** | Stuns you for 1 second and deal 10 damage (5 with [Grasp on Reality](Talents.md#grasp-on-reality) Talent). Is then followed by shivering. If you have the [Unfazed](Talents.md#unfazed) Talent, then this effect is ignored and is replaced by 2.5 seconds of shivering. | <40% | 30–36 seconds |
+| **Scratching** | Stuns you for 1 second and deal 10 damage (5 with [Grasp on Reality](Talents.md#grasp-on-reality) Talent). Is then followed by shivering. If you have the [Unfazed](Talents.md#unfazed) Talent, then this effect is ignored and is replaced by 2.5 seconds of Shivering. | <40% | 30–36 seconds |
 | **Hidden Faces** | When panicking or scratching, hide the face and name of nearby humanoids (including players) for 30 seconds. | <40% | 360 seconds |
-| **Scratching** | Stuns you for 1.5 second and deal 20 damage (10 with [Grasp on Reality](Talents.md#grasp-on-reality) Talent). Is then followed by shivering. The [Unfazed](Talents.md#unfazed) Talent offers no protection against this. | <10% | 30–36 seconds |
+| **Panicking** | Stuns you for 1.5 second and deal 20 damage (10 with [Grasp on Reality](Talents.md#grasp-on-reality) Talent). Is then followed by shivering. The [Unfazed](Talents.md#unfazed) Talent offers no protection against this. | <10% | 30–36 seconds |
 | **Execution** | If knocked by any means, including scratching, you are immediately killed. | <10% | N/A |
 | **Head Explosion** | Reaching 0 Sanity with a [No Life King](Curse_of_the_No_Life_King.md) Enchantment in The Depths will immediately kill the player. | 0% | N/A |
 

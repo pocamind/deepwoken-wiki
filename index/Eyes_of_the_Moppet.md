@@ -1,6 +1,6 @@
 ---
 title: Eyes of the Moppet
-revid: 233233
+revid: 233335
 source: https://deepwoken.fandom.com/wiki/Eyes_of_the_Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Hallowtide, Face, Equipment, Event Item]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Face |
 | rarity | Common |
-| selling price | 7 |
+| selling price | N/A |
 | requirements | None |
 | weight | 0.5 |
 | styles | Dark, Light |

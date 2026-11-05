@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 232418
+revid: 233265
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -40,7 +40,7 @@ The Drakemaw Gauntlets are a Light Weapon in the Fists category. They are gauntl
 
 ## Critical
 
-The user performs a quick thrust forward that ragdolls the opponent and pushes them away _slightly_. Deals high posture damage.
+The user performs a quick thrust forward that ragdolls the opponent and pushes them away _slightly_. Deals 12 posture damage.
 
 The critical has a cooldown of **5 seconds**.
 

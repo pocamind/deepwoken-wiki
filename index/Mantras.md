@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 218108
+revid: 233330
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -285,7 +285,7 @@ A Mantra's type generally corresponds to its respective stat. Weapon Mantras and
 
 ### [Monster Mantras](Monster_Mantras.md)
 
-Mantras you get by turning in monster parts to an NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in [New Kyrsa](https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa) After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the Mantra and what is the Mantra is based off of:
+Mantras you get by turning in rare monster parts to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in Castle Light, to get Carrion to spawn in Castle Light, talk to him as "Strange Diver" in [New Kyrsa](https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa) After that Carrion will spawn in the library in Castle Light. These are the monster parts, their respective monster, the name of the Mantra and what is the Mantra is based off of:
 
 -   Megalodaunt -> Megalodaunt Coral -> Coral Spear (Thousand Needles)
 -   Dread Serpent -> Dread Serpent's Tooth -> Dread Breath (Dread's Ice Beam)
@@ -300,7 +300,7 @@ Mantras you get by turning in monster parts to an NPC in Castle Light. To get th
 
 **NOTE: MONSTER MANTRAS CANNOT BE TRADED AT THE SHRINE OF TEMPTATION**
 
-All Mantras gained from the npc are 2 star Mantras and some have special effects, for example, Dread Breath proccing Chill, and also proccing Crystals if you have the respective Frostdraw path. This also goes for Mecha Gatling, as it procs Fire and will proc Lava Serpent eruptions as a result if you have the respective path. Keep in mind that these are rare mob drops and may require alot of grinding to obtain some certain ones
+All Mantras gained from Carrion are 2 star Mantras and some have special effects, for example, Dread Breath proccing Chill, and also proccing Crystals if you have the respective Frostdraw path. This also goes for Mecha Gatling, as it procs Fire and will proc Lava Serpent eruptions as a result if you have the respective path. Keep in mind that these are rare mob drops and may require time and grinding to obtain some certain ones
 
 ### [Oath Mantras](Oaths.md)
 
