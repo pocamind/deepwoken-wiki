@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 233343
+revid: 233449
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -6575,8 +6575,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Grants a Talent Tool that can only be used while you are high off the ground.
     -   On use, turn into a lightning bolt and speed downwards, ragdolling and damaging targets hit. The damage scales on the height difference.
 
--   Light Piercer: [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>) - While using a spear, shoot out 3 light spears thstbpierce through your opponent and their block. While using Familiar Prince's Armor, all passive regeneration is increased by 10%.
+-   Light Piercer: [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>) - While using a spear, shoot out 3 light spears that pierce through your opponent and their block. While using Familiar Prince's Armor, all passive regeneration is increased by 10%.
     -   Grants a Talent tool that can only be used if you have a [Spear](Iron_Spear.md) equipped. On use, fire three spear projectiles forwards, dealing 10 damage each. These cannot be blocked.
+    -   Can be used on Silentheart
 
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
     -   This affects:

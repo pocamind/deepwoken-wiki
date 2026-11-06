@@ -1,6 +1,6 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 233292
+revid: 233477
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -43,12 +43,23 @@ This Outfit has 2750 durability and grants +25% Physical resistance ResistancePh
 
 The [Lightning Drop](Talents.md#lightning-drop) Talent grants a Talent tool that upon activation and being airborne (studs distance unknown), you quickly drop down and strike opponents near where you land with lightning. This deals damage scaling per stud fell by 0.54 capping at 66.08 typeless damage with a cooldown of 10 seconds, the PVE multiplier on this attack is 6.4x.
 
+Some abilities can give you enough altitude required for [Lightning Drop](Talents.md#lightning-drop) to be usable, such as:
+
+-   [Wind Step](Talents.md#wind-step) talent
+-   [**Metal Rampart**](Ironsing.md#metal-rampart) mantra
+-   [**Flame Leap**](Flamecharm.md#flame-leap) and [**Strong Leap**](Attunement-less.md#strong-leap) mantras
+-   Feinted reversal [**Flame Leap**](Flamecharm.md#flame-leap) mantra
+-   Feinted [**Heavenly Wind**](Galebreathe.md#heavenly-wind) mantra
+-   TBA
+
+  
+
 ## Trivia
 
 -   This outfit is based on Rogue's Lineage's [Dragon Sage's](https://rogue-lineage.fandom.com/wiki/Dragon_Sage) armor, the Dragon Sage Armor.
     -   Unlike the Rogue Lineage's variant which is orange, the one used in Deepwoken is blue.
 -   Lightning Drop is an ability of Dragon Sage in Rogue Lineage, similarly allowing them to strike down when high enough in the air, dealing damage around them and cancelling fall damage.
-    -   It also can be used when while grounded or not high enough in the air. This variant does not perform the attack and doesn't do anything, this will make the ability go on a 10 seconds cooldown.
+    -   It also can be used while grounded or not high enough in the air. This variant does not perform the attack and doesn't do anything, this will make the ability go on a 10 seconds cooldown.
     -   You sometimes take fall damage during cast
     -   Will sometimes fail for no reason
     -   Using any ability that makes you take fall damage (Such as rolling, dash, swinging mid air, etc) will reset the distance you fell to 0.

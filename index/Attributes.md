@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 230943
+revid: 233455
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -54,10 +54,11 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
 
 -   Physical strength. _Increases **carry load** and **armor penetration**_. This Attribute falls under the Body category.
     -   Increases [Carry Load](Carry_Load.md) by 0.5 per point in Strength.
-    -   For every point in strength, gain 0.1% melee and mantra penetration.
+    -   For every point in strength, gain 0.1% General armor penetration (PEN).
+        -   This affects **all** of your attacks; Mantras, weapon attacks, status effect damage, non-Mantra abilities, etc.
     -   Many heavy weapons require an amount of Strength to be held, such as a _[Petra's Anchor](<Petra's_Anchor.md>)_ needing 10 STR, or a _[Hivelord's Hubris](<Hivelord's_Hubris.md>)_ needing 60 STR.
 -   Unlocks Strength-related [Talents](Talents.md) and [Mantras](Attunement-less.md#strength-mantras).
--   Gain Strength EXP via cutting down trees, using the Boulder (this will train your Fortitude at the same time), parrying, blocking, or dealing damage.
+-   Gain Strength EXP via cutting down trees, using the [Boulder](Training_Gear.md#attribute-training-gears), parrying, blocking, or dealing damage.
 -   _**[Unbounded](Attributes_Unbound.md) by going to [Miner's Landing](<Miner's_Landing.md>) and helping [Tolkat](Tolkat.md) by punching the rock up the hill.**_
 
 ### Fortitude (FTD)
@@ -70,7 +71,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
         -   100 Fortitude will grant you 37.5 HP.
     -   Some [Equipment](Equipment.md) items and some weapons, most notably [Shields](Shields.md), require Fortitude to be equipped.
 -   Unlocks Fortitude-related [Talents](Talents.md) and [Mantras](Attunement-less.md#fortitude-mantras).
--   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder (this will train your Strength at the same time, while giving you 2x the fortitude training).
+-   Gain Fortitude EXP via taking damage with the [Training Vest](Training_Vest.md), throwing up from consuming raw materials, and using the [Boulder](Training_Gear.md#attribute-training-gears).
 -   _**[Unbounded](Attributes_Unbound.md#fortitude-unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md).**_
 
 ### Agility (AGL)
@@ -84,7 +85,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   Reduces the vision cone of NPCs and Monsters.
     -   [Parrying Daggers](Parrying_Dagger.md) and [Kyrstears](Kyrstear.md) have an Agility requirement to wield.
 -   Unlocks Agility-related [Talents](Talents.md) and [Mantras](Attunement-less.md#agility-mantras).
--   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the [Ankle Weights](Training_Gear.md#attribute-training-gears).
+-   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the [Ankle Weights](Training_Gear.md#attribute-training-gears) and [Boulder](Training_Gear.md#attribute-training-gears) training gears.
 -   _**[Unbounded](Attributes_Unbound.md#agility-unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).**_
     -   _You can watch a guide to get to the [Windrunner](Windrunner.md) with [Jetstriker](Oath%253A_Jetstriker.md) and 75 agility [here](https://youtu.be/RoDUDMDaK_g) ._
 
@@ -94,7 +95,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   One point in Intelligence gives 2 Ether.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [Talents](Talents.md) and [Mantras](Attunement-less.md#intelligence-mantras).
--   Gain Intelligence EXP via foraging, [Fishing](Fishing.md), [brewing potions](Alchemy.md), opening unread [Books](Books.md), discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
+-   Gain Intelligence EXP via foraging, [Fishing](Fishing.md), [brewing potions](Alchemy.md), opening unread [Books](Books.md), discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the [Math Textbook](Training_Gear.md#attribute-training-gears) (trains all Mind attributes), [Prayer Beads](Training_Gear.md#attribute-training-gears) (sets **intent** on Willpower), or [Encyclopedia](Training_Gear.md#attribute-training-gears), and reading lore books for the first time.
     -   If you are using the Math Textbook, you will have to do a math problem.
 -   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat [Bluecaps](Bluecap.md) until unbounding.**_
 
@@ -104,7 +105,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
         -   [Ganymede](Ganymede.md) has a 1.2x Sanity gain multiplier, meaning they gain 3.6 Sanity per point in Willpower.
 -   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras).
--   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, regenerating sanity, having an empty stomach, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
+-   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, regenerating sanity, having an empty stomach, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using the [Prayer Beads](Training_Gear.md#attribute-training-gears) or [Math Textbook](Training_Gear.md#attribute-training-gears) training gears.
 -   _**[Unbounded](Attributes_Unbound.md#willpower-unbound) by talking to [Akira](Akira.md) in [Celtor Wastes](Celtor_Wastes.md) and then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 -   It takes around 35 seconds to level up your Willpower without any xp using Prayer Beads. Therefore about 8 minutes and 45 seconds for [15 investment points](Character_Stats.md).
 
@@ -115,7 +116,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
     -   The [Kyrsieger](Kyrsieger.md), [The Weaving Web](The_Weaving_Web.md), and [Vortex Echo](Vortex_Echo.md) need charisma to be equipped.
--   Gain Charisma EXP by selling or purchasing items, getting good reputation with a faction, playing [Instruments](Instruments.md), using the Encyclopedia (this will train your Intelligence at the same time) and using the _How To Make Friends_ book.
+-   Gain Charisma EXP by selling or purchasing items, getting good reputation with a faction, playing [Instruments](Instruments.md), using the [Encyclopedia](Training_Gear.md#attribute-training-gears) (sets **intent** on Intelligence), [Math Textbook](Training_Gear.md#attribute-training-gears), or How To Make Friends book.
 -   _**[Unbounded](Attributes_Unbound.md#charisma-unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to [Etris](Etris.md).**_
 
 ## Weapon Attributes

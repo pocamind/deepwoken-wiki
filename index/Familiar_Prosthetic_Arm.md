@@ -1,6 +1,6 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 233235
+revid: 233459
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces, Hallowtide]

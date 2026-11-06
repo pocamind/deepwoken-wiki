@@ -1,6 +1,6 @@
 ---
 title: Darkblood Vial
-revid: 230747
+revid: 233451
 source: https://deepwoken.fandom.com/wiki/Darkblood_Vial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -27,11 +27,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Darkblood Vial is a drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and is also a craftable item.
+Darkblood Vial is a drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and is also a craftable item at a [campfire](Campfire_Pit.md).
 
 ## Crafting
 
 -   [Equipment](Equipment.md):
     -   [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md): 1x Darkblood Vial + 1x [Crimson Terrapod Shell](Crimson_Terrapod_Shell.md) + [Terraplate Pauldrons](Terraplate_Pauldrons.md)
--   [Ingredients](Ingredients.md)
+-   [Ingredients](Ingredients.md):
     -   [Necrotic Membrane](Necrotic_Membrane.md): 1x Darkblood Vial + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Parasol Membrane](Parasol_Membrane.md)
+-   [Outfits](Outfits.md):
+    -   [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>): 2x Darkblood Vial + 5x [Cloth](Cloth.md) + 5x [Fiber](Fiber.md) + 1x [Curse of the No Life King](Curse_of_the_No_Life_King.md) [Enchant Stone](Enchant_Stone.md) + 1x [Bloodless Gem](Bloodless_Gem.md)

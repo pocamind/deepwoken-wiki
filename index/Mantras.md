@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 233330
+revid: 233479
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -216,6 +216,7 @@ Large and threatening fire-based spells. Excels in crowd control and area denial
 -   Can be further upgraded with the [Azure Flame](Talents.md#azure-flame) Talent for increased burn damage and larger Eruptions.
 -   Has a hybrid path with [Shadowcast](Shadowcast.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#flamecharm).
 -   Has a hybrid path with [Frostdraw](Frostdraw.md) called “Flashboil,” or “Steam Path.”
+-   Has a hybrid path with [Bloodrend](Bloodrend.md) called "Exotherm Path: Sanguine Blaze".
 
 ### [Thundercall Mantras](Thundercall.md)
 
@@ -260,6 +261,7 @@ Ironsing provides the widest ranged Mantras in the game and the best damage outp
 -   Offers Mantras that favor the user, resupplying their armor durability during fights whilst reducing the opponents
 -   Applies metal rods on hit, which can be pulled to pull the target towards you. Several Talents augment the functionality of these rods.
 -   Gilded Path: Scrapsinger can be obtained at 35 Ironsing. This path allows you to consume your rods on flourish, siphoning your opponent's armor and proccing the Scrapsinger Talent tree.
+-   Has a hybrid path with [Bloodrend](Bloodrend.md) called "Composite Path: Alloyblood".
 -   Tunes in well with the [Metal](Metal.md) enchantment, as Metal gives you benefits depending on how much armor your opponent has.
 
 ### [Bloodrend Mantras](Bloodrend.md)
@@ -268,6 +270,8 @@ Harvest the blood of yourself and your enemies to hinder them and empower your m
 
 -   Weaken your enemies with [Blood Poison](Status_Effects.md#blood-poisoning), applying various debuffs and priming your opponent for your Talents.
 -   Can drain your opponent's blood, sometimes causing them to die before their health depletes.
+-   Has a hybrid path with [Flamecharm](Flamecharm.md) called "Exotherm Path: Sanguine Blaze".
+-   Has a hybrid path with [Ironsing](Ironsing.md) called "Composite Path: Alloyblood".
 
 ### [Hybrid Mantras](Hybrid_Abilities.md)
 

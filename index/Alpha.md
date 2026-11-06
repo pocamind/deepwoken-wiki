@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 225498
+revid: 233453
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
@@ -150,3 +150,6 @@ This dialogue is unlocked if you talk to him with the [Ignition Delver](Ignition
     -   This is despite the fact that he has never met the player before.
     -   [Sunway](Sunway.md) also says the same line under this condition.
     -   This can only be achieved through gliching through the wall, or exploiting.
+-   Alpha's quote about Canors always paying debts may be a reference to a famous saying about House Lannister in Game of Thrones.
+    -   Quoted from Tyrion Lannister; "A Lannister always pays his debts" at some point in the early seasons
+    -   House Lannister bears an insignia of a lion, the same animal of which Alpha's aspect variant is named after.

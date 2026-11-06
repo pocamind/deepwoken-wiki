@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 230546
+revid: 233454
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -218,7 +218,7 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
     -   Impel's Chainlash can be movestacked with Mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
 -   Max range of 45 studs, however over past 40 studs Enchained is cleared, cancelling Chainlash.
 -   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock. (Aim is slightly delayed)
--   Doesn't cancel on parry nor has auto parry frames forcing opponents to parry each projectile individually.
+-   Doesn't cancel on parry
 -   No endlag on whiff or hit, unless Chainlash procs.
 -   Has a cooldown of 15 seconds.
 
