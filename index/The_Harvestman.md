@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233418
+revid: 233437
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | health | 7200(+1000 per player) |
 | drops | Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, Familiar Prosthetic Arm, 2 Crowns, 2 Knowledge, See Loot Table |
-| moves | Resurrection, Blackhole Flames, Accursed Flames: Rift, Crowd Control, Blackhole Pull, The Harvestman's Culling |
+| moves | Resurrection, Blackhole Flames, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
 | pronouns | He/Him[1] |
 | locations | The Harvest Ritual |
 

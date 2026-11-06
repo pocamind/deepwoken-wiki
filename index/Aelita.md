@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 231960
+revid: 233448
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -95,6 +95,7 @@ Aelita's event involves forcing the player to perform three tasks for her. Faili
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
 -   There is a glitch with Aelita's event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
 -   Before wearing the [Jester's Garb](<Jester's_Garb.md>), she previously wore an old version of the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md). This was later changed due to the misconduct of the clothing uploader.
+-   Based on Visionshaper lore, Aelita's days alive in Lumen are numbered. The clock is ticking.
 
 ## References
 

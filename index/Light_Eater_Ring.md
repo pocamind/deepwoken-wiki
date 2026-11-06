@@ -1,6 +1,6 @@
 ---
 title: Light Eater Ring
-revid: 223117
+revid: 233423
 source: https://deepwoken.fandom.com/wiki/Light_Eater_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -27,6 +27,6 @@ categories: [Equipment, Rings]
 
 The Light Eater Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
-It causes the user to restore Ether upon taking [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) damage, such as from Mantras, Burn, Storm [Enchant](Enchantments.md), or [Surge Overloads](Talents.md#unstable-capacitor). This also procs on block, parry, and dodge. The amount of Ether restored scales on the amount of damage taken.
+It causes the user to restore Ether upon taking [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) damage, such as from Mantras, Burn, Storm [Enchant](Enchantments.md), or [Surge Overloads](Talents.md#unstable-capacitor). This also procs on block, parry, and dodge, netting the user **2 times more ether when they defend from a Flamecharm or Thundercall mantra**. The amount of Ether restored scales on the amount of damage taken.
 
 Light Eater Ring cannot proc on self damage.

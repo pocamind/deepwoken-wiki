@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Chapeau"
-revid: 233333
+revid: 233447
 source: https://deepwoken.fandom.com/wiki/Hunter's_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Hallowtide, Head, Equipment, Event Item]

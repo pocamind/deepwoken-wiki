@@ -1,6 +1,6 @@
 ---
 title: "Familiar Prince's Armor"
-revid: 233322
+revid: 233432
 source: https://deepwoken.fandom.com/wiki/Familiar_Prince's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -50,3 +50,4 @@ Additionally, while using the **Familiar Prince's Armor**, all passive regenerat
 -   Similarly to [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) and [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), this armor has high resistances, as Deep Knight is a notoriously tanky class with access to a few healing abilities.
 -   Despite this armor appearing visually to be the [Deep Knight's](https://rogue-lineage.fandom.com/wiki/Deep_Knight) armour, even including the prince fact the regeneration bonus is the highest in that game, Light Piercer actually comes from the [Church Knight.](https://rogue-lineage.fandom.com/wiki/Church_Knight)
 -   The weapon ability does not cancel out [Whistling Periapt](Whistling_Periapt.md) while actively using it.
+-   Is affected by damage modifiers such as Ardour Scream, Lose Your Mind, etc.

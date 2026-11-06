@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 233372
+revid: 233425
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -104,4 +104,4 @@ This section is transcluded from [a different page](Talents.md#saboteur). To cha
 
 -   Bombs can interact with and destroy terrain.
 -   You can kill mobs quickly with bombs, but PvE scaling dependent on your power plays a huge factor in this. Talents as Underdog greatly improve the usage for bombs in PvE.
--   [Helpful guide](https://youtu.be/yEaDf1yHxCg?si=3a6atZGJYWW_YNpW)
+-   [Helpful guide](https://youtu.be/yEaDf1yHxCg?si=3a6atZGJYWW_YNpW).

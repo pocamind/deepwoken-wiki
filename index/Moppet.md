@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 233268
+revid: 233427
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]

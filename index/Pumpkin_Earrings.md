@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Earrings
-revid: 233234
+revid: 233442
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Ears, Hallowtide, Event Item]
