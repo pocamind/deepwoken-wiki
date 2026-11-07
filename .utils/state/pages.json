@@ -1593,7 +1593,7 @@
   },
   "4317": {
     "title": "Bounty Hunting",
-    "lastrevid": 230682
+    "lastrevid": 233510
   },
   "4332": {
     "title": "Authority Soldier",
@@ -2293,7 +2293,7 @@
   },
   "5671": {
     "title": "Echoes",
-    "lastrevid": 232045
+    "lastrevid": 233515
   },
   "5672": {
     "title": "Chime of Dwelling",
@@ -2381,7 +2381,7 @@
   },
   "5798": {
     "title": "Ethiron Curseshield",
-    "lastrevid": 224558
+    "lastrevid": 233507
   },
   "5799": {
     "title": "Kyrscleave",
@@ -2649,7 +2649,7 @@
   },
   "6434": {
     "title": "Royal Etrean Guard",
-    "lastrevid": 232870
+    "lastrevid": 233516
   },
   "6436": {
     "title": "Justicar (Origin)",
@@ -3697,7 +3697,7 @@
   },
   "9778": {
     "title": "Pumpkin Pitch",
-    "lastrevid": 233132
+    "lastrevid": 233514
   },
   "9782": {
     "title": "Widow's Wail Cemetery",
@@ -3905,7 +3905,7 @@
   },
   "10939": {
     "title": "Celtorian Tideknight",
-    "lastrevid": 232861
+    "lastrevid": 233517
   },
   "10948": {
     "title": "The Diluvian Mechanism",
@@ -4161,7 +4161,7 @@
   },
   "12215": {
     "title": "Voidwalker",
-    "lastrevid": 232073
+    "lastrevid": 233512
   },
   "12216": {
     "title": "Lone Warrior",
@@ -9961,7 +9961,7 @@
   },
   "26949": {
     "title": "Prop Hunt",
-    "lastrevid": 233376
+    "lastrevid": 233522
   },
   "26957": {
     "title": "Familiar Prosthetic Arm",
@@ -10038,5 +10038,9 @@
   "27086": {
     "title": "Infected",
     "lastrevid": 233374
+  },
+  "27168": {
+    "title": "Account Tier",
+    "lastrevid": 233513
   }
 }

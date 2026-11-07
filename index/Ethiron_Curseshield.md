@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 224558
+revid: 233507
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -34,3 +34,4 @@ The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 ## Trivia
 
 -   This shield bears a heavy resemblance to the [Greatshield of Artorias](https://darksouls.fandom.com/wiki/Greatshield_of_Artorias) from _Dark Souls_.
+-   It is identical to the [Gourdguard](Gourdguard.md) in both stats and requirements, with the only difference being its appearance.

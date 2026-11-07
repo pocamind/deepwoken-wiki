@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 232870
+revid: 233516
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
@@ -21,7 +21,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +30% Physical Armor , +30% Elemental Armor |
 | buffs | +20% Ether Regen |
 | talents | Paired Soul |
-| obtainment | Chests from:, Crypt of the Unbroken, Faction Ambushes (The Ministry), Cinders of Etris, Pure Umbrite turn-ins, Fishing |
+| obtainment | Chests from:, Crypt of the Unbroken, Faction Ambushes (The Ministry), Cinders of Etris, Pure Umbrite turn-ins, FishingOther:, Sold by Glaive Spellhardt |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

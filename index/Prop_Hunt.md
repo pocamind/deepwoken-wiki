@@ -1,6 +1,6 @@
 ---
 title: Prop Hunt
-revid: 233376
+revid: 233522
 source: https://deepwoken.fandom.com/wiki/Prop_Hunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Hallowtide, Minigames, World Event]
@@ -24,11 +24,11 @@ In this gamemode, all players are randomly selected to be either a Hider or a Se
 
 ### Hiders
 
-The Hiders gain the ability to disguise themselves as a prop (e.g. a Barrel or Pumpkin) by using the Prop Selector tool, to attempt to blend-in with the Manor's environment.
+The Hiders gain the ability to disguise themselves as a prop (e.g. a Barrel or Pumpkin) by using the Prop Selector tool, to attempt to blend-in with the Manor's environment. Periodically a high-pitched whistle sound effect will play from the Hiders, potentially notifying the Seekers that there are Hiders nearby. This is triggered at a different interval for each Hider; hiding near other Hiders may get you caught.
 
 The Hiders are tasked with waiting out the time limit without getting caught by the Seekers. If a Seeker catches a Hider, then that Hider will **become** a Seeker, with their goal changing to finding the remaining Hiders.
 
-Entering the water is considered going out-of-bounds, causing any Hider who does so to immediately become a Seeker. Just don't do this.
+Note: Console players cannot shift between the prop selector pages, as the Q and E inputs were not routed to any console button.
 
 ### Seekers
 
@@ -38,16 +38,15 @@ Seekers can catch Hiders by attacking props with basic attacks. If a Seeker uses
 
 ## Rewards
 
--   If Seekers win, by finding all of the Hiders, the reward differs depending on if you were initially a Hider or a Seeker.
-    -   If you were a Hider at the start of the round, you will be rewarded with 10 Joy.
-    -   If you were a Seeker at the start of the round, you will be rewarded with Joy, scaling on the amount of Hiders you caught.
--   If Hiders win, the remaining Hiders will be awarded with 60 Joy and 3 [Goodie Bags](Goodie_Bag.md).
+-   All Seekers will be awarded with 10 [Joy](Joy.md), with an additional 10 Joy per Hider they caught.
+-   All remaining Hiders (if any) will be awarded with 3 [Goodie Bags](Goodie_Bag.md) and 60 Joy.
 
 ## Trivia
 
 -   Hiders will have specific [Outfits](Outfits.md), this includes: [Carefree Garments](Carefree_Garments.md), [Seamstress's Attire](<Seamstress's_Attire.md>), and [Varicosan Finery](Varicosan_Finery.md). The outfits with female alternatives will always be the male version.
     -   Seekers will wear: [Sanguine Finery](Sanguine_Finery.md).
 -   You used to be able to have the option of hiding as a coffin, but this was swiftly removed due to a bug causing you to be invisible.[\[1\]](#cite-note-1)
+-   The whistle sound effect that is played from Hiders was taken from the [Beast Whistle](Mounts.md) tool.
 
 ## References
 
