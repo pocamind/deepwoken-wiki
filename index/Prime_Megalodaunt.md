@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 229187
+revid: 233493
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -53,12 +53,12 @@ Primes are the strongest variant, with them hitting harder, having a much higher
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#parry)
+[ParryBlockTelegraph](Combat_Mechanics.md#pb)
 
-Parry
+Parry Block
 
 -   𓆩✧𓆪 Parryable
--   ⛉ Unblockable
+-   ⛊ Blockable
 -   ↻ Undodgeable
 
  | 

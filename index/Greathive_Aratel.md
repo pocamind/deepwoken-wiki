@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 227924
+revid: 233503
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Hive]
@@ -166,6 +166,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md#of-chitin-kith-and-kin) by Naktigonis.
 -   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md#a-symphony-of-strife) by Naktigonis.
 -   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows [Flamecharm](Flamecharm.md) to be used within the Greathive without the whole thing going up in flames.
+-   The Starswept Valley is only dead because all nutrients of the lush forest were sucked up to nourish the growing Greathive.
 -   Everyone inside Greathive Aratel is a [Hivekin](Hivekin.md): either a [Vesperian](Vesperian.md), [Ganymede](Ganymede.md), or [Chrysid](Chrysid.md).
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.
 -   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in Aratel meaning they couldn't be made use of, without travelling to either [Fort Merit](Fort_Merit.md) or [Miner's Landing](<Miner's_Landing.md>), for over two years.

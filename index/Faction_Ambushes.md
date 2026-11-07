@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 231572
+revid: 233483
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Reputation, Mechanics]
@@ -12,7 +12,7 @@ categories: [Factions, Reputation, Mechanics]
 
 Faction Ambushes are a [Random Encounter](Random_Encounters.md) that involves a squad of several faction-affiliated [Enemies](Enemies.md) being sent to kill a player that has sufficiently negative [Reputation](Reputation.md) with their respective faction. The encounter can occur nearly anywhere in Lumen, and will only happen to players who have Hunted reputation or lower with at least one faction. Unlike other random encounters, killing the enemies sent after the player will incur a reputation penalty and therefore lead to an even lower reputation with the respective faction. In exchange, defeating all the enemies will reward a decent-sized [Chest](Chests_&_Sacks.md) filled with items pertaining to that faction.
 
-The enemies sent differ depending on the extent of the player's negative reputation, with lower ranks resulting in more lethal ambushes. Below is a list of possible ambushes.
+The enemies sent differ depending on the extent of the player's negative reputation, with lower ranks resulting in more lethal ambushes. The enemies also vary based on your level, with the higher tier ambushes being impossible to achieve at a low level. Below is a list of possible ambushes.
 
 Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit faction will still attempt to ambush the player regardless.
 
@@ -46,9 +46,9 @@ Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit 
  |
 | [Etrea](Etrea.md) | 
 
--   3 [Vigil Captains](Vigil_Captain.md)
--   3 [Vigil Swordsmen](Vigil_Swordsman.md)
 -   3 [Etrean Soldiers](Etrean_Soldier.md)
+-   3 [Vigil Swordsmen](Vigil_Swordsman.md)
+-   3 [Etrean Captains](Etrean_Captain.md)
 
  | 
 
@@ -59,7 +59,7 @@ Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit 
 
  | 
 
--   The Starswept Valley
+-   [Aratel Island](Aratel_Island.md)
 
  |
 | [Authority](The_Central_Authority.md) | 
@@ -122,8 +122,8 @@ Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit 
  |
 | [The Hundred Legions](The_Hundred_Legions.md) | 
 
--   3 [Legion Captains](Legion_Captain.md)
 -   3 [Legion Soldiers](Legion_Soldier.md)
+-   3 [Legion Captains](Legion_Captain.md)
 
  | 
 
@@ -135,8 +135,8 @@ Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit 
 
  | 
 
--   The Starswept Valley ([Legion Captains](Legion_Captain.md))
 -   Upper Erisia ([Legion Soldiers](Legion_Soldier.md))
+-   [Aratel Island](Aratel_Island.md) ([Legion Captains](Legion_Captain.md))
 
  |
 | [The Summer Company](The_Summer_Company.md) | 

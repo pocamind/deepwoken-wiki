@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 230761
+revid: 233504
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -571,25 +571,48 @@ Attacks with this indicator must be parried. Are unavoidable otherwise depending
  |
 | All attacks that have this attribute:
 
-**Player Attacks**
-
--   [Light's Final Toll](<Light's_Final_Toll.md>) (all variants) stage IV critical
--   [Marrowmade Boots](Marrowmade_Boots.md) special ability
-
 **Monster Attacks**
 
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Drop-Kick
 -   [Nautilodaunt Officiate](Nautilodaunt_Officiate.md): Combo Slam
--   [Prime Megalodaunt](Prime_Megalodaunt.md): Quad Slash
 
 **Boss Attacks**
 
 -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Pouncing Grapple
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Blizzard's Sanction, Pylons of Frost
 -   [Parliament](Parliament.md): Curb Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Eight Heavens, Graceful Slicer
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md):, Commander's Rage, Worldshattering Smackdown
+
+ |
+| 
+
+Parry/Block
+
+ |  | 
+
+  
+Attacks with this indicator must be parried but can also be blocked if you have enough posture. Are unavoidable otherwise.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+
+ |
+| All attacks that have this attribute:
+
+**Player Attacks**
+
+-   [Light's Final Toll](<Light's_Final_Toll.md>) (all variants) stage IV critical
+-   [Marrowmade Boots](Marrowmade_Boots.md) special attack
+
+**Monster Attacks**
+
+-   [Prime Megalodaunt](Prime_Megalodaunt.md): Quad Slash
+
+**Boss Attacks**
+
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Blizzard's Sanction, Pylons of Frost
 
  |
 | 

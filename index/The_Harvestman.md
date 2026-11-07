@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233437
+revid: 233499
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -26,7 +26,7 @@ notices:
 
 The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in [The Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md). He is a towering scarecrow made from dried straws of Ichorgrass[\[2\]](#cite-note-2), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms.
 
-Unlike all bosses, this boss involves a unique gimmick where the player is **only** allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. This boss is intended to be fought like a bullet hell, where the only way to avoid attacks is to move around them.
+Unlike all bosses, this boss involves a unique gimmick where the player is only allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. This boss is intended to be fought like a bullet hell, where the only way to avoid attacks is to move around them.
 
 ## Moveset
 

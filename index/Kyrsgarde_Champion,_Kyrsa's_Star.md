@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 233222
+revid: 233495
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
@@ -71,9 +71,9 @@ After these conditions have been fulfilled, entering the main city will spawn th
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#parry)
+[ParryBlockTelegraph](Combat_Mechanics.md#pb)
 
-Parry
+Parry Block
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable

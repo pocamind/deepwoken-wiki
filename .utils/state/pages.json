@@ -13,7 +13,7 @@
   },
   "522": {
     "title": "Combat Mechanics",
-    "lastrevid": 230761
+    "lastrevid": 233504
   },
   "682": {
     "title": "Aspects",
@@ -317,7 +317,7 @@
   },
   "1216": {
     "title": "The Ferryman",
-    "lastrevid": 229258
+    "lastrevid": 233481
   },
   "1217": {
     "title": "Seasons",
@@ -497,7 +497,7 @@
   },
   "1605": {
     "title": "Greathive Aratel",
-    "lastrevid": 227924
+    "lastrevid": 233503
   },
   "1615": {
     "title": "Tomb of the Nameless Warrior",
@@ -3369,7 +3369,7 @@
   },
   "8679": {
     "title": "Faction Ambushes",
-    "lastrevid": 231572
+    "lastrevid": 233483
   },
   "8683": {
     "title": "Bounty Hunter (NPC)",
@@ -3689,7 +3689,7 @@
   },
   "9765": {
     "title": "Joy",
-    "lastrevid": 233398
+    "lastrevid": 233480
   },
   "9771": {
     "title": "Pumpkin Head",
@@ -6009,7 +6009,7 @@
   },
   "18096": {
     "title": "Prime Megalodaunt",
-    "lastrevid": 229187
+    "lastrevid": 233493
   },
   "18111": {
     "title": "Exotic Megalodaunt",
@@ -8713,7 +8713,7 @@
   },
   "23074": {
     "title": "Kyrsgarde Champion, Kyrsa's Star",
-    "lastrevid": 233222
+    "lastrevid": 233495
   },
   "23076": {
     "title": "Purge Shrine",
@@ -9949,7 +9949,7 @@
   },
   "26926": {
     "title": "The Harvestman",
-    "lastrevid": 233437
+    "lastrevid": 233499
   },
   "26939": {
     "title": "Familiar Vagrant's Armor",
@@ -9993,7 +9993,7 @@
   },
   "26972": {
     "title": "Cursed Flames",
-    "lastrevid": 233262
+    "lastrevid": 233505
   },
   "26977": {
     "title": "Alloyblood Axe",
@@ -10038,9 +10038,5 @@
   "27086": {
     "title": "Infected",
     "lastrevid": 233374
-  },
-  "27099": {
-    "title": "Effigy Face Stitches",
-    "lastrevid": 233092
   }
 }
