@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 232312
+revid: 233526
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -917,6 +917,12 @@ These are Talents found in "_Bloodrender_" Category.
 (50 Bloodrend) | Stab yourself to become stronger, faster, and deal increased blood bar damage. | Gives you a tool that passively drains your blood and health for these buffs. While buffed, you regenerate blood by landing m1s and gain a damage and speed boost. Rush Hour can be deactivated at any time by using the tool again. |
 |  | Sanguine Siphon  
 (40 Bloodrend) | Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra. | The damage buff is 20%, and the buff lasts 15 seconds or until you use a Bloodrend mantra. |
+|  | Blood Bag  
+(20 Bloodrend) | You receive extra blood from knocking an enemy. |
+|  | Blood Transfusion  
+(60 Bloodrend) | Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD) | This works on all negative status effects, including elemental ones. |
+|  | Open Wound  
+(40 Bloodrend) | Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras. |
 
 **Bloodhound:**
 
@@ -992,19 +998,6 @@ These are Talents found in "_Transitory Vitality_" Category.
 (65 Bloodrend, Sow and Mend) | If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage. |  |
 |  | Hypovolemic Focus  
 (65 Bloodrend, Sow and Mend) | While you have temporary health, your opponent regains far less posture from parrying you. |  |
-
-**Quack Doctor:**
-
-These are Talents found in "_Quack Doctor_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | Blood Bag  
-(20 Bloodrend) | You receive extra blood from knocking an enemy. |  |
-|  | Blood Transfusion  
-(60 Bloodrend) | Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD) | This works on all negative status effects, including elemental ones. |
-|  | Open Wound  
-(40 Bloodrend) | Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras. |  |
 
 ## Trivia
 

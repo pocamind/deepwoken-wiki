@@ -1,6 +1,6 @@
 ---
 title: Konga The Third
-revid: 224835
+revid: 233525
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars, Members of the Konga lineage]
@@ -59,7 +59,7 @@ If the player hasn't chosen a [Path](<Justicar_(Origin).md#paths>) to follow.
 
 **Vanguard Path:**
 
-If the player is a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>).
+If the player is a [Vanguard Justicar](<Justicar_(Origin).md#vanguard>).
 
 <table>
 <tbody>

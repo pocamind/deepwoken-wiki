@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 230936
+revid: 233544
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disaster, Monsters, Bosses, Events]

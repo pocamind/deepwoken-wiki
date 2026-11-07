@@ -1,6 +1,6 @@
 ---
 title: Corvus Manor
-revid: 233438
+revid: 233547
 source: https://deepwoken.fandom.com/wiki/Corvus_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations]
@@ -54,8 +54,9 @@ Paintings can be found adorning the walls.
 
 ## Trivia
 
--   Much of the architecture around the island resembles many of the structures within the [Burning Stone Gardens](Burning_Stone_Gardens.md).
--   The [Corvus Manor](<Corvus_Manor_(Legacy).md>) was originally a Location shown in the [Deepwoken Direct](https://www.youtube.com/watchv=EEaEzDO04aU&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=7) containing [Authority Enemies](<Authority_Enemy_(Test).md>).
+-   Much of the architecture around the island resembles many of the structures within [The Garden Reservoir](The_Garden_Reservoir.md).
+-   Haske Vantage is the OC of developer Arch\_Mage and Stag Acrossus is the OC of developer Nuttoons.
+-   The [Corvus Manor (Legacy)](<Corvus_Manor_(Legacy).md>) was originally a Location shown in the [Deepwoken Direct](https://www.youtube.com/watchv=EEaEzDO04aU&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=7) containing [Authority Enemies](<Authority_Enemy_(Test).md>).
 
 ## References
 

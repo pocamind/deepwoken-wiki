@@ -1,6 +1,6 @@
 ---
 title: Ashes
-revid: 207838
+revid: 233542
 source: https://deepwoken.fandom.com/wiki/Ashes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Craftable]
@@ -27,4 +27,4 @@ _Ashes_, not to be confused with the [Sinner's Ash](<Sinner's_Ash.md>) is an ite
 
 ## Trivia
 
--   "Funk to funky," this item's description, is a lyric from [Ashes to Ashes](https://youtu.be/HyMm4rJemtI?t=136&si=8RZAeYkTAFxPXl9s) by David Bowie.
+-   "Funk to funky," this item's description, is a lyric from [Ashes to Ashes](https://youtu.be/HyMm4rJemtI?t=136) by David Bowie.

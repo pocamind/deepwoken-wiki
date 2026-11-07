@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pitch
-revid: 233514
+revid: 233540
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pitch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Event Item, Hallowtide]
@@ -16,14 +16,14 @@ Pumpkin Pitch is an [Attunement-less](Attunement-less.md) [Mantra](Mantras.md) o
 
 ## Description
 
-Upon initial use of Pumpkin Pitch, you throw out an explosive pumpkin projectile towards your cursor alongside a sinister chuckle. Any uses after the first projectile will result in the mantra consuming increasing amounts of ether until around 8 seconds after the initial cast, after which the next cast will result in the chuckle being played again and the the ether penalty being reset. Pumpkin Pitch has a 0.5 second cooldown between casts.
+Upon initial use of Pumpkin Pitch, you throw out an explosive pumpkin projectile in an arc towards your cursor alongside a sinister chuckle. Any uses after the first projectile will result in the Mantra consuming increasing amounts of ether until around 8 seconds after the initial cast, after which the next cast will result in the chuckle being played again and the the ether penalty being reset. Pumpkin Pitch has a 0.5 second cooldown between casts.
 
-Pumpkin Pitch will be thrown in the direction your character is facing in shift lock, and will be thrown at your mouse outside of shift lock.
+Pumpkin Pitch will be thrown in the direction your character is facing in shift lock, and will be thrown at your cursor location outside of shift lock.
 
-Deep Gems do proc when you land Pumpkin Pitch. The explosions are similar to that of bombs and cannonballs but they do not insta-grip.
+## Info
 
-Pumpkin Pitch counts as a Fire mantra for the Temperature Shock Talent and the Warding Radiance Talent.
-
-Pumpkin Pitch possesses heavy damage falloff, up to ~50%.
-
-Pumpkin Pitch's damage can be doubled by the [Harvestman's Cloak](<Harvestman's_Cloak.md>).
+-   Has a base damage of 17.55 with 2.75 Flamecharm scaling. For more information, view [Mantras](Mantras.md).
+    -   The damage will be doubled if paired with the [Harvestman's Cloak](<Harvestman's_Cloak.md>) equipment.
+-   Deals Flamecharm damage. This allows this Mantra to proc certain "Flamecharm Mantra" Talents, but not all of them.
+-   Has heavy damage falloff, losing up to around half its damage at far distances.
+-   Because the projectiles have altitude falloff, you may need to aim above your target to land hits, if they're far away.

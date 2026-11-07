@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 233449
+revid: 233530
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1083,6 +1083,32 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 40 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\] \[Mantra\], \[Weaoon Attack\]
+
+-   **Blood Bag** \[Common Talent\] - You receive extra blood from knocking an enemy.
+    
+    -   Prerequisites: 20 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Grip\]
+
+-   **Blood Transfusion** \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar.
+    -   20 second cooldown.  
+        
+    -   Prerequisites: 60 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Critical Attack\]
+
+-   **Just a Taste** \[Common Talent\] - First Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you hit in combat has increased blood drain.
+    -   Currently does not work.  
+        
+    -   Prerequisites: 20 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Mantra\]
+
+-   **Open Wound** \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    
+    -   Prerequisites: 40 Bloodrend  
+        
+    -   Tags: \[Bloodrend\] \[Guardbreak\]
 
 ### Bloodsong
 
@@ -4433,22 +4459,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Hungry Flames \[Common Talent, Fortitude, Flamecharm\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   15 second cooldown.
     -   Prerequisites: 30 Flamecharm, 15 Fortitude
-
-### Quack Doctor
-
--   Blood Bag \[Common Talent, Bloodrend\] - You receive extra blood from knocking an enemy.
-    -   Prerequisite: 20 Bloodrend
-
--   _Blood Transfusion_ \[Rare Talent, Bloodrend\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar.
-    -   20 second cooldown.
-    -   Prerequisite: 60 Bloodrend
-
--   Just a Taste \[Common Talent, Bloodrend\] - First Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you hit in combat has increased blood drain.
-    -   Currently does not work.
-    -   Prerequisite: 20 Bloodrend
-
--   Open Wound \[Common Talent, Bloodrend\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Prerequisite: 40 Bloodrend
 
 ### Quest
 

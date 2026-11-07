@@ -1,6 +1,6 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 233459
+revid: 233541
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces, Hallowtide]
@@ -19,7 +19,7 @@ categories: [Equipment, Arms, Braces, Hallowtide]
 | innate talent | Iron Body |
 | bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
-| enchantable | No |
+| enchantable | No (only if dropped enchanted) |
 | pass down | Yes |
 | obtainment | Goodie Bag, The Harvestman |
 | description | ... |

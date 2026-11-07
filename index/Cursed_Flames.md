@@ -1,6 +1,6 @@
 ---
 title: Cursed Flames
-revid: 233505
+revid: 233552
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
