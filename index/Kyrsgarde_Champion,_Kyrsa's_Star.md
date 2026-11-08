@@ -1,9 +1,9 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 233553
+revid: 233561
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2]
+categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
 ---
 
 # Kyrsgarde Champion, Kyrsa's Star
@@ -14,7 +14,7 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Bosses, Flo
 | attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Altitude Swipes, Frostgrave, Champion’s Quake, Rime-Rise, Splintered Thrust, Crossrend Cryocleave, Shatterline, Blizzard’s Sanction |
 | drops | Whistling Periapt, Gale Essence, Frost Essence, Frostthorn, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring, Kyrsan Gem, Words of Light (Direct Drop), Ect. See loot table. |
 | locations | New Kyrsa, The Sleeping City |
-| pronouns | He/him |
+| pronouns | He/him[1] |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -341,3 +341,8 @@ Parry
 -   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde [Bestiary](Bestiary.md) entry, so the boosts from that entry should also apply against him.
 -   Climbing over the **Permafrost Colosseum** is possible if it is summoned near certain tall buildings in New Kyrsa.
 -   Some attacks seem to be inspired by the boss True Monk from the game Sekiro: Shadows Die Twice.
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)  
+    _Your description of this 'Champion' is eerily similar to that of the Kyrsan commander who took me prisoner during the siege of Constellia. The circumstances of it were unusual, to say the least. He is the sole reason I am now captive here, as opposed to lying among the bodies of my kin within the ruins of the city._

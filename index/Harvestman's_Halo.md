@@ -1,6 +1,6 @@
 ---
 title: "Harvestman's Halo"
-revid: 233246
+revid: 233562
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Halo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with Talents, Equipment with Exclusive Talents, Event Item]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with 
 | set talent | N/A |
 | bankable | Yes |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only in chest |
 | pass down | Yes |
 | obtainment | The Harvestman |
 | description | The steel-wrought crown of the Harvestman, a folklore figure among the peoples of Lumen. He is seen as a patron figure of harvests, a protector of crops, and is often associated with the Ardenstar - a brilliant star of the night sky, believed to be the Harvestman's home... |
@@ -33,7 +33,7 @@ Variants: [Cloak](<Harvestman's_Cloak.md>)
 
 ## Description
 
-The Harvestman's Halo is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category. When worn, it emits smoke particles out of the the horns, this also changes color when dyed.
+The Harvestman's Halo is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category.
 
 [Ardenstar Rage](Talents.md#ardenstar-rage) halves the cooldown all Mantras while you are below half health. When you are below 20% health, you will additionally apply [Cursed Burn](Status_Effects.md#cursed-burn) on all of your Mantras. Cursed Burn does 2.5x the damage of regular [Burn](Status_Effects.md#burn).
 

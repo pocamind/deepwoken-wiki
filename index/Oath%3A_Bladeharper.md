@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 230813
+revid: 233583
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -39,8 +39,6 @@ The Bladeharper Oath is a result of the player conducting a **Reflection Ritual*
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/2MkMAHH03x4)._
 
 _Bladeharper **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
-
-If you have fully progressed Bladeharper before, you will only need to do 2 out of the 3 statues to fully progress it.
 
 ## Progression
 
@@ -242,6 +240,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 ## Trivia
 
 -   The statue in the center of the [Blade Within](The_Blade_Within.md) will be the weapon you had equipped when you were teleported.
+-   Progressing Bladeharper only requires 2 out of 3 statues, this is not intended and a bug.
 -   The Oath bracelets were formerly called "Snakerings" (as viewed from the [Dye Packet](Dye_Packet.md) UI), which was later changed to "Bladeharper Serpents," then changed again to "Bladeharper Cosmetic".
 -   Bladeharper was originally an oath used by powerful swordsmen that trained in the [Isle of Vigils](Isle_of_Vigils.md), but has seemingly faded away from their culture with time[\[1\]](#cite-note-1)
 -   Its obtainment method is inspired by the way in which Ichigo Kurosaki, the protagonist of BLEACH, obtained his "Bankai" ability.

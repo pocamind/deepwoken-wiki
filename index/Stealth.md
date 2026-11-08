@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 228641
+revid: 233556
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Every point of [Agility](Attributes.md#agl) grants +0.2% Stealth.
     -   Passive Agility does **not** grant Stealth.
 -   The [Felinor](Felinor.md) aspect starts with +20% Stealth and has a 1.2x multiplier on Stealth gain.
-    -   The Stealth gain multiplier does not apply to Stealth gained from crouching, [Lowstride](Talents.md#lowstride), Felinor's flat stealth, Tacet, or [Taced Minimization](Talents.md#taced-minimization).
+    -   The Stealth gain multiplier does not apply to Stealth gained from crouching, [Lowstride](Talents.md#lowstride), Felinor's flat stealth, Tacet, or [Tacet Minimization](Talents.md#tacet-minimization).
 -   The [Lowstride](Talents.md#lowstride) Talent doubles the Stealth bonuses from crouching; increasing your Stealth by 100% multiplicatively and adding +100% flat Stealth, while crouching.  
     L o w s t r i d e S t e a l t h \= S t e a l t h × 2 + 100 {\\displaystyle LowstrideStealth=Stealth\\times 2+100} {\\displaystyle LowstrideStealth=Stealth\\times 2+100}
 -   Being in [Tacet](Murmur%253A_Tacet.md) provides +400% flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.

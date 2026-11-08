@@ -1,6 +1,6 @@
 ---
 title: Deepwoken (game)
-revid: 232925
+revid: 233565
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]

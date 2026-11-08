@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 233377
+revid: 233581
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1052,6 +1052,8 @@ These Talents are found in the _Whisper_ category.
 Gale Wisp will extend the duration of Haunted by 3 seconds.
 
  |
+
+  
 
 ## Trivia
 
