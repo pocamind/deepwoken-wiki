@@ -1,6 +1,6 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 233563
+revid: 233622
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces, Hallowtide]
@@ -19,14 +19,14 @@ categories: [Equipment, Arms, Braces, Hallowtide]
 | innate talent | Iron Body |
 | bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
-| enchantable | Only in chest |
+| enchantable | Only on obtainment[1] |
 | pass down | Yes |
 | obtainment | Goodie Bag, The Harvestman |
 | description | ... |
 
 ## Description
 
-The Familiar Prosthetic Arm is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, exclusive to the [Hallowtide](Hallowtide.md) event.
+The Familiar Prosthetic Arm is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category, exclusive to the [Hallowtide](Hallowtide.md) event.
 
 The [Iron Body](Talents.md#iron-body) Talent reduces the amount of chip damage you receieve by a flat 10%, and enables you to use actions that require a prosthetic arm.
 
@@ -37,4 +37,7 @@ Currently, the actions that become available are:
 ## Trivia
 
 -   This equipment is based on Rogue's Lineage [Prosthetic Arm](https://rogue-lineage.fandom.com/wiki/Prosthetic_Arm).
--   This item has a rare chance to be enchanted when obtained, but otherwise cannot be enchanted.
+
+## References
+
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being obtained.

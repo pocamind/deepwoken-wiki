@@ -1,6 +1,6 @@
 ---
 title: Terraplate Pauldrons
-revid: 230745
+revid: 233614
 source: https://deepwoken.fandom.com/wiki/Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

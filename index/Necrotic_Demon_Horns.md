@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 229467
+revid: 233587
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

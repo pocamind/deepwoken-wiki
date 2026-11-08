@@ -1,6 +1,6 @@
 ---
 title: Crimson Terraplate Pauldrons
-revid: 233404
+revid: 233601
 source: https://deepwoken.fandom.com/wiki/Crimson_Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

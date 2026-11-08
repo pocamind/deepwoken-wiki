@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 221612
+revid: 233599
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Legs, Boots, Equipment, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

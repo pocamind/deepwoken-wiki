@@ -1,6 +1,6 @@
 ---
 title: Ossified Phalanx Boots
-revid: 228256
+revid: 233611
 source: https://deepwoken.fandom.com/wiki/Ossified_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable, Equipment 
 |---|---|
 | type | Legs |
 | rarity | Rare |
-| selling price | ? |
+| selling price | 25 |
 | requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +2 Rare Pips , +1 Legendary Pip |

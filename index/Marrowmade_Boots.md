@@ -1,6 +1,6 @@
 ---
 title: Marrowmade Boots
-revid: 229837
+revid: 233626
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,16 +17,16 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 | weight | 1 |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | Osseous Surge, Surestep |
-| bankable | No |
+| bankable | Only if enchanted |
 | droppable | No |
-| enchantable | Only if the boss drops it enchanted. |
+| enchantable | Only on obtainment[1] |
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | A grotesque set of boots, manufactured from what appears to be the foot and head of a Bonekeeper. Calling these 'comfortable' feels charitable. And yet, holding them, you cannot help but feel your bones itch, and the ground beneath you quiver... |
 
 ## Description
 
-The **Marrowmade Boots** are an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. They are boots seemed to be made from the foot and head of a [Bonekeeper](Bone_Keeper.md).
+The **Marrowmade Boots** are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category. They are boots seemed to be made from the foot and head of a [Bonekeeper](Bone_Keeper.md).
 
 The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and flinging effect of the winds of the Second Layer. You are still affected by the harsh winds' movement debuffs.
 
@@ -36,7 +36,10 @@ The [Osseous Surge](Talents.md#osseous-surge) Talent is not exclusive to normal 
 
 ## Trivia
 
--   These boots have an extremely small chance to be [Enchanted](Enchantments.md) when obtained.
 -   The damage increases by 50% going from 30 blunt to 45 blunt with the [Bone Ring](Bone_Ring.md).
 -   The damage dealt can be increased with damage modifiers.
 -   It's previous description read: "Boots crafted from what seems to be the foot and head of the [Bonekeeper](Bone_Keeper.md).
+
+## References
+
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being obtained.
