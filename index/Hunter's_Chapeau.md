@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Chapeau"
-revid: 233447
+revid: 233642
 source: https://deepwoken.fandom.com/wiki/Hunter's_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Hallowtide, Head, Equipment, Event Item]
@@ -30,7 +30,3 @@ notices:
 ## Description
 
 The Hunter's Chapeau is an [Equipment](Equipment.md) item under the "Head" category, exclusive to the [Hallowtide](Hallowtide.md) event.
-
-## Trivia
-
--   The "Hunter's Chapeau" is inspired by the hat of character "Arthur Morgan" From Red Dead Redemption 2.

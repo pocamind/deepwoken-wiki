@@ -1,6 +1,6 @@
 ---
 title: "Frank F'alzone"
-revid: 225664
+revid: 233633
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Individuals with unspecified pronouns, Members of the Rotten Lot]
@@ -58,4 +58,4 @@ Frank F'alzone, is a [Celtor](Celtor.md) NPC who was part of [Captain Orlandeau'
 
 ## Trivia
 
--   F'alzone's racial variant appears to be Marten.
+-   F'alzone's aspect variant appears to be Marten.

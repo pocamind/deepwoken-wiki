@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 231538
+revid: 233640
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -503,3 +503,4 @@ Some Flaws are more worth-taking than others:
 -   The [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) used to grant a random base Flaw on use, this was removed during the [September 6th, 2025](Version_History/2025.md#september-6th-2025) update.
 -   There used to be more Boons and Flaws. The currently known ones are Adept (likely the original version of the Talent) and Seasick.
 -   While not confirmed, Wishbound's passive insanity gain shares some similarities with the Latin concept/word, lunaticus. Within it's Latin origins, the word refers to diseases caused by the moon, such as madness or epilepsy.
+-   The Fugitive Flaw is currently unobtainable.

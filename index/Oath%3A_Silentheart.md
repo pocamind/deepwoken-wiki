@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 229771
+revid: 233635
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -175,7 +175,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   Using any Silentheart ability will remove your active Whistleguard, granted you are wearing a [Whistling Periapt](Whistling_Periapt.md).
 -   You will still gain [Whisper Draws](Whisper_Draw.md) when leveling up, and from Special Mantra Hands.
 -   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.
--   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
+-   The Attunement-less trainer, [Regek](Regek.md), cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   You will be able to pass [Aelita](Aelita.md)'s game by using any of your Silentheart abilities.

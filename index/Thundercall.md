@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 231904
+revid: 233653
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1119,6 +1119,8 @@ Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and h
 |  | Human Battery  
 (60 Thundercall) | When you're out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras. | Each Surge stack equates to 10 Ether.  
 Works on Surge stacks that weren't applied by you. Does not work on Surge stacks applied to yourself. |
+
+  
 
 ## Trivia
 

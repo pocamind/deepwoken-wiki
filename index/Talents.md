@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 233530
+revid: 233641
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5223,10 +5223,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Tamed Flame
 
--   Controlled Combustion \[Common Talent, Charisma, Flamecharm\] - Your Agitating Spark no longer spreads to your allies.
+-   Controlled Combustion \[Common Talent, Charisma, Flamecharm\] - Your Agitating Spark no longer spreads to your allies. All-Consuming Flame no longer applies against allies.
     -   Your Agitating Spark no longer spreads to yourself too.
     -   In some places, this Talent doesn't work well, spreading to your allies if they are too close to the target.
-    -   Prerequisites: Agitating Spark, 40 Charisma
+    -   "All-Consuming Flame" is an old Talent that was merged into [Corpse Explosion](#corpse-explosion); this Talent disables the halved incineration timer effect of your Corpse Explosion against your allies.
+    -   Prerequisites: [Agitating Spark](#agitating-spark), 40 Charisma
 
 ### Tavernkeep
 
