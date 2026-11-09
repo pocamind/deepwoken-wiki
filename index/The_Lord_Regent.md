@@ -464,7 +464,7 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
 -   The Lord Regent is supposed to be voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz). However, despite having fully recorded voice lines for his dialogue, they for some reason were not implemented.
 -   The Term "Regent" means "a person who rules a country as a temporary substitute when the real king or queen cannot.[\[6\]](#cite-note-6)" This is likely a play on how he Killed [Lord Guardian Ji'ang](<Ji'ang.md>) and "inherited" the throne
 
-## [References](Lore.md)
+## [References](Glossary.md)
 
 1.  ↑ [1.0](#cite-ref-oc-1-0) [1.1](#cite-ref-oc-1-1) [1.2](#cite-ref-oc-1-2) [Talent](Talents.md): [Contractor](Talents.md#contractor) - Oath: Contractor
 2.  [↑](#cite-ref-2) NPC dialogue: [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md)  

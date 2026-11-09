@@ -98,4 +98,4 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 
 -   Strangely enough, they don't wear [Blindfolds](Blindfold.md) like their colleagues.
 -   They also are said to monitor Chaser and give him orders, meaning they have some sort of power over him, it just isn't seen or stated.
--   According to [Vyrelda](Vyrelda,_Master_of_Blood.md), they are hunting her under the [Second Prophet's](Lore.md#the-second-prophet) orders, due to having left the Ministry.
+-   According to [Vyrelda](Vyrelda,_Master_of_Blood.md), they are hunting her under the [Second Prophet's](Glossary.md#the-second-prophet) orders, due to having left the Ministry.

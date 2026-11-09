@@ -1,9 +1,9 @@
 ---
 title: "Raudra's Finger"
-revid: 233800
+revid: 233821
 source: https://deepwoken.fandom.com/wiki/Raudra's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Equipment, Rings]
+categories: [Equipment, Rings]
 ---
 
 # Raudra's Finger
@@ -16,7 +16,7 @@ categories: [Pages using duplicate arguments in template calls, Equipment, Rings
 | requirements | LVL 10 |
 | weight | 0.1 |
 | innate talent | Raudra's Pride |
-| set | Shiva's Pendant Earrings, Shiva's Finger |
+| set | Raudra's Pendant Earrings, Raudra's Finger |
 | set talent | N/A |
 | bankable | No |
 | droppable | No |

@@ -78,7 +78,7 @@ Aeons ago, a long extinct species faced a cultural schizm in response to the ris
 
 Ganymedes are the antithesis to Vesperians. While the Vesperians fight against [The Depths](The_Depths.md), the [Ganymedes](Ganymede.md) adapt to it. However, both of them are considered "weird" and outcasted by other aspects.
 
-This fits with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
+This fits with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Glossary.md#ancestors-of-ganymedes-26-vesperians))
 
 **Strengths:**
 

@@ -1,6 +1,6 @@
 ---
 title: Wreath of the Ardenstar
-revid: 233785
+revid: 233893
 source: https://deepwoken.fandom.com/wiki/Wreath_of_the_Ardenstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
@@ -18,16 +18,16 @@ categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with 
 | styles | Ignited, Incinerated, Ratchet, Tidy |
 | innate stats | +12 Health , +1 Rare Pip |
 | innate talent | Revitalizing Pumpkin |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
-| enchantable | TBA |
+| enchantable | Only on obtainment[1] |
 | pass down | Yes |
 | obtainment | Goodie Bag, Harvestman |
 | description | At Hallow's tide, with reaping blade - o, Ardenstar, we call thy name! |
 
 ## Description
 
-The Wreath of the Ardenstar is an [Equipment](Equipment.md) item under the "Head" category.
+The Wreath of the Ardenstar is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category.
 
 The [Revitalizing Pumpkin](Talents.md#revitalizing-pumpkin) Talent makes your Pumpkins from [Pumpkin Pitch](Pumpkin_Pitch.md) that hit an opponent heal you for 1% of your maximum health.
 
@@ -36,3 +36,7 @@ The [Revitalizing Pumpkin](Talents.md#revitalizing-pumpkin) Talent makes your Pu
 -   The Ignited and Incinerated styles release fire particles.
 -   The Ignited and Incinerated styles both glow a warm orange color.
     -   Incinerated glows noticeably brighter than ignited.
+
+## References
+
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being obtained.

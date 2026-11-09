@@ -98,7 +98,7 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 
 Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperians](Vesperian.md) fight against [The Depths](The_Depths.md), the Ganymedes adapt to it. However, both of them are considered "weird" and outcasted by other aspects.
 
-(For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
+(For more, read [Ancestors of Ganymedes & Vesperians](Glossary.md#ancestors-of-ganymedes-26-vesperians))
 
 **Strengths:**
 

@@ -19,7 +19,7 @@ categories: [Factions, The Children of Navae]
 
 ## Description
 
-A mainly nomadic tribe mostly containing [Gremor](Gremor.md) who worship and are guided by [Navae](Lore.md#navae).
+A mainly nomadic tribe mostly containing [Gremor](Gremor.md) who worship and are guided by [Navae](Glossary.md#navae).
 
 ## Reputation
 

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Arachnid's Cloak"
-revid: 233817
+revid: 233840
 source: https://deepwoken.fandom.com/wiki/Familiar_Arachnid's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]
@@ -44,5 +44,6 @@ The [Arachnid Surge](Talents.md#arachnid-surge) Talent grants a Talent tool that
 ## Trivia
 
 -   This outfit is based on Rogue's Lineage's [Spider Cloak](https://rogue-lineage.fandom.com/wiki/Spider_Cloak) Armor.
+-   In Rogue Lineage, the Spider Cloak is an artifact that replaces your armor with the Spider Cloak. While very squishy, it provides unparalleled mobility, notably having the highest climb speed multiplier in the game.
 -   Side walljumps do not get buffed.
 -   The user is still vulnerable to air counters.

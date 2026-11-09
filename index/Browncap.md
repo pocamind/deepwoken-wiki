@@ -1,6 +1,6 @@
 ---
 title: Browncap
-revid: 230055
+revid: 233872
 source: https://deepwoken.fandom.com/wiki/Browncap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]

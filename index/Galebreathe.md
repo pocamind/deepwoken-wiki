@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 233659
+revid: 233839
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1065,7 +1065,7 @@ Gale Wisp will extend the duration of Haunted by 3 seconds.
 -   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
     
 -   The _"Wind Step"_ Talent can be used by other players for a short period after being placed.
--   The _"Gale Leap"_ Talent requires cliffs of certain height. Strangely, the Talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
+-   The _"Gale Leap"_ Talent requires sliding down slopes for atleast a ~0.3 seconds before it activates. The Talent will not proc if used from a ledge does not meet a minimum distance from the ledge infront of where you are jumping to.
 -   The \[Q\] key activates Gale Dash.
 -   For some bizarre reason, Heavenly Wind has been referred to as Heavenly Strike multiple times in the update logs.
 -   Jumping before activating the _"Tempest Wind"_ variant of **Wind Blade** will propel the user forward by a few studs while releasing a sound cue.

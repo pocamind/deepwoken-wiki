@@ -39,7 +39,7 @@ Inside the temple, [Neero](Neero.md), a Pathfinder, can be found in the entrance
 
 ## NPCs
 
--   [Neero](Neero.md), a Pathfinder who'll give you [insight about his career](Lore.md).
+-   [Neero](Neero.md), a Pathfinder who'll give you [insight about his career](Glossary.md).
 
 ## Maps
 

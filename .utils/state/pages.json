@@ -77,7 +77,7 @@
   },
   "866": {
     "title": "Parrying Dagger",
-    "lastrevid": 221463
+    "lastrevid": 233854
   },
   "876": {
     "title": "Lumber Axe",
@@ -313,7 +313,7 @@
   },
   "1208": {
     "title": "Galebreathe",
-    "lastrevid": 233659
+    "lastrevid": 233839
   },
   "1216": {
     "title": "The Ferryman",
@@ -345,7 +345,7 @@
   },
   "1242": {
     "title": "Oaths",
-    "lastrevid": 233209
+    "lastrevid": 233831
   },
   "1264": {
     "title": "The Temple of the Forgotten Flame",
@@ -393,7 +393,7 @@
   },
   "1355": {
     "title": "Reputation",
-    "lastrevid": 231300
+    "lastrevid": 233890
   },
   "1374": {
     "title": "The Birdcage",
@@ -414,10 +414,6 @@
   "1410": {
     "title": "Insanity",
     "lastrevid": 233271
-  },
-  "1415": {
-    "title": "Lore",
-    "lastrevid": 231577
   },
   "1425": {
     "title": "Thresher",
@@ -601,7 +597,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 233774
+    "lastrevid": 233882
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -1057,7 +1053,7 @@
   },
   "2852": {
     "title": "Vigil Swordsman",
-    "lastrevid": 231810
+    "lastrevid": 233886
   },
   "2853": {
     "title": "Legion Captain",
@@ -1585,7 +1581,7 @@
   },
   "4309": {
     "title": "Authority Captain",
-    "lastrevid": 230701
+    "lastrevid": 233883
   },
   "4313": {
     "title": "Eastern Nomad",
@@ -2189,7 +2185,7 @@
   },
   "5362": {
     "title": "Hallowtide",
-    "lastrevid": 232936
+    "lastrevid": 233857
   },
   "5383": {
     "title": "Enforcer's Hammer",
@@ -2617,7 +2613,7 @@
   },
   "6315": {
     "title": "Authority Lieutenant",
-    "lastrevid": 228612
+    "lastrevid": 233887
   },
   "6317": {
     "title": "Summer Goon",
@@ -3389,7 +3385,7 @@
   },
   "8812": {
     "title": "Browncap",
-    "lastrevid": 230055
+    "lastrevid": 233872
   },
   "8818": {
     "title": "Plumfruit",
@@ -3689,7 +3685,7 @@
   },
   "9765": {
     "title": "Joy",
-    "lastrevid": 233480
+    "lastrevid": 233843
   },
   "9771": {
     "title": "Pumpkin Head",
@@ -3785,7 +3781,7 @@
   },
   "10285": {
     "title": "Instruments",
-    "lastrevid": 219207
+    "lastrevid": 233830
   },
   "10304": {
     "title": "Wyvern",
@@ -4493,7 +4489,7 @@
   },
   "13745": {
     "title": "The Fisherman",
-    "lastrevid": 231267
+    "lastrevid": 233885
   },
   "13746": {
     "title": "Forge Needle",
@@ -5653,7 +5649,7 @@
   },
   "17141": {
     "title": "Crowns",
-    "lastrevid": 232938
+    "lastrevid": 233875
   },
   "17166": {
     "title": "Regarde",
@@ -5661,7 +5657,7 @@
   },
   "17200": {
     "title": "Mounts",
-    "lastrevid": 233795
+    "lastrevid": 233865
   },
   "17202": {
     "title": "Sordino",
@@ -8025,7 +8021,7 @@
   },
   "21625": {
     "title": "Zi'eer, the Fourth Prophet",
-    "lastrevid": 233426
+    "lastrevid": 233852
   },
   "21634": {
     "title": "Sachan Shisui Kobura",
@@ -8141,7 +8137,7 @@
   },
   "21767": {
     "title": "Moonseye (Outfit)",
-    "lastrevid": 228643
+    "lastrevid": 233896
   },
   "21768": {
     "title": "Monk Kasan",
@@ -8905,7 +8901,7 @@
   },
   "23260": {
     "title": "Raudra's Finger",
-    "lastrevid": 233800
+    "lastrevid": 233821
   },
   "23277": {
     "title": "The Cat's Bed",
@@ -8913,7 +8909,7 @@
   },
   "23279": {
     "title": "Etrean Captain",
-    "lastrevid": 232232
+    "lastrevid": 233889
   },
   "23281": {
     "title": "Necrotic Cowl",
@@ -9949,7 +9945,7 @@
   },
   "26926": {
     "title": "The Harvestman",
-    "lastrevid": 233732
+    "lastrevid": 233864
   },
   "26939": {
     "title": "Familiar Vagrant's Armor",
@@ -10021,7 +10017,7 @@
   },
   "27012": {
     "title": "Harvestman's Cloak",
-    "lastrevid": 233281
+    "lastrevid": 233845
   },
   "27022": {
     "title": "Silas Ardenstar",
@@ -10049,18 +10045,22 @@
   },
   "27196": {
     "title": "Thorned Blazer",
-    "lastrevid": 233813
+    "lastrevid": 233895
   },
   "27197": {
     "title": "Wreath of the Ardenstar",
-    "lastrevid": 233785
+    "lastrevid": 233893
   },
   "27198": {
     "title": "Familiar Arachnid's Cloak",
-    "lastrevid": 233817
+    "lastrevid": 233840
   },
   "27208": {
     "title": "Carmilla Spellhardt",
-    "lastrevid": 233781
+    "lastrevid": 233853
+  },
+  "27219": {
+    "title": "Chell",
+    "lastrevid": 233868
   }
 }

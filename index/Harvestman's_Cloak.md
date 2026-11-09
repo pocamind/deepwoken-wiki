@@ -1,6 +1,6 @@
 ---
 title: "Harvestman's Cloak"
-revid: 233281
+revid: 233845
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]

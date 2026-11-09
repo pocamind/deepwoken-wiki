@@ -455,7 +455,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Does not work on self-applied Knockdown, such as having your [Eclipse Kick](../Shadowcast.md#eclipse-kick) or charged Bow shots get parried.
 
 -   **Already Dead**: [Deepscorn Casque](../Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
-    -   Removes the self damage from [Deepspindle's](../Deepspindle.md) running critical.
+    -   Removes the self damage from [Deepspindle](../Deepspindle.md)'s running critical.
     -   Reduces the self damage from [Shade Devour](../Shadowcast.md#shade-devour), [Flame Within](../Talents.md#flame-within) (on cast, NOT the burn ticks), [Rush Hour](../Talents.md#rush-hour), [Shadow Travel](../Talents.md#shadow-travel), and [Electrify](../Talents.md#electrify).
         -   When paired with the [Stormchanter's Raiments](<../Stormchanter's_Raiments.md>) Talent, [Circuit Breaker](../Talents.md#circuit-breaker), using [Electrify](../Talents.md#electrify) will cause you to heal 12 health instead of taking damage.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](../Resonance.md#corrupted-resonances) downside by ~1%.
@@ -468,9 +468,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   [Angels](../Hollow_Angel.md) will still aggro onto you while you have this Talent.  
         
 
--   **Ardenstar Rage**: [Harvestman's Halo](<../Harvestman's_Halo.md>) - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.
+-   **Arachnid Surge**: [Familiar Arachnid's Cloak](<../Familiar_Arachnid's_Cloak.md>) - Gives you a brief window of very powerful climbing, at the cost of wearing out your ankles.
+    -   Grants a Talent tool that massively increases climb height for a few seconds on use. Once this effect ends, you will be briefly unable to move.  
+        
+
+-   **Ardenstar Rage**: [Harvestman's Halo](<../Harvestman's_Halo.md>) - When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire. Consistently lose health while wearing this halo in combat.
     -   Cooldown reduction stacks with [Blessed Gems](../Blessed_Gem.md) for 75% cooldown reduction.
-    -   [Cursed Burn](../Status_Effects.md#cursed-burn) is a unique Burn modifier that triples the burn damage and turns the flames purple.  
+    -   [Cursed Burn](../Status_Effects.md#cursed-burn) is a unique Burn modifier that increases the burn damage by 75% and turns the flames purple.
+    -   The self damage taken can be mitigated through healing sources like [Curse of the No Life King](../Curse_of_the_No_Life_King.md).  
         
 
 -   **Art of the Deal**: [Aristocrat Coat](../Aristocrat_Coat.md) - Your rapport with merchants gives you lower prices!
@@ -510,6 +515,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
 
 -   **Blood Pact**: [Regenerative Pendant](../Regenerative_Pendant.md) & [Trueblood Earrings](../Trueblood_Earrings.md) - Gain 50 bonus [temporary health](../Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
+    
+    -   Does not grant multiple instances of Temporary Health per target, instead granting TempHP on knock _or_ automatic execution.
 
 -   **Blood Plague**: [Necrotic Mask](../Necrotic_Mask.md) & [Bloodcurdle Mask](../Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
     
@@ -522,9 +529,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases your movement speed by +2 studs/s, permanently.  
         
 
--   **Broodlord's Scream**: [Broodplate Helmet](../Broodplate_Helmet.md) - Using [Sing](../Attunement-less.md#sing), [Taunt](../Attunement-less.md#taunt), or Ardour Scream applies [anti heal](../Status_Effects.md#anti-heal) for the duration of the move.
+-   **Broodlord's Scream**: [Broodplate Helmet](../Broodplate_Helmet.md) - Using [Sing](../Attunement-less.md#sing), [Taunt](../Attunement-less.md#taunt), or [Ardour Scream](../Talents.md#ardour-scream) applies [anti heal](../Status_Effects.md#anti-heal) for the duration of the move.
     -   Applies 100% Anti-Heal.
-    -   These attacks gain the sound effect from the [Mudskipper Broodlord](../Mudskipper_Broodlord.md) scream attack.  
+    -   These attacks gain the sound effect from the [Mudskipper Broodlord](../Mudskipper_Broodlord.md) scream attack.
+    -   Also applies to your allies.  
         
 
 -   **Brunt**: [Hive Tactician Armor](../Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
@@ -569,8 +577,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   **Crippling Darkness**: [Prophet's Cloak](<../Prophet's_Cloak.md>) & [Moonseye](<../Moonseye_(Outfit).md>) - Your non-Basic Attacks have 20% PEN.
     
     -   Grants +20% PEN to anything that is not a weapon attack.
-        -   Primarily, this is just 20% Mantra PEN, however this will also affect non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
-        -   [Reinforce's](../Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which normally bypass armor, deal more damage against Reinforce than they would otherwise.
+        -   Primarily, this is just 20% Mantra PEN, however this also affects non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
+        -   [Reinforce](../Attunement-less.md#reinforce)'s general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which normally bypass armor, deal more damage against Reinforce than they would otherwise.
 
 -   **Crippling Impact**: [Reinforced War Plate](../Reinforced_War_Plate.md) - Landing a critical on someone while [Wrath Gem](../Wrath_Gem.md) is active disables their [vent](../Combat_Mechanics.md#tempo) for a few seconds.
     -   Procs through parry, block and dodge with no cooldown.
@@ -582,7 +590,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Whirling Blade heals you for 25% of damage dealt. Hitting allies or player summons will still grant this healing.  
         
 
--   **Cursed Pumpkin**: [Harvestman's Cloak](<../Harvestman's_Cloak.md>) - Double the damage of your pumpkins from your Pumpkin Pitch mantra.
+-   **Cursed Pumpkin**: [Harvestman's Cloak](<../Harvestman's_Cloak.md>) - Double the damage of your pumpkins from your [Pumpkin Pitch](../Pumpkin_Pitch.md) mantra.
+    
+
+-   **Cursed Thorns**: [Thorned Blazer](../Thorned_Blazer.md) - Monsters who hit you take 20% of the damage they deal to you, but you now also take 10% more damage from monsters. Landing [Pumpkin Pitch](../Pumpkin_Pitch.md) on a player makes them susceptible to this effect for a few seconds.
     
 
 -   **Dancing Steps Of War**: [Geta](../Geta.md) - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
@@ -626,7 +637,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Does not work on [Execution](../Talents.md#execution)'s offhand shots.
 
--   **Ether Adeptness**: [Ether Empowered Earrings](../Ether_Empowered_Earrings.md) & [Caster Earrings](../Caster_Earrings.md) - Your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra chip.
+-   **Ether Adeptness**: [Ether Empowered Earrings](../Ether_Empowered_Earrings.md) & [Caster Earrings](../Caster_Earrings.md) - Your mantras now deal extra chip.
     
     -   Grants 5% Mantra chip.
 
@@ -684,15 +695,16 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   This does not allow you to parry **all** unparryable monster attacks.
     -   Monster attacks that are parriable with Force Your Way are tagged as such on their pages.
     -   The armor durability lost is based on the amount of damage you would have taken normally.
-    -   When parrying attacks that are slide, jump, or slide only, the armor loss penalty is greatly increased.
+    -   When parrying attacks that are jump or crouch only, the armor loss penalty is greatly increased.
 
 -   **Good Luck Charm**: [Jadeite Megalodaunt](../Jadeite_Megalodaunt.md) - Makes you feel a little better, probably.
     -   This Talent has no effects,[\[1\]](#cite-note-1) so it probably isn't actually going to make you feel better.  
         
 
 -   **Grapple**: [Familiar Vagrant's Armor](<../Familiar_Vagrant's_Armor.md>) - Aim your mouse and shoot a grapple from your metal arm to your target and pull yourself towards it. \[Requires [Familiar Prosthetic Arm](../Familiar_Prosthetic_Arm.md) to use\]
-    -   Upon using the provided tool, grapple to your cursor location and pull yourself tow@rds it at high speeds.
-    -   If your cursor is hovering over a player or NPC on use, pull them towards you as well,bsimilarly to the [Lord's Slice](../Oath%253A_Contractor.md#lords-slice) Mantra.  
+    -   Upon using the provided tool, grapple to your cursor location and pull yourself towards it at high speeds.
+    -   If your cursor is hovering over a player or NPC on use, pull them towards you as well, similarly to the [Lord's Slice](../Oath%253A_Contractor.md#lords-slice) Mantra.
+    -   Performing the [Tanto](../Tanto.md)'s critical attack while grappling to an opponent will strike them regardless of range.  
         
 
 -   **Grotesque Resilience**: [Parasol Planter](../Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
@@ -700,7 +712,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         -   If you are utilizing [Flame Within](../Talents.md#flame-within), the DoT damage reduction will be reduced down to 25%.
     -   Reduces [Bleed](../Status_Effects.md#bleed) damage by 25%
     -   Does not work on all Damage over Time effects.
-        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](../Resonance.md#corrupted-resonances) Downside, [Deep Widow](../Deep_Widow.md) Poison, [Bladeharper's](../Oath%253A_Bladeharper.md) [Reveal](../Talents.md#reveal), [Viscosity](../Viscosity.md), [Deferred](../Deferred.md), or [Rush Hour](../Talents.md#rush-hour) from Bloodrend.  
+        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](../Resonance.md#corrupted-resonances) Downside, [Deep Widow](../Deep_Widow.md) Poison, [Bladeharper](../Oath%253A_Bladeharper.md)'s [Reveal](../Talents.md#reveal), [Viscosity](../Viscosity.md), [Deferred](../Deferred.md), or [Rush Hour](../Talents.md#rush-hour) from Bloodrend.  
             
 
 -   **Gut Rot**: [Broodplate Sabatons](../Broodplate_Sabatons.md) - Landing a flourish enhances your next instance of [anti-heal](../Status_Effects.md#anti-heal), doubling its duration for how long it lasts.
@@ -772,44 +784,41 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases the boat repair speed.  
         
 
--   Laminated Armor: [Ossified Black Pauldrons](../Ossified_Black_Pauldrons.md) & [Blackalloy Pauldrons](../Blackalloy_Pauldrons.md) - Reduces all incoming damage by 2/3 (applied after damage multipliers).
+-   **Laminated Armor**: [Ossified Black Pauldrons](../Ossified_Black_Pauldrons.md) & [Blackalloy Pauldrons](../Blackalloy_Pauldrons.md) - Reduces all incoming damage by 2/3 (applied after damage multipliers).
     
     -   Reduces damage taken by a flat 2 (3 in Vow of Iron), **not** 66%.
     -   This is applied after damage modifiers, but before resistances.
-    -   This cannot reduce an attack's damage below 1.
+    -   This cannot reduce an attack's damage below 1. Attacks that already deal less than 1 damage are entirely unaffected by this Talent.
 
--   Legendary: [Grand Pathfinder Cloak](../Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
+-   **Legendary**: [Grand Pathfinder Cloak](../Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
+    -   Stacks with the innate Ether gain on light attack.  
+        
 
--   Lethal Dose: [Inquisition Light](../Inquisition_Light.md) - The poison from your [hidden blade](../Authority_Ensign.md#hidden-blade) lasts twice as long.
+-   **Lethal Dose**: [Inquisition Light](../Inquisition_Light.md) - The poison from your [hidden blade](../Authority_Ensign.md#hidden-blade) lasts twice as long.
+    -   The duration of the poison from Hidden Blade, which increases [Shaky Block](../Combat_Mechanics.md#posture), is increased from 8 seconds to 16.  
+        
 
--   Life Leech: [Familiar Occultist's Armor](<../Familiar_Occultist's_Armor.md>) - Your summons now heal you each time they deal damage.
-    -   Eligible summons include:
-        -   Monsters summoned from the [Parasol's Blight](<../Parasol's_Blight.md>) enchantment
-        -   Spiderlings summoned from [The Weaving Web](../The_Weaving_Web.md)'s critical attack
-        -   [Visionshaper](../Oath%253A_Visionshaper.md) clones from [Illusory Servants](../Oath%253A_Visionshaper.md#illusory-servants) and [Illusory Counter](../Oath%253A_Visionshaper.md#illusory-counter)
-        -   [Lightning Clones](../Thundercall.md#lightning-clones)
-        -   [Flame Sentinel](../Flamecharm.md#flame-sentinel)
-    -   Ineligible summons include:
-        -   [Metal Turret](../Ironsing.md#metal-turret)
-        -   [Visionshaper](../Oath%253A_Visionshaper.md) clones from [Mirror Illusion](../Oath%253A_Visionshaper.md#mirror-illusion)
-        -   You'll Need to Get Past Me Talent
-        -   Twisted Puppets' puppets
+-   **Life Leech**: [Familiar Occultist's Armor](<../Familiar_Occultist's_Armor.md>) - Your summons now heal you each time they deal damage.
+-   Has a range limit, where the summons will not provide healing if you are too far away from them.
+-   **Eligible** summons include: [Parasol's Blight](<../Parasol's_Blight.md>) monsters, [The Weaving Web](../The_Weaving_Web.md)'s spider summon, [Visionshaper](../Oath%253A_Visionshaper.md) clones ([Illusory Servants](../Oath%253A_Visionshaper.md#illusory-servants), [Illusory Counter](../Oath%253A_Visionshaper.md#illusory-counter), and [Cheap Trick](../Talents.md#cheap-trick) specifically), [Lightning Clones](../Thundercall.md#lightning-clones), and [Flame Sentinel](../Flamecharm.md#flame-sentinel).
+-   **Ineligible** summons include: [Metal Turret](../Ironsing.md#metal-turret), [Visionshaper](../Oath%253A_Visionshaper.md) clones (from [Mirror Illusion](../Oath%253A_Visionshaper.md#mirror-illusion)), [You'll Need to Get Past Me](../Talents.md#youll-need-to-get-past-me) Talent, and [Twisted Puppets](../Talents.md#twisted-puppets)' puppets.
+    
 
--   Lightning Drop: [Familiar Sage's Armor](<../Familiar_Sage's_Armor.md>) - While in the air, quickly drop down and strike your opponent where you land with fierce lightning.
-    -   Grants a Talent Tool that can only be used while you are high off the ground.
-    -   On use, turn into a lightning bolt and speed downwards, ragdolling and damaging targets hit. The damage scales on the height difference.
+-   **Lightning Drop**: [Familiar Sage's Armor](<../Familiar_Sage's_Armor.md>) - While in the air, quickly drop down and strike your opponent where you land with fierce lightning.
+    -   Grants a Talent Tool that can only be used while you are above a certain altitude off the ground.
+    -   On use, turn into a lightning bolt and crash into the ground with a shockwave, ragdolling and damaging targets hit. The damage scales on the height difference.  
+        
 
--   Light Piercer: [Familiar Prince's Armor](<../Familiar_Prince's_Armor.md>) - While using a spear, shoot out 3 light spears that pierce through your opponent and their block. While using Familiar Prince's Armor, all passive regeneration is increased by 10%.
-    -   Grants a Talent tool that can only be used if you have a [Spear](../Iron_Spear.md) equipped. On use, fire three spear projectiles forwards, dealing 10 damage each. These cannot be blocked.
-    -   Can be used on Silentheart
+-   **Light Piercer**: [Familiar Prince's Armor](<../Familiar_Prince's_Armor.md>) - While using a spear, shoot out 3 light spears that pierce through your opponent and their block. While using Familiar Prince's Armor, all passive regeneration is increased by 10%.
+    -   Grants a Talent tool that can only be used if you have a [Spear](../Iron_Spear.md) equipped. On use, fire three spear projectiles forwards, dealing 10 damage each. These have 100% chip damage.
+    -   The spears will pierce through targets, continuing on their trajectory even if they land on one target.
+    -   The spears can travel up to ~160 studs before dissapating.
+    -   The regeneration boost is multiplicative with other sources of regeneration.  
+        
 
--   Looter: [Experienced Adventurer](../Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
-    -   This affects:
-        -   Turning in [Artifacts](../Artifacts.md) at a banker,
-        -   Turning in the [Strange Egg](../Artifacts.md#strange-egg) to the banker at [Greathive Aratel](../Greathive_Aratel.md),
-        -   Turning in [Sacks](../Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](../Meteor_Isle.md),
-        -   Handing in pure ore to a [Blacksmith](../Blacksmith.md),
-        -   Trading in _Explosive Crates_ at [Summer Isle](../Summer_Isle.md).
+-   **Looter**: [Experienced Adventurer](../Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
+    -   This affects: [Artifact](../Artifacts.md), [Strange Egg](../Artifacts.md#strange-egg), Pure [Ore](../Ores.md), and [Sack](../Chests_&_Sacks.md#sacks) turn-ins. Also affects turning in explosive crates to [Scope](../Scope.md).  
+        
 
 -   Mass Effect: [Ascended Outlaw Hat](../Ascended_Outlaw_Hat.md) - For every [Might Gem](../Might_Gem.md) you have equipped on your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\], slightly increase each Might Gem's power.
     -   Increases the posture damage bonus Might Gems innately grant, scaling on the amount of Might Gems you have equipped in your arsenal.
@@ -877,6 +886,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Grants a 25% damage buff for the duration of the buff.
     -   The health highlight on hit effect is very similar to [Soulbreaker's](../Oath%253A_Soulbreaker.md) Heart Reverb Talent.
 
+-   Raudra's Pride: [Raudra's Finger](<../Raudra's_Finger.md>) - Gain 3% damage for each player and 1% damage for each mob that has combat-tagged you. At 5 stacks, Vent to burn all stacks and reset your cooldowns.
+    -   60s CD.
+
 -   Refreeze: [Icebringer's Vestments](<../Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your [Orbital Ice](../Talents.md#orbital-ice) by 20 seconds.
 
 -   Repeated Blows: [Reinforced War Boots](../Reinforced_War_Boots.md) - Any [strength](../Attunement-less.md#strength) mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](../Wrath_Gem.md) on it will reset its cooldown if you land a critical while a Wrath Gem is active.
@@ -885,7 +897,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Repeated Propulsion: [Cindergarb](../Cindergarb.md) - Reduce the cooldown of Dancing Steps and Graceful Steps to 1 second.
     -   Reduces the cooldown of Dancing Steps and Graceful Steps from 5 seconds to 1.
 
--   **Revitalizing Pumpkin** \[• Common Talent\] - Pumpkins from [Pumpkin Pitch](../Pumpkin_Pitch.md) that hit your opponent heal you for 1% of your max health.
+-   **Revitalizing Pumpkin**: [Wreath of the Ardenstar](../Wreath_of_the_Ardenstar.md) - Pumpkins from [Pumpkin Pitch](../Pumpkin_Pitch.md) that hit your opponent heal you for 1% of your max health.
     
 
 -   Riot Breaker: [Authority Commander](../Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.

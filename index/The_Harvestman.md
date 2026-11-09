@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233732
+revid: 233864
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -116,11 +116,12 @@ Unlike all bosses, this boss involves a unique gimmick where the player is only 
 **The Harvestman's Culling**  
 (★★★)
 
- | The Harvestman manifests a massive beam infused with purple flames and rotates around, dealing gargantuan amounts of damage to those hit.
+ | At 50% of The Harvestman health he lets out a villainous laugh before manifesting a massive beam infused with purple flames and rotates around, dealing gargantuan amounts of damage to those hit.
 
 -   This move is first used during the initiation of the second phase, and is then used periodically throughout the second phase.
 -   It is best to avoid this attack by staying close to The Harvestman while he uses this move.
 -   This move will always rotate clockwise.
+-   During the Culling a slower version of the dark purple Line Fire attack will begin
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -145,25 +146,36 @@ Unlike all bosses, this boss involves a unique gimmick where the player is only 
 
 ## Tips and Strategy
 
-**This section contains subjective information that was last updated on November 4th, 2026.**
+**This section contains subjective information that was last updated on November 9th, 2026.**
 
-The most important tip would be to prioritize dodging over dealing damage, as regenerating health in this bossfight is rather difficult, especially in solo runs.
+The most important tip would be to prioritize dodging over dealing damage. Regenerating health in this bossfight is rather difficult and slow making it usually not worth it, especially in solo runs.
 
-It's best to try and dodge the Line Fire attack, as those are the ones likely to hit and deal lots of damage; as well as inflicting Cursed Flames, yet giving barely any opportunity to extinguish the flames by dodging.
+-   But remember you don't lose a life for dying in the fight, even if you die to another player rather than The Harvestman himself, making participation entirely risk-free.
 
-Jumping in the bossfight isn't recommended as much, as for whatever reason, The Harvestman seems to pull you towards himself during certain attacks. Do not spam jump.
+It's best to try and circumvent any version of the Line Fire attack, as those Lines are more likely to hit and deal lots of damage; as well as inflicting Cursed Flames. Always stay calm and move out of the way from the Line Fire flames properly, and roll cancel if you have to.
 
-Whenever the The Harvestman is about to reach 50% of his health, stay nearby and try to be at the opposite direction whenever he is facing, as The Harvestman will begin his culling, launching a huge beam that **rotates clockwise**. This is best avoided by going staying close to The Harvestman while paying attention to the other attacks that he occasionally throws out.
+-   The darker purple, lattice pattern version of Line Fire is by far the most dangerous variation. Meaning you can lose massive chunks of health quickly if you do not give yourself time to dodge the Lines.
+-   Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Line Fire attack, as it is likely to just knock you into another array of flames which can easily erase a large chunk of your health.
 
-The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfight, as it will sometimes allow you to completely negate attacks.
+Jumping or spam jumping in the bossfight is not recommended as much as the Harvestman seems to pull you towards himself during certain attacks.
 
-Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%. It is also recommended to eat [Fruit Salad](Fruit_Salad.md) (or any food that provides the "Heal" buff) as doing so will increase your health regeneration by 30%. [Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
+During the Harvestman's Culling attack, plenty of players will likely die and turn into [Gourdskippers](Gourdskipper.md). These [Gourdskippers](Gourdskipper.md) can become a big threat as a single hit from one of them will infect you as well. So you have to consistently [Pumpkin Pitch](Pumpkin_Pitch.md) the ground if you want to have a chance at winning.
 
-Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Line Fire attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Line Fire flames properly, and roll cancel if you have to.
+If you simply want to beat the Harvestman for the first time for whatever reason, using a Freshie or otherwise non-progressed slot and leveling yourself up during the boss fight is a helpful strategy, as leveling up will fully restore your health, stomach, thirst, and blood bars.
+
+The boss fight in general has a tendency to be poorly optimized performance-wise for some people, especially in servers with large player counts. This can lead to you suddenly losing a dangerous amount of your health if your game freezes.
+
+A piece of a [Equipment](Equipment.md) that aids within the fight is the [Jester's Beret](<Jester's_Beret.md>) because it will sometimes allow you to completely negate attacks 10% of the time.
+
+Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%.
+
+-   It is also recommended to eat any food that provides the "Heal" buff as doing so will increase your health regeneration by 30%.
+
+[Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
 
 [Harvestman's Cloak](<Harvestman's_Cloak.md>) does **not** double your Pumpkin Pitch damage during the fight.
 
-You don't lose a life for dying in the fight, even if you die to another player rather than The Harvestman himself, making participation entirely risk-free.
+[Resonances](Resonance.md) are enabled before the fight initiates, but not during it. Due to this, some players may intentionally grief the others to secure the Clutch Bonus or for their amusement, using certain Resonances like Corrupted [Smite](Smite.md) or [Gravity Field](Gravity_Field.md).
 
 ## Rewards
 
@@ -224,7 +236,6 @@ Crowns and knowledge are also awarded, considering if you dealt the most damage 
 -   Many of the boss's attacks are based off of The Devourer of Gods from the _Terraria_ Calamity Mod.
 -   The Harvestman's halo has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name", a phrase that was shown in the Hallowtide 2026 trailer image.
 -   All of the Harvestman's Legendary Hallowtide items will always drop with 3 stars.
--   [Resonances](Resonance.md) are enabled before the fight initiates, but not during it.
 -   The crowns and knowledge are only awarded around 20 seconds after the boss is killed, so make sure to wait before entering the portal.
 
 ## References

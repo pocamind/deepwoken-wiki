@@ -29,7 +29,7 @@ The Temple of Hearts can be entered in two ways:
 
 Entering will lead the player into an overgrown hall decorated with underwater foliage and Deep Shrines on the sides.
 
-At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a sprawling altar to one of the mysterious [Drowned Gods](Lore.md#drowned-gods). Players possessing a [Resonance](Resonance.md) can interact with the shrine and call forth the Voice of Yun'Shul, who can confer upon the player one out of five potential benefits. These benefits range from a rerolling of their Resonance to an instant escape from the Depths, with the main cost to this bargain being the consumption of a "wish". Players who have consumed their wish are unable to bargain with the shrine until it is recharged.
+At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a sprawling altar to one of the mysterious [Drowned Gods](Glossary.md#drowned-gods). Players possessing a [Resonance](Resonance.md) can interact with the shrine and call forth the Voice of Yun'Shul, who can confer upon the player one out of five potential benefits. These benefits range from a rerolling of their Resonance to an instant escape from the Depths, with the main cost to this bargain being the consumption of a "wish". Players who have consumed their wish are unable to bargain with the shrine until it is recharged.
 
 ### Contents
 

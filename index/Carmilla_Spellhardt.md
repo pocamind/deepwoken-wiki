@@ -1,6 +1,6 @@
 ---
 title: Carmilla Spellhardt
-revid: 233781
+revid: 233853
 source: https://deepwoken.fandom.com/wiki/Carmilla_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
@@ -86,7 +86,7 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md).
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">I've got about ... 0 Joy to spend!</td>
+  <td colspan="12">I've got about... 0 Joy to spend!</td>
 </tr>
 <tr>
   <td colspan="12">Heh! Not a scrap o' Joy to yer name? Stop wastin' my time.</td>
@@ -96,3 +96,7 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md).
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Their line: "[Come back when yer a little, hmmmm-richer!](https://youtu.be/J8XxuW-Orww?si=RGSwnc34_A4_qZV7&t=13)" is a reference to Morshu from _Link: The Faces of Evil_.

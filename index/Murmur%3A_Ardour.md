@@ -21,7 +21,7 @@ categories: [Murmurs]
 
 By default, it drains a large amount of [Ether](Ether.md) when used; however, at Power 18 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your Ether regen won't be affected.
 
-For a more detailed view on Ardour, see the [lore](Lore.md#whispers-of-ardour).
+For a more detailed view on Ardour, see the [lore](Glossary.md#whispers-of-ardour).
 
 ### Ardour Scream
 

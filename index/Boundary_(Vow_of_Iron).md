@@ -8,7 +8,7 @@ categories: [Vow of Iron Exclusive, Mechanics]
 
 # Boundary (Vow of Iron)
 
-_Not to be confused with [The Boundary](Lore.md#the-boundary), the space between Lumen and The Depths._
+_Not to be confused with [The Boundary](Glossary.md#the-boundary), the space between Lumen and The Depths._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

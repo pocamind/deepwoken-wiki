@@ -28,5 +28,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 
--   This location plays a role in the [lore](Lore.md).
+-   This location plays a role in the [lore](Glossary.md).
 -   The lighthouse can have four chests behind it containing chests similar to the [Lower Erisia](Lower_Erisia.md) loot pool

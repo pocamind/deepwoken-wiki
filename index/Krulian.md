@@ -20,7 +20,7 @@ categories: [Sapient species]
 
 ## Description
 
-Krulians are a mysterious species that possesses demigod-like powers. They are essentially the missing link between the [Drowned Gods](Lore.md#drowned-gods) and the people of Lumen.
+Krulians are a mysterious species that possesses demigod-like powers. They are essentially the missing link between the [Drowned Gods](Glossary.md#drowned-gods) and the people of Lumen.
 
 According to [The Ferryman](The_Ferryman.md), not many Krulians have been seen by mankind, implying that Krulians are either from [The Depths](The_Depths.md) or some islands in the [Voidsea](Voidsea.md). He also mentions that they are the "next step in the evolutionary chain" and that they are "the superior aspect that will live on after the Drowned Gods awake."
 

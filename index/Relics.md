@@ -330,7 +330,7 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
  | **The Forge of Sin** - An undying purple flame of mysterious origin. Note that this is NOT to be confused with the Piece of the Forge of Sin, found around the map, which is an artifact and NOT a Relic.
 
-**Lore** - A Relic created by the Drowned God [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), and was originally kept within The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Lore.md) 11.4)
+**Lore** - A Relic created by the Drowned God [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), and was originally kept within The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Glossary.md) 11.4)
 
  |
 | 

@@ -65,7 +65,7 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 #### Summer Company Outpost
 
 -   Outside of the mineshaft, there is a outpost armed by [The Summer Company](The_Summer_Company.md). With their purpose of surveying the mineshaft.
--   There are two Summer Dragoons, [Ignacio](Ignacio.md) and [Thula](Thula.md), who are looking into the mineshaft as a way to enter [The Boundary](Lore.md#the-boundary).
+-   There are two Summer Dragoons, [Ignacio](Ignacio.md) and [Thula](Thula.md), who are looking into the mineshaft as a way to enter [The Boundary](Glossary.md#the-boundary).
 -   Their expeditions lead into the mineshaft with carts of ores and sets of other materials scattered throughout.
 
 ## NPCs

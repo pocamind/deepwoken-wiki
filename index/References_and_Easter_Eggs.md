@@ -317,7 +317,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Khans** resemble modern interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King) from _Journey To The West_, with their near identical hair on sideburns and cheeks, and headband.
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[aspect\]" it says "Return to Khan"
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.wiki/w/Vessels) from _Hollow Knight_.
-    -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](Lore.md#vesperian) by being more robust than any other aspect.
+    -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](Glossary.md#vesperian) by being more robust than any other aspect.
 -   **Ganymedes** are a likely reference to the [Snail Shamans](https://hollowknight.wiki/w/Snail_Shamans) from _Hollow Knight._
     -   **Ganymedes** are also named after [a moon of Jupiter.](<https://en.wikipedia.org/wiki/Ganymede_(moon)>)
     -   **Ganymedes** origins stems from _Arch\_Mage's previous game, [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil)._ Where it serves as the player's race.

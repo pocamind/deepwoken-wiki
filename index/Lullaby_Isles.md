@@ -14,7 +14,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-**The Lullaby Isles** are a tropical archipelago in the [Central Luminant](Luminants.md#central-luminant) and the homeland of [Chrysids](Chrysid.md) with multiple settlements dotted across the region. The archipelago is circulated by a dense mountain range, known as [the Stoneseye](Lore.md#the-stoneseye-range).[\[1\]](#cite-note-distant-light-1)
+**The Lullaby Isles** are a tropical archipelago in the [Central Luminant](Luminants.md#central-luminant) and the homeland of [Chrysids](Chrysid.md) with multiple settlements dotted across the region. The archipelago is circulated by a dense mountain range, known as [the Stoneseye](Glossary.md#the-stoneseye-range).[\[1\]](#cite-note-distant-light-1)
 
 The Chrysids within speak in a dialect native to the Isles themselves, known as the Moonlit Dialect, which is rarely seen outside its walls.[\[2\]](#cite-note-2)
 
@@ -22,7 +22,7 @@ Below the Isles are a set of ossuaries with about 6800 active passages.[\[3\]](#
 
 The Lullaby Isles are the territory of [The Moonlit Faith](The_Moonlit_Faith.md), which means that they are controlled by the [Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md), which is given orders and overseen by [The Lady Confessor](The_Lady_Confessor.md). If someone's leave isn't sanctioned by [The Moonlit Faith](The_Moonlit_Faith.md), they aren't allowed back in — they are seen as traitors and are most likely sacrificed by burning alive.[\[4\]](#cite-note-marro-4)[\[5\]](#cite-note-pardoner-5)
 
-[The Central Authority](The_Central_Authority.md) would have conquered the Isles, but finds it a difficult target due to its geographical location. As [the Stoneseye Range](Lore.md#the-stoneseye-range) is incredibly insurmountable to scale, the archipelago has the high-ground advantage, with the caverns being the only way to bypass the mountain range, which are most likely reinforced as well.[\[1\]](#cite-note-distant-light-1)
+[The Central Authority](The_Central_Authority.md) would have conquered the Isles, but finds it a difficult target due to its geographical location. As [the Stoneseye Range](Glossary.md#the-stoneseye-range) is incredibly insurmountable to scale, the archipelago has the high-ground advantage, with the caverns being the only way to bypass the mountain range, which are most likely reinforced as well.[\[1\]](#cite-note-distant-light-1)
 
 ## Notable Figures
 

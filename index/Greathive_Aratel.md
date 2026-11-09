@@ -130,7 +130,7 @@ The most powerful being in the universe rules over his subjects
 
 #### Observatory
 
-Greathive Aratel is home to the Celestial Telescope, which offers players a glimpse into the [Lore](Lore.md) surrounding [Constellia](Constellia.md) and the [Celestials](Celestial.md).
+Greathive Aratel is home to the Celestial Telescope, which offers players a glimpse into the [Lore](Glossary.md) surrounding [Constellia](Constellia.md) and the [Celestials](Celestial.md).
 
 Players can crank the telescope clockwise or counterclockwise to position it to other celestial objects:
 

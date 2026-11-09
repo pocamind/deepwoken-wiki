@@ -36,7 +36,7 @@ categories: [Weapons, Medium Weapons, Light Weapons, Daggers, Twinblades, Hallow
 
 ## Description
 
-The Corvidirge Severants is a pair of two purple scythes adorned with feathers and the claws of a Harrow, a creature hailing from [The Boundary](Lore.md#the-boundary). This weapon is categorized as both a [Twinblades](Twinblades.md) and a [Dagger](Daggers.md), making it both compatible for [Talents](Talents.md) in their respective weapon categories.
+The Corvidirge Severants is a pair of two purple scythes adorned with feathers and the claws of a Harrow, a creature hailing from [The Boundary](Glossary.md#the-boundary). This weapon is categorized as both a [Twinblades](Twinblades.md) and a [Dagger](Daggers.md), making it both compatible for [Talents](Talents.md) in their respective weapon categories.
 
 ## Critical
 
