@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 233632
+revid: 233722
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Relics, Items, Hallowtide]
@@ -42,7 +42,7 @@ Despite them being purchasable from [Traan Zakshun](Traan_Zakshun.md), they cann
   <ul>
     <li><b><a href="Hallowtide.md">Hallowtide</a> exclusive</b>:
   <ul>
-    <li><b>Unique</b>: <a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>, <a href="Familiar_Occultist's_Armor.md">Familiar Occultist's Armor</a>, <a href="Familiar_Prince's_Armor.md">Familiar Prince's Armor</a>, <a href="Familiar_Sage's_Armor.md">Familiar Sage's Armor</a>, <a href="Familiar_Vagrant's_Armor.md">Familiar Vagrant's Armor</a></li>
+    <li><b>Unique</b>: <a href="Familiar_Arachnid's_Cloak.md">Familiar Arachnid's Cloak</a>, <a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>, <a href="Familiar_Occultist's_Armor.md">Familiar Occultist's Armor</a>, <a href="Familiar_Prince's_Armor.md">Familiar Prince's Armor</a>, <a href="Familiar_Sage's_Armor.md">Familiar Sage's Armor</a>, <a href="Familiar_Vagrant's_Armor.md">Familiar Vagrant's Armor</a></li>
   </ul></li>
   </ul></td>
 </tr>
@@ -87,8 +87,8 @@ Despite them being purchasable from [Traan Zakshun](Traan_Zakshun.md), they cann
   </ul></li>
     <li><b><a href="Hallowtide.md">Hallowtide</a> exclusive</b>:
   <ul>
-    <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Mushroom_Costume.md">Charmshroom Costume</a>, <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Glowshroom Costume</a>, <a href="Mushroom_Costume.md">Metalshroom Costume</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a>, <a href="Pumpkin_Head.md">Pumpkin Head</a>, <a href="Mushroom_Costume.md">Zapshroom Costume</a>, <a href="Crooked_Witch_Hat.md">Crooked Witch Hat</a>, <a href="Hunter's_Chapeau.md">Hunter's Chapeau</a></li>
-    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Familiar_Prosthetic_Arm.md">Familiar Prosthetic Arm</a></li>
+    <li><b><a href="Equipment.md#head">Head Equipment</a></b>: <a href="Mushroom_Costume.md">Charmshroom Costume</a>, <a href="Crooked_Witch_Hat.md">Crooked Witch Hat</a>, <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Glowshroom Costume</a>, <a href="Hunter's_Chapeau.md">Hunter's Chapeau</a>, <a href="Mushroom_Costume.md">Metalshroom Costume</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a>, <a href="Pumpkin_Head.md">Pumpkin Head</a>, <a href="Wreath_of_the_Ardenstar.md">Wreath of the Ardenstar</a>, <a href="Mushroom_Costume.md">Zapshroom Costume</a></li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>: <a href="Familiar_Prosthetic_Arm.md">Familiar Prosthetic Arm</a>, <a href="Thorned_Blazer.md">Thorned Blazer</a></li>
     <li><b><a href="Equipment.md#torso">Torso Equipment</a></b>: <a href="Crawling_Necktie.md">Crawling Necktie</a>, <a href="Death's-Head_Necktie.md">Death's-Head Necktie</a>, <a href="Pilferer's_Trophy.md">Pilferer's Trophy</a>, <a href="Wispfire_Beacon.md">Wispfire Beacon</a></li>
     <li><b><a href="Equipment.md#face">Face Equipment</a></b>: <a href="Eyes_of_the_Moppet.md">Eyes of the Moppet</a>, <a href="Mask_of_Phantoms.md">Mask of Phantoms</a>, <a href="Stitched_Effigy.md">Stitched Effigy</a></li>
     <li><b><a href="Equipment.md#ears">Ears Equipment</a></b>: <a href="Coffin_Earrings.md">Coffin Earrings</a>, <a href="Pumpkin_Earrings.md">Pumpkin Earrings</a></li>

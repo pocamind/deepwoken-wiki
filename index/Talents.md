@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 233641
+revid: 233774
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5701,7 +5701,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Blade Dancer \[Common Talent, Agility\] - Landing a Basic Attack removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
-    -   The [Monastery Cowl](Monastery_Cowl.md) and [Deepwoken Cloak](Deepwoken_Cloak.md) equipment have this Talent.
+    -   The [Monastery Cowl](Monastery_Cowl.md) and [Deepwoken Cloak](Faircloth_Cloak.md) equipment have this Talent.
 
 -   _Cut to the Chase_ \[Rare Talent, Agility\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air. (+5 Passive Agility)
     -   Air Counters do not innately deal damage. Having this Talent gives your Air Counter 10 true damage.
@@ -6672,6 +6672,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Repeated Propulsion: [Cindergarb](Cindergarb.md) - Reduce the cooldown of Dancing Steps and Graceful Steps to 1 second.
     -   Reduces the cooldown of Dancing Steps and Graceful Steps from 5 seconds to 1.
 
+-   **Revitalizing Pumpkin** \[Common Talent\] - Pumpkins from [Pumpkin Pitch](Pumpkin_Pitch.md) that hit your opponent heal you for 1% of your max health.
+    
+    -   Tags: \[Sustain\]
+
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.
@@ -6700,7 +6704,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Grants a 7.5% damage buff to M1s (15% in Vow of Iron).
 
--   Skillful Recovery: [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
+-   Skillful Recovery: [Shiva's Pendant Earrings](<Raudra's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
 
 -   Sloped Plate: [Ossified Black Helm](Ossified_Black_Helm.md) & [Blackalloy Helm](Blackalloy_Helm.md) - Reduces the amount of damage you take when guardbroken by 10.
 

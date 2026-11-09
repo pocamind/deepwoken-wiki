@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 229406
+revid: 233700
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -445,15 +445,6 @@ _+Talent: [**Already Dead**](Talents.md#already-dead)_
 **Requires Power 8**
 
  | N/A |
-|  | [Deepwoken Hood](Deepwoken_Hood.md)  
-(**Set**) | +2 Rare Pips  
-+1 Legendary Pip
-
-**Requires Power 6, 10 Agility**
-
- | Set: Deepwoken  
-Head: [Deepwoken Hood](Deepwoken_Hood.md)  
-Arms: [Deepwoken Cloak](Deepwoken_Cloak.md) |
 |  | [Ether Refined Brim](Ether_Refined_Brim.md)  
 (**Styles**)  
 (**Set**)  
@@ -493,6 +484,15 @@ Arms: [Evanspear War Plate](Evanspear_War_Plate.md)
 Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 
  |
+|  | [Faircloth Hood](Faircloth_Hood.md)  
+(**Set**) | +2 Rare Pips  
++1 Legendary Pip
+
+**Requires Power 6, 10 Agility**
+
+ | Set: Faircloth  
+Head: [Faircloth Hood](Faircloth_Hood.md)  
+Arms: [Faircloth Cloak](Faircloth_Cloak.md) |
 |  | [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)  
 (**Hallowtide**)  
 (**Legendary**) | _+10 Health_
@@ -1428,26 +1428,6 @@ _+Talent: [**Disbelief**](Talents.md#disbelief)_
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
 Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
-|  | [Deepwoken Cloak](Deepwoken_Cloak.md)  
-(**Styles**)  
-(**Set**)  
-(**Legendary**) | _+5 Health_  
-_+1 Posture_
-
-+2 Rare Pips  
-+1 Legendary Pip  
-_+Talent: [**Blade Dancer**](Talents.md#blade-dancer)_  
-**Requires Power 10**
-
- | Styles:  
-Black & White
-
-  
-Set: Deepwoken  
-Head: [Deepwoken Hood](Deepwoken_Hood.md)  
-Arms: [Deepwoken Cloak](Deepwoken_Cloak.md)
-
- |
 |  | [Delver's Duster](<Delver's_Duster.md>)  
 (**Mythical**) | _+5 Health_
 
@@ -1536,6 +1516,26 @@ Set: Evanspear
 Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
 Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+
+ |
+|  | [Faircloth Cloak](Faircloth_Cloak.md)  
+(**Styles**)  
+(**Set**)  
+(**Legendary**) | _+5 Health_  
+_+1 Posture_
+
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: [**Blade Dancer**](Talents.md#blade-dancer)_  
+**Requires Power 10**
+
+ | Styles:  
+Black & White
+
+  
+Set: Faircloth  
+Head: [Faircloth Hood](Faircloth_Hood.md)  
+Arms: [Faircloth Cloak](Faircloth_Cloak.md)
 
  |
 |  | [First Ranger Duster](First_Ranger_Duster.md)  
@@ -3667,7 +3667,7 @@ Ears: [Regenerative Earrings](Regenerative_Earrings.md)
 
  | Variants:  
 [Ruby Pendant](#ruby-pendant-earrings) & [Ember Scorch](#ember-scorch-earrings) |
-|  | [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) | +1 Common Pip
+|  | [Shiva's Pendant Earrings](<Raudra's_Pendant_Earrings.md>) | +1 Common Pip
 
 +1 Rare Pip  
 _+Talent: [**Skillful Recovery**](Talents.md#skillful-recovery)_

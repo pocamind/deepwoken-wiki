@@ -1,6 +1,6 @@
 ---
 title: Ardenstar family
-revid: 233643
+revid: 233790
 source: https://deepwoken.fandom.com/wiki/Ardenstar_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Game-adjacent articles", Families and lineages]
@@ -18,7 +18,7 @@ Thus, this article focuses on that.
 
 ## Description
 
-The Ardenstar family is a family of [Lightborn](Lightborn.md).[\[1\]](#cite-note-1)
+The Ardenstar family is a noble family of [Lightborn](Lightborn.md).[\[1\]](#cite-note-1)
 
 ## References
 

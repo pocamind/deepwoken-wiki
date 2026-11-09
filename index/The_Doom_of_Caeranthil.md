@@ -211,7 +211,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a><b>:</b>
   <ol>
     <li><b>Unique Head</b>: <a href="Warlock's_Brim.md"><font>Warlock's Brim</font></a></li>
-    <li><b>Generic Head</b>: <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Strapped_Hat.md">Strapped Hat</a></li>
+    <li><b>Generic Head</b>: <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Faircloth_Hood.md">Deepwoken Hood</a>, <a href="Strapped_Hat.md">Strapped Hat</a></li>
   </ol></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>

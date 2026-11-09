@@ -1,6 +1,6 @@
 ---
 title: Stitched Effigy
-revid: 233420
+revid: 233726
 source: https://deepwoken.fandom.com/wiki/Stitched_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Face, Hallowtide, Event Item]
@@ -13,8 +13,8 @@ notices:
 | Stitched Effigy | |
 |---|---|
 | type | Face |
-| rarity | Common |
-| selling price | N/A |
+| rarity | Legendary |
+| selling price | 50 |
 | requirements | N/A |
 | weight | 0.5 |
 | styles | Cold, Hollow, Stitched Effigy, Warm |

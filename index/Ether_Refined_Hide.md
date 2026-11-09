@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Hide
-revid: 225833
+revid: 233684
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Craftable]
@@ -26,7 +26,7 @@ categories: [Items, Ingredients, Craftable]
 ## Crafting
 
 -   [Equipment](Equipment.md)
-    -   [Ether Refined Brim](Ether_Refined_Brim.md): 1x Ether Refined Hide + [Warlock's Brim](<Warlock's_Brim.md>) + 1x [Shiva's Codex](<Shiva's_Codex.md>)
-    -   [Ether Refined Mantle](Ether_Refined_Mantle.md): 1x Ether Refined Hide + 1x [Warlock's Mantle](<Warlock's_Mantle.md>) + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ether Refined Brim](Ether_Refined_Brim.md): 1x Ether Refined Hide + [Warlock's Brim](<Warlock's_Brim.md>) + 1x [Etherbound Codex](Etherbound_Codex.md)
+    -   [Ether Refined Mantle](Ether_Refined_Mantle.md): 1x Ether Refined Hide + 1x [Warlock's Mantle](<Warlock's_Mantle.md>) + 1x [Etherbound Codex](Etherbound_Codex.md)
     -   [Ether Imbued Earrings](Ether_Imbued_Earrings.md): 1x Ether Refined Hide + 1x [Practicioner's Earrings](<Practicioner's_Earrings.md>)
     -   [Ether Empowered Earrings](Ether_Empowered_Earrings.md): 1x Ether Refined Hide + 1x [Pendant Earrings](Pendant_Earrings.md)

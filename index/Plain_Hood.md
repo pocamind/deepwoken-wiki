@@ -31,4 +31,4 @@ The Plain Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
--   The [Deepwoken Hood](Deepwoken_Hood.md) uses the same model.
+-   The [Deepwoken Hood](Faircloth_Hood.md) uses the same model.

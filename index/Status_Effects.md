@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 233302
+revid: 233666
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -98,7 +98,7 @@ Burn has a few sub-types, listed below.
 
 -   [Deepfire Ring](Deepfire_Ring.md) / **White Flames**: Increases the tick-rate of burn by 25% (2.4s to 3s), but reduces burn's base damage from 3.33 to 3.21 per tick. The maximum duration of your Burn, including self-applied burn, is reduced by 20%. This results in a very large DPS increase for the status effect, and this should be used in most cases. **White Flames** additionally turns your Burn **White**, taking priority over most other burn recolors.
     -   Sources: Deepfire Ring - [Deepfire Ring](Deepfire_Ring.md) / White Flames - [Corrupt Shard Bow](Shard_Bow.md) & [Edenbrand Hellcoil](Edenbrand_Hellcoil.md)
--   Cursed Burn - This burn type adds onto any pre-existing burn type, overriding their color with a purple hue, while retaining their unique traits. Cursed Burn multiplies burn damage by a final 2.5x, applied after all other burn type buffs.
+-   Cursed Burn - This burn type adds onto any pre-existing burn type, overriding their color with a purple hue, while retaining their unique traits. Cursed Burn multiplies burn damage by a final 1.75x, applied after all other burn type buffs.
     -   Sources: [Cursed Flames](Cursed_Flames.md) weapon, [Harvestman's Halo](<Harvestman's_Halo.md>)
 -   Azure Burning: Deals 12.5% more damage per tick than base burn. This burn type comes from [Azure Flames](Talents.md#azure-flames). This burn type is blue.
 -   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets) and drain a flat 6.25 Ether from affected targets per tick. They are also both, indistinguishably from eachother, black.

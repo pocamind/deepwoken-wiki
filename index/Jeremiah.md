@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 227765
+revid: 233673
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -43,7 +43,7 @@ Potential Rewards
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Etherbound_Codex.md">Etherbound Codex</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li>Monster Ingredients: <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a>, <a href="Thresher_Talon.md">Thresher Talon</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Enforcer_Eye.md">Enforcer Eye</a>, <a href="Exotic_Hide.md">Exotic Hide</a></li>
   </ul></td>
 </tr>
@@ -51,7 +51,7 @@ Potential Rewards
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Faircloth_Hood.md">Deepwoken Hood</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldrons</a>, <a href="Star_Duster.md">Star Duster</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Master_Thief_Earrings.md">Master Thief Earrings</a></li>

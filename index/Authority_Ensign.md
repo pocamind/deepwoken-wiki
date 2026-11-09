@@ -205,8 +205,8 @@ Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.m
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Faircloth_Hood.md">Deepwoken Hood</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Faircloth_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Boots.md">Grand Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a>, <a href="Inquisitor's_Visor.md">Inquisitor's Visor</a> (Inquisition Division only)</li>

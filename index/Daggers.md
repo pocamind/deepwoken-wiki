@@ -335,7 +335,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
   <td>75 LHT</td>
-  <td>12.5</td>
+  <td>13.5</td>
   <td>LHT: 10.5</td>
   <td>20%</td>
   <td>-</td>
@@ -343,7 +343,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>6.5</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22.3</td>
+  <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
 <tr>

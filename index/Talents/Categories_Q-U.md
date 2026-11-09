@@ -16,7 +16,7 @@ Main Pages
 
 Variants: [Talents](../Talents.md) · [Talents/Vow of Iron](Vow_of_Iron.md)
 
-Sup-Pages
+Sub-Pages
 
 Variants: [Talents/Categories A-F](Categories_A-F.md) · [Talents/Categories G-K](Categories_G-K.md) · [Talents/Categories L-P](Categories_L-P.md) · [Talents/Categories V-Z](Categories_V-Z.md)
 
@@ -156,22 +156,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   Fold removes your current hand of cards; you'll obtain an additional, rerolled, Talent hand the next time you Power up instead. This should only be taken if you don't want any of the Talents in your current hand. These cards can only be chosen from Talent hands and are somewhat uncommon, only having a chance to show up. Additionally, after picking "Fold" 3 times in the same Power up, though not necessarily in sequence, all remaining talent hands will be skipped and will roll over to your next Power up.
 
 ## Talents
-
-### Quack Doctor
-
--   Blood Bag \[Common Talent, Bloodrend\] - You receive extra blood from knocking an enemy.
-    -   Prerequisite: 20 Bloodrend
-
--   _Blood Transfusion_ \[Rare Talent, Bloodrend\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar.
-    -   20 second cooldown.
-    -   Prerequisite: 60 Bloodrend
-
--   Just a Taste \[Common Talent, Bloodrend\] - First Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you hit in combat has increased blood drain.
-    -   Currently does not work.
-    -   Prerequisite: 20 Bloodrend
-
--   Open Wound \[Common Talent, Bloodrend\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Prerequisite: 40 Bloodrend
 
 ### Quest
 
@@ -936,10 +920,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Tamed Flame
 
--   Controlled Combustion \[Common Talent, Charisma, Flamecharm\] - Your Agitating Spark no longer spreads to your allies.
+-   Controlled Combustion \[Common Talent, Charisma, Flamecharm\] - Your Agitating Spark no longer spreads to your allies. All-Consuming Flame no longer applies against allies.
     -   Your Agitating Spark no longer spreads to yourself too.
     -   In some places, this Talent doesn't work well, spreading to your allies if they are too close to the target.
-    -   Prerequisites: Agitating Spark, 40 Charisma
+    -   "All-Consuming Flame" is an old Talent that was merged into [Corpse Explosion](../Talents.md#corpse-explosion); this Talent disables the halved incineration timer effect of your Corpse Explosion against your allies.
+    -   Prerequisites: [Agitating Spark](../Talents.md#agitating-spark), 40 Charisma
 
 ### Tavernkeep
 

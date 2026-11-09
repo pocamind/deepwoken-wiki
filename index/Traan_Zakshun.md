@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 231259
+revid: 233677
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -420,7 +420,7 @@ Sold Items
     <li><a href="Enchant_Stone.md"><b>Enchant Stones</b></a> &amp; <a href="Enchant_Grease.md"><b>Enchant Grease</b></a>: <a href="Allure.md">Allure</a>, <a href="Bluster.md">Bluster</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>, <a href="Drowned.md">Drowned</a>, <a href="Stench.md">Stench</a>, <a href="Stone.md">Stone</a>, <a href="Vampirism.md">Vampirism</a></li>
   </ul></li>
     <li><b>For 6 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><b>For 7 </b>: <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a></li>
+    <li><b>For 7 </b>: <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Etherbound_Codex.md">Etherbound Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a></li>
     <li><b>For 8 </b>: <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a></li>
     <li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 12 </b>: <a href="Ethereal_Bone_Dust.md">Ethereal Bone Dust</a></li>

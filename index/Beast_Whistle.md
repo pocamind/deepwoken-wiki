@@ -1,6 +1,6 @@
 ---
 title: Beast Whistle
-revid: 232977
+revid: 233803
 source: https://deepwoken.fandom.com/wiki/Beast_Whistle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items]

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 233581
+revid: 233659
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -278,7 +278,7 @@ _A rush of piercing wind._
 
  | 
 
-Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -475,7 +475,7 @@ _A lifting torrent of wind._
 
  | 
 
-Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -512,7 +512,7 @@ _Encircle your foes with blades of wind that halt their escape until they respon
 
  | 
 
-Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -759,7 +759,7 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
 
  | 
 
-Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 

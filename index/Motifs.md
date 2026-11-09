@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 226985
+revid: 233808
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,9 +40,8 @@ There are a few specific weapons that can equip Motifs despite them not being Mo
 
 Full list of Motif-able weapons
 
-| Weapon you can get a Motif from | Critical visual (important for scaling) | What weapon classes the Motif works on |
+| Weapon you can get a Motif from | Critical visual (important for [scaling inherit](#scaling-inherit)) | What weapon classes the Motif works on |
 | --- | --- | --- |
-| [Krulian Knife](Krulian_Knife.md) | [Krulian Knife](Krulian_Knife.md) | Daggers |
 | [Nemit's Sickle](<Nemit's_Sickle.md>) | [Nemit's Sickle](<Nemit's_Sickle.md>) | Daggers |
 | [Whaling Knife](Whaling_Knife.md) / [Alloyed Whaling Knife](Whaling_Knife.md) | [Whaling Knife](Whaling_Knife.md) | Daggers |
 | [The Flippers of Fate](The_Flippers_of_Fate.md) / [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | Swords, Clubs, Twinblades, Spears, Staves, Bows |
@@ -76,9 +75,14 @@ Weapon criticals may have their own stats, separate to the weapon they're on. Th
 
 Unique critical Motifs have an additional 0.15s windup before the attack is used. Default weapon type Motifs do not have this downside however.
 
-As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some Motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
+### Scaling Inherit
 
-For example, if you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of the Law](The_Long_Tong_of_the_Law.md), it'd replace the critical's innate Mind and Heavy Weapons scaling with 12 Heavy Weapons scaling from [Soulwrought Greatsword](Crazy_Slots.md#weapons), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md), that can be equipped onto other weapon types, will still scale with their original attribute regardless of what weapon type they are equipped on.
+To put simply, the scaling stat(s) of the weapon that is **visually shown** when using a Mltifed critical attack will **override** the scaling stat(s) of your current weapon in damage calculation, **only for the critical attack**. This is then calculated with the base damage of your current weapon to find the scaled damage, and then multiplied by the critical attack's scaled damage multiplier. Because most Motif-able weapons are early game weapons, and/or the Motif visuals use the early game variant of a weapon, most Motifs fail to compare, damage wise, to the default versions of the weapon.
+
+For example, if you placed the Shotel Motif onto the [Razor Cutlass](Razor_Cutlass.md), it'd use the (base) [Shotel](Shotel.md)'s scaling stat of 5 on the critical attack, even if you Motifed the alloyed variant. This is paired with the Razor Cutlass' base damage of 18 to find the scaled damage, which is then multiplied by the scaled damage multiplier of the Shotel critical.  
+Normally, the Razor Cutlass has a scaling stat of 8, but because it is being overridden by Shotel's 5, the damage output of the critical attack _with_ the Motif is less than the one without it, even without taking into account the default Sword critical's higher scaled damage multiplier of 1.2x over the Shotel's 1.1x.
+
+This can work both for and against you; in some scenarios, the weapon that is visually shown on the Motif may have higher, or entirely different, scaling(s) than your current weapon's. For example, the [Kanabo](Kanabo.md) Motif would provide your weapon with Strength (and Heavy) scaling on its critical, which not a lot of Heavy weapons have, and the Greatsword Motif uses the [Soulwrought Greatsword](Crazy_Slots.md#weapons), a 12 Heavy scaling weapon for its visual, meaning that using it over a non-Motifed Greatsword is a direct damage increase. On the other hand, Motifs like [Halberd](Halberd.md) that can be placed onto weapons of different attributes will scale solely on their innate attribute, causing this critical to scale on Heavy, even when placed on a spear, and placing Motifs onto weapons with additional scalings may result in said scalings and your investment into those stats being rendered somewhat obsolete (e.g. [The Long Tong of the Law](The_Long_Tong_of_the_Law.md)).
 
 ## Trivia
 

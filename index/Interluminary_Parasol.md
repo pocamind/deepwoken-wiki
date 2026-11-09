@@ -181,7 +181,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
     <li><b>Unique Head</b>: <a href="Parasol_Planter.md"><font>Parasol Planter</font></a></li>
-    <li><b>Generic Head</b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Grand_Authority_Sallet.md">Grand Authority Sallet</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a></li>
+    <li><b>Generic Head</b>: <a href="Faircloth_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Grand_Authority_Sallet.md">Grand Authority Sallet</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a></li>
   </ol></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>

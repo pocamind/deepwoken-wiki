@@ -319,7 +319,7 @@ Elder Primadon drops 9 Chests, All of them can contain Relics and other high val
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Faircloth_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Legendary Arms</b>: <a href="Star_Duster.md"><font>Star Duster</font></a></li>

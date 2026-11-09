@@ -1252,6 +1252,12 @@
   "Deep Gem": {
     "to": "Deep Gems"
   },
+  "Deepwoken Cloak": {
+    "to": "Faircloth Cloak"
+  },
+  "Deepwoken Hood": {
+    "to": "Faircloth Hood"
+  },
   "Deficient": {
     "to": "Boons and Flaws",
     "fragment": "Deficient"
@@ -1728,6 +1734,9 @@
   "Fear": {
     "to": "Status Effects",
     "fragment": "Fear"
+  },
+  "Felwind Broom": {
+    "to": "Mounts"
   },
   "Ferrofluid": {
     "to": "Training Gear",
@@ -4311,6 +4320,15 @@
   },
   "Shisui Kobura": {
     "to": "Sachan Shisui Kobura"
+  },
+  "Shiva's Codex": {
+    "to": "Etherbound Codex"
+  },
+  "Shiva's Finger": {
+    "to": "Raudra's Finger"
+  },
+  "Shiva's Pendant Earrings": {
+    "to": "Raudra's Pendant Earrings"
   },
   "Shock": {
     "to": "Status Effects",

@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 219130
+revid: 233672
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, World Event]
@@ -33,8 +33,8 @@ Kingmaker's Isle, the unforgiving grounds of Battle Royale, where fresh starts a
     -   Battle Royale's Resonant Dawn does not spawn a [Star Knight](Star_Knight.md).
 -   Dying will set you to spectate your killer, letting you switch around who to spectate or to return to the Battle Royale lobby.
 -   Reward Eligibility begins when there is at least 20 players in a Battle Royale match.
-    -   Obtaining 5 points will award you with a [Shiva's Codex](<Shiva's_Codex.md>) and 2 [Crowns](Crowns.md).
-    -   Winning will award you with a [Shiva's Finger](<Shiva's_Finger.md>), [Shiva's Codex](<Shiva's_Codex.md>), and 2 [Crowns](Crowns.md).
+    -   Obtaining 5 points will award you with a [Etherbound Codex](Etherbound_Codex.md) and 2 [Crowns](Crowns.md).
+    -   Winning will award you with a [Shiva's Finger](<Raudra's_Finger.md>), [Etherbound Codex](Etherbound_Codex.md), and 2 [Crowns](Crowns.md).
 -   The game "ends" once there is only one group standing.
 
 ## Locations

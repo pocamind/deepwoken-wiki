@@ -32,7 +32,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Alloyable W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | MaraeChests in:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Alloyed:, Alloying a Falchion, Sold in Traan Zakshun's regular stock for 650 , Fort Merit Armory for ??? (Authority Ensign exclusive)Vow of Iron , Sold in Naan Zakshun's regular shop for 650 |
+| obtainment | MaraeChests in:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Alloyed:, Alloying a Falchion, Sold in Traan Zakshun's regular stock for 650 , Fort Merit Armory for ??? (Authority Ensign exclusive)Vow of Iron , Sold in Naan Zakshun's regular shop for 650 |
 | description | A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: The Justicar
-revid: 226267
+revid: 233777
 source: https://deepwoken.fandom.com/wiki/The_Justicar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Justicars]
@@ -25,6 +25,10 @@ The Justicar are a group hailing from [the North](Luminants.md#northern-luminant
 The Path is the code of the Justicar, which they interpret in their own way. One may interpret The Path to help others, some may use it to exact righteous violence upon people. They can only hope that The Path they have chosen to follow is right.[\[1\]](#cite-note-polis-1)
 
 They are also the creator of [Jus Karita](Jus_Karita.md).
+
+## Trivia
+
+-   The Justicar and the concept of the Path vaguely echo that of Christianity and the crusades.
 
 ## References
 

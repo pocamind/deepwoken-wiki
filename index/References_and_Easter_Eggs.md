@@ -264,7 +264,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
 -   A golem named [Marcus](Marcus.md) can be found in an area hidden under a house in the [Hidden Village](The_Hidden_Village.md).
 -   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.
-    -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either [Deepwoken](Deepwoken_Cloak.md), [Pathfinder Elite](Pathfinder_Elite.md), or [Royal Pathfinder](Royal_Pathfinder.md) cloaks.
+    -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either [Deepwoken](Faircloth_Cloak.md), [Pathfinder Elite](Pathfinder_Elite.md), or [Royal Pathfinder](Royal_Pathfinder.md) cloaks.
     -   The locations he are encountered in were the prime PVP and ganking spots where these were seen.
     -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wounds created by a character's attacks are only registered once they sheath their weapon.
     -   He has negative Navaen Nomad reputation. He was probably gripping them for Frigid Prisms.

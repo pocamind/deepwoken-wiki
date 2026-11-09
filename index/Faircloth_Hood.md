@@ -1,14 +1,14 @@
 ---
-title: Deepwoken Hood
-revid: 222986
-source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
+title: Faircloth Hood
+revid: 233708
+source: https://deepwoken.fandom.com/wiki/Faircloth_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
 ---
 
-# Deepwoken Hood
+# Faircloth Hood
 
-| Deepwoken Hood | |
+| Faircloth Hood | |
 |---|---|
 | type | Head |
 | rarity | Rare |
@@ -17,7 +17,7 @@ categories: [Equipment, Head, Hoods]
 | weight | 1 |
 | innate stats | +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
-| set | Deepwoken Hood, Deepwoken Cloak |
+| set | Faircloth Hood, Faircloth Cloak |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,10 +26,14 @@ categories: [Equipment, Head, Hoods]
 | obtainment | Chests from:, Etrean Guardmaster event, Faction Ambushes (The Central Authority), Fort Sea Event, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Miner's Landing, Faction Ambushes (The Ignition Union), Saramaed Hollow |
 | description | ... |
 
-Deepwoken Set
+Faircloth Set
 
-Variants: [Cloak](Deepwoken_Cloak.md)
+Variants: [Cloak](Faircloth_Cloak.md)
 
 ## Description
 
-The Deepwoken Hood is an [Equipment](Equipment.md) under the "Head" category.
+The Faircloth Hood is an [Equipment](Equipment.md) under the "Head" category.
+
+## Trivia
+
+-   Originally known as the "Deepwoken Hood".

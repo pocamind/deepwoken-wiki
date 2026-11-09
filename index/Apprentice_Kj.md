@@ -31,7 +31,7 @@ Apprentice Kj is an [Etrean](Etrean.md) NPC. He is a student under [Evengarde Re
 
 Completing his dialogue starts the "Vigil's Savior" [Quest](Quests.md).
 
-Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a [White Deepwoken Cloak](Deepwoken_Cloak.md).
+Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a [White Deepwoken Cloak](Faircloth_Cloak.md).
 
 ## Quest
 

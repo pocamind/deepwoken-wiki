@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 229965
+revid: 233701
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -236,7 +236,7 @@ The primary strategy for defeating the Scion is to use the bones it throws durin
 
 A secondary, albeit much slower, win condition is to simply ignore the bone mechanic. If you allow the Scion to hit you with its punch multiple times, it will eventually die without summoning the [Kyrsgarde Snipers](Kyrsgarde_Sniper.md) for health packs. Keep in mind you must activate the first 3 Shrines on the first floor for the Scion to use its punch.
 
-To avoid the ultimate, you can either parry or dodge it. The dodging method involves sliding, waiting for the audio cue of the Scion firing its orb, and then jumping and air-dashing to evade the attack. To parry the ultimate, wait for the same audio cue, but begin your parry just before the orb makes contact. While these maneuvers may seem difficult initially, they will become muscle memory with practice. For players without experience, air-dashing is generally the easier method to learn. With the Surge Shrine active you must pay attention to the orb and not the sound queue since the windup decreases while the sound cue stays the same.
+To avoid the ultimate, you can either parry or dodge it. The dodging method involves sliding, waiting for the audio cue of the Scion firing its orb, and then jumping and air-dashing to evade the attack. To parry the ultimate, wait for the same audio cue, but begin your parry just before the orb makes contact. While these maneuvers may seem difficult initially, they will become muscle memory with practice. For players without experience, air-dashing is generally the easier method to learn. With the Purge Shrine active you must pay attention to the orb and not the sound queue since the windup decreases while the sound cue stays the same.
 
 ## Loot Table
 

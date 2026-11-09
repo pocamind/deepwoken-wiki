@@ -16,7 +16,7 @@ Main Pages
 
 Variants: [Talents](../Talents.md) · [Talents/Vow of Iron](Vow_of_Iron.md)
 
-Sup-Pages
+Sub-Pages
 
 Variants: [Talents/Categories A-F](Categories_A-F.md) · [Talents/Categories G-K](Categories_G-K.md) · [Talents/Categories Q-U](Categories_Q-U.md) · [Talents/Categories V-Z](Categories_V-Z.md)
 

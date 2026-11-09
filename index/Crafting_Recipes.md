@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 228686
+revid: 233668
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -203,26 +203,26 @@ These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
     -   1 [Ring of Pestilence](Ring_of_Pestilence.md) + 1 [Trickster Dust](Trickster_Dust.md) + 1 [Necrotic Membrane](Necrotic_Membrane.md)
 -   **[Ember Scorch Earrings](Ember_Scorch_Earrings.md)**
     -   1 [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) + 5 [Dying Embers](Dying_Embers.md) + 1 [Blazing Enchant Stone](Blazing.md)
--   **[Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>)**
-    -   1 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Shiva's Codex](<Shiva's_Codex.md>)
+-   **[Shiva's Pendant Earrings](<Raudra's_Pendant_Earrings.md>)**
+    -   1 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Etherbound Codex](Etherbound_Codex.md)
 -   **[Frost Crystal Earrings](Frost_Crystal_Earrings.md)**
     -   1 [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) + 1 [Chilling Enchant Stone](Chilling.md) + 1 [Frost Essence](Frost_Essence.md)
 -   **[Ossified Barrel Helm](Ossified_Barrel_Helm.md)**
-    -   1 [Barrel Helm](Barrel_Helm.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+    -   1 [Barrel Helm](Barrel_Helm.md) + 1 [Etherbound Codex](Etherbound_Codex.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
 -   **[Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md)**
-    -   1 [Simple Pauldrons](Simple_Pauldrons.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) +1 [Shiva's Codex](<Shiva's_Codex.md>)
+    -   1 [Simple Pauldrons](Simple_Pauldrons.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) +1 [Etherbound Codex](Etherbound_Codex.md)
 -   **[Ossified Phalanx Boots](Ossified_Phalanx_Boots.md)**
-    -   1 [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) +1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>)
+    -   1 [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) +1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + 1 [Etherbound Codex](Etherbound_Codex.md)
 -   **[Ossified Blood Earrings](Ossified_Blood_Earrings.md)**
     -   1 [Old Blood Earrings](Old_Blood_Earrings.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
 -   **[Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)**
-    -   1 [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+    -   1 [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) + 1 [Etherbound Codex](Etherbound_Codex.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
 -   **[Ossified Black Helm](Ossified_Black_Helm.md)**
-    -   1 [Blacksteel Helm](Blacksteel_Helm.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+    -   1 [Blacksteel Helm](Blacksteel_Helm.md) + 1 [Etherbound Codex](Etherbound_Codex.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
 -   **[Revitalizing Pendant](Revitalizing_Pendant.md)**
     -   1 [Wheel Pendant](Wheel_Pendant.md) + 5 [Solar Enchant Stones](Solar.md) + 1 [Parasol Membrane](Parasol_Membrane.md)
 -   **[Jester's Beret](<Jester's_Beret.md>)**
-    -   1 [Tillian's Beret](<Tillian's_Beret.md>) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Trickster Dust](Trickster_Dust.md)
+    -   1 [Tillian's Beret](<Tillian's_Beret.md>) + 1 [Etherbound Codex](Etherbound_Codex.md) + 1 [Trickster Dust](Trickster_Dust.md)
 -   **[Regenerative Pendant](Regenerative_Pendant.md)**
     -   1 [Curseblood Pendant](Curseblood_Pendant.md) + 5 [Curse of the No Life King Enchant Stones](Curse_of_the_No_Life_King.md) + 1 [Parasol Membrane](Parasol_Membrane.md)
 -   **[Regenerative Earrings](Regenerative_Earrings.md)**
@@ -234,15 +234,15 @@ These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
 -   **[Necrotic Mask](Necrotic_Mask.md)**
     -   1 [Bloodfeather Mask](Bloodfeather_Mask.md) + 1 [Necrotic Membrane](Necrotic_Membrane.md) + 1 [Parasol Part](Parasol_Part.md)
 -   **[Ether Refined Brim](Ether_Refined_Brim.md)**
-    -   1 [Ether Refined Hide](Ether_Refined_Hide.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Warlock's Brim](<Warlock's_Brim.md>)
+    -   1 [Ether Refined Hide](Ether_Refined_Hide.md) + 1 [Etherbound Codex](Etherbound_Codex.md) + 1 [Warlock's Brim](<Warlock's_Brim.md>)
 -   **[Ether Refined Mantle](Ether_Refined_Mantle.md)**
-    -   1 [Ether Refined Hide](Ether_Refined_Hide.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Warlock's Mantle](<Warlock's_Mantle.md>)
+    -   1 [Ether Refined Hide](Ether_Refined_Hide.md) + 1 [Etherbound Codex](Etherbound_Codex.md) + 1 [Warlock's Mantle](<Warlock's_Mantle.md>)
 -   **[Ether Imbued Earrings](Ether_Imbued_Earrings.md)**
     -   1 [Practicioner's Earrings](<Practicioner's_Earrings.md>) + 1 [Ether Refined Hide](Ether_Refined_Hide.md)
 -   **[Ether Empowered Earrings](Ether_Empowered_Earrings.md)**
     -   1 [Pendant Earrings](Pendant_Earrings.md) + 1 [Ether Refined Hide](Ether_Refined_Hide.md)
 -   **[Blizzard Ring](Blizzard_Ring.md)**
-    -   1 [Gale Enhanced Ring](Gale_Enhanced_Ring.md) + 1 [Frost Ring](Frost_Ring.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>)
+    -   1 [Gale Enhanced Ring](Gale_Enhanced_Ring.md) + 1 [Frost Ring](Frost_Ring.md) + 1 [Etherbound Codex](Etherbound_Codex.md)
 -   **[Blindseer's Ring](<Blindseer's_Ring.md>)**
     -   1 [Transfusion Ring](Transfusion_Ring.md) + 1 [Trickster Dust](Trickster_Dust.md)
 

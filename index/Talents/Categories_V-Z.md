@@ -16,7 +16,7 @@ Main Pages
 
 Variants: [Talents](../Talents.md) · [Talents/Vow of Iron](Vow_of_Iron.md)
 
-Sup-Pages
+Sub-Pages
 
 Variants: [Talents/Categories A-F](Categories_A-F.md) · [Talents/Categories G-K](Categories_G-K.md) · [Talents/Categories L-P](Categories_L-P.md) · [Talents/Categories Q-U](Categories_Q-U.md)
 
@@ -233,7 +233,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Blade Dancer \[Common Talent, Agility\] - Landing a Basic Attack removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
-    -   The [Monastery Cowl](../Monastery_Cowl.md) and [Deepwoken Cloak](../Deepwoken_Cloak.md) equipment have this Talent.
+    -   The [Monastery Cowl](../Monastery_Cowl.md) and [Deepwoken Cloak](../Faircloth_Cloak.md) equipment have this Talent.
 
 -   _Cut to the Chase_ \[Rare Talent, Agility\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air. (+5 Passive Agility)
     -   Air Counters do not innately deal damage. Having this Talent gives your Air Counter 10 true damage.

@@ -66,7 +66,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 -   Amorus [Pleeksty](#amorus-pleeksty) is a known Deepwoken, having taken on a flower of [Korilfiend](#korilfiend-the-infernos-provenance).
 -   Many believe that the First Prophet of the Ministry may be a Deepwoken.
 
-Dialogue: [Jeremiah](Jeremiah.md) when giving a [Deepwoken Hood](Deepwoken_Hood.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Immortality](#immortality)
+Dialogue: [Jeremiah](Jeremiah.md) when giving a [Deepwoken Hood](Faircloth_Hood.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Immortality](#immortality)
 
 ### The Drowned Gods
 

@@ -1,6 +1,6 @@
 ---
 title: Mask of Phantoms
-revid: 233334
+revid: 233728
 source: https://deepwoken.fandom.com/wiki/Mask_of_Phantoms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Face, Masks, Hallowtide, Event Item]
@@ -13,8 +13,8 @@ notices:
 | Mask of Phantoms | |
 |---|---|
 | type | Face |
-| rarity | Common |
-| selling price | N/A |
+| rarity | Legendary |
+| selling price | 50 |
 | weight | 0.5 |
 | styles | Classic, Classic (Metal), Left, Left (Metal), Right, Right (Metal) |
 | bankable | Yes |

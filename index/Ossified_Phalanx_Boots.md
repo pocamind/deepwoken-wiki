@@ -1,6 +1,6 @@
 ---
 title: Ossified Phalanx Boots
-revid: 233611
+revid: 233689
 source: https://deepwoken.fandom.com/wiki/Ossified_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable, Equipment 
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |
-| obtainment | Crafting 1 Phalanx Heavy Boots + 1 Ethereal Osseous Plate + 1 Shiva's Codex in the Lost Forge of Leiuna |
+| obtainment | Crafting 1 Phalanx Heavy Boots + 1 Ethereal Osseous Plate + 1 Etherbound Codex in the Lost Forge of Leiuna |
 | description | ... |
 
 Variants: [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md)

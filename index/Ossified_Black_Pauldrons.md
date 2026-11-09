@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 233610
+revid: 233685
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipm
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |
-| obtainment | Crafting 1 Blacksteel Pauldrons + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge of Leiuna |
+| obtainment | Crafting 1 Blacksteel Pauldrons + 1 Etherbound Codex + 1 Ethereal Osseous Plate in the Lost Forge of Leiuna |
 | description | ... |
 
 Variants: [Blackalloy Pauldrons](Blackalloy_Pauldrons.md)

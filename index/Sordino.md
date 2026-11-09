@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 230433
+revid: 233787
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -36,7 +36,7 @@ The quest requires you to go to the [Monastery of Mur](Monastery_of_Mur.md)/[Dee
 
 ## Shop
 
-Sordino sells a [Thresher](Thresher.md) [mount](Mounts.md) for 3 [Crowns](Crowns.md).
+Sordino sells a [Thresher](Thresher.md) [mount](Mounts.md) for 3 [Crowns](Crowns.md). If the player bought the Felwind Broom Mount from [Carmilla Spellhardt](Carmilla_Spellhardt.md), it will be available in future slots for 15 Crowns.
 
 Sordino's Marvellous Menagerie
 
@@ -45,6 +45,10 @@ Sordino's Marvellous Menagerie
 <tr>
   <td><center><figure><figcaption></figcaption></figure>3 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
   <td><div>Thresher</div><div><i>Real softies these ones. Cause a right mess in polite company though. Careful of that, yeh?</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
+  <td><div>Felwind Broom</div><div><i>A nice witchy lookin' lady dropped this off with... your name on it? I'm still chargin' a holding fee.</i></div></td>
 </tr>
 </tbody>
 </table>

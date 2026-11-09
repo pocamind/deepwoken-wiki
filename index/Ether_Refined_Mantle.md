@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 233603
+revid: 233686
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craft
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |
-| obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Warlock's Mantle in the Lost Forge |
+| obtainment | Crafting 1 Ether Refined Hide + 1 Etherbound Codex + 1 Warlock's Mantle in the Lost Forge |
 | description | A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle. |
 
 Variants: [Sorcerer's Mantle](<Sorcerer's_Mantle.md>)

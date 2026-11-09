@@ -1,6 +1,6 @@
 ---
 title: Cursed Flames
-revid: 233552
+revid: 233670
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
@@ -63,7 +63,7 @@ The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   The Cursed Burn modifier deals 2.5x the damage of base Burn.
+-   The Cursed Burn modifier deals 1.75x the damage of base Burn.
 -   This weapon has the same description as the [Hero's Blade of Flame](<Hero's_Blade_of_Flame.md>).
 -   Because this weapon is primarily made of VFX, there is no model when this item is held.
 -   Attempting to equip the Cursed Flames on a [Silentheart](Oath%253A_Silentheart.md) will prompt the message: "The Harvestman's flames reject you and your petty mortal Vows."

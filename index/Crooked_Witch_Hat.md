@@ -1,6 +1,6 @@
 ---
 title: Crooked Witch Hat
-revid: 233417
+revid: 233731
 source: https://deepwoken.fandom.com/wiki/Crooked_Witch_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Head, Hats, Hallowtide, Event Item]
@@ -13,8 +13,8 @@ notices:
 | Crooked Witch Hat | |
 |---|---|
 | type | Head |
-| rarity | Common |
-| selling price | N/A |
+| rarity | Legendary |
+| selling price | 50 |
 | requirements | None |
 | weight | 1 |
 | styles | Dark, Light |

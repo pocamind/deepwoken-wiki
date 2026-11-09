@@ -1,6 +1,6 @@
 ---
 title: Ethereal Osseous Plate
-revid: 227026
+revid: 233680
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Craftable, Ingredients, Items]
@@ -31,8 +31,8 @@ The Ethereal Osseous Plate can be used to craft into other items with the [Lost 
 
 -   [Equipment](Equipment.md):
     -   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + 1x Ethereal Osseous Plate + 1x [Necrotic Membrane](Necrotic_Membrane.md)
-    -   [Ossified Black Helm](Ossified_Black_Helm.md): [Blacksteel Helm](Blacksteel_Helm.md) + 1x Ethereal Osseous Plate + 1x [Shiva's Codex](<Shiva's_Codex.md>)
-    -   [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md): [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) + 1x Ethereal Osseous Plate +1x [Shiva's Codex](<Shiva's_Codex.md>)
-    -   [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md): [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + 1x [Shiva's Codex](<Shiva's_Codex.md>)
-    -   [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md): [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x Ethereal Osseous Plate + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ossified Black Helm](Ossified_Black_Helm.md): [Blacksteel Helm](Blacksteel_Helm.md) + 1x Ethereal Osseous Plate + 1x [Etherbound Codex](Etherbound_Codex.md)
+    -   [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md): [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) + 1x Ethereal Osseous Plate +1x [Etherbound Codex](Etherbound_Codex.md)
+    -   [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md): [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + 1x [Etherbound Codex](Etherbound_Codex.md)
+    -   [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md): [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x Ethereal Osseous Plate + 1x [Etherbound Codex](Etherbound_Codex.md)
     -   [Ossified Blood Earrings](Ossified_Blood_Earrings.md): [Old Blood Earrings](Old_Blood_Earrings.md) + 1x Ethereal Osseous Plate

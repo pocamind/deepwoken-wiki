@@ -19,7 +19,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-e
 | durability | 1200 |
 | resistances | +12% Physical Armor , +12% Elemental Armor |
 | talents | Apothecary |
-| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Sold at:, Weapon shop at Etris for 45 |
+| obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Sold at:, Weapon shop at Etris for 45 |
 | selling_price | 10 |
 | weight | 1 |
 

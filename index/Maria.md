@@ -1,6 +1,6 @@
 ---
 title: Maria
-revid: 233121
+revid: 233656
 source: https://deepwoken.fandom.com/wiki/Maria
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, "Content not present in-game", Deceased characters]
@@ -23,7 +23,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 Maria was an [Etrean](Etrean.md) soldier who served alongside [Arthur](Arthur.md) during an expedition to investigate unusual [Megalodaunt](Megalodaunt.md) activity in [Erisia](Erisia.md). She is described as exceptionally brave. [\[1\]](#cite-note-1)
 
-During the expedition, Maria was killed by [Megalodaunt](Megalodaunt.md)'s after the group was attacked. While she fought courageously, [Arthur](Arthur.md) was unable to act due to fear, leading to her death and becoming the source of his deep regret. [\[2\]](#cite-note-2)
+During the expedition, Maria was killed by [Megalodaunts](Megalodaunt.md) after the group was attacked. While she fought courageously, [Arthur](Arthur.md) was unable to act due to fear, leading to her death and becoming the source of his deep regret. [\[2\]](#cite-note-2)
 
 ## References
 

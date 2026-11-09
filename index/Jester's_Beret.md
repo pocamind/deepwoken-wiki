@@ -1,6 +1,6 @@
 ---
 title: "Jester's Beret"
-revid: 233607
+revid: 233683
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craft
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |
-| obtainment | Crafting 1 Tillian's Beret + 1 Shiva's Codex + 1 Trickster Dust in the Lost Forge of Leiuna |
+| obtainment | Crafting 1 Tillian's Beret + 1 Etherbound Codex + 1 Trickster Dust in the Lost Forge of Leiuna |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
 
 Variants: [Trickster's Beret](<Trickster's_Beret.md>)

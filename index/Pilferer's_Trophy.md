@@ -1,6 +1,6 @@
 ---
 title: "Pilferer's Trophy"
-revid: 233392
+revid: 233727
 source: https://deepwoken.fandom.com/wiki/Pilferer's_Trophy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Torso, Hallowtide, Event Item]
@@ -13,8 +13,8 @@ notices:
 | Pilferer's Trophy | |
 |---|---|
 | type | Torso |
-| rarity | Rare |
-| selling price | 25 |
+| rarity | Legendary |
+| selling price | 50 |
 | requirements | None |
 | weight | 0.5 |
 | styles | Bounty, Drowned, Mausoleum |

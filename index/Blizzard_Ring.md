@@ -1,6 +1,6 @@
 ---
 title: Blizzard Ring
-revid: 230890
+revid: 233690
 source: https://deepwoken.fandom.com/wiki/Blizzard_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, Craftable]
@@ -20,7 +20,7 @@ categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, C
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crafted using 1 Gale Enhanced Ring + 1 Frost Ring + 1 Shiva's Codex at the Lost Forge |
+| obtainment | Crafted using 1 Gale Enhanced Ring + 1 Frost Ring + 1 Etherbound Codex at the Lost Forge |
 | description | Apply a very light slow on your opponent when landing a light attack and suffocate opponents when flourishing them. Gain extra ether when landing Galebreath or Frostdraw attacks. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -37,4 +37,4 @@ Its effects are the combined powers of both the [Frost Ring](Frost_Ring.md) and 
 
 ## Crafting
 
-The Blizzard Ring can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Frost Ring](Frost_Ring.md), [Gale Enhanced Ring](Gale_Enhanced_Ring.md), and a [Shiva's Codex](<Shiva's_Codex.md>).
+The Blizzard Ring can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Frost Ring](Frost_Ring.md), [Gale Enhanced Ring](Gale_Enhanced_Ring.md), and a [Etherbound Codex](Etherbound_Codex.md).

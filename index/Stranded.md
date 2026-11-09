@@ -16,7 +16,7 @@ categories: [Starter Outfits, Outfits]
 | droppable | Yes |
 | durability | 250 |
 | resistances | +2% Physical Armor |
-| obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Vow of Iron:, Breaker Memento, Sightless Memento, Steampunk Soldier Memento, Void Glutton Memento |
+| obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted), Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Vow of Iron:, Breaker Memento, Sightless Memento, Steampunk Soldier Memento, Void Glutton Memento |
 | selling_price | N/A |
 | weight | N/A |
 | shirt | Shirt • Pants |

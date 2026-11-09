@@ -71,7 +71,7 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
   <td>
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Delver's_Duster.md">Delver's Duster</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Faircloth_Cloak.md">Deepwoken Cloak</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Delver's_Duster.md">Delver's Duster</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li>

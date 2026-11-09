@@ -16,7 +16,7 @@ Main Pages
 
 Variants: [Talents](../Talents.md)
 
-Sup-Pages
+Sub-Pages
 
 Variants: [Talents/Categories A-F](Categories_A-F.md) · [Talents/Categories G-K](Categories_G-K.md) · [Talents/Categories L-P](Categories_L-P.md) · [Talents/Categories Q-U](Categories_Q-U.md) · [Talents/Categories V-Z](Categories_V-Z.md)
 
@@ -1615,7 +1615,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Grants a 7.5% damage buff to M1s (15% in Vow of Iron).
 
--   Skillful Recovery: [Shiva's Pendant Earrings](<../Shiva's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<../Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](../Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
+-   Skillful Recovery: [Shiva's Pendant Earrings](<../Raudra's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<../Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](../Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
 
 -   Sky Aid: [Sky Warrior Helm](../Sky_Warrior_Helm.md) - Take 80% less damage while in the air.
 

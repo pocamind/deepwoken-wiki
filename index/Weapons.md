@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 233304
+revid: 233740
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -34,7 +34,6 @@ Non-Legendary weapons can be [Enchanted](Enchantments.md), granting new, additio
 All weapons within the game have the chance of being found with or without different Enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
 -   [Smith's Alloy](<Smith's_Alloy.md>); a Relic that adds one quality star to your currently equipped main-hand weapon or extracts a [Motif](Motifs.md). If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
--   [Laplace](Laplace.md); an NPC who will Enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 Enchanted items.
 -   [Enchant Stones](Enchant_Stone.md); Relics that applies their respective enchantment to your currently equipped weapon.
 -   [Pluripotent Alloy](Pluripotent_Alloy.md); a Relic that Alloys eligible weapons, turning early to mid-game weapons into endgame variants with increased stats and requirements.
 
@@ -308,7 +307,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
   <td>75 LHT</td>
-  <td>12.5</td>
+  <td>13.5</td>
   <td>LHT: 10.5</td>
   <td>20%</td>
   <td>-</td>
@@ -316,7 +315,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6.5</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22.3</td>
+  <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -5211,7 +5210,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
   <td>75 LHT</td>
-  <td>12.5</td>
+  <td>13.5</td>
   <td>LHT: 10.5</td>
   <td>20%</td>
   <td>-</td>
@@ -5219,7 +5218,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6.5</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22.3</td>
+  <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -6351,7 +6350,7 @@ Daggers
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
   <td>75 LHT</td>
-  <td>12.5</td>
+  <td>13.5</td>
   <td>LHT: 10.5</td>
   <td>20%</td>
   <td>-</td>
@@ -6359,7 +6358,7 @@ Daggers
   <td>6.5</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22.3</td>
+  <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -15161,7 +15160,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
   <td>75 LHT</td>
-  <td>12.5</td>
+  <td>13.5</td>
   <td>LHT: 10.5</td>
   <td>20%</td>
   <td>-</td>
@@ -15169,7 +15168,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>6.5</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22.3</td>
+  <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -16370,7 +16369,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
   <td>75 LHT</td>
-  <td>12.5</td>
+  <td>13.5</td>
   <td>LHT: 10.5</td>
   <td>20%</td>
   <td>-</td>
@@ -16378,7 +16377,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>6.5</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22.3</td>
+  <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
@@ -25031,7 +25030,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Krulian_Knife.md">Krulian Knife</a></b></td>
   <td>75 LHT</td>
-  <td>12.5</td>
+  <td>13.5</td>
   <td>LHT: 10.5</td>
   <td>20%</td>
   <td>-</td>
@@ -25039,7 +25038,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>6.5</td>
   <td>1.2x</td>
   <td>-</td>
-  <td>22.3</td>
+  <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
 <tr>

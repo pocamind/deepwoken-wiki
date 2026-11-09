@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 226490
+revid: 233669
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -183,7 +183,7 @@ Ingredients that are crafted by using other ingredients, these tend to be higher
 Any ingredients that do not fall under other categories and are obtained through other methods.
 
 -   [Ancient Dagger Remains](Ancient_Dagger_Remains.md)
--   [Shiva's Codex](<Shiva's_Codex.md>)
+-   [Etherbound Codex](Etherbound_Codex.md)
 
 ### Mantra Ingredients
 

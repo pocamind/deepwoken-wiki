@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233558
+revid: 233732
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | health | 7200(+1000 per player) |
 | drops | Joy, Cursed Flames, Harvestman's Halo, Harvestman's Cloak, Familiar Prosthetic Arm, 2 Crowns, 2 Knowledge, See Loot Table |
-| moves | Resurrection, Blackhole Flames, Accursed Flames: Rift, Crowd Control, The Harvestman's Culling |
+| moves | Resurrection, Blackhole Flames, Accursed Flames: Rift, Line Fire, The Harvestman's Culling |
 | pronouns | He/Him[1] |
 | locations | The Harvest Ritual |
 
@@ -24,7 +24,11 @@ notices:
 
 ## Description
 
-The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) encountered in [The Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md). He is a towering scarecrow made from dried straws of Ichorgrass[\[2\]](#cite-note-2), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms.
+The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) that spawns in [the Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md) every 30 minutes.
+
+-   XX:22, XX:52
+
+He is a towering scarecrow made from dried straws of Ichorgrass[\[2\]](#cite-note-2), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms.
 
 Unlike all bosses, this boss involves a unique gimmick where the player is only allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. This boss is intended to be fought like a bullet hell, where the only way to avoid attacks is to move around them.
 
@@ -86,7 +90,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is only 
  |
 | 
 
-**Crowd Control**  
+**Line Fire**  
 (★★☆)
 
  | The Harvestman summons an array of purple flames across the field in a gridlike manner.
@@ -145,7 +149,7 @@ Unlike all bosses, this boss involves a unique gimmick where the player is only 
 
 The most important tip would be to prioritize dodging over dealing damage, as regenerating health in this bossfight is rather difficult, especially in solo runs.
 
-It's best to try and dodge the Crowd Control attacks, as those are the ones likely to hit and deal lots of damage; as well as inflicting Cursed Flames, yet giving barely any opportunity to extinguish the flames by dodging.
+It's best to try and dodge the Line Fire attack, as those are the ones likely to hit and deal lots of damage; as well as inflicting Cursed Flames, yet giving barely any opportunity to extinguish the flames by dodging.
 
 Jumping in the bossfight isn't recommended as much, as for whatever reason, The Harvestman seems to pull you towards himself during certain attacks. Do not spam jump.
 
@@ -155,7 +159,7 @@ The [Jester's Beret](<Jester's_Beret.md>) is heavily recommended for this bossfi
 
 Your healing can be boosted if the you are wearing the [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), as it increases passive regeneration by 10%. It is also recommended to eat [Fruit Salad](Fruit_Salad.md) (or any food that provides the "Heal" buff) as doing so will increase your health regeneration by 30%. [Curse of the No Life King](Curse_of_the_No_Life_King.md)'s regeneration bonuses are disabled in the dungeon.
 
-Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Crowd Control attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Crowd Control flames properly, and roll cancel if you have to.
+Full dodges (via pressing Q) are highly unrecommended especially during The Harvestman's Line Fire attack, as it is likely to just knock you into another array of flames that could easily erase a large chunk of your health. Always stay calm and move out of the way from the Line Fire flames properly, and roll cancel if you have to.
 
 [Harvestman's Cloak](<Harvestman's_Cloak.md>) does **not** double your Pumpkin Pitch damage during the fight.
 
@@ -175,6 +179,8 @@ Both can be met simultaneously, stacking the bonuses.
 If you are eligible for a Clutch Bonus, the boss defeated message will say "CLUTCH BONUS" next to the total Joy received amount.
 
 Alternatively, defeating the boss while being at or above 95% health will also reward 200 additional Joy, but it will not display a message on boss defeat. This is only registered at the end of the boss' death animation, similar to the other HP related clutch bonus, meaning the health pack that is gained when the boss dies can be used to help with meeting this requirement.
+
+Crowns and knowledge are also awarded, considering if you dealt the most damage to the Harvestman.
 
 ### Loot Table
 

@@ -716,8 +716,9 @@ This section is transcluded from [a different page](Talents.md#talents). To chan
 ### Exotherm
 
 -   **Exotherm Path: Sanguine Blaze** \[Exotherm • Common Talent\] - Your blood is thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing, up to 3 stacks. Touch it with flame and it erupts. Your fire burns a searing pink.
-    -   Turns your Flamecharm Mantras, status effects, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
-    -   Bloodrend Mantras apply stacks of Black Blood, applying a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect. Applying [Burn](Status_Effects.md#sanguine-burn) to a target with Black Blood causes an explosion that deals high damage and applies knockback.  
+    -   Turns your Flamecharm Mantras, status effects, related Enchantments, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
+    -   Bloodrend Mantras apply stacks of Black Blood on top of their previous effects of Blood Poison and blood drain. Black Blood applies a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect.
+    -   Dealing Flamecharm damage, through any source that is not Burn, to a target with Black Blood causes the blood to ignite and explode, dealing damage and knockback while consuming all Black Blood stacks and the burn used to proc it.  
         
     -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
         
@@ -732,10 +733,11 @@ This section is transcluded from [a different page](Talents.md#talents). To chan
     -   Tags: \[Bloodrend\] \[Flamecharm\] \[Debuff\] \[Multi-Attunement\]
 
 -   **Critical Mass** \[Exotherm • Common Talent\] - Landing a Critical Attack on an enemy with Black Blood ignites them with pink fire.
-    
+    -   Applies [Sanguine Burn](Status_Effects.md#sanguine-burn) and causes an ignite proc.  
+        
     -   Prerequisites: 45 Bloodrend, 45 Flamecharm  
         
-    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Weapon Attack\]
+    -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Multi-Attunement\] \[Weapon Attack\]
 
 -   **Exothermic Finish** \[Exotherm • Common Talent\] - Igniting an enemy with Black Blood now flourishes them instead of knocking them back, inflicting all flourish talents.
     
@@ -744,7 +746,7 @@ This section is transcluded from [a different page](Talents.md#talents). To chan
     -   Tags: \[Bloodrend\] \[Flamecharm\] \[Flourish\] \[Multi-Attunement\]
 
 -   **Pressure Bleed** \[Exotherm • Common Talent\] - Your [vents](Combat_Mechanics.md#tempo) turn pink, spraying explosive Black Blood puddles that ignite enemies.
-    -   Your Vent leaves behind Black Blood puddles that applies [Burn](Status_Effects.md#sanguine-burn) to anyone who touches it.  
+    -   Your Vent sprays multiple small Black Blood puddles in random nearby locations on the floor. After a short delay, these turn pink and explode, applying [Burn](Status_Effects.md#sanguine-burn) to those hit.  
         
     -   Prerequisites: [Exotherm Path: Sanguine Blaze](Talents.md#exotherm-path-sanguine-blaze), 50 Bloodrend, 50 Flamecharm  
         

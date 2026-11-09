@@ -35,7 +35,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Alloyable Weapons, Heav
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 100 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Dread SerpentAlloyed:, Alloying a ZweihanderVow of Iron:, Berserker Memento |
+| obtainment | Sold at Etris Weaponry for 100 , Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Dread SerpentAlloyed:, Alloying a ZweihanderVow of Iron:, Berserker Memento |
 | description | Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy. |
 
 Variants: [Bloodbane](Bloodbane.md)

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 233337
+revid: 233798
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -76,7 +76,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Hah! Brilliant." ([The Ferryman](The_Ferryman.md))
 -   "Hah, I've seen worse." ([High Inquisitor Merey](High_Inquisitor_Merey.md))
 -   "Hahah, good one! Hey, Interceptor, check this out!" ([Sentinel Augustus](Sentinel_Augustus.md))
--   "Heh. Is this your way of inviting me to a challenge, hm?" ([Evengarde Rest](Evengarde_Rest.md))
+-   "Is this your way of inviting me to a challenge?" ([Evengarde Rest](Evengarde_Rest.md))
 -   "Hey, nice mask, bub! Where'd you get one?" (Sentinel Augustus)
 -   "Ho ho! That's the spirit! Now do that unto someone else." ([Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md))
 -   "Hoy, Well done, such joy! Now, show the world what thou canst do!" (Galpin Spellhardt)
@@ -88,6 +88,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain." (The Meat Lord)
 -   "Oh, you like to take different forms too?" (The Ferryman)
 -   "Ooo, spooky." (High Inquisitor Merey)
+-   "Hm?..." (Evengarde Rest)
 -   "Oorah! Joyous festivities to you too, citizen!" (Chud Steel)
 -   "SHOW ME YOUR WAR FACE!" ([Drill Sergeant Kernel](Drill_Sergeant_Kernel.md))
 -   "Such a funny little tradition. I do like a game." (The Ferryman)

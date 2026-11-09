@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 233609
+revid: 233691
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipmen
 | droppable | Yes |
 | enchantable | Only on craft[1] |
 | pass down | Yes |
-| obtainment | Crafting 1 Blacksteel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge of Leiuna |
+| obtainment | Crafting 1 Blacksteel Helm + 1 Etherbound Codex + 1 Ethereal Osseous Plate in the Lost Forge of Leiuna |
 | description | An imposing helmet made from blackened steel. |
 
 Variants: [Blackalloy Helm](Blackalloy_Helm.md)

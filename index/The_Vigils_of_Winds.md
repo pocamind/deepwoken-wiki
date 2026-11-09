@@ -28,7 +28,7 @@ Not much is confirmed about their ranking system since most Vigils maintain a po
 -   The lowest rank of Vigils are initiates, who don [brown robes](Vigil_Initiate.md) and do not participate in real fights.
 -   Their qualified swordsmen are known as [Blade Temple Guards](Blade_Temple_Guard.md), who wear the [Cloak of Winds](Cloak_of_Winds.md) alongside the [Glassdancer Wraps](Glassdancer_Wraps.md), with a [Vigil Hood](Vigil_Hood.md) to keep their identities secret. They are posted across the Isle, fighting [Bandits](Bandit.md) and criminal players.
 -   Certain non-apprentice Vigils are granted the Deepwoken Cloak in place of their Glassdancer Wraps.
-    -   There exists apprentices who are granted the [Deepwoken Cloak](Deepwoken_Cloak.md). Their name implies they are in training to become a fully fledged swordsman.
+    -   There exists apprentices who are granted the [Deepwoken Cloak](Faircloth_Cloak.md). Their name implies they are in training to become a fully fledged swordsman.
 -   Elites of the Etrean military are known as [Vigil Swordsmen](Vigil_Swordsman.md), though their exact affiliation to the Vigils, and whether or not their name is an indicator of their loyalties, is left ambiguous. Them being exclusively [Etrean](Etrean.md) suggests that they were already serving in the Etrean military before being selected by the government to receive training in the Temple of the Blade.
 -   "Keepers" are operatives of the Scholars of the Cloud.
 -   Untitled second-in-command.

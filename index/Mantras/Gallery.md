@@ -3336,7 +3336,7 @@ _A rush of piercing wind._
 
  | 
 
-Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](../Galebreathe.md)
 
  | 
 
@@ -3480,14 +3480,14 @@ Wind [ResistanceGalebreathe](../Galebreathe.md)
 
 **Twister Kicks** (★☆☆)
 
-_Go forth with spinning kicks infused with the wind_
+_Go forth with spinning kicks infused with the wind. hit em w a bit of dis n a lil bit of dat_
 
  | 
 
 ## Twister Kicks (★☆☆)
 
   
-_Go forth with spinning kicks infused with the wind_
+_Go forth with spinning kicks infused with the wind. hit em w a bit of dis n a lil bit of dat_
 
  |
 | 
@@ -3533,7 +3533,7 @@ _A lifting torrent of wind._
 
  | 
 
-Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](../Galebreathe.md)
 
  | 
 
@@ -3570,7 +3570,7 @@ _Encircle your foes with blades of wind that halt their escape until they respon
 
  | 
 
-Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](../Galebreathe.md)
 
  | 
 
@@ -3817,7 +3817,7 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
 
  | 
 
-Wind [ResistanceGalebreathe](../Galebreathe.md) + Slash ResistanceSlash
+Wind [ResistanceGalebreathe](../Galebreathe.md)
 
  | 
 
@@ -4809,7 +4809,7 @@ Shadow [ResistanceShadowcast](../Shadowcast.md)
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
 -   The damage buff can be increased with [Vibrant Gems](../Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
 -   It has a base duration of 12 seconds that can be modified with [Aeon](../Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
--   Attack speed can be increased via [Drift Shards](../Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](../Mantra_Modifiers.md#regular-modifiers) but that increases the amount of self-damage taken.
+-   The windup can be decreased drastically via [Drift Shards](../Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](../Mantra_Modifiers.md#regular-modifiers) but that increases the amount of self-damage taken.
 -   The [Spine Cutter](../Talents.md#spine-cutter) Talent cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](../Mantra_Modifiers.md#sparks) to perform a bigger shockwave that deals more damage.
 -   Can be upgraded with a [Multiplying Spark](../Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
@@ -6639,6 +6639,216 @@ N/A
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Cauterize** (☆☆☆)
+
+**Combat Mantra**
+
+_Lunge and grab your foe. Their Black Blood is ignited if they have it, and inflicted if they don't._
+
+ | 
+
+## Cauterize (☆☆☆)
+
+  
+**Combat Mantra**  
+_Lunge and grab your foe. Their Black Blood is ignited if they have it, and inflicted if they don't._
+
+ |
+| 
+
+60 Ether [IconEther](../Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Combustion Tide** (☆☆☆)
+
+**Combat Mantra**
+
+_Send out a tide of blood that drags foes along with it, then bursts into fire and ignites their Black Blood._
+
+ | 
+
+## Combustion Tide (☆☆☆)
+
+  
+**Combat Mantra**  
+_Send out a tide of blood that drags foes along with it, then bursts into fire and ignites their Black Blood._
+
+ |
+| 
+
+60 Ether [IconEther](../Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Flashfusion** (☆☆☆)
+
+**Combat Mantra**
+
+_Apply blood then quickly ignite it_
+
+ | 
+
+## Flashfusion (☆☆☆)
+
+  
+**Combat Mantra**  
+_Apply blood then quickly ignite it_
+
+ |
+| 
+
+60 Ether [IconEther](../Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Exotherm Path: Sanguine Blaze](../Talents.md#exotherm-path-sanguine-blaze)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Infused Slash** (☆☆☆)
+
+**Combat Mantra**
+
+_Harvest the composite plasma in your opponent's blood and summon 2 daggers to slash them with._
+
+ | 
+
+## Infused Slash (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harvest the composite plasma in your opponent's blood and summon 2 daggers to slash them with._
+
+ |
+| 
+
+20 Ether [IconEther](../Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Rising Plasma** (☆☆☆)
+
+**Combat Mantra**
+
+_Harvest the composite plasma in your opponent's blood and summon a greataxe to slash upwards with._
+
+ | 
+
+## Rising Plasma (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harvest the composite plasma in your opponent's blood and summon a greataxe to slash upwards with._
+
+ |
+| 
+
+20 Ether [IconEther](../Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
+| 
+
+**Spinning Serum** (☆☆☆)
+
+**Combat Mantra**
+
+_Harvest the composite plasma in your opponent's blood and summon a spear to spin with._
+
+ | 
+
+## Spinning Serum (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harvest the composite plasma in your opponent's blood and summon a spear to spin with._
+
+ |
+| 
+
+20 Ether [IconEther](../Ether.md)
+
+ | 
+
+?
+
+ | 
+
+[Composite Path: Alloyblood](../Talents.md#composite-path-alloyblood)
+
+ |
+| 
+
+**Effect:** ?
+
+ |
 | 
 
 **Iron Tether** (★★☆)

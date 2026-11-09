@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Chapeau"
-revid: 233642
+revid: 233729
 source: https://deepwoken.fandom.com/wiki/Hunter's_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Hallowtide, Head, Equipment, Event Item]
@@ -13,8 +13,8 @@ notices:
 | Hunter's Chapeau | |
 |---|---|
 | type | Head |
-| rarity | Common |
-| selling price | N/A |
+| rarity | Legendary |
+| selling price | 50 |
 | requirements | N/A |
 | weight | 1 |
 | styles | Buckle (Dark), Buckle (Light), No Buckle (Dark), No Buckle (Light) |

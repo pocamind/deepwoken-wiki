@@ -16,7 +16,7 @@ Main Pages
 
 Variants: [Talents](../Talents.md) · [Talents/Vow of Iron](Vow_of_Iron.md)
 
-Sup-Pages
+Sub-Pages
 
 Variants: [Talents/Categories A-F](Categories_A-F.md) · [Talents/Categories L-P](Categories_L-P.md) · [Talents/Categories Q-U](Categories_Q-U.md) · [Talents/Categories V-Z](Categories_V-Z.md)
 
@@ -661,8 +661,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Agitating Spark** \[Common Talent\] - Applying **[Burning](../Status_Effects.md#burning)** to enemies spreads it to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
+    -   When spreading burn, it will only apply either default Burn or a burn type from one of your Attunement Paths or [Azure Flames](../Talents.md#azure-flames), as they globally affect all burn procs. For [Twisted Puppets](../Talents.md#twisted-puppets), it will apply [Puppet Burn](../Status_Effects.md#puppet-burn), allowing it to summon Puppets.
+    -   Cannot trigger Eruptions, and always applies burn.
     -   Agitating Spark bypasses block and parry.
-    -   Procs on self damage.
+    -   The VFX triggers and the Talent goes on cooldown when you take self damage while you are on fire, but it does not spread burn. [Flame Within](../Talents.md#flame-within) spreads the burn it applies to yourself on cast, however.
     -   Has a 1 second cooldown.
     -   Can spread to allies. The [Controlled Combustion](../Talents.md#controlled-combustion) Talent will prevent Agitating Spark spreading burn to yourself and your allies.  
         
@@ -672,7 +674,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Immolation** \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include [Flame Within](../Talents.md#flame-within), [Agitating Spark](../Talents.md#agitating-spark) you spread, and environmental burns created by you.
-    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
+    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have [Eruption Path: Lava Serpent](../Talents.md#eruption-path-lava-serpent).
         -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](../Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](../Frostdraw.md#ice-daggers) or [Gale Lunge](../Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.  
             
     -   Prerequisites: [Agitating Spark](../Talents.md#agitating-spark), 40 Flamecharm  
@@ -680,9 +682,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Flamecharm\] \[+Sanity\] \[Burn\] \[Damage Resistance\] \[Debuff\] \[Ether Proselyte\]
 
 -   **Phoenix Flames** \[Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, becore capping at 50% health at 75 investment.
+    -   Healing scales on your Flamecharm investment; heals 25% maximum health at 0 Flamecharm and gains +0.33% per point in Flamecharm, before capping at 50% health at ≥75 investment.
     -   If you used [Flame Within](../Talents.md#flame-within) while [Unconscious](../Status_Effects.md#unconscious) to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
-    -   Synergizes with [Corpse Explosion](../Talents.md#corpse-explosion), as that halves the time taken to incinerate burning targets, including yourself.  
+    -   Synergizes with [Corpse Explosion](../Talents.md#corpse-explosion), as that halves the time taken to incinerate Unconscious targets (8s to 4s), including yourself.  
         
     -   Prerequisites: [Agitating Spark](../Talents.md#agitating-spark), [Immolation](../Talents.md#immolation)  
         

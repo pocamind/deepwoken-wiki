@@ -29,7 +29,7 @@ Santen was trained by her parents in the Citadel of Markor to make maps since sh
 
 She appears to be aged shown by the wrinkles around her eyes.
 
-She wears a Black [Deepwoken Cloak](Deepwoken_Cloak.md), the [Seamstress's Attire](<Seamstress's_Attire.md>) outfit, a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Pathfinder's Backpack](<Pathfinder's_Backpack.md>).
+She wears a Black [Deepwoken Cloak](Faircloth_Cloak.md), the [Seamstress's Attire](<Seamstress's_Attire.md>) outfit, a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Pathfinder's Backpack](<Pathfinder's_Backpack.md>).
 
 ## Location
 

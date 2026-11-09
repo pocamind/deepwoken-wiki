@@ -19,7 +19,7 @@ notices:
 | droppable | Yes |
 | durability | 2000 |
 | resistances | +22% Physical Armor , +22% Elemental Armor |
-| obtainment | Sold by:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sold at Miner's Landing Bank for 50 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Deep Crucible, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Sold by:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sold at Miner's Landing Bank for 50 Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event), Lodestar Bounty job, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
