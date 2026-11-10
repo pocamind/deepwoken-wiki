@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 212088
+revid: 233909
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Heads of government and state, Personnel of The Central Authority]
@@ -26,6 +26,8 @@ Drallis Ehr is the head of state of [The Central Authority](The_Central_Authorit
 Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after stopping the catastrophe known as the [Godstorm](Godstorm.md) that had brought the nation to its knees. With the Adretian Emperor and his soldiers having fallen to the Godstorm, Drallis Ehr took over and led the coalition that would become [The Central Authority](The_Central_Authority.md).[\[4\]](#cite-note-glossehr-4)
 
 [Traan Zakshun](Traan_Zakshun.md) is known to claim Drallis Ehr as an endorser of his products,[\[5\]](#cite-note-5) something his grandmother, [Naan Zakshun](Naan_Zakshun.md), would also do.[\[6\]](#cite-note-6)
+
+At the bottom of the map it says "Commissioned under the Authority of Sovereign Drallis Ehr, Overseer of Epochs." hinting that he may have created the map we use in game
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 230455
+revid: 233899
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -80,6 +80,10 @@ When consumed, it replenishes 3% Stomach and 3% Water.
 #### [Fort Merit](Fort_Merit.md)
 
 -   On a high rock wall facing [Meteor Isle](Meteor_Isle.md)
+
+#### [Boatman's Watch](<Boatman's_Watch.md>)
+
+-   In the tree to the right of the entrance.
 
 ## Trivia
 

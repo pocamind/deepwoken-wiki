@@ -1,6 +1,6 @@
 ---
 title: Chell
-revid: 233868
+revid: 233913
 source: https://deepwoken.fandom.com/wiki/Chell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation]
@@ -13,7 +13,7 @@ categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusiv
 | name | Chell |
 | aspect | Celtor |
 | pronouns | She/her |
-| location | Etrean Wilds |
+| location | Saramaed Strait |
 | affiliation | The Ignition Union |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

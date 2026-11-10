@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pitch
-revid: 233540
+revid: 233901
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pitch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Event Item, Hallowtide]
@@ -24,6 +24,7 @@ Pumpkin Pitch will be thrown in the direction your character is facing in shift 
 
 -   Has a base damage of 17.55 with 2.75 Flamecharm scaling. For more information, view [Mantras](Mantras.md).
     -   The damage will be doubled if paired with the [Harvestman's Cloak](<Harvestman's_Cloak.md>) equipment.
+-   Having the [Wreath of the Ardenstar](Wreath_of_the_Ardenstar.md) equiped will allow you to heal 1% of your health when hitting an opponent.
 -   Deals Flamecharm damage. This allows this Mantra to proc certain "Flamecharm Mantra" Talents, but not all of them.
 -   Has heavy damage falloff, losing up to around half its damage at far distances.
 -   Because the projectiles have altitude falloff, you may need to aim above your target to land hits, if they're far away.

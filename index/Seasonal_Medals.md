@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 233771
+revid: 233902
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -16,12 +16,13 @@ Seasonal Medals are special tags that allow you to redeem Seasonal event items f
 
 Currently, there are 3 types of medals, [**Hallowtide**](Hallowtide.md) medals, the [**Festival of a Billion Souls**](Festival_of_a_Billion_Souls.md) medal, and the [Ordergeddon](Ordergeddon.md) medal. The medals and obtainment method to get them are listed here:
 
--   Hallowtide: There are currently 5 [Hallowtide](Hallowtide.md) medals.
+-   Hallowtide: There are currently 6 [Hallowtide](Hallowtide.md) medals.
     1.  Hallowtide '22 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2023, 2024, and 2025 Hallowtide events.
     2.  Hallowtide '23 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2024 and 2025 Hallowtide events and for 200 [Joy](Joy.md) during the 2023 Hallowtide event.
     3.  Hallowtide '24 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2024 and 2025 Hallowtide events.
     4.  Hallowtide '25 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2025 and 2026 Hallowtide events.
     5.  Hallowtide '26 Medal: You can purchase this medal for 300 [Joy](Joy.md) during the 2026 Hallowtide events.
+    6.  The Harvestman: You can obtain this medal by defeating [The Harvestman](The_Harvestman.md) at least once.
 -   Festival of a Billion Souls: Login during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) event.
 -   Ordergeddon '25: Speak to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) on any build that has utilized its ability prior to the September 6th, 2025 update.
 
@@ -71,6 +72,9 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
     -   [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) \[3 Knowledge\]
 
 -   **Hallowtide '26 Medal**: Allows you to craft _most_ [Hallowtide](Hallowtide.md)\-exclusive items released during 2026.
+    -   TBA
+
+-   **The Harvestman**: Allows you to craft _most_ [Hallowtide](Hallowtide.md)\-exclusive items obtained exclusively from [The Harvestman](The_Harvestman.md).
     -   TBA
 
 ### Festival of a Billion Souls

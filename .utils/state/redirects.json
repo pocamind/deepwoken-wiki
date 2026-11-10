@@ -3949,6 +3949,10 @@
     "to": "Oath: Chainwarden",
     "fragment": "Restrain"
   },
+  "Resurgence": {
+    "to": "Glossary",
+    "fragment": "The Resurgence"
+  },
   "Reveal": {
     "to": "Oath: Bladeharper",
     "fragment": "Reveal"

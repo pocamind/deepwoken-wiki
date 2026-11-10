@@ -1,6 +1,6 @@
 ---
 title: Wreath of the Ardenstar
-revid: 233893
+revid: 233900
 source: https://deepwoken.fandom.com/wiki/Wreath_of_the_Ardenstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
@@ -33,6 +33,7 @@ The [Revitalizing Pumpkin](Talents.md#revitalizing-pumpkin) Talent makes your Pu
 
 ## Trivia
 
+-   The [Revitalizing Pumpkin](Talents.md#revitalizing-pumpkin) Talent does NOT work in [The Harvest Ritual](The_Harvest_Ritual.md).
 -   The Ignited and Incinerated styles release fire particles.
 -   The Ignited and Incinerated styles both glow a warm orange color.
     -   Incinerated glows noticeably brighter than ignited.

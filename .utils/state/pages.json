@@ -377,7 +377,7 @@
   },
   "1314": {
     "title": "Attunement-less",
-    "lastrevid": 232940
+    "lastrevid": 233932
   },
   "1338": {
     "title": "Shadowcast",
@@ -921,7 +921,7 @@
   },
   "2676": {
     "title": "Cloak of Winds",
-    "lastrevid": 223267
+    "lastrevid": 233911
   },
   "2678": {
     "title": "Legion Centurion",
@@ -1069,7 +1069,7 @@
   },
   "2877": {
     "title": "Evengarde Rest",
-    "lastrevid": 233799
+    "lastrevid": 233897
   },
   "2879": {
     "title": "Messer",
@@ -1617,7 +1617,7 @@
   },
   "4369": {
     "title": "Egg",
-    "lastrevid": 230455
+    "lastrevid": 233899
   },
   "4382": {
     "title": "Rapiers",
@@ -2185,7 +2185,7 @@
   },
   "5362": {
     "title": "Hallowtide",
-    "lastrevid": 233857
+    "lastrevid": 233935
   },
   "5383": {
     "title": "Enforcer's Hammer",
@@ -2233,7 +2233,7 @@
   },
   "5464": {
     "title": "Faircloth Cloak",
-    "lastrevid": 233704
+    "lastrevid": 233906
   },
   "5513": {
     "title": "Chef Odiolavoro",
@@ -2325,7 +2325,7 @@
   },
   "5747": {
     "title": "Hivelord's Hubris",
-    "lastrevid": 233429
+    "lastrevid": 233920
   },
   "5749": {
     "title": "Misérables",
@@ -3681,7 +3681,7 @@
   },
   "9764": {
     "title": "Hallowtide Mask",
-    "lastrevid": 233798
+    "lastrevid": 233898
   },
   "9765": {
     "title": "Joy",
@@ -3693,7 +3693,7 @@
   },
   "9778": {
     "title": "Pumpkin Pitch",
-    "lastrevid": 233540
+    "lastrevid": 233901
   },
   "9782": {
     "title": "Widow's Wail Cemetery",
@@ -3725,7 +3725,7 @@
   },
   "9939": {
     "title": "Seasonal Medals",
-    "lastrevid": 233771
+    "lastrevid": 233902
   },
   "9972": {
     "title": "Bloodiron Ring",
@@ -3945,7 +3945,7 @@
   },
   "11126": {
     "title": "Windrunner Robes",
-    "lastrevid": 232878
+    "lastrevid": 233910
   },
   "11131": {
     "title": "Adrofalis",
@@ -4157,7 +4157,7 @@
   },
   "12215": {
     "title": "Voidwalker",
-    "lastrevid": 233512
+    "lastrevid": 233908
   },
   "12216": {
     "title": "Lone Warrior",
@@ -5029,7 +5029,7 @@
   },
   "15043": {
     "title": "Familiar Knight's Armor",
-    "lastrevid": 233290
+    "lastrevid": 233907
   },
   "15046": {
     "title": "Familiar Heretic's Armor",
@@ -5369,7 +5369,7 @@
   },
   "16075": {
     "title": "Drallis Ehr",
-    "lastrevid": 212088
+    "lastrevid": 233909
   },
   "16128": {
     "title": "Cave Master",
@@ -5657,7 +5657,7 @@
   },
   "17200": {
     "title": "Mounts",
-    "lastrevid": 233865
+    "lastrevid": 233934
   },
   "17202": {
     "title": "Sordino",
@@ -9025,7 +9025,7 @@
   },
   "23467": {
     "title": "Godstorm",
-    "lastrevid": 212032
+    "lastrevid": 233922
   },
   "23469": {
     "title": "Temple Sparring Hall (Temple of Mur)",
@@ -10049,7 +10049,7 @@
   },
   "27197": {
     "title": "Wreath of the Ardenstar",
-    "lastrevid": 233893
+    "lastrevid": 233900
   },
   "27198": {
     "title": "Familiar Arachnid's Cloak",
@@ -10061,6 +10061,10 @@
   },
   "27219": {
     "title": "Chell",
-    "lastrevid": 233868
+    "lastrevid": 233913
+  },
+  "27221": {
+    "title": "Khambay",
+    "lastrevid": 233915
   }
 }

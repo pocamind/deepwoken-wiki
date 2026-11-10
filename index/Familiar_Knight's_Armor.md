@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 233290
+revid: 233907
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -56,3 +56,4 @@ Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to yourse
 -   This outfit was bugged on release, voiding itself if you attempted to learn the schematic. This was fixed shortly after the item's addition.
 -   This outfit had a different appearance when it was first added to the game, but it was changed soon after to match its current appearance.
 -   The outfit description, "You don't know why but a certain Murmur is making you very angry" is in reference to the Murmur, Ardour, which shares a very similar name to Ardor, God of Chaos, from Rogue Lineage. Ardor is the enemy of Solan, God of Order, and the Sigil Knights.
+-   The best way to get this armor during Hallowtide, is to buy Harrowing Enchants, and then craft them into heroism stones

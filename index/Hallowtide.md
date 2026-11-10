@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 233857
+revid: 233935
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -11,7 +11,7 @@ categories: [Events, Hallowtide]
 | Hallowtide | |
 |---|---|
 | date1 | 2025: Rimefall, 1620 CE |
-| date2 | October 31st 2022-???, October 27th 2023-???, October 31st 2024-???, October 31st 2025-???, October 31st 2026-TBA |
+| date2 | October 31st 2022-???, October 27th 2024-November 10th 2023, October 31st 2024-November 16th 2024, October 31st 2025-November 29th 2025, October 31st 2026-TBA |
 | items | Hallowtide-exclusive Equipment, Outfits, and Weapons, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchant Stone, Pumpkin Pitch, Spectral Instruments, Arachnid Instruments, A Light In The Sky |
 | type | Seasonal (Halloween) |
 
@@ -21,13 +21,9 @@ categories: [Events, Hallowtide]
 
 ## Description
 
-Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th, 2022.
+Hallowtide is a recurring seasonal event in _[Deepwoken](<Deepwoken_(game).md>)._ It revolves around the aesthetics surrounding [Halloween](https://en.wikipedia.org/wiki/Halloween) and is primarily released on October 31st.
 
-It has subsequently returned on the follow dates:
-
--   October 27th, 2023, ending on November 10th.
--   October 31st, 2024, ending on November 16th.
--   October 31st, 2025, ending on November 29th.
+The following updates related to Hallowtide are listed below:
 
 ### Hallowtide 2022
 
@@ -84,6 +80,8 @@ The fifth Hallowtide added...
 -   **New Weapons**: [Corvidirge Severants](Corvidirge_Severants.md) (Dagger/Twinblade), [Cursed Flames](Cursed_Flames.md) (Sword), [Silas's Cenotaph](<Silas's_Cenotaph.md>) (Greatsword),
 -   **New Equipment**: [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md), [Hunter's Chapeau](<Hunter's_Chapeau.md>), [Wispfire Beacon](Wispfire_Beacon.md), [Pilferer's Trophy](<Pilferer's_Trophy.md>), [Eyes of the Moppet](Eyes_of_the_Moppet.md), [Stitched Effigy](Stitched_Effigy.md), [Coffin Earrings](Coffin_Earrings.md), [Pumpkin Earrings](Pumpkin_Earrings.md), [Crooked Witch Hat](Crooked_Witch_Hat.md), [Mask of Phantoms](Mask_of_Phantoms.md), [Wreath of the Ardenstar](Wreath_of_the_Ardenstar.md), [Thorned Blazer](Thorned_Blazer.md)
 -   **New Schematics**: [Familiar Vagrant's Armor](<Familiar_Vagrant's_Armor.md>), [Familiar Sage's Armor](<Familiar_Sage's_Armor.md>), [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), [Familiar Arachnid's Cloak](<Familiar_Arachnid's_Cloak.md>)
+
+|}
 
 ## Content
 

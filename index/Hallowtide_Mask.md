@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 233798
+revid: 233898
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -83,7 +83,6 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "HUTTAH- Oh, it's just you! Be careful, I almost knocked you out there!" ([Chud Steel](Chud_Steel.md))
 -   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
 -   "Joyous Hallows to all!" (Brasidas Spellhardt)
--   "Most amusing." (Evengarde Rest)
 -   "Nothing compared to what I've seen." ([Akira](Akira.md))
 -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain." (The Meat Lord)
 -   "Oh, you like to take different forms too?" (The Ferryman)

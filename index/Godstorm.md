@@ -1,11 +1,9 @@
 ---
 title: Godstorm
-revid: 212032
+revid: 233922
 source: https://deepwoken.fandom.com/wiki/Godstorm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Stub pages without reason, StubPages, Events and phenomena]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: ["Content not present in-game", Events and phenomena]
 ---
 
 # Godstorm
@@ -18,7 +16,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 The Godstorm was a catastrophic disaster of wind and shadow that struck Lumen. In response to its destruction before Drallis or [the Tides](Glossary.md#the-tides) drew in, mankind began developing the techniques that would later become [Galebreathe](Galebreathe.md) and [Shadowcast](Shadowcast.md). [\[1\]](#cite-note-1)
 
-The Godstorm is most commonly associated with the rise of [Drallis Ehr](Drallis_Ehr.md), who dispelled the Godstorm and restoring peace to the empire. Following the fall of the [Adretian Empire](Adretian_Empire.md) during the Resurgence and the death of the Adretian emperor, Drallis assumed leadership and later organized the nation that eventually formed [The Central Authority](The_Central_Authority.md) in 65 BCE. [\[2\]](#cite-note-drallis-2)
+The Godstorm is most commonly associated with the rise of [Drallis Ehr](Drallis_Ehr.md), who dispelled the Godstorm and restoring peace to the empire. Following the fall of the [Adretian Empire](Adretian_Empire.md) during the [Resurgence](Glossary.md#the-resurgence) and the death of the Adretian emperor, Drallis assumed leadership and later organized the nation that eventually formed [The Central Authority](The_Central_Authority.md) in 65 BCE. [\[2\]](#cite-note-drallis-2)
 
 ## References
 

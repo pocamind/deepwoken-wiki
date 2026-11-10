@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 232940
+revid: 233932
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1664,7 +1664,7 @@ Slash ResistanceSlash
 -   0.35s endlag.
 -   Has 37% chip damage.
 -   Knocks the opponent back in the direction the user is facing.
--   Can be modified with a Glass/Magnifying stone to make it bigger.
+-   Can be modified with a Glass/Magnifying stone to make it bigger up to +9.
 -   Wielding the [Vigil Longsword](Vigil_Longsword.md) makes your Master's Flourish bigger and allows it to proc "on flourish" effects.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
 -   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
