@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 230217
+revid: 233954
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,6 +31,12 @@ Unlocks a special dialogue with [Rook Rethige](Rook_Rethige.md) in the [Voidhear
 ### Prodigy
 
 Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by 300%.[\[1\]](#cite-note-archinfo-1)
+
+The chance of obtaining this regalia is _**massively**_ _**increased**_ when spawning a character after wiping at Power 20.
+
+This Regalia **may or may not be kept** upon wiping.
+
+(Currently testing parameters for obtainment and keeping after death)
 
 ### Inspired
 

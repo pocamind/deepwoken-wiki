@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 230248
+revid: 233946
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
@@ -20,6 +20,30 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, H
 Glaive is a male [Lightborn](Lightborn.md) located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). He sells various [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md), though they are usually combat-related.
 
 His stock consists of:
+
+**2026:**
+
+With 2026 Hallowtide, came with 2 newly-added Hallowtide-exclusive weapons on top of the weapons from last years.
+
+1.  [Master Schematic](Outfits.md#master) \[20 Joy\] - Gives you a random Master outfit schematic.
+2.  [Skyreap Blade](Skyreap_Blade.md) (Greataxe) \[100 Joy\]
+3.  [Hallowscleave](Hallowscleave.md) (Sword) \[100 Joy\]
+4.  [Skull Piercer](Skull_Piercer.md) (Rapier) \[100 Joy\]
+5.  [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer) \[100 Joy\]
+6.  [Bloodtide Trident](Bloodtide_Trident.md) (Spear) \[100 Joy\]
+7.  [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist) \[100 Joy\]
+8.  [Gourdguard](Gourdguard.md) (Shield) \[80 Joy\]
+9.  [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword) \[100 Joy\]
+10.  [Death's Reverie](<Death's_Reverie.md>) (Twinblade) \[100 Joy\]
+11.  [Spectral Grasp](Spectral_Grasp.md) (Dagger) \[100 Joy\]
+12.  [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon) \[100 Joy\]
+13.  [Moppet](Moppet.md) (Dagger) \[100 Joy\]
+14.  [The Weaving Web](The_Weaving_Web.md) (Spear) \[100 Joy\]
+15.  [Silas's Cenotaph](<Silas's_Cenotaph.md>) (Greatsword) \[100 Joy\]
+16.  [Corvidirge Severants](Corvidirge_Severants.md) (Dagger/Twinblade) \[100 Joy\]
+17.  [Harrowing](Harrowing.md) [Enchant Stone](Enchant_Stone.md) \[150 Joy\]
+18.  [Pumpkin Pitch](Pumpkin_Pitch.md) (Mantra) \[300 Joy\]
+    
 
 **2025:**
 

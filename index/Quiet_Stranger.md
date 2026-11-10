@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 230675
+revid: 233947
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Etrea
 |---|---|
 | health | ? |
 | weapon | Krulian Knife |
-| moves | Assault, Critical, Judgement, Tacet Drop Kick |
+| moves | Assault, Critical, Shadow Assault, Shadow Eruption, Judgement, Tacet Drop Kick |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 The Quiet Stranger is an NPC that extremely rarely spawns as one of the many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). They are a scout from [The Ministry](The_Ministry.md) who sits until someone approaches them. They do not appear in view until you go close to them, as they are hiding themselves using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to them without the 50 [Charisma](Attributes.md#cha) requirements, they will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md) via their dialogue.
 
-Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Murmur%253A_Tacet.md) without having to fulfill any kill requirements.
+The chest he drops is an [Erisia chest](Loot_Tables.md), meaning there is no reason to kill him if you are unable to meet the requirements.
+
+Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Murmur%253A_Tacet.md) without having to fulfil any kill requirements.
 
 ## Dialogue
 
@@ -83,6 +85,31 @@ The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), th
 (★☆☆)
 
  | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Shadow Assault**  
+(★★☆)
+
+ | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
+ |
+| 
+
+**Shadow Eruption**  
+(★☆☆)
+
+ | The user makes a swipe with their right hand before releasing a large sphere of shadow.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

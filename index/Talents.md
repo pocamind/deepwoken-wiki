@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 233882
+revid: 233936
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1070,7 +1070,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Grants a 30% [Speed Boost](Status_Effects.md#speed-boost). This counts for Talents such as [Speed Demon](#speed-demon) and [Cheap Shot](#cheap-shot).
     -   Recover 5% Blood when dealing damage (0.35s cooldown). [Burn](Status_Effects.md#burn) damage cannot proc this effect.
     -   If you have the [Enhanced Flow](#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
-    -   Having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect.  
+    -   Having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect.
+    -   ragdolled automatically cancel your Rush Hour. (Brick Wall not verified.)  
         
     -   Prerequisites: 50 Bloodrend  
         

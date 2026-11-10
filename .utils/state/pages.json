@@ -597,7 +597,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 233882
+    "lastrevid": 233936
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -921,7 +921,7 @@
   },
   "2676": {
     "title": "Cloak of Winds",
-    "lastrevid": 233911
+    "lastrevid": 233951
   },
   "2678": {
     "title": "Legion Centurion",
@@ -1229,7 +1229,7 @@
   },
   "3254": {
     "title": "Regalia",
-    "lastrevid": 230217
+    "lastrevid": 233954
   },
   "3261": {
     "title": "Rifle Spear",
@@ -3645,7 +3645,7 @@
   },
   "9719": {
     "title": "Glaive Spellhardt",
-    "lastrevid": 230248
+    "lastrevid": 233946
   },
   "9722": {
     "title": "Green Spellhardt",
@@ -3725,7 +3725,7 @@
   },
   "9939": {
     "title": "Seasonal Medals",
-    "lastrevid": 233902
+    "lastrevid": 233950
   },
   "9972": {
     "title": "Bloodiron Ring",
@@ -4237,11 +4237,11 @@
   },
   "12867": {
     "title": "Gilded Needle",
-    "lastrevid": 223125
+    "lastrevid": 233943
   },
   "12872": {
     "title": "Quiet Stranger",
-    "lastrevid": 230675
+    "lastrevid": 233947
   },
   "12978": {
     "title": "Khan (NPC)",
@@ -4661,7 +4661,7 @@
   },
   "14106": {
     "title": "Saramaed Hollow",
-    "lastrevid": 218087
+    "lastrevid": 233941
   },
   "14128": {
     "title": "Alaric Kesset",
@@ -5657,7 +5657,7 @@
   },
   "17200": {
     "title": "Mounts",
-    "lastrevid": 233934
+    "lastrevid": 233956
   },
   "17202": {
     "title": "Sordino",
@@ -6365,7 +6365,7 @@
   },
   "18585": {
     "title": "Ferryman's Coat Cloth",
-    "lastrevid": 231059
+    "lastrevid": 233955
   },
   "18590": {
     "title": "Kiron",
@@ -10066,5 +10066,13 @@
   "27221": {
     "title": "Khambay",
     "lastrevid": 233915
+  },
+  "27233": {
+    "title": "Chantage",
+    "lastrevid": 233959
+  },
+  "27234": {
+    "title": "Ichorgrass",
+    "lastrevid": 233960
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 218087
+revid: 233941
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -162,7 +162,7 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 -   A valid strategy is to stockpile fuel in the Deepdrill and take it with you to other floors. Then, if you reach a floor that is a hassle to deal with, you can instantly fully fuel the Drill and skip the floor.
 -   Despite all the upsides, Saramaed Hollow is very time-consuming, and the drops are very RNG dependant; you can either get REALLY lucky and hit the jackpot, or, more than likely, go back up to the surface practically empty-handed.
 -   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above. You can expect to get over a thousand Notes per floor.
--   The [Thresher Mount](Mounts.md) can be used while carrying ores. The mounts can also stand on lava without you being dismounted.
+-   The [Mounts](Mounts.md) can be used while carrying ores. The mounts can also stand on lava without you being dismounted.
 -   To farm this dungeon efficiently, it is recommended to build for mobility options. Additionally, due to Magma Flow, it is heavily recommended to primarily build for HP, over resistance stats, on your equipment.
 
 Good luck, and happy deepdelving!
