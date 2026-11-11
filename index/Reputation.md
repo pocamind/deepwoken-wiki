@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 233966
+revid: 233993
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Reputation, Mechanics]
@@ -256,7 +256,7 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 
 [The Divers](The_Divers.md)
 
- | [Gudrin](Gudrin.md) | Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [Castle Light](Castle_Light.md). |
+ | [Trafalgar](Trafalgar.md) | Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [Castle Light](Castle_Light.md). |
 | 
 
  | 

@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 224789
+revid: 234006
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]
@@ -28,9 +28,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Gudrin is a [Celtor](Celtor.md) NPC. They accept a bribe for [The Divers](The_Divers.md).
-
-The Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.
+Gudrin is a [Celtor](Celtor.md) NPC. They accept a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Divers](The_Divers.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 
@@ -75,7 +73,7 @@ Gudrin is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [
   <td colspan="4">Nah, not interested.</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*They tent their fingers, smiling ear to ear.*</i> [X] Notes.</td>
+  <td colspan="4"><i>*They tent their fingers, smiling ear to ear.*</i> <b>[X] Notes.</b></td>
   <td colspan="4">You've no business sense, y'know that? Sheesh.</td>
 </tr>
 <tr>

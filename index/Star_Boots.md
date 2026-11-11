@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 225797
+revid: 234069
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Elder Primadon, The Titan Warlord |
+| obtainment | Chests from:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord |
 | description | Formerly mass produced by the cobblers of Celtor, these boots have become quite the collector's item in recent years. |
 
 Star Set

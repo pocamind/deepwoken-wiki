@@ -1,6 +1,6 @@
 ---
 title: Valois
-revid: 215686
+revid: 234009
 source: https://deepwoken.fandom.com/wiki/Valois
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, The Summer Company, Reputation]
@@ -28,9 +28,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Valois is a [Chrysid](Chrysid.md) NPC. They accept a bribe for [The Summer Company](The_Summer_Company.md).
-
-The Inheritor can pay them up to 1,200 to restore their reputation back to neutral.
+Valois is a [Chrysid](Chrysid.md) NPC. He accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Summer Company](The_Summer_Company.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

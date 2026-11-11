@@ -1,6 +1,6 @@
 ---
 title: Account Tier
-revid: 233513
+revid: 234067
 source: https://deepwoken.fandom.com/wiki/Account_Tier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Account Tier
+
+**This section contains subjective information that was last updated on November 11th, 2026.**
 
 ## Description
 
@@ -26,11 +28,7 @@ It is unknown currently if this also affects [Guild Scores](Guilds.md).
 <tbody>
 <tr>
   <th>Tier-1</th>
-  <td>Where every new account that has recently started playing Deepwoken is put into. It is speculated that you stay within this tier until either:
-  <ul>
-    <li>Account reached more than 10 Hours of total Playtime</li>
-    <li>Reached Power 20 once &amp; Obtained an <a href="Oaths.md">Oath</a></li>
-  </ul><p>This is widely considered the Tier new players are placed into, granting them temporary <a href="Voidwalker.md">Voidwalker</a> Immunity as well until they have gained enough experience.</p></td>
+  <td>Where every new account that has recently started playing Deepwoken is put into. It is speculated that you stay within this tier until you gain the experience equal to an maxed out slot. (P20, Oath, Murmur, Resonance, etc)<p>This is widely considered the Tier new players are placed into, granting them temporary <a href="Voidwalker.md">Voidwalker</a> Immunity as well until they have gained enough experience.</p></td>
 </tr>
 <tr>
   <th>Tier-2</th>
@@ -42,6 +40,18 @@ It is unknown currently if this also affects [Guild Scores](Guilds.md).
 </tr>
 </tbody>
 </table>
+
+Account experience is defined as any action an Account takes Ingame that grants them Progression, such as but not limited to:
+
+-   Completing [Challenges](Bestiary.md)
+-   Beating [Bosses](Bosses.md)/[Overworld Events](World_Events.md)
+-   Unlocking [Origins](Origins.md)
+-   Unlocking a [Resonance](Resonance.md)
+-   Obtaining a [Murmur](Murmur.md)
+-   Obtaining an [Oath](Oaths.md)
+-   Unlocking an Attunement ([Ironsing](Ironsing.md) & [Bloodrend](Bloodrend.md))
+-   Completing Permanent-Progression Quests ([Unbounds](Attributes_Unbound.md), [Chain of Perfection](Talent_Quests.md))
+-   Unlocking Special Flaws/Boons ([Sly](Boons_and_Flaws.md), [Fugitive](Boons_and_Flaws.md))
 
 ## Trivia
 

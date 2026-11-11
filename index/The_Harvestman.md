@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233970
+revid: 234070
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -233,7 +233,7 @@ Crowns and knowledge are also awarded, considering if you dealt the most damage 
 
 ## Trivia
 
--   Many of the boss's attacks are based off of The Devourer of Gods from the _[Terraria](https://en.wikipedia.org/wiki/Terraria)_ Calamity Mod.
+-   Many of the boss's attacks are based on The Devourer of Gods from the _[Terraria](https://en.wikipedia.org/wiki/Terraria)_ Calamity Mod.
 -   The Harvestman's halo has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name", a phrase that was shown in the Hallowtide 2026 trailer image.
 -   All of the Harvestman's Legendary Hallowtide items will always drop with 3 stars.
 -   The crowns and knowledge are only awarded around 20 seconds after the boss is killed, so make sure to wait before entering the portal.

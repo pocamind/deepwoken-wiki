@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 228614
+revid: 234034
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant]
@@ -29,8 +29,6 @@ Events that spawn in Bluster Rift that involve combat. For more info, see [Rando
 -   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Hive Guards](Hive_Guard.md)[Hiveiconfaction](The_Hive.md)
 -   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md)
 -   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md)
-
-  
 
 ## Events
 

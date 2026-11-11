@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 228589
+revid: 234025
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]

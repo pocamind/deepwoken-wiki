@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 233886
+revid: 234029
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea Enemies, Ambush Enemies]
@@ -16,6 +16,7 @@ notices:
 | drops | Gale Stone |
 | weapon | Vigil Longsword |
 | moves | Assault, Critical, Gale Lunge, Wind Blade |
+| affiliation | Etrea |
 
 ## Description
 

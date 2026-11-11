@@ -1,6 +1,6 @@
 ---
 title: Chell
-revid: 233913
+revid: 234004
 source: https://deepwoken.fandom.com/wiki/Chell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Chell is a [Celtor](Celtor.md) NPC. She accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md) to neutral.
+Chell is a [Celtor](Celtor.md) NPC. She accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

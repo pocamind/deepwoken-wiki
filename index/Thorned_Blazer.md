@@ -1,6 +1,6 @@
 ---
 title: Thorned Blazer
-revid: 233895
+revid: 233978
 source: https://deepwoken.fandom.com/wiki/Thorned_Blazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]

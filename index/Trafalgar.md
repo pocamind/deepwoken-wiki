@@ -1,6 +1,6 @@
 ---
 title: Trafalgar
-revid: 224981
+revid: 234013
 source: https://deepwoken.fandom.com/wiki/Trafalgar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, NPCs located in the First Layer, Reputation]
@@ -28,9 +28,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Trafalgar is a [Felinor](Felinor.md) NPC. They accept a bribe for [The Divers](The_Divers.md).
-
-The Inheritor can pay them up to 1,200 to restore their reputation back to neutral.
+Trafalgar is a [Felinor](Felinor.md) NPC. They accept a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Divers](The_Divers.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

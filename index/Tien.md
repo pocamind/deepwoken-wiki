@@ -1,6 +1,6 @@
 ---
 title: Tien
-revid: 233963
+revid: 234008
 source: https://deepwoken.fandom.com/wiki/Tien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Reputation]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Tien is an [Etrean](Etrean.md) NPC. She accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Vigils of Winds](The_Vigils_of_Winds.md) to neutral.
+Tien is an [Etrean](Etrean.md) NPC. She accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Vigils of Winds](The_Vigils_of_Winds.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

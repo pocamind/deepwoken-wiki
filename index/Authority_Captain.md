@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 233883
+revid: 234032
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -11,13 +11,14 @@ categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantm
 | Authority Captain | |
 |---|---|
 | health | 4000 |
-| drops | Parka (Series) |
+| drops | Fur Parka |
 | weapon | Officer Saber, Adretian Axe |
 | moves | Assault, Critical, Ice Smash, Ice Eruption, Glacial Shower, Iceberg |
+| affiliation | The Central Authority |
 
 ## Description
 
-An Authority Captain is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) who are fighting [Hive Constructs](Hive_Construct.md). Unlike most Authority members, their face is completely unobscured.
+An Authority Captain is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) who are fighting [Hive Constructs](Hive_Construct.md).
 
 Their appearance consists of a Black [Fur Parka](Fur_Parka.md) over an [Authority Captain Uniform](Authority_Captain_Uniform.md).
 
@@ -130,6 +131,4 @@ An Authority Captain executes it's opponent after knocking them:
 ## Trivia
 
 -   This is the only Authority Soldier with a completely unobscured faces.
--   The Authority Captain has no chance of winning if it fights against the Hive Construct.
-    -   Very rarely they can manage to beat a Hive Construct.
--   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(NPC).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct](Hive_Construct.md)...)
+-   If the random event it can spawn from is left undisturbed, the Authority Captain has no chance of winning against the [Hive Construct](Hive_Construct.md).

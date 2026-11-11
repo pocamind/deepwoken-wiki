@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 230626
+revid: 233980
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -46,6 +46,7 @@ You can however change outfit, unlike with the [Authority Origin](Authority_Ensi
 ### Justicar's Aid
 
 -   _In-game description_: Pulls up a list of active [Castaways](Castaway.md) that have used their [Justicar Whistle](Castaway.md#justicar-whistle). Select one to teleport to their server and location, and assign them as your mark to protect and help.
+-   As of 11/11/2026, the Justicar's Aid tool does not work, and instead teleports you back into your own server instead of teleporting you to the [Castaway](Castaway.md) that used their [Justicar Whistle](Castaway.md#justicar-whistle).
 
 ### Vow of Protection
 

@@ -1,6 +1,6 @@
 ---
 title: Rohan
-revid: 224918
+revid: 234011
 source: https://deepwoken.fandom.com/wiki/Rohan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vow of Iron Exclusive, NPCs, Reputation, Military personnel of The Central Authority]
@@ -27,9 +27,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Rohan is an [Adret](Adret.md) NPC. They accept a bribe for [The Central Authority](The_Central_Authority.md).
-
-The Inheritor can pay them up to 1,200 to restore their reputation back to neutral.
+Rohan is an [Adret](Adret.md) NPC. He accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

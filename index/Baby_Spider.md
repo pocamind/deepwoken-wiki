@@ -1,6 +1,6 @@
 ---
 title: Baby Spider
-revid: 230594
+revid: 234059
 source: https://deepwoken.fandom.com/wiki/Baby_Spider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,22 +8,22 @@ categories: [Monsters]
 
 # Baby Spider
 
-| Baby Widow | |
+| Baby Spider | |
 |---|---|
 | health | 10002500 (Corrupted) |
 | attacks | Venomous Bite, Swipe, Impale, Articulated Thrash |
 
 ## Description
 
-Thought to have been cut content the baby widow made its return in 25' [Hallowtide](Hallowtide.md) via [The Weaving Webs](The_Weaving_Web.md) critical attack, the Baby Spider shares all but the Deep webbing attacks of the [Deep Widow](Deep_Widow.md).
+Originally early Verse 1 content, the Baby Spider, or "mini widow", was a summon used by the [Deep Widow](Deep_Widow.md) at the [Widow's Hollow](<Widow's_Hollow.md>), but was removed only four days after Deepwoken's release.[\[1\]](#cite-note-1) The Baby Spider made its return in 25' [Hallowtide](Hallowtide.md) via [The Weaving Webs](The_Weaving_Web.md) critical attack. The Baby Spider shares all but the Webbing attacks of the [Deep Widow](Deep_Widow.md).
 
 ## Moveset
 
-<table><caption></caption>
+<table>
 <tbody>
 <tr>
-  <td><center><p><b>Venomous Bite</b></p>
-  <p>(★★★)</p></center></td>
+  <td><center><p><b>Venomous Bite</b><br>
+  (★★★)</p></center></td>
   <td>The Baby Widow delivers a crushing bite onto the victim, dealing moderate damage and inflicting a lingering poison that damages over time.
   <ul>
     <li>This move will auto-grip if it hits you while knocked or at low health.</li>
@@ -80,16 +80,20 @@ Thought to have been cut content the baby widow made its return in 25' [Hallowti
 
 ### **Passive**
 
--   **Unwavering Neurotoxins** - The poison inflicted by the Widow's bite will deal **percent-based damage**, no matter how much health or resistances the target has. It will also insta-execute the player if the player reaches 0% health when afflicted.
+-   **Unwavering Neurotoxins** - The poison inflicted by the Baby Spider's bite will deal **percent-based damage**, no matter how much health or resistances the target has. It will also auto-execute the player if the player reaches 0% health when afflicted.
 -   **Fireproof** - Baby Spiders automatically extinguish [burn](Status_Effects.md#burn).
 -   **Monster Resistance** - Physical attacks deal 40% less damage to the Deep Widow.
 
 ### Finisher
 
--   **fatal poison -** The Baby Widow sinks her fangs into a downed player and liquefies them with a lethal dose of deep venom.
+-   **Fatal Poison -** The Baby Spider sinks their fangs into a downed player and liquefies them with a lethal dose of concentrated venom.
 
 ## Trivia
 
--   Despite being a baby version of the [Deep Widow](Deep_Widow.md) killing it does not count towards the bestiary challenges.
--   The summoner can use buffs that would normally affect allies on the Baby Widow.
--   If a lot of these are grouped up it is capable of doing huge bursts of damage taking down any player very quickly.
+-   Despite being a baby version of the [Deep Widow](Deep_Widow.md), killing it does not count towards the Bestiary milestones.
+-   The summoner can use buffs that would normally only affect player allies on the Baby Spider.
+-   If a lot of these are grouped up, it is capable of doing huge bursts of damage, taking down any player very quickly.
+
+## References
+
+1.  [↑](#cite-ref-1)

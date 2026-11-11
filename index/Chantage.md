@@ -1,6 +1,6 @@
 ---
 title: Chantage
-revid: 233964
+revid: 234048
 source: https://deepwoken.fandom.com/wiki/Chantage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Chantage is a [Canor](Canor.md) NPC. He accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Summer Company](The_Summer_Company.md) to neutral.
+Chantage is a [Canor](Canor.md) NPC. He accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Summer Company](The_Summer_Company.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 
@@ -42,7 +42,7 @@ Chantage is located on a small boat along the shore of an island near [Songseeke
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td></td>
+  <td><i>*The man nods in acknowledgement.*</i> Got no trade business with you, pal. But if the Company cannon is ever giving you a hard time, don't be a stranger, aye? Heh.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

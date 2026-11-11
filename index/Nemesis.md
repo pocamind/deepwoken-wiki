@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 217993
+revid: 234044
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -33,6 +33,7 @@ If you've marked multiple targets, you will teleport to each of them on critical
 -   Nemesis' critical **cannot** be buffed through damage modifiers.
 -   Nemesis' critical **can** proc "on critical" Talents, but as it cannot benefit from damage modifiers, certain Talents may not benefit it.
 -   Nemesis' critical has a range limit of 65-70 studs.
+-   In PVE, Nemesis' critical will always do a static 1107 damage; this makes it a strong choice as an accessible PVE option.
 
 ## Trivia
 

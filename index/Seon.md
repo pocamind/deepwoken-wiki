@@ -1,6 +1,6 @@
 ---
 title: Seon
-revid: 224934
+revid: 234016
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]
@@ -23,9 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Seon is an [Etrean](Etrean.md) NPC. They accept a bribe for the [Etrean Royalists](Etrean_Royalists.md).
-
-The Inheritor can pay them up to 1,200 to restore their reputation back to neutral.
+Seon is an [Etrean](Etrean.md) NPC. They accept a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with the [Etrean Royalists](Etrean_Royalists.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

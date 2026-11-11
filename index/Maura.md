@@ -1,9 +1,9 @@
 ---
 title: Maura
-revid: 219232
+revid: 234005
 source: https://deepwoken.fandom.com/wiki/Maura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Reputation]
+categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Reputation]
 ---
 
 # Maura
@@ -12,6 +12,7 @@ categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 |---|---|
 | name | Maura |
 | aspect | Tiran |
+| pronouns | She/her |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
 
@@ -25,9 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Maura is a [Tiran](Tiran.md) NPC. They accept a bribe for [The Ignition Union](The_Ignition_Union.md).
-
-The Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.
+Maura is a [Tiran](Tiran.md) NPC. She accepts a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 232378
+revid: 233983
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
@@ -212,6 +212,9 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 
 -   The name 'Galpin' is a reference to the real-life musicologist [Francis William Galpin](https://en.wikipedia.org/wiki/Francis_William_Galpin), who was an avid collector of musical instruments.
 -   Gaplin is currently the only known [Lightborn](Lightborn.md) to possess a halo both as an arm variant and a crown variant. This cannot be replicated by playable [Lightborns](Lightborn.md), which can only select three different halo positions and cannot combine them.
--   Behind him there seems to be a structure, specifically, the [Shrine of Winter](Shrine_of_Winter.md). Which is a deleted location that helped Pathfinders access the Depths from the Overworld.
+-   Behind him there seems to be a structure, specifically, the [Shrine of Winter](Shrine_of_Winter.md). Which was a deleted location and now relic of pre-release that allowed players to access the Depths from the Overworld.
+-   Attempting to scare Galpin using a [Hallowtide Mask](Hallowtide_Mask.md) can trigger one of the following dialogues:
+    -   "Ho ho! That's the spirit! Now do that unto someone else."
+    -   "Hoy, Well done, such joy! Now, show the world what thou canst do!"
 -   Shirt - [https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt](https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt)
 -   Pants - [https://www.roblox.com/catalog/16826351147/Frostdraw-Pants](https://www.roblox.com/catalog/16826351147/Frostdraw-Pants)

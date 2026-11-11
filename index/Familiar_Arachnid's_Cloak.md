@@ -1,6 +1,6 @@
 ---
 title: "Familiar Arachnid's Cloak"
-revid: 233840
+revid: 233985
 source: https://deepwoken.fandom.com/wiki/Familiar_Arachnid's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits]

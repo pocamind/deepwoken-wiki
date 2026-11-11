@@ -1,6 +1,6 @@
 ---
 title: Isul
-revid: 224809
+revid: 234012
 source: https://deepwoken.fandom.com/wiki/Isul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, The Hive, Reputation]
@@ -28,9 +28,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Isul is a [Ganymede](Ganymede.md) NPC. They accept a bribe for [The Hive](The_Hive.md).
-
-The Inheritor can pay them up to 1,200 to restore their reputation back to neutral.
+Isul is a [Ganymede](Ganymede.md) NPC. They accept a bribe of up to 1,200 to restore the player's [Reputation](Reputation.md) with [The Hive](The_Hive.md) to their default starting value, but cannot raise it beyond that point.
 
 ## Location
 

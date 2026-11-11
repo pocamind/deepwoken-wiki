@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 232124
+revid: 233974
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -44,7 +44,7 @@ The weapon has unique animations and a unique critical.
 
 ## Critical
 
-With an animation akin to the [Fire Eruption](Flamecharm.md#fire-eruption) Mantra, The user plunges the greatsword into the ground. This is then followed up with waves of flaming swords raining from the sky for **10 seconds**, similar to the [Crimson Megalodaunt](Crimson_Megalodaunt.md)'s Pyroclastic Roar. **Both** parts of this critical scale solely on your **[Flamecharm](Flamecharm.md) investment**. If this plunge is parried, flaming swords will not spawn unless the user's ping is high.
+With an animation akin to the [Fire Eruption](Flamecharm.md#fire-eruption) Mantra, The user plunges the greatsword into the ground. This is then followed up with waves of flaming swords raining from the sky for **10 seconds**, similar to the [Crimson Megalodaunt](Crimson_Megalodaunt.md)'s Pyroclastic Roar. **Both** parts of this critical scale solely on your **[Flamecharm](Flamecharm.md) investment**. If this plunge is parried, the flaming swords will not spawn.
 
 The plunge deals 25 [Flamecharm](Flamecharm.md) damage with 5 Flamecharm scaling (gains 0.125 damage per point in Flamecharm), 5 posture damage, and **applies burn. Only the plunge can proc "on critical" talent effects.**
 
