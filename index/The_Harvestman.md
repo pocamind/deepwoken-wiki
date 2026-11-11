@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 233864
+revid: 233970
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -28,7 +28,7 @@ The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bos
 
 -   XX:22, XX:52
 
-He is a towering scarecrow made from dried straws of Ichorgrass[\[2\]](#cite-note-2), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms.
+He is a towering scarecrow made from dried straws of [Ichorgrass](Ichorgrass.md)[\[2\]](#cite-note-2), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms.
 
 Unlike all bosses, this boss involves a unique gimmick where the player is only allowed to fight using the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. This boss is intended to be fought like a bullet hell, where the only way to avoid attacks is to move around them.
 
@@ -233,7 +233,7 @@ Crowns and knowledge are also awarded, considering if you dealt the most damage 
 
 ## Trivia
 
--   Many of the boss's attacks are based off of The Devourer of Gods from the _Terraria_ Calamity Mod.
+-   Many of the boss's attacks are based off of The Devourer of Gods from the _[Terraria](https://en.wikipedia.org/wiki/Terraria)_ Calamity Mod.
 -   The Harvestman's halo has words engraved into it: "at hallows' tide, with reaping blade o, ardenstar, we call thy name", a phrase that was shown in the Hallowtide 2026 trailer image.
 -   All of the Harvestman's Legendary Hallowtide items will always drop with 3 stars.
 -   The crowns and knowledge are only awarded around 20 seconds after the boss is killed, so make sure to wait before entering the portal.

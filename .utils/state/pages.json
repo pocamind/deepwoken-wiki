@@ -393,7 +393,7 @@
   },
   "1355": {
     "title": "Reputation",
-    "lastrevid": 233890
+    "lastrevid": 233966
   },
   "1374": {
     "title": "The Birdcage",
@@ -921,7 +921,7 @@
   },
   "2676": {
     "title": "Cloak of Winds",
-    "lastrevid": 233951
+    "lastrevid": 233973
   },
   "2678": {
     "title": "Legion Centurion",
@@ -5657,7 +5657,7 @@
   },
   "17200": {
     "title": "Mounts",
-    "lastrevid": 233956
+    "lastrevid": 233971
   },
   "17202": {
     "title": "Sordino",
@@ -9945,7 +9945,7 @@
   },
   "26926": {
     "title": "The Harvestman",
-    "lastrevid": 233864
+    "lastrevid": 233970
   },
   "26939": {
     "title": "Familiar Vagrant's Armor",
@@ -10069,10 +10069,14 @@
   },
   "27233": {
     "title": "Chantage",
-    "lastrevid": 233959
+    "lastrevid": 233964
   },
   "27234": {
     "title": "Ichorgrass",
-    "lastrevid": 233960
+    "lastrevid": 233961
+  },
+  "27235": {
+    "title": "Tien",
+    "lastrevid": 233963
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 233956
+revid: 233971
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,8 @@ Mounts are tamed creatures or objects that can be used to traverse terrain quick
 
 ## Broom Usage Notes
 
--   Using the critical while mounted will cause the broom to do a dash that costs 5% [Ether](Ether.md).
+-   Using the critical while mounted will cause the broom to do a dash that costs 50 flat [Ether](Ether.md).
+-   The critical will go the same distance, even in water.
 
 ## Trivia
 

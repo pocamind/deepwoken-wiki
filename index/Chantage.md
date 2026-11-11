@@ -1,6 +1,6 @@
 ---
 title: Chantage
-revid: 233959
+revid: 233964
 source: https://deepwoken.fandom.com/wiki/Chantage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation]
@@ -85,7 +85,7 @@ Chantage is located on a small boat along the shore of an island near [Songseeke
   <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
-  <td><i>He happily pockets the money, trying not to draw much attention.*</i> Good, good! All dues paid, all accounts closed. You should be in the Company's good books from now on, yeah? Good luck out there, see you next time!</td>
+  <td><i>*He happily pockets the money, trying not to draw much attention.*</i> Good, good! All dues paid, all accounts closed. You should be in the Company's good books from now on, yeah? Good luck out there, see you next time!</td>
   <td><i>*He looks at you, confused.*</i> Hahah? Buddy, you're a walking accounting error. Can't you see you're penniless? Come back and let's chat when you're a little bit more liquid. I don't deal with I.O.U's, you see.</td>
 </tr>
 <tr>

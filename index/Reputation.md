@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 233890
+revid: 233966
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Reputation, Mechanics]
@@ -139,7 +139,7 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 
 **NOTES:**
 
--   Only 6 of the 12 factions have an NPC that offer this service. This number decreases to 5 in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+-   Only 7 of the 13 factions have an NPC that offer this service. This number decreases to 5 in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 -   The [Soothsayer](Soothsayer.md) offers a similar, but distinctly different, service for [The Ministry](The_Ministry.md) reputation, in which the player exchanges [Knowledge](Knowledge.md) for Ministry reputation and [Notes](Notes.md).
 -   Bribing resets your reputation to your _default_ and **not** Neutral. This means that if your starting reputation for a faction is negative, bribing won't be able to increase your reputation to Neutral.
 
@@ -157,6 +157,13 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 
  | 
 
+[The Kingdom of Etrea](Etrea.md)
+
+ | [Khambay](Khambay.md) | On the outskirts of the [Etrean Wilds](Etrean_Wilds.md) near the [Etris Docks](Etris_Docks.md). |
+| 
+
+ | 
+
 [The Summer Company](The_Summer_Company.md)
 
  | [Nepo](Nepo.md) | Leaning by the archway reached by going across a series of bridges behind the [Summer Isle](Summer_Isle.md) Castle. |
@@ -164,9 +171,16 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 
  | 
 
+[The Summer Company](The_Summer_Company.md)
+
+ | [Chantage](Chantage.md) | On a boat near the shore of a small island around [Songseeker Wilds](Songseeker_Wilds.md). |
+| 
+
+ | 
+
 [The Hive](The_Hive.md)
 
- | [Zirik](Zirik.md) | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
+ | [Zirik](Zirik.md) | Leaning against some ruins heading to the fountain in [The Lordsgrove](The_Lordsgrove.md). |
 | 
 
  | 
@@ -180,14 +194,21 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 
 [The Divers](The_Divers.md)
 
- | [Gudrin](Gudrin.md) | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
+ | [Gudrin](Gudrin.md) | Standing in front of a pillar north of [Castle Light](Castle_Light.md) in the [Celtor Wastes](Celtor_Wastes.md). |
 | 
 
  | 
 
 [The Ignition Union](The_Ignition_Union.md)
 
- | [Maura](Maura.md) | Standing inside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
+ | [Maura](Maura.md) | Standing in the pub at the town area of [Miner's Landing](<Miner's_Landing.md>). |
+| 
+
+ | 
+
+[The Ignition Union](The_Ignition_Union.md)
+
+ | [Chell](Chell.md) | Sitting against a tree on a small island near [Miner's Landing](<Miner's_Landing.md>). |
 | 
 
  | 
@@ -195,6 +216,15 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 [The Ministry](The_Ministry.md)
 
  | [Soothsayer](Soothsayer.md) | Sitting in a corner on the way to [Starfield Tundra](Starfield_Tundra.md). |
+| 
+
+ | 
+
+[Placeholder](The_Vigils_of_Winds.md)
+
+[The Vigils of Winds](The_Vigils_of_Winds.md)
+
+ | [Tien](Tien.md) | Sitting on the shore of an island connected to the [Isle of Vigils](Isle_of_Vigils.md). |
 
 **Vow of Iron:**
 
@@ -233,16 +263,28 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 
 [Etrean Royalists](Etrean_Royalists.md)
 
- | [Ferenc](Ferenc.md)  
-[Kazue](Kazue.md)  
-[Seon](Seon.md)  
-[Yen](Yen.md) | Ferenc: On the shore of a neighboring island near the [Isle of Vigils](Isle_of_Vigils.md)  
+ | [Ferenc](Ferenc.md) | On the shore of a neighboring island near the [Isle of Vigils](Isle_of_Vigils.md). |
+| 
 
-Kazue: Near the bridge headed towards [The Sable Estate](The_Sable_Estate.md)  
-Seon: On a shore near [Summer Isles](Summer_Isle.md) and also near [The Golden Rat](The_Golden_Rat.md)  
-Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
+ | 
 
- |
+[Etrean Royalists](Etrean_Royalists.md)
+
+ | [Kazue](Kazue.md) | Near the bridge headed towards [The Sable Estate](The_Sable_Estate.md). |
+| 
+
+ | 
+
+[Etrean Royalists](Etrean_Royalists.md)
+
+ | [Seon](Seon.md) | Along the shore behind [Summer Isles](Summer_Isle.md) and also near [The Golden Rat](The_Golden_Rat.md). |
+| 
+
+ | 
+
+[Etrean Royalists](Etrean_Royalists.md)
+
+ | [Yen](Yen.md) | Near the front of the [Songseeker Temple](Songseeker_Temple.md). |
 
 ## Factions/Entities
 
@@ -260,6 +302,7 @@ Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
 -   [Lost Celtor](Lost_Celtor.md)
+-   [The Vigils of Winds](The_Vigils_of_Winds.md)
 
 ## Trivia
 

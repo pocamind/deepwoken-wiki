@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 233951
+revid: 233973
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Expert Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of Etrea]
@@ -46,5 +46,5 @@ The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the bas
 
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md), but an inferior version of the [Royal Etrean Guard](Royal_Etrean_Guard.md).
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
--   The old Cloak of Winds design appears to be a reference to the [White Church Hunter set](https://bloodborne.wiki.fextralife.com/White+Church+Set) from Bloodborne.
+-   The old Cloak of Winds design appears to be a reference to the [White Church Hunter set](https://bloodborne.wiki.fextralife.com/White+Church+Set) from _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
 -   **Current** cloak of winds is an outfit made by **KAHAEL**.
