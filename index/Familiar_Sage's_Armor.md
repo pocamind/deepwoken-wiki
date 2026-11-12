@@ -1,6 +1,6 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 233477
+revid: 234075
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -47,6 +47,7 @@ Some abilities can give you enough altitude required for [Lightning Drop](Talent
 
 -   [Wind Step](Talents.md#wind-step) talent
 -   [**Metal Rampart**](Ironsing.md#metal-rampart) mantra
+-   Feinted [Vicious Descent](https://deepwoken.fandom.com/wiki/Bloodrend#Vicious_Descent) mantra
 -   [**Flame Leap**](Flamecharm.md#flame-leap) and [**Strong Leap**](Attunement-less.md#strong-leap) mantras
 -   Feinted reversal [**Flame Leap**](Flamecharm.md#flame-leap) mantra
 -   Feinted [**Heavenly Wind**](Galebreathe.md#heavenly-wind) mantra
@@ -64,3 +65,5 @@ Some abilities can give you enough altitude required for [Lightning Drop](Talent
     -   Will sometimes fail for no reason
     -   Using any ability that makes you take fall damage (Such as rolling, dash, swinging mid air, etc) will reset the distance you fell to 0.
     -   Despite the damage capping out at 66.08, it can still be increased by damage modifiers.
+    -   Actually requires you to be in "Falling" state. That means ability would do nothing and go on cooldown, if used while you getting dragged up (Especially with abilities, such as flame leap). Wait until you start falling to activate this ability.
+    -   Makes thunder effects around character on use, even if talent is on cooldown or not under conditions to use ability.

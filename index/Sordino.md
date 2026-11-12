@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 233787
+revid: 234083
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -198,3 +198,4 @@ Sordino's Marvellous Menagerie
 -   A sordino, also known as a mute, is the general term for devices attached to a musical instrument to alter their volume and tone.
 -   Sordino claims that he took a Vow as a Beastmaster, which could hint that he has a special bond with various creatures in Lumen.
 -   He can swap memories with the use of his [Resonance](Resonance.md), which he used to saddle a poor man with all his debt.
+-   Sordino's hair ids are 4374334355 and 5231327743.

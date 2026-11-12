@@ -1,6 +1,6 @@
 ---
 title: Sap
-revid: 230006
+revid: 234081
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Consumables, Ingredients, Harvestables, Alchemy]
@@ -46,5 +46,4 @@ When consumed, it replenishes 5% Stomach, but depletes -3% Water.
 ## Trivia
 
 -   When used in [Alchemy](Alchemy.md), it provides the strongest negative speed buff and the strongest positive Ether regeneration buff.
--   Sap cannot be found during the Winter, except in Greathive Aratel.
 -   The model when you are holding sap is just a translucent, orange block.

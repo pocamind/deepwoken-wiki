@@ -1,9 +1,11 @@
 ---
 title: Faction Ambushes
-revid: 233483
+revid: 234071
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions, Reputation, Mechanics]
+categories: [In progress without reason, InProgressPages, Factions, Reputation, Mechanics]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Faction Ambushes
@@ -12,15 +14,17 @@ categories: [Factions, Reputation, Mechanics]
 
 Faction Ambushes are a [Random Encounter](Random_Encounters.md) that involves a squad of several faction-affiliated [Enemies](Enemies.md) being sent to kill a player that has sufficiently negative [Reputation](Reputation.md) with their respective faction. The encounter can occur nearly anywhere in Lumen, and will only happen to players who have Hunted reputation or lower with at least one faction. Unlike other random encounters, killing the enemies sent after the player will incur a reputation penalty and therefore lead to an even lower reputation with the respective faction. In exchange, defeating all the enemies will reward a decent-sized [Chest](Chests_&_Sacks.md) filled with items pertaining to that faction.
 
-The enemies sent differ depending on the extent of the player's negative reputation, with lower ranks resulting in more lethal ambushes. The enemies also vary based on your level, with the higher tier ambushes being impossible to achieve at a low level. Below is a list of possible ambushes.
+The enemies sent differ depending on the extent of the player's negative reputation, with lower ranks resulting in more lethal ambushes. The enemies also vary based on your level, with the higher tier ambushes being impossible to achieve at a low level. At **Villain** reputation, the rank tiers are as follows: Low (1-6), Medium (7-13), High (14+). Having Hunted reputation reduces your tier by one, but your tier cannot go below 'Low'. Some factions do not have Low, Medium or High tier ambushes, such as the Ministry not having a Low tier ambush or the Legion not have a High tier ambush.
+
+Below is a list of possible ambushes.
 
 Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit faction will still attempt to ambush the player regardless.
 
 | Faction | Enemy(s) | Dialogue | Loot Pool |
 | --- | --- | --- | --- |
 | N/A | 
--   1-3 [Bandits](Bandit.md)
--   1-3 [Bandit Leaders](Bandit_Leader.md)
+-   1-2 [Bandits](Bandit.md)
+-   1-2 [Bandit Leaders](Bandit_Leader.md)
 -   3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>)
 -   3 [Cloaked Assassins](Cloaked_Assassin.md)
 
@@ -39,9 +43,9 @@ Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit 
 
  | 
 
--   Lower Erisia ([Bandits](Bandit.md))
--   Songseeker Wilds ([Bounty Hunters](<Bounty_Hunter_(NPC).md>))
--   The Starswept Valley ([Cloaked Assassins](Cloaked_Assassin.md))
+-   [Erisia](Erisia.md) ([Bandits](Bandit.md))
+-   [Songseeker Wilds](Songseeker_Wilds.md) ([Bounty Hunters](<Bounty_Hunter_(NPC).md>))
+-   [Aratel Island](Aratel_Island.md) ([Cloaked Assassins](Cloaked_Assassin.md))
 
  |
 | [Etrea](Etrea.md) | 
