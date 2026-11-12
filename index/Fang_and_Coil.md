@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 232992
+revid: 234129
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -58,6 +58,7 @@ For its **Running Critical**, the user performs a front-flip followed by a dazin
 
 ## Trivia
 
--   This fist style is likely based on the Shaolin Kung Fu Snake style.
-    -   This branch of Kung Fu emphasizes snake-like forms, which is reflected in the fluid animations and the acrobatic running critical associated with [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>)'s innate Talent. "Coil" may refer to the Coil techniques of the Snake style.
+-   This fist style is likely based on the Shaolin Kung Fu Snake style, or 蛇拳 (shé quán_)_.
+    -   This branch of Kung Fu emphasizes snake-like forms, which is reflected in the fluid animations, the default low sweep critical, and the acrobatic running critical associated with [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>)'s innate Talent. "Coil" may refer to the Coil techniques of the Snake style.
     -   The description of Fang and Coil confirms it's an ophidian martial art from [Etrea](Etrea.md), whose design draws heavy inspiration from ancient Sinospheric civilizations.
+    -   Aside from these similarities, snake kung fu is actually meant for controlling the opponent with strikes directly transitioning into grabs and a pseudo-clinch. The primary focus involves open-hand techniques and controlling the opponent's arms, literally "snaking" around their limbs. The movements also have many implications for various joint locks and takedowns.
