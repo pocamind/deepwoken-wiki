@@ -1,6 +1,6 @@
 ---
 title: Lullaby Isles
-revid: 225940
+revid: 234089
 source: https://deepwoken.fandom.com/wiki/Lullaby_Isles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Locations in the Central Luminant, Locations, The Moonlit Faith]
@@ -30,7 +30,7 @@ The Lullaby Isles are the territory of [The Moonlit Faith](The_Moonlit_Faith.md)
 
 The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a lead ambassador for the Lullaby Isles, leading groups of scholars to and from the [Greathive Aratel](Greathive_Aratel.md) in order to exchange knowledge, updates and information.[\[6\]](#cite-note-missives-6)
 
-The Vox: A role in the Lullaby Isles whose position within the totem pole remains widely unknown, but are.[\[7\]](#cite-note-7)
+The Vox: A role in the Lullaby Isles whose position within the totem pole remains widely unknown, but are known to act as a "middleman" between the Acolyte and the Confessor.[\[7\]](#cite-note-7)
 
 [Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): A council residing within the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[6\]](#cite-note-missives-6)
 

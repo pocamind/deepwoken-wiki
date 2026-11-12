@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 225437
+revid: 234120
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -205,6 +205,17 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 </tbody>
 </table>
 
+## Passive(s)
+
+-   Guardbreak Resist - Aska is immune to instant guard break effects.
+
+## Talents
+
+-   [Phoenix Flames](Talents.md#phoenix-flames) - If Aska were to burn to death he will instead rise back up to 50% health.
+-   [Agitating Spark](Talents.md#agitating-spark) - Applies burning to anyone around Aska including Aska.
+-   [Impervious slumber](Talents.md#impervious-slumber) - If Aska is hit while **[Unconscious](Status_Effects.md#unconscious)** it no longer resets his time **[Unconscious](Status_Effects.md#unconscious)**.
+-   [Immolation](Talents.md#immolation) - If aska is on fire and hits them it will apply burning and aska takes 50% less damage from burn.
+
 ## Strategy
 
 -   Aska is a humanoid opponent. This means they use basic attacks, a critical, Mantras, etc.
@@ -223,8 +234,6 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   If Aska falls off the map, you can escape through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and still obtain the weapon.
     -   Aska can land on platforms that are between the void, softlocking you until you either fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or use the [Deepdrill](The_Frontier_Furnace.md). They will respawn in the same place unharmed.
 -   Aska can only be fought _**ONCE**_ per character. Entering their room after having defeated them before will not respawn them.
--   They have anti-blockbreak Talent similarly to the [Duke Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Aska's Outfit: [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR) / [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
     -   Hair ID: 6101425666 _(same as [Maestro Evengarde Rest's](Evengarde_Rest.md))_
     -   Aska's Outfit is dyed orange in-game
--   Aska has Talents such as Impervious Slumber, Phoenix Flames, etc.

@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 233791
+revid: 234085
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals]
@@ -66,3 +66,4 @@ Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assau
 -   The Krulian Charge cooldown is not considered a normal critical cooldown; its duration cannot be decreased via [Critical Engine](Talents.md#critical-engine) Blessed Gem or [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   There is a minor cooldown that stacks onto of all of the normal crit cooldowns. This cooldown takes priority over all others, meaning [Critical Engine](Talents.md#critical-engine), [Blessed Gem](Blessed_Gem.md), and [Warmaster's Medallion](<Warmaster's_Medallion.md>) are completely useless to the Krulian Knife as a whole.
 -   This blade's appearance is based on one of many "[Ben's knives](https://hunterxhunter.fandom.com/wiki/Ben%27s_knives/Image_Gallery)" from the anime _Hunter x Hunter_.
+-   The Krulian Knife used to be able to be equipped on Silentheart characters, prior to the 11/8/2026 update.

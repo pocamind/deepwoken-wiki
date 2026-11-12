@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 230960
+revid: 234095
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -457,7 +457,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Ores.md#astruline">Astruline</a>, <a href="Bloodless_Gem.md">Bloodless Gems</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -668,7 +668,7 @@ All bosses have differing loot tables found here
   <ul>
     <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
     <li><a href="Items.md">Items</a>: Non-exclusive <a href="Deep_Gems.md">Deep Gems</a>, <a href="Dread_Flesh.md">Dread Flesh</a> (direct drop), <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a> (direct drop)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, Non-Exclusive <a href="Enchant_Stone.md"><font>Enchant Stones</font></a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, Non-Exclusive <a href="Enchant_Stone.md">Enchant Stones</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -810,7 +810,7 @@ All bosses have differing loot tables found here
   <td>
   <ul>
     <li>One or two <a href="Crowns.md">Crowns</a> (depending on damage dealt)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, non-exclusive <a href="Enchant_Grease.md"><font>Enchant Grease</font></a>, non-exclusive <a href="Enchant_Stone.md"><font>Enchant Stones</font></a> (Curse enchants seem to drop more commonly than non-curse enchants), <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, non-exclusive <a href="Enchant_Grease.md">Enchant Grease</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a> (Curse enchants seem to drop more commonly than non-curse enchants), <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -969,7 +969,7 @@ All bosses have differing loot tables found here
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><b>Drops</b>: <a href="Dark_Feather.md">Dark Feather</a>, <a href="Nightbringer.md"><font>Nightbringer Enchant Stone</font></a></li>
+    <li><b>Drops</b>: <a href="Dark_Feather.md">Dark Feather</a>, <a href="Nightbringer.md">Nightbringer Enchant Stone</a></li>
   </ul></td>
 </tr>
 </tbody>
@@ -1020,7 +1020,7 @@ All bosses have differing loot tables found here
   <td>
   <ul>
     <li><b><a href="Items.md">Items</a></b>: <a href="Titus'_Armor_Piece.md">Titus' Armor Piece</a>, <a href="Warden's_Armor_Piece.md">Warden's Armor Piece</a>, <a href="Might_Gem.md">Might Gem</a> (guaranteed), <a href="Wrath_Gem.md">Wrath Gem</a> (guaranteed)</li>
-    <li><b><a href="Relics.md">Relics</a></b>: Bluster Enchant Stone, Curse of the Authoritative Enchant Stone, Windswept Enchant Stone</li>
+    <li><b><a href="Relics.md">Relics</a></b>: <a href="Bluster.md">Bluster Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative Enchant Stone</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -1071,7 +1071,7 @@ All bosses have differing loot tables found here
   <ul>
     <li>1 <a href="Crowns.md">Crown</a></li>
     <li><a href="Items.md">Items</a>: <a href="Ethereal_Bone_Dust.md"><font>Ethereal Bone Dust</font></a>, <a href="Temporal_Crux.md">Temporal Crux</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Non-exclusive <a href="Enchant_Stone.md"><font>Enchant Stones</font></a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a></li>
   </ul></td>
 </tr>
 <tr>

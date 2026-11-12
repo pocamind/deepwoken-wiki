@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 234068
+revid: 234121
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -254,7 +254,6 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   When [Poser's Ring](<Poser's_Ring.md>) is used, the clone will behave as if it doesn't have the ring.
     -   This is because the mirror is unable to sheathe/unsheathe its weapon, and if Poser's Ring did work, the mirror would be incapable of dealing damage through light attacks and criticals.
 -   The Tooltip for Reveal is "Death before dishonor."
--   There is a cheese for it, however i do not know what it is.
 
 ## Navigation
 

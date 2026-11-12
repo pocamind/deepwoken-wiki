@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 226881
+revid: 234124
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, The Depths]
@@ -62,6 +62,6 @@ Please visit their respective pages below by clicking on them for more informati
 
 The layers are non-linear, which is a example of why you can go from The Surface to The Vents and not from New Kyrsa.
 
+## References
+
 1.  [↑](#cite-ref-1)
-    
-    Toons stating there _might_ aswell be infinite layers to the Depths.

@@ -1,6 +1,6 @@
 ---
 title: Pristine Lotus
-revid: 228691
+revid: 234125
 source: https://deepwoken.fandom.com/wiki/Pristine_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -19,7 +19,7 @@ categories: [Items]
 | droppable | No |
 | pass down | No |
 | desc | Pristine, ScarletAn exotic lotus, unblemished by the world.An exotic lotus, drenched in another's blood. |
-| obtainment | The Entropy Catalyst |
+| obtainment | The Entropy Catalyst, Chaser, Scholar of the Crimson Contract |
 
 ## Overview
 

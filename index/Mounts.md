@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 234057
+revid: 234117
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,6 @@ Mounts are tamed creatures or objects that can be used to traverse terrain quick
 ### Thresher
 
 -   _**Obtainment:**_ The Thresher mount can be purchased at [Sordino](Sordino.md) after completing his quest. Doing so will unlock his shop permanently across all slots.
-    -   While mounted on a Thresher, you can completely resist the slow effect of the wind in Layer 2, but still can be pushed away.
     -   The Thresher walks with speed of 22 stud/sec and runs with speed of 34.5 stud/s.
     -   The Thresher mount's movement speed is affected by any movement speed modifiers you currently have, though the effectiveness of your movement speed modifiers will be greatly reduced.
 
@@ -41,3 +40,4 @@ Mounts are tamed creatures or objects that can be used to traverse terrain quick
 -   Mounts can walk on lava without dismounting the rider.
 -   If you are carrying something before using the Whistle, you will continue to carry said item while mounted. This greatly increases your movement speed while carrying objects.
 -   Having a mount doesn't negate fall damage but slightly reduces it by around 2%.
+-   With a mount you can completely resist the slow effect of the wind in the [Second Layer](Second_Layer.md), but still can be pushed away.
