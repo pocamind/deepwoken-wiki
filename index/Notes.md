@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 227860
+revid: 234186
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]

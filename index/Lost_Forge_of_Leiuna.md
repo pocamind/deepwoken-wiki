@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 233679
+revid: 234165
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, World Event]

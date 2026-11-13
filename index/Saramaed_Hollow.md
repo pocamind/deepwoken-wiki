@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 233941
+revid: 234168
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -18,7 +18,6 @@ The deeper one digs, the more the fruits of the earth avail themselves, though t
 
   
 
-  
 **Saramaed Hollow** is a dungeon in Deepwoken. It is a sub-location of [Miner's Landing](<Miner's_Landing.md>),
 
 ## Description

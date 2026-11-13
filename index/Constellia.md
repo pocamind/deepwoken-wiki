@@ -1,6 +1,6 @@
 ---
 title: Constellia
-revid: 217681
+revid: 234184
 source: https://deepwoken.fandom.com/wiki/Constellia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Celestial cities, The Heavens, Destroyed locations]
@@ -11,6 +11,10 @@ categories: ["Content not present in-game", Celestial cities, The Heavens, Destr
 **Content is not present in-game**  
 The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
 E.G. a character mentioned in a book doesn't exist as an interactible NPC.
+
+  
+
+Constellia seen from the Celestial Telescope
 
 ## Description
 

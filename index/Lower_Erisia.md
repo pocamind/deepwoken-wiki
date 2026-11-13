@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 234025
+revid: 234163
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -17,7 +17,6 @@ LocationL Lower Erisia LocationR
 A land lost to time, now made a battleground for warriors who know not why they fight.
 
   
-
 **Lower Erisia** is a location in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Upper Erisia](Upper_Erisia.md).
 
 ## Overview

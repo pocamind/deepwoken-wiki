@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 234070
+revid: 234134
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -24,9 +24,7 @@ notices:
 
 ## Description
 
-The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) that spawns in [the Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md) every 30 minutes.
-
--   XX:22, XX:52
+The Harvestman is a [Hallowtide](Hallowtide.md) [World Boss](Bosses.md#world-bosses) that spawns in [the Harvest Ritual](The_Harvest_Ritual.md), accessible by his [World Event](World_Events.md) every 30 minutes at XX:22 and XX:52.
 
 He is a towering scarecrow made from dried straws of [Ichorgrass](Ichorgrass.md)[\[2\]](#cite-note-2), donning a long, ragged black robe tied together by a red cloth, alongside a cloak with pumpkin shoulder pads and numerous layers of tattered cloth. His head is a pile of straw emanating an orange glow, while having a radiating yellow halo at floating above it. He also has a second pair of mechanical arms.
 

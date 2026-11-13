@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 233347
+revid: 234166
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]

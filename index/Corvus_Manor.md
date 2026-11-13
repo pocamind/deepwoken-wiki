@@ -1,9 +1,9 @@
 ---
 title: Corvus Manor
-revid: 233547
+revid: 234191
 source: https://deepwoken.fandom.com/wiki/Corvus_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Locations]
+categories: [Event Only Content, Locations, Hallowtide]
 notices:
   - This page contains Event Exclusive Content This gamemode is exclusive to the Hallowtide event.
 ---
@@ -46,7 +46,7 @@ The Graveyard is a burial ground containing several graves throughout the area.
 
 ### Isle of Crows
 
-The Isle of Crows is dotted with the remnants of old structures and abandoned pathways.
+Due to a Strange fog that rolled in from the [Voidsea](Voidsea.md), most of the Isle of crows is inaccessible to the normal player. Dotted with the remnants of old structures and abandoned pathways.
 
 ### Paintings
 
