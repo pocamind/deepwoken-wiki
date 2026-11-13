@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 233686
+revid: 234245
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -47,7 +47,9 @@ The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buf
 
 This item is the [Pathfinder](Pathfinder.md) equivalent of the [Sorcerer's Mantle](<Sorcerer's_Mantle.md>).
 
-## Set Talent: Sorcerer's Supply
+## Set Talent
+
+_This section is transcluded from [Ether Refined Brim § Set Talent](Ether_Refined_Brim.md#set-talent). To change it, please edit the transcluded page._
 
 When wearing the full equipment set, you will gain the Set Talent.
 

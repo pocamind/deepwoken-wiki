@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Helmet
-revid: 222730
+revid: 234225
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment of The Hundred Legions]

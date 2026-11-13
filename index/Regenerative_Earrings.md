@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 229605
+revid: 234254
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -47,15 +47,17 @@ The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more hea
 
 ## Set Talent
 
+_This section is transcluded from [Regenerative Pendant § Set Talent](Regenerative_Pendant.md#set-talent). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Critical Heal](Talents.md#critical-heal) - Every time you heal, you have a chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
+Set Talent: [Critical Heal](Talents.md#critical-heal) - Everytime you heal, you have a chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
 
 The heal chance is weighted, having a higher chance the more healing you receive.
 
 The following sources of healing **cannot** proc Critical Heal:
 
--   Any source of 'passive' healing, such as passive health regeneration and things which boosts it (unexhaustive list below)
+-   Any source of 'passive' healing, being passive health regeneration and things which boosts it (unexhaustive list below)
     -   [Curse of the No Life King](Curse_of_the_No_Life_King.md)
     -   [Chorus of Souls](Talents.md#chorus-of-souls)
     -   [Campfire Pits](Campfire_Pit.md)
@@ -63,7 +65,7 @@ The following sources of healing **cannot** proc Critical Heal:
 
 The following sources of healing **can** proc Critical Heal:
 
--   Any source of 'non-passive' healing, such as anything **not** related to passive health regeneration (unexhaustive list below)
+-   Any source of 'non-passive' healing, being anything **not** related to passive health regeneration (unexhaustive list below)
     -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
     -   Instant Health [potions](Alchemy.md)
     -   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
@@ -76,4 +78,4 @@ The following sources of healing **can** proc Critical Heal:
     -   [Bloodless Gems](Bloodless_Gem.md)
     -   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
     -   [Corrupted Payback](Payback.md) healing
-    -   [Fondant Splitter](Fondant_Splitter.md)'s critical attack
+    -   [Fondant Splitter](Fondant_Splitter.md) Critical

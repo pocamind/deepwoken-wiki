@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Plate
-revid: 227939
+revid: 234235
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment of The Hundred Legions]

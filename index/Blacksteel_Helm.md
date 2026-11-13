@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 229420
+revid: 234262
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with loot table reason, InProgressPages, Equipment, Head, Helmets]
@@ -35,7 +35,3 @@ Variants: [Pauldrons](Blacksteel_Pauldrons.md)
 ## Description
 
 The Blacksteel Helm is an [Equipment](Equipment.md) item under the "Head" category.
-
-## Trivia
-
--   Considered one of the best head [Equipment](Equipment.md) pieces, due to being one of the few helmets that are able to reach 30 HP.

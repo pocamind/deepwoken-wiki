@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 228102
+revid: 234257
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -43,6 +43,12 @@ The [Safety First](Talents/Vow_of_Iron.md#safety-first) Talent grants 25% damage
 
 ## Set Talent
 
+_This section is transcluded from [Beginner's Brace § Set Talent](<Beginner's_Brace.md#set-talent>). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Training Wheels](Talents/Vow_of_Iron.md#training-wheels) - Increase the amount of parry frames you have by 20%.
+
+## Gallery
+
+Beginner's Boots uses the same model as [Novice Boots](Novice_Boots.md).

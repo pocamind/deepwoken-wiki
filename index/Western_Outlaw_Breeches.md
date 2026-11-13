@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Breeches
-revid: 223381
+revid: 234218
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Breeches
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]

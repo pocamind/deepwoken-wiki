@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 233526
+revid: 234278
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -159,7 +159,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Notably, all three orbs leave behind a blood pool.
 
 -   Has a 10s CD and 0.6s of windup.
--   This ability has a PvE damage multiplier of 9.31x.
+-   This ability has a PvE damage multiplier of 8.62x (up to 9.31x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -196,7 +196,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Has a base damage of 16/22/28/34/40 per level, with 2.75 Bloodrend scaling.
 -   Deals 13 posture damage.
 -   Has a 10s CD and 0.7s of windup.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   [Ragdolls](Status_Effects.md#ragdoll) on hit.
 -   The projectile is relatively difficult to aim while in shift lock, as the projectile _always_ targets the player's cursor location, and its starting location is to the left of the player, unlike most other projectiles.
 
@@ -235,7 +235,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Has a base damage of 16/20/24/28/32 per level, with 2.75 Bloodrend scaling.
 -   Deals 15 posture damage.
 -   Has a 10s CD and 0.5s of windup.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -274,7 +274,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Has a 14s CD with 1.15s of windup.
 -   Spawns 2 minimum stakes at level 1, with every level increasing the minimum stake count by 1, for up to 6 minimum stakes at level 5.
 -   The 2-6 minimum stakes leave behind smaller Blood Pools from their spawn location that last 6 seconds.
--   This ability has a PvE damage multiplier of 2.7x.
+-   This ability has a PvE damage multiplier of 2.5x (up to 2.7x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -315,7 +315,7 @@ Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
 -   Leaves behind a Blood Pool when the player lands.
 -   Applies [Knockdown](Status_Effects.md#knockdown) to the enemy on hit.
 -   Feinting this Mantra leaves you in the air, but does not restore its cooldown.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -355,7 +355,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   The projectile count doubles from 3 to 6 at level 5.
 -   Recalled daggers deal the same damage and posture damage as their initial use.
 -   Has 1 second cooldown before you able to recall the daggers.
--   This ability has a PvE damage multiplier of 4.38x.
+-   This ability has a PvE damage multiplier of 4.06x (up to 4.38x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -392,7 +392,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Has a base damage of 8/10/12/14/16 per level, per hit (3), with 2.75 Bloodrend scaling.
 -   Deals 5 posture damage per hit (3).
 -   Has a CD of 10.5s with 0.6s of windup.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -431,7 +431,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Deals 1 posture damage on the initial hit. If this attack is blocked, the entire attack will cancel.
 -   Has a 10s CD with 0.5s of windup.
 -   The second hit counts as a flourish and procs majority of "on flourish" Talents and effects.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -469,7 +469,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Deals 1 posture damage per hit (17).
 -   Has a 13s CD with 1.1s of windup.
 -   The beam locks onto its target for the entire duration of the Mantra.
--   This ability has a PvE damage multiplier of 2.69x.
+-   This ability has a PvE damage multiplier of 2.49x (up to 2.69x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -531,7 +531,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 -   Has a 17.5s CD with 0.5s of windup.
 -   Cancels if parried.
--   This ability has a PvE damage multiplier of 3.5x.
+-   This ability has a PvE damage multiplier of 3.24x (up to 3.5x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
     -   Despite the low PvE damage multiplier, this Talent has great PvE performance due to the high Blood Hemmorhage buildup, and the player being able to act freely while the Cyclone(s) are active.
 
  |
@@ -570,7 +570,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   The final hit has a base damage of 7.5/10/12.5/15/17.5 per level, with 2.75 Bloodrend scaling.
 -   Deals 11 posture damage, with the attack being canceled if blocked. However, it will often bypass block entirely.
 -   Has a 10s CD with 0.5s of windup.
--   The first hit has a PvE damage multiplier of 6.12x. The subsequent hits (3) have a PvE damage multiplier of 13.11x.
+-   The first hit has a PvE damage multiplier of 5.6x (up to 6.12x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20. The subsequent hits (3) have a PvE damage multiplier of 12.14x (up to 13.11x with Mob Damage) at Power 20.
 
  |
 | 
@@ -613,7 +613,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
     -   Has 2.75 Bloodrend scaling.
 -   Does 25 posture at 1/2 charges, becomes unblockable past that. This ability does not proc "on guardbreak" conditionals.
 -   Has a 10s CD.
--   This ability has a PvE damage multiplier of 5.13x.
+-   This ability has a PvE damage multiplier of 4.75x (up to 5.13x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -655,7 +655,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Switches targets when it cannot hit the previous one.
 -   Targets hit will be unable to act, with the exception of [Venting](Combat_Mechanics.md#tempo). If they Vent, this abliltiy will end early.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), causing the initial hit to hit twice, dealing half of the total damage on each tick.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -700,7 +700,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
     -   The posture damage also scales on charge; 22 to 31.
 -   Has a 120s CD with 0.425s of windup.
 -   The healing scales highly on the Mantra level, tripling from level 1 to 5. Additionally, you heal for each enemy hit.
--   This ability has a PvE damage multiplier of 7.15x.
+-   This ability has a PvE damage multiplier of 6.62x (up to 7.15x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 
@@ -777,7 +777,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   This Mantra can be ended early pressing M1.
 -   This Mantra allows [Pistol](Pistols.md) users to freely reload their guns without risk of being attacked.
 -   The windup is reduced if the player is standing on a Blood Pool on cast. However, this will prevent the Mantra from creating a Blood Pool at its cast position.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
  |
 | 
@@ -812,11 +812,11 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 **Effect:** _Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage._
 
 -   The first hit has a base damage of 10, regardless of level, with 5 Bloodrend scaling.
--   The second hit has a base damage I'd 15/19/23/27/31 per level, with 2.75 Bloodrend scaling.
+-   The second hit has a base damage of 15/19/23/27/31 per level, with 2.75 Bloodrend scaling.
 -   Deals 12 posture damage if blocked.
 -   Has a 13.5s CD with 1s of windup.
 -   Leveling up this Mantra additionally increases its range. It can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to further increase its range.
--   The first hit has a PvE damage multiplier of 6.48x. The second hit has a PvE damage multiplier of 9.18x.
+-   The first hit has a PvE damage multiplier of 6x (up to 6.48x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20. The second hit has a PvE damage multiplier of 8.5x (up to 9.18x with Mob Damage) at Power 20.
 
  |
 

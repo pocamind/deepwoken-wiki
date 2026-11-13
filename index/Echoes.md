@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 234126
+revid: 234276
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -481,6 +481,8 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Buying most Echo Upgrades and some of the Unlocks will apply their effects to previously created slots. Any of the Starter/Starting: Weapon, Tools, Equipment, Knowledge, and Notes will **not** be applied to pre-existing slots however.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
+-   The damage increase from the Mob Damage upgrade is a **final** multiplier to damage in all instances in PvE, and is not exclusive to [Monster](Monsters.md)\-type enemies. Because this is a final multiplier, it is **multiplicative** to the PvE damage multiplier that individual attacks have. E.g. most Mantras have a 8.5x mult at Power 20, increased to 9.18x if this upgrade is maxed out.
+    -   Similarly, the Mob Armor upgrade also applies to humanoid enemies as well.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md#attribute-training-gears) training gear
     -   [Starvation](Status_Effects.md#starved)

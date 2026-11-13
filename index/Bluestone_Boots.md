@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 233594
+revid: 234239
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -38,6 +38,8 @@ The [I'm Blue](Talents.md#im-blue) Talent increases the effectiveness of your [B
 
 ## Set Talent
 
+_This section is transcluded from [Bluestone Pauldrons § Set Talent](Bluestone_Pauldrons.md#set-talent). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Etherguard](Talents.md#etherguard) - [Warped Blue Gems](Warped_Blue_Gem.md) now provide a bonus effect when landed using a mantra, [Etherguard](Status_Effects.md#etherguard). This effect gives extra resistances to mantras based on how much ether they cost to cast + gain elemental protection against PvE.
@@ -50,6 +52,6 @@ This item is crafted using the following recipe:
 
 1.  1 [Bluesteel Boots](Bluesteel_Boots.md) + 1 [Warped Blue Gem](Warped_Blue_Gem.md).
 
-## Navigation
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

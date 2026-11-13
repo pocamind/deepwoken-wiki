@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 229209
+revid: 234200
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks, Craftable, Equipment with Talents, Equipment with Exclusive Talents, Equipment with Set Bonuses]
@@ -38,7 +38,9 @@ The [Destructive Yell](Talents.md#destructive-yell) Talent breaks campfires arou
 
 ## Set Talent
 
-When wearing any combination of 3 items from the equipment set, you will gain the Set Talent.
+_This section is transcluded from [Ascended Outlaw Hat § Set Talent](Ascended_Outlaw_Hat.md#set-talent). To change it, please edit the transcluded page._
+
+When wearing any combination of 3 items from the Ascended Outlaw equipment set, you will gain the Set Talent.
 
 Set Talent: [Offensive Recovery](Talents.md#offensive-recovery) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 
@@ -49,3 +51,7 @@ This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingEmpty](Merit_Detainment_Core.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md).
+
+## Gallery
+
+Ascended Outlaw Mask uses the same model as [Western Outlaw Mask](Western_Outlaw_Mask.md).

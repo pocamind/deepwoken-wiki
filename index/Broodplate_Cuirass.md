@@ -1,6 +1,6 @@
 ---
 title: Broodplate Cuirass
-revid: 233596
+revid: 234243
 source: https://deepwoken.fandom.com/wiki/Broodplate_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Cuirasses, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -42,6 +42,8 @@ The Broodplate Cuirass is an **unenchantable**[\[1\]](#cite-note-unenchantable-1
 The [Rotten Regeneration](Talents.md#rotten-regeneration) Talent increases offensive healing (e.g. [Bloodless Gems](Bloodless_Gem.md)) by 20% when targeting enemies who are under the effect of [Anti-Heal](Status_Effects.md#anti-heal).
 
 ## Set Talents
+
+_This section is transcluded from [Broodplate Helmet § Set Talents](Broodplate_Helmet.md#set-talents). To change it, please edit the transcluded page._
 
 When wearing the full equipment set, you will gain the Set Talents.
 

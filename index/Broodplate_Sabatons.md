@@ -1,6 +1,6 @@
 ---
 title: Broodplate Sabatons
-revid: 233598
+revid: 234244
 source: https://deepwoken.fandom.com/wiki/Broodplate_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Sabatons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,6 +40,8 @@ The Broodplate Sabatons are an **unenchantable**[\[1\]](#cite-note-unenchantable
 The [Gut Rot](Talents.md#gut-rot) Talent doubles the duration of the next applied [Anti-Heal](Status_Effects.md#anti-heal) effect after landing a flourish.
 
 ## Set Talents
+
+_This section is transcluded from [Broodplate Helmet § Set Talents](Broodplate_Helmet.md#set-talents). To change it, please edit the transcluded page._
 
 When wearing the full equipment set, you will gain the Set Talents.
 

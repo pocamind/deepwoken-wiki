@@ -1,6 +1,6 @@
 ---
 title: "Familiar Prince's Armor"
-revid: 233432
+revid: 234267
 source: https://deepwoken.fandom.com/wiki/Familiar_Prince's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -46,7 +46,10 @@ Additionally, while using the **Familiar Prince's Armor**, all passive regenerat
 
 ## Trivia
 
--   This outfit is based on Rogue's Lineage's [Deep Knight's](https://rogue-lineage.fandom.com/wiki/Deep_Knight) armor, the Deep Knight Armor.
+-   This outfit is based on Rogue Lineage's [Deep Knight's](https://rogue-lineage.fandom.com/wiki/Deep_Knight) armor, the Deep Knight Armor, the armor that the Deep Knights wear.
+-   Fun fact: In the hit 2019 MMORPG Roblox game Rogue Lineage: The [Deep Knights](https://rogue-lineage.fandom.com/wiki/Deep_Knight) wield this Armor.
+-   In the popular 2019 Roblox permadeath RPG game Rogue Lineage (made by the same developers as Deepwoken), this armor is worn by the [Deep Knight](https://rogue-lineage.fandom.com/wiki/Deep_Knight) class.
+-   Did you know? This armor was infact worn by the [Deep Knights](https://rogue-lineage.fandom.com/wiki/Deep_Knight) in the hit 2019 Roblox game Rogue Lineage.
 -   Similarly to [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) and [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), this armor has high resistances, as Deep Knight is a notoriously tanky class with access to a few healing abilities.
 -   Despite this armor appearing visually to be the [Deep Knight's](https://rogue-lineage.fandom.com/wiki/Deep_Knight) armour, even including the prince fact the regeneration bonus is the highest in that game, Light Piercer actually comes from the [Church Knight.](https://rogue-lineage.fandom.com/wiki/Church_Knight)
 -   The weapon ability does not cancel out [Whistling Periapt](Whistling_Periapt.md) while actively using it.

@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 229002
+revid: 234263
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -44,6 +44,8 @@ The [Laminated Armor](Talents/Vow_of_Iron.md#laminated-armor) Talent reduces all
 
 ## Set Bonus
 
+_This section is transcluded from [Blackalloy Helm § Set Talent](Blackalloy_Helm.md#set-talent). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
@@ -52,7 +54,11 @@ If the summoned [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) do no
 
 The [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) may spawn above ceilings while inside of [Dungeons](Dungeons.md) or the [Vault of the Aureate](Vault_of_the_Aureate.md).
 
-The summoned pirates count as allies and can benefit from [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
+The summoned pirates count as allies and can benefit from Talents such as [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
+
+## Gallery
+
+Blackalloy Pauldrons uses the same model as [Blacksteel Pauldrons](Blacksteel_Pauldrons.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 233615
+revid: 234233
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,6 +40,8 @@ The [Repeated Blows](Talents.md#repeated-blows) Talent will reset the cooldown o
 
 ## Set Talent
 
+_This section is transcluded from [Reinforced War Helmet § Set Talent](Reinforced_War_Helmet.md#set-talent). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it. This also buffs [Fatal Strike](Talents.md#fatal-strike), causing it to deal 15 true damage on proc.
@@ -51,6 +53,10 @@ The [Fearful](Status_Effects.md#fearful) status effect lasts 19 seconds. Deal 15
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + 5 [Forge Needles](Forge_Needle.md) + 3 [Wrath Gems](Wrath_Gem.md).
+
+## Gallery
+
+Reinforced War Boots uses the same model as [Evanspear War Boots](Evanspear_War_Boots.md).
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 229003
+revid: 234264
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -42,7 +42,7 @@ The Blackalloy Helm is an [Equipment](Equipment.md) item under the "Head" catego
 
 The [Sloped Plate](Talents/Vow_of_Iron.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
 
-## Set Bonus
+## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
@@ -52,7 +52,11 @@ If the summoned [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) do no
 
 The [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) may spawn above ceilings while inside of [Dungeons](Dungeons.md) or the [Vault of the Aureate](Vault_of_the_Aureate.md).
 
-The summoned pirates count as allies and can benefit from [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
+The summoned pirates count as allies and can benefit from Talents such as [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
+
+## Gallery
+
+Blackalloy Helm uses the same model as [Blacksteel Helm](Blacksteel_Helm.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 233619
+revid: 234229
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
@@ -41,6 +41,8 @@ Stormcall Shock has a 0.03 × (Thundercall + Galebreathe investment) second dura
 
 ## Set Talent
 
+_This section is transcluded from [Specialist Helmet § Set Talent](Specialist_Helmet.md#set-talent). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Shock Trooper Specialist](Talents.md#shock-trooper-specialist) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
@@ -58,6 +60,10 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md).
 2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+
+## Gallery
+
+Specialist Plate uses the same model as [Shock Trooper Plate](Shock_Trooper_Plate.md).
 
 ## References
 

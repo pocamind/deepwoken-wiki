@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 234082
+revid: 234265
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
@@ -180,6 +180,12 @@ Jump
 
 -   This attack is capable of dealing very high damage due to each "ice spike" The Champion sends dealing one instance of damage.
 
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
+
+Avoid
+
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   ↻ Undodgeable
@@ -274,6 +280,8 @@ Parry
  | 
 
  |
+
+  
 
 ## Passives
 

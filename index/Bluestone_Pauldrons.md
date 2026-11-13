@@ -1,6 +1,6 @@
 ---
 title: Bluestone Pauldrons
-revid: 233595
+revid: 234241
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -50,6 +50,6 @@ This item is crafted using the following recipe:
 
 1.  1 [Bluesteel Pauldrons](Bluesteel_Pauldrons.md) + 1 [Warped Blue Gem](Warped_Blue_Gem.md).
 
-## Navigation
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

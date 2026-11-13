@@ -1,6 +1,6 @@
 ---
 title: Stored Damage Mechanic
-revid: 232956
+revid: 234272
 source: https://deepwoken.fandom.com/wiki/Stored_Damage_Mechanic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,9 +31,9 @@ The term "**Suspended Hit**" refers to the release of the stored damage; [Poser'
 -   You cannot exceed 70% of a player's maximum health with the Suspended Hit. By using [Wither](Status_Effects.md#wither) application or any damage source, you can reduce your opponent's health below the 70% threshold.
 -   Effects that trigger based on scaled damage (e.g. [Bleed](Status_Effects.md#bleed)) will function like normal on weapons with this mechanic. These effects will be triggered when you land your basic attacks, and **not** when you trigger the Suspended Hit.
 -   All abilities with the Stored Damage mechanic share stacks, meaning you can deal damage on a [Poser's Ring](<Poser's_Ring.md>) [Katana](Katana.md), then swap to the [Moppet](Moppet.md) and critical attack to release the stored damage.
--   The Stored Damage mechanic applies an 8% damage buff to the Suspended Hit in PvE. This is believed to be attributed to the general 8% PvE damage buff.
+-   The Stored Damage mechanic applies the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers) damage buff to the Suspended Hit in PvE, making it this the **only** damage multiplier that is applied directly to the Suspended Hit. Because of this, all instances of the Stored Damage mechanic have an unconditional (up to) 8% damage bonus in PvE; a direct damage increase compared to not using it.
 -   The stored damage is amassed on the target, and is not recorded per player. The damage credit goes to the player who triggers the Suspended Hit first. For example: If two people are fighting an enemy with Stored Damage mechanic weapons, and person B sheathes ([Poser's Ring](<Poser's_Ring.md>)), then all of the stored damage applied by both players will be dealt at once. This credits the damage to Player B, regardless of how much Player A contributed.
--   The stored damage on each target you've damaged will be dealt simultaneously on Suspended Hit; hitting enemy A, then enemy B, and then proccing the Suspended Hit will cause both of them to take their respective stored damage.
+-   The stored damage on each target you've damaged will be dealt simultaneously on Suspended Hit; hitting enemy A, then enemy B, and then proccing the Suspended Hit will cause both enemies to take their respective stored damage.
 -   Chip damage and the damage from damage-dealing enchantments are not stored, and deal their damage normally.
 -   Player clones do not store their damage, and will instead deal their damage normally. In the case of [Moppet](Moppet.md), they also cannot use its critical attack.
 

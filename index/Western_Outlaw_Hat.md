@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Hat
-revid: 223604
+revid: 234217
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]

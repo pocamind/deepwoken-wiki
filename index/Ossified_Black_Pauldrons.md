@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 233685
+revid: 234253
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -42,7 +42,9 @@ Ossified Black Pauldrons are an **unenchantable**[\[1\]](#cite-note-unenchantabl
 
 The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers but before resistances. This Talent cannot reduce a damage value below 1.
 
-## Set Bonus
+## Set Talent
+
+_This section is transcluded from [Ossified Black Helm § Set Talent](Ossified_Black_Helm.md#set-talent). To change it, please edit the transcluded page._
 
 When wearing the full equipment set, you will gain the Set Talent.
 
@@ -54,10 +56,8 @@ If the summoned [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) do no
 
 The [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) may spawn above ceilings while inside [Dungeons](Dungeons.md) or the [Voidheart](Voidheart.md).
 
-The summoned pirates count as allies and can benefit from [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
+The summoned pirates count as allies and can benefit from Talents such as [Golden Tongue](Talents.md#golden-tongue) and [Sharing is Caring](Talents.md#sharing-is-caring).
 
-  
-
-## Navigation
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 233589
+revid: 234221
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -37,15 +37,13 @@ The Ascended Outlaw Hat is an **unenchantable**[\[1\]](#cite-note-unenchantable-
 
 The Ascended Outlaw Hat is a Kasa hat that originated in the Western Luminant.
 
-The [Mass Effect](Talents.md#mass-effect) Talent increases the strength of your [Might Gems](Might_Gem.md) for every Might Gem you have equipped on your Mantras.
+The [Mass Effect](Talents.md#mass-effect) Talent increases the strength of your [Might Gems](Might_Gem.md) for every Might Gem you have on your equipped Mantras.
 
-Increases the effectiveness of your Might Gems by 2.25% additively per Might Gem equipped. This can increase the posture damage effect from your Might Gems from +10% to a maximum of +39.25% on the right setup.
-
-Currently, as you can equip [Deep Gems](Deep_Gems.md) onto unequipped Mantras, you can push this bonus well beyond the above value. The posture damage modifier hard cap can be reached at 40 equipped Might Gems (38 if you have the [Brain Food Buff](Status_Effects.md#brain-food-buff)).
+Increases the effectiveness of your Might Gems by 2.25% additively per Might Gem equipped. This can increase the posture damage buff effect from your Might Gems from +10% to an absolute maximum of +41.5% (+46.5% with [Brain Food Buff](Status_Effects.md#brain-food-buff)) on a min-maxed setup that has 14 Mantra slots. Your mileage may vary depending on [Oath](Oaths.md) choice and various other factors.
 
 ## Set Talent
 
-When wearing any combination of 3 items from the equipment set, you will gain the Set Talent.
+When wearing any combination of 3 items from the Ascended Outlaw equipment set, you will gain the Set Talent.
 
 Set Talent: [Offensive Recovery](Talents.md#offensive-recovery) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 
@@ -57,8 +55,10 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingE
 
 1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
 
-  
+## Gallery
 
-## Navigation
+Ascended Outlaw Hat uses the same model as [Western Outlaw Hat](Western_Outlaw_Hat.md).
+
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

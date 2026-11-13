@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 233590
+revid: 234220
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -39,7 +39,9 @@ The [Ether Pinpoint](Talents.md#ether-pinpoint) Talent allows your Mantras with 
 
 ## Set Talent
 
-When wearing any combination of 3 items from the equipment set, you will gain the Set Talent.
+_This section is transcluded from [Ascended Outlaw Hat § Set Talent](Ascended_Outlaw_Hat.md#set-talent). To change it, please edit the transcluded page._
+
+When wearing any combination of 3 items from the Ascended Outlaw equipment set, you will gain the Set Talent.
 
 Set Talent: [Offensive Recovery](Talents.md#offensive-recovery) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 
@@ -52,8 +54,10 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingE
 1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md).
 2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>).
 
-  
+## Gallery
 
-## Navigation
+Ascended Outlaw Robes uses the same model as [Western Outlaw Robes](Western_Outlaw_Robes.md).
+
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

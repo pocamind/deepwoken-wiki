@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Brace"
-revid: 228094
+revid: 234258
 source: https://deepwoken.fandom.com/wiki/Beginner's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -47,3 +47,7 @@ The [Beginner's Luck](Talents/Vow_of_Iron.md#beginners-luck) Talent increases th
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Training Wheels](Talents/Vow_of_Iron.md#training-wheels) - Increase the amount of parry frames you have by 20%.
+
+## Gallery
+
+Beginner's Brace uses the same model as [Novice Brace](Novice_Brace.md).

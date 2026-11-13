@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 233617
+revid: 234231
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -54,6 +54,10 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 2 [Wrath Gems](Wrath_Gem.md).
 3.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 2 [Wrath Gems](Wrath_Gem.md).
 4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
+
+## Gallery
+
+Reinforced War Helmet uses the same model as [Evanspear War Helmet](Evanspear_War_Helmet.md).
 
 ## References
 

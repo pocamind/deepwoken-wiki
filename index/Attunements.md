@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 226225
+revid: 234289
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -143,7 +143,13 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)[Wraith Path: Twisted Puppets](Flamecharm.md#wraith-path-twisted-puppets)
 
-  
+[Hybrid\_Abilities#Alloyblood](Hybrid_Abilities.md#alloyblood)
+
+[Hybrid\_Abilities#Alloyblood](Hybrid_Abilities.md#alloyblood)[Composite Path: Alloyblood](Hybrid_Abilities.md#alloyblood)
+
+[Hybrid\_Abilities#Exotherm](Hybrid_Abilities.md#exotherm)
+
+[Hybrid\_Abilities#Exotherm](Hybrid_Abilities.md#exotherm)[Exotherm Path: Sanguine Blaze](Hybrid_Abilities.md#exotherm)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 233618
+revid: 234228
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment of The Hundred Legions]
@@ -39,6 +39,8 @@ The [Flashwind](Talents.md#flashwind) Talent allows you to re-enhance your dashe
 
 ## Set Talent
 
+_This section is transcluded from [Specialist Helmet § Set Talent](Specialist_Helmet.md#set-talent). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Shock Trooper Specialist](Talents.md#shock-trooper-specialist) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
@@ -54,6 +56,10 @@ Damage modifiers and the PvE damage multiplier do not count towards this thresho
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).
+
+## Gallery
+
+Specialist Boots uses the same model as [Shock Trooper Boots](Shock_Trooper_Boots.md).
 
 ## References
 

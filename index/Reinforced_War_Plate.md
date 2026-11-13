@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 233616
+revid: 234232
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,6 +40,8 @@ The [Crippling Impact](Talents.md#crippling-impact) Talent disables your opponen
 
 ## Set Talent
 
+_This section is transcluded from [Reinforced War Helmet § Set Talent](Reinforced_War_Helmet.md#set-talent). To change it, please edit the transcluded page._
+
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it. This also buffs [Fatal Strike](Talents.md#fatal-strike), causing it to deal 15 true damage on proc.
@@ -53,6 +55,10 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 1.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
 2.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Wrath Gem](Wrath_Gem.md).
 3.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
+
+## Gallery
+
+Reinforced War Plate uses the same model as [Evanspear War Plate](Evanspear_War_Plate.md).
 
 ## References
 

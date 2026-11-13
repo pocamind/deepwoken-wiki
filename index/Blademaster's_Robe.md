@@ -1,6 +1,6 @@
 ---
 title: "Blademaster's Robe"
-revid: 228466
+revid: 234240
 source: https://deepwoken.fandom.com/wiki/Blademaster's_Robe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment of Etrea]
@@ -47,7 +47,7 @@ The [Swift Blade](Talents.md#swift-blade) Talent grants a 10% posture damage buf
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-**Momentum** - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.
+Set Talent: [Momentum](Talents.md#momentum) - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.
 
 This has a 10:1 conversion rate. For example, if you have the [Wind Gem](Wind_Gem.md) speed boost active (+40% speed), you will gain +4% chip damage.
 

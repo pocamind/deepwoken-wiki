@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Breeches
-revid: 233588
+revid: 234223
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Breeches
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -35,11 +35,13 @@ Variants: [Hat](Ascended_Outlaw_Hat.md) · [Robes](Ascended_Outlaw_Robes.md) · 
 
 The Ascended Outlaw Breeches is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Breeches are a pair of tattered pants that originated from the Western Luminant.
 
-The [Stronger Under Pressure](Talents.md#stronger-under-pressure) Talent makes your [Might Gems](Might_Gem.md) apply an 8% slow per combat tag, for 1 second. This has no cooldown.
+The [Stronger Under Pressure](Talents.md#stronger-under-pressure) Talent makes your Mantras with [Might Gems](Might_Gem.md) equipped apply an 8% slow for 1 second on hit, with this slow scaling on the amount of combat tags you have. This has no cooldown, but does not stack.
 
 ## Set Talent
 
-When wearing any combination of 3 items from the equipment set, you will gain the Set Talent.
+_This section is transcluded from [Ascended Outlaw Hat § Set Talent](Ascended_Outlaw_Hat.md#set-talent). To change it, please edit the transcluded page._
+
+When wearing any combination of 3 items from the Ascended Outlaw equipment set, you will gain the Set Talent.
 
 Set Talent: [Offensive Recovery](Talents.md#offensive-recovery) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 
@@ -51,8 +53,10 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingE
 
 1.  1 [Western Outlaw Breeches](Western_Outlaw_Breeches.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
 
-  
+## Gallery
 
-## Navigation
+Ascended Outlaw Breeches uses the same model as [Western Outlaw Breeches](Western_Outlaw_Breeches.md).
+
+## References
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
