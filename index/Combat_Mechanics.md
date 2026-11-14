@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 233504
+revid: 234307
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -393,6 +393,10 @@ Not all unblockable attacks have this indicator.
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Serpent-Slaying Sweep (White)
 
+**Miscellaneous**
+
+-   Any attack, including your own, that you do not have enough maximum posture to block. e.g.[Strong Left](Attunement-less.md#strong-left) at any level on a 20 posture character.
+
  |
 | 
 
@@ -419,9 +423,10 @@ The color of this indicator changes depending on the attack used.
  |
 | 
 
-High Posture
+Dodge/Block
 
  |  | Most attacks with this indicator deal high posture damage.  
+If you do not have enough **maximum** posture to block an attack that normally has this indicator, it will play the dodge indicator instead.
 
 Most Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
 
@@ -453,6 +458,7 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [Hive Construct](Hive_Construct.md): Swing
 -   [King Gigamed](King_Gigamed.md): Greater Stun Pulse, Static Discharge
+-   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Kick, Tacet Hug
 -   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
 -   [Thresher](Thresher.md) (all variants): Burrow
@@ -507,7 +513,7 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 -   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
 -   [Lionfish](Lionfish.md) (all variants): Cero, Execution
 -   [Megalodaunt](Megalodaunt.md) (all variants): Bite, Kick
--   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Dunk, Lumbering Thrust
+-   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Dunk
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser, Uppercut
@@ -522,7 +528,11 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab, Kick, Rock Throw
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Commander's Whirlthrow, Basic swings(second phase), Splitting Ascension, Sovereign Drive, Skycrash
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bone Stream
--   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Eight Heavens, Severing Flourish, Serpent-Slaying Sweep,
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Eight Heavens, Severing Flourish, Serpent-Slaying Sweep
+
+**Miscellaneous**
+
+-   Any attack with the Block or Dodge indicator, if you do not hage enough **maximum** posture to block it.
 
  |
 | 
@@ -582,7 +592,7 @@ Attacks with this indicator must be parried. Are unavoidable otherwise depending
 -   [Parliament](Parliament.md): Curb Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Eight Heavens, Graceful Slicer
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md):, Commander's Rage, Worldshattering Smackdown
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Commander's Rage, Worldshattering Smackdown
 
  |
 | 
@@ -669,7 +679,7 @@ Attacks with this indicator can be jumped over.
  |
 | 
 
-Avoid
+Run
 
  |  | You need to physically move out of the way of these attacks to dodge them.
 

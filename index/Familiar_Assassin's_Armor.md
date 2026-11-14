@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 233356
+revid: 234309
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -43,7 +43,7 @@ The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, gr
 
 ## Trivia
 
--   This outfit is based on Rogue Lineage's [Faceless One](https://rogue-lineage.fandom.com/wiki/Faceless_One) armor, the Night Lord's outfit.
+-   This outfit is based on _Rogue Lineage'_s [Faceless One](https://rogue-lineage.fandom.com/wiki/Faceless_One) armor, the Night Lord's outfit.
     -   The appearance of the outfit is based on the garb worn by the Assassins in the _Assassin's Creed_ franchise, but more specifically, [Connor Kenway](https://en.wikipedia.org/wiki/Connor_Kenway) from _[Assassin's Creed 3](https://en.wikipedia.org/wiki/Assassin%27s_Creed_3)_.
     -   The Bane talent is based on the Bane ability from the [Assassin](https://rogue-lineage.fandom.com/wiki/Assassin) class in Rogue Lineage. Unlike its counterpart in Rogue Lineage, Deepwoken's Bane is not restricted to daggers.
         -   It also features Rogue Lineage's Agility skill sound effect on use. The Agility skill boosted movement and attack speed, and was often used alongside Bane.

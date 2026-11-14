@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 234071
+revid: 234300
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, Reputation, Mechanics]
@@ -23,7 +23,7 @@ Faction Ambushes cannot be entirely avoided with good reputation, as the Bandit 
 | Faction | Enemy(s) | Dialogue | Loot Pool |
 | --- | --- | --- | --- |
 | N/A | 
--   1-2 [Bandits](Bandit.md)
+-   1-3 [Bandits](Bandit.md)
 -   1-2 [Bandit Leaders](Bandit_Leader.md)
 -   3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>)
 -   3 [Cloaked Assassins](Cloaked_Assassin.md)

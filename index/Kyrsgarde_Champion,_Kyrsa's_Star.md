@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 234265
+revid: 234332
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Floor 2, The Depths, Layer 2, Individuals with He/him pronouns]
@@ -71,9 +71,9 @@ After these conditions have been fulfilled, entering the main city will spawn th
 
 _Uses Telegraph_
 
-[ParryBlockTelegraph](Combat_Mechanics.md#pb)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
-Parry Block
+Parry
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
@@ -122,6 +122,16 @@ Jump
 -   ⛉ Unblockable
 -   ↻ Undodgeable
 -   ↑ Jump-Avoidable
+
+_Uses Telegraph_
+
+[DuckTelegraph](Combat_Mechanics.md#crouch)
+
+Duck
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 -   ↓ Crouch/Slide
 
  | 
@@ -136,9 +146,9 @@ Jump
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#hp)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
-High posture
+Dodge
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -176,7 +186,7 @@ Jump
 **Rime-Rise**  
 (★★☆)
 
- | With a horizontal slash, the Kyrsgarde Champion creates a line of ice spikes in the direction of the nearest target.
+ | With a horizontal slash, the Kyrsgarde Champion creates a line of ice spikes in the direction of the nearest target. Attacks following this move come out sooner.
 
 -   This attack is capable of dealing very high damage due to each "ice spike" The Champion sends dealing one instance of damage.
 
@@ -199,13 +209,13 @@ Avoid
 **Splintered Thrust**  
 (★★☆)
 
- | The Champion lets out a swift thrust with its glaive.
+ | The Kyrsgarde Champion lets out a swift thrust with its glaive.
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#hp)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
-High posture
+Dodge
 
 -   ⚠︎ Unparryable
 -   ⛉ Unblockable
@@ -223,6 +233,17 @@ High posture
 
 _Uses Telegraph_
 
+[JumpTelegraph](Combat_Mechanics.md#jump)
+
+Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
+
+_Uses Telegraph_
+
 [DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
@@ -230,7 +251,6 @@ Dodge
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
 -   § Dodgeable
--   ↑ Jump-Avoidable
 
  | 
 
@@ -240,9 +260,9 @@ Dodge
 **Shatterline  
 (★★★)**
 
- | Enraged, the Champion raises its glaive and summons two ice spikes, rushing forth and delivering two slices.
+ | The Kyrsgarde Champion raises its glaive and summons two ice spikes, rushing forth and delivering two slices.
 
--   Dodging towards the Kyrsgarde Champion, Kyrsa's Star during the red indicator is a great way to deal with this move as you will not have to deal with the tight timings of the parry only attacks.
+-   Dodging towards the Kyrsgarde Champion during the red indicator is a great way to deal with this move as you will not have to deal with the tight timings of the parry only attacks.
 
 _Uses Telegraph_
 
@@ -262,16 +282,16 @@ Dodge
 **Blizzard’s Sanction**  
 (★★★)
 
- | The Kyrsgarde Champion briefly winds up before unleashing four cleaves, followed by a delayed **Splintered Thrust**.
+ | The Kyrsgarde Champion briefly winds up before unleashing four cleaves, followed by a delayed **Splintered Thrust**. Attacks following this move come out sooner.
 
 -   All four slashes follow the green telegraph.
--   There is enought time between the 4th cleave and the final thrust to get in a light attack, which can help for timing if neccesary.
+-   There is enough time between the 4th cleave and the final thrust to get in a light attack, which can help for timing if neccesary.
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#parry)
+[ParryBlockTelegraph](Combat_Mechanics.md#pb)
 
-Parry
+Parry Block
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable
@@ -280,8 +300,6 @@ Parry
  | 
 
  |
-
-  
 
 ## Passives
 

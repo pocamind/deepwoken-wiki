@@ -1,6 +1,6 @@
 ---
 title: Mask of Phantoms
-revid: 233728
+revid: 234329
 source: https://deepwoken.fandom.com/wiki/Mask_of_Phantoms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Face, Masks, Hallowtide, Event Item]
@@ -27,3 +27,8 @@ notices:
 ## Description
 
 The Mask of Phantoms is an [Equipment](Equipment.md) item under the "Face" category, exclusive to the [Hallowtide](Hallowtide.md) event.
+
+## Trivia
+
+-   This mask may be a reference to the Phantom Thieves from Persona, as implied by the name. This may just be a coincidence however, as there isn't much of a visible resemblance outside of simply being a mask.
+    -   Additionally, the left and right variants may be a reference to or inspired by Rien from Limbus Company, but the visible eye makes this even more unlikely.

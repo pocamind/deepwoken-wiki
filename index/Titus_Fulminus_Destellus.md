@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 231280
+revid: 234330
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Humanoid Bosses, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, Humanoids with Unobtainable Outfits]
@@ -240,6 +240,16 @@ Dodge
 -   ⛉ Unblockable
 -   § Dodgeable
 -   ⤓ Knockdown
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#jump)
+
+Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 -   ↑ Jump-Avoidable
 
  | 
@@ -433,7 +443,7 @@ This section is transcluded from \[\[Loot Tables#{{{3}}}|a different page\]\]. T
   <td>
   <ul>
     <li><b><a href="Items.md">Items</a></b>: <a href="Titus'_Armor_Piece.md">Titus' Armor Piece</a>, <a href="Warden's_Armor_Piece.md">Warden's Armor Piece</a>, <a href="Might_Gem.md">Might Gem</a> (guaranteed), <a href="Wrath_Gem.md">Wrath Gem</a> (guaranteed)</li>
-    <li><b><a href="Relics.md">Relics</a></b>: Bluster Enchant Stone, Curse of the Authoritative Enchant Stone, Windswept Enchant Stone</li>
+    <li><b><a href="Relics.md">Relics</a></b>: <a href="Bluster.md">Bluster Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative Enchant Stone</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li>
   </ul></td>
 </tr>
 <tr>

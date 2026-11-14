@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 233950
+revid: 234305
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -74,7 +74,7 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
 -   **Hallowtide '26 Medal**: Allows you to craft _most_ [Hallowtide](Hallowtide.md)\-exclusive items released during 2026.
     -   TBA
 
--   **The Harvestman**: Allows you to craft _most_ [Hallowtide](Hallowtide.md)\-exclusive items obtained exclusively from [The Harvestman](The_Harvestman.md).
+-   **The Harvestman**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items obtained exclusively from [The Harvestman](The_Harvestman.md).
     -   TBA
 
 ### Festival of a Billion Souls

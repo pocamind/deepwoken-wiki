@@ -1,6 +1,6 @@
 ---
 title: Ardenstar family
-revid: 233790
+revid: 234333
 source: https://deepwoken.fandom.com/wiki/Ardenstar_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Game-adjacent articles", Families and lineages]
@@ -22,4 +22,4 @@ The Ardenstar family is a noble family of [Lightborn](Lightborn.md).[\[1\]](#cit
 
 ## References
 
-1.  [↑](#cite-ref-1) [Lightborn](Lightborn.md) surname
+1.  [↑](#cite-ref-1) [Thorned Blazer](Thorned_Blazer.md)
