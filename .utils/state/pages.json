@@ -777,7 +777,7 @@
   },
   "2525": {
     "title": "Krulian Knife",
-    "lastrevid": 234335
+    "lastrevid": 234385
   },
   "2535": {
     "title": "Celestial",
@@ -2233,7 +2233,7 @@
   },
   "5464": {
     "title": "Faircloth Cloak",
-    "lastrevid": 234356
+    "lastrevid": 234384
   },
   "5513": {
     "title": "Chef Odiolavoro",
@@ -2649,7 +2649,7 @@
   },
   "6436": {
     "title": "Justicar (Origin)",
-    "lastrevid": 234337
+    "lastrevid": 234387
   },
   "6437": {
     "title": "Auroran Gremor",
@@ -3169,7 +3169,7 @@
   },
   "8133": {
     "title": "Oath: Silentheart",
-    "lastrevid": 233635
+    "lastrevid": 234388
   },
   "8134": {
     "title": "Oath: Oathless",
@@ -3661,7 +3661,7 @@
   },
   "9729": {
     "title": "Lysander Spellhardt",
-    "lastrevid": 224853
+    "lastrevid": 234389
   },
   "9737": {
     "title": "Tundra Spellhardt",
@@ -6317,7 +6317,7 @@
   },
   "18374": {
     "title": "Bloodbane",
-    "lastrevid": 230753
+    "lastrevid": 234391
   },
   "18411": {
     "title": "Authority Guard (disambiguation)",
@@ -9801,7 +9801,7 @@
   },
   "26553": {
     "title": "Bejeweled Clip",
-    "lastrevid": 229503
+    "lastrevid": 234383
   },
   "26587": {
     "title": "Amedan Temple",
@@ -9981,7 +9981,7 @@
   },
   "26963": {
     "title": "Familiar Sage's Armor",
-    "lastrevid": 234075
+    "lastrevid": 234395
   },
   "26965": {
     "title": "Familiar Prince's Armor",
@@ -10078,5 +10078,9 @@
   "27235": {
     "title": "Tien",
     "lastrevid": 234341
+  },
+  "27311": {
+    "title": "Free Trainings",
+    "lastrevid": 234394
   }
 }

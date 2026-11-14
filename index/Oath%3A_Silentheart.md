@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 233635
+revid: 234388
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -53,7 +53,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 This Oath is progressed via the killing of [Attunement Trainers](Attunement_Trainers.md) (excluding [Regek](Regek.md), and [Beatra](Beatra.md) ).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their locations.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their locations. However, you can choose to skip over one of them, as Silentheart can still be maxed without killing Adar as he does not currently spawn due to a bug.
 
 Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
 

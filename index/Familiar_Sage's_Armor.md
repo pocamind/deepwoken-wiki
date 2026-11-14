@@ -1,6 +1,6 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 234075
+revid: 234395
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -51,6 +51,7 @@ Some abilities can give you enough altitude required for [Lightning Drop](Talent
 -   [**Flame Leap**](Flamecharm.md#flame-leap) and [**Strong Leap**](Attunement-less.md#strong-leap) mantras
 -   Feinted reversal [**Flame Leap**](Flamecharm.md#flame-leap) mantra
 -   Feinted [**Heavenly Wind**](Galebreathe.md#heavenly-wind) mantra
+-   Being hit by Updraft and Rising Wind
 -   TBA
 
   

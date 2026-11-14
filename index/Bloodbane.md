@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 230753
+revid: 234391
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Greatswords, Heavy Weapons, Legendary Weapons]
@@ -48,7 +48,7 @@ Being knocked [Unconscious](Status_Effects.md#unconscious) with this weapon equi
 
 Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Blood Drinker**](Talents.md#blood-drinker) provides benefits to your weapon's basic attacks.
+[**Blood Drinker**](Talents.md#blood-drinker) provides benefits to your weapon's attacks.
 
 On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 

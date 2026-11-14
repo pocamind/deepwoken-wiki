@@ -1,6 +1,6 @@
 ---
 title: Bejeweled Clip
-revid: 229503
+revid: 234383
 source: https://deepwoken.fandom.com/wiki/Bejeweled_Clip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face]

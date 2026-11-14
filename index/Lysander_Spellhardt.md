@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 224853
+revid: 234389
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
@@ -24,6 +24,27 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
 Lysander asks you to gather the nessecary materials to craft a [Hallowtide Mask](Hallowtide_Mask.md). Once you have all the proper [ingredients](Hallowtide_Mask_Ingredients.md), which can be found in any chests, he will craft a Hallowtide Mask for you.
 
 Lysander sells you various [Hallowtide](Hallowtide.md)\-exclusive items for [Joy](Joy.md), though they are all usually comestics and or useful tools. Here are all the possible purchasable options from **Lysander Spellhardt**:
+
+**2026:**
+
+With 2026 Hallowtide, came with the '26 medal on top of the [equipments](Equipment.md) from last years.
+
+1.  [Relic](Relics.md) \[100 Joy\] - Gives you a random [Relic](Relics.md). All Relics have the same drop rate.
+2.  [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
+3.  [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
+4.  [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
+5.  [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) \[35 Joy\]
+6.  [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[35 Joy\]
+7.  [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
+8.  [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
+9.  [Hallowtide Race Variant](Hallowtide.md#aspect-variants) \[70 Joy\] - Unlocks a Hallowtide racial variant for all of your races. This purchase is account-wide, unlocking for your current and future slots and races.
+10.  [Hallowtide '26 Medal](Seasonal_Medals.md) \[300 Joy\] - Read Below
+11.  [Hallowtide '25 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+12.  [Hallowtide '24 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+13.  [Hallowtide '23 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+14.  [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+    -   Can be used to trade in your [Knowledge](Knowledge.md) in exchange for Hallowtide-exclusive items released during its respective year at a [Blacksmith](Blacksmith.md). Read more on [Seasonal Medals](Seasonal_Medals.md)
+        
 
 **2025:**
 
@@ -129,15 +150,16 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive head [equipments](Equipme
   Here you are... a very, very special Joy! Since I'm feeling generous today, I can induce the transformation now if you wish. Just pay me another visit.</td>
 </tr>
 <tr>
-  <td colspan="6">10. Hallowtide '25 Medal [300 Joy]<br>
-  11. Hallowtide '24 Medal [200 Joy]<br>
-  12. Hallowtide '23 Medal [200 Joy]<br>
-  13. Hallowtide '22 Medal [200 Joy]</td>
+  <td colspan="6">10. Hallowtide '26 Medal [300 Joy]<br>
+  11. Hallowtide '25 Medal [200 Joy]<br>
+  12. Hallowtide '24 Medal [200 Joy]<br>
+  13. Hallowtide '23 Medal [200 Joy]<br>
+  14. Hallowtide '22 Medal [200 Joy]</td>
   <td colspan="6">Here you are... a very, very special Joy! With this medal, seek out a Blacksmith and they should be able to assist you in recreating the joys of Hallowtide at any time.</td>
 </tr>
 <tr>
   <td colspan="6"><i><b>Only available after you bought Hallowtide Variant</b></i><br>
-  14. Alright, could you induce the Variant transformation now?</td>
+  15. Alright, could you induce the Variant transformation now?</td>
   <td colspan="6">*<i>He hands you a vial of crimson liquid. It smells rancid. You reluctantly down it.</i>* Think happy thoughts of Hallowtide as you drink this. Just maybe don't tell the <a href="Glossary.md#the-central-authority">Authority</a> about this little exchange...</td>
 </tr>
 <tr>
