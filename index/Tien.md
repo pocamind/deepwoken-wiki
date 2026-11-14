@@ -1,6 +1,6 @@
 ---
 title: Tien
-revid: 234008
+revid: 234341
 source: https://deepwoken.fandom.com/wiki/Tien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Reputation]
@@ -110,3 +110,7 @@ Tien is located along the shore of the connecting island to the [Isle of Vigils]
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   When the camera is clipped inside her [Alloyed Katana](Katana.md), the blade is a baby blue color.

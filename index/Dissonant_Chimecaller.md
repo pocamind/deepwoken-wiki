@@ -1,6 +1,6 @@
 ---
 title: Dissonant Chimecaller
-revid: 234317
+revid: 234381
 source: https://deepwoken.fandom.com/wiki/Dissonant_Chimecaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]

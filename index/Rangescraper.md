@@ -1,6 +1,6 @@
 ---
 title: Rangescraper
-revid: 230925
+revid: 234355
 source: https://deepwoken.fandom.com/wiki/Rangescraper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Named Weapons, Named Items, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Legendary Weapons]
@@ -33,7 +33,7 @@ categories: [Pathfinder Exclusive, Weapons, Named Weapons, Named Items, Weapons 
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Heart of Enmity (extremely rare) |
-| description | An unusual dagger owned by a once famous outlaw. The only details they gave on how their dagger worked was it "kinda was phasing in and out of reality". They also have claimed that it was created in the void sea, but is unsure who or what made it. |
+| description | Passing from one hand to another, the phantom of this blade seems to have been captured by the void. The uncanny way that it distorts the space around it no doubt contributes to it's fragility, though however many times it's shattered, it always reemerges. |
 
 Variants: [Gilded Knife](Gilded_Knife.md)
 
@@ -62,4 +62,6 @@ Rangescraper uses the default Dagger critical, a series of 3 quick slashes. The 
 ## Trivia
 
 -   Despite deteriorating into the [Gilded Knife](Gilded_Knife.md), the weapon more closely resembles the [Canor Fang](Canor_Fang.md).
+
 -   The first person to turn in the Rangescraper to the developer Agamatsu received the custom title "Diesel, One Who Scraped the Horizon."
+-   The previous description of the dagger was. "An unusual dagger owned by a once famous [outlaw](Unidentified_Outlaw.md). The only details they gave on how their dagger worked was it "kinda was phasing in and out of reality". They also have claimed that it was created in the [void sea](Voidsea.md), but is unsure who or what made it."

@@ -1,6 +1,6 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 224857
+revid: 234354
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests, Individuals with unspecified pronouns]
@@ -76,7 +76,7 @@ This dialogue is unlocked if the player uses the [Resting Emote](Emotes.md) whil
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>You are a good friend.</td>
+  <td>You are good friend.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

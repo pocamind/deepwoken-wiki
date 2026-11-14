@@ -1,6 +1,6 @@
 ---
 title: Mask of Phantoms
-revid: 234329
+revid: 234338
 source: https://deepwoken.fandom.com/wiki/Mask_of_Phantoms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Face, Masks, Hallowtide, Event Item]
@@ -30,5 +30,5 @@ The Mask of Phantoms is an [Equipment](Equipment.md) item under the "Face" categ
 
 ## Trivia
 
--   This mask may be a reference to the Phantom Thieves from Persona, as implied by the name. This may just be a coincidence however, as there isn't much of a visible resemblance outside of simply being a mask.
-    -   Additionally, the left and right variants may be a reference to or inspired by Rien from Limbus Company, but the visible eye makes this even more unlikely.
+-   This mask is a reference to [The Phantom of the Opera](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera).
+    -   The description "Masquerade! Paper faces on parade!" is a reference to the song "[Masquerade](https://www.youtube.com/watch?v=cE0ihjK8x14)" from [The Phantom of the Opera](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera).

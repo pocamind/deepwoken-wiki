@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 234312
+revid: 234336
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Treasures, Deep Gems]
@@ -35,6 +35,6 @@ If you have the [Critical Engine](Talents.md#critical-engine) Talent, you can ap
 
 Most Gems retain their original effect when being applied to your weapon critical, but [Blue Gems](Blue_Gem.md) have a completely unique one; upon landing your critical with a Blue Gem equipped, you will gain Ether back based on scaled damage dealt.
 
-## Other uses
+## Trivia
 
-Can be traded to [Jeremiah](Jeremiah.md) for a plethora of items.
+-   Deep Gems can be traded to [Jeremiah](Jeremiah.md) for a plethora of items.

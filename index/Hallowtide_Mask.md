@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 233898
+revid: 234357
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -82,6 +82,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Hoy, Well done, such joy! Now, show the world what thou canst do!" (Galpin Spellhardt)
 -   "HUTTAH- Oh, it's just you! Be careful, I almost knocked you out there!" ([Chud Steel](Chud_Steel.md))
 -   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
+-   "It'll take more to spook a Justicar like me." ([Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md))
 -   "Joyous Hallows to all!" (Brasidas Spellhardt)
 -   "Nothing compared to what I've seen." ([Akira](Akira.md))
 -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain." (The Meat Lord)
@@ -91,6 +92,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Oorah! Joyous festivities to you too, citizen!" (Chud Steel)
 -   "SHOW ME YOUR WAR FACE!" ([Drill Sergeant Kernel](Drill_Sergeant_Kernel.md))
 -   "Such a funny little tradition. I do like a game." (The Ferryman)
+-   "Such whimsy!" ([Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md))
 -   "What was that? I felt a calm breeze..." ([Stratos](Stratos.md))
 -   "What a foolish tradition." ([The Lord Regent](The_Lord_Regent.md))
 -   "You can't scare [the storm that is approaching](https://www.youtube.com/watch?v=pvy9km7g6fw), surface dweller." (Brasidas Spellhardt)
@@ -123,3 +125,5 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
     -   [Chud Steel](Chud_Steel.md)
     -   [Milgram](Milgram.md)
     -   [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)
+    -   [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md)
+    -   [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md)
