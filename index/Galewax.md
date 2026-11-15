@@ -1,6 +1,6 @@
 ---
 title: Galewax
-revid: 230619
+revid: 234401
 source: https://deepwoken.fandom.com/wiki/Galewax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables, Ingredients, Floor 1, Layer 2]
@@ -33,7 +33,7 @@ categories: [Items, Harvestables, Ingredients, Floor 1, Layer 2]
 ### Used in
 
 -   [Delver Boots](Delver_Boots.md) - 2 Galewax, 2x [Umbrite](Ores.md#umbrite), and 1 [Leather Boots](Leather_Boots.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md).
--   [Delver Boots](Delver_Boots.md) - 1 Galewax, 4x [Irithine](Ores.md#irithine), and 4 [Spark Glands](Spark_Gland.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md).
+-   [Wormwarder Lantern](Wormwarder_Lantern.md) - 1 Galewax, 4x [Irithine](Ores.md#irithine), and 4 [Spark Glands](Spark_Gland.md) at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md).
 
 ## Trivia
 

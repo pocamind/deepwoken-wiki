@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 233359
+revid: 234400
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Multiple Classes]
@@ -71,3 +71,4 @@ The cooldown for either critical is **10 seconds**.
 -   This weapon shares basic attack animations with the [Railblade](Railblade.md).
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
 -   This is one of few weapons that are considered to be in two weapon categories. See this page for more info.
+-   The Wyrmtooth is almost surely based on the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from elden ring, with the former's standing critical matching to the latter's ash of war [Piercing Fang](https://eldenring.wiki.fextralife.com/Piercing_Fang). The [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) is in turned based on Sephiroth's [Masamune](<https://finalfantasy.fandom.com/wiki/Masamune_(Final_Fantasy_VII)>) from Final Fantasy VII.

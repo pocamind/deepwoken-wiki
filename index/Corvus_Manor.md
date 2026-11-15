@@ -1,6 +1,6 @@
 ---
 title: Corvus Manor
-revid: 234191
+revid: 234408
 source: https://deepwoken.fandom.com/wiki/Corvus_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]

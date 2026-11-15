@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 211591
+revid: 234424
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -11,20 +11,12 @@ categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
 | Heliodar | |
 |---|---|
 | obtained_by | 1% Roll Chance (Vow of Iron) |
-| appearance | Orange skin with orange eyes, red hair and a orange glowing pendant. |
-| traits | Heliodar Wings |
-
-| Heliodar (Exclusive version) | |
-|---|---|
-| obtained_by | Unobtainable |
-| appearance | Orange skin with orange eyes, red hair and a orange glowing pendant., Default Variant:, Eye Color #ffffff, Hair Color #7c0000, Sclera Color #ffaa7f, Skin Color #bf6233, Tattoo Color #ffda6b, Eclipse Variant:, Description: For what if the Ash were to never return to flames?, Eye Color #ffee00, Hair Color #000000, Sclera Color #ffaa7f, Skin Color #bf8a64, Tattoo Color #000000, Variant ID 2, Scarlet Mark Variant:, Description: Rise from the ashes and be born again., Eye Color #ffffff, Hair Color #7c0000, Sclera Color #ffaa7f, Skin Color #bf6233, Tattoo Color #550000, Variant ID 2 |
+| appearance | Orange skin with orange eyes, red hair and an orange glowing pendant., Default Variant:, Eye Color #ffffff, Hair Color #7c0000, Sclera Color #ffaa7f, Skin Color #bf6233, Tattoo Color #ffda6b, Eclipse Variant:, Description: For what if the Ash were to never return to flames?, Eye Color #ffee00, Hair Color #000000, Sclera Color #ffaa7f, Skin Color #bf8a64, Tattoo Color #000000, Variant ID 2, Scarlet Mark Variant:, Description: Rise from the ashes and be born again., Eye Color #ffffff, Hair Color #7c0000, Sclera Color #ffaa7f, Skin Color #bf6233, Tattoo Color #550000, Variant ID 2 |
 | traits | Heliodar Wings |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 While for regular players this aspect is only for Vow of Iron, this aspect may be accessed outside of Vow of Iron only by Content Creators or other exclusive members.
-
-  
 
 Rise from the ashes and be born again.
 
@@ -34,9 +26,7 @@ Chance of obtaining aspect: **N/A** / **1%** ([Vow of Iron](Vow_of_Iron.md))
 
 ## Description
 
-"The Phoenix aspect" - An entirely new [aspect](Aspects.md) which resembles the [Tiran](Tiran.md). Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The aspect also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
-
-Eclipse (Racial Variant likely) - "For what if the Ash were to never return to flames?"
+The Heliodar is an [Aspect](Aspects.md) resembling the [Tiran](Tiran.md) in more peculiar traits, sharing reminiscent skin, hair, and eye ring. Yet its colors are redder and orange and star shaped eyes. They have orange eyes that emit a faint fiery glow, similar to [Visionshaper](Oath%253A_Visionshaper.md) but smaller and from both eyes. The aspect is also distinguished by a unique equipment known as the [Emberseal Pendant](Emberseal_Pendant.md) worn around the neck and [Solfeather Earrings](Solfeather_Earrings.md).
 
 ## Aspect Traits
 
@@ -84,7 +74,7 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 **Lore:**
 
   
-In the Vow of Iron update, were confirmed to be directly related to Tirans, having gained the favor of Rukh and transformed into Heliodar.
+The Heliodar were once [Tiran](Tiran.md), but after bonding with a [phoenix](Solborn.md), they earned the favor of Rukh and were turned into the Heliodar.
 
 **Strengths:**
 
@@ -93,18 +83,14 @@ In the Vow of Iron update, were confirmed to be directly related to Tirans, havi
 -   +2 Agility
 -   +2 Intelligence
 -   Heliodar Wings
--   Drip: Earrings, Amulet/Pendant, Glowing Eyes
+-   Equipment: [Solfeather Earrings](Solfeather_Earrings.md), [Emberseal Pendant](Emberseal_Pendant.md), Glowing Eyes
     
-
-**Weaknesses:**
-
-  
 
 **Surnames:**
 
   
 
--   Heliodars don't actually spawn in with surnames, which sets them apart from every other aspect in Deepwoken.
+-   Heliodars don't have surnames, which sets them apart from every other aspect in Deepwoken.
     
 
 ## Features
@@ -118,17 +104,6 @@ Heliodar has a set of optional face markings that come in a variety of colors de
 **Eclipse:**
 
 **Scarlet:**
-
-## Users
-
--   Zartania
--   Dexerius
--   Estheking
--   Ettheking
--   rJeneration
--   yayafino
--   GunChowDa
--   Infektedskrpion
 
 ## Trivia
 

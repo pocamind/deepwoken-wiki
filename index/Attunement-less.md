@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 234343
+revid: 234399
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -51,7 +51,7 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 ## Attribute Mantras
 
--   These Mantras are based on your attributes, not your Attunements.
+-   These Mantras are based on your core attributes and weapons, not your [Attunements](Attunements.md).
 -   Their damage/efficiency scales with the attribute's level.
 -   Although the Mantras have nothing to do with Attunements, having an Attunement can sometimes make certain Attunement-**less** Mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
 -   _(Side Note: Do not confuse upgrading Mantras at trainers with using modifiers.)_
@@ -122,13 +122,13 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
+**Effect:** _User unleashes a powerful left cross that knocks their opponent away, ragdolling and knocking back in the process._
 
--   Has a base damage of 15/22.5/30/37.5/45 per level with 1.65 Strength scaling.
--   Deals 22/24/26/28/30 posture damage per level.
+-   Has a base damage of 15/22.5/30/37.5/45 at each level with 1.65 Strength scaling.
+-   Deals 22/24/26/28/30 posture damage at each level.
 -   Has a wind-up of 0.55s, and an endlag of 0.25s (0.35s if whiffed).
 -   Deals increased damage to trees if you have the [Treefelling Blow](Talents.md#treefelling-blow) Talent.
--   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
+-   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5. This has a 60 seconds cooldown.
 
  |
 | 
@@ -165,11 +165,11 @@ Blunt ResistanceBlunt
 
 **Effect:** _User launches a flurry of punches that inflicts light damage on their opponent._
 
--   Has a base damage of 8/8.25/8.5/8.75/9 per level, per hit (10), with 1.65 Strength scaling.
+-   Has a base damage of 8/8.25/8.5/8.75/9 at each level, per hit (10), with 1.65 Strength scaling.
 -   Deals 1 posture damage per hit (10).
 -   Has an initial wind-up of 0.45s with a 0.125s wind-up in between each hit.
 -   The move is cancelled upon getting parried in the initial hit.
--   The user may cancel the barrage at any point during it by pressing their feint key.
+-   The user may cancel the barrage at any point by feinting.
 -   Victims struck by the last punch are pushed away.
 -   360 degree blockable.
 -   Can be modified with lenses to increase the initial dash distance.
@@ -208,9 +208,9 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _User throws a piece of the ground that goes straight in the direction their character (not the camera) is looking at._
+**Effect:** _User throws a piece of the ground that goes straight in the direction their character is facing._
 
--   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling
+-   Has a base damage of 20/30/40/50/60 at each level with 1.65 Strength scaling
 -   69.9 damage at 100 Strength level 5
 -   Victims crushed by the rock will be dazed and will be thrown away.
 
@@ -249,13 +249,13 @@ Blunt ResistanceBlunt
 
 **Effect:** _User performs a long wind-up before unleashing two devastating kicks._
 
--   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
+-   Has a base damage of 20/30/40/50/60 at each level, per kick, with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5, per kick.
--   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
+-   Deals 17.6/19.2/20.8/22.4/24 posture damage at each level on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
 -   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
 -   Has a range of 20 studs.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
-    -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground.
+    -   [Round Spark](Mantra_Modifiers.md#sparks)'s variant does the same damage as a single kick from the base variant.
 
  |
 | 
@@ -292,10 +292,10 @@ N/A
 
 **Effect:** _User jumps vertically into the air._
 
--   Altitude travelled decreases significantly as the user loses health.
+-   Strength of the jump decreases significantly as the user loses health.
 -   Drops carried players/NPCs when used.
--   Fall damage is taken if the user gets high enough.
--   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
+-   Does not give immunity to fall damage.
+-   No noticeable difference in strength when gaining levels.
 -   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway) and [Flame Leap](Flamecharm.md#flame-leap).
 
  |
@@ -331,12 +331,12 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _User utilizes Tacet then teleports themselves above an opponent before hitting them with a kick._
+**Effect:** _User utilizes Tacet teleporting themselves above an opponent before hitting them with a falling axe kick._
 
--   Has a base damage of 15/18/21/24/27 with 1.65 Strength scaling.
+-   Has a base damage of 15/18/21/24/27 at each level with 1.65 Strength scaling.
 -   Inflicts knockdown.
 -   Lands 15% faster while wielding [Jus Karita](Jus_Karita.md).
--   Requirements are increased if you have an Attunement.
+-   Requirements are increased if you have an Attunement, like Revenge.
 -   Can still be used after removing [Tacet](Murmur%253A_Tacet.md).
 -   22 second cooldown.
 
@@ -373,15 +373,15 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _User grabs their opponent with a parryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._ (GIF outdated)
+**Effect:** _User swings their arm launching a parry-able grab, before throwing the victim towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._ (GIF outdated)
 
 -   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
--   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
+-   The second hit has a base damage of 15/17/19/21/23 at each level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 -   Can ragdoll other enemies and damage them if they get flung in their direction.
 -   Does not deal damage to bigger monsters like the Prime Golem or the Alpha Megalodaunt.
--   Using this Mantra in the air allows you to aim freely but they will still be flung afterwards.
+-   Using this Mantra in the air allows you to aim 360°.
 
  |
 
@@ -453,7 +453,7 @@ Blunt ResistanceBlunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   Has a base damage of 9.9/13.05/16.20/19.35/22.5 per level with 1.65 Fortitude scaling.
+-   Has a base damage of 9.9/13.05/16.20/19.35/22.5 at each level with 1.65 Fortitude scaling.
 -   Deals 8 posture damage.
 -   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Shoulder Bash duration scales with your Fortitude attribute.
@@ -497,7 +497,7 @@ N/A
 
 **Effect:** _User drums their shield before lowering the posture of nearby allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
 
--   Restores 5/6/7/8/9 posture on cast, per level.
+-   Restores 5/6/7/8/9 posture at each level.
 -   Rally has a 15 second duration. This duration can be increased further with [Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Rally cannot be casted if you don't have a shield equipped or if your shield is on your back. Attempting to cast Rally like this will consume your Ether and do nothing.
 -   If a Rally buffed ally parries, it restores the Rally caster's posture.
@@ -543,9 +543,9 @@ N/A
 -   The damage reduction can be reduced by PEN, but PEN has halved effectiveness on it.
     -   E.g. 100% PEN lowers Reinforce's defense buff to 5%.
 -   Reinforce's Duration and Cooldown scale on level.
-    -   Reinforce lasts 20/21.5/23/24.5/26 seconds per level.
-    -   Reinforce has a 55/50/45/40/35 second cooldown per level.
--   When holding your block button during Reinforce's wind-up, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
+    -   Reinforce lasts 20/21.5/23/24.5/26 seconds at each level.
+    -   Reinforce has a 55/50/45/40/35 second cooldown at each level.
+-   When holding your block button during Reinforce's wind-up, Reinforce's effects turn green. This buffs non-allied humanoids, and mobs.
 -   Shares a cooldown with [Iceberg](Frostdraw.md#iceberg).
 -   Can be upgraded with the [Grand Support](Talents.md#grand-support) Talent, healing yourself and allies when you buff at least one ally with your Reinforce. This heals 3% of affected players' maximum HP.
 -   Can be upgraded with the [Lord's Tithe](Talents.md#lords-tithe) Talent, stealing Ether from buffed targets or Health from PvE enemies.
@@ -585,7 +585,7 @@ N/A
 
 **Effect:** _User prepares themselves and turns red, gaining hyperarmor and negating hitstun for the duration of the effect._
 
--   Brace lasts 5/5.75/6.5/7.25/8 seconds per level.
+-   Brace lasts 5/5.75/6.5/7.25/8 seconds at each level.
 -   Hyperarmor ends early if you cast a Mantra.
 
  |
@@ -651,26 +651,25 @@ Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
-5 Agility,20 Agility if you have an Attunement
+5 Agility, 20 Agility if you have an Attunement
 
  |
 | 
 
-**Effect:** _User quickly dashes forward and creates a red-line effect._
+**Effect:** _User draws back their weapon before rushing forward while striking leaving a red streak in their wake._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16[/17/18/19](<Inquisitor's_Thorn.md>) per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
+-   Has a base damage of 12/13/14/15/16[/17/18/19](<Inquisitor's_Thorn.md>) at each level with 1.65 agility scaling and innate [bleed](Status_Effects.md#bleed).
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
--   This Mantra has innate [Bleed](Status_Effects.md#bleed), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
--   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
+-   This Mantra has innate [Bleed](Status_Effects.md#bleed), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers.
+-   The damage of the move scales with how much HP the user has left starting below 50%, dealing more damage with less HP. The Bleed's damage does not scale.
     -   This bonus damage scales up to 4 times damage at 5% health, but Revenge's health scaling will cap at Revenge dealing 50 damage regardless of level/Agility investment.
--   Can be upgraded with the [Pursuit](Talents.md#pursuit) Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
-    -   Pursuit procs even when the Mantra is parried, blocked, dodged, or even vented, but this may be a bug.
--   Can be upgraded with the [Crippling Comeuppance](Talents.md#crippling-comeuppance) Talent, which makes your Revenge put your opponent's mobility slot Mantras on a 15 second cooldown if you land your Revenge. This Talent has a 30 second cooldown.
--   Wayward Gem does **NOT** proc on Revenge
--   Can be upgraded with Drift/Rush Shards to increase Revenge's range.
+-   Can be upgraded with the [Pursuit](Talents.md#pursuit) Talent, clearing its cooldown if it hits. This will proc on parry/block/dodge or even vent. This talent has a 25 second cooldown.
+-   Can be upgraded with the [Crippling Comeuppance](Talents.md#crippling-comeuppance) Talent, which makes your Revenge put your opponent's mobility slot Mantras on a 15 second cooldown if you land your Revenge. Alternatively it inflicts [Sluggish](Status_Effects.md#sluggish) in PvE. This Talent has a 30 second cooldown.
+-   Wayward Gem does not proc on Revenge.
+-   Can be upgraded with Drift/Rush Shards to increase range.
 
  |
 | 
@@ -709,7 +708,7 @@ Blunt ResistanceBlunt
 
 -   The damage scales with agility.
 -   Feinting after the first attack will instantly use the second.
--   Upgraded with Agility and not Strength.
+-   Only upgrades with Agility and not with Strength.
 
  |
 | 
@@ -744,13 +743,13 @@ N/A
  |
 | 
 
-**Effect:** _User sends themselves a considerable distance forward_
+**Effect:** _User kicks off with their feet, dashing forward a considerable distance._
 
 -   Range significantly decreases as the user loses health.
 -   Canceled by attacking.
 -   Upgrading the level makes the dash longer.
 -   Can be modified with Crystal/Perfect Lenses to make it slightly longer.
--   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
+-   Can be modified with a Spring Spark to split the dash into two seperate (shorter) uses.
 -   This Mantra was formerly named 'Dash'.
 
  |
@@ -786,7 +785,7 @@ N/A
  |
 | 
 
-**Effect:** _User activates an inner surge of energy_
+**Effect:** _User places a hand to their chest, suffusing adrenaline like mobility into their body._
 
 -   Grants a speed boost for 10/12/14/16/18[/20/22/24](<Inquisitor's_Thorn.md>) seconds per level.
 -   Has a cooldown of 60/55/50/45/40[/35/30/25](<Inquisitor's_Thorn.md>) seconds per level.
@@ -797,7 +796,7 @@ N/A
 
 ### _Intelligence Mantras_
 
-Intelligence Mantras act as "wildcards" in the user's arsenal as they complement existing Mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
+Intelligence Mantras act as "wildcards" in the user's arsenal as they complement existing Mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources, and concoct potions.
 
 | 
 **Name**
@@ -863,13 +862,12 @@ Typeless
 
 **Effect:** _User rises up in the air, and launches 4 orbs of Ether toward their cursor that explode and ragdoll on impact._
 
--   Has a base damage of 6/6.5/7/7.5/8 per level, per hit (6) with 1.65 Intelligence scaling.
+-   Has a base damage of 6/6.5/7/7.5/8 at each level, per hit (6) with 1.65 Intelligence scaling.
 -   Deals 0 posture damage.
 -   0.65s wind-up.
 -   10s cooldown.
--   In shiftlock it will head directly forward but can be manually aimed.
--   When close enough to the enemy, the orbs will autotrack.
-    -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase how far you can be for it to autotrack.
+-   Aiming in shiftlock will launch the orbs the way you're facing targeting an enemy if one is in its path.
+    -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase autotracking range.
 
  |
 | 
@@ -908,7 +906,7 @@ Typeless
 
 -   **Deflects** an attack back to the attacker.
 -   Prediction cannot proc anything that procs "on hit" such as [Deep Gems](Deep_Gems.md).
--   Upgrading this Mantra extends the 'prediction' frames (iframes).
+-   Leveling this Mantra extends the 'prediction' frames (iframes).
 -   Can be upgraded with the [All Knowing](Talents.md#all-knowing) Talent, removing the range limit Prediction normally has.
 -   Can be upgraded with the [Successive Prediction](Talents.md#successive-prediction) Talent, which allows you to predict multihits, as it grants a brief window of auto prediction.
 -   Can be upgraded with the [Twelve Steps Ahead](Talents.md#twelve-steps-ahead) Talent, halving Prediction's cooldown on successful Prediction (minimum 2s) and doubling Prediction's cooldown if you whiff it (maximum 30s). Going 30s without using Prediction will reset this effect.
@@ -950,7 +948,7 @@ N/A
 **Effect:** _Teleport a short distance towards the direction you're moving._
 
 -   Upgrading the Mantra decreases its cooldown by 2.5s per level.
-    -   15/12.5/10/7.5/5 second cooldown per level.
+    -   15/12.5/10/7.5/5 second cooldown at each level.
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing.
 -   The distance teleported will be reduced if you aren't moving when you cast the Mantra.
@@ -1067,10 +1065,10 @@ Slash ResistanceSlash
  |
 | 
 
-**Effect:** _User pulls their arm back and then transfers their posture damage to their opponent._
+**Effect:** _User pulls their arm back before striking forward with a lunge transferring some of their built up posture to their opponent'.'_
 
--   Has a base damage of 20/22/24/26/28 damage per level with 1.65 Willpower scaling.
--   Transfers 20%/30%/40%/50%/60% of your current posture per level.
+-   Has a base damage of 20/22/24/26/28 damage at each level with 1.65 Willpower scaling.
+-   Transfers 20%/30%/40%/50%/60% of your current posture at each level.
 -   The posture transfer cannot guardbreak.
 -   Has 0.5s wind-up with 0.3s of endlag.
 
@@ -1115,8 +1113,9 @@ N/A
 -   This move causes humanoid NPCs to block less.
 -   Parry window is at the end of the first flash.
 -   Shares a cooldown with [Sing](Attunement-less.md#sing).
--   **Cannot proc [Deep Gems](Deep_Gems.md)**
--   Can be upgraded with the [Peripheral Vision](Talents.md#peripheral-vision) Talent, allowing Glare to hit enemies without them having to face you.
+-   **Cannot proc [Deep Gems](Deep_Gems.md)** excluding Blue Gem.
+-   Opponents must be facing you for it to hit.
+    -   Can be upgraded with the [Peripheral Vision](Talents.md#peripheral-vision) Talent, allowing Glare to hit enemies without them needing to face you.
 
  |
 | 
@@ -1154,7 +1153,7 @@ N/A
 **Effect:** _User casts a penetrating gaze, frightening all opponents they make eye contact with_
 
 -   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
-    -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
+    -   Shadow insanity doesn't actually reduce your sanity, instead causing the effect of tier 1 insanity (shivering)
 -   Upgrading this Mantra extends the duration.
     -   At level 5 it lasts 12 seconds.
 -   Deals 3 damage per tick with no posture damage.
@@ -1231,9 +1230,9 @@ N/A
 
 **Effect:** _User taunts their opponent, signified by red particles. Affected targets deal 10% more damage, but attacks against them deal 20% more damage._
 
--   Inflicts Taunt for 11/12/13/14/15 seconds per level.
+-   Inflicts Taunt for 11/12/13/14/15 seconds at each level.
 -   Affected entities receive 20% more damage, but deal 10% more damage to the caster.
-    -   This is applied as a damage modifier to the person hitting the Taunted player. Meaning that Taunt is affected by the damage modifier caps.
+    -   This is applied as a damage modifier to the person hitting the Taunted player. This means that Taunt is affected by the damage modifier caps.
 -   Affected entities become unable to jump.
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the [Off your Game](Talents.md#off-your-game) Talent, allowing you to slow Taunted opponents when hitting them.
@@ -1274,7 +1273,7 @@ N/A
  |
 | 
 
-**Effect:** _User creates a tune with their voice that charms nearby opponents_
+**Effect:** _User sings a note that charms nearby opponents_
 
 -   Inflicts Charm on nearby entities for 10 seconds.
 -   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
@@ -1318,16 +1317,15 @@ Blunt ResistanceBlunt
 
 **Effect:** _User lunges at the opponent to grab them. On contact with a target, they hold them while whispering dark truths in their ear._
 
--   Deals a base damage of 10/12/14/16/18 per level with 1.65 Charisma scaling.
+-   Deals a base damage of 10/12/14/16/18 at each level with 1.65 Charisma scaling.
 -   Dread Whisper's damage will slightly scale on how insane your opponent is.
--   Landing Dread Whisper multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
-    -   Dread Whisper must be landed again within 15s of landing the previous one to gain/retain the damage buff.
+-   Landing Dread Whisper within 15 seconds of itself will increase the damage by 50%. This damage buff does **not** stack with itself, and its duration is reset upon being landed(?).
 -   10 Second cooldown, shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 -   Deals 6 posture damage.
 -   Has an wind-up of 0.4s, and an endlag of 1.95s (0.25s if whiffed).
 -   Inflicts Charm for 7.5s on hit.
     -   Because of this, it will instantly proc [Narcissist](Talents.md#narcissist)'s [Overcharm](Status_Effects.md#overcharm) if you have the Talent.
--   Is unventable.
+-   Target cannot vent to escape the grab.
 -   Does **not** apply insanity.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
@@ -1370,7 +1368,7 @@ N/A
 **Effect:** _User turns into their disguise with a puff of smoke effect_
 
 -   Obtained by finding an NPC named [Mime](Mime.md) and killing Mineskippers.
--   Despite what is showcased in the gifs, Disguise is not a ritual cast Mantra.
+-   Despite what is showcased in the gifs, Disguise is no longer a ritual cast Mantra.
 -   Modifying the Mantra alters what you are disguised as.
     -   Barrel: No Sparks
     -   Statue: 1 Reversal Spark
@@ -1457,7 +1455,7 @@ Slash ResistanceSlash
 -   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base (slash) damage per level with 1.65 Light Weapon scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.67 seconds.
--   Upgrading the Mantra increases teleportation range.
+-   Leveling the Mantra increases teleportation range.
 -   Teleports the user to the enemy the cursor is pointed at.
 -   The base damage is **doubled** when wielded with the [Silver Dagger](Silver_Dagger.md).
 -   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
@@ -1502,7 +1500,7 @@ Slash ResistanceSlash
 -   Damage ramps up on each hit.
 -   Deals 20 > 25 > 30 > 35 > 40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
 -   After each hit, three damage ticks will follow. These scale on your Mantra's level.
-    -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
+    -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage at each level, per hit (3) with 1.65 Light Weapon scaling.
 -   The hitbox of this attack is shaped like a wide cone in front of you. Although the secondary slashes only hit one person, anyone inside of the hitbox of your attack will take the base damage of the Mantra.
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
 -   Constantly consumes Ether while invisible.
@@ -1546,7 +1544,7 @@ Blunt ResistanceBlunt
 
 **Effect:** _User jumps into the air and slams down_
 
--   Deals 20/22/24/26/28 base damage per level with 1.65 Light Weapon scaling.
+-   Deals 20/22/24/26/28 base damage at each level with 1.65 Light Weapon scaling.
 -   Wind-up is **HEAVILY** reduced upon being used directly after Karita Leap.
 -   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
@@ -1585,7 +1583,7 @@ Blunt ResistanceBlunt
 
 **Effect:** _User thrusts themself forward with a kick, ragdolling opponents and leaping back into the air if they hit a wall._
 
--   Deals 30/33/36/39/42 base damage per level with 1.65 Light Weapon scaling.
+-   Deals 30/33/36/39/42 base damage at each level with 1.65 Light Weapon scaling.
 -   Hitting a wall causes you to backflip.
 -   Gains +30% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
@@ -1657,14 +1655,14 @@ Slash ResistanceSlash
 
 **Effect:** _User performs a spinning double slice with their sword._
 
--   The first hit has a base damage of 3/6/9/12/15[/18/21/24/27/30](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
--   The second hit has a base damage of 5.4/10.8/16.2/21.6/27[/32.4/37.8/43.2/48.6/54](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
+-   The first hit has a base damage of 3/6/9/12/15[/18/21/24/27/30](Wyrmtooth.md) base damage at each level with 1.65 Medium Weapon scaling.
+-   The second hit has a base damage of 5.4/10.8/16.2/21.6/27[/32.4/37.8/43.2/48.6/54](Wyrmtooth.md) base damage at each level with 1.65 Medium Weapon scaling.
 -   Deals 5 posture damage per hit (2).
 -   Initial hit has 0.525 wind-up with the follow-up having 0.4s wind-up.
 -   0.35s endlag.
 -   Has 37% chip damage.
 -   Knocks the opponent back in the direction the user is facing.
--   Can be modified with a Glass/Magnifying stone to make it bigger up to +9.
+-   Can be modified with a Glass/Magnifying stone to increase size, capping at +9.
 -   Wielding the [Vigil Longsword](Vigil_Longsword.md) makes your Master's Flourish bigger and allows it to proc "on flourish" effects.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
 -   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
@@ -1704,11 +1702,11 @@ Slash ResistanceSlash
 
 **Effect:** _User locks onto all the closest targets that are in range, then dashes forward and performs a large AoE slice._
 
--   Deals 9/17/25/33/41[/49/57/65/73/81](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
+-   Deals 9/17/25/33/41[/49/57/65/73/81](Wyrmtooth.md) base damage at each level with 1.65 Medium Weapon scaling.
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Deals 5 posture damage.
--   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
--   Having the [Forgotten Gladius](Forgotten_Gladius.md) equipped will heavily decrease its windup.
+-   Has a wind-up of 0.55 seconds with an endlag of 0.2 seconds.
+-   Having the [Forgotten Gladius](Forgotten_Gladius.md) equipped will decrease its windup by 0.1s.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
 -   Gains additional true damage scaling on your Willpower investment if you are wielding the [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 -   Using this mantra without a medium weapon reduces its maximum range.
@@ -1748,8 +1746,8 @@ Slash ResistanceSlash
 
 **Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
 
--   The first hit has 9/10.2/11.4/12.6/13.8[/15/16.2/17.4/18.6/19.8](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
--   The second hit has 18.75/21.25/23.75/26.25/28.75[/31.25/33.75/36.25/38.75/41.25](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
+-   The first hit has 9/10.2/11.4/12.6/13.8[/15/16.2/17.4/18.6/19.8](Wyrmtooth.md) base damage at each level with 1.65 Medium Weapon scaling.
+-   The second hit has 18.75/21.25/23.75/26.25/28.75[/31.25/33.75/36.25/38.75/41.25](Wyrmtooth.md) base damage at each level with 1.65 Medium Weapon scaling.
 -   Deals 6.75 posture damage per hit (2).
 -   Initial hit has a wind-up of 0.5s, with the follow-up attack having a 0.4s wind-up.
 -   Twincleave has an endlag of 0.4s.
@@ -1796,7 +1794,7 @@ Slash ResistanceSlash
 -   Deals 16 posture damage and is 360 blockable.
 -   Has a 25 second cooldown.
 -   Has a 0.55s wind-up.
--   Landing the first slash refreshes the Mantra, allowing it to be used again at any time.
+-   Landing the first slash refreshes the Mantra, allowing it to be used again.
     -   If used again within 15 seconds, the Mantra will go on cooldown.
 -   Even if blocked, the cooldown of this Mantra will still reset. This is incredibly useful for block pressure.
 -   Due to it being aimed with the camera, it can be a very useful tool for aerial mobility.
@@ -1840,7 +1838,7 @@ Slash ResistanceSlash
 
 **Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
 
--   Deals 20/22/24/26/28[/30/32/34/36/38](Wyrmtooth.md) base damage with 1.65 Medium Weapon scaling.
+-   Deals 20/22/24/26/28[/30/32/34/36/38](Wyrmtooth.md) base damage at each level, with 1.65 Medium Weapon scaling.
 -   Deals 12 posture damage.
 -   Uppercuts.
 -   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
@@ -1914,7 +1912,7 @@ Slash ResistanceSlash
 
 **Effect:** _User performs a heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback._
 
--   Deals 8/10.5/13/15.5/18[/20.5/23/25.5/28/30.5](Wyrmtooth.md) base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
+-   Deals 8/10.5/13/15.5/18[/20.5/23/25.5/28/30.5](Wyrmtooth.md) base damage at each level, per hit (3) with 1.65 Heavy Weapon scaling.
 -   Deals 12 posture damage per hit (3).
 -   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
@@ -1955,12 +1953,12 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
  |
 | 
 
-**Effect:** _User does an initial swing with a second long wind-up, then kicks the enemy into the air, followed by kicking them away._
+**Effect:** _User winds up for a second before swinging down, then kicking the enemy into the air, following by kicking them away again._
 
--   Initial hit deals 30/32/34/36/38[/40/42/44/46/48](Wyrmtooth.md) base damage per level with 1.65 Heavy Weapon scaling.
--   The kicks deal 15/16/17/18/19[/20/21/22/23/24](Wyrmtooth.md) base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
+-   Initial hit deals 30/32/34/36/38[/40/42/44/46/48](Wyrmtooth.md) base damage at each level with 1.65 Heavy Weapon scaling.
+-   The kicks deal 15/16/17/18/19[/20/21/22/23/24](Wyrmtooth.md) base damage at each level, per hit (2) with 1.65 Heavy Weapon scaling.
 -   Deals 20/22/24/26/GB posture damage per level on the first hit. The second hit always deals 4 posture damage.
-    -   Initial hit instantly guard breaks at level 5.
+    -   First hit instantly guard breaks at level 5.
 -   The final hit applies **[True Daze](Status_Effects.md#true-daze)**.
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
@@ -2003,8 +2001,8 @@ Slash ResistanceSlash
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
 -   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish).
--   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
--   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack.
+-   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage at each level of this attack. Punishment has 1.65 **Agility** scaling.
+-   Deals 10/15/20/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
 -   The follow-up attack has a staggeringly short 0.35 second windup, making it very hard to react to. That being said, this attack is still parryable.
 
