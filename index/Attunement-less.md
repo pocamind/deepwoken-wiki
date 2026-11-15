@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 234399
+revid: 234430
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -211,7 +211,6 @@ Blunt ResistanceBlunt
 **Effect:** _User throws a piece of the ground that goes straight in the direction their character is facing._
 
 -   Has a base damage of 20/30/40/50/60 at each level with 1.65 Strength scaling
--   69.9 damage at 100 Strength level 5
 -   Victims crushed by the rock will be dazed and will be thrown away.
 
  |

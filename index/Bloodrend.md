@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 234278
+revid: 234431
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -147,14 +147,14 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Base:**
 
--   Has a base damage of 14.5/19/23.5/28/32.5 per level, with 2.75 Bloodrend scaling.
+-   Has a base damage of 14.5/19/23.5/28/32.5 at each level, with 2.75 Bloodrend scaling.
 -   Deals 8 posture damage.
     
 
 **Multiplying Spark:**
 
 -   When modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), the user will throw three orbs in a frontal cone. Each orb deals less damage and posture damage than the no-Spark variant.
--   Has a base damage of 6.83/8.33/11.33/12.83 per level, per hit (3), with 2.75 Bloodrend scaling.
+-   Has a base damage of 6.83/8.33/11.33/12.83 at each level, per hit (3), with 2.75 Bloodrend scaling.
 -   Deals 2 posture damage per hit (3).
 -   Notably, all three orbs leave behind a blood pool.
 
@@ -193,7 +193,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Launch a crucifix-shaped projectile at the cursor's position._
 
--   Has a base damage of 16/22/28/34/40 per level, with 2.75 Bloodrend scaling.
+-   Has a base damage of 16/22/28/34/40 at each level, with 2.75 Bloodrend scaling.
 -   Deals 13 posture damage.
 -   Has a 10s CD and 0.7s of windup.
 -   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
@@ -232,7 +232,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](Skyreap_Blade.md) in a blood red color and rush forward, hitting any target(s) in its way._
 
--   Has a base damage of 16/20/24/28/32 per level, with 2.75 Bloodrend scaling.
+-   Has a base damage of 16/20/24/28/32 at each level, with 2.75 Bloodrend scaling.
 -   Deals 15 posture damage.
 -   Has a 10s CD and 0.5s of windup.
 -   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
@@ -269,7 +269,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Conjure a stake of blood near the character that locks onto an enemy and impales them. If any Blood Pools are nearby, additional stakes will be conjured from them for more devastation._
 
--   Has a base damage of 5/6/7/8/9 per level, per stake, with 2.75 Bloodrend scaling.
+-   Has a base damage of 5/6/7/8/9 at each level, per stake, with 2.75 Bloodrend scaling.
 -   Deals 2 posture damage per stake.
 -   Has a 14s CD with 1.15s of windup.
 -   Spawns 2 minimum stakes at level 1, with every level increasing the minimum stake count by 1, for up to 6 minimum stakes at level 5.
@@ -308,7 +308,7 @@ Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   Has a base damage of 18.5/26/33.5/41/48.5 per level, with 2 Bloodrend scaling.
+-   Has a base damage of 18.5/26/33.5/41/48.5 at each level, with 2 Bloodrend scaling.
 -   Deals 14 posture damage.
 -   Has innate [Bleed](Status_Effects.md#bleed).
 -   Has a 10s CD with 0.75s of windup.
@@ -349,7 +349,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on their impact location. Activating the Mantra again recall the daggers back to the caster, hitting any targets in their path._
 
--   Has a base damage of 4.75/5.5/6.25/7/7.75 per level, per hit, with 2.75 Bloodrend scaling.
+-   Has a base damage of 4.75/5.5/6.25/7/7.75 at each level, per hit, with 2.75 Bloodrend scaling.
 -   Deals 4 posture damage per hit.
 -   Has a 15s CD with 0.6s of windup.
 -   The projectile count doubles from 3 to 6 at level 5.
@@ -389,7 +389,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground._
 
--   Has a base damage of 8/10/12/14/16 per level, per hit (3), with 2.75 Bloodrend scaling.
+-   Has a base damage of 8/10/12/14/16 at each level, per hit (3), with 2.75 Bloodrend scaling.
 -   Deals 5 posture damage per hit (3).
 -   Has a CD of 10.5s with 0.6s of windup.
 -   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
@@ -426,8 +426,8 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack._
 
--   The first hit has a base damage of 15/20/25/30/35 per level, with 2.75 Bloodrend scaling.
--   The second hit has a base damage of 7.5/10/12.5/15/17.5 per level, with 2.75 Bloodrend scaling.
+-   The first hit has a base damage of 15/20/25/30/35 at each level, with 2.75 Bloodrend scaling.
+-   The second hit has a base damage of 7.5/10/12.5/15/17.5 at each level, with 2.75 Bloodrend scaling.
 -   Deals 1 posture damage on the initial hit. If this attack is blocked, the entire attack will cancel.
 -   Has a 10s CD with 0.5s of windup.
 -   The second hit counts as a flourish and procs majority of "on flourish" Talents and effects.
@@ -465,7 +465,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Jump into the air before blasting a continuous beam of blood at a nearby target._
 
--   Has a base damage of 1/1.5/2/2.5/3 per level, per hit (17), with 2.75 Bloodrend scaling.
+-   Has a base damage of 1/1.5/2/2.5/3 at each level, per hit (17), with 2.75 Bloodrend scaling.
 -   Deals 1 posture damage per hit (17).
 -   Has a 13s CD with 1.1s of windup.
 -   The beam locks onto its target for the entire duration of the Mantra.
@@ -505,28 +505,28 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Base:**
 
--   Has a base damage of 7/8.5/10/11.5/13 per level, per hit (10), with 2.75 Bloodrend scaling.
+-   Has a base damage of 7/8.5/10/11.5/13 at each level, per hit (10), with 2.75 Bloodrend scaling.
 -   Deals 1 posture damage per hit (10).
     
 
 **Multiplying Spark:**
 
 -   When modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), the player will conjure 3 Cyclones instead of just one, that travel in a frontal cone. Each Cyclone deals less damage and posture damage than the base variant.
--   Each Cyclone has a base damage of 2.8/3.4/4/4.6/5.2 per level, per hit (10 for each Cyclone), with 2.75 Bloodrend scaling.
+-   Each Cyclone has a base damage of 2.8/3.4/4/4.6/5.2 at each level, per hit (10 for each Cyclone), with 2.75 Bloodrend scaling.
 -   Deals 0.33 posture damage per hit (10 for each Cyclone).
 
 **Reversal Spark:**
 
 -   When modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), the Cyclone will return to the user after it travels half of the original distance.
 -   This has the same stats as the non-Spark variant;
-    -   Has a base damage of 7/8.5/10/11.5/13 per level, per hit (10), with 2.75 Bloodrend scaling.
+    -   Has a base damage of 7/8.5/10/11.5/13 at each level, per hit (10), with 2.75 Bloodrend scaling.
     -   Deals 1 posture damage per hit (10).
 
 **Sparks Combined:**
 
 -   When modified with both a [Multiplying Spark](Mantra_Modifiers.md#sparks) **and** a [Reversal Spark](Mantra_Modifiers.md#sparks), the player summons 3 cyclones which return to the user's location after they travel for half of the default variants distance.
 -   This has the same stats as the Multiplying Spark variant;
-    -   Each Cyclone has a base damage of 2.8/3.4/4/4.6/5.2 per level, per hit (10 for each Cyclone), with 2.75 Bloodrend scaling.
+    -   Each Cyclone has a base damage of 2.8/3.4/4/4.6/5.2 at each level, per hit (10 for each Cyclone), with 2.75 Bloodrend scaling.
     -   Deals 0.33 posture damage per hit (10 for each Cyclone).
 
 -   Has a 17.5s CD with 0.5s of windup.
@@ -566,8 +566,8 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood._
 
--   The first three hits have a base damage of 3.75/5/6.25/7.5/8.75 per level, with 2.75 Bloodrend scaling.
--   The final hit has a base damage of 7.5/10/12.5/15/17.5 per level, with 2.75 Bloodrend scaling.
+-   The first three hits have a base damage of 3.75/5/6.25/7.5/8.75 at each level, with 2.75 Bloodrend scaling.
+-   The final hit has a base damage of 7.5/10/12.5/15/17.5 at each level, with 2.75 Bloodrend scaling.
 -   Deals 11 posture damage, with the attack being canceled if blocked. However, it will often bypass block entirely.
 -   Has a 10s CD with 0.5s of windup.
 -   The first hit has a PvE damage multiplier of 5.6x (up to 6.12x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20. The subsequent hits (3) have a PvE damage multiplier of 12.14x (up to 13.11x with Mob Damage) at Power 20.
@@ -647,8 +647,8 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Perform a gesture that causes a nearby target to explode continuously with blood._
 
--   The initial hit has a base damage of 14.5/17/19.5/22/24.5 per level, with 2.75 Bloodrend scaling.
--   All subsequent hits have a base damage of 2.9/3.4/3.9/4.4/4.9 per level, with 2.75 Bloodrend scaling.
+-   The initial hit has a base damage of 14.5/17/19.5/22/24.5 at each level, with 2.75 Bloodrend scaling.
+-   All subsequent hits have a base damage of 2.9/3.4/3.9/4.4/4.9 at each level, with 2.75 Bloodrend scaling.
 -   Deals 12 posture damage, canceling if the initial hit gets blocked.
 -   Has a 15.5s CD with 1s of windup.
 -   Gains an additional hit per Mantra level, and two additional hits per equipped [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers). The damage does not scale down based on the total hit count, making these a largely no-downside damage increase.
@@ -767,7 +767,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 
 **Effect:** _Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage._
 
--   Has a base damage of 24/28/32/36/40 per level, with 2.75 Bloodrend scaling.
+-   Has a base damage of 24/28/32/36/40 at each level, with 2.75 Bloodrend scaling.
 -   Deals 15 posture damage.
 -   Has a 14s CD with a 0.65s windup on dive and 0.25s windup on surface.
 -   Leaves behind a Blood Pool on use, and a second one upon surfacing.
@@ -812,7 +812,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 **Effect:** _Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage._
 
 -   The first hit has a base damage of 10, regardless of level, with 5 Bloodrend scaling.
--   The second hit has a base damage of 15/19/23/27/31 per level, with 2.75 Bloodrend scaling.
+-   The second hit has a base damage of 15/19/23/27/31 at each level, with 2.75 Bloodrend scaling.
 -   Deals 12 posture damage if blocked.
 -   Has a 13.5s CD with 1s of windup.
 -   Leveling up this Mantra additionally increases its range. It can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to further increase its range.
@@ -1004,19 +1004,19 @@ These are Talents found in "_Transitory Vitality_" Category.
 -   **WARNING** ONCE 6 BLOOD POOLS ARE PLACED THEY WILL QUICKLY DISSAPATE
 -   Blood Poison is a stacking effect that is applied on the blood bar. **It does not replace blood**, simply overlay itself on top of it.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
-    -   20% - Vasculitis is activatable
-        -   _Vasculitis_ - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you [Gem Enhancement](Status_Effects.md#gem-enhancement) against PvE temporarily.
-    -   25% - Hemolysis Talent is Activatable
-        -   _Hemolysis_ - Deal 20% more critical attack damage.
+    -   20% - [Vasculitis](Talents.md#vasculitis) is activatable
+        -   [Vasculitis](Talents.md#vasculitis) - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you [Gem Enhancement](Status_Effects.md#gem-enhancement) against PvE temporarily.
+    -   25% - [Hemolysis](Talents.md#hemolysis) Talent is Activatable
+        -   [Hemolysis](Talents.md#hemolysis) - Deal 20% more critical attack damage.
     -   40% - Enemies are under a 25% Anti-Heal effect
     -   50% - Enemies have their damage reduced by 12.5%
-    -   60% - Bloodwarden's Sense Talent is Activatable
-        -   _Bloodwarden's Sense_ - Enemies you attack with a mantra are highlighted red briefly.
-    -   70% - _Gruesome Harvest_ Talent is Activatable
-        -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you 15 temporary health.
+    -   60% - [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent is Activatable
+        -   [Bloodwarden's Sense](Talents.md#bloodwardens-sense) - Enemies you attack with a mantra are highlighted red briefly.
+    -   70% - [Gruesome Harvest](Talents.md#gruesome-harvest) Talent is Activatable
+        -   [Gruesome Harvest](Talents.md#gruesome-harvest) - Landing Bloodrend mantras on opponents will give you 15 temporary health.
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.
 -   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Curse_of_the_No_Life_King.md) users and people with the [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
--   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#alloyblood), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
+-   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Iron Veins](Talents.md#iron-veins), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and items like the [Bloodforged Crown](Bloodforged_Crown.md).
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
 -   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.fandom.com/wiki/Mohg,_Lord_of_Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.

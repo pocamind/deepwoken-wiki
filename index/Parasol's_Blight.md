@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 229488
+revid: 234429
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 
 ## Description
 
-Parasol's Blight is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive summoning [enchantment](Enchantments.md) that spawns an allied [Monster](Monsters.md) upon killing a player.
+Parasol's Blight is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive summoning [enchantment](Enchantments.md) that spawns an allied [Monster](Monsters.md) upon killing a player or small chance from a PvE kill.
 
 ## Effect
 
@@ -32,11 +32,11 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 
 -   The summons count as Allies for all effects (e.g. [Golden tongue](Talents.md), [Sacred field](Sacred_Field.md) and [reinforce](Attunement-less.md)).
 -   The summons can be buffed by equipping the [Cryptwaker's Ring](<Cryptwaker's_Ring.md>), saying to increase the health of your monsters but it only gives them 5% resistance, and granting you a small chance to spawn [Bone Keepers](Bone_Keeper.md) instead.
--   The monsters summoned will not attack you, even if you attack them first.
+-   The monsters summoned will not attack you, even if you attack them first though certain attacks from the [Prime Megalodaunt](Prime_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md) and [Bone keeper](Bone_Keeper.md) can hit the summoner.
 -   There is no cooldown on the monsters spawning. You can proc this effect multiple times at once.
 -   The PvE targets can be allied or player summons, though the proc chance is still very low in PvE. Additionally, you can proc this enchantment on a PvE target while in a PvP combat tag.
     -   Notably, summons from [Lightning Clones](Thundercall.md#lightning-clones), [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me), [The Weaving Web](The_Weaving_Web.md)'s critical attack, and ironically **Parasol's Blight** can be hit by the caster in attempt to summon a monster.
--   [Lightning Clones](Thundercall.md) are exempt from needing to be hit with a basic attack as [mantras](Mantras.md) or [venting](Combat_Mechanics.md) will have the same chance to summon a mob
+-   [Lightning Clones](Thundercall.md) are exempt from needing to be hit with a basic attack as [mantras](Mantras.md) or [venting](Combat_Mechanics.md#venting) will have the same chance to summon a mob
 -   The enemies do not need to be killed through manually, as auto grips will summon a mob.
 -   You cannot apply the Parasol's Blight status effect to already Unconscious opponents.
 -   The monsters summoned count as 'summons' for the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), healing you when they deal damage.

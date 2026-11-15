@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 234420
+revid: 234425
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Hive, Lawless Territory]
@@ -29,7 +29,7 @@ The Lordsgrove is a jungle-like passage that is accessed through the massive gat
 -   You can find [Zirik](Zirik.md), an NPC who will alter your [reputation](Reputation.md) with The Hive in cost of [Notes](Notes.md).
 -   [Marae](Loot_Bag_Gacha.md#marae), a [Loot Bag Gacha](Loot_Bag_Gacha.md) NPC.
 
-### Miscellaneous
+### Hive fountain
 
 -   You can find one of The Hive's fountains here. Invoking with it will transport you to [Greathive Aratel](Greathive_Aratel.md).
 

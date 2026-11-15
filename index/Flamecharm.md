@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 232467
+revid: 234440
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -133,7 +133,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Deals 4 posture damage per hit with an additional 20 posture damage on the final hit.
 -   Has a windup of 0.45s and a cooldown of 10 seconds.
 -   The synchronous strike occurs 2.2 seconds after the mantra is cast.
--   This ability has a PvE damage multiplier of 9.17x.
+-   This ability has a PvE damage multiplier of 8.49x (up to 9.17x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to add more warriors, capping at +9 Range.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to have the warriors attack outwards and ragdoll.
 
@@ -173,7 +173,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Deals 18 posture damage at levels 1-4, guard breaks at level 5.
     -   At level 5, this Mantra takes 20 additional Ether on cast to retain its guard breaking property. This additional Ether cost cannot be reduced.
 -   Has a windup of 0.7 seconds and a cooldown of 10 seconds.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Breaks destructible terrain on hit.
 -   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), causing the attack to destroy more environment.
 -   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
@@ -214,7 +214,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Has a base damage of 6.5/8.5/10.5/12.5/14.5 per level, per hit with 2.75 Flamecharm scaling.
 -   Has an initial starting windup of 0.375 seconds and no cooldown.
 -   Deals 1 posture damage per hit.
--   This ability has a PvE damage multiplier of 5.13x.
+-   This ability has a PvE damage multiplier of 4.75x (up to 5.13x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Damages destructible terrain.
 -   Lights campfires.
 -   Propels the user backward if cast while jumping/walking backward or in water.
@@ -259,7 +259,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Deals 6 posture damage.
 -   Has a 0.6 second windup with a 10 second cooldown.
 -   Has a large hitbox both horizontally and backwards.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
 -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
@@ -342,7 +342,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Has a base damage of 24/26.5/29/30.5/32 per level, per hit (2) with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage on the first hit and 35 posture damage on the second, usually guard breaking your opponents.
 -   Has a 0.6 second windup before the first hit with a 0.8 second delay between hits, and a 0.2 second endlag when the Mantra ends. Has a 10 second cooldown.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   The second explosion ragdolls enemies.
 -   Can be modified with [Glass Stones](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the radius of the explosions (+9 AoE max).
     -   Size modification will drastically lower the damage of the Mantra however.
@@ -385,7 +385,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 2.75 Flamecharm scaling.
 -   The base variant deals 4 posture damage per dagger, while the Tornado spark variant deals 3 posture damage per dagger with an additional 5 posture damage per tornado hit (2).
 -   Has a 10 second cooldown.
--   This ability has a PvE damage multiplier of 8.45x.
+-   This ability has a PvE damage multiplier of 7.82x (up to 8.45x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Does **not** inflict Burn.
 -   Breaks destructible terrain on hit.
 -   Can be upgraded with the "**[Hell's Partisan](Talents.md#hells-partisan)**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
@@ -427,7 +427,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Has a base damage of 26/27.5/29/30.5/32 with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage.
 -   Has a windup of 0.45 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
--   This ability has a PvE damage multiplier of 9.14x.
+-   This ability has a PvE damage multiplier of 8.46x (up to 9.14x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
 -   Can be modified with a Round Spark to release a wider but shorter flame.
@@ -508,7 +508,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Deals 14 posture damage per shot.
 -   Duration scales with level and cannot be modified otherwise. Duration impacts the number of shots fired, as they have a set cooldown.
 -   Has a 0.65 second cast time and a 40 second cooldown.
--   This ability has a PvE damage multiplier of 41.5x.
+-   This ability has a PvE damage multiplier of 38.43x (up to 41.5x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   This Mantra is heavily incentivized for use in PvE.
 -   Cannot hitstun players.
 -   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the Sentinel is.
@@ -551,7 +551,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt + [Burn](Stat
 -   Has a base damage of 18/21/24/27/30 per level, per hit with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage per hit.
 -   Has a windup of 0.45 seconds, a 12 second cooldown and a 1 second delay between each hit.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Cooldown resets if it lands or hits terrain, allowing you to recast it up to three times.
 
  |
@@ -596,7 +596,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Deals 5/11/13/15/19 posture damage per level.
 -   Has a windup of 0.9 and 0.25 seconds between hits, and a 10 second cooldown.
 -   Cancels if the first hit does not land. Additionally, if any hit is parried, even if it isn't the first one, the Mantra will also cancel.
--   This ability has a PvE damage multiplier of 17.2x.
+-   This ability has a PvE damage multiplier of 15.93x (up to 17.2x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Can be cancelled midway by feinting.
 
  |
@@ -634,7 +634,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Has a base damage of 20/23/26/29/32 per level with 2.75 Flamecharm scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.55 seconds and a 10 second cooldown.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Does not send the user into the air if missed.
 -   Can be upgraded with the "**[Meteor Impact](Talents.md#meteor-impact)**" and "**[Phoenix Impact](Talents.md#phoenix-impact)**" Talents, allowing you to follow up with a meteor strike.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
@@ -675,7 +675,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt + [Burn](Stat
 -   Has a windup of 0.65 seconds and a cooldown of 15 seconds.
 -   Has a very large circular hitbox that is comparable to venting.
 -   Deals 4 posture damage on the first hit and 2 on the second for a total of 6 posture damage.
--   This ability has a PvE damage multiplier of 9.14x.
+-   This ability has a PvE damage multiplier of 8.46x (up to 9.14x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   User maintains their momentum during the wind-up.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
 
@@ -716,7 +716,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
     -   This is slightly inconsistent due to how charging works, largely being affected by ping.
 -   Deals 14 posture damage.
 -   Has a 1.3 (minimum) second cast time and a 15 second cooldown.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Can be charged to increase its damage. You can M1 during the charge to end it early.
 -   Ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
@@ -759,7 +759,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Has a base damage of 10/11/12/13/14 per level, per hit (3, 2 if Reversal Spark) with 2.75 Flamecharm scaling.
 -   Deals 14 posture damage per hit (3, 2 if Reversal Spark).
 -   Has a windup of 0.6 seconds (0.65 seconds if Reversal Spark) with 0.2 seconds of endlag. Has an 18 second cooldown.
--   This ability has a PvE damage multiplier of 9.18x.
+-   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Mantra continues if the second hit isn't parried.
     -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
@@ -833,7 +833,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Has a base damage of 8/16/24/32/40 per level with 2.75 Flamecharm scaling.
 -   Deals 1.5/3/4.5/6/7.5 posture damage per level.
 -   Has a windup of 0.5 and 0.2 seconds before it hits, and a 10 second cooldown.
--   This ability has a PvE damage multiplier of 9.17x.
+-   This ability has a PvE damage multiplier of 8.49x (up to 9.17x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Ragdolls on hit.
 -   Its distance is reduced by 60% when used in water.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to cause the Mantra to fly farther (at the same pace).
@@ -876,7 +876,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   Deals 10 posture damage.
 -   Drops carried players/NPCs when used.
 -   Has a windup of 0.5 seconds and a cooldown of 18 seconds.
--   This ability has a PvE damage multiplier of 9.17x.
+-   This ability has a PvE damage multiplier of 8.49x (up to 9.17x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Flame Leap can proc **[Meteor Impact](Talents.md#meteor-impact)**, even without hitting an opponent. This is extremely useful for proccing [Phoenix Impact](Talents.md#phoenix-impact).
 -   Animation persists on feint.
 -   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
@@ -1372,6 +1372,7 @@ Puppets turn purple if they've been alive for 15 seconds, signifying that they o
 -   Before its release, **Flaming Scourge** was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md#shade-wisp), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 -   Flamecharm was invented by [Amorus Pleeksty](Amorus_Pleeksty.md), a Tiran who later went on to become a Deepwoken.
 -   The **Fire Gun** Mantra gives the player fingers, similar to when casting a Ritual Cast Mantra. Its there, but it's difficult to see due to particles.
+-   **Fire Gun** has a modifiable stat called "Shotgun" when viewed in a [Mantra Lectern](Mantra_Lectern.md). None of the [Mantra Modifiers](Mantra_Modifiers.md), including the [Round Spark](Mantra_Modifiers.md#sparks) can change this value however.
 -   Before the Perfect Cast mechanic was removed, **Flame Grab** and [Jolt Grab](Thundercall.md#jolt-grab) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, the duration of these Mantras would be shortened and capped, playing "extinguish"-like VFX unique from the regular version.
     -   A video summarizing this effect can be found [here](https://youtu.be/o3AJne5Y04U?si=Jzim_sMEg3q-qTkX).
 

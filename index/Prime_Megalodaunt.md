@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 233493
+revid: 234426
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -97,6 +97,7 @@ High posture
 
 -   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
 -   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
+-   Totals to about ~200 slash damage if not defended against.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

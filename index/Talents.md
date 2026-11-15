@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 233936
+revid: 234436
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -2763,7 +2763,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   The extra damage is true damage.
     -   Does not work with [Unnecessary Theatrics](#unnecessary-theatrics) and [Dazing Finisher](#dazing-finisher).  
         
-    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a [Pistol](Pistols.md)  
+    -   Prerequisites: 90 Medium Weapon // 90 Heavy Weapon, 90 Light Weapon, Using a [Pistol](Pistols.md)  
         
     -   Mutual Exclusives: [Hip Shooter](#hip-shooter)  
         

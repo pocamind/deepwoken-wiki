@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 234402
+revid: 234439
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -157,7 +157,7 @@ It's best to try and circumvent any version of the Line Fire attack, as those Li
 
 Jumping or spam jumping in the bossfight is not recommended as much as the Harvestman seems to pull you towards himself during certain attacks.
 
-During the Harvestman's Culling attack, plenty of players will likely die and turn into [Gourdskippers](Gourdskipper.md). These [Gourdskippers](Gourdskipper.md) can become a big threat as a single hit from one of them will infect you as well. So you have to consistently [Pumpkin Pitch](Pumpkin_Pitch.md) the ground if you want to have a chance at winning.
+During the Harvestman's Culling attack, plenty of players will likely die and turn into [Gourdskippers](Gourdskipper.md). These Gourdskippers can become a big threat as a single hit from one of them will infect you as well. So you have to consistently [Pumpkin Pitch](Pumpkin_Pitch.md) the ground if you want to have a chance at winning.
 
 If you simply want to beat the Harvestman for the first time for whatever reason, using a Freshie or otherwise non-progressed slot and leveling yourself up during the boss fight is a helpful strategy, as leveling up will fully restore your health, stomach, thirst, and blood bars.
 
