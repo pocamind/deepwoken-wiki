@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 211583
+revid: 234463
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Exclusive Aspects, Aspects]

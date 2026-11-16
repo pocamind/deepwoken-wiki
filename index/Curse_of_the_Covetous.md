@@ -1,6 +1,6 @@
 ---
 title: Curse of the Covetous
-revid: 229153
+revid: 234454
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Covetous
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -30,7 +30,7 @@ Upon landing a weapon attack, your opponent will lose 50.
 
 If you are below 7,500, your weapon's base damage will be reduced by 0.001% for every Note you have below this threshold instead. This caps at -7.5% base damage at 0. Because this decreases your base damage, damage multipliers will be less effective.
 
-Upon taking damage from a player, lose Notes equal to the amount of damage taken, post-resistances.
+Whenever you parry, block, dodge, or take damage from any source, lose 15–50 Notes per instance.
 
 ### Notes
 
@@ -38,6 +38,7 @@ Upon taking damage from a player, lose Notes equal to the amount of damage taken
 -   While at 7,500, this Enchantment does not provide a damage buff nor debuff.
 -   This enchantment has a coin splash sound effect on hit and upon taking damage.
 -   This enchantment's curse functions somewhat similarly to, and stacks with, the [Loose Change](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier.
+-   This enchantment is particularly vulnerable to multi-hit attacks and damage-over-time effects (e.g., [Rapid Punches](Attunement-less.md#rapid-punches), [Burn](Status_Effects.md#burn), [Bleed](Status_Effects.md#bleed), etc.) as each individual tick of damage, parry, block, or dodge will cause you to lose notes.
 
 ## Trivia
 

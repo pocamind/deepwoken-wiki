@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 234449
+revid: 234457
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1008,7 +1008,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Bloodrender
 
--   **Bloodrender** \[Mantra Level Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] replenish your blood, steal blood and apply '[Blood Poisoning](Status_Effects.md#blood-poisoning)'.
+-   **Bloodrender** \[Mantra Level Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply '[Blood Poisoning](Status_Effects.md#blood-poisoning)'.
     -   [Blood Poison](Status_Effects.md#blood-poison) is an effect that is overlayed on top of your opponent's blood bar. Upon reaching certain Blood Poison thresholds (percentage of the blood bar covered with Poison), you will apply debuffs to the target and may proc certain conditional Talent effects.
     -   Blood poison passively drains over time, requiring you to constantly apply pressure to maintain the debuffs.
     -   See [Bloodrend](Bloodrend.md#trivia) for more info.  
@@ -1017,21 +1017,21 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Common Talent\] \[Bloodrend\] \[Debuff\]
 
--   **Adept Bloodrender** \[Mantra Level Talent\] - You can now obtain 1-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Adept Bloodrender** \[Mantra Level Talent\] - You can now obtain 1-star Bloodrender mantras.
     -   This Talent will be removed from you if you no longer meet its requirements.  
         
     -   Prerequisites: Obtained at 20 Bloodrend  
         
     -   Tags: \[Common Talent\] \[Bloodrend\] \[Hard Requirements\]
 
--   **Expert Bloodrender** \[Mantra Level Talent\] - You can now obtain 2-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Expert Bloodrender** \[Mantra Level Talent\] - You can now obtain 2-star Bloodrender mantras.
     -   This Talent will be removed from you if you no longer meet its requirements.  
         
     -   Prerequisites: Obtained at 30 Bloodrend  
         
     -   Tags: \[Common Talent\] \[Bloodrend\] \[Hard Requirements\]
 
--   **Master Bloodrender** \[Mantra Level Talent\] - You can now obtain 3-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
+-   **Master Bloodrender** \[Mantra Level Talent\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
     -   This Talent will be removed from you if you no longer meet its requirements.  
         
     -   Prerequisites: Obtained at 50 Bloodrend  
@@ -1042,15 +1042,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: 35 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\] \[weapon Attack\]
+    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\] \[Weapon Attack\]
 
--   **First Blood** \[Common Talent\] - Your first blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use in combat has no blood cost and deals additional blood drain. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+-   **First Blood** \[Common Talent\] - Your first blood mantra you use in combat has no blood cost and deals additional blood drain.
     
     -   Prerequisites: 10 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Mantra\]
 
--   **Hemorrhaging Blow** \[Rare Talent\] - Block breaking your opponent with a blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] turns your opponent's combat healing into damage for 8 seconds
+-   **Hemorrhaging Blow** \[Rare Talent\] - Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds
     -   55 second cooldown, with the cooldown starting on guard break.
     -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
     -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however doesn't work on things like Health Regen Potions or [Conditioned Runner](#conditioned-runner) as that they are forms of passive healing.
@@ -1077,26 +1077,25 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Damage Buff\] \[Speed Boost\] \[Tool\]
 
--   **Sanguine Siphon** \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Sanguine Siphon** \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
     -   Buffs the next Mantra's damage by 25% upon proccing, signified by flowing blood out of your hands.
     -   Effect lasts 15s before disappearing.  
         
     -   Prerequisites: 40 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\] \[Mantra\], \[Weaoon Attack\]
+    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\] \[Mantra\] \[Weapon Attack\]
 
 -   **Blood Bag** \[Common Talent\] - You receive extra blood from knocking an enemy.
     
     -   Prerequisites: 20 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Grip\]
+    -   Tags: \[Bloodrend\] \[Knock\]
 
--   **Blood Transfusion** \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar.
-    -   20 second cooldown.  
-        
+-   **Blood Transfusion** \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second cooldown)
+    
     -   Prerequisites: 60 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Critical Attack\]
+    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Debuff\] \[Weapon Attack\]
 
 -   **Just a Taste** \[Common Talent\] - First Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you hit in combat has increased blood drain.
     -   Currently does not work.  
@@ -1105,11 +1104,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Mantra\]
 
--   **Open Wound** \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Open Wound** \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
     
     -   Prerequisites: 40 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Guardbreak\]
+    -   Tags: \[Bloodrend\] \[Guardbreak\] \[Mantra\]
 
 ### Bloodsong
 
@@ -5832,14 +5831,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Whisper
 
--   Haunted Gale \[Common Talent, Agility\] - Landing 4 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
-    -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra. Only one Ghost can spawn per Mantra.
+-   Haunted Gale \[Common Talent, Galebreathe\] - Landing 4 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
+    -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Galebreathe Mantra. Only one Ghost can spawn per Mantra.
         -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
-    -   Haunted Gale Ghosts have 15 base damage with 5 Galebreathe scaling.
+    -   Haunted Gale Ghosts have 10 base damage with 5 Galebreathe scaling.
+    -   When gaining stacks, if any of your Mantras (including non-Galebreathe ones) do not hit a target, are blocked, or are dodged, all stacks will be reset. This includes Mantras that do not have hitregistry, such as most Support and Mobility Mantras.
+    -   When gaining stacks, if any of your Mantras (including non-Galebreathe ones) get parried, you will lose 1 stack.
     -   Haunted Gale stacks are counted **per person**, not globally.
-    -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
-        -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
-    -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, you will only ever lose 1 stack upon one of your Mantras being parried.
+    -   If you are a [Saintsworn](Oath%253A_Saintsworn.md), you will be able to build stacks through non-Galebreathe Mantras (via [Ether Proselyte](#ether-proselyte)), but you can still only summon the ghosts through using Gale Mantras.
+    -   If you have [Apparitions](#apparitions), landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Withered Flame

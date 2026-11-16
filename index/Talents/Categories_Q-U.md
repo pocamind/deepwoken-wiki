@@ -1,6 +1,6 @@
 ---
 title: "Talents/Categories Q-U"
-revid: 231990
+revid: 234455
 source: https://deepwoken.fandom.com/wiki/Talents/Categories_Q-U
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages transcluding nonexistent sections, In progress with reason, InProgressPages, Talents, Mechanics, Skills]
@@ -800,7 +800,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The links are non-refreshable, meaning you'll need to wait until after the duration ends to reapply the status effect.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
--   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made **[Unconscious](../Status_Effects.md#unconscious)** with an active thether allows you to steal health from a tethered target and not be made **[Unconscious](../Status_Effects.md#unconscious)**.
+-   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made **[Unconscious](../Status_Effects.md#unconscious)** with an active tether allows you to steal health from a tethered target and not be made **[Unconscious](../Status_Effects.md#unconscious)**.
     -   Whenever you would get knocked but have a tether active, steal HP from the latest static linked target to survive the hit.
     -   Deals 30 true damage to the Jumper Cables victim, and heals you for 30 health.
     -   Nullifies the damage that the hit would have done.

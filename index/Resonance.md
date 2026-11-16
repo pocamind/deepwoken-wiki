@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 230045
+revid: 234469
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -91,10 +91,10 @@ The list of Legendary Resonances is shown below:
 
 These Resonances are exclusive to NPCs, bosses, or developers and cannot be acquired by players through normal gameplay. They often serve as unique abilities or powers that enhance specific enemies or characters for lore or gameplay purposes. While some share visual or thematic similarities with player Resonances, their effects and functions remain inaccessible to the public.
 
--   Corrupted Top-Pop - [Akira](Akira.md)
--   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
--   Golem Creation - [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   Soul Siphon - [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   Corrupted Top-Pop - [Akira](Akira.md) - This Resonance’s ability is to instantly kill someone by imploding their head, it’s downside is that it spends lifespan relative to the magical strength/power the victim had.
+-   Dream Eater - [Haske Vantage](Primal_Vesperian.md) - This Resonance’s ability is to convert non physical or immaterial magical things to physical objects, including Mantras and Souls, and remove and merge them.
+-   Golem Creation - [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) - This Resonance’s ability is to conjure golems out of stone, after corruption, it’s golems become stronger and lasted longer but required souls to function.
+-   Soul Siphon - [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) - this Resonance’s ability is to collect effigies and powers of the dead, this includes the Resonances of others, however they deactivate due to not holding the true soul behind the Resonance.
 -   Chorus Divide: Shattering Crescendo - [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 -   Unnamed Ice Resonance(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 -   Unnamed Teleportation Resonance - [Kraphtalos](Kraphtalos.md)

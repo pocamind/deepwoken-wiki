@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 231113
+revid: 234465
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyable Weapons, Weapons with Unique Criticals, Light Weapons, Weapons of Etrea]
@@ -47,3 +47,4 @@ This attack has a scaled damage multiplier of 1.25x, has innate [Bleed](Status_E
 ## Trivia
 
 -   This weapon is often treated as a pseudo-medium weapon due to it's slower swing speed and higher damage in comparison to other daggers.
+-   The Tanto has a synergy with the [Familiar Vagrant's Armor](<Familiar_Vagrant's_Armor.md>), turning the critical attack into a guardbreak when used during Grapple.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 233250
+revid: 234450
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -232,7 +232,7 @@ _Weapon damage is increased by 7%, but becomes damage over time lasting for 2.5s
 
 **Effect:**
 
-Removes the raw impact damage of your weapon by applying a 0x damage modifier; instead, your weapon inflicts [Deferred](Status_Effects.md#deferred) on hit, dealing damage over time.  
+Removes the raw impact damage of your weapon by applying a 0x damage modifier; instead, your weapon inflicts [Deferred](Status_Effects.md#deferred) on hit, dealing damage over time, and dealing 7% extra damage.  
 Deferred deals your weapon's damage in 10% increments, over 2.5 seconds. Deferred's damage buff is treated as a damage modifier, and is additive to other damage modifiers.
 
 The Deferred status effect, and its damage over time, cannot be avoided once applied. Similarly to Viscostiy, Deferred's damage over time snapshots all of the relevant resistances and damage modifiers when the attack lands, meaning newly applied resistances/damage modifiers will not be considered and effects that run out will still have their bonuses applied.

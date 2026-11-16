@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 230360
+revid: 234477
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics]
