@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 234430
+revid: 234448
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -650,7 +650,7 @@ Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
-5 Agility, 20 Agility if you have an Attunement
+5 Agility
 
  |
 | 
@@ -1099,7 +1099,7 @@ N/A
 
  | 
 
-5 Willpower/20 Willpower (With Attunement), 25 Charisma
+5 Willpower, 25 Charisma
 
  |
 | 

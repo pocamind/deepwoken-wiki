@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 234436
+revid: 234449
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -5104,7 +5104,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The links are non-refreshable, meaning you'll need to wait until after the duration ends to reapply the status effect.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
--   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made **[Unconscious](Status_Effects.md#unconscious)** with an active thether allows you to steal health from a tethered target and not be made **[Unconscious](Status_Effects.md#unconscious)**.
+-   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made **[Unconscious](Status_Effects.md#unconscious)** with an active tether allows you to steal health from a tethered target and not be made **[Unconscious](Status_Effects.md#unconscious)**.
     -   Whenever you would get knocked but have a tether active, steal HP from the latest static linked target to survive the hit.
     -   Deals 30 true damage to the Jumper Cables victim, and heals you for 30 health.
     -   Nullifies the damage that the hit would have done.

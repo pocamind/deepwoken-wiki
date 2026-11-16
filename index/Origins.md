@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 228375
+revid: 234444
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -58,7 +58,7 @@ This content is not accessible outside of this gamemode.
 
 ## Overview
 
-**Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways, with most Origins having a preferred progression method. You **CANNOT** change your Origin _mid progression_, as Origins can only be chosen from Character Creation; you will need to **WIPE** in order to pick a new Origin.
+**Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways, with most Origins having a preferred progression method. You cannot change your Origin _mid progression_, as Origins can only be chosen from Character Creation; you will need to wipe in order to pick a new Origin.
 
 The player starts out having only the **[Castaway](Castaway.md)** origin, with the other origins being unlocked once the player achieve specific requirements. Below is a brief overview of all the origins. A more descriptive overview can be found on their respective pages.
 

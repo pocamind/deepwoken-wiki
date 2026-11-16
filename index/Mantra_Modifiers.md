@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 229166
+revid: 234441
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Materials]
@@ -167,6 +167,7 @@ Eternal Logstone
  | 
 
 -   +3 Duration
+-   \-1 Range
 -   +20 Ether Cost
 
 _"An ancient, indecipherable script is carved into every facet of the stone."_

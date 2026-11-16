@@ -1,6 +1,6 @@
 ---
 title: Palace Tachi
-revid: 229345
+revid: 234443
 source: https://deepwoken.fandom.com/wiki/Palace_Tachi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons of The Ministry, Weapons of Etrea]
@@ -33,7 +33,7 @@ categories: [Weapons, Weapons with Talents, Swords, Katanas, Weapons with Unique
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), The Ferryman, The Understrand |
+| obtainment | Crypt of the Unbroken, Faction Ambushes (The Ministry), The Understrand |
 | description | The dark tachi of a Threadcutter. Weighted by its alloys, the center of mass runs further along the length of the blade, making for slow but devastating cutting power. |
 
 ## Description
