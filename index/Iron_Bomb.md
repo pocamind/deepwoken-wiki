@@ -62,7 +62,8 @@ This section is transcluded from [a different page](Talents.md#saboteur). To cha
 -   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.
     -   Bombs apply [burn](Status_Effects.md#burn) on hit. This burn, like all other burn scales on your [Flamecharm](Flamecharm.md) investment and can be improved through the usage of Flamecharm Talents.
     -   Your bombs go further when thrown.
-    -   Prerequisite: Family Recipe
+    -   Incendiary Formula prevents Hot Potato's double detonate.
+    -   Prerequisite: Family Recipe.
 
 -   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
     -   Reduces the bomb throw cooldown from 5 seconds to 4 seconds. This only applies to the bomb thrown directly after this Talent procs, not on the bomb that procced this Talent.
@@ -71,6 +72,7 @@ This section is transcluded from [a different page](Talents.md#saboteur). To cha
 
 -   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)
     -   This speed boost lasts 2 seconds.
+    -   Double detonate has a ~30% chance.
     -   Prerequisite: Family Recipe
 
 -   Explosive Efficiency \[Common Talent\] - Crafting a bomb will yield two bombs. Chance to make three.

@@ -1,6 +1,6 @@
 ---
 title: August Gideshu
-revid: 212007
+revid: 234484
 source: https://deepwoken.fandom.com/wiki/August_Gideshu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Individuals with He/him pronouns, Characters mentioned in books, Naval personnel of The Central Authority]
@@ -32,4 +32,4 @@ The Gideshu March would go on to flourish in the following years among the rank 
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-gm-1-0) [1.1](#cite-ref-gm-1-1) [1.2](#cite-ref-gm-1-2) [1.3](#cite-ref-gm-1-3) [1.4](#cite-ref-gm-1-4) [1.5](#cite-ref-gm-1-5) [1.6](#cite-ref-gm-1-6) [1.7](#cite-ref-gm-1-7) [1.8](#cite-ref-gm-1-8) [The Gideshu March](The_Gideshu_March.md)
+1.  ↑ [1.0](#cite-ref-gm-1-0) [1.1](#cite-ref-gm-1-1) [1.2](#cite-ref-gm-1-2) [1.3](#cite-ref-gm-1-3) [1.4](#cite-ref-gm-1-4) [1.5](#cite-ref-gm-1-5) [1.6](#cite-ref-gm-1-6) [1.7](#cite-ref-gm-1-7) [1.8](#cite-ref-gm-1-8) [Book](Books.md): [The Gideshu March](The_Gideshu_March.md)

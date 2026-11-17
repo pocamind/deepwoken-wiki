@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 224765
+revid: 234511
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -34,7 +34,7 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 
 ## Shop
 
-Fabantou will not sell any items if the player is a max rank of their division, or not an [Authority Ensign](Authority_Ensign.md).
+If the player has not yet reached the maximum rank within their division, Fabantou will only offer the Three Cheers Menu. Upon reaching the division's maximum rank, the food shop becomes available, replacing the Three Cheers Menu.
 
 The Three Cheers Menu
 
@@ -47,6 +47,29 @@ The Three Cheers Menu
 <tr>
   <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div><a href="Fool's_Tankard.md">Fool's Tankard</a></div><div><i>Servant to the poor, butler to the great!</i></div></td>
+</tr>
+</tbody>
+</table>
+
+Shop
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Mushroom_Bisque.md">Mushroom Bisque</a></div><div><i>Nothing's overlooked 'til I'm satisfied!</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>40 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Megurger.md">Megurger</a></div><div><i>Mix it in a mincer, and pretend it's beef!</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>40 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Seafood_Surprise.md">Seafood Surprise</a></div><div><i>All those bits and pieces...</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Seafood_Boil.md">Seafood Boil</a></div><div><i>Unlace your boots, and rest from the road!</i></div></td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +137,7 @@ The Three Cheers Menu
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*Fabantou offers you a languid tilt of the head and an apologetic leer. You're far too responsible for this.*</i></td>
+  <td><i>*Fabantou offers you a languid tilt of the head and an apologetic leer.*</i> Sinceremost apologies, friend, we can't serve beverages to the higher-ups! Jericho's orders, you see. What'll we have today?</td>
 </tr>
 <tr>
   <td>I'd like to ask you something, tavernkeep.</td>

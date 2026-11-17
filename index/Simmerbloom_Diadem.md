@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 234334
+revid: 234508
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, The Covenant of Flame, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,11 +15,11 @@ categories: [Equipment, Head, Ornaments, The Covenant of Flame, Equipment with T
 | selling price | N/A |
 | requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Rare Pip , +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip |
 | innate talent | Simmerbloom |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Saramaed Hollow, Sold in Traan Zakshun's black market for 25 , AskaVow of Iron:, Flame Worshipper Memento |
 | description | Another relic of Aska's, this ancient artifact was once in the hands of the elusive pioneer of flamecharm. Bestowed by flame worshippers and seldom seen, its precise origins are shrouded in mystery. The flame that flickers within its adorned flower suggests a hidden power, making it a priceless treasure for those who truly understand its significance. |

@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 228597
+revid: 234648
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -112,7 +112,7 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 
 ### Ears
 
-Felinors have cat ears with optional ear fluff. The color of the fluff, as well as the color of your ears is based on the color of Hair slot 1, though they can both be [dyed](Dye_Packet.md) individually. If the player is bald, then their ears will be hairless as well.
+Felinors have 2 options for cat ears with optional ear fluff. The color of the fluff, as well as the color of your ears is based on the color of Hair slot 1, though they can both be [dyed](Dye_Packet.md) individually. If the player is bald, then their ears will be hairless as well.
 
 ## Trivia
 

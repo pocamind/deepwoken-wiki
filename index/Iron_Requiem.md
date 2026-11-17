@@ -1,9 +1,9 @@
 ---
 title: Iron Requiem
-revid: 234480
+revid: 234604
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
 ---
 
 # Iron Requiem
@@ -19,6 +19,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, L
 | posture damage | 1 |
 | range | 10 Sweep |
 | swing speed | 1.17x |
+| talent | Latching Metal - When you have no shots loaded in the chamber, your Basic Attacks inflict Metal Rods. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -41,6 +42,10 @@ The Iron Requiem is a Legendary [Ironsing](Ironsing.md)\-Scaling Pistol obtained
 The Iron Requiem comes with a passive that applies metal rods onto enemies when struck with an unloaded M1.
 
 The Iron Requiem has a [Bullet](Bullets.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
+
+## Talents
+
+Equipping the Iron Requiem grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

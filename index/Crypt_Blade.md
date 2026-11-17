@@ -1,9 +1,9 @@
 ---
 title: Crypt Blade
-revid: 228566
+revid: 234600
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Crypt Blade
@@ -15,13 +15,13 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | requirements | 40 HVY, 75 SDW, LVL 10 |
 | oath | Silentheart |
 | damage | 22 |
-| scaling | HVY: 4, SDW: 9 |
+| scaling | 9 SDW; 4 HVY |
 | posture damage | 8.5 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
+| attack duration | 0.8s |
 | endlag | 0.1s |
-| special effect | Some Shadowcast passives and effects will be applied on weapon hits |
+| talent | Wreathing Shade - Your Basic Attacks steal Ether on hit, and can inflict Shadowcast Talents. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -39,10 +39,11 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 
 The **Crypt Blade** is a Legendary [Greatsword](Greatswords.md) [weapon](Weapons.md); a stocky bull-necked hilt giving rise to an ominous blade serving as the crypt and final resting place of a previous generation, hence its name. The weapon itself is wreathed in waning shadow, and is made of a large and long forthright blade that is adorned in sharp symmetry and pallid patterns. The Crypt Blade scales off [Shadowcast](Shadowcast.md) alongside [Heavy Weapons](Attributes.md).
 
-The Crypt Blade comes with 2 passive abilities:
+## Talents
 
-1.  **Last Dead's Boon** - M1 attacks drain 22.5 Ether from the target on hit.
-2.  **Shadow Affinity** - Non-Mantra specific Shadowcast Talents proc on your basic attacks (e.g if the user has [Sightless Still](Talents.md#sightless-still), their basic attacks will apply [Obscured](Status_Effects.md#obscured)). This includes [Twisted Puppets'](Talents.md#wraith-path-twisted-puppets) [Shadow Burn](Status_Effects.md#shadow-burn) status effect.
+Equipping the Crypt Blade grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Wreathing Shade**](Talents.md#wreathing-shade) gives your M1 attacks the ability to drain 22.5 Ether from the target on hit. It also allows non-Mantra specific Shadowcast Talents proc on your basic attacks (e.g if the user has [Sightless Still](Talents.md#sightless-still), their basic attacks will apply [Obscured](Status_Effects.md#obscured)). This includes [Twisted Puppets'](Talents.md#wraith-path-twisted-puppets) [Shadow Burn](Status_Effects.md#shadow-burn) status effect.
 
 ## Critical
 

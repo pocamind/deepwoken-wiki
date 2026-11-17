@@ -343,10 +343,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Weapon Master
 
--   Brutal Momentum \[Common Talent, Heavy Weapon\] - Heavy Weapons Successfully dodging will give you hyperarmour on your next swing.
-    -   Brutal Momentum works on all heavy weapons, including those who could not utilize this Talent previously like [Railblade](../Railblade.md) or Greataxes.
-    -   Hyperarmor lasts for 1 second. Successful procs have a cooldown of 8 seconds.
-    -   Prerequisites: 50 Heavy Weapon, Heavy equipped.
+-   Brutal Momentum \[Common Talent, Heavy Weapon\] - Heavy Weapons Increase the amount of parry stun your opponent gets when you parry their light attacks if you have a heavy weapon equipped and they don't.
+    -   Prerequisites: 50 Heavy Weapon, Heavy Weapon equipped.
 
 -   Matador \[Common Talent, Strength, Agility\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](../Monsters.md).
@@ -363,14 +361,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Whisper
 
--   Haunted Gale \[Common Talent, Agility\] - Landing 4 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
-    -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra. Only one Ghost can spawn per Mantra.
+-   Haunted Gale \[Common Talent, Galebreathe\] - Landing 4 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
+    -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Galebreathe Mantra. Only one Ghost can spawn per Mantra.
         -   [Gale Wisp](../Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
-    -   Haunted Gale Ghosts have 15 base damage with 5 Galebreathe scaling.
+    -   Haunted Gale Ghosts have 10 base damage with 5 Galebreathe scaling.
+    -   When gaining stacks, if any of your Gale Mantras do not hit a target, are blocked, or are dodged, all stacks will be reset. This includes Mantras that do not have hitregistry, such as Gale Wisp.
+    -   When gaining stacks, if any of your Gale Mantras get parried, you will lose 1 stack.
     -   Haunted Gale stacks are counted **per person**, not globally.
-    -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
-        -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
-    -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, you will only ever lose 1 stack upon one of your Mantras being parried.
+    -   If you are a [Saintsworn](../Oath%253A_Saintsworn.md), you will be able to build stacks through non-Galebreathe Mantras (via [Ether Proselyte](../Talents.md#ether-proselyte)), but you can still only summon the ghosts through using Gale Mantras.
+    -   If you have [Apparitions](../Talents.md#apparitions), landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
     -   Prerequisites: 40 Galebreathe, [Power](../Power.md) 8
 
 ### Withered Flame

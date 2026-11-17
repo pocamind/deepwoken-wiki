@@ -1,9 +1,9 @@
 ---
 title: Fondant Splitter
-revid: 229609
+revid: 234647
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Legendary Weapons, Relics, Relic Weapon]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Legendary Weapons, Relics, Relic Weapon]
 ---
 
 # Fondant Splitter
@@ -21,6 +21,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | swing speed | 1x |
 | attack duration | 0.6s |
 | penetration | 5% |
+| talent | Fondant Delicacy - Using your Critical will allow you to eat bits off your weapon, restoring small amounts of health. This is amplified if you possess Artisan/Master Chef, or Umami. |
 | special effect | The critical heals the user. The amount healed can be increased with the Umami and Tavernkeep Talents. |
 | m.equip | No |
 | m.extract | No |
@@ -50,6 +51,12 @@ The Fondant Splitter is obtained through [The Cold Forge](The_Cold_Forge.md) by 
 The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it an extra 4 health on critical attack and a 35% chance to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc.
 
 Additionally, the Fondant Splitter's critical is buffed further when the player has all [Chef Talents](Talents.md#tavernkeep).
+
+## Talents
+
+Equipping the Fondant Splitter grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Fondant Delicacy**](Talents.md#fondant-delicacy) lets your critical actually do something. It wouldn't do anything without this Talent.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 231750
+revid: 234533
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -243,10 +243,10 @@ Obtained after the third Sinner kill
 
 -   Deals 20 damage on the first hit and 16.8 on the second, both with 1.65 Strength scaling and 14.44 PVE scaling.
 -   Initial hit uppercuts
-    -   For some odd reason, the second hit does not apply Charm from Charismatic Cast.
+    -   The second hit does not apply Charm from Charismatic Cast.
     -   Deals 8 posture damage per hit (2).
     -   Initial 0.5 second windup (with wings) and a 20 second cooldown.
-    -   Can be enhanced with Celestial Boots (Currently bugged as of September 27th 2026)
+    -   Can be enhanced with [Celestial Boots](Celestial_Boots.md).
 
  |
 

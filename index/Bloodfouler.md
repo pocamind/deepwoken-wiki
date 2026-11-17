@@ -1,9 +1,9 @@
 ---
 title: Bloodfouler
-revid: 228150
+revid: 234663
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, Heavy Weapons, Weapons of The Ministry]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, Heavy Weapons, Weapons of The Ministry]
 ---
 
 # Bloodfouler
@@ -18,10 +18,11 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, "Attunemen
 | scaling | HVY: 5, BLD: 4 |
 | posture damage | 8.5 |
 | range | 9.5 Sweep |
-| swing speed | 0.86x |
+| swing speed | 0.82x |
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 20% |
+| talent | Leeching Edge - Your Basic Attacks siphon blood off your opponents, restoring your own. Your Critical applies Blood Poison on hit. |
 | special effect | Restores a percentage of the users blood upon landing m1 |
 | m.equip | No |
 | m.extract | No |
@@ -48,7 +49,13 @@ The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 
-It can also be obtained as a direct drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+It can also be obtained as a direct drop from Chaser, as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+
+## Talents
+
+Equipping the Bloodfouler grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Leeching Edge**](Talents.md#leeching-edge)
 
 ## Critical
 

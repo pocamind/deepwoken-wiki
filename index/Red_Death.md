@@ -1,9 +1,9 @@
 ---
 title: Red Death
-revid: 230479
+revid: 234614
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons with Unique Animations, Weapons of The Ministry]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons with Unique Animations, Weapons of The Ministry]
 ---
 
 # Red Death
@@ -15,13 +15,13 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | requirements | 30 MED, 35 BLD, 45 SDW, 25 MND, LVL 8 |
 | oath | Silentheart |
 | damage | 16 + 2.4 BLD |
-| scaling | 2.5 MED, 3 BLD, 3 SDW, 2 MND |
+| scaling | 2.5 MED; 3 BLD; 3 SDW; 2 MND |
 | posture damage | 6 |
 | range | 9.5 Lunge |
 | swing speed | 0.92x |
 | attack duration | 0.7s |
 | penetration | 25% |
-| special effect | Executing a humanoid will leave no traces of their corpse behind. |
+| talent | Tainted Blade - Your Critical Attack applies Blood Poison, and Shadowcast inflictions. Executing an enemy with this weapon will remove any trace of them. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -41,9 +41,11 @@ Variants: [Black Death](Black_Death.md)
 
 The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md). It is also sold by [Traan Zakshun](Traan_Zakshun.md) in the black market rotation for 4.
 
-The Red Death comes with a passive ability:
+## Talents
 
--   **No Trace Behind** - After a executing humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
+Equipping the Red Death grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Tainted Blade**](Talents.md#tainted-blade) allows your weapon's critical to apply Blood Poison. Furthermore, after executing humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
 
 ## Critical
 

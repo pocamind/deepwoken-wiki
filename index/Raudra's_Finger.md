@@ -1,6 +1,6 @@
 ---
 title: "Raudra's Finger"
-revid: 234247
+revid: 234481
 source: https://deepwoken.fandom.com/wiki/Raudra's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -31,7 +31,7 @@ Variants: [Pendant Earrings](<Raudra's_Pendant_Earrings.md>)
 
 ## Description
 
-**Raudra's Finger** is a Ring [Equipment](Equipment.md) that gains more damage by being combat-tagged by mobs and players.
+Raudra's Finger is a Ring [Equipment](Equipment.md) that gains more damage by being combat-tagged by mobs and players.
 
 The [Raudra's Pride](Talents.md#raudras-pride) Talent you gain +3% damage for each player and +1% damage for each mob that has combat-tagged you. At 5 stacks, Vent to burn your stacks and reset all cooldowns.
 

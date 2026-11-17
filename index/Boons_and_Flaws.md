@@ -306,7 +306,7 @@ Some boons are more worth taking than others:
 
 ### Autodidact
 
-**Autodidact** grants 3 Free Training points on every level up, allowing the user to increase their stats further, at the cost of General Experience.
+**Autodidact** grants 3 [Free Training](Free_Trainings.md) points on every level up, allowing the user to increase their stats further, at the cost of General Experience.
 
 -   Notes:
     -   Autodidact is very useful to help level up slow-leveling stats faster, such as [Attunements](Attunements.md) when you don't have any related Mantras or certain core attributes.

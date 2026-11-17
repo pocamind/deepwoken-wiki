@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 234389
+revid: 234554
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
@@ -37,12 +37,13 @@ With 2026 Hallowtide, came with the '26 medal on top of the [equipments](Equipme
 6.  [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[35 Joy\]
 7.  [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
 8.  [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
-9.  [Hallowtide Race Variant](Hallowtide.md#aspect-variants) \[70 Joy\] - Unlocks a Hallowtide racial variant for all of your races. This purchase is account-wide, unlocking for your current and future slots and races.
-10.  [Hallowtide '26 Medal](Seasonal_Medals.md) \[300 Joy\] - Read Below
-11.  [Hallowtide '25 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
-12.  [Hallowtide '24 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
-13.  [Hallowtide '23 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
-14.  [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+9.  [Harvestman's Halo](<Harvestman's_Halo.md>) \[25000 Joy\]
+10.  [Hallowtide Race Variant](Hallowtide.md#aspect-variants) \[70 Joy\] - Unlocks a Hallowtide racial variant for all of your races. This purchase is account-wide, unlocking for your current and future slots and races.
+11.  [Hallowtide '26 Medal](Seasonal_Medals.md) \[300 Joy\] - Read Below
+12.  [Hallowtide '25 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+13.  [Hallowtide '24 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+14.  [Hallowtide '23 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+15.  [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
     -   Can be used to trade in your [Knowledge](Knowledge.md) in exchange for Hallowtide-exclusive items released during its respective year at a [Blacksmith](Blacksmith.md). Read more on [Seasonal Medals](Seasonal_Medals.md)
         
 

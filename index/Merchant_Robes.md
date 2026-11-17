@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 229426
+revid: 234681
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -12,9 +12,9 @@ notices:
 
 | Merchant Robes | |
 |---|---|
-| caption | A set of merchant robes, great for selling things not so great for battle. |
+| caption | A set of merchant robes. Great for selling things - not so great for battle. |
 | tier | Starter |
-| crafting_req | 5x Cloth, 5x Fiber |
+| crafting_req | 3x Cloth, 1x Fiber |
 | price | 25 |
 | bankable | Yes |
 | droppable | Yes |
@@ -32,7 +32,7 @@ notices:
 
 ### _Requirements_
 
-This Outfit costs 25 and requires five (5) [Cloth](Cloth.md) and five (5) [Fiber](Fiber.md) to craft.
+This Outfit costs 25 and requires three (3) [Cloth](Cloth.md) and one (1) [Fiber](Fiber.md) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 

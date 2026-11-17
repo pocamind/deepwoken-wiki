@@ -402,7 +402,7 @@ _This section is transcluded from [Talents § Gunslinger](Talents.md#gunslinger)
     -   The extra damage is true damage.
     -   Does not work with [Unnecessary Theatrics](Talents.md#unnecessary-theatrics) and [Dazing Finisher](Talents.md#dazing-finisher).  
         
-    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a [Pistol](Pistols.md)  
+    -   Prerequisites: 90 Medium Weapon // 90 Heavy Weapon, 90 Light Weapon, Using a [Pistol](Pistols.md)  
         
     -   Mutual Exclusives: [Hip Shooter](Talents.md#hip-shooter)  
         

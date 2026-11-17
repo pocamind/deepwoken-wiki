@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 231925
+revid: 234526
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -214,6 +214,13 @@ Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Galpin
 
 Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Adrofalis](Adrofalis.md), [Akira](Akira.md), [Alina Sokolof](Alina_Sokolof.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>), [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
+### The Hundred Legions
+
+-   An empire that spawns much of the [Western Luminant](#western-luminant), and a rival to the [Central Authority](#central-authority).
+-   Though there have always been tensions between the [Hundred Legions](#hundred-legions) and the [Central Authority](#central-authority), they have come to a head in recent years, threatening to erupt into all-out war.
+
+Dialogue: [Raudra](Raudra,_the_Winged_Lion.md) | Books: | Glossary Entries:
+
 ### The Old Stewards
 
 -   Keepers of the knowledge of the [Old World](#the-old-world), the Old Stewards are an organisation clad in esotericism and mystique.
@@ -232,7 +239,7 @@ Dialogue: [Adrofalis](Adrofalis.md) after maxing [Saltchemist](Oath%253A_Saltche
 -   The Starkindred Church is a powerful organisation that stands as the religious authority over the Starkindred Faith. Much of the West is held by their influence, possessing a military and political strength that rivals the Hundred Legions.
 -   Where remnants of the [Heavens](#the-heavens) have fallen to [Lumen](#lumen), the Starkindred Church is never far away, hoping to safeguard and retrieve any relics.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Ezra](Ezra.md), [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross), [The Western Luminant](#the-western-luminant)
+Dialogue: [Adrofalis](Adrofalis.md), [Ezra](Ezra.md), [Raudra](Raudra,_the_Winged_Lion.md), [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross), [The Western Luminant](#the-western-luminant)
 
 ## Notable Figures
 
@@ -368,7 +375,7 @@ Dialogue: | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Att
 -   The ability to manipulate flesh and blood through the [Song](#the-song).
 -   Rarely wielded with precision, most make use of Bloodrend for its destructive capabilities.
 
-Dialogue: [Vyrelda](Vyrelda,_Master_of_Blood.md) | Books: | Glossary Entries:
+Dialogue: [Raudra](Raudra,_the_Winged_Lion.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) | Books: | Glossary Entries:
 
 ### Flamecharm
 
@@ -465,7 +472,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Old Stranger](Old_Stranger
 -   An extension of the [Song](#the-song) brought about by swearing a [Vow](#vows) to oneself.
 -   By expanding upon the [Song](#the-song) and incorporating a self-sworn [Vow](#vows) in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [??? (Blindseer Glyphs)](<%253F%253F%253F_(Blindseer_Glyphs).md>), [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Samael](Samael.md), [The Dreadstar](The_Dreadstar.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vows](#vows)
+Dialogue: [??? (Blindseer Glyphs)](<%253F%253F%253F_(Blindseer_Glyphs).md>), [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raudra](Raudra,_the_Winged_Lion.md), [Samael](Samael.md), [The Dreadstar](The_Dreadstar.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vows](#vows)
 
 ### Radiant Tones
 
@@ -656,7 +663,7 @@ Dialogue: | Books: [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries:
 -   All living humans possess an 'Aspect', a peculiar trait that is passed down through the generations.
 -   Many Aspects cause their inheritor to take on the traits of a particular animal. Rarely, Aspects can take on the traits of something more abstract.
 
-Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Canor](#canor), [Hereditary Vow](#hereditary-vow)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raudra](Raudra,_the_Winged_Lion.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Canor](#canor), [Hereditary Vow](#hereditary-vow)
 
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the Aspects of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 -   Bridges suggested that the traits of the Aspects could be the result of early worship of animals or of the land.

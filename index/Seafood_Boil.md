@@ -1,6 +1,6 @@
 ---
 title: Seafood Boil
-revid: 229474
+revid: 234514
 source: https://deepwoken.fandom.com/wiki/Seafood_Boil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -22,11 +22,11 @@ categories: [Food]
 | droppable | Yes |
 | pass down | No |
 | desc | Wow! What a meal! |
-| obtainment | The Meat Lord (2 ), Travelling Merchant |
+| obtainment | Fabantou (50 when max Authority Ensign rank), The Meat Lord (2 ), Travelling Merchant |
 
 ## Description
 
-**Seafood Boil** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2 and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random.
+**Seafood Boil** is a craftable [Food](Food.md) item. It is also purchased from [Fabantou](Fabantou.md) when maximum rank within an [Authority Ensign](Authority_Ensign.md) division for 50, [The Meat Lord](The_Meat_Lord.md) for 2 and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

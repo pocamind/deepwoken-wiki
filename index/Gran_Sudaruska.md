@@ -1,9 +1,9 @@
 ---
 title: Gran Sudaruska
-revid: 232837
+revid: 234656
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Weapons with Talents, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Gran Sudaruska
@@ -22,6 +22,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 5% |
+| talent | Sudaruska's Fury - Landing 3 Basic Attacks will rain down Ice Shards, with a 15s CD. |
 | special effect | Rain down Ice Shards after 3 M1 hits, Talks when killing Ministry NPCs, Contractors or users of Prophet's Cloak |
 | m.equip | No |
 | m.extract | No |
@@ -40,11 +41,15 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 
 **Gran Sudaruska** is a Legendary [Greataxe](Weapons.md); a tall and heavy black bat-winged battleaxe fused by frost and Sudaruska's soul, lighting it with cold color. It scales with both Heavy and [Frostdraw](Frostdraw.md).
 
-**Gran Sudaruska** comes with two passive abilities:
-
--   **Sudaruska's Fury** - Landing three basic attacks on an enemy makes 12 ice crystals rain from the sky, each crystal dealing 20 PvP damage or 259.2 PvE damage. The area that an ice crystal lands on will have ice applied on the floor. 15 second cooldown.
+**Gran Sudaruska** comes with a special passive:
 
 -   **Vengeful Soul** - After gripping a player with the [Contractor](Oath%253A_Contractor.md) Oath, [Prophet's Cloak](<Prophet's_Cloak.md>) outfit or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them. Additionally, killing a [Rogue Construct](Rogue_Construct.md) will make Gran Sudaruska talk as well.
+
+## Talents
+
+Equipping the Gran Sudaruska grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Sudaruska's Fury**](Talents.md#sudaruskas-fury) rains down 12 ice crystals from the sky after landing three basic attacks on an enemy, each crystal dealing 20 Frostdraw damage or 259.2 PvE damage. The area that an ice crystal lands on will have ice applied on the floor. 15 second cooldown.
 
 ## Critical
 
@@ -78,9 +83,9 @@ The critical has a cooldown of **10 seconds.**
         -   "You will not take my home."
         -   "Your cause is a poison to this world, pawn."
         -   "Your own Depths shall take you."
-    -   Killing 2 or more enemies that would trigger Gran Sudaruska's voice lines at once will only make her say one voice line instead of stacking both on top of each other.
+    -   Killing two or more enemies that would trigger Gran Sudaruska's voice lines at once will only make her say one voice line instead of stacking both on top of each other.
     -   All Gran Sudaruska dialogues last for 8 seconds.
-    -   Some of her lines are very similar (likely as a result of inspiration) to the dialogue of _[Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix)_, the final boss of [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2).
+    -   Some of her lines are very similar (likely as a result of inspiration) to the dialogue of [Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix), the final boss of _[Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2)_.
         -   "False strength." is one of Mithrix's quotes.
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
 -   The runes on the blade are Elder Futhark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".

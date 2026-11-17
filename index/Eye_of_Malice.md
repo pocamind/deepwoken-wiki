@@ -1,9 +1,9 @@
 ---
 title: Eye of Malice
-revid: 226770
+revid: 234659
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, Legendary Weapons, Medium Weapons]
+categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, Legendary Weapons, Medium Weapons]
 ---
 
 # Eye of Malice
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | attack duration | 0.7s |
 | penetration | 25% |
 | chip damage | 15% |
+| talent | Cursed Mark - Landing a Basic Attack on your opponent marks them, allowing you to see them through walls for 30s. |
 | special effect | Apply the Mark of Malice on basic attacks, enhancing the critical. |
 | m.equip | No |
 | m.extract | No |
@@ -39,9 +40,11 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 
 The Eye of Malice is a Legendary [Medium Sword](Weapons.md) that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several bony segments, with a protrusion in one of the segments.
 
-This weapon has one passive ability:
+## Talents
 
-**Gaze of The Doom** - Every basic attack applies the Mark of Malice, enhancing the critical. Signified by an orange eye with swirling effects.
+Equipping the Eye of Malice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Cursed Mark**](Talents.md#cursed-mark) applies the Mark of Malice on every basic attack, enhancing the critical. Signified by an orange eye with swirling effects.
 
 ## Critical
 

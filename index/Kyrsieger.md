@@ -1,9 +1,9 @@
 ---
 title: Kyrsieger
-revid: 213991
+revid: 234605
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
+categories: [Weapons, Weapons with Talents, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
 ---
 
 # Kyrsieger
@@ -38,6 +38,10 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 ## Description
 
 The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, manipulating a fraction of Ethiron's power to unleash a devastating blast of energy.
+
+## Talents
+
+Equipping the Kyrsieger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

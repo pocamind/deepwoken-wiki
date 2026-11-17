@@ -34,7 +34,7 @@ Subscribe
 
 ](https://www.youtube.com/@DeepwokenWiki)
 
-This wiki hosts **2,567 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
+This wiki hosts **2,577 articles** about Deepwoken. Feel free to browse through this wiki if you want to find information on the game! **Please note** that **some information may be incorrect**, so if you would, **update the information as needed.** Be aware of Fandom's [Community Guidelines](https://community.fandom.com/wiki/Fandom_Community_Guidelines), the Wiki's [Rules](Rules.md) and Policy, there are other people waiting to read this Wiki other than you!
 
 Navigation
 
@@ -124,6 +124,29 @@ Navigation
 
 Blog Posts
 
+Mqnke Mqnke • 18 hours ago
+
+1
+
+## Inception In Practice
+
+The duke is the victim in midnight motorist (blue)
+
+See my true purpose in this blog post is to share light on a topic that many may not actually know about or even have heard of.
+
+Propaganda works very well, as we've seen when the 6th king of Etrea came out as homosexual, his name was slandered beyond repair and he had to wipe to make his kingdom great again.
+
+Do not fear.
+
+  
+I have not yet attained homelessness.
+
+Salvation will come, yet I shall not bring i…
+
+  
+
+Read Full Post
+
 KoniTterfly KoniTterfly • 9 October
 
 3
@@ -136,7 +159,7 @@ Read Full Post
 
 YurinaRage YurinaRage • 11 August
 
-5
+6
 
 ## Sara Mead
 
@@ -159,16 +182,6 @@ YurinaRage YurinaRage • 19 June
 **Deen Wolken**, better known as Deepwoken, was a marine archaeologist who was best known for discovering deep-sea layers known as The Depths. His diving career began at the age of eleven, where at that time his family recently moved to the coasts of Scary Puerto Rico.
 
 Following his discovery, Deen awakened the Deep, causing the drowning of his unfiled tax returns and giant female electrical towers. Everyone will be doomed at 11:52 P.M. before they k…
-
-Read Full Post
-
-The Best Guy Here. The Best Guy Here. • 15 May
-
-6
-
-## The Guy have a new disciple.
-
-I met this chud named **Browhyme** at starswept and they had the daring to try and insult The Guy, so I made them my disciple.
 
 Read Full Post
 

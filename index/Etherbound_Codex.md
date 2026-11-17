@@ -1,6 +1,6 @@
 ---
 title: Etherbound Codex
-revid: 233706
+revid: 234697
 source: https://deepwoken.fandom.com/wiki/Etherbound_Codex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -19,7 +19,7 @@ categories: [Items, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | A manuscript scant in information on methods to further reinforce armor with Ether. Only a select few pages are legible. |
-| obtainment | Battle Royale (5 Points/Victory), War Mode (rare drop), Weird Trader, Sold in Traan Zakshun's black market for 7 , Jeremiah |
+| obtainment | Battle Royale (5 Points/Victory), War Mode (rare drop), Weird Trader, Sold in Traan Zakshun's black market for 7 , Sold in Raudra, the Winged Lion's victorious grandeur for 10 , Jeremiah |
 
 ## Description
 
@@ -30,7 +30,7 @@ The **Etherbound Codex** is an unusable tome Item. Its only use is in crafting [
 The Etherbound Codex can craft into several items using the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md)
-    -   [Shiva's Pendant Earrings](<Raudra's_Pendant_Earrings.md>): [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1x Etherbound Codex
+    -   [Raudra's Pendant Earrings](<Raudra's_Pendant_Earrings.md>): [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1x Etherbound Codex
     -   [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md): [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x Etherbound Codex + 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
     -   [Ossified Barrel Helm](Ossified_Barrel_Helm.md): [Barrel Helm](Barrel_Helm.md) + 1x Etherbound Codex + 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
     -   [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md): [Simple Pauldrons](Simple_Pauldrons.md) + 1x Etherbound Codex + 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
@@ -42,4 +42,4 @@ The Etherbound Codex can craft into several items using the [Lost Forge](Lost_Fo
 
 ## Trivia
 
--   Originally known as the " Shiva's Codex".
+-   Originally known as the "Shiva's Codex".

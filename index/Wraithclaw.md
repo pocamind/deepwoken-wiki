@@ -1,9 +1,9 @@
 ---
 title: Wraithclaw
-revid: 228266
+revid: 234638
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
 ---
 
 # Wraithclaw
@@ -22,7 +22,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | attack duration | 0.5s |
 | penetration | 10% |
 | chip damage | 15% |
-| special effect | Aftercut is applied to all attacks. |
+| talent | Razor Wind - The wind infused within your weapon allows you to passively inflict Aftercut on every swing. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -58,6 +58,12 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 -   [The Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
+## Talents
+
+Equipping the Wraithclaw grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Razor Wind**](Talents.md#razor-wind) ensures M1 attacks now apply Aftercut, dealing 5% of the initial damage of the attack.
+
 ## Critical
 
 The Wraithclaw has **two** criticals.
@@ -79,6 +85,6 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   While using the criticals it will play the sound of a bear roaring.
 -   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1)

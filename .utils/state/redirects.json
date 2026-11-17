@@ -3877,6 +3877,9 @@
   "Rat King": {
     "to": "Dravik, The Rat King"
   },
+  "Raudra": {
+    "to": "Raudra, the Winged Lion"
+  },
   "Rayner": {
     "to": "Commander Rayner"
   },
@@ -4490,6 +4493,9 @@
   },
   "Something Twisted": {
     "to": "Mindless Servant"
+  },
+  "Songbook": {
+    "to": "Instruments"
   },
   "Songchant": {
     "to": "Traits",

@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 229424
+revid: 234679
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits]
@@ -12,9 +12,9 @@ notices:
 
 | Hired Mercenary | |
 |---|---|
-| caption | A basic set of armor perfect for taking on the world!... Uhhhh... yeah. |
+| caption | A simple set of padded armor. Very much the sort a mercenary might purchase after their first job, having now realised how woefully unprepared they were. |
 | tier | Starter |
-| crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
+| crafting_req | x3 Cloth, x1 Fiber, x1 Iron |
 | price | 25 |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,7 +31,7 @@ notices:
 
 ### _Requirements_
 
-This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit costs 25 and requires three (3) [Cloth](Cloth.md), one (1) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
@@ -41,5 +41,6 @@ This Outfit has 1000 durability, grants +15% Physical resistance ResistancePhysi
 
 ## Trivia
 
--   Oddly enough, given the name, you can see [Karliah](Karliah.md) wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
+-   [Karliah](Karliah.md) can be seen wearing this Outfit in one of the endings after completing [her quest](Etris.md#diver-escort-quest).
 -   Used to be called "DawnBringer" long ago, some people might still have the schematic with such name.
+-   It's previous description read: "A basic set of armor perfect for taking on the world!... Uhhhh... yeah."

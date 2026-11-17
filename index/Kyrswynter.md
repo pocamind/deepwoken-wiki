@@ -1,9 +1,9 @@
 ---
 title: Kyrswynter
-revid: 229538
+revid: 234627
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, Kyrs series]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, Kyrs series]
 ---
 
 # Kyrswynter
@@ -15,14 +15,14 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "A
 | requirements | 50 MED, 75 ICE |
 | oath | Silentheart |
 | damage | 17 + 2.55 BLD |
-| scaling | MED: 5, ICE: 4 |
+| scaling | 5 MED; 4 ICE |
 | posture damage | 6 |
 | range | 9 Lunge |
 | swing speed | 0.97x |
 | attack duration | 0.6s |
 | penetration | 20% |
 | chip damage | 5% |
-| special effect | Upon flourishing, unleash a frigid explosion. Procs chilled and ragdolls your opponent. |
+| talent | Subzero Strike - After landing 3 Basic Attacks, your Flourish will cause an icey [sic] explosion, dealing extra damage and exploding any Crystals. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -40,18 +40,20 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "A
 
 The **Kyrswynter** is a Legendary Spear; an intricate curved and wrapped white polearm, its blue-white coloration indicating the frost of the [Kyrsgarde](Kyrsgarde.md), and the patterns under its hilt indicating the winds of the Eternal Gale. It is obtained from [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md).
 
-The Kyrswynter comes with a single passive ability:
-
--   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#dazing-finisher) does not proc.)
-
-## Obtainment
-
 The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
 1.  Have **75** Frostdraw and obtain the Talent [Ethiron's Gaze](Talent_Quests.md).
 2.  Speak to [Naerotiv](Naerotiv.md). He is along the path to the right of the first shrine near spawn.
 3.  Defeat the [Scion of Ethiron](Scion_of_Ethiron.md).
-4.  Go to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing and speak to him. You need the 75 Frostdraw to **obtain** the Kyrswynter but you need points in Medium Weapon to **equip** the Kyrswynter. \*(Note that only **ONE** Kyrswynter may be obtained per character).
+4.  Go to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing and speak to him. You need the 75 Frostdraw to **obtain** the Kyrswynter but you need points in Medium Weapon to **equip** the Kyrswynter.
+
+Only one Kyrswynter may be obtained per character).
+
+## Talents
+
+Equipping the Kyrswynter grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Subzero Strike**](Talents.md#subzero-strike) activates on flourish, causing enemies to be blasted away by an explosion, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#dazing-finisher) does not proc.)
 
 ## Criticals
 

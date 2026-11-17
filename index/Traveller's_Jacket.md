@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 223232
+revid: 234531
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Outfits, Outfits with Variants]
@@ -17,7 +17,7 @@ categories: [Starter Outfits, Outfits, Outfits with Variants]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +10% Physical Armor |
+| resistances | +5% Physical Armor , +5% Elemental Armor |
 | obtainment | Automatically learned, Steampunk Soldier Memento |
 | selling_price | N/A |
 | weight | 1 |
@@ -34,7 +34,9 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +10% Physical resistance ResistancePhysical.
+This Outfit has 1000 durability and grants +5% Physical resistance ResistancePhysical and +5% Elemental resistance [ResistanceElemental](Attunements.md).
+
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 5% Physical ResistancePhysical, 5% Elemental [ResistanceElemental](Attunements.md).
 
 ## Trivia
 

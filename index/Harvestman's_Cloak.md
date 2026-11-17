@@ -1,6 +1,6 @@
 ---
 title: "Harvestman's Cloak"
-revid: 233845
+revid: 234518
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
@@ -34,7 +34,7 @@ Variants: [Halo](<Harvestman's_Halo.md>)
 
 The Harvestman's Cloak is an [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Cursed Pumpkin](Talents.md#cursed-pumpkin) Talent doubles the damage of the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra.
+The [Cursed Pumpkin](Talents.md#cursed-pumpkin) Talent doubles the damage of the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra while increasing the cooldown to 10 seconds.
 
 ## Trivia
 

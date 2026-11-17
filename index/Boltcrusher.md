@@ -1,9 +1,9 @@
 ---
 title: Boltcrusher
-revid: 223642
+revid: 234645
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
 ---
 
 # Boltcrusher
@@ -23,7 +23,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 | endlag | 0.15s |
 | penetration | 20% |
 | chip damage | 5% |
-| special effect | Applies Shock/Surge stacks on hitCan mine ores |
+| talent | Conducting Impact - Your weapon will inflict your Thundercall elemental effect on basic attacks. Additionally, you can mines ores with the weapon itself. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -45,10 +45,11 @@ Drilling-edge [Ignition Union](The_Ignition_Union.md) technology, the Boltcrushe
 
 The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finnegan_The_Lost.md), an enemy NPC found in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) as part of the "[Drowned Delver](Finnegan_The_Lost.md)" Job. The Job itself can be taken from [Job Boards](Job_Boards.md) scattered in a variety of locations, with an increased spawnrate at [the Chariot's Spire](<The_Chariot's_Spire.md>).
 
-The Boltcrusher comes with two passive abilities:
+## Talents
 
--   **Powered By A Spark** - Every basic attack will apply [Shocked](Status_Effects.md#shock) or Surge stacks.
--   **Mining Sufficient** - The Boltcrusher is capable of mining [Ores](Ores.md), and with greater efficiency.
+Equipping the Boltcrusher grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Conducting Impact**](Talents.md#conducting-impact) causes basic attacks to apply [Shocked](Status_Effects.md#shock) or Surge stacks, while allowing the Boltcrusher to mine [Ores](Ores.md), and with greater efficiency.
 
 ## Critical
 

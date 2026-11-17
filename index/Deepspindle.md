@@ -1,9 +1,9 @@
 ---
 title: Deepspindle
-revid: 227331
+revid: 234601
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Ministry]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Ministry]
 ---
 
 # Deepspindle
@@ -21,7 +21,8 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rapiers, "
 | swing speed | 1.09x |
 | attack duration | 0.5s |
 | penetration | 20% |
-| special effect | Procs Shadowcast Talents on critical hits.Has synergies with the Deepscorn Casque and Darkened Bastion |
+| talent | Abyssal Drain - Your Critical can inflict Shadowcast Talents. |
+| special effect | Has synergies with the Deepscorn Casque and Darkened Bastion |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -41,7 +42,7 @@ The **Deepspindle** is a Legendary [Rapier](Weapons.md#rapiers); a malevolent ma
 
 This weapon comes with the following passive:
 
--   **Understrand's Connection** - Utilizing the Deepspindle with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul equipped will apply 25% of your weapon's scaled damage as Wither on M1s. The self-damage inflicted by the running critical is removed with [Deepscorn Casque](Deepscorn_Casque.md)'s Already Dead talent.
+-   **Understrand's Connection** - Utilizing the Deepspindle with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul equipped will apply 25% of your weapon's scaled damage as Wither on M1s. The self-damage inflicted by the running critical is removed with [Deepscorn Casque](Deepscorn_Casque.md)'s Already Dead Talent.
 
 The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent, or by chance from a random related event:
 
@@ -54,6 +55,10 @@ The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent
     -   Depending on the type of event, the fight will initiate differently: [Silhuett's](Silhuett.md) entrance always guarantee a [Ministry Agent](Ministry_Agent.md), while random spawned entrances will have the fight differ regarding your reputation with the Ministry.
     -   The guaranteed drops from Silhuett's event can only be obtained once per slot; corresponding fights with the Ministry Agent will only guarantee the [Deepscorn Casque](Deepscorn_Casque.md).
     -   Assuming Ally reputation with [The Ministry](The_Ministry.md), Silhuett's event's fight can be skipped immediately, giving you all the items; while random spawned events will allow you to fight a [Black Diver](<Black_Diver_(NPC).md>) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) instead. Low/Neutral reputation random encounters will still have you fight the Ministry Agent, but will not guarantee drops like [Silhuett's](Silhuett.md) event. It should be mentioned that Broodlords and Black Divers WILL drop the same chest as the Agent, so these may be better grinding options for some, as their health pools are significantly smaller and their ai significantly easier.
+
+## Talents
+
+Equipping the Deepspindle grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

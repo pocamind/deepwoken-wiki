@@ -1,9 +1,9 @@
 ---
 title: Guiding Star
-revid: 225375
+revid: 234665
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Chainwarden, Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Bows, Weapons of The Children of Navae]
+categories: [Weapons that cannot be equipped on Chainwarden, Weapons, Weapons with Talents, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Bows, Weapons of The Children of Navae]
 ---
 
 # Guiding Star
@@ -21,7 +21,7 @@ categories: [Weapons that cannot be equipped on Chainwarden, Weapons, Weapons wi
 | swing speed | 1x |
 | attack duration | 0.6s |
 | penetration | 10% |
-| special effect | Basic and critical attacks will cost Ether. |
+| talent | Ether Arrow - Your Basic Attacks cost small amounts of Ether to initiate. At 0 Ether, your attack will deal 20% less damage. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
@@ -41,9 +41,11 @@ The **Guiding Star** is a Legendary [Bow](Weapons.md); a set of antlers as its l
 
 The bow is obtained through the "[Lodestar Bounty](Lodestar.md)" Job as a guaranteed drop. The Job itself can be found at the [Summer Isle](Summer_Isle.md) [job board](Job_Boards.md) and the [Starswept Valley](The_Starswept_Valley.md) job board although rarer in Starswept.
 
-This weapon comes with the following passive:
+## Talents
 
--   **Mind's Arrow** - The Guiding Star consumes small amounts of Ether to fire arrows. If the user has no Ether, it will deal 20% less damage. Critical is affected by ranged attacks damage resistance.
+Equipping the Guiding Star grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Ether Arrow**](Talents.md#ether-arrow) consumes small amounts of Ether to fire arrows. If the user has no Ether, it will deal 20% less damage. Critical is affected by ranged attacks damage resistance.
 
 ## Critical
 

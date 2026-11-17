@@ -1004,7 +1004,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Bloodrender
 
--   **Bloodrender** \[Mantra Level Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] replenish your blood, steal blood and apply '[Blood Poisoning](../Status_Effects.md#blood-poisoning)'.
+-   **Bloodrender** \[Mantra Level Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply '[Blood Poisoning](../Status_Effects.md#blood-poisoning)'.
     -   [Blood Poison](../Status_Effects.md#blood-poison) is an effect that is overlayed on top of your opponent's blood bar. Upon reaching certain Blood Poison thresholds (percentage of the blood bar covered with Poison), you will apply debuffs to the target and may proc certain conditional Talent effects.
     -   Blood poison passively drains over time, requiring you to constantly apply pressure to maintain the debuffs.
     -   See [Bloodrend](../Bloodrend.md#trivia) for more info.  
@@ -1013,21 +1013,21 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Common Talent\] \[Bloodrend\] \[Debuff\]
 
--   **Adept Bloodrender** \[Mantra Level Talent\] - You can now obtain 1-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Adept Bloodrender** \[Mantra Level Talent\] - You can now obtain 1-star Bloodrender mantras.
     -   This Talent will be removed from you if you no longer meet its requirements.  
         
     -   Prerequisites: Obtained at 20 Bloodrend  
         
     -   Tags: \[Common Talent\] \[Bloodrend\] \[Hard Requirements\]
 
--   **Expert Bloodrender** \[Mantra Level Talent\] - You can now obtain 2-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Expert Bloodrender** \[Mantra Level Talent\] - You can now obtain 2-star Bloodrender mantras.
     -   This Talent will be removed from you if you no longer meet its requirements.  
         
     -   Prerequisites: Obtained at 30 Bloodrend  
         
     -   Tags: \[Common Talent\] \[Bloodrend\] \[Hard Requirements\]
 
--   **Master Bloodrender** \[Mantra Level Talent\] - You can now obtain 3-star Bloodrender mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
+-   **Master Bloodrender** \[Mantra Level Talent\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
     -   This Talent will be removed from you if you no longer meet its requirements.  
         
     -   Prerequisites: Obtained at 50 Bloodrend  
@@ -1038,15 +1038,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     
     -   Prerequisites: 35 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\] \[weapon Attack\]
+    -   Tags: \[Bloodrend\] \[Flourish\] \[Guardbreak\] \[Weapon Attack\]
 
--   **First Blood** \[Common Talent\] - Your first blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use in combat has no blood cost and deals additional blood drain. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+-   **First Blood** \[Common Talent\] - Your first blood mantra you use in combat has no blood cost and deals additional blood drain.
     
     -   Prerequisites: 10 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Mantra\]
 
--   **Hemorrhaging Blow** \[Rare Talent\] - Block breaking your opponent with a blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] turns your opponent's combat healing into damage for 8 seconds
+-   **Hemorrhaging Blow** \[Rare Talent\] - Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds
     -   55 second cooldown, with the cooldown starting on guard break.
     -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
     -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however doesn't work on things like Health Regen Potions or [Conditioned Runner](../Talents.md#conditioned-runner) as that they are forms of passive healing.
@@ -1066,32 +1066,32 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Grants a 30% [Speed Boost](../Status_Effects.md#speed-boost). This counts for Talents such as [Speed Demon](../Talents.md#speed-demon) and [Cheap Shot](../Talents.md#cheap-shot).
     -   Recover 5% Blood when dealing damage (0.35s cooldown). [Burn](../Status_Effects.md#burn) damage cannot proc this effect.
     -   If you have the [Enhanced Flow](../Talents.md#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](../Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
-    -   Having Rush Hour active doubles the duration of the [Torture Mastery](../Talents.md#torture-mastery) status effect.  
+    -   Having Rush Hour active doubles the duration of the [Torture Mastery](../Talents.md#torture-mastery) status effect.
+    -   ragdolled automatically cancel your Rush Hour. (Brick Wall not verified.)  
         
     -   Prerequisites: 50 Bloodrend  
         
     -   Tags: \[Bloodrend\] \[Damage Buff\] \[Speed Boost\] \[Tool\]
 
--   **Sanguine Siphon** \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Sanguine Siphon** \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
     -   Buffs the next Mantra's damage by 25% upon proccing, signified by flowing blood out of your hands.
     -   Effect lasts 15s before disappearing.  
         
     -   Prerequisites: 40 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\] \[Mantra\], \[Weaoon Attack\]
+    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Damage Buff\] \[Mantra\] \[Weapon Attack\]
 
 -   **Blood Bag** \[Common Talent\] - You receive extra blood from knocking an enemy.
     
     -   Prerequisites: 20 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Grip\]
+    -   Tags: \[Bloodrend\] \[Knock\]
 
--   **Blood Transfusion** \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar.
-    -   20 second cooldown.  
-        
+-   **Blood Transfusion** \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second cooldown)
+    
     -   Prerequisites: 60 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Critical Attack\]
+    -   Tags: \[Bloodrend\] \[Critical Attack\] \[Debuff\] \[Weapon Attack\]
 
 -   **Just a Taste** \[Common Talent\] - First Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you hit in combat has increased blood drain.
     -   Currently does not work.  
@@ -1100,11 +1100,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         
     -   Tags: \[Bloodrend\] \[Mantra\]
 
--   **Open Wound** \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   **Open Wound** \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
     
     -   Prerequisites: 40 Bloodrend  
         
-    -   Tags: \[Bloodrend\] \[Guardbreak\]
+    -   Tags: \[Bloodrend\] \[Guardbreak\] \[Mantra\]
 
 ### Bloodsong
 

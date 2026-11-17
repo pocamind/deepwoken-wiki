@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 231221
+revid: 234559
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -49,10 +49,10 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | Emote Name | Description | Showcase |
 | --- | --- | --- |
 | Crying | Break down into exaggerated sobbing while looking around for sympathy. |  |
-| Goopie | Perfrom the Goopie, a dance originating from TikTok created by goopie. |  |
+| Goopie | Perfrom the Goopie, a dance originating from TikTok created by goopie.[\[2\]](#cite-note-2) |  |
 | Griddy | Swing your arms while tapping your feet. |  |
 | Loser | Do the "Take the L" emote from Fortnite. |  |
-| Penguin | Perform the Club Penguin dance.[\[2\]](#cite-note-2) |  |
+| Penguin | Perform the Club Penguin dance.[\[3\]](#cite-note-3) |  |
 | Sway | Sway from side to side. |  |
 
 **Emote Pack 2:**
@@ -61,7 +61,7 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | --- | --- | --- |
 | Caramell | Perform the "Caramelldansen" which is a 2001 bubblegum dance song by Swedish group Caramell. |  |
 | Grizzly | Swing your arms from side to side then cross your arms while still dancing. |  |
-| Hoss | Strike a pose with an upside down _Deepwoken_ symbol marked on your back with a flowing red visual effect on your right eye. This is based off of Akuma from the Street Fighter series. Whilst its name "Hoss" is based off of "Big Hoss" from Rogue Lineage. |  |
+| Hoss | Strike a pose with an upside down _Deepwoken_ symbol marked on your back with a flowing red visual effect on your right eye. [\[4\]](#cite-note-4) |  |
 | Meditate | Sit peacefully in meditation, leaving your weapon on the ground if equipped. |  |
 | Mocking Shrug | Shrug while shifting your head from side to side. |  |
 | Sturdy | You get Sturdy. |  |
@@ -102,4 +102,6 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 ## References
 
 1.  [↑](#cite-ref-1) The Groove emote is a reference to the [Pied Piper ambush scene](https://youtu.be/23eMs_RTQqE) in _Shrek Forever After_.
-2.  [↑](#cite-ref-2) The Penguin emote is a reference to the [dance](https://youtu.be/snOpRK4MNc4) from _Club Penguin_.
+2.  [↑](#cite-ref-2) The Goopie emote is a reference to the TikTok [dance](https://www.tiktok.com/@goopiearchives/video/7138661909842185518) popularized by the creator known as "Goopie".
+3.  [↑](#cite-ref-3) The Penguin emote is a reference to the [dance](https://youtu.be/snOpRK4MNc4) from _Club Penguin_.
+4.  [↑](#cite-ref-4) This Hoss emote is a reference to Akuma from the Street Fighter series. Whilst its name "Hoss" is based off of "Big Hoss" from Rogue Lineage.

@@ -1,6 +1,6 @@
 ---
 title: Seafood Surprise
-revid: 207811
+revid: 234515
 source: https://deepwoken.fandom.com/wiki/Seafood_Surprise
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -20,10 +20,11 @@ categories: [Food]
 | droppable | Yes |
 | pass down | No |
 | desc | The real horror is that a human being could make this. |
+| obtainment | Fabantou (40 when max Authority Ensign rank) |
 
 ## Description
 
-**Seafood Surprise** is a craftable [Food](Food.md) item.
+**Seafood Surprise** is a craftable [Food](Food.md) item. It is also purchased from [Fabantou](Fabantou.md) when maximum rank within an [Authority Ensign](Authority_Ensign.md) division for 40.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

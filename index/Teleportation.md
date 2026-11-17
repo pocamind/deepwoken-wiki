@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 230166
+revid: 234576
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -34,7 +34,7 @@ Pressing C will activate the **Teleportation** Resonance.
 
 If you have no active waypoints or you activate it without hovering your cursor over a waypoint, activation will place a waypoint marker at your location. Waypoint markers can be seen from any distance and through any obstruction, only to the user, and will persist through changing servers. Should you have the **Player Markers** Resonance stat invested into, you can mouse over a player you are close to and a marker will be placed on them instead, with these player markers having a limited range to be teleported to.
 
-Markers cannot be given a custom name, instead having a name matching the location they were placed in, such as "Etris" or "Minityrsa". You can have up to 5 or as low as 1 waypoint marker per Luminant depending on your Resonance's point allocation, and placing a marker that breaks this limit will destroy the oldest active marker in that Luminant in place of the new one.
+Markers cannot be given a custom name, instead having a name matching the location they were placed in, such as "Etris" or "Minityrsa". You can have up to 5 or as low as 1 waypoint marker per Luminant depending on your Resonance's point allocation, and placing a marker that breaks this limit will destroy the oldest active marker in that Luminant in place of the new one. Markers cannot be teleported to in combat.
 
 If you hover your mouse over one of your active waypoints, activation will instead initiate a teleport. Initiating a teleport will create a ring around the user and begin charging. Charging time is based on the distance from you to the waypoint and how much the **Charge Speed** Resonance stat was invested into by your Resonance points. Once fully charged, everyone inside the radius of the ring is teleported to the waypoint. The waypoint is destroyed when a teleport is initiated on it, but can easily be replaced once travelled to.
 
@@ -45,7 +45,7 @@ You can place teleport points in the Depths, however, teleporting to it will cau
 
 ### Drowned Teleportation
 
-If Teleportation is Drowned, you'll receive preset waypoints depending on the Luminant you're in, with the names of these waypoints having square brackets around them. The waypoint markers for these waypoints and the teleport VFX for travelling to these waypoints matches the color of your bell.
+If Teleportation is Drowned, you'll receive preset waypoints depending on the Luminant you're in, with the names of these waypoints having square brackets around them along with a slight purple tint. The teleport VFX for travelling to these waypoints matches the color of your bell.
 
 Normal Waypoints will be colored yellow as usual. Preset waypoints will not cut into your own custom waypoint capacity, allowing you to have # number of custom waypoints coexisting with the preset waypoints of your Luminant. If you're next to a preset, holding C will allow you to go to a point you made.
 
@@ -58,6 +58,8 @@ In the Etrean Luminant, you are given permanent preset waypoints at the followin
 -   [Minityrsa](Minityrsa.md), a small distance from the shore
 -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 -   [Etris](Etris.md), in front of [Polis](Polis.md).
+-   [Alsin's Landing](<Alsin's_Landing.md>), in the town's center.
+-   [Caudal Glade](Caudal_Glade.md), in the center of the sparring grounds.
 
 In the Eastern Luminant, you are given permanent preset waypoints at the following locations:
 
@@ -71,6 +73,10 @@ In the Eastern Luminant, you are given permanent preset waypoints at the followi
 -   [The Aratel Sea](The_Aratel_Sea.md), on a rock near Boatman's watch.
 -   [Port Merit](Port_Merit.md), next to the shipwright.
 -   [Saramaed Summit](Saramaed_Summit.md), on a platform above the lava.
+-   [The Starswept Valley](The_Starswept_Valley.md), in front of [The Lordsgrove](The_Lordsgrove.md) gate.
+-   [Metetor Isle](Meteor_Isle.md), in the islands center, in the main town area.
+-   [Moon's Eyrie](<Moon's_Eyrie.md>), on the top of the island near the [Moonseye](Moonseye.md) symbol.
+-   [Simforea](Simforea.md), next to the front shore.
 
 ### Resonance Points
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 234457
+revid: 234685
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -4576,7 +4576,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.
     -   Bombs apply [burn](Status_Effects.md#burn) on hit. This burn, like all other burn scales on your [Flamecharm](Flamecharm.md) investment and can be improved through the usage of Flamecharm Talents.
     -   Your bombs go further when thrown.
-    -   Prerequisite: Family Recipe
+    -   Incendiary Formula prevents Hot Potato's double detonate.
+    -   Prerequisite: Family Recipe.
 
 -   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
     -   Reduces the bomb throw cooldown from 5 seconds to 4 seconds. This only applies to the bomb thrown directly after this Talent procs, not on the bomb that procced this Talent.
@@ -4585,6 +4586,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)
     -   This speed boost lasts 2 seconds.
+    -   Double detonate has a ~30% chance.
     -   Prerequisite: Family Recipe
 
 -   Explosive Efficiency \[Common Talent\] - Crafting a bomb will yield two bombs. Chance to make three.
@@ -5811,10 +5813,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Weapon Master
 
--   Brutal Momentum \[Common Talent, Heavy Weapon\] - Heavy Weapons Successfully dodging will give you hyperarmour on your next swing.
-    -   Brutal Momentum works on all heavy weapons, including those who could not utilize this Talent previously like [Railblade](Railblade.md) or Greataxes.
-    -   Hyperarmor lasts for 1 second. Successful procs have a cooldown of 8 seconds.
-    -   Prerequisites: 50 Heavy Weapon, Heavy equipped.
+-   Brutal Momentum \[Common Talent, Heavy Weapon\] - Heavy Weapons Increase the amount of parry stun your opponent gets when you parry their light attacks if you have a heavy weapon equipped and they don't.
+    -   Prerequisites: 50 Heavy Weapon, Heavy Weapon equipped.
 
 -   Matador \[Common Talent, Strength, Agility\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
@@ -5835,8 +5835,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Galebreathe Mantra. Only one Ghost can spawn per Mantra.
         -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
     -   Haunted Gale Ghosts have 10 base damage with 5 Galebreathe scaling.
-    -   When gaining stacks, if any of your Mantras (including non-Galebreathe ones) do not hit a target, are blocked, or are dodged, all stacks will be reset. This includes Mantras that do not have hitregistry, such as most Support and Mobility Mantras.
-    -   When gaining stacks, if any of your Mantras (including non-Galebreathe ones) get parried, you will lose 1 stack.
+    -   When gaining stacks, if any of your Gale Mantras do not hit a target, are blocked, or are dodged, all stacks will be reset. This includes Mantras that do not have hitregistry, such as Gale Wisp.
+    -   When gaining stacks, if any of your Gale Mantras get parried, you will lose 1 stack.
     -   Haunted Gale stacks are counted **per person**, not globally.
     -   If you are a [Saintsworn](Oath%253A_Saintsworn.md), you will be able to build stacks through non-Galebreathe Mantras (via [Ether Proselyte](#ether-proselyte)), but you can still only summon the ghosts through using Gale Mantras.
     -   If you have [Apparitions](#apparitions), landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
@@ -5862,6 +5862,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
+-   Abyssal Drain: [Deepspindle](Deepspindle.md) & [Weal and Woe](Weal_and_Woe.md) - Your Critical can inflict Shadowcast Talents.
+    -   Cannot proc _all_ Shadowcast Talents, but it can proc most general Shadowcast Mantra Talents (e.g. [Sightless Still](#sightless-still)).
+
 -   Accursed Flame: [Cursed Flames](Cursed_Flames.md) - Summon a blade of Cursed Flames. Your aerial attack and flourish are now enhanced by these flames. While using Cursed Flames, your mantra cooldowns are 3 times longer.
     -   Triples all Mantra cooldowns while using Cursed Flames.
     -   Upon using an uppercut, fire a purple flame projectile in front of you at high speeds. This applies [Cursed Burn](Status_Effects.md#cursed-burn) if it lands.
@@ -5873,7 +5876,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Ancient Metalwork: [Dissonant Chimecaller](Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](Ironsing.md) Rods and disrupt the [resonances](Resonance.md) of others, disabling them for 15 seconds.
     -   Landing a weapon critical puts your opponent's [Resonance](Resonance.md) on a 15 second cooldown. This does not require Ironsing Rods to proc.
 
--   Assassin's Instincts: [Central Dirk](Central_Dirk.md) - Your [air counters](Combat_Mechanics.md#air-counter) now deal 5% of your targets max health.
+-   Assassin's Instincts: [Central Dirk](Central_Dirk.md) - Your air counters now deal 5% of your targets max health.
 
 -   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
@@ -5911,6 +5914,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This Talent was formerly called "Bloodthirsty".
     -   For the [Bloodbane](Bloodbane.md)'s other Talent, view [Devastating Recovery](#devastating-recovery).
 
+-   Bloodstained: [Flareblood Kamas](Flareblood_Kamas.md) & [Withered Death Knell](Withered_Death_Knell.md) - Your Critical Attack applies Blood Poison and restores a small amount of blood on successful hit.
+
 -   Blunt Force Trauma: [Pernach](Pernach.md) - All mantras that deal blunt damage gain 15% extra PEN. The mantras deal additional PEN if the opponent has more than 30% physical armor, scaling on how much more they have.
 
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
@@ -5918,6 +5923,11 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   The final hit of your Pressure Blast gains 3x posture damage, going from 12 to 36 posture damage.
         -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
     -   Grants a **very** large increase to the AoE of your Pressure Blast.
+
+-   Callow & Verdant: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) - Basic attacks you land inflict a green flame onto opponents, slowing them down. Your second Basic Attack, and your Crouching/Sliding Critical scales off LHT.
+    -   The slowing debuff on the green flames is currently bugged.
+    -   4 second cooldown on burn application.
+    -   Dagger attacks with this weapon has 5 LHT scaling instead of the 5 HVY scalphabet-by-bias listed on the weapon's stats. The FLM scaling does not change, however.
 
 -   Camaraderie: [Canorian Axe](Canorian_Axe.md) & [Alloyed Canorian Axe](Canorian_Axe.md) - Landing a critical attack, uppercut or flourish reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. \[5 sec CD\]
 
@@ -5930,6 +5940,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Concussive Strike: [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) - Anytime you ragdoll your opponent, disable your opponents ability to cancel that ragdol for half a second. Deal 5 extra blunt damage when this occurs.
 
+-   Conducting Impact: [Boltcrusher](Boltcrusher.md) - Your weapon will inflict your Thundercall elemental effect on basic attacks. Additionally, you can mine [ores](Ores.md) with the weapon itself.
+    -   Apply [Shock](Status_Effects.md#shock) or [Surge Rods](Status_Effects.md#surge-rod) on basic attacks.
+    -   Replaces the pickaxe mining animation with one of you using your weapon. Does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel. The Ironsing Cantrip overrides this effect.
+
 -   Continuation: [Rangescraper](Rangescraper.md) - Everytime you swing your weapon, fire a series of slashes forward after that act as another light attack when landing.
     -   Light attacks fire projectiles that have the M1 tag.
     -   This effect has no cooldown.
@@ -5937,7 +5951,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Continuous Bleed: [Razor Cutlass](Razor_Cutlass.md) - Every time you land a crit, flourish or uppercut, increase the amount of [bleed](Status_Effects.md#bleed) damage you deal for 15 seconds. This is stackable.
     -   Each stack reduces the bleed damage you deal by 5%, while increasing the amount of damage instances of your bleed by +1.
-    -   On the first stack, this equates to a net increase of +26.7% bleed damage. This has diminishing returns for each stack you have, peaking at an 179% net bleed damage increase on the 16th and 17th stacks, and then decaying from the 18th stack onwards. Though, reaching this stack count is functionally impossible.
+    -   On the first stack, this equates to a net increase of +26.7% bleed damage. This has diminishing returns for each stack you have.
     -   This applies to all sources of bleed, not just Razor Cutlass' innate bleed.
     -   Each stack is counted separately from eachother with their own durations. Stack gain has a 1.5 second cooldown.
     -   [Desmos calculator](https://www.desmos.com/calculator/qlbcvgz9yr)
@@ -5951,12 +5965,19 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   A weaker version of this effect is applied when your critical lands without interrupting one of their attacks.
         -   This damage modifier **bypasses** the damage modifier cap, potentially allowing for absurd critical damage output.
 
--   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now gain 30% more chip.
+-   Cursed Mark: [Eye of Malice](Eye_of_Malice.md) - Landing a Basic Attack on your opponent marks them, allowing you to see them through walls for 30s.
+    -   Basic attacks apply an eye icon to your target. The eye icons can be seen through walls.
+    -   using your critical attack against a target who has an eye mark will augment the attack into a backhit. For more info, see [Eye of Malice](Eye_of_Malice.md).
+
+-   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 30% more chip.
 
 -   Devastating Recovery: [Zweihander](Zweihander.md), [Alloyed Zweihander](Zweihander.md) & [Bloodbane](Bloodbane.md) - Enemies recover 30% less posture when parrying your Zweihander light attacks.
     -   This is not to be confused with the [Destructive Recovery](#destructive-recovery) Greatsword Talent
 
--   Ebb and Flow: [Wyrmtooth](Wyrmtooth.md) - Landing a [medium mantra](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] increases your next [heavy mantra](Attunement-less.md#heavy-weapon-mantras)'s \[_[sic](https://en.wikipedia.org/wiki/sic)_\] level by 1 and vice versa. This is stackable and can be increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is defended against.
+-   Dragon's Breath: [Rosen's Hellflame](<Rosen's_Hellflame.md>) - Every shot with your Rifle will spew a wave of flames, igniting opponents.
+    -   All blast shots with the Hellflame spray a plume of flames, applying burn.
+
+-   Ebb and Flow: [Wyrmtooth](Wyrmtooth.md) - Landing a [medium mantra](Attunement-less.md#medium-weapon-mantras) increases your next [heavy mantra](Attunement-less.md#heavy-weapon-mantras)'s level by 1 and vice versa. This is stackable and can be increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against.
     -   This effect **only** applies when alternating weapon Mantras. For example, if you land one heavy Mantra and then follow up with two medium Mantras, the second medium Mantra will **not** receive the buff; your stacks won't be lost, the effect just won't be applied.
     -   This can bypass the level 5 cap, and is stackable, capping at at +5 levels.
     -   Instead if stacks being lost if one of your Mantras are defended against, all stacks are lost if you take damage or block an attack.
@@ -5966,7 +5987,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Embedded Nails: [Toothed Club](Toothed_Club.md) - When your Critical Attack gets dodged, embed nails onto their shoes for 8 seconds. This makes your opponent clumsy, ragdolling them if they use their second dodge.
 
--   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\], giving Agility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use +3 levels in all stats, even bypassing the level cap.
+-   Ether Arrow: [Guiding Star](Guiding_Star.md) - Your Basic Attacks cost small amounts of Ether to initiate. At 0 Ether, your attack will deal 20% less damage.
+
+-   Ether Tuning: Quartztome Pickaxe - Your Criticals require Ether to cast. Additionally, this weapon can be used to mine [ores](Ores.md).
+    -   Replaces the pickaxe mining animation with one of you using your weapon. Does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel. The Ironsing Cantrip overrides this effect.
+
+-   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.
     -   [Jetstriker](Oath%253A_Jetstriker.md) Mantras are unaffected.
 
@@ -5996,6 +6022,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Finishing Slay has no cooldown, allowing for multihit criticals to benefit from it multiple times. However, finishing slay can only proc once per damage instance in a critical hit, for example if you hit three targets with your critical, Finishing Slay will only proc on one of them, and the other two will not take any additional damage.
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
+-   Fondant Delicacy: [Fondant Splitter](Fondant_Splitter.md) - Using your Critical will allow you to eat bits off your weapon, restoring small amounts of health. This is amplified if you possess [Artisan](#artisan-chef)/[Master Chef](#master-chef), or [Umami](#umami).
+    -   Upon using the Fondant Splitter critical, take two bites out of your sword to heal 15 total health (7.5 per tick). This healing can be increased by having the [Tavernkeep](#tavernkeep) Talents, up to 24 total healing (12 per tick) if you have all three Talents.{{ulid})
+
 -   Forced Fulfilment: [Metal Greatsword](Metal_Greatsword.md) - Your Metal Greatsword now has [Metal Fakeout](Ironsing.md#metal-fakeout) as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
     -   The [Metal Fakeout](Ironsing.md#metal-fakeout) critical will only work if your target is within Metal Fakeout's targeting range. Additionally, this critical counts as a weapon attack, and **not** a Mantra. Applies [Bleed](Status_Effects.md#bleed) on hit.
     -   The rod applies a 70% slow for 15 seconds.
@@ -6011,7 +6040,16 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Hunter's Chase: [Serrated Warspear](Serrated_Warspear.md) - Double the range you are able to chase down enemies with a running attack. Your Running attacks now also proc [Bear Trap](#bear-trap) and deals 15% more base damage.
 
+-   Ice Age: [Hailbreaker](Hailbreaker.md) - Your Critical evolves up to 3 stages, growing stronger with each useage and applying **[Frozen](Status_Effects.md#frozen)**.
+    -   Each use of the Hailbreaker's critical progresses the weapon by one stage, changing the visual appearance of the weapon and its critical attack behavior. For more information, view [Hailbreaker](Hailbreaker.md).
+    -   Not to be confused with the [Talent category by the same name](#ice-age).
+
 -   Iron Leech: [Alloyblood Spear](Alloyblood_Spear.md) - Landing light attacks gives temporary buffs depending on how much armor and blood poison your opponent has. The more blood poison the faster you swing. The less armor the more range you get
+
+-   Legion Revelation: [Imperator's Edge](<Imperator's_Edge.md>) - After 3 Basic Attacks with the tip of your spear, become Enlightened, amplifying your Critical.
+    -   Using a critical attack while Enlightened will consume the effect to amplify the critical.
+        -   The neutral critical performs a second barrage, while the running critical gains true hyperarmor.
+    -   Enlightened is indicated by a yellow halo above the player's head.
 
 -   Max Ammo: [Summer Hullwrecker](Summer_Hullwrecker.md) - Landing the cannonball of your critical attack removes your critical attack's cooldown.
     -   As long as the cannonball lands on the target, this critical can be reused infinitely.
@@ -6051,6 +6089,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Rat's Spirit: [Champion's Dagger](<Champion's_Dagger.md>) - Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people.
     -   Being combat tagged by 2 or more players will cause your critical attack to deal an additional 10 true damage per hit. This stacks based on how many combat tags you have, dealing a minimum of +20 true damage per hit.
 
+-   Razor Wind: [Curved Blade of Winds](Curved_Blade_of_Winds.md) & [Wraithclaw](Wraithclaw.md) - The wind infused within your weapon allows you to passively inflict [Aftercut](Status_Effects.md#aftercut) on every swing.
+    -   Every light attack applies the effects of the [After Cut](#after-cut) Talent, innately.
+
 -   Return to the Stone Ages: [Rockmaller](Rockmaller.md) - Using the [Table Flip](Attunement-less.md#table-flip) mantra now turns the projectile into a larger boulder. Landing your Critical Attack enhances this further, giving you an even bigger and stronger boulder.
 
 -   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.
@@ -6088,6 +6129,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Equipping a [Motif](Motifs.md) onto the Withered Gale Pale will **disable** this Talent.
     -   Justicar's Preference and Vanguard Style will also not work with this Talent.
 
+-   Soul Scar: [Soulthorn](Soulthorn.md) - Your Basic Attacks inflict a soul mark onto your opponent. Your Critical requires a soul mark to be used. At 3 marks, enhance your Critical.
+    -   Soul Mark stacks are recorded separately per-target.
+    -   For more information on Soulthorn's critical attacks, view [Soulthorn](Soulthorn.md).
+
 -   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
     -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.
         -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
@@ -6120,6 +6165,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   The teleport has a range limit.
     -   20 second cooldown.
 
+-   Tainted Blade: [Red Death](Red_Death.md) - Your Critical Attack applies Blood Poison and Shadowcast inflictions. Executing an enemy with this weapon will remove any trace of them.
+    -   Critical attacks apply Blood Poison and drain Ether.
+    -   Has a unique execution animation.
+
 -   The Big One: [The Barrel](The_Barrel.md) - Your critical attack's projectile size and explosion size is doubled.
 
 -   Threadripper: [Palace Tachi](Palace_Tachi.md) - When used by a [Contractor](Oath%253A_Contractor.md), your Critical is empowered to eviscreate your opponents.
@@ -6134,9 +6183,19 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
     -   Deals 5 true damage per slow effect removed.
 
+-   Uproaring Chant: [Kyrsieger](Kyrsieger.md) - Holding down your Critical charyes the attack, increasing its damage and range. On hit, inflict ragdoll and charm.
+    -   Applies [Charmed](Status_Effects.md#charmed) for 5s.
+
 -   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 20 seconds. This starts at 100% with it scaling down based on the duration of the effect left.
     -   This only applies to their passive posture regeneration.
     -   This has no cooldown, but cannot be reapplied to the same target once active.
+
+-   Volt Core: [Stormseye](Stormseye.md) - After 2 flourishes, your next flourish will fire off an explosive high-voltage elemental shot. Additionally, your Aerial Attack will now teleport you to a nearby opponent.
+    -   Only procs on basic attack flourishes.
+    -   The flourishes do not need to land to contribute to this effect.
+
+-   Wilting Edge: [Umbrite Witherblade](Umbrite_Witherblade.md) - The vile nature of your blade causes opponents to decay on successful swings, inflicting Wither.
+    -   Deal 50% of your weapon's scaled damage as [Wither](Status_Effects.md#wither).
 
 -   Worshipper's Tolerance: [Worshipper's Shield](<Worshipper's_Shield.md>) - Reduce the burn damage you take by 15%. While on fire, parrying an opponent's attack now sets them on fire \[45 second CD\].
 
@@ -6328,7 +6387,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Bleed\] \[Damage Buff\] \[Debuff\] \[Mantra\] \[Sustain\]
 
--   **Cursed Pumpkin**: [Harvestman's Cloak](<Harvestman's_Cloak.md>) - Double the damage of your pumpkins from your [Pumpkin Pitch](Pumpkin_Pitch.md) mantra.
+-   **Cursed Pumpkin**: [Harvestman's Cloak](<Harvestman's_Cloak.md>) - Double the damage of your pumpkins from your [Pumpkin Pitch](Pumpkin_Pitch.md) mantra. This increases its cooldown to 10 seconds.
     
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Damage Buff\] \[Mantra\]
 
@@ -6343,8 +6402,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Dodge\] \[Flourish\] \[Speed Boost\] \[Weapon Attack\]
 
--   **Demon Step**: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
-    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your _current_ posture will be dealt to you as self-posture damage.
+-   **Demon Step**: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 2, then by 20% each use.
+    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 2 + 20% of your _current_ posture will be dealt to you as self-posture damage.
     -   1 second cooldown.  
         
     -   Tags: \[Outfit • Common Talent\] \[Outfit\] \[Mobility\] \[Tool\]
@@ -6548,7 +6607,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Tags: \[Equipment • Common Talent\] \[Equipment\] \[Damage Resistance\] \[Guardbreak\]
 
 -   **Intrepid Flame**: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you. Flames that come from your [Flame Within](#flame-within) deal much less damage to you.
-    -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.  
+    -   Halves the maximum duration of any Burn that is applied to you. This effect does not apply to Flame Within.
+    -   For Flame Worshipper Armor's other Talent, view [One With Flame](#one-with-flame).  
         
     -   Tags: \[Flamecharmer • Common Talent\] \[Outfit\] \[Damage Resistance\] \[Burn\] \[Status Resistance\]
 
@@ -6565,7 +6625,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         
     -   Tags: \[Equipment • Common Talent\] \[Equipment\]
 
--   **Justicar's Gift**: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
+-   **Justicar's Gift**: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
     
     -   Tags: \[Warder Techniques • Common Talent\] \[[Justicar](<Justicar_(Origin).md>)\] \[Mantra\] \[Outfit\] \[Support\]
 
@@ -6655,12 +6715,14 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   The Bloodless Gem heal cap is increased from 15 to 30.
     -   You will need a scaled damage of 187 (in Pathfinder) or 125 (in [Vow of Iron](Vow_of_Iron.md)) to reach this new heal cap.
 
--   One With Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - When equipping a [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper Shield](<Worshipper's_Shield.md>), you take 25% less damage while on fire and every mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use sets enemies on fire.
+-   One With Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - When equipping a [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper Shield](<Worshipper's_Shield.md>), you take 25% less damage while on fire and every mantra you use sets enemies on fire.
     -   This Talent's effects only activate while you are [burning](Status_Effects.md#burn) and you have the [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper's Shield](<Worshipper's_Shield.md>) equipped alongside this Outfit.
     -   Gain 25% damage reduction and adds Flamecharm scaling to your [Belief](Worshipper_Longsword.md) while active. This increases your Belief's damage by +0.05 for every 1 Flamecharm investment you have, capping to +5 additional damage at 100 Flamecharm.
+    -   Though unlisted in the Talent description, this Talent makes your [Flame Within](#flame-within) immune to the effects of [Nullifying Clarity](#nullifying-clarity), preventing the additional damage taken and the burn from extinguishing. This of course only works if the full Flame Worshipper set is equipped.
     -   Turns your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) orange while active. This does not change color based on your Flamecharm path.
     -   Unlike Immolation, this can create Eruptions, and this effect is not limited to Physical damage Mantras and attacks with the Slash damage fx, allowing for much more variety.
         -   As mentioned above, since Immolation _always_ applies [burn](Status_Effects.md#burn), and this doesnt, you can create an Eruption and apply burn simultaneously on eligible Mantras.
+    -   For Flame Worshipper Armor's other Talent, view [Intrepid Flame](#intrepid-flame).
 
 -   Osseous Surge: [Marrowmade Boots](Marrowmade_Boots.md) - Flourishing an enemy enhances your boots for 10 seconds, allowing you to spawn a wave of bones in the way you're facing. Right click to activate this.
     -   Pressing M2 within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
@@ -6692,7 +6754,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Repeated Blows: [Reinforced War Boots](Reinforced_War_Boots.md) - Any [strength](Attunement-less.md#strength) mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it will reset its cooldown if you land a critical while a Wrath Gem is active.
     -   Wrath Gems are active for 9 seconds with no visual indication.
 
--   Repeated Propulsion: [Cindergarb](Cindergarb.md) - Reduce the cooldown of Dancing Steps and Graceful Steps to 1 second.
+-   Repeated Propulsion: [Cindergarb](Cindergarb.md) - Reduce the cooldown of [Dancing Steps](#dancing-steps) and [Graceful Steps](#graceful-steps) to 1 second.
     -   Reduces the cooldown of Dancing Steps and Graceful Steps from 5 seconds to 1.
 
 -   **Revitalizing Pumpkin**: [Wreath of the Ardenstar](Wreath_of_the_Ardenstar.md) - Pumpkins from [Pumpkin Pitch](Pumpkin_Pitch.md) that hit your opponent heal you for 1% of your max health.
@@ -6719,7 +6781,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   This applies to attacks used against your opponent's back, **not** assassinations.
 
--   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
+-   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - M1's on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, Talents like Flaming Flourish.
 

@@ -1,9 +1,9 @@
 ---
 title: Ignition Deepcrusher
-revid: 224592
+revid: 234617
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, Medium Weapons, Weapons of The Ignition Union]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, Medium Weapons, Weapons of The Ignition Union]
 ---
 
 # Ignition Deepcrusher
@@ -21,7 +21,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, Swo
 | swing speed | 1x (Club) / 1.05x (Sword) |
 | attack duration | 0.6s |
 | penetration | 10% (Club) / 20% (Sword) |
-| special effect | Can switch between 2 weapon types on stance swap, 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
+| talent | Malleable - Your weapon can shift into a Club or a Sword at will by changing your stance, applying Rods in Club form, and inheriting innate Bleed in Sword form. |
 | m.equip | No |
 | m.extract | No |
 | rarity | Mythical |
@@ -38,14 +38,16 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, Swo
 
 The **Ignition Deepcrusher** is a Legendary Club and Sword; an invention of ferrofluid that can become either a mace for clubbing, or a sword for cutting. The mace is held by a bordered hilt in both hands, under a chess piece cross that makes the club, its gambit being to inhibit with Ironsing rods. The sword has a sleek but effective design, optimal for cutting power and bleed application.
 
-This weapon has 1 passive by default:
+The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger) Talent, turning golden yellow. This effect applies to criticals as well.
 
-**Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle:
+## Talents
+
+Equipping the Ignition Deepcrusher grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Malleable**](Talents.md#malleable) allows you to change the stance of this weapon, which completely changes the playstyle:
 
 -   While used with 2 hands, this weapon is a club dealing blunt damage and applying a [Metal Rod](Status_Effects.md#metal-rods) on each M1. It also gains higher weight compared to the sword variant.
 -   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate [Bleed](Status_Effects.md#bleed) damage, increasing its unmodified damage by 15%. It also gains a slight swing speed and PEN increase compared to the club variant.
-
-The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger) Talent, turning golden yellow. This effect applies to criticals as well.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 234083
+revid: 234682
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -47,7 +47,7 @@ Sordino's Marvellous Menagerie
   <td><div>Thresher</div><div><i>Real softies these ones. Cause a right mess in polite company though. Careful of that, yeh?</i></div></td>
 </tr>
 <tr>
-  <td><center><figure><figcaption></figcaption></figure>15 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
   <td><div>Felwind Broom</div><div><i>A nice witchy lookin' lady dropped this off with... your name on it? I'm still chargin' a holding fee.</i></div></td>
 </tr>
 </tbody>

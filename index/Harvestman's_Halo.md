@@ -1,6 +1,6 @@
 ---
 title: "Harvestman's Halo"
-revid: 233692
+revid: 234558
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Halo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with Talents, Equipment with Exclusive Talents, Event Item]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with 
 | droppable | No |
 | enchantable | Only on obtainment[1] |
 | pass down | Yes |
-| obtainment | The Harvestman |
+| obtainment | The Harvestman, Lysander Spellhardt [25000 Joy] |
 | description | The steel-wrought crown of the Harvestman, a folklore figure among the peoples of Lumen. He is seen as a patron figure of harvests, a protector of crops, and is often associated with the Ardenstar - a brilliant star of the night sky, believed to be the Harvestman's home... |
 
 Harvestman Set

@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 220769
+revid: 234683
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Legendary Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Weapons with Talents, Daggers, Light Weapons, Weapons of T
 | weight | 2 |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Yes |
 | pass down | No |
 | obtainment | High Inquisitor Merey (Inquisition Division of the Authority Ensign Origin exclusive)Vow of Iron:, Rogue Assassin Memento |
 | description | A gift from High Inquisitor Merey. Far from a weapon of war, this dagger is a perfect tool for the stealthy wetwork missions of the Inquisition. Eyes and ears may watch and listen, but must never make a sound. |
