@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 233231
+revid: 234799
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -11,8 +11,8 @@ categories: [Equipment, Rings]
 | Poser's Ring | |
 |---|---|
 | type | Rings |
-| rarity | Common |
-| selling price | N/A |
+| rarity | Unique |
+| selling price | 100 |
 | requirements | N/A |
 | weight | 0.1 |
 | innate stats | +1 Rare Pip |

@@ -85,7 +85,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>9</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>39.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -100,7 +100,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>41.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -115,7 +115,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>9</td>
   <td>7.5</td>
   <td>0.81x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -130,7 +130,7 @@ Greatcannons uses the default Greatcannon critical, firing the cannon and dealin
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>43.8</td>
   <td><b>✗</b></td>
 </tr>

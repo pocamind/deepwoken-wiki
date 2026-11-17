@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Coat"
-revid: 234586
+revid: 234833
 source: https://deepwoken.fandom.com/wiki/Hunter's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats]
@@ -18,9 +18,7 @@ categories: [Equipment with Styles, Equipment, Arms, Coats]
 | styles | Dark, Hunter's Own, Light |
 | innate stats | +5 Health , +1 Posture |
 | innate talent | N/A |
-| set | Hunter (Hunter's Chapeau (link)) |
-| set talent | N/A |
-| bankable | Yes (1 knowledge to unbank) |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

@@ -1,9 +1,9 @@
 ---
 title: Hallowscleave
-revid: 233267
+revid: 234776
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
+categories: [Weapons, Swords, Event Item, Hallowtide, Medium Weapons]
 ---
 
 # Hallowscleave
@@ -20,10 +20,8 @@ categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Med
 | swing speed | 1x |
 | attack duration | 0.6s |
 | penetration | 25% |
-| m.equip | Yes |
-| m.extract | Yes |
-| m.crit | Sword |
-| m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
@@ -41,9 +39,12 @@ The Hallowscleave is a MED weapon in the Swords category, bearing a strong pumpk
 
 ## Critical
 
-Hallowscleave uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+The user gains an orange sigil on their sword, then does 2 swift slashes, both of them sending a projectile, granting brief hyperarmor between slashes. Each melee slash doing 0,7x scaled damage and projectile doing 0.35 scaled damage, with the total being 2.1x scaled damage. The windup of the first slash is ???, and the windup of the second slash is ???. There is ??? of endlag after the critical attack.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+  
+The cooldown for this critical is **8** seconds..
+
+  
 
 ## Trivia
 

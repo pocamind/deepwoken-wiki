@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 234192
+revid: 234703
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Hallowtide, Mechanics, Currency]
@@ -48,6 +48,7 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
     5.  For **200 Joy**: You can buy the [**Hallowtide '22, '23, '24 and '25 Medals**](Seasonal_Medals.md#hallowtide).
     6.  For **300 Joy**: You can buy the [**Hallowtide '26 Medal**](Seasonal_Medals.md#hallowtide).
         -   **This is a must-buy**. Each medal will allow you to purchase [Hallowtide](Hallowtide.md)\-exclusive items released in its respective year using [Knowledge](Knowledge.md) instead of Joy **after the event is over**. More information can be found on its respective page here, [Hallowtide Medals](Seasonal_Medals.md#hallowtide).
+    7.  For **25,000 Joy:** You can buy the [Harvestman\`s Halo](<Harvestman's_Halo.md>).
 
 -   [Glaive Spellhardt](Glaive_Spellhardt.md): Sells you Hallowtide-exclusive [weapons](Weapons.md) and [Pumpkin Pitch](Pumpkin_Pitch.md), along with the [Harrowing](Harrowing.md) Enchant, and a master [outfit](Outfits.md) gacha.
     1.  For **20 Joy**: You can buy a random Master [Outfit](Outfits.md). Useful to get [Celtorian Tideknight](Celtorian_Tideknight.md).
@@ -67,7 +68,7 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
     4.  For **200 Joy**: You can buy the [_Spectral Instrument Set_](Instruments.md#spectral-instruments), which is exclusive to Hallowtide.
 -   [Carmilla Spellhardt](Carmilla_Spellhardt.md): Sells you a Hallowtide-exclusive mount, [Ferwind Broom](Mounts.md).
     1.  For **1000 Joy**: You can buy a [Ferwind Broom](Mounts.md).
-        -   After buying mount for Joy at least once, you will permanently unlock it for purchase on all slots at [Sordino](Sordino.md) for 15.
+        -   After buying mount for Joy at least once, you will permanently unlock it for purchase on all slots at [Sordino](Sordino.md) for 5.
 
 ## Trivia
 

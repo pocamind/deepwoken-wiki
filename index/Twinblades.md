@@ -164,7 +164,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Depthsplitter.md">Depthsplitter</a><abbr></abbr></b></td>
+  <td><b><a href="Depthsplitter.md">Depthsplitter<abbr></abbr></a></b></td>
   <td>40 MED</td>
   <td>17</td>
   <td>MED: 4.5</td>

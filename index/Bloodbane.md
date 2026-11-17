@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 234391
+revid: 234869
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Greatswords, Heavy Weapons, Legendary Weapons]
@@ -18,8 +18,7 @@ categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Greatswo
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | talent | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds., Devastating Recovery - Enemies recover 30% less posture when parrying your Zweihander light attacks. |
 | m.equip | Yes |
 | m.extract | Yes |

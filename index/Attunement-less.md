@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 234448
+revid: 234701
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -325,7 +325,7 @@ Blunt ResistanceBlunt
 
  | 
 
-5 Strength/20 Strength (With Attunement), [Jus Karita](Jus_Karita.md), [Murmur: Tacet](Murmur%253A_Tacet.md)
+5 Strength, [Jus Karita](Jus_Karita.md), [Murmur: Tacet](Murmur%253A_Tacet.md)
 
  |
 | 
@@ -335,7 +335,6 @@ Blunt ResistanceBlunt
 -   Has a base damage of 15/18/21/24/27 at each level with 1.65 Strength scaling.
 -   Inflicts knockdown.
 -   Lands 15% faster while wielding [Jus Karita](Jus_Karita.md).
--   Requirements are increased if you have an Attunement, like Revenge.
 -   Can still be used after removing [Tacet](Murmur%253A_Tacet.md).
 -   22 second cooldown.
 

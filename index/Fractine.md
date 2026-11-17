@@ -1,9 +1,9 @@
 ---
 title: Fractine
-revid: 226796
+revid: 234878
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons, Weapons with multiple Criticals]
+categories: [Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons, Weapons with multiple Criticals]
 ---
 
 # Fractine
@@ -22,7 +22,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | endlag | 0.1s |
 | penetration | 25% |
 | chip damage | 20% |
-| special effect | Using your critical attack will change the weapon into it's Shattered State. While in the Shattered State, the Fractine deals bleed damage, swings faster, but has less range and deals 30% less damage. Use the critical again to return it to its original form. |
+| talent | Lodged Memory - After using your Critical, lodge a shard into your opponent. While lodged, the remainder of your weapon is granted Bleed, and increased swingspeed. Use your critical again to reclaim the shard. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -44,7 +44,11 @@ The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and req
 
 It was originally the [Ferractine](Ferractine.md), a weapon wielded by the [Iron Vessel](Iron_Vessel.md) before their defeat at the hands of the [The Lord Regent](The_Lord_Regent.md).
 
-After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. The Shattered State deals 30% less damage, has innate bleed, 7 Range, and slightly faster swingspeed (it's not very noticeable). Using the critical again returns it to its original form.
+## Talent
+
+Equipping the Fractine grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+Upon using the critical attack, [**Lodged Memory**](Talents.md#lodged-memory) will proc, shattering the weapon into two, turning the weapon into its 'Shattered State', and, if the attack landed, lodging the tip of your blade into your opponent. The Shattered State of Fractine deals 30% less damage and has reduced Range, but gains innate [Bleed](Status_Effects.md#bleed) and slightly faster swingspeed (it's not very noticeable). Using the critical again or sheathing the weapon returns it to its original form.
 
 ## Critical
 

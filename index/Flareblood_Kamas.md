@@ -1,9 +1,9 @@
 ---
 title: Flareblood Kamas
-revid: 223454
+revid: 234888
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
 ---
 
 # Flareblood Kamas
@@ -21,7 +21,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | swing speed | 1.2x |
 | attack duration | 0.5s |
 | penetration | 30% |
-| special effect | On hit, take away small amounts of blood from your opponent. |
+| talent | Bloodstained - Your Critical Attack applies Blood Poison, and restores a small amount of blood on successful hit. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed (Dual wield) |
@@ -41,9 +41,17 @@ The **Flareblood Kamas** are a pair of Legendary [Light Weapon](Weapons.md) Kama
 
 The Kamas are exclusively obtainable from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), and occasionally the [Weird Trader](Weird_Trader.md).
 
+## Talent
+
+Equipping the Flareblood Kamas grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Bloodstained**](Talents.md#bloodstained) restores a small amount of blood on a successful Critical Attack. Additionally, your the Critical Attack applies [Blood Poison](Status_Effects.md#blood-poison).
+
+This Talent is shared with the [Withered Death Knell](Withered_Death_Knell.md).
+
 ## Critical
 
-The user raises both kamas, unleashing a fountain of blood at their cursor, launching the target into the air while ragdolling them for a short duration. The critical deals **1.5x scaled damage,** applies [Blood Poisoning](Status_Effects.md#blood-poisoning), and restores a portion of the user's blood on successful hit.
+The user raises both kamas, unleashing a fountain of blood at their cursor, launching the target into the air while ragdolling them for a short duration. The critical deals **1.5x scaled damage**.
 
 The critical has a cooldown of 8 seconds, not starting until the critical animation is finished.
 

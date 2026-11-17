@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 224596
+revid: 234824
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greataxes, Heavy Weapons, Weapons of The Hive]
@@ -18,8 +18,7 @@ categories: [Weapons, Weapons with Talents, Greataxes, Heavy Weapons, Weapons of
 | posture damage | 4 |
 | range | 8 Sweep |
 | swing speed | 0.85x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | talent | Expeditions Combo - Landing an uppercut will grant a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it. |
 | m.equip | Yes |
 | m.extract | Yes |

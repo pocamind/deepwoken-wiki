@@ -1,9 +1,9 @@
 ---
 title: Hailbreaker
-revid: 229647
+revid: 234870
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Divers]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Divers]
 ---
 
 # Hailbreaker
@@ -19,10 +19,9 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 | posture damage | 7.5 |
 | range | 8.5 Sweep |
 | swing speed | 0.85x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 15% |
-| special effect | Critical changes the stage of the weapon, changing its model and critical. There are three stages in total. |
+| talent | Ice Age - Your Critical evolves up to 3 stages, growing stronger with each useage and applying Frozen. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -44,9 +43,15 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 
 The **Hailbreaker** is a [Greatsword](Greatswords.md) that scales with Frostdraw; it's a dark carbon fiber patterned blade with sharp edges and a slightly lighter-colored trim along the blade's length. The hilt has a futuristic appearance, incorporating glowing cyan accents, which enhance its high-tech aesthetic. It is only obtainable from [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 
+## Talent
+
+Equipping the Hailbreaker grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Ice Age**](Talents.md#ice-age) allows the weapon to change stages whenever a critical is used. The stages are reset upon the weapon being sheathed, if a critical is feinted, or when the Stage III critical is used.
+
 ## Critical
 
-The Hailbreaker has two different criticals. When a critical is landed, it will advance to the next stage, changing its appearance. The stages are reset upon being sheathed.
+The Hailbreaker has two different criticals.
 
 For the **Stage I**/**II** critical, the user slowly winds up before performing a heavy ice-infused slash, Three ice blasts will form a triangle around the user after a short delay.
 

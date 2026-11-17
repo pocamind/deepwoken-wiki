@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 230595
+revid: 234862
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]
@@ -19,8 +19,7 @@ categories: [Pathfinder Exclusive, Weapons, Weapons with Talents, Greatswords, W
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | chip damage | 10% |
 | talent | Frenzied Slash - Any damage you take during your Critical Attack's windup now gets added to the damage of the Critical Attack. |
 | m.equip | No |

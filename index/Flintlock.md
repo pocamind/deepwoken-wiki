@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 229383
+revid: 234744
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -13,8 +13,8 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Com
 | type | Pistol |
 | damage type | Blunt |
 | requirements | 20 LHT |
-| damage | 11 |
-| scaling | LHT: 12 |
+| damage | 12 |
+| scaling | LHT: 9 |
 | posture damage | 1 |
 | range | 10 Sweep |
 | swing speed | 1.17x |

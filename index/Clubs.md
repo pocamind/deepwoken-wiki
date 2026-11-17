@@ -126,7 +126,7 @@ Clubs uses the default Club critical, an overhead swing. It has a scaled damage 
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Morning_Star.md">Morning Star</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -171,7 +171,7 @@ Clubs uses the default Club critical, an overhead swing. It has a scaled damage 
   <td>1x</td>
   <td>-</td>
   <td>28.8</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Pernach.md">Pernach</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -189,7 +189,7 @@ Clubs uses the default Club critical, an overhead swing. It has a scaled damage 
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td><b><a href="Night_Star.md">Night Star</a><abbr></abbr> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
+  <td><b><a href="Night_Star.md">Night Star<abbr></abbr></a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
   <td>50 MED</td>
   <td>15</td>
   <td>MED: 5.5</td>

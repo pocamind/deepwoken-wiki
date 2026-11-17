@@ -946,7 +946,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md) + [Burn](Status_Effects.md#burn)
 -   This ability has a PvE damage multiplier of 8.5x (up to 9.18x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 -   Flame Leap can proc [Meteor Impact](Talents.md#meteor-impact), even without hitting an opponent. This is extremely useful for proccing [Phoenix Impact](Talents.md#phoenix-impact).
 -   Animation persists on feint.
--   On use, the user will be eligible to be Air Countered, even to the target who was hit by the Mantra.
+-   On use, the user will be eligible to be [Air Countered](Combat_Mechanics.md#air-counter), even to the target who was hit by the Mantra.
 -   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   The Mantra will not deal damage if used in water.
 -   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway) and [Strong Leap](Attunement-less.md#strong-leap), with Flame Leap being incredibly similar to the latter.

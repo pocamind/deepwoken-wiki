@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 231617
+revid: 234795
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
@@ -18,8 +18,7 @@ categories: [Weapons, Weapons with Talents, Greathammers, Weapons with Unique Cr
 | posture damage | 9.5 |
 | range | 8 Sweep |
 | swing speed | 0.82x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | talent | Return to the Stone Ages - Using the Table Flip mantra now turns the projectile into a larger boulder. Landing your Critical Attack enhances this further, giving you an even bigger and stronger boulder. |
 | m.equip | No |
 | m.extract | No |

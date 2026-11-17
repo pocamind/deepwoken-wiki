@@ -314,7 +314,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></b></td>
@@ -496,7 +496,7 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="The_Golden_Fool.md">The Golden Fool</a><abbr></abbr></b></td>
+  <td><b><a href="The_Golden_Fool.md">The Golden Fool<abbr></abbr></a></b></td>
   <td>40 LHT</td>
   <td>12.5</td>
   <td>LHT: 12</td>

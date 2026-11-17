@@ -175,7 +175,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Ancient Metalwork: [Dissonant Chimecaller](../Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](../Ironsing.md) Rods and disrupt the [resonances](../Resonance.md) of others, disabling them for 15 seconds.
     -   Landing a weapon critical puts your opponent's [Resonance](../Resonance.md) on a 15 second cooldown. This does not require Ironsing Rods to proc.
 
--   Assassin's Instincts: [Central Dirk](../Central_Dirk.md) - Your air counters now deal 5% of your targets max health.
+-   Assassin's Instincts: [Central Dirk](../Central_Dirk.md) - Your [air counters](../Combat_Mechanics.md#air-counter) now deal 5% of your targets max health.
 
 -   Assassin's Strike: [Silver Dagger](../Silver_Dagger.md) - Your [Rapid Slashes](../Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
@@ -241,7 +241,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Conducting Impact: [Boltcrusher](../Boltcrusher.md) - Your weapon will inflict your Thundercall elemental effect on basic attacks. Additionally, you can mine [ores](../Ores.md) with the weapon itself.
     -   Apply [Shock](../Status_Effects.md#shock) or [Surge Rods](../Status_Effects.md#surge-rod) on basic attacks.
-    -   Replaces the pickaxe mining animation with one of you using your weapon. Does not work on [Saramaed Hollow](../Saramaed_Hollow.md) fuel. The Ironsing Cantrip overrides this effect.
+    -   Replaces the pickaxe mining animation with one of you using your weapon. Does not work on [Saramaed Hollow](../Saramaed_Hollow.md) fuel. The Ironsing [Cantrip](../Elemental_Cantrips.md) overrides this effect.
 
 -   Continuation: [Rangescraper](../Rangescraper.md) - Everytime you swing your weapon, fire a series of slashes forward after that act as another light attack when landing.
     -   Light attacks fire projectiles that have the M1 tag.
@@ -288,8 +288,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Ether Arrow: [Guiding Star](../Guiding_Star.md) - Your Basic Attacks cost small amounts of Ether to initiate. At 0 Ether, your attack will deal 20% less damage.
 
--   Ether Tuning: Quartztome Pickaxe - Your Criticals require Ether to cast. Additionally, this weapon can be used to mine [ores](../Ores.md).
-    -   Replaces the pickaxe mining animation with one of you using your weapon. Does not work on [Saramaed Hollow](../Saramaed_Hollow.md) fuel. The Ironsing Cantrip overrides this effect.
+-   Ether Tuning: [Quartztone Pickaxe](../Quartztone_Pickaxe.md) - Your Criticals require Ether to cast. Additionally, this weapon can be used to mine [ores](../Ores.md).
+    -   Replaces the pickaxe mining animation with one of you using your weapon. Does not work on [Saramaed Hollow](../Saramaed_Hollow.md) fuel. The Ironsing [Cantrip](../Elemental_Cantrips.md) overrides this effect.
 
 -   Expeditionary Evasiveness: [Inquisitor's Thorn](<../Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](../Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.
@@ -345,10 +345,26 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Iron Leech: [Alloyblood Spear](../Alloyblood_Spear.md) - Landing light attacks gives temporary buffs depending on how much armor and blood poison your opponent has. The more blood poison the faster you swing. The less armor the more range you get
 
+-   Latching Metal: [Iron Requiem](../Iron_Requiem.md) - When you have no shots loaded in the chamber, your Basic Attacks inflict Metal Rods.
+    -   Basic attacks performed while the weapon is unloaded (see [Pistols](../Pistols.md) for more info) applies [Metal Rods](../Status_Effects.md#metal-rods).
+    -   If used with Dual Pistols, this Talent will almost always trigger, as it is not possible to manually reload with this sub-weapon type. Keep in mind that the [Sleight of Hands](../Talents.md#sleight-of-hands) Talent can, and will, still proc on Dual Pistols, causing you to load ammunition by flourishing targets.
+
+-   Leeching Edge: [Bloodfouler](../Bloodfouler.md) - Your Basic Attacks siphon blood off your opponents, restoring your own. Your Critical applies Blood Poison on hit.
+    -   Basic attacks drain blood from your target and give you blood back. Critical attacks apply [Blood Poison](../Status_Effects.md#blood-poison).
+
 -   Legion Revelation: [Imperator's Edge](<../Imperator's_Edge.md>) - After 3 Basic Attacks with the tip of your spear, become Enlightened, amplifying your Critical.
     -   Using a critical attack while Enlightened will consume the effect to amplify the critical.
         -   The neutral critical performs a second barrage, while the running critical gains true hyperarmor.
     -   Enlightened is indicated by a yellow halo above the player's head.
+
+-   Lodged Memory: [Fractine](../Fractine.md) - After using your Critical, lodge a shard into your opponent. While lodged, the remainder of your weapon is granted Bleed, and increased swingspeed. Use your Critical again to reclaim the shard.
+    -   Using Fractine's critical attack causes the weapon to shatter on its second hit, transforming the weapon into its 'Shattered State'. In this form, the weapon has reduced range and 30% less damage, but gains innate bleed and increased swing speed.
+    -   Using the critical again will revert the weapon to its normal state.
+    -   See [Fractine](../Fractine.md) for more info.
+
+-   Malleable: [Ignition Deepcrusher](../Ignition_Deepcrusher.md) - Your weapon can shift into a Club or Sword at will by changing your stande, applying Rods in Club form, and inheriting innate Bleed in sword form.
+    -   In the one-handed stance, this weapon is a Sword with innate [Bleed](../Status_Effects.md#bleed). Uses all of the listed stats on the weapon's tooltip.
+    -   In the two-handed stance, this weapon is a Club that applies [Metal Rods](../Status_Effects.md#metal-rods) on hit. Has improved stats all-around. See [Ignition Deepcrusher](../Ignition_Deepcrusher.md) for more info.
 
 -   Max Ammo: [Summer Hullwrecker](../Summer_Hullwrecker.md) - Landing the cannonball of your critical attack removes your critical attack's cooldown.
     -   As long as the cannonball lands on the target, this critical can be reused infinitely.
@@ -451,6 +467,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Subzero: [Winter Rifle](../Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
     -   Applies [Bottom Freeze](../Status_Effects.md#bottom-freeze) on proc.
 
+-   Subzero Strike: [Kyrswynter](../Kyrswynter.md) - After landing 3 Basic Attacks, your Flourish will cause an ice explosion, dealing extra damage and exploding any Crystals.
+    -   Basic attack flourishes perform a Frostdraw attack that deals additional damage and ragdoll the target.
+
+-   Sudaruska's Fury: [Gran Sudaruska](../Gran_Sudaruska.md) - Landing 3 Basic Attacks will rain down Ice Shards, with a 15s CD.
+    -   On proc, large shards of ice will spawn in the sky and rain down, creating ice patches and dealing damage where they land.
+
 -   Sweeping Edge: [Vigil Longsword](../Vigil_Longsword.md) & [Alloyed Vigil Longsword](../Vigil_Longsword.md) - Your [Master's Flourish](../Attunement-less.md#masters-flourish) is larger and can now proc flourish talents.
     -   This cannot proc [Dazing Finisher](../Talents.md#dazing-finisher) and [Unnecessary Theatrics](../Talents.md#unnecessary-theatrics).
     -   Notably, [Finisher's Ring](<../Finisher's_Ring.md>) works with this, granting your Master's Flourish 40% more PEN.
@@ -472,6 +494,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Threadripper: [Palace Tachi](../Palace_Tachi.md) - When used by a [Contractor](../Oath%253A_Contractor.md), your Critical is empowered to eviscreate your opponents.
     -   If the player is a [Contractor](../Oath%253A_Contractor.md), the Palace Tachi critical attack will automatically execute [Unconscious](../Status_Effects.md#unconscious) targets, or targets who are knocked Unconscious by the critical attack.
+
+-   Time Dialation: [Vortex Echo](../Vortex_Echo.md) - When using your Critical, lower your cooldowns by 30s. Your Critical inflicts yourself with Wither.
+    -   This weapons critical attack will reduce _all_ active cooldowns by 30 seconds on use, before going on a 30 second cooldown that is referred to as "Temporal Fatigue". This comes at the cost of 40 self [Wither](../Status_Effects.md#wither) on usage.
+    -   The amount of cooldown reduction will be reduced if you do not meet this weapon's requirements.
 
 -   True Seraph Slash: [True Seraph Spear](../True_Seraph_Spear.md) - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability. Having [Starkindred](../Oath%253A_Starkindred.md) Wings out or [Angel's Guise](../Talents.md#angels-guise) adds 1 bolt to your enhanced crit.
     -   This deals 0.75x your weapons scaled damage per hit (4 at base), dealt as typeless damage.

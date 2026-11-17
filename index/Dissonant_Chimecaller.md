@@ -1,6 +1,6 @@
 ---
 title: Dissonant Chimecaller
-revid: 234381
+revid: 234808
 source: https://deepwoken.fandom.com/wiki/Dissonant_Chimecaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]
@@ -19,8 +19,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusiv
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.82x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 10% |
 | talent | Ancient Metalwork - Your critical hit can channel the effects of your Ironsing Rods and disrupt the resonances of others, disabling them for 15 seconds. |
 | m.equip | No |

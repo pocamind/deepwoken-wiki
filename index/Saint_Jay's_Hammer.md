@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 228172
+revid: 234792
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greathammers, Heavy Weapons, Weapons with Unique Criticals]
@@ -18,8 +18,7 @@ categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greathammers,
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | talent | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable., Reverse Necrosis - Landing any mantra will now heal you based on how slow your opponent is. |
 | m.equip | No |
 | m.extract | No |

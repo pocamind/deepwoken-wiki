@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 225466
+revid: 234879
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Drops]
@@ -18,8 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | posture damage | 10 |
 | range | 8.5 Sweep |
 | swing speed | 0.79x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 5% |
 | chip damage | 15% |
 | m.equip | No |
@@ -34,6 +33,8 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | pass down | Yes |
 | obtainment | The Enforcer |
 | description | The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. |
+
+Variants: [Enforcer's Axe](<Enforcer's_Axe.md>) · [Enforcer's Hammer](<Enforcer's_Hammer.md>)
 
 ## Description
 

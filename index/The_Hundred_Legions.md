@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 224584
+revid: 234730
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -28,7 +28,7 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 ### Legions
 
-The Hundred Legions consists of one hundred legions.
+The Hundred Legions consists of one hundred legions:
 
 -   The 11th Legion.
     -   consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and [Lars](Lars.md).
@@ -43,7 +43,7 @@ The Hundred Legions consists of one hundred legions.
 -   The 84th Legion.
     -   Has an associated [Specialist set](Specialist_Plate.md) style.
 
-Other notable members of the hundred legions.
+Other notable members and unnumbered legions:
 
 -   The Evanspear Centurion.
     -   Has associated equipment, [Evanspear War set](Evanspear_War_Helmet.md) and [Reinforced War set](Reinforced_War_Helmet.md).

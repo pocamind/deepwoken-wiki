@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 211076
+revid: 234880
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Legendary Weapons, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -18,8 +18,7 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Legendary Weap
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

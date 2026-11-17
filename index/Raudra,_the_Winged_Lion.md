@@ -1,6 +1,6 @@
 ---
 title: "Raudra, the Winged Lion"
-revid: 234696
+revid: 234729
 source: https://deepwoken.fandom.com/wiki/Raudra%2C_the_Winged_Lion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -25,9 +25,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Raudra, the Winged Lion is a [Felinor](Felinor.md) NPC. He tasks the player with a PvP-based challenge for 3 [War Spoils](War_Spoils.md) once every day. He is warrior from the [Hundred Legions](The_Hundred_Legions.md) who is currently investigating the [Starkindred Church](The_Starkindred_Church.md)'s influence within the East, as well as the art of [Bloodrending](Bloodrend.md). At a young age, he was captured by the Church, forcibly ending up as a [Starkindred](Oath%253A_Starkindred.md) before shaping the Oath into his own will.
+Raudra, the Winged Lion is a [Felinor](Felinor.md) NPC.
 
-Raudra presents himself as a tall, stone gray Felinor with disheveled deep brown hair, wearing a tarnished crimson [Khan](Khan.md) crown. Both of his eyes glow pink, and bear four-pronged stars in them. His face shows numerous scars and a burn mark on his right eye, and wears a considerably grown beard. His outfit consists of a pair of dark pauldrons and boots with ivory linings, and wears [four of his own rings](<Raudra's_Finger.md>) in both of his hands. His Starkindred halo is bright pink and has a floral shape, as a result of bending the Oath to his own will. In addition, he has a pair of secondary bright pink arms on his back.
+He tasks the player with a PvP-based challenge for 3 [War Spoils](War_Spoils.md) once every day. He is warrior from the [Hundred Legions](The_Hundred_Legions.md) who is currently investigating the [Starkindred Church](The_Starkindred_Church.md)'s influence within the East, as well as the art of [Bloodrending](Bloodrend.md). At a young age, he was captured by the Church, forcibly ending up as a [Starkindred](Oath%253A_Starkindred.md) before shaping the Oath into his own will.
+
+He is a tall, stone gray Felinor with disheveled deep brown hair, wearing a tarnished crimson [Khan](Khan.md) crown. Both of his eyes glow pink, and bear four-pronged stars in them. His face shows numerous scars and a burn mark on his right eye, and wears a considerably grown beard. His outfit consists of a pair of dark pauldrons and boots with ivory linings, and wears [four of his own rings](<Raudra's_Finger.md>) in both of his hands. His Starkindred halo is bright pink and has a floral shape, as a result of bending the Oath to his own will. In addition, he has a pair of secondary bright pink arms on his back.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 225465
+revid: 234847
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -18,8 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | posture damage | 8 |
 | range | 8.5 Sweep |
 | swing speed | 0.76x |
-| attack duration | 1s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 10% |
 | m.equip | No |
 | m.extract | No |
@@ -33,6 +32,8 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | pass down | Yes |
 | obtainment | Drop from The Enforcer |
 | description | The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. |
+
+Variants: [Enforcer's Blade](<Enforcer's_Blade.md>) · [Enforcer's Hammer](<Enforcer's_Hammer.md>)
 
 ## Description
 

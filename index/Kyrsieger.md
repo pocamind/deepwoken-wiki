@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 234605
+revid: 234867
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
@@ -22,6 +22,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, "Core-Attribute based w
 | endlag | 0.1s |
 | penetration | 15% |
 | chip damage | 10% |
+| talent | Uproaring Chant - Holding down your Critical charges the attack, increasing its damage and range. On hit, inflict ragdoll and charm. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -39,9 +40,11 @@ categories: [Weapons, Weapons with Talents, Greatswords, "Core-Attribute based w
 
 The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, manipulating a fraction of Ethiron's power to unleash a devastating blast of energy.
 
-## Talents
+## Talent
 
 Equipping the Kyrsieger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Uproaring Chant**](Talents.md#uproaring-chant) allows you to charge your critical attack by holding it down to increase the range and damage. Additionally, this applies [Charmed](Status_Effects.md#charmed) for 5 seconds upon landing your critical. For more information, viea the critical attack section below.
 
 ## Critical
 

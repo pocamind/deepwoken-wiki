@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 230281
+revid: 234798
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -18,8 +18,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | posture damage | 10 |
 | range | 8.5 Sweep |
 | swing speed | 0.83x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 15% |
 | m.equip | Yes |
 | m.extract | Yes |

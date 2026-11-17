@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 234656
+revid: 234864
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Weapons with Talents, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -19,11 +19,10 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 | posture damage | 6 |
 | range | 8.5 Sweep |
 | swing speed | 0.83x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 5% |
 | talent | Sudaruska's Fury - Landing 3 Basic Attacks will rain down Ice Shards, with a 15s CD. |
-| special effect | Rain down Ice Shards after 3 M1 hits, Talks when killing Ministry NPCs, Contractors or users of Prophet's Cloak |
+| special effect | Talks when killing Ministry NPCs, Contractors or users of Prophet's Cloak |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
@@ -45,11 +44,13 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 
 -   **Vengeful Soul** - After gripping a player with the [Contractor](Oath%253A_Contractor.md) Oath, [Prophet's Cloak](<Prophet's_Cloak.md>) outfit or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them. Additionally, killing a [Rogue Construct](Rogue_Construct.md) will make Gran Sudaruska talk as well.
 
-## Talents
+## Talent
 
 Equipping the Gran Sudaruska grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Sudaruska's Fury**](Talents.md#sudaruskas-fury) rains down 12 ice crystals from the sky after landing three basic attacks on an enemy, each crystal dealing 20 Frostdraw damage or 259.2 PvE damage. The area that an ice crystal lands on will have ice applied on the floor. 15 second cooldown.
+[**Sudaruska's Fury**](Talents.md#sudaruskas-fury) rains down 12 ice crystals from the sky after landing three basic attacks on an enemy, each crystal dealing 20 Frostdraw damage. The area that an ice crystal lands on will have ice applied on the floor. 15 second cooldown.
+
+This ability has a PvE damage multiplier of 12x (up to 12.96x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
 ## Critical
 

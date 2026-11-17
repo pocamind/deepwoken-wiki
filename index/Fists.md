@@ -493,7 +493,7 @@ This attack has a **5 second cooldown**.
   <td>1.1x</td>
   <td>-</td>
   <td>26.5</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
@@ -571,7 +571,7 @@ This attack has a **5 second cooldown**.
   <td>1.12x</td>
   <td>-</td>
   <td>25.1</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Withered_Death_Knell.md"><font>Withered Death Knell</font></a></b></td>
@@ -587,7 +587,7 @@ This attack has a **5 second cooldown**.
   <td>1.08x</td>
   <td>-</td>
   <td>26.3</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
@@ -683,7 +683,7 @@ This attack has a **5 second cooldown**.
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets</a><abbr></abbr></b></td>
+  <td><b><a href="Frost_Gauntlets.md">Frost Gauntlets<abbr></abbr></a></b></td>
   <td>30 LHT</td>
   <td>14</td>
   <td>LHT: 9</td>

@@ -1,6 +1,6 @@
 ---
 title: "Grand Pathfinder's Backpack"
-revid: 223107
+revid: 234772
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -11,8 +11,8 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 | Grand Pathfinder's Backpack | |
 |---|---|
 | type | Torso |
-| rarity | Common |
-| selling price | 7 |
+| rarity | Legendary |
+| selling price | 50 |
 | requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +50 Carry Load +1 Rare Pip |

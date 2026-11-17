@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 225467
+revid: 234810
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -18,8 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique C
 | posture damage | 12 |
 | range | 8.5 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 10% |
 | chip damage | 20% |
 | m.equip | No |
@@ -34,6 +33,8 @@ categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique C
 | pass down | Yes |
 | obtainment | The Enforcer |
 | description | The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. |
+
+Variants: [Enforcer's Axe](<Enforcer's_Axe.md>) · [Enforcer's Blade](<Enforcer's_Blade.md>)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 226987
+revid: 234866
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -19,8 +19,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Greatswords, 
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | chip damage | 20% |
 | talent | Spinal Shatter - Landing the Crescent Cleaver critical attack causes your opponent to be unable to sprint for 8 seconds. (10 second CD) |
 | m.equip | Yes |
@@ -42,7 +41,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Greatswords, 
 
 The Crescent Cleaver is a mid-game Heavy Weapon. The Crescent Cleaver is [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a purple tint.
 
-## Talents
+## Talent
 
 Equipping the Crescent Cleaver grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 221540
+revid: 234854
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Alloyable Weapons, Heavy Weapons]
@@ -19,8 +19,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Alloyable Weapons, Heav
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.8x / 0.83x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 10% |
 | talent | Devastating Recovery - Enemies recover 30% less posture when parrying your Zweihander light attacks. |
 | m.equip | Yes |

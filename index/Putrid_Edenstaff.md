@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 233269
+revid: 234797
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Heavy Weapons, Weapons with Unique Animations]
@@ -18,8 +18,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.81x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 15% |
 | m.equip | No |
 | m.extract | No |

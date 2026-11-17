@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 229491
+revid: 234811
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons of Etrea]
@@ -18,8 +18,7 @@ categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1 |
+| attack duration | 0.8s |
 | chip damage | 10% |
 | m.equip | Yes |
 | m.extract | Yes |

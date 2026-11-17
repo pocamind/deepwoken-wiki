@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 234566
+revid: 234752
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Company]
@@ -13,8 +13,8 @@ categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Com
 | type | Pistol |
 | damage type | Blunt |
 | requirements | 65 LHT |
-| damage | 14 |
-| scaling | LHT: 8.5 |
+| damage | 14.5 |
+| scaling | LHT: 8 |
 | posture damage | 3 |
 | range | 12 Sweep |
 | swing speed | 1.25x |

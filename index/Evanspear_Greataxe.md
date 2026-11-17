@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 229532
+revid: 234826
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, The Hundred Legions]
@@ -18,8 +18,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, The Hundred Legions]
 | posture damage | 8 |
 | range | 8.5 Sweep |
 | swing speed | 0.73x |
-| attack duration | 1s |
-| endlag | 0.1s |
+| attack duration | 0.9s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |

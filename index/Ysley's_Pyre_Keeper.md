@@ -1,9 +1,9 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 234553
+revid: 234858
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Hive]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Hive]
 ---
 
 # Ysley's Pyre Keeper
@@ -19,10 +19,9 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | posture damage | 5 |
 | range | 8 Sweep |
 | swing speed | 0.89x |
-| attack duration | 0.8s |
-| endlag | 0.1s |
+| attack duration | 0.7s |
 | penetration | 15% |
-| special effect | The 2nd M1 and the crouching and sliding criticals scale on Light Weapon invest instead of Heavy Weapon. These attacks have 5 LHT scaling. |
+| talent | Callow & Verdant - Basic Attacks you land inflict a green flame onto opponents, slowing them down. Your second Basic Attack and Crouching/Sliding Critical scales off LHT. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -38,14 +37,15 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 
 ## Description
 
-**Ysley's Pyre Keeper,** or "Callow & Verdant" is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes bright green flames, wielded alongside a curved, serrated dagger. It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
+**Ysley's Pyre Keeper,** or "Callow & Verdant" is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes bright green flames, wielded alongside a curved, serrated dagger.
 
-The Pyre Keeper comes with the following passives:
+As suggested by its item description, this blade was used by Ysley after it was crafted by a Greatlord of the Hive using the Flames of Life. The implications of this distinctive appearance may be written off by some, as its appearance may change color depending on the Azure Flame/Twisted Puppets/Eruption path chosen by its user.
 
--   **Lifelord's Blaze:** M1 attacks spawn green-yellowish flames on hit. This has a 4 second cooldown before it can proc green flames again.
--   **Dual Scaling M1s:** M1 or critical attacks that swing with the dagger scale off light weapon rather then heavy.
+## Talents
 
-As suggested by its item description, this blade was used by Ysley after it was crafted by a Greatlord of the Hive using the Flames of Life. The lore implications of this distinctive appearance may be written off by some, as its appearance may change color depending on the Azure Flame/Twisted Puppets/Eruption path chosen by its user, though it is important to remember that its appearance could not be altered upon release.
+Equipping the Ysley's Pyre Keeper grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Callow & Verdant**](Talents.md#callow--verdant) applies **[Lifelords's Blaze](Status_Effects.md#lifelordss-blaze)**, a form of [Burn](Status_Effects.md#burn) that reduces movement speed, on light attacks with a 4 second cooldown. The dagger attacks from this weapon (2nd M1, Crouching and Sliding Criticals) scale on LHT instead of HVY.
 
 ## Criticals
 
@@ -71,6 +71,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   The weapon is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_, an arsenal consisting of a large greatsword and an accompanying dagger to use as a pivot. Its fire-infused state is a reference to the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) who, as Lords of Cinder, imbue their form and weapon with fire in the second phase of their fight.
 -   This weapon is currently the only thing in the game to change colors if the user has Eruption Path: Lava Serpent.
 -   This weapon was originally hidden from testers, explaining how strong it was on release.
+-   The blades are named "Callow & Verdant". This used to be visible when observing the stats of the weapon at a [campfire](Campfire_Pit.md), but the removal of this feature has also removed the ability to actually see what the weapon is called.
 -   It was formerly the only Elemental weapon to not require 75 of the element. With a requirement of 65 HVY, 50 FLM, and 15 LHT, its total required investment was the third highest of any weapon; 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md) at the time, and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s used to have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but this was changed on April 19, 2024.
@@ -78,4 +79,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   It has the most amount of critical attack variations (Six, one for nearly every possible character state).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
--   Quite powerful with the [Switchblade](Talents.md#switchblade) talent, due to overlapping investment points.
+-   Quite powerful with the [Switchblade](Talents.md#switchblade) Talent, due to overlapping investment points.

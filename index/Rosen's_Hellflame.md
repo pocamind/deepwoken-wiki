@@ -1,9 +1,9 @@
 ---
 title: "Rosen's Hellflame"
-revid: 231111
+revid: 234708
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Summer Company]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Summer Company]
 ---
 
 # Rosen's Hellflame
@@ -40,6 +40,12 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "A
 This weapon comes with a singular passive ability:
 
 -   **Spark of Genius** - "Shot" attacks (the 2nd and 4th Basic Attack, including Aerial Attacks) will apply [Burn](Status_Effects.md#burn) or Eruption if the user has the corresponding path.
+
+## Talents
+
+Equipping the Rosen's Hellflame grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Dragon's Breath**](Talents.md#dragons-breath)
 
 ## Critical
 

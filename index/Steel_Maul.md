@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 221452
+revid: 234790
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greathammers, Alloyable Weapons, Heavy Weapons]
@@ -19,8 +19,7 @@ categories: [Weapons, Weapons with Talents, Greathammers, Alloyable Weapons, Hea
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.8x / 0.85x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 10% |
 | talent | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. Your Pressure Blast is now unparryable. |
 | m.equip | Yes |

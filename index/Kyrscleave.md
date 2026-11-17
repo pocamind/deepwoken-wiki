@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 226988
+revid: 234874
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
@@ -18,8 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hi
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.81x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | chip damage | 10% |
 | m.equip | Yes |
 | m.extract | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 225462
+revid: 234882
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -18,8 +18,8 @@ categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greatswords, 
 | posture damage | 12 |
 | range | 13 Sweep |
 | swing speed | 0.75x |
-| attack duration | 1.2s |
-| endlag | 0.3s |
+| attack duration | 1.1s |
+| endlag | 0.15s |
 | chip damage | 10% |
 | talent | Monster Slayer - Deal 25% more damage to giant enemies. |
 | m.equip | No |
@@ -47,7 +47,7 @@ The Darksteel Cleaver is a greatsword in the [Vow of Iron](Vow_of_Iron.md) gamem
 
 Located where the Chariot's Spire would be in [Pathfinder](Pathfinder.md), near a [Deep Owl](Deep_Owl.md) and a [Prime Owl](Parliament.md). Be aware that the sword spawns very rarely so you might have to server hop several times to find it.
 
-## Talents
+## Talent
 
 Equipping the Darksteel Cleaver grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

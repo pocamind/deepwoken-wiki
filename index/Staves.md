@@ -109,7 +109,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>0.96x</td>
   <td>-</td>
   <td>33.5</td>
-  <td><b>✓</b></td>
+  <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Sancticar.md">Sancticar</a></b></td>

@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 232592
+revid: 234881
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with multiple Criticals, Alloyblood Weapons]
@@ -18,8 +18,7 @@ categories: [Weapons, Weapons with Talents, Greatswords, Heavy Weapons, "Attunem
 | posture damage | 8 |
 | range | 12.5 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 25% |
 | chip damage | 20% |
 | talent | Forced Fulfilment - Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them. |

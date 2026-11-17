@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 234400
+revid: 234839
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Multiple Classes]
@@ -18,8 +18,7 @@ categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Un
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.93x |
-| attack duration | 0.8s |
-| endlag | 0.1s |
+| attack duration | 0.7s |
 | penetration | 25% |
 | talent | Ebb and Flow - Landing a medium mantra increases your next heavy mantra's level by 1 and vice versa. This is stackable and can increase to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against. |
 | m.equip | No |

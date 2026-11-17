@@ -1,9 +1,9 @@
 ---
 title: "Imperator's Edge"
-revid: 211059
+revid: 234890
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Legendary Weapons, Spears, Medium Weapons, "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Weapons with Talents, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Legendary Weapons, Spears, Medium Weapons, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Imperator's Edge
@@ -20,7 +20,7 @@ categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapo
 | swing speed | 0.93x |
 | attack duration | 0.7s |
 | penetration | 20% |
-| special effect | Landing three hits with the tip of the spear grants the Enlightened state to the user. While in this state, the user's critical attacks will be amplified. |
+| talent | Legion Revalation - After landing 3 Basic Attacks with the tip of your spear, become Enlightened, amplifying your Critical. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -38,9 +38,13 @@ categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapo
 
 The **Imperator's Edge** is a Legendary Spear. Used by the frontlines of the Hundred Legions, it is a gargantuan, ornate spear with a glowing tip infused with the very essence of light itself.
 
-The Imperator's Edge comes with a passive ability:
+## Talent
 
--   **Enlightened Brilliance** - Landing three hits on a target with **only** the tip of the spear enters the user in the Enlightened state, signified by a glowing halo on their head. During this state, the user's criticals will be amplified. Enlightened has a cooldown of **10 seconds**.
+Equipping the Imperator's Edge grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Legion Revelation**](Talents.md#legion-revelation) procs upon Landing three hits on a target with **only** the tip of the spear enters the user in the Enlightened state, signified by a glowing halo on their head. During this state, the user's criticals will be amplified.
+
+Enlightened has a cooldown of **10 seconds**.
 
 ## Critical
 

@@ -83,15 +83,15 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 </tr>
 <tr>
   <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
-  <td>16</td>
-  <td>LHT: 16</td>
+  <td>17</td>
+  <td>LHT: 10</td>
   <td>-</td>
   <td>-</td>
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
   <td>-</td>
-  <td>35.2</td>
+  <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>8</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>0.2s</td>
+  <td>0.05s</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -142,7 +142,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>8.5</td>
   <td>9.2</td>
   <td>0.84x</td>
-  <td>0.3s</td>
+  <td>0.1s</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>

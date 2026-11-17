@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 234526
+revid: 234749
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -219,7 +219,7 @@ Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Adrofalis
 -   An empire that spawns much of the [Western Luminant](#western-luminant), and a rival to the [Central Authority](#central-authority).
 -   Though there have always been tensions between the [Hundred Legions](#hundred-legions) and the [Central Authority](#central-authority), they have come to a head in recent years, threatening to erupt into all-out war.
 
-Dialogue: [Raudra](Raudra,_the_Winged_Lion.md) | Books: | Glossary Entries:
+Dialogue: [Dravik](<Dravik,_the_Rat_King_(NPC).md>), [Raudra](Raudra,_the_Winged_Lion.md) | Books: | Glossary Entries:
 
 ### The Old Stewards
 

@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 224552
+revid: 234779
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons, "Weapons with Multi-Hit Criticals"]
@@ -18,8 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heav
 | posture damage | 10 |
 | range | 8.5 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | chip damage | 20% |
 | special effect | Critical applies White Burn |
 | m.equip | Yes |

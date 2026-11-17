@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 234128
+revid: 234702
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics]
@@ -30,7 +30,7 @@ Mounts are tamed creatures or objects that can be used to traverse terrain quick
 
 ### Felwind Broom
 
--   _**Obtainment:**_ The Felwind Broom mount can be purchased at [Carmilla Spellhardt](Carmilla_Spellhardt.md) in [The Floating Keep](The_Floating_Keep.md) for 1000 joy. Once you had bought it from Carmilla, this mount will be unlocked permanently across all slots at [Sordino](Sordino.md) for a price of 15.
+-   _**Obtainment:**_ The Felwind Broom mount can be purchased at [Carmilla Spellhardt](Carmilla_Spellhardt.md) in [The Floating Keep](The_Floating_Keep.md) for 1000 joy. Once you had bought it from Carmilla, this mount will be unlocked permanently across all slots at [Sordino](Sordino.md) for a price of 5.
     -   Using the critical while mounted will cause the broom to do a dash that costs 50 flat [Ether](Ether.md).
     -   The critical will go the same distance, even in water.
 

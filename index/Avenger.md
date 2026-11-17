@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 224506
+revid: 234853
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Greatswords, Heavy Weapons, Echo Unlockables]
@@ -18,8 +18,7 @@ categories: [Pathfinder Exclusive, Weapons, Greatswords, Heavy Weapons, Echo Unl
 | posture damage | 8 |
 | range | 8.5 Sweep |
 | swing speed | 0.83x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |

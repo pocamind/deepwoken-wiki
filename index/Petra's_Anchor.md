@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 231915
+revid: 234800
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -18,7 +18,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | posture damage | 9 |
 | range | 8.5 |
 | swing speed | 0.8x |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 15% |
 | m.equip | No |
 | m.extract | No |

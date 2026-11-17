@@ -1,6 +1,6 @@
 ---
 title: Summer Hullwrecker
-revid: 233076
+revid: 234778
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapons of The Summer Company]
@@ -18,8 +18,7 @@ categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", 
 | posture damage | 9 |
 | range | 8.5 Sweep |
 | swing speed | 0.81x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 10% |
 | chip damage | 5% |
 | talent | Max Ammo - Landing the cannonball of your critical attack removes your critical attack's cooldown. |

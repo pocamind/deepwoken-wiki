@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 234072
+revid: 234812
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons, Weapons of The Hive, Weapons with Unique Animations]
@@ -18,8 +18,8 @@ categories: [Weapons, Greathammers, Heavy Weapons, Weapons of The Hive, Weapons 
 | posture damage | 9 |
 | range | 9.5 Sweep |
 | swing speed | 0.62x |
-| attack duration | 1.2s |
-| endlag | 0.15s |
+| attack duration | 1.1s |
+| endlag | 0.05s |
 | penetration | 5% |
 | m.equip | Yes |
 | m.extract | Yes |

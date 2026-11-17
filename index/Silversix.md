@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 227863
+revid: 234743
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Echo Unlockables]
@@ -12,9 +12,9 @@ categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Ech
 |---|---|
 | type | Pistol |
 | damage type | Blunt |
-| requirements | 0 LHT |
-| damage | 10 |
-| scaling | LHT: 13 |
+| requirements | N/A |
+| damage | 12 |
+| scaling | LHT: 8.5 |
 | posture damage | 1 |
 | range | 10 Sweep |
 | swing speed | 1.17x |

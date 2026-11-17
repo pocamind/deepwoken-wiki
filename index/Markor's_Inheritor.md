@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 229636
+revid: 234856
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons]
@@ -20,8 +20,7 @@ categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Critica
 | posture damage | 8 |
 | range | 8.5 Sweep |
 | swing speed | 0.85x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 10% / 15% |
 | talent | Blade Scholar - Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have. |
 | special effect | Inherits the critical of your last used Fist Style |

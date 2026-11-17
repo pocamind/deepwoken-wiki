@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 224540
+revid: 234742
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyable Weapons, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -14,8 +14,8 @@ categories: [Weapons, Pistols, Alloyable Weapons, Offhand, Light Weapons, Weapon
 | type | Pistol |
 | damage type | Blunt |
 | requirements | 40 LHT / 75 LHT |
-| damage | 14 / 16 |
-| scaling | LHT: 12 |
+| damage | 15 / 16.5 |
+| scaling | LHT: 8 / LHT: 9 |
 | posture damage | 1 / 2.5 |
 | range | 10.5 Sweep |
 | swing speed | 1.17x |

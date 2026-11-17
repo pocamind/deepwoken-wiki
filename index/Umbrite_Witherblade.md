@@ -1,9 +1,9 @@
 ---
 title: Umbrite Witherblade
-revid: 227484
+revid: 234721
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Legendary Weapons, Relic Weapon]
+categories: [Weapons, Weapons with Talents, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Legendary Weapons, Relic Weapon]
 ---
 
 # Umbrite Witherblade
@@ -50,6 +50,12 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 -   [Razor Cutlass](Razor_Cutlass.md)
 -   3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md#umbrite)
 
+## Talents
+
+Equipping the Umbrite Witherblade grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Wilting Edge**](Talents.md#wilting-edge)
+
 ## Critical
 
 The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target, applying [bleed](Status_Effects.md#bleed). The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
@@ -63,10 +69,10 @@ The cooldown for this critical is **8** seconds.
 ## Trivia
 
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
--   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to prevent datamining.
--   During its release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat sound effects remained.
+-   When the weapon was first released, viewing it on the [campfire](Campfire_Pit.md) menu would display the name as "Lkq tg ywdn..." It was random gibberish to prevent datamining.
 -   While equipped, the Umbrite Witherblade will emit heartbeats as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
     -   The heartbeats of the weapon are noticeably faster than that of the the Dormant Splinter.
+    -   During its release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted for unknown reasons but the heartbeat sound effects remained.
 -   Umbrite Witherblade's appearance is extremely similar to a weapon shown in the anime _Overlord_, specifically in the fourth season.[\[1\]](#cite-note-1)
 -   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) will increase the Anti-Heal duration on the weapon critical from 10 seconds to 12.
 

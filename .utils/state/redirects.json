@@ -121,6 +121,10 @@
     "to": "Attributes",
     "fragment": "AGL"
   },
+  "Air Counter": {
+    "to": "Combat Mechanics",
+    "fragment": "Air Counter"
+  },
   "Air Force": {
     "to": "Galebreathe",
     "fragment": "Air Force"

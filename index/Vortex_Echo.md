@@ -1,9 +1,9 @@
 ---
 title: Vortex Echo
-revid: 229797
+revid: 234706
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
+categories: [Weapons, Weapons with Talents, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
 ---
 
 # Vortex Echo
@@ -36,6 +36,12 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 ## Description
 
 The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requires 65 LHT and 65 CHA, being crafted with a [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md), and [Kyrsan Schematic](Kyrsan_Schematic.md) using a Crafting Table. The weapon harnesses the power of space-time distortions from the [Second Layer](Second_Layer.md), allowing you to use your many abilities again, it **does not** match your current [Fist](Fists.md) style, defaulting to [Legion Kata](Legion_Kata.md).
+
+## Talents
+
+Equipping the Vortex Echo grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Time Dilation**](Talents.md#time-dilation) ensures the critical does something other than applying Wither.
 
 ## Critical
 

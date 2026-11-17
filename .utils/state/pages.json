@@ -377,7 +377,7 @@
   },
   "1314": {
     "title": "Attunement-less",
-    "lastrevid": 234448
+    "lastrevid": 234701
   },
   "1338": {
     "title": "Shadowcast",
@@ -385,11 +385,11 @@
   },
   "1347": {
     "title": "Flintlock",
-    "lastrevid": 229383
+    "lastrevid": 234744
   },
   "1348": {
     "title": "Repeater",
-    "lastrevid": 234566
+    "lastrevid": 234752
   },
   "1355": {
     "title": "Reputation",
@@ -597,7 +597,7 @@
   },
   "1875": {
     "title": "Talents",
-    "lastrevid": 234685
+    "lastrevid": 234780
   },
   "1880": {
     "title": "Razor Cutlass",
@@ -669,7 +669,7 @@
   },
   "2137": {
     "title": "Steel Maul",
-    "lastrevid": 221452
+    "lastrevid": 234790
   },
   "2163": {
     "title": "Castle Light",
@@ -761,19 +761,19 @@
   },
   "2508": {
     "title": "Enforcer's Axe",
-    "lastrevid": 225465
+    "lastrevid": 234847
   },
   "2513": {
     "title": "Darksteel Greatsword",
-    "lastrevid": 230595
+    "lastrevid": 234862
   },
   "2521": {
     "title": "Forge Greathammer",
-    "lastrevid": 225472
+    "lastrevid": 234794
   },
   "2523": {
     "title": "Pale Morning",
-    "lastrevid": 230281
+    "lastrevid": 234798
   },
   "2525": {
     "title": "Krulian Knife",
@@ -813,7 +813,7 @@
   },
   "2586": {
     "title": "Traveller's Jacket",
-    "lastrevid": 234531
+    "lastrevid": 234731
   },
   "2591": {
     "title": "Hired Mercenary",
@@ -945,7 +945,7 @@
   },
   "2687": {
     "title": "Adretian Axe",
-    "lastrevid": 228878
+    "lastrevid": 234819
   },
   "2690": {
     "title": "Aelita",
@@ -1061,7 +1061,7 @@
   },
   "2855": {
     "title": "Battleaxe",
-    "lastrevid": 221465
+    "lastrevid": 234816
   },
   "2869": {
     "title": "Cut Content",
@@ -1109,7 +1109,7 @@
   },
   "3131": {
     "title": "Zweihander",
-    "lastrevid": 221540
+    "lastrevid": 234854
   },
   "3139": {
     "title": "Windrunner",
@@ -1133,7 +1133,7 @@
   },
   "3185": {
     "title": "Dragoon",
-    "lastrevid": 224547
+    "lastrevid": 234753
   },
   "3189": {
     "title": "Ritual Spear",
@@ -1157,7 +1157,7 @@
   },
   "3206": {
     "title": "Enforcer's Blade",
-    "lastrevid": 225466
+    "lastrevid": 234879
   },
   "3212": {
     "title": "Temple Courtyard",
@@ -1193,7 +1193,7 @@
   },
   "3235": {
     "title": "Petra's Anchor",
-    "lastrevid": 231915
+    "lastrevid": 234800
   },
   "3238": {
     "title": "Flamekeeper Cestus",
@@ -1225,7 +1225,7 @@
   },
   "3251": {
     "title": "Inquisitor's Greatsword",
-    "lastrevid": 227598
+    "lastrevid": 234861
   },
   "3254": {
     "title": "Regalia",
@@ -1245,15 +1245,15 @@
   },
   "3267": {
     "title": "Master Hawk's Handaxe",
-    "lastrevid": 221380
+    "lastrevid": 234841
   },
   "3269": {
     "title": "First Light",
-    "lastrevid": 233974
+    "lastrevid": 234873
   },
   "3276": {
     "title": "Night Axe",
-    "lastrevid": 231811
+    "lastrevid": 234849
   },
   "3290": {
     "title": "Apprentice Rapier",
@@ -1281,7 +1281,7 @@
   },
   "3331": {
     "title": "Great Maul",
-    "lastrevid": 233349
+    "lastrevid": 234796
   },
   "3341": {
     "title": "Bosses",
@@ -1369,7 +1369,7 @@
   },
   "3510": {
     "title": "Relic Axe",
-    "lastrevid": 233107
+    "lastrevid": 234844
   },
   "3531": {
     "title": "Den Master",
@@ -1385,11 +1385,11 @@
   },
   "3557": {
     "title": "Canorian Axe",
-    "lastrevid": 232953
+    "lastrevid": 234820
   },
   "3559": {
     "title": "Crescent Cleaver",
-    "lastrevid": 226987
+    "lastrevid": 234866
   },
   "3571": {
     "title": "Version History/2025",
@@ -1417,11 +1417,11 @@
   },
   "3640": {
     "title": "Halberd",
-    "lastrevid": 225984
+    "lastrevid": 234818
   },
   "3670": {
     "title": "Iron Birch",
-    "lastrevid": 224596
+    "lastrevid": 234824
   },
   "3677": {
     "title": "Monster Bait",
@@ -1565,7 +1565,7 @@
   },
   "4284": {
     "title": "Evanspear Greataxe",
-    "lastrevid": 229532
+    "lastrevid": 234826
   },
   "4290": {
     "title": "Hive Guard",
@@ -1765,7 +1765,7 @@
   },
   "4695": {
     "title": "The Hundred Legions",
-    "lastrevid": 224584
+    "lastrevid": 234730
   },
   "4707": {
     "title": "Cheral",
@@ -2173,7 +2173,7 @@
   },
   "5303": {
     "title": "Railblade",
-    "lastrevid": 234550
+    "lastrevid": 234825
   },
   "5304": {
     "title": "The Scoundrel's Bounty",
@@ -2189,7 +2189,7 @@
   },
   "5383": {
     "title": "Enforcer's Hammer",
-    "lastrevid": 225467
+    "lastrevid": 234810
   },
   "5387": {
     "title": "Brutus",
@@ -2201,11 +2201,11 @@
   },
   "5389": {
     "title": "Skyreap Blade",
-    "lastrevid": 233273
+    "lastrevid": 234834
   },
   "5402": {
     "title": "Hallowscleave",
-    "lastrevid": 233267
+    "lastrevid": 234776
   },
   "5408": {
     "title": "Second Layer",
@@ -2309,7 +2309,7 @@
   },
   "5704": {
     "title": "Markor's Inheritor",
-    "lastrevid": 229636
+    "lastrevid": 234856
   },
   "5707": {
     "title": "Iron Blunderbuss",
@@ -2325,7 +2325,7 @@
   },
   "5747": {
     "title": "Hivelord's Hubris",
-    "lastrevid": 234072
+    "lastrevid": 234812
   },
   "5749": {
     "title": "Misérables",
@@ -2349,7 +2349,7 @@
   },
   "5762": {
     "title": "Gran Sudaruska",
-    "lastrevid": 234656
+    "lastrevid": 234864
   },
   "5766": {
     "title": "Kyrstreza",
@@ -2381,7 +2381,7 @@
   },
   "5799": {
     "title": "Kyrscleave",
-    "lastrevid": 226988
+    "lastrevid": 234874
   },
   "5800": {
     "title": "Kyrsblade",
@@ -2593,11 +2593,11 @@
   },
   "6254": {
     "title": "Silversix",
-    "lastrevid": 227863
+    "lastrevid": 234743
   },
   "6256": {
     "title": "Avenger",
-    "lastrevid": 224506
+    "lastrevid": 234853
   },
   "6297": {
     "title": "Broken Gatling Gun",
@@ -2689,7 +2689,7 @@
   },
   "6563": {
     "title": "Poser's Ring",
-    "lastrevid": 233231
+    "lastrevid": 234799
   },
   "6577": {
     "title": "Golden Rat Bouncer",
@@ -2869,7 +2869,7 @@
   },
   "7459": {
     "title": "Flareblood Kamas",
-    "lastrevid": 223454
+    "lastrevid": 234888
   },
   "7470": {
     "title": "Cathedral of Ethiron",
@@ -3101,7 +3101,7 @@
   },
   "7908": {
     "title": "Stormseye",
-    "lastrevid": 234606
+    "lastrevid": 234715
   },
   "7909": {
     "title": "Summer Rifle",
@@ -3205,7 +3205,7 @@
   },
   "8142": {
     "title": "Oath: Contractor",
-    "lastrevid": 232974
+    "lastrevid": 234733
   },
   "8148": {
     "title": "Delver's Duster",
@@ -3333,7 +3333,7 @@
   },
   "8519": {
     "title": "Eager Tradesman",
-    "lastrevid": 229423
+    "lastrevid": 234793
   },
   "8520": {
     "title": "Scholar",
@@ -3637,7 +3637,7 @@
   },
   "9711": {
     "title": "Putrid Edenstaff",
-    "lastrevid": 233269
+    "lastrevid": 234797
   },
   "9715": {
     "title": "Drakemaw Gauntlets",
@@ -3685,7 +3685,7 @@
   },
   "9765": {
     "title": "Joy",
-    "lastrevid": 234192
+    "lastrevid": 234703
   },
   "9771": {
     "title": "Pumpkin Head",
@@ -3757,7 +3757,7 @@
   },
   "10123": {
     "title": "Stoneheart",
-    "lastrevid": 227434
+    "lastrevid": 234809
   },
   "10211": {
     "title": "Ethirifle",
@@ -3965,7 +3965,7 @@
   },
   "11282": {
     "title": "Pale Briar",
-    "lastrevid": 226536
+    "lastrevid": 234840
   },
   "11285": {
     "title": "Skeleton Key",
@@ -4001,7 +4001,7 @@
   },
   "11491": {
     "title": "Imperial Staff",
-    "lastrevid": 232121
+    "lastrevid": 234766
   },
   "11516": {
     "title": "The Vigils of Winds",
@@ -4013,7 +4013,7 @@
   },
   "11574": {
     "title": "Kyrsieger",
-    "lastrevid": 234605
+    "lastrevid": 234867
   },
   "11584": {
     "title": "Orlandeau's Emerald",
@@ -4061,11 +4061,11 @@
   },
   "11739": {
     "title": "Dawnshot",
-    "lastrevid": 224540
+    "lastrevid": 234742
   },
   "11740": {
     "title": "Wyrmtooth",
-    "lastrevid": 234400
+    "lastrevid": 234839
   },
   "11780": {
     "title": "Ezra",
@@ -4105,11 +4105,11 @@
   },
   "11851": {
     "title": "Grand Pathfinder's Backpack",
-    "lastrevid": 223107
+    "lastrevid": 234772
   },
   "11875": {
     "title": "Ysley's Pyre Keeper",
-    "lastrevid": 234553
+    "lastrevid": 234858
   },
   "11950": {
     "title": "Monastery Cowl",
@@ -4129,7 +4129,7 @@
   },
   "11967": {
     "title": "Sovereign's Punishment",
-    "lastrevid": 221447
+    "lastrevid": 234801
   },
   "11969": {
     "title": "Morning Star",
@@ -4377,7 +4377,7 @@
   },
   "13434": {
     "title": "Kanabo",
-    "lastrevid": 229491
+    "lastrevid": 234811
   },
   "13451": {
     "title": "Dust",
@@ -4425,7 +4425,7 @@
   },
   "13527": {
     "title": "Soulthorn",
-    "lastrevid": 234666
+    "lastrevid": 234722
   },
   "13528": {
     "title": "Moon's Eyrie",
@@ -4521,7 +4521,7 @@
   },
   "13786": {
     "title": "Boltcrusher",
-    "lastrevid": 234645
+    "lastrevid": 234806
   },
   "13796": {
     "title": "Corsair Outlaw",
@@ -4557,7 +4557,7 @@
   },
   "13883": {
     "title": "Quartztone Pickaxe",
-    "lastrevid": 227139
+    "lastrevid": 234845
   },
   "13903": {
     "title": "Oath: Bladeharper",
@@ -4769,11 +4769,11 @@
   },
   "14453": {
     "title": "Rosen's Hellflame",
-    "lastrevid": 231111
+    "lastrevid": 234708
   },
   "14461": {
     "title": "The Long Tong of the Law",
-    "lastrevid": 230164
+    "lastrevid": 234871
   },
   "14463": {
     "title": "Festival of a Billion Souls",
@@ -4849,7 +4849,7 @@
   },
   "14615": {
     "title": "Imperator's Edge",
-    "lastrevid": 211059
+    "lastrevid": 234890
   },
   "14616": {
     "title": "Crescendo",
@@ -4973,7 +4973,7 @@
   },
   "14768": {
     "title": "Rockmaller",
-    "lastrevid": 231617
+    "lastrevid": 234795
   },
   "14769": {
     "title": "War Mode",
@@ -5009,7 +5009,7 @@
   },
   "14980": {
     "title": "Wretched Mawblades",
-    "lastrevid": 233277
+    "lastrevid": 234872
   },
   "14982": {
     "title": "Death's Reverie",
@@ -5045,7 +5045,7 @@
   },
   "15094": {
     "title": "Hailbreaker",
-    "lastrevid": 229647
+    "lastrevid": 234870
   },
   "15101": {
     "title": "Abyss Wanderer's Plate/Gallery",
@@ -5077,7 +5077,7 @@
   },
   "15319": {
     "title": "Fractine",
-    "lastrevid": 226796
+    "lastrevid": 234878
   },
   "15327": {
     "title": "Semblance",
@@ -5129,7 +5129,7 @@
   },
   "15522": {
     "title": "Umbrite Witherblade",
-    "lastrevid": 227484
+    "lastrevid": 234721
   },
   "15545": {
     "title": "Sea Highway",
@@ -5153,7 +5153,7 @@
   },
   "15588": {
     "title": "Chorus of Agonies",
-    "lastrevid": 230654
+    "lastrevid": 234843
   },
   "15590": {
     "title": "Cerulean Gown",
@@ -5305,7 +5305,7 @@
   },
   "15878": {
     "title": "Rosen's Roscoe",
-    "lastrevid": 229814
+    "lastrevid": 234754
   },
   "15894": {
     "title": "Allure",
@@ -5329,7 +5329,7 @@
   },
   "15954": {
     "title": "Vortex Echo",
-    "lastrevid": 229797
+    "lastrevid": 234706
   },
   "15955": {
     "title": "Weathered Timepiece",
@@ -5401,7 +5401,7 @@
   },
   "16213": {
     "title": "Glossary",
-    "lastrevid": 234526
+    "lastrevid": 234749
   },
   "16223": {
     "title": "Inquisitor's Duster/Gallery",
@@ -5453,7 +5453,7 @@
   },
   "16518": {
     "title": "Bloodfouler",
-    "lastrevid": 234663
+    "lastrevid": 234868
   },
   "16522": {
     "title": "Strange Tomes",
@@ -5641,7 +5641,7 @@
   },
   "17139": {
     "title": "Lumensplitter",
-    "lastrevid": 211076
+    "lastrevid": 234880
   },
   "17140": {
     "title": "Sev",
@@ -5657,7 +5657,7 @@
   },
   "17200": {
     "title": "Mounts",
-    "lastrevid": 234128
+    "lastrevid": 234702
   },
   "17202": {
     "title": "Sordino",
@@ -6249,7 +6249,7 @@
   },
   "18323": {
     "title": "Warmonger",
-    "lastrevid": 228174
+    "lastrevid": 234791
   },
   "18328": {
     "title": "Raw Heavy Meat",
@@ -6317,7 +6317,7 @@
   },
   "18374": {
     "title": "Bloodbane",
-    "lastrevid": 234391
+    "lastrevid": 234869
   },
   "18411": {
     "title": "Authority Guard (disambiguation)",
@@ -6405,7 +6405,7 @@
   },
   "18609": {
     "title": "Titus Fulminus Destellus",
-    "lastrevid": 234474
+    "lastrevid": 234877
   },
   "18610": {
     "title": "Wrath Gem",
@@ -6413,7 +6413,7 @@
   },
   "18614": {
     "title": "Edenbrand Hellcoil",
-    "lastrevid": 224552
+    "lastrevid": 234779
   },
   "18624": {
     "title": "Duke's Coat Fiber",
@@ -6593,11 +6593,11 @@
   },
   "19280": {
     "title": "Summer Hullwrecker",
-    "lastrevid": 233076
+    "lastrevid": 234778
   },
   "19281": {
     "title": "The Barrel",
-    "lastrevid": 229011
+    "lastrevid": 234781
   },
   "19356": {
     "title": "Mess Chef",
@@ -6753,7 +6753,7 @@
   },
   "19802": {
     "title": "Duskguard Axe",
-    "lastrevid": 232113
+    "lastrevid": 234850
   },
   "19806": {
     "title": "High Inquisitor Merey",
@@ -6857,7 +6857,7 @@
   },
   "20026": {
     "title": "Metal Greatsword",
-    "lastrevid": 232592
+    "lastrevid": 234881
   },
   "20030": {
     "title": "Moon Brow Rings",
@@ -6965,7 +6965,7 @@
   },
   "20215": {
     "title": "Familiar Demon's Armor",
-    "lastrevid": 233289
+    "lastrevid": 234884
   },
   "20216": {
     "title": "Familiar Occultist's Armor",
@@ -6993,7 +6993,7 @@
   },
   "20223": {
     "title": "Smouldering Hallow",
-    "lastrevid": 233274
+    "lastrevid": 234782
   },
   "20230": {
     "title": "Pumpkin",
@@ -7705,7 +7705,7 @@
   },
   "21426": {
     "title": "Saint Jay's Hammer",
-    "lastrevid": 228172
+    "lastrevid": 234792
   },
   "21428": {
     "title": "Okram",
@@ -7749,7 +7749,7 @@
   },
   "21471": {
     "title": "Darksteel Cleaver",
-    "lastrevid": 225462
+    "lastrevid": 234882
   },
   "21473": {
     "title": "Sorcerer's Mantle",
@@ -8221,7 +8221,7 @@
   },
   "21875": {
     "title": "Dravik, the Rat King (NPC)",
-    "lastrevid": 224739
+    "lastrevid": 234751
   },
   "21878": {
     "title": "Frost Ring",
@@ -8781,7 +8781,7 @@
   },
   "23135": {
     "title": "Withered Death Knell",
-    "lastrevid": 229089
+    "lastrevid": 234887
   },
   "23137": {
     "title": "Withered Phantomcleave",
@@ -8789,7 +8789,7 @@
   },
   "23139": {
     "title": "Withered Gale Pale",
-    "lastrevid": 230282
+    "lastrevid": 234807
   },
   "23140": {
     "title": "Gale Enhanced Ring",
@@ -9193,7 +9193,7 @@
   },
   "24251": {
     "title": "Dissonant Chimecaller",
-    "lastrevid": 234381
+    "lastrevid": 234808
   },
   "24253": {
     "title": "Justicar Neophyte",
@@ -9941,7 +9941,7 @@
   },
   "26924": {
     "title": "Silas's Cenotaph",
-    "lastrevid": 233637
+    "lastrevid": 234838
   },
   "26926": {
     "title": "The Harvestman",
@@ -9993,7 +9993,7 @@
   },
   "26977": {
     "title": "Alloyblood Axe",
-    "lastrevid": 233168
+    "lastrevid": 234851
   },
   "26978": {
     "title": "Alloyblood Daggers",
@@ -10085,7 +10085,7 @@
   },
   "27323": {
     "title": "Raudra, the Winged Lion",
-    "lastrevid": 234696
+    "lastrevid": 234729
   },
   "27330": {
     "title": "Cloak of Phantoms",
@@ -10093,15 +10093,15 @@
   },
   "27333": {
     "title": "Champion's Helmet",
-    "lastrevid": 234653
+    "lastrevid": 234836
   },
   "27335": {
     "title": "Champion's Chestplate",
-    "lastrevid": 234652
+    "lastrevid": 234831
   },
   "27339": {
     "title": "Hunter's Coat",
-    "lastrevid": 234586
+    "lastrevid": 234833
   },
   "27352": {
     "title": "War Spoils",

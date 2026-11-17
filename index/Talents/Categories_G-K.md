@@ -614,7 +614,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Stasis Strike** \[Common Talent\] - Your crystal explosions deal more damage whenever your opponent is also [bottom frozen](../Status_Effects.md#bottom-freeze).
     -   Your Crystal detonations deal 67% more damage against targets who are bottom frozen.
-    -   Most abilities that apply Bottom Freeze instantly detonate crystals instead with this path. Because kf this, it is recommended to use [Frozen Anchor](../Talents.md#frozen-anchor) to proc this Talent more consistently.  
+    -   Most abilities that apply Bottom Freeze instantly detonate crystals instead with this path. Because of this, it is recommended to use [Frozen Anchor](../Talents.md#frozen-anchor) to proc this Talent more consistently.  
         
     -   Prerequisites: [Glass Path, Crystallization](../Talents.md#glass-path-crystallization), 90 Frostdraw, 90 Weapon (90 Light // 90 Medium // 90 Heavy)  
         

@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 232113
+revid: 234850
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -18,8 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons o
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.85x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 15% |
 | chip damage | 10% |
 | m.equip | No |

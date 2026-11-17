@@ -1,6 +1,6 @@
 ---
 title: Alloyblood Axe
-revid: 233168
+revid: 234851
 source: https://deepwoken.fandom.com/wiki/Alloyblood_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greataxes, Heavy Weapons, "Attunement-based Weapons", Alloyblood Weapons, "Weapons with Multi-Attunement Scaling"]
@@ -18,8 +18,7 @@ categories: [Weapons, Weapons with Talents, Greataxes, Heavy Weapons, "Attunemen
 | posture damage | 7 |
 | range | 8 Sweep |
 | swing speed | 0.87x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 20% |
 | chip damage | 20% |
 | talent | Composite Crusher - Your axe deals more damage based on how much composite plasma your opponent has. |

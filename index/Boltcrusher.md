@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 234645
+revid: 234806
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -19,8 +19,8 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | posture damage | 8 |
 | range | 8.5 Sweep |
 | swing speed | 0.82x |
-| attack duration | 1s |
-| endlag | 0.15s |
+| attack duration | 0.9s |
+| endlag | 0.05s |
 | penetration | 20% |
 | chip damage | 5% |
 | talent | Conducting Impact - Your weapon will inflict your Thundercall elemental effect on basic attacks. Additionally, you can mines ores with the weapon itself. |

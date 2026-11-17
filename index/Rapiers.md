@@ -137,7 +137,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>1.09x</td>
   <td>-</td>
   <td>27.7</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Coldpoint.md"><font>Coldpoint</font></a></b></td>
@@ -228,7 +228,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td><b><a href="Icepick.md">Icepick</a><abbr></abbr></b></td>
+  <td><b><a href="Icepick.md">Icepick<abbr></abbr></a></b></td>
   <td>40 LHT</td>
   <td>13</td>
   <td>LHT: 7</td>

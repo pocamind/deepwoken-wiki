@@ -1,6 +1,6 @@
 ---
 title: The Barrel
-revid: 229011
+revid: 234781
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapons of The Summer Company]
@@ -15,11 +15,10 @@ categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", 
 | requirements | 75 HVY, 30 STR |
 | damage | 25.5 |
 | scaling | HVY: 8.5 |
-| posture damage | 10.3 |
+| posture damage | 9.5 |
 | range | 8 Sweep |
 | swing speed | 0.82x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 0.8s |
 | penetration | 5% |
 | chip damage | 15% |
 | talent | The Big One - Your critical attack's projectile size and explosion size is doubled. |

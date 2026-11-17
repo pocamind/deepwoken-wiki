@@ -1,9 +1,9 @@
 ---
 title: Withered Death Knell
-revid: 229089
+revid: 234887
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons, Weapons with Unique Criticals]
+categories: [Weapons, Weapons with Talents, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons, Weapons with Unique Criticals]
 ---
 
 # Withered Death Knell
@@ -20,7 +20,7 @@ categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weap
 | swing speed | 1.08x |
 | attack duration | 0.5s |
 | penetration | 10% |
-| special effect | This weapon's criticals apply blood poisoning. |
+| talent | Bloodstained - Your Critical Attack applies Blood Poison, and restores a small amount of blood on successful hit. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -38,6 +38,14 @@ categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weap
 
 The Withered Death Knell is a blood-red spirit lantern. This weapon is obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Light's Final Toll](<Light's_Final_Toll.md>) equipped or by holding the weapon out.
 
+## Talent
+
+Equipping the Withered Death Knell grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Bloodstained**](Talents.md#bloodstained) restores a small amount of blood on a successful Critical Attack. Additionally, your the Critical Attack applies 3% [Blood Poison](Status_Effects.md#blood-poison) per hit.
+
+This Talent is shared with the [Flareblood Kamas](Flareblood_Kamas.md).
+
 ## Critical
 
 The Withered Death Knell has 4 different criticals. When a critical is landed, it will advance to the next stage.
@@ -49,8 +57,6 @@ For the second and third critical, the user leaps into the air and unleashes thr
 For the final critical, the user raises into the air with a [green telegraph](Combat_Mechanics.md#green), unleashing a heavy smack with the lantern and flinging the opponent back. If missed, the critical will reset to its first phase. This critical acts as a counter, absorbing the damage from attacks you get hit by during its windup.
 
 All criticals have a cooldown of **5 seconds**.
-
-All of these critical drain the target's blood while restoring the user's, and applies 3% of [Blood Poison](Status_Effects.md#blood-poisoning) per hit.
 
 ## Trivia
 

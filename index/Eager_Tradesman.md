@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 229423
+revid: 234793
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | caption | There's work to be done. In style. |
 | tier | Starter |
-| crafting_req | x3 Cloth, x3 Fiber |
+| crafting_req | x3 Cloth, x1 Fiber |
 | price | 50 |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,7 +31,7 @@ notices:
 
 ### _Requirements_
 
-This Outfit costs 50 and requires three (3) [Cloth](Cloth.md) and three (3) [Fiber](Fiber.md) to craft.
+This Outfit costs 50 and requires three (3) [Cloth](Cloth.md) and one (1) [Fiber](Fiber.md) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 

@@ -1,9 +1,9 @@
 ---
 title: Quartztone Pickaxe
-revid: 227139
+revid: 234845
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
+categories: [Weapons, Weapons with Talents, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
 ---
 
 # Quartztone Pickaxe
@@ -18,10 +18,9 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | posture damage | 7 |
 | range | 8 Sweep |
 | swing speed | 0.94x |
-| attack duration | 0.8s |
-| endlag | 0.1s |
+| attack duration | 0.7s |
 | penetration | 20% |
-| special effect | Can mine ores |
+| talent | Ether Tuning - Your Critical require Ether to to cast. Additionally, this weapon can be used to mine ores. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -39,10 +38,11 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 
 The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a pickaxe. It's the only weapon alongside the [Boltcrusher](Boltcrusher.md) that can be used to mine ores; it also mines them faster.
 
-This weapon comes with two passive abilities:
+## Talent
 
--   **Mining Sufficient** **\-** The Quartztone Pickaxe is capable of mining [Ores](Ores.md), and with greater efficiency.
--   **Maximum Tuning -** Using criticals cost Ether, and cannot be used without a sufficient amount.
+Equipping the Quartztone Pickaxe grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Ether Tuning**](Talents.md#ether-tuning) adds an Ether cost to your critical attacks. They cannot be used if you do not have sufficient Ether. Additionally, this Talent allows you to use this weapon as a [pickaxe](Pickaxe.md) when mining [ores](Ores.md).
 
 ## Critical
 

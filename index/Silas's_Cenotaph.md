@@ -1,6 +1,6 @@
 ---
 title: "Silas's Cenotaph"
-revid: 233637
+revid: 234838
 source: https://deepwoken.fandom.com/wiki/Silas's_Cenotaph
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Event Item, "Core-Attribute based weapons", Heavy Weapons]
@@ -18,8 +18,8 @@ categories: [Weapons, Weapons with Talents, Greatswords, Hallowtide, Weapons wit
 | posture damage | 12 |
 | range | 9.5 Sweep |
 | swing speed | 0.66x |
-| attack duration | 1.2s |
-| endlag | 0.2s |
+| attack duration | 1.1s |
+| endlag | 0.1s |
 | chip damage | 10% |
 | talent | Crushing Fate - The force of your blade forces your opponents back with each swing.Eye of Silas - Stare down your opponents with the Harvestman's Eye to shiver their timbers. Your critical Terrifies your opponents. |
 | m.equip | No |
@@ -58,4 +58,4 @@ This critical has a cooldown of **12 seconds**.
 -   The [Gatherhand](Gatherhand.md) Sigil appearing on the critical reads "TERRIFY - YFIRRET".
 -   Contrary to popular belief, the first hit of this critical can be both parried and blocked.
 -   Interestingly, the first hit of the critical does not proc Manipulator at all, allowing you to gain full benefit from the talent on the second hit.
--   It is the second heaviest weapon in the game, first place goes to [Hivelord's Hubris](<Hivelord's_Hubris.md>).
+-   It is the second slowest weapon in the game, first place goes to [Hivelord's Hubris](<Hivelord's_Hubris.md>).
