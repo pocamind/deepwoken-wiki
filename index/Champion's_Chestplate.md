@@ -1,6 +1,6 @@
 ---
 title: "Champion's Chestplate"
-revid: 234831
+revid: 234898
 source: https://deepwoken.fandom.com/wiki/Champion's_Chestplate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Arms, Equipment]
@@ -11,10 +11,10 @@ categories: [Equipment with Styles, Arms, Equipment]
 | Champion's Chestplate | |
 |---|---|
 | type | Arms |
-| rarity | Unknown |
+| rarity | Unique |
 | selling price | 100 |
 | requirements | LVL 15 |
-| weight | Unknown |
+| weight | 2 |
 | styles | Champion, Oath Keeper |
 | innate stats | +10 Health , +2 Posture , +3 Legendary Pips |
 | innate talent | N/A |
@@ -38,3 +38,4 @@ The Champion's Chestplate is an [Equipment](Equipment.md) item under the "Arms" 
 ## Trivia
 
 -   Resembles [Balahara armor](https://monsterhunterwilds.wiki.fextralife.com/Balahara_Set) from [Monster Hunter Wilds](https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/). The design is likely based off of it.
+-   Is tied with the [Bastions of Enmity](Bastions_of_Enmity.md) for having the best pips in the game, likely being a PvP "variant" of it.

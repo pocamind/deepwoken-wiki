@@ -1,6 +1,6 @@
 ---
 title: Stored Damage Mechanic
-revid: 234272
+revid: 234893
 source: https://deepwoken.fandom.com/wiki/Stored_Damage_Mechanic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ The term "**Suspended Hit**" refers to the release of the stored damage; [Poser'
 -   **The Suspended Hit cannot be directly buffed by any means.** You must buff your light attacks if you wish for the Suspended Hit to deal more damage. Mechanically, the Suspended Hit deals true damage, though in practice this isn't necessarily the case. See [Damage Snapshotting](#damage-shapshotting) for more info.
 -   Suspended Hits **cannot** be blocked, parried, or dodged, though being attacked during the Suspended Hit's animation will cause the stored damage to **void**.
 -   The Suspended Hit effectively has infinite range, and triggers "on hit" effects.
--   You cannot exceed 70% of a player's maximum health with the Suspended Hit. By using [Wither](Status_Effects.md#wither) application or any damage source, you can reduce your opponent's health below the 70% threshold.
+-   You cannot exceed 70% of a player's maximum health with the Suspended Hit Due to the PvP mechanic that doesn't allow any attack to do more than 70% damage but this doesn't happen in PvE due to this being a PvP only mechanic. (By using [Wither](Status_Effects.md#wither) application or any damage source, you can reduce your opponent's health below the 70% threshold.)
 -   Effects that trigger based on scaled damage (e.g. [Bleed](Status_Effects.md#bleed)) will function like normal on weapons with this mechanic. These effects will be triggered when you land your basic attacks, and **not** when you trigger the Suspended Hit.
 -   All abilities with the Stored Damage mechanic share stacks, meaning you can deal damage on a [Poser's Ring](<Poser's_Ring.md>) [Katana](Katana.md), then swap to the [Moppet](Moppet.md) and critical attack to release the stored damage.
 -   The Stored Damage mechanic applies the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers) damage buff to the Suspended Hit in PvE, making it this the **only** damage multiplier that is applied directly to the Suspended Hit. Because of this, all instances of the Stored Damage mechanic have an unconditional (up to) 8% damage bonus in PvE; a direct damage increase compared to not using it.

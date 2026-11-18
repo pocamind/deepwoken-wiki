@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 234469
+revid: 234918
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -112,6 +112,7 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 -   Unnamed Resonance - [High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md)
 -   Unnamed Resonance - [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md)
 -   Unnamed Resonance - [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md)
+-   Unnamed Resonance - [Chef Buongustino](Chef_Buongustino.md)
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 234722
+revid: 234892
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -21,6 +21,7 @@ categories: [Weapons, Weapons with Talents, Swords, "Core-Attribute based weapon
 | attack duration | 0.6s |
 | penetration | 10% |
 | chip damage | 30% |
+| talent | Soul Scar - Your Basic Attacks inflict a soul mark onto your opponent. Your critical requires a soul mark to be used. At 3 marks, enhance your Critical. |
 | special effect | Every M1 applies a Soul Mark to the target, capping at 3 stacks. |
 | m.equip | No |
 | m.extract | No |
