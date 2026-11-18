@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Garb"
-revid: 232868
+revid: 234927
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Master Outfits, Outfits, Outfits with Talents, "Outfits with Non-ex
 | resistances | +25% Physical Armor , +30% Elemental Armor , +25% Ironsing Armor , +20% Shadow Armor |
 | buffs | +50% Ether Regen -5 Sanity |
 | talents | Lose Your Mind |
-| obtainment | Chests from:, Knell, The Lunatic Resonator |
+| obtainment | Chests from:, Knell, The Lunatic Resonator, Sold by Glaive Spellhardt |
 | selling_price | 10 |
 | weight | 1 |
 

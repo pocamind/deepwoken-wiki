@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 234911
+revid: 234930
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -42,6 +42,8 @@ The Hallowscleave is a MED weapon in the Swords category, bearing a strong pumpk
 The user's sword glows orange and performs two wide slashes that send out sword projectiles. These swords can only be fired in a 180° diameter.
 
 Each slash does 0.7x scaled damage and grants brief hyperarmor, while the projectile deals 0.35x scaled damage, totaling to 2.1x scaled damage. The windup of the first slash is ???, and the windup of the second slash is ???. There is ??? of endlag after the critical attack.
+
+Each projectile and slash does 6 posture damage, doing a total of 24 posture damage.
 
 The critical has a cooldown of **8** seconds.
 

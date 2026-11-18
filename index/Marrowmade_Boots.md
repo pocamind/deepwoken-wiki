@@ -1,9 +1,9 @@
 ---
 title: Marrowmade Boots
-revid: 234917
+revid: 234925
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Marrowmade Boots
@@ -24,6 +24,10 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 | obtainment | Kyrsgarde Champion |
 | description | A grotesque set of boots, manufactured from what appears to be the foot and head of a Bonekeeper. Calling these 'comfortable' feels charitable. And yet, holding them, you cannot help but feel your bones itch, and the ground beneath you quiver... |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 ## Description
 
 The **Marrowmade Boots** are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category. They are boots seemed to be made from the foot and head of a [Bonekeeper](Bone_Keeper.md).
@@ -32,13 +36,14 @@ The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and f
 
 The [Osseous Surge](Talents.md#osseous-surge) Talent make it so when flourishing an enemy it enhances the boots for 10 seconds. During this time, the wearer can right-click to release a wave of bones forward damaging and ragdolling enemies upward infront of them (The boot's Osseous Surge talent has a base damage of 30 PvP damage and 180 PvE Damage). This attack is parryable and jumpable, blockable but deals 30 posture damage and is undodgeable.
 
-The [Osseous Surge](Talents.md#osseous-surge) Talent is not exclusive to normal flourishes as it can be proc'ed via the mantras Razor Blitz, Master's Flourish(with vigil longsword), along with Executioner offhand gun shots.
+-   The Talent is not exclusive to normal flourishes as it can be activated via the [Mantras](Mantras.md) [Razor Blitz](Bloodrend.md#razor-blitz), [Master's Flourish](Attunement-less.md#masters-flourish) with [Vigil Longsword](Vigil_Longsword.md), alongside Executioner offhand gun shots.
 
 ## Trivia
 
 -   The damage increases by 50% going from 30 blunt to 45 blunt with the [Bone Ring](Bone_Ring.md).
 -   The damage dealt can be increased with damage modifiers.
 -   It's previous description read: "Boots crafted from what seems to be the foot and head of the [Bonekeeper](Bone_Keeper.md).
+-   The Osseous Surge [Telegraph](Combat_Mechanics.md#telegraphed-attacks) changes depending on your [Posture](Combat_Mechanics.md#posture).
 
 ## References
 

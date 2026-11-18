@@ -1,9 +1,11 @@
 ---
 title: "Champion's Chestplate"
-revid: 234898
+revid: 234951
 source: https://deepwoken.fandom.com/wiki/Champion's_Chestplate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Arms, Equipment]
+categories: [Equipment with Styles, Stub pages with reason, StubPages, Arms, Equipment]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Missing alt style images."
 ---
 
 # Champion's Chestplate
@@ -37,5 +39,5 @@ The Champion's Chestplate is an [Equipment](Equipment.md) item under the "Arms" 
 
 ## Trivia
 
--   Resembles [Balahara armor](https://monsterhunterwilds.wiki.fextralife.com/Balahara_Set) from [Monster Hunter Wilds](https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/). The design is likely based off of it.
--   Is tied with the [Bastions of Enmity](Bastions_of_Enmity.md) for having the best pips in the game, likely being a PvP "variant" of it.
+-   Resembles [Balahara armor](https://monsterhunterwilds.wiki.fextralife.com/Balahara_Set) from [Monster Hunter Wilds](https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/).
+-   Shares the same stats as the [Bastions of Enmity](Bastions_of_Enmity.md).

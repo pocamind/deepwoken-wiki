@@ -1,6 +1,6 @@
 ---
 title: "Raudra, the Winged Lion"
-revid: 234729
+revid: 234947
 source: https://deepwoken.fandom.com/wiki/Raudra%2C_the_Winged_Lion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -44,7 +44,7 @@ Raudra is located at the entrance to the [Derelict Highchurch](Derelict_Highchur
 
 ## Shop
 
-Victorious Granduer
+Victorious Grandeur
 
 <table>
 <tbody>
@@ -61,7 +61,7 @@ Victorious Granduer
   <td><div>Blade's End</div><div><i>An emote to show off on all of your characters.</i></div></td>
 </tr>
 <tr>
-  <td><center><figure><figcaption></figcaption></figure>30 <a href="War_Spoils.md">WarSpoils</a><div>War Spoils</div></center></td>
+  <td><center><figure><figcaption></figcaption></figure>100 <a href="War_Spoils.md">WarSpoils</a><div>War Spoils</div></center></td>
   <td><div>Salty</div><div><i>An emote to show off on all of your characters.</i></div></td>
 </tr>
 </tbody>
@@ -176,6 +176,9 @@ This dialogue is unlocked if the player is a [Starkindred](Oath%253A_Starkindred
 
 -   [Raudra's Finger](<Raudra's_Finger.md>) and [Raudra's Pendant Earrings](<Raudra's_Pendant_Earrings.md>) were both originally named for an individual named Shiva. Though Raudra as a character was likely not conceptualized by this point, the idea of Shiva as the individual tied to them is clearly what he evolved from. _Raudra_ is a [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) word related to the deity [Rudra](https://en.wikipedia.org/wiki/Rudra), who is associated with the [Hindu](https://en.wikipedia.org/wiki/Hinduism) deity [Shiva](https://en.wikipedia.org/wiki/Shiva).
     -   [Etherbound Codex](Etherbound_Codex.md) was also originally named in reference to Shiva, though its new name has no relation to Raudra specifically.
+-   His title of "the [Winged Lion](https://en.wikipedia.org/wiki/Winged_lion)" has biblical origins:
+    -   Winged Lions are used as a symbol for courage and resurrection, possibly alluding to how he morphed the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) into his own.
+    -   Statues of lions act as a guardian of sorts for cities and temples; this possibly refers to the role he takes in [The Hundred Legions](The_Hundred_Legions.md).
 
 ## References
 

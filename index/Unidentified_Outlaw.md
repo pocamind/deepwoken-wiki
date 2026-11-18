@@ -1,10 +1,11 @@
 ---
 title: Unidentified Outlaw
-revid: 224521
+revid: 234957
 source: https://deepwoken.fandom.com/wiki/Unidentified_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Articles with conjectural titles, Individuals with unspecified pronouns]
+categories: [Cut Content, Articles with conjectural titles, Individuals with unspecified pronouns]
 notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
 
@@ -13,15 +14,13 @@ notices:
 | Unidentified Outlaw | |
 |---|---|
 
-**Content is not present in-game**  
-The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
-E.G. a character mentioned in a book doesn't exist as an interactible NPC.
-
 ## Description
 
 The once famous Outlaw that wielded the [Rangescraper](Rangescraper.md).[\[1\]](#cite-note-rs-1)
 
 They described it as "phasing in and out of reality," claiming it was created in the [Voidsea](Voidsea.md).[\[1\]](#cite-note-rs-1)
+
+The changing of the Rangescraper's description makes their status in the canon unclear.
 
 ## Trivia
 

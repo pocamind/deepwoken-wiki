@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 234744
+revid: 234942
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -43,3 +43,11 @@ The Flintlock has a Bullet capacity of 4 when held without a second gun.
 ## Critical
 
 Flintlock uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
+
+## Trivia
+
+-   On the [November 17th, 2026](Version_History/2026.md#november-17th-2026) update, the Flintlock had a Scaling of 90 LHT for a very short amount of time.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

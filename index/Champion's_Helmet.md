@@ -1,9 +1,11 @@
 ---
 title: "Champion's Helmet"
-revid: 234836
+revid: 234952
 source: https://deepwoken.fandom.com/wiki/Champion's_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Arms, Equipment]
+categories: [Equipment with Styles, Stub pages with reason, StubPages, Arms, Equipment]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Missing alt style images."
 ---
 
 # Champion's Helmet
@@ -33,4 +35,4 @@ Variants: [Chestplate](<Champion's_Chestplate.md>)
 
 ## Description
 
-The Champion's Helmet is a Unique [Equipment](Equipment.md) item under the "Head" category, obtained exclusively from the [Raudra, the Winged Lion](Raudra,_the_Winged_Lion.md).
+The Champion's Helmet is a Unique [Equipment](Equipment.md) item under the "Head" category.
