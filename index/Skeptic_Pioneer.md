@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 234678
+revid: 235032
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -18,7 +18,7 @@ categories: [Starter Outfits, Outfits, Outfits with Talents, "Outfits with Non-e
 | droppable | Yes |
 | durability | 1200 |
 | resistances | +12% Physical Armor , +12% Elemental Armor |
-| talents | Apothecary |
+| talents | Ready or Not |
 | obtainment | Chests from:, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event)Sold at:, Weapon shop at Etris for 45 |
 | selling_price | 10 |
 | weight | 1 |
@@ -37,4 +37,4 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1200 durability, grants +12% Physical resistance ResistancePhysical, and +12% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Ready or Not](Talents.md#ready-or-not) Talent.
 
-The [Apothecary](Talents.md#apothecary) Talent that causes the first attack to hit you out of combat have it's damage cut in half.
+The [Ready or Not](Talents.md#ready-or-not) Talent that causes the first attack to hit you out of combat have it's damage cut in half.

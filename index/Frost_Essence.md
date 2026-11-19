@@ -1,6 +1,6 @@
 ---
 title: Frost Essence
-revid: 227883
+revid: 234985
 source: https://deepwoken.fandom.com/wiki/Frost_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items, Ingredients]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Relics, Items, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | A chilling essence obtained within New Kyrsa, not unlike the kind that Kyrsans would fashion and adorn their weapons with. Layered upon the Champion's weapon was frost of a similar kind, though something of a different nature dwelled beneath. As you hold it, you feel yourself struggling to move, your joints locking up. |
-| obtainment | Kyrsgarde ChampionTraan Zakshun |
+| obtainment | Kyrsgarde Champion, Traan Zakshun, Weird Trader |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

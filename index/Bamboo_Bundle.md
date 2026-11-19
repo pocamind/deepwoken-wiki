@@ -1,6 +1,6 @@
 ---
 title: Bamboo Bundle
-revid: 147193
+revid: 234966
 source: https://deepwoken.fandom.com/wiki/Bamboo_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy]
@@ -12,7 +12,10 @@ categories: [Ingredients, Harvestables, Alchemy]
 |---|---|
 | value | N/A |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
+| rarity | Common |
+| usage | Craft Fiber |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -20,11 +23,15 @@ categories: [Ingredients, Harvestables, Alchemy]
 
 ## Description
 
-**Bamboo Bundle** is an [Ingredient](Ingredients.md) in Deepwoken. It can be used to craft [Fiber](Fiber.md), and can commonly be found near the shores of [Erisia](Erisia.md), [Etris](Etris.md), [Miner's Landing](<Miner's_Landing.md>), and [Songseeker Wilds](Songseeker_Wilds.md), and on grass in Etris and [Isle of Vigils](Isle_of_Vigils.md). It is found in bunches of tall, green bamboo stems which can be harvested by the player.
+**Bamboo Bundle** is an [Ingredient](Ingredients.md). It can be used to craft [Fiber](Fiber.md), and is found in bunches of tall, green bamboo stems which can be harvested by the player.
 
-Every two Bamboo is equal to one Fiber, which every three of is equal to one [Cloth](Cloth.md). So, six bamboo is equal to one Cloth.
+## Crafting
+
+### Uses
+
+-   [Fiber](Fiber.md) - 2x Bamboo Bundle
 
 ## Trivia
 
--   In the June 9th, 2025 update, Bamboo that would occur on shores was replaced with [Marram Grass](Marram_Grass.md).
--   The Bamboo Bundle changes color depending on the [season](Seasons.md), being a lighter green in the Spring and a darker green in the Summer.
+-   In the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update, Bamboo that grew on shores was replaced with [Marram Grass](Marram_Grass.md).
+-   The item when held out changes color depending on the [Seasons](Seasons.md), being a lighter green in the Spring and a darker green in the Summer.

@@ -1,6 +1,6 @@
 ---
 title: Allure
-revid: 218026
+revid: 235049
 source: https://deepwoken.fandom.com/wiki/Allure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -27,6 +27,6 @@ Upon being hit by a humanoid's M1 attack, Allure has a 50% chance to proc. On pr
 ### Notes
 
 -   This enchantment does not proc on non-humanoid enemies.
--   Charm provides the caster 10% damage reduction against opponents that have Charmed by them, making this enchantment very good for 0 Charisma builds.
+-   Charm provides the caster 10% damage reduction against opponents that have been Charmed by them, making this enchantment very good for 0 Charisma builds.
 -   Charm applied from this enchantment benefits from Charm-based Talents.
 -   The Charm duration will be reduced to 5 seconds if your opponent has the [Disbelief](Talents.md#disbelief) Talent.

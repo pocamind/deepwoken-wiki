@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 228956
+revid: 234994
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -20,7 +20,7 @@ categories: [Unique Outfits, Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 2600 |
 | resistances | +25% Physical Armor , +30% Elemental Armor , +25% Blood Armor |
 | buffs | +75% Ether Regen |
-| talents | Focused Hematoma, Sheltering Grasp |
+| talents | Focused Hematoma, Crimson Fountain |
 | obtainment | Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
@@ -38,12 +38,13 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Sheltering Grasp](Cut_Content.md#sheltering-grasp) Talents.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistancePhysical, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Crimson Fountain](Talents.md#crimson-fountain) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistancePhysical, 47.5% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 30% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Focused Hematoma](Talents.md#focused-hematoma) Talent increases the amount of [Temporary Health](Status_Effects.md#temporary-health) you receive by 15%. The [Sheltering Grasp](Cut_Content.md#sheltering-grasp) Talent does nothing, as it was merged into [Crimson Fountain](Talents.md#crimson-fountain), and the Outfit this Talent grants was never switched over.
+The [Focused Hematoma](Talents.md#focused-hematoma) Talent increases the amount of [Temporary Health](Status_Effects.md#temporary-health) you receive by 15%. The [Crimson Fountain](Talents.md#crimson-fountain) Talent causes a pool of blood to appear beneath enemies you have block-broken or flourished, as well as making Bloodrend mantras cast within blood pools have a reduced blood cost.
 
 ## Trivia
 
 -   This outfit is best known for being worn by the Bloodrend trainer, [Vyrelda](Vyrelda,_Master_of_Blood.md).
+-   This Outfit previously had a Talent known as "Sheltering Grasp", however it has since been merged with the Talent "Crimson Fountain", thus leading to Sheltering Grasp being removed from the Outfit.

@@ -3435,6 +3435,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -4077,7 +4078,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -4111,7 +4112,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
-  <td></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -4124,6 +4125,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -4190,7 +4192,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -4224,7 +4226,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -4491,7 +4493,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -4582,7 +4584,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -11353,6 +11355,7 @@ Bows
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -12588,6 +12591,7 @@ Greatswords
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -13358,7 +13362,7 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -13392,7 +13396,7 @@ Elemental
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
-  <td></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -13405,6 +13409,7 @@ Elemental
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -13471,7 +13476,7 @@ Elemental
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -13505,7 +13510,7 @@ Elemental
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -13772,7 +13777,7 @@ Elemental
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13863,7 +13868,7 @@ Elemental
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -21397,6 +21402,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -22657,6 +22663,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -23393,7 +23400,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -23427,7 +23434,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
-  <td></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -23440,6 +23447,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -23506,7 +23514,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -23540,7 +23548,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -23807,7 +23815,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23898,7 +23906,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -28200,6 +28208,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -28842,7 +28851,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -28876,7 +28885,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>0.97x</td>
   <td>-</td>
   <td>29</td>
-  <td></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="First_Light.md">First Light</a></b></td>
@@ -28889,6 +28898,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -28955,7 +28965,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -28989,7 +28999,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -29256,7 +29266,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -29347,7 +29357,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>0.1s</td>
+  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>

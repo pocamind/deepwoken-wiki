@@ -7060,7 +7060,9 @@ Ice [ResistanceFrostdraw](../Frostdraw.md) + Shadow [ResistanceShadowcast](../Sh
 -   Works with Twisted Puppets, applying Shadow Burn (it won't spawn puppets) and Crystal Path.
 -   Compatible with [Cloudstones/Stratus Stones](../Mantra_Modifiers.md#regular-modifiers) to make the AoE larger.
 -   Can be modified with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) but currently bugged and applying either it will use more ether and make it last the original amount.
--   Can be modified with [Magnet Spark](../Mantra_Modifiers.md#sparks) allowing it to follow the user.
+-   Can be modified with [Magnet Spark](../Mantra_Modifiers.md#sparks) allowing it to follow the user, also creates more spikes from 2 -> 4.
+-   ↑ As stated earlier, modifiyng [Magnet Spark](../Mantra_Modifiers.md#sparks) variation with [Aeon/Eternal Logstones](../Mantra_Modifiers.md#regular-modifiers) will make it have original amount of spikes, which is 2.
+
 -   Cannot be cast while in water. Attempting to cast it in water will consume your ether and do nothing.
 -   Shares a cooldown with [Ice Eruption](../Frostdraw.md#ice-eruption).
 

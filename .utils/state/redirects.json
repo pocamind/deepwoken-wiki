@@ -526,6 +526,9 @@
     "to": "Attributes",
     "fragment": "BLD"
   },
+  "Bagel": {
+    "to": "Mantra Collector (Vow of Iron)"
+  },
   "Bait": {
     "to": "Monster Bait"
   },
@@ -776,6 +779,9 @@
   },
   "Brilliant Pauldron": {
     "to": "Brilliant Pauldrons"
+  },
+  "Brioche": {
+    "to": "Mantra Collector (Vow of Iron)"
   },
   "Broodalloy Cestus": {
     "to": "Coral Cestus"
@@ -1119,6 +1125,10 @@
   },
   "Crocodile": {
     "to": "Thresher"
+  },
+  "Croissant": {
+    "to": "Mantra Collector",
+    "fragment": "Cut Content"
   },
   "Crucifixion": {
     "to": "Bloodrend",
@@ -2952,6 +2962,9 @@
   "Lives": {
     "to": "Death"
   },
+  "Loaf": {
+    "to": "Mantra Collector (Vow of Iron)"
+  },
   "Location": {
     "to": "Category:Locations"
   },
@@ -2998,8 +3011,8 @@
     "to": "Category:Locations"
   },
   "Lumen (Lore)": {
-    "to": "Lore",
-    "fragment": "Locations"
+    "to": "Glossary",
+    "fragment": "Lumen"
   },
   "Lumen's Folklore: Volume 'Attunement'": {
     "to": "Lumen's Folklore",
@@ -4854,7 +4867,7 @@
     "fragment": "The Better Part Of Valour"
   },
   "The Boundary": {
-    "to": "Lore",
+    "to": "Glossary",
     "fragment": "The Boundary"
   },
   "The Captain": {

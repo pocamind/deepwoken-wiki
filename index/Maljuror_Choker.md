@@ -1,6 +1,6 @@
 ---
 title: Maljuror Choker
-revid: 222084
+revid: 234997
 source: https://deepwoken.fandom.com/wiki/Maljuror_Choker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -27,3 +27,5 @@ categories: [Equipment, Torso]
 ## Description
 
 The **Maljuror Choker** is an [Equipment](Equipment.md) item under the "Torso" category.
+
+(Note the hood, glasses, and piercings in the image are all hair ids, don't go looking for them in the accessory tab because you wont find them)

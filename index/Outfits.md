@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 232451
+revid: 235018
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Pages that use a deprecated format of the math tags]
@@ -8,15 +8,19 @@ categories: [Outfits, Pages that use a deprecated format of the math tags]
 
 # Outfits
 
-**Outfits** are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that is lost when they resist damage.
+## Overview
 
-They can be crafted and repaired at a [Blacksmith](Blacksmith.md), which can be found in most larger settlements. They can also be repaired passively by resting at a [Campfire](Campfire_Pit.md). The player has a handful of basic Outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some Outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Learned and crafted Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their Outfit.
+**Outfits** are craftable forms of defense that reduce incoming damage by a percentage, depending on the type of damage received. Each Outfit has limited durability, which decreases whenever it mitigates damage.
+
+Outfits can be crafted and repaired at a [Blacksmith](Blacksmith.md), which can be found in most larger settlements. They can also be passively repaired by resting at a [Campfire](Campfire_Pit.md). Upon creating a character, players are automatically provided with a selection of Starter-tier Outfits. All other Outfits must be obtained by finding their corresponding Schematic and learning the crafting recipe, either by holding out and using the Schematic or bringing it to a Blacksmith. Certain Outfits also grant additional [Talents](Talents.md) or other unique bonuses while equipped.
+
+Outfits are divided into several tiers, which generally indicate their rarity and effectiveness, starting from Starter, Adept, Expert, Master, and up to Unique. All learned and crafted Outfits are lost upon wiping, requiring players to find their corresponding Schematics again to reobtain them.
 
 ## Transmogging
 
 _Main page: [Transmogrification](Transmogrification.md)_
 
-You may also keep the stats of an Outfit you are currently wearing while choosing the look of another Outfit you already crafted. To do this, you must "Transmog" to a crafted Outfit you want to have the appearance of instead of swapping to it; this way you can mislead players with the appearance of your Outfit and max out your fashion stat.
+Players can also retain the stats of their currently equipped Outfit while changing its appearance to that of another Outfit they have crafted. This can be done through the "Transmog" feature, which allows players to adopt the appearance of a different Outfit without replacing their current one. This can be used to disguise the stats of their equipped Outfit and maximize their fashion stat.
 
 ## Outfit Stats
 

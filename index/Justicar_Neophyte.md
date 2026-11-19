@@ -1,6 +1,6 @@
 ---
 title: Justicar Neophyte
-revid: 232841
+revid: 235033
 source: https://deepwoken.fandom.com/wiki/Justicar_Neophyte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, Pathfinder Exclusive, Outfits, Justicars]
@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ### _Requirements_
 
-This Outfit has no cost and requires no materials to craft.
+This Outfit has costs 500 and requires no materials to craft.
 
 This Outfit has no [Attribute](Attributes.md) requirement, but explicitly has a [Power](Power.md) requirement of 1.
 

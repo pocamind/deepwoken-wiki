@@ -1,9 +1,11 @@
 ---
 title: Deepwoken Sounds
-revid: 230712
+revid: 235047
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
+categories: [OutdatedPages, Deepwoken]
+notices:
+  - This page may contain incorrect information. Missing numerous sound effects added in updates released after 2024.
 ---
 
 # Deepwoken Sounds

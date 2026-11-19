@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 231963
+revid: 235015
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Game Modes]
@@ -20,11 +20,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The _Chime of Conflict_ is a [Talent](Talents.md) and item obtainable by talking to [Yamaketzal](Yamaketzal.md) at the [Songseeker Temple](Songseeker_Temple.md) once the player has reached [Power](Power.md) 5. It can be used to enter instanced PvP arenas for players to practice, compete for Experience, Loot and Glory, without risking themself in reality.
+The _Chime of Conflict_ is an item obtainable by speaking to [Yamaketzal](Yamaketzal.md) at the [Songseeker Temple](Songseeker_Temple.md) once the player has reached [Power](Power.md) 5. It can be used to enter instanced PvP arenas for players to practice, compete for experience, loot, and glory, without risking the loss of lives.
 
-The Chime of Conflict is unusable while in [The Depths](The_Depths.md).
+The Chime of Conflict is unusable while in [The Depths](The_Depths.md), in danger, or inside of other [Dungeons](Dungeons.md).
 
-## PvP Arena
+## Gamemode Options
 
 Players using the Chime of Conflict tool will be prompted to select a gamemode:
 
@@ -35,35 +35,54 @@ Players using the Chime of Conflict tool will be prompted to select a gamemode:
         -   [Echoes of Bloodshed](Echoes_of_Bloodshed.md)
         -   [The Profane Cavern](The_Profane_Cavern.md)
         -   [New Kyrsan Arterial Rail](New_Kyrsan_Arterial_Rail.md)
--   **Chime Duos(2v2)** - A small area is created around the user to let 1 other user join their team before being transported to the matchmaking queue.
+
+-   **Chime Duos (2v2)** - A small area is created around the user to let up to 1 other user to join their team before being transported to the matchmaking queue.
     -   Arenas
         -   [The Unearthed Colosseum](The_Unearthed_Colosseum.md)
         -   [The Falcon's Hold](<The_Falcon's_Hold.md>)
         -   [The Glade of Strife](The_Glade_of_Strife.md)
--   **Chime Trios (3v3)** - A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.
+
+-   **Chime Trios (3v3)** - A small area is created around the user to let up to 2 other players to join their team before being transported to the matchmaking queue.
     -   Arenas
-        -   TBA
+        -   [The Unearthed Colosseum](The_Unearthed_Colosseum.md)
+        -   [The Falcon's Hold](<The_Falcon's_Hold.md>)
+        -   [The Glade of Strife](The_Glade_of_Strife.md)
+
 -   **Challenge: Gladiator** - The player uses a slider to select from 3-20 people to enter with. After which, the player must enter the User ID or Username of the player they wish to challenge.
     -   Arenas
         -   [Crucible of the Unbroken](Crucible_of_the_Unbroken.md)
 
-Afterwards, players will be waiting in the queue and be put in a match with their opponent. For matchmaking to start in 3v3s or 2v2s, all players need to be ready
+Afterwards, players will wait in the queue and be put in a match with their opponent. For matchmaking to start in 3v3s or 2v2s, all players need to ready up.
 
-## Rules
+## Rules & Mechanics
 
--   **Power range -** When selecting opponents, the game will match players who are at most 5 Power levels apart from one another.
--   **One round -** There is only a single round. Killing your opponent means winning the match and returning to the matchmaking lobby.
--   **Elimination** **\-** Dying removes the player from the round.(3v3 and 2v2 only)
--   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players. If a match takes too long (approximately 4 minutes) the entire arena will be covered in the "circle of death" meaning you take constant damage.
--   **Resonance limitation -** Resonances are disabled in 1v1 fights to prevent the possible scenario of being matched with an offensive resonance while having a support resonance.(limit removed in 2v2 and 3v3)
-    
+### Chime Solos
+
+-   **Power Range** - When selecting opponents, the game will match players who are at most 5 Power levels apart from one another.
+-   **To The Death** - There is only a single round. Killing your opponent means winning the match and returning to the matchmaking lobby.
+-   **Death Circle** - Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players. If a match takes too long (approximately 4 minutes) the entire arena will be covered in the "circle of death" meaning you take constant damage.
+-   **[Resonance](Resonance.md) Limitation** - Resonances are disabled in 1v1 fights to prevent the possible scenario of being matched with an offensive resonance while having a support resonance.
+
+### Chime Duos/Trios
+
+-   **Power Range** - When selecting opponents, the game will match players who are at most 5 Power levels apart from one another.
+-   **To The Death** - There is only a single round. Killing your opponent means winning the match and returning to the matchmaking lobby.
+-   **Death Circle** - Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players. If a match takes too long (approximately 4 minutes) the entire arena will be covered in the "circle of death" meaning you take constant damage.
+-   **Elimination** - Dying removes the player from the round.
+
+### Challenge: Gladiator
+
+-   **Health Packing** - HP packs scale depending on the amount of fighters in each team.
+-   **Ally Bound** - All paired teammates will be considered allies, you are now able to see the HP all allied players.
+-   **Roster Control** - Players are able to customize the roster of which players enter the fight.
+-   **Squad Coup** - All players in your squad will be filled into your team by default. Players can also find a match and join a queue for a team if playing solo.
+-   **Free-Cam** - Free-Cam is enabled and bound to \[ by default.
 
 ## Rewards
 
--   [EXP](Attributes.md)
--   One chest (1v1) or three chests (2v2, 3v3).
-    -   Chest rewards may get better as you accumulate a win streak, or when you fight a high-level player. (A player has noticed better rewards such as 3-star weapons after a 6+ win streak; anecdotal evidence and needs testing. Another player has attained a high-level weapon after victory against a high-level opponent. It was also said that enchants appear more commonly than normal means. (?))
--   Bell progression (heavily increased by the players current path) (around 25 wins for 1 stage of progression.)
+-   [Attributes](Attributes.md) EXP.
+-   One chest (1v1) or three chests (2v2/3v3).
+-   Resonance Progression (heavily increased by the players current path (around 25 wins for 1 stage of progression)).
 
 ## Rankings
 
@@ -137,4 +156,4 @@ In addition to Rank Titles, the top 250 players in Chime also get a special titl
 -   The "Godseeker" title refers to those who [seek out the Drowned Gods](Mendacia.md#dialogue)
 -   The lowest Elo possible is 500.
 -   You get a ranking once you are in the top 2500.
--   Originally, Chime of Conflict featured a skull system. Every player would have 3 skulls that reset back daily. Upon losing a match, you'd lose a skull, and upon winning a match, you'd gain a skull back. Losing all three would send players to the Depths. However, following popular demand and outcry from players and public figures such as the Youtuber Eclipse, the skull system was ultimately removed.
+-   Originally, Chime of Conflict featured a skull system. Every player would have 3 skulls that reset back daily. Upon losing a match, you'd lose a skull, and upon winning a match, you'd gain a skull back. Losing all three would send players to the Depths. However, following popular demand and outcry from players and content creators, the skull system was ultimately removed.

@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 234511
+revid: 235036
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -70,6 +70,10 @@ Shop
 <tr>
   <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div><a href="Seafood_Boil.md">Seafood Boil</a></div><div><i>Unlace your boots, and rest from the road!</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Century_Finger.md">Century Finger</a></div><div><i>Filling up the sausages with this and that!</i></div></td>
 </tr>
 </tbody>
 </table>

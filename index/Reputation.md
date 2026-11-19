@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 233993
+revid: 234995
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Reputation, Mechanics]
@@ -271,6 +271,13 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 [Etrean Royalists](Etrean_Royalists.md)
 
  | [Kazue](Kazue.md) | Near the bridge headed towards [The Sable Estate](The_Sable_Estate.md). |
+| 
+
+ | 
+
+[Etrean Royalists](Etrean_Royalists.md)
+
+ | [Junpei](Junpei.md) | Near the entrance of [The Valley of Heroes](The_Valley_of_Heroes.md). |
 | 
 
  | 

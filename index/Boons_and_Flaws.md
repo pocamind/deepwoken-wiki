@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 233640
+revid: 234974
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -324,7 +324,7 @@ Some boons are more worth taking than others:
     -   With this Boon, you'll spend less time and Notes making or aquiring food overall, which is great for extended adventures with limited supplies.
     -   To be more specific, **without** the Gourmet Boon, your passive health regeneration will stop working at 90% health if either the player's Stomach OR Thirst meters are below 20%. **With** the Boon, this limitation is **entirely** removed with this Boon, allowing the player to heal to full health via passive health regeneration, regardless of how full or empty their Stomach and Thirst meters are.
         -   Though, keep in mind that you will still take damage from Starvation.
-        -   The "passive health regeneration" in question, both with, and without the Boon includes alternative forms of healing that are counted as passive regen; being any form of healing that does not apply the green healing VFX on proc (e.g. [Campfire Pits](Campfire_Pit.md), Curse of the No-Life King enchantment, [Chorus of Souls](Talents.md#chorus-of-souls) Talent, etc.).
+        -   The "passive health regeneration" in question, both with, and without the Boon includes alternative forms of healing that are counted as passive regen; being any form of healing that does not apply the green healing VFX on proc (e.g. [Campfire Pits](Campfire_Pit.md), [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, [Chorus of Souls](Talents.md#chorus-of-souls) Talent, etc.).
     -   Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic.
         -   However, the "duration" of food buffs is tied to how much of the stomach bar they replace, which is dictated by the food item in particular. Consuming more items that provide the same buff will fill your stomach bar more with said buff, meaning that this Boon can be largely ignored, as simply consuming more of the same food will provide the same benefit of making your food buffs last longer.
         -   This Boon is exceptionally useful for hard to get or expensive food items such as the [boss](Bosses.md) foods.

@@ -1,8 +1,9 @@
 ---
 title: War Spoils
-revid: 234949
+revid: 234972
 source: https://deepwoken.fandom.com/wiki/War_Spoils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics, Currency]
 ---
 
 # War Spoils
@@ -18,9 +19,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Overview
 
-War Spoils are a type of currency related to specifically [Raudra, the Winged Lion](Raudra,_the_Winged_Lion.md).
+**War Spoils** are an account-wide type of currency related to specifically [Raudra, the Winged Lion](Raudra,_the_Winged_Lion.md).
 
-### **Obtaining**
+### Obtaining
 
 War Spoils are obtained by compleding Raudra's daily missions listed below. Each quest gives 3 War Spoils.
 
@@ -29,7 +30,7 @@ War Spoils are obtained by compleding Raudra's daily missions listed below. Each
 -   **Gladiator Match** - Win a round of [Gladiator Mode](Chime_of_Conflict.md).
 -   **Headhunter** - Complete 3 [Bounties](Bounty_Hunting.md) for any faction.
 
-### **Usage**
+### Usage
 
 You can exchange War Spoils for items and equipment at Raudra's item shop:
 
@@ -38,8 +39,3 @@ You can exchange War Spoils for items and equipment at Raudra's item shop:
 3.  [Champion's Helmet](<Champion's_Helmet.md>) \[10 War Spoils\] - An equipment
 4.  [Champion's Chestplate](<Champion's_Chestplate.md>) \[25 War Spoils\] - An equipment
 5.  [Hunter's Coat](<Hunter's_Coat.md>) \[25 War Spoils\] - An equipment
-
-## **Trivia**
-
--   War Spoils are the only account wide currency.
-    -   You cannot do Raudra's missions twice on the same account as a result

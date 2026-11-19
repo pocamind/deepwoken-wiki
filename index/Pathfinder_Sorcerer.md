@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 229427
+revid: 235030
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Starter Outfits, In progress with loot table reason, InProgressPages, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -14,14 +14,14 @@ notices:
 |---|---|
 | caption | Simple robes of a pathfinder. |
 | tier | Starter |
-| crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
+| crafting_req | x3 Cloth, x1 Fiber, x1 Iron |
 | price | 30 |
 | stat_req | 5 Intelligence |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
 | resistances | +5% Physical Armor , +10% Elemental Armor |
-| talents | Lowstride |
+| talents | Mantra Permanence |
 | obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Moon's Eyrie |
 | selling_price | 10 |
 | weight | 1 |
@@ -32,7 +32,7 @@ notices:
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md) and [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit costs 30 and requires three (3) [Cloth](Cloth.md), one (1) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
 
 This Outfit additionally requires the player to have at least 5 [Intelligence](Attributes.md#int) to be crafted.
 
@@ -40,7 +40,7 @@ This Outfit additionally requires the player to have at least 5 [Intelligence](A
 
 This Outfit has 1000 durability, grants +5% Physical resistance ResistancePhysical, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
-The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
+The [Mantra Permanence](Talents.md#mantra-permanence) Talent grants the ether cost of a Mantra back to the user if an enemy is knocked from it.
 
 ## Trivia
 

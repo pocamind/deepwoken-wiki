@@ -325,6 +325,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
+  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>

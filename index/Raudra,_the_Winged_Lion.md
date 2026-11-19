@@ -1,11 +1,9 @@
 ---
 title: "Raudra, the Winged Lion"
-revid: 234947
+revid: 234981
 source: https://deepwoken.fandom.com/wiki/Raudra%2C_the_Winged_Lion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits]
 ---
 
 # Raudra, the Winged Lion
@@ -94,6 +92,8 @@ Plundered Haul
 
 **Base Dialogue:**
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
@@ -116,9 +116,10 @@ Plundered Haul
 </tr>
 <tr>
   <td colspan="8">[End Dialogue]</td>
-  <td colspan="4">Hah. Originally, I came over here to tail a lead of sorts on the <a href="Glossary.md#the-starkindred-faith">Starkindred</a> Church. You could call it a vested interest. But to find out that the fabled art of <a href="Glossary.md#bloodrend">Bloodrending</a> could be within reach, after all... Now that <i>is</i> interesting.</td>
   <td colspan="4">You could say I'm tailing a lead of sorts. The <a href="Glossary.md#the-starkindred-faith">Starkindred</a> Church have spread their filth here, all the way on the other side of <a href="Glossary.md#lumen">Lumen</a>. I've a vested interest in finding out why.</td>
-  <td colspan="8">To the <a href="Glossary.md#legion">Legion</a>, <a href="Glossary.md#aspects">Aspect</a> matters not. What matters is worth, and I've proven mine. How about you?</td>
+  <td colspan="4">Hah. Originally, I came over here to tail a lead of sorts on the <a href="Glossary.md#the-starkindred-faith">Starkindred</a> Church. You could call it a vested interest. But to find out that the fabled art of <a href="Glossary.md#bloodrend">Bloodrending</a> could be within reach, after all... Now that <i>is</i> interesting.</td>
+  <td colspan="4">To the <a href="Glossary.md#legion">Legion</a>, <a href="Glossary.md#aspects">Aspect</a> matters not. What matters is worth, and I've proven mine. How about you?</td>
+  <td colspan="4">To the <a href="Glossary.md#legion">Legion</a>, <a href="Glossary.md#aspects">Aspect</a> matters not. What matters is worth, and I've proven mine. From what I hear, so have you.</td>
 </tr>
 <tr>
   <td colspan="8"></td>
@@ -144,6 +145,31 @@ Plundered Haul
   <td colspan="8"></td>
   <td colspan="8">[End Dialogue]</td>
   <td colspan="16"></td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="3">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="3">You don't look a warrior, and yet you have the guts to approach me. Commendable. Perhaps you'll prove yourself yet.</td>
+</tr>
+<tr>
+  <td>Is there another way to prove myself?</td>
+  <td>What are you doing out here?</td>
+  <td>Isn't it usually Khan who wear crowns like that?</td>
+</tr>
+<tr>
+  <td>You're eager. That's commendable. But war is not mastered by the reckless. Come back later.</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
