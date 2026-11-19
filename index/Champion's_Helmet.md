@@ -1,11 +1,11 @@
 ---
 title: "Champion's Helmet"
-revid: 235010
+revid: 235060
 source: https://deepwoken.fandom.com/wiki/Champion's_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Stub pages with reason, StubPages, Arms, Equipment]
+categories: [Equipment with Styles, Stub pages with reason, StubPages, Equipment, Head, Helmets]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Missing alt style images.Currently used images on the are only of the full set. Pages need images for Chestplate and Helmet individually."
+  - "This page is a stub. It requires further information, or has little to no information. Missing alt style images."
 ---
 
 # Champion's Helmet
@@ -17,7 +17,7 @@ notices:
 | selling price | 100 |
 | requirements | LVL 15 |
 | weight | 1 |
-| styles | Champion, Oath Keeper |
+| styles | Champion, Dark Knight, Oathkeeper, Paladin, Sentinel, Serpentine, Slayer |
 | innate stats | +5 Health , +1 Posture , +2 Legendary Pips |
 | innate talent | N/A |
 | set | Champion's Helmet, Champion's Chestplate |

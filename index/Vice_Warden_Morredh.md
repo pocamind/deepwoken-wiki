@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 229652
+revid: 235117
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -137,10 +137,10 @@ This dialogue is unlocked if the player meets the requirements to unlock [Chainw
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>You've impressed me, Chainwarden. What do you need?</td>
+  <td>You've impressed me. It would appear the remnants of the traitor's chains still cling to you... Should you wish it, you now have the right to swear the <a href="Glossary.md#oath">Oath</a>.</td>
 </tr>
 <tr>
-  <td>How might I further my skills?</td>
+  <td>[Take the Oath]</td>
 </tr>
 <tr>
   <td>Chain down those that oppose our justice. Should you find someone truly worthy of being ensnared by your chains, the Words will surely find you.</td>

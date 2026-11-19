@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 235042
+revid: 235099
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, Vendors]
@@ -117,7 +117,7 @@ This dialogue is specific to the Schnitzel at the [Etris Docks](Etris_Docks.md).
 
 **Cut Content:**
 
-Croissant was a Mantra Collector removed on the [July 7th, 2025](Version_History/2025.md#july-7th-2025) update. They fled the [Voidheart](Voidheart.md) after it had shrunk, fearing for their life due to [Eylis](Eylis,_the_Punished_Dreamer.md)'s bad mood.
+Croissant was a Mantra Collector removed on the [July 7th, 2025](Version_History/2025.md#july-7th-2025) update. They fled the [Voidheart](Voidheart.md) after it had shrunk, fearing for their life due to [Eylis](Eylis,_the_Punished_Dreamer.md)'s bad mood.[\[1\]](#cite-note-1)
 
 <table>
 <tbody>
@@ -153,3 +153,7 @@ Croissant was a Mantra Collector removed on the [July 7th, 2025](Version_History
         -   Cumberland is also the name of a region in England of Anglo-Saxon origin, who came from areas in Germany.
     -   Hotdog refers to a sausage in a bun.
         -   Hotdogs are associated with the condiments mustard and ketchup, which are bright yellow and deep red respectively. Hotdog has bright yellow skin and deep red hair.
+
+## References
+
+1.  [↑](#cite-ref-1)

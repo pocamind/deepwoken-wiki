@@ -1,6 +1,6 @@
 ---
 title: Mask of Phantoms
-revid: 234338
+revid: 235071
 source: https://deepwoken.fandom.com/wiki/Mask_of_Phantoms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Face, Masks, Hallowtide, Event Item]
@@ -17,6 +17,7 @@ notices:
 | selling price | 50 |
 | weight | 0.5 |
 | styles | Classic, Classic (Metal), Left, Left (Metal), Right, Right (Metal) |
+| set | Mask of Phantoms, Cloak of Phantoms |
 | bankable | Yes |
 | droppable | No |
 | enchantable | No |
@@ -24,11 +25,15 @@ notices:
 | obtainment | Goodie Bag |
 | description | Masquerade! Paper faces on parade! |
 
+Phantom Set
+
+Variants: [Cloak](Cloak_of_Phantoms.md)
+
 ## Description
 
 The Mask of Phantoms is an [Equipment](Equipment.md) item under the "Face" category, exclusive to the [Hallowtide](Hallowtide.md) event.
 
 ## Trivia
 
--   This mask is a reference to [The Phantom of the Opera](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera).
+-   This mask, along with the [Cloak of Phantoms](Cloak_of_Phantoms.md), are a reference to [The Phantom of the Opera](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera).
     -   The description "Masquerade! Paper faces on parade!" is a reference to the song "[Masquerade](https://www.youtube.com/watch?v=cE0ihjK8x14)" from [The Phantom of the Opera](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera).

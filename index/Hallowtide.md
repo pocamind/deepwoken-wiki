@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 233935
+revid: 235085
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -77,11 +77,9 @@ The fifth Hallowtide added...
 -   [Arachnid Instruments](Instruments.md) - A spider web themed musical instruments skin sold by [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md).
 
 -   **New World Events**: [The Harvestman](The_Harvestman.md) (Boss), [Prop Hunt](Prop_Hunt.md) (Minigame)
--   **New Weapons**: [Corvidirge Severants](Corvidirge_Severants.md) (Dagger/Twinblade), [Cursed Flames](Cursed_Flames.md) (Sword), [Silas's Cenotaph](<Silas's_Cenotaph.md>) (Greatsword),
--   **New Equipment**: [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md), [Hunter's Chapeau](<Hunter's_Chapeau.md>), [Wispfire Beacon](Wispfire_Beacon.md), [Pilferer's Trophy](<Pilferer's_Trophy.md>), [Eyes of the Moppet](Eyes_of_the_Moppet.md), [Stitched Effigy](Stitched_Effigy.md), [Coffin Earrings](Coffin_Earrings.md), [Pumpkin Earrings](Pumpkin_Earrings.md), [Crooked Witch Hat](Crooked_Witch_Hat.md), [Mask of Phantoms](Mask_of_Phantoms.md), [Wreath of the Ardenstar](Wreath_of_the_Ardenstar.md), [Thorned Blazer](Thorned_Blazer.md)
+-   **New Weapons**: [Corvidirge Severants](Corvidirge_Severants.md) (Dagger/Twinblade), [Cursed Flames](Cursed_Flames.md) (Sword), [Silas's Cenotaph](<Silas's_Cenotaph.md>) (Greatsword)
+-   **New Equipment**: [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md), [Hunter's Chapeau](<Hunter's_Chapeau.md>), [Wispfire Beacon](Wispfire_Beacon.md), [Pilferer's Trophy](<Pilferer's_Trophy.md>), [Eyes of the Moppet](Eyes_of_the_Moppet.md), [Stitched Effigy](Stitched_Effigy.md), [Coffin Earrings](Coffin_Earrings.md), [Pumpkin Earrings](Pumpkin_Earrings.md), [Crooked Witch Hat](Crooked_Witch_Hat.md), [Mask of Phantoms](Mask_of_Phantoms.md), [Wreath of the Ardenstar](Wreath_of_the_Ardenstar.md), [Thorned Blazer](Thorned_Blazer.md), [Harvestman's Halo](<Harvestman's_Halo.md>), [Harvestman's Cloak](<Harvestman's_Cloak.md>), [Cloak of Phantoms](Cloak_of_Phantoms.md)
 -   **New Schematics**: [Familiar Vagrant's Armor](<Familiar_Vagrant's_Armor.md>), [Familiar Sage's Armor](<Familiar_Sage's_Armor.md>), [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>), [Familiar Arachnid's Cloak](<Familiar_Arachnid's_Cloak.md>)
-
-|}
 
 ## Content
 
@@ -116,6 +114,7 @@ The Hallowtide update added a special new variant for each aspect in the game. T
 
 -   [Alina Spellhardt](Alina_Spellhardt.md)
 -   [Brasidas Spellhardt](Brasidas_Spellhardt.md)
+-   [Carmilla Spellhardt](Carmilla_Spellhardt.md)
 -   [Everis Spellhardt](Everis_Spellhardt.md)
 -   [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md)
@@ -125,12 +124,12 @@ The Hallowtide update added a special new variant for each aspect in the game. T
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Mikhail Spellhardt](Mikhail_Spellhardt.md)
 -   [Tundra Spellhardt](Tundra_Spellhardt.md)
--   [Carmilla Spellhardt](Carmilla_Spellhardt.md)
+
+  
 
 #### Other
 
 -   [Hallowtide Caller](Hallowtide_Caller.md)
--   [Suspicious Skeleton](Suspicious_Skeleton.md)
 
 ## Trivia
 

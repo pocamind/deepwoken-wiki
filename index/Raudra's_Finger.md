@@ -1,6 +1,6 @@
 ---
 title: "Raudra's Finger"
-revid: 234907
+revid: 235123
 source: https://deepwoken.fandom.com/wiki/Raudra's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -41,5 +41,6 @@ With each [Battle Royale](Battle_Royale.md) win the player will cosmetically gai
 
 ## Trivia
 
+-   It is unclear if these are literally the fingers of [Raudra, the Winged Lion](Raudra,_the_Winged_Lion.md).
 -   Despite what the description of item may lead you to believe, it actually activates at 4 combat tags and not just from being combat tagged.
 -   Originally known as "Shiva's Finger".

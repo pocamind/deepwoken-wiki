@@ -1125,7 +1125,7 @@
   },
   "3165": {
     "title": "Mantra Collector",
-    "lastrevid": 235042
+    "lastrevid": 235099
   },
   "3179": {
     "title": "Antiquarian",
@@ -1313,7 +1313,7 @@
   },
   "3422": {
     "title": "Blacksmith",
-    "lastrevid": 231751
+    "lastrevid": 235080
   },
   "3446": {
     "title": "Terminology (game)",
@@ -2185,7 +2185,7 @@
   },
   "5362": {
     "title": "Hallowtide",
-    "lastrevid": 233935
+    "lastrevid": 235085
   },
   "5383": {
     "title": "Enforcer's Hammer",
@@ -2325,7 +2325,7 @@
   },
   "5747": {
     "title": "Hivelord's Hubris",
-    "lastrevid": 234812
+    "lastrevid": 235110
   },
   "5749": {
     "title": "Misérables",
@@ -3681,7 +3681,7 @@
   },
   "9764": {
     "title": "Hallowtide Mask",
-    "lastrevid": 234357
+    "lastrevid": 235114
   },
   "9765": {
     "title": "Joy",
@@ -3717,7 +3717,7 @@
   },
   "9932": {
     "title": "Bloodforged Crown",
-    "lastrevid": 233238
+    "lastrevid": 235122
   },
   "9938": {
     "title": "Kaab",
@@ -4457,7 +4457,7 @@
   },
   "13645": {
     "title": "Vice Warden Morredh",
-    "lastrevid": 229652
+    "lastrevid": 235117
   },
   "13655": {
     "title": "Baby Spider",
@@ -5401,7 +5401,7 @@
   },
   "16213": {
     "title": "Glossary",
-    "lastrevid": 234749
+    "lastrevid": 235118
   },
   "16223": {
     "title": "Inquisitor's Duster/Gallery",
@@ -6713,7 +6713,7 @@
   },
   "19760": {
     "title": "Fabantou",
-    "lastrevid": 235036
+    "lastrevid": 235111
   },
   "19763": {
     "title": "Authority Ensign",
@@ -7749,7 +7749,7 @@
   },
   "21471": {
     "title": "Darksteel Cleaver",
-    "lastrevid": 234882
+    "lastrevid": 235076
   },
   "21473": {
     "title": "Sorcerer's Mantle",
@@ -8901,7 +8901,7 @@
   },
   "23260": {
     "title": "Raudra's Finger",
-    "lastrevid": 234907
+    "lastrevid": 235123
   },
   "23277": {
     "title": "The Cat's Bed",
@@ -9161,7 +9161,7 @@
   },
   "24239": {
     "title": "Knell, The Lunatic Resonator",
-    "lastrevid": 230473
+    "lastrevid": 235116
   },
   "24240": {
     "title": "Arkasid",
@@ -9929,7 +9929,7 @@
   },
   "26917": {
     "title": "Mask of Phantoms",
-    "lastrevid": 234338
+    "lastrevid": 235071
   },
   "26922": {
     "title": "Corvidirge Severants",
@@ -9941,7 +9941,7 @@
   },
   "26924": {
     "title": "Silas's Cenotaph",
-    "lastrevid": 234838
+    "lastrevid": 235075
   },
   "26926": {
     "title": "The Harvestman",
@@ -9965,7 +9965,7 @@
   },
   "26958": {
     "title": "Hunter's Chapeau",
-    "lastrevid": 233729
+    "lastrevid": 235073
   },
   "26959": {
     "title": "Crooked Witch Hat",
@@ -10061,15 +10061,15 @@
   },
   "27219": {
     "title": "Chell",
-    "lastrevid": 234004
+    "lastrevid": 235081
   },
   "27221": {
     "title": "Khambay",
-    "lastrevid": 233995
+    "lastrevid": 235086
   },
   "27233": {
     "title": "Chantage",
-    "lastrevid": 234342
+    "lastrevid": 235078
   },
   "27234": {
     "title": "Ichorgrass",
@@ -10089,15 +10089,15 @@
   },
   "27330": {
     "title": "Cloak of Phantoms",
-    "lastrevid": 234688
+    "lastrevid": 235074
   },
   "27333": {
     "title": "Champion's Helmet",
-    "lastrevid": 235010
+    "lastrevid": 235060
   },
   "27335": {
     "title": "Champion's Chestplate",
-    "lastrevid": 234951
+    "lastrevid": 235059
   },
   "27339": {
     "title": "Hunter's Coat",
@@ -10125,6 +10125,18 @@
   },
   "27380": {
     "title": "Century Finger",
-    "lastrevid": 235035
+    "lastrevid": 235113
+  },
+  "27388": {
+    "title": "Factions Tee",
+    "lastrevid": 235119
+  },
+  "27389": {
+    "title": "Hero's Blade Logo Hoodie",
+    "lastrevid": 235120
+  },
+  "27390": {
+    "title": "The Complete Map of the Eastern Luminant",
+    "lastrevid": 235121
   }
 }

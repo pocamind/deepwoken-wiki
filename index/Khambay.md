@@ -1,6 +1,6 @@
 ---
 title: Khambay
-revid: 233995
+revid: 235086
 source: https://deepwoken.fandom.com/wiki/Khambay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Reputation]
@@ -82,7 +82,7 @@ Khambay is located along the outskirts of the [Etrean Wilds](Etrean_Wilds.md) ne
 </tr>
 <tr>
   <td><i>*She pockets the money, pleased with herself.*</i> Excellent, excellent. Your misdeeds will be forgotten - be sure of it. They say time heals all wounds... But a bit of money doesn't hurt, eh?</td>
-  <td></td>
+  <td>Huh? I don't take pocket lint for payment, dummy. Why don't we talk about this when you're <i>not</i> dead broke?</td>
 </tr>
 <tr>
   <td>[End Dialogue], reputation with Etrea is set to neutral</td>
@@ -99,7 +99,7 @@ Khambay is located along the outskirts of the [Etrean Wilds](Etrean_Wilds.md) ne
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td></td>
+  <td><i>*She leans in, her smirk as sharp as a knife.*</i> Find yourself in trouble? Tsch. If you're able to get some of the heat off of you, perhaps I could help.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Chestplate"
-revid: 234951
+revid: 235059
 source: https://deepwoken.fandom.com/wiki/Champion's_Chestplate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Stub pages with reason, StubPages, Arms, Equipment]
@@ -17,7 +17,7 @@ notices:
 | selling price | 100 |
 | requirements | LVL 15 |
 | weight | 2 |
-| styles | Champion, Oath Keeper |
+| styles | Champion, Dark Knight, Oathkeeper, Paladin, Sentinel, Serpentine, Slayer |
 | innate stats | +10 Health , +2 Posture , +3 Legendary Pips |
 | innate talent | N/A |
 | set | Champion's Helmet, Champion's Chestplate |
@@ -25,7 +25,7 @@ notices:
 | bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
-| pass down | Unknown |
+| pass down | ? |
 | obtainment | Raudra, the Winged Lion |
 | description | ... |
 

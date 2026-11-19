@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 234882
+revid: 235076
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -60,3 +60,7 @@ The user shortly winds up before unleashing an upward slash, knocking down and p
 This attack has a scaled damage multiplier of 1.15x.
 
 The critical has a cooldown of **5 seconds**.
+
+## Trivia
+
+-   When wielding with one-hand, the player will drag the weapon across the floor.

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 234357
+revid: 235114
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -68,11 +68,11 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 
 #### Unique
 
--   "AAAAAAAAAAHHHHHHHHHHHahahahahaaaa!!! So Spooky! Spooky Spooky... Not spooky enough!" ([Knell](Knell,_The_Lunatic_Resonator.md))
 -   "...And to all - a good fright!" ([Brasidas Spellhardt](Brasidas_Spellhardt.md))
--   "A valiant effort... but no." ([Warden Jericho](Warden_Jericho.md))
+-   "...Happy Hallowtide." ([Warden Jericho](Warden_Jericho.md))
+-   "A valiant effort... but no." (Warden Jericho)
+-   "AAAAAAAAAAHHHHHHHHHHHahahahahaaaa!!! So Spooky! Spooky Spooky... Not spooky enough!" ([Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md))
 -   "Dress up as a salad and maybe then you'll get a reaction from me." ([The Meat Lord](The_Meat_Lord.md))
--   "...Happy Hallowtide." (Warden Jericho)
 -   "Hah! Brilliant." ([The Ferryman](The_Ferryman.md))
 -   "Hah, I've seen worse." ([High Inquisitor Merey](High_Inquisitor_Merey.md))
 -   "Hahah, good one! Hey, Interceptor, check this out!" ([Sentinel Augustus](Sentinel_Augustus.md))

@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 233238
+revid: 235122
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Ornaments, Equipment with Talents, "Equipment with
 
 ## Description
 
-The **Bloodforged Crown** is an [Equipment](Equipment.md) item under the "Head" category. It is found as an exceedingly rare (~0.5% per Chest) drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
+The **Bloodforged Crown** is an [Equipment](Equipment.md) item under the "Head" category. It is found as an exceedingly rare drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 The [Cauterized Wounds](Talents.md#cauterized-wounds) Talent reduces blood bar damage taken from taking damage. It does not affect blood _drain_ effects such as [Bloodrend](Bloodrend.md).
 

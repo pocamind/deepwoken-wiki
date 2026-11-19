@@ -1,11 +1,11 @@
 ---
 title: Cloak of Phantoms
-revid: 234688
+revid: 235074
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Phantoms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, In progress without reason, InProgressPages, Equipment, Torso, Hallowtide, Event Item]
+categories: [Equipment with Styles, Event Only Content, Equipment, Torso, Hallowtide, Event Item]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # Cloak of Phantoms
@@ -19,6 +19,7 @@ notices:
 | weight | 0.5 |
 | styles | Light, Sanguine |
 | innate stats | +1 Health |
+| set | Mask of Phantoms, Cloak of Phantoms |
 | bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | No |
@@ -26,10 +27,14 @@ notices:
 | obtainment | Goodie Bag |
 | description | It's over now, the music of the night! |
 
+Phantom Set
+
+Variants: [Mask](Mask_of_Phantoms.md)
+
 ## Description
 
-The Cloak of Phantoms is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Torso" category.
+The Cloak of Phantoms is an [Equipment](Equipment.md) item under the "Torso" category, exclusive to the [Hallowtide](Hallowtide.md) event.
 
-## Navigation
+## Trivia
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being obtained.
+-   This cloak, along with the [Mask of Phantoms](Mask_of_Phantoms.md), are a reference to [The Phantom of the Opera](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera).

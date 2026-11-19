@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 231751
+revid: 235080
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vendors, NPCs, Humanoids with Unobtainable Outfits]
@@ -203,50 +203,45 @@ This dialogue is unlocked if the player has any [Seasonal Medals](Seasonal_Medal
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin Dialogue</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="6">Oh? Did you need something?</td>
+  <td colspan="3">Oh? Did you need something?</td>
 </tr>
 <tr>
-  <td colspan="6">Can you recreate a Seasonal item for me? [Seasonal Medals]</td>
+  <td colspan="3">Can you recreate a Seasonal item for me? [Seasonal Medals]</td>
 </tr>
 <tr>
-  <td colspan="6">Of course. What're you interested in?</td>
+  <td colspan="3">Of course. What're you interested in?</td>
 </tr>
 <tr>
-  <td>Hallowtide '22</td>
-  <td>Hallowtide '23</td>
-  <td>Hallowtide '24</td>
-  <td>Hallowtide '25</td>
-  <td>Festival of a Billion Souls</td>
-  <td>Ordergeddon '25</td>
+  <td colspan="3">[Seasonal Medal]</td>
 </tr>
 <tr>
-  <td colspan="6">[Player selects a Seasonal Medal]</td>
+  <td colspan="3">[Player selects a Seasonal Medal]</td>
 </tr>
 <tr>
-  <td colspan="6">Ah, a fine event! If you can jog my memory, maybe I can recreate something?</td>
+  <td colspan="3">Ah, a fine event! If you can jog my memory, maybe I can recreate something?</td>
 </tr>
 <tr>
-  <td colspan="6">[Player selects an item from medal]</td>
+  <td colspan="3">[Player selects an item from medal]</td>
 </tr>
 <tr>
-  <td colspan="3">Sufficient Knowledge</td>
-  <td colspan="3">Insufficient Knowledge</td>
+  <td>[Sufficient Knowledge]</td>
+  <td>[Insufficient Knowledge]</td>
+  <td>[Event still ongoing]</td>
 </tr>
 <tr>
-  <td colspan="3">Ah ha! A fine memory indeed. You can have this as a thanks for the reminiscence.</td>
-  <td colspan="3">Ah. No, the memory's not quite there yet.</td>
+  <td>Ah ha! A fine memory indeed. You can have this as a thanks for the reminiscence.</td>
+  <td>Ah. No, the memory's not quite there yet.</td>
+  <td>Ah, a fine evenT this year, no? But I wouldn't quite call it a memory yet... <i>Perhaps once it's ended, you might be able to jog my memory?</i></td>
 </tr>
 <tr>
-  <td colspan="3">[End Dialogue], player obtains seasonal item</td>
-  <td colspan="3">[End Dialogue]</td>
+  <td>[End Dialogue], player obtains seasonal item</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Chell
-revid: 234004
+revid: 235081
 source: https://deepwoken.fandom.com/wiki/Chell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation]
@@ -82,7 +82,7 @@ Chell is located on a small island south from [Miner's Landing](<Miner's_Landing
 </tr>
 <tr>
   <td><i>*She pockets the money, pleased as cheese.*</i> Looks like our Kyrsmas bonuses just came in early. My comrades at the Union will play nice, for now... Thanks for playing! See you next time. <i>*She bows with a curtsy.*</i></td>
-  <td></td>
+  <td>Huh? Hey, you haven't got nearly enough in those pockets of yours! That's no fun. Come back when you've got some Notes to show, and then we can actually have a deal.</td>
 </tr>
 <tr>
   <td>[End Dialogue], reputation with The Ignition Union is set to neutral</td>
@@ -99,7 +99,7 @@ Chell is located on a small island south from [Miner's Landing](<Miner's_Landing
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td></td>
+  <td><i>*She grimaces at your approach.*</i> Running too hot with the law, huh? Maybe come back when you're in slightly <i>better graces</i> with the Union. I can't really help you out of the deep end, you see.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

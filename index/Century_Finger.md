@@ -1,6 +1,6 @@
 ---
 title: Century Finger
-revid: 235035
+revid: 235113
 source: https://deepwoken.fandom.com/wiki/Century_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Food]
@@ -22,9 +22,11 @@ categories: [Pathfinder Exclusive, Food]
 | desc | It cures. |
 | obtainment | Fabantou (5 ) |
 
+Variants: [Plain Boiled Brined Aged Fermented Hotdog](Plain_Boiled_Brined_Aged_Fermented_Hotdog.md)
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 
@@ -39,3 +41,4 @@ When consumed, it replenishes 15% Stomach, but depletes -35% Water.
 ## Trivia
 
 -   The Pathfinder counterpart to the [Plain Boiled Brined Aged Fermented Hotdog](Plain_Boiled_Brined_Aged_Fermented_Hotdog.md).
+-   The lyrics associated with the description of the Century Finger in Fabantou's menu, "Filling up the sausages with this and that!" come from a passage of Master of The House where Thénardier states that his sausages are made from horse kidneys and cat liver.

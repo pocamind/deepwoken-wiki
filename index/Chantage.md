@@ -1,6 +1,6 @@
 ---
 title: Chantage
-revid: 234342
+revid: 235078
 source: https://deepwoken.fandom.com/wiki/Chantage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation]
@@ -103,7 +103,7 @@ Chantage is located on a small boat along the shore of an island near [Songseeke
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td></td>
+  <td><i>*The man's gaze flicks between you and the goods on his boat.*</i> Look, buddy, you're notorious with the Company right now. I could help you with your reputation problem... But you gotta clean your name up on your own a bit, first.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 235036
+revid: 235111
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -207,4 +207,4 @@ Shop
 
 ## Trivia
 
--   His name originates from an alias used by Monsieur Thénardier in _[Les Misérables](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables)_. The phrases he says when purchasing drinks are lyrics taken from Master of the House, a song sung by Thénardier.
+-   His name originates from an alias used by Monsieur Thénardier in _[Les Misérables](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables)_. The phrases he says when purchasing drinks and food are lyrics taken from Master of the House, a song sung by Thénardier.
